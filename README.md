@@ -7,12 +7,12 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 ## 📂 Browse by Technology
 
 ### E-Commerce Platforms
-- [Companies using WooCommerce](./leads/companies-using-woocommerce) (973,637 companies)
-- [Companies using WordPress](./leads/companies-using-wordpress) (7,017,627 companies)
-- [Companies using Webflow](./leads/companies-using-webflow) (113,055 companies)
+- [Companies using WooCommerce](./leads/companies-using-woocommerce) (359,569 companies)
+- [Companies using WordPress](./leads/companies-using-wordpress) (2,723,180 companies)
+- [Companies using Webflow](./leads/companies-using-webflow) (52,555 companies)
 - [Companies using Adobe Commerce](./leads/companies-using-magento) (690,357 companies)
 - [Companies using Shopify Plus](./leads/companies-using-shopify-plus) (3,337 companies)
-- [Companies using BigCommerce](./leads/companies-using-bigcommerce) (5,719 companies)
+- [Companies using BigCommerce](./leads/companies-using-bigcommerce) (5,362 companies)
 
 ### CRM & Marketing Automation
 - [Companies using HubSpot](./leads/companies-using-hubspot) (114,251 companies)
