@@ -34,10 +34,10 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 
 ### Payments
 - [Companies using PayPal Business](./leads/companies-using-paypal-business) (95,874 companies)
-- [Companies using Square](./leads/companies-using-square) (7,538 companies)
+- [Companies using Square](./leads/companies-using-square) (30,548 companies)
 
 ### Other
-- [Companies using Statamic](./leads/companies-using-statamic) (5,136 companies)
+- [Companies using Statamic](./leads/companies-using-statamic) (2,258 companies)
 
 ## 🚀 Quick Start
 
