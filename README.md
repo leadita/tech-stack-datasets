@@ -25,12 +25,12 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Drift](./leads/companies-using-drift) (2,409 companies)
 
 ### Analytics
-- [Companies using Mixpanel](./leads/companies-using-mixpanel) (10,300 companies)
-- [Companies using Amplitude](./leads/companies-using-amplitude) (7,748 companies)
+- [Companies using Mixpanel](./leads/companies-using-mixpanel) (6,379 companies)
+- [Companies using Amplitude](./leads/companies-using-amplitude) (5,974 companies)
 
 ### Forms & Lead Capture
-- [Companies using Typeform](./leads/companies-using-typeform) (21,908 companies)
-- [Companies using Formstack](./leads/companies-using-formstack) (2,994 companies)
+- [Companies using Typeform](./leads/companies-using-typeform) (14,283 companies)
+- [Companies using Formstack](./leads/companies-using-formstack) (2,573 companies)
 
 ### Payments
 - [Companies using PayPal Business](./leads/companies-using-paypal-business) (95,874 companies)
