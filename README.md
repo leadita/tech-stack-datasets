@@ -133,7 +133,7 @@ This dataset is provided as-is for informational purposes. Use of contact inform
 
 ## 🤝 Contributing
 
-Found an issue with the data? Have suggestions? [Open an issue](https://github.com/your-username/live-technographic-dataset/issues)
+Found an issue with the data? Have suggestions? [Open an issue](https://github.com/your-username/tech-stack-datasets/issues)
 
 ## 📧 Support
 
