@@ -17,12 +17,12 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 ### CRM & Marketing Automation
 - [Companies using HubSpot](./leads/companies-using-hubspot) (114,251 companies)
 - [Companies using ActiveCampaign](./leads/companies-using-activecampaign) (10,457 companies)
-- [Companies using Marketo](./leads/companies-using-marketo) (1,221 companies)
+- [Companies using Marketo](./leads/companies-using-marketo) (1,218 companies)
 
 ### Customer Support
-- [Companies using Intercom](./leads/companies-using-intercom) (20,988 companies)
+- [Companies using Intercom](./leads/companies-using-intercom) (21,002 companies)
 - [Companies using Zendesk](./leads/companies-using-zendesk) (49,579 companies)
-- [Companies using Drift](./leads/companies-using-drift) (2,409 companies)
+- [Companies using Drift](./leads/companies-using-drift) (2,413 companies)
 
 ### Analytics
 - [Companies using Mixpanel](./leads/companies-using-mixpanel) (6,379 companies)
