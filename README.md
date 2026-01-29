@@ -11,7 +11,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using WordPress](./leads/companies-using-wordpress) (2,728,807 companies)
 - [Companies using Webflow](./leads/companies-using-webflow) (52,745 companies)
 - [Companies using Adobe Commerce](./leads/companies-using-magento) (690,357 companies)
-- [Companies using Shopify Plus](./leads/companies-using-shopify-plus) (2,228 companies)
+- [Companies using Shopify Plus](./leads/companies-using-shopify-plus) (2,232 companies)
 - [Companies using BigCommerce](./leads/companies-using-bigcommerce) (5,375 companies)
 
 ### CRM & Marketing Automation

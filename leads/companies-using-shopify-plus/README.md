@@ -1,6 +1,6 @@
 # Companies Using Shopify Plus (Live Dataset 2026)
 
-This folder contains an active list of 2,228 companies using **Shopify Plus**. 
+This folder contains an active list of 2,232 companies using **Shopify Plus**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 2,228
+- **Total Leads:** 2,232
 - **Verified:** Yes
-- **Last Updated:** 2026-01-28 11:00 UTC
+- **Last Updated:** 2026-01-29 11:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **2,228+** companies using Shopify Plus.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **2,232+** companies using Shopify Plus.
 
 [**⚡ Unlock the Full Shopify Plus List with Contact Details**](https://leadita.com/leads/companies-using-shopify-plus?utm_source=github_folder)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-01-28 11:00 UTC*
+*Last updated: 2026-01-29 11:00 UTC*
 *Data source: Leadita Technographic Intelligence*
