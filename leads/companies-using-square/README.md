@@ -1,6 +1,6 @@
 # Companies Using Square (Live Dataset 2026)
 
-This folder contains an active list of 30,600 companies using **Square**. 
+This folder contains an active list of 30,685 companies using **Square**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 30,600
+- **Total Leads:** 30,685
 - **Verified:** Yes
-- **Last Updated:** 2026-01-28 14:00 UTC
+- **Last Updated:** 2026-01-29 14:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **30,600+** companies using Square.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **30,685+** companies using Square.
 
 [**⚡ Unlock the Full Square List with Contact Details**](https://leadita.com/leads/companies-using-square?utm_source=github_folder)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-01-28 14:00 UTC*
+*Last updated: 2026-01-29 14:00 UTC*
 *Data source: Leadita Technographic Intelligence*
