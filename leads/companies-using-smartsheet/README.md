@@ -1,6 +1,6 @@
-# Companies Using Monday.com (Live Dataset 2026)
+# Companies Using Smartsheet (Live Dataset 2026)
 
-This folder contains an active list of 3,515 companies using **Monday.com**. 
+This folder contains an active list of 539 companies using **Smartsheet**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,16 +8,16 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 3,515
+- **Total Leads:** 539
 - **Verified:** Yes
 - **Last Updated:** 2026-01-30 21:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **3,515+** companies using Monday.com.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **539+** companies using Smartsheet.
 
-[**⚡ Unlock the Full Monday.com List with Contact Details**](https://leadita.com/leads/companies-using-monday.com?utm_source=github_folder)
+[**⚡ Unlock the Full Smartsheet List with Contact Details**](https://leadita.com/leads/companies-using-smartsheet?utm_source=github_folder)
 
 ## 📝 Sample Preview
 | Domain | Country | State | Tech Stack | Score |
@@ -34,11 +34,11 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 - **spending**: Estimated tech spending
 - **score**: Company quality score (0-100)
 - **service_type**: Business type (Agecny/SaaS/Ecommerce/etc)
-- **categories_uses**: Use cases for Monday.com
+- **categories_uses**: Use cases for Smartsheet
 - **crawled_at**: Last detection date
 
 ## 💡 Use Cases
-- **Sales Teams**: Find prospects using Monday.com
+- **Sales Teams**: Find prospects using Smartsheet
 - **Marketers**: Identify your competitors' tech stack
 - **Developers**: Understand market adoption trends
 - **Analysts**: Track technology adoption over time
