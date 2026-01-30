@@ -1,6 +1,6 @@
-# Companies Using Marketo (Live Dataset 2026)
+# Companies Using Mautic (Live Dataset 2026)
 
-This folder contains an active list of 1,219 companies using **Marketo**. 
+This folder contains an active list of 1,020 companies using **Mautic**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,16 +8,16 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 1,219
+- **Total Leads:** 1,020
 - **Verified:** Yes
 - **Last Updated:** 2026-01-30 19:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,219+** companies using Marketo.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,020+** companies using Mautic.
 
-[**⚡ Unlock the Full Marketo List with Contact Details**](https://leadita.com/leads/companies-using-marketo?utm_source=github_folder)
+[**⚡ Unlock the Full Mautic List with Contact Details**](https://leadita.com/leads/companies-using-mautic?utm_source=github_folder)
 
 ## 📝 Sample Preview
 | Domain | Country | State | Tech Stack | Score |
@@ -34,11 +34,11 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 - **spending**: Estimated tech spending
 - **score**: Company quality score (0-100)
 - **service_type**: Business type (Agecny/SaaS/Ecommerce/etc)
-- **categories_uses**: Use cases for Marketo
+- **categories_uses**: Use cases for Mautic
 - **crawled_at**: Last detection date
 
 ## 💡 Use Cases
-- **Sales Teams**: Find prospects using Marketo
+- **Sales Teams**: Find prospects using Mautic
 - **Marketers**: Identify your competitors' tech stack
 - **Developers**: Understand market adoption trends
 - **Analysts**: Track technology adoption over time
