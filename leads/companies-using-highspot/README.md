@@ -1,6 +1,6 @@
-# Companies Using PandaDoc (Live Dataset 2026)
+# Companies Using Highspot (Live Dataset 2026)
 
-This folder contains an active list of 105 companies using **PandaDoc**. 
+This folder contains an active list of 48 companies using **Highspot**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,16 +8,16 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 105
+- **Total Leads:** 48
 - **Verified:** Yes
 - **Last Updated:** 2026-01-30 21:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **105+** companies using PandaDoc.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **48+** companies using Highspot.
 
-[**⚡ Unlock the Full PandaDoc List with Contact Details**](https://leadita.com/leads/companies-using-pandadoc?utm_source=github_folder)
+[**⚡ Unlock the Full Highspot List with Contact Details**](https://leadita.com/leads/companies-using-highspot?utm_source=github_folder)
 
 ## 📝 Sample Preview
 | Domain | Country | State | Tech Stack | Score |
@@ -34,11 +34,11 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 - **spending**: Estimated tech spending
 - **score**: Company quality score (0-100)
 - **service_type**: Business type (Agecny/SaaS/Ecommerce/etc)
-- **categories_uses**: Use cases for PandaDoc
+- **categories_uses**: Use cases for Highspot
 - **crawled_at**: Last detection date
 
 ## 💡 Use Cases
-- **Sales Teams**: Find prospects using PandaDoc
+- **Sales Teams**: Find prospects using Highspot
 - **Marketers**: Identify your competitors' tech stack
 - **Developers**: Understand market adoption trends
 - **Analysts**: Track technology adoption over time
