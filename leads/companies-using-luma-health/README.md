@@ -1,6 +1,6 @@
-# Companies Using ZocDoc (Live Dataset 2026)
+# Companies Using Luma Health (Live Dataset 2026)
 
-This folder contains an active list of 2,321 companies using **ZocDoc**. 
+This folder contains an active list of 22 companies using **Luma Health**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,16 +8,16 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 2,321
+- **Total Leads:** 22
 - **Verified:** Yes
 - **Last Updated:** 2026-01-30 18:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **2,321+** companies using ZocDoc.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **22+** companies using Luma Health.
 
-[**⚡ Unlock the Full ZocDoc List with Contact Details**](https://leadita.com/leads/companies-using-zocdoc?utm_source=github_folder)
+[**⚡ Unlock the Full Luma Health List with Contact Details**](https://leadita.com/leads/companies-using-luma-health?utm_source=github_folder)
 
 ## 📝 Sample Preview
 | Domain | Country | State | Tech Stack | Score |
@@ -34,11 +34,11 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 - **spending**: Estimated tech spending
 - **score**: Company quality score (0-100)
 - **service_type**: Business type (Agecny/SaaS/Ecommerce/etc)
-- **categories_uses**: Use cases for ZocDoc
+- **categories_uses**: Use cases for Luma Health
 - **crawled_at**: Last detection date
 
 ## 💡 Use Cases
-- **Sales Teams**: Find prospects using ZocDoc
+- **Sales Teams**: Find prospects using Luma Health
 - **Marketers**: Identify your competitors' tech stack
 - **Developers**: Understand market adoption trends
 - **Analysts**: Track technology adoption over time
