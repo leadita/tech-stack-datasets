@@ -1,6 +1,6 @@
-# Companies Using Iterable (Live Dataset 2026)
+# Companies Using OneSignal (Live Dataset 2026)
 
-This folder contains an active list of 603 companies using **Iterable**. 
+This folder contains an active list of 5,070 companies using **OneSignal**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,16 +8,16 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 603
+- **Total Leads:** 5,070
 - **Verified:** Yes
 - **Last Updated:** 2026-01-30 21:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **603+** companies using Iterable.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **5,070+** companies using OneSignal.
 
-[**⚡ Unlock the Full Iterable List with Contact Details**](https://leadita.com/leads/companies-using-iterable?utm_source=github_folder)
+[**⚡ Unlock the Full OneSignal List with Contact Details**](https://leadita.com/leads/companies-using-onesignal?utm_source=github_folder)
 
 ## 📝 Sample Preview
 | Domain | Country | State | Tech Stack | Score |
@@ -34,11 +34,11 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 - **spending**: Estimated tech spending
 - **score**: Company quality score (0-100)
 - **service_type**: Business type (Agecny/SaaS/Ecommerce/etc)
-- **categories_uses**: Use cases for Iterable
+- **categories_uses**: Use cases for OneSignal
 - **crawled_at**: Last detection date
 
 ## 💡 Use Cases
-- **Sales Teams**: Find prospects using Iterable
+- **Sales Teams**: Find prospects using OneSignal
 - **Marketers**: Identify your competitors' tech stack
 - **Developers**: Understand market adoption trends
 - **Analysts**: Track technology adoption over time
