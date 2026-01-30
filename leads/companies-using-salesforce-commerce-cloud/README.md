@@ -1,6 +1,6 @@
-# Companies Using Magento (Live Dataset 2026)
+# Companies Using Salesforce Commerce Cloud (Live Dataset 2026)
 
-This folder contains an active list of 635,544 companies using **Magento**. 
+This folder contains an active list of 876 companies using **Salesforce Commerce Cloud**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,16 +8,16 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 635,544
+- **Total Leads:** 876
 - **Verified:** Yes
 - **Last Updated:** 2026-01-30 16:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **635,544+** companies using Magento.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **876+** companies using Salesforce Commerce Cloud.
 
-[**⚡ Unlock the Full Magento List with Contact Details**](https://leadita.com/leads/companies-using-magento?utm_source=github_folder)
+[**⚡ Unlock the Full Salesforce Commerce Cloud List with Contact Details**](https://leadita.com/leads/companies-using-salesforce-commerce-cloud?utm_source=github_folder)
 
 ## 📝 Sample Preview
 | Domain | Country | State | Tech Stack | Score |
@@ -34,11 +34,11 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 - **spending**: Estimated tech spending
 - **score**: Company quality score (0-100)
 - **service_type**: Business type (Agecny/SaaS/Ecommerce/etc)
-- **categories_uses**: Use cases for Magento
+- **categories_uses**: Use cases for Salesforce Commerce Cloud
 - **crawled_at**: Last detection date
 
 ## 💡 Use Cases
-- **Sales Teams**: Find prospects using Magento
+- **Sales Teams**: Find prospects using Salesforce Commerce Cloud
 - **Marketers**: Identify your competitors' tech stack
 - **Developers**: Understand market adoption trends
 - **Analysts**: Track technology adoption over time
