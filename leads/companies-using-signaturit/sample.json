@@ -1,0 +1,52 @@
+[
+  {
+    "domain": "sqaas.io",
+    "title": "SqaaS - We help you bridge the gap between Business & Tech",
+    "business_name": "",
+    "country": "BRA",
+    "seo_score": 77,
+    "tech_spend": 173232,
+    "crawled_at": "2025-12-21T04:07:32.737965747Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Calendly",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Nginx",
+      "QUIC",
+      "Salesforce Hosted",
+      "Signaturit",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "signaturitinternational.com",
+    "title": "Signaturit International",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 3643,
+    "crawled_at": "2025-11-09T14:17:38.884205203Z",
+    "technologies": [
+      "Apache",
+      "Express",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "PWA",
+      "Signaturit",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  }
+]

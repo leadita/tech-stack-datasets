@@ -1,0 +1,3 @@
+domain,title,business_name,country,seo_score,tech_spend,crawled_at,technologies
+sqaas.io,SqaaS - We help you bridge the gap between Business & Tech,,BRA,77,173232,2025-12-21T04:07:32.737965747Z,"['AWS WAF Challenge', 'Alternate Protocol', 'Calendly', 'Cisco/Arrowpoint Content Service Switch', 'Content Delivery Network', 'GitHub Hosting', 'Google', 'Google Cloud DNS', 'Google Font API', 'Nginx', 'QUIC', 'Salesforce Hosted', 'Signaturit', 'Tailwind CSS', 'UTF-8', 'shadcn ui']"
+signaturitinternational.com,Signaturit International,,,60,3643,2025-11-09T14:17:38.884205203Z,"['Apache', 'Express', 'GoDaddy', 'Google', 'Google Cloud DNS', 'Google Font API', 'Google My Business', 'PWA', 'Signaturit', 'UTF-8', 'Wangsu', 'Website Tonight']"
