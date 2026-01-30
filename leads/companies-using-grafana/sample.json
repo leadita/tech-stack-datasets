@@ -1,0 +1,127 @@
+[
+  {
+    "domain": "solaranzeige.7cw.de",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 1200,
+    "crawled_at": "2026-01-26T11:22:43.439284593Z",
+    "technologies": [
+      "Barchart",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Grafana",
+      "OpenResty",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "sar-analytic.in",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 1200,
+    "crawled_at": "2026-01-24T07:41:45.321427502Z",
+    "technologies": [
+      "Apache",
+      "Barchart",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Forms",
+      "Google My Business",
+      "Grafana",
+      "Nginx",
+      "UTF-8",
+      "Ubuntu"
+    ]
+  },
+  {
+    "domain": "doprava.digital",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 11203,
+    "crawled_at": "2025-12-30T06:04:38.332101161Z",
+    "technologies": [
+      "Apache",
+      "Barchart",
+      "Contento",
+      "Express",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Grafana",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "elm-monitoring.app",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 11398,
+    "crawled_at": "2025-12-29T17:34:38.31873147Z",
+    "technologies": [
+      "Apache",
+      "Barchart",
+      "Contento",
+      "DAV",
+      "Express",
+      "GitHub Hosting",
+      "Grafana",
+      "No-Q",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "vikshep.com",
+    "title": "Arya Shakti",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 32899,
+    "crawled_at": "2025-11-12T12:28:47.830657816Z",
+    "technologies": [
+      "AAPT",
+      "Apache",
+      "DAV",
+      "Financial Services Guide",
+      "GitHub Hosting",
+      "Google My Business",
+      "Grafana",
+      "KVH",
+      "Ntent",
+      "On The Map",
+      "Paessler",
+      "RawGit",
+      "SMC",
+      "Subversion",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "stage-rheo.com",
+    "title": "Rheo",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 1260,
+    "crawled_at": "2025-11-04T19:08:38.893414737Z",
+    "technologies": [
+      "Amazon",
+      "Apache",
+      "Barchart",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Grafana",
+      "UTF-8"
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+domain,title,business_name,country,seo_score,tech_spend,crawled_at,technologies
+solaranzeige.7cw.de,Grafana,,,30,1200,2026-01-26T11:22:43.439284593Z,"['Barchart', 'Express', 'GZIP Module', 'GitHub Hosting', 'Google My Business', 'Grafana', 'OpenResty', 'UTF-8']"
+sar-analytic.in,Grafana,,,40,1200,2026-01-24T07:41:45.321427502Z,"['Apache', 'Barchart', 'Express', 'GZIP Module', 'GitHub Hosting', 'Google Forms', 'Google My Business', 'Grafana', 'Nginx', 'UTF-8', 'Ubuntu']"
+doprava.digital,Grafana,,,30,11203,2025-12-30T06:04:38.332101161Z,"['Apache', 'Barchart', 'Contento', 'Express', 'GitHub Hosting', 'Google Cloud DNS', 'Grafana', 'UTF-8']"
+elm-monitoring.app,Grafana,,,30,11398,2025-12-29T17:34:38.31873147Z,"['Apache', 'Barchart', 'Contento', 'DAV', 'Express', 'GitHub Hosting', 'Grafana', 'No-Q', 'UTF-8']"
+vikshep.com,Arya Shakti,,,40,32899,2025-11-12T12:28:47.830657816Z,"['AAPT', 'Apache', 'DAV', 'Financial Services Guide', 'GitHub Hosting', 'Google My Business', 'Grafana', 'KVH', 'Ntent', 'On The Map', 'Paessler', 'RawGit', 'SMC', 'Subversion', 'UTF-8']"
+stage-rheo.com,Rheo,,,30,1260,2025-11-04T19:08:38.893414737Z,"['Amazon', 'Apache', 'Barchart', 'GitHub Hosting', 'Google Analytics', 'Google Tag Manager', 'Grafana', 'UTF-8']"
