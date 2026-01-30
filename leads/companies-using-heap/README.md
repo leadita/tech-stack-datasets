@@ -1,6 +1,6 @@
-# Companies Using Amplitude (Live Dataset 2026)
+# Companies Using Heap (Live Dataset 2026)
 
-This folder contains an active list of 6,076 companies using **Amplitude**. 
+This folder contains an active list of 2,015 companies using **Heap**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,16 +8,16 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 6,076
+- **Total Leads:** 2,015
 - **Verified:** Yes
 - **Last Updated:** 2026-01-30 11:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **6,076+** companies using Amplitude.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **2,015+** companies using Heap.
 
-[**⚡ Unlock the Full Amplitude List with Contact Details**](https://leadita.com/leads/companies-using-amplitude?utm_source=github_folder)
+[**⚡ Unlock the Full Heap List with Contact Details**](https://leadita.com/leads/companies-using-heap?utm_source=github_folder)
 
 ## 📝 Sample Preview
 | Domain | Country | State | Tech Stack | Score |
@@ -34,11 +34,11 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 - **spending**: Estimated tech spending
 - **score**: Company quality score (0-100)
 - **service_type**: Business type (Agecny/SaaS/Ecommerce/etc)
-- **categories_uses**: Use cases for Amplitude
+- **categories_uses**: Use cases for Heap
 - **crawled_at**: Last detection date
 
 ## 💡 Use Cases
-- **Sales Teams**: Find prospects using Amplitude
+- **Sales Teams**: Find prospects using Heap
 - **Marketers**: Identify your competitors' tech stack
 - **Developers**: Understand market adoption trends
 - **Analysts**: Track technology adoption over time
