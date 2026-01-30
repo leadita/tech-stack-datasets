@@ -1,6 +1,6 @@
-# Companies Using Stripe (Live Dataset 2026)
+# Companies Using Authorize.net (Live Dataset 2026)
 
-This folder contains an active list of 67,545 companies using **Stripe**. 
+This folder contains an active list of 120,586 companies using **Authorize.net**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,16 +8,16 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 67,545
+- **Total Leads:** 120,586
 - **Verified:** Yes
 - **Last Updated:** 2026-01-30 10:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **67,545+** companies using Stripe.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **120,586+** companies using Authorize.net.
 
-[**⚡ Unlock the Full Stripe List with Contact Details**](https://leadita.com/leads/companies-using-stripe?utm_source=github_folder)
+[**⚡ Unlock the Full Authorize.net List with Contact Details**](https://leadita.com/leads/companies-using-authorize.net?utm_source=github_folder)
 
 ## 📝 Sample Preview
 | Domain | Country | State | Tech Stack | Score |
@@ -34,11 +34,11 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 - **spending**: Estimated tech spending
 - **score**: Company quality score (0-100)
 - **service_type**: Business type (Agecny/SaaS/Ecommerce/etc)
-- **categories_uses**: Use cases for Stripe
+- **categories_uses**: Use cases for Authorize.net
 - **crawled_at**: Last detection date
 
 ## 💡 Use Cases
-- **Sales Teams**: Find prospects using Stripe
+- **Sales Teams**: Find prospects using Authorize.net
 - **Marketers**: Identify your competitors' tech stack
 - **Developers**: Understand market adoption trends
 - **Analysts**: Track technology adoption over time
