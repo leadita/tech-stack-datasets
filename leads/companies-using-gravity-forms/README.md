@@ -1,6 +1,6 @@
-# Companies Using Formstack (Live Dataset 2026)
+# Companies Using Gravity Forms (Live Dataset 2026)
 
-This folder contains an active list of 2,586 companies using **Formstack**. 
+This folder contains an active list of 181,136 companies using **Gravity Forms**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,16 +8,16 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 2,586
+- **Total Leads:** 181,136
 - **Verified:** Yes
 - **Last Updated:** 2026-01-30 17:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **2,586+** companies using Formstack.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **181,136+** companies using Gravity Forms.
 
-[**⚡ Unlock the Full Formstack List with Contact Details**](https://leadita.com/leads/companies-using-formstack?utm_source=github_folder)
+[**⚡ Unlock the Full Gravity Forms List with Contact Details**](https://leadita.com/leads/companies-using-gravity-forms?utm_source=github_folder)
 
 ## 📝 Sample Preview
 | Domain | Country | State | Tech Stack | Score |
@@ -34,11 +34,11 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 - **spending**: Estimated tech spending
 - **score**: Company quality score (0-100)
 - **service_type**: Business type (Agecny/SaaS/Ecommerce/etc)
-- **categories_uses**: Use cases for Formstack
+- **categories_uses**: Use cases for Gravity Forms
 - **crawled_at**: Last detection date
 
 ## 💡 Use Cases
-- **Sales Teams**: Find prospects using Formstack
+- **Sales Teams**: Find prospects using Gravity Forms
 - **Marketers**: Identify your competitors' tech stack
 - **Developers**: Understand market adoption trends
 - **Analysts**: Track technology adoption over time
