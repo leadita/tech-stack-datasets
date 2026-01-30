@@ -1,6 +1,6 @@
-# Companies Using Intercom (Live Dataset 2026)
+# Companies Using Yellow Messenger (Live Dataset 2026)
 
-This folder contains an active list of 21,009 companies using **Intercom**. 
+This folder contains an active list of 106 companies using **Yellow Messenger**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,16 +8,16 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 21,009
+- **Total Leads:** 106
 - **Verified:** Yes
 - **Last Updated:** 2026-01-30 11:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **21,009+** companies using Intercom.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **106+** companies using Yellow Messenger.
 
-[**⚡ Unlock the Full Intercom List with Contact Details**](https://leadita.com/leads/companies-using-intercom?utm_source=github_folder)
+[**⚡ Unlock the Full Yellow Messenger List with Contact Details**](https://leadita.com/leads/companies-using-yellow-messenger?utm_source=github_folder)
 
 ## 📝 Sample Preview
 | Domain | Country | State | Tech Stack | Score |
@@ -34,11 +34,11 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 - **spending**: Estimated tech spending
 - **score**: Company quality score (0-100)
 - **service_type**: Business type (Agecny/SaaS/Ecommerce/etc)
-- **categories_uses**: Use cases for Intercom
+- **categories_uses**: Use cases for Yellow Messenger
 - **crawled_at**: Last detection date
 
 ## 💡 Use Cases
-- **Sales Teams**: Find prospects using Intercom
+- **Sales Teams**: Find prospects using Yellow Messenger
 - **Marketers**: Identify your competitors' tech stack
 - **Developers**: Understand market adoption trends
 - **Analysts**: Track technology adoption over time
