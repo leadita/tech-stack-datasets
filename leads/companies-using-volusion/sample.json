@@ -1,5 +1,37 @@
 [
   {
+    "domain": "shawsstructuresunlimited.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 10695,
+    "crawled_at": "2026-01-30T20:01:32.358955136Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudinary",
+      "Daily Deals",
+      "ElementUI",
+      "Fireblade",
+      "GoGrid",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Tag Manager",
+      "Gravity",
+      "Instagram Follow Button",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "Volusion Live Chat"
+    ]
+  },
+  {
     "domain": "minifinaldrives.com",
     "title": "Mini Excavator Final Drive Motors & Parts | Travel Motors",
     "business_name": "Mini Final Drives",
@@ -3006,39 +3038,6 @@
       "Tailwind CSS",
       "Twitter Ads",
       "Volusion"
-    ]
-  },
-  {
-    "domain": "shawsstructuresunlimited.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 10695,
-    "crawled_at": "2025-10-21T11:30:32.089880763Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudinary",
-      "Daily Deals",
-      "ElementUI",
-      "Fireblade",
-      "GZIP Module",
-      "GoGrid",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Tag Manager",
-      "Gravity",
-      "Instagram Follow Button",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "Volusion Live Chat"
     ]
   }
 ]
