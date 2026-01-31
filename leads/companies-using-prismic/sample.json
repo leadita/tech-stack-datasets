@@ -1,5 +1,175 @@
 [
   {
+    "domain": "automate.london",
+    "title": "Smart Home Automation Systems | Loxone",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 1408,
+    "crawled_at": "2026-01-31T16:01:48.874809532Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Gatsby Image CDN",
+      "Gatsby JS",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Investor Relations",
+      "Netlify",
+      "Prismic",
+      "Subversion",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "sendsmartpricing.com",
+    "title": "Smartness | Revolutionize your hotel and vacation rental management",
+    "business_name": "Smartness",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 1956,
+    "crawled_at": "2026-01-31T15:40:48.882994243Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Financial Services Guide",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Little Hotelier",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Nuxt.js",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "lang4u.eu",
+    "title": "Study foreign language ONLINE | Lang4U",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 75778,
+    "crawled_at": "2026-01-31T12:07:48.871949451Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Financial Services Guide",
+      "Gatsby JS",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "KVH",
+      "Netlify",
+      "No-Q",
+      "Prismic",
+      "SMC",
+      "Styled Components",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services"
+    ]
+  },
+  {
+    "domain": "pensacolawinefestival.com",
+    "title": "Wine on The Water",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-01-31T12:01:48.886039413Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Headless UI",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "hbi.co.nz",
+    "title": "ICIB",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 7856,
+    "crawled_at": "2026-01-31T11:52:23.092075597Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adult Content",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "DAV",
+      "Fireblade",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Next.js",
+      "Perl",
+      "Pleroma",
+      "Prismic",
+      "QUIC",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "goudplatina.com",
+    "title": "Goud, Platina & Diamant",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 420,
+    "crawled_at": "2026-01-31T07:14:17.78035109Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Next.js",
+      "Pleroma",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "jordanthiervoz.com",
+    "title": "Jordan Thiervoz - Freelance Web Developer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 156,
+    "crawled_at": "2026-01-30T22:10:48.882258156Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "IcoMoon",
+      "Netlify",
+      "Nuxt.js",
+      "Prismic",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "saludafest.nl",
     "title": "Saluda Festival - Amsterdams Premium Boozy Brunch Festival",
     "business_name": "",
@@ -130,32 +300,6 @@
     ]
   },
   {
-    "domain": "supersmartpricing.com",
-    "title": "Smartness | Revolutionize your hotel and vacation rental management",
-    "business_name": "Smartness",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 1956,
-    "crawled_at": "2026-01-30T12:10:48.880570254Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Little Hotelier",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Nuxt.js",
-      "Prismic",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "giuliafaraon.com",
     "title": "Giulia Faraon",
     "business_name": "",
@@ -257,36 +401,6 @@
       "Prismic",
       "Python",
       "Twitter Ads",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "paramountinsurance.nz",
-    "title": "ICIB",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 7856,
-    "crawled_at": "2026-01-29T12:49:48.876410978Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adult Content",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DAV",
-      "Fireblade",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "Prismic",
-      "QUIC",
-      "Tailwind CSS",
       "UTF-8",
       "Vercel"
     ]
@@ -6522,27 +6636,6 @@
     ]
   },
   {
-    "domain": "goudplatinadiamant.com",
-    "title": "Goud, Platina & Diamant",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 72,
-    "tech_spend": 25420,
-    "crawled_at": "2025-12-17T12:55:32.765121461Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "K2F",
-      "Next.js",
-      "Pleroma",
-      "Prismic",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "nelemansadvocaten.nl",
     "title": "Nelemans Advocaten",
     "business_name": "",
@@ -10205,36 +10298,6 @@
     ]
   },
   {
-    "domain": "givesacredheart.org",
-    "title": "Home | Sacred Heart Foundation",
-    "business_name": "",
-    "country": "SYC",
-    "seo_score": 72,
-    "tech_spend": 21420,
-    "crawled_at": "2025-11-23T17:27:19.445114584Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adult Content",
-      "Classy",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Headless UI",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "Investor Relations",
-      "Next.js",
-      "Pleroma",
-      "Prismic",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "mattrawworksinclay.com",
     "title": "Matthew Raw • Works in Clay",
     "business_name": "",
@@ -10256,26 +10319,6 @@
       "UTF-8",
       "University or College",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "jordanthiervoz.com",
-    "title": "Jordan Thiervoz - Freelance Web Developer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 156,
-    "crawled_at": "2025-11-23T13:13:19.142333737Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "IcoMoon",
-      "Netlify",
-      "Nuxt.js",
-      "Prismic",
-      "Twitter Ads",
-      "UTF-8"
     ]
   },
   {
@@ -13529,62 +13572,6 @@
       "Prismic",
       "Radix UI",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "pixelfields.co.uk",
-    "title": "Web Designers: Pixel Fields Agency",
-    "business_name": "Pixel Fields",
-    "country": "NZL",
-    "seo_score": 82,
-    "tech_spend": 780,
-    "crawled_at": "2025-11-11T09:53:38.965961653Z",
-    "technologies": [
-      "Amazon S3 CDN",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "InitiativeS",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "Prismic",
-      "QUIC",
-      "Storyblocks",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "ndstyres.com",
-    "title": "NDS Tyres | Mobile Tyre Fitting",
-    "business_name": "NDS Tyres | Mobile Tyre Fitting",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 17860,
-    "crawled_at": "2025-11-11T09:47:38.884211352Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Express",
-      "Fireblade",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "Prismic",
-      "Thank You",
-      "UTF-8",
-      "Vercel",
-      "eLand"
     ]
   }
 ]
