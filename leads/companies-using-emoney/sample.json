@@ -1,5 +1,38 @@
 [
   {
+    "domain": "mcculleycompanies.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 42358,
+    "crawled_at": "2026-01-31T00:39:30.393219879Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "Essential Addons for Elementor",
+      "Fireblade",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Hello Elementor",
+      "NFOrce Internet",
+      "Paycor",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "WP Engine",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "eMoney",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "kerneelsrossouw.co.za",
     "title": "Kerneels Rossouw | attooh! Your Wealth Solution",
     "business_name": "",
@@ -3849,42 +3882,6 @@
       "Vimeo",
       "Vimeo CDN",
       "eMoney"
-    ]
-  },
-  {
-    "domain": "mcculleycompanies.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 43258,
-    "crawled_at": "2025-10-21T12:46:43.992895169Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Essential Addons for Elementor",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Hello Elementor",
-      "Paycor",
-      "Table Addons for Elementor",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "WP Engine",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "eMoney",
-      "jQuery"
     ]
   }
 ]
