@@ -1,6 +1,6 @@
 # Companies Using Salesforce (Live Dataset 2026)
 
-This folder contains an active list of 12,768 companies using **Salesforce**. 
+This folder contains an active list of 12,811 companies using **Salesforce**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 12,768
+- **Total Leads:** 12,811
 - **Verified:** Yes
-- **Last Updated:** 2026-01-30 14:45 UTC
+- **Last Updated:** 2026-01-31 14:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **12,768+** companies using Salesforce.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **12,811+** companies using Salesforce.
 
 [**⚡ Unlock the Full Salesforce List with Contact Details**](https://leadita.com/leads/companies-using-salesforce?utm_source=github_folder)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-01-30 14:45 UTC*
+*Last updated: 2026-01-31 14:45 UTC*
 *Data source: Leadita Technographic Intelligence*
