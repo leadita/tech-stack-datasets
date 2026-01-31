@@ -1,5 +1,26 @@
 [
   {
+    "domain": "useagenceblackboard.com",
+    "title": "blackboard : spécialiste en communication. Relations Presse et Photographie.",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 72,
+    "tech_spend": 25508,
+    "crawled_at": "2026-01-31T14:18:53.404918126Z",
+    "technologies": [
+      "Blackboard Open LMS",
+      "Envoy",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "IcoMoon",
+      "PHP",
+      "Twitter Ads"
+    ]
+  },
+  {
     "domain": "easby.biz",
     "title": "Outsourced Finance and Accounting Services | ROSE",
     "business_name": "",
@@ -1409,27 +1430,6 @@
     ]
   },
   {
-    "domain": "agenceblackboard.com",
-    "title": "blackboard : spécialiste en communication. Relations Presse et Photographie.",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 72,
-    "tech_spend": 25508,
-    "crawled_at": "2025-11-24T18:39:19.447052973Z",
-    "technologies": [
-      "Blackboard Open LMS",
-      "Envoy",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "IcoMoon",
-      "PHP",
-      "Twitter Ads"
-    ]
-  },
-  {
     "domain": "fwsop2026.com",
     "title": "FWSOP Class of 2026",
     "business_name": "",
@@ -2753,28 +2753,6 @@
       "WordPress",
       "YouTube",
       "Zoom Video Conferencing"
-    ]
-  },
-  {
-    "domain": "jeremykatlic.dev",
-    "title": "Jeremy Katlic | Developer",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 40040,
-    "crawled_at": "2025-10-21T11:30:07.438131565Z",
-    "technologies": [
-      "Apache",
-      "Blackboard Open LMS",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Python",
-      "SchoolWires Centricity",
-      "UTF-8"
     ]
   }
 ]

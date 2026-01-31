@@ -1,6 +1,6 @@
 # Companies Using Blackboard Open LMS (Live Dataset 2026)
 
-This folder contains an active list of 115 companies using **Blackboard Open LMS**. 
+This folder contains an active list of 114 companies using **Blackboard Open LMS**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 115
+- **Total Leads:** 114
 - **Verified:** Yes
-- **Last Updated:** 2026-01-30 17:00 UTC
+- **Last Updated:** 2026-01-31 17:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **115+** companies using Blackboard Open LMS.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **114+** companies using Blackboard Open LMS.
 
 [**⚡ Unlock the Full Blackboard Open LMS List with Contact Details**](https://leadita.com/leads/companies-using-blackboard-open-lms?utm_source=github_folder)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-01-30 17:00 UTC*
+*Last updated: 2026-01-31 17:00 UTC*
 *Data source: Leadita Technographic Intelligence*
