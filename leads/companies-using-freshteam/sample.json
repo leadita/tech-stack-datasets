@@ -1,5 +1,28 @@
 [
   {
+    "domain": "moonlabor.com",
+    "title": "Moonlabor",
+    "business_name": "",
+    "country": "PAK",
+    "seo_score": 82,
+    "tech_spend": 9142,
+    "crawled_at": "2026-01-30T22:25:18.057390962Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "Freshteam",
+      "GZIP Module",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vector Internet Services"
+    ]
+  },
+  {
     "domain": "globalexecutive.uk",
     "title": "Serious about your career? Professional & Trusted | Global Executive",
     "business_name": "",
@@ -3120,29 +3143,6 @@
       "YouTube",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "moonlabor.com",
-    "title": "Moonlabor",
-    "business_name": "",
-    "country": "PAK",
-    "seo_score": 82,
-    "tech_spend": 9142,
-    "crawled_at": "2025-10-21T12:12:31.882441309Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "Freshteam",
-      "GZIP Module",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vector Internet Services"
     ]
   }
 ]
