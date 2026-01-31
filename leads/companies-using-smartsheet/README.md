@@ -1,6 +1,6 @@
 # Companies Using Smartsheet (Live Dataset 2026)
 
-This folder contains an active list of 539 companies using **Smartsheet**. 
+This folder contains an active list of 541 companies using **Smartsheet**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 539
+- **Total Leads:** 541
 - **Verified:** Yes
-- **Last Updated:** 2026-01-30 21:00 UTC
+- **Last Updated:** 2026-01-31 21:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **539+** companies using Smartsheet.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **541+** companies using Smartsheet.
 
 [**⚡ Unlock the Full Smartsheet List with Contact Details**](https://leadita.com/leads/companies-using-smartsheet?utm_source=github_folder)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-01-30 21:00 UTC*
+*Last updated: 2026-01-31 21:00 UTC*
 *Data source: Leadita Technographic Intelligence*
