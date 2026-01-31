@@ -1,5 +1,25 @@
 [
   {
+    "domain": "trophor.net",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 7260,
+    "crawled_at": "2026-01-31T13:29:45.107347534Z",
+    "technologies": [
+      "Barchart",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Grafana",
+      "Nginx",
+      "On The Map",
+      "UTF-8",
+      "Yandex Hosting"
+    ]
+  },
+  {
     "domain": "solaranzeige.7cw.de",
     "title": "Grafana",
     "business_name": "",
@@ -16,28 +36,6 @@
       "Grafana",
       "OpenResty",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "sar-analytic.in",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 1200,
-    "crawled_at": "2026-01-24T07:41:45.321427502Z",
-    "technologies": [
-      "Apache",
-      "Barchart",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Forms",
-      "Google My Business",
-      "Grafana",
-      "Nginx",
-      "UTF-8",
-      "Ubuntu"
     ]
   },
   {
