@@ -1,6 +1,6 @@
 # Companies Using VinSolutions (Live Dataset 2026)
 
-This folder contains an active list of 94 companies using **VinSolutions**. 
+This folder contains an active list of 95 companies using **VinSolutions**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 94
+- **Total Leads:** 95
 - **Verified:** Yes
-- **Last Updated:** 2026-01-30 12:00 UTC
+- **Last Updated:** 2026-01-31 12:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **94+** companies using VinSolutions.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **95+** companies using VinSolutions.
 
 [**⚡ Unlock the Full VinSolutions List with Contact Details**](https://leadita.com/leads/companies-using-vinsolutions?utm_source=github_folder)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-01-30 12:00 UTC*
+*Last updated: 2026-01-31 12:00 UTC*
 *Data source: Leadita Technographic Intelligence*

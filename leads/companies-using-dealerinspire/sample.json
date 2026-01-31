@@ -1,5 +1,29 @@
 [
   {
+    "domain": "carfarehub.com",
+    "title": "CarFareHub | Affordable & Reliable Car Rentals",
+    "business_name": "",
+    "country": "VEN",
+    "seo_score": 77,
+    "tech_spend": 25000,
+    "crawled_at": "2026-01-31T05:52:48.868410747Z",
+    "technologies": [
+      "CDN JS",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DealerInspire",
+      "Edmunds",
+      "Google Analytics",
+      "Google Tag Manager",
+      "LiteSpeed",
+      "QUIC",
+      "Tailwind CSS",
+      "Thank You",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "burnoutfitnessstudio.com",
     "title": "Burnout Fitness Studio",
     "business_name": "",
@@ -12667,47 +12691,6 @@
       "Google Font API",
       "LiteSpeed",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "jackiecoopermini.com",
-    "title": "Home | Jackie Cooper MINI in Edmond, Oklahoma",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 50357,
-    "crawled_at": "2025-10-21T12:00:31.869107298Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Coming Soon Page",
-      "ConvertFlow",
-      "DAV",
-      "Dealer.com",
-      "DealerCenter",
-      "DealerInspire",
-      "DriveCentric",
-      "ElementUI",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Motive",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "QUIC",
-      "Share Link",
-      "Sitelinks Search Box",
-      "UTF-8",
-      "accessiBe"
     ]
   }
 ]
