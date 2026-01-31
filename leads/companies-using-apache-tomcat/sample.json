@@ -1,5 +1,86 @@
 [
   {
+    "domain": "girishpandit.com",
+    "title": "Girish Pandit - Mentor, Product Owner, Solution Architect, Photo enthusiast",
+    "business_name": "",
+    "country": "IDN",
+    "seo_score": 65,
+    "tech_spend": 87060,
+    "crawled_at": "2026-01-31T08:31:48.897848192Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Apache Tomcat JK",
+      "Apture Linking Platform",
+      "ClickOn",
+      "DAV",
+      "Express",
+      "Financial Services Guide",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Ntent",
+      "Oracle Cloud",
+      "Perl",
+      "Python",
+      "SMC",
+      "Sapper",
+      "Schema Plugin",
+      "Subversion",
+      "UTF-8",
+      "Unix"
+    ]
+  },
+  {
+    "domain": "dylan-janssen.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 700,
+    "crawled_at": "2026-01-31T07:33:04.352568042Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Apache Tomcat JK",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "NFOrce Internet",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "Visual Studio"
+    ]
+  },
+  {
+    "domain": "jctravel.es",
+    "title": "Apache Tomcat",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 144,
+    "crawled_at": "2026-01-31T01:16:48.862281004Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Express",
+      "Nginx",
+      "Parallels Plesk Panel"
+    ]
+  },
+  {
     "domain": "deco-rock-cr.com",
     "title": "Enchapes de piedra en costa rica - Deco Rock",
     "business_name": "",
@@ -49,23 +130,6 @@
       "IcoMoon",
       "Tailwind CSS",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "coloris-parapheur.fr",
-    "title": "Apache Tomcat",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": "",
-    "crawled_at": "2026-01-29T15:37:48.879872841Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Express",
-      "GZIP Module",
-      "Nginx",
-      "Ubuntu"
     ]
   },
   {
@@ -13327,30 +13391,6 @@
       "UTF-8",
       "Vector Internet Services",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "dylan-janssen.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 17280,
-    "crawled_at": "2025-10-21T14:48:34.78239639Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Apache Tomcat JK",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "NFOrce Internet",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "Visual Studio"
     ]
   }
 ]
