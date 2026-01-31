@@ -1,5 +1,27 @@
 [
   {
+    "domain": "esupportworld.com",
+    "title": "eSupportWorld",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 65,
+    "tech_spend": 15617,
+    "crawled_at": "2026-01-31T07:02:45.288101977Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Engintron",
+      "Foxit",
+      "GZIP Module",
+      "Google Maps",
+      "Google My Business",
+      "IcoMoon",
+      "Nginx",
+      "Twitter Ads",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "adoptearthsaviour.com",
     "title": "adoptearthsaviour",
     "business_name": "",
@@ -797,28 +819,6 @@
       "eShow",
       "iDevAffiliate",
       "nopCommerce"
-    ]
-  },
-  {
-    "domain": "esupportworld.com",
-    "title": "eSupportWorld",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 75,
-    "tech_spend": 15617,
-    "crawled_at": "2025-10-21T14:39:35.27294196Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Engintron",
-      "Foxit",
-      "GZIP Module",
-      "Google Maps",
-      "Google My Business",
-      "IcoMoon",
-      "Nginx",
-      "Twitter Ads",
-      "jQuery"
     ]
   }
 ]
