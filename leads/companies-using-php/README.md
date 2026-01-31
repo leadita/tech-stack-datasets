@@ -1,6 +1,6 @@
 # Companies Using PHP (Live Dataset 2026)
 
-This folder contains an active list of 2,710,150 companies using **PHP**. 
+This folder contains an active list of 2,717,835 companies using **PHP**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 2,710,150
+- **Total Leads:** 2,717,835
 - **Verified:** Yes
-- **Last Updated:** 2026-01-30 12:15 UTC
+- **Last Updated:** 2026-01-31 12:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **2,710,150+** companies using PHP.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **2,717,835+** companies using PHP.
 
 [**⚡ Unlock the Full PHP List with Contact Details**](https://leadita.com/leads/companies-using-php?utm_source=github_folder)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-01-30 12:15 UTC*
+*Last updated: 2026-01-31 12:15 UTC*
 *Data source: Leadita Technographic Intelligence*
