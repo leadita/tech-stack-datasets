@@ -1,6 +1,6 @@
 # Companies Using AppFolio (Live Dataset 2026)
 
-This folder contains an active list of 5,784 companies using **AppFolio**. 
+This folder contains an active list of 5,810 companies using **AppFolio**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 5,784
+- **Total Leads:** 5,810
 - **Verified:** Yes
-- **Last Updated:** 2026-01-30 21:30 UTC
+- **Last Updated:** 2026-01-31 21:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **5,784+** companies using AppFolio.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **5,810+** companies using AppFolio.
 
 [**⚡ Unlock the Full AppFolio List with Contact Details**](https://leadita.com/leads/companies-using-appfolio?utm_source=github_folder)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-01-30 21:30 UTC*
+*Last updated: 2026-01-31 21:30 UTC*
 *Data source: Leadita Technographic Intelligence*
