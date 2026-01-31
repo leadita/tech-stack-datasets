@@ -1,6 +1,6 @@
 # Companies Using Typeform (Live Dataset 2026)
 
-This folder contains an active list of 14,349 companies using **Typeform**. 
+This folder contains an active list of 14,391 companies using **Typeform**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 14,349
+- **Total Leads:** 14,391
 - **Verified:** Yes
-- **Last Updated:** 2026-01-30 17:45 UTC
+- **Last Updated:** 2026-01-31 17:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **14,349+** companies using Typeform.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **14,391+** companies using Typeform.
 
 [**⚡ Unlock the Full Typeform List with Contact Details**](https://leadita.com/leads/companies-using-typeform?utm_source=github_folder)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-01-30 17:45 UTC*
+*Last updated: 2026-01-31 17:45 UTC*
 *Data source: Leadita Technographic Intelligence*
