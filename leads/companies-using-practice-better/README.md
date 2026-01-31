@@ -1,6 +1,6 @@
 # Companies Using Practice Better (Live Dataset 2026)
 
-This folder contains an active list of 1,517 companies using **Practice Better**. 
+This folder contains an active list of 1,531 companies using **Practice Better**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 1,517
+- **Total Leads:** 1,531
 - **Verified:** Yes
-- **Last Updated:** 2026-01-30 18:30 UTC
+- **Last Updated:** 2026-01-31 18:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,517+** companies using Practice Better.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,531+** companies using Practice Better.
 
 [**⚡ Unlock the Full Practice Better List with Contact Details**](https://leadita.com/leads/companies-using-practice-better?utm_source=github_folder)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-01-30 18:30 UTC*
+*Last updated: 2026-01-31 18:30 UTC*
 *Data source: Leadita Technographic Intelligence*

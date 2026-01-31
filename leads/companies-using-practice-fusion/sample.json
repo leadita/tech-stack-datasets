@@ -1,5 +1,32 @@
 [
   {
+    "domain": "voicecharts.com",
+    "title": "VoiceCharts - AI Voice Charting Software for Healthcare",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 29388,
+    "crawled_at": "2026-01-31T16:58:48.865880819Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Next.js",
+      "Pleroma",
+      "Practice Fusion",
+      "Radix UI",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "YouTube",
+      "eClinicalWorks",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "neveragain.tech",
     "title": "neveragain.tech",
     "business_name": "",
@@ -1275,33 +1302,6 @@
       "Wangsu",
       "Website Tonight",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "voicecharts.com",
-    "title": "VoiceCharts - AI Voice Charting Software for Healthcare",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 29388,
-    "crawled_at": "2025-11-07T23:34:42.749189379Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Next.js",
-      "Pleroma",
-      "Practice Fusion",
-      "Radix UI",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "YouTube",
-      "eClinicalWorks",
-      "shadcn ui"
     ]
   },
   {
