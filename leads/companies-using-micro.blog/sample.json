@@ -1,5 +1,102 @@
 [
   {
+    "domain": "watchtowerintel.com",
+    "title": "Operation Watchtower",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 1392,
+    "crawled_at": "2026-01-31T09:22:48.869346674Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon Widgets",
+      "Band Camp",
+      "Camp",
+      "Hugo",
+      "Linktree",
+      "Micro.blog",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "hjalmer.com",
+    "title": "Hjalmer Erich Duenow",
+    "business_name": "",
+    "country": "",
+    "seo_score": 32,
+    "tech_spend": 216,
+    "crawled_at": "2026-01-31T06:55:02.750833189Z",
+    "technologies": [
+      "Apache",
+      "Apple Auto Link Maker",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Micro.blog"
+    ]
+  },
+  {
+    "domain": "avancee.agency",
+    "title": "Avanceé.Agency",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 57,
+    "tech_spend": 60,
+    "crawled_at": "2026-01-31T02:43:48.864817685Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GitHub Hosting",
+      "Hugo",
+      "Micro.blog",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "allanlasser.com",
+    "title": "Allan Lasser",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 60,
+    "tech_spend": 1360,
+    "crawled_at": "2026-01-30T18:24:12.582176892Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "App Store",
+      "Apple Auto Link Maker",
+      "Apture Linking Platform",
+      "Automattic",
+      "Automattic Direct",
+      "Basecamp",
+      "Camp",
+      "Content Delivery Network",
+      "DAV",
+      "Express",
+      "Financial Services Guide",
+      "GitHub Hosting",
+      "Investor Relations",
+      "Medium",
+      "Micro.blog",
+      "NFOrce Internet",
+      "Next.js",
+      "Notion",
+      "Perl",
+      "Pleroma",
+      "QUIC",
+      "Sanity",
+      "Slack",
+      "Svelte",
+      "UTF-8",
+      "Vercel",
+      "WordPress",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "skorgu.net",
     "title": "Dome of the Boxmaker",
     "business_name": "",
@@ -7412,25 +7509,6 @@
     ]
   },
   {
-    "domain": "watchtowerintel.com",
-    "title": "Operation Watchtower",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 1392,
-    "crawled_at": "2025-10-24T09:05:31.639506629Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Band Camp",
-      "Camp",
-      "Linktree",
-      "Micro.blog",
-      "UTF-8",
-      "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "website66mean.online",
     "title": "My Blog – My WordPress Blog",
     "business_name": "",
@@ -7688,62 +7766,6 @@
       "Micro.blog",
       "Microdata for Google Shopping",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "hjalmer.com",
-    "title": "Hjalmer Erich Duenow",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 216,
-    "crawled_at": "2025-10-21T14:37:44.40529099Z",
-    "technologies": [
-      "Apache",
-      "Apple Auto Link Maker",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Micro.blog"
-    ]
-  },
-  {
-    "domain": "allanlasser.com",
-    "title": "Allan Lasser",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 60,
-    "tech_spend": 1360,
-    "crawled_at": "2025-10-21T11:02:01.220601632Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "App Store",
-      "Apple Auto Link Maker",
-      "Apture Linking Platform",
-      "Automattic",
-      "Automattic Direct",
-      "Basecamp",
-      "Camp",
-      "Content Delivery Network",
-      "DAV",
-      "Express",
-      "Financial Services Guide",
-      "GitHub Hosting",
-      "Investor Relations",
-      "Medium",
-      "Micro.blog",
-      "NFOrce Internet",
-      "Next.js",
-      "Notion",
-      "Perl",
-      "Pleroma",
-      "QUIC",
-      "Sanity",
-      "Slack",
-      "UTF-8",
-      "Vercel",
-      "WordPress",
-      "YouTube"
     ]
   }
 ]

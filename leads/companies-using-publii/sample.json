@@ -1,5 +1,46 @@
 [
   {
+    "domain": "dignacio.org",
+    "title": "Dan Ignacio",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 57,
+    "tech_spend": 49,
+    "crawled_at": "2026-01-31T11:46:48.871649128Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Publii",
+      "QUIC",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "happycrappyqueers.be",
+    "title": "Happy Crappy Queers",
+    "business_name": "Happy Crappy Queers",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 211,
+    "crawled_at": "2026-01-31T10:43:48.869598761Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Apache",
+      "CoreUI",
+      "Elfsight",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "procyberian.xyz",
     "title": "Procyberian Systems Distribution (PSD)",
     "business_name": "Procyberian Systems Distribution (PSD)",
