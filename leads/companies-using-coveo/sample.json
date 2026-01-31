@@ -1,5 +1,24 @@
 [
   {
+    "domain": "atriumhealthcareconnect.net",
+    "title": "Atrium Health CareConnect",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 45,
+    "tech_spend": 15216,
+    "crawled_at": "2026-01-31T15:40:48.884680154Z",
+    "technologies": [
+      "Atrium Health",
+      "Coveo",
+      "Express",
+      "IcoMoon",
+      "Microsoft Azure",
+      "UK Cookie Consent",
+      "UTF-8",
+      "Visual Studio"
+    ]
+  },
+  {
     "domain": "wakehealth.pharmacy",
     "title": "Pharmacy | Atrium Health Wake Forest Baptist",
     "business_name": "",
@@ -721,23 +740,6 @@
       "YouTube",
       "eLand",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "carolinashealthcareconnect.org",
-    "title": "Atrium Health CareConnect",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 45,
-    "tech_spend": 15156,
-    "crawled_at": "2026-01-14T05:19:43.447000062Z",
-    "technologies": [
-      "Atrium Health",
-      "Coveo",
-      "Express",
-      "IcoMoon",
-      "UK Cookie Consent",
-      "UTF-8"
     ]
   },
   {
@@ -3101,44 +3103,6 @@
       "YouTube",
       "Zoom Video Conferencing",
       "eLand",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "smartroadwaylighting.com",
-    "title": "ROAM® | Remote Operations and Asset Management | Acuity Brands",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 201995,
-    "crawled_at": "2025-10-21T13:54:32.057962705Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Alternate Protocol",
-      "Amazon",
-      "Angular",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coveo",
-      "Express",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "Microsoft Azure",
-      "QUIC",
-      "RM Education",
-      "Sirv",
-      "Sitecore CMS",
-      "Trustarc Cookie Consent",
-      "UTF-8",
-      "Visual Studio",
-      "YouTube",
       "jsDelivr"
     ]
   }
