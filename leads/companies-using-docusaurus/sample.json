@@ -1,5 +1,35 @@
 [
   {
+    "domain": "husarion.com",
+    "title": "Husarion | Autonomous Mobile Robots Made Simple",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 77,
+    "tech_spend": 15960,
+    "crawled_at": "2026-01-31T13:55:48.877314808Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Bulma",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Investor Relations",
+      "KaTeX",
+      "MailChimp",
+      "Nginx",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "University or College",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "1ms.ai",
     "title": "1ms.ai | Making Open Source AI Just Work",
     "business_name": "",
@@ -10286,35 +10316,6 @@
       "Perl",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "husarion.com",
-    "title": "Husarion | Autonomous Mobile Robots Made Simple",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 72,
-    "tech_spend": 15960,
-    "crawled_at": "2025-11-04T10:14:09.530218902Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Bulma",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Investor Relations",
-      "KaTeX",
-      "MailChimp",
-      "Nginx",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "University or College",
-      "jsDelivr"
     ]
   },
   {

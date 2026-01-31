@@ -1,5 +1,129 @@
 [
   {
+    "domain": "buildingsareheavy.com",
+    "title": "Buildings Are Heavy - Buildings Are Heavy",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": "",
+    "crawled_at": "2026-01-31T19:10:48.861776824Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "wiyogo.com",
+    "title": "WIYOGO TECH - Wiyogo Tech",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 70,
+    "tech_spend": 15000,
+    "crawled_at": "2026-01-31T13:24:31.200092419Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Gridsome",
+      "Nginx",
+      "PHP",
+      "Python",
+      "Twitter Ads",
+      "UTF-8",
+      "Unix"
+    ]
+  },
+  {
+    "domain": "treplabs.co",
+    "title": "Treplabs",
+    "business_name": "",
+    "country": "NGA",
+    "seo_score": 62,
+    "tech_spend": 40,
+    "crawled_at": "2026-01-31T10:19:48.884688957Z",
+    "technologies": [
+      "Apache",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gravity",
+      "Gridsome",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "onboard.com.ar",
+    "title": "ONBoard",
+    "business_name": "",
+    "country": "ARG",
+    "seo_score": 52,
+    "tech_spend": 99,
+    "crawled_at": "2026-01-31T08:43:48.87920502Z",
+    "technologies": [
+      "Apache",
+      "Font Awesome",
+      "GZIP Module",
+      "Gridsome"
+    ]
+  },
+  {
+    "domain": "maes.sh",
+    "title": "Home - Rob Maes",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 6653,
+    "crawled_at": "2026-01-31T04:25:48.881649187Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "Financial Services Guide",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Idaq",
+      "K2F",
+      "Python",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "securequest.fr",
+    "title": "Secure Quest - Secure Quest",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 87,
+    "tech_spend": 65268,
+    "crawled_at": "2026-01-30T23:10:13.806744331Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Fireblade",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Gridsome",
+      "Netlify",
+      "SMC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "avcphuket.com",
     "title": "Home Automation, MEP Engineering, Solar Power, Lighting Design - AVC Engineering Phuket",
     "business_name": "",
@@ -4311,31 +4435,6 @@
     ]
   },
   {
-    "domain": "robmaes.com",
-    "title": "Home - Rob Maes",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 6653,
-    "crawled_at": "2025-12-15T05:16:56.037691123Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "Financial Services Guide",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Idaq",
-      "K2F",
-      "Python",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "axlhazarika.in",
     "title": "Musician, Computer Engineer & A Digital Pagan. - Axl Hazarika",
     "business_name": "",
@@ -7196,25 +7295,6 @@
       "Twitter Ads",
       "UTF-8",
       "Visx"
-    ]
-  },
-  {
-    "domain": "buildingsareheavy.com",
-    "title": "Buildings Are Heavy - Buildings Are Heavy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": "",
-    "crawled_at": "2025-11-22T02:21:10.169053904Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
     ]
   },
   {
@@ -11857,97 +11937,6 @@
       "KVH",
       "Nginx",
       "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "hhbc.org.uk",
-    "title": "Home - Herne Hill Baptist Church",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 62,
-    "tech_spend": 15228,
-    "crawled_at": "2025-11-01T14:05:39.560732419Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Fireblade",
-      "Gridsome",
-      "Netlify",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "moneybarmelbourne.com",
-    "title": "Mortgage Brokers Melbourne | Money Bar",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 77,
-    "tech_spend": 6629,
-    "crawled_at": "2025-11-01T13:56:38.912290939Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Apture Linking Platform",
-      "Australian Credit Licence",
-      "CloudFront",
-      "Content Delivery Network",
-      "Free Call",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Gravity",
-      "Gravity Forms",
-      "Gridsome",
-      "Hotjar",
-      "Instagram Follow Button",
-      "Tailwind CSS",
-      "Vimeo",
-      "Vimeo CDN"
-    ]
-  },
-  {
-    "domain": "jmmdp.com",
-    "title": "JM Martin - Directeur Photo - JM Martin - Directeur Photo",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 50,
-    "tech_spend": "",
-    "crawled_at": "2025-11-01T12:36:23.724929467Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "weltall.com",
-    "title": "株式会社weltall",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 1164,
-    "crawled_at": "2025-11-01T12:29:38.882961001Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Content Delivery Network",
-      "Fastly",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Twitter Ads",
-      "UTF-8",
-      "formrun"
     ]
   }
 ]
