@@ -1,12 +1,30 @@
 [
   {
-    "domain": "vanconversion.net",
+    "domain": "telanganajob.com",
+    "title": "Suresh.co.in - IndiaJob.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 135,
+    "crawled_at": "2026-01-31T12:25:48.916130305Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8",
+      "Vello"
+    ]
+  },
+  {
+    "domain": "indian-casinos.com",
     "title": "Build Your Brand",
     "business_name": "",
     "country": "",
     "seo_score": 37,
     "tech_spend": 135,
-    "crawled_at": "2026-01-30T15:58:48.89638143Z",
+    "crawled_at": "2026-01-31T10:31:48.882468437Z",
     "technologies": [
       "Amazon CloudFront",
       "CloudFront",
@@ -14,6 +32,119 @@
       "Font Awesome",
       "GZIP Module",
       "UTF-8"
+    ]
+  },
+  {
+    "domain": "torontoclimatecampaign.org",
+    "title": "Blog | Toronto Climate Campaign",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 20120,
+    "crawled_at": "2026-01-31T05:19:48.880403238Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cisco/Arrowpoint Content Service Switch",
+      "DAV",
+      "Dynadot",
+      "GZIP Module",
+      "InitiativeS",
+      "Nginx",
+      "PHP",
+      "Thank You",
+      "UTF-8",
+      "University or College",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "reclo.io",
+    "title": "Reclo",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 135,
+    "crawled_at": "2026-01-31T04:49:48.875239258Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Coming Soon Page",
+      "Dynadot",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Font Awesome",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "zambales.net",
+    "title": "Welcome to PhilippineProperties.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 3135,
+    "crawled_at": "2026-01-31T04:46:48.859710785Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "Font Awesome",
+      "GZIP Module",
+      "Prospective",
+      "QUIC",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "commissionq.com",
+    "title": "An EMDN - Commissionq, Commission Sales Commission Revenue Sharing Affiliate Earnings Incentive Structure Performance Based Pay",
+    "business_name": "",
+    "country": "",
+    "seo_score": 32,
+    "tech_spend": 135,
+    "crawled_at": "2026-01-30T23:49:48.888294011Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "nbafinal.com",
+    "title": "Dare to Embrace the Mamba Mentality",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 10219,
+    "crawled_at": "2026-01-30T17:04:48.865091396Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "BLR",
+      "CloudFront",
+      "Dynadot",
+      "Font Awesome",
+      "GZIP Module",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "eLand"
     ]
   },
   {
@@ -31,26 +162,6 @@
       "Font Awesome",
       "GZIP Module",
       "Instagram Follow Button",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "colloidalquantumdots.com",
-    "title": "An EMDN - Colloidal Quantum Dots, Quantum Nanomaterials Semiconductor Nanocrystals Optoelectronic Devices Infrared Imaging Quantum Sensors",
-    "business_name": "",
-    "country": "",
-    "seo_score": 32,
-    "tech_spend": 135,
-    "crawled_at": "2026-01-30T03:43:48.866669265Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
       "UTF-8"
     ]
   },
@@ -263,26 +374,6 @@
       "Font Awesome",
       "GZIP Module",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "visaya.org",
-    "title": "Welcome to PhilippineProperties.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 3135,
-    "crawled_at": "2026-01-26T09:01:43.449478271Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Prospective",
-      "QUIC",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
@@ -2227,32 +2318,6 @@
     ]
   },
   {
-    "domain": "torontoclimatecampaign.org",
-    "title": "Blog | Toronto Climate Campaign",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 75,
-    "tech_spend": 20120,
-    "crawled_at": "2025-11-20T22:01:49.83897055Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Cisco/Arrowpoint Content Service Switch",
-      "DAV",
-      "Dynadot",
-      "GZIP Module",
-      "InitiativeS",
-      "Nginx",
-      "PHP",
-      "Thank You",
-      "UTF-8",
-      "University or College",
-      "YouTube",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "inatheistbus.org",
     "title": "Indiana Atheist Bus Campaign",
     "business_name": "",
@@ -2998,28 +3063,6 @@
       "Font Awesome",
       "GZIP Module",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "mamba24.org",
-    "title": "Mamba24.com - Dare to Embrace the Mamba Mentality",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 10219,
-    "crawled_at": "2025-11-02T16:05:39.000686075Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "BLR",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Tumblr",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
