@@ -1,6 +1,6 @@
 # Companies Using LiteSpeed (Live Dataset 2026)
 
-This folder contains an active list of 977,140 companies using **LiteSpeed**. 
+This folder contains an active list of 982,187 companies using **LiteSpeed**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 977,140
+- **Total Leads:** 982,187
 - **Verified:** Yes
-- **Last Updated:** 2026-01-31 23:30 UTC
+- **Last Updated:** 2026-02-01 20:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **977,140+** companies using LiteSpeed.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **982,187+** companies using LiteSpeed.
 
 [**⚡ Unlock the Full LiteSpeed List with Contact Details**](https://leadita.com/leads/companies-using-litespeed?utm_source=github_folder)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-01-31 23:30 UTC*
+*Last updated: 2026-02-01 20:30 UTC*
 *Data source: Leadita Technographic Intelligence*
