@@ -1,6 +1,6 @@
 # Companies Using WPForms (Live Dataset 2026)
 
-This folder contains an active list of 198,878 companies using **WPForms**. 
+This folder contains an active list of 199,266 companies using **WPForms**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 198,878
+- **Total Leads:** 199,266
 - **Verified:** Yes
-- **Last Updated:** 2026-01-31 17:45 UTC
+- **Last Updated:** 2026-02-01 17:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **198,878+** companies using WPForms.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **199,266+** companies using WPForms.
 
 [**⚡ Unlock the Full WPForms List with Contact Details**](https://leadita.com/leads/companies-using-wpforms?utm_source=github_folder)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-01-31 17:45 UTC*
+*Last updated: 2026-02-01 17:45 UTC*
 *Data source: Leadita Technographic Intelligence*
