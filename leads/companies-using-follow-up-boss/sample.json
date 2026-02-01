@@ -1,5 +1,30 @@
 [
   {
+    "domain": "pelicanmarshhomes.com",
+    "title": "Pelican Marsh - Southwest Florida",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 13831,
+    "crawled_at": "2026-02-01T07:49:48.861201384Z",
+    "technologies": [
+      "Follow Up Boss",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Homes.com CMS",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "OSS CDN",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "WPForms",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "jackiewood.ca",
     "title": "Jackie Wood | Duncan BC Real Estate",
     "business_name": "",
@@ -70,32 +95,6 @@
       "Negate",
       "ResMan",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "fiddlerscreekswfl.com",
-    "title": "Fiddlers Creek - Southwest Florida",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 17231,
-    "crawled_at": "2026-01-31T10:52:48.874266871Z",
-    "technologies": [
-      "Follow Up Boss",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Neighborhoods",
-      "OSS CDN",
-      "Prospective",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "WPForms",
-      "YouTube",
-      "jQuery"
     ]
   },
   {
