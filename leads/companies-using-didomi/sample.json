@@ -1,5 +1,29 @@
 [
   {
+    "domain": "deroyimmobilier.com",
+    "title": "Jean-Sébastien Deroy | Residential Real Estate Broker at RE/MAX Horizon",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 26000,
+    "crawled_at": "2026-02-01T01:40:48.876152671Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Didomi",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Nginx",
+      "Nuxt.js",
+      "UTF-8",
+      "Vector Internet Services",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "hockeynunavut.ca",
     "title": "HOCKEY NUNAVUT",
     "business_name": "",
@@ -14398,31 +14422,6 @@
       "Thank You",
       "UTF-8",
       "Vello"
-    ]
-  },
-  {
-    "domain": "deroyimmobilier.com",
-    "title": "Jean-Sébastien Deroy | Residential Real Estate Broker at RE/MAX Horizon",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 41000,
-    "crawled_at": "2025-11-04T20:15:21.706564293Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Didomi",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Nginx",
-      "Nuxt.js",
-      "UTF-8",
-      "Vector Internet Services",
-      "YouTube"
     ]
   },
   {
