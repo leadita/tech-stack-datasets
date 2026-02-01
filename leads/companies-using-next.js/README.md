@@ -1,6 +1,6 @@
 # Companies Using Next.js (Live Dataset 2026)
 
-This folder contains an active list of 333,625 companies using **Next.js**. 
+This folder contains an active list of 335,638 companies using **Next.js**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 333,625
+- **Total Leads:** 335,638
 - **Verified:** Yes
-- **Last Updated:** 2026-01-31 19:15 UTC
+- **Last Updated:** 2026-02-01 19:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **333,625+** companies using Next.js.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **335,638+** companies using Next.js.
 
 [**⚡ Unlock the Full Next.js List with Contact Details**](https://leadita.com/leads/companies-using-next.js?utm_source=github_folder)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-01-31 19:15 UTC*
+*Last updated: 2026-02-01 19:15 UTC*
 *Data source: Leadita Technographic Intelligence*
