@@ -1,5 +1,30 @@
 [
   {
+    "domain": "syllabit.com",
+    "title": "Syllabit",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 25240,
+    "crawled_at": "2026-02-01T10:28:48.884745251Z",
+    "technologies": [
+      "Angular",
+      "Blackboard Open LMS",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "useagenceblackboard.com",
     "title": "blackboard : spécialiste en communication. Relations Presse et Photographie.",
     "business_name": "",
@@ -950,31 +975,6 @@
       "QUIC",
       "Thank You",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "sillabit.com",
-    "title": "Syllabit",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 67,
-    "tech_spend": 25240,
-    "crawled_at": "2025-12-10T16:25:56.094564265Z",
-    "technologies": [
-      "Angular",
-      "Blackboard Open LMS",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "shadcn ui"
     ]
   },
   {
@@ -2724,35 +2724,6 @@
       "WordPress",
       "WordPress Multisite",
       "WordPress Stats"
-    ]
-  },
-  {
-    "domain": "cistacedu.org",
-    "title": "PLATAFORMA EDUCATIVA VIRTUAL CISTAC",
-    "business_name": "",
-    "country": "BRA",
-    "seo_score": 72,
-    "tech_spend": 54160,
-    "crawled_at": "2025-10-21T21:09:32.398961327Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Blackboard Open LMS",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fastly",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "NFOrce Internet",
-      "PHP",
-      "Totara",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "YouTube",
-      "Zoom Video Conferencing"
     ]
   }
 ]
