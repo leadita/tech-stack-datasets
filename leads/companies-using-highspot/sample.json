@@ -1,5 +1,38 @@
 [
   {
+    "domain": "moderngovernancesummit.co.uk",
+    "title": "Modern Governance Summit 2023 | Diligent",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 57588,
+    "crawled_at": "2026-02-01T01:58:48.874960759Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Alternate Protocol",
+      "Bug Bounty",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "DAV",
+      "Fastly",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Highspot",
+      "Marketo",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "PHP",
+      "Telegram",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "biznatron.com",
     "title": "Biznatron – B2B Lead Generation & Appointment Setting",
     "business_name": "",
