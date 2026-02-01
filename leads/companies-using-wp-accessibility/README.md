@@ -1,6 +1,6 @@
 # Companies Using WP Accessibility (Live Dataset 2026)
 
-This folder contains an active list of 5,946 companies using **WP Accessibility**. 
+This folder contains an active list of 5,962 companies using **WP Accessibility**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 5,946
+- **Total Leads:** 5,962
 - **Verified:** Yes
-- **Last Updated:** 2026-01-31 10:15 UTC
+- **Last Updated:** 2026-02-01 10:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **5,946+** companies using WP Accessibility.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **5,962+** companies using WP Accessibility.
 
 [**⚡ Unlock the Full WP Accessibility List with Contact Details**](https://leadita.com/leads/companies-using-wp-accessibility?utm_source=github_folder)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-01-31 10:15 UTC*
+*Last updated: 2026-02-01 10:15 UTC*
 *Data source: Leadita Technographic Intelligence*
