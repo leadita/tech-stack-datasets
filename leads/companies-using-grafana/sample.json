@@ -1,5 +1,22 @@
 [
   {
+    "domain": "bi.apx.me",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": "",
+    "crawled_at": "2026-01-31T23:46:48.869453821Z",
+    "technologies": [
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Grafana",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "trophor.net",
     "title": "Grafana",
     "business_name": "",
