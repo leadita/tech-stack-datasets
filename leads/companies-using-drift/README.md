@@ -1,6 +1,6 @@
 # Companies Using Drift (Live Dataset 2026)
 
-This folder contains an active list of 2,419 companies using **Drift**. 
+This folder contains an active list of 2,425 companies using **Drift**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 2,419
+- **Total Leads:** 2,425
 - **Verified:** Yes
-- **Last Updated:** 2026-01-31 15:30 UTC
+- **Last Updated:** 2026-02-01 15:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **2,419+** companies using Drift.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **2,425+** companies using Drift.
 
 [**⚡ Unlock the Full Drift List with Contact Details**](https://leadita.com/leads/companies-using-drift?utm_source=github_folder)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-01-31 15:30 UTC*
+*Last updated: 2026-02-01 15:30 UTC*
 *Data source: Leadita Technographic Intelligence*
