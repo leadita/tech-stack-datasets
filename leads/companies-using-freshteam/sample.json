@@ -1,5 +1,29 @@
 [
   {
+    "domain": "network-to.life",
+    "title": "Home - ndleon",
+    "business_name": "ndleon",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 26891,
+    "crawled_at": "2026-02-01T05:16:48.871851516Z",
+    "technologies": [
+      "Alternate Protocol",
+      "BlankSlate",
+      "Cloudflare",
+      "Contento",
+      "Elementor",
+      "Freshteam",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Ubuntu",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "moonlabor.com",
     "title": "Moonlabor",
     "business_name": "",
