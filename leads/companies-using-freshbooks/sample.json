@@ -1,5 +1,38 @@
 [
   {
+    "domain": "ecloudaccounts.com.au",
+    "title": "Ecloudaccounts",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 668,
+    "crawled_at": "2026-02-01T07:02:48.174920931Z",
+    "technologies": [
+      "Alternate Protocol",
+      "EmbedPress",
+      "Express",
+      "FreshBooks",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "Meta Slider for WordPress",
+      "PHP",
+      "QUIC",
+      "Simple Social Icons",
+      "Tailwind CSS",
+      "Theme In WP",
+      "UTF-8",
+      "WP Google Maps",
+      "WP PageNavi",
+      "WP-Members",
+      "WordPress",
+      "WordPress Multisite",
+      "Xero",
+      "Zopim",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "balancequestbookkeeping.com",
     "title": "Virtual Bookkeeping Services for Small Businesses | Balance Quest Bookkeeping",
     "business_name": "Balance Quest Bookkeeping ",
@@ -3326,38 +3359,6 @@
       "Xero",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "ecloudaccounts.com.au",
-    "title": "Ecloudaccounts",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 668,
-    "crawled_at": "2025-10-21T22:02:37.746790722Z",
-    "technologies": [
-      "Alternate Protocol",
-      "EmbedPress",
-      "Express",
-      "FreshBooks",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "Meta Slider for WordPress",
-      "PHP",
-      "Simple Social Icons",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "WP Google Maps",
-      "WP PageNavi",
-      "WP-Members",
-      "WordPress",
-      "WordPress Multisite",
-      "Xero",
-      "Zopim",
-      "jQuery"
     ]
   }
 ]
