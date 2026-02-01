@@ -1,5 +1,30 @@
 [
   {
+    "domain": "electrowattwise.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 9411,
+    "crawled_at": "2026-02-01T03:16:48.872124407Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Everflow",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "QUIC",
+      "Taboola Direct",
+      "Taboola Reseller",
+      "Tailwind CSS",
+      "Tidio",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "betterandbetterconnect.com",
     "title": "Better & Better | Oral Wellness Toothpaste",
     "business_name": "Better &amp; Better",
