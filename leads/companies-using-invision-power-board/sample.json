@@ -1,5 +1,26 @@
 [
   {
+    "domain": "prepody.ru",
+    "title": "Образовательный студенческий форум",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 6200,
+    "crawled_at": "2026-02-01T17:40:48.883003891Z",
+    "technologies": [
+      "ADFOX",
+      "Alternate Protocol",
+      "Apache",
+      "Fastly",
+      "GZIP Module",
+      "Invision Power Board",
+      "LiveInternet",
+      "Perl",
+      "Salesforce Hosted",
+      "Yandex Hosting"
+    ]
+  },
+  {
     "domain": "molbiol.ru",
     "title": "MolBiol.ru",
     "business_name": "",
@@ -116,28 +137,6 @@
       "Yandex Hosting",
       "Yandex Metrika",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "sanltd.ru",
-    "title": "Форум",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 740,
-    "crawled_at": "2025-12-12T03:34:56.031527402Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "ContentBox",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google My Business",
-      "Google Reseller",
-      "Invision Power Board",
-      "Perl"
     ]
   },
   {
