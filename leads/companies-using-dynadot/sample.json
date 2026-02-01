@@ -1,5 +1,83 @@
 [
   {
+    "domain": "voyagemind.com",
+    "title": "An EMDN - Voyage Mind, Travel Inspiration Adventure Planning Exploration Discovery Personal Growth Journey Insightful Experiences Cultural Learning Mindful Travel",
+    "business_name": "",
+    "country": "",
+    "seo_score": 32,
+    "tech_spend": 135,
+    "crawled_at": "2026-02-01T11:26:20.051024873Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "shopandshipping.com",
+    "title": "ThriftStation.com - Explore the Joy of Thrifting!",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 10219,
+    "crawled_at": "2026-02-01T01:22:48.861837499Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "BLR",
+      "CloudFront",
+      "Dynadot",
+      "Financial Services Guide",
+      "Font Awesome",
+      "GZIP Module",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "andinistas.net",
+    "title": ".",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 185,
+    "crawled_at": "2026-01-31T23:33:14.461678384Z",
+    "technologies": [
+      "Dynadot",
+      "Font Awesome",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "MyFonts",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "sarangani.org",
+    "title": "Welcome to PhilippineProperties.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 3135,
+    "crawled_at": "2026-01-31T22:55:48.894797637Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "Font Awesome",
+      "GZIP Module",
+      "Prospective",
+      "QUIC",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "telanganajob.com",
     "title": "Suresh.co.in - IndiaJob.com",
     "business_name": "",
@@ -82,46 +160,6 @@
       "Font Awesome",
       "GZIP Module",
       "Instagram Follow Button",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "zambales.net",
-    "title": "Welcome to PhilippineProperties.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 3135,
-    "crawled_at": "2026-01-31T04:46:48.859710785Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Prospective",
-      "QUIC",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "commissionq.com",
-    "title": "An EMDN - Commissionq, Commission Sales Commission Revenue Sharing Affiliate Earnings Incentive Structure Performance Based Pay",
-    "business_name": "",
-    "country": "",
-    "seo_score": 32,
-    "tech_spend": 135,
-    "crawled_at": "2026-01-30T23:49:48.888294011Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
       "UTF-8"
     ]
   },
@@ -1033,27 +1071,6 @@
       "UTF-8",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "thriftstation.net",
-    "title": "ThriftStation.com - Explore the Joy of Thrifting!",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 10219,
-    "crawled_at": "2025-12-30T01:04:38.317129566Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "BLR",
-      "CloudFront",
-      "Dynadot",
-      "Financial Services Guide",
-      "Font Awesome",
-      "GZIP Module",
-      "Tumblr",
-      "Twitter Ads",
-      "UTF-8"
     ]
   },
   {
@@ -3512,23 +3529,6 @@
       "InitiativeS",
       "UTF-8",
       "University or College"
-    ]
-  },
-  {
-    "domain": "andinistas.net",
-    "title": ".",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 185,
-    "crawled_at": "2025-10-21T19:39:31.879666595Z",
-    "technologies": [
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "MyFonts",
-      "UTF-8"
     ]
   }
 ]
