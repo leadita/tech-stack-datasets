@@ -1,5 +1,51 @@
 [
   {
+    "domain": "ishan.page",
+    "title": "Ishan Das Sharma",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 300,
+    "crawled_at": "2026-02-01T03:16:12.59143828Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "GitHub Hosting",
+      "Hugo",
+      "Python",
+      "QUIC",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "okashavaroo.com",
+    "title": "Okasha Varoo",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 72,
+    "tech_spend": 1040,
+    "crawled_at": "2026-01-31T20:48:37.186359791Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Heroku",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "joshduffy.dev",
     "title": "Josh Duffy | Building Things, Leading Transformations",
     "business_name": "",
@@ -14489,48 +14535,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vector Internet Services"
-    ]
-  },
-  {
-    "domain": "pulkitgarg.me",
-    "title": "Pulkit Garg",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 540,
-    "crawled_at": "2025-10-29T12:09:25.20291331Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "claushaas.dev",
-    "title": "Claus Haas Ltda.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 560,
-    "crawled_at": "2025-10-29T02:00:31.625101369Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "NFOrce Internet",
-      "Tailwind CSS"
     ]
   }
 ]
