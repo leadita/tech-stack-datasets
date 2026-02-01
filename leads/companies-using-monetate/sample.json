@@ -1,5 +1,35 @@
 [
   {
+    "domain": "aicpcu.org",
+    "title": "Homepage | The Institutes",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 92400,
+    "crawled_at": "2026-01-31T17:14:25.561396678Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Add to Any",
+      "Backdrop",
+      "Content Delivery Network",
+      "Drupal",
+      "Express",
+      "Fastly",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Monetate",
+      "Nginx",
+      "PHP",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "tryjellybee.com",
     "title": "JellyBee - Your wellness our gummies. – TheJellyBee",
     "business_name": "TheJellyBee",
@@ -6304,33 +6334,6 @@
     ]
   },
   {
-    "domain": "ceu.com",
-    "title": "CEU Insurance Continuing Education | The Institutes",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 62400,
-    "crawled_at": "2025-11-24T17:00:19.449184912Z",
-    "technologies": [
-      "Add to Any",
-      "Backdrop",
-      "Content Delivery Network",
-      "Drupal",
-      "Express",
-      "Fastly",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Monetate",
-      "Nginx",
-      "PHP",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "jsDelivr"
-    ]
-  },
-  {
     "domain": "santanvet.com",
     "title": "Veterinarian in Queen Creek, AZ | San Tan Animal Hospital – Your Trusted Veterinary Clinic for Pet Wellness, Surgery, Emergency Care & More. Book an Appointment Today!",
     "business_name": "",
@@ -10636,37 +10639,6 @@
       "Tailwind CSS",
       "Visual Studio",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "aicpcu.org",
-    "title": "Homepage | The Institutes",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 93900,
-    "crawled_at": "2025-10-21T17:42:31.869698067Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Add to Any",
-      "Backdrop",
-      "Content Delivery Network",
-      "Drupal",
-      "Express",
-      "Fastly",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Monetate",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "YouTube",
-      "jsDelivr"
     ]
   }
 ]

@@ -1,5 +1,36 @@
 [
   {
+    "domain": "norcalhealthconnect.org",
+    "title": "NorCal HealthConnect | Providence",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 245670,
+    "crawled_at": "2026-02-01T09:24:54.266873502Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apture Linking Platform",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Instagram Follow Button",
+      "Kameleoon",
+      "Kyruus",
+      "Microdata for Google Shopping",
+      "Microsoft Azure",
+      "No-Q",
+      "Tealium",
+      "Twitter Ads",
+      "UTF-8",
+      "Visual Studio",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "bosch-climate.co.ke",
     "title": "Home | Bosch Home Comfort",
     "business_name": "Bosch Home Comfort",
@@ -29854,37 +29885,6 @@
       "YouTube",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "norcalhealthconnect.org",
-    "title": "NorCal HealthConnect | Providence",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 82,
-    "tech_spend": 245670,
-    "crawled_at": "2025-10-21T22:48:31.886782139Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Instagram Follow Button",
-      "Kameleoon",
-      "Kyruus",
-      "Microdata for Google Shopping",
-      "Microsoft Azure",
-      "No-Q",
-      "Tealium",
-      "Twitter Ads",
-      "UTF-8",
-      "Visual Studio",
-      "YouTube"
     ]
   }
 ]
