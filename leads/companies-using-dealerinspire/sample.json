@@ -1,5 +1,70 @@
 [
   {
+    "domain": "jaithaiaz.com",
+    "title": "Jai thai",
+    "business_name": "",
+    "country": "THA",
+    "seo_score": 60,
+    "tech_spend": 12322,
+    "crawled_at": "2026-02-01T07:22:48.873352735Z",
+    "technologies": [
+      "Apache",
+      "DealerInspire",
+      "Font Awesome",
+      "FormSubmit",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Microsoft Azure Blob Storage",
+      "Parcel",
+      "Toast POS"
+    ]
+  },
+  {
+    "domain": "dbrightauto.net",
+    "title": "D'brightauto - Premium Limo Service Atlanta",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 20228,
+    "crawled_at": "2026-02-01T00:19:48.868480295Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "DealerInspire",
+      "Instagram Follow Button",
+      "Netlify",
+      "Square",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "bluevuetrucking.com",
+    "title": "BlueVue Trucking",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 23739,
+    "crawled_at": "2026-01-31T20:03:45.697859843Z",
+    "technologies": [
+      "Call to Visit",
+      "DealerInspire",
+      "Express",
+      "Font Awesome",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "carfarehub.com",
     "title": "CarFareHub | Affordable & Reliable Car Rentals",
     "business_name": "",
@@ -326,29 +391,6 @@
       "Thank You",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "jaithaiaz.com",
-    "title": "Jai thai",
-    "business_name": "",
-    "country": "THA",
-    "seo_score": 60,
-    "tech_spend": 12322,
-    "crawled_at": "2026-01-19T13:51:41.034144644Z",
-    "technologies": [
-      "Apache",
-      "DealerInspire",
-      "Font Awesome",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Microsoft Azure Blob Storage",
-      "Parcel",
-      "Toast POS"
     ]
   },
   {
@@ -8803,27 +8845,6 @@
     ]
   },
   {
-    "domain": "dbrightauto.net",
-    "title": "D'brightauto - Premium Limo Service Atlanta",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 20228,
-    "crawled_at": "2025-11-09T13:13:28.67120173Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "DealerInspire",
-      "Instagram Follow Button",
-      "Netlify",
-      "Square",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "partreboot.com",
     "title": "Parts Reboot - Quality Parts for Your Classic Car",
     "business_name": "",
@@ -12671,26 +12692,6 @@
       "Sitelinks Search Box",
       "UTF-8",
       "Way"
-    ]
-  },
-  {
-    "domain": "bluevuetrucking.com",
-    "title": "BlueVue Trucking",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 12562,
-    "crawled_at": "2025-10-21T18:30:36.933166278Z",
-    "technologies": [
-      "Call to Visit",
-      "DealerInspire",
-      "Express",
-      "Font Awesome",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "UTF-8"
     ]
   }
 ]

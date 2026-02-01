@@ -1,5 +1,27 @@
 [
   {
+    "domain": "usecontactter.com",
+    "title": "Contactter.ai | Complete AI Platform for Automotive Dealerships",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 22872,
+    "crawled_at": "2026-01-31T23:46:48.882425747Z",
+    "technologies": [
+      "Calendly",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel",
+      "VinSolutions",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "trychckrd.info",
     "title": "Checkered AI - Facebook Marketplace Automation for Car Dealerships",
     "business_name": "",
@@ -424,28 +446,6 @@
       "YouTube",
       "eLand",
       "iGoDigital"
-    ]
-  },
-  {
-    "domain": "contactterai.com",
-    "title": "Silent Partner | Complete AI Platform for Automotive Dealerships",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 22872,
-    "crawled_at": "2025-12-28T08:22:38.329437531Z",
-    "technologies": [
-      "Calendly",
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel",
-      "VinSolutions",
-      "YouTube"
     ]
   },
   {
