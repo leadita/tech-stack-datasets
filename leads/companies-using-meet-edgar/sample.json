@@ -1,5 +1,32 @@
 [
   {
+    "domain": "dereklaser.com",
+    "title": "DEREK laser cutting machine",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 4675,
+    "crawled_at": "2026-01-31T23:37:48.863986802Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Workspace",
+      "IcoMoon",
+      "Meet Edgar",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "UTF-8",
+      "YouTube",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "sabarangreen.in",
     "title": "Home - First E-commerce with bargaining facilitie",
     "business_name": "First E-commerce with bargaining facilitie",
