@@ -1,5 +1,153 @@
 [
   {
+    "domain": "vanquish.design",
+    "title": "Designed furniture fabrication | Interior design - VANQUISH - EMOTION DESIGN",
+    "business_name": "",
+    "country": "SRB",
+    "seo_score": 77,
+    "tech_spend": 16416,
+    "crawled_at": "2026-02-01T21:31:48.885930717Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Bulma",
+      "Content Delivery Network",
+      "Financial Services Guide",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Material Design Icons",
+      "Netlify",
+      "Sanity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "ottoandthemachines.com",
+    "title": "Book - Otto & the machines",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-02-01T19:13:48.881954529Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Financial Services Guide",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "Stripe",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "paylesstreeservice.com",
+    "title": "Woodstock Full-Service Tree Services | PayLess Tree Service",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 35228,
+    "crawled_at": "2026-02-01T19:10:48.869603919Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Gridsome",
+      "Instagram Follow Button",
+      "KVH",
+      "Netlify",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "kasvith.me",
+    "title": "Kasun Vithanage - kasvith.me",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 83526,
+    "crawled_at": "2026-02-01T10:13:48.859057183Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Federal Deposit Insurance Corporation",
+      "Financial Services Guide",
+      "GitHub Hosting",
+      "Gridsome",
+      "IcoMoon",
+      "KVH",
+      "Netlify",
+      "No-Q",
+      "PWA",
+      "Phew",
+      "SMC",
+      "Subversion",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "essentialwellnessnw.com",
+    "title": "Essential Wellness NW | Nutritional Health, Massage | Redmond, WA | Essential Wellness NW",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 112979,
+    "crawled_at": "2026-01-31T23:31:02.922402294Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Cisco/Arrowpoint Content Service Switch",
+      "CloudFront",
+      "Content Delivery Network",
+      "Font Awesome",
+      "GZIP Module",
+      "Gridsome",
+      "Idaq",
+      "K2F",
+      "KVH",
+      "No-Q",
+      "RM Education",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "aloharawpetfoods.com",
+    "title": "Featured - Aloha Raw Pet Food",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 7576,
+    "crawled_at": "2026-01-31T22:49:48.866043737Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudinary",
+      "Content Delivery Network",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "Shopify",
+      "Shopify Collabs",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "buildingsareheavy.com",
     "title": "Buildings Are Heavy - Buildings Are Heavy",
     "business_name": "",
@@ -9895,27 +10043,6 @@
     ]
   },
   {
-    "domain": "vanquish.design",
-    "title": "Designed furniture fabrication | Interior design - VANQUISH - EMOTION DESIGN",
-    "business_name": "",
-    "country": "SRB",
-    "seo_score": 87,
-    "tech_spend": 16416,
-    "crawled_at": "2025-11-09T06:52:55.596525011Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Bulma",
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Material Design Icons",
-      "Netlify",
-      "Sanity",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "design-sprint-series.de",
     "title": "Design-Sprint-Series - Design-Sprint",
     "business_name": "",
@@ -10122,36 +10249,6 @@
       "Twitter Ads",
       "UTF-8",
       "Vector Internet Services",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "aloharawpetfoods.com",
-    "title": "Featured - Aloha Raw Pet Food",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 7576,
-    "crawled_at": "2025-11-08T08:23:14.735758452Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cloudinary",
-      "Content Delivery Network",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "UTF-8",
       "shadcn ui"
     ]
   },
@@ -11132,27 +11229,6 @@
     ]
   },
   {
-    "domain": "paylesstreeservice.com",
-    "title": "Woodstock Full-Service Tree Services | PayLess Tree Service",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 35228,
-    "crawled_at": "2025-11-03T11:40:12.630051938Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Gridsome",
-      "Instagram Follow Button",
-      "KVH",
-      "Netlify",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "papareo.nz",
     "title": "Papa Reo",
     "business_name": "",
@@ -11874,69 +11950,6 @@
       "Tailwind CSS",
       "UTF-8",
       "eLand"
-    ]
-  },
-  {
-    "domain": "olasunkanmi.dev",
-    "title": "Home - Alabi Olasunkanmi",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2025-11-01T17:26:16.221219595Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Gridsome",
-      "Netlify",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "fullstackfest.com",
-    "title": "Full Stack Fest - 4-6 September 2019 - Sitges, Barcelona",
-    "business_name": "",
-    "country": "ESP",
-    "seo_score": 87,
-    "tech_spend": 93927,
-    "crawled_at": "2025-11-01T16:11:38.983337312Z",
-    "technologies": [
-      "CCSI",
-      "Content Delivery Network",
-      "Corporate Governance and Regulatory Compliance",
-      "DAV",
-      "Google Related Website Sites",
-      "Gridsome",
-      "Idaq",
-      "KVH",
-      "Marfeel",
-      "Netlify",
-      "No-Q",
-      "PWA",
-      "SMC",
-      "Twitter Ads",
-      "UTF-8",
-      "WebAssembly",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "energiekaiser.at",
-    "title": "Index - Energiekaiser",
-    "business_name": "",
-    "country": "AUT",
-    "seo_score": 55,
-    "tech_spend": 11050,
-    "crawled_at": "2025-11-01T16:02:39.009442812Z",
-    "technologies": [
-      "Cogeco Peer 1",
-      "GZIP Module",
-      "Gridsome",
-      "Idaq",
-      "KVH",
-      "Nginx",
-      "Tailwind CSS"
     ]
   }
 ]

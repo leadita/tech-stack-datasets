@@ -1,5 +1,111 @@
 [
   {
+    "domain": "ai-technical-writing.com",
+    "title": "Technical Writing, AI Writing, Editing, Online help, API Documentation – Technical Writing, Editing, AI Writing, Online help, API Documentation",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 18047,
+    "crawled_at": "2026-02-01T20:22:48.861831784Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon Associates Affiliate Shop",
+      "Amazon Widgets",
+      "AppNexus Direct",
+      "Automattic",
+      "BatCache",
+      "BidSwitch Direct",
+      "Content Delivery Network",
+      "Criteo",
+      "Criteo Reseller",
+      "Docusaurus",
+      "DoubleClick Bid Manager",
+      "EmbedPress",
+      "Fastly",
+      "GDPR Consent Management Platform",
+      "Google Reseller",
+      "Gutenberg",
+      "IponWeb BidSwitch",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "Nginx",
+      "Perl",
+      "PubMatic Direct",
+      "Pubmatic",
+      "Python",
+      "QUIC",
+      "UTF-8",
+      "Varia",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "willyhardian.com",
+    "title": "Willy Hardian | Full-Stack Developer & Technical Instructor",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 240,
+    "crawled_at": "2026-02-01T19:24:41.114477535Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Docusaurus",
+      "Express",
+      "GitHub Hosting",
+      "Next.js",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "leadboost.co",
+    "title": "LeadBoost - Turn Your API Docs Into a Growth Engine",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 948,
+    "crawled_at": "2026-02-01T16:55:48.865031902Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Docusaurus",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Netlify",
+      "Next.js",
+      "PWA",
+      "Pleroma",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "devyap.ad",
+    "title": "yap.ad",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-02-01T11:07:48.861761035Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "husarion.com",
     "title": "Husarion | Autonomous Mobile Robots Made Simple",
     "business_name": "",
@@ -3667,30 +3773,6 @@
       "UTF-8",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "apidocsaccelerator.com",
-    "title": "API Docs Accelerator - Turn Your API Docs Into a Growth Engine",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 15948,
-    "crawled_at": "2025-12-21T02:46:32.748998361Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Netlify",
-      "Next.js",
-      "PWA",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   },
   {
@@ -8068,48 +8150,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "ai-technical-writing.com",
-    "title": "Technical Writing, AI Writing, Editing, Online help, API Documentation – Technical Writing, Editing, AI Writing, Online help, API Documentation",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 87,
-    "tech_spend": 180598,
-    "crawled_at": "2025-11-17T22:42:31.566088456Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon Associates Affiliate Shop",
-      "Amazon Widgets",
-      "AppNexus Direct",
-      "Automattic",
-      "BidSwitch Direct",
-      "Content Delivery Network",
-      "Criteo",
-      "Criteo Reseller",
-      "Docusaurus",
-      "DoubleClick Bid Manager",
-      "Fireblade",
-      "GDPR Consent Management Platform",
-      "Google Reseller",
-      "IponWeb BidSwitch",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Nginx",
-      "Perl",
-      "PubMatic Direct",
-      "Pubmatic",
-      "Python",
-      "QUIC",
-      "Salesforce Hosted",
-      "UTF-8",
-      "Varia",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "jQuery"
     ]
   },
   {
@@ -12550,49 +12590,6 @@
       "Twitter Ads",
       "UTF-8",
       "eLand"
-    ]
-  },
-  {
-    "domain": "configforge.com",
-    "title": "ConfigForge - guides & tools I use in Microsoft 365 and Azure work | ConfigForge · by Opsora",
-    "business_name": "",
-    "country": "",
-    "seo_score": 82,
-    "tech_spend": 15039,
-    "crawled_at": "2025-10-22T17:00:32.321336637Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Coming Soon Page",
-      "Docusaurus",
-      "Fireblade",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Perl",
-      "Tailwind CSS",
-      "WordPress",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "openhearing.org",
-    "title": "Open Hearing | Open Hearing",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 2450,
-    "crawled_at": "2025-10-22T15:27:31.899639865Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Perl",
-      "University or College"
     ]
   }
 ]
