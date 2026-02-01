@@ -1,5 +1,32 @@
 [
   {
+    "domain": "benesse.co.uk",
+    "title": "Home - Money Wellness",
+    "business_name": "Money Wellness",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 22880,
+    "crawled_at": "2026-02-01T09:31:48.879507919Z",
+    "technologies": [
+      "ButterCMS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Feefo",
+      "Fireblade",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Next.js",
+      "Pleroma",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "moneyappiapp.com",
     "title": "Moneyappi",
     "business_name": "",
