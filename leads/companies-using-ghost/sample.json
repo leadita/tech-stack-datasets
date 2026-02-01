@@ -1,5 +1,97 @@
 [
   {
+    "domain": "adaptief.de",
+    "title": "Adaptief",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 65,
+    "tech_spend": 2372,
+    "crawled_at": "2026-02-01T11:02:32.381757824Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ElementUI",
+      "Express",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Ghost",
+      "Matomo",
+      "Matomo Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "UTF-8",
+      "Unsplash"
+    ]
+  },
+  {
+    "domain": "thegatedsignal.com",
+    "title": "The Gated Signal – Tech, Leadership & Delivery with David Stewart",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 23060,
+    "crawled_at": "2026-02-01T06:19:48.884818742Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Bunny Fonts",
+      "Content Delivery Network",
+      "DAV",
+      "Fastly",
+      "GZIP Module",
+      "Ghost",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "UTF-8",
+      "Waveform Technology",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "lighthill.ai",
+    "title": "Lighthill Technologies, Inc.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 132,
+    "crawled_at": "2026-02-01T02:31:48.862474826Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Express",
+      "GZIP Module",
+      "Ghost",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "geelongcereal.com",
+    "title": "Geelong Cereal",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 82,
+    "tech_spend": 3132,
+    "crawled_at": "2026-01-31T23:08:55.793490777Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "Ghost",
+      "Linktree",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "Stripe",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "littlelobbyists.org",
     "title": "Little Lobbyists Family Alliance",
     "business_name": "",
@@ -197,26 +289,6 @@
       "OpenResty",
       "UTF-8",
       "Unsplash",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "lighthillcorp.com",
-    "title": "Lighthill Technologies, Inc.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 132,
-    "crawled_at": "2026-01-30T07:22:48.861029521Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Express",
-      "GZIP Module",
-      "Ghost",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "UTF-8",
       "jsDelivr"
     ]
   },
@@ -13070,77 +13142,6 @@
       "OpenResty",
       "Stripe",
       "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "necrosoftgames.com",
-    "title": "Necrosoft Games",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 2231,
-    "crawled_at": "2025-11-04T20:17:38.897238089Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "BLR",
-      "Express",
-      "Font Awesome",
-      "Ghost",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Tumblr",
-      "UTF-8",
-      "Ubuntu",
-      "itch.io",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "smartmuv.app",
-    "title": "SmartMuv - Deep Storage Data of Smart Contracts",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 744,
-    "crawled_at": "2025-11-04T18:41:34.312055462Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Express",
-      "Ghost",
-      "Google Conversion Tracking",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "UTF-8",
-      "Ubuntu",
-      "Unsplash",
-      "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "pea-pod.org",
-    "title": "PEA Pod",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2948,
-    "crawled_at": "2025-11-04T16:31:25.196877712Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Express",
-      "Ghost",
-      "Matomo",
-      "Matomo Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "UTF-8",
-      "University or College",
       "jsDelivr"
     ]
   }

@@ -1,5 +1,129 @@
 [
   {
+    "domain": "chris.qa",
+    "title": "chris.qa",
+    "business_name": "chris.qa",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 115,
+    "crawled_at": "2026-02-01T04:52:48.880913556Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "nlogos.net",
+    "title": "nlogos",
+    "business_name": " nlogos",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 49,
+    "crawled_at": "2026-02-01T04:20:52.898728425Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Publii",
+      "Termly",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "abdrehman.com",
+    "title": "abdrehman.com",
+    "business_name": "abdrehman.com",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 49,
+    "crawled_at": "2026-01-31T15:43:48.869423092Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Microdata for Google Shopping",
+      "Publii",
+      "QUIC",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "fellow.ventures",
+    "title": "fellow.ventures",
+    "business_name": "fellow.ventures",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 112,
+    "crawled_at": "2026-01-31T14:12:20.081426747Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Publii",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "cantor-law.com",
+    "title": "Law Office of Andrew S. Cantor | Premium Legal Services",
+    "business_name": "",
+    "country": "VEN",
+    "seo_score": 77,
+    "tech_spend": 180270,
+    "crawled_at": "2026-01-31T13:40:48.877982683Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adult Content",
+      "Apache",
+      "Cisco/Arrowpoint Content Service Switch",
+      "DAV",
+      "Financial Services Guide",
+      "Fireblade",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "HHVM",
+      "Hexo",
+      "K2F",
+      "KVH",
+      "No-Q",
+      "O2MC Dimml",
+      "PHP",
+      "Perl",
+      "Phew",
+      "Publii",
+      "QUIC",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS",
+      "University or College",
+      "Unix",
+      "Wangsu",
+      "Yelp Badge"
+    ]
+  },
+  {
     "domain": "dignacio.org",
     "title": "Dan Ignacio",
     "business_name": "",
@@ -5605,22 +5729,6 @@
     ]
   },
   {
-    "domain": "abdrehman.com",
-    "title": "abdrehman.com",
-    "business_name": "abdrehman.com",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 49,
-    "crawled_at": "2025-11-08T14:16:19.727774658Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Microdata for Google Shopping",
-      "Publii",
-      "QUIC",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
     "domain": "wyandotte.co.uk",
     "title": "Wyandotte chickens. - Yorkshire Wyandottes",
     "business_name": "",
@@ -7215,49 +7323,6 @@
       "LiteSpeed",
       "Microdata for Google Shopping",
       "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "nlogos.net",
-    "title": "nlogos",
-    "business_name": " nlogos",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 49,
-    "crawled_at": "2025-10-21T21:09:01.788727679Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Publii",
-      "Termly",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "fellow.ventures",
-    "title": "fellow.ventures",
-    "business_name": "fellow.ventures",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2589,
-    "crawled_at": "2025-10-21T16:46:46.396904839Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Publii",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   }
