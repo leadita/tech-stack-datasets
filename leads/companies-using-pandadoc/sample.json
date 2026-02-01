@@ -1,12 +1,12 @@
 [
   {
-    "domain": "pamdadoc.com",
+    "domain": "0andadoc.com",
     "title": "PandaDoc – Create, Approve, Track & eSign Docs 40% Faster",
     "business_name": "PandaDoc",
     "country": "",
     "seo_score": 72,
     "tech_spend": 257392,
-    "crawled_at": "2026-01-31T20:28:59.385738684Z",
+    "crawled_at": "2026-02-01T12:07:26.219733989Z",
     "technologies": [
       "Alternate Protocol",
       "App Store",
@@ -42,6 +42,44 @@
       "Visual Website Optimizer",
       "YouTube",
       "monday.com"
+    ]
+  },
+  {
+    "domain": "accumulator.co",
+    "title": "Accumulator™ | Better Than Secondaries",
+    "business_name": "Accumulator",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 22000,
+    "crawled_at": "2026-02-01T01:58:48.86210344Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon",
+      "Amazon CloudFront",
+      "ArvanCloud",
+      "Calendly",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "DAV",
+      "Discord",
+      "ElementUI",
+      "Express",
+      "Fresha",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "OpenWeb",
+      "PandaDoc",
+      "Tailwind CSS",
+      "UTF-8",
+      "WF Cookie Consent",
+      "jsDelivr"
     ]
   },
   {
@@ -863,42 +901,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "accumulatorbox.com",
-    "title": "Accumulator™ | Founder Liquidity & Diversification Without Giving Up Upside",
-    "business_name": "Accumulator",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 21808,
-    "crawled_at": "2025-12-13T05:52:56.084700373Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "ArvanCloud",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "DAV",
-      "Discord",
-      "ElementUI",
-      "Express",
-      "Fresha",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "OpenWeb",
-      "PandaDoc",
-      "Tailwind CSS",
-      "WF Cookie Consent",
-      "jsDelivr"
     ]
   },
   {
@@ -2180,39 +2182,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "limitlessfitness247.com",
-    "title": "Limitless Fitness of Morris, IL",
-    "business_name": "Limitless Fitness",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 8370,
-    "crawled_at": "2025-10-22T00:30:22.137417709Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Astra Theme",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PandaDoc",
-      "QUIC",
-      "Sitelinks Search Box",
-      "UTF-8",
-      "WordPress",
-      "YouTube"
     ]
   }
 ]
