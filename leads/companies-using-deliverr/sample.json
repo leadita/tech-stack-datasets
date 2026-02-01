@@ -1,5 +1,32 @@
 [
   {
+    "domain": "adelstrades.com",
+    "title": "Adel's Store",
+    "business_name": "Adel&#39;s Store",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 2048,
+    "crawled_at": "2026-02-01T21:56:25.478966409Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Deliverr",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "Thank You",
+      "UTF-8",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "stellalife.ca",
     "title": "VEGA Oral Recovery Care: Dental Healing Spray, Gel, Rinse - StellaLife",
     "business_name": "",
@@ -6962,35 +6989,6 @@
       "Zendesk Guide",
       "hCaptcha",
       "jQuery",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "adelstrades.com",
-    "title": "Adel's Store",
-    "business_name": "Adel&#39;s Store",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 60556,
-    "crawled_at": "2025-10-22T03:28:45.469684576Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Deliverr",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "QUIC",
-      "SMC",
-      "Sapper",
-      "Shopify",
-      "Shopify Collabs",
-      "Thank You",
-      "UTF-8",
-      "hCaptcha",
       "reCAPTCHA"
     ]
   }
