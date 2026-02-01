@@ -1,5 +1,31 @@
 [
   {
+    "domain": "antlam.com",
+    "title": "Anthony Lam - Product Design Leader | UX Portfolio",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 6648,
+    "crawled_at": "2026-02-01T14:16:48.87824774Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "InitiativeS",
+      "Jane App",
+      "Shopify",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "WF Cookie Consent"
+    ]
+  },
+  {
     "domain": "innovapsychology.ca",
     "title": "Innova Psychology",
     "business_name": "",

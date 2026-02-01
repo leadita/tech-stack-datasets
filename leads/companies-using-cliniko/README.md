@@ -1,6 +1,6 @@
 # Companies Using Cliniko (Live Dataset 2026)
 
-This folder contains an active list of 2,510 companies using **Cliniko**. 
+This folder contains an active list of 2,522 companies using **Cliniko**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 2,510
+- **Total Leads:** 2,522
 - **Verified:** Yes
-- **Last Updated:** 2026-01-31 18:30 UTC
+- **Last Updated:** 2026-02-01 18:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **2,510+** companies using Cliniko.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **2,522+** companies using Cliniko.
 
 [**⚡ Unlock the Full Cliniko List with Contact Details**](https://leadita.com/leads/companies-using-cliniko?utm_source=github_folder)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-01-31 18:30 UTC*
+*Last updated: 2026-02-01 18:30 UTC*
 *Data source: Leadita Technographic Intelligence*
