@@ -1,5 +1,22 @@
 [
   {
+    "domain": "codeture.nl",
+    "title": "Codeture: We create high-quality, custom-made software.",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 62,
+    "tech_spend": 3528,
+    "crawled_at": "2026-02-02T08:31:48.879233829Z",
+    "technologies": [
+      "GZIP Module",
+      "Jane App",
+      "Nginx",
+      "Plausible Analytics",
+      "Tailwind CSS",
+      "Ubuntu"
+    ]
+  },
+  {
     "domain": "antlam.com",
     "title": "Anthony Lam - Product Design Leader | UX Portfolio",
     "business_name": "",
