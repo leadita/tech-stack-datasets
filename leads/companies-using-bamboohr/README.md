@@ -1,6 +1,6 @@
 # Companies Using BambooHR (Live Dataset 2026)
 
-This folder contains an active list of 1,424 companies using **BambooHR**. 
+This folder contains an active list of 1,428 companies using **BambooHR**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 1,424
+- **Total Leads:** 1,428
 - **Verified:** Yes
-- **Last Updated:** 2026-02-01 18:45 UTC
+- **Last Updated:** 2026-02-02 18:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,424+** companies using BambooHR.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,428+** companies using BambooHR.
 
 [**⚡ Unlock the Full BambooHR List with Contact Details**](https://leadita.com/leads/companies-using-bamboohr?utm_source=github_folder)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-01 18:45 UTC*
+*Last updated: 2026-02-02 18:45 UTC*
 *Data source: Leadita Technographic Intelligence*
