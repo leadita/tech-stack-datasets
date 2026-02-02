@@ -1,5 +1,57 @@
 [
   {
+    "domain": "aligned-audio.de",
+    "title": "aligned audio engineering",
+    "business_name": "aligned audio engineering",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 49,
+    "crawled_at": "2026-02-02T01:16:59.579118351Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Microdata for Google Shopping",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "thekair.art",
+    "title": "thekair.art",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 49,
+    "crawled_at": "2026-02-01T16:44:27.421010744Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "bellasvecha.com",
+    "title": "Bella Svecha Naturals - Bella Svecha Naturals",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 49,
+    "crawled_at": "2026-02-01T14:40:26.833385778Z",
+    "technologies": [
+      "Alternate Protocol",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "Publii",
+      "QUIC",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "chris.qa",
     "title": "chris.qa",
     "business_name": "chris.qa",
@@ -7272,57 +7324,6 @@
       "Microsoft Azure",
       "Publii",
       "Visual Studio",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "aligned-audio.de",
-    "title": "aligned audio engineering",
-    "business_name": "aligned audio engineering",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 49,
-    "crawled_at": "2025-10-22T04:40:17.029107352Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Microdata for Google Shopping",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "thekair.art",
-    "title": "thekair.art",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 49,
-    "crawled_at": "2025-10-22T01:27:32.076521211Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "bellasvecha.com",
-    "title": "Bella Svecha Naturals - Bella Svecha Naturals",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 49,
-    "crawled_at": "2025-10-22T00:39:32.047813835Z",
-    "technologies": [
-      "Alternate Protocol",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "Publii",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   }

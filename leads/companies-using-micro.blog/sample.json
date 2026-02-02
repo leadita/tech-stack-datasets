@@ -1,5 +1,25 @@
 [
   {
+    "domain": "rud.is",
+    "title": "hrbrmstr (boB Rudis)",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 216,
+    "crawled_at": "2026-02-02T12:25:48.883349862Z",
+    "technologies": [
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Related Website Sites",
+      "IcoMoon",
+      "Mastodon",
+      "Micro.blog",
+      "Nginx",
+      "Observable",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "coffeaweb.com",
     "title": "The Journeyman - Brandon Kraft - Musings from Brandon Kraft",
     "business_name": "",
