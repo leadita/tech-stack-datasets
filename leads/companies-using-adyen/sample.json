@@ -1,5 +1,67 @@
 [
   {
+    "domain": "rexelenergysolutions.ie",
+    "title": "Kellihers Electrical | Online Retailer for Energy Efficient Products",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 54522,
+    "crawled_at": "2026-02-02T03:38:30.885245285Z",
+    "technologies": [
+      "Adyen",
+      "Amazon WAF Blocked",
+      "Bing Cashback",
+      "DAV",
+      "Fastly",
+      "Financial Services Guide",
+      "Fireblade",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "KVH",
+      "Microdata for Google Shopping",
+      "Microsoft Azure",
+      "Microsoft Clarity",
+      "Microsoft Dynamics 365 Commerce",
+      "Perl",
+      "QUIC",
+      "SMC",
+      "Subversion",
+      "UTF-8",
+      "Vector Internet Services",
+      "WhatsApp Sharing",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "lydiarollekey.com",
+    "title": "Home | Sell Your Smarts",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 60,
+    "crawled_at": "2026-02-02T00:43:48.883404907Z",
+    "technologies": [
+      "Adyen",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Tag Manager",
+      "Nginx",
+      "QUIC",
+      "UTF-8",
+      "Ubuntu"
+    ]
+  },
+  {
     "domain": "eurosyar.com",
     "title": "Eurostar.com: Book Europe Train Tickets and Holidays",
     "business_name": "Eurostar",
@@ -197,27 +259,6 @@
       "Storyblocks",
       "UTF-8",
       "uPress"
-    ]
-  },
-  {
-    "domain": "lydiarollekey.com",
-    "title": "Home | Sell Your Smarts",
-    "business_name": "",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 2400,
-    "crawled_at": "2026-01-27T01:07:51.656302479Z",
-    "technologies": [
-      "Adyen",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "Nginx",
-      "QUIC",
-      "UTF-8",
-      "Ubuntu"
     ]
   },
   {
@@ -5238,47 +5279,6 @@
       "Webconnex",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "rexelenergysolutions.ie",
-    "title": "Kellihers Electrical | Online Retailer for Energy Efficient Products",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 54522,
-    "crawled_at": "2025-10-22T05:33:32.361787819Z",
-    "technologies": [
-      "Adyen",
-      "Amazon WAF Blocked",
-      "Bing Cashback",
-      "DAV",
-      "Fastly",
-      "Financial Services Guide",
-      "Fireblade",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "KVH",
-      "Microdata for Google Shopping",
-      "Microsoft Azure",
-      "Microsoft Clarity",
-      "Microsoft Dynamics 365 Commerce",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "Subversion",
-      "UTF-8",
-      "Vector Internet Services",
-      "WhatsApp Sharing",
-      "YouTube",
-      "eLand"
     ]
   }
 ]
