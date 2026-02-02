@@ -1,12 +1,12 @@
 [
   {
-    "domain": "voyagemind.com",
-    "title": "An EMDN - Voyage Mind, Travel Inspiration Adventure Planning Exploration Discovery Personal Growth Journey Insightful Experiences Cultural Learning Mindful Travel",
+    "domain": "ultima1.com",
+    "title": "An EMDN - Ultima 1, Classic RPG Video Game Retro Gaming Fantasy Adventure Origin Systems Role-Playing Quest Exploration Medieval Storyline",
     "business_name": "",
     "country": "",
-    "seo_score": 32,
+    "seo_score": 37,
     "tech_spend": 135,
-    "crawled_at": "2026-02-01T11:26:20.051024873Z",
+    "crawled_at": "2026-02-01T23:58:05.817183802Z",
     "technologies": [
       "Amazon CloudFront",
       "Apture Linking Platform",
@@ -17,6 +17,70 @@
       "Google Analytics",
       "Google Tag Manager",
       "UTF-8"
+    ]
+  },
+  {
+    "domain": "fsl-production.com",
+    "title": "FSL PRODUCTION",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 135,
+    "crawled_at": "2026-02-01T22:25:48.903284174Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "Font Awesome",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "internetcommerce.org",
+    "title": "Home - InternetCommerce.org",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 18466,
+    "crawled_at": "2026-02-01T21:10:48.885599067Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "CheryFramework",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Cornerstone",
+      "Corporate Governance and Regulatory Compliance",
+      "Dynadot",
+      "EmbedPress",
+      "FreeCSSTemplates",
+      "GoDaddy",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "QUIC",
+      "Slider Revolution",
+      "TablePress",
+      "Tailwind CSS",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "Website Tonight",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery",
+      "shadcn ui"
     ]
   },
   {
@@ -3509,26 +3573,6 @@
       "Font Awesome",
       "GZIP Module",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "circleofcarecommunityservices.org",
-    "title": "CIRCLE OF CARE COMMUNITY SERVICES",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 135,
-    "crawled_at": "2025-10-22T01:51:32.275613654Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "InitiativeS",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]

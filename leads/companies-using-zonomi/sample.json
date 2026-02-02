@@ -1,5 +1,31 @@
 [
   {
+    "domain": "pirminamai.lt",
+    "title": "Nauji butai ir komercinės patalpos Vilniuje. | Pirmi namai",
+    "business_name": "",
+    "country": "LTU",
+    "seo_score": 72,
+    "tech_spend": 2604,
+    "crawled_at": "2026-02-01T19:56:56.070188982Z",
+    "technologies": [
+      "AI Log",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "Pexels",
+      "Unsplash",
+      "Zonomi",
+      "Zyro"
+    ]
+  },
+  {
     "domain": "25mail.st",
     "title": "25 Mail St.: Managed email hosting",
     "business_name": "",
@@ -1028,33 +1054,6 @@
       "Zonomi",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "pirminamai.lt",
-    "title": "Nauji butai ir komercinės patalpos Vilniuje. | Pirmi namai",
-    "business_name": "",
-    "country": "LTU",
-    "seo_score": 82,
-    "tech_spend": 22604,
-    "crawled_at": "2025-10-22T02:45:44.19534821Z",
-    "technologies": [
-      "AI Log",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "HMDG",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "Pexels",
-      "Unsplash",
-      "Zonomi",
-      "Zyro"
     ]
   }
 ]
