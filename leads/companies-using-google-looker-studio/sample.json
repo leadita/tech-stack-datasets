@@ -1,5 +1,24 @@
 [
   {
+    "domain": "mistrynet.co.uk",
+    "title": "mistrynet UK",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 55,
+    "tech_spend": 1203,
+    "crawled_at": "2026-02-02T02:49:31.258678682Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Barchart",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Looker Studio",
+      "Google My Business",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "longshipinvest.com",
     "title": "Longship Invest • Automated Crypto Investments",
     "business_name": "Longship Invest",
@@ -5960,48 +5979,6 @@
       "YouTube",
       "YouTube Advanced by Embed Plus",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "mistrynet.co.uk",
-    "title": "mistrynet UK",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 5040,
-    "crawled_at": "2025-10-22T05:14:19.427464755Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Barchart",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Looker Studio",
-      "Google My Business",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "zzurtolab.com",
-    "title": "ZzurtoTILabs",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2440,
-    "crawled_at": "2025-10-22T01:18:07.013707817Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Looker Studio",
-      "Google My Business",
-      "Google Tag Manager",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
