@@ -1,5 +1,38 @@
 [
   {
+    "domain": "gallerymutiny.com",
+    "title": "HOME | fine art gallery",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 50496,
+    "crawled_at": "2026-02-01T12:49:48.882627631Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Express",
+      "Fastly",
+      "Fastly CDN",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Mutiny",
+      "NFOrce Internet",
+      "PWA",
+      "QUIC",
+      "SMC",
+      "Sentry",
+      "SiteW",
+      "UTF-8",
+      "Vector Internet Services",
+      "Wix",
+      "Wix Media",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "talesfromthemutiny.com",
     "title": "Tales From the Mutiny",
     "business_name": "",
