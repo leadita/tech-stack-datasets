@@ -1,6 +1,6 @@
 # Companies Using TalentLMS (Live Dataset 2026)
 
-This folder contains an active list of 323 companies using **TalentLMS**. 
+This folder contains an active list of 325 companies using **TalentLMS**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 323
+- **Total Leads:** 325
 - **Verified:** Yes
-- **Last Updated:** 2026-02-01 17:00 UTC
+- **Last Updated:** 2026-02-02 17:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **323+** companies using TalentLMS.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **325+** companies using TalentLMS.
 
 [**⚡ Unlock the Full TalentLMS List with Contact Details**](https://leadita.com/leads/companies-using-talentlms?utm_source=github_folder)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-01 17:00 UTC*
+*Last updated: 2026-02-02 17:00 UTC*
 *Data source: Leadita Technographic Intelligence*
