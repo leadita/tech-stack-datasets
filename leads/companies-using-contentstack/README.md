@@ -1,6 +1,6 @@
 # Companies Using Contentstack (Live Dataset 2026)
 
-This folder contains an active list of 1,224 companies using **Contentstack**. 
+This folder contains an active list of 1,228 companies using **Contentstack**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 1,224
+- **Total Leads:** 1,228
 - **Verified:** Yes
-- **Last Updated:** 2026-02-01 18:15 UTC
+- **Last Updated:** 2026-02-02 18:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,224+** companies using Contentstack.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,228+** companies using Contentstack.
 
 [**⚡ Unlock the Full Contentstack List with Contact Details**](https://leadita.com/leads/companies-using-contentstack?utm_source=github_folder)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-01 18:15 UTC*
+*Last updated: 2026-02-02 18:15 UTC*
 *Data source: Leadita Technographic Intelligence*
