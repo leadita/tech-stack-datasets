@@ -1,5 +1,38 @@
 [
   {
+    "domain": "uniontech.vc",
+    "title": "Home - Union Tech Ventures",
+    "business_name": "Union Tech Ventures",
+    "country": "JPN",
+    "seo_score": 77,
+    "tech_spend": 118196,
+    "crawled_at": "2026-02-02T01:13:48.865220169Z",
+    "technologies": [
+      "Alternate Protocol",
+      "DAV",
+      "Dynamic Yield",
+      "EmbedPress",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Imperva Bot Detection and Mitigation",
+      "Lazy Load for WordPress",
+      "Lusha",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Riskified",
+      "Taboola Direct",
+      "Taboola Reseller",
+      "Theme In WP",
+      "UTF-8",
+      "WP Rocket",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "biznatron.com",
     "title": "Biznatron – B2B Lead Generation & Appointment Setting",
     "business_name": "",
@@ -1167,36 +1200,6 @@
       "WordPress Multisite",
       "Yelp Badge",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "uniontech.vc",
-    "title": "Home - Union Tech Ventures",
-    "business_name": "Union Tech Ventures",
-    "country": "JPN",
-    "seo_score": 87,
-    "tech_spend": 103077,
-    "crawled_at": "2025-10-22T05:07:22.427440242Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Dynamic Yield",
-      "EmbedPress",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Lazy Load for WordPress",
-      "Lusha",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Riskified",
-      "Taboola Direct",
-      "Taboola Reseller",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite"
     ]
   }
 ]
