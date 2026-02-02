@@ -1,5 +1,36 @@
 [
   {
+    "domain": "goharddrive.com",
+    "title": "www.goHardDrive.com",
+    "business_name": "",
+    "country": "JPN",
+    "seo_score": 72,
+    "tech_spend": 31660,
+    "crawled_at": "2026-02-02T11:52:38.306455709Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "AWS WAF Challenge",
+      "Apture Linking Platform",
+      "AutoComplete",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Fireblade",
+      "FreeCSSTemplates",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "ISO/IEC 8859",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "PayPal",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "Volusion"
+    ]
+  },
+  {
     "domain": "shawsstructuresunlimited.com",
     "title": "Home",
     "business_name": "",
@@ -3006,38 +3037,6 @@
       "Thank You",
       "UTF-8",
       "Volusion Live Chat"
-    ]
-  },
-  {
-    "domain": "goharddrive.com",
-    "title": "www.goHardDrive.com",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 41660,
-    "crawled_at": "2025-10-22T11:12:33.156996448Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "AutoComplete",
-      "Barracuda Web App Firewall",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Fireblade",
-      "FreeCSSTemplates",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "ISO/IEC 8859",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "PayPal",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "Volusion"
     ]
   }
 ]
