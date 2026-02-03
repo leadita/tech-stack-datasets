@@ -1,12 +1,12 @@
 [
   {
-    "domain": "mybenefitairship.info",
+    "domain": "benefit-airships.biz",
     "title": "Benefit Airship Affordable Health & Wellness Plans Nationwide",
     "business_name": "Benefit Airship",
     "country": "",
     "seo_score": 67,
-    "tech_spend": 161336,
-    "crawled_at": "2026-02-01T07:40:48.868912179Z",
+    "tech_spend": 111336,
+    "crawled_at": "2026-02-03T14:52:48.862850992Z",
     "technologies": [
       "AWS WAF Challenge",
       "Airship CRM",
@@ -30,7 +30,6 @@
       "PageFly",
       "QUIC",
       "RM Education",
-      "SMC",
       "Shopify",
       "Tailwind CSS",
       "TrackingMore",
