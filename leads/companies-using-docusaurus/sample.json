@@ -1,5 +1,132 @@
 [
   {
+    "domain": "cardinalkit.org",
+    "title": "CardinalKit",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 3099,
+    "crawled_at": "2026-02-03T18:46:48.894236566Z",
+    "technologies": [
+      "Apache",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Docusaurus",
+      "ElementUI",
+      "Font Awesome",
+      "GitHub Buttons Official",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Ntent",
+      "Pure.css",
+      "RawGit",
+      "Slack",
+      "Twitter Ads",
+      "Wangsu",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "darka.io",
+    "title": "Darka Software | Automation Made Easy",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 5000,
+    "crawled_at": "2026-02-03T13:16:48.890762053Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Better Lead Generation Services",
+      "Calendly",
+      "Docusaurus",
+      "Nginx",
+      "Perl",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "teamtoobig.com",
+    "title": "Team Toobig",
+    "business_name": "",
+    "country": "",
+    "seo_score": 32,
+    "tech_spend": 600,
+    "crawled_at": "2026-02-03T10:28:48.866101123Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "codehints.io",
+    "title": "Programming Cheat Sheets | CodeHints",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 228,
+    "crawled_at": "2026-02-03T10:28:48.861506911Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "KaTeX",
+      "Netlify",
+      "Perl",
+      "Python",
+      "Svelte",
+      "To Top",
+      "UTF-8",
+      "WebAssembly",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "stuffbydavid.ca",
+    "title": "David Liu | Full-Stack Developer",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 70780,
+    "crawled_at": "2026-02-03T01:07:48.859398101Z",
+    "technologies": [
+      "Bulma",
+      "DAV",
+      "Docusaurus",
+      "Express",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Gatsby JS",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Heroku",
+      "IPFS",
+      "KVH",
+      "Nginx",
+      "PHP",
+      "Python",
+      "SMC",
+      "UTF-8",
+      "Ubuntu",
+      "University or College"
+    ]
+  },
+  {
     "domain": "cat2.cloud",
     "title": "ironArray SLU",
     "business_name": "",
@@ -777,29 +904,6 @@
       "Telegram",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "codehints.io",
-    "title": "Programming Cheat Sheets | CodeHints",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 228,
-    "crawled_at": "2026-01-27T03:55:58.153393807Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "KaTeX",
-      "Netlify",
-      "Perl",
-      "Python",
-      "To Top",
-      "UTF-8",
-      "WebAssembly",
-      "jsDelivr"
     ]
   },
   {
@@ -9796,28 +9900,6 @@
     ]
   },
   {
-    "domain": "darka.io",
-    "title": "Darka Software | Automation Made Easy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 5000,
-    "crawled_at": "2025-11-08T20:44:58.666081637Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Better Lead Generation Services",
-      "Calendly",
-      "Docusaurus",
-      "Nginx",
-      "Perl",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "nuke.build",
     "title": "Smart automation for DevOps teams and CI/CD pipelines | NUKE",
     "business_name": "",
@@ -9878,38 +9960,6 @@
       "Netlify",
       "Perl",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "stuffbydavid.ca",
-    "title": "David Liu | Full-Stack Developer",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 70780,
-    "crawled_at": "2025-11-08T07:01:29.006331093Z",
-    "technologies": [
-      "Bulma",
-      "DAV",
-      "Docusaurus",
-      "Express",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Gatsby JS",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Heroku",
-      "IPFS",
-      "KVH",
-      "Nginx",
-      "PHP",
-      "Python",
-      "SMC",
-      "UTF-8",
-      "Ubuntu",
-      "University or College"
     ]
   },
   {
@@ -11104,36 +11154,6 @@
       "Tilda",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "cardinalkit.org",
-    "title": "CardinalKit",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 3099,
-    "crawled_at": "2025-11-03T05:29:29.36450377Z",
-    "technologies": [
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Docusaurus",
-      "ElementUI",
-      "Font Awesome",
-      "GitHub Buttons Official",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Ntent",
-      "Pure.css",
-      "RawGit",
-      "Slack",
-      "Twitter Ads",
-      "Wangsu",
-      "YouTube"
     ]
   },
   {
@@ -12553,27 +12573,6 @@
       "Perl",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "datoria.no",
-    "title": "Home | Datoria",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 17400,
-    "crawled_at": "2025-10-26T07:38:31.65221169Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "Perl",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
