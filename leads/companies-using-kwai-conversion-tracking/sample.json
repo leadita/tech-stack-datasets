@@ -1,5 +1,30 @@
 [
   {
+    "domain": "traditionalhanfu.com",
+    "title": "Hanfu Dress - Chinese Traditional Clothing Online",
+    "business_name": "jinxiouhanxiang",
+    "country": "CHN",
+    "seo_score": 77,
+    "tech_spend": 720,
+    "crawled_at": "2026-02-02T23:19:48.889502194Z",
+    "technologies": [
+      "ByteDance",
+      "Cloudflare",
+      "Express",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Kwai Conversion Tracking",
+      "Microdata for Google Shopping",
+      "Pico CSS",
+      "Pinterest Conversion Tracking",
+      "Sign In With Google",
+      "TikTok Conversion Tracking Pixel",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "ouryours.com",
     "title": "Ouryours",
     "business_name": "",
@@ -500,31 +525,6 @@
       "StackPath",
       "Tailwind CSS",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "traditionalhanfu.com",
-    "title": "Hanfu Dress - Chinese Traditional Clothing Online",
-    "business_name": "jinxiouhanxiang",
-    "country": "CHN",
-    "seo_score": 77,
-    "tech_spend": 720,
-    "crawled_at": "2025-11-05T07:18:33.081491025Z",
-    "technologies": [
-      "ByteDance",
-      "Cloudflare",
-      "Express",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Kwai Conversion Tracking",
-      "Microdata for Google Shopping",
-      "Pico CSS",
-      "Pinterest Conversion Tracking",
-      "Sign In With Google",
-      "TikTok Conversion Tracking Pixel",
-      "UTF-8"
     ]
   },
   {

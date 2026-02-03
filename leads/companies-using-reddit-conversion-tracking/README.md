@@ -1,6 +1,6 @@
 # Companies Using Reddit Conversion Tracking (Live Dataset 2026)
 
-This folder contains an active list of 5,635 companies using **Reddit Conversion Tracking**. 
+This folder contains an active list of 5,649 companies using **Reddit Conversion Tracking**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,16 +8,16 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 5,635
+- **Total Leads:** 5,649
 - **Verified:** Yes
-- **Last Updated:** 2026-02-02 14:30 UTC
+- **Last Updated:** 2026-02-03 14:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **5,635+** companies using Reddit Conversion Tracking.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **5,649+** companies using Reddit Conversion Tracking.
 
-[**⚡ Unlock the Full Reddit Conversion Tracking List with Contact Details**](https://leadita.com/leads/companies-using-reddit-conversion-tracking?utm_source=github_folder)
+[**⚡ Unlock the Full Reddit Conversion Tracking List with Contact Details**](https://leadita.com/leads/companies-using-reddit-conversion-tracking)
 
 ## 📝 Sample Preview
 | Domain | Country | State | Tech Stack | Score |
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-02 14:30 UTC*
+*Last updated: 2026-02-03 14:30 UTC*
 *Data source: Leadita Technographic Intelligence*
