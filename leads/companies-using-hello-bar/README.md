@@ -1,6 +1,6 @@
 # Companies Using Hello Bar (Live Dataset 2026)
 
-This folder contains an active list of 1,342 companies using **Hello Bar**. 
+This folder contains an active list of 1,343 companies using **Hello Bar**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,16 +8,16 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 1,342
+- **Total Leads:** 1,343
 - **Verified:** Yes
-- **Last Updated:** 2026-02-02 20:45 UTC
+- **Last Updated:** 2026-02-03 20:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,342+** companies using Hello Bar.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,343+** companies using Hello Bar.
 
-[**⚡ Unlock the Full Hello Bar List with Contact Details**](https://leadita.com/leads/companies-using-hello-bar?utm_source=github_folder)
+[**⚡ Unlock the Full Hello Bar List with Contact Details**](https://leadita.com/leads/companies-using-hello-bar)
 
 ## 📝 Sample Preview
 | Domain | Country | State | Tech Stack | Score |
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-02 20:45 UTC*
+*Last updated: 2026-02-03 20:45 UTC*
 *Data source: Leadita Technographic Intelligence*
