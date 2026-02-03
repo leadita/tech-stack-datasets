@@ -1,5 +1,66 @@
 [
   {
+    "domain": "architecturaldesign.app",
+    "title": "Build Your Brand",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 135,
+    "crawled_at": "2026-02-03T11:59:13.02721253Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "maisonfmservices.ae",
+    "title": "MAISON BUILDING MAINTENANCE AND CLEANING SERVICES LLC",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 219,
+    "crawled_at": "2026-02-03T07:28:48.863768018Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "Better Lead Generation Services",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Dynadot",
+      "Font Awesome",
+      "GZIP Module",
+      "ID Services",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "plantspetals.com",
+    "title": "PlantsPetals.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 2135,
+    "crawled_at": "2026-02-03T06:59:43.522542996Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "BLR",
+      "CloudFront",
+      "Dynadot",
+      "Font Awesome",
+      "GZIP Module",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "ultima1.com",
     "title": "An EMDN - Ultima 1, Classic RPG Video Game Retro Gaming Fantasy Adventure Origin Systems Role-Playing Quest Exploration Medieval Storyline",
     "business_name": "",
@@ -157,23 +218,6 @@
       "GZIP Module",
       "UTF-8",
       "Vello"
-    ]
-  },
-  {
-    "domain": "indian-casinos.com",
-    "title": "Build Your Brand",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 135,
-    "crawled_at": "2026-01-31T10:31:48.882468437Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8"
     ]
   },
   {
@@ -3555,23 +3599,6 @@
       "GZIP Module",
       "Tumblr",
       "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "plantspetals.com",
-    "title": "Greenhouse Garden Center",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 135,
-    "crawled_at": "2025-10-23T05:06:32.436293409Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
       "UTF-8"
     ]
   }
