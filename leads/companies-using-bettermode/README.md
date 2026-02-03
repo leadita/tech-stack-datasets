@@ -10,14 +10,14 @@ The data is verified daily by the Leadita Crawler.
 ## 📊 Dataset Statistics
 - **Total Leads:** 70
 - **Verified:** Yes
-- **Last Updated:** 2026-02-02 18:00 UTC
+- **Last Updated:** 2026-02-03 18:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
 We hold verified contact information (emails, phone numbers, decision-maker titles) for **70+** companies using BetterMode.
 
-[**⚡ Unlock the Full BetterMode List with Contact Details**](https://leadita.com/leads/companies-using-bettermode?utm_source=github_folder)
+[**⚡ Unlock the Full BetterMode List with Contact Details**](https://leadita.com/leads/companies-using-bettermode)
 
 ## 📝 Sample Preview
 | Domain | Country | State | Tech Stack | Score |
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-02 18:00 UTC*
+*Last updated: 2026-02-03 18:00 UTC*
 *Data source: Leadita Technographic Intelligence*
