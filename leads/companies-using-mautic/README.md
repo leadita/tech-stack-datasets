@@ -10,14 +10,14 @@ The data is verified daily by the Leadita Crawler.
 ## 📊 Dataset Statistics
 - **Total Leads:** 1,025
 - **Verified:** Yes
-- **Last Updated:** 2026-02-02 19:45 UTC
+- **Last Updated:** 2026-02-03 19:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
 We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,025+** companies using Mautic.
 
-[**⚡ Unlock the Full Mautic List with Contact Details**](https://leadita.com/leads/companies-using-mautic?utm_source=github_folder)
+[**⚡ Unlock the Full Mautic List with Contact Details**](https://leadita.com/leads/companies-using-mautic)
 
 ## 📝 Sample Preview
 | Domain | Country | State | Tech Stack | Score |
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-02 19:45 UTC*
+*Last updated: 2026-02-03 19:45 UTC*
 *Data source: Leadita Technographic Intelligence*
