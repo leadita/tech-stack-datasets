@@ -1,6 +1,6 @@
 # Companies Using Monetate (Live Dataset 2026)
 
-This folder contains an active list of 431 companies using **Monetate**. 
+This folder contains an active list of 433 companies using **Monetate**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,16 +8,16 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 431
+- **Total Leads:** 433
 - **Verified:** Yes
-- **Last Updated:** 2026-02-02 10:00 UTC
+- **Last Updated:** 2026-02-03 10:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **431+** companies using Monetate.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **433+** companies using Monetate.
 
-[**⚡ Unlock the Full Monetate List with Contact Details**](https://leadita.com/leads/companies-using-monetate?utm_source=github_folder)
+[**⚡ Unlock the Full Monetate List with Contact Details**](https://leadita.com/leads/companies-using-monetate)
 
 ## 📝 Sample Preview
 | Domain | Country | State | Tech Stack | Score |
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-02 10:00 UTC*
+*Last updated: 2026-02-03 10:00 UTC*
 *Data source: Leadita Technographic Intelligence*
