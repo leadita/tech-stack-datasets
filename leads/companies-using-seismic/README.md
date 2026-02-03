@@ -10,14 +10,14 @@ The data is verified daily by the Leadita Crawler.
 ## 📊 Dataset Statistics
 - **Total Leads:** 81
 - **Verified:** Yes
-- **Last Updated:** 2026-02-02 21:45 UTC
+- **Last Updated:** 2026-02-03 21:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
 We hold verified contact information (emails, phone numbers, decision-maker titles) for **81+** companies using Seismic.
 
-[**⚡ Unlock the Full Seismic List with Contact Details**](https://leadita.com/leads/companies-using-seismic?utm_source=github_folder)
+[**⚡ Unlock the Full Seismic List with Contact Details**](https://leadita.com/leads/companies-using-seismic)
 
 ## 📝 Sample Preview
 | Domain | Country | State | Tech Stack | Score |
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-02 21:45 UTC*
+*Last updated: 2026-02-03 21:45 UTC*
 *Data source: Leadita Technographic Intelligence*
