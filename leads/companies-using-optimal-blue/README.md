@@ -10,14 +10,14 @@ The data is verified daily by the Leadita Crawler.
 ## 📊 Dataset Statistics
 - **Total Leads:** 164
 - **Verified:** Yes
-- **Last Updated:** 2026-02-02 17:30 UTC
+- **Last Updated:** 2026-02-03 17:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
 We hold verified contact information (emails, phone numbers, decision-maker titles) for **164+** companies using Optimal Blue.
 
-[**⚡ Unlock the Full Optimal Blue List with Contact Details**](https://leadita.com/leads/companies-using-optimal-blue?utm_source=github_folder)
+[**⚡ Unlock the Full Optimal Blue List with Contact Details**](https://leadita.com/leads/companies-using-optimal-blue)
 
 ## 📝 Sample Preview
 | Domain | Country | State | Tech Stack | Score |
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-02 17:30 UTC*
+*Last updated: 2026-02-03 17:30 UTC*
 *Data source: Leadita Technographic Intelligence*
