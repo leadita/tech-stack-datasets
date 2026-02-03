@@ -1,5 +1,25 @@
 [
   {
+    "domain": "wdrentals.com",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 1200,
+    "crawled_at": "2026-02-02T21:55:48.860684432Z",
+    "technologies": [
+      "Apache",
+      "Barchart",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Grafana",
+      "Nginx",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "glicocmmsbeta.org",
     "title": "Grafana",
     "business_name": "",
@@ -33,25 +53,6 @@
       "Google My Business",
       "Grafana",
       "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "solaranzeige.7cw.de",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 1200,
-    "crawled_at": "2026-01-26T11:22:43.439284593Z",
-    "technologies": [
-      "Barchart",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Grafana",
-      "OpenResty",
       "UTF-8"
     ]
   },
