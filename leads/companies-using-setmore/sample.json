@@ -1,5 +1,29 @@
 [
   {
+    "domain": "muellertherapeutics.com",
+    "title": "Mueller Therapeutics - Ben Mueller Massage Therapist Brainerd MN",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 951,
+    "crawled_at": "2026-02-03T02:22:48.86442931Z",
+    "technologies": [
+      "Apache",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "Font Awesome",
+      "GZIP Module",
+      "IcoMoon",
+      "Setmore",
+      "Subversion",
+      "Tagembed",
+      "UTF-8",
+      "University or College",
+      "eLand"
+    ]
+  },
+  {
     "domain": "fourcornershomeinspection.com",
     "title": "7 days a week, 9am-9pm 608-347-3819 – Home Inspections and Radon Testing In Madison and Surrounding Communities",
     "business_name": "",
@@ -17289,45 +17313,6 @@
       "Tagembed",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "themindfulpalace.com",
-    "title": "Counselling Centre Bangi | The Mindful Palace",
-    "business_name": "The Mindful Palace",
-    "country": "KAZ",
-    "seo_score": 82,
-    "tech_spend": 18459,
-    "crawled_at": "2025-10-31T02:39:25.732947113Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Elementor",
-      "EmbedPress",
-      "Express",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Code Prettify",
-      "Google Font API",
-      "Google Tag Manager",
-      "Hello Elementor",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Parallels Plesk Panel",
-      "Perl",
-      "Popup Maker for Wordpress",
-      "Setmore",
-      "Tagembed",
-      "Theme In WP",
-      "UTF-8",
-      "University or College",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
