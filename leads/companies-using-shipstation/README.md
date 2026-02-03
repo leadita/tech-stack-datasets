@@ -10,14 +10,14 @@ The data is verified daily by the Leadita Crawler.
 ## 📊 Dataset Statistics
 - **Total Leads:** 109
 - **Verified:** Yes
-- **Last Updated:** 2026-02-02 22:15 UTC
+- **Last Updated:** 2026-02-03 22:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
 We hold verified contact information (emails, phone numbers, decision-maker titles) for **109+** companies using ShipStation.
 
-[**⚡ Unlock the Full ShipStation List with Contact Details**](https://leadita.com/leads/companies-using-shipstation?utm_source=github_folder)
+[**⚡ Unlock the Full ShipStation List with Contact Details**](https://leadita.com/leads/companies-using-shipstation)
 
 ## 📝 Sample Preview
 | Domain | Country | State | Tech Stack | Score |
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-02 22:15 UTC*
+*Last updated: 2026-02-03 22:15 UTC*
 *Data source: Leadita Technographic Intelligence*
