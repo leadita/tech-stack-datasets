@@ -1,5 +1,139 @@
 [
   {
+    "domain": "nutrisursistemas.uy",
+    "title": "Apache Tomcat/8.5.5",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": "",
+    "crawled_at": "2026-02-03T20:07:48.861794363Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "DAV",
+      "Express",
+      "ISO/IEC 8859"
+    ]
+  },
+  {
+    "domain": "kharelsuraj.com",
+    "title": "Suraj Kharel - Data Engineer | ML Engineer | Developer",
+    "business_name": "",
+    "country": "FIN",
+    "seo_score": 72,
+    "tech_spend": 960,
+    "crawled_at": "2026-02-03T19:43:48.896738235Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google Related Website Sites",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "codypero.com",
+    "title": "Cody Pero — Portfolio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 15740,
+    "crawled_at": "2026-02-03T13:40:48.879181025Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Apache Tomcat JK",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Heroku",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "fwpmi.org",
+    "title": "Home | PMI Fort Worth",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 23668,
+    "crawled_at": "2026-02-03T06:43:48.887149225Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Apache Tomcat JK",
+      "AutoComplete",
+      "ChamberMaster",
+      "DAV",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Forms",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microsoft Azure Blob Storage",
+      "QUIC",
+      "SmartAdServer Direct",
+      "UTF-8",
+      "University or College",
+      "YouTube",
+      "eLand",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "monsterhuntersseries.com",
+    "title": "MONSTER HUNTERS: World's first AI-generated streaming/TV series! by Duffin Creative, LLC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 15599,
+    "crawled_at": "2026-02-03T03:16:48.886391389Z",
+    "technologies": [
+      "Amazon",
+      "Amazon S3 CDN",
+      "Amazon Widgets",
+      "Apache",
+      "Apache Tomcat JK",
+      "BLR",
+      "Content Delivery Network",
+      "Font Awesome",
+      "Fundrazr",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "NFOrce Internet",
+      "Share Link",
+      "Storyblocks",
+      "Tailwind CSS",
+      "Tumblr",
+      "UTF-8",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "balicatamaranscharter.com",
     "title": "Welcome | Bali Catamarans Charter",
     "business_name": "",
@@ -271,22 +405,6 @@
       "University or College",
       "Vercel",
       "Visual Studio"
-    ]
-  },
-  {
-    "domain": "jctravel.es",
-    "title": "Apache Tomcat",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 144,
-    "crawled_at": "2026-01-31T01:16:48.862281004Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Express",
-      "Nginx",
-      "Parallels Plesk Panel"
     ]
   },
   {
@@ -2277,30 +2395,6 @@
       "University or College",
       "Unix",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "fundrazr.me",
-    "title": "Sign in to FundRazr",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 7659,
-    "crawled_at": "2026-01-06T20:13:01.996372316Z",
-    "technologies": [
-      "Amazon",
-      "Apache",
-      "Apache Tomcat JK",
-      "Fireblade",
-      "Font Awesome",
-      "Fundrazr",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Tailwind CSS",
-      "UTF-8",
-      "reCAPTCHA"
     ]
   },
   {
@@ -9910,38 +10004,6 @@
     ]
   },
   {
-    "domain": "fwpmi.org",
-    "title": "Home | PMI Fort Worth",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 23668,
-    "crawled_at": "2025-11-08T10:30:37.021036677Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Apache Tomcat JK",
-      "AutoComplete",
-      "ChamberMaster",
-      "DAV",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Forms",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microsoft Azure Blob Storage",
-      "QUIC",
-      "SmartAdServer Direct",
-      "UTF-8",
-      "YouTube",
-      "eLand",
-      "reCAPTCHA"
-    ]
-  },
-  {
     "domain": "codecomplete.jp",
     "title": "Home",
     "business_name": "Codecomplete",
@@ -13346,31 +13408,6 @@
     ]
   },
   {
-    "domain": "kharelsuraj.com",
-    "title": "Suraj Kharel - Data Engineer | ML Engineer | Developer",
-    "business_name": "",
-    "country": "FIN",
-    "seo_score": 87,
-    "tech_spend": 960,
-    "crawled_at": "2025-10-24T01:41:31.675346361Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Related Website Sites",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "mikhaildawkins.com",
     "title": "Mikhail",
     "business_name": "",
@@ -13435,21 +13472,6 @@
       "WordPress Related Posts",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "zualtech.com",
-    "title": "Mi CV - Alejandro Altamirano",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": "",
-    "crawled_at": "2025-10-23T07:24:32.781753768Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "GZIP Module",
-      "University or College"
     ]
   }
 ]
