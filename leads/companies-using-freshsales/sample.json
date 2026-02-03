@@ -1,5 +1,37 @@
 [
   {
+    "domain": "ecomscotland.com",
+    "title": "Trusted Partners in Digital Learning and Assessment | eCom",
+    "business_name": "eCom Learning Solutions",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 28972,
+    "crawled_at": "2026-02-02T21:55:37.711399021Z",
+    "technologies": [
+      "AddThis for Wordpress",
+      "Alternate Protocol",
+      "Bulma",
+      "Freshsales",
+      "Freshworks CRM",
+      "GZIP Module",
+      "GetResponse",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "M247",
+      "Material Design Icons",
+      "Microdata for Google Shopping",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "britishpassportsuk.co.uk",
     "title": "Apply for Same Day British Passport Renewal, Second Passport UK - BritishPassportsUK",
     "business_name": "",
@@ -2739,38 +2771,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "enetiq.ai",
-    "title": "eCom launches iQ: Transforming ideas into smart questions",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 8972,
-    "crawled_at": "2025-11-11T05:26:38.891301614Z",
-    "technologies": [
-      "AddThis",
-      "AddThis for Wordpress",
-      "Alternate Protocol",
-      "Bulma",
-      "Freshsales",
-      "Freshworks CRM",
-      "GZIP Module",
-      "GetResponse",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Material Design Icons",
-      "Microdata for Google Shopping",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "jsDelivr"
     ]
   },
   {
