@@ -1,5 +1,41 @@
 [
   {
+    "domain": "tryudext.com",
+    "title": "Text your workforce that don't sit at a desk | Udext",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 15188,
+    "crawled_at": "2026-02-02T14:34:48.866963329Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon",
+      "Amazon CloudFront",
+      "Breezy HR",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Dext",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "WF Cookie Consent",
+      "Webflow",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "better-bookkeeping-solutions.co.uk",
     "title": "Better Bookkeeping Solutions - Home",
     "business_name": "",
@@ -982,35 +1018,6 @@
       "QUIC",
       "UTF-8",
       "Xero"
-    ]
-  },
-  {
-    "domain": "udext.com",
-    "title": "Text your workforce that don't sit at a desk | Udext",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 12748,
-    "crawled_at": "2026-01-13T07:38:19.108738636Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Breezy HR",
-      "CloudFront",
-      "Content Delivery Network",
-      "Dext",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "QUIC",
-      "Tailwind CSS",
-      "Vector Internet Services",
-      "WF Cookie Consent",
-      "Webflow",
-      "YouTube"
     ]
   },
   {
