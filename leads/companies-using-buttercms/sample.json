@@ -1,5 +1,30 @@
 [
   {
+    "domain": "leonardo-reis.com",
+    "title": "Leonardo Reis - Desenvolvedor Fullstack",
+    "business_name": "",
+    "country": "BRA",
+    "seo_score": 77,
+    "tech_spend": 3828,
+    "crawled_at": "2026-02-03T01:58:48.911269563Z",
+    "technologies": [
+      "ButterCMS",
+      "Content Delivery Network",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud CDN",
+      "Next.js",
+      "Nginx",
+      "Pleroma",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "mkymkb.com",
     "title": "美卡羊毛快报 | Linktree",
     "business_name": "",
