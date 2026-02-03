@@ -1,5 +1,24 @@
 [
   {
+    "domain": "swanplumbing.com.au",
+    "title": "Plumbing & Bathroom Supplies Store - Swan",
+    "business_name": "",
+    "country": "SYC",
+    "seo_score": 62,
+    "tech_spend": 100588,
+    "crawled_at": "2026-02-02T21:58:48.876594072Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Tag Manager",
+      "Netsuite Site Builder",
+      "PandaDoc",
+      "QUIC",
+      "Subversion",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "0andadoc.com",
     "title": "PandaDoc – Create, Approve, Track & eSign Docs 40% Faster",
     "business_name": "PandaDoc",
