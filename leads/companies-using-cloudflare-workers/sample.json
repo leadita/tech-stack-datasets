@@ -1,5 +1,42 @@
 [
   {
+    "domain": "isaiahrohrer.dev",
+    "title": "Isaiah Rohrer",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 540,
+    "crawled_at": "2026-02-02T21:58:23.932105928Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "labmir.org",
+    "title": "Mir Dunaev - DevOps & Infrastructure",
+    "business_name": "",
+    "country": "IRL",
+    "seo_score": 50,
+    "tech_spend": 60,
+    "crawled_at": "2026-02-02T17:34:48.8721742Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers"
+    ]
+  },
+  {
     "domain": "maskapaitotox200.store",
     "title": "HeyLink.me | MASKAPAITOTO Situs Togel Online Terpercaya - Agen Togel Online Terbesar Di Indonesia",
     "business_name": "",
@@ -14503,56 +14540,6 @@
       "Vello",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "bruvelis.id.lv",
-    "title": "Martins Bruvelis @idBruvelis",
-    "business_name": "Martins Bruvelis @idBruvelis",
-    "country": "",
-    "seo_score": 70,
-    "tech_spend": 449,
-    "crawled_at": "2025-10-31T06:35:54.935888346Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Workers",
-      "Google Analytics",
-      "Google Tag Manager",
-      "InitiativeS",
-      "Microdata for Google Shopping",
-      "Publii",
-      "Python",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "jrallen.me",
-    "title": "James Allen – Senior Software Engineer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 30540,
-    "crawled_at": "2025-10-30T22:07:27.735817863Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "Express",
-      "Fireblade",
-      "GitHub Hosting",
-      "InitiativeS",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "eLand"
     ]
   }
 ]
