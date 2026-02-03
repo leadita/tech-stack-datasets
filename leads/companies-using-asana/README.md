@@ -1,6 +1,6 @@
 # Companies Using Asana (Live Dataset 2026)
 
-This folder contains an active list of 814 companies using **Asana**. 
+This folder contains an active list of 816 companies using **Asana**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,16 +8,16 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 814
+- **Total Leads:** 816
 - **Verified:** Yes
-- **Last Updated:** 2026-02-02 21:00 UTC
+- **Last Updated:** 2026-02-03 21:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **814+** companies using Asana.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **816+** companies using Asana.
 
-[**⚡ Unlock the Full Asana List with Contact Details**](https://leadita.com/leads/companies-using-asana?utm_source=github_folder)
+[**⚡ Unlock the Full Asana List with Contact Details**](https://leadita.com/leads/companies-using-asana)
 
 ## 📝 Sample Preview
 | Domain | Country | State | Tech Stack | Score |
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-02 21:00 UTC*
+*Last updated: 2026-02-03 21:00 UTC*
 *Data source: Leadita Technographic Intelligence*
