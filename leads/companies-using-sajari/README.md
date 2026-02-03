@@ -10,14 +10,14 @@ The data is verified daily by the Leadita Crawler.
 ## 📊 Dataset Statistics
 - **Total Leads:** 18
 - **Verified:** Yes
-- **Last Updated:** 2026-02-02 22:00 UTC
+- **Last Updated:** 2026-02-03 22:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
 We hold verified contact information (emails, phone numbers, decision-maker titles) for **18+** companies using Sajari.
 
-[**⚡ Unlock the Full Sajari List with Contact Details**](https://leadita.com/leads/companies-using-sajari?utm_source=github_folder)
+[**⚡ Unlock the Full Sajari List with Contact Details**](https://leadita.com/leads/companies-using-sajari)
 
 ## 📝 Sample Preview
 | Domain | Country | State | Tech Stack | Score |
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-02 22:00 UTC*
+*Last updated: 2026-02-03 22:00 UTC*
 *Data source: Leadita Technographic Intelligence*
