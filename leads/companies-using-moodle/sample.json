@@ -1,5 +1,27 @@
 [
   {
+    "domain": "mathpool.ru",
+    "title": "Mathpool",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 11160,
+    "crawled_at": "2026-02-02T19:55:55.038942816Z",
+    "technologies": [
+      "ADFOX",
+      "Fastly",
+      "GZIP Module",
+      "Moodle",
+      "NFOrce Internet",
+      "Nginx",
+      "PHP",
+      "Totara",
+      "UTF-8",
+      "Yandex Hosting",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "ailearningplatform.com",
     "title": "AI Learning Platform System: Log in to the site",
     "business_name": "",
@@ -1364,28 +1386,6 @@
       "Totara",
       "UTF-8",
       "Visx",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "mathpool.ru",
-    "title": "Mathpool",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 11160,
-    "crawled_at": "2025-10-22T18:36:32.733169505Z",
-    "technologies": [
-      "ADFOX",
-      "Fastly",
-      "GZIP Module",
-      "Moodle",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "Totara",
-      "UTF-8",
-      "Yandex Hosting",
       "jsDelivr"
     ]
   }

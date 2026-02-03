@@ -1,4 +1,5 @@
 domain,title,business_name,country,seo_score,tech_spend,crawled_at,technologies
+mathpool.ru,Mathpool,,,45,11160,2026-02-02T19:55:55.038942816Z,"['ADFOX', 'Fastly', 'GZIP Module', 'Moodle', 'NFOrce Internet', 'Nginx', 'PHP', 'Totara', 'UTF-8', 'Yandex Hosting', 'jsDelivr']"
 ailearningplatform.com,AI Learning Platform System: Log in to the site,,,40,13300,2026-01-30T15:58:56.973688277Z,"['Amazon', 'Amazon Cognito', 'Amazon S3 CDN', 'Apache', 'Fastly', 'Moodle', 'NFOrce Internet', 'OpenSSL', 'PHP', 'RM Education', 'Storyblocks', 'Totara', 'UTF-8', 'jsDelivr']"
 visual-academy.es,Visual Academy,,,60,11303,2026-01-29T23:56:43.487009577Z,"['AWS WAF Challenge', 'Apache', 'App Store', 'Fastly', 'GZIP Module', 'Google Analytics', 'Google Cloud DNS', 'Google Font API', 'Google My Business', 'Google Play', 'Google Tag Manager', 'Instagram Follow Button', 'Moodle', 'NFOrce Internet', 'PHP', 'Parcel', 'QUIC', 'Totara', 'UTF-8', 'Ubuntu', 'YouTube', 'jsDelivr']"
 colegioadora.org,Adoratrices,,URY,50,11256,2026-01-28T09:40:43.439814478Z,"['Fastly', 'IcoMoon', 'LiteSpeed', 'Moodle', 'NFOrce Internet', 'PHP', 'QUIC', 'Tailwind CSS', 'Totara', 'UTF-8']"
@@ -55,4 +56,3 @@ einsteinplus.it,Piattaforma e-learning - Liceo A. Einstein Torino,,ITA,62,32600,
 lw-moodle.cl,Home | lw-moodle,,CHL,55,10500,2025-10-30T09:34:11.069083877Z,"['Apache', 'Moodle', 'NFOrce Internet', 'PHP', 'Tailwind CSS', 'Totara', 'UTF-8', 'jsDelivr']"
 gastrosuisse-elearning.ch,Home | GastroSuisse E-Learning,,,57,10500,2025-10-30T08:55:55.484538862Z,"['Moodle', 'NFOrce Internet', 'Nginx', 'PHP', 'Totara', 'UTF-8', 'jsDelivr']"
 maqretescuole.it,Home | MAQ,,ITA,72,133030,2025-10-29T20:30:01.140823868Z,"['AAPT', 'Apache', 'App Store', 'Azion', 'DAV', 'Financial Services Guide', 'Google My Business', 'Google Play', 'HHVM', 'Hexo', 'KVH', 'Moodle', 'NFOrce Internet', 'No-Q', 'PHP', 'Phew', 'SMC', 'Subversion', 'Totara', 'UTF-8', 'Visx', 'jsDelivr']"
-mathpool.ru,Mathpool,,,50,11160,2025-10-22T18:36:32.733169505Z,"['ADFOX', 'Fastly', 'GZIP Module', 'Moodle', 'NFOrce Internet', 'Nginx', 'PHP', 'Totara', 'UTF-8', 'Yandex Hosting', 'jsDelivr']"
