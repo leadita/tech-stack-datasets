@@ -1,6 +1,6 @@
 # Companies Using Bunny Fonts (Live Dataset 2026)
 
-This folder contains an active list of 41,222 companies using **Bunny Fonts**. 
+This folder contains an active list of 41,298 companies using **Bunny Fonts**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,16 +8,16 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 41,222
+- **Total Leads:** 41,298
 - **Verified:** Yes
-- **Last Updated:** 2026-02-02 23:15 UTC
+- **Last Updated:** 2026-02-03 23:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **41,222+** companies using Bunny Fonts.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **41,298+** companies using Bunny Fonts.
 
-[**⚡ Unlock the Full Bunny Fonts List with Contact Details**](https://leadita.com/leads/companies-using-bunny-fonts?utm_source=github_folder)
+[**⚡ Unlock the Full Bunny Fonts List with Contact Details**](https://leadita.com/leads/companies-using-bunny-fonts)
 
 ## 📝 Sample Preview
 | Domain | Country | State | Tech Stack | Score |
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-02 23:15 UTC*
+*Last updated: 2026-02-03 23:15 UTC*
 *Data source: Leadita Technographic Intelligence*
