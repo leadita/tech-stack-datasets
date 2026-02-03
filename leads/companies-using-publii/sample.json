@@ -1,5 +1,22 @@
 [
   {
+    "domain": "allimotec.ch",
+    "title": "Allimotec",
+    "business_name": "Allimotec",
+    "country": "GBR",
+    "seo_score": 60,
+    "tech_spend": 49,
+    "crawled_at": "2026-02-02T17:25:48.870811387Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "aligned-audio.de",
     "title": "aligned audio engineering",
     "business_name": "aligned audio engineering",
@@ -7306,24 +7323,6 @@
       "Nginx",
       "Publii",
       "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "smartgro.com",
-    "title": "smartGRO",
-    "business_name": "smartGRO",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 109,
-    "crawled_at": "2025-10-23T04:03:32.462052236Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Microsoft Azure",
-      "Publii",
-      "Visual Studio",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   }

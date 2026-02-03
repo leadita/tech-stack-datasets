@@ -1,4 +1,5 @@
 domain,title,business_name,country,seo_score,tech_spend,crawled_at,technologies
+allimotec.ch,Allimotec,Allimotec,GBR,60,49,2026-02-02T17:25:48.870811387Z,"['Alternate Protocol', 'Apache', 'GZIP Module', 'Microdata for Google Shopping', 'Publii', 'WordPress SEO Structured Data Schema Plugin']"
 aligned-audio.de,aligned audio engineering,aligned audio engineering,,35,49,2026-02-02T01:16:59.579118351Z,"['Alternate Protocol', 'Apache', 'Microdata for Google Shopping', 'Publii', 'UTF-8', 'WordPress SEO Structured Data Schema Plugin']"
 thekair.art,thekair.art,,,37,49,2026-02-01T16:44:27.421010744Z,"['Alternate Protocol', 'Content Delivery Network', 'Microdata for Google Shopping', 'Netlify', 'Publii', 'UTF-8', 'WordPress SEO Structured Data Schema Plugin']"
 bellasvecha.com,Bella Svecha Naturals - Bella Svecha Naturals,,,35,49,2026-02-01T14:40:26.833385778Z,"['Alternate Protocol', 'LiteSpeed', 'Microdata for Google Shopping', 'Publii', 'QUIC', 'WordPress SEO Structured Data Schema Plugin']"
@@ -302,4 +303,3 @@ offsysrev.info,OffSysRev,OffSysRev,GBR,60,49,2025-10-30T10:28:07.526004328Z,"['A
 uxvworks.com,UXVworks,UXVworks,,45,49,2025-10-29T02:02:01.583014031Z,"['GZIP Module', 'Microdata for Google Shopping', 'Nginx', 'Publii', 'Ubuntu', 'WordPress SEO Structured Data Schema Plugin']"
 tisgoud.nl,'t is Goud-'t Is Goud | t is goud | tisgoud,,NLD,82,15567,2025-10-28T17:57:27.263456292Z,"['Alternate Protocol', 'Bulma', 'CDN JS', 'Cloudflare', 'Cloudflare CDN', 'Crowdriff', 'FastClick', 'Font Awesome', 'GitHub Hosting', 'IcoMoon', 'Nginx', 'Publii', 'Twitter Ads', 'jQuery']"
 joeyhernandez.me,Joey Hernandez,Joey Hernandez,,35,139,2025-10-25T14:29:31.660724848Z,"['Alternate Protocol', 'Flat Icon', 'Instagram Follow Button', 'Microdata for Google Shopping', 'Nginx', 'Publii', 'UTF-8', 'WordPress SEO Structured Data Schema Plugin']"
-smartgro.com,smartGRO,smartGRO,,35,109,2025-10-23T04:03:32.462052236Z,"['Alternate Protocol', 'GZIP Module', 'Microdata for Google Shopping', 'Microsoft Azure', 'Publii', 'Visual Studio', 'WordPress SEO Structured Data Schema Plugin']"
