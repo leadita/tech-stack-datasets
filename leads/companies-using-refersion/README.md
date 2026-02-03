@@ -1,6 +1,6 @@
 # Companies Using Refersion (Live Dataset 2026)
 
-This folder contains an active list of 1,245 companies using **Refersion**. 
+This folder contains an active list of 1,247 companies using **Refersion**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,16 +8,16 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 1,245
+- **Total Leads:** 1,247
 - **Verified:** Yes
-- **Last Updated:** 2026-02-02 11:15 UTC
+- **Last Updated:** 2026-02-03 11:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,245+** companies using Refersion.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,247+** companies using Refersion.
 
-[**⚡ Unlock the Full Refersion List with Contact Details**](https://leadita.com/leads/companies-using-refersion?utm_source=github_folder)
+[**⚡ Unlock the Full Refersion List with Contact Details**](https://leadita.com/leads/companies-using-refersion)
 
 ## 📝 Sample Preview
 | Domain | Country | State | Tech Stack | Score |
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-02 11:15 UTC*
+*Last updated: 2026-02-03 11:15 UTC*
 *Data source: Leadita Technographic Intelligence*
