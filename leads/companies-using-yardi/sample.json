@@ -1,12 +1,12 @@
 [
   {
-    "domain": "chooseconfiancebizsol.xyz",
+    "domain": "tryconfiancebizsol.com",
     "title": "Top Bookkeeping and Accounting Service Provider in USA | UK | AU | CA",
     "business_name": "",
     "country": "91",
     "seo_score": 77,
-    "tech_spend": 446438,
-    "crawled_at": "2026-01-29T02:04:43.431212042Z",
+    "tech_spend": 446643,
+    "crawled_at": "2026-02-03T22:07:48.864248617Z",
     "technologies": [
       "AWS WAF Challenge",
       "Alternate Protocol",
@@ -33,6 +33,7 @@
       "Microdata for Google Shopping",
       "Microsoft Dynamics 365 Marketing",
       "Netsuite Site Builder",
+      "NitroPack",
       "PHP",
       "Pleroma",
       "Propertyware",
