@@ -1,5 +1,31 @@
 [
   {
+    "domain": "gracefulselfhelpcounseling.com",
+    "title": "Graceful Self-Help Counseling",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 65,
+    "tech_spend": 18168,
+    "crawled_at": "2026-02-04T07:55:48.891737598Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Blogger",
+      "Express",
+      "GZIP Module",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Reseller",
+      "NFOrce Internet",
+      "Ntent",
+      "Perl",
+      "TherapyNotes",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "themindfulbillingsolutions.com",
     "title": "HOME | Mindful Billing So 1",
     "business_name": "",
@@ -4245,34 +4271,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "actservicellc.com",
-    "title": "Arise Coaching & Therapeutic Services (ACTS) in Miami, Florida",
-    "business_name": "Arise Coaching & Therapeutic Services (ACTS)",
-    "country": "USA",
-    "seo_score": 92,
-    "tech_spend": 50508,
-    "crawled_at": "2025-10-23T17:44:31.637503999Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Fireblade",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "PWA",
-      "TherapyNotes",
-      "UTF-8",
-      "University or College",
-      "Wangsu",
-      "Website Tonight"
     ]
   }
 ]
