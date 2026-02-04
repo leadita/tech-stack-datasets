@@ -1,18 +1,118 @@
 [
   {
-    "domain": "architecturaldesign.app",
-    "title": "Build Your Brand",
+    "domain": "philippinerealestate.app",
+    "title": "Welcome to PhilippineProperties.com",
     "business_name": "",
     "country": "",
-    "seo_score": 37,
-    "tech_spend": 135,
-    "crawled_at": "2026-02-03T11:59:13.02721253Z",
+    "seo_score": 52,
+    "tech_spend": 3135,
+    "crawled_at": "2026-02-04T15:51:37.232579732Z",
     "technologies": [
       "Amazon CloudFront",
       "CloudFront",
       "Dynadot",
       "Font Awesome",
       "GZIP Module",
+      "Prospective",
+      "QUIC",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "malecaregiver.info",
+    "title": "Build Your Brand",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 135,
+    "crawled_at": "2026-02-04T12:37:42.931375729Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "premiernotary.co",
+    "title": "Mobile Notary Services – Delivered to Your Location with Professionalism and Precision.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 135,
+    "crawled_at": "2026-02-04T04:07:23.504967315Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Calendly",
+      "CloudFront",
+      "Dynadot",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "1000studio.com",
+    "title": "An EMDN - 1000 Studio, Creative Studio Media Production Design Agency Content Creation Digital Studio Brand Development",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 135,
+    "crawled_at": "2026-02-04T01:34:24.254479071Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "magpiemer.ch",
+    "title": "Magpie Merch",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 2135,
+    "crawled_at": "2026-02-03T20:07:48.877910157Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "BLR",
+      "CloudFront",
+      "DAV",
+      "Dynadot",
+      "Font Awesome",
+      "GZIP Module",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "www.riglok.com",
+    "title": "RIGLOK GEAR MANAGEMENT",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 10219,
+    "crawled_at": "2026-02-03T19:33:22.263976443Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "BLR",
+      "CloudFront",
+      "Dynadot",
+      "Font Awesome",
+      "GZIP Module",
+      "Tumblr",
+      "Twitter Ads",
       "UTF-8"
     ]
   },
@@ -57,26 +157,6 @@
       "GZIP Module",
       "Tumblr",
       "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "ultima1.com",
-    "title": "An EMDN - Ultima 1, Classic RPG Video Game Retro Gaming Fantasy Adventure Origin Systems Role-Playing Quest Exploration Medieval Storyline",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 135,
-    "crawled_at": "2026-02-01T23:58:05.817183802Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
       "UTF-8"
     ]
   },
@@ -180,26 +260,6 @@
       "Instagram Follow Button",
       "MyFonts",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "sarangani.org",
-    "title": "Welcome to PhilippineProperties.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 3135,
-    "crawled_at": "2026-01-31T22:55:48.894797637Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Prospective",
-      "QUIC",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
@@ -3562,44 +3622,6 @@
       "UTF-8",
       "University or College",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "premiernotary.co",
-    "title": "Mobile Notary Services – Delivered to Your Location with Professionalism and Precision.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 135,
-    "crawled_at": "2025-10-23T18:38:31.684751563Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Calendly",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "www.riglok.com",
-    "title": "RIGLOK GEAR MANAGEMENT",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 10219,
-    "crawled_at": "2025-10-23T13:41:00.760581388Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "BLR",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Tumblr",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]
