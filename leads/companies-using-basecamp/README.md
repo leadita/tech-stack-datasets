@@ -1,6 +1,6 @@
 # Companies Using Basecamp (Live Dataset 2026)
 
-This folder contains an active list of 323 companies using **Basecamp**. 
+This folder contains an active list of 322 companies using **Basecamp**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 323
+- **Total Leads:** 322
 - **Verified:** Yes
-- **Last Updated:** 2026-02-03 21:00 UTC
+- **Last Updated:** 2026-02-04 21:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **323+** companies using Basecamp.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **322+** companies using Basecamp.
 
 [**⚡ Unlock the Full Basecamp List with Contact Details**](https://leadita.com/leads/companies-using-basecamp)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-03 21:00 UTC*
+*Last updated: 2026-02-04 21:00 UTC*
 *Data source: Leadita Technographic Intelligence*

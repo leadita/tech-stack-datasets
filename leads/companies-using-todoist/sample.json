@@ -1,5 +1,28 @@
 [
   {
+    "domain": "pomomax.com",
+    "title": "Pomomax",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 67,
+    "tech_spend": 2240,
+    "crawled_at": "2026-02-04T15:51:37.227845018Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "NFOrce Internet",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Tailwind CSS",
+      "Todoist",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "affylist.com",
     "title": "AffyList - Best Affiliate Programs Directory 2026 | Find High-Paying Opportunities",
     "business_name": "",
@@ -1925,29 +1948,6 @@
       "Todoist",
       "UTF-8",
       "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "pomomax.com",
-    "title": "Pomomax",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 2240,
-    "crawled_at": "2025-10-24T00:20:31.676486731Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "NFOrce Internet",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "Todoist",
-      "UTF-8",
-      "Vercel",
       "shadcn ui"
     ]
   }
