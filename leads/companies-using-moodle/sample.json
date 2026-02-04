@@ -1,5 +1,26 @@
 [
   {
+    "domain": "acemsebastianos.cl",
+    "title": "Home | ACEMUSS",
+    "business_name": "",
+    "country": "CHL",
+    "seo_score": 55,
+    "tech_spend": 10500,
+    "crawled_at": "2026-02-03T22:01:48.890916703Z",
+    "technologies": [
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Moodle",
+      "NFOrce Internet",
+      "Nginx",
+      "PHP",
+      "Totara",
+      "UTF-8",
+      "Ubuntu",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "mathpool.ru",
     "title": "Mathpool",
     "business_name": "",
@@ -778,27 +799,6 @@
       "YouTube",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "acemsebastianos.cl",
-    "title": "Home | ACEMUSS",
-    "business_name": "",
-    "country": "CHL",
-    "seo_score": 55,
-    "tech_spend": 10500,
-    "crawled_at": "2025-11-09T20:21:50.553044605Z",
-    "technologies": [
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Moodle",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "Totara",
-      "UTF-8",
-      "Ubuntu",
-      "jsDelivr"
     ]
   },
   {
