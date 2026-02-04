@@ -1,5 +1,36 @@
 [
   {
+    "domain": "eclipsedomeslots.com",
+    "title": "Eclipse Dome Slots: Online Casino Games and Jackpots",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 17856,
+    "crawled_at": "2026-02-04T09:40:48.89208736Z",
+    "technologies": [
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Django",
+      "Envoy",
+      "Express",
+      "Fireblade",
+      "Gambling Content",
+      "IcoMoon",
+      "Matomo",
+      "Matomo Tag Manager",
+      "QUIC",
+      "Tailwind CSS",
+      "UPS",
+      "UTF-8",
+      "University or College",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "hirschrussellmds.com",
     "title": "Hirsch & Russell MD's, PC | Home",
     "business_name": "",
@@ -47,34 +78,6 @@
       "UTF-8",
       "WF Cookie Consent",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "reportrealm.co.uk",
-    "title": "ReportRealm: UK News, Analysis, and In-Depth Reporting",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 77,
-    "tech_spend": 17756,
-    "crawled_at": "2026-02-02T22:22:48.879702305Z",
-    "technologies": [
-      "About Cookies",
-      "Amazon WAF Blocked",
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Django",
-      "Envoy",
-      "Fireblade",
-      "Gambling Content",
-      "IcoMoon",
-      "Matomo",
-      "Matomo Tag Manager",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   },
   {
