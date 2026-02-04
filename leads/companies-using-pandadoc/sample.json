@@ -1,5 +1,22 @@
 [
   {
+    "domain": "gcor.ru",
+    "title": "Anton Ahatov",
+    "business_name": "",
+    "country": "SWE",
+    "seo_score": 57,
+    "tech_spend": 488,
+    "crawled_at": "2026-02-04T04:40:48.866618915Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "PandaDoc",
+      "UTF-8",
+      "Vercel",
+      "Yandex Hosting"
+    ]
+  },
+  {
     "domain": "swanplumbing.com.au",
     "title": "Plumbing & Bathroom Supplies Store - Swan",
     "business_name": "",
@@ -593,23 +610,6 @@
       "Yandex Hosting",
       "YouTube",
       "Zeald"
-    ]
-  },
-  {
-    "domain": "ahatov.com",
-    "title": "Anton Ahatov",
-    "business_name": "",
-    "country": "SWE",
-    "seo_score": 57,
-    "tech_spend": 488,
-    "crawled_at": "2025-12-28T13:22:38.324885246Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "PandaDoc",
-      "UTF-8",
-      "Vercel",
-      "Yandex Hosting"
     ]
   },
   {
