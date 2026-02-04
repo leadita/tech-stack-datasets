@@ -1,5 +1,28 @@
 [
   {
+    "domain": "hellapage.ai",
+    "title": "HellaPage.ai",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 4554,
+    "crawled_at": "2026-02-04T03:48:12.066390516Z",
+    "technologies": [
+      "Apache",
+      "ArvanCloud",
+      "BootstrapMade",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instapage",
+      "Tailwind CSS",
+      "Webflow",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "ssignnow.com",
     "title": "Electronic signature - Custom eSignature workflows | airSlate SignNow",
     "business_name": "SignNow",
@@ -991,29 +1014,6 @@
       "hCaptcha",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "hellapage.ai",
-    "title": "HellaPage.ai",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 2787,
-    "crawled_at": "2025-10-23T18:35:31.650641548Z",
-    "technologies": [
-      "Apache",
-      "ArvanCloud",
-      "BootstrapMade",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instapage",
-      "Tailwind CSS",
-      "Webflow",
-      "jsDelivr"
     ]
   }
 ]
