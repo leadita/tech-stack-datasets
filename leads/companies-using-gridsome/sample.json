@@ -1,5 +1,147 @@
 [
   {
+    "domain": "tgg.com.pl",
+    "title": "Strona główna - TGG Fundamenty",
+    "business_name": "",
+    "country": "POL",
+    "seo_score": 62,
+    "tech_spend": 40,
+    "crawled_at": "2026-02-04T20:43:48.859644459Z",
+    "technologies": [
+      "Financial Services Guide",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Gridsome",
+      "LiteSpeed",
+      "QUIC"
+    ]
+  },
+  {
+    "domain": "tepeyac.mx",
+    "title": "Inicio - Instituto Tepeyac",
+    "business_name": "",
+    "country": "MEX",
+    "seo_score": 72,
+    "tech_spend": 101420,
+    "crawled_at": "2026-02-04T06:40:48.867113809Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "Ethy",
+      "Financial Services Guide",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Instagram Follow Button",
+      "K2F",
+      "KVH",
+      "No-Q",
+      "SMC",
+      "Tailwind CSS",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "weber-ft.at",
+    "title": "Weber Fertigungstechnik",
+    "business_name": "",
+    "country": "AUT",
+    "seo_score": 62,
+    "tech_spend": 816,
+    "crawled_at": "2026-02-04T03:55:48.893195758Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Content Delivery Network",
+      "Gridsome",
+      "Netlify",
+      "Plausible Analytics",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "klugcollegen.de",
+    "title": "Startseite - Kanzlei Klug & Collegen",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 60,
+    "tech_spend": "",
+    "crawled_at": "2026-02-04T02:31:48.875692615Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Gridsome",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "invoer-aangifte.nl",
+    "title": "Invoeraangifte snel en eenvoudig geregeld",
+    "business_name": "invoer-aangifte.nl",
+    "country": "NLD",
+    "seo_score": 67,
+    "tech_spend": 228,
+    "crawled_at": "2026-02-03T23:34:49.057122476Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Google My Business",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "meetagilelaw.com",
+    "title": "AgileLaw: Electronic Exhibit Software for Litigators and Trial Lawyers",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 122076,
+    "crawled_at": "2026-02-03T23:34:48.979380111Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "DAV",
+      "Financial Services Guide",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "HMDG",
+      "IcoMoon",
+      "K2F",
+      "KVH",
+      "No-Q",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS",
+      "University or College",
+      "Unix",
+      "Vimeo",
+      "W3 Total Cache",
+      "Wistia"
+    ]
+  },
+  {
     "domain": "autogros.eu",
     "title": "Auto Grosul | Véhicules d'occasion",
     "business_name": "",
@@ -1375,25 +1517,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "cpm-weber.at",
-    "title": "Weber Fertigungstechnik",
-    "business_name": "",
-    "country": "AUT",
-    "seo_score": 77,
-    "tech_spend": 816,
-    "crawled_at": "2026-01-24T09:31:50.130440628Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Content Delivery Network",
-      "Gridsome",
-      "Netlify",
-      "Plausible Analytics",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   },
   {
@@ -10552,23 +10675,6 @@
     ]
   },
   {
-    "domain": "klugcollegen.de",
-    "title": "Startseite - Kanzlei Klug & Collegen",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 60,
-    "tech_spend": "",
-    "crawled_at": "2025-11-07T23:32:40.651614237Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College"
-    ]
-  },
-  {
     "domain": "karthickram.in",
     "title": "Karthick Ram - Software Developer",
     "business_name": "",
@@ -11848,93 +11954,6 @@
       "Yandex Hosting",
       "Yandex Metrika",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "monsonjewelers.com",
-    "title": "Fine Jewelry | Watches | Swarovski Crystals & More | Monson Jewelers",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 52728,
-    "crawled_at": "2025-11-02T21:17:38.996602712Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Express",
-      "Financial Services Guide",
-      "Google My Business",
-      "Gridsome",
-      "Idaq",
-      "Instagram Follow Button",
-      "Netlify",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "Yelp Badge",
-      "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "tgg.com.pl",
-    "title": "Strona główna - TGG Fundamenty",
-    "business_name": "",
-    "country": "POL",
-    "seo_score": 57,
-    "tech_spend": 3,
-    "crawled_at": "2025-11-02T20:04:33.372817021Z",
-    "technologies": [
-      "Financial Services Guide",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Gridsome",
-      "LiteSpeed",
-      "QUIC"
-    ]
-  },
-  {
-    "domain": "zorinvest.hu",
-    "title": "Zorinvest - Zorinvest",
-    "business_name": "",
-    "country": "HUN",
-    "seo_score": 55,
-    "tech_spend": 20003,
-    "crawled_at": "2025-11-02T18:56:39.109031319Z",
-    "technologies": [
-      "Apache",
-      "DAV",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "K2F",
-      "SMC",
-      "Subversion"
-    ]
-  },
-  {
-    "domain": "sanstream.nl",
-    "title": "homepage — Studio Sanstream",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 5003,
-    "crawled_at": "2025-11-02T16:11:12.091221837Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "M247",
-      "Netlify",
-      "Sanity",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]

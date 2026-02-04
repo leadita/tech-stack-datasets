@@ -1,5 +1,61 @@
 [
   {
+    "domain": "contentbytes.pl",
+    "title": "Content community meetups in Kraków, Poland | Content Bytes",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 600,
+    "crawled_at": "2026-02-04T17:13:48.86568397Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "fincloud.io",
+    "title": "Fincloud | Fincloud",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": "",
+    "crawled_at": "2026-02-04T05:06:12.095484756Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "Google Tag Manager",
+      "Perl",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "docs.dev.to",
+    "title": "Introduction 👋 | Forem Docs",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-02-04T00:34:48.8817751Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Netlify",
+      "Perl",
+      "To Top",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "cardinalkit.org",
     "title": "CardinalKit",
     "business_name": "",
@@ -8944,26 +9000,6 @@
     ]
   },
   {
-    "domain": "contentbytes.pl",
-    "title": "Content community meetups in Kraków, Poland | Content Bytes",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 600,
-    "crawled_at": "2025-11-16T06:28:48.602443931Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Perl",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "recorder.moe",
     "title": "Recorder.moe · GitHub",
     "business_name": "",
@@ -12531,47 +12567,6 @@
       "Twitter Ads",
       "UTF-8",
       "University or College",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "gamerank.io",
-    "title": "GameRank",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2025-10-28T04:41:28.201993011Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "GZIP Module",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "firstslo.si",
-    "title": "𝐹𝐼𝑅𝑆𝑇 Slovenia",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 17400,
-    "crawled_at": "2025-10-28T01:13:18.839646807Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Perl",
-      "UTF-8",
       "YouTube"
     ]
   }
