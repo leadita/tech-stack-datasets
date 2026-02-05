@@ -1,15 +1,16 @@
 [
   {
-    "domain": "getbenefits-airship.com",
+    "domain": "buybenefitairships.com",
     "title": "Benefit Airship Affordable Health & Wellness Plans Nationwide",
     "business_name": "Benefit Airship",
     "country": "",
     "seo_score": 67,
-    "tech_spend": 111336,
-    "crawled_at": "2026-02-04T19:58:48.8822864Z",
+    "tech_spend": 113736,
+    "crawled_at": "2026-02-04T21:16:48.864101974Z",
     "technologies": [
       "AWS WAF Challenge",
       "Airship CRM",
+      "Amazon",
       "Amazon CloudFront",
       "Amazon WAF Blocked",
       "Apture Linking Platform",
@@ -17,6 +18,7 @@
       "CloudFront",
       "Cloudflare",
       "Cloudflare CDN",
+      "DAV",
       "DC74",
       "Google Analytics",
       "Google Calendar",
