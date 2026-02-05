@@ -1,6 +1,6 @@
 # Companies Using DealerOn (Live Dataset 2026)
 
-This folder contains an active list of 110 companies using **DealerOn**. 
+This folder contains an active list of 111 companies using **DealerOn**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 110
+- **Total Leads:** 111
 - **Verified:** Yes
-- **Last Updated:** 2026-02-04 12:00 UTC
+- **Last Updated:** 2026-02-05 12:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **110+** companies using DealerOn.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **111+** companies using DealerOn.
 
 [**⚡ Unlock the Full DealerOn List with Contact Details**](https://leadita.com/leads/companies-using-dealeron)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-04 12:00 UTC*
+*Last updated: 2026-02-05 12:00 UTC*
 *Data source: Leadita Technographic Intelligence*

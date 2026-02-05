@@ -1987,40 +1987,5 @@
       "Vercel",
       "WordPress"
     ]
-  },
-  {
-    "domain": "kelownachrysler.ca",
-    "title": "Kelowna Chrysler Dodge Jeep | Chrysler, Dodge, Jeep, Ram Dealership in Kelowna",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 94395,
-    "crawled_at": "2025-10-24T11:17:31.634951785Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "AutoTrader CA",
-      "DealerInspire",
-      "DealerSites",
-      "Express",
-      "Fastly",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "ISO/IEC 8859",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Mapp",
-      "Microdata for Google Shopping",
-      "Poptin",
-      "QUIC",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8"
-    ]
   }
 ]
