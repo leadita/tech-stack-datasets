@@ -1,6 +1,6 @@
 # Companies Using Unbounce (Live Dataset 2026)
 
-This folder contains an active list of 212 companies using **Unbounce**. 
+This folder contains an active list of 210 companies using **Unbounce**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 212
+- **Total Leads:** 210
 - **Verified:** Yes
-- **Last Updated:** 2026-02-04 19:30 UTC
+- **Last Updated:** 2026-02-05 19:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **212+** companies using Unbounce.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **210+** companies using Unbounce.
 
 [**⚡ Unlock the Full Unbounce List with Contact Details**](https://leadita.com/leads/companies-using-unbounce)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-04 19:30 UTC*
+*Last updated: 2026-02-05 19:30 UTC*
 *Data source: Leadita Technographic Intelligence*
