@@ -1,5 +1,104 @@
 [
   {
+    "domain": "standardsolutions.in",
+    "title": "Standard Solutions | IT Services | Digital Transformation",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-02-05T22:13:48.885618132Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "GZIP Module",
+      "ISO/IEC 8859",
+      "Tailwind CSS",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "keralaskillregistry.com",
+    "title": "Home | Kerala Skill Registry",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 55,
+    "tech_spend": 156,
+    "crawled_at": "2026-02-05T21:04:38.132647833Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Bulma",
+      "IcoMoon",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "apdiweb.com",
+    "title": "APdiweb – Aplicaciones y Diseño Web",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 277,
+    "crawled_at": "2026-02-05T16:58:48.871037191Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Apache Tomcat JK",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Contact Form Plugin",
+      "EmbedPress",
+      "GZIP Module",
+      "Go Pricing",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "LiteSpeed",
+      "PHP",
+      "Parallels Plesk Panel",
+      "QUIC",
+      "Slider Revolution",
+      "Tailwind CSS",
+      "The7",
+      "Theme In WP",
+      "UTF-8",
+      "Visual Composer Ultimate Addons",
+      "WPBakery",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "palletplastikbatam.com",
+    "title": "PT. Royal Citra Bersama",
+    "business_name": "",
+    "country": "IDN",
+    "seo_score": 67,
+    "tech_spend": 2459,
+    "crawled_at": "2026-02-05T04:22:15.670708351Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "BootstrapMade",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "QUIC",
+      "UTF-8",
+      "WhatsApp Sharing"
+    ]
+  },
+  {
     "domain": "crowlley.com.br",
     "title": "ohtten.com",
     "business_name": "",
@@ -11241,23 +11340,6 @@
     ]
   },
   {
-    "domain": "standardsolutions.in",
-    "title": "Standard Solutions | IT Services | Digital Transformation",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2025-11-03T17:27:03.471960254Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "GZIP Module",
-      "ISO/IEC 8859",
-      "Tailwind CSS",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "immortalpublications.com",
     "title": "Welcome page | Immortal Publications",
     "business_name": "",
@@ -13413,66 +13495,6 @@
       "WordPress Multisite",
       "WordPress Related Posts",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "keralaskillregistry.com",
-    "title": "Home | Kerala Skill Registry",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 60,
-    "tech_spend": 156,
-    "crawled_at": "2025-10-24T19:26:31.673612802Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Bulma",
-      "GZIP Module",
-      "IcoMoon",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "miniteam.cn",
-    "title": "MTM",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 60,
-    "crawled_at": "2025-10-24T18:32:31.642685582Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Baidu Ads",
-      "Baidu Cloud",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "palletplastikbatam.com",
-    "title": "PT. Royal Citra Bersama",
-    "business_name": "",
-    "country": "IDN",
-    "seo_score": 82,
-    "tech_spend": 2459,
-    "crawled_at": "2025-10-24T08:11:48.563059318Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "BootstrapMade",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "QUIC",
-      "UTF-8",
-      "WhatsApp Sharing"
     ]
   }
 ]
