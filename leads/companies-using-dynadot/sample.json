@@ -1,32 +1,12 @@
 [
   {
-    "domain": "philippinerealestate.app",
-    "title": "Welcome to PhilippineProperties.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 3135,
-    "crawled_at": "2026-02-04T15:51:37.232579732Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Prospective",
-      "QUIC",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "malecaregiver.info",
+    "domain": "boardgame.biz",
     "title": "Build Your Brand",
     "business_name": "",
     "country": "",
     "seo_score": 37,
     "tech_spend": 135,
-    "crawled_at": "2026-02-04T12:37:42.931375729Z",
+    "crawled_at": "2026-02-05T15:43:48.870675497Z",
     "technologies": [
       "Amazon CloudFront",
       "CloudFront",
@@ -37,13 +17,58 @@
     ]
   },
   {
+    "domain": "www.atxcamper.com",
+    "title": "This website or DOMAIN NAME may be for sale.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 57,
+    "tech_spend": 30795,
+    "crawled_at": "2026-02-05T08:16:24.817280145Z",
+    "technologies": [
+      "Camp",
+      "Cart.com",
+      "Dynadot",
+      "Fast",
+      "Font Awesome",
+      "GZIP Module",
+      "Google My Business",
+      "PointDNS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "nic.bar",
+    "title": "Punto 2012 .BAR .REST | .rest and .bar domain names",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 1268,
+    "crawled_at": "2026-02-05T07:07:48.892073199Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "Dynadot",
+      "GZIP Module",
+      "GoDaddy",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "premiernotary.co",
     "title": "Mobile Notary Services – Delivered to Your Location with Professionalism and Precision.",
     "business_name": "",
     "country": "",
     "seo_score": 45,
     "tech_spend": 135,
-    "crawled_at": "2026-02-04T04:07:23.504967315Z",
+    "crawled_at": "2026-02-05T04:49:48.868884278Z",
     "technologies": [
       "Amazon CloudFront",
       "Calendly",
@@ -55,13 +80,13 @@
     ]
   },
   {
-    "domain": "1000studio.com",
-    "title": "An EMDN - 1000 Studio, Creative Studio Media Production Design Agency Content Creation Digital Studio Brand Development",
+    "domain": "thereduce.com",
+    "title": "An EMDN - The Reduce",
     "business_name": "",
     "country": "",
-    "seo_score": 42,
+    "seo_score": 37,
     "tech_spend": 135,
-    "crawled_at": "2026-02-04T01:34:24.254479071Z",
+    "crawled_at": "2026-02-05T03:16:48.872759579Z",
     "technologies": [
       "Amazon CloudFront",
       "Apture Linking Platform",
@@ -73,6 +98,65 @@
       "Google Tag Manager",
       "Microsoft Clarity",
       "UTF-8"
+    ]
+  },
+  {
+    "domain": "chicagoriders.com",
+    "title": "An EMDN - Chicago Riders, Urban Transportation Commuters Bicycle Sharing Motorcycle Community Ride Sharing City Mobility Transit Network",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 135,
+    "crawled_at": "2026-02-04T20:10:48.883374259Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "leadjenn.ai",
+    "title": "LeadJenn.ai",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 50,
+    "tech_spend": 135,
+    "crawled_at": "2026-02-04T20:04:48.87450432Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "Font Awesome",
+      "GZIP Module",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "philippineproperties.app",
+    "title": "Welcome to PhilippineProperties.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 3135,
+    "crawled_at": "2026-02-04T18:31:04.782348077Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "Font Awesome",
+      "GZIP Module",
+      "Prospective",
+      "QUIC",
+      "UTF-8",
+      "YouTube"
     ]
   },
   {
@@ -413,24 +497,6 @@
     ]
   },
   {
-    "domain": "leadjen.ai",
-    "title": "LeadJenn.ai",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 50,
-    "tech_spend": 135,
-    "crawled_at": "2026-01-28T10:58:43.448684968Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "dialogichealing.com",
     "title": "Dialogic Healing",
     "business_name": "",
@@ -697,26 +763,6 @@
       "TradingView",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "kangacraft.com",
-    "title": "This website or DOMAIN NAME may be for sale.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 57,
-    "tech_spend": 30795,
-    "crawled_at": "2026-01-24T21:04:43.432400397Z",
-    "technologies": [
-      "Camp",
-      "Cart.com",
-      "Dynadot",
-      "Fast",
-      "Font Awesome",
-      "GZIP Module",
-      "Google My Business",
-      "PointDNS",
-      "UTF-8"
     ]
   },
   {
@@ -1045,31 +1091,6 @@
       "Font Awesome",
       "GZIP Module",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "register.rest",
-    "title": "Punto 2012 .BAR .REST | .rest and .bar domain names",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 1268,
-    "crawled_at": "2026-01-11T07:13:36.91320321Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Duda",
-      "Dynadot",
-      "GZIP Module",
-      "GoDaddy",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "Website Tonight"
     ]
   },
   {
@@ -3599,29 +3620,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "thedvdivas.com",
-    "title": "CALIFORNIA SB 553 Workplace Violence Prevention Plan",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 72,
-    "tech_spend": 76719,
-    "crawled_at": "2025-10-24T03:59:31.64933699Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Cart.com",
-      "CloudFront",
-      "Corporate Governance and Regulatory Compliance",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Gambling Content",
-      "NFOrce Internet",
-      "UTF-8",
-      "University or College",
-      "YouTube"
     ]
   }
 ]
