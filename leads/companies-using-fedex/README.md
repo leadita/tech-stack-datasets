@@ -1,6 +1,6 @@
 # Companies Using FedEx (Live Dataset 2026)
 
-This folder contains an active list of 788 companies using **FedEx**. 
+This folder contains an active list of 786 companies using **FedEx**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 788
+- **Total Leads:** 786
 - **Verified:** Yes
-- **Last Updated:** 2026-02-04 22:15 UTC
+- **Last Updated:** 2026-02-05 22:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **788+** companies using FedEx.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **786+** companies using FedEx.
 
 [**⚡ Unlock the Full FedEx List with Contact Details**](https://leadita.com/leads/companies-using-fedex)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-04 22:15 UTC*
+*Last updated: 2026-02-05 22:15 UTC*
 *Data source: Leadita Technographic Intelligence*
