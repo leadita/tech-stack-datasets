@@ -1,5 +1,30 @@
 [
   {
+    "domain": "moneyappicore.com",
+    "title": "Moneyappi",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 7700,
+    "crawled_at": "2026-02-04T22:24:13.819488899Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "ButterCMS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fireblade",
+      "Google Analytics",
+      "Google Tag Manager",
+      "InitiativeS",
+      "Next.js",
+      "Perl",
+      "Pleroma",
+      "QUIC",
+      "Styled Components",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "leonardo-reis.com",
     "title": "Leonardo Reis - Desenvolvedor Fullstack",
     "business_name": "",
@@ -90,30 +115,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "moneyappiapp.com",
-    "title": "Moneyappi",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 7700,
-    "crawled_at": "2026-01-22T08:06:24.674786132Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "ButterCMS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fireblade",
-      "Google Analytics",
-      "Google Tag Manager",
-      "InitiativeS",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Styled Components",
-      "UTF-8"
     ]
   },
   {
