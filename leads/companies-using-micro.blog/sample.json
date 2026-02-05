@@ -1,5 +1,84 @@
 [
   {
+    "domain": "crow.moe",
+    "title": "dougbeal – digital dougbeal",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 45677,
+    "crawled_at": "2026-02-05T01:19:48.907677968Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "DAV",
+      "EmbedPress",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Mapp",
+      "Mastodon",
+      "Micro.blog",
+      "Nginx",
+      "PHP",
+      "Pleroma",
+      "Tailwind CSS",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "colinwalker.blog",
+    "title": "Colin Walker - Feb 5, 2026",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 60,
+    "crawled_at": "2026-02-05T00:55:48.895233177Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GitHub Hosting",
+      "Micro.blog",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "lildude.co.uk",
+    "title": "@lildude | But what is it good for?",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 6448,
+    "crawled_at": "2026-02-05T00:21:39.745080675Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CM Commerce",
+      "Cisco/Arrowpoint Content Service Switch",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Heroku",
+      "Jekyll",
+      "Mastodon",
+      "Micro.blog",
+      "Netlify",
+      "PagerDuty",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "thymenailspa.com",
     "title": "Thyme Nail Spa | Nail Salon In Grandview Heights, OH 43212",
     "business_name": "",
@@ -889,30 +968,6 @@
       "Micro.blog",
       "Nginx",
       "QUIC",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "gonefora.run",
-    "title": "Gone For A Run | Where else would I have gone?",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 1568,
-    "crawled_at": "2026-01-24T04:11:21.447420703Z",
-    "technologies": [
-      "Adult Content",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Content Delivery Network",
-      "Google Related Website Sites",
-      "Heroku",
-      "Instagram Follow Button",
-      "Jekyll",
-      "Mastodon",
-      "Micro.blog",
-      "Netlify",
       "Twitter Ads",
       "UTF-8"
     ]
@@ -4556,40 +4611,6 @@
     ]
   },
   {
-    "domain": "crow.moe",
-    "title": "dougbeal – digital dougbeal",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 45677,
-    "crawled_at": "2025-11-23T11:40:03.486901035Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "DAV",
-      "EmbedPress",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Mapp",
-      "Mastodon",
-      "Micro.blog",
-      "Nginx",
-      "PHP",
-      "Pleroma",
-      "Tailwind CSS",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "laurencecruz.com",
     "title": "Laurence",
     "business_name": "",
@@ -6035,24 +6056,6 @@
       "Schema Plugin",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "colinwalker.blog",
-    "title": "Colin Walker - Nov 5, 2025",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 60,
-    "crawled_at": "2025-11-09T10:55:45.469990388Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GitHub Hosting",
-      "Micro.blog",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   },
   {
