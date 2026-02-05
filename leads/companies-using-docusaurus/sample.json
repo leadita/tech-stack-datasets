@@ -1,5 +1,56 @@
 [
   {
+    "domain": "genwritesdocs.com",
+    "title": "Hello from Genesis Sorto | Genesis Sorto",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-02-05T15:37:48.878814278Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Netlify",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "jobsconnected.io",
+    "title": "Jobs Connected | Host your in-person, hybrid, and virtual job fairs with us",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 5250,
+    "crawled_at": "2026-02-05T04:37:58.389019778Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Perl",
+      "Storyblocks",
+      "Stripe",
+      "Tailwind CSS",
+      "University or College",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "contentbytes.pl",
     "title": "Content community meetups in Kraków, Poland | Content Bytes",
     "business_name": "",
@@ -9963,25 +10014,6 @@
     ]
   },
   {
-    "domain": "genwritesdocs.com",
-    "title": "Hello from Genesis Sorto | Genesis Sorto",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2025-11-08T10:58:12.082919783Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Netlify",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "mr-graham.co.uk",
     "title": "PETER GRAHAM | PETER GRAHAM",
     "business_name": "",
@@ -12543,31 +12575,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "lincsproject.ca",
-    "title": "Home | LINCS",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 21387,
-    "crawled_at": "2025-10-28T07:16:04.56548801Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "Financial Services Guide",
-      "Font Awesome",
-      "KVH",
-      "License Buttons",
-      "Matomo",
-      "Perl",
-      "QUIC",
-      "Subversion",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "YouTube"
     ]
   }
 ]
