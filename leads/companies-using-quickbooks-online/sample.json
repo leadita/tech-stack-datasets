@@ -1,5 +1,28 @@
 [
   {
+    "domain": "riversandriverscpas.com",
+    "title": "Home | Rivers and Rivers CPAs",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 11920,
+    "crawled_at": "2026-02-05T08:58:02.412039061Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "leadinglightaccountancy.com",
     "title": "Leading Light Accountancy, PS | Now taking new clients",
     "business_name": "",
@@ -8232,31 +8255,6 @@
       "Zoho Books",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "riversandriverscpas.com",
-    "title": "Home | Rivers and Rivers CPAs",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 12580,
-    "crawled_at": "2025-10-24T12:47:31.631290936Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
