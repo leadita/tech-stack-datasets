@@ -543,46 +543,5 @@
       "Wistia",
       "YouTube"
     ]
-  },
-  {
-    "domain": "marshallchikari.co.zw",
-    "title": "Home - Marshall Chikari",
-    "business_name": "",
-    "country": "ZWE",
-    "seo_score": 65,
-    "tech_spend": 25923,
-    "crawled_at": "2025-10-24T04:05:31.696667628Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Anti-spam for WordPress",
-      "Apache",
-      "Bulma",
-      "CleanTalk Spam Protect",
-      "Elementor",
-      "EmbedPress",
-      "Fireblade",
-      "Font Awesome",
-      "GitHub Hosting",
-      "Google Adsense",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google Reseller",
-      "Merge",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PHP",
-      "Python",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "jsDelivr"
-    ]
   }
 ]

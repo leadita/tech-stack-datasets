@@ -1,5 +1,34 @@
 [
   {
+    "domain": "lavarch.com",
+    "title": "LAVARCH",
+    "business_name": "",
+    "country": "SVK",
+    "seo_score": 72,
+    "tech_spend": 648,
+    "crawled_at": "2026-02-05T01:04:48.88343739Z",
+    "technologies": [
+      "Astro",
+      "Content Delivery Network",
+      "DAV",
+      "ElementUI",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Pabbly",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "platinumvalleyschool.com",
     "title": "Top Schools in Ghaziabad | Best School in Ghaziabad",
     "business_name": "",
