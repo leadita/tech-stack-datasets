@@ -1,5 +1,24 @@
 [
   {
+    "domain": "dithmarschen-energie.de",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 1260,
+    "crawled_at": "2026-02-05T15:34:48.867949107Z",
+    "technologies": [
+      "Barchart",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Grafana",
+      "OpenResty",
+      "UTF-8",
+      "Yandex Hosting"
+    ]
+  },
+  {
     "domain": "wdrentals.com",
     "title": "Grafana",
     "business_name": "",
@@ -17,26 +36,6 @@
       "Grafana",
       "Nginx",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "glicocmmsbeta.org",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 1260,
-    "crawled_at": "2026-02-02T16:55:48.859320105Z",
-    "technologies": [
-      "Barchart",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Grafana",
-      "Nginx",
-      "UTF-8",
-      "Ubuntu",
-      "Yandex Hosting"
     ]
   },
   {
