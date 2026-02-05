@@ -1,6 +1,6 @@
 # Companies Using Cloudflare Workers (Live Dataset 2026)
 
-This folder contains an active list of 605 companies using **Cloudflare Workers**. 
+This folder contains an active list of 606 companies using **Cloudflare Workers**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 605
+- **Total Leads:** 606
 - **Verified:** Yes
-- **Last Updated:** 2026-02-04 13:15 UTC
+- **Last Updated:** 2026-02-05 13:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **605+** companies using Cloudflare Workers.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **606+** companies using Cloudflare Workers.
 
 [**⚡ Unlock the Full Cloudflare Workers List with Contact Details**](https://leadita.com/leads/companies-using-cloudflare-workers)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-04 13:15 UTC*
+*Last updated: 2026-02-05 13:15 UTC*
 *Data source: Leadita Technographic Intelligence*

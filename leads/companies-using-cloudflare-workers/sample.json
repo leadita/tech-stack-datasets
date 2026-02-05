@@ -1,5 +1,88 @@
 [
   {
+    "domain": "yusufpazuruan.id",
+    "title": "Yusuf Pazuruan",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 32316,
+    "crawled_at": "2026-02-05T13:00:54.432192631Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "AWS WAF Challenge",
+      "Astro",
+      "CM Commerce",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Figma",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "OLO",
+      "Python",
+      "Tailwind CSS",
+      "To Top",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "cygnusna.com",
+    "title": "Cygwin",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 409,
+    "crawled_at": "2026-02-05T08:43:48.883353426Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Apache",
+      "Cloudflare Workers",
+      "GZIP Module",
+      "OpenSSL",
+      "Perl",
+      "Python",
+      "QUIC",
+      "Red Hat Enterprise Linux",
+      "UTF-8",
+      "Unix",
+      "mod_perl"
+    ]
+  },
+  {
+    "domain": "karlkoch.me",
+    "title": "Karl Koch | Home",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 40147,
+    "crawled_at": "2026-02-04T17:58:48.868165428Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Astro",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Cornerstone",
+      "Cosmic JS",
+      "Fastly",
+      "Figma",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "PWA",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "Waveform Technology",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "plentyofchicks.net",
     "title": "Plenty Of Chicks 💖 Where Hearts Connect & Sparks Fly!",
     "business_name": "",
@@ -14372,29 +14455,6 @@
     ]
   },
   {
-    "domain": "cygwin.net",
-    "title": "Cygwin",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 409,
-    "crawled_at": "2025-11-01T01:02:38.885267881Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Apache",
-      "Cloudflare Workers",
-      "GZIP Module",
-      "OpenSSL",
-      "Perl",
-      "Python",
-      "QUIC",
-      "Red Hat Enterprise Linux",
-      "UTF-8",
-      "Unix",
-      "mod_perl"
-    ]
-  },
-  {
     "domain": "jtokib.com",
     "title": "Toki Burke | Marketing Technology Team Lead",
     "business_name": "",
@@ -14502,55 +14562,6 @@
       "WordPress Multisite",
       "WordPress Stats",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "shiliu.us.to",
-    "title": "石榴导航 - shiliu 导航",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 252,
-    "crawled_at": "2025-10-31T20:17:38.944579585Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Baidu Ads",
-      "Baidu Cloud",
-      "Bing Cashback",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Workers",
-      "GitHub Hosting",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Semantic UI",
-      "UTF-8",
-      "YouTube",
-      "jQuery",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "codewithbilal.com",
-    "title": "Mohd Bilal - Full-Stack Developer",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 5540,
-    "crawled_at": "2025-10-31T19:17:38.917493209Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Next.js",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "Vercel"
     ]
   }
 ]
