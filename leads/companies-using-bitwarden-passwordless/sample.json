@@ -1,5 +1,33 @@
 [
   {
+    "domain": "gardev.com",
+    "title": "gar.dev · Georgi Gardev",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 2673,
+    "crawled_at": "2026-02-04T20:47:32.489886292Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "App Store",
+      "Bitwarden Passwordless",
+      "Content Delivery Network",
+      "DAV",
+      "Express",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Netlify",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "UTF-8",
+      "Unix",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "sudohash.in",
     "title": "SudoHash",
     "business_name": "",
@@ -6946,34 +6974,6 @@
       "YouTube",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "gar.dev",
-    "title": "gar.dev · Georgi Gardev",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 2673,
-    "crawled_at": "2025-11-30T08:04:41.932338261Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "App Store",
-      "Bitwarden Passwordless",
-      "Content Delivery Network",
-      "DAV",
-      "Express",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Netlify",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "UTF-8",
-      "Unix",
-      "YouTube"
     ]
   },
   {
