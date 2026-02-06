@@ -1,5 +1,27 @@
 [
   {
+    "domain": "forum.df3.ru",
+    "title": "DF2 :: ������",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 600,
+    "crawled_at": "2026-02-06T05:08:48.040971004Z",
+    "technologies": [
+      "ADFOX",
+      "ContentBox",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Invision Power Board",
+      "Nginx",
+      "Perl",
+      "Yandex Hosting",
+      "Yandex Metrika",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "prepody.ru",
     "title": "Образовательный студенческий форум",
     "business_name": "",
@@ -164,28 +186,6 @@
       "UTF-8",
       "Yandex Hosting",
       "Yandex Metrika"
-    ]
-  },
-  {
-    "domain": "forum.df2.ru",
-    "title": "DF2 :: ������",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 600,
-    "crawled_at": "2025-11-22T07:36:19.451633339Z",
-    "technologies": [
-      "ADFOX",
-      "ContentBox",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Invision Power Board",
-      "Nginx",
-      "Perl",
-      "Yandex Hosting",
-      "Yandex Metrika",
-      "jQuery"
     ]
   },
   {
