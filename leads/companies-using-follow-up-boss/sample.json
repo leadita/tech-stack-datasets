@@ -1,5 +1,35 @@
 [
   {
+    "domain": "villasatfallenspruce.com",
+    "title": "Home | Villas at Fallen Spruce",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 68792,
+    "crawled_at": "2026-02-05T23:03:17.769809173Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "DAV",
+      "Follow Up Boss",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "HMDG",
+      "Heroku",
+      "Instagram Follow Button",
+      "K2F",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Negate",
+      "ResMan",
+      "Subversion",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "ybstressed.net",
     "title": "Louisville Realtor | Ritsch Real Estate – Louisville, KY",
     "business_name": "",
@@ -10222,36 +10252,6 @@
       "Wangsu",
       "Website Tonight",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "villasatfallenspruce.com",
-    "title": "Home | Villas at Fallen Spruce",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 68792,
-    "crawled_at": "2025-10-24T20:14:31.682773964Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "DAV",
-      "Follow Up Boss",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "HMDG",
-      "Heroku",
-      "Instagram Follow Button",
-      "K2F",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Negate",
-      "ResMan",
-      "Subversion",
-      "UTF-8"
     ]
   }
 ]
