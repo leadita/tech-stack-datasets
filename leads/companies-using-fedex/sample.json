@@ -1,5 +1,41 @@
 [
   {
+    "domain": "propaneoutfitters.com",
+    "title": "Home | Propane Outfitters",
+    "business_name": "",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 1338,
+    "crawled_at": "2026-02-05T23:34:48.886543076Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "Express",
+      "FedEx",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Harbor",
+      "Line2",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "MonsterInsights",
+      "QUIC",
+      "QUIC.cloud",
+      "UTF-8",
+      "Way",
+      "Woo Themes",
+      "WooCommerce Payments",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "supremelawn.com",
     "title": "Best Landscaping Services Near Central Minnesota | Supreme Lawn & Landscape",
     "business_name": "Supreme Lawn and Landscaping",
@@ -18687,33 +18723,6 @@
       "USPS",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "dropindecorator.com",
-    "title": "Shay Ingram",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2033,
-    "crawled_at": "2025-11-07T01:57:40.515373294Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "FedEx",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
