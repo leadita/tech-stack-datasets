@@ -1,5 +1,68 @@
 [
   {
+    "domain": "triciakonrath.com",
+    "title": "@TriciaKonrath | Instagram, Facebook | Linktree",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 82,
+    "tech_spend": 24771,
+    "crawled_at": "2026-02-06T13:49:30.51967442Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Contentstack",
+      "Fastly",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Homes.com CMS",
+      "Instagram Follow Button",
+      "Kitco",
+      "Linktree",
+      "Microdata for Google Shopping",
+      "Nationwide Mortgage Licensing System and Registry",
+      "Next.js",
+      "Nginx",
+      "PWA",
+      "Pleroma",
+      "QUIC",
+      "Rakuten Affiliate",
+      "SiteW",
+      "Styled Components",
+      "Superfiliate",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "WordPress",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "mandetolentinolandscapingstonellc.us",
+    "title": "M & E TOLENTINO LANDSCAPING AND STONE SERVICE LLC",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 17540,
+    "crawled_at": "2026-02-05T18:49:48.885335383Z",
+    "technologies": [
+      "Apache",
+      "Contentstack",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Monster",
+      "Perl",
+      "UTF-8",
+      "WhatsApp Sharing"
+    ]
+  },
+  {
     "domain": "footstoolgovernment.com",
     "title": "Home | Footstool Government",
     "business_name": "",
@@ -22894,51 +22957,6 @@
       "Wix Media",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "cateringcarben.com",
-    "title": "Catering Carben",
-    "business_name": "",
-    "country": "CHL",
-    "seo_score": 55,
-    "tech_spend": 3659,
-    "crawled_at": "2025-11-18T20:50:06.587110114Z",
-    "technologies": [
-      "Contentstack",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "OpenResty"
-    ]
-  },
-  {
-    "domain": "springdalefarms.com",
-    "title": "Springdale Farm Market - Cherry Hill's Last Working Farm",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 10590,
-    "crawled_at": "2025-11-18T17:24:19.459003908Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Contentstack",
-      "FareHarbor",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Harbor",
-      "Instagram Follow Button",
-      "PHP",
-      "Pico CSS",
-      "RapidWeaver",
-      "ShareThis",
-      "Twitter Ads",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
