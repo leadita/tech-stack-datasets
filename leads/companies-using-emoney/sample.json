@@ -3912,37 +3912,5 @@
       "eMoney",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "charlleroux.co.za",
-    "title": "Charl le Roux | attooh! Your Wealth Solution",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 38960,
-    "crawled_at": "2025-10-24T19:14:31.668612334Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon S3 CDN",
-      "Apture Linking Platform",
-      "Authorize.net",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "DAV",
-      "Financial Services Guide",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Nuxt.js",
-      "QUIC",
-      "Storyblocks",
-      "UTF-8",
-      "Vimeo",
-      "Vimeo CDN",
-      "eMoney"
-    ]
   }
 ]
