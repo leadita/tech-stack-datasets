@@ -1,5 +1,39 @@
 [
   {
+    "domain": "bookcovers.eu",
+    "title": "Book covers",
+    "business_name": "Book covers",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 49,
+    "crawled_at": "2026-02-05T22:46:48.863916564Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "alisca.ma",
+    "title": "alisca.ma",
+    "business_name": "alisca.ma",
+    "country": "GBR",
+    "seo_score": 50,
+    "tech_spend": 49,
+    "crawled_at": "2026-02-05T19:58:48.880803404Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "bridgitbeyer.com",
     "title": "Bridgit Beyer: Architectural and Interior Photographer",
     "business_name": "Brett Beyer Photography",
@@ -1131,22 +1165,6 @@
       "Unix",
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "myfmpa.ma",
-    "title": "myfmpa.ma",
-    "business_name": "myfmpa.ma",
-    "country": "GBR",
-    "seo_score": 50,
-    "tech_spend": 49,
-    "crawled_at": "2026-01-15T20:43:43.432517675Z",
-    "technologies": [
-      "Alternate Protocol",
-      "InitiativeS",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   },
   {
@@ -3753,25 +3771,6 @@
       "Microsoft Clarity",
       "Publii",
       "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "bookcovers.eu",
-    "title": "Book covers",
-    "business_name": "Book covers",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 49,
-    "crawled_at": "2025-12-02T01:56:36.45600408Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Publii",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   },
