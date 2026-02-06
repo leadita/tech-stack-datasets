@@ -1,5 +1,40 @@
 [
   {
+    "domain": "texas-fins-and-feathers.com",
+    "title": "Port O'Connor Fishing Guides: Your Key to Gulf Fishing Fun",
+    "business_name": "Texas Fins and Feathers",
+    "country": "PHL",
+    "seo_score": 77,
+    "tech_spend": 50042,
+    "crawled_at": "2026-02-05T19:42:28.689582242Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon",
+      "Amazon API Gateway",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Content Delivery Network",
+      "DoubleClick Bid Manager",
+      "Fastly",
+      "Fireblade",
+      "GZIP Module",
+      "Heap",
+      "Hubspot",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Stripe",
+      "Tailwind CSS",
+      "The Deck",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "oldsaltcharters-spi.com",
     "title": "Hooked on Adventure With South Padre Island Fishing Charters",
     "business_name": "Old Salt Charters",
@@ -17350,40 +17385,6 @@
       "Twitter Ads",
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "flgulfcoastfishing.com",
-    "title": "Reel in the Fun: Crystal River's Ultimate Fishing Charter!",
-    "business_name": "Florida Gulf Coast Charter Fishing",
-    "country": "ZAF",
-    "seo_score": 82,
-    "tech_spend": 50042,
-    "crawled_at": "2025-11-07T03:38:38.887351081Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon",
-      "Amazon API Gateway",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CloudFront",
-      "Content Delivery Network",
-      "DoubleClick Bid Manager",
-      "Fastly",
-      "Fireblade",
-      "GZIP Module",
-      "Heap",
-      "Hubspot",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Stripe",
-      "Tailwind CSS",
-      "UTF-8",
-      "eLand"
     ]
   }
 ]

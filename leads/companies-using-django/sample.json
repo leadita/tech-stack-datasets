@@ -1,5 +1,53 @@
 [
   {
+    "domain": "prestige-details.com",
+    "title": "Prestige Auto Detailing - Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2988,
+    "crawled_at": "2026-02-05T22:52:48.863871122Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Perl",
+      "QUIC",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "renatsecurity.com",
+    "title": "Renat Security Consult Limited",
+    "business_name": "",
+    "country": "NGA",
+    "seo_score": 82,
+    "tech_spend": 34180,
+    "crawled_at": "2026-02-05T19:02:49.553181116Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Django",
+      "Django CSRF",
+      "Fireblade",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "InitiativeS",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Sentry",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "carrigar.in",
     "title": "Carrigar by Tubematic",
     "business_name": "",
@@ -7323,28 +7371,6 @@
     ]
   },
   {
-    "domain": "prestige-details.com",
-    "title": "Prestige Auto Detailing - Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2988,
-    "crawled_at": "2025-11-08T23:53:14.748048806Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
-    ]
-  },
-  {
     "domain": "cmsmeclub.com",
     "title": "SME Legal Services | CM SME Club",
     "business_name": "",
@@ -9226,64 +9252,6 @@
       "University or College",
       "Zope",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "carrolltonclubapartments.com",
-    "title": "Home - Carrollton Club",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 1574,
-    "crawled_at": "2025-10-25T01:35:31.674598961Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Apache",
-      "BetterNOI",
-      "CDN JS",
-      "CentOS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Django",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Matomo",
-      "Matomo Tag Manager",
-      "OpenSSL",
-      "Pleroma",
-      "Python",
-      "QUIC",
-      "UTF-8",
-      "Zope",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "renatsecurity.com",
-    "title": "Renat Security Consult Limited",
-    "business_name": "",
-    "country": "NGA",
-    "seo_score": 82,
-    "tech_spend": 33940,
-    "crawled_at": "2025-10-24T18:29:31.71363346Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Django",
-      "Django CSRF",
-      "Fireblade",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "InitiativeS",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "UTF-8"
     ]
   }
 ]
