@@ -3050,36 +3050,5 @@
       "YouTube",
       "jQuery"
     ]
-  },
-  {
-    "domain": "jbrcllc.com",
-    "title": "JBRC, LLC",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 9435,
-    "crawled_at": "2025-10-25T00:35:31.673718325Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudinary",
-      "Daily Deals",
-      "ElementUI",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google My Business",
-      "Google Tag Manager",
-      "Gravity",
-      "Thank You",
-      "UTF-8",
-      "Volusion Live Chat"
-    ]
   }
 ]
