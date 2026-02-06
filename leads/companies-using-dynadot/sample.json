@@ -1,18 +1,59 @@
 [
   {
-    "domain": "boardgame.biz",
+    "domain": "whiteplanter.com",
     "title": "Build Your Brand",
     "business_name": "",
     "country": "",
     "seo_score": 37,
     "tech_spend": 135,
-    "crawled_at": "2026-02-05T15:43:48.870675497Z",
+    "crawled_at": "2026-02-06T07:52:17.994868532Z",
     "technologies": [
       "Amazon CloudFront",
       "CloudFront",
       "Dynadot",
       "Font Awesome",
       "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "costaspavlidis.com",
+    "title": "Costas Pavlidis Studio",
+    "business_name": "",
+    "country": "GRC",
+    "seo_score": 52,
+    "tech_spend": 135,
+    "crawled_at": "2026-02-06T02:34:48.865089254Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "amaalahq.com",
+    "title": "An EMDN - Amaala HQ, Luxury Destination Red Sea Saudi Arabia Sustainable Tourism Wellness Retreat Exclusive Resort Eco-Friendly Development Premium Hospitality",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 135,
+    "crawled_at": "2026-02-06T02:28:47.221792169Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Clarity",
       "UTF-8"
     ]
   },
@@ -76,27 +117,6 @@
       "Dynadot",
       "Font Awesome",
       "GZIP Module",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "thereduce.com",
-    "title": "An EMDN - The Reduce",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 135,
-    "crawled_at": "2026-02-05T03:16:48.872759579Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microsoft Clarity",
       "UTF-8"
     ]
   },
