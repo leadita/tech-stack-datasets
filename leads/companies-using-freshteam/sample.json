@@ -1,5 +1,28 @@
 [
   {
+    "domain": "talentbag.com",
+    "title": "talentbag - User Experience | Stories",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 31628,
+    "crawled_at": "2026-02-06T10:32:58.643482216Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Drift",
+      "Fastly",
+      "Freshteam",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "kumba.pet",
     "title": "Home - Kumba",
     "business_name": "Kumba",
@@ -3052,29 +3075,6 @@
       "Yandex Hosting",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "talentbag.com",
-    "title": "talentbag - User Experience | Stories",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 49092,
-    "crawled_at": "2025-10-25T01:50:31.671108723Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Drift",
-      "Fastly",
-      "Freshteam",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
