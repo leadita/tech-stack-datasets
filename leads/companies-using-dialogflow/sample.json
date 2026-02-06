@@ -1,5 +1,23 @@
 [
   {
+    "domain": "dagan.cloud",
+    "title": "dagan.cloud",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 63,
+    "crawled_at": "2026-02-05T17:01:20.949217403Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Dialogflow",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API"
+    ]
+  },
+  {
     "domain": "goteachky.com",
     "title": "Go Teach KY",
     "business_name": "Go Teach KY",
@@ -8740,63 +8758,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "techforce.me",
-    "title": "HOME",
-    "business_name": "",
-    "country": "EGY",
-    "seo_score": 70,
-    "tech_spend": 72888,
-    "crawled_at": "2025-10-24T20:20:31.714955888Z",
-    "technologies": [
-      "Amazon",
-      "ClickOn",
-      "Dialogflow",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Google Workspace",
-      "Instagram Follow Button",
-      "LinkedIn Insights",
-      "LinkedIn Pixel",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Ntent",
-      "Plausible Analytics",
-      "SMC",
-      "Sapper",
-      "Schema Plugin",
-      "Subversion",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "dagan.cloud",
-    "title": "dagan.cloud",
-    "business_name": "",
-    "country": "",
-    "seo_score": 20,
-    "tech_spend": 123,
-    "crawled_at": "2025-10-24T17:20:31.676217012Z",
-    "technologies": [
-      "Amazon",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Dialogflow",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API"
     ]
   }
 ]
