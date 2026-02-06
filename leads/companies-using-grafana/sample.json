@@ -1,20 +1,22 @@
 [
   {
-    "domain": "dithmarschen-energie.de",
+    "domain": "sawit-kan.web.id",
     "title": "Grafana",
     "business_name": "",
     "country": "",
-    "seo_score": 30,
+    "seo_score": 40,
     "tech_spend": 1260,
-    "crawled_at": "2026-02-05T15:34:48.867949107Z",
+    "crawled_at": "2026-02-06T07:13:35.05127219Z",
     "technologies": [
       "Barchart",
       "Express",
       "GZIP Module",
       "GitHub Hosting",
       "Grafana",
-      "OpenResty",
+      "Nginx",
+      "Subversion",
       "UTF-8",
+      "Ubuntu",
       "Yandex Hosting"
     ]
   },

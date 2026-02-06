@@ -4168,30 +4168,5 @@
       "jQuery",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "revvessel.com",
-    "title": "Revenue Vessel",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 82,
-    "tech_spend": 14578,
-    "crawled_at": "2025-10-24T19:32:31.709187695Z",
-    "technologies": [
-      "Better Stack",
-      "Coming Soon Page",
-      "Framer Sites",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "LinkedIn Insights",
-      "LinkedIn Pixel",
-      "Ntent",
-      "Point",
-      "Vector Internet Services",
-      "Yandex Hosting",
-      "Zeald"
-    ]
   }
 ]
