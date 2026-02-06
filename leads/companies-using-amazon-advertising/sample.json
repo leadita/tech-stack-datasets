@@ -8343,39 +8343,5 @@
       "Workday",
       "YouTube"
     ]
-  },
-  {
-    "domain": "id678ws.com",
-    "title": "ID678 | WhatsApp Channel",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 123508,
-    "crawled_at": "2025-10-24T15:32:31.651209493Z",
-    "technologies": [
-      "Adyen",
-      "Amazon Advertising Sizmek Ad Suite",
-      "Amazon WAF Blocked",
-      "AppNexus Direct",
-      "Apture Linking Platform",
-      "Booking Affiliate",
-      "Cloudflare",
-      "Content Delivery Network",
-      "DoubleClick Bid Manager",
-      "Facebook CDN",
-      "Fastly CDN",
-      "Fireblade",
-      "FormSubmit",
-      "Instagram Follow Button",
-      "Jetpack Site Accelerator",
-      "PHP",
-      "PWA",
-      "Pantheon",
-      "QUIC",
-      "Salesforce Hosted",
-      "Snowplow",
-      "Workday",
-      "YouTube"
-    ]
   }
 ]
