@@ -1,6 +1,6 @@
 # Companies Using Power BI (Live Dataset 2026)
 
-This folder contains an active list of 689 companies using **Power BI**. 
+This folder contains an active list of 688 companies using **Power BI**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 689
+- **Total Leads:** 688
 - **Verified:** Yes
-- **Last Updated:** 2026-02-05 10:30 UTC
+- **Last Updated:** 2026-02-06 10:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **689+** companies using Power BI.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **688+** companies using Power BI.
 
 [**⚡ Unlock the Full Power BI List with Contact Details**](https://leadita.com/leads/companies-using-power-bi)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-05 10:30 UTC*
+*Last updated: 2026-02-06 10:30 UTC*
 *Data source: Leadita Technographic Intelligence*

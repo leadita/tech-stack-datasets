@@ -1,5 +1,53 @@
 [
   {
+    "domain": "clausengroup.com",
+    "title": "Home | The Clausen Group, LLP",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 11920,
+    "crawled_at": "2026-02-06T01:49:48.891716046Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "dustinmason.com",
+    "title": "Home | Dustin Mason LLC",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 12112,
+    "crawled_at": "2026-02-05T22:16:48.876853921Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Calendly",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "riversandriverscpas.com",
     "title": "Home | Rivers and Rivers CPAs",
     "business_name": "",
@@ -4035,31 +4083,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Zoom Video Conferencing",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "clausengroup.com",
-    "title": "Home | The Clausen Group, LLP",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 12580,
-    "crawled_at": "2025-12-17T14:18:43.701044329Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
       "jsDelivr"
     ]
   },
