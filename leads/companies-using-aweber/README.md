@@ -1,6 +1,6 @@
 # Companies Using AWeber (Live Dataset 2026)
 
-This folder contains an active list of 1,340 companies using **AWeber**. 
+This folder contains an active list of 1,337 companies using **AWeber**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 1,340
+- **Total Leads:** 1,337
 - **Verified:** Yes
-- **Last Updated:** 2026-02-05 17:15 UTC
+- **Last Updated:** 2026-02-06 17:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,340+** companies using AWeber.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,337+** companies using AWeber.
 
 [**⚡ Unlock the Full AWeber List with Contact Details**](https://leadita.com/leads/companies-using-aweber)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-05 17:15 UTC*
+*Last updated: 2026-02-06 17:15 UTC*
 *Data source: Leadita Technographic Intelligence*
