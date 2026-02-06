@@ -1,5 +1,33 @@
 [
   {
+    "domain": "iamfactohub.com",
+    "title": "IAM Services | IAM Consultancy | IAM Training | IAM FactoHub | IAM FactoHub",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 82,
+    "tech_spend": 47554,
+    "crawled_at": "2026-02-06T12:31:52.882242819Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "DAV",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "Pexels",
+      "Ping Identity",
+      "QUIC",
+      "Thank You",
+      "Unsplash",
+      "Zyro"
+    ]
+  },
+  {
     "domain": "emeraldit.ca",
     "title": "Emerald IT Consulting Inc. - Elite Technology Solutions",
     "business_name": "",
@@ -799,34 +827,6 @@
       "UTF-8",
       "University or College",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "iamfactohub.com",
-    "title": "IAM Services | IAM Consultancy | IAM Training | IAM FactoHub | IAM FactoHub",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 92,
-    "tech_spend": 47554,
-    "crawled_at": "2025-10-25T02:56:31.675889254Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DAV",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "Pexels",
-      "Ping Identity",
-      "QUIC",
-      "Thank You",
-      "Unsplash",
-      "Zyro"
     ]
   }
 ]

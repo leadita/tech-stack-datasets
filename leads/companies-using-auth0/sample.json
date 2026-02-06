@@ -1,5 +1,45 @@
 [
   {
+    "domain": "anthik.com",
+    "title": "ANTHIK | DJ | ELECTRONIC DANCE MUSIC",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 16476,
+    "crawled_at": "2026-02-05T23:43:01.461776942Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Auth0",
+      "CloudFront",
+      "Cloudinary",
+      "CookieConsent",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Meteor",
+      "SMC",
+      "Squid",
+      "Stripe",
+      "Styled Components",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "alejandro-arribillaga.ar",
     "title": "Alejandro Arribillaga | FrontEnd Engineer",
     "business_name": "",
@@ -23431,36 +23471,6 @@
       "ISO/IEC 8859",
       "PWA",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "codeflash.com",
-    "title": "Codeflash - Always ship performant code",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 11504,
-    "crawled_at": "2025-10-31T07:29:28.306500029Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Apollo IO",
-      "Apture Linking Platform",
-      "Auth0",
-      "CDN JS",
-      "Cisco/Arrowpoint Content Service Switch",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Crisp",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Python",
-      "Tailwind CSS",
-      "WF Cookie Consent",
-      "Webflow",
-      "jsDelivr"
     ]
   }
 ]
