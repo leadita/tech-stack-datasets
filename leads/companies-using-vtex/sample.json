@@ -1,5 +1,37 @@
 [
   {
+    "domain": "maisondumonde.com.br",
+    "title": "Mundo do Enxoval | Cama, Mesa, Banho, Pijamas e Muito Mais.",
+    "business_name": "",
+    "country": "BRA",
+    "seo_score": 77,
+    "tech_spend": 86588,
+    "crawled_at": "2026-02-07T02:58:59.152375094Z",
+    "technologies": [
+      "Amazon",
+      "Amazon S3 CDN",
+      "Azion",
+      "Envoy",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Istio",
+      "PWA",
+      "Parcel",
+      "Plausible Analytics",
+      "Storyblocks",
+      "Tailwind CSS",
+      "UTF-8",
+      "VTEX Personalization",
+      "WhatsApp Sharing",
+      "YouTube",
+      "deco.cx",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "beoplay.dk",
     "title": "Bang & Olufsen - High-end Headphones, Speakers, and Televisions",
     "business_name": "",
@@ -91,38 +123,6 @@
       "VTEX Personalization",
       "Yandex Hosting",
       "Zeald"
-    ]
-  },
-  {
-    "domain": "omundodoenxoval.com.br",
-    "title": "Mundo do Enxoval | Cama, Mesa, Banho, Pijamas e Muito Mais.",
-    "business_name": "",
-    "country": "BRA",
-    "seo_score": 72,
-    "tech_spend": 86588,
-    "crawled_at": "2026-01-21T15:16:43.435887956Z",
-    "technologies": [
-      "Amazon",
-      "Amazon S3 CDN",
-      "Azion",
-      "Envoy",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Istio",
-      "PWA",
-      "Parcel",
-      "Plausible Analytics",
-      "Storyblocks",
-      "Tailwind CSS",
-      "UTF-8",
-      "VTEX Personalization",
-      "WhatsApp Sharing",
-      "YouTube",
-      "deco.cx",
-      "shadcn ui"
     ]
   },
   {
