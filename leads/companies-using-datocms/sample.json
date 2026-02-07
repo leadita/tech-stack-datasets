@@ -1,5 +1,29 @@
 [
   {
+    "domain": "tummim.com",
+    "title": "Homepage",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 8750,
+    "crawled_at": "2026-02-07T15:02:56.750472206Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Fireblade",
+      "Google My Business",
+      "Idaq",
+      "Next.js",
+      "Pico CSS",
+      "Pleroma",
+      "QUIC",
+      "Styled Components",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "bluez.io",
     "title": "Homepage — FLO",
     "business_name": "",
@@ -13993,44 +14017,6 @@
       "Vector Internet Services",
       "Zingfit",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "supercharge.io",
-    "title": "Supercharge",
-    "business_name": "Supercharge",
-    "country": "HUN",
-    "seo_score": 67,
-    "tech_spend": 70360,
-    "crawled_at": "2025-11-21T18:30:19.453261885Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Angular",
-      "Clockwork",
-      "CloudFront",
-      "Content Delivery Network",
-      "DatoCMS",
-      "Envoy",
-      "Express",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "Medium",
-      "Microdata for Google Shopping",
-      "No-Q",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Visx"
     ]
   }
 ]
