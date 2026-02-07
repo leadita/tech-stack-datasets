@@ -1,5 +1,53 @@
 [
   {
+    "domain": "christiaensgroup.info",
+    "title": "We are Christiaens Group",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 23566,
+    "crawled_at": "2026-02-07T14:05:54.176342644Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Creative Cloud WebFonts",
+      "Apache",
+      "Fancybox for WordPress",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Recruitee",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "rpmeuropelogistics.com",
+    "title": "RPM Europe Logistics - Distribution Center Genk - RPM Europe Logistics",
+    "business_name": "",
+    "country": "BEL",
+    "seo_score": 65,
+    "tech_spend": 6175,
+    "crawled_at": "2026-02-06T22:50:16.094075554Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "OpenSSL",
+      "PHP",
+      "QUIC",
+      "Recruitee",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "abacus-machinery.com",
     "title": "Home - Abacus USA inc.",
     "business_name": "",
@@ -8443,53 +8491,6 @@
       "UTF-8",
       "WordPress",
       "WordPress Multisite"
-    ]
-  },
-  {
-    "domain": "christiaensgroup.info",
-    "title": "We are Christiaens Group",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 23566,
-    "crawled_at": "2025-10-25T14:44:31.689071448Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Apache",
-      "Fancybox for WordPress",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Recruitee",
-      "UTF-8",
-      "University or College"
-    ]
-  },
-  {
-    "domain": "rpmeuropelogistics.com",
-    "title": "RPM Europe Logistics - Distribution Center Genk - RPM Europe Logistics",
-    "business_name": "",
-    "country": "BEL",
-    "seo_score": 70,
-    "tech_spend": 6175,
-    "crawled_at": "2025-10-25T08:29:31.738336642Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "OpenSSL",
-      "PHP",
-      "QUIC",
-      "Recruitee",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
