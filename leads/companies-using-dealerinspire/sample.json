@@ -12251,38 +12251,5 @@
       "UTF-8",
       "accessiBe"
     ]
-  },
-  {
-    "domain": "pioneergaragelimited.com",
-    "title": "Pioneer Auto Group | Dealership in",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 82,
-    "tech_spend": 73287,
-    "crawled_at": "2025-10-25T04:20:31.650100047Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "DealerInspire",
-      "DealerSites",
-      "Express",
-      "Fastly",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "ISO/IEC 8859",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Tailwind CSS",
-      "Thank You",
-      "TradePending",
-      "Twitter Ads",
-      "UTF-8"
-    ]
   }
 ]
