@@ -5098,33 +5098,5 @@
       "eLand",
       "mlcom"
     ]
-  },
-  {
-    "domain": "busybooks.com",
-    "title": "Home • Busy Bookkeeping",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 77,
-    "tech_spend": 2828,
-    "crawled_at": "2025-10-25T06:08:31.67446514Z",
-    "technologies": [
-      "Alternate Protocol",
-      "DAV",
-      "Dext",
-      "Elementor",
-      "EmbedPress",
-      "Hello Elementor",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "Sitelinks Search Box",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "Xero",
-      "jQuery"
-    ]
   }
 ]
