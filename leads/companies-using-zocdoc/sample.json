@@ -1,5 +1,37 @@
 [
   {
+    "domain": "vicinityhealthcare.com",
+    "title": "Vicinity HealthCare – Office and HouseCall Medical Group for Adults and Seniors",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 26695,
+    "crawled_at": "2026-02-07T14:24:52.287091767Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Apture Linking Platform",
+      "Call to Visit",
+      "Elementor",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Hello Elementor",
+      "Investor Relations",
+      "Lazy Load for WordPress",
+      "M247",
+      "NFOrce Internet",
+      "PHP",
+      "QUIC",
+      "UTF-8",
+      "WP Rocket",
+      "WordPress",
+      "WordPress Multisite",
+      "ZocDoc"
+    ]
+  },
+  {
     "domain": "amygoinscounseling.com",
     "title": "Amy Goins Counseling - East Dallas Grief and Trauma Counseling",
     "business_name": "",
@@ -17476,38 +17508,6 @@
       "Unsplash",
       "ZocDoc",
       "Zyro"
-    ]
-  },
-  {
-    "domain": "vicinityhousecalls.com",
-    "title": "Vicinity HealthCare – Office and HouseCall Medical Group for Adults and Seniors",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 31576,
-    "crawled_at": "2026-01-04T21:07:40.886589073Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Apture Linking Platform",
-      "Call to Visit",
-      "DC74",
-      "Elementor",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hello Elementor",
-      "Investor Relations",
-      "Lazy Load for WordPress",
-      "M247",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "ZocDoc"
     ]
   },
   {
