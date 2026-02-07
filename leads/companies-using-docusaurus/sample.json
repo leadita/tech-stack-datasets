@@ -1,5 +1,24 @@
 [
   {
+    "domain": "frugally.app",
+    "title": "Frugally for Slack",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 62,
+    "tech_spend": 2400,
+    "crawled_at": "2026-02-07T19:26:21.351900377Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "ohmg.dev",
     "title": "OHMG | OHMG",
     "business_name": "",
@@ -12552,25 +12571,6 @@
       "UTF-8",
       "Unsplash",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "subly.tech",
-    "title": "Subly Tech | Subly Tech",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 5000,
-    "crawled_at": "2025-10-30T12:46:56.379644561Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "M247",
-      "Netlify",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
