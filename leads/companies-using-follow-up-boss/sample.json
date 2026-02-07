@@ -10228,30 +10228,5 @@
       "UTF-8",
       "eLand"
     ]
-  },
-  {
-    "domain": "fourcorners.land",
-    "title": "fourcorners.land",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 75,
-    "tech_spend": 23304,
-    "crawled_at": "2025-10-25T14:17:31.640265065Z",
-    "technologies": [
-      "Follow Up Boss",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "PWA",
-      "Parcel",
-      "QUIC",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight",
-      "YouTube"
-    ]
   }
 ]
