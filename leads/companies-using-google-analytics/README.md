@@ -1,6 +1,6 @@
 # Companies Using Google Analytics (Live Dataset 2026)
 
-This folder contains an active list of 2,566,217 companies using **Google Analytics**. 
+This folder contains an active list of 2,563,411 companies using **Google Analytics**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 2,566,217
+- **Total Leads:** 2,563,411
 - **Verified:** Yes
-- **Last Updated:** 2026-02-06 11:30 UTC
+- **Last Updated:** 2026-02-07 11:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **2,566,217+** companies using Google Analytics.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **2,563,411+** companies using Google Analytics.
 
 [**⚡ Unlock the Full Google Analytics List with Contact Details**](https://leadita.com/leads/companies-using-google-analytics)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-06 11:30 UTC*
+*Last updated: 2026-02-07 11:30 UTC*
 *Data source: Leadita Technographic Intelligence*
