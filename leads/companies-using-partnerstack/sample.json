@@ -1,5 +1,30 @@
 [
   {
+    "domain": "helpwave.ai",
+    "title": "HelpWave - AI-Powered Customer Support Solution",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 35808,
+    "crawled_at": "2026-02-07T09:22:29.936086394Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Calendly",
+      "Fireblade",
+      "GZIP Module",
+      "Material-UI",
+      "NFOrce Internet",
+      "Next.js",
+      "Nginx",
+      "PartnerPage",
+      "PartnerStack",
+      "Pleroma",
+      "QUIC",
+      "Shopify",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "akshay.life",
     "title": "Life of Akshay",
     "business_name": "",
@@ -9838,31 +9863,6 @@
       "Wistia",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "helpwave.ai",
-    "title": "HelpWave - AI-Powered Customer Support Solution",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 35808,
-    "crawled_at": "2025-10-25T12:59:31.650411997Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Calendly",
-      "Fireblade",
-      "GZIP Module",
-      "Material-UI",
-      "NFOrce Internet",
-      "Next.js",
-      "Nginx",
-      "PartnerPage",
-      "PartnerStack",
-      "Pleroma",
-      "QUIC",
-      "Shopify",
-      "UTF-8"
     ]
   }
 ]
