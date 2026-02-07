@@ -16320,40 +16320,5 @@
       "jsDelivr",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "cityoffortmorgan.com",
-    "title": "Fort Morgan, CO | Official Website",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 26611,
-    "crawled_at": "2025-10-25T05:05:31.680577911Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "AudioEye",
-      "AutoComplete",
-      "CivicPlus",
-      "Facebook Embedded Posts",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Material-UI",
-      "Microsoft Application Insights",
-      "Microsoft Azure",
-      "Monsido",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "SiteW",
-      "UTF-8",
-      "University or College",
-      "Visual Studio",
-      "YouTube"
-    ]
   }
 ]
