@@ -1,5 +1,39 @@
 [
   {
+    "domain": "1sthousing.com",
+    "title": "Home - First Housing Corporation",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 1574,
+    "crawled_at": "2026-02-06T23:48:54.643381957Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Apache",
+      "BetterNOI",
+      "CDN JS",
+      "CentOS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Django",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Matomo",
+      "Matomo Tag Manager",
+      "OpenSSL",
+      "Pleroma",
+      "Python",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Zope",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "prestige-details.com",
     "title": "Prestige Auto Detailing - Home",
     "business_name": "",
@@ -9218,40 +9252,6 @@
       "University or College",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "1sthousing.com",
-    "title": "Home - First Housing Corporation",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 1574,
-    "crawled_at": "2025-10-25T08:56:31.647117061Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Apache",
-      "BetterNOI",
-      "CDN JS",
-      "CentOS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Django",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Matomo",
-      "Matomo Tag Manager",
-      "OpenSSL",
-      "Pleroma",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Zope",
-      "jQuery"
     ]
   }
 ]

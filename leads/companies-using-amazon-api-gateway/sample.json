@@ -1,5 +1,39 @@
 [
   {
+    "domain": "salmoncatcherfishingcharters.com",
+    "title": "Explore the Waters of Lake Ontario for Fishing Fun",
+    "business_name": "Salmon Catcher Fishing Charters",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 36542,
+    "crawled_at": "2026-02-06T22:09:54.328986937Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon",
+      "Amazon API Gateway",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Content Delivery Network",
+      "DoubleClick Bid Manager",
+      "Fastly",
+      "GZIP Module",
+      "Heap",
+      "Hubspot",
+      "Line2",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Stripe",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "texas-fins-and-feathers.com",
     "title": "Port O'Connor Fishing Guides: Your Key to Gulf Fishing Fun",
     "business_name": "Texas Fins and Feathers",
@@ -17351,40 +17385,6 @@
       "Stripe",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "tablebaymall.co.za",
-    "title": "Shopping | Dining | Entertainment | Table Bay Mall",
-    "business_name": "Table Bay Mall",
-    "country": "ZAF",
-    "seo_score": 92,
-    "tech_spend": 13547,
-    "crawled_at": "2025-11-07T12:08:38.883921665Z",
-    "technologies": [
-      "Amazon",
-      "Amazon API Gateway",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CloudFront",
-      "Community",
-      "Content Delivery Network",
-      "Fastly",
-      "Freshdesk Support",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Ntent",
-      "PWA",
-      "Perl",
-      "RawGit",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   }
 ]
