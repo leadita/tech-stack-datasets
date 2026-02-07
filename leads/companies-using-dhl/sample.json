@@ -1,5 +1,45 @@
 [
   {
+    "domain": "adlworldwide.com",
+    "title": "ADL Worldwide Inc | Home",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 65,
+    "tech_spend": 7547,
+    "crawled_at": "2026-02-07T09:22:29.910896391Z",
+    "technologies": [
+      "Aramex",
+      "Better Lead Generation Services",
+      "Blue Dart",
+      "DAV",
+      "DHL Parcel",
+      "DPD Local",
+      "DPD UK",
+      "Express",
+      "FedEx",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "HostGator",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Interlink",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Parallels Plesk Panel",
+      "Parcel",
+      "QUIC",
+      "TNT",
+      "Twitter Ads",
+      "UPS",
+      "UTF-8",
+      "Visual Studio"
+    ]
+  },
+  {
     "domain": "uxultimate.com",
     "title": "UX Ultimate - Strategic Design & Development",
     "business_name": "",
@@ -18138,36 +18178,6 @@
       "UTF-8",
       "Yandex Hosting",
       "eLand"
-    ]
-  },
-  {
-    "domain": "bestewinkelketen.nl",
-    "title": "Retailer of the Year",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 36062,
-    "crawled_at": "2025-11-03T16:36:46.107408043Z",
-    "technologies": [
-      "Apache",
-      "Bulma",
-      "Cybot",
-      "DHL Parcel",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "PHP",
-      "PostNL",
-      "Salesforce",
-      "Salesforce Experience Cloud",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
