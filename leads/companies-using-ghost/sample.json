@@ -1,5 +1,28 @@
 [
   {
+    "domain": "hiretop-duch.com",
+    "title": "Hire Dedicated Developers from Europe | Hiretop",
+    "business_name": "",
+    "country": "EST",
+    "seo_score": 65,
+    "tech_spend": 2649,
+    "crawled_at": "2026-02-06T23:48:54.605344457Z",
+    "technologies": [
+      "Better Lead Generation Services",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Fastly",
+      "Formspree",
+      "Ghost",
+      "Instagram Follow Button",
+      "PHP",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "quanlysanpham.net",
     "title": "Kiến thức về Product Management",
     "business_name": "",
@@ -1478,29 +1501,6 @@
       "Stripe",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "hire-devops.com",
-    "title": "Hire Dedicated Developers from Europe | Hiretop",
-    "business_name": "",
-    "country": "EST",
-    "seo_score": 65,
-    "tech_spend": 2649,
-    "crawled_at": "2026-01-22T23:55:43.443739153Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Fastly",
-      "Formspree",
-      "Ghost",
-      "Instagram Follow Button",
-      "PHP",
-      "UTF-8"
     ]
   },
   {

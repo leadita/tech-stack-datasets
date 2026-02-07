@@ -1,5 +1,30 @@
 [
   {
+    "domain": "ai-design-playbook.com",
+    "title": "👉 Quick Start",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 588,
+    "crawled_at": "2026-02-06T16:27:47.254068491Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Hasnode",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "PROPS Publisher",
+      "Pico CSS",
+      "Pleroma",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "mohammadkadir.com",
     "title": "Mohammad Kadir - DevSecOps Engineer Portfolio | My Portfolio",
     "business_name": "",
@@ -11536,31 +11561,6 @@
       "UTF-8",
       "Vercel",
       "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "ai-design-playbook.com",
-    "title": "👉 Quick Start",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 588,
-    "crawled_at": "2025-10-25T05:14:31.661061929Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hasnode",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "PROPS Publisher",
-      "Pico CSS",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
       "shadcn ui"
     ]
   }
