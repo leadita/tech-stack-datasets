@@ -1,5 +1,35 @@
 [
   {
+    "domain": "cryoablation.info",
+    "title": "Learn About Beast Cryoablation",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 7503,
+    "crawled_at": "2026-02-07T12:30:48.057007793Z",
+    "technologies": [
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Fireblade",
+      "GPT-trainer",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Heap",
+      "LogRocket",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Schema Plugin",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "vernonhillsrealestateagents.com",
     "title": "Vernon Hills Real Estate Agents, Realtor Kathy Regel, 60061",
     "business_name": "",
@@ -3568,35 +3598,6 @@
       "Pleroma",
       "Stripe",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "genscrap.net",
-    "title": "GenScrap - AI-Powered Content Management Platform",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 77,
-    "tech_spend": 4848,
-    "crawled_at": "2025-10-25T08:08:31.653239216Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon Link Enchancer",
-      "Amazon Widgets",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Google Related Website Sites",
-      "Hugging Face Space",
-      "LogRocket",
-      "NFOrce Internet",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
