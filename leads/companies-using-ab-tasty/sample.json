@@ -8241,22 +8241,5 @@
       "reCAPTCHA",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "ryanlucht.com",
-    "title": "Ryan Lucht",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 15003,
-    "crawled_at": "2025-10-25T13:32:31.654272215Z",
-    "technologies": [
-      "AB Tasty",
-      "Apache",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Medium"
-    ]
   }
 ]
