@@ -1,6 +1,6 @@
 # Companies Using Affirm (Live Dataset 2026)
 
-This folder contains an active list of 2,365 companies using **Affirm**. 
+This folder contains an active list of 2,354 companies using **Affirm**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 2,365
+- **Total Leads:** 2,354
 - **Verified:** Yes
-- **Last Updated:** 2026-02-07 10:45 UTC
+- **Last Updated:** 2026-02-08 10:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **2,365+** companies using Affirm.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **2,354+** companies using Affirm.
 
 [**⚡ Unlock the Full Affirm List with Contact Details**](https://leadita.com/leads/companies-using-affirm)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-07 10:45 UTC*
+*Last updated: 2026-02-08 10:45 UTC*
 *Data source: Leadita Technographic Intelligence*
