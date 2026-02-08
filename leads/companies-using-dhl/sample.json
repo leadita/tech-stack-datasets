@@ -1,5 +1,25 @@
 [
   {
+    "domain": "nbpotterystudio.com",
+    "title": "nbpotterystudio",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 57,
+    "tech_spend": 590,
+    "crawled_at": "2026-02-07T23:54:34.802551147Z",
+    "technologies": [
+      "Alternate Protocol",
+      "DHL Parcel",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "NFOrce Internet",
+      "Nginx",
+      "Plausible Analytics",
+      "UTF-8",
+      "Webador"
+    ]
+  },
+  {
     "domain": "adlworldwide.com",
     "title": "ADL Worldwide Inc | Home",
     "business_name": "",
@@ -18139,45 +18159,6 @@
       "hCaptcha",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "cnulogistics.com",
-    "title": "Freight shipping across the US & Canada | CNU Logistics",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 8400,
-    "crawled_at": "2025-11-03T16:38:38.930678256Z",
-    "technologies": [
-      "App Store",
-      "Baidu Cloud",
-      "Better Lead Generation Services",
-      "DHL Parcel",
-      "Express",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "FedEx",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Kommo",
-      "Perl",
-      "QUIC",
-      "Tilda",
-      "UTF-8",
-      "Yandex Hosting",
-      "eLand"
     ]
   }
 ]
