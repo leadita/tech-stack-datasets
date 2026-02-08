@@ -1,5 +1,88 @@
 [
   {
+    "domain": "khalidelbarouni.com",
+    "title": "Khalid El Barouni | Residential Real Estate Broker at RE/MAX Alliance & Pro-Commercial",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 26720,
+    "crawled_at": "2026-02-08T11:31:28.249784438Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Didomi",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Nginx",
+      "Nuxt.js",
+      "Share Link",
+      "UTF-8",
+      "Vector Internet Services"
+    ]
+  },
+  {
+    "domain": "ericbradette.com",
+    "title": "Eric Bradette | Residential and Commercial Real Estate Broker at RE/MAX Avantages",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 41720,
+    "crawled_at": "2026-02-08T03:54:58.178097254Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Didomi",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Nginx",
+      "Nuxt.js",
+      "UTF-8",
+      "Vector Internet Services"
+    ]
+  },
+  {
+    "domain": "gregorythompson.ca",
+    "title": "Home",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 67,
+    "tech_spend": 76720,
+    "crawled_at": "2026-02-07T16:39:36.414014023Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Didomi",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nginx",
+      "Nuxt.js",
+      "QUIC",
+      "SMC",
+      "UTF-8",
+      "Vector Internet Services",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "marcgoodmanimmo.com",
     "title": "Marc Goodman, Residential Real Estate Broker - RE/MAX ROYAL JORDAN",
     "business_name": "",
@@ -6016,31 +6099,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "elbarounikhalid.com",
-    "title": "Khalid El Barouni | Residential Real Estate Broker at RE/MAX Alliance & Pro-Commercial",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 26720,
-    "crawled_at": "2025-12-22T23:28:38.32125457Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Didomi",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Nginx",
-      "Nuxt.js",
-      "Share Link",
-      "UTF-8",
-      "Vector Internet Services"
     ]
   },
   {
@@ -15732,58 +15790,6 @@
       "PHP",
       "Subversion",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "helenecharettecourtier.com",
-    "title": "Hélène Charette | Residential and Commercial Real Estate Broker at RE/MAX Immobilier Plus",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 26000,
-    "crawled_at": "2025-11-03T00:16:53.364313287Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Didomi",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Nginx",
-      "Nuxt.js",
-      "UTF-8",
-      "Vector Internet Services"
-    ]
-  },
-  {
-    "domain": "robomarkets.sc",
-    "title": "Online Trading - 24/5 | Stocks, ETFs, Gold, Indices, Currencies and more - RoboMarkets",
-    "business_name": "",
-    "country": "GNB",
-    "seo_score": 72,
-    "tech_spend": 25800,
-    "crawled_at": "2025-11-02T23:56:38.881728777Z",
-    "technologies": [
-      "Alternate Protocol",
-      "App Store",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Didomi",
-      "Fastly",
-      "Fireblade",
-      "Google My Business",
-      "Google Play",
-      "Instagram Follow Button",
-      "PHP",
-      "Tailwind CSS",
-      "UTF-8",
-      "Yandex Hosting",
-      "jQuery"
     ]
   }
 ]
