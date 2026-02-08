@@ -1,6 +1,6 @@
 # Companies Using Outreach (Live Dataset 2026)
 
-This folder contains an active list of 1,696 companies using **Outreach**. 
+This folder contains an active list of 1,694 companies using **Outreach**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 1,696
+- **Total Leads:** 1,694
 - **Verified:** Yes
-- **Last Updated:** 2026-02-07 21:45 UTC
+- **Last Updated:** 2026-02-08 21:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,696+** companies using Outreach.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,694+** companies using Outreach.
 
 [**⚡ Unlock the Full Outreach List with Contact Details**](https://leadita.com/leads/companies-using-outreach)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-07 21:45 UTC*
+*Last updated: 2026-02-08 21:45 UTC*
 *Data source: Leadita Technographic Intelligence*
