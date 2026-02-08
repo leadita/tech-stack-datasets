@@ -3579,41 +3579,5 @@
       "WordPress VIP",
       "Yandex Hosting"
     ]
-  },
-  {
-    "domain": "stoppinglust.com",
-    "title": "A way to stop lust.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 36,
-    "crawled_at": "2025-10-26T07:47:31.640168909Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "GZIP Module",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "miraclecpr.org",
-    "title": "Be A Miracle CPR, LLC",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 335,
-    "crawled_at": "2025-10-26T04:29:31.636900249Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "UTF-8",
-      "YouTube"
-    ]
   }
 ]
