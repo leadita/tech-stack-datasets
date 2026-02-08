@@ -1,5 +1,109 @@
 [
   {
+    "domain": "tetramanor.com",
+    "title": "Tetramanor - Premier Real Estate & Property Investment in Nigeria",
+    "business_name": "",
+    "country": "NGA",
+    "seo_score": 72,
+    "tech_spend": 960,
+    "crawled_at": "2026-02-08T13:39:45.341058859Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "PWA",
+      "Pleroma",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "qzsustainability.com.au",
+    "title": "QZ Sustainability",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-02-08T11:53:17.499111638Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "GZIP Module",
+      "LiteSpeed",
+      "Next.js",
+      "Pleroma",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "nda.promo",
+    "title": "ZVONKO digital",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 10840,
+    "crawled_at": "2026-02-08T09:05:34.805648852Z",
+    "technologies": [
+      "ADFOX",
+      "Alternate Protocol",
+      "Chakra UI",
+      "Content Delivery Network",
+      "DAV",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Next.js",
+      "Nginx",
+      "Pleroma",
+      "QUIC",
+      "Telegram",
+      "UTF-8",
+      "Yandex Hosting",
+      "Yandex Metrika"
+    ]
+  },
+  {
+    "domain": "larryallenvirtualcard.info",
+    "title": "Larry Allen BS/MBA's Digital Business Card",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 6123,
+    "crawled_at": "2026-02-07T22:49:32.672696811Z",
+    "technologies": [
+      "Amplitude",
+      "Apture Linking Platform",
+      "Chakra UI",
+      "DAV",
+      "DoubleClick Bid Manager",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Reseller",
+      "Google Tag Manager",
+      "Hubspot",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Stripe",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "afterthemarket.co.za",
     "title": "After The Market | Your Premier Online Marketplace in South Africa",
     "business_name": "",
@@ -12668,90 +12772,6 @@
       "UTF-8",
       "Ubuntu",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "recoveryhuman.com",
-    "title": "The Road to Recovery: Supporting Your Journey to Healing | RecoveryHuman",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 15063,
-    "crawled_at": "2025-12-21T15:22:32.752494097Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Next.js",
-      "PWA",
-      "SMC",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "teamtjie.co.za",
-    "title": "Teamtjie",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 1000,
-    "crawled_at": "2025-12-21T14:01:32.743204279Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Marketing Pro",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "myimoapp.com",
-    "title": "MyImoApp - Imo State Government Services Portal",
-    "business_name": "",
-    "country": "NGA",
-    "seo_score": 72,
-    "tech_spend": 18360,
-    "crawled_at": "2025-12-21T13:07:32.763261346Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Next.js",
-      "QUIC",
-      "UTF-8",
-      "Vercel",
-      "Yandex Hosting"
-    ]
-  },
-  {
-    "domain": "seniorsconcierge.net",
-    "title": "Seniors Concierge",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 268,
-    "crawled_at": "2025-12-21T12:16:32.754916464Z",
-    "technologies": [
-      "CDN JS",
-      "Chakra UI",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Gatsby JS",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Netlify",
-      "UTF-8"
     ]
   }
 ]
