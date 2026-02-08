@@ -1,5 +1,67 @@
 [
   {
+    "domain": "jared-hanson.com",
+    "title": "Jared Hanson",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 65,
+    "tech_spend": 540,
+    "crawled_at": "2026-02-08T12:57:26.199027832Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Apache",
+      "Apache Tomcat JK",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Heroku",
+      "Instagram Follow Button",
+      "Nginx",
+      "Python",
+      "Ubuntu",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "hlybic.in",
+    "title": "Apache Tomcat/7.0.8",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 45,
+    "tech_spend": "",
+    "crawled_at": "2026-02-08T10:09:35.749880487Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "ISO/IEC 8859",
+      "QUIC",
+      "Subversion"
+    ]
+  },
+  {
+    "domain": "creditreform.pl",
+    "title": "Business intelligence office, credit reports, business intelligence, business reports, foreign business verification, international and national debt collection, bulk debt collection, asset disclosure, property disclosure, business credibility, debtor, business intelligence. | Creditreform Polska Sp. z o.o.",
+    "business_name": "",
+    "country": "POL",
+    "seo_score": 55,
+    "tech_spend": 7500,
+    "crawled_at": "2026-02-08T01:56:15.702912363Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Subversion",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "sociopuff.com",
     "title": "Sociopuff - Influencer Marketing Agency",
     "business_name": "",
@@ -372,22 +434,6 @@
       "WordPress Related Posts",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "nutrisursistemas.uy",
-    "title": "Apache Tomcat/8.5.5",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": "",
-    "crawled_at": "2026-02-03T20:07:48.861794363Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "DAV",
-      "Express",
-      "ISO/IEC 8859"
     ]
   },
   {
@@ -2670,22 +2716,6 @@
       "Twitter Ads",
       "UTF-8",
       "University or College"
-    ]
-  },
-  {
-    "domain": "malgangamilk.com",
-    "title": "Apache Tomcat/7.0.35",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 35,
-    "tech_spend": "",
-    "crawled_at": "2026-01-11T14:59:20.12419375Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "ISO/IEC 8859",
-      "QUIC",
-      "Subversion"
     ]
   },
   {
@@ -13430,52 +13460,6 @@
       "UTF-8",
       "Unix",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "jared-hanson.com",
-    "title": "Jared Hanson",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 65,
-    "tech_spend": 540,
-    "crawled_at": "2025-10-26T05:08:31.649022098Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Apache",
-      "Apache Tomcat JK",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Heroku",
-      "Instagram Follow Button",
-      "Nginx",
-      "Python",
-      "Ubuntu",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "creditreform.pl",
-    "title": "Business intelligence office, credit reports, business intelligence, business reports, foreign business verification, international and national debt collection, bulk debt collection, asset disclosure, property disclosure, business credibility, debtor, business intelligence. | Creditreform Polska Sp. z o.o.",
-    "business_name": "",
-    "country": "POL",
-    "seo_score": 75,
-    "tech_spend": 15720,
-    "crawled_at": "2025-10-25T22:05:31.645146857Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Subversion",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
