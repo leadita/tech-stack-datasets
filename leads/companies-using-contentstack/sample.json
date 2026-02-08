@@ -1,5 +1,27 @@
 [
   {
+    "domain": "gosch.pro",
+    "title": "Gosch Digitalservice GmbH",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 3679,
+    "crawled_at": "2026-02-08T04:14:25.049455392Z",
+    "technologies": [
+      "Apache",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Contentstack",
+      "CookieConsent",
+      "GZIP Module",
+      "PHP",
+      "TeamViewer",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "carotherspkwyvet.com",
     "title": "Veterinarian in Brentwood, TN | Carothers Parkway Veterinary Clinic",
     "business_name": "",
@@ -22964,26 +22986,6 @@
       "YouTube",
       "shadcn ui",
       "uPress"
-    ]
-  },
-  {
-    "domain": "ecaslls.com",
-    "title": "Home | eCASLLS",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 10590,
-    "crawled_at": "2025-11-19T14:09:19.443049144Z",
-    "technologies": [
-      "Apache",
-      "Contentstack",
-      "Foundation",
-      "Interchange",
-      "PHP",
-      "RapidWeaver",
-      "UTF-8",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]

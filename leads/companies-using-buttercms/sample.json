@@ -1892,47 +1892,5 @@
       "eLand",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "benbeaty.com",
-    "title": "Ben Beaty | Agent Website | RentersWarehouse.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 13810,
-    "crawled_at": "2025-10-26T10:53:31.636195441Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Amazon S3 CDN",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "ButterCMS",
-      "Cloudflare",
-      "DC74",
-      "Financial Services Guide",
-      "Fireblade",
-      "Font Awesome",
-      "FormSubmit",
-      "GetResponse",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google My Business",
-      "Google Tag Manager",
-      "Heroku",
-      "Hotjar",
-      "IcoMoon",
-      "New Relic",
-      "Share Link",
-      "SteelHouse",
-      "Storyblocks",
-      "Twitter Ads",
-      "UTF-8",
-      "VWO Engage",
-      "Visual Website Optimizer",
-      "eLand",
-      "reCAPTCHA"
-    ]
   }
 ]
