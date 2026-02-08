@@ -8112,34 +8112,5 @@
       "eLand",
       "mlcom"
     ]
-  },
-  {
-    "domain": "dialogueworkplace.com",
-    "title": "Dialogue Workplace",
-    "business_name": "Dialogue Workplace",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 1260,
-    "crawled_at": "2025-10-25T23:44:31.655588876Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Create React App",
-      "GZIP Module",
-      "Google",
-      "Google My Business",
-      "Medium",
-      "Ntent",
-      "PWA",
-      "Smart App Banner",
-      "UTF-8",
-      "Way",
-      "Workplace from Meta",
-      "eLand",
-      "reCAPTCHA"
-    ]
   }
 ]
