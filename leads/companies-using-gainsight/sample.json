@@ -1,5 +1,35 @@
 [
   {
+    "domain": "customersuccessfocus.com",
+    "title": "- Customer Success Focus",
+    "business_name": "Customer Success Focus",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 27544,
+    "crawled_at": "2026-02-07T14:05:54.232582517Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "ClientSuccess",
+      "Creative Mail by Constant Contact",
+      "EmbedPress",
+      "Endurance Page Cache",
+      "Fastly",
+      "GZIP Module",
+      "Gainsight",
+      "Jetpack",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "ProfitWell",
+      "Qualtrics Site Intercept",
+      "Twenty Twenty-Three",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "indiasaas.in",
     "title": "India SAAS",
     "business_name": "",
@@ -705,36 +735,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "customersuccessfocus.com",
-    "title": "- Customer Success Focus",
-    "business_name": "Customer Success Focus",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 27544,
-    "crawled_at": "2025-10-25T14:47:31.759376201Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "ClientSuccess",
-      "Creative Mail by Constant Contact",
-      "EmbedPress",
-      "Endurance Page Cache",
-      "Fastly",
-      "GZIP Module",
-      "Gainsight",
-      "Jetpack",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "ProfitWell",
-      "Qualtrics Site Intercept",
-      "Twenty Twenty-Three",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "jQuery"
     ]
   }
 ]
