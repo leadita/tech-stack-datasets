@@ -1,5 +1,34 @@
 [
   {
+    "domain": "fink2027.com",
+    "title": "Riley Finkelstein's Lacrosse Recruiting Profile",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 45168,
+    "crawled_at": "2026-02-08T13:19:18.880665805Z",
+    "technologies": [
+      "Amazon",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "HubSpot Conversations",
+      "Hubspot",
+      "LogRocket",
+      "Microdata for Google Shopping",
+      "Pendo",
+      "Pico CSS",
+      "Segment",
+      "Segment Consent Manager",
+      "UTF-8",
+      "University or College",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "cryoablation.info",
     "title": "Learn About Beast Cryoablation",
     "business_name": "",
@@ -623,35 +652,6 @@
       "Microsoft IIS",
       "Semantic UI",
       "Visual Studio"
-    ]
-  },
-  {
-    "domain": "ellielax.com",
-    "title": "Ellie Lange's Lacrosse Recruiting Profile",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 45168,
-    "crawled_at": "2026-01-31T08:13:48.868635007Z",
-    "technologies": [
-      "Amazon",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "HubSpot Conversations",
-      "Hubspot",
-      "LogRocket",
-      "Microdata for Google Shopping",
-      "Pendo",
-      "Pico CSS",
-      "Segment",
-      "Segment Consent Manager",
-      "UTF-8",
-      "University or College",
-      "shadcn ui"
     ]
   },
   {
