@@ -10187,46 +10187,5 @@
       "YouTube",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "augustaoutdoors.com",
-    "title": "Betsey Davis Group | Experienced Real Estate Agents in Augusta, GA",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 35339,
-    "crawled_at": "2025-10-26T11:02:31.631171654Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon S3 CDN",
-      "Animate It",
-      "Apture Linking Platform",
-      "Calendly",
-      "Content Delivery Network",
-      "DAV",
-      "Fireblade",
-      "Follow Up Boss",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Nationwide Mortgage Licensing System and Registry",
-      "OpenResty",
-      "PHP",
-      "Placester",
-      "QUIC",
-      "RM Education",
-      "Schema Plugin",
-      "Share Link",
-      "Storyblocks",
-      "Twitter Ads",
-      "UTF-8",
-      "eLand"
-    ]
   }
 ]

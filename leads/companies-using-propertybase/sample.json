@@ -3626,43 +3626,5 @@
       "jQuery Pin It Button for Images",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "exitrealtycommunity.com",
-    "title": "Your Southwestern Ontario Real Estate Experts",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 34567,
-    "crawled_at": "2025-10-25T23:29:31.635262867Z",
-    "technologies": [
-      "Amazon",
-      "Amazon WAF Blocked",
-      "Apache",
-      "Apture Linking Platform",
-      "Community",
-      "CoreUI",
-      "Fastly CDN",
-      "Financial Services Guide",
-      "GZIP Module",
-      "GetResponse",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Homes.com CMS",
-      "Microdata for Google Shopping",
-      "New Relic",
-      "Phusion Passenger Enterprise",
-      "PropertyBase",
-      "Rackspace CDN",
-      "UTF-8",
-      "reCAPTCHA"
-    ]
   }
 ]
