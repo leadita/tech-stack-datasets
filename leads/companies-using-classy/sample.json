@@ -1,5 +1,29 @@
 [
   {
+    "domain": "salarmy-tennessee.org",
+    "title": "Donate to The Salvation Army Tennessee",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 18100,
+    "crawled_at": "2026-02-08T20:13:39.43571943Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Classy",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Heap",
+      "Next.js",
+      "Ntent",
+      "Pleroma",
+      "Storybook",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "redwoodcityredkettle.org",
     "title": "Donate to Redwood City 2025 Virtual Red Kettle",
     "business_name": "",
@@ -21322,38 +21346,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "rigt.org",
-    "title": "Research Institute for Gender Therapeutics",
-    "business_name": "",
-    "country": "",
-    "seo_score": 75,
-    "tech_spend": 120413,
-    "crawled_at": "2025-11-29T21:32:07.876662834Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Aruba",
-      "Classy",
-      "Contento",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Nomics",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
