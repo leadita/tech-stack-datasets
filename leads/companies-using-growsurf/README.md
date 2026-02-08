@@ -1,6 +1,6 @@
 # Companies Using Growsurf (Live Dataset 2026)
 
-This folder contains an active list of 49 companies using **Growsurf**. 
+This folder contains an active list of 48 companies using **Growsurf**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 49
+- **Total Leads:** 48
 - **Verified:** Yes
-- **Last Updated:** 2026-02-07 16:45 UTC
+- **Last Updated:** 2026-02-08 16:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **49+** companies using Growsurf.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **48+** companies using Growsurf.
 
 [**⚡ Unlock the Full Growsurf List with Contact Details**](https://leadita.com/leads/companies-using-growsurf)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-07 16:45 UTC*
+*Last updated: 2026-02-08 16:45 UTC*
 *Data source: Leadita Technographic Intelligence*
