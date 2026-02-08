@@ -1,5 +1,33 @@
 [
   {
+    "domain": "fairlorry.com",
+    "title": "Fairlorry - Direct Connect between load and truck providers",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 65,
+    "tech_spend": 20915,
+    "crawled_at": "2026-02-08T11:09:27.605450065Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Book Direct",
+      "BootstrapMade",
+      "Botpress",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "IcoMoon",
+      "InitiativeS",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "hCaptcha"
+    ]
+  },
+  {
     "domain": "qubairbhoot.com",
     "title": "Qubair Bhoot - Premium IGCSE, O & A Level Business Studies Group Classes | Cambridge, Edexcel & Pearson",
     "business_name": "Qubair Bhoot",
@@ -17025,30 +17053,6 @@
       "Wix Media",
       "YouTube",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "nomadicdesigns.us",
-    "title": "Nomadic Designs | Web. Automation. Anywhere.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 4564,
-    "crawled_at": "2025-11-18T02:10:57.978404461Z",
-    "technologies": [
-      "Botpress",
-      "Content Delivery Network",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Netlify",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Web3Forms"
     ]
   }
 ]
