@@ -1,5 +1,50 @@
 [
   {
+    "domain": "overend.dev",
+    "title": "Alex Overend | Senior Technical Leader | Available for Hire",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 17932,
+    "crawled_at": "2026-02-08T03:54:58.115281825Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Calendly",
+      "Cloudflare",
+      "Cloudflare Workers",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Python",
+      "Ubuntu"
+    ]
+  },
+  {
+    "domain": "skorubski.com",
+    "title": "Maksym Skorubski — Senior Mobile Engineer (Ionic/Angular, AWS)",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 2740,
+    "crawled_at": "2026-02-08T01:17:03.980266551Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apache",
+      "Cloudflare",
+      "Cloudflare Workers",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "University or College"
+    ]
+  },
+  {
     "domain": "rossmackay.co",
     "title": "Ross Mackay",
     "business_name": "",
@@ -14515,52 +14560,6 @@
       "University or College",
       "Vector Internet Services",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "michaelwhittemore.com",
-    "title": "Michael Whittemore",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 55,
-    "tech_spend": 120,
-    "crawled_at": "2025-11-01T02:56:38.957706764Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Heroku",
-      "Python",
-      "QUIC"
-    ]
-  },
-  {
-    "domain": "dwightthorpe.com",
-    "title": "Dwight Thorpe 👨🏿💻",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 60,
-    "crawled_at": "2025-11-01T01:59:38.917139933Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Workers",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Next.js",
-      "Nginx",
-      "Pleroma",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
