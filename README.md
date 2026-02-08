@@ -443,7 +443,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Todoist](./leads/companies-using-todoist) (51 companies)
 
 ### Push Notifications & User Engagement
-- [Companies using OneSignal](./leads/companies-using-onesignal) (5,120 companies)
+- [Companies using OneSignal](./leads/companies-using-onesignal) (5,118 companies)
 - [Companies using Pusher](./leads/companies-using-pusher) (221 companies)
 - [Companies using PushEngage](./leads/companies-using-pushengage) (419 companies)
 - [Companies using Airship](./leads/companies-using-airship) (65 companies)
@@ -451,14 +451,14 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using MoEngage](./leads/companies-using-moengage) (1,752 companies)
 
 ### Real Estate
-- [Companies using AppFolio](./leads/companies-using-appfolio) (5,870 companies)
+- [Companies using AppFolio](./leads/companies-using-appfolio) (5,869 companies)
 - [Companies using Yardi](./leads/companies-using-yardi) (73 companies)
 - [Companies using RealPage](./leads/companies-using-realpage) (4,186 companies)
 - [Companies using BoomTown](./leads/companies-using-boomtown) (78 companies)
 - [Companies using CINC](./leads/companies-using-cinc) (849 companies)
 - [Companies using Follow Up Boss](./leads/companies-using-follow-up-boss) (404 companies)
 - [Companies using Propertybase](./leads/companies-using-propertybase) (95 companies)
-- [Companies using Placester](./leads/companies-using-placester) (1,866 companies)
+- [Companies using Placester](./leads/companies-using-placester) (1,865 companies)
 
 ### Sales Enablement
 - [Companies using Seismic](./leads/companies-using-seismic) (83 companies)
@@ -468,7 +468,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using PandaDoc](./leads/companies-using-pandadoc) (107 companies)
 
 ### Search & Indexing
-- [Companies using Algolia](./leads/companies-using-algolia) (2,228 companies)
+- [Companies using Algolia](./leads/companies-using-algolia) (2,227 companies)
 - [Companies using Swiftype](./leads/companies-using-swiftype) (54 companies)
 - [Companies using Coveo](./leads/companies-using-coveo) (208 companies)
 - [Companies using SearchSpring](./leads/companies-using-searchspring) (218 companies)
@@ -482,7 +482,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using USPS](./leads/companies-using-usps) (1,006 companies)
 - [Companies using DHL](./leads/companies-using-dhl) (673 companies)
 - [Companies using ShipStation](./leads/companies-using-shipstation) (110 companies)
-- [Companies using Route](./leads/companies-using-route) (78,212 companies)
+- [Companies using Route](./leads/companies-using-route) (78,203 companies)
 - [Companies using Narvar](./leads/companies-using-narvar) (68 companies)
 - [Companies using Deliverr](./leads/companies-using-deliverr) (222 companies)
 
@@ -500,30 +500,30 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Scully](./leads/companies-using-scully) (1,232 companies)
 
 ### Video Platforms
-- [Companies using YouTube](./leads/companies-using-youtube) (1,701,179 companies)
-- [Companies using Vimeo](./leads/companies-using-vimeo) (234,601 companies)
-- [Companies using Wistia](./leads/companies-using-wistia) (9,572 companies)
+- [Companies using YouTube](./leads/companies-using-youtube) (1,701,108 companies)
+- [Companies using Vimeo](./leads/companies-using-vimeo) (234,587 companies)
+- [Companies using Wistia](./leads/companies-using-wistia) (9,571 companies)
 - [Companies using Brightcove](./leads/companies-using-brightcove) (2,141 companies)
 - [Companies using Kaltura](./leads/companies-using-kaltura) (381 companies)
 - [Companies using JW Player](./leads/companies-using-jw-player) (895 companies)
 - [Companies using Twitch](./leads/companies-using-twitch) (1,411 companies)
-- [Companies using DailyMotion Video](./leads/companies-using-dailymotion-video) (2,836 companies)
+- [Companies using DailyMotion Video](./leads/companies-using-dailymotion-video) (2,835 companies)
 
 ### Web Fonts & Icons
-- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,265,240 companies)
-- [Companies using Font Awesome](./leads/companies-using-font-awesome) (756,001 companies)
+- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,265,129 companies)
+- [Companies using Font Awesome](./leads/companies-using-font-awesome) (755,973 companies)
 - [Companies using MyFonts](./leads/companies-using-myfonts) (2,855 companies)
 - [Companies using Fontshare](./leads/companies-using-fontshare) (1,173 companies)
-- [Companies using Bunny Fonts](./leads/companies-using-bunny-fonts) (41,330 companies)
-- [Companies using Fontello](./leads/companies-using-fontello) (43,100 companies)
-- [Companies using IcoMoon](./leads/companies-using-icomoon) (1,262,046 companies)
-- [Companies using Material Design Icons](./leads/companies-using-material-design-icons) (24,512 companies)
+- [Companies using Bunny Fonts](./leads/companies-using-bunny-fonts) (41,328 companies)
+- [Companies using Fontello](./leads/companies-using-fontello) (43,098 companies)
+- [Companies using IcoMoon](./leads/companies-using-icomoon) (1,262,014 companies)
+- [Companies using Material Design Icons](./leads/companies-using-material-design-icons) (24,510 companies)
 
 ### Web Servers
-- [Companies using NGINX](./leads/companies-using-nginx) (1,363,760 companies)
-- [Companies using Apache](./leads/companies-using-apache) (1,335,187 companies)
-- [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,003,825 companies)
-- [Companies using OpenResty](./leads/companies-using-openresty) (319,397 companies)
+- [Companies using NGINX](./leads/companies-using-nginx) (1,363,723 companies)
+- [Companies using Apache](./leads/companies-using-apache) (1,335,142 companies)
+- [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,003,806 companies)
+- [Companies using OpenResty](./leads/companies-using-openresty) (319,392 companies)
 - [Companies using Apache Tomcat](./leads/companies-using-apache-tomcat) (533 companies)
 
 
