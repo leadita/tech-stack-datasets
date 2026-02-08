@@ -1,5 +1,26 @@
 [
   {
+    "domain": "datoria.no",
+    "title": "Home | Datoria",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 17400,
+    "crawled_at": "2026-02-08T15:50:06.324530656Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "Perl",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "frugally.app",
     "title": "Frugally for Slack",
     "business_name": "",
@@ -12538,39 +12559,6 @@
       "Perl",
       "Schema Plugin",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "xaviergeerinck.com",
-    "title": "Autonomous AI & Azure Insights | Xavier Geerinck",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 7744,
-    "crawled_at": "2025-10-30T19:13:27.763166839Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "ArvanCloud",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Docusaurus",
-      "ElementUI",
-      "Fastly",
-      "Ghost",
-      "GitHub Hosting",
-      "Mermaid",
-      "Microdata for Google Shopping",
-      "Microsoft 365",
-      "Microsoft Azure Blob Storage",
-      "Nginx",
-      "Python",
-      "UTF-8",
-      "Unsplash",
-      "jsDelivr"
     ]
   }
 ]
