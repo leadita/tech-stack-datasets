@@ -5580,44 +5580,5 @@
       "jsDelivr",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "serenitynorthants.co.uk",
-    "title": "Serenity sarc - support for those who have been raped or sexually assaulted in Northamptonshire | NHFT",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 41140,
-    "crawled_at": "2025-10-26T00:47:31.666997242Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "AutoComplete",
-      "Content Delivery Network",
-      "DoubleClick Bid Manager",
-      "ETranslate",
-      "Express",
-      "Facebook Reseller",
-      "Fireblade",
-      "GTranslate",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Help.com",
-      "Microsoft Ajax Content Delivery Network",
-      "Perl",
-      "Texthelp",
-      "Twitter Ads",
-      "UTF-8",
-      "VerseOne",
-      "Vimeo",
-      "Vimeo CDN",
-      "YouTube",
-      "jsDelivr"
-    ]
   }
 ]
