@@ -1,5 +1,26 @@
 [
   {
+    "domain": "wiwi.kiwi",
+    "title": "wiwi.kiwi",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 60,
+    "tech_spend": 2560,
+    "crawled_at": "2026-02-08T00:36:07.259359746Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Instagram Follow Button",
+      "Micro.blog",
+      "PWA",
+      "Phew",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "cleverdevil.io",
     "title": "cleverdevil",
     "business_name": "",
@@ -7652,26 +7673,6 @@
       "Jekyll",
       "Micro.blog",
       "Microdata for Google Shopping",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "wiwi.kiwi",
-    "title": "wiwi.kiwi",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 60,
-    "crawled_at": "2025-10-25T21:26:31.636814799Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Instagram Follow Button",
-      "Micro.blog",
-      "PWA",
-      "Tailwind CSS",
       "UTF-8"
     ]
   }

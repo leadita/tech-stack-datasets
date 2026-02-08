@@ -1,5 +1,28 @@
 [
   {
+    "domain": "bobbiemag.com",
+    "title": "BOBBIE",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 732,
+    "crawled_at": "2026-02-08T11:31:28.247101197Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Bunny Fonts",
+      "Content Delivery Network",
+      "DAV",
+      "Fastly",
+      "GZIP Module",
+      "Ghost",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "hiretop-duch.com",
     "title": "Hire Dedicated Developers from Europe | Hiretop",
     "business_name": "",
@@ -13112,32 +13135,6 @@
       "Ghost",
       "Microdata for Google Shopping",
       "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "techedcollab.org",
-    "title": "Technology Education Collaborative (TEC)",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 660,
-    "crawled_at": "2025-11-06T09:06:05.340428399Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Express",
-      "GZIP Module",
-      "Ghost",
-      "Google My Business",
-      "InitiativeS",
-      "Microdata for Google Shopping",
-      "Stripe",
-      "UTF-8",
-      "University or College",
-      "YouTube",
-      "Zeffy",
       "jsDelivr"
     ]
   }
