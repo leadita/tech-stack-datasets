@@ -1,6 +1,6 @@
 # Companies Using DocuSign (Live Dataset 2026)
 
-This folder contains an active list of 661 companies using **DocuSign**. 
+This folder contains an active list of 660 companies using **DocuSign**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 661
+- **Total Leads:** 660
 - **Verified:** Yes
-- **Last Updated:** 2026-02-07 16:15 UTC
+- **Last Updated:** 2026-02-08 16:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **661+** companies using DocuSign.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **660+** companies using DocuSign.
 
 [**⚡ Unlock the Full DocuSign List with Contact Details**](https://leadita.com/leads/companies-using-docusign)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-07 16:15 UTC*
+*Last updated: 2026-02-08 16:15 UTC*
 *Data source: Leadita Technographic Intelligence*
