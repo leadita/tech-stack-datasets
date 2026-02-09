@@ -1,6 +1,6 @@
 # Companies Using Twitch (Live Dataset 2026)
 
-This folder contains an active list of 1,410 companies using **Twitch**. 
+This folder contains an active list of 1,408 companies using **Twitch**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 1,410
+- **Total Leads:** 1,408
 - **Verified:** Yes
-- **Last Updated:** 2026-02-08 23:00 UTC
+- **Last Updated:** 2026-02-09 23:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,410+** companies using Twitch.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,408+** companies using Twitch.
 
 [**⚡ Unlock the Full Twitch List with Contact Details**](https://leadita.com/leads/companies-using-twitch)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-08 23:00 UTC*
+*Last updated: 2026-02-09 23:00 UTC*
 *Data source: Leadita Technographic Intelligence*
