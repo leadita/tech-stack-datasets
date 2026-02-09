@@ -917,39 +917,5 @@
       "UTF-8",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "mamatothehodgestwins.com",
-    "title": "October ONLINE orders HERE",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 201770,
-    "crawled_at": "2025-10-26T20:14:31.640052873Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Adobe Marketing Cloud",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Coming Soon Page",
-      "Contentstack",
-      "Fireblade",
-      "Font Awesome",
-      "GZIP Module",
-      "GetResponse",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Hotjar",
-      "Imperva Bot Detection and Mitigation",
-      "Incapsula CDN",
-      "Lytics",
-      "New Relic",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "reCAPTCHA"
-    ]
   }
 ]

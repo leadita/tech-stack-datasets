@@ -1,6 +1,6 @@
 # Companies Using Optimove (Live Dataset 2026)
 
-This folder contains an active list of 19 companies using **Optimove**. 
+This folder contains an active list of 18 companies using **Optimove**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 19
+- **Total Leads:** 18
 - **Verified:** Yes
-- **Last Updated:** 2026-02-08 15:15 UTC
+- **Last Updated:** 2026-02-09 15:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **19+** companies using Optimove.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **18+** companies using Optimove.
 
 [**⚡ Unlock the Full Optimove List with Contact Details**](https://leadita.com/leads/companies-using-optimove)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-08 15:15 UTC*
+*Last updated: 2026-02-09 15:15 UTC*
 *Data source: Leadita Technographic Intelligence*
