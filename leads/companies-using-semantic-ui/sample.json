@@ -1,5 +1,26 @@
 [
   {
+    "domain": "sheilaostrealty.com",
+    "title": "Sheila Ost Realty",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 60,
+    "tech_spend": 63,
+    "crawled_at": "2026-02-09T11:44:04.676171823Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Nginx",
+      "QUIC",
+      "Semantic UI",
+      "Ubuntu",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "amcmotion.com",
     "title": "Servo Drive and Motion Control Manufacturer | ADVANCED Motion Controls",
     "business_name": "ADVANCED Motion Controls",
@@ -14596,27 +14617,6 @@
       "WordPress Multisite",
       "WordPress Stats",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "aximelworks.com",
-    "title": "aximelworks - Financial Growth Tactics & Investment Strategies",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 87,
-    "tech_spend": 2440,
-    "crawled_at": "2025-11-30T23:59:38.595935836Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Semantic UI",
-      "UTF-8"
     ]
   }
 ]
