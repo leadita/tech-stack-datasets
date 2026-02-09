@@ -18,7 +18,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Intellimize](./leads/companies-using-intellimize) (2,541 companies)
 
 ### Accessibility (a11y)
-- [Companies using accessiBe](./leads/companies-using-accessibe) (16,113 companies)
+- [Companies using accessiBe](./leads/companies-using-accessibe) (16,114 companies)
 - [Companies using AudioEye](./leads/companies-using-audioeye) (15,586 companies)
 - [Companies using Monsido](./leads/companies-using-monsido) (659 companies)
 - [Companies using Texthelp](./leads/companies-using-texthelp) (158 companies)
@@ -37,7 +37,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Dext](./leads/companies-using-dext) (167 companies)
 
 ### Payments
-- [Companies using Stripe](./leads/companies-using-stripe) (67,994 companies)
+- [Companies using Stripe](./leads/companies-using-stripe) (67,992 companies)
 - [Companies using PayPal](./leads/companies-using-paypal) (64,310 companies)
 - [Companies using Adyen](./leads/companies-using-adyen) (200 companies)
 - [Companies using Braintree](./leads/companies-using-braintree) (2,646 companies)
