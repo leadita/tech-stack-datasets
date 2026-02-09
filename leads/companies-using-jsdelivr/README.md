@@ -1,6 +1,6 @@
 # Companies Using jsDelivr (Live Dataset 2026)
 
-This folder contains an active list of 554,973 companies using **jsDelivr**. 
+This folder contains an active list of 554,030 companies using **jsDelivr**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 554,973
+- **Total Leads:** 554,030
 - **Verified:** Yes
-- **Last Updated:** 2026-02-08 14:15 UTC
+- **Last Updated:** 2026-02-09 14:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **554,973+** companies using jsDelivr.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **554,030+** companies using jsDelivr.
 
 [**⚡ Unlock the Full jsDelivr List with Contact Details**](https://leadita.com/leads/companies-using-jsdelivr)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-08 14:15 UTC*
+*Last updated: 2026-02-09 14:15 UTC*
 *Data source: Leadita Technographic Intelligence*
