@@ -5825,45 +5825,5 @@
       "UTF-8",
       "eLand"
     ]
-  },
-  {
-    "domain": "carsforclassrooms.org",
-    "title": "Cars for Classrooms — The Endowment Project Foundation",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 80653,
-    "crawled_at": "2025-10-26T05:02:31.657150893Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "AJAX Libraries API",
-      "Accordion Blocks",
-      "AdRoll",
-      "Aruba",
-      "Chatbase",
-      "Edmunds",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Hotjar",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "QUIC",
-      "ShareThis",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "eLand",
-      "jQuery"
-    ]
   }
 ]

@@ -2238,20 +2238,5 @@
       "dc.js",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "dealershipcloser.com",
-    "title": "24/7 Digital Salesperson",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 8000,
-    "crawled_at": "2025-10-27T08:02:31.642669491Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Netlify",
-      "UTF-8",
-      "VinSolutions"
-    ]
   }
 ]
