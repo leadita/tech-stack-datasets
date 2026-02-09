@@ -1692,30 +1692,5 @@
       "UTF-8",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "duncanrodgers.com",
-    "title": "Pneumatic & Hydraulic Components - Duncan Rogers",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 4788,
-    "crawled_at": "2025-10-27T09:50:31.643687405Z",
-    "technologies": [
-      "Campaign Monitor Widget",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gravity",
-      "Microsoft Azure",
-      "NFOrce Internet",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Visual Studio",
-      "YouTube"
-    ]
   }
 ]

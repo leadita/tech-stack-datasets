@@ -1,5 +1,33 @@
 [
   {
+    "domain": "backyardtheology.com",
+    "title": "Engaging Conversations on Theology and Life | Backyard Theology",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 19258,
+    "crawled_at": "2026-02-09T02:40:23.587477023Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Eber",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "Pexels",
+      "Thank You",
+      "YouTube",
+      "Zyro",
+      "aWeber"
+    ]
+  },
+  {
     "domain": "feechan.com",
     "title": "Not Just Numbers",
     "business_name": "",
@@ -18472,37 +18500,6 @@
       "Perl",
       "UTF-8",
       "aWeber"
-    ]
-  },
-  {
-    "domain": "austin-glenmore.com",
-    "title": "Home - Austin-Glenmore & Co.",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 17835,
-    "crawled_at": "2025-12-10T08:45:42.283978732Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Clockwork",
-      "Eber",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Joomla!",
-      "PHP",
-      "QUIC",
-      "RokNavMenu",
-      "Slider Revolution",
-      "StatCounter",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "aWeber",
-      "jQuery"
     ]
   }
 ]
