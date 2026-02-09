@@ -1,5 +1,31 @@
 [
   {
+    "domain": "accuproadvisors.com",
+    "title": "Home | AccuPro Advisors",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 12140,
+    "crawled_at": "2026-02-09T00:58:28.943575429Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "Zoom Video Conferencing"
+    ]
+  },
+  {
     "domain": "fiscalbiz.com",
     "title": "Accountant | Fiscal Business Services, LLC | United States",
     "business_name": "Fiscal Business Services, LLC",
@@ -8251,34 +8277,6 @@
       "YouTube",
       "Zoom Video Conferencing",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "accuproadvisors.com",
-    "title": "Home | AccuPro Advisors",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 12800,
-    "crawled_at": "2025-10-26T19:14:31.635533019Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "Zoom Video Conferencing",
-      "jsDelivr"
     ]
   }
 ]

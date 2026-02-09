@@ -1,12 +1,12 @@
 [
   {
-    "domain": "torontopartyplanner.ca",
+    "domain": "proposalplannerniagarafalls.com",
     "title": "Event Planner Worldwide | Amber Walker Events",
     "business_name": "Amber Walker Events",
     "country": "CAN",
-    "seo_score": 77,
+    "seo_score": 87,
     "tech_spend": 142803,
-    "crawled_at": "2026-02-07T05:33:01.055847906Z",
+    "crawled_at": "2026-02-08T12:13:04.878470328Z",
     "technologies": [
       "123FormBuilder",
       "AWS WAF Challenge",
@@ -41,6 +41,7 @@
       "WP Booking Calendar",
       "Wix",
       "Wix Media",
+      "eLand",
       "mlcom"
     ]
   },
