@@ -2106,48 +2106,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "claracapitalget.com",
-    "title": "Small Business Funding - Clara Capital LLC",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 82,
-    "tech_spend": 170715,
-    "crawled_at": "2025-10-27T10:17:31.665849634Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Cloudflare",
-      "Contact Form Plugin",
-      "DAV",
-      "Elementor",
-      "EmbedPress",
-      "GDPR Cookie Compliance",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Header, Footer and Blocks for Elementor",
-      "Hello Elementor",
-      "Microdata for Google Shopping",
-      "MonsterInsights",
-      "NFOrce Internet",
-      "PHP",
-      "Perl",
-      "PixelYourSite",
-      "Premium Addons for Elementor",
-      "QUIC",
-      "RightSignature",
-      "Royal Elementor Addons",
-      "Salesforce Hosted",
-      "Theme In WP",
-      "UTF-8",
-      "WP Engine",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "reCAPTCHA"
-    ]
   }
 ]
