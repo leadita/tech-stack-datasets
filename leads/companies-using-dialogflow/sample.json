@@ -8780,35 +8780,5 @@
       "YouTube",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "renttheagent.com",
-    "title": "AI Marketing for Local Businesses | Boost Google Rankings & Customer Engagement | ReachCopilot",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 92,
-    "tech_spend": 5952,
-    "crawled_at": "2025-10-27T04:41:31.643703563Z",
-    "technologies": [
-      "Cloudflare",
-      "Content Delivery Network",
-      "Dialogflow",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "Hootsuite Badge",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "Sitelinks Search Box",
-      "Twitter Ads",
-      "UTF-8",
-      "Unsplash",
-      "Vercel",
-      "YouTube",
-      "shadcn ui"
-    ]
   }
 ]
