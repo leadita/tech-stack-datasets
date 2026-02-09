@@ -1,5 +1,27 @@
 [
   {
+    "domain": "frimicc.com",
+    "title": "Frimicc · Apps & Meanderings",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 2560,
+    "crawled_at": "2026-02-08T18:03:27.128418788Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Jekyll",
+      "Micro.blog",
+      "Microdata for Google Shopping",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "wiwi.kiwi",
     "title": "wiwi.kiwi",
     "business_name": "",
@@ -7636,44 +7658,6 @@
       "Twitter Ads",
       "University or College",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "jasrajsinghhothi.com",
-    "title": "Jasraj (\"Jazz\") Hothi's website | Hi, I’m Jasraj — or \"Jazz\" for short 👋 ~ I have a Masters in Positive Psychology (MAPP) ~ I care about community, faith & the media ~ I'm currently on a sabbatical About ~ Blog ~ Books ~ Podcast ~ Letters",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 183,
-    "crawled_at": "2025-10-27T08:23:31.644770374Z",
-    "technologies": [
-      "Google",
-      "Google Cloud",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Micro.blog"
-    ]
-  },
-  {
-    "domain": "frimicc.com",
-    "title": "Frimicc · Apps & Meanderings",
-    "business_name": "",
-    "country": "",
-    "seo_score": 82,
-    "tech_spend": 2560,
-    "crawled_at": "2025-10-26T11:02:31.639623952Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Jekyll",
-      "Micro.blog",
-      "Microdata for Google Shopping",
-      "UTF-8"
     ]
   }
 ]

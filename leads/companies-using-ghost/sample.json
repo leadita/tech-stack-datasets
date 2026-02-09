@@ -1,5 +1,29 @@
 [
   {
+    "domain": "knockout.live",
+    "title": "Knockout.no - Live Stream Boxing",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 3060,
+    "crawled_at": "2026-02-09T07:31:59.040705893Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "Ghost",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "Stripe",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "bobbiemag.com",
     "title": "BOBBIE",
     "business_name": "",
@@ -1498,30 +1522,6 @@
       "Google Tag Manager",
       "Microdata for Google Shopping",
       "OpenResty",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "dogs.no",
-    "title": "Knockout.no - Live Stream Boxing",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 3060,
-    "crawled_at": "2026-01-23T11:31:53.910558861Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Ghost",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "Stripe",
       "UTF-8",
       "jsDelivr"
     ]
