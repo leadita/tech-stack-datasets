@@ -1,5 +1,56 @@
 [
   {
+    "domain": "proconnectsa.co.za",
+    "title": "ProConnectSA Lead Marketplace - Find and Purchase Qualified Leads",
+    "business_name": "ProConnectSA",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 588,
+    "crawled_at": "2026-02-09T15:37:27.698032462Z",
+    "technologies": [
+      "Better Lead Generation Services",
+      "Content Delivery Network",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Pusher",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "vaniermalawifundraiser.ca",
+    "title": "Vanier's auction Auction",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 63,
+    "crawled_at": "2026-02-09T09:27:25.030870813Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Nginx",
+      "Pusher",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "jQuery",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "janelsellsobx.com",
     "title": "Janel Hansen- Realtor - Greater Kill Devil Hills NC Homes for Sale and Real Estate listings",
     "business_name": "",
@@ -7201,31 +7252,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jQuery",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "eminencelawchamber.com",
-    "title": "Eminence Law Chambers - Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 1588,
-    "crawled_at": "2025-10-26T18:14:31.665676464Z",
-    "technologies": [
-      "AutoComplete",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "LiteSpeed",
-      "Pusher",
-      "QUIC",
-      "Stripe",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
       "reCAPTCHA"
     ]
   }
