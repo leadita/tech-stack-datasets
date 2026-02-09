@@ -395,7 +395,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Netcore](./leads/companies-using-netcore) (10 companies)
 
 ### Monitoring & Logging
-- [Companies using New Relic](./leads/companies-using-new-relic) (30,745 companies)
+- [Companies using New Relic](./leads/companies-using-new-relic) (30,744 companies)
 - [Companies using LogRocket](./leads/companies-using-logrocket) (99 companies)
 - [Companies using Grafana](./leads/companies-using-grafana) (102 companies)
 - [Companies using Better Stack](./leads/companies-using-better-stack) (129 companies)
@@ -406,17 +406,17 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Givebutter](./leads/companies-using-givebutter) (6,797 companies)
 - [Companies using Donorbox](./leads/companies-using-donorbox) (4,108 companies)
 - [Companies using Kindful](./leads/companies-using-kindful) (1,011 companies)
-- [Companies using GoFundMe](./leads/companies-using-gofundme) (4,583 companies)
+- [Companies using GoFundMe](./leads/companies-using-gofundme) (4,582 companies)
 
 ### Performance Optimization
 - [Companies using EWWW Image Optimizer](./leads/companies-using-ewww-image-optimizer) (14,619 companies)
-- [Companies using Smush Image Optimization](./leads/companies-using-smush-image-optimization) (36,939 companies)
-- [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,002,863 companies)
+- [Companies using Smush Image Optimization](./leads/companies-using-smush-image-optimization) (36,940 companies)
+- [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,002,849 companies)
 
 ### Popups & Modals
-- [Companies using Elfsight](./leads/companies-using-elfsight) (62,094 companies)
+- [Companies using Elfsight](./leads/companies-using-elfsight) (62,093 companies)
 - [Companies using Commoninja](./leads/companies-using-commoninja) (13,771 companies)
-- [Companies using OptiMonk](./leads/companies-using-optimonk) (5,743 companies)
+- [Companies using OptiMonk](./leads/companies-using-optimonk) (5,741 companies)
 - [Companies using Sleeknote](./leads/companies-using-sleeknote) (435 companies)
 - [Companies using WisePops](./leads/companies-using-wisepops) (836 companies)
 - [Companies using Poptin](./leads/companies-using-poptin) (6,740 companies)
@@ -490,11 +490,11 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Gatsby JS](./leads/companies-using-gatsby-js) (8,351 companies)
 - [Companies using Docusaurus](./leads/companies-using-docusaurus) (581 companies)
 - [Companies using Gridsome](./leads/companies-using-gridsome) (620 companies)
-- [Companies using Scully](./leads/companies-using-scully) (1,231 companies)
+- [Companies using Scully](./leads/companies-using-scully) (1,230 companies)
 
 ### Video Platforms
-- [Companies using YouTube](./leads/companies-using-youtube) (1,698,336 companies)
-- [Companies using Vimeo](./leads/companies-using-vimeo) (234,163 companies)
+- [Companies using YouTube](./leads/companies-using-youtube) (1,698,309 companies)
+- [Companies using Vimeo](./leads/companies-using-vimeo) (234,157 companies)
 - [Companies using Wistia](./leads/companies-using-wistia) (9,538 companies)
 - [Companies using Brightcove](./leads/companies-using-brightcove) (2,135 companies)
 - [Companies using Kaltura](./leads/companies-using-kaltura) (379 companies)
@@ -503,20 +503,20 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using DailyMotion Video](./leads/companies-using-dailymotion-video) (2,830 companies)
 
 ### Web Fonts & Icons
-- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,259,615 companies)
-- [Companies using Font Awesome](./leads/companies-using-font-awesome) (754,888 companies)
+- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,259,563 companies)
+- [Companies using Font Awesome](./leads/companies-using-font-awesome) (754,882 companies)
 - [Companies using MyFonts](./leads/companies-using-myfonts) (2,846 companies)
 - [Companies using Fontshare](./leads/companies-using-fontshare) (1,174 companies)
-- [Companies using Bunny Fonts](./leads/companies-using-bunny-fonts) (41,280 companies)
+- [Companies using Bunny Fonts](./leads/companies-using-bunny-fonts) (41,278 companies)
 - [Companies using Fontello](./leads/companies-using-fontello) (43,032 companies)
-- [Companies using IcoMoon](./leads/companies-using-icomoon) (1,260,326 companies)
+- [Companies using IcoMoon](./leads/companies-using-icomoon) (1,260,307 companies)
 - [Companies using Material Design Icons](./leads/companies-using-material-design-icons) (24,459 companies)
 
 ### Web Servers
-- [Companies using NGINX](./leads/companies-using-nginx) (1,361,554 companies)
-- [Companies using Apache](./leads/companies-using-apache) (1,332,976 companies)
-- [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,002,863 companies)
-- [Companies using OpenResty](./leads/companies-using-openresty) (319,157 companies)
+- [Companies using NGINX](./leads/companies-using-nginx) (1,361,526 companies)
+- [Companies using Apache](./leads/companies-using-apache) (1,332,956 companies)
+- [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,002,849 companies)
+- [Companies using OpenResty](./leads/companies-using-openresty) (319,153 companies)
 - [Companies using Apache Tomcat](./leads/companies-using-apache-tomcat) (533 companies)
 
 
