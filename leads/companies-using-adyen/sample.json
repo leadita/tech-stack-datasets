@@ -5058,39 +5058,5 @@
       "Webconnex",
       "eLand"
     ]
-  },
-  {
-    "domain": "xjobs.co",
-    "title": "Jobs | Govt Jobs Sarkari Naukri Sarkari Result Railway Recruitment SSC UPSC Free Job Alert & News | WhatsApp Channel",
-    "business_name": "",
-    "country": "SGP",
-    "seo_score": 77,
-    "tech_spend": 493556,
-    "crawled_at": "2025-10-26T10:26:31.643341597Z",
-    "technologies": [
-      "Adyen",
-      "Amazon Advertising Sizmek Ad Suite",
-      "Amazon WAF Blocked",
-      "AppNexus Direct",
-      "Apture Linking Platform",
-      "Booking Affiliate",
-      "Cloudflare",
-      "Content Delivery Network",
-      "DoubleClick Bid Manager",
-      "Facebook CDN",
-      "Fastly CDN",
-      "Fireblade",
-      "FormSubmit",
-      "Instagram Follow Button",
-      "Jetpack Site Accelerator",
-      "PHP",
-      "PWA",
-      "Pantheon",
-      "QUIC",
-      "Salesforce Hosted",
-      "Snowplow",
-      "Workday",
-      "YouTube"
-    ]
   }
 ]

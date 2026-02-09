@@ -9674,29 +9674,5 @@
       "WhatsApp Sharing",
       "WoWonder"
     ]
-  },
-  {
-    "domain": "relxonline.com",
-    "title": "Relxonline",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 77,
-    "tech_spend": 75668,
-    "crawled_at": "2025-10-26T12:08:31.640322809Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apple Pay JS",
-      "Aruba",
-      "Cart.com",
-      "Cloudflare",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Subversion",
-      "UTF-8",
-      "eLand",
-      "jQuery"
-    ]
   }
 ]
