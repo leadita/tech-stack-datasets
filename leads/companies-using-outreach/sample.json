@@ -1,5 +1,35 @@
 [
   {
+    "domain": "gablestage.org",
+    "title": "GableStage – GableStage provides South Florida audiences with theatrical works of artistic excellence that confront today’s issues and ideas.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 80,
+    "tech_spend": 2648,
+    "crawled_at": "2026-02-09T07:12:19.391474565Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Constant Contact",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "Google My Business",
+      "Hello Elementor",
+      "Instagram Follow Button",
+      "NFOrce Internet",
+      "Outreach Pro",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "yevoliandmalayev.com",
     "title": "Yevoli & Malayev. PLLC - New York City Immigration Attorneys",
     "business_name": "Yevoli &amp; Malayev. PLLC",
@@ -18207,32 +18237,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "movvo.org",
-    "title": "Support for Military Veterans in Mid Ohio Valley | Mid Ohio Valley Veteran Outreach",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2914,
-    "crawled_at": "2025-12-20T13:16:32.745915374Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "InitiativeS",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "Outreach Pro",
-      "Thank You",
-      "Unsplash",
-      "Zyro"
     ]
   }
 ]
