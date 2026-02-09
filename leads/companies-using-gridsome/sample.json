@@ -1,5 +1,30 @@
 [
   {
+    "domain": "interlocutum.com",
+    "title": "Business and Communication Consultant - Interlocutum S.à r.l. in Luxembourg",
+    "business_name": "",
+    "country": "LUX",
+    "seo_score": 77,
+    "tech_spend": 85456,
+    "crawled_at": "2026-02-09T21:01:23.527735926Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Bulma",
+      "Content Delivery Network",
+      "DAV",
+      "Financial Services Guide",
+      "Gridsome",
+      "KVH",
+      "Netlify",
+      "Plausible Analytics",
+      "QUIC",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "formations-equitation-finistere.com",
     "title": "Accueil Formations Équitation Finistère - Formations Équitation Finistère",
     "business_name": "",
@@ -11934,31 +11959,6 @@
       "Subversion",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "loveconquersallgam.es",
-    "title": "Love Conquers All games - Love Conquers All Games",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 82728,
-    "crawled_at": "2025-11-03T04:35:07.903395666Z",
-    "technologies": [
-      "Adult Content",
-      "BLR",
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "Gridsome",
-      "Idaq",
-      "KVH",
-      "Netlify",
-      "SMC",
-      "Tumblr",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "itch.io"
     ]
   }
 ]
