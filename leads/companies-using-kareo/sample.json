@@ -1,5 +1,41 @@
 [
   {
+    "domain": "fussellhealth.com",
+    "title": "Non-invasive solutions in Mandeville, LA - Fussell Health",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 16438,
+    "crawled_at": "2026-02-09T14:38:28.37894447Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "DAV",
+      "Elementor",
+      "EmbedPress",
+      "EqualWeb",
+      "Google Analytics",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Hello Elementor",
+      "Kareo",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "O360",
+      "PHP",
+      "Sitelinks Search Box",
+      "Table Addons for Elementor",
+      "Theme In WP",
+      "UTF-8",
+      "University or College",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "nihcare.com",
     "title": "Nevada Integrated Healthcare",
     "business_name": "",
@@ -17922,40 +17958,6 @@
       "QUIC",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "gardenstatefacialpain.com",
-    "title": "Garden State Orofacial Pain, LLC",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 8706,
-    "crawled_at": "2025-11-05T04:19:29.663544691Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ElementUI",
-      "EmbedPress",
-      "Font Awesome",
-      "Formidable Pro Form",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Kareo",
-      "Nginx",
-      "On The Map",
-      "PHP",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
