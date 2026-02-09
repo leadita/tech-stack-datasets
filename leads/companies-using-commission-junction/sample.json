@@ -12034,42 +12034,5 @@
       "UTF-8",
       "jQuery"
     ]
-  },
-  {
-    "domain": "asianalternatives.info",
-    "title": "Asia Alternatives",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 50,
-    "tech_spend": 1341,
-    "crawled_at": "2025-10-26T05:20:31.637992098Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Column Shortcodes",
-      "Commission Junction",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Investor Relations",
-      "Kriesi.at",
-      "Nginx",
-      "PHP",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "WP Engine",
-      "WPML Multilingual",
-      "WordPress",
-      "WordPress Multisite",
-      "eLand",
-      "jQuery"
-    ]
   }
 ]
