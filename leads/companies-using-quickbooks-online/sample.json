@@ -8235,48 +8235,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "thehardinggroup.biz",
-    "title": "Certified Public Accountants in Annapolis, MD | Tax Planning & Prep",
-    "business_name": "The Harding Group, Inc.",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 17245,
-    "crawled_at": "2025-10-27T11:50:31.667620412Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apache",
-      "Coming Soon Page",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "InvoiceSherpa",
-      "LinkedIn Insights",
-      "Microdata for Google Shopping",
-      "PHP",
-      "PWA",
-      "QUIC",
-      "QuickBooks Online",
-      "Sherpa",
-      "Sitelinks Search Box",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "Wufoo",
-      "YouTube",
-      "Zoom Video Conferencing",
-      "jQuery"
-    ]
   }
 ]

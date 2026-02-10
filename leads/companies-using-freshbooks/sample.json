@@ -1,5 +1,29 @@
 [
   {
+    "domain": "hollonconsulting.com",
+    "title": "Hollon Consulting",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 868,
+    "crawled_at": "2026-02-09T13:40:16.192915827Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Apache",
+      "FreshBooks",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "IcoMoon",
+      "QUIC",
+      "Subversion",
+      "UTF-8",
+      "Ubuntu",
+      "University or College",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "proposalplannerniagarafalls.com",
     "title": "Event Planner Worldwide | Amber Walker Events",
     "business_name": "Amber Walker Events",
@@ -3402,30 +3426,6 @@
       "WordPress Multisite",
       "Xero",
       "eLand",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "hollonconsulting.com",
-    "title": "Hollon Consulting",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 868,
-    "crawled_at": "2025-10-27T10:32:31.632876619Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Apache",
-      "FreshBooks",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "IcoMoon",
-      "QUIC",
-      "Subversion",
-      "UTF-8",
-      "Ubuntu",
-      "University or College",
       "jQuery"
     ]
   }
