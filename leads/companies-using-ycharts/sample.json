@@ -761,45 +761,5 @@
       "YCharts",
       "jQuery"
     ]
-  },
-  {
-    "domain": "honailabs.xyz",
-    "title": "Leading Crypto News, Analysis & Research | BSCN (fka BSC News)",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 42727,
-    "crawled_at": "2025-10-28T00:16:23.408854789Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "CoinDesk",
-      "Coinbase",
-      "Content Delivery Network",
-      "Express",
-      "Fireblade",
-      "GTranslate",
-      "Gambling Content",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Headless UI",
-      "InitiativeS",
-      "Netlify",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "TradingView",
-      "Twitter Ads",
-      "UTF-8",
-      "YCharts",
-      "YouTube",
-      "shadcn ui"
-    ]
   }
 ]
