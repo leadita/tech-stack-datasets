@@ -1,5 +1,43 @@
 [
   {
+    "domain": "stevedouek.com",
+    "title": "Steve Douek, Real Estate Broker - RE/MAX ROYAL JORDAN",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 12040,
+    "crawled_at": "2026-02-09T23:38:19.792563287Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon WAF Blocked",
+      "Apache",
+      "Apture Linking Platform",
+      "CentOS",
+      "CloudFront",
+      "DAV",
+      "Didomi",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "New Relic",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "khalidelbarouni.com",
     "title": "Khalid El Barouni | Residential Real Estate Broker at RE/MAX Alliance & Pro-Commercial",
     "business_name": "",
@@ -15769,26 +15807,6 @@
       "Nginx",
       "Nuxt.js",
       "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "mesdevisgratuits.be",
-    "title": "Mesdevisgratuits.be",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 2700,
-    "crawled_at": "2025-11-03T03:26:39.483100373Z",
-    "technologies": [
-      "Didomi",
-      "GDPR Consent Management Platform",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Nginx",
-      "PHP",
-      "Subversion",
       "UTF-8"
     ]
   }
