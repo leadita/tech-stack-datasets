@@ -1,6 +1,6 @@
 # Companies Using TikTok Conversion Tracking Pixel (Live Dataset 2026)
 
-This folder contains an active list of 16,662 companies using **TikTok Conversion Tracking Pixel**. 
+This folder contains an active list of 16,638 companies using **TikTok Conversion Tracking Pixel**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 16,662
+- **Total Leads:** 16,638
 - **Verified:** Yes
-- **Last Updated:** 2026-02-09 14:30 UTC
+- **Last Updated:** 2026-02-10 14:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **16,662+** companies using TikTok Conversion Tracking Pixel.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **16,638+** companies using TikTok Conversion Tracking Pixel.
 
 [**⚡ Unlock the Full TikTok Conversion Tracking Pixel List with Contact Details**](https://leadita.com/leads/companies-using-tiktok-conversion-tracking-pixel)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-09 14:30 UTC*
+*Last updated: 2026-02-10 14:30 UTC*
 *Data source: Leadita Technographic Intelligence*
