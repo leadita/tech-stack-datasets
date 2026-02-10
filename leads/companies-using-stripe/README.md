@@ -1,6 +1,6 @@
 # Companies Using Stripe (Live Dataset 2026)
 
-This folder contains an active list of 67,994 companies using **Stripe**. 
+This folder contains an active list of 67,887 companies using **Stripe**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 67,994
+- **Total Leads:** 67,887
 - **Verified:** Yes
-- **Last Updated:** 2026-02-09 10:45 UTC
+- **Last Updated:** 2026-02-10 10:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **67,994+** companies using Stripe.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **67,887+** companies using Stripe.
 
 [**⚡ Unlock the Full Stripe List with Contact Details**](https://leadita.com/leads/companies-using-stripe)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-09 10:45 UTC*
+*Last updated: 2026-02-10 10:45 UTC*
 *Data source: Leadita Technographic Intelligence*

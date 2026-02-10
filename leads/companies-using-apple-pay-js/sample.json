@@ -1,5 +1,39 @@
 [
   {
+    "domain": "simffeehk.com",
+    "title": "Simffee Roastery - 給留下來的人: We make your coffee journey simple",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 662,
+    "crawled_at": "2026-02-09T17:51:03.407818349Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Apple Pay JS",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "ETranslate",
+      "Facebook Pixel",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nginx",
+      "Pure.css",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vue.js",
+      "WhatsApp Sharing",
+      "WoWonder"
+    ]
+  },
+  {
     "domain": "apexholdings.site",
     "title": "porkbun.com | An oddly satisfying experience.",
     "business_name": "",
@@ -9647,32 +9681,6 @@
       "Tailwind CSS",
       "Thank You",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "simffeehk.com",
-    "title": "Simffee Roastery - 給留下來的人: We make your coffee journey simple",
-    "business_name": "",
-    "country": "BRA",
-    "seo_score": 72,
-    "tech_spend": 5039,
-    "crawled_at": "2025-10-27T13:14:31.637104603Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apple Pay JS",
-      "ETranslate",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Nginx",
-      "Pure.css",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "WoWonder"
     ]
   }
 ]
