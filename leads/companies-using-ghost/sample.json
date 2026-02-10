@@ -1,5 +1,39 @@
 [
   {
+    "domain": "behaviorunleashed.com",
+    "title": "Behavior Unleashed",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 7000,
+    "crawled_at": "2026-02-10T11:17:02.648880404Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "Ghost",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "NFOrce Internet",
+      "OpenResty",
+      "Pico CSS",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "knockout.live",
     "title": "Knockout.no - Live Stream Boxing",
     "business_name": "",
@@ -13112,28 +13146,6 @@
       "Material Design Icons",
       "Microdata for Google Shopping",
       "Twitter Ads",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "nycaller.com",
-    "title": "NYCaller",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 660,
-    "crawled_at": "2025-11-06T13:02:38.889002885Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Bunny Fonts",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Ghost",
-      "Microdata for Google Shopping",
       "UTF-8",
       "jsDelivr"
     ]
