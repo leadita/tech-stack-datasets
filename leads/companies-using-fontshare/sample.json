@@ -1,5 +1,50 @@
 [
   {
+    "domain": "phinovai.com",
+    "title": "PhiNovAI - Transforming Your Business with AI",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 888,
+    "crawled_at": "2026-02-10T06:13:48.217996346Z",
+    "technologies": [
+      "Better Lead Generation Services",
+      "CDN JS",
+      "Calendly",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fontshare",
+      "Google Analytics",
+      "Google Forms",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "plateauhr.com",
+    "title": "PlateauHR - HR Management Platform",
+    "business_name": "",
+    "country": "",
+    "seo_score": 32,
+    "tech_spend": "",
+    "crawled_at": "2026-02-10T05:58:07.346247202Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fontshare",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "omnimarvelpros.com",
     "title": "Bhyte Software - AI-native software built to scale",
     "business_name": "",
@@ -13565,47 +13610,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "jillboyer.dev",
-    "title": "Jill Boyer | Junior Developer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 99,
-    "crawled_at": "2025-12-12T23:01:56.046549125Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Font Awesome",
-      "Fontshare",
-      "GitHub Hosting",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "karlssart.com",
-    "title": "Karlssart",
-    "business_name": "",
-    "country": "ESP",
-    "seo_score": 60,
-    "tech_spend": 174,
-    "crawled_at": "2025-12-12T22:07:56.007507882Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Aruba",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "ElementUI",
-      "Font Awesome",
-      "Fontshare",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Web3Forms"
     ]
   }
 ]
