@@ -1,5 +1,32 @@
 [
   {
+    "domain": "master-toiture.fr",
+    "title": "Services de toiture fiables en Vaucluse – Master Toiture",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 72,
+    "tech_spend": 24943,
+    "crawled_at": "2026-02-09T20:23:42.049510183Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Commoninja",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Landingi",
+      "No-Q",
+      "Paessler",
+      "Render",
+      "UTF-8",
+      "Unbounce"
+    ]
+  },
+  {
     "domain": "smartscreens.ge",
     "title": "SmartScreens – Большие идеи заслуживают больших экранов.",
     "business_name": "",
@@ -3172,33 +3199,6 @@
       "Visual Studio",
       "Way",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "master-toiture.fr",
-    "title": "Services de toiture fiables en Vaucluse – Master Toiture",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 87,
-    "tech_spend": 24943,
-    "crawled_at": "2025-10-27T15:08:31.663327948Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Commoninja",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Landingi",
-      "No-Q",
-      "Paessler",
-      "Render",
-      "UTF-8",
-      "Unbounce"
     ]
   }
 ]
