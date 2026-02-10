@@ -1,5 +1,39 @@
 [
   {
+    "domain": "somersetmall.co.za",
+    "title": "Mall in Somerset West | Somerset Mall",
+    "business_name": "Somerset Mall",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 13547,
+    "crawled_at": "2026-02-10T07:36:38.564142921Z",
+    "technologies": [
+      "Amazon",
+      "Amazon API Gateway",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Community",
+      "Content Delivery Network",
+      "Fastly",
+      "Freshdesk Support",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Ntent",
+      "PWA",
+      "Perl",
+      "RawGit",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "arpio.cloud",
     "title": "AWS Service Coverage | Arpio",
     "business_name": "Arpio",
@@ -17380,35 +17414,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "geoffbaskwill.ca",
-    "title": "Geoff Baskwill",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 75,
-    "tech_spend": 5750,
-    "crawled_at": "2025-11-08T18:47:38.886505971Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon API Gateway",
-      "Amazon CloudFront",
-      "Amazon Link Enchancer",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Amazon Widgets",
-      "CloudFront",
-      "Content Delivery Network",
-      "GZIP Module",
-      "GitHub Hosting",
-      "NFOrce Internet",
-      "Pico CSS",
-      "Python",
-      "YouTube",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]

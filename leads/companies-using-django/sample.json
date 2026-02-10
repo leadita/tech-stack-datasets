@@ -1,5 +1,113 @@
 [
   {
+    "domain": "hairresortbycaie.com",
+    "title": "The Hair Resort - Hair Salon in Houston, TX | Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2308,
+    "crawled_at": "2026-02-10T02:09:32.975518226Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Perl",
+      "QUIC",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "cprhome.com",
+    "title": "Creative Property Restoration | Remodeling & Renovations Houston",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 2308,
+    "crawled_at": "2026-02-10T01:30:36.413596619Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Perl",
+      "QUIC",
+      "University or College",
+      "Yelp Badge",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "claimsroom.org",
+    "title": "Construction Management - ClaimsRoom - Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 1108,
+    "crawled_at": "2026-02-10T00:59:34.502149312Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "QUIC"
+    ]
+  },
+  {
+    "domain": "cmlgroup.com",
+    "title": "CMLGroup",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 1068,
+    "crawled_at": "2026-02-09T23:32:00.820878552Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "QUIC",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "reillyrealty.com",
+    "title": "Reilly Realty and Management Corporation | Orlando REALTOR",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 2268,
+    "crawled_at": "2026-02-09T23:00:12.297281992Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Perl",
+      "QUIC",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "goodlandhousingauthority.com",
     "title": "Home - Goodland Housing Authority",
     "business_name": "",
@@ -9117,141 +9225,6 @@
       "QUIC",
       "University or College",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "hairresortbycaie.com",
-    "title": "The Hair Resort - Hair Salon in Houston, TX | Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2308,
-    "crawled_at": "2025-10-27T19:50:11.888707527Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "cprhome.com",
-    "title": "Creative Property Restoration | Remodeling & Renovations Houston",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 2308,
-    "crawled_at": "2025-10-27T19:25:49.293268123Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "University or College",
-      "Yelp Badge",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "claimsroom.org",
-    "title": "Construction Management - ClaimsRoom - Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 1108,
-    "crawled_at": "2025-10-27T19:08:03.95519953Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "QUIC"
-    ]
-  },
-  {
-    "domain": "cmlgroup.com",
-    "title": "CMLGroup",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 1068,
-    "crawled_at": "2025-10-27T17:22:44.120244212Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "QUIC",
-      "University or College"
-    ]
-  },
-  {
-    "domain": "reillyrealty.com",
-    "title": "Reilly Realty and Management Corporation | Orlando REALTOR",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 2268,
-    "crawled_at": "2025-10-27T16:53:32.761926637Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "divinedeliveries.in",
-    "title": "Divine Deliveries | Logistics & Transport",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 75,
-    "tech_spend": 508,
-    "crawled_at": "2025-10-27T12:02:31.653419502Z",
-    "technologies": [
-      "Bulma",
-      "Create React App",
-      "Django",
-      "ElementUI",
-      "Express",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google My Business",
-      "IcoMoon",
-      "LiteSpeed",
-      "Parcel",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
