@@ -1,5 +1,59 @@
 [
   {
+    "domain": "bluechipmortgagebroking.com.au",
+    "title": "Blue Chip Mortgage Brokers in Karratha 6714 - Blue Chip Mortgage Broking",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 10781,
+    "crawled_at": "2026-02-10T16:58:54.271623449Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Apture Linking Platform",
+      "Calendly",
+      "CloudFront",
+      "Content Delivery Network",
+      "DC74",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Gravity Forms",
+      "Gridsome",
+      "Vimeo",
+      "Vimeo CDN"
+    ]
+  },
+  {
+    "domain": "boa.nu",
+    "title": "Home - boa.nu",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 5663,
+    "crawled_at": "2026-02-10T10:39:44.975657103Z",
+    "technologies": [
+      "Amazon",
+      "Content Delivery Network",
+      "Fastly",
+      "Financial Services Guide",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "OLO",
+      "Python",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "interlocutum.com",
     "title": "Business and Communication Consultant - Interlocutum S.à r.l. in Luxembourg",
     "business_name": "",
@@ -11911,54 +11965,6 @@
       "Tailwind CSS",
       "Twitter Ads",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "incoterm.nl",
-    "title": "Incoterms - alles wat je moet weten",
-    "business_name": "incoterm.nl",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 228,
-    "crawled_at": "2025-11-03T05:59:38.925141947Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Google My Business",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "airgrid.io",
-    "title": "AirGrid | Home",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 90798,
-    "crawled_at": "2025-11-03T05:35:47.999527984Z",
-    "technologies": [
-      "Apyl",
-      "CCSI",
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "GitHub Hosting",
-      "Gridsome",
-      "IPFS",
-      "KVH",
-      "Medium",
-      "Netlify",
-      "No-Q",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "Subversion",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]

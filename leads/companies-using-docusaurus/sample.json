@@ -1,5 +1,72 @@
 [
   {
+    "domain": "lincsproject.ca",
+    "title": "Home | LINCS",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 21387,
+    "crawled_at": "2026-02-10T19:45:19.107220136Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "Express",
+      "Financial Services Guide",
+      "Font Awesome",
+      "KVH",
+      "License Buttons",
+      "Matomo",
+      "Perl",
+      "QUIC",
+      "Subversion",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "gamerank.io",
+    "title": "GameRank",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-02-10T15:56:31.570349544Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "GZIP Module",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "firstslo.si",
+    "title": "𝐹𝐼𝑅𝑆𝑇 Slovenia",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 72,
+    "tech_spend": 17400,
+    "crawled_at": "2026-02-10T10:58:32.303992972Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Perl",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "datoria.no",
     "title": "Home | Datoria",
     "business_name": "",
@@ -12497,68 +12564,6 @@
       "Twitter CDN",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "linguax.app",
-    "title": "LinguaX - macOS Smart Input Method Switching Tool | LinguaX",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 17400,
-    "crawled_at": "2025-10-31T11:20:38.929399737Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fireblade",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Perl",
-      "QUIC",
-      "Yandex Hosting"
-    ]
-  },
-  {
-    "domain": "tinyfoxlabs.com",
-    "title": "Home | TinyFox Labs",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": "",
-    "crawled_at": "2025-10-31T09:35:38.983721416Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Perl",
-      "monday.com"
-    ]
-  },
-  {
-    "domain": "mohamedadil.com",
-    "title": "Mohamed Adil Blog | Mohamed Adil Blog",
-    "business_name": "",
-    "country": "ESP",
-    "seo_score": 82,
-    "tech_spend": 15228,
-    "crawled_at": "2025-10-30T22:30:38.777886481Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Express",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Perl",
-      "Schema Plugin",
-      "UTF-8"
     ]
   }
 ]
