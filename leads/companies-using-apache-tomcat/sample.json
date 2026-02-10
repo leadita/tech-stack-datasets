@@ -1,5 +1,34 @@
 [
   {
+    "domain": "capitallogistics.co.in",
+    "title": "Capital Logistics",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 65,
+    "tech_spend": 607,
+    "crawled_at": "2026-02-10T12:25:43.70425511Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Apache",
+      "Apache Tomcat JK",
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "ElementUI",
+      "Express",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Parcel",
+      "Twitter Ads",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "homeofficejourneylife.com",
     "title": "JourneyLife",
     "business_name": "",
@@ -13434,35 +13463,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "capitallogistics.co.in",
-    "title": "Capital Logistics",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 65,
-    "tech_spend": 607,
-    "crawled_at": "2025-10-28T02:10:16.274356851Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Apache",
-      "Apache Tomcat JK",
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ElementUI",
-      "Express",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Parcel",
-      "Twitter Ads",
-      "jQuery"
     ]
   }
 ]
