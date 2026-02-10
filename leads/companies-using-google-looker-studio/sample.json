@@ -5795,41 +5795,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "aswinvarghese.com",
-    "title": "Aswin Varghese | The Dataphile & Tech Enthusiast",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 87,
-    "tech_spend": 71932,
-    "crawled_at": "2025-10-27T23:27:33.105488925Z",
-    "technologies": [
-      "Adult Content",
-      "Calendly",
-      "Content Delivery Network",
-      "Elfsight",
-      "Evestnet Tamarac",
-      "Express",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Looker Studio",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Medium",
-      "Netlify",
-      "Perl",
-      "Pico CSS",
-      "Power BI",
-      "Python",
-      "SnapWidget",
-      "Surge",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "jsDelivr"
-    ]
   }
 ]
