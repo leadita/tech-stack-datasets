@@ -1,5 +1,41 @@
 [
   {
+    "domain": "dormusleep.com",
+    "title": "Luxury Bedding Products | Weighted Blanket | Pillows – DORMU",
+    "business_name": "DORMU",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 2989,
+    "crawled_at": "2026-02-10T09:59:09.8609253Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Baidu Cloud",
+      "Better Lead Generation Services",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Coming Soon Page",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Klaviyo",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "No-Q",
+      "Rebuy",
+      "Shopify",
+      "Shopify Collabs",
+      "Sleeknote",
+      "Thank You",
+      "UTF-8",
+      "Yandex Hosting",
+      "hCaptcha",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "oxylabs.co.uk",
     "title": "Oxylabs - High Quality Proxy Service to Gather Data at Scale",
     "business_name": "",
@@ -14157,41 +14193,6 @@
       "UTF-8",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "dormusleep.com",
-    "title": "Luxury Bedding Products | Weighted Blanket | Pillows – DORMU",
-    "business_name": "DORMU",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 2791,
-    "crawled_at": "2025-10-28T00:39:40.492418249Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Baidu Cloud",
-      "Better Lead Generation Services",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coming Soon Page",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Klaviyo",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Rebuy",
-      "Shopify",
-      "Shopify Collabs",
-      "Sleeknote",
-      "Thank You",
-      "UTF-8",
-      "Yandex Hosting",
-      "hCaptcha",
-      "jsDelivr",
-      "reCAPTCHA"
     ]
   }
 ]
