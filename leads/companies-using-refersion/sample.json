@@ -1,36 +1,12 @@
 [
   {
-    "domain": "silverlungs.store",
-    "title": "The SilverLungs Online Store",
-    "business_name": "SilverLungs",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 7656,
-    "crawled_at": "2026-02-09T07:31:59.098316931Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Refersion",
-      "Shopify",
-      "Shopify Collabs",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "funnela.co",
+    "domain": "connectism.co",
     "title": "Grooby",
     "business_name": "Grooby",
     "country": "MEX",
     "seo_score": 65,
     "tech_spend": 23214,
-    "crawled_at": "2026-02-09T01:38:45.29825195Z",
+    "crawled_at": "2026-02-09T11:24:33.337158429Z",
     "technologies": [
       "Apture Linking Platform",
       "CDN JS",
@@ -64,6 +40,30 @@
       "UTF-8",
       "hCaptcha",
       "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "silverlungs.store",
+    "title": "The SilverLungs Online Store",
+    "business_name": "SilverLungs",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 7656,
+    "crawled_at": "2026-02-09T07:31:59.098316931Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Refersion",
+      "Shopify",
+      "Shopify Collabs",
+      "UTF-8",
+      "hCaptcha",
       "reCAPTCHA"
     ]
   },
