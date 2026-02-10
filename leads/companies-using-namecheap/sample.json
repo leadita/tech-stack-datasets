@@ -1,5 +1,31 @@
 [
   {
+    "domain": "incongrue.com",
+    "title": "Incongrue",
+    "business_name": "Incongrue",
+    "country": "FRA",
+    "seo_score": 77,
+    "tech_spend": 25255,
+    "crawled_at": "2026-02-10T12:13:12.4706363Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Contento",
+      "EmbedPress",
+      "LiteSpeed",
+      "MailChimp for WordPress",
+      "Microdata for Google Shopping",
+      "Namecheap",
+      "PHP",
+      "Page scroll to id",
+      "QUIC",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "kamiabit.com",
     "title": "kamiab it",
     "business_name": "",
@@ -331,31 +357,6 @@
       "QUIC",
       "TablePress",
       "Telegram",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "incongrue.com",
-    "title": "Incongrue",
-    "business_name": "Incongrue",
-    "country": "FRA",
-    "seo_score": 82,
-    "tech_spend": 25255,
-    "crawled_at": "2025-10-28T02:03:00.32354643Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Contento",
-      "EmbedPress",
-      "LiteSpeed",
-      "MailChimp for WordPress",
-      "Microdata for Google Shopping",
-      "Namecheap",
-      "PHP",
-      "Page scroll to id",
       "Theme In WP",
       "UTF-8",
       "WordPress",

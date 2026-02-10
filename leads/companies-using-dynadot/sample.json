@@ -1,5 +1,24 @@
 [
   {
+    "domain": "daffodiliangetaways.ca",
+    "title": "Daffodilian Getaways",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 135,
+    "crawled_at": "2026-02-09T18:48:51.531049719Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "Font Awesome",
+      "GZIP Module",
+      "Google My Business",
+      "Google Related Website Sites",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "ises2020ca.org",
     "title": "ises2020 – 2020 ISES Annual Meeting",
     "business_name": "",
@@ -3484,24 +3503,6 @@
       "Google My Business",
       "Instagram Follow Button",
       "PushPress",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "daffodiliangetaways.ca",
-    "title": "Daffodilian Getaways",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 57,
-    "tech_spend": 135,
-    "crawled_at": "2025-10-27T13:59:31.657017685Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Instagram Follow Button",
       "UTF-8"
     ]
   }
