@@ -1,5 +1,27 @@
 [
   {
+    "domain": "tiendaviajes.com.uy",
+    "title": "Tienda Viajes - La agencia de viajes de Tienda Inglesa - Tienda Viajes",
+    "business_name": "",
+    "country": "URY",
+    "seo_score": 77,
+    "tech_spend": 3740,
+    "crawled_at": "2026-02-10T00:37:50.821752461Z",
+    "technologies": [
+      "Angular Material",
+      "Criteo Reseller",
+      "DAV",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Microsoft Azure Blob Storage",
+      "PWA",
+      "Smartsheet"
+    ]
+  },
+  {
     "domain": "scopesf.org",
     "title": "Home - Shifa Center of Professional Excellence (SCOPE)",
     "business_name": "Shifa Center of Professional Excellence (SCOPE)",
@@ -11743,29 +11765,6 @@
       "WordPress",
       "WordPress Multisite",
       "WordPress Stats"
-    ]
-  },
-  {
-    "domain": "tiendaviajes.uy",
-    "title": "Tienda Viajes - La agencia de viajes de Tienda Inglesa - Tienda Viajes",
-    "business_name": "",
-    "country": "URY",
-    "seo_score": 77,
-    "tech_spend": 23740,
-    "crawled_at": "2025-11-07T22:44:38.879283133Z",
-    "technologies": [
-      "Angular Material",
-      "Criteo Reseller",
-      "DAV",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "KVH",
-      "Microsoft Azure Blob Storage",
-      "PWA",
-      "Smartsheet"
     ]
   },
   {

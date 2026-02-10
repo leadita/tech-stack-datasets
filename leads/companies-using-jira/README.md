@@ -1,6 +1,6 @@
 # Companies Using JIRA (Live Dataset 2026)
 
-This folder contains an active list of 1,710 companies using **JIRA**. 
+This folder contains an active list of 1,709 companies using **JIRA**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 1,710
+- **Total Leads:** 1,709
 - **Verified:** Yes
-- **Last Updated:** 2026-02-09 21:00 UTC
+- **Last Updated:** 2026-02-10 21:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,710+** companies using JIRA.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,709+** companies using JIRA.
 
 [**⚡ Unlock the Full JIRA List with Contact Details**](https://leadita.com/leads/companies-using-jira)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-09 21:00 UTC*
+*Last updated: 2026-02-10 21:00 UTC*
 *Data source: Leadita Technographic Intelligence*
