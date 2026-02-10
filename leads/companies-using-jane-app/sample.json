@@ -2545,36 +2545,5 @@
       "YouTube",
       "jQuery"
     ]
-  },
-  {
-    "domain": "bettertogetheracupuncture.com",
-    "title": "Better Together Acupuncture & Wellness | Dr. Sara Almaraz | Denver, CO",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 6248,
-    "crawled_at": "2025-10-27T19:33:11.44134448Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon S3 CDN",
-      "ElementUI",
-      "EmbedPress",
-      "Font Awesome",
-      "Fullscript",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Jane App",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Storyblocks",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube"
-    ]
   }
 ]

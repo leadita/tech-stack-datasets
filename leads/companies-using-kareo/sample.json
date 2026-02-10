@@ -1,5 +1,37 @@
 [
   {
+    "domain": "quickcareclinicservices.com",
+    "title": "Family Clinic in Maryland | Quick Care Clinic USA LLC",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 12867,
+    "crawled_at": "2026-02-09T21:20:02.996418622Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "ETranslate",
+      "EmbedPress",
+      "GTranslate",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Kareo",
+      "PHP",
+      "QUIC",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "UserWay",
+      "WordPress",
+      "WordPress Multisite",
+      "ZocDoc"
+    ]
+  },
+  {
     "domain": "fussellhealth.com",
     "title": "Non-invasive solutions in Mandeville, LA - Fussell Health",
     "business_name": "",
@@ -17923,41 +17955,6 @@
       "SMC",
       "Tebra",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "helpwithopioidaddiction.com",
-    "title": "Help With Opioid Addiction - New York",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 50070,
-    "crawled_at": "2025-11-05T04:35:38.914071722Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Authorize.net",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "K2F",
-      "Kareo",
-      "No-Q",
-      "Nuxt.js",
-      "QUIC",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]

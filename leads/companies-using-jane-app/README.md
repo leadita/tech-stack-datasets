@@ -1,6 +1,6 @@
 # Companies Using Jane App (Live Dataset 2026)
 
-This folder contains an active list of 70 companies using **Jane App**. 
+This folder contains an active list of 69 companies using **Jane App**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 70
+- **Total Leads:** 69
 - **Verified:** Yes
-- **Last Updated:** 2026-02-09 18:30 UTC
+- **Last Updated:** 2026-02-10 18:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **70+** companies using Jane App.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **69+** companies using Jane App.
 
 [**⚡ Unlock the Full Jane App List with Contact Details**](https://leadita.com/leads/companies-using-jane-app)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-09 18:30 UTC*
+*Last updated: 2026-02-10 18:30 UTC*
 *Data source: Leadita Technographic Intelligence*
