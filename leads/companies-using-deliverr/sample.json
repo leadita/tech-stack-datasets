@@ -6867,35 +6867,5 @@
       "jsDelivr",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "float-eez.com",
-    "title": "Summer Toys Inflatables Home Page – Float-EEZ",
-    "business_name": "",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 11564,
-    "crawled_at": "2025-10-29T04:06:46.999149101Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Deliverr",
-      "Express",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Schema Plugin",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA"
-    ]
   }
 ]

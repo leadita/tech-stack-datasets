@@ -1,5 +1,43 @@
 [
   {
+    "domain": "avastusps.com",
+    "title": "Avastus Preclinical Services: CRO Services, Vivarium Services and Space",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 22267,
+    "crawled_at": "2026-02-11T01:09:06.655732477Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "DoubleClick Bid Manager",
+      "Elementor",
+      "EmbedPress",
+      "Eventbrite",
+      "Google",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Hello Elementor",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "ProfilePress",
+      "Sitelinks Search Box",
+      "Table Addons for Elementor",
+      "Twitter Ads",
+      "USPS",
+      "UTF-8",
+      "WP Engine",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "williampoultryfarm.com",
     "title": "Home - williampoultryfarm.com",
     "business_name": "williampoultryfarm.com",
@@ -18302,37 +18340,6 @@
       "USPS",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "powersaverpro-x.com",
-    "title": "Power Saver Pro X - Power Saving Device",
-    "business_name": "Power Saver Pro X",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 21796,
-    "crawled_at": "2025-11-18T10:41:04.990463135Z",
-    "technologies": [
-      "3 Products",
-      "Amazon",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Fireblade",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "USPS",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   }
 ]
