@@ -1,5 +1,36 @@
 [
   {
+    "domain": "florida-mortgageloans.com",
+    "title": "Mortgage Loans in Saint Petersburg, FL - 0% Down Payment",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 34560,
+    "crawled_at": "2026-02-11T05:12:39.132367623Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Authorize.net",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Google Tag Manager",
+      "Nationwide Mortgage Licensing System and Registry",
+      "No-Q",
+      "Nuxt.js",
+      "Optimal Blue",
+      "QUIC",
+      "UTF-8",
+      "UserWay",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "johnnyrodrigues.com",
     "title": "Emery Financial Home Loans - Best Mortgage Rates, Danville",
     "business_name": "",
