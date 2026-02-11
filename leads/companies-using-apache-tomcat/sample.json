@@ -1,5 +1,28 @@
 [
   {
+    "domain": "skills2talent.com",
+    "title": "OKR Stars™ | The world's 1st OKR, CFR & Talent management software with full implementation services.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 159,
+    "crawled_at": "2026-02-11T03:29:12.927224451Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Bulma",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Icons8",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Placehold IT",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "capitallogistics.co.in",
     "title": "Capital Logistics",
     "business_name": "",
@@ -13362,107 +13385,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "venkatp.com",
-    "title": "Venkat Polumahanti",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 279,
-    "crawled_at": "2025-10-29T04:44:47.722437458Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Adobe Dreamweaver",
-      "Apache",
-      "Apache Tomcat JK",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "PHP",
-      "Python",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Unix",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "pcsag.de",
-    "title": "PCS AG Solingen : Home",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 65,
-    "tech_spend": 15935,
-    "crawled_at": "2025-10-28T22:05:28.149788895Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Apache Tomcat JK",
-      "Bulma",
-      "Fireblade",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Schema Plugin",
-      "TYPO3",
-      "TeamViewer",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "skills2talent.com",
-    "title": "OKR Stars™ | The world's 1st OKR, CFR & Talent management software with full implementation services.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 196,
-    "crawled_at": "2025-10-28T18:51:10.822782018Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Bulma",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Icons8",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "Placehold IT",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "airextremadura.es",
-    "title": "REPICA - Red de vigilancia de la calidad del aire - Liferay",
-    "business_name": "",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": "",
-    "crawled_at": "2025-10-28T16:49:26.4033662Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Apache Tomcat JK",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ElementUI",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
