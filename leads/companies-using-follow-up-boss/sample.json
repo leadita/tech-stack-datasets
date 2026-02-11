@@ -10189,45 +10189,5 @@
       "Vimeo CDN",
       "YouTube"
     ]
-  },
-  {
-    "domain": "islandlivingvancouver.com",
-    "title": "Josef Zelko Real Estate",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 105956,
-    "crawled_at": "2025-10-28T20:54:17.822777215Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Constant Contact",
-      "Content Delivery Network",
-      "DAV",
-      "ElementUI",
-      "ExpRealty",
-      "Fireblade",
-      "Follow Up Boss",
-      "Google Tag Manager",
-      "Idaq",
-      "Instagram Follow Button",
-      "K2F",
-      "KVH",
-      "Neighborhoods",
-      "Next.js",
-      "No-Q",
-      "O2MC Dimml",
-      "QUIC",
-      "Realtor Canada",
-      "Share Link",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Unsplash",
-      "Vello",
-      "Vercel",
-      "YouTube",
-      "shadcn ui"
-    ]
   }
 ]
