@@ -1,5 +1,48 @@
 [
   {
+    "domain": "xtreme-methven.co.nz",
+    "title": "X-M CrossFit",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 17547,
+    "crawled_at": "2026-02-11T10:10:43.766810096Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adult Content",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "Font Awesome",
+      "GZIP Module",
+      "Google My Business",
+      "Instagram Follow Button",
+      "PushPress",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "headphonesless.com",
+    "title": "An EMDN - Headphones Less, Wireless Audio Bluetooth Music Streaming Noise-Canceling Sound Quality Portable Devices Entertainment Technology",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 135,
+    "crawled_at": "2026-02-10T16:18:02.100289992Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "daffodiliangetaways.ca",
     "title": "Daffodilian Getaways",
     "business_name": "",
@@ -91,27 +134,6 @@
       "Google Analytics",
       "Google Tag Manager",
       "Instagram Follow Button",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "amaalahq.com",
-    "title": "An EMDN - Amaala HQ, Luxury Destination Red Sea Saudi Arabia Sustainable Tourism Wellness Retreat Exclusive Resort Eco-Friendly Development Premium Hospitality",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 135,
-    "crawled_at": "2026-02-06T02:28:47.221792169Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microsoft Clarity",
       "UTF-8"
     ]
   },
@@ -3481,28 +3503,6 @@
       "Dynadot",
       "Font Awesome",
       "GZIP Module",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "xtreme-methven.co.nz",
-    "title": "X-M CrossFit",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 17547,
-    "crawled_at": "2025-10-28T22:59:50.864497319Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adult Content",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Google My Business",
-      "Instagram Follow Button",
-      "PushPress",
       "UTF-8"
     ]
   }
