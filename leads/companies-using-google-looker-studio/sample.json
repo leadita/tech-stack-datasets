@@ -5759,41 +5759,5 @@
       "WordPress Stats",
       "eLand"
     ]
-  },
-  {
-    "domain": "adformatic.com",
-    "title": "Tools for online marketing and e-commerce success | Adformatic",
-    "business_name": "Adformatic",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 1213,
-    "crawled_at": "2025-10-28T03:15:28.170891774Z",
-    "technologies": [
-      "Alternate Protocol",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Looker Studio",
-      "Google My Business",
-      "Google Tag Manager",
-      "Google Workspace",
-      "IcoMoon",
-      "Jevelin Theme",
-      "Lazy Load for WordPress",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Ninja Forms",
-      "PHP",
-      "QUIC",
-      "Schema Plugin",
-      "Theme In WP",
-      "UTF-8",
-      "Unyson",
-      "WPML Multilingual",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
