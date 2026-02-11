@@ -1,5 +1,36 @@
 [
   {
+    "domain": "cellexsbiocell.com",
+    "title": "Cellex: Full-Service CDMO for Cell and Gene Therapy",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 82,
+    "tech_spend": 9349,
+    "crawled_at": "2026-02-11T03:43:13.567956874Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cookie First",
+      "DoubleClick Bid Manager",
+      "Elfsight",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "PHP",
+      "Recruitee",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "on-productions.co.uk",
     "title": "On Event Production Company | Live, Hybrid and Virtual Event Production |",
     "business_name": "",
