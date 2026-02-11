@@ -1,5 +1,38 @@
 [
   {
+    "domain": "unbeatablesoftware.com",
+    "title": "Unbeatablesoftware.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 19980,
+    "crawled_at": "2026-02-10T16:18:02.107682472Z",
+    "technologies": [
+      "Better Lead Generation Services",
+      "Content Delivery Network",
+      "DAV",
+      "DreamHost Hosting",
+      "GetResponse",
+      "GoDaddy",
+      "Google Related Website Sites",
+      "HostGator",
+      "Instagram Follow Button",
+      "Next.js",
+      "PartnerStack",
+      "Pleroma",
+      "QUIC",
+      "Sanity",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "WP Engine",
+      "Yandex Hosting",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "docleverly.com",
     "title": "LinkedIn Lead Generation Services - From $397/mo",
     "business_name": "Cleverly",
@@ -9792,39 +9825,6 @@
       "WordPress Multisite",
       "WordPress Related Posts",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "unbeatablesoftware.com",
-    "title": "Unbeatablesoftware.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 19980,
-    "crawled_at": "2025-10-28T05:00:43.604765684Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "Content Delivery Network",
-      "DAV",
-      "DreamHost Hosting",
-      "GetResponse",
-      "GoDaddy",
-      "Google Related Website Sites",
-      "HostGator",
-      "Instagram Follow Button",
-      "Next.js",
-      "PartnerStack",
-      "Pleroma",
-      "QUIC",
-      "Sanity",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "WP Engine",
-      "Yandex Hosting",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]
