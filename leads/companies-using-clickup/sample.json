@@ -1,5 +1,52 @@
 [
   {
+    "domain": "eradani.com",
+    "title": "Eradani – API-Enablement for IBM i",
+    "business_name": "",
+    "country": "IRL",
+    "seo_score": 70,
+    "tech_spend": 254177,
+    "crawled_at": "2026-02-11T09:07:46.830419618Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Astra Theme",
+      "Autoptimize",
+      "ClickUp",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "Google",
+      "Google My Business",
+      "HubSpot Conversations",
+      "Hubspot",
+      "IBM Cloud",
+      "Interchange",
+      "KVH",
+      "Oracle Cloud",
+      "PHP",
+      "Pagekit",
+      "Python",
+      "SMC",
+      "Salesforce Hosted",
+      "Smush Image Optimization",
+      "Table Addons for Elementor",
+      "Theme In WP",
+      "UTF-8",
+      "Visual Studio",
+      "Vue.js",
+      "WP Engine",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Related Posts",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "detroitsynthetics.com",
     "title": "AMSOIL Synthetic Oil in Trenton, MI | Detroit Synthetics",
     "business_name": "",
@@ -18747,27 +18794,6 @@
       "UTF-8",
       "WhatsApp Sharing",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "engenhadev.com.br",
-    "title": "Engenha Dev | Seja bem-vindo!",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 1132,
-    "crawled_at": "2025-11-01T13:38:38.963466748Z",
-    "technologies": [
-      "ArvanCloud",
-      "Autodesk",
-      "ClickUp",
-      "Content Delivery Network",
-      "ElementUI",
-      "Google My Business",
-      "Google Workspace",
-      "UTF-8",
-      "Vercel",
-      "jsDelivr"
     ]
   }
 ]
