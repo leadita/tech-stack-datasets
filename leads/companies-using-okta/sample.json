@@ -1,5 +1,36 @@
 [
   {
+    "domain": "eisencoop.org",
+    "title": "Home - Eisenhower Cooperative",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 34699,
+    "crawled_at": "2026-02-11T04:45:41.710364623Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "ETranslate",
+      "ElementUI",
+      "Facebook Embedded Posts",
+      "Fireblade",
+      "Font Awesome",
+      "GTranslate",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Next.js",
+      "Nginx",
+      "Okta",
+      "Pleroma",
+      "QUIC",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "omnitrax.com",
     "title": "Rail Transportation and Real Estate Development - OmniTRAX",
     "business_name": "OmniTRAX, Inc.",
@@ -17597,36 +17628,6 @@
       "Twitter Ads",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "eisencoop.org",
-    "title": "Home - Eisenhower Cooperative",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 34921,
-    "crawled_at": "2025-10-28T19:39:37.486280633Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "ETranslate",
-      "ElementUI",
-      "Fireblade",
-      "Font Awesome",
-      "GTranslate",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Next.js",
-      "Nginx",
-      "Okta",
-      "Pleroma",
-      "QUIC",
-      "SupportSystem",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]
