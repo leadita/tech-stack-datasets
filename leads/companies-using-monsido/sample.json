@@ -16159,39 +16159,5 @@
       "Vimeo",
       "YouTube"
     ]
-  },
-  {
-    "domain": "fullblast.org",
-    "title": "Full Blast | Battle Creek, MI",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 35180,
-    "crawled_at": "2025-10-28T04:08:42.98190419Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "AutoComplete",
-      "CivicPlus",
-      "ETranslate",
-      "GTranslate",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Material-UI",
-      "Microsoft Application Insights",
-      "Microsoft Azure",
-      "Monsido",
-      "PHP",
-      "Perl",
-      "QUIC",
-      "SiteW",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Visual Studio"
-    ]
   }
 ]
