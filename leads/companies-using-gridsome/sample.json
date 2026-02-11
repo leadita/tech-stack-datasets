@@ -1,5 +1,58 @@
 [
   {
+    "domain": "qbic.cc",
+    "title": "Qbic",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 3,
+    "crawled_at": "2026-02-11T17:34:09.79184866Z",
+    "technologies": [
+      "Apache",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Tailwind CSS",
+      "Twitter Ads"
+    ]
+  },
+  {
+    "domain": "prowet.eu",
+    "title": "PRO-WET Wałbrzych - deratyzacja, dezynfekcja, dezynsekcja",
+    "business_name": "",
+    "country": "POL",
+    "seo_score": 50,
+    "tech_spend": "",
+    "crawled_at": "2026-02-11T17:03:49.025788458Z",
+    "technologies": [
+      "Gridsome",
+      "LiteSpeed",
+      "QUIC",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "barbersoflondon.ca",
+    "title": "Barbers of London",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 6328,
+    "crawled_at": "2026-02-11T08:38:50.257630818Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Gridsome",
+      "Idaq",
+      "Instagram Follow Button",
+      "Netlify",
+      "Phorest",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "bluechipmortgagebroking.com.au",
     "title": "Blue Chip Mortgage Brokers in Karratha 6714 - Blue Chip Mortgage Broking",
     "business_name": "",
@@ -5774,24 +5827,6 @@
       "Zeta Marketing Platform",
       "eLand",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "barbersoflondon.com",
-    "title": "Barbers of London",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 57,
-    "tech_spend": 2250,
-    "crawled_at": "2025-12-13T15:52:56.069586385Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "Idaq",
-      "Instagram Follow Button",
-      "Netlify",
-      "Phorest",
-      "UTF-8"
     ]
   },
   {
@@ -11924,46 +11959,6 @@
       "SMC",
       "Subversion",
       "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "no23miltonstreet.co.uk",
-    "title": "Welcome - No. 23 Milton Street",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 1347,
-    "crawled_at": "2025-11-03T08:39:20.54934749Z",
-    "technologies": [
-      "Bulma",
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "Font Awesome",
-      "Google My Business",
-      "Gridsome",
-      "Idaq",
-      "Instagram Follow Button",
-      "Netlify",
-      "No-Q",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "concable.com.mx",
-    "title": "Concable !! - Concable",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 1386,
-    "crawled_at": "2025-11-03T06:23:17.028394023Z",
-    "technologies": [
-      "Apache",
-      "Cloudinary",
-      "Gridsome",
-      "No-Q",
-      "Tailwind CSS",
-      "Twitter Ads",
       "shadcn ui"
     ]
   }
