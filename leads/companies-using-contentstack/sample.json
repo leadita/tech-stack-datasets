@@ -1,5 +1,33 @@
 [
   {
+    "domain": "hamiltonsargentcounselling.co.uk",
+    "title": "Hamilton Sargent | Counsellor | Wimbledon, Clapham & Online",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 67,
+    "tech_spend": 41502,
+    "crawled_at": "2026-02-11T09:33:19.430908345Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Contentstack",
+      "Fireblade",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Perl",
+      "QUIC",
+      "RapidWeaver",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "servprovernon.com",
     "title": "Restoration and Cleaning Services near Downey, CA | SERVPRO of Downey",
     "business_name": "",
@@ -23076,41 +23104,6 @@
       "Weglot",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "scentedbev.com",
-    "title": "Holiday Party Orders - Shop Here",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 201770,
-    "crawled_at": "2025-11-19T20:57:19.431585687Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Adobe Marketing Cloud",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Coming Soon Page",
-      "Contentstack",
-      "DAV",
-      "Fireblade",
-      "Font Awesome",
-      "GZIP Module",
-      "GetResponse",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Hotjar",
-      "Imperva Bot Detection and Mitigation",
-      "Incapsula CDN",
-      "Lytics",
-      "New Relic",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "reCAPTCHA"
     ]
   }
 ]
