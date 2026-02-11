@@ -1,5 +1,40 @@
 [
   {
+    "domain": "akok.in",
+    "title": "Everything is AKOK",
+    "business_name": "Everything is AKOK",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 95456,
+    "crawled_at": "2026-02-10T16:58:54.291959059Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudinary",
+      "Content Delivery Network",
+      "DAV",
+      "Dynamic Yield",
+      "Freshdesk Support",
+      "Fynd Platform",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Oracle Cloud",
+      "PWA",
+      "Python",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "Unix",
+      "eLand",
+      "iomart"
+    ]
+  },
+  {
     "domain": "vwcollection.ca",
     "title": "Official Volkswagen Merchandise Collection",
     "business_name": "",
@@ -5622,40 +5657,6 @@
       "UTF-8",
       "Znode",
       "nopCommerce"
-    ]
-  },
-  {
-    "domain": "akok.in",
-    "title": "Everything is AKOK",
-    "business_name": "Everything is AKOK",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 95456,
-    "crawled_at": "2025-10-28T05:24:37.705006532Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "Cloudinary",
-      "Content Delivery Network",
-      "DAV",
-      "Dynamic Yield",
-      "Freshdesk Support",
-      "Fynd Platform",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Oracle Cloud",
-      "PWA",
-      "Python",
-      "QUIC",
-      "Twitter Ads",
-      "Unix",
-      "eLand",
-      "iomart"
     ]
   }
 ]

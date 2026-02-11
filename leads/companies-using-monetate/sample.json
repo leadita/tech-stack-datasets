@@ -1,5 +1,63 @@
 [
   {
+    "domain": "socalpethospital.com",
+    "title": "Veterinarian in Murrieta, CA | SoCal Pet Hospital – Your Trusted Veterinary Clinic for Pet Wellness, Surgery, Emergency Care & More. Book an Appointment Today!",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 65380,
+    "crawled_at": "2026-02-10T16:18:02.122131863Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "DAV",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Monetate",
+      "Tailwind CSS",
+      "Visual Studio",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "petcareanimalhospitalutah.com",
+    "title": "Veterinarian in South Jordan, UT | Petcare Animal Hospital – Your Trusted Veterinary Clinic for Pet Wellness, Surgery, Emergency Care & More. Book an Appointment Today!",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 65380,
+    "crawled_at": "2026-02-10T15:36:49.374744195Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Monetate",
+      "Tailwind CSS",
+      "Visual Studio",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "lockwoodace.com",
     "title": "Kings Ace Hardware in Billings | Hardware Store in Billings, MT 59102",
     "business_name": "",
@@ -10791,35 +10849,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "socalpethospital.com",
-    "title": "Veterinarian in Murrieta, CA | SoCal Pet Hospital – Your Trusted Veterinary Clinic for Pet Wellness, Surgery, Emergency Care & More. Book an Appointment Today!",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 65380,
-    "crawled_at": "2025-10-28T05:00:43.641534994Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "DAV",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Microsoft Azure",
-      "Monetate",
-      "Tailwind CSS",
-      "Visual Studio",
-      "jQuery"
     ]
   }
 ]
