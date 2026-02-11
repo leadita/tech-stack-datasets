@@ -1,5 +1,59 @@
 [
   {
+    "domain": "cluckin.net",
+    "title": "Cluckin",
+    "business_name": "Cluckin",
+    "country": "GBR",
+    "seo_score": 80,
+    "tech_spend": 75416,
+    "crawled_at": "2026-02-11T05:01:27.238281375Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cart.com",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Mediavine Publisher",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "Netlify",
+      "Publii",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "Vine Embed",
+      "WhatsApp Sharing",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "tisgoud.nl",
+    "title": "'t is Goud-'t Is Goud | t is goud | tisgoud",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 77,
+    "tech_spend": 15567,
+    "crawled_at": "2026-02-11T01:53:04.394442734Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Crowdriff",
+      "FastClick",
+      "Font Awesome",
+      "GitHub Hosting",
+      "Hugo",
+      "IcoMoon",
+      "Nginx",
+      "Publii",
+      "Twitter Ads",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "bookcovers.eu",
     "title": "Book covers",
     "business_name": "Book covers",
@@ -4015,34 +4069,6 @@
     ]
   },
   {
-    "domain": "barnevelders.net",
-    "title": "Cluckin",
-    "business_name": "Cluckin",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 75416,
-    "crawled_at": "2025-11-25T18:30:19.441872746Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cart.com",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Mediavine Publisher",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "Netlify",
-      "Publii",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "Vine Embed",
-      "WhatsApp Sharing",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
     "domain": "spielgruppelandquart.ch",
     "title": "Startseite",
     "business_name": "",
@@ -7279,31 +7305,6 @@
       "Publii",
       "Ubuntu",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "tisgoud.nl",
-    "title": "'t is Goud-'t Is Goud | t is goud | tisgoud",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 82,
-    "tech_spend": 15567,
-    "crawled_at": "2025-10-28T17:57:27.263456292Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Crowdriff",
-      "FastClick",
-      "Font Awesome",
-      "GitHub Hosting",
-      "IcoMoon",
-      "Nginx",
-      "Publii",
-      "Twitter Ads",
-      "jQuery"
     ]
   }
 ]
