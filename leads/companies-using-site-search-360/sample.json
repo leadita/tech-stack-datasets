@@ -1,5 +1,33 @@
 [
   {
+    "domain": "boltprojectsholdingsoverview.info",
+    "title": "Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 1076,
+    "crawled_at": "2026-02-11T08:57:11.837745272Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "Elfsight",
+      "Ethy",
+      "FormSubmit",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Nginx",
+      "No-Q",
+      "QUIC",
+      "Site Search 360",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "evolvpaylink.info",
     "title": "Evolv | Merchant Processing & Digital Solutions",
     "business_name": "Evolv",
@@ -726,34 +754,6 @@
       "Zoom",
       "Zoom Video Conferencing",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "boltprojectsholdingslabs.info",
-    "title": "Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 1076,
-    "crawled_at": "2026-02-04T17:32:01.913718266Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Duda",
-      "Elfsight",
-      "Ethy",
-      "FormSubmit",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Nginx",
-      "No-Q",
-      "QUIC",
-      "Site Search 360",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8"
     ]
   },
   {
