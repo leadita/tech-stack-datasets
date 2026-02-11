@@ -1223,44 +1223,5 @@
       "jQuery",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "jnakao.com.br",
-    "title": "J Nakao : Máquinas e ferramentas de qualidade é aqui!",
-    "business_name": "",
-    "country": "BRA",
-    "seo_score": 82,
-    "tech_spend": 54770,
-    "crawled_at": "2025-10-28T21:37:30.580154369Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Parcel",
-      "QUIC",
-      "Storyblocks",
-      "Twitter Ads",
-      "UTF-8",
-      "VTEX Personalization",
-      "WhatsApp Sharing",
-      "YouTube",
-      "Yourviews",
-      "jsDelivr"
-    ]
   }
 ]
