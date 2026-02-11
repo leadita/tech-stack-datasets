@@ -1,5 +1,34 @@
 [
   {
+    "domain": "estate-property.com",
+    "title": "Personal Property Guide for British Columbia",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 70,
+    "tech_spend": 36728,
+    "crawled_at": "2026-02-11T05:29:01.70794936Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "AutoTrader CA",
+      "Automattic",
+      "Content Delivery Network",
+      "DAV",
+      "DC74",
+      "Express",
+      "Financial Services Guide",
+      "Fireblade",
+      "Gambling Content",
+      "Google My Business",
+      "Next.js",
+      "Notion",
+      "Oddle",
+      "Pleroma",
+      "UTF-8",
+      "Vercel",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "audiyorkdale.com",
     "title": "Audi Yorkdale - New Audi & Used Cars Dealer in Toronto",
     "business_name": "",
@@ -1957,35 +1986,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "estate-property.com",
-    "title": "Personal Property Guide for British Columbia",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 75,
-    "tech_spend": 36728,
-    "crawled_at": "2025-10-28T20:07:50.064963856Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "AutoTrader CA",
-      "Automattic",
-      "Content Delivery Network",
-      "DAV",
-      "DC74",
-      "Express",
-      "Financial Services Guide",
-      "Fireblade",
-      "Gambling Content",
-      "Google My Business",
-      "Next.js",
-      "Notion",
-      "Oddle",
-      "Pleroma",
-      "UTF-8",
-      "Vercel",
-      "WordPress"
     ]
   }
 ]
