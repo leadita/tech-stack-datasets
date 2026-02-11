@@ -1,5 +1,32 @@
 [
   {
+    "domain": "kerimkaan.com",
+    "title": "Kerim Kaan Dönmez - Kerim Kaan Dönmez",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 5060,
+    "crawled_at": "2026-02-10T20:12:52.517729129Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Automattic",
+      "Cloudflare",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Endis",
+      "Express",
+      "GitHub Hosting",
+      "LiteSpeed",
+      "Next.js",
+      "Pleroma",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "utterances"
+    ]
+  },
+  {
     "domain": "z-scraper.com",
     "title": "Crypto News & API Tutorials for Developers | Z Scraper | Z Scraper",
     "business_name": "",
@@ -996,33 +1023,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "bulvar.org",
-    "title": "Kerim Kaan Dönmez - Kerim Kaan Dönmez",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 5060,
-    "crawled_at": "2026-01-30T07:10:48.867745627Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Automattic",
-      "Cloudflare",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "Endis",
-      "Express",
-      "GitHub Hosting",
-      "LiteSpeed",
-      "Next.js",
-      "Pleroma",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "utterances"
     ]
   },
   {
