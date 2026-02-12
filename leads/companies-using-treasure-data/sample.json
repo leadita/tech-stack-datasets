@@ -1,5 +1,39 @@
 [
   {
+    "domain": "kaizendata.xyz",
+    "title": "Kaizen Data Conference",
+    "business_name": "",
+    "country": "VEN",
+    "seo_score": 87,
+    "tech_spend": 171358,
+    "crawled_at": "2026-02-12T13:38:49.250457016Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Cart.com",
+      "Cisco/Arrowpoint Content Service Switch",
+      "CloudFront",
+      "Content Delivery Network",
+      "Eventbrite",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "IcoMoon",
+      "InitiativeS",
+      "Python",
+      "RJMetrics",
+      "Slack",
+      "Tailwind CSS",
+      "Treasure Data",
+      "UTF-8",
+      "Yelp Badge",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "growthacc.com",
     "title": "Growth Accelerators, Inc.",
     "business_name": "Growth Accelerators, Inc.",
@@ -1519,40 +1553,6 @@
       "Visual Studio",
       "WebAssembly",
       "uPress"
-    ]
-  },
-  {
-    "domain": "kaizendata.xyz",
-    "title": "Kaizen Data Conference",
-    "business_name": "",
-    "country": "VEN",
-    "seo_score": 82,
-    "tech_spend": 171358,
-    "crawled_at": "2025-10-29T14:04:48.170579446Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Cart.com",
-      "Cisco/Arrowpoint Content Service Switch",
-      "CloudFront",
-      "Content Delivery Network",
-      "Eventbrite",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "IcoMoon",
-      "InitiativeS",
-      "Python",
-      "RJMetrics",
-      "Slack",
-      "Tailwind CSS",
-      "Treasure Data",
-      "UTF-8",
-      "Yelp Badge",
-      "YouTube"
     ]
   }
 ]
