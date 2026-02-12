@@ -1,5 +1,25 @@
 [
   {
+    "domain": "oscj.com.ar",
+    "title": "OSCJ",
+    "business_name": "",
+    "country": "ARG",
+    "seo_score": 50,
+    "tech_spend": 8003,
+    "crawled_at": "2026-02-11T13:46:33.285660447Z",
+    "technologies": [
+      "Afiliados",
+      "Commission Junction",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "HMDG",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "iso-clean.co.uk",
     "title": "ISOCLEAN Makeup Brush Cleaners, Brushes, Sponge Cleaners & Accessories",
     "business_name": "ISOCLEAN",
@@ -11992,25 +12012,6 @@
       "WordPress Multisite",
       "WordPress Stats",
       "eLand"
-    ]
-  },
-  {
-    "domain": "oscj.com.ar",
-    "title": "OSCJ",
-    "business_name": "",
-    "country": "ARG",
-    "seo_score": 55,
-    "tech_spend": 3,
-    "crawled_at": "2025-10-29T01:21:07.990986776Z",
-    "technologies": [
-      "Afiliados",
-      "Commission Junction",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
