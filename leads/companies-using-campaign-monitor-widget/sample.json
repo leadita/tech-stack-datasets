@@ -1,5 +1,35 @@
 [
   {
+    "domain": "weare21.co.uk",
+    "title": "Weare21",
+    "business_name": "",
+    "country": "FLK",
+    "seo_score": 60,
+    "tech_spend": 7950,
+    "crawled_at": "2026-02-12T10:34:54.925300539Z",
+    "technologies": [
+      "About Cookies",
+      "CDN JS",
+      "Campaign Monitor Widget",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fireblade",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Nginx",
+      "PWA",
+      "QUIC",
+      "StackPath",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "bpfafrica.org",
     "title": "Bhubesi Pride Foundation - Developing communities via sport & education",
     "business_name": "",
@@ -1661,36 +1691,6 @@
       "Zendesk Embeddables",
       "arsys.es",
       "eLand"
-    ]
-  },
-  {
-    "domain": "weare21.co.uk",
-    "title": "Weare21",
-    "business_name": "",
-    "country": "FLK",
-    "seo_score": 60,
-    "tech_spend": 7950,
-    "crawled_at": "2025-10-29T12:29:39.40596519Z",
-    "technologies": [
-      "About Cookies",
-      "CDN JS",
-      "Campaign Monitor Widget",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fireblade",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Nginx",
-      "PWA",
-      "QUIC",
-      "StackPath",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
