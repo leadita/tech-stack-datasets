@@ -5786,44 +5786,5 @@
       "University or College",
       "accessiBe"
     ]
-  },
-  {
-    "domain": "nwautoempire.com",
-    "title": "Used Car Dealership - Best Local Used Cars in 18030 E VALLEY HWY KENT, WA 98032 | NORTH WEST AUTO EMPIRE",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 91860,
-    "crawled_at": "2025-10-29T06:39:17.192630756Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ComplyAuto",
-      "DAV",
-      "Edmunds",
-      "Elfsight",
-      "Express",
-      "Fireblade",
-      "Free Call",
-      "Google Analytics",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Gravity",
-      "Instagram Follow Button",
-      "NFOrce Internet",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "Prospective",
-      "QUIC",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "eLand"
-    ]
   }
 ]

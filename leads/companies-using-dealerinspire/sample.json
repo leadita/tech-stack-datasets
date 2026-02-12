@@ -1,5 +1,34 @@
 [
   {
+    "domain": "ekjotmotorfinance.ca",
+    "title": "Affordable Motor Loans for Your Dream Car",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 39116,
+    "crawled_at": "2026-02-12T02:19:13.459279103Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "DealerInspire",
+      "Express",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Line2",
+      "PWA",
+      "QUIC",
+      "UTF-8",
+      "Unsplash",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "applewoodinfiniti.com",
     "title": "Applewood INFINITI Richmond | Premier Infiniti Dealership in Richmond, BC - New & Used Cars, Expert Service",
     "business_name": "",
@@ -12175,35 +12204,6 @@
       "Sitelinks Search Box",
       "UTF-8",
       "accessiBe"
-    ]
-  },
-  {
-    "domain": "ekjotmotorfinance.ca",
-    "title": "Affordable Motor Loans for Your Dream Car",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 39116,
-    "crawled_at": "2025-10-29T08:52:51.123911209Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "DealerInspire",
-      "Express",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Line2",
-      "PWA",
-      "QUIC",
-      "UTF-8",
-      "Unsplash",
-      "Wangsu",
-      "Website Tonight"
     ]
   }
 ]
