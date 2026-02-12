@@ -1,5 +1,36 @@
 [
   {
+    "domain": "recssummit.com",
+    "title": "Renaissance Charter School at Summit",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 14479,
+    "crawled_at": "2026-02-11T18:50:28.597613879Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon",
+      "Apache",
+      "AutoComplete",
+      "Coming Soon Page",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "HubSpot Conversations",
+      "Hubspot",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Okta",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "eisencoop.org",
     "title": "Home - Eisenhower Cooperative",
     "business_name": "",
@@ -17597,37 +17628,6 @@
       "University or College",
       "WordPress",
       "WordPress Multisite"
-    ]
-  },
-  {
-    "domain": "recssummit.com",
-    "title": "Renaissance Charter School at Summit",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 14479,
-    "crawled_at": "2025-10-29T04:27:28.666749949Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Apache",
-      "AutoComplete",
-      "Coming Soon Page",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "HubSpot Conversations",
-      "Hubspot",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Okta",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
