@@ -1,5 +1,63 @@
 [
   {
+    "domain": "openenrollmentutah.com",
+    "title": "EnrollUT | Find the Best Health Insurance in Utah - EnrollUT",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 15798,
+    "crawled_at": "2026-02-12T06:38:37.941428465Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "Financial Services Guide",
+      "Gridsome",
+      "No-Q",
+      "SMC",
+      "Sherpa",
+      "Subversion",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "svrbc.org",
+    "title": "Silicon Valley Reformed Baptist Church - SVRBC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 228,
+    "crawled_at": "2026-02-12T06:17:35.878779063Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Google My Business",
+      "Gridsome",
+      "Netlify",
+      "PWA",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "timh.link",
+    "title": "Tim Hurley | Designer + Engineer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-02-12T05:06:24.677764051Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GitHub Hosting",
+      "Gridsome",
+      "Mastodon",
+      "Netlify",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "qbic.cc",
     "title": "Qbic",
     "business_name": "",
@@ -2350,26 +2408,6 @@
       "SMC",
       "Tailwind CSS",
       "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "utahenroll.com",
-    "title": "EnrollUT | Find the Best Health Insurance in Utah - EnrollUT",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 15798,
-    "crawled_at": "2026-01-20T10:50:51.21812231Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "Financial Services Guide",
-      "Gridsome",
-      "No-Q",
-      "SMC",
-      "Sherpa",
-      "Subversion",
       "UTF-8"
     ]
   },
@@ -6097,26 +6135,6 @@
       "Tailwind CSS",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "timh.au",
-    "title": "Tim Hurley | Designer + Engineer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2025-12-12T19:10:56.010985789Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GitHub Hosting",
-      "Gridsome",
-      "Mastodon",
-      "Netlify",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
     ]
   },
   {
@@ -11936,30 +11954,6 @@
       "Tailwind CSS",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "envsage.com",
-    "title": "Envsage",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 72668,
-    "crawled_at": "2025-11-03T08:44:39.460692525Z",
-    "technologies": [
-      "AAPT",
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Netlify",
-      "PWA",
-      "SMC",
-      "Subversion",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
