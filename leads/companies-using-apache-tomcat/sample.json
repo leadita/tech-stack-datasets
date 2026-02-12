@@ -1,5 +1,24 @@
 [
   {
+    "domain": "matelinc.com",
+    "title": "Matel Manufacturing, Inc.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 156,
+    "crawled_at": "2026-02-12T16:22:40.800205652Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "IcoMoon",
+      "JavaServer Faces",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "skills2talent.com",
     "title": "OKR Stars™ | The world's 1st OKR, CFR & Talent management software with full implementation services.",
     "business_name": "",
@@ -13365,25 +13384,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "matelinc.com",
-    "title": "Matel Manufacturing, Inc.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 156,
-    "crawled_at": "2025-10-29T15:34:48.947856069Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "IcoMoon",
-      "JavaServer Faces",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
       "jQuery"
     ]
   }
