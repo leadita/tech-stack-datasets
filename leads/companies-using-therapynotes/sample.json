@@ -1,5 +1,37 @@
 [
   {
+    "domain": "fundbox.io",
+    "title": "Capital Products for Small Businesses | Fundbox",
+    "business_name": "Fundbox",
+    "country": "USA",
+    "seo_score": 92,
+    "tech_spend": 26425,
+    "crawled_at": "2026-02-12T01:29:43.275928947Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud CDN",
+      "Google Customer Reviews",
+      "Google My Business",
+      "Housecall Pro",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Nuxt.js",
+      "QUIC",
+      "Tailwind CSS",
+      "TherapyNotes",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "gracefulselfhelpcounseling.com",
     "title": "Graceful Self-Help Counseling",
     "business_name": "",
@@ -291,38 +323,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "funbdox.com",
-    "title": "Capital Products for Small Businesses | Fundbox",
-    "business_name": "Fundbox",
-    "country": "USA",
-    "seo_score": 92,
-    "tech_spend": 26425,
-    "crawled_at": "2026-01-28T13:26:41.931226304Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud CDN",
-      "Google Customer Reviews",
-      "Google My Business",
-      "Housecall Pro",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Nuxt.js",
-      "QUIC",
-      "Tailwind CSS",
-      "TherapyNotes",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "shadcn ui"
     ]
   },
   {
