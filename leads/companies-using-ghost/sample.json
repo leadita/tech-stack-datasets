@@ -1,5 +1,41 @@
 [
   {
+    "domain": "dnsmichi.dev",
+    "title": "About",
+    "business_name": "",
+    "country": "AUT",
+    "seo_score": 80,
+    "tech_spend": 20700,
+    "crawled_at": "2026-02-11T16:21:48.106958144Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "ArvanCloud",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "Ghost",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud CDN",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Ntent",
+      "Oracle Cloud",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "Ubuntu",
+      "University or College",
+      "Vimeo",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "behaviorunleashed.com",
     "title": "Behavior Unleashed",
     "business_name": "",
@@ -13118,36 +13154,6 @@
       "OpenResty",
       "PHP",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "upmarket.co",
-    "title": "UpMarket: Alternative Investments Curated for Accredited Investors",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 3150,
-    "crawled_at": "2025-11-06T17:50:38.880139925Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "ArvanCloud",
-      "CloudFront",
-      "Content Delivery Network",
-      "Express",
-      "Financial Industry Regulatory Authority",
-      "Ghost",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Material Design Icons",
-      "Microdata for Google Shopping",
-      "Twitter Ads",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]

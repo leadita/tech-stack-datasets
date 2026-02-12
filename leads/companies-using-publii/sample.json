@@ -1,5 +1,22 @@
 [
   {
+    "domain": "uxvworks.com",
+    "title": "UXVworks",
+    "business_name": "UXVworks",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 49,
+    "crawled_at": "2026-02-11T15:02:23.940887926Z",
+    "technologies": [
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Publii",
+      "Ubuntu",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "cluckin.net",
     "title": "Cluckin",
     "business_name": "Cluckin",
@@ -7287,23 +7304,6 @@
       "Apache",
       "Microdata for Google Shopping",
       "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "uxvworks.com",
-    "title": "UXVworks",
-    "business_name": "UXVworks",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 49,
-    "crawled_at": "2025-10-29T02:02:01.583014031Z",
-    "technologies": [
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Publii",
-      "Ubuntu",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   }

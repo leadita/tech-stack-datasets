@@ -1,5 +1,25 @@
 [
   {
+    "domain": "ane.iki.fi",
+    "title": "Antoine Kalmbach's website",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 120,
+    "crawled_at": "2026-02-11T23:21:30.292265813Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Express",
+      "GitHub Hosting",
+      "Jekyll",
+      "Micro.blog",
+      "Microdata for Google Shopping",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "chrispowell.co",
     "title": "Chris Powell",
     "business_name": "",
@@ -7637,26 +7657,6 @@
       "Microdata for Google Shopping",
       "Nginx",
       "Tailwind CSS",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "ane.iki.fi",
-    "title": "Antoine Kalmbach's website",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 120,
-    "crawled_at": "2025-10-29T07:12:40.948243587Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Express",
-      "GitHub Hosting",
-      "Jekyll",
-      "Micro.blog",
-      "Microdata for Google Shopping",
-      "UTF-8",
       "shadcn ui"
     ]
   }
