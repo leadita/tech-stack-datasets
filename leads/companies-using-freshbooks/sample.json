@@ -1,5 +1,29 @@
 [
   {
+    "domain": "tvszone.com",
+    "title": "TVSZONE | Premium Arabic IPTV Service in USA & Canada – 25,000+ Channels & 90,000+ VOD | TVSZONE",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 92,
+    "tech_spend": 2830,
+    "crawled_at": "2026-02-11T17:27:29.123193949Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "FreshBooks",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "Pexels",
+      "QUIC",
+      "Zyro"
+    ]
+  },
+  {
     "domain": "hollonconsulting.com",
     "title": "Hollon Consulting",
     "business_name": "",
@@ -3319,30 +3343,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "tvszone.com",
-    "title": "TVSZONE | Premium Arabic IPTV Service in USA & Canada – 25,000+ Channels & 90,000+ VOD | TVSZONE",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 87,
-    "tech_spend": 2830,
-    "crawled_at": "2025-10-29T03:33:28.982119892Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "FreshBooks",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "Pexels",
-      "QUIC",
-      "Zyro"
     ]
   }
 ]
