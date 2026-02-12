@@ -1,6 +1,6 @@
 # Companies Using Ruby on Rails (Live Dataset 2026)
 
-This folder contains an active list of 8,213 companies using **Ruby on Rails**. 
+This folder contains an active list of 8,210 companies using **Ruby on Rails**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 8,213
+- **Total Leads:** 8,210
 - **Verified:** Yes
-- **Last Updated:** 2026-02-11 12:15 UTC
+- **Last Updated:** 2026-02-12 12:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **8,213+** companies using Ruby on Rails.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **8,210+** companies using Ruby on Rails.
 
 [**⚡ Unlock the Full Ruby on Rails List with Contact Details**](https://leadita.com/leads/companies-using-ruby-on-rails)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-11 12:15 UTC*
+*Last updated: 2026-02-12 12:15 UTC*
 *Data source: Leadita Technographic Intelligence*
