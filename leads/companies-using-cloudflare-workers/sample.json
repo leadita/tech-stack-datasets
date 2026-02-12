@@ -1,5 +1,46 @@
 [
   {
+    "domain": "claushaas.dev",
+    "title": "Claus Haas Ltda.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 560,
+    "crawled_at": "2026-02-11T14:54:10.43372812Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "NFOrce Internet",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "whenderson.dev",
+    "title": "William Henderson",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 340,
+    "crawled_at": "2026-02-11T14:09:41.999671509Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Material Design Icons",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "kerimkaan.com",
     "title": "Kerim Kaan Dönmez - Kerim Kaan Dönmez",
     "business_name": "",
@@ -14498,49 +14539,6 @@
       "Google Font API",
       "NFOrce Internet",
       "Twitter Ads"
-    ]
-  },
-  {
-    "domain": "ayoubqrt.dev",
-    "title": "Ayoub Moustakim - Web Developer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 7560,
-    "crawled_at": "2025-11-01T06:07:27.679305301Z",
-    "technologies": [
-      "Astro",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Workers",
-      "Fireblade",
-      "GitHub Hosting",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "thibaultvieux.com",
-    "title": "Thibault Vieux",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 72,
-    "tech_spend": 768,
-    "crawled_at": "2025-11-01T05:29:38.898543427Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "GitHub Hosting",
-      "IcoMoon",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]
