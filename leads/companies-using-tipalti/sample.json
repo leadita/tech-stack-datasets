@@ -1,5 +1,39 @@
 [
   {
+    "domain": "finxforum.com",
+    "title": "Home | FinX Forum",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 75,
+    "tech_spend": 110108,
+    "crawled_at": "2026-02-12T03:45:55.873858905Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Express",
+      "Fastly",
+      "Fastly CDN",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PWA",
+      "QUIC",
+      "SMC",
+      "Sentry",
+      "SiteW",
+      "Tipalti",
+      "UTF-8",
+      "Vector Internet Services",
+      "Wix",
+      "Wix Media",
+      "eLand",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "tipaltievents.com",
     "title": "Tipalti | Finance Automation that puts you in charge",
     "business_name": "",
@@ -913,40 +947,6 @@
       "Tipalti",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "finxforum.com",
-    "title": "Home | FinX Forum",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 75,
-    "tech_spend": 126868,
-    "crawled_at": "2025-10-29T09:49:31.791012371Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Endis",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PWA",
-      "QUIC",
-      "SMC",
-      "Seflow Italy",
-      "SiteW",
-      "Tipalti",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "mlcom"
     ]
   }
 ]
