@@ -1,6 +1,6 @@
 # Companies Using Moodle (Live Dataset 2026)
 
-This folder contains an active list of 59 companies using **Moodle**. 
+This folder contains an active list of 57 companies using **Moodle**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 59
+- **Total Leads:** 57
 - **Verified:** Yes
-- **Last Updated:** 2026-02-12 17:00 UTC
+- **Last Updated:** 2026-02-13 17:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **59+** companies using Moodle.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **57+** companies using Moodle.
 
 [**⚡ Unlock the Full Moodle List with Contact Details**](https://leadita.com/leads/companies-using-moodle)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-12 17:00 UTC*
+*Last updated: 2026-02-13 17:00 UTC*
 *Data source: Leadita Technographic Intelligence*

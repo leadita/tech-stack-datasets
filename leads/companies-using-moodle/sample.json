@@ -1,5 +1,24 @@
 [
   {
+    "domain": "lw-moodle.cl",
+    "title": "Home | lw-moodle",
+    "business_name": "",
+    "country": "CHL",
+    "seo_score": 50,
+    "tech_spend": 10500,
+    "crawled_at": "2026-02-13T16:34:34.048778678Z",
+    "technologies": [
+      "Apache",
+      "Moodle",
+      "NFOrce Internet",
+      "PHP",
+      "Tailwind CSS",
+      "Totara",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "acemsebastianos.cl",
     "title": "Home | ACEMUSS",
     "business_name": "",
@@ -1316,76 +1335,6 @@
       "QUIC",
       "Totara",
       "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "lw-moodle.cl",
-    "title": "Home | lw-moodle",
-    "business_name": "",
-    "country": "CHL",
-    "seo_score": 55,
-    "tech_spend": 10500,
-    "crawled_at": "2025-10-30T09:34:11.069083877Z",
-    "technologies": [
-      "Apache",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "Tailwind CSS",
-      "Totara",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "gastrosuisse-elearning.ch",
-    "title": "Home | GastroSuisse E-Learning",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 10500,
-    "crawled_at": "2025-10-30T08:55:55.484538862Z",
-    "technologies": [
-      "Moodle",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "Totara",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "maqretescuole.it",
-    "title": "Home | MAQ",
-    "business_name": "",
-    "country": "ITA",
-    "seo_score": 72,
-    "tech_spend": 133030,
-    "crawled_at": "2025-10-29T20:30:01.140823868Z",
-    "technologies": [
-      "AAPT",
-      "Apache",
-      "App Store",
-      "Azion",
-      "DAV",
-      "Financial Services Guide",
-      "Google My Business",
-      "Google Play",
-      "HHVM",
-      "Hexo",
-      "KVH",
-      "Moodle",
-      "NFOrce Internet",
-      "No-Q",
-      "PHP",
-      "Phew",
-      "SMC",
-      "Subversion",
-      "Totara",
-      "UTF-8",
-      "Visx",
       "jsDelivr"
     ]
   }
