@@ -1,5 +1,31 @@
 [
   {
+    "domain": "humancentreddesign.ch",
+    "title": "Home",
+    "business_name": "",
+    "country": "CHE",
+    "seo_score": 65,
+    "tech_spend": 2860,
+    "crawled_at": "2026-02-12T23:20:46.271279461Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Chakra UI",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Next.js",
+      "Pleroma",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "cdmgoldstandard.org",
     "title": "Gold Standard | GS",
     "business_name": "",
@@ -13502,35 +13528,6 @@
       "Prismic",
       "UTF-8",
       "Vimeo"
-    ]
-  },
-  {
-    "domain": "lemoncarrentals.in",
-    "title": "Home Page",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 65,
-    "tech_spend": 11156,
-    "crawled_at": "2025-11-14T09:59:39.950193241Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Next.js",
-      "Plausible Analytics",
-      "Pleroma",
-      "Prismic",
-      "QUIC",
-      "RM Education",
-      "UTF-8",
-      "Vercel",
-      "WhatsApp Sharing",
-      "jsDelivr"
     ]
   }
 ]
