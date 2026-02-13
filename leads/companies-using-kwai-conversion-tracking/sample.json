@@ -1,5 +1,18 @@
 [
   {
+    "domain": "jajanhemat.site",
+    "title": "CERI188 Main Disini Kagak Bikin Dompet Bocor",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-02-12T19:57:57.163197117Z",
+    "technologies": [
+      "Kwai Conversion Tracking",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "1aceganeshablessing.com",
     "title": "1ACE | Cricket Betting & Live Casino Game in India",
     "business_name": "",
@@ -596,34 +609,6 @@
       "Sign In With Google",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "jajanhemat.site",
-    "title": "CERI188 Main Disini Kagak Bikin Dompet Bocor",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2025-10-29T20:30:01.117657213Z",
-    "technologies": [
-      "Kwai Conversion Tracking",
-      "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "promoparilla.site",
-    "title": "Document",
-    "business_name": "",
-    "country": "BRA",
-    "seo_score": 55,
-    "tech_spend": 99,
-    "crawled_at": "2025-10-29T18:09:53.324811721Z",
-    "technologies": [
-      "Font Awesome",
-      "Kwai Conversion Tracking",
-      "LiteSpeed",
-      "WordPress"
     ]
   }
 ]
