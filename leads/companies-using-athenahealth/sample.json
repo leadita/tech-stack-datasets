@@ -1,5 +1,43 @@
 [
   {
+    "domain": "zenithassistance.com",
+    "title": "Zenith Assistance – Zenith Assistance",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 58560,
+    "crawled_at": "2026-02-13T17:12:47.057978643Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Alternate Protocol",
+      "AthenaHealth",
+      "Contact Form Plugin",
+      "Corporate Governance and Regulatory Compliance",
+      "Elementor",
+      "EmbedPress",
+      "Essential Addons for Elementor",
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Interchange",
+      "Jannah",
+      "LiteSpeed",
+      "M247",
+      "NFOrce Internet",
+      "PHP",
+      "QUIC",
+      "Table Addons for Elementor",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "eClinicalWorks",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "puppeteerflow.com",
     "title": "HIPAA-Compliant AI Voice Agents For Healthcare | Puppeteer AI",
     "business_name": "",
@@ -18289,37 +18327,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "myviphealthhub.com",
-    "title": "Concierge Care | Mandeville, LA | VIP Health, Wellness, & Recovery",
-    "business_name": "VIP Health, Wellness, & Recovery",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 51748,
-    "crawled_at": "2025-12-17T05:34:32.750777402Z",
-    "technologies": [
-      "AiNET",
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "AthenaHealth",
-      "CloudFront",
-      "Duda",
-      "Express",
-      "GZIP Module",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Smooch",
-      "Tailwind CSS",
-      "Thryv",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "YouTube"
     ]
   }
 ]
