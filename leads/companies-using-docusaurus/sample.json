@@ -1,5 +1,73 @@
 [
   {
+    "domain": "subly.tech",
+    "title": "Subly Tech | Subly Tech",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 5000,
+    "crawled_at": "2026-02-13T22:02:36.992299602Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "M247",
+      "Netlify",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "nowarp.io",
+    "title": "nowarp - Web3 Security",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 732,
+    "crawled_at": "2026-02-13T07:12:55.405195881Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Perl",
+      "Telegram",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "hollplex.com",
+    "title": "Hollplex | Engineering Blog",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 1280,
+    "crawled_at": "2026-02-12T22:46:49.737152721Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Instagram Follow Button",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "lincsproject.ca",
     "title": "Home | LINCS",
     "business_name": "",
@@ -12505,65 +12573,6 @@
       "Perl",
       "To Top",
       "Visual Studio"
-    ]
-  },
-  {
-    "domain": "fintechenigma.no",
-    "title": "Fintech Enigma | Fintech Enigma",
-    "business_name": "",
-    "country": "NOR",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2025-10-31T18:23:38.978812794Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Perl",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "ricardllop.com",
-    "title": "RicardLlop | RicardLlop",
-    "business_name": "",
-    "country": "ESP",
-    "seo_score": 62,
-    "tech_spend": "",
-    "crawled_at": "2025-10-31T17:18:57.116854375Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Perl"
-    ]
-  },
-  {
-    "domain": "savant.chat",
-    "title": "AI-Powered Smart Contract Security Audits | Savant Chat - AI Smart Contract Security",
-    "business_name": "Savant Chat",
-    "country": "RUS",
-    "seo_score": 82,
-    "tech_spend": 6476,
-    "crawled_at": "2025-10-31T11:41:38.920850799Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Bench",
-      "Docusaurus",
-      "Express",
-      "GZIP Module",
-      "Matomo",
-      "Matomo Tag Manager",
-      "PWA",
-      "Perl",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "Twitter CDN",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]

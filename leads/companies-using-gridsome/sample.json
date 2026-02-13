@@ -1,5 +1,63 @@
 [
   {
+    "domain": "homeofbeautyandfood.nl",
+    "title": "Home of Beauty and Food",
+    "business_name": "",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 2728,
+    "crawled_at": "2026-02-13T20:01:29.677655095Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Google Adsense",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google Reseller",
+      "Gridsome",
+      "Idaq",
+      "Instagram Follow Button",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "spotlightlc.com",
+    "title": "Home - Lincoln City Spotlight Event Center",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 156,
+    "crawled_at": "2026-02-13T08:58:53.463878069Z",
+    "technologies": [
+      "Bulma",
+      "Content Delivery Network",
+      "Google My Business",
+      "Gridsome",
+      "IcoMoon",
+      "Netlify",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "smart-rights.co.il",
+    "title": "Smart Rights - Smart Rights",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 156,
+    "crawled_at": "2026-02-13T03:11:15.033211646Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Gridsome",
+      "IcoMoon",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "openenrollmentutah.com",
     "title": "EnrollUT | Find the Best Health Insurance in Utah - EnrollUT",
     "business_name": "",
@@ -11884,76 +11942,6 @@
       "UTF-8",
       "Unix",
       "Visx"
-    ]
-  },
-  {
-    "domain": "jackieis.online",
-    "title": "Jackie Liu °˖✧*･･new media art & design･･*✧˖° ✿ jackie liu",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 702,
-    "crawled_at": "2025-11-03T12:21:43.109456529Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Content Delivery Network",
-      "Fastly",
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Gridsome",
-      "Instagram Follow Button",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "itch.io",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "papareo.nz",
-    "title": "Papa Reo",
-    "business_name": "",
-    "country": "NZL",
-    "seo_score": 72,
-    "tech_spend": 50456,
-    "crawled_at": "2025-11-03T11:38:00.774162318Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Gridsome",
-      "Netlify",
-      "Plausible Analytics",
-      "SMC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "svfplatform.nl",
-    "title": "Werkgroep | Werkgroep",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 55,
-    "tech_spend": 1191,
-    "crawled_at": "2025-11-03T11:05:38.941450983Z",
-    "technologies": [
-      "Cloudinary",
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Netlify",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]
