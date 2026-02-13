@@ -1,5 +1,30 @@
 [
   {
+    "domain": "gurugeeksroyalty.biz",
+    "title": "Gurugeeks",
+    "business_name": "",
+    "country": "NGA",
+    "seo_score": 72,
+    "tech_spend": 2690,
+    "crawled_at": "2026-02-13T03:45:21.469975703Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "Dialogflow",
+      "Fontshare",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "busybubbles.com.au",
     "title": "Your Local Laundromat | Busy Bubbles Laundry Services",
     "business_name": "The Busy Bubbles Laundrette",
@@ -8760,28 +8785,6 @@
       "WhatsApp Sharing",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "gurugeeksroyalty.biz",
-    "title": "Gurugeeks",
-    "business_name": "",
-    "country": "NGA",
-    "seo_score": 77,
-    "tech_spend": 240,
-    "crawled_at": "2025-10-30T01:11:54.684609763Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Dialogflow",
-      "Fontshare",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Next.js",
-      "Nginx",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
