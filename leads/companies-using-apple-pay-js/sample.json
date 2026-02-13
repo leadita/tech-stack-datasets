@@ -1,5 +1,30 @@
 [
   {
+    "domain": "fobaking.com",
+    "title": "www.fobaking.com",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 75668,
+    "crawled_at": "2026-02-12T12:27:00.258733081Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apple Pay JS",
+      "Aruba",
+      "Cart.com",
+      "Cloudflare",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "occurensue.com",
     "title": "occurensue",
     "business_name": "",
@@ -9649,31 +9674,6 @@
       "UTF-8",
       "Underscores",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "fobaking.com",
-    "title": "www.fobaking.com",
-    "business_name": "",
-    "country": "ESP",
-    "seo_score": 77,
-    "tech_spend": 75668,
-    "crawled_at": "2025-10-29T13:23:24.315086568Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apple Pay JS",
-      "Aruba",
-      "Cart.com",
-      "Cloudflare",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
