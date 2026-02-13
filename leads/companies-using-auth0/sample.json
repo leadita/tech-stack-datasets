@@ -1,5 +1,41 @@
 [
   {
+    "domain": "krishnan.ca",
+    "title": "Ajay Krishnan, a lawyer who codes",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 11392,
+    "crawled_at": "2026-02-13T10:40:02.90673869Z",
+    "technologies": [
+      "Amazon",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Auth0",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "GetResponse",
+      "GitHub Hosting",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google My Business",
+      "Google Tag Manager",
+      "New Relic",
+      "QUIC",
+      "Ruby on Rails",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "YouTube",
+      "jsDelivr",
+      "reCAPTCHA",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "sambego.tech",
     "title": "Sam Bellen | Sambego",
     "business_name": "",
@@ -23455,37 +23491,6 @@
       "Tailwind CSS",
       "WF Cookie Consent",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "gawdai.com",
-    "title": "Let's not Slang be forgotten! - Gawdai",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 15648,
-    "crawled_at": "2025-10-31T13:05:38.902402673Z",
-    "technologies": [
-      "Adult Content",
-      "Auth0",
-      "Branch.io",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "Google Analytics",
-      "Google My Business",
-      "Instagram Follow Button",
-      "OneSignal",
-      "QUIC",
-      "Return Rabbit",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
