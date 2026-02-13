@@ -11375,28 +11375,5 @@
       "about.me",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "yusufdiril.com.tr",
-    "title": "Yusuf Diril | münzevî | Siber Güvenlik | EKS | IIoT | Elektronik Harp | C6ISR",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 25588,
-    "crawled_at": "2025-10-29T19:50:47.911226243Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Ektron",
-      "Google Tag Manager",
-      "Hasnode",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pico CSS",
-      "Pleroma",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
   }
 ]

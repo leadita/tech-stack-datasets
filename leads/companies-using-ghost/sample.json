@@ -1,5 +1,36 @@
 [
   {
+    "domain": "acciliumventures.com",
+    "title": "Homepage - accilium ventures",
+    "business_name": "accilium ventures",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 316,
+    "crawled_at": "2026-02-13T04:41:53.134481007Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Complianz",
+      "EmbedPress",
+      "Ghost",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Tailwind CSS",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "reCAPTCHA",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "dnsmichi.dev",
     "title": "About",
     "business_name": "",
@@ -13134,26 +13165,6 @@
       "Twitter Ads",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "fedcentral.org",
-    "title": "Login | FedCentral",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": "",
-    "crawled_at": "2025-11-07T05:57:54.569584252Z",
-    "technologies": [
-      "GZIP Module",
-      "Ghost",
-      "Google Analytics",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "OpenResty",
-      "PHP",
-      "UTF-8"
     ]
   }
 ]
