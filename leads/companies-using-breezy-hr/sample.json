@@ -1,5 +1,34 @@
 [
   {
+    "domain": "coldironstudios.com",
+    "title": "Coldiron Studios",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 1779,
+    "crawled_at": "2026-02-13T13:47:29.88880902Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Breezy HR",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Hello Elementor",
+      "Nginx",
+      "PHP",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "basalt.io",
     "title": "Knapsack: The digital production platform for enterprise teams",
     "business_name": "",
@@ -2099,35 +2128,6 @@
       "University or College",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "coldironstudios.org",
-    "title": "Coldiron Studios",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 1779,
-    "crawled_at": "2026-01-25T14:13:43.458239067Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Breezy HR",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hello Elementor",
-      "Nginx",
-      "PHP",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   },
   {

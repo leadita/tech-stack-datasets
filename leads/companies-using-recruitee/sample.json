@@ -1,5 +1,43 @@
 [
   {
+    "domain": "walibi-world.eu",
+    "title": "Walibi Holland: the ultimate amusement park for the whole family",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 77,
+    "tech_spend": 10587,
+    "crawled_at": "2026-02-13T07:46:23.256338868Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "App Store",
+      "Bug Bounty",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "DoubleClick Bid Manager",
+      "Express",
+      "Fastly",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Play",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Recruitee",
+      "Schema Plugin",
+      "The Trade Desk Direct",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Vimeo",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "malcomfinance.com",
     "title": "Malcom Finance | Factoring for logistics",
     "business_name": "",
@@ -522,44 +560,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "walibi-world.co.uk",
-    "title": "Walibi Holland: the ultimate amusement park for the whole family",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 77,
-    "tech_spend": 10587,
-    "crawled_at": "2026-02-03T04:22:48.88067792Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "App Store",
-      "Bug Bounty",
-      "Content Delivery Network",
-      "Corporate Governance and Regulatory Compliance",
-      "DoubleClick Bid Manager",
-      "Express",
-      "Fastly",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Play",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Recruitee",
-      "Schema Plugin",
-      "The Trade Desk Direct",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vimeo",
-      "YouTube",
       "reCAPTCHA"
     ]
   },
@@ -8472,29 +8472,6 @@
       "WordPress",
       "WordPress Multisite",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "sveltejobs.com",
-    "title": "The best place for Svelte jobs - SvelteJobs",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 41855,
-    "crawled_at": "2025-10-30T02:21:16.96918849Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "KVH",
-      "Python",
-      "QUIC",
-      "Recruitee",
-      "Sanity",
-      "Tailwind CSS",
-      "shadcn ui"
     ]
   }
 ]
