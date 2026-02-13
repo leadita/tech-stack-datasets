@@ -1,5 +1,37 @@
 [
   {
+    "domain": "purposehousechurch.org",
+    "title": "Purpose House Church | Herrin, Illinois",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 7830,
+    "crawled_at": "2026-02-12T16:58:43.05677112Z",
+    "technologies": [
+      "Amazon",
+      "Amazon API Gateway",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Church Center",
+      "CloudFront",
+      "Content Delivery Network",
+      "Create React App",
+      "DAV",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Line2",
+      "Oddle",
+      "Pleroma",
+      "Storyblocks",
+      "Styled Components",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "reelrunnercharters.com",
     "title": "Fish Like a Pro: Learn from Expert Guides on Lake Erie!",
     "business_name": "Reel Runner Charters",
@@ -17382,40 +17414,6 @@
       "University or College",
       "Vector Internet Services",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "rockinnrowanfishcharters.com",
-    "title": "Discover Unexplored Depths on Chesapeake Bay",
-    "business_name": "Rockin N Rowan Fish Charters",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 25042,
-    "crawled_at": "2025-11-09T02:47:40.042551545Z",
-    "technologies": [
-      "Amazon",
-      "Amazon API Gateway",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Content Delivery Network",
-      "DAV",
-      "DC74",
-      "DoubleClick Bid Manager",
-      "Express",
-      "Fastly",
-      "GZIP Module",
-      "Heap",
-      "Hubspot",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Stripe",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
