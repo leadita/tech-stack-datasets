@@ -1,5 +1,106 @@
 [
   {
+    "domain": "clothsmalls.com",
+    "title": "clothsmalls.com - Welcome to shop - Sale all clothing to 50% off",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 65,
+    "tech_spend": 75240,
+    "crawled_at": "2026-02-14T13:03:05.870786584Z",
+    "technologies": [
+      "3 Products",
+      "Cart.com",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Nginx",
+      "OpenCart",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "shop4room.com",
+    "title": "Online Home Store for Lighting, Furniture, Decor, Mirrors, Outdoors ...",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 98707,
+    "crawled_at": "2026-02-14T08:18:20.40608863Z",
+    "technologies": [
+      "ADFOX",
+      "AJAX Libraries API",
+      "Cart.com",
+      "Fireblade",
+      "Gambling Content",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "JivoSite",
+      "LiteSpeed",
+      "OpenCart",
+      "PHP",
+      "QUIC",
+      "Slider Revolution",
+      "Twitter Ads",
+      "UTF-8",
+      "Yandex Hosting",
+      "Yandex Metrika",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "vicibuy.com",
+    "title": "Vicibuy's - Women's Watches, Men's Watches, Watch Accessories - Official Site - vicibuy.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 90668,
+    "crawled_at": "2026-02-14T02:06:27.595913488Z",
+    "technologies": [
+      "3 Products",
+      "Cart.com",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fireblade",
+      "IcoMoon",
+      "OpenCart",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "dragonherbs.shop",
+    "title": "Account Login",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 55,
+    "tech_spend": 30003,
+    "crawled_at": "2026-02-13T21:26:10.737257746Z",
+    "technologies": [
+      "Apache",
+      "Cart.com",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "OpenCart",
+      "PHP",
+      "Parcel",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "fruitdelivery.com.sg",
     "title": "Fruit delivery Singapore by Fruit' Alive",
     "business_name": "",
@@ -3574,32 +3675,6 @@
       "Subversion",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "asmkc.com",
-    "title": "Asmkc.com - Shopping with Unbeatable Price, Just asmkc",
-    "business_name": "",
-    "country": "SGP",
-    "seo_score": 72,
-    "tech_spend": 90668,
-    "crawled_at": "2026-02-01T10:24:44.686053108Z",
-    "technologies": [
-      "3 Products",
-      "Cart.com",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Fireblade",
-      "Gravity",
-      "IcoMoon",
-      "OpenCart",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
@@ -12278,81 +12353,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "budgetschic.com",
-    "title": "budgetschic.com - BOTTOMS,BOTTOMS,Coats,Coats,Motorcycle Jackets,Motorcycle Jackets,OUTERWEAR,OUTERWEAR,Pants,Pants,Shorts,Shorts,Tank tops & Camis,Tank tops & Camis,TOPS,TOPS,Trench Coats,Trench Coats,Tunic,Tunic,Two-piece Suit,Two-piece Suit",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 30000,
-    "crawled_at": "2025-12-31T15:49:09.520457242Z",
-    "technologies": [
-      "Cart.com",
-      "GZIP Module",
-      "Nginx",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "istekgroup.az",
-    "title": "ISTEK GROUP",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 30162,
-    "crawled_at": "2025-12-31T14:34:58.891716894Z",
-    "technologies": [
-      "AutoComplete",
-      "CDN JS",
-      "Cart.com",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Font Awesome",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "LiteSpeed",
-      "OpenCart",
-      "PHP",
-      "QUIC",
-      "UTF-8",
-      "YouTube",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "jochemjacobs.com",
-    "title": "Skunk Gear - Dutch Custom Tactical Bags & Accessories",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 30503,
-    "crawled_at": "2025-12-31T13:34:37.13400766Z",
-    "technologies": [
-      "Apache",
-      "Cart.com",
-      "CookieConsent",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "NFOrce Internet",
-      "OpenCart",
-      "Share42",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]

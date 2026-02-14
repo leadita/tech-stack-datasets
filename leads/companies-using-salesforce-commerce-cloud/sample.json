@@ -1,5 +1,60 @@
 [
   {
+    "domain": "makepleasure.shop",
+    "title": "MakePleasure - Adult Products Store",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 150848,
+    "crawled_at": "2026-02-14T13:35:55.29354016Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Ethy",
+      "Financial Services Guide",
+      "Google",
+      "Google Cloud CDN",
+      "No-Q",
+      "QUIC",
+      "Salesforce Commerce Cloud",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "pentoptimism.co.tz",
+    "title": "Pent OPtimism Investiment Ltd",
+    "business_name": "",
+    "country": "TZA",
+    "seo_score": 70,
+    "tech_spend": 503640,
+    "crawled_at": "2026-02-14T09:53:43.442893033Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "MSHOP",
+      "QUIC",
+      "Salesforce Commerce Cloud",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress",
+      "jQuery",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "huntsvilleskin.com",
     "title": "The Tailored Aesthetic",
     "business_name": "",
@@ -15075,61 +15130,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "makepleasure.shop",
-    "title": "MakePleasure - Adult Products Store",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 150848,
-    "crawled_at": "2025-10-30T19:58:27.719432897Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Ethy",
-      "Financial Services Guide",
-      "Google",
-      "Google Cloud CDN",
-      "No-Q",
-      "QUIC",
-      "Salesforce Commerce Cloud",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "pentoptimism.co.tz",
-    "title": "Pent OPtimism Investiment Ltd",
-    "business_name": "",
-    "country": "TZA",
-    "seo_score": 75,
-    "tech_spend": 503640,
-    "crawled_at": "2025-10-30T19:09:55.648757117Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "MSHOP",
-      "QUIC",
-      "Salesforce Commerce Cloud",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress",
-      "jQuery",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]
