@@ -1,5 +1,68 @@
 [
   {
+    "domain": "madbit.co",
+    "title": "Product Design Consultancy • MADBIT Co.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 388,
+    "crawled_at": "2026-02-14T21:16:52.401392472Z",
+    "technologies": [
+      "AdBit",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Netlify",
+      "Pirsch",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "harvac.com.au",
+    "title": "Delivering extraordinary experiences | HARVAC group",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 60,
+    "tech_spend": "",
+    "crawled_at": "2026-02-14T02:46:37.049469987Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google My Business",
+      "Gridsome",
+      "Netlify",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "amxmln.com",
+    "title": "Portfolio | Amadeus Maximilian",
+    "business_name": "",
+    "country": "IRL",
+    "seo_score": 72,
+    "tech_spend": 60000,
+    "crawled_at": "2026-02-14T00:51:01.35447771Z",
+    "technologies": [
+      "AAPT",
+      "AWS WAF Challenge",
+      "DAV",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Gridsome",
+      "KVH",
+      "Mastodon",
+      "Subversion",
+      "Tailwind CSS",
+      "Telegram",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services"
+    ]
+  },
+  {
     "domain": "homeofbeautyandfood.nl",
     "title": "Home of Beauty and Food",
     "business_name": "",
@@ -6873,25 +6936,6 @@
     ]
   },
   {
-    "domain": "thepearlhotel.com.au",
-    "title": "The Pearl - The Pearl",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 50,
-    "tech_spend": 471,
-    "crawled_at": "2025-12-02T11:43:05.302304717Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Netlify",
-      "OpenTable",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "sqliteviz.com",
     "title": "Home - sqliteviz",
     "business_name": "",
@@ -11885,63 +11929,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Visual Studio"
-    ]
-  },
-  {
-    "domain": "familycinemas.com",
-    "title": "Home - Oak Grove 8 Cinema",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 948,
-    "crawled_at": "2025-11-03T12:26:32.892768479Z",
-    "technologies": [
-      "Bulma",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "Google Maps",
-      "Google My Business",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "UTF-8",
-      "Veezi"
-    ]
-  },
-  {
-    "domain": "mccarville.dev",
-    "title": "Jamie McCarville | Portfolio - Jamie McCarville | Portfolio",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 97598,
-    "crawled_at": "2025-11-03T12:22:58.546580452Z",
-    "technologies": [
-      "AAPT",
-      "Apyl",
-      "Cloudinary",
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Heroku",
-      "Idaq",
-      "KVH",
-      "Nationwide Mortgage Licensing System and Registry",
-      "Netlify",
-      "No-Q",
-      "QUIC",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Unix",
-      "Visx"
     ]
   }
 ]

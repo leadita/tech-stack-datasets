@@ -1,5 +1,60 @@
 [
   {
+    "domain": "mohamedadil.com",
+    "title": "Mohamed Adil Blog | Mohamed Adil Blog",
+    "business_name": "",
+    "country": "ESP",
+    "seo_score": 77,
+    "tech_spend": 15228,
+    "crawled_at": "2026-02-14T21:56:17.164782794Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Express",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Perl",
+      "Schema Plugin",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "xaviergeerinck.com",
+    "title": "Autonomous AI & Azure Insights | Xavier Geerinck",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 7744,
+    "crawled_at": "2026-02-14T10:13:12.020290346Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "ArvanCloud",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Docusaurus",
+      "ElementUI",
+      "Fastly",
+      "Ghost",
+      "GitHub Hosting",
+      "Mermaid",
+      "Microdata for Google Shopping",
+      "Microsoft 365",
+      "Microsoft Azure Blob Storage",
+      "Nginx",
+      "Python",
+      "UTF-8",
+      "Unsplash",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "subly.tech",
     "title": "Subly Tech | Subly Tech",
     "business_name": "",
@@ -12523,56 +12578,6 @@
       "Pleroma",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "ask-ai-button.io",
-    "title": "Ask AI Button - Add AI chatbot to your docs",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 15330,
-    "crawled_at": "2025-11-01T00:41:38.894817052Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fireblade",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Next.js",
-      "No-Q",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "codeweb.chat",
-    "title": "Intro | Code Web Chat",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 5390,
-    "crawled_at": "2025-10-31T19:47:42.799161645Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Google My Business",
-      "OpenAI",
-      "Perl",
-      "To Top",
-      "Visual Studio"
     ]
   }
 ]
