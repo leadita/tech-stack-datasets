@@ -1,5 +1,39 @@
 [
   {
+    "domain": "seadawgcharter.com",
+    "title": "Exceptional Fishing Charters in Dauphin Island",
+    "business_name": "Sea Dawg Charter",
+    "country": "PHL",
+    "seo_score": 77,
+    "tech_spend": 50042,
+    "crawled_at": "2026-02-13T22:25:15.338410988Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon",
+      "Amazon API Gateway",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Content Delivery Network",
+      "DoubleClick Bid Manager",
+      "Fastly",
+      "Fireblade",
+      "GZIP Module",
+      "Heap",
+      "Hubspot",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Stripe",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "purposehousechurch.org",
     "title": "Purpose House Church | Herrin, Illinois",
     "business_name": "",
@@ -17384,36 +17418,6 @@
       "Storyblocks",
       "Styled Components",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "reshma.me",
-    "title": "Reshma's Portfolio",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 60,
-    "tech_spend": 1419,
-    "crawled_at": "2025-11-09T17:30:42.869221961Z",
-    "technologies": [
-      "Amazon API Gateway",
-      "BootstrapMade",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Heroku",
-      "IcoMoon",
-      "Netlify",
-      "Ntent",
-      "Python",
-      "RawGit",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "jQuery"
     ]
   }
 ]
