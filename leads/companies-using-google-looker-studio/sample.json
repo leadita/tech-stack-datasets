@@ -1,5 +1,30 @@
 [
   {
+    "domain": "jayasolusindo.com",
+    "title": "My Website – Built with SitePad",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 65,
+    "tech_spend": 15040,
+    "crawled_at": "2026-02-13T20:55:33.565338287Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Endis",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Looker Studio",
+      "Google My Business",
+      "InitiativeS",
+      "LiteSpeed",
+      "QUIC",
+      "Squid",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "theworlds.co.uk",
     "title": "World Pipe Band Championships - Glasgow Life",
     "business_name": "",
@@ -1513,28 +1538,6 @@
       "UTF-8",
       "WordPress",
       "WordPress Multisite"
-    ]
-  },
-  {
-    "domain": "smtconsultancy.com",
-    "title": "SMT Ops & Logistics Consultancy Pty Ltd – Linking businesses to a New Norm in Operations & Logistics – Supply Chain & Planning",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 15040,
-    "crawled_at": "2025-12-29T06:28:38.338973824Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Endis",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Looker Studio",
-      "Google My Business",
-      "InitiativeS",
-      "Squid",
-      "Twitter Ads",
-      "jQuery"
     ]
   },
   {
