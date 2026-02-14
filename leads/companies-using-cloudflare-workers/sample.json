@@ -1,5 +1,58 @@
 [
   {
+    "domain": "dadstechlab.com",
+    "title": "Dad's Tech Lab - Smart Home, Technology, and Software Development Blog",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 2148,
+    "crawled_at": "2026-02-14T13:13:02.617416915Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Hugo",
+      "Jekyll",
+      "License Buttons",
+      "Nginx",
+      "Oddle",
+      "To Top",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "svenvg.com",
+    "title": "Sven van Ginkel",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 650,
+    "crawled_at": "2026-02-14T04:46:34.87768168Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Ethy",
+      "GitHub Hosting",
+      "Hugo",
+      "Ntent",
+      "QUIC",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "claushaas.dev",
     "title": "Claus Haas Ltda.",
     "business_name": "",
@@ -14499,46 +14552,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "nicolasdelrosario.com",
-    "title": "Nicolas Del Rosario",
-    "business_name": "",
-    "country": "ARG",
-    "seo_score": 62,
-    "tech_spend": 20300,
-    "crawled_at": "2025-11-01T07:02:38.91936254Z",
-    "technologies": [
-      "Astro",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "KVH",
-      "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "erichayth.com",
-    "title": "My Links",
-    "business_name": "",
-    "country": "",
-    "seo_score": 20,
-    "tech_spend": 563,
-    "crawled_at": "2025-11-01T07:02:38.919851627Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "NFOrce Internet",
-      "Twitter Ads"
     ]
   }
 ]
