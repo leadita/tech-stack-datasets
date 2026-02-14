@@ -1,5 +1,47 @@
 [
   {
+    "domain": "taylorssydney.edu.au",
+    "title": "Home - Taylors College",
+    "business_name": "Taylors College",
+    "country": "AUS",
+    "seo_score": 87,
+    "tech_spend": 4650,
+    "crawled_at": "2026-02-14T11:51:27.925051882Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Data Tables Generator by Supsystic",
+      "EmbedPress",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Pagekit",
+      "QUIC",
+      "Soliloquy for WordPress",
+      "Theme In WP",
+      "Trustarc Cookie Consent",
+      "UTF-8",
+      "University or College",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "bearcanyonestatesskyactive.com",
     "title": "Bear Canyon Estates | Sky Activing Living | Independent Living in Albuquerque, NM",
     "business_name": "Bear Canyon Estates",
@@ -23709,32 +23751,6 @@
       "UTF-8",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "contractorconnection.ca",
-    "title": "Home | Contractor Connection Canada (EN)",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 19687,
-    "crawled_at": "2025-11-07T02:47:38.881679416Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "Report URI",
-      "Tailwind CSS",
-      "Trustarc Cookie Consent",
-      "UTF-8"
     ]
   }
 ]
