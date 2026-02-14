@@ -1,6 +1,6 @@
 # Companies Using Wix (Live Dataset 2026)
 
-This folder contains an active list of 997,212 companies using **Wix**. 
+This folder contains an active list of 997,111 companies using **Wix**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 997,212
+- **Total Leads:** 997,111
 - **Verified:** Yes
-- **Last Updated:** 2026-02-13 13:30 UTC
+- **Last Updated:** 2026-02-14 13:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **997,212+** companies using Wix.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **997,111+** companies using Wix.
 
 [**⚡ Unlock the Full Wix List with Contact Details**](https://leadita.com/leads/companies-using-wix)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-13 13:30 UTC*
+*Last updated: 2026-02-14 13:30 UTC*
 *Data source: Leadita Technographic Intelligence*
