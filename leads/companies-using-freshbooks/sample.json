@@ -1,5 +1,33 @@
 [
   {
+    "domain": "everthere.com",
+    "title": "Everthere - Digital Partner",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 80,
+    "tech_spend": 1699,
+    "crawled_at": "2026-02-13T11:50:40.045438618Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Contact Form Plugin",
+      "EmbedPress",
+      "Flat Icon",
+      "FreshBooks",
+      "GZIP Module",
+      "Google My Business",
+      "License Buttons",
+      "PHP",
+      "QUIC",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "smallbusinesssupport.biz",
     "title": "Small Business Support Business - SBSS",
     "business_name": "My Blog",
@@ -3315,34 +3343,6 @@
       "WordPress Multisite",
       "eShow",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "everthere.com",
-    "title": "Everthere - Digital Partner",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 75,
-    "tech_spend": 1699,
-    "crawled_at": "2025-10-30T06:33:07.392661798Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "Flat Icon",
-      "FreshBooks",
-      "GZIP Module",
-      "Google My Business",
-      "License Buttons",
-      "PHP",
-      "QUIC",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]

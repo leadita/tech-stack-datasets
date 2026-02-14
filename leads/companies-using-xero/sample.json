@@ -1,5 +1,45 @@
 [
   {
+    "domain": "sparkaccountants.com.au",
+    "title": "Business Accountants in Brisbane | Spark Accountants",
+    "business_name": "Spark Accountants",
+    "country": "AUS",
+    "seo_score": 77,
+    "tech_spend": 23374,
+    "crawled_at": "2026-02-13T17:03:18.493869829Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adult Content",
+      "Alibaba Cloud CDN",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "Google",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Gravity",
+      "Gravity Forms",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "QUIC",
+      "Sitelinks Search Box",
+      "UTF-8",
+      "WP Engine",
+      "WP Rocket",
+      "WordPress",
+      "WordPress Multisite",
+      "Xero",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "webrozum.com",
     "title": "Webrozum | IT company | Custom web development",
     "business_name": "",
@@ -18330,24 +18370,6 @@
       "UTF-8",
       "Wangsu",
       "Website Tonight",
-      "Xero"
-    ]
-  },
-  {
-    "domain": "jgco.co.za",
-    "title": "JGCo - Chartered Accountants (SA)",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 55,
-    "tech_spend": 455,
-    "crawled_at": "2025-12-03T19:18:24.270295654Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Formspree",
-      "GZIP Module",
-      "QUIC",
-      "Underscores",
       "Xero"
     ]
   }

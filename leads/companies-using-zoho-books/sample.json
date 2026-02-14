@@ -1,5 +1,60 @@
 [
   {
+    "domain": "soach.net",
+    "title": "SOA-Spirit of Achievement |",
+    "business_name": "",
+    "country": "SAU",
+    "seo_score": 65,
+    "tech_spend": 1934,
+    "crawled_at": "2026-02-13T22:34:24.937992759Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Contact Form Plugin",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "PHP",
+      "QUIC",
+      "Smart Slider 3",
+      "Tailwind CSS",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "Zoho Books",
+      "eLand",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "palomats.com",
+    "title": "Paloma Technologies IT Solutions",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 5180,
+    "crawled_at": "2026-02-13T11:08:23.920961716Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apache",
+      "Barracuda Web App Firewall",
+      "GZIP Module",
+      "Perl",
+      "YouTube",
+      "Zoho Books"
+    ]
+  },
+  {
     "domain": "thebouncegroup.com",
     "title": "The Bounce Group - The Bounce Group",
     "business_name": "",
@@ -1357,25 +1412,6 @@
     ]
   },
   {
-    "domain": "palomatech.org",
-    "title": "Paloma Technologies IT Solutions",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 55,
-    "tech_spend": 5180,
-    "crawled_at": "2025-11-05T07:23:38.931901127Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apache",
-      "Barracuda Web App Firewall",
-      "GZIP Module",
-      "Perl",
-      "YouTube",
-      "Zoho Books"
-    ]
-  },
-  {
     "domain": "aswav.com",
     "title": "ASW | Impress Your Audience",
     "business_name": "",
@@ -1710,41 +1746,6 @@
       "WordPress Stats",
       "YouTube",
       "Zoho Books",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "soach.net",
-    "title": "SOA-Spirit of Achievement |",
-    "business_name": "",
-    "country": "SAU",
-    "seo_score": 65,
-    "tech_spend": 1934,
-    "crawled_at": "2025-10-30T13:00:58.818610671Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Contact Form Plugin",
-      "Divi",
-      "Elegant Themes",
-      "EmbedPress",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "PHP",
-      "Smart Slider 3",
-      "Tailwind CSS",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "Zoho Books",
-      "eLand",
-      "jQuery",
       "reCAPTCHA"
     ]
   }
