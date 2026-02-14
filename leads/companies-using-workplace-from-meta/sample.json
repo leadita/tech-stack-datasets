@@ -1,5 +1,25 @@
 [
   {
+    "domain": "bionicworkplace.com",
+    "title": "Bionic Workplace | BionicWorkplace.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 63,
+    "crawled_at": "2026-02-14T00:18:32.12312211Z",
+    "technologies": [
+      "BootstrapMade",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Nginx",
+      "PHP",
+      "Workplace from Meta"
+    ]
+  },
+  {
     "domain": "drivehealth.uk",
     "title": "Just another WordPress site",
     "business_name": "",
@@ -8161,26 +8181,6 @@
       "Workplace from Meta",
       "Yelp Badge",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "bionicworkplace.com",
-    "title": "Bionic Workplace | BionicWorkplace.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 6459,
-    "crawled_at": "2025-10-30T14:01:12.694523094Z",
-    "technologies": [
-      "BootstrapMade",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "PHP",
-      "Workplace from Meta"
     ]
   }
 ]
