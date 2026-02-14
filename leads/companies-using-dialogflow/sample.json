@@ -1,5 +1,35 @@
 [
   {
+    "domain": "bytevox.ai",
+    "title": "ByteVox - AI Voice Agents for Enterprise Workflows",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 15080,
+    "crawled_at": "2026-02-14T02:16:08.279842644Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Content Delivery Network",
+      "Dialogflow",
+      "Fastly",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "QUIC",
+      "RM Education",
+      "Tailwind CSS",
+      "UTF-8",
+      "WF Cookie Consent",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "gurugeeksroyalty.biz",
     "title": "Gurugeeks",
     "business_name": "",
