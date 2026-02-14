@@ -2436,40 +2436,5 @@
       "Twitter Ads",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "siskills.co.za",
-    "title": "Saint Ignatious Skills - Heavy Machinery & Construction Training",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 82,
-    "tech_spend": 17084,
-    "crawled_at": "2025-10-30T15:45:59.825186368Z",
-    "technologies": [
-      "CDN JS",
-      "CacheFly",
-      "CacheFly CDN",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Microsoft Azure Blob Storage",
-      "QUIC",
-      "Twitter Ads",
-      "University or College",
-      "Wix Media",
-      "WordPress"
-    ]
   }
 ]
