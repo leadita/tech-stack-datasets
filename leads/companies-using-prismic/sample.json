@@ -1,5 +1,54 @@
 [
   {
+    "domain": "greatstate.co.uk",
+    "title": "Hello. We're Great State. We build digital experiences for the next generation. | Hello. We're Great State. We build digital experiences for the next generation.",
+    "business_name": "",
+    "country": "SYC",
+    "seo_score": 72,
+    "tech_spend": 16128,
+    "crawled_at": "2026-02-13T23:46:54.799144896Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Gatsby JS",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Netlify",
+      "Pico CSS",
+      "Prismic",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "letspinband.com",
+    "title": "Let Spin",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 2316,
+    "crawled_at": "2026-02-13T20:17:52.513577256Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Band Camp",
+      "Camp",
+      "Content Delivery Network",
+      "Gatsby JS",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "MailChimp",
+      "Netlify",
+      "Pico CSS",
+      "Prismic",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "humancentreddesign.ch",
     "title": "Home",
     "business_name": "",
@@ -13481,53 +13530,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "lornamaclennan.com",
-    "title": "Lorna MacLennan. The Glow Facialist",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2025-11-14T15:05:10.699118775Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Angular",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Netlify",
-      "Next.js",
-      "Pleroma",
-      "Prismic",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "jansenharris.com",
-    "title": "JansenHarris",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 8000,
-    "crawled_at": "2025-11-14T11:53:04.995474942Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "Fireblade",
-      "Google My Business",
-      "Instagram Follow Button",
-      "NFOrce Internet",
-      "Next.js",
-      "PWA",
-      "Pleroma",
-      "Prismic",
-      "UTF-8",
-      "Vimeo"
     ]
   }
 ]

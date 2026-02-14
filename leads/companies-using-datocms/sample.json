@@ -1,5 +1,110 @@
 [
   {
+    "domain": "tranzac.org",
+    "title": "Tranzac - Tranzac",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 1403,
+    "crawled_at": "2026-02-14T16:36:06.258707587Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Idaq",
+      "Instagram Follow Button",
+      "Netlify",
+      "Nuxt.js",
+      "Plausible Analytics",
+      "Stripe",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "estates-theatre.eu",
+    "title": "The Estates Theatre - National Theatre",
+    "business_name": "",
+    "country": "CZE",
+    "seo_score": 72,
+    "tech_spend": 17628,
+    "crawled_at": "2026-02-14T14:55:13.675526077Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DatoCMS",
+      "Fireblade",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Next.js",
+      "Styled Components",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "silorealestate.com.au",
+    "title": "Silo Real Estate | Redefining Luxury Property in New Zealand | Silo Real Estate",
+    "business_name": "",
+    "country": "NZL",
+    "seo_score": 77,
+    "tech_spend": 18855,
+    "crawled_at": "2026-02-13T19:22:59.396335171Z",
+    "technologies": [
+      "Atollon",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Endis",
+      "Google Analytics",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "jdpropertygroup.com.au",
+    "title": "Home | JD Property Group",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 25686,
+    "crawled_at": "2026-02-13T19:01:09.94790689Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "DatoCMS",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Gatsby JS",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Idaq",
+      "Instagram Follow Button",
+      "KVH",
+      "Netlify",
+      "No-Q",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vimeo"
+    ]
+  },
+  {
     "domain": "reneerossbooks.com",
     "title": "Renee Ross Books",
     "business_name": "",
@@ -1333,31 +1438,6 @@
       "Perl",
       "Svelte",
       "UPS"
-    ]
-  },
-  {
-    "domain": "nationaltheater.cz",
-    "title": "National Theatre",
-    "business_name": "",
-    "country": "CZE",
-    "seo_score": 67,
-    "tech_spend": 17628,
-    "crawled_at": "2026-02-03T12:22:48.859939453Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DatoCMS",
-      "Fireblade",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Perl",
-      "Schema Plugin",
-      "Styled Components",
-      "UTF-8",
-      "Vercel",
-      "YouTube"
     ]
   },
   {
@@ -13965,80 +14045,6 @@
       "Netlify",
       "PWA",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "brandmark.cz",
-    "title": "We are Brandmark – Brandmark.",
-    "business_name": "",
-    "country": "CZE",
-    "seo_score": 72,
-    "tech_spend": 55128,
-    "crawled_at": "2025-11-23T14:57:19.466964231Z",
-    "technologies": [
-      "Angular",
-      "Content Delivery Network",
-      "DAV",
-      "DatoCMS",
-      "Federal Deposit Insurance Corporation",
-      "Idaq",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "SMC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "lynne-craig.com",
-    "title": "Computational Adornment- My Practice",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 17896,
-    "crawled_at": "2025-11-23T14:55:38.849674576Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "DatoCMS",
-      "Gatsby JS",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Netlify",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vimeo",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "prodigaldaughterproductions.com",
-    "title": "Prodigal Daughter Productions | Prodigal Daughter",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 5396,
-    "crawled_at": "2025-11-23T01:54:19.448997326Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "DatoCMS",
-      "Gatsby JS",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Idaq",
-      "Instagram Follow Button",
-      "Netlify",
-      "UTF-8",
-      "Vimeo",
-      "shadcn ui"
     ]
   }
 ]
