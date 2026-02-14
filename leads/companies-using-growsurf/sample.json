@@ -1247,40 +1247,5 @@
       "UTF-8",
       "jQuery"
     ]
-  },
-  {
-    "domain": "gravitisystems.co.za",
-    "title": "Graviti | Association Management System | Membership Management Software",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 160448,
-    "crawled_at": "2025-10-30T11:35:46.359752703Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "GrowSurf",
-      "IcoMoon",
-      "Microsoft Azure",
-      "Microsoft Azure Blob Storage",
-      "Microsoft Clarity",
-      "QUIC",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "UTF-8",
-      "Visual Studio",
-      "YouTube",
-      "jQuery"
-    ]
   }
 ]
