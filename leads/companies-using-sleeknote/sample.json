@@ -1,5 +1,38 @@
 [
   {
+    "domain": "ieee-icecs2025.org",
+    "title": "ieee-icecs2025 – ieee conference",
+    "business_name": "",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 5957,
+    "crawled_at": "2026-02-14T15:04:29.403750255Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Astra Theme",
+      "Contact Form Plugin",
+      "Elementor",
+      "EmbedPress",
+      "Essential Addons for Elementor",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "NFOrce Internet",
+      "PHP",
+      "QUIC",
+      "Sleeknote",
+      "Theme In WP",
+      "UTF-8",
+      "Ultimate Addons for Gutenberg",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Related Posts",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "duckys.com",
     "title": "Ducky's Office Furniture– Duckys Office Furniture",
     "business_name": "",
@@ -14123,39 +14156,6 @@
       "WordPress Multisite",
       "YouTube",
       "eLand",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "ieee-icecs2025.org",
-    "title": "ieee-icecs2025 – ieee conference",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 1198,
-    "crawled_at": "2025-10-30T20:18:06.01853679Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Astra Theme",
-      "Contact Form Plugin",
-      "Elementor",
-      "EmbedPress",
-      "Essential Addons for Elementor",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "Sleeknote",
-      "Theme In WP",
-      "UTF-8",
-      "Ultimate Addons for Gutenberg",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
       "jQuery"
     ]
   }
