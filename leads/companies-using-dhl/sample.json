@@ -1,5 +1,63 @@
 [
   {
+    "domain": "biotrendherbal.nl",
+    "title": "Trend Herbal",
+    "business_name": "Trend Herbal",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 507,
+    "crawled_at": "2026-02-14T21:56:17.087396469Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DHL Parcel",
+      "ElementUI",
+      "Express",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Klaviyo",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Shipping Rates Calculator",
+      "Shopify",
+      "Shopify Collabs",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "eLand",
+      "hCaptcha",
+      "jQuery",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "vesara-fashion.com",
+    "title": "Vesara Fashion",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 3,
+    "crawled_at": "2026-02-14T00:11:00.347759784Z",
+    "technologies": [
+      "Apache",
+      "DHL Parcel",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "PHP",
+      "QUIC",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "ultimatetraditionaldesigns.com",
     "title": "Ultimate Traditional Designs (UTD) – Buy Cameroon traditional dresses Toghu online | Cameroon traditional clothing for sale | African Wears | Cameroon Sculptures for sale",
     "business_name": "",
@@ -18067,59 +18125,6 @@
       "jsDelivr",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "requestandtransit.com",
-    "title": "Requestandtransit.com",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 45,
-    "tech_spend": 3688,
-    "crawled_at": "2025-11-04T19:56:38.884134691Z",
-    "technologies": [
-      "DHL Parcel",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GitHub Hosting",
-      "GoDaddy",
-      "GoDaddy Website Builder",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Line2",
-      "PWA",
-      "PayPal Adaptive Payments",
-      "PayPal Button",
-      "PayPal Form",
-      "Simply Hired",
-      "UTF-8",
-      "Vimeo",
-      "Vimeo CDN",
-      "Wangsu",
-      "Website Tonight",
-      "Yelp Badge"
-    ]
-  },
-  {
-    "domain": "dev-dhl-webport.com",
-    "title": "Webport",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 60,
-    "crawled_at": "2025-11-04T18:08:38.934874084Z",
-    "technologies": [
-      "DHL Parcel",
-      "Microsoft Azure",
-      "UTF-8",
-      "Visual Studio"
     ]
   }
 ]
