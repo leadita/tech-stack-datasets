@@ -1,5 +1,25 @@
 [
   {
+    "domain": "grueneeggs.com",
+    "title": "This website or DOMAIN NAME may be for sale.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 57,
+    "tech_spend": 30795,
+    "crawled_at": "2026-02-13T21:42:46.671183323Z",
+    "technologies": [
+      "Camp",
+      "Cart.com",
+      "Dynadot",
+      "Fast",
+      "Font Awesome",
+      "GZIP Module",
+      "Google My Business",
+      "PointDNS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "xtreme-methven.co.nz",
     "title": "X-M CrossFit",
     "business_name": "",
@@ -134,26 +154,6 @@
       "Google Analytics",
       "Google Tag Manager",
       "Instagram Follow Button",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "www.atxcamper.com",
-    "title": "This website or DOMAIN NAME may be for sale.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 57,
-    "tech_spend": 30795,
-    "crawled_at": "2026-02-05T08:16:24.817280145Z",
-    "technologies": [
-      "Camp",
-      "Cart.com",
-      "Dynadot",
-      "Fast",
-      "Font Awesome",
-      "GZIP Module",
-      "Google My Business",
-      "PointDNS",
       "UTF-8"
     ]
   },
