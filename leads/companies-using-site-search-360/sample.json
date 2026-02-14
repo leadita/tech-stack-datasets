@@ -1,5 +1,35 @@
 [
   {
+    "domain": "christianrecord.org",
+    "title": "\"Christian Record Services, Inc. - Empowering the Blind and Visually Impaired\"",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 23258,
+    "crawled_at": "2026-02-14T00:34:57.107318122Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "Baidu Cloud",
+      "Charity Navigator",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "NFOrce Internet",
+      "Python",
+      "QUIC",
+      "Site Search 360",
+      "Twitter Ads",
+      "UTF-8",
+      "Yandex Hosting",
+      "YouTube",
+      "accessiBe"
+    ]
+  },
+  {
     "domain": "printers3.net",
     "title": "Quality Commercial Printing | NYC Fast Print | Printers3",
     "business_name": "",
@@ -15652,32 +15682,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "missoulaeduplace.org",
-    "title": "Home : Missoula County Department of Ecology and Extension",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 27268,
-    "crawled_at": "2025-11-11T18:41:38.971859367Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "Baidu Cloud",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Prospective",
-      "Python",
-      "QUIC",
-      "Site Search 360",
-      "UTF-8",
-      "Yandex Hosting"
     ]
   }
 ]
