@@ -1,5 +1,27 @@
 [
   {
+    "domain": "rbowflowers.com",
+    "title": "Home - Rainbow in the Dark",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 269,
+    "crawled_at": "2026-02-14T12:09:16.46018129Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "GZIP Module",
+      "GoatCounter",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Publii",
+      "Square",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "uxvworks.com",
     "title": "UXVworks",
     "business_name": "UXVworks",
@@ -7266,44 +7288,6 @@
       "Publii",
       "Python",
       "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "rbowflowers.com",
-    "title": "Home - Rainbow in the Dark",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 269,
-    "crawled_at": "2025-10-30T19:38:12.949908824Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "GZIP Module",
-      "GoatCounter",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Publii",
-      "Square",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "offsysrev.info",
-    "title": "OffSysRev",
-    "business_name": "OffSysRev",
-    "country": "GBR",
-    "seo_score": 60,
-    "tech_spend": 49,
-    "crawled_at": "2025-10-30T10:28:07.526004328Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Microdata for Google Shopping",
-      "Publii",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   }
