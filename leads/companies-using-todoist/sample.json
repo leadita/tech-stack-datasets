@@ -1928,30 +1928,5 @@
       "jsDelivr",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "davidfishlock.com",
-    "title": "David Fishlock - Software Developer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 3180,
-    "crawled_at": "2025-10-30T15:02:21.016816042Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "Tailwind CSS",
-      "Todoist",
-      "UTF-8",
-      "Vercel"
-    ]
   }
 ]
