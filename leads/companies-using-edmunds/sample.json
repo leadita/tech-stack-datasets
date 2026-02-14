@@ -5743,48 +5743,5 @@
       "dc.js",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "timdahlebountiful.com",
-    "title": "Home | Tim Dahle Nissan Bountiful in North Salt Lake, Utah",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 52717,
-    "crawled_at": "2025-10-30T15:44:15.092210124Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Coming Soon Page",
-      "ComplyAuto",
-      "ConvertFlow",
-      "DAV",
-      "Dealer.com",
-      "DealerCenter",
-      "DealerInspire",
-      "DriveCentric",
-      "Edmunds",
-      "ElementUI",
-      "Elfsight",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Motive",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Share Link",
-      "Sitelinks Search Box",
-      "UTF-8",
-      "University or College",
-      "accessiBe"
-    ]
   }
 ]
