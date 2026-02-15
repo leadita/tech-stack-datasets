@@ -1,5 +1,43 @@
 [
   {
+    "domain": "cmnavigatorstaging.com",
+    "title": "CM Navigator - Global Commodity Trade Insights",
+    "business_name": "",
+    "country": "MCO",
+    "seo_score": 82,
+    "tech_spend": 23692,
+    "crawled_at": "2026-02-15T06:32:52.318038022Z",
+    "technologies": [
+      "Auth0",
+      "Contentful",
+      "DoubleClick Bid Manager",
+      "Facebook Reseller",
+      "Fastly CDN",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "LinkedIn Pixel",
+      "Microsoft 365",
+      "Microsoft Azure Blob Storage",
+      "Microsoft Teams",
+      "Next.js",
+      "Ntent",
+      "Pleroma",
+      "Power BI",
+      "QUIC",
+      "Radix UI",
+      "Segment",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "Twitter Analytics",
+      "UTF-8",
+      "Unsplash",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "jondarrer.me.uk",
     "title": "Home - jondarrer.com",
     "business_name": "",
@@ -23443,23 +23481,6 @@
       "Vercel",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "yrgobanken.vip",
-    "title": "Tivoli API Guide",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": "",
-    "crawled_at": "2025-11-01T00:08:56.114449487Z",
-    "technologies": [
-      "Auth0",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
