@@ -1,5 +1,58 @@
 [
   {
+    "domain": "alumniphm.com",
+    "title": "Home | Campus Alumni",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 11319,
+    "crawled_at": "2026-02-15T13:10:57.16717916Z",
+    "technologies": [
+      "App Store",
+      "Content Delivery Network",
+      "Fastly",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Moodle",
+      "NFOrce Internet",
+      "Nginx",
+      "PHP",
+      "Totara",
+      "Twitter Ads",
+      "UTF-8",
+      "Vimeo",
+      "WhatsApp Sharing",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "einsteinplus.it",
+    "title": "Piattaforma e-learning - Liceo A. Einstein Torino",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 67,
+    "tech_spend": 32600,
+    "crawled_at": "2026-02-14T21:56:17.166941345Z",
+    "technologies": [
+      "Azion",
+      "Fastly",
+      "LiteSpeed",
+      "Moodle",
+      "NFOrce Internet",
+      "PHP",
+      "QUIC",
+      "Totara",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "lw-moodle.cl",
     "title": "Home | lw-moodle",
     "business_name": "",
@@ -138,36 +191,6 @@
       "Tailwind CSS",
       "Totara",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "campusproxima.org",
-    "title": "CAMPUS PRÓXIMA",
-    "business_name": "",
-    "country": "ESP",
-    "seo_score": 60,
-    "tech_spend": 11319,
-    "crawled_at": "2026-01-26T21:40:03.949400991Z",
-    "technologies": [
-      "App Store",
-      "Content Delivery Network",
-      "Fastly",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Moodle",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "Totara",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "WordPress",
-      "jsDelivr"
     ]
   },
   {
@@ -1283,59 +1306,6 @@
       "YouTube",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "alumniphm.com",
-    "title": "Home | Campus Alumni",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 11319,
-    "crawled_at": "2025-10-31T06:21:27.324595263Z",
-    "technologies": [
-      "App Store",
-      "Content Delivery Network",
-      "Fastly",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Moodle",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "Totara",
-      "Twitter Ads",
-      "UTF-8",
-      "Vimeo",
-      "WhatsApp Sharing",
-      "YouTube",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "einsteinplus.it",
-    "title": "Piattaforma e-learning - Liceo A. Einstein Torino",
-    "business_name": "",
-    "country": "ITA",
-    "seo_score": 62,
-    "tech_spend": 32600,
-    "crawled_at": "2025-10-30T22:30:38.779942587Z",
-    "technologies": [
-      "Azion",
-      "Fastly",
-      "Moodle",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "QUIC",
-      "Totara",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]

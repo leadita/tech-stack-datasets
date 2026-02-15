@@ -18517,44 +18517,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "oph.art",
-    "title": "The Oil Painting Hub | Better Knowledge for Greater Creativity",
-    "business_name": "The Oil Painting Hub",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 5300,
-    "crawled_at": "2025-10-30T21:54:51.965570724Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Alternate Protocol",
-      "Brevo",
-      "CleanTalk Spam Protect",
-      "EmbedPress",
-      "Fastly",
-      "GZIP Module",
-      "GenerateBlocks",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LifterLMS",
-      "MailOptin for Wordpress",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "Perl",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WooCommerce Stripe Payment Gateway",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
