@@ -9174,47 +9174,5 @@
       "University or College",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "voteraspace.com",
-    "title": "VoteraSpace || Vote Right",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 240,
-    "crawled_at": "2025-10-31T05:17:24.967801713Z",
-    "technologies": [
-      "Amazon S3 CDN",
-      "Cloudflare",
-      "Django",
-      "Google Related Website Sites",
-      "LiteSpeed",
-      "Pleroma",
-      "Storyblocks",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "rfraserconsulting.com",
-    "title": "R. Fraser Consulting Services - Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 16068,
-    "crawled_at": "2025-10-31T04:56:31.536213398Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Perl",
-      "QUIC",
-      "Square",
-      "University or College",
-      "YouTube"
-    ]
   }
 ]
