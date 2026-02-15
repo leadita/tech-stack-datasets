@@ -1,5 +1,33 @@
 [
   {
+    "domain": "4web-dev.com",
+    "title": "4web-dev - Where unimaginable becomes real",
+    "business_name": "",
+    "country": "LVA",
+    "seo_score": 82,
+    "tech_spend": 53090,
+    "crawled_at": "2026-02-14T10:47:28.631462271Z",
+    "technologies": [
+      "Apache",
+      "CDN JS",
+      "Camp",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Dynamic Yield",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "PHP",
+      "Python",
+      "Thank You",
+      "Twitter Ads",
+      "University or College",
+      "YouTube",
+      "symfony PHP Framework"
+    ]
+  },
+  {
     "domain": "allisonglobalmerchandise.com",
     "title": "Allison Transmission Global Landing",
     "business_name": "",
@@ -5630,34 +5658,6 @@
       "Vector Internet Services",
       "Vercel",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "4web-dev.com",
-    "title": "4web-dev - Where unimaginable becomes real",
-    "business_name": "",
-    "country": "LVA",
-    "seo_score": 77,
-    "tech_spend": 53090,
-    "crawled_at": "2025-10-30T19:19:27.682296939Z",
-    "technologies": [
-      "Apache",
-      "CDN JS",
-      "Camp",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Dynamic Yield",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "PHP",
-      "Python",
-      "Thank You",
-      "Twitter Ads",
-      "University or College",
-      "YouTube",
-      "symfony PHP Framework"
     ]
   }
 ]
