@@ -1,5 +1,30 @@
 [
   {
+    "domain": "businessmarketing-solutions.com",
+    "title": "HOME",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 1777,
+    "crawled_at": "2026-02-15T04:04:52.826412674Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Better Lead Generation Services",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "LandBot",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "Vector Internet Services",
+      "Zyro"
+    ]
+  },
+  {
     "domain": "highdesertphysicaltherapy.com",
     "title": "Physical Therapy Chubbuck ID - High Desert Osteopractic PT",
     "business_name": "High Desert Osteopractic Physical Therapy",
@@ -15097,31 +15122,6 @@
       "UTF-8",
       "WordPress",
       "WordPress Multisite"
-    ]
-  },
-  {
-    "domain": "businessmarketing-solutions.com",
-    "title": "HOME",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 1777,
-    "crawled_at": "2025-10-31T01:20:46.528723742Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Better Lead Generation Services",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "LandBot",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "Vector Internet Services",
-      "Zyro"
     ]
   }
 ]
