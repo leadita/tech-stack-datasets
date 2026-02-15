@@ -1,5 +1,61 @@
 [
   {
+    "domain": "dwellstudent.co.uk",
+    "title": "Student Accommodation in United Kingdom | Dwell Student Living",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 72,
+    "tech_spend": 18474,
+    "crawled_at": "2026-02-15T07:38:29.195363222Z",
+    "technologies": [
+      "Alternate Protocol",
+      "App Store",
+      "Content Delivery Network",
+      "Fireblade",
+      "Google My Business",
+      "Google Play",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Unsplash",
+      "Vercel",
+      "Walls.io",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "shift.supply",
+    "title": "Shift UI: Figma design system and UI Kit for Shopify — Shift Supply",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 5408,
+    "crawled_at": "2026-02-15T01:01:55.509395097Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Lemon Squeezy",
+      "Netlify",
+      "Perl",
+      "Pinterest Conversion Tracking",
+      "Prismic",
+      "QUIC",
+      "Svelte",
+      "Tailwind CSS",
+      "Vector Internet Services",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "greatstate.co.uk",
     "title": "Hello. We're Great State. We build digital experiences for the next generation. | Hello. We're Great State. We build digital experiences for the next generation.",
     "business_name": "",
@@ -13488,46 +13544,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vector Internet Services",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "lancedraws.com",
-    "title": "Lance",
-    "business_name": "",
-    "country": "",
-    "seo_score": 27,
-    "tech_spend": 1000,
-    "crawled_at": "2025-11-14T15:59:04.985920289Z",
-    "technologies": [
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "Prismic",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "longevityicon.com",
-    "title": "Home • Longevity Icon",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 15420,
-    "crawled_at": "2025-11-14T15:50:05.021195456Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Headless UI",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "Prismic",
-      "UTF-8",
       "Vercel",
       "shadcn ui"
     ]

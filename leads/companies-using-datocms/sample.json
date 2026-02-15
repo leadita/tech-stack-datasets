@@ -1,5 +1,28 @@
 [
   {
+    "domain": "ridgeprojects.com.au",
+    "title": "Ridge Projects | Forever Breaking New GroundRIDGE",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 72,
+    "tech_spend": 5167,
+    "crawled_at": "2026-02-14T18:24:00.012463652Z",
+    "technologies": [
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Idaq",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "tranzac.org",
     "title": "Tranzac - Tranzac",
     "business_name": "",
@@ -14024,27 +14047,6 @@
       "Tailwind CSS",
       "UTF-8",
       "WhatsApp Sharing"
-    ]
-  },
-  {
-    "domain": "echo.delivery",
-    "title": "Echo Tech Delivery - Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 22616,
-    "crawled_at": "2025-11-23T18:06:19.45521301Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DatoCMS",
-      "Financial Services Guide",
-      "Gatsby JS",
-      "Google Analytics",
-      "Google Tag Manager",
-      "KVH",
-      "Netlify",
-      "PWA",
-      "UTF-8"
     ]
   }
 ]
