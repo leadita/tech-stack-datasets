@@ -1,6 +1,6 @@
 # Companies Using MyFonts (Live Dataset 2026)
 
-This folder contains an active list of 2,832 companies using **MyFonts**. 
+This folder contains an active list of 2,831 companies using **MyFonts**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 2,832
+- **Total Leads:** 2,831
 - **Verified:** Yes
-- **Last Updated:** 2026-02-14 23:15 UTC
+- **Last Updated:** 2026-02-15 23:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **2,832+** companies using MyFonts.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **2,831+** companies using MyFonts.
 
 [**⚡ Unlock the Full MyFonts List with Contact Details**](https://leadita.com/leads/companies-using-myfonts)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-14 23:15 UTC*
+*Last updated: 2026-02-15 23:15 UTC*
 *Data source: Leadita Technographic Intelligence*

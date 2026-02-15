@@ -1,5 +1,75 @@
 [
   {
+    "domain": "maker.cz",
+    "title": "maker",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 3,
+    "crawled_at": "2026-02-15T15:54:42.457002786Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Fontshare",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Nginx",
+      "Nuxt.js",
+      "Tailwind CSS",
+      "UTF-8",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "healinghabitats.com.au",
+    "title": "Healing Habitats | Garden restoration; creating a place to grow.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 15267,
+    "crawled_at": "2026-02-15T13:00:45.191804857Z",
+    "technologies": [
+      "Astro",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Endis",
+      "Fontshare",
+      "InitiativeS",
+      "Netlify",
+      "PWA",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "impresspack.co",
+    "title": "Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 13336,
+    "crawled_at": "2026-02-15T07:38:29.186905167Z",
+    "technologies": [
+      "Cloudflare",
+      "Content Delivery Network",
+      "Fastly",
+      "Fontshare",
+      "FormSubmit",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Hubspot Knowledge Base",
+      "Microsoft Clarity",
+      "QUIC",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "technobbotai.com",
     "title": "Mobile App Development Company",
     "business_name": "",
@@ -13570,85 +13640,6 @@
       "eLand",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "synctechx.com",
-    "title": "SyncTechX",
-    "business_name": "",
-    "country": "MOZ",
-    "seo_score": 67,
-    "tech_spend": 15240,
-    "crawled_at": "2025-12-14T06:31:56.054664129Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Fontshare",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "socashores.com",
-    "title": "Soca Shores | Premium Caribbean Boxed Water – Plastic-Free",
-    "business_name": "Soca Shores",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 36816,
-    "crawled_at": "2025-12-14T05:40:56.022892846Z",
-    "technologies": [
-      "AdRoll",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fontshare",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "InitiativeS",
-      "Instagram API",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "The Fresh",
-      "UTF-8",
-      "University or College",
-      "YouTube",
-      "hCaptcha",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "gyeyangopen.kr",
-    "title": "2025 GYEYANG OPEN",
-    "business_name": "",
-    "country": "PRK",
-    "seo_score": 67,
-    "tech_spend": 20240,
-    "crawled_at": "2025-12-14T04:55:56.017667915Z",
-    "technologies": [
-      "Book Direct",
-      "Content Delivery Network",
-      "Fontshare",
-      "Google Forms",
-      "Google My Business",
-      "Headless UI",
-      "Instagram Follow Button",
-      "M247",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]
