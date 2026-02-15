@@ -1,5 +1,34 @@
 [
   {
+    "domain": "valenciaharborftmyersfl.com",
+    "title": "Valencia Harbor - Southwest Florida",
+    "business_name": "",
+    "country": "ESP",
+    "seo_score": 77,
+    "tech_spend": 25771,
+    "crawled_at": "2026-02-15T17:26:34.098420568Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Fireblade",
+      "Follow Up Boss",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Harbor",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "OSS CDN",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Visual Studio",
+      "WPForms",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "thomasdruckrealtor.com",
     "title": "Thomas Druck PA – Thomas Druck, Your Trusted Miami Realtor",
     "business_name": "",
@@ -395,31 +424,6 @@
       "UTF-8",
       "UserWay",
       "WordPress"
-    ]
-  },
-  {
-    "domain": "pelicanmarshhomes.com",
-    "title": "Pelican Marsh - Southwest Florida",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 13831,
-    "crawled_at": "2026-02-01T07:49:48.861201384Z",
-    "technologies": [
-      "Follow Up Boss",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Homes.com CMS",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "OSS CDN",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "WPForms",
-      "YouTube",
-      "jQuery"
     ]
   },
   {
