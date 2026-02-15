@@ -1,6 +1,6 @@
 # Companies Using Amazon (Live Dataset 2026)
 
-This folder contains an active list of 1,884,764 companies using **Amazon**. 
+This folder contains an active list of 1,883,881 companies using **Amazon**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 1,884,764
+- **Total Leads:** 1,883,881
 - **Verified:** Yes
-- **Last Updated:** 2026-02-14 13:15 UTC
+- **Last Updated:** 2026-02-15 13:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,884,764+** companies using Amazon.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,883,881+** companies using Amazon.
 
 [**⚡ Unlock the Full Amazon List with Contact Details**](https://leadita.com/leads/companies-using-amazon)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-14 13:15 UTC*
+*Last updated: 2026-02-15 13:15 UTC*
 *Data source: Leadita Technographic Intelligence*

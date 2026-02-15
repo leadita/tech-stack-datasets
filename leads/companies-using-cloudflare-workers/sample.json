@@ -1,5 +1,32 @@
 [
   {
+    "domain": "jrallen.me",
+    "title": "James Allen – Senior Software Engineer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 30540,
+    "crawled_at": "2026-02-14T21:08:28.127622805Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Express",
+      "Fireblade",
+      "GitHub Hosting",
+      "InitiativeS",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "eLand"
+    ]
+  },
+  {
     "domain": "dadstechlab.com",
     "title": "Dad's Tech Lab - Smart Home, Technology, and Software Development Blog",
     "business_name": "",
@@ -14526,31 +14553,6 @@
       "GitHub Hosting",
       "Tailwind CSS",
       "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "jayvaliya.me",
-    "title": "Jay Valiya | Portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 579,
-    "crawled_at": "2025-11-01T08:11:39.039966744Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare Workers",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Google My Business",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
       "shadcn ui"
     ]
   }
