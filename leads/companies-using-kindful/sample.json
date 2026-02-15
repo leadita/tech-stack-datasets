@@ -1,5 +1,29 @@
 [
   {
+    "domain": "ladycancers.org",
+    "title": "Home - LadyCancers.org",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 1464,
+    "crawled_at": "2026-02-14T20:25:53.854182271Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Kindful",
+      "Nginx",
+      "PHP",
+      "Parallels Plesk Panel",
+      "UTF-8",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "theproductionfarm.us",
     "title": "The Production Farm",
     "business_name": "",
@@ -18625,51 +18649,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "farawayfriendsglobal.com",
-    "title": "Far Away Friends | Transforming Education in Rural Uganda",
-    "business_name": "Far Away Friends",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 99996,
-    "crawled_at": "2025-11-22T22:30:19.438128514Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "FormSubmit",
-      "GZIP Module",
-      "Givelively",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "Kindful",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "Pico CSS",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "eLand"
     ]
   }
 ]
