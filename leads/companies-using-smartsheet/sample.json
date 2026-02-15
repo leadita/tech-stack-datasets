@@ -15427,40 +15427,5 @@
       "Visual Studio",
       "YouTube"
     ]
-  },
-  {
-    "domain": "whiteglovehomeimprovements.com",
-    "title": "Kitchens | Bathrooms | Remodeling | New Construction - St. George",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 533,
-    "crawled_at": "2025-10-31T02:24:59.534658879Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "AutoComplete",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gutenberg",
-      "Jupiter",
-      "LayerSlider Responsive",
-      "PHP",
-      "Pleroma",
-      "QUIC",
-      "Slider Revolution",
-      "Smartsheet",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "WPBakery",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
