@@ -1,6 +1,6 @@
 # Companies Using MindBody (Live Dataset 2026)
 
-This folder contains an active list of 3,414 companies using **MindBody**. 
+This folder contains an active list of 3,411 companies using **MindBody**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 3,414
+- **Total Leads:** 3,411
 - **Verified:** Yes
-- **Last Updated:** 2026-02-14 12:45 UTC
+- **Last Updated:** 2026-02-15 12:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **3,414+** companies using MindBody.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **3,411+** companies using MindBody.
 
 [**⚡ Unlock the Full MindBody List with Contact Details**](https://leadita.com/leads/companies-using-mindbody)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-14 12:45 UTC*
+*Last updated: 2026-02-15 12:45 UTC*
 *Data source: Leadita Technographic Intelligence*
