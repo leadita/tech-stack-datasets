@@ -1,5 +1,22 @@
 [
   {
+    "domain": "tinyfoxlabs.com",
+    "title": "Home | TinyFox Labs",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-02-15T22:02:03.337168017Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Perl",
+      "monday.com"
+    ]
+  },
+  {
     "domain": "mohamedadil.com",
     "title": "Mohamed Adil Blog | Mohamed Adil Blog",
     "business_name": "",
@@ -12555,29 +12572,6 @@
       "Docusaurus",
       "GitHub Hosting",
       "Perl"
-    ]
-  },
-  {
-    "domain": "jonghyun.me",
-    "title": "Intro of Jonghyun Kim",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 7700,
-    "crawled_at": "2025-11-01T01:40:34.387981251Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fireblade",
-      "GitHub Hosting",
-      "Next.js",
-      "Nginx",
-      "Pleroma",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]

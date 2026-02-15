@@ -1,5 +1,45 @@
 [
   {
+    "domain": "wento.eu",
+    "title": "Wento - new energy",
+    "business_name": "",
+    "country": "POL",
+    "seo_score": 62,
+    "tech_spend": 16200,
+    "crawled_at": "2026-02-15T19:02:23.496899557Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Fireblade",
+      "Google My Business",
+      "Gridsome",
+      "WordPress",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "longjourney.digital",
+    "title": "Home - Long Journey Digital",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 80,
+    "tech_spend": 52649,
+    "crawled_at": "2026-02-14T23:13:04.307138395Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "Financial Services Guide",
+      "Formspree",
+      "Gridsome",
+      "Hexo",
+      "Instagram Follow Button",
+      "SMC",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "madbit.co",
     "title": "Product Design Consultancy • MADBIT Co.",
     "business_name": "",
@@ -11879,56 +11919,6 @@
       "Subversion",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "subandhu.tech",
-    "title": "Home | Subandhu.tech",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": "",
-    "crawled_at": "2025-11-03T17:53:38.899728949Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Google My Business",
-      "Gridsome",
-      "Python",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "maxpaul.us",
-    "title": "Paulus Palace",
-    "business_name": "",
-    "country": "VEN",
-    "seo_score": 72,
-    "tech_spend": 8888,
-    "crawled_at": "2025-11-03T12:53:24.07385852Z",
-    "technologies": [
-      "CDN JS",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Gridsome",
-      "Netlify",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Visual Studio"
     ]
   }
 ]
