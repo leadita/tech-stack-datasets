@@ -1,5 +1,25 @@
 [
   {
+    "domain": "ascending.ai",
+    "title": "Ascending AI",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 9636,
+    "crawled_at": "2026-02-15T17:18:06.999179604Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Framer Sites",
+      "Google",
+      "Google Cloud CDN",
+      "KVH",
+      "Ntent",
+      "Recruitee",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
     "domain": "cellex-transports.me",
     "title": "Cellex: Full-Service CDMO for Cell and Gene Therapy",
     "business_name": "",
@@ -8454,26 +8474,6 @@
       "jsDelivr",
       "reCAPTCHA",
       "route"
-    ]
-  },
-  {
-    "domain": "ascending.ai",
-    "title": "Ascending AI",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 9636,
-    "crawled_at": "2025-10-31T08:21:28.490855606Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Framer Sites",
-      "Google",
-      "Google Cloud CDN",
-      "KVH",
-      "Ntent",
-      "Recruitee",
-      "Yandex Hosting",
-      "Zeald"
     ]
   }
 ]

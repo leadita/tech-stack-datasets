@@ -1,5 +1,26 @@
 [
   {
+    "domain": "m10.xyz",
+    "title": "M10™ // Next-gen Video Game Company",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 80292,
+    "crawled_at": "2026-02-14T20:50:03.094494507Z",
+    "technologies": [
+      "1Password",
+      "Alternate Protocol",
+      "Framer Sites",
+      "KVH",
+      "Lever",
+      "Ntent",
+      "SMC",
+      "Subversion",
+      "Twitter Ads",
+      "Zeald"
+    ]
+  },
+  {
     "domain": "real-world1.ch",
     "title": "realworld one - Extended Reality (XR) Solutions for the Life Sciences Community",
     "business_name": "",
@@ -8939,27 +8960,6 @@
       "Telegram",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "m10.xyz",
-    "title": "M10™ // Next-gen Video Game Company",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 80292,
-    "crawled_at": "2025-10-30T22:01:27.703436977Z",
-    "technologies": [
-      "1Password",
-      "Alternate Protocol",
-      "Framer Sites",
-      "KVH",
-      "Lever",
-      "Ntent",
-      "SMC",
-      "Subversion",
-      "Twitter Ads",
-      "Zeald"
     ]
   }
 ]
