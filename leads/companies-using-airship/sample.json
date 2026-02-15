@@ -1,12 +1,12 @@
 [
   {
-    "domain": "benefitairshiphealthcare.com",
+    "domain": "benefit-as.biz",
     "title": "Benefit Airship Affordable Health & Wellness Plans Nationwide",
     "business_name": "Benefit Airship",
     "country": "",
     "seo_score": 67,
     "tech_spend": 111336,
-    "crawled_at": "2026-02-12T07:09:52.781743474Z",
+    "crawled_at": "2026-02-15T09:46:42.359238503Z",
     "technologies": [
       "AWS WAF Challenge",
       "Airship CRM",
@@ -37,6 +37,44 @@
       "University or College",
       "hCaptcha",
       "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "aerialbrandimage.com",
+    "title": "%%sitename%%",
+    "business_name": "",
+    "country": "SYC",
+    "seo_score": 72,
+    "tech_spend": 95108,
+    "crawled_at": "2026-02-15T04:20:24.257504869Z",
+    "technologies": [
+      "Airship CRM",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Contact Form Plugin",
+      "Content Delivery Network",
+      "EmbedPress",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "PHP",
+      "Replyco",
+      "Slider Revolution",
+      "Telegram",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "WPBakery",
+      "Wangsu",
+      "Woo Themes",
+      "WooCommerce",
+      "WooCommerce Checkout",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "ePly"
     ]
   },
   {
@@ -809,44 +847,6 @@
       "UTF-8",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "aerialbrandimage.com",
-    "title": "%%sitename%%",
-    "business_name": "",
-    "country": "SYC",
-    "seo_score": 77,
-    "tech_spend": 95108,
-    "crawled_at": "2025-10-31T01:32:39.350376488Z",
-    "technologies": [
-      "Airship CRM",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "EmbedPress",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "PHP",
-      "Replyco",
-      "Slider Revolution",
-      "Telegram",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WPBakery",
-      "Wangsu",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "ePly"
     ]
   }
 ]
