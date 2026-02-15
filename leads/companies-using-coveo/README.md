@@ -1,6 +1,6 @@
 # Companies Using Coveo (Live Dataset 2026)
 
-This folder contains an active list of 206 companies using **Coveo**. 
+This folder contains an active list of 205 companies using **Coveo**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 206
+- **Total Leads:** 205
 - **Verified:** Yes
-- **Last Updated:** 2026-02-14 22:00 UTC
+- **Last Updated:** 2026-02-15 22:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **206+** companies using Coveo.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **205+** companies using Coveo.
 
 [**⚡ Unlock the Full Coveo List with Contact Details**](https://leadita.com/leads/companies-using-coveo)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-14 22:00 UTC*
+*Last updated: 2026-02-15 22:00 UTC*
 *Data source: Leadita Technographic Intelligence*
