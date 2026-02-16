@@ -1,5 +1,62 @@
 [
   {
+    "domain": "fourcornerhomeinspection.com",
+    "title": "7 days a week, 9am-9pm 608-347-3819 – Home Inspections and Radon Testing In Madison and Surrounding Communities",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 51847,
+    "crawled_at": "2026-02-16T05:37:16.402856907Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Automattic",
+      "Content Delivery Network",
+      "DAV",
+      "EmbedPress",
+      "FormSubmit",
+      "Google Related Website Sites",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Perl",
+      "SMC",
+      "Schema Plugin",
+      "Setmore",
+      "Share Link",
+      "Tagembed",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats"
+    ]
+  },
+  {
+    "domain": "sharleneburris.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 584,
+    "crawled_at": "2026-02-15T14:58:51.465036256Z",
+    "technologies": [
+      "Apache",
+      "Aruba",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Instagram Follow Button",
+      "Perl",
+      "QUIC",
+      "Setmore",
+      "Tagembed",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "themindfulpalace.com",
     "title": "Counselling Centre Bangi | The Mindful Palace",
     "business_name": "The Mindful Palace",
@@ -974,39 +1031,6 @@
       "UTF-8",
       "University or College",
       "eLand"
-    ]
-  },
-  {
-    "domain": "fourcornershomeinspection.com",
-    "title": "7 days a week, 9am-9pm 608-347-3819 – Home Inspections and Radon Testing In Madison and Surrounding Communities",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 51847,
-    "crawled_at": "2026-02-01T23:25:48.879609082Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Automattic",
-      "Content Delivery Network",
-      "EmbedPress",
-      "FormSubmit",
-      "Google Related Website Sites",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Perl",
-      "SMC",
-      "Schema Plugin",
-      "Setmore",
-      "Share Link",
-      "Tagembed",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats"
     ]
   },
   {
@@ -17374,30 +17398,6 @@
       "YouTube",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "careyhomeinspection.com",
-    "title": "Carey Home Inspection serving Albany, Schenectady, Troy, and Massachusetts",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 72,
-    "tech_spend": 18504,
-    "crawled_at": "2025-11-01T04:41:38.884198643Z",
-    "technologies": [
-      "GoDaddy",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Setmore",
-      "Tagembed",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight",
-      "Yelp Badge"
     ]
   }
 ]
