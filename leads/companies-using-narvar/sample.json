@@ -1,5 +1,31 @@
 [
   {
+    "domain": "joskippermandesign.com",
+    "title": "JOS KIPPERMAN DESIGNCalifornia Interior Designer - Jos Kipperman Design",
+    "business_name": "Jos Kipperman Design",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 61213,
+    "crawled_at": "2026-02-16T14:06:42.537149878Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Airbnb",
+      "Alternate Protocol",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Narvar",
+      "QUIC",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "bitahonarvar.photos",
     "title": "BITA HONARVAR | Photographer • Visuals Editor",
     "business_name": "",
@@ -1377,32 +1403,6 @@
       "YouTube",
       "Zendesk Embeddables",
       "Zonos"
-    ]
-  },
-  {
-    "domain": "joskippermandesign.com",
-    "title": "JOS KIPPERMAN DESIGNCalifornia Interior Designer - Jos Kipperman Design",
-    "business_name": "Jos Kipperman Design",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 61213,
-    "crawled_at": "2025-10-31T12:32:38.982495863Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Airbnb",
-      "Alternate Protocol",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Narvar",
-      "QUIC",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
