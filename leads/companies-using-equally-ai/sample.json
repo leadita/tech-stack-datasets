@@ -1,12 +1,37 @@
 [
   {
-    "domain": "teamsocialistics.com",
+    "domain": "aldinisitalianrestaurant.com",
+    "title": "Italian Restaurant | Aldinis | Monroe",
+    "business_name": "Aldini's Restaurant",
+    "country": "EGY",
+    "seo_score": 82,
+    "tech_spend": 28011,
+    "crawled_at": "2026-02-15T20:22:40.651242339Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "Equally AI",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "K2F",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "thesocialistics.com",
     "title": "Social Media Marketing Agency, Social Marketing Firm I Socialistics",
     "business_name": "Socialistics",
     "country": "",
     "seo_score": 77,
     "tech_spend": 40717,
-    "crawled_at": "2026-02-15T05:17:53.97707338Z",
+    "crawled_at": "2026-02-15T19:25:37.245281315Z",
     "technologies": [
       "AJAX Libraries API",
       "AWS WAF Challenge",
@@ -7352,47 +7377,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "maple-tech.com",
-    "title": "MapleTech: Core P&C Insurance Processing with Aspire - Powering P&C Insurance",
-    "business_name": "MapleTech",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 18390,
-    "crawled_at": "2025-10-31T06:43:54.449372993Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Anti-spam for WordPress",
-      "Apache",
-      "CheryFramework",
-      "CleanTalk Spam Protect",
-      "Column Shortcodes",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "Equally AI",
-      "Fireblade",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Kriesi.at",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Sitelinks Search Box",
-      "The SEO Framework",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
