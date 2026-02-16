@@ -1,5 +1,27 @@
 [
   {
+    "domain": "keyseismic.com",
+    "title": "Key Seismic",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 68120,
+    "crawled_at": "2026-02-16T09:49:30.246854759Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Fastly",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "K2F",
+      "Seismic",
+      "Svelte",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "southamericanseismic.com",
     "title": "South American Seismic - Who we are",
     "business_name": "",
@@ -2150,27 +2172,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "keyseismic.com",
-    "title": "Key Seismic",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 57,
-    "tech_spend": 17600,
-    "crawled_at": "2025-10-31T11:44:38.950948467Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Fastly",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "K2F",
-      "Seismic",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
