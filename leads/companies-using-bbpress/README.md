@@ -1,6 +1,6 @@
 # Companies Using bbPress (Live Dataset 2026)
 
-This folder contains an active list of 8,965 companies using **bbPress**. 
+This folder contains an active list of 8,954 companies using **bbPress**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 8,965
+- **Total Leads:** 8,954
 - **Verified:** Yes
-- **Last Updated:** 2026-02-15 18:00 UTC
+- **Last Updated:** 2026-02-16 18:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **8,965+** companies using bbPress.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **8,954+** companies using bbPress.
 
 [**⚡ Unlock the Full bbPress List with Contact Details**](https://leadita.com/leads/companies-using-bbpress)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-15 18:00 UTC*
+*Last updated: 2026-02-16 18:00 UTC*
 *Data source: Leadita Technographic Intelligence*
