@@ -1,5 +1,30 @@
 [
   {
+    "domain": "diamond-medical.health",
+    "title": "Diamond and Curator discontinued",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 951,
+    "crawled_at": "2026-02-15T18:02:29.735555459Z",
+    "technologies": [
+      "Airtable",
+      "Auth0",
+      "Canva Websites",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google My Business",
+      "Google Tag Manager",
+      "Intercom",
+      "Ntent",
+      "Twitter Ads"
+    ]
+  },
+  {
     "domain": "cmnavigatorstaging.com",
     "title": "CM Navigator - Global Commodity Trade Insights",
     "business_name": "",
@@ -23446,41 +23471,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "vzero.ai",
-    "title": "v0 by Vercel",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 8473,
-    "crawled_at": "2025-11-01T01:44:38.9962582Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "Auth0",
-      "Content Delivery Network",
-      "Ethy",
-      "Fireblade",
-      "GetResponse",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hugging Face Space",
-      "Next.js",
-      "Notion",
-      "PWA",
-      "QUIC",
-      "Radix UI",
-      "Slack",
-      "Smart App Banner",
-      "Stripe",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]
