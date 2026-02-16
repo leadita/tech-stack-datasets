@@ -1,5 +1,37 @@
 [
   {
+    "domain": "ewor.io",
+    "title": "EWOR",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 156616,
+    "crawled_at": "2026-02-16T11:43:49.319799979Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "DAV",
+      "ElementUI",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Salesforce Commerce Cloud",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "WF Cookie Consent",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "redswan5.com",
     "title": "RedSwan5 - Brand, Digital and Business Strategy",
     "business_name": "",
@@ -15135,37 +15167,6 @@
       "arsys.es",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "ewor.io",
-    "title": "EWOR",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 156616,
-    "crawled_at": "2025-10-31T12:05:38.968196972Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "DAV",
-      "ElementUI",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Salesforce Commerce Cloud",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "Vector Internet Services",
-      "WF Cookie Consent",
-      "YouTube",
-      "jsDelivr"
     ]
   }
 ]
