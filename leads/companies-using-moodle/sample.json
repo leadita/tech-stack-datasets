@@ -1278,34 +1278,5 @@
       "Vello",
       "YouTube"
     ]
-  },
-  {
-    "domain": "bizeducate.com.au",
-    "title": "Home | BizElearn",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 67,
-    "tech_spend": 83480,
-    "crawled_at": "2025-10-31T08:25:03.282730736Z",
-    "technologies": [
-      "AutoComplete",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Material-UI",
-      "Moodle",
-      "NFOrce Internet",
-      "Okta",
-      "PHP",
-      "SMC",
-      "Totara",
-      "UTF-8",
-      "YouTube",
-      "jsDelivr",
-      "shadcn ui"
-    ]
   }
 ]
