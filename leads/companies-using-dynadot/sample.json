@@ -1,5 +1,26 @@
 [
   {
+    "domain": "restaurantkibe.com",
+    "title": "Restaurant Kibe Mahala - Welcome!",
+    "business_name": "",
+    "country": "BIH",
+    "seo_score": 77,
+    "tech_spend": 160,
+    "crawled_at": "2026-02-15T21:07:19.688227741Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Book Direct",
+      "Column Shortcodes",
+      "Dynadot",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Subversion",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "pasay.org",
     "title": "Welcome to PhilippineProperties.com",
     "business_name": "",
