@@ -1,5 +1,26 @@
 [
   {
+    "domain": "magestic.app",
+    "title": "Build your custom back-office app without coding",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 9989,
+    "crawled_at": "2026-02-15T23:32:00.399066863Z",
+    "technologies": [
+      "Coming Soon Page",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Merge",
+      "Nginx",
+      "QUIC",
+      "Ubuntu",
+      "Wistia",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "jonasmouttet.com",
     "title": "Home - Jonas Mouttet",
     "business_name": "Jonas Mouttet",
@@ -521,27 +542,6 @@
       "Visual Website Optimizer",
       "eLand",
       "eShow"
-    ]
-  },
-  {
-    "domain": "magestic.app",
-    "title": "Build your custom back-office app without coding",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 9989,
-    "crawled_at": "2025-10-31T09:53:39.024777008Z",
-    "technologies": [
-      "Coming Soon Page",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Merge",
-      "Nginx",
-      "QUIC",
-      "Ubuntu",
-      "Wistia",
-      "YouTube"
     ]
   }
 ]
