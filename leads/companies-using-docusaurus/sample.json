@@ -1,5 +1,27 @@
 [
   {
+    "domain": "linguax.app",
+    "title": "LinguaX - Automatic Input Switching and Mouse Enhancement for macOS | LinguaX",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 2400,
+    "crawled_at": "2026-02-16T07:23:01.083845245Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Perl",
+      "Yandex Hosting"
+    ]
+  },
+  {
     "domain": "tinyfoxlabs.com",
     "title": "Home | TinyFox Labs",
     "business_name": "",
@@ -12554,24 +12576,6 @@
       "QUIC",
       "Tailwind CSS",
       "Twitter Ads"
-    ]
-  },
-  {
-    "domain": "felipebz.com",
-    "title": "Felipe Zorzo",
-    "business_name": "",
-    "country": "",
-    "seo_score": 20,
-    "tech_spend": "",
-    "crawled_at": "2025-11-01T03:14:38.882741078Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Perl"
     ]
   }
 ]
