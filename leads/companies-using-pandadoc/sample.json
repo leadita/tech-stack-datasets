@@ -2195,46 +2195,5 @@
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
     ]
-  },
-  {
-    "domain": "diplomatic.ai",
-    "title": "Diplomatic AI - Get Paid & Protected w/ No Upfront Cost",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 70420,
-    "crawled_at": "2025-10-31T12:35:38.883613926Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adult Content",
-      "Amazon CloudFront",
-      "Aruba",
-      "Baidu Cloud",
-      "CDN JS",
-      "Calendly",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DAV",
-      "DC74",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Onyx Internet",
-      "OpenResty",
-      "PandaDoc",
-      "Perl",
-      "QUIC",
-      "UTF-8",
-      "Vimeo",
-      "Vimeo CDN",
-      "Yahoo Finance Widget",
-      "YouTube",
-      "eLand",
-      "jQuery",
-      "mlcom"
-    ]
   }
 ]
