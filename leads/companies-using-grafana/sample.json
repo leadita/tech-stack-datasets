@@ -1,5 +1,24 @@
 [
   {
+    "domain": "umweltmessdaten.de",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 1200,
+    "crawled_at": "2026-02-16T07:36:17.436109017Z",
+    "technologies": [
+      "Barchart",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Grafana",
+      "Nginx",
+      "UTF-8",
+      "Ubuntu"
+    ]
+  },
+  {
     "domain": "sawit-kan.web.id",
     "title": "Grafana",
     "business_name": "",
@@ -18,26 +37,6 @@
       "UTF-8",
       "Ubuntu",
       "Yandex Hosting"
-    ]
-  },
-  {
-    "domain": "wdrentals.com",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 1200,
-    "crawled_at": "2026-02-02T21:55:48.860684432Z",
-    "technologies": [
-      "Apache",
-      "Barchart",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Grafana",
-      "Nginx",
-      "UTF-8"
     ]
   },
   {
