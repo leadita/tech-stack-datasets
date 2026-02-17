@@ -1,5 +1,25 @@
 [
   {
+    "domain": "acousticrays.com",
+    "title": "Beckmann Acoustics",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 600,
+    "crawled_at": "2026-02-16T19:01:08.781999344Z",
+    "technologies": [
+      "Bulma",
+      "Commission Junction",
+      "Content Delivery Network",
+      "Fastly",
+      "Google Analytics",
+      "Google Tag Manager",
+      "UTF-8",
+      "University or College",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "levelupfutbol.com",
     "title": "HOME | Level Up Fútbol",
     "business_name": "Level Up Futbol",
@@ -42,26 +62,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "beckmannacoustics.com",
-    "title": "Beckmann Acoustics",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 2400,
-    "crawled_at": "2026-02-14T11:18:51.776530119Z",
-    "technologies": [
-      "Bulma",
-      "Commission Junction",
-      "Content Delivery Network",
-      "Fastly",
-      "Google Analytics",
-      "Google Tag Manager",
-      "UTF-8",
-      "University or College",
-      "jQuery"
     ]
   },
   {
