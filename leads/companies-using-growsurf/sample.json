@@ -1,5 +1,31 @@
 [
   {
+    "domain": "jmtaxadvocates.net",
+    "title": "Marietta GA Tax Accountants | Tax Services | Bookkeeping",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 14207,
+    "crawled_at": "2026-02-17T10:33:44.934313163Z",
+    "technologies": [
+      "Apache",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "GrowSurf",
+      "IcoMoon",
+      "QUIC",
+      "RM Education",
+      "Subversion",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "hello-hive.com",
     "title": "Home | hellohive",
     "business_name": "hellohive",
@@ -1220,32 +1246,6 @@
       "eLand",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "jmtaxadvocates.net",
-    "title": "Marietta GA Tax Accountants | Tax Services | Bookkeeping",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 14207,
-    "crawled_at": "2025-10-31T16:20:38.896361589Z",
-    "technologies": [
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "GrowSurf",
-      "IcoMoon",
-      "QUIC",
-      "RM Education",
-      "Subversion",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
