@@ -1,5 +1,39 @@
 [
   {
+    "domain": "fintechenigma.no",
+    "title": "Fintech Enigma | Fintech Enigma",
+    "business_name": "",
+    "country": "NOR",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-02-17T21:07:32.626734064Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "ricardllop.com",
+    "title": "RicardLlop | RicardLlop",
+    "business_name": "",
+    "country": "ESP",
+    "seo_score": 67,
+    "tech_spend": "",
+    "crawled_at": "2026-02-17T15:48:13.298983637Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Perl"
+    ]
+  },
+  {
     "domain": "linguax.app",
     "title": "LinguaX - Automatic Input Switching and Mouse Enhancement for macOS | LinguaX",
     "business_name": "",
@@ -12537,45 +12571,6 @@
       "Twitter Ads",
       "UTF-8",
       "WhatsApp Sharing"
-    ]
-  },
-  {
-    "domain": "fabpsa.au",
-    "title": "Welcome | FABPSA",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 67,
-    "tech_spend": 660,
-    "crawled_at": "2025-11-01T04:22:25.352867981Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Content Delivery Network",
-      "ConvertKit",
-      "Docusaurus",
-      "Google Tag Manager",
-      "Netlify",
-      "Perl",
-      "Plausible Analytics",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "dev.hnm.ch",
-    "title": "Documentation | HNM",
-    "business_name": "",
-    "country": "CHE",
-    "seo_score": 42,
-    "tech_spend": 600,
-    "crawled_at": "2025-11-01T03:56:12.222774691Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "Fastly",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads"
     ]
   }
 ]

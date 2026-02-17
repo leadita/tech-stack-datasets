@@ -1,5 +1,54 @@
 [
   {
+    "domain": "sunburydigital.com.au",
+    "title": "Digital Marketing Agency Sunbury | Sunbury Digital",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 49258,
+    "crawled_at": "2026-02-17T10:00:34.696408641Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Gridsome",
+      "Idaq",
+      "Instagram Follow Button",
+      "K2F",
+      "KVH",
+      "Netlify",
+      "No-Q",
+      "QUIC",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "sergei-sorokin.ru",
+    "title": "FRONTEND DEVELOPER",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 20000,
+    "crawled_at": "2026-02-17T00:11:19.702575302Z",
+    "technologies": [
+      "Apache",
+      "Bitrix24",
+      "GZIP Module",
+      "Gridsome",
+      "MediaPlatform",
+      "Nginx",
+      "OpenResty",
+      "PHP",
+      "Telegram",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "meganrodgers.me",
     "title": "Home | Megan Rodgers",
     "business_name": "",
@@ -11846,56 +11895,6 @@
       "Nginx",
       "Storyblocks",
       "Tailwind CSS",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "jaihindroyals.com",
-    "title": "Home - Jaihind Royals",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 72,
-    "tech_spend": 15268,
-    "crawled_at": "2025-11-03T23:29:38.886124098Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Corporate Governance and Regulatory Compliance",
-      "Fireblade",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Netlify",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "ballyhoo.au",
-    "title": "The Lawns",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 360,
-    "crawled_at": "2025-11-03T19:39:12.157937684Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Amazon S3 CDN",
-      "Content Delivery Network",
-      "Google My Business",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Storyblocks",
-      "Tailwind CSS",
-      "The Deck",
-      "UTF-8",
       "shadcn ui"
     ]
   }
