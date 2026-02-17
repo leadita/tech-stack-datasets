@@ -1,5 +1,35 @@
 [
   {
+    "domain": "aerem.co.nz",
+    "title": "Aerem",
+    "business_name": "",
+    "country": "NZL",
+    "seo_score": 60,
+    "tech_spend": 700,
+    "crawled_at": "2026-02-17T03:53:53.386574091Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apache",
+      "Corporate Governance and Regulatory Compliance",
+      "Elementor",
+      "EmbedPress",
+      "GZIP Module",
+      "Hello Elementor",
+      "LifterLMS",
+      "NFOrce Internet",
+      "PHP",
+      "SiteW",
+      "Stripe",
+      "Table Addons for Elementor",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "positive-learning.net",
     "title": "โรงเรียนกวดวิชาพัฒนาการเรียนรู้ ติวสอบเข้า ม.1 - Positive Learning",
     "business_name": "",
@@ -18486,36 +18516,6 @@
       "bbPress",
       "jQuery",
       "qTranslate"
-    ]
-  },
-  {
-    "domain": "aerem.co.nz",
-    "title": "Aerem",
-    "business_name": "",
-    "country": "NZL",
-    "seo_score": 60,
-    "tech_spend": 700,
-    "crawled_at": "2025-10-31T14:59:38.894456904Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apache",
-      "Corporate Governance and Regulatory Compliance",
-      "Elementor",
-      "EmbedPress",
-      "GZIP Module",
-      "Hello Elementor",
-      "LifterLMS",
-      "NFOrce Internet",
-      "PHP",
-      "SiteW",
-      "Stripe",
-      "Table Addons for Elementor",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
