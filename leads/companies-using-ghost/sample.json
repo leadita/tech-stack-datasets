@@ -1,5 +1,50 @@
 [
   {
+    "domain": "littlelobbyists.com",
+    "title": "Little Lobbyists Action Network",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 92,
+    "tech_spend": 18060,
+    "crawled_at": "2026-02-17T06:48:16.394940773Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Content Delivery Network",
+      "Fastly",
+      "Fireblade",
+      "GZIP Module",
+      "Ghost",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "ontariopokerroom.com",
+    "title": "Ontario Poker Room and Social Club",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 660,
+    "crawled_at": "2026-02-16T12:38:12.689458151Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Express",
+      "GZIP Module",
+      "Gambling Content",
+      "Ghost",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "chapin.io",
     "title": "Drew Chapin, Startup Guy",
     "business_name": "",
@@ -864,32 +909,6 @@
       "OpenResty",
       "Stripe",
       "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "littlelobbyists.org",
-    "title": "Little Lobbyists Family Alliance",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 18060,
-    "crawled_at": "2026-01-31T12:01:48.86616755Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Content Delivery Network",
-      "Fastly",
-      "Fireblade",
-      "GZIP Module",
-      "Ghost",
-      "Investor Relations",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "QUIC",
-      "UTF-8",
-      "YouTube",
       "jsDelivr"
     ]
   },
@@ -13120,35 +13139,6 @@
       "Vimeo",
       "YouTube",
       "eLand",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "tumbleweird.org",
-    "title": "Tumbleweird",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 18420,
-    "crawled_at": "2025-11-08T09:37:08.170426505Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Ghost",
-      "Google Analytics",
-      "Google Customer Reviews",
-      "Google Forms",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Neighborhoods",
-      "OpenResty",
-      "UTF-8",
       "jsDelivr"
     ]
   }

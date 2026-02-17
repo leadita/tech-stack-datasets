@@ -1,5 +1,52 @@
 [
   {
+    "domain": "staticmade.com",
+    "title": "Static Made by Jeffrey Inscho",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 1419,
+    "crawled_at": "2026-02-17T07:27:50.806897921Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Band Camp",
+      "Camp",
+      "Font Awesome",
+      "Hugo",
+      "InitiativeS",
+      "Micro.blog",
+      "Thank You",
+      "UTF-8",
+      "University or College",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "plumey.com",
+    "title": "Javier Plumey",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 780,
+    "crawled_at": "2026-02-17T04:33:43.336707666Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "Hugo",
+      "Micro.blog",
+      "Python",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "vinayh.com",
     "title": "Vinay Hiremath",
     "business_name": "",
@@ -7603,50 +7650,6 @@
       "University or College",
       "Vector Internet Services",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "staticmade.com",
-    "title": "Static Made by Jeffrey Inscho",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 1719,
-    "crawled_at": "2025-10-31T15:44:38.949144962Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Angular",
-      "Apture Linking Platform",
-      "Font Awesome",
-      "Micro.blog",
-      "NFOrce Internet",
-      "QUIC",
-      "UTF-8",
-      "University or College",
-      "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "plumey.com",
-    "title": "Javier Plumey",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 780,
-    "crawled_at": "2025-10-31T15:08:38.879011975Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Micro.blog",
-      "Python",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "jsDelivr"
     ]
   }
 ]

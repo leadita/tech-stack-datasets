@@ -1,5 +1,79 @@
 [
   {
+    "domain": "klarasamband.se",
+    "title": "KLARA - Samband i samverkan",
+    "business_name": "KLARA",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 49,
+    "crawled_at": "2026-02-16T22:53:32.322634049Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "grantremmen.com",
+    "title": "Grant Remmen",
+    "business_name": "Grant Remmen",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 649,
+    "crawled_at": "2026-02-16T19:01:08.752053039Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Gravity",
+      "Microdata for Google Shopping",
+      "Publii",
+      "UTF-8",
+      "University or College",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "agnewdefense.com",
+    "title": "Defense & Aerospace Engineering - Agnew Defense",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 49,
+    "crawled_at": "2026-02-16T18:29:06.086231849Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "sevyntech.com",
+    "title": "SevynTech",
+    "business_name": "SevynTech",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 49,
+    "crawled_at": "2026-02-16T13:32:01.324317233Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "OpenResty",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "bruvelis.id.lv",
     "title": "Martins Bruvelis @idBruvelis",
     "business_name": "Martins Bruvelis @idBruvelis",
@@ -7141,79 +7215,6 @@
       "Publii",
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "klarasamband.se",
-    "title": "KLARA - Samband i samverkan",
-    "business_name": "KLARA",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 49,
-    "crawled_at": "2025-10-31T14:04:44.326874511Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "grantremmen.com",
-    "title": "Grant Remmen",
-    "business_name": "Grant Remmen",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 649,
-    "crawled_at": "2025-10-31T13:23:38.907123155Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Gravity",
-      "Microdata for Google Shopping",
-      "Publii",
-      "UTF-8",
-      "University or College",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "agnewdefense.com",
-    "title": "Defense & Aerospace Engineering - Agnew Defense",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 49,
-    "crawled_at": "2025-10-31T13:17:38.895310959Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "sevyntech.com",
-    "title": "SevynTech",
-    "business_name": "SevynTech",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 49,
-    "crawled_at": "2025-10-31T12:28:31.519361157Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Nginx",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
     ]
   }
 ]

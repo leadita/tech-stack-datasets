@@ -11379,30 +11379,5 @@
       "jQuery",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "dabo.dev",
-    "title": "Damjan Dabo's Blog",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 1536,
-    "crawled_at": "2025-10-31T12:17:38.964793247Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Hasnode",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pico CSS",
-      "Plausible Analytics",
-      "Pleroma",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
   }
 ]
