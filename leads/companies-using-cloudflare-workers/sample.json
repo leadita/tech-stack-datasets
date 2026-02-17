@@ -1,5 +1,50 @@
 [
   {
+    "domain": "312116098.xyz",
+    "title": "李力专用网络导航 - QQ312116098",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 312,
+    "crawled_at": "2026-02-16T19:45:40.862108035Z",
+    "technologies": [
+      "ArvanCloud",
+      "Baidu Ads",
+      "Baidu Cloud",
+      "Bing Cashback",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "GitHub Hosting",
+      "Google My Business",
+      "Semantic UI",
+      "UTF-8",
+      "Yandex Hosting",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "ymo.dev",
+    "title": "Yusuf Mansur Özer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 300,
+    "crawled_at": "2026-02-16T16:20:53.217960319Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Nuxt.js"
+    ]
+  },
+  {
     "domain": "foo.ng",
     "title": "GitHub - Pokymon/foo.ng: Free subdomains for everyone.",
     "business_name": "",
@@ -4298,32 +4343,6 @@
       "Visual Studio",
       "jsDelivr",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "ee1230.xx.kg",
-    "title": "李力专用网络导航 - QQ312116098",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 312,
-    "crawled_at": "2025-12-25T07:55:38.369554762Z",
-    "technologies": [
-      "ArvanCloud",
-      "Baidu Ads",
-      "Baidu Cloud",
-      "Bing Cashback",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "GitHub Hosting",
-      "Google My Business",
-      "Semantic UI",
-      "UTF-8",
-      "Yandex Hosting",
-      "jQuery",
-      "jsDelivr"
     ]
   },
   {
@@ -14523,31 +14542,6 @@
       "QUIC",
       "UTF-8",
       "University or College"
-    ]
-  },
-  {
-    "domain": "tristantrommer.com",
-    "title": "Tristan Trommer",
-    "business_name": "",
-    "country": "TUR",
-    "seo_score": 72,
-    "tech_spend": 300,
-    "crawled_at": "2025-11-01T14:31:03.151009042Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "DAV",
-      "GitHub Hosting",
-      "Medium",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
