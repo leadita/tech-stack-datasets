@@ -1,5 +1,83 @@
 [
   {
+    "domain": "davedaveyboylindsey.com",
+    "title": "Dave \"Davey Boy\" Lindsey | Music Producer, Mixer, Engineer, Songwriter",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2308,
+    "crawled_at": "2026-02-17T01:25:49.915299852Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Perl",
+      "QUIC",
+      "Twitter Ads",
+      "University or College",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "slotsreviewmania.co.uk",
+    "title": "Slot Reviews & Casino Tips | Expert UK Gaming Guide",
+    "business_name": "",
+    "country": "ESP",
+    "seo_score": 87,
+    "tech_spend": 4256,
+    "crawled_at": "2026-02-16T19:58:20.057829177Z",
+    "technologies": [
+      "About Cookies",
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Django",
+      "Gambling Content",
+      "IcoMoon",
+      "Matomo",
+      "Matomo Tag Manager",
+      "NFOrce Internet",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "autocreditottawa.com",
+    "title": "Car Loan Brokers Ottawa & Gatineau - Easy Car Loan",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 17308,
+    "crawled_at": "2026-02-16T19:35:39.937392291Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Perl",
+      "Twitter Ads",
+      "University or College",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "msplumbingcompany.com",
     "title": "M&S Plumbing Company | Home",
     "business_name": "",
@@ -51,33 +129,6 @@
       "Proof",
       "QUIC",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "linesworkscoveprime.com",
-    "title": "Lines Work Scove Prime: Creative Insights and Expert Tips",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 2756,
-    "crawled_at": "2026-02-12T16:37:48.361551218Z",
-    "technologies": [
-      "About Cookies",
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Django",
-      "Gambling Content",
-      "Help.com",
-      "IcoMoon",
-      "Matomo",
-      "Matomo Tag Manager",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "jQuery"
     ]
   },
   {
@@ -2845,31 +2896,6 @@
       "Google My Business",
       "Perl",
       "QUIC",
-      "University or College",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "autocreditgatineau.com",
-    "title": "Car Loan Brokers Ottawa & Gatineau - Easy Car Loan",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 17308,
-    "crawled_at": "2026-01-19T17:33:09.159645022Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Perl",
-      "Twitter Ads",
       "University or College",
       "reCAPTCHA"
     ]
@@ -9011,74 +9037,6 @@
       "Google My Business",
       "QUIC",
       "University or College"
-    ]
-  },
-  {
-    "domain": "davedaveyboylindsey.com",
-    "title": "Dave \"Davey Boy\" Lindsey | Music Producer, Mixer, Engineer, Songwriter",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2308,
-    "crawled_at": "2025-10-31T14:33:00.238702408Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Perl",
-      "QUIC",
-      "Twitter Ads",
-      "University or College",
-      "YouTube",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "luxuvideo.com",
-    "title": "Luxuvideo - Real Estate Photography Orange County, Los Angeles, San Diego",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 4000,
-    "crawled_at": "2025-10-31T14:08:38.96072382Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Better Lead Generation Services",
-      "Cloudflare",
-      "Cloudinary",
-      "Django",
-      "Instagram Follow Button",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "makincopies.com",
-    "title": "Makin’ Copies & More! | Home | Iowa Printing + Lamination",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 57,
-    "tech_spend": 708,
-    "crawled_at": "2025-10-31T13:36:20.316505181Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
     ]
   }
 ]
