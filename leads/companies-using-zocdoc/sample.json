@@ -1,5 +1,60 @@
 [
   {
+    "domain": "multiplehealthcareservices.com",
+    "title": "MHBCS®",
+    "business_name": "MHBCS®",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 28544,
+    "crawled_at": "2026-02-17T16:41:01.389127685Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apture Linking Platform",
+      "Aruba",
+      "Calendly",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "Intercom",
+      "Microdata for Google Shopping",
+      "Perl",
+      "QUIC",
+      "Shopify",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "ZocDoc",
+      "eLand",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "medlifewellness.com",
+    "title": "Comprehensive Telehealth Primary Care",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 92,
+    "tech_spend": 3828,
+    "crawled_at": "2026-02-17T16:41:01.363734956Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "YouTube",
+      "ZocDoc",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "terrencekava.com",
     "title": "Terrence Kava, Spiritual Depth Life Coaching (Los Angeles)",
     "business_name": "",
@@ -18110,54 +18165,6 @@
       "WordPress Multisite",
       "ZocDoc",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "regenerativewellnesssolutions.com",
-    "title": "Top Weight Loss Programs Near Me - RWS Wellness",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 21900,
-    "crawled_at": "2026-01-14T01:42:38.691660205Z",
-    "technologies": [
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "PWA",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight",
-      "ZocDoc"
-    ]
-  },
-  {
-    "domain": "drnewmed.com",
-    "title": "Family Medicine and Weight Loss Near Me in Scottsdale, AZ",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 22396,
-    "crawled_at": "2026-01-13T21:16:05.328303314Z",
-    "technologies": [
-      "AthenaHealth",
-      "AutoComplete",
-      "Elfsight",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microsoft Azure",
-      "Tailwind CSS",
-      "Tawk",
-      "Visual Studio",
-      "YouTube",
-      "ZocDoc",
-      "jsDelivr"
     ]
   }
 ]
