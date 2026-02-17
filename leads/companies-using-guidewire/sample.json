@@ -1,5 +1,28 @@
 [
   {
+    "domain": "acini.pl",
+    "title": "ACINI",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 1156600,
+    "crawled_at": "2026-02-17T07:27:50.793047502Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "Firebase",
+      "Google",
+      "Google Cloud CDN",
+      "Guidewire",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "floatbotai.com",
     "title": "Build and Deploy GenAI Chat & Voice AI Agents | Floatbot.AI",
     "business_name": "Floatbot.AI",
@@ -237,28 +260,6 @@
       "Guidewire",
       "Tailwind CSS",
       "WF Cookie Consent"
-    ]
-  },
-  {
-    "domain": "acini.co.uk",
-    "title": "ACINI",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 1154800,
-    "crawled_at": "2025-11-24T03:45:19.448758931Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "Google",
-      "Google Cloud CDN",
-      "Guidewire",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr"
     ]
   },
   {
