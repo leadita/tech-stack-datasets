@@ -1,5 +1,36 @@
 [
   {
+    "domain": "whitearrowinteriors.com",
+    "title": "White Arrow",
+    "business_name": "White Arrow",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 28076,
+    "crawled_at": "2026-02-16T14:40:05.711306138Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "Equally AI",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "NextChapter",
+      "QUIC",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "aldinisitalianrestaurant.com",
     "title": "Italian Restaurant | Aldinis | Monroe",
     "business_name": "Aldini's Restaurant",
@@ -4152,37 +4183,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "whitearrow.design",
-    "title": "White Arrow",
-    "business_name": "White Arrow",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 28076,
-    "crawled_at": "2025-11-21T00:24:19.436984726Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "Equally AI",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "NextChapter",
-      "QUIC",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand",
-      "jQuery"
     ]
   },
   {
