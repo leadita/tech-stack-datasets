@@ -1,5 +1,99 @@
 [
   {
+    "domain": "arksglobalexpress.com",
+    "title": "Arks Global Shipping - Premium Worldwide Logistics",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 888,
+    "crawled_at": "2026-02-17T13:12:28.349299646Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "DAV",
+      "Express",
+      "Next.js",
+      "PWA",
+      "Pleroma",
+      "QUIC",
+      "SmartSupp",
+      "Tailwind CSS",
+      "UTF-8",
+      "Unsplash",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "caaobi.org",
+    "title": "Caaobi Certificadora Ambiental",
+    "business_name": "",
+    "country": "BRA",
+    "seo_score": 77,
+    "tech_spend": 31680,
+    "crawled_at": "2026-02-17T10:33:44.941947459Z",
+    "technologies": [
+      "Chakra UI",
+      "Cloudinary",
+      "Content Delivery Network",
+      "Express",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "K2F",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "hadir.mba",
+    "title": "Hadir Mba!",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 684,
+    "crawled_at": "2026-02-17T00:32:13.10204268Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Fastly",
+      "Google My Business",
+      "Google Play",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Unsplash"
+    ]
+  },
+  {
+    "domain": "velomelon.com",
+    "title": "VeloMelon",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 6327,
+    "crawled_at": "2026-02-16T20:08:41.097862141Z",
+    "technologies": [
+      "Chakra UI",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Font Awesome",
+      "Gatsby Image CDN",
+      "Gatsby JS",
+      "Netlify",
+      "Styled Components",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "albagolf.no",
     "title": "Alba – Book your session today",
     "business_name": "Alba Tech AS",
@@ -12838,88 +12932,6 @@
       "SMC",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "geko1.com",
-    "title": "Geko1 | Sports wear equipments",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 21188,
-    "crawled_at": "2025-12-24T18:13:38.343381748Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Chakra UI",
-      "Content Delivery Network",
-      "M247",
-      "Next.js",
-      "Pleroma",
-      "Shopify",
-      "Shopify Collabs",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "biaoziku.com",
-    "title": "标咨库-专注于招投标领域一站式咨询服务的智库",
-    "business_name": "",
-    "country": "",
-    "seo_score": 32,
-    "tech_spend": "",
-    "crawled_at": "2025-12-24T16:25:38.330637908Z",
-    "technologies": [
-      "Chakra UI",
-      "GZIP Module",
-      "Next.js",
-      "Nginx",
-      "Pleroma",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "145mediaproductions.com",
-    "title": "145 Media Production",
-    "business_name": "",
-    "country": "",
-    "seo_score": 25,
-    "tech_spend": "",
-    "crawled_at": "2025-12-24T14:55:38.337545383Z",
-    "technologies": [
-      "Chakra UI",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Next.js",
-      "Nginx",
-      "Pleroma",
-      "UTF-8",
-      "Ubuntu"
-    ]
-  },
-  {
-    "domain": "italianfilmfestival.com.au",
-    "title": "ST. ALi Italian Film Festival will return to cinemas in 2026",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 7603,
-    "crawled_at": "2025-12-24T13:49:38.31882086Z",
-    "technologies": [
-      "Chakra UI",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Fireblade",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "UTF-8"
     ]
   }
 ]
