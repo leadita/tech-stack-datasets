@@ -1,6 +1,6 @@
 # Companies Using OptiMonk (Live Dataset 2026)
 
-This folder contains an active list of 5,576 companies using **OptiMonk**. 
+This folder contains an active list of 5,557 companies using **OptiMonk**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 5,576
+- **Total Leads:** 5,557
 - **Verified:** Yes
-- **Last Updated:** 2026-02-17 20:45 UTC
+- **Last Updated:** 2026-02-18 20:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **5,576+** companies using OptiMonk.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **5,557+** companies using OptiMonk.
 
 [**⚡ Unlock the Full OptiMonk List with Contact Details**](https://leadita.com/leads/companies-using-optimonk)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-17 20:45 UTC*
+*Last updated: 2026-02-18 20:45 UTC*
 *Data source: Leadita Technographic Intelligence*
