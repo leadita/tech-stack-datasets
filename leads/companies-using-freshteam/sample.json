@@ -1,5 +1,60 @@
 [
   {
+    "domain": "basani.co.za",
+    "title": "Brand Basani A South African services, trading and distribution group",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 6492,
+    "crawled_at": "2026-02-18T05:16:21.19962619Z",
+    "technologies": [
+      "Bitrix24",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "Freshteam",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "QUIC",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8",
+      "YouTube",
+      "htmlcodex.com",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "ebctechnologies.in",
+    "title": "EBC Technologies",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 40,
+    "tech_spend": 891,
+    "crawled_at": "2026-02-18T04:20:46.237713074Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Freshteam",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Visual Studio"
+    ]
+  },
+  {
     "domain": "jetic.io",
     "title": "Jetic - Cloud-native Integration Platform",
     "business_name": "",
@@ -2992,60 +3047,6 @@
       "Vercel",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "basani.co.za",
-    "title": "Brand Basani A South African services, trading and distribution group",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 6492,
-    "crawled_at": "2025-10-31T19:23:57.216716487Z",
-    "technologies": [
-      "Bitrix24",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "Freshteam",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "QUIC",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "YouTube",
-      "htmlcodex.com",
-      "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "ebctechnologies.in",
-    "title": "EBC Technologies",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 40,
-    "tech_spend": 891,
-    "crawled_at": "2025-10-31T19:17:39.00183443Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Freshteam",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Microsoft Azure",
-      "Visual Studio"
     ]
   }
 ]
