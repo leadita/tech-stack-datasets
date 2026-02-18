@@ -1,5 +1,59 @@
 [
   {
+    "domain": "lupusvox.com",
+    "title": "Subject: Lupus Vox",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 49,
+    "crawled_at": "2026-02-18T03:22:39.243576989Z",
+    "technologies": [
+      "Alternate Protocol",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "Publii",
+      "QUIC",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "kwina.org",
+    "title": "Kwina Dynasty",
+    "business_name": "Kwina.Family",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 49,
+    "crawled_at": "2026-02-17T16:30:26.666912315Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "kobyofek.com",
+    "title": "homepage - Koby Ofek",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 377,
+    "crawled_at": "2026-02-17T14:41:48.43429892Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon Widgets",
+      "Content Delivery Network",
+      "DAV",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "klarasamband.se",
     "title": "KLARA - Samband i samverkan",
     "business_name": "KLARA",
@@ -7160,60 +7214,6 @@
       "Instagram Follow Button",
       "Microdata for Google Shopping",
       "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "lupusvox.com",
-    "title": "Subject: Lupus Vox",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 49,
-    "crawled_at": "2025-10-31T19:11:22.163979176Z",
-    "technologies": [
-      "Alternate Protocol",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "Publii",
-      "QUIC",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "kwina.org",
-    "title": "Kwina Dynasty",
-    "business_name": "Kwina.Family",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 49,
-    "crawled_at": "2025-10-31T17:26:38.984626562Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "kobyofek.com",
-    "title": "homepage - Koby Ofek",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 377,
-    "crawled_at": "2025-10-31T17:08:09.454125479Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon Widgets",
-      "Content Delivery Network",
-      "DAV",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Publii",
-      "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   }
