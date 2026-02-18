@@ -1,5 +1,35 @@
 [
   {
+    "domain": "crett.org",
+    "title": "Real Estate Technology & Transformation Center",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 156200,
+    "crawled_at": "2026-02-18T07:00:32.830904051Z",
+    "technologies": [
+      "AI Log",
+      "AWS WAF Challenge",
+      "Airbnb",
+      "Amazon Widgets",
+      "AppFolio",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Hubspot Knowledge Base",
+      "MRI Software",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "RealPage",
+      "UTF-8",
+      "Yardi Systems",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "hdcweb.org",
     "title": "Home - HDC Mid Atlantic",
     "business_name": "HDC MidAtlantic",
@@ -1319,36 +1349,6 @@
       "WordPress Related Posts",
       "Yardi Systems",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "crett.org",
-    "title": "Real Estate Technology & Transformation Center",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 156499,
-    "crawled_at": "2025-10-31T19:35:38.983151119Z",
-    "technologies": [
-      "AI Log",
-      "AWS WAF Challenge",
-      "Airbnb",
-      "AppFolio",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "CoreUI",
-      "Fastly",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hubspot Knowledge Base",
-      "MRI Software",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "RealPage",
-      "UTF-8",
-      "Yardi Systems",
-      "YouTube"
     ]
   }
 ]
