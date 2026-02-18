@@ -1,5 +1,49 @@
 [
   {
+    "domain": "mertcertel.com",
+    "title": "Mert Certel",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": "",
+    "crawled_at": "2026-02-18T17:42:45.774831359Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GitHub Hosting",
+      "Google My Business",
+      "Gridsome",
+      "Nuxt.js",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "apartment.loans",
+    "title": "Apartment Loans",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 8440,
+    "crawled_at": "2026-02-18T14:13:36.667989737Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Express",
+      "Federal Deposit Insurance Corporation",
+      "Gridsome",
+      "Prospective",
+      "QUIC",
+      "Segment",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "sunburydigital.com.au",
     "title": "Digital Marketing Agency Sunbury | Sunbury Digital",
     "business_name": "",
@@ -11852,50 +11896,6 @@
       "Gridsome",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "bransjen.no",
-    "title": "Forside - Bransjen",
-    "business_name": "",
-    "country": "",
-    "seo_score": 32,
-    "tech_spend": "",
-    "crawled_at": "2025-11-04T02:14:39.329827714Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Sanity",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "kodius.com",
-    "title": "Kodius | Expert custom software development",
-    "business_name": "",
-    "country": "HRV",
-    "seo_score": 72,
-    "tech_spend": 10552,
-    "crawled_at": "2025-11-04T01:07:31.685635859Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Amazon S3 CDN",
-      "Apture Linking Platform",
-      "Calendly",
-      "CloudFront",
-      "Clutch",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Nginx",
-      "Storyblocks",
-      "Tailwind CSS",
-      "shadcn ui"
     ]
   }
 ]

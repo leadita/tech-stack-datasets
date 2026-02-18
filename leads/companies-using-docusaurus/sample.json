@@ -1,5 +1,31 @@
 [
   {
+    "domain": "codeweb.chat",
+    "title": "Intro | Code Web Chat",
+    "business_name": "",
+    "country": "",
+    "seo_score": 82,
+    "tech_spend": 5390,
+    "crawled_at": "2026-02-18T08:37:45.353057441Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Google My Business",
+      "Gravity",
+      "OpenAI",
+      "Perl",
+      "To Top",
+      "Visual Studio"
+    ]
+  },
+  {
     "domain": "fintechenigma.no",
     "title": "Fintech Enigma | Fintech Enigma",
     "business_name": "",
@@ -12547,30 +12573,6 @@
       "Fastly",
       "Perl",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "knapsacky.com",
-    "title": "Knapsacky.com | Knapsacky.com",
-    "business_name": "",
-    "country": "MEX",
-    "seo_score": 72,
-    "tech_spend": 7868,
-    "crawled_at": "2025-11-01T04:35:38.989483557Z",
-    "technologies": [
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "WhatsApp Sharing"
     ]
   }
 ]
