@@ -1,5 +1,37 @@
 [
   {
+    "domain": "cloudtechpro.com.hk",
+    "title": "CloudTechPro - CloudTechPro",
+    "business_name": "CloudTechPro",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 1697,
+    "crawled_at": "2026-02-17T17:25:06.932557225Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Contact Form Plugin",
+      "Elementor",
+      "EmbedPress",
+      "GZIP Module",
+      "IcoMoon",
+      "Instagram Feed for WordPress",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Nginx",
+      "Ohio Theme",
+      "PHP",
+      "Parallels Plesk Panel",
+      "Polylang",
+      "TalentLMS",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "sotero.com.au",
     "title": "Nursing Jobs & Recruitment | Clinics & Virtual Care | Health Advisory",
     "business_name": "Sotero Healthcare",
@@ -8704,38 +8736,6 @@
       "WordPress Multisite",
       "WordPress Stats",
       "YouTube",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "cloudtechpro.com.hk",
-    "title": "CloudTechPro - CloudTechPro",
-    "business_name": "CloudTechPro",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 1697,
-    "crawled_at": "2025-10-31T17:41:38.90167651Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Contact Form Plugin",
-      "Elementor",
-      "EmbedPress",
-      "GZIP Module",
-      "IcoMoon",
-      "Instagram Feed for WordPress",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Nginx",
-      "Ohio Theme",
-      "PHP",
-      "Parallels Plesk Panel",
-      "Polylang",
-      "TalentLMS",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
       "jQuery"
     ]
   }

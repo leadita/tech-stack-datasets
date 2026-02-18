@@ -1,5 +1,27 @@
 [
   {
+    "domain": "whstech2.x10.mx",
+    "title": "Westerly High Technology Moodle",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 11100,
+    "crawled_at": "2026-02-17T23:17:27.749881862Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fastly",
+      "Moodle",
+      "NFOrce Internet",
+      "PHP",
+      "Totara",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "onlinelearning.academy",
     "title": "OLA",
     "business_name": "",
@@ -1255,28 +1277,6 @@
       "UTF-8",
       "University or College",
       "Vimeo"
-    ]
-  },
-  {
-    "domain": "whstech2.x10.mx",
-    "title": "Westerly High Technology Moodle",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 11100,
-    "crawled_at": "2025-10-31T18:43:05.818538519Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fastly",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "Totara",
-      "UTF-8"
     ]
   }
 ]
