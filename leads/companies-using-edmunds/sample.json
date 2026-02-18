@@ -5653,47 +5653,5 @@
       "YouTube",
       "eLand"
     ]
-  },
-  {
-    "domain": "southbaylincoln.com",
-    "title": "South Bay Lincoln - New & Used Lincoln Dealer in Hawthorne",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 21419,
-    "crawled_at": "2025-10-31T18:29:39.002029461Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "CarNow",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ComplyAuto",
-      "Edmunds",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Code Prettify",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Perl",
-      "QUIC",
-      "RM Education",
-      "Schema Plugin",
-      "Thumbor",
-      "Twitter Ads",
-      "UTF-8",
-      "Yelp Badge",
-      "YouTube"
-    ]
   }
 ]

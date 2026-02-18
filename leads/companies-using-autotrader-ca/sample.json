@@ -1,5 +1,34 @@
 [
   {
+    "domain": "canadiancaroftheyear.ca",
+    "title": "Canadian Car of the Year – Canadian Car of the Year",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 70,
+    "tech_spend": 306,
+    "crawled_at": "2026-02-18T05:16:21.220819915Z",
+    "technologies": [
+      "Alternate Protocol",
+      "AutoTrader CA",
+      "EmbedPress",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gravity",
+      "HitMag",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "PHP",
+      "Polylang",
+      "QUIC",
+      "Theme In WP",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "autooneleasing.ca",
     "title": "Luxury Car Dealership | Luxury Car Leasing Experts | AUTO ONE Group",
     "business_name": "",
@@ -1959,33 +1988,6 @@
       "YouTube",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "canadiancaroftheyear.ca",
-    "title": "Canadian Car of the Year – Canadian Car of the Year",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 70,
-    "tech_spend": 257,
-    "crawled_at": "2025-10-31T19:23:57.281242448Z",
-    "technologies": [
-      "Alternate Protocol",
-      "AutoTrader CA",
-      "Google Analytics",
-      "Google Tag Manager",
-      "HitMag",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "PHP",
-      "Polylang",
-      "QUIC",
-      "Theme In WP",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]

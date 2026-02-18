@@ -12022,36 +12022,5 @@
       "YouTube",
       "iPerceptions"
     ]
-  },
-  {
-    "domain": "cowboyharley.com",
-    "title": "Cowboy Harley-Davidson® - New and Used Harley-Davidson® Motorcycles , services, and parts in Austin, Beaumont, & San Antonio, TX",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 114399,
-    "crawled_at": "2025-10-31T18:47:38.954607551Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Adobe Creative Cloud WebFonts",
-      "AudioEye",
-      "Create React App",
-      "DAV",
-      "Dealer Spike",
-      "DealerInspire",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Tag Manager",
-      "MaxCDN",
-      "Microdata for Google Shopping",
-      "PWA",
-      "Pleroma",
-      "Tealium",
-      "UTF-8",
-      "jQuery",
-      "jsDelivr"
-    ]
   }
 ]

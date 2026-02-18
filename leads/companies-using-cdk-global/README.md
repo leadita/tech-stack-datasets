@@ -1,6 +1,6 @@
 # Companies Using CDK Global (Live Dataset 2026)
 
-This folder contains an active list of 24 companies using **CDK Global**. 
+This folder contains an active list of 23 companies using **CDK Global**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 24
+- **Total Leads:** 23
 - **Verified:** Yes
-- **Last Updated:** 2026-02-17 12:00 UTC
+- **Last Updated:** 2026-02-18 12:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **24+** companies using CDK Global.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **23+** companies using CDK Global.
 
 [**⚡ Unlock the Full CDK Global List with Contact Details**](https://leadita.com/leads/companies-using-cdk-global)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-17 12:00 UTC*
+*Last updated: 2026-02-18 12:00 UTC*
 *Data source: Leadita Technographic Intelligence*
