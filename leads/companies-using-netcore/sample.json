@@ -1,5 +1,30 @@
 [
   {
+    "domain": "rampagency.co",
+    "title": "R.AMP.AGE - index",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 60,
+    "tech_spend": 10159,
+    "crawled_at": "2026-02-18T06:49:19.650302669Z",
+    "technologies": [
+      "Apache",
+      "Better Lead Generation Services",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "Netcore Cloud",
+      "PWA",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "akadigital.net",
     "title": "AKA Digital - Martech Agency + Digital Marketing Services",
     "business_name": "AkaDigital Pte Ltd",
@@ -323,31 +348,6 @@
       "Twitter Ads",
       "shadcn ui",
       "vCommission"
-    ]
-  },
-  {
-    "domain": "rampagency.co",
-    "title": "R.AMP.AGE - index",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 60,
-    "tech_spend": 10159,
-    "crawled_at": "2025-10-31T19:35:38.898501461Z",
-    "technologies": [
-      "Apache",
-      "Better Lead Generation Services",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Netcore Cloud",
-      "PWA",
-      "UTF-8",
-      "reCAPTCHA"
     ]
   }
 ]
