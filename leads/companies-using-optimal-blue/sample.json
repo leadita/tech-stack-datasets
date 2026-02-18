@@ -1,12 +1,12 @@
 [
   {
-    "domain": "clarityhomeloans.com",
+    "domain": "clarityhomeloan.com",
     "title": "Clarity Home Loans",
     "business_name": "",
     "country": "USA",
-    "seo_score": 72,
+    "seo_score": 77,
     "tech_spend": 79940,
-    "crawled_at": "2026-02-16T08:55:48.922301863Z",
+    "crawled_at": "2026-02-18T06:02:58.761466213Z",
     "technologies": [
       "Alternate Protocol",
       "Authorize.net",
@@ -38,6 +38,41 @@
       "UTF-8",
       "Vector Internet Services",
       "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "paramountls.com",
+    "title": "Paramount Loan Services - Trusted Mortgage Brokers Since 2006",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 55354,
+    "crawled_at": "2026-02-18T05:49:07.389878268Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Authorize.net",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Fireblade",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Google Tag Manager",
+      "Nationwide Mortgage Licensing System and Registry",
+      "No-Q",
+      "Nuxt.js",
+      "Optimal Blue",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "Unsplash",
+      "Vector Internet Services",
+      "reCAPTCHA",
+      "shadcn ui"
     ]
   },
   {
@@ -5789,40 +5824,6 @@
       "Vimeo",
       "eLand",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "paramountls.com",
-    "title": "Paramount Loan Services - Trusted Mortgage Brokers Since 2006",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 50354,
-    "crawled_at": "2025-10-31T19:29:37.640550256Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Authorize.net",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google Tag Manager",
-      "Nationwide Mortgage Licensing System and Registry",
-      "No-Q",
-      "Nuxt.js",
-      "Optimal Blue",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "Unsplash",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   }
 ]
