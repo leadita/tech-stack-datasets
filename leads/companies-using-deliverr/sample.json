@@ -1,5 +1,31 @@
 [
   {
+    "domain": "eloryx.com",
+    "title": "Eloryx | Premium Made USA Supplements for Wellness, Vitality & Health",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 1704,
+    "crawled_at": "2026-02-18T00:08:16.004555337Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Deliverr",
+      "Google My Business",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Schema Plugin",
+      "Shopify",
+      "Shopify Collabs",
+      "Tailwind CSS",
+      "UTF-8",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "bestmylar.com",
     "title": "Best Mylar Bags for Long Term Food Storage | Wallaby Goods",
     "business_name": "Wallaby Goods",
@@ -6838,32 +6864,6 @@
       "Zipify",
       "accessiBe",
       "eLand",
-      "hCaptcha",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "eloryx.com",
-    "title": "Eloryx | Premium Made USA Supplements for Wellness, Vitality & Health",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 1704,
-    "crawled_at": "2025-10-31T18:50:38.87989508Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Deliverr",
-      "Google My Business",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Schema Plugin",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "UTF-8",
       "hCaptcha",
       "reCAPTCHA"
     ]
