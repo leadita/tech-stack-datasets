@@ -1,5 +1,37 @@
 [
   {
+    "domain": "spa-werfenweng.aja.de",
+    "title": "aja Bergresort Werfenweng",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 95428,
+    "crawled_at": "2026-02-17T13:35:08.791516328Z",
+    "technologies": [
+      "Adyen",
+      "DoubleClick Bid Manager",
+      "Express",
+      "Facebook Reseller",
+      "Fireblade",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nginx",
+      "Ogone",
+      "PayPal Adaptive Payments",
+      "Tealium",
+      "UTF-8",
+      "Zendesk Embeddables"
+    ]
+  },
+  {
     "domain": "euroetar.com",
     "title": "Eurostar.com: Book Europe Train Tickets and Holidays",
     "business_name": "Eurostar",
@@ -4992,39 +5024,6 @@
       "Vercel",
       "Zendesk Embeddables",
       "eLand"
-    ]
-  },
-  {
-    "domain": "spa-werfenweng.aja.de",
-    "title": "aja Bergresort Werfenweng",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 95758,
-    "crawled_at": "2025-10-31T16:53:39.377117433Z",
-    "technologies": [
-      "Adyen",
-      "DoubleClick Bid Manager",
-      "Express",
-      "Facebook Reseller",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "No-Q",
-      "Ogone",
-      "PayPal Adaptive Payments",
-      "Tealium",
-      "UTF-8",
-      "Zendesk Embeddables"
     ]
   }
 ]
