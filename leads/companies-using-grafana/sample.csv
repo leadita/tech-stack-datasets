@@ -1,5 +1,5 @@
 domain,title,business_name,country,seo_score,tech_spend,crawled_at,technologies
-umweltmessdaten.de,Grafana,,,30,1200,2026-02-16T07:36:17.436109017Z,"['Barchart', 'Express', 'GZIP Module', 'GitHub Hosting', 'Grafana', 'Nginx', 'UTF-8', 'Ubuntu']"
+metrics.vhn.io,Grafana,,,30,1200,2026-02-18T18:40:59.913164845Z,"['Apache', 'Barchart', 'Express', 'GitHub Hosting', 'Grafana', 'UTF-8']"
 sawit-kan.web.id,Grafana,,,40,1260,2026-02-06T07:13:35.05127219Z,"['Barchart', 'Express', 'GZIP Module', 'GitHub Hosting', 'Grafana', 'Nginx', 'Subversion', 'UTF-8', 'Ubuntu', 'Yandex Hosting']"
 bi.apx.me,Grafana,,,30,,2026-01-31T23:46:48.869453821Z,"['GZIP Module', 'GitHub Hosting', 'Google My Business', 'Grafana', 'Tailwind CSS', 'UTF-8']"
 doprava.digital,Grafana,,,30,11203,2025-12-30T06:04:38.332101161Z,"['Apache', 'Barchart', 'Contento', 'Express', 'GitHub Hosting', 'Google Cloud DNS', 'Grafana', 'UTF-8']"

@@ -1,21 +1,19 @@
 [
   {
-    "domain": "umweltmessdaten.de",
+    "domain": "metrics.vhn.io",
     "title": "Grafana",
     "business_name": "",
     "country": "",
     "seo_score": 30,
     "tech_spend": 1200,
-    "crawled_at": "2026-02-16T07:36:17.436109017Z",
+    "crawled_at": "2026-02-18T18:40:59.913164845Z",
     "technologies": [
+      "Apache",
       "Barchart",
       "Express",
-      "GZIP Module",
       "GitHub Hosting",
       "Grafana",
-      "Nginx",
-      "UTF-8",
-      "Ubuntu"
+      "UTF-8"
     ]
   },
   {

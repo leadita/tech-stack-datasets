@@ -1,5 +1,35 @@
 [
   {
+    "domain": "zapdigits.com",
+    "title": "Marketing Dashboards for Agencies and Marketing Teams| ZapDigits",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 4493,
+    "crawled_at": "2026-02-17T21:07:32.614870123Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Better Stack",
+      "Brevo",
+      "Content Delivery Network",
+      "CookieYes",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Next.js",
+      "Pleroma",
+      "Product Hunt",
+      "Radix UI",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "betterstackdata.com",
     "title": "Better Stack - 30x cheaper than Datadog, Exceptional support",
     "business_name": "",
@@ -4204,34 +4234,6 @@
       "Tailwind CSS",
       "WF Cookie Consent",
       "Webflow"
-    ]
-  },
-  {
-    "domain": "zapdigits.com",
-    "title": "ZapDigits | Your startup's metrics, now all in one place",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 1553,
-    "crawled_at": "2025-10-31T18:23:38.959211797Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Better Stack",
-      "Content Delivery Network",
-      "CookieYes",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Next.js",
-      "Pleroma",
-      "Product Hunt",
-      "Radix UI",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
