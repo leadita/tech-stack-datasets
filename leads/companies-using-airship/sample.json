@@ -1,12 +1,12 @@
 [
   {
-    "domain": "benefitairshipcare.com",
+    "domain": "bashealthcoverage.com",
     "title": "Benefit Airship Affordable Health & Wellness Plans Nationwide",
     "business_name": "Benefit Airship",
     "country": "",
     "seo_score": 67,
     "tech_spend": 111336,
-    "crawled_at": "2026-02-16T23:49:56.505049048Z",
+    "crawled_at": "2026-02-18T17:42:45.740209301Z",
     "technologies": [
       "AWS WAF Challenge",
       "Airship CRM",
@@ -17,6 +17,7 @@
       "CloudFront",
       "Cloudflare",
       "Cloudflare CDN",
+      "Content Delivery Network",
       "DC74",
       "Google Analytics",
       "Google Calendar",
