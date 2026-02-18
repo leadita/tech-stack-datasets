@@ -1,5 +1,35 @@
 [
   {
+    "domain": "gtseismic.com",
+    "title": "GT Geophysical Technologies",
+    "business_name": "",
+    "country": "UKR",
+    "seo_score": 60,
+    "tech_spend": 12024,
+    "crawled_at": "2026-02-18T19:58:40.395403212Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Bulma",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Nginx",
+      "PHP",
+      "Polylang",
+      "Seismic",
+      "Tailwind CSS",
+      "Theme In WP",
+      "UTF-8",
+      "WPBakery",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "keyseismic.com",
     "title": "Key Seismic",
     "business_name": "",
@@ -2142,36 +2172,6 @@
       "QUIC",
       "Seismic",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "gtseismic.com",
-    "title": "GT Geophysical Technologies",
-    "business_name": "",
-    "country": "UKR",
-    "seo_score": 60,
-    "tech_spend": 12024,
-    "crawled_at": "2025-10-31T21:14:26.470083313Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Bulma",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Nginx",
-      "PHP",
-      "Polylang",
-      "Seismic",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "WPBakery",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
