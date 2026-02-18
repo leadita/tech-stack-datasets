@@ -1,6 +1,6 @@
 # Companies Using Gorgias (Live Dataset 2026)
 
-This folder contains an active list of 4,606 companies using **Gorgias**. 
+This folder contains an active list of 4,603 companies using **Gorgias**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 4,606
+- **Total Leads:** 4,603
 - **Verified:** Yes
-- **Last Updated:** 2026-02-17 15:30 UTC
+- **Last Updated:** 2026-02-18 15:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **4,606+** companies using Gorgias.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **4,603+** companies using Gorgias.
 
 [**⚡ Unlock the Full Gorgias List with Contact Details**](https://leadita.com/leads/companies-using-gorgias)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-17 15:30 UTC*
+*Last updated: 2026-02-18 15:30 UTC*
 *Data source: Leadita Technographic Intelligence*
