@@ -1,5 +1,48 @@
 [
   {
+    "domain": "advantagementalhealth.com",
+    "title": "Comprehensive Psychiatric Services - Advantage Mental Health",
+    "business_name": "Advantage Mental Health Center",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 28565,
+    "crawled_at": "2026-02-18T18:09:17.777879543Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Autoptimize",
+      "ClickCease",
+      "Cloudflare",
+      "Content Delivery Network",
+      "D3 JS",
+      "Elementor",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Harbor",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "No-Q",
+      "Ntent",
+      "Perl",
+      "Rickshaw",
+      "Thank You",
+      "TrustIndex",
+      "UTF-8",
+      "WP Engine",
+      "WordPress",
+      "WordPress Multisite",
+      "ZocDoc",
+      "jQuery",
+      "reCAPTCHA",
+      "xCharts"
+    ]
+  },
+  {
     "domain": "inspire1wellness.com",
     "title": "Inspire1Wellness LLC – Because Your Mental Health Matters",
     "business_name": "",
@@ -18186,34 +18229,6 @@
       "UTF-8",
       "WordPress",
       "ZocDoc"
-    ]
-  },
-  {
-    "domain": "mechanicsofwellness.com",
-    "title": "Mechanics of Wellness, LLC",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 30272,
-    "crawled_at": "2026-01-14T17:31:43.255186078Z",
-    "technologies": [
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "ZocDoc",
-      "eLand"
     ]
   }
 ]

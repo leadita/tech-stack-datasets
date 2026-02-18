@@ -1,5 +1,32 @@
 [
   {
+    "domain": "valleyreflections.com",
+    "title": "Valley Reflections Counselling",
+    "business_name": "Valley Reflections",
+    "country": "",
+    "seo_score": 82,
+    "tech_spend": 19633,
+    "crawled_at": "2026-02-18T07:00:32.868587656Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Jane App",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "authenticcorecare.com",
     "title": "Book Online | AuthentiCore Chiropractic",
     "business_name": "",
@@ -2571,33 +2598,6 @@
       "Thank You",
       "UTF-8",
       "Vimeo"
-    ]
-  },
-  {
-    "domain": "valleyreflections.com",
-    "title": "Valley Reflections Counselling",
-    "business_name": "Valley Reflections",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 19633,
-    "crawled_at": "2025-10-31T19:36:48.832585837Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Jane App",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
