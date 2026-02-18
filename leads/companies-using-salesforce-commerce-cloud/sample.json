@@ -1,5 +1,39 @@
 [
   {
+    "domain": "spectrumdermohio.com",
+    "title": "Spectrum Dermatology – Dr. Meghan Crute",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 502413,
+    "crawled_at": "2026-02-18T03:49:07.053873694Z",
+    "technologies": [
+      "Actinic",
+      "Alternate Protocol",
+      "Amazon S3 CDN",
+      "Cloudflare",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Gravity Forms",
+      "Jupiter",
+      "LayerSlider Responsive",
+      "MailChimp",
+      "PHP",
+      "QUIC",
+      "Salesforce Commerce Cloud",
+      "Storyblocks",
+      "Tailwind CSS",
+      "Theme In WP",
+      "UTF-8",
+      "University or College",
+      "WPBakery",
+      "WordPress",
+      "WordPress Multisite",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "rawlings.ai",
     "title": "| Rawlings",
     "business_name": "",
@@ -15096,40 +15130,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "spectrumdermohio.com",
-    "title": "Spectrum Dermatology – Dr. Meghan Crute",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 502413,
-    "crawled_at": "2025-10-31T19:14:38.946923819Z",
-    "technologies": [
-      "Actinic",
-      "Alternate Protocol",
-      "Amazon S3 CDN",
-      "Cloudflare",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Gravity Forms",
-      "Jupiter",
-      "LayerSlider Responsive",
-      "MailChimp",
-      "PHP",
-      "QUIC",
-      "Salesforce Commerce Cloud",
-      "Storyblocks",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "University or College",
-      "WPBakery",
-      "WordPress",
-      "WordPress Multisite",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
