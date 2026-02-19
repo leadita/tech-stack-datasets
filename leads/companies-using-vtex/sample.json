@@ -1186,42 +1186,5 @@
       "YouTube",
       "jQuery"
     ]
-  },
-  {
-    "domain": "atacadaodoartesanatomdf.com.br",
-    "title": "Atacadão do Artesanado MDF",
-    "business_name": "",
-    "country": "BRA",
-    "seo_score": 72,
-    "tech_spend": 69709,
-    "crawled_at": "2025-10-31T22:27:40.066328293Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Ebit",
-      "Express",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "MailChimp",
-      "Tailwind CSS",
-      "Trustvox",
-      "Twitter Ads",
-      "UTF-8",
-      "VTEX Personalization",
-      "WhatsApp Sharing",
-      "YouTube",
-      "jQuery",
-      "jsDelivr"
-    ]
   }
 ]
