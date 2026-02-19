@@ -1,5 +1,46 @@
 [
   {
+    "domain": "plasticoscastrohnos.com.ar",
+    "title": "Plasticos Castro Hnos.",
+    "business_name": "",
+    "country": "ARG",
+    "seo_score": 55,
+    "tech_spend": 5198,
+    "crawled_at": "2026-02-19T02:44:51.403463725Z",
+    "technologies": [
+      "Apache",
+      "Bulma",
+      "Financial Services Guide",
+      "Font Awesome",
+      "KVH",
+      "Semantic UI",
+      "UTF-8",
+      "WoWonder",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "aditros.com",
+    "title": "Home | Aditya Roshadi",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 156,
+    "crawled_at": "2026-02-18T19:51:02.242939089Z",
+    "technologies": [
+      "GitHub Hosting",
+      "Hugo",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Nginx",
+      "Semantic UI",
+      "Twitter Ads",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "sikhonpol.com",
     "title": "Sikhonpol",
     "business_name": "",
@@ -14521,58 +14562,6 @@
       "Subversion",
       "Twitter Ads",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "kansascitynorthlandhomes.com",
-    "title": "Kansas City Northland Homes",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 1083,
-    "crawled_at": "2025-12-10T04:07:56.031270228Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ExpRealty",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "Semantic UI",
-      "Ubuntu",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "srgexports.com",
-    "title": "SRG Exports",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 65,
-    "tech_spend": 18267,
-    "crawled_at": "2025-12-09T23:19:50.949766133Z",
-    "technologies": [
-      "Apache",
-      "Cloudflare",
-      "ETranslate",
-      "Font Awesome",
-      "GTranslate",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Ntent",
-      "PHP",
-      "Perl",
-      "Semantic UI",
-      "Tailwind CSS",
-      "Tawk",
-      "UTF-8",
-      "Wangsu",
-      "WhatsApp Sharing",
-      "WordPress"
     ]
   }
 ]
