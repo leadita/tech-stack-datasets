@@ -1,5 +1,28 @@
 [
   {
+    "domain": "siafoundation.com",
+    "title": "The Sia Foundation | Sia",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 22372,
+    "crawled_at": "2026-02-18T20:08:40.082918354Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "GetResponse",
+      "GitHub Hosting",
+      "Lever",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "hlkagency.com",
     "title": "Homepage | HughesLeahyKarlovic Advertising",
     "business_name": "HLK",
@@ -8899,69 +8922,6 @@
       "Zoom",
       "Zoom Video Conferencing",
       "eLand"
-    ]
-  },
-  {
-    "domain": "theattractiongame.online",
-    "title": "Find Remote Healthcare Jobs Today | Furum Jobs",
-    "business_name": "Furum Jobs",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 639500,
-    "crawled_at": "2025-10-31T21:44:39.068010432Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Corporate Governance and Regulatory Compliance",
-      "DAV",
-      "Express",
-      "Fireblade",
-      "Greenhouse",
-      "Harbor",
-      "InitiativeS",
-      "Lever",
-      "Lyra Health",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Prospective",
-      "QUIC",
-      "Salesforce Experience Cloud",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Workday",
-      "YouTube",
-      "eLand",
-      "securiti",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "siafoundation.com",
-    "title": "The Sia Foundation | Sia",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 22372,
-    "crawled_at": "2025-10-31T21:14:38.915768561Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "GetResponse",
-      "GitHub Hosting",
-      "Lever",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
