@@ -1,5 +1,23 @@
 [
   {
+    "domain": "hitailong.ca",
+    "title": "海泰隆物流加拿大有限公司 - 换单、清关、派送",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 39,
+    "crawled_at": "2026-02-19T17:42:27.45545859Z",
+    "technologies": [
+      "DHL Parcel",
+      "FedEx",
+      "GZIP Module",
+      "Nginx",
+      "Slider Revolution",
+      "Tailwind CSS",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "engineswim.com",
     "title": "ENGINE SWIM",
     "business_name": "",
@@ -18121,36 +18139,6 @@
       "WordPress",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "garudawegacourier.com",
-    "title": "Garudawega.com – we deserve to serve",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 60,
-    "tech_spend": 500,
-    "crawled_at": "2025-11-05T12:26:56.410591235Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DHL Parcel",
-      "Elementor",
-      "EmbedPress",
-      "FedEx",
-      "GZIP Module",
-      "Hello Elementor",
-      "Instagram Follow Button",
-      "Meta Slider for WordPress",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "Theme In WP",
-      "UPS",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
