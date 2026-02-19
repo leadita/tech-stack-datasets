@@ -1,5 +1,52 @@
 [
   {
+    "domain": "coinsnack.nl",
+    "title": "Coinsnack.nl: Your Ultimate Guide to Cryptocurrency News and Insights",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 4256,
+    "crawled_at": "2026-02-19T08:54:37.594270798Z",
+    "technologies": [
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Django",
+      "Gambling Content",
+      "IcoMoon",
+      "Matomo",
+      "Matomo Tag Manager",
+      "NFOrce Internet",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "custommetalsperth.com",
+    "title": "Custom Metals",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 711,
+    "crawled_at": "2026-02-18T16:02:49.443137627Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "QUIC",
+      "University or College"
+    ]
+  },
+  {
     "domain": "davedaveyboylindsey.com",
     "title": "Dave \"Davey Boy\" Lindsey | Music Producer, Mixer, Engineer, Songwriter",
     "business_name": "",
@@ -24,32 +71,6 @@
       "University or College",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "slotsreviewmania.co.uk",
-    "title": "Slot Reviews & Casino Tips | Expert UK Gaming Guide",
-    "business_name": "",
-    "country": "ESP",
-    "seo_score": 87,
-    "tech_spend": 4256,
-    "crawled_at": "2026-02-16T19:58:20.057829177Z",
-    "technologies": [
-      "About Cookies",
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Django",
-      "Gambling Content",
-      "IcoMoon",
-      "Matomo",
-      "Matomo Tag Manager",
-      "NFOrce Internet",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   },
   {
@@ -8990,53 +9011,6 @@
       "Perl",
       "QUIC",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "rnstowerco.com",
-    "title": "Tower Construction Company Springtown TX - RNS Tower Company",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2308,
-    "crawled_at": "2025-10-31T21:33:10.367755768Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "University or College",
-      "YouTube",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "custommetalsperth.com",
-    "title": "Custom Metals",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 711,
-    "crawled_at": "2025-10-31T20:44:19.445475059Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "QUIC",
-      "University or College"
     ]
   }
 ]
