@@ -1,5 +1,32 @@
 [
   {
+    "domain": "hrithwik.dev",
+    "title": "Hrithwik Bharadwaj",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 9000,
+    "crawled_at": "2026-02-19T06:22:07.827262469Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon S3 CDN",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Fireblade",
+      "GitHub Hosting",
+      "Next.js",
+      "Notion",
+      "Ntent",
+      "Storyblocks",
+      "Super",
+      "UTF-8",
+      "Vector Internet Services",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "dradamvolungis.com",
     "title": "Dr. Adam M Volungis | A place for students, professionals, and friends",
     "business_name": "",
@@ -14514,28 +14541,6 @@
       "Zope",
       "eLand",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "kshitizraj.com",
-    "title": "Kshitiz Raj | Software Engineer Portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 540,
-    "crawled_at": "2025-11-01T16:05:38.979140418Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
