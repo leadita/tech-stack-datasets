@@ -1,5 +1,39 @@
 [
   {
+    "domain": "celcat.fr",
+    "title": "Page d'accueil - Celcat",
+    "business_name": "Celcat",
+    "country": "ZAF",
+    "seo_score": 70,
+    "tech_spend": 79126,
+    "crawled_at": "2026-02-19T10:26:52.014882109Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Complianz",
+      "Contact Form Plugin",
+      "EmbedPress",
+      "Envoy",
+      "Google My Business",
+      "HurryTimer",
+      "LiteSpeed",
+      "M247",
+      "Microdata for Google Shopping",
+      "PHP",
+      "SMC",
+      "SVG Support",
+      "SalesLoft",
+      "Theme In WP",
+      "UTF-8",
+      "University or College",
+      "WPML Multilingual",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "browser.run",
     "title": "SSE & SASE | Converge Networking and Security | Cloudflare",
     "business_name": "",
@@ -12912,39 +12946,6 @@
       "Ubuntu",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "celcat.fr",
-    "title": "Page d'accueil - Celcat",
-    "business_name": "Celcat",
-    "country": "ZAF",
-    "seo_score": 70,
-    "tech_spend": 59126,
-    "crawled_at": "2025-10-31T23:05:38.922141204Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Complianz",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "Envoy",
-      "Google My Business",
-      "HurryTimer",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "SMC",
-      "SVG Support",
-      "SalesLoft",
-      "Theme In WP",
-      "UTF-8",
-      "University or College",
-      "WPML Multilingual",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
