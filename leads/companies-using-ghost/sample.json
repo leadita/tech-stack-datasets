@@ -1,5 +1,53 @@
 [
   {
+    "domain": "thiel.page",
+    "title": "Lauren Thiel",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 132,
+    "crawled_at": "2026-02-18T16:45:20.117917063Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Bunny Fonts",
+      "DAV",
+      "Express",
+      "Ghost",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "olegzay.com",
+    "title": "Oleg Zaytsev - Cyber, Stories & Ideas",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 660,
+    "crawled_at": "2026-02-18T12:49:45.525302371Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Bunny Fonts",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Express",
+      "Ghost",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Perl",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "confidenceofchampions.com",
     "title": "Confidence of Champions",
     "business_name": "",
@@ -13043,54 +13091,6 @@
     "seo_score": 77,
     "tech_spend": 8899,
     "crawled_at": "2025-11-09T17:02:38.89468337Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Bunny Fonts",
-      "BunnyCDN Header",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Ghost",
-      "Microdata for Google Shopping",
-      "RM Education",
-      "UTF-8",
-      "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "neiledwards.law",
-    "title": "neiledwards.law",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 8899,
-    "crawled_at": "2025-11-09T16:53:38.88210458Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Bunny Fonts",
-      "BunnyCDN Header",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Ghost",
-      "Microdata for Google Shopping",
-      "RM Education",
-      "UTF-8",
-      "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "ashleyspires.law",
-    "title": "ashleyspires.law",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 8899,
-    "crawled_at": "2025-11-09T16:44:38.882142632Z",
     "technologies": [
       "Alternate Protocol",
       "ArvanCloud",
