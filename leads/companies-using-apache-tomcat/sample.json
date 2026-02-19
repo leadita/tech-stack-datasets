@@ -1,5 +1,26 @@
 [
   {
+    "domain": "northurn.com",
+    "title": "North Urn",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 57,
+    "tech_spend": 2556,
+    "crawled_at": "2026-02-18T23:47:24.757995676Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Onyx Internet",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "larixweb.com",
     "title": "Larixweb",
     "business_name": "larixweb",
@@ -13348,27 +13369,6 @@
       "University or College",
       "Unix",
       "Visual Studio"
-    ]
-  },
-  {
-    "domain": "northurn.com",
-    "title": "North Urn",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 57,
-    "tech_spend": 2556,
-    "crawled_at": "2025-10-31T21:41:39.069095104Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Onyx Internet",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
