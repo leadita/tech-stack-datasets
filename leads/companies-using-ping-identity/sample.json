@@ -1,5 +1,37 @@
 [
   {
+    "domain": "kokotech.in",
+    "title": "Komal Rane",
+    "business_name": "",
+    "country": "IRL",
+    "seo_score": 75,
+    "tech_spend": 50377,
+    "crawled_at": "2026-02-18T19:13:10.168891706Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "BootstrapMade",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "Medium",
+      "PHP",
+      "Ping Identity",
+      "Python",
+      "QUIC",
+      "University or College",
+      "eLand"
+    ]
+  },
+  {
     "domain": "iamfactohub.com",
     "title": "IAM Services | IAM Consultancy | IAM Training | IAM FactoHub | IAM FactoHub",
     "business_name": "",
