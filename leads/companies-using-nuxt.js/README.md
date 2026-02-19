@@ -1,6 +1,6 @@
 # Companies Using Nuxt.js (Live Dataset 2026)
 
-This folder contains an active list of 149,559 companies using **Nuxt.js**. 
+This folder contains an active list of 149,317 companies using **Nuxt.js**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 149,559
+- **Total Leads:** 149,317
 - **Verified:** Yes
-- **Last Updated:** 2026-02-18 19:15 UTC
+- **Last Updated:** 2026-02-19 19:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **149,559+** companies using Nuxt.js.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **149,317+** companies using Nuxt.js.
 
 [**⚡ Unlock the Full Nuxt.js List with Contact Details**](https://leadita.com/leads/companies-using-nuxt.js)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-18 19:15 UTC*
+*Last updated: 2026-02-19 19:15 UTC*
 *Data source: Leadita Technographic Intelligence*
