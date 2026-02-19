@@ -7336,47 +7336,5 @@
       "jsDelivr",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "mhop.fit",
-    "title": "MINI'S HOUSE OF PAIN - Mini's House of Pain",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 25066,
-    "crawled_at": "2025-10-31T22:47:38.901598152Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Equally AI",
-      "Glofox",
-      "Google",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Gravity",
-      "Gravity Forms",
-      "Hello Elementor",
-      "Lazy Load for WordPress",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "Sitelinks Search Box",
-      "SmartCrawl",
-      "Theme In WP",
-      "UTF-8",
-      "University or College",
-      "WP Engine",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "jsDelivr"
-    ]
   }
 ]
