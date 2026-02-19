@@ -1,5 +1,35 @@
 [
   {
+    "domain": "ano-fox.de",
+    "title": "AnoFox | Enterprise Forecasting",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 52440,
+    "crawled_at": "2026-02-19T13:36:38.255511745Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "KaTeX",
+      "Ntent",
+      "Perl",
+      "Python",
+      "SMC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "codeweb.chat",
     "title": "Intro | Code Web Chat",
     "business_name": "",
@@ -12556,23 +12586,6 @@
       "UTF-8",
       "Vercel",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "hoefl.at",
-    "title": "Alois Höfl - Die Sonne ins Haus | Alois Höfl",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 600,
-    "crawled_at": "2025-11-01T05:41:38.943659462Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "Perl",
-      "UTF-8"
     ]
   }
 ]

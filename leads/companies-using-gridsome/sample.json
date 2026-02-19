@@ -1,5 +1,76 @@
 [
   {
+    "domain": "codybarr.dev",
+    "title": "Cody Barr | Portfolio",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 268,
+    "crawled_at": "2026-02-19T18:33:22.137101903Z",
+    "technologies": [
+      "Content Delivery Network",
+      "ElementUI",
+      "Gambling Content",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Netlify",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "tonycreates.dev",
+    "title": "Home - A Blog By Tony Junkes",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 5516,
+    "crawled_at": "2026-02-19T17:47:51.250097424Z",
+    "technologies": [
+      "Adobe ColdFusion",
+      "Content Delivery Network",
+      "Formspree",
+      "GitHub Hosting",
+      "Google Adsense",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google Reseller",
+      "Gridsome",
+      "Idaq",
+      "Netlify",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "justlisted.io",
+    "title": "Home - JUSTLISTED.IO",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 243,
+    "crawled_at": "2026-02-19T06:10:10.225483393Z",
+    "technologies": [
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Netlify",
+      "PWA",
+      "StackPath",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "mertcertel.com",
     "title": "Mert Certel",
     "business_name": "",
@@ -11835,67 +11906,6 @@
       "Gridsome",
       "QUIC",
       "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "loaded-open.eu",
-    "title": "Úvod - Nahráno - Otevřeno",
-    "business_name": "",
-    "country": "CZE",
-    "seo_score": 67,
-    "tech_spend": 4228,
-    "crawled_at": "2025-11-04T09:03:23.794185519Z",
-    "technologies": [
-      "Cloudinary",
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "QUIC",
-      "Subversion",
-      "UTF-8",
-      "YouTube",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "angelosemeraro.info",
-    "title": "Home - Angelo Semeraro",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 6050,
-    "crawled_at": "2025-11-04T08:34:57.28782312Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Gridsome",
-      "Idaq",
-      "KVH",
-      "Medium",
-      "Netlify",
-      "UTF-8",
-      "University or College"
-    ]
-  },
-  {
-    "domain": "creditok.co",
-    "title": "ผ่อนประกันธุรกิจ โรงงาน ประกันสุขภาพกลุ่ม ประกันรถยนต์ 0% สูงสุด 6 งวด สำหรับ SME - Credit OK",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 7500,
-    "crawled_at": "2025-11-04T07:44:38.970582244Z",
-    "technologies": [
-      "Fireblade",
-      "Google Analytics",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "Gridsome",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
