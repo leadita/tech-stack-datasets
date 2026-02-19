@@ -1,5 +1,50 @@
 [
   {
+    "domain": "alovingway.com",
+    "title": "A Loving Way To Parent | Your #1 Parent-Child Relationship Expert",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 21337,
+    "crawled_at": "2026-02-19T12:59:06.223058763Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Alternate Protocol",
+      "Calendly",
+      "Content Delivery Network",
+      "Eber",
+      "Elementor",
+      "EmbedPress",
+      "Essential Addons for Elementor",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GZIP Module",
+      "GoDaddy",
+      "Google Cloud DNS",
+      "Hello Elementor",
+      "Instagram Follow Button",
+      "MailOptin for Wordpress",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PHP",
+      "Sucuri Cloudproxy",
+      "Twitter Ads",
+      "UTF-8",
+      "Wangsu",
+      "Way",
+      "WordPress",
+      "WordPress Multisite",
+      "Yelp Badge",
+      "YouTube",
+      "aWeber",
+      "accessiBe",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "rousseaumouthpieces.com",
     "title": "Home | Rousseau Mouthpieces",
     "business_name": "",
@@ -18545,26 +18590,6 @@
       "eLand",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "purologyhand.com",
-    "title": "Purology Hand Massager",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 912,
-    "crawled_at": "2025-12-13T02:10:56.033960691Z",
-    "technologies": [
-      "Amazon Widgets",
-      "Eber",
-      "FormSubmit",
-      "IcoMoon",
-      "LiteSpeed",
-      "QUIC",
-      "Thank You",
-      "aWeber",
-      "uPress"
     ]
   }
 ]
