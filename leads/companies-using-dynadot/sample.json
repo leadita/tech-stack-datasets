@@ -3509,22 +3509,5 @@
       "Instagram Follow Button",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "smaerd.com",
-    "title": "SMAERD",
-    "business_name": "",
-    "country": "",
-    "seo_score": 20,
-    "tech_spend": 135,
-    "crawled_at": "2025-11-01T02:02:38.920460866Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8"
-    ]
   }
 ]
