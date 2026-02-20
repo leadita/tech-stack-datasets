@@ -1,5 +1,33 @@
 [
   {
+    "domain": "qualitydev.pl",
+    "title": "QualityDev Sławomir Wójcik",
+    "business_name": "",
+    "country": "POL",
+    "seo_score": 82,
+    "tech_spend": 168229,
+    "crawled_at": "2026-02-20T01:08:37.249419772Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fireblade",
+      "Formspree",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Oracle Cloud",
+      "Salesforce Hosted",
+      "UTF-8",
+      "University or College",
+      "Unix",
+      "Visual Studio"
+    ]
+  },
+  {
     "domain": "northurn.com",
     "title": "North Urn",
     "business_name": "",
@@ -13340,35 +13368,6 @@
       "WordPress Multisite",
       "WordPress Stats",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "qualitydev.pl",
-    "title": "QualityDev Sławomir Wójcik",
-    "business_name": "",
-    "country": "POL",
-    "seo_score": 82,
-    "tech_spend": 168229,
-    "crawled_at": "2025-11-01T00:57:54.535864405Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Fireblade",
-      "Formspree",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Oracle Cloud",
-      "Salesforce Hosted",
-      "UTF-8",
-      "University or College",
-      "Unix",
-      "Visual Studio"
     ]
   }
 ]
