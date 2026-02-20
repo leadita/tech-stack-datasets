@@ -1,12 +1,12 @@
 [
   {
-    "domain": "anmbcoption.com",
-    "title": "eBC and mBC Treatment | KISQALI® (ribociclib)",
-    "business_name": "Novartis",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 211940,
-    "crawled_at": "2026-02-19T17:31:38.235563594Z",
+    "domain": "mbcmedication.com",
+    "title": "Clinical Trial Results | mBC | KISQALI® (ribociclib)",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 211220,
+    "crawled_at": "2026-02-20T17:01:01.960963536Z",
     "technologies": [
       "Akamai Global Host",
       "Alternate Protocol",
@@ -26,12 +26,10 @@
       "Google Cloud DNS",
       "Google Font API",
       "Google My Business",
-      "Google Related Website Sites",
       "Google Reseller",
       "Google Tag Manager",
       "Kaltura",
       "Material-UI",
-      "Microdata for Google Shopping",
       "Microsoft Clarity",
       "New Relic",
       "Next.js",
@@ -41,6 +39,37 @@
       "QUIC",
       "Tealium",
       "UTF-8"
+    ]
+  },
+  {
+    "domain": "awakenedartistacademy.com",
+    "title": "awakenedartistacademy - Link in Bio & Creator Tools | Beacons",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 82886,
+    "crawled_at": "2026-02-20T07:00:54.479965355Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "Amazon WAF Blocked",
+      "Beacons",
+      "Calendly",
+      "CloudFront",
+      "GZIP Module",
+      "Google Cloud",
+      "Instagram Follow Button",
+      "Kaltura",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "PWA",
+      "Pleroma",
+      "SMC",
+      "Subversion",
+      "UTF-8",
+      "Unix",
+      "Unsplash",
+      "YouTube"
     ]
   },
   {
@@ -13162,37 +13191,6 @@
       "WordPress Multisite",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "awakenedartistacademy.com",
-    "title": "awakenedartistacademy - Link in Bio & Creator Tools | Beacons",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 27244,
-    "crawled_at": "2025-11-01T01:37:37.660795279Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Amazon WAF Blocked",
-      "Beacons",
-      "Calendly",
-      "CloudFront",
-      "GZIP Module",
-      "Google Cloud",
-      "Instagram Follow Button",
-      "Kaltura",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "PWA",
-      "Pleroma",
-      "SMC",
-      "Subversion",
-      "UTF-8",
-      "Unix",
-      "Unsplash",
-      "YouTube"
     ]
   }
 ]
