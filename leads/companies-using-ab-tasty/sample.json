@@ -1,12 +1,12 @@
 [
   {
-    "domain": "remoteglobalcore.com",
+    "domain": "tryremotetools.com",
     "title": "Global HR Solutions & Employment Tools for Distributed Teams | Remote",
     "business_name": "",
     "country": "",
-    "seo_score": 72,
+    "seo_score": 67,
     "tech_spend": 81445,
-    "crawled_at": "2026-02-18T06:30:44.799519948Z",
+    "crawled_at": "2026-02-19T20:26:42.531245332Z",
     "technologies": [
       "AB Tasty",
       "Alternate Protocol",
@@ -45,6 +45,43 @@
       "YouTube",
       "jQuery",
       "jsDelivr"
+    ]
+  },
+  {
+    "domain": "i-sit.org",
+    "title": "IU | University of Applied Sciences for International Students",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 77,
+    "tech_spend": 106299,
+    "crawled_at": "2026-02-19T17:31:38.261592662Z",
+    "technologies": [
+      "AB Tasty",
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Cloudinary",
+      "Content Delivery Network",
+      "Fireblade",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "M247",
+      "Microdata for Google Shopping",
+      "Nuxt.js",
+      "Perl",
+      "QUIC",
+      "Seflow Italy",
+      "Tailwind CSS",
+      "Trustpilot Reviews for WordPress",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube",
+      "shadcn ui"
     ]
   },
   {
@@ -805,43 +842,6 @@
       "Visual Studio",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "ge-tec.org",
-    "title": "IU | University of Applied Sciences for International Students",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 77,
-    "tech_spend": 106299,
-    "crawled_at": "2026-02-06T11:35:53.995486756Z",
-    "technologies": [
-      "AB Tasty",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CloudFront",
-      "Cloudinary",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "M247",
-      "Microdata for Google Shopping",
-      "Nuxt.js",
-      "Perl",
-      "QUIC",
-      "Seflow Italy",
-      "Tailwind CSS",
-      "Trustpilot Reviews for WordPress",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "shadcn ui"
     ]
   },
   {
