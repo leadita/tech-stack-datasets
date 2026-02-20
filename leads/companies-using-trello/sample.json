@@ -1,5 +1,34 @@
 [
   {
+    "domain": "ailenmunoz.com.ar",
+    "title": "Ailen Muñoz - Senior Full Stack Developer",
+    "business_name": "",
+    "country": "ARG",
+    "seo_score": 72,
+    "tech_spend": 3876,
+    "crawled_at": "2026-02-20T07:50:23.437256386Z",
+    "technologies": [
+      "Amazon Link Enchancer",
+      "Amazon Widgets",
+      "Apache",
+      "Astro",
+      "Content Delivery Network",
+      "Ember.js",
+      "Express",
+      "GitHub Hosting",
+      "Heroku",
+      "NFOrce Internet",
+      "PageFly",
+      "Python",
+      "Shopify",
+      "Trello",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "jsei-cm.com",
     "title": "JSEI INGENIERIE",
     "business_name": "",
@@ -19159,29 +19188,6 @@
       "Trello",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "nimbleweave.gay",
-    "title": "Nimble's Floof",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 17203,
-    "crawled_at": "2025-11-21T21:57:19.460512766Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "BLR",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "SMC",
-      "Squid",
-      "Telegram",
-      "Trello",
-      "Tumblr",
-      "Twitter Ads"
     ]
   }
 ]
