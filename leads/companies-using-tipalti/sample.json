@@ -1,5 +1,27 @@
 [
   {
+    "domain": "theyeeld.com",
+    "title": "Yeeld",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 10440,
+    "crawled_at": "2026-02-19T21:35:29.668206948Z",
+    "technologies": [
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Nginx",
+      "Tailwind CSS",
+      "Tipalti",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "gdconlineawards.com",
     "title": "GDC Festival of Gaming",
     "business_name": "",
@@ -926,26 +948,6 @@
       "UTF-8",
       "University or College",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "theyeeld.com",
-    "title": "Yeeld",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 55,
-    "tech_spend": 1851,
-    "crawled_at": "2025-11-01T00:29:38.908106906Z",
-    "technologies": [
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "Tailwind CSS",
-      "Tipalti",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
