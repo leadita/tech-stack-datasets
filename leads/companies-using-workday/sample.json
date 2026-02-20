@@ -1,5 +1,37 @@
 [
   {
+    "domain": "healingcareanimalhospital.net",
+    "title": "Healing Care Animal Hospital | Best Veterinary Care in MI | ...",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 254890,
+    "crawled_at": "2026-02-20T03:42:26.39263769Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Next.js",
+      "Ntent",
+      "Perl",
+      "Pleroma",
+      "QUIC",
+      "Radix UI",
+      "Tailwind CSS",
+      "UTF-8",
+      "Workday"
+    ]
+  },
+  {
     "domain": "drakensberg.net",
     "title": "幸运飞行艇官方开奖记录-开奖历史记录查询-幸运飞行艇官方168开奖历史记录查询结果 | KXAN Austin",
     "business_name": "",
@@ -19255,38 +19287,6 @@
       "UTF-8",
       "Vercel",
       "Walmart",
-      "Workday"
-    ]
-  },
-  {
-    "domain": "washingtoncountyveterinary.com",
-    "title": "Washington County Veterinary Hospital | Best Veterinary Care...",
-    "business_name": "",
-    "country": "VCT",
-    "seo_score": 67,
-    "tech_spend": 254890,
-    "crawled_at": "2025-11-23T05:12:19.431193404Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CloudFront",
-      "Content Delivery Network",
-      "DAV",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Next.js",
-      "Ntent",
-      "Pleroma",
-      "QUIC",
-      "Radix UI",
-      "Tailwind CSS",
-      "UTF-8",
       "Workday"
     ]
   }
