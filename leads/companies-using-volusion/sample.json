@@ -1,5 +1,31 @@
 [
   {
+    "domain": "sacredtraditions.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 24408,
+    "crawled_at": "2026-02-20T01:45:35.550546204Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudinary",
+      "Content Delivery Network",
+      "ElementUI",
+      "Fireblade",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Gravity",
+      "UTF-8",
+      "Volusion",
+      "Volusion Live Chat"
+    ]
+  },
+  {
     "domain": "culturalgirl.com",
     "title": "Doll Outfits - Saris - Free Shipping in US! | Cultural Girl",
     "business_name": "",
@@ -2855,32 +2881,6 @@
       "WordPress Multisite",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "sacredtraditions.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 24408,
-    "crawled_at": "2025-11-01T01:02:38.950516076Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudinary",
-      "Content Delivery Network",
-      "ElementUI",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Gravity",
-      "UTF-8",
-      "Volusion",
-      "Volusion Live Chat"
     ]
   }
 ]

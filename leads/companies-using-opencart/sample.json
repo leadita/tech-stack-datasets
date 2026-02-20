@@ -1,5 +1,71 @@
 [
   {
+    "domain": "vedantamagrifresh.com",
+    "title": "Vedantam Agrifresh",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 67,
+    "tech_spend": 75708,
+    "crawled_at": "2026-02-20T14:51:01.214409387Z",
+    "technologies": [
+      "3 Products",
+      "Cart.com",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "OpenCart",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "demicrete.com",
+    "title": "Demicrate - Panel Solutions",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 127767,
+    "crawled_at": "2026-02-20T01:57:34.470061489Z",
+    "technologies": [
+      "Cart.com",
+      "Font Awesome",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "JivoSite",
+      "Nginx",
+      "OpenCart",
+      "SMC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "jawalk.sa",
+    "title": "jawalk متجر خيرات المستقبل",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 75040,
+    "crawled_at": "2026-02-19T19:48:21.9457064Z",
+    "technologies": [
+      "Cart.com",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "OpenCart",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "sabenapack.store",
     "title": "sabena packaging complete packaging solution at one stop",
     "business_name": "",
@@ -258,27 +324,6 @@
       "eLand",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "picassoq8.com",
-    "title": "بيكاسو",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 30003,
-    "crawled_at": "2026-02-18T00:03:05.124321582Z",
-    "technologies": [
-      "Cart.com",
-      "DAV",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "OpenCart",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   },
   {
@@ -12277,51 +12322,6 @@
       "QUIC",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "fashionkq.com",
-    "title": "Welcome to the clothing website",
-    "business_name": "",
-    "country": "LTU",
-    "seo_score": 62,
-    "tech_spend": 75468,
-    "crawled_at": "2026-01-07T11:28:08.381461845Z",
-    "technologies": [
-      "Apache",
-      "Cart.com",
-      "Free Call",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "sgmoissanite.com",
-    "title": "sgmoissanite.com,starsgems,gem,gemstrone,diamond,lab grown diamond,moissanite,lab grown gems,synthetic stone,natural stone,jewelry,lab sapphire,ruby,cubic zirconia",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 72,
-    "tech_spend": 102040,
-    "crawled_at": "2026-01-07T11:15:53.796700896Z",
-    "technologies": [
-      "Apache",
-      "Cart.com",
-      "GZIP Module",
-      "Gem",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "OpenCart",
-      "PHP",
-      "UTF-8",
-      "Wangsu"
     ]
   }
 ]
