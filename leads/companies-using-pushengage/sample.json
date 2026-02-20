@@ -15906,46 +15906,5 @@
       "YouTube",
       "jQuery"
     ]
-  },
-  {
-    "domain": "maliek-davis.com",
-    "title": "Maliek Davis | Intelligent Systems & Strategic Investments",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 50676,
-    "crawled_at": "2025-11-01T01:32:38.962724343Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon S3 CDN",
-      "Cloudinary",
-      "Content Delivery Network",
-      "DAV",
-      "Engage",
-      "Express",
-      "Federal Deposit Insurance Corporation",
-      "Financial Industry Regulatory Authority",
-      "Fireblade",
-      "Free Call",
-      "ID Services",
-      "Imgix",
-      "Investor Relations",
-      "LeadSquared",
-      "Material-UI",
-      "Next.js",
-      "Perl",
-      "Pexels",
-      "Pleroma",
-      "PushEngage",
-      "Python",
-      "QUIC",
-      "Storyblocks",
-      "UTF-8",
-      "Vecteezy",
-      "Vector Internet Services",
-      "Vercel",
-      "WordPress",
-      "shadcn ui"
-    ]
   }
 ]
