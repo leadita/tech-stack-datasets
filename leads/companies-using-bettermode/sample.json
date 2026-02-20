@@ -1,5 +1,25 @@
 [
   {
+    "domain": "alanhadyk.dev",
+    "title": "Alan Hadyk - Portfolio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 6144,
+    "crawled_at": "2026-02-20T08:19:29.26480927Z",
+    "technologies": [
+      "Astro",
+      "BetterMode",
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "IcoMoon",
+      "Netlify",
+      "PrestaShop",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "raptivecooking.com",
     "title": "Feed - Raptive Cooking",
     "business_name": "",
@@ -1986,26 +2006,6 @@
       "Vector Internet Services",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "alanhadyk.dev",
-    "title": "Alan Hadyk - Portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 6144,
-    "crawled_at": "2025-11-01T01:44:39.062135893Z",
-    "technologies": [
-      "Astro",
-      "BetterMode",
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "IcoMoon",
-      "Netlify",
-      "PrestaShop",
-      "UTF-8"
     ]
   }
 ]
