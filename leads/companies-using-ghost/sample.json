@@ -1,5 +1,82 @@
 [
   {
+    "domain": "daviswhitehead.com",
+    "title": "Davis Whitehead",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 3360,
+    "crawled_at": "2026-02-20T05:08:03.930003963Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "DAV",
+      "Fastly",
+      "GZIP Module",
+      "Ghost",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Iubenda",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "Stripe",
+      "Twitter Ads",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "loothappens.com",
+    "title": "Loot Happens",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 132,
+    "crawled_at": "2026-02-20T01:08:37.221438059Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Express",
+      "GZIP Module",
+      "Ghost",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Stripe",
+      "UTF-8",
+      "Ubuntu",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "pansy.club",
+    "title": "Pansy Club",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 4660,
+    "crawled_at": "2026-02-19T18:08:44.282100694Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Cloudinary",
+      "DAV",
+      "Express",
+      "Ghost",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Stripe",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "thiel.page",
     "title": "Lauren Thiel",
     "business_name": "",
@@ -13033,78 +13110,6 @@
       "Ubuntu",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "jeddouglas.law",
-    "title": "jeddouglas.law",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 2044,
-    "crawled_at": "2025-11-09T17:23:38.896180855Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Bunny Fonts",
-      "BunnyCDN Header",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Ghost",
-      "Microdata for Google Shopping",
-      "RM Education",
-      "UTF-8",
-      "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "richardschlueter.law",
-    "title": "richardschlueter.law",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 8899,
-    "crawled_at": "2025-11-09T17:20:38.880517922Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Bunny Fonts",
-      "BunnyCDN Header",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Ghost",
-      "Microdata for Google Shopping",
-      "RM Education",
-      "UTF-8",
-      "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "brandonsmith.law",
-    "title": "brandonsmith.law",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 8899,
-    "crawled_at": "2025-11-09T17:02:38.89468337Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Bunny Fonts",
-      "BunnyCDN Header",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Ghost",
-      "Microdata for Google Shopping",
-      "RM Education",
-      "UTF-8",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]

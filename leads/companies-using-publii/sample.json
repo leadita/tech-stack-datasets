@@ -1,5 +1,59 @@
 [
   {
+    "domain": "artofphoebe.com",
+    "title": "Phoebe",
+    "business_name": "Phoebe",
+    "country": "USA",
+    "seo_score": 50,
+    "tech_spend": 49,
+    "crawled_at": "2026-02-20T02:59:12.574311382Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "thomasmastersgallery.com",
+    "title": "thomas masters gallery",
+    "business_name": "thomas masters gallery ",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 448,
+    "crawled_at": "2026-02-19T20:15:31.565046776Z",
+    "technologies": [
+      "Apache",
+      "CoreUI",
+      "DAV",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "postergalaxy.net",
+    "title": "Galaxy Posters",
+    "business_name": "Galaxy Posters",
+    "country": "DEU",
+    "seo_score": 40,
+    "tech_spend": 61,
+    "crawled_at": "2026-02-19T16:50:41.263911774Z",
+    "technologies": [
+      "BunnyCDN Header",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "lupusvox.com",
     "title": "Subject: Lupus Vox",
     "business_name": "",
@@ -744,25 +798,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "galaxy-poster.com",
-    "title": "Galaxy Posters",
-    "business_name": "Galaxy Posters",
-    "country": "DEU",
-    "seo_score": 40,
-    "tech_spend": 61,
-    "crawled_at": "2026-01-26T15:18:04.184220557Z",
-    "technologies": [
-      "BunnyCDN Header",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
     ]
   },
   {
@@ -7179,41 +7214,6 @@
       "Microdata for Google Shopping",
       "Publii",
       "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "artofphoebe.com",
-    "title": "Phoebe",
-    "business_name": "Phoebe",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 49,
-    "crawled_at": "2025-11-01T01:08:39.459507225Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "thomasmastersgallery.com",
-    "title": "thomas masters gallery",
-    "business_name": "thomas masters gallery ",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 448,
-    "crawled_at": "2025-11-01T00:19:31.303501884Z",
-    "technologies": [
-      "Apache",
-      "CoreUI",
-      "DAV",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Publii",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   }

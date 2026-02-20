@@ -1,5 +1,28 @@
 [
   {
+    "domain": "jimmitchell.org",
+    "title": "Jim Mitchell",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 15237,
+    "crawled_at": "2026-02-20T00:41:01.390431835Z",
+    "technologies": [
+      "1Password",
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Bitwarden Passwordless",
+      "GitHub Hosting",
+      "Hugo",
+      "Micro.blog",
+      "PWA",
+      "QUIC",
+      "Share Link",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "tantek.com",
     "title": "Tantek Çelik",
     "business_name": "",
@@ -7631,27 +7654,6 @@
       "Twitter Ads",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "jimmitchell.org",
-    "title": "Jim Mitchell",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 155120,
-    "crawled_at": "2025-11-01T00:55:17.472834099Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cisco/Arrowpoint Content Service Switch",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Micro.blog",
-      "PWA",
-      "QUIC",
-      "Salesforce Hosted",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
