@@ -1,5 +1,25 @@
 [
   {
+    "domain": "tntplumbingllc.com",
+    "title": "T&T Plumbing LLC | Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 708,
+    "crawled_at": "2026-02-20T06:52:40.929970607Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Perl",
+      "QUIC",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "coinsnack.nl",
     "title": "Coinsnack.nl: Your Ultimate Guide to Cryptocurrency News and Insights",
     "business_name": "",
@@ -8991,26 +9011,6 @@
       "UTF-8",
       "Vimeo",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "tntplumbingllc.com",
-    "title": "T&T Plumbing LLC | Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 708,
-    "crawled_at": "2025-11-01T01:36:26.36146705Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
     ]
   }
 ]
