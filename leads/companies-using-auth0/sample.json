@@ -1,5 +1,31 @@
 [
   {
+    "domain": "ldnfgss.com",
+    "title": "LFGSS",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 67,
+    "tech_spend": 6700,
+    "crawled_at": "2026-02-20T14:23:31.718529122Z",
+    "technologies": [
+      "Adult Content",
+      "Auth0",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Django CSRF",
+      "Fastly",
+      "Google",
+      "Google Cloud DNS",
+      "Google Code Prettify",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Open Collective",
+      "Schema Plugin",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "seventh-sense.com",
     "title": "Seventh Sense | Email Send Time Optimization for HubSpot and Marketo",
     "business_name": "",
@@ -1788,32 +1814,6 @@
       "UTF-8",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "londonfgss.com",
-    "title": "LFGSS",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 67,
-    "tech_spend": 6700,
-    "crawled_at": "2026-02-01T01:13:48.870746108Z",
-    "technologies": [
-      "Adult Content",
-      "Auth0",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Django CSRF",
-      "Fastly",
-      "Google",
-      "Google Cloud DNS",
-      "Google Code Prettify",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Open Collective",
-      "Schema Plugin",
-      "UTF-8",
-      "jQuery"
     ]
   },
   {

@@ -1,6 +1,6 @@
 # Companies Using hCaptcha (Live Dataset 2026)
 
-This folder contains an active list of 338,776 companies using **hCaptcha**. 
+This folder contains an active list of 338,331 companies using **hCaptcha**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 338,776
+- **Total Leads:** 338,331
 - **Verified:** Yes
-- **Last Updated:** 2026-02-19 15:45 UTC
+- **Last Updated:** 2026-02-20 15:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **338,776+** companies using hCaptcha.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **338,331+** companies using hCaptcha.
 
 [**⚡ Unlock the Full hCaptcha List with Contact Details**](https://leadita.com/leads/companies-using-hcaptcha)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-19 15:45 UTC*
+*Last updated: 2026-02-20 15:45 UTC*
 *Data source: Leadita Technographic Intelligence*

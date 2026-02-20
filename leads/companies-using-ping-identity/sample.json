@@ -1,5 +1,36 @@
 [
   {
+    "domain": "pilatesalliance.net",
+    "title": "alliance",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 20000,
+    "crawled_at": "2026-02-20T08:08:33.225437974Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "AutoComplete",
+      "ClickOn",
+      "FreeCSSTemplates",
+      "GZIP Module",
+      "GetResponse",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Kitco",
+      "New Relic",
+      "Nginx",
+      "Perl",
+      "Ping Identity",
+      "Pleroma",
+      "Tailwind CSS",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "kokotech.in",
     "title": "Komal Rane",
     "business_name": "",
@@ -828,37 +859,6 @@
       "WordPress Multisite",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "pilatesalliance.net",
-    "title": "alliance",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 20000,
-    "crawled_at": "2025-11-01T01:44:38.914297408Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "AutoComplete",
-      "ClickOn",
-      "FreeCSSTemplates",
-      "GZIP Module",
-      "GetResponse",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Kitco",
-      "New Relic",
-      "Nginx",
-      "Perl",
-      "Ping Identity",
-      "Pleroma",
-      "Tailwind CSS",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "YouTube"
     ]
   }
 ]
