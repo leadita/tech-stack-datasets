@@ -1,5 +1,32 @@
 [
   {
+    "domain": "invatu.com",
+    "title": "Invatu Technologies",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 21442,
+    "crawled_at": "2026-02-19T15:04:58.189381414Z",
+    "technologies": [
+      "Apollo IO",
+      "Bulma",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Fastly",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "PartnerStack",
+      "Recruitee",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "arahi.ai",
     "title": "Arahi AI | No-Code AI Agents to Automate Any Workflow",
     "business_name": "Arahi AI",
@@ -9685,33 +9712,6 @@
       "Way",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "invatu.in",
-    "title": "Invatu Technologies",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 21442,
-    "crawled_at": "2025-11-01T12:44:38.90342758Z",
-    "technologies": [
-      "Apollo IO",
-      "Bulma",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Fastly",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "PartnerStack",
-      "Recruitee",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   },
   {

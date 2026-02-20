@@ -1,18 +1,16 @@
 [
   {
-    "domain": "heatyourlife.co.uk",
-    "title": "Life Heater",
+    "domain": "heatyourlife.de",
+    "title": "Life Heater Tragbarer Heizer",
     "business_name": "",
     "country": "",
-    "seo_score": 52,
-    "tech_spend": 16500,
-    "crawled_at": "2026-02-19T11:11:51.045439386Z",
+    "seo_score": 57,
+    "tech_spend": 9000,
+    "crawled_at": "2026-02-20T00:19:56.343916814Z",
     "technologies": [
       "Apache",
       "Apture Linking Platform",
       "Everflow",
-      "Fireblade",
-      "QUIC",
       "UPS",
       "UTF-8"
     ]
