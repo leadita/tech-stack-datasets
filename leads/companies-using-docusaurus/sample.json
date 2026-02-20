@@ -1,5 +1,48 @@
 [
   {
+    "domain": "felipebz.com",
+    "title": "Felipe Zorzo",
+    "business_name": "",
+    "country": "",
+    "seo_score": 20,
+    "tech_spend": "",
+    "crawled_at": "2026-02-20T20:02:06.862468438Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Perl"
+    ]
+  },
+  {
+    "domain": "ask-ai-button.io",
+    "title": "Ask AI Button - Add AI chatbot to your docs",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 15000,
+    "crawled_at": "2026-02-19T22:52:45.333505962Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fireblade",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "ano-fox.de",
     "title": "AnoFox | Enterprise Forecasting",
     "business_name": "",
@@ -12533,59 +12576,6 @@
       "Fastly",
       "Perl",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "taigmaccarthy.com",
-    "title": "Taig Mac Carthy",
-    "business_name": "Taig Mac Carthy",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 4800,
-    "crawled_at": "2025-11-01T08:05:54.740160006Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "KaTeX",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "amantel.de",
-    "title": "Alexander Mantel's Homepage",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 303,
-    "crawled_at": "2025-11-01T08:02:38.983141912Z",
-    "technologies": [
-      "ArvanCloud",
-      "CM Commerce",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Material-UI",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "UTF-8",
-      "Vercel",
-      "jsDelivr"
     ]
   }
 ]

@@ -1,5 +1,62 @@
 [
   {
+    "domain": "torvehallerne.dk",
+    "title": "Forside - Torvehallerne",
+    "business_name": "",
+    "country": "DNK",
+    "seo_score": 72,
+    "tech_spend": 136303,
+    "crawled_at": "2026-02-20T13:05:19.347713239Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Apyl",
+      "CCSI",
+      "Content Delivery Network",
+      "Cybot",
+      "DAV",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gridsome",
+      "Instagram Follow Button",
+      "K2F",
+      "KVH",
+      "Netlify",
+      "No-Q",
+      "O2MC Dimml",
+      "SMC",
+      "Subversion",
+      "UTF-8",
+      "WordPress"
+    ]
+  },
+  {
+    "domain": "nutrientcheck.com",
+    "title": "Nutrient Check - Nutrient Check",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 7043,
+    "crawled_at": "2026-02-20T10:42:02.454286212Z",
+    "technologies": [
+      "Bulma",
+      "Content Delivery Network",
+      "DAV",
+      "Fastly",
+      "Firebase",
+      "Font Awesome",
+      "Google",
+      "Google Cloud CDN",
+      "Gridsome",
+      "MailChimp",
+      "Postimage.org",
+      "QUIC",
+      "Subversion",
+      "UTF-8",
+      "Unsplash",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "codybarr.dev",
     "title": "Cody Barr | Portfolio",
     "business_name": "",
@@ -11868,44 +11925,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "petitecode.mx",
-    "title": "PetiteCode",
-    "business_name": "",
-    "country": "",
-    "seo_score": 32,
-    "tech_spend": "",
-    "crawled_at": "2025-11-04T12:59:02.336737778Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "Netlify",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "echoes.io",
-    "title": "Echoes: Voice of the customer led growth - Echoes",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 4850,
-    "crawled_at": "2025-11-04T09:47:38.881952706Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Fastly",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gridsome",
-      "QUIC",
-      "Tailwind CSS"
     ]
   }
 ]
