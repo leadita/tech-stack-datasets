@@ -1,5 +1,30 @@
 [
   {
+    "domain": "crdc.com.au",
+    "title": "Home | CRDC",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 1379,
+    "crawled_at": "2026-02-19T17:06:25.009775205Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Creative Cloud WebFonts",
+      "Apache",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Drupal",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Monsido",
+      "Perl",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "cbfpd.org",
     "title": "Crested Butte Fire",
     "business_name": "",
@@ -16138,29 +16163,6 @@
       "Vector Internet Services",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "crdc.com.au",
-    "title": "Home | CRDC",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 1179,
-    "crawled_at": "2025-10-31T23:55:52.258183801Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Apache",
-      "Content Delivery Network",
-      "Drupal",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Monsido",
-      "Perl",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]
