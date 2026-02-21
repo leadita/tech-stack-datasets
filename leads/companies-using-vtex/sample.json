@@ -1147,44 +1147,5 @@
       "YouTube",
       "jQuery"
     ]
-  },
-  {
-    "domain": "coraldent.com.br",
-    "title": "Coraldent - Produtos Inteligentes para Profissionais Exigentes",
-    "business_name": "",
-    "country": "BRA",
-    "seo_score": 72,
-    "tech_spend": 78210,
-    "crawled_at": "2025-11-01T03:57:50.549919985Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Apture Linking Platform",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "KVH",
-      "UTF-8",
-      "VTEX Personalization",
-      "Vector Internet Services",
-      "YouTube",
-      "jQuery"
-    ]
   }
 ]
