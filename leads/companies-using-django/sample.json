@@ -1,5 +1,64 @@
 [
   {
+    "domain": "pennantyachts.com",
+    "title": "Fractional Yacht Leasing in Miami and Annapolis | Pennant Yachts",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 16307,
+    "crawled_at": "2026-02-20T18:54:49.132314987Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Bing Cashback",
+      "Bing Conversion Tracking",
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Django",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Heroku",
+      "IcoMoon",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vimeo",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "cloudgroei.nl",
+    "title": "CloudGroei: Expert Insights on Cloud Growth and Digital Transformation",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 87,
+    "tech_spend": 2756,
+    "crawled_at": "2026-02-20T12:21:04.145769216Z",
+    "technologies": [
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Django",
+      "Gambling Content",
+      "IcoMoon",
+      "Matomo",
+      "Matomo Tag Manager",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "tntplumbingllc.com",
     "title": "T&T Plumbing LLC | Home",
     "business_name": "",
@@ -17,30 +76,6 @@
       "Perl",
       "QUIC",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "coinsnack.nl",
-    "title": "Coinsnack.nl: Your Ultimate Guide to Cryptocurrency News and Insights",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 4256,
-    "crawled_at": "2026-02-19T08:54:37.594270798Z",
-    "technologies": [
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Django",
-      "Gambling Content",
-      "IcoMoon",
-      "Matomo",
-      "Matomo Tag Manager",
-      "NFOrce Internet",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   },
   {
@@ -8986,31 +9021,6 @@
       "Twitter Ads",
       "Yelp Badge",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "pennantyachts.com",
-    "title": "Fractional Yacht Leasing in Miami and Annapolis | Pennant Yachts",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 16307,
-    "crawled_at": "2025-11-01T03:02:38.96846488Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Bulma",
-      "Cloudflare",
-      "Django",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Heroku",
-      "IcoMoon",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vimeo",
-      "jQuery"
     ]
   }
 ]
