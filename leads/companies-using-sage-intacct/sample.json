@@ -1,5 +1,36 @@
 [
   {
+    "domain": "finvari.com",
+    "title": "Finvari",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 70688,
+    "crawled_at": "2026-02-20T12:56:05.37640839Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Builder",
+      "Content Delivery Network",
+      "Fireblade",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "HubSpot Conversations",
+      "Hubspot",
+      "IcoMoon",
+      "Next.js",
+      "QUIC",
+      "Sage Intacct",
+      "Styled Components",
+      "Subversion",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "erpsuccesssystems.com",
     "title": "ERP Success System for Streamlined Financial Workflows",
     "business_name": "Q&A Marketing Ltd t/a Skilful Pursuit",
@@ -340,36 +371,6 @@
       "Thank You",
       "Unsplash",
       "Zyro"
-    ]
-  },
-  {
-    "domain": "leracard.com",
-    "title": "Finvari",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 70688,
-    "crawled_at": "2026-02-17T10:55:51.133898933Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Builder",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "HubSpot Conversations",
-      "Hubspot",
-      "IcoMoon",
-      "Next.js",
-      "QUIC",
-      "Sage Intacct",
-      "Styled Components",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {

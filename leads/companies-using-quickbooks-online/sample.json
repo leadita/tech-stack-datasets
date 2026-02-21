@@ -1,5 +1,30 @@
 [
   {
+    "domain": "rust.cpa",
+    "title": "Home | Rust & Company CPAs",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 12860,
+    "crawled_at": "2026-02-20T18:17:35.585428009Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Cloudinary",
+      "Dext",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "Zoom Video Conferencing"
+    ]
+  },
+  {
     "domain": "huththompson.com",
     "title": "Home | Huth Thompson LLP",
     "business_name": "",
@@ -8182,33 +8207,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "rust.cpa",
-    "title": "Home | Rust & Company CPAs",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 13520,
-    "crawled_at": "2025-11-01T02:58:06.759225317Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "Dext",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "Zoom Video Conferencing",
-      "jsDelivr"
     ]
   }
 ]
