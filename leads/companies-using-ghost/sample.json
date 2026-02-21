@@ -1,5 +1,35 @@
 [
   {
+    "domain": "hmmamail.com",
+    "title": "Ryan Singer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 5340,
+    "crawled_at": "2026-02-20T17:01:01.981287628Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Basecamp",
+      "Camp",
+      "GZIP Module",
+      "Ghost",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Hotjar",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "daviswhitehead.com",
     "title": "Davis Whitehead",
     "business_name": "",
@@ -6375,37 +6405,6 @@
       "Ghost",
       "Microdata for Google Shopping",
       "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "feltpresence.com",
-    "title": "Ryan Singer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 7740,
-    "crawled_at": "2025-12-21T06:41:05.810062735Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Basecamp",
-      "Camp",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Ghost",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Hotjar",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
       "jsDelivr"
     ]
   },
