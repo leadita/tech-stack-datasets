@@ -1,5 +1,33 @@
 [
   {
+    "domain": "iasptraining.ca",
+    "title": "Ontario Structured Psychotherapy (OSP)",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 11519,
+    "crawled_at": "2026-02-21T01:29:45.50150506Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Creative Cloud WebFonts",
+      "Apache",
+      "CentOS",
+      "Fastly",
+      "Font Awesome",
+      "Moodle",
+      "NFOrce Internet",
+      "OpenSSL",
+      "PHP",
+      "Tailwind CSS",
+      "Thank You",
+      "Totara",
+      "UTF-8",
+      "University or College",
+      "Vimeo",
+      "Vue.js"
+    ]
+  },
+  {
     "domain": "whstech2.x10.mx",
     "title": "Westerly High Technology Moodle",
     "business_name": "",
@@ -1250,33 +1278,6 @@
       "Totara",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "iasptraining.ca",
-    "title": "Ontario Structured Psychotherapy (OSP)",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 11519,
-    "crawled_at": "2025-11-01T03:53:39.195929413Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Apache",
-      "CentOS",
-      "Fastly",
-      "Font Awesome",
-      "Moodle",
-      "NFOrce Internet",
-      "OpenSSL",
-      "PHP",
-      "Tailwind CSS",
-      "Thank You",
-      "Totara",
-      "UTF-8",
-      "University or College",
-      "Vimeo"
     ]
   }
 ]

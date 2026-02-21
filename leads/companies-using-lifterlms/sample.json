@@ -1,5 +1,37 @@
 [
   {
+    "domain": "groundgurus.net",
+    "title": "Home - Ground Gurus",
+    "business_name": "",
+    "country": "PHL",
+    "seo_score": 72,
+    "tech_spend": 17449,
+    "crawled_at": "2026-02-20T22:01:17.48344582Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "CoBlocks",
+      "Contact Form Plugin",
+      "EmbedPress",
+      "GoDaddy",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LifterLMS",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PHP",
+      "Perl",
+      "Python",
+      "Sitelinks Search Box",
+      "UTF-8",
+      "Wangsu",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "penpointefoundation.org",
     "title": "Pen Pointe Foundation",
     "business_name": "",
@@ -18379,40 +18411,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "groundgurus.net",
-    "title": "Home - Ground Gurus",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 77,
-    "tech_spend": 17603,
-    "crawled_at": "2025-11-01T03:28:31.870743819Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "CoBlocks",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "EmbedPress",
-      "GoDaddy",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Jetpack",
-      "LifterLMS",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PHP",
-      "Perl",
-      "Python",
-      "Sitelinks Search Box",
-      "UTF-8",
-      "Wangsu",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
