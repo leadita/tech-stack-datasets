@@ -1,5 +1,38 @@
 [
   {
+    "domain": "charlestondigs.biz",
+    "title": "Charleston Real Estate Video Blog with Jonathan Holt",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 1819,
+    "crawled_at": "2026-02-21T06:01:45.111667968Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Font Awesome",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Jekyll",
+      "License Buttons",
+      "Nginx",
+      "PWA",
+      "Paperform",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "coachtrex.com",
     "title": "Real Estate Team Growth Consultant | Terry Trexler",
     "business_name": "",
@@ -16850,41 +16883,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "centralmasscounseling.com",
-    "title": "Home | Central Mass Counseling & Wellness",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 19426,
-    "crawled_at": "2025-11-14T23:02:05.019308533Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Divi",
-      "Elegant Themes",
-      "EmbedPress",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Paperform",
-      "Sitelinks Search Box",
-      "Theme In WP",
-      "UTF-8",
-      "University or College",
-      "WP Engine",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
