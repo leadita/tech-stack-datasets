@@ -1,5 +1,57 @@
 [
   {
+    "domain": "closence.com",
+    "title": "Closence | Closence Website",
+    "business_name": "",
+    "country": "ARM",
+    "seo_score": 50,
+    "tech_spend": 3119,
+    "crawled_at": "2026-02-21T14:04:56.650053691Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "Gatsby JS",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Recruitee",
+      "Styled Components",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "fashioncloud.co",
+    "title": "Transform your Wholesale Business with Fashion Cloud",
+    "business_name": "Fashion Cloud",
+    "country": "DEU",
+    "seo_score": 77,
+    "tech_spend": 17635,
+    "crawled_at": "2026-02-21T05:13:13.688373169Z",
+    "technologies": [
+      "Alibaba Cloud CDN",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Intercom",
+      "Microdata for Google Shopping",
+      "Recruitee",
+      "Tailwind CSS",
+      "UTF-8",
+      "WF Cookie Consent",
+      "Weglot",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "maxwindropballs.xyz",
     "title": "Free Online Games on CrazyGames | Play Now!",
     "business_name": "",
@@ -276,38 +328,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Wistia"
-    ]
-  },
-  {
-    "domain": "fashioncloud.dk",
-    "title": "Transform your Wholesale Business with Fashion Cloud",
-    "business_name": "Fashion Cloud",
-    "country": "DEU",
-    "seo_score": 77,
-    "tech_spend": 17635,
-    "crawled_at": "2026-02-17T02:13:14.245894113Z",
-    "technologies": [
-      "Alibaba Cloud CDN",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Intercom",
-      "Microdata for Google Shopping",
-      "Recruitee",
-      "Tailwind CSS",
-      "UTF-8",
-      "WF Cookie Consent",
-      "Weglot",
-      "jsDelivr"
     ]
   },
   {
@@ -8449,26 +8469,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "closence.com",
-    "title": "Closence | Closence Website",
-    "business_name": "",
-    "country": "ARM",
-    "seo_score": 50,
-    "tech_spend": 3119,
-    "crawled_at": "2025-11-01T05:26:38.902230842Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "Gatsby JS",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Recruitee",
-      "Styled Components",
-      "UTF-8"
     ]
   }
 ]
