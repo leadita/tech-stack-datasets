@@ -1,5 +1,24 @@
 [
   {
+    "domain": "aivoicebridge.com",
+    "title": "AI Voice Bridge - Next-Gen Voice AI Solutions",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-02-21T04:44:05.072695516Z",
+    "technologies": [
+      "AI Log",
+      "Content Delivery Network",
+      "DHL",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "fabric-couture.com",
     "title": "Premium Fabrics & Textiles from Italy – Fabric Couture",
     "business_name": " Fabric Couture ",
@@ -18090,35 +18109,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "printpackandship.pro",
-    "title": "Print Pack & Ship LLC ·",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 159,
-    "crawled_at": "2025-11-05T17:23:13.797981688Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Angular",
-      "Bulma",
-      "DAV",
-      "DHL Parcel",
-      "FedEx",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Nginx",
-      "Pagekit",
-      "QUIC",
-      "Twitter Ads",
-      "UPS",
-      "USPS",
-      "UTF-8"
     ]
   }
 ]
