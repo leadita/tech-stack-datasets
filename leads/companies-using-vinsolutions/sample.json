@@ -1,5 +1,29 @@
 [
   {
+    "domain": "synapticautomotive.com",
+    "title": "Synaptic Automotive - Private AI Sales Performance Analysis",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 70,
+    "tech_spend": 53136,
+    "crawled_at": "2026-02-20T20:50:06.376901034Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Fastly",
+      "Fireblade",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Motive",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8",
+      "VinSolutions",
+      "Web3Forms",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "elevinsolutions.com",
     "title": "Empowering Entrepreneurs - ELEVIN Solutions",
     "business_name": "ELEVIN Solutions",
