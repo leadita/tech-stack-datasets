@@ -1,5 +1,22 @@
 [
   {
+    "domain": "lbhi.org",
+    "title": "Latino Behavioral Health Institute | Non-Profit Website",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 60,
+    "tech_spend": 36,
+    "crawled_at": "2026-02-21T13:28:25.247498966Z",
+    "technologies": [
+      "Dynadot",
+      "Google Analytics",
+      "LiteSpeed",
+      "QUIC",
+      "UTF-8",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "restaurantkibe.com",
     "title": "Restaurant Kibe Mahala - Welcome!",
     "business_name": "",
