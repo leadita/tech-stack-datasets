@@ -1,20 +1,21 @@
 [
   {
-    "domain": "proadvice.be",
+    "domain": "nycbikestats.com",
     "title": "Grafana",
     "business_name": "",
     "country": "",
     "seo_score": 35,
     "tech_spend": 1200,
-    "crawled_at": "2026-02-20T16:21:53.400510688Z",
+    "crawled_at": "2026-02-21T04:02:42.339827494Z",
     "technologies": [
       "Barchart",
-      "Cloudflare",
-      "Cloudflare CDN",
       "Express",
+      "GZIP Module",
       "GitHub Hosting",
       "Grafana",
-      "UTF-8"
+      "Nginx",
+      "UTF-8",
+      "Ubuntu"
     ]
   },
   {
@@ -36,26 +37,6 @@
       "UTF-8",
       "Ubuntu",
       "Yandex Hosting"
-    ]
-  },
-  {
-    "domain": "wdrentals.com",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 1200,
-    "crawled_at": "2026-02-02T21:55:48.860684432Z",
-    "technologies": [
-      "Apache",
-      "Barchart",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Grafana",
-      "Nginx",
-      "UTF-8"
     ]
   },
   {
@@ -91,6 +72,26 @@
       "GitHub Hosting",
       "Google Cloud DNS",
       "Grafana",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "elm-monitoring.app",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 11398,
+    "crawled_at": "2025-12-29T17:34:38.31873147Z",
+    "technologies": [
+      "Apache",
+      "Barchart",
+      "Contento",
+      "DAV",
+      "Express",
+      "GitHub Hosting",
+      "Grafana",
+      "No-Q",
       "UTF-8"
     ]
   },
