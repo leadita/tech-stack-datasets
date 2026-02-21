@@ -1,5 +1,38 @@
 [
   {
+    "domain": "fupodcast.com",
+    "title": "FU Podcast » Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 5487,
+    "crawled_at": "2026-02-21T05:13:13.717357117Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon Widgets",
+      "Apache",
+      "Fastly",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "PWA",
+      "Parcel",
+      "Schema Plugin",
+      "Smartsheet",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Webwave",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "hermanssupply.ca",
     "title": "Herman's Supply Company-Building Supplies-Helping Our Customers Win",
     "business_name": "",
@@ -15509,39 +15542,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "fupodcast.com",
-    "title": "FU Podcast » Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 5487,
-    "crawled_at": "2025-11-01T04:20:38.95282834Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon Widgets",
-      "Apache",
-      "Fastly",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "PWA",
-      "Parcel",
-      "Schema Plugin",
-      "Smartsheet",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Webwave",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
     ]
   }
 ]

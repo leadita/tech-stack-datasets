@@ -1,5 +1,47 @@
 [
   {
+    "domain": "bcmining.uy",
+    "title": "BCMining Cryptocurrency Mining Farms | Blockchain Mining",
+    "business_name": "Blockchain Mining",
+    "country": "URY",
+    "seo_score": 82,
+    "tech_spend": 16793,
+    "crawled_at": "2026-02-21T09:30:46.397588492Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Contact Form 7",
+      "Contact Form Plugin",
+      "EmbedPress",
+      "Fireblade",
+      "Google Analytics",
+      "Google Analytics Dashboard for WordPress",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "MailChimp for WordPress",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Responsive Data",
+      "Schema Plugin",
+      "Sitelinks Search Box",
+      "Slider Revolution",
+      "Theme In WP",
+      "Total",
+      "Trello",
+      "Twitter Ads",
+      "UTF-8",
+      "WPBakery",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "ailenmunoz.com.ar",
     "title": "Ailen Muñoz - Senior Full Stack Developer",
     "business_name": "",
@@ -19165,29 +19207,6 @@
       "Trello",
       "Twitter Ads",
       "Vector Internet Services"
-    ]
-  },
-  {
-    "domain": "ec-sielmingen.de",
-    "title": "EC Sielmingen",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 402,
-    "crawled_at": "2025-11-21T23:24:19.444066503Z",
-    "technologies": [
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Maps",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Nginx",
-      "PHP",
-      "Parallels Plesk Panel",
-      "Trello",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
