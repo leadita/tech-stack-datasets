@@ -1,5 +1,129 @@
 [
   {
+    "domain": "maes.gg",
+    "title": "Home - Rob Maes",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 6653,
+    "crawled_at": "2026-02-21T20:48:02.816782597Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "Financial Services Guide",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Idaq",
+      "K2F",
+      "Python",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "charnelpools.com",
+    "title": "Charnel Pools Pool and Hot Tub Needs",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 45228,
+    "crawled_at": "2026-02-21T15:17:16.809051838Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Financial Services Guide",
+      "Gridsome",
+      "Instagram Follow Button",
+      "K2F",
+      "KVH",
+      "Netlify",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "lovettandleaveit.com.au",
+    "title": "B2C & B2B Ecommerce & ERP Integration Experts | Kobe Creations - Kobe Creations",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 62,
+    "tech_spend": 10219,
+    "crawled_at": "2026-02-21T11:12:08.064128798Z",
+    "technologies": [
+      "Better Lead Generation Services",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gridsome",
+      "HubSpot Conversations",
+      "Hubspot",
+      "Instagram Follow Button",
+      "Nginx",
+      "PrestaShop",
+      "QUIC",
+      "Twitter Ads",
+      "Woo Themes",
+      "WordPress"
+    ]
+  },
+  {
+    "domain": "centrocarpinteropv.com",
+    "title": "Centro Carpintero | Custom Woodworking & Home Renovations Puerto Vallarta",
+    "business_name": "",
+    "country": "MEX",
+    "seo_score": 82,
+    "tech_spend": 3098,
+    "crawled_at": "2026-02-21T06:01:45.12699707Z",
+    "technologies": [
+      "Better Lead Generation Services",
+      "Content Delivery Network",
+      "DAV",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Idaq",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "No-Q",
+      "PWA",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "humanoids.be",
+    "title": "Martin Giger - humanoids bePage",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 27979,
+    "crawled_at": "2026-02-21T03:23:53.50818418Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "DAV",
+      "GitHub Hosting",
+      "Gridsome",
+      "Idaq",
+      "KVH",
+      "Microdata for Google Shopping",
+      "No-Q",
+      "PWA",
+      "QUIC",
+      "Schema Plugin",
+      "Subversion",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "torvehallerne.dk",
     "title": "Forside - Torvehallerne",
     "business_name": "",
@@ -1575,31 +1699,6 @@
       "Font Awesome",
       "GZIP Module",
       "Gridsome"
-    ]
-  },
-  {
-    "domain": "maes.sh",
-    "title": "Home - Rob Maes",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 6653,
-    "crawled_at": "2026-01-31T04:25:48.881649187Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "Financial Services Guide",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Idaq",
-      "K2F",
-      "Python",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   },
   {
@@ -8594,31 +8693,6 @@
     ]
   },
   {
-    "domain": "kobecreations.com",
-    "title": "B2C & B2B Ecommerce & ERP Integration Experts | Kobe Creations - Kobe Creations",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 72,
-    "tech_spend": 10219,
-    "crawled_at": "2025-11-22T12:18:19.447602129Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gridsome",
-      "HubSpot Conversations",
-      "Hubspot",
-      "Instagram Follow Button",
-      "Nginx",
-      "PrestaShop",
-      "QUIC",
-      "Twitter Ads",
-      "Woo Themes",
-      "WordPress"
-    ]
-  },
-  {
     "domain": "unicowd.com",
     "title": "Cowde ninjas in your projects | Unicowd",
     "business_name": "",
@@ -11848,83 +11922,6 @@
       "QUIC",
       "Subversion",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "thoughtsimplified.com",
-    "title": "Home - ThoughtSimplified - Cloud Expertise",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 2490,
-    "crawled_at": "2025-11-04T15:35:38.895536902Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "docr.app",
-    "title": "Docr",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2450,
-    "crawled_at": "2025-11-04T15:35:38.887601809Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Gridsome",
-      "Tailwind CSS",
-      "eLand",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "uxsd.io",
-    "title": "Digital Design at Merck KGaA, Darmstadt, Germany - UXSD",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 77,
-    "tech_spend": 17450,
-    "crawled_at": "2025-11-04T15:26:40.113375851Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "Cookie Accept",
-      "GZIP Module",
-      "Gridsome",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "Medium",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]

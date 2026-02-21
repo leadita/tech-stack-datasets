@@ -1,5 +1,105 @@
 [
   {
+    "domain": "hoefl.at",
+    "title": "Alois Höfl - Die Sonne ins Haus | Alois Höfl",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 600,
+    "crawled_at": "2026-02-21T16:20:47.405085671Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "knapsacky.com",
+    "title": "Knapsacky.com | Knapsacky.com",
+    "business_name": "",
+    "country": "MEX",
+    "seo_score": 82,
+    "tech_spend": 7868,
+    "crawled_at": "2026-02-21T07:19:33.709913451Z",
+    "technologies": [
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "WhatsApp Sharing"
+    ]
+  },
+  {
+    "domain": "fabpsa.au",
+    "title": "Welcome | FABPSA",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 67,
+    "tech_spend": 660,
+    "crawled_at": "2026-02-21T05:32:04.995346551Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Content Delivery Network",
+      "ConvertKit",
+      "Docusaurus",
+      "Google Tag Manager",
+      "Netlify",
+      "Perl",
+      "Plausible Analytics",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "buerli.io",
+    "title": "Buerli.io",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 15600,
+    "crawled_at": "2026-02-21T03:55:13.15188614Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GitHub Hosting",
+      "Perl",
+      "SMC",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "dev.hnm.ch",
+    "title": "Documentation | HNM",
+    "business_name": "",
+    "country": "CHE",
+    "seo_score": 52,
+    "tech_spend": 600,
+    "crawled_at": "2026-02-21T01:37:42.801275493Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "Fastly",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads"
+    ]
+  },
+  {
     "domain": "felipebz.com",
     "title": "Felipe Zorzo",
     "business_name": "",
@@ -719,29 +819,6 @@
       "Google Tag Manager",
       "Perl",
       "Tailwind CSS",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "classcad.ch",
-    "title": "ClassCAD",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2439,
-    "crawled_at": "2026-02-02T16:58:48.882761662Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Express",
-      "Fastly",
-      "GitHub Hosting",
-      "Perl",
-      "Python",
-      "QUIC",
-      "UTF-8",
       "shadcn ui"
     ]
   },
@@ -12494,88 +12571,6 @@
       "GitHub Hosting",
       "Perl",
       "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "smartloop.ai",
-    "title": "Smartloop",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 1203,
-    "crawled_at": "2025-11-01T10:22:36.831305587Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "Express",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Material-UI",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services"
-    ]
-  },
-  {
-    "domain": "bsql.org",
-    "title": "bSQL | bSQL",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2025-11-01T10:11:38.948637365Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Perl",
-      "Python",
-      "QUIC",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "melancholylabs.info",
-    "title": "Melancholy Labs | Melancholy Labs",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 15000,
-    "crawled_at": "2025-11-01T09:36:30.56691461Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "App Store",
-      "Apture Linking Platform",
-      "Docusaurus",
-      "Google My Business",
-      "Google Play",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "perfectpressure.app",
-    "title": "Pressure Pal | Pressure Pal",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 600,
-    "crawled_at": "2025-11-01T09:14:38.987688076Z",
-    "technologies": [
-      "Alternate Protocol",
-      "App Store",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "Perl",
-      "UTF-8"
     ]
   }
 ]
