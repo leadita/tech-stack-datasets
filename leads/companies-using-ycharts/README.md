@@ -1,6 +1,6 @@
 # Companies Using YCharts (Live Dataset 2026)
 
-This folder contains an active list of 23 companies using **YCharts**. 
+This folder contains an active list of 22 companies using **YCharts**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 23
+- **Total Leads:** 22
 - **Verified:** Yes
-- **Last Updated:** 2026-02-20 17:30 UTC
+- **Last Updated:** 2026-02-21 17:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **23+** companies using YCharts.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **22+** companies using YCharts.
 
 [**⚡ Unlock the Full YCharts List with Contact Details**](https://leadita.com/leads/companies-using-ycharts)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-20 17:30 UTC*
+*Last updated: 2026-02-21 17:30 UTC*
 *Data source: Leadita Technographic Intelligence*
