@@ -1,5 +1,32 @@
 [
   {
+    "domain": "amantel.de",
+    "title": "Alexander Mantel's Homepage",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 3868,
+    "crawled_at": "2026-02-22T12:42:06.832745416Z",
+    "technologies": [
+      "ArvanCloud",
+      "CM Commerce",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Material-UI",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "UTF-8",
+      "Vercel",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "hoefl.at",
     "title": "Alois Höfl - Die Sonne ins Haus | Alois Höfl",
     "business_name": "",
@@ -12553,24 +12580,6 @@
       "Tailwind CSS",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "biocentral.cloud",
-    "title": "Biocentral",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2025-11-01T11:00:30.02631424Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Docusaurus",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Perl",
-      "Tailwind CSS"
     ]
   }
 ]

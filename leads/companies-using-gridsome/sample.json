@@ -1,5 +1,38 @@
 [
   {
+    "domain": "our-family-goals.com",
+    "title": "Hello, world! - Our family goals",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": "",
+    "crawled_at": "2026-02-22T13:47:39.05410157Z",
+    "technologies": [
+      "GZIP Module",
+      "Gridsome",
+      "Nginx"
+    ]
+  },
+  {
+    "domain": "peacetreecounseling.com",
+    "title": "Peace Tree Counseling — Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-02-22T05:48:11.143928981Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Forms",
+      "Google Maps",
+      "Google My Business",
+      "Gridsome",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "maes.gg",
     "title": "Home - Rob Maes",
     "business_name": "",
@@ -11860,66 +11893,6 @@
       "KVH",
       "Netlify",
       "SMC",
-      "Subversion",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "codalent.com",
-    "title": "Codalent - JAMStack, Frontend Development, Headless CMS, and Martech Developers for Your Marketing Team. | Codalent",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 24564,
-    "crawled_at": "2025-11-04T21:25:49.530244571Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon Link Enchancer",
-      "Amazon Widgets",
-      "Baidu Cloud",
-      "ClickUp",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Contentful",
-      "Drupal",
-      "GitHub Hosting",
-      "Google My Business",
-      "Gridsome",
-      "Headless UI",
-      "Jekyll",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Sanity",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "traxit.io",
-    "title": "Workflow Management Software for CPAs, EAs, Bookkeepers and more - TRAXIT",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 5297,
-    "crawled_at": "2025-11-04T20:36:13.662036723Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Font Awesome",
-      "Gridsome",
-      "M247",
-      "Netlify",
-      "No-Q",
-      "QUIC",
       "Subversion",
       "UTF-8"
     ]
