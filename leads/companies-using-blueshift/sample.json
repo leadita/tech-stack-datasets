@@ -1,12 +1,12 @@
 [
   {
-    "domain": "thesmartpanda.info",
+    "domain": "smartpandahq.info",
     "title": "Smart Panda Labs | Improving Post-Click Digital Experiences",
     "business_name": "Smart Panda Labs",
     "country": "",
     "seo_score": 67,
     "tech_spend": 202592,
-    "crawled_at": "2026-02-17T10:55:51.107572632Z",
+    "crawled_at": "2026-02-22T08:14:00.329061809Z",
     "technologies": [
       "Akismet",
       "Alternate Protocol",
@@ -42,6 +42,40 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "campaigngenius.io",
+    "title": "Campaign Genius",
+    "business_name": "Campaign-Genius",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 66152,
+    "crawled_at": "2026-02-22T02:45:27.15875177Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Amazon Widgets",
+      "Aruba",
+      "Blueshift",
+      "Express",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Oracle Cloud",
+      "QUIC",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand",
+      "jQuery"
     ]
   },
   {
@@ -215,42 +249,6 @@
       "Twitter Ads",
       "University or College",
       "YouTube",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "opengenius.io",
-    "title": "Smart Metrics — Campaign Genius",
-    "business_name": "Campaign-Genius",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 28323,
-    "crawled_at": "2026-01-12T05:09:58.105829861Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "Blueshift",
-      "CalendarHero",
-      "Express",
-      "Fireblade",
-      "Font Awesome",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Oracle Cloud",
-      "QUIC",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand",
       "jQuery"
     ]
   },
