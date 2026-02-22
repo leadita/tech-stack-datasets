@@ -1,5 +1,24 @@
 [
   {
+    "domain": "crazyfrogtravel.co.uk",
+    "title": "Crazy Frog Travel - Toad Travel | Holiday Quotes | Trips | Cruises | Coach Holidays",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 55,
+    "tech_spend": 7635,
+    "crawled_at": "2026-02-22T10:42:47.615507185Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "Fireblade",
+      "Font Awesome",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "lbhi.org",
     "title": "Latino Behavioral Health Institute | Non-Profit Website",
     "business_name": "",
@@ -3505,25 +3524,6 @@
       "Dynadot",
       "Font Awesome",
       "GZIP Module",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "crazyfrogtravel.co.uk",
-    "title": "Crazy Frog Travel - Toad Travel | Holiday Quotes | Trips | Cruises | Coach Holidays",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 60,
-    "tech_spend": 7635,
-    "crawled_at": "2025-11-01T07:50:38.942809361Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Fireblade",
-      "Font Awesome",
-      "GZIP Module",
-      "Instagram Follow Button",
       "UTF-8"
     ]
   }
