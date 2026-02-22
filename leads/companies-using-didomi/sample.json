@@ -1,5 +1,48 @@
 [
   {
+    "domain": "kaisersteinpalaceapartments.com",
+    "title": "Kaiserstein Palace Apartments - Kaiserstein Palace Apartments -",
+    "business_name": "Kaiserstein Palace Apartments",
+    "country": "CZE",
+    "seo_score": 87,
+    "tech_spend": 28007,
+    "crawled_at": "2026-02-21T19:12:52.176519055Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "AutoComplete",
+      "Booking Affiliate",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Didomi",
+      "EmbedPress",
+      "Fancybox for WordPress",
+      "Fastly",
+      "Font Awesome",
+      "GDPR Consent Management Platform",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Parcel",
+      "QUIC",
+      "Subversion",
+      "Theme In WP",
+      "UTF-8",
+      "WP Engine",
+      "WPML Multilingual",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "gsmproject.world",
     "title": "GSM Project - design & production",
     "business_name": "",
@@ -15663,31 +15706,6 @@
       "Twitter Ads",
       "WF Cookie Consent",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "aparadisimmobilier.com",
-    "title": "Anick Paradis | Residential Real Estate Broker at RE/MAX DIRECT",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 41000,
-    "crawled_at": "2025-11-05T07:57:16.452033445Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Didomi",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Nginx",
-      "Nuxt.js",
-      "QUIC",
-      "UTF-8",
-      "Vector Internet Services"
     ]
   }
 ]
