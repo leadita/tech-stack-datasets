@@ -1,12 +1,12 @@
 [
   {
-    "domain": "useshallot.com",
+    "domain": "usesquash.com",
     "title": "Windmill | AI Performance Reviews",
     "business_name": "",
     "country": "",
-    "seo_score": 67,
+    "seo_score": 82,
     "tech_spend": 20546,
-    "crawled_at": "2026-02-21T22:47:15.050269917Z",
+    "crawled_at": "2026-02-22T01:23:42.224814999Z",
     "technologies": [
       "Apture Linking Platform",
       "Astro",
@@ -29,6 +29,50 @@
       "Zoom",
       "Zoom Video Conferencing",
       "shadcn ui"
+    ]
+  },
+  {
+    "domain": "newitera.nl",
+    "title": "Newitera Hub: Technology Driven Business Enabling",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 4654,
+    "crawled_at": "2026-02-22T00:45:45.548514119Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Bulma",
+      "Contact Form Plugin",
+      "EmbedPress",
+      "Fontshare",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "InitiativeS",
+      "Max Mega Menu",
+      "Max Mega Menu Pro",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Parallels Plesk Panel",
+      "Perl",
+      "QUIC",
+      "Site Kit",
+      "Slider Revolution",
+      "Theme In WP",
+      "UTF-8",
+      "Uncode",
+      "WPBakery",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery",
+      "reCAPTCHA"
     ]
   },
   {
@@ -13701,27 +13745,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "thelearnai.co",
-    "title": "LearnAI - AI Education Platform",
-    "business_name": "",
-    "country": "NGA",
-    "seo_score": 72,
-    "tech_spend": 15279,
-    "crawled_at": "2025-12-15T14:22:56.028899657Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Fontshare",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
