@@ -1,5 +1,37 @@
 [
   {
+    "domain": "liferx.md",
+    "title": "LifeRx.md- Telehealth for All",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 23859,
+    "crawled_at": "2026-02-21T17:18:51.857389937Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "App Store",
+      "CloudFront",
+      "Content Delivery Network",
+      "CookieYes",
+      "CrazyEgg",
+      "Everflow",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Next.js",
+      "Tailwind CSS",
+      "TrustIndex",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "project-pico.com",
     "title": "Pico Goods",
     "business_name": "",
