@@ -15044,42 +15044,5 @@
       "YouTube",
       "jQuery"
     ]
-  },
-  {
-    "domain": "endigital.io",
-    "title": "Software Development and Cloud Native Solutions, Managed Services and Dedicated Product Teams | ENDIGITAL - ENDIGITAL",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 670457,
-    "crawled_at": "2025-11-01T08:23:39.237754391Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Apache",
-      "Bulma",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "CookieConsent",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "PHP",
-      "Python",
-      "Salesforce Commerce Cloud",
-      "Salesforce Hosted",
-      "UTF-8",
-      "Winter CMS"
-    ]
   }
 ]
