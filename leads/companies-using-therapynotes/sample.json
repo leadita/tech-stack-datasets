@@ -1,5 +1,37 @@
 [
   {
+    "domain": "fbx.bz",
+    "title": "Capital Products for Small Businesses | Fundbox",
+    "business_name": "Fundbox",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 26425,
+    "crawled_at": "2026-02-22T16:01:45.991395109Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud CDN",
+      "Google Customer Reviews",
+      "Google My Business",
+      "Housecall Pro",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Nuxt.js",
+      "QUIC",
+      "Tailwind CSS",
+      "TherapyNotes",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "talk2compass.com",
     "title": "Compass Counseling | Individuals, Couples, & Families | Waltham, MA",
     "business_name": "",
@@ -151,38 +183,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "fundbox.io",
-    "title": "Capital Products for Small Businesses | Fundbox",
-    "business_name": "Fundbox",
-    "country": "USA",
-    "seo_score": 92,
-    "tech_spend": 26425,
-    "crawled_at": "2026-02-12T01:29:43.275928947Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud CDN",
-      "Google Customer Reviews",
-      "Google My Business",
-      "Housecall Pro",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Nuxt.js",
-      "QUIC",
-      "Tailwind CSS",
-      "TherapyNotes",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "shadcn ui"
     ]
   },
   {
