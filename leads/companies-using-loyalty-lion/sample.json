@@ -1,12 +1,12 @@
 [
   {
-    "domain": "bulkbars.com.au",
+    "domain": "bulknutrients.co",
     "title": "Bulk Nutrients | Australia's first choice for supplements",
     "business_name": "",
     "country": "GBR",
     "seo_score": 77,
-    "tech_spend": 52084,
-    "crawled_at": "2026-01-21T06:06:44.124497294Z",
+    "tech_spend": 52233,
+    "crawled_at": "2026-02-22T00:45:45.521900965Z",
     "technologies": [
       "3 Products",
       "Amazon",
@@ -46,14 +46,16 @@
       "Ntent",
       "PWA",
       "Perl",
-      "Pleroma",
       "QUIC",
+      "Radix UI",
       "Sanity",
+      "Share Link",
       "Sitelinks Search Box",
       "Tailwind CSS",
       "UTF-8",
       "Vercel",
       "Vimeo",
+      "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "Zendesk Embeddables",
       "shadcn ui"
