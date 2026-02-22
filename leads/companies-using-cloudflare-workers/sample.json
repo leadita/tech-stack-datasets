@@ -1,5 +1,52 @@
 [
   {
+    "domain": "ayoubqrt.dev",
+    "title": "Ayoub Moustakim - Web Developer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 15540,
+    "crawled_at": "2026-02-21T19:45:41.390396052Z",
+    "technologies": [
+      "Astro",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "Fireblade",
+      "GitHub Hosting",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "thibaultvieux.com",
+    "title": "Thibault Vieux",
+    "business_name": "",
+    "country": "JPN",
+    "seo_score": 67,
+    "tech_spend": 10168,
+    "crawled_at": "2026-02-21T14:35:59.674835113Z",
+    "technologies": [
+      "Amazon",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "GitHub Hosting",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Prospective",
+      "Python",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "davidloor.com",
     "title": "David Loor - AI, Cloud & Web Solutions Architect",
     "business_name": "",
@@ -14442,70 +14489,6 @@
       "Workday",
       "reCAPTCHA",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "bav.dev",
-    "title": "Kelvin Baverstock",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 40880,
-    "crawled_at": "2025-11-01T23:53:39.006768978Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "Cloudinary",
-      "Content Delivery Network",
-      "Express",
-      "Fireblade",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "InitiativeS",
-      "NFOrce Internet",
-      "Next.js",
-      "Nginx",
-      "Oracle Cloud",
-      "PWA",
-      "Payload CMS",
-      "Pleroma",
-      "Python",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "eLand",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "keithandrerose.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 216,
-    "crawled_at": "2025-11-01T23:10:59.166521603Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "IcoMoon",
-      "Jekyll",
-      "Netlify",
-      "PWA",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
