@@ -1,5 +1,114 @@
 [
   {
+    "domain": "igu.org",
+    "title": "Home Page | International Gas Union",
+    "business_name": "",
+    "country": "HUN",
+    "seo_score": 72,
+    "tech_spend": 47013,
+    "crawled_at": "2026-02-22T16:40:33.179429407Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "Cybot",
+      "DatoCMS",
+      "Financial Services Guide",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Idaq",
+      "KVH",
+      "NFOrce Internet",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vercel",
+      "YouTube",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "liaizo.com",
+    "title": "Liaizo | Freight forwarder that make ship happen.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 63,
+    "crawled_at": "2026-02-22T11:13:18.78003455Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DatoCMS",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Styled Components",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "mahnkopflegal.com",
+    "title": "Law Firm Max C. Mahnkopf",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 72,
+    "tech_spend": 4128,
+    "crawled_at": "2026-02-22T10:42:47.663588359Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "DatoCMS",
+      "NFOrce Internet",
+      "Next.js",
+      "PWA",
+      "Pleroma",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "sograpevinhos.com",
+    "title": "Sogrape: Exquisite Wine Heritage and Quality",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 82,
+    "tech_spend": 50513,
+    "crawled_at": "2026-02-21T22:08:49.987657732Z",
+    "technologies": [
+      "AAPT",
+      "Adult Content",
+      "Content Delivery Network",
+      "Cybot",
+      "DAV",
+      "DatoCMS",
+      "Express",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Idaq",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "KVH",
+      "Next.js",
+      "Pleroma",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "kotane.co.nz",
     "title": "Waka on the Avon - Christchurch, NZ",
     "business_name": "",
@@ -5896,29 +6005,6 @@
     ]
   },
   {
-    "domain": "wgc2028.com",
-    "title": "Home | International Gas Union",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-01-12T08:07:46.572591815Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Cybot",
-      "DatoCMS",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Next.js",
-      "Pleroma",
-      "Thank You",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "rosecreekvillage.au",
     "title": "Home | Rose Creek Village",
     "business_name": "",
@@ -9510,38 +9596,6 @@
       "Vercel",
       "eLand",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "sogrape.com",
-    "title": "Sogrape: Exquisite Wine Heritage and Quality",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 87,
-    "tech_spend": 50513,
-    "crawled_at": "2025-12-21T16:31:51.530209273Z",
-    "technologies": [
-      "AAPT",
-      "Adult Content",
-      "Content Delivery Network",
-      "Cybot",
-      "DAV",
-      "DatoCMS",
-      "Express",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Idaq",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "KVH",
-      "Next.js",
-      "Pleroma",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vercel",
-      "YouTube"
     ]
   },
   {
@@ -14071,49 +14125,6 @@
       "UTF-8",
       "University or College",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "automatstudio.se",
-    "title": "Automatstudio",
-    "business_name": "",
-    "country": "SWE",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2025-11-25T12:39:19.436716587Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DatoCMS",
-      "GZIP Module",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "mangamaunu-retreat.nz",
-    "title": "Mangamaunu Retreat - Mangumaunu Retreat",
-    "business_name": "",
-    "country": "NZL",
-    "seo_score": 67,
-    "tech_spend": 5446,
-    "crawled_at": "2025-11-25T11:15:15.27946Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "DatoCMS",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Idaq",
-      "Instagram Follow Button",
-      "Netlify",
-      "Next.js",
-      "No-Q",
-      "Pleroma",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
