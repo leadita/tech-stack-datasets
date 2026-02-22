@@ -1,5 +1,34 @@
 [
   {
+    "domain": "tobnm.gov",
+    "title": "Bernalillo",
+    "business_name": "",
+    "country": "PRY",
+    "seo_score": 60,
+    "tech_spend": 1460,
+    "crawled_at": "2026-02-22T06:03:37.239168226Z",
+    "technologies": [
+      "Adult Content",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "ETranslate",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Monsido",
+      "QUIC",
+      "Share Link",
+      "SiteW",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "eLand",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "floridadep.gov",
     "title": "Welcome to Florida Department of Environmental Protection",
     "business_name": "",
@@ -16133,33 +16162,6 @@
       "University or College",
       "Visual Studio",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "tobnm.gov",
-    "title": "Bernalillo",
-    "business_name": "",
-    "country": "PRY",
-    "seo_score": 60,
-    "tech_spend": 1460,
-    "crawled_at": "2025-11-01T07:20:38.922822525Z",
-    "technologies": [
-      "Adult Content",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ETranslate",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Monsido",
-      "QUIC",
-      "SiteW",
-      "Tailwind CSS",
-      "UTF-8",
-      "eLand",
-      "jsDelivr"
     ]
   }
 ]

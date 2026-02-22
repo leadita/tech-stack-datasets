@@ -1,5 +1,37 @@
 [
   {
+    "domain": "dyslexiatips.co.uk",
+    "title": "Home - Wilma Mayhem",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 363,
+    "crawled_at": "2026-02-22T07:04:33.609227044Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "CookieYes",
+      "EmbedPress",
+      "GenerateBlocks",
+      "GeneratePress Company",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Help.com",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Texthelp",
+      "Theme In WP",
+      "UTF-8",
+      "University or College",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "willowbanksurgery.nhs.uk",
     "title": "Homepage - Willow Bank Surgery",
     "business_name": "",
@@ -5593,38 +5625,6 @@
       "YouTube",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "dyslexiatips.co.uk",
-    "title": "Home - Wilma Mayhem",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 363,
-    "crawled_at": "2025-11-01T07:26:38.942574305Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "CookieYes",
-      "EmbedPress",
-      "GenerateBlocks",
-      "GeneratePress Company",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Help.com",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Texthelp",
-      "Theme In WP",
-      "UTF-8",
-      "University or College",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
