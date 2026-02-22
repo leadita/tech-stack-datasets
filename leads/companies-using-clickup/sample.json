@@ -1,5 +1,26 @@
 [
   {
+    "domain": "clickmartltd.com",
+    "title": "Clickmart",
+    "business_name": "",
+    "country": "NGA",
+    "seo_score": 75,
+    "tech_spend": 1627,
+    "crawled_at": "2026-02-22T06:15:52.195470888Z",
+    "technologies": [
+      "ClickUp",
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Perl",
+      "Slider Revolution",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "kiwimagic.net.nz",
     "title": "House & Commercial Cleaning | Kiwi Magic Services",
     "business_name": "Kiwi Magic Services Kiwi Magic Services",
@@ -18727,35 +18748,6 @@
       "Vercel",
       "Vimeo",
       "eLand"
-    ]
-  },
-  {
-    "domain": "totalvirtualassistant.com",
-    "title": "Total Virtual Assistant – On-Demand Virtual Administrative, eCommerce, Web Design & Bookkeeping Services",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 16679,
-    "crawled_at": "2025-11-02T23:44:38.885079859Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Automattic",
-      "Calendly",
-      "ClickUp",
-      "CoBlocks",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats"
     ]
   }
 ]
