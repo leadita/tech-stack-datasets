@@ -1,5 +1,41 @@
 [
   {
+    "domain": "gretechnik.sk",
+    "title": "GreTechnik - GreTechnik",
+    "business_name": "",
+    "country": "SVK",
+    "seo_score": 62,
+    "tech_spend": 4840,
+    "crawled_at": "2026-02-23T18:20:37.83581238Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Fastly",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "totat.nl",
+    "title": "Totat, licht- geluid- en theatertechniek - Totat, licht- geluid- en theatertechniek",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 600,
+    "crawled_at": "2026-02-23T00:17:10.017727823Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "Gridsome",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "our-family-goals.com",
     "title": "Hello, world! - Our family goals",
     "business_name": "",
@@ -11853,47 +11889,6 @@
       "Netlify",
       "Perl",
       "Sanity",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "jessamynphotography.com",
-    "title": "Jessamyn Photography - Jessamyn Photography",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 201,
-    "crawled_at": "2025-11-05T01:37:37.870515833Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "No-Q",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "intermtrans.com",
-    "title": "Intermtrans - Intermtrans",
-    "business_name": "",
-    "country": "POL",
-    "seo_score": 75,
-    "tech_spend": 72728,
-    "crawled_at": "2025-11-04T21:33:41.045315051Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "Gridsome",
-      "Idaq",
-      "KVH",
-      "Netlify",
-      "SMC",
-      "Subversion",
       "UTF-8"
     ]
   }
