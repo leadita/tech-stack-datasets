@@ -1,5 +1,32 @@
 [
   {
+    "domain": "galliumo.com",
+    "title": "GalliumGroup",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 19156,
+    "crawled_at": "2026-02-23T16:34:19.494460287Z",
+    "technologies": [
+      "Amazon",
+      "Amazon S3 CDN",
+      "Apache",
+      "Column Shortcodes",
+      "Fireblade",
+      "Google Cloud DNS",
+      "Google Code Prettify",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "IcoMoon",
+      "LeadPages",
+      "Storyblocks",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "asknoquestionsfilm.com",
     "title": "Ask No Questions - A Chinese state TV insider is detained and forced to accept the state line on a fiery public suicide",
     "business_name": "Ask No Questions - The Film",
@@ -2853,33 +2880,6 @@
       "WordPress",
       "WordPress Multisite",
       "YouTube",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "galliumgroup.com",
-    "title": "GalliumGroup",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 19156,
-    "crawled_at": "2025-11-01T22:19:47.285693877Z",
-    "technologies": [
-      "Amazon",
-      "Amazon S3 CDN",
-      "Apache",
-      "Column Shortcodes",
-      "Fireblade",
-      "Google Cloud DNS",
-      "Google Code Prettify",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "IcoMoon",
-      "LeadPages",
-      "Storyblocks",
-      "Twitter Ads",
-      "UTF-8",
       "jQuery"
     ]
   },
