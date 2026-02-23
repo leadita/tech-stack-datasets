@@ -1612,38 +1612,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "growqmed.com",
-    "title": "GQ",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 65,
-    "tech_spend": 23139,
-    "crawled_at": "2025-11-01T11:05:32.381527825Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "Elementor",
-      "ElementsKit Elementor",
-      "EmbedPress",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hello Elementor",
-      "LiteSpeed",
-      "PHP",
-      "Practice Fusion",
-      "QUIC",
-      "Table Addons for Elementor",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
