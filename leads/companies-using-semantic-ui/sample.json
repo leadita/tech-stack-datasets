@@ -1,5 +1,28 @@
 [
   {
+    "domain": "maximepawlak.fr",
+    "title": "-- Maxime Pawlak --",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 600,
+    "crawled_at": "2026-02-22T22:39:17.317101538Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Medium",
+      "Semantic UI",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "consortpersonalinsurance.co.uk",
     "title": "Commercial Insurance Essex, Consort Insurance - Your Trusted Insurance Advisors",
     "business_name": "",
@@ -14569,43 +14592,6 @@
       "Semantic UI",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "millcoinvestments.com",
-    "title": "Home - Millco Investments",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 263,
-    "crawled_at": "2025-12-10T18:49:56.05012082Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adult Content",
-      "Alternate Protocol",
-      "Apache",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "EmbedPress",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Jetpack",
-      "Lazy Load for WordPress",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Schema Plugin",
-      "Semantic UI",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
