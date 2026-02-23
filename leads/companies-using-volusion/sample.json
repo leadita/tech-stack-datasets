@@ -1,5 +1,40 @@
 [
   {
+    "domain": "ecommerceplatforms.com",
+    "title": "Ecommerce Platforms - Reviews, Comparisons And Tools",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 18303,
+    "crawled_at": "2026-02-22T23:56:22.40990886Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Contact Form Plugin",
+      "EmbedPress",
+      "GZIP Module",
+      "GenerateBlocks",
+      "GeneratePress Company",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Gtranslate for Wordpress",
+      "Gutenberg Blocks by Kadence Blocks",
+      "Nginx",
+      "PHP",
+      "Shopify",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "Volusion Live Chat",
+      "WP Fastest Cache",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "sacredtraditions.com",
     "title": "Home",
     "business_name": "",
@@ -2846,41 +2881,6 @@
       "Volusion",
       "Volusion Live Chat",
       "Yelp Badge"
-    ]
-  },
-  {
-    "domain": "ecommerceplatforms.com",
-    "title": "Ecommerce Platforms - Reviews, Comparisons And Tools",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 18303,
-    "crawled_at": "2025-11-01T09:24:29.08834448Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "GZIP Module",
-      "GenerateBlocks",
-      "GeneratePress Company",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Gtranslate for Wordpress",
-      "Gutenberg Blocks by Kadence Blocks",
-      "Nginx",
-      "PHP",
-      "Shopify",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "Volusion Live Chat",
-      "WP Fastest Cache",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jsDelivr"
     ]
   }
 ]
