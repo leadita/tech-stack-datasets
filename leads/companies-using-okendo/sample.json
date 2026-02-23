@@ -9125,39 +9125,5 @@
       "reCAPTCHA",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "neurobloominstitute.com",
-    "title": "Neurobloom Institute - Retrain your Brain",
-    "business_name": "Neurobloom Institute",
-    "country": "AUS",
-    "seo_score": 77,
-    "tech_spend": 13112,
-    "crawled_at": "2025-11-01T10:11:38.953227067Z",
-    "technologies": [
-      "Accordion Blocks",
-      "Amazon",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ElementUI",
-      "Express",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Okendo",
-      "PayPal",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "Verified Profile",
-      "hCaptcha",
-      "reCAPTCHA"
-    ]
   }
 ]
