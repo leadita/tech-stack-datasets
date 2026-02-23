@@ -13350,27 +13350,5 @@
       "Google My Business",
       "IcoMoon"
     ]
-  },
-  {
-    "domain": "dwinpaez.com",
-    "title": "Dwin Paez",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 65,
-    "tech_spend": 5250,
-    "crawled_at": "2025-11-01T11:45:33.336279639Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "CodeIgniter",
-      "Matomo Tag Manager",
-      "Oracle Cloud",
-      "Subversion",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "University or College",
-      "jQuery",
-      "symfony PHP Framework"
-    ]
   }
 ]
