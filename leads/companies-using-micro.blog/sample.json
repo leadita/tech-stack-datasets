@@ -1,5 +1,28 @@
 [
   {
+    "domain": "linkage.lol",
+    "title": "Linkage",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 1640,
+    "crawled_at": "2026-02-23T03:00:19.522009328Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Digital Ocean Spaces",
+      "GZIP Module",
+      "Heroku",
+      "Micro.blog",
+      "Microdata for Google Shopping",
+      "UTF-8",
+      "University or College",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "agambrahma.com",
     "title": "Agam Brahma — Bio",
     "business_name": "",
@@ -7632,28 +7655,6 @@
       "Instagram Follow Button",
       "Micro.blog",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "linkage.lol",
-    "title": "Linkage",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 1640,
-    "crawled_at": "2025-11-01T09:47:39.022670135Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Cloudflare",
-      "Digital Ocean Spaces",
-      "GZIP Module",
-      "Heroku",
-      "Micro.blog",
-      "Microdata for Google Shopping",
-      "UTF-8",
-      "University or College",
-      "jsDelivr"
     ]
   }
 ]

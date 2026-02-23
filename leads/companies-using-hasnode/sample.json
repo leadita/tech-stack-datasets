@@ -1,5 +1,35 @@
 [
   {
+    "domain": "mdanyalkayani.com",
+    "title": "M Danyal Kayani | Founder & CEO — MDKVA | Technologist & Creator",
+    "business_name": "M Danyal Kayani",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 70148,
+    "crawled_at": "2026-02-22T18:15:30.867806121Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Baidu Cloud",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Fireblade",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Hasnode",
+      "Instagram Follow Button",
+      "Medium",
+      "Microdata for Google Shopping",
+      "PWA",
+      "Product Hunt",
+      "SMC",
+      "UTF-8",
+      "Yandex Hosting",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "infinitynailbar.com",
     "title": "Infinity Nail Bar | Infinity Nail Bar",
     "business_name": "",
@@ -37,35 +67,6 @@
       "WordPress Multisite",
       "about.me",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "muhammaddanyalkayani.com",
-    "title": "M Danyal Kayani | Founder & CEO — MDKVA | Technologist & Creator",
-    "business_name": "M Danyal Kayani",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 22620,
-    "crawled_at": "2026-02-15T22:44:08.421233649Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Baidu Cloud",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Fireblade",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hasnode",
-      "Instagram Follow Button",
-      "Medium",
-      "Microdata for Google Shopping",
-      "Product Hunt",
-      "SMC",
-      "UTF-8",
-      "Yandex Hosting",
-      "YouTube"
     ]
   },
   {
@@ -11285,33 +11286,6 @@
       "YouTube",
       "about.me",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "mdanyalkayani.com",
-    "title": "M. Danyal Kayani | Technologist & Creator",
-    "business_name": "M. Danyal Kayani (MDK)",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 20148,
-    "crawled_at": "2025-11-01T08:44:38.892724906Z",
-    "technologies": [
-      "Baidu Cloud",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fireblade",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hasnode",
-      "Instagram Follow Button",
-      "Medium",
-      "Microdata for Google Shopping",
-      "Product Hunt",
-      "Rumble Player",
-      "UTF-8",
-      "Yandex Hosting",
-      "YouTube"
     ]
   }
 ]
