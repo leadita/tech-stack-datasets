@@ -1,5 +1,29 @@
 [
   {
+    "domain": "scottkveton.com",
+    "title": "Scott Kveton",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 75232,
+    "crawled_at": "2026-02-23T03:00:19.491597519Z",
+    "technologies": [
+      "Airship CRM",
+      "Apache",
+      "Calendly",
+      "Counter Dev",
+      "DAV",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Medium",
+      "Twitter Ads"
+    ]
+  },
+  {
     "domain": "airshipslife.com",
     "title": "Benefit Airship Affordable Health & Wellness Plans Nationwide",
     "business_name": "Benefit Airship",
@@ -698,30 +722,6 @@
       "Vector Internet Services",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "kveton.com",
-    "title": "Scott Kveton",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 75232,
-    "crawled_at": "2025-11-23T20:21:49.308877927Z",
-    "technologies": [
-      "Airship CRM",
-      "Apache",
-      "Calendly",
-      "Counter Dev",
-      "DAV",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Medium",
-      "Twitter Ads"
     ]
   },
   {
