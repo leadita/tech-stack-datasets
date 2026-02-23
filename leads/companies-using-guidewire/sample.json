@@ -1,5 +1,25 @@
 [
   {
+    "domain": "carlos-mtz.com",
+    "title": "Carlos Martinez",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 250203,
+    "crawled_at": "2026-02-23T01:29:28.167038463Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Bulma",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Guidewire",
+      "PHP",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "acini.pl",
     "title": "ACINI",
     "business_name": "",
@@ -380,26 +400,6 @@
       "Guidewire",
       "Nginx",
       "Ubuntu"
-    ]
-  },
-  {
-    "domain": "carlos-mtz.com",
-    "title": "Carlos Martinez",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 250203,
-    "crawled_at": "2025-11-01T09:35:38.978085111Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Bulma",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Guidewire",
-      "PHP",
-      "Tailwind CSS"
     ]
   }
 ]
