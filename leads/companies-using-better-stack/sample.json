@@ -1,5 +1,23 @@
 [
   {
+    "domain": "tkkr.link",
+    "title": "Thaddeus Kuah",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": "",
+    "crawled_at": "2026-02-23T08:23:40.511850768Z",
+    "technologies": [
+      "Better Stack",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Next.js",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "toddle.dev",
     "title": "Nordcraft is Cursor for Web Development",
     "business_name": "Nordcraft",
@@ -2509,25 +2527,6 @@
       "YouTube",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "tkkr.dev",
-    "title": "Thaddeus Kuah",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2025-11-24T08:39:19.427988442Z",
-    "technologies": [
-      "Better Stack",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {
