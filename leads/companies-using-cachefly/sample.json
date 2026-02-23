@@ -1,5 +1,40 @@
 [
   {
+    "domain": "cdntoolkit.com",
+    "title": "CDNToolKit | Tools to Find the Best CDN for Your Needs: Performance and Uptime",
+    "business_name": "",
+    "country": "SGP",
+    "seo_score": 77,
+    "tech_spend": 63868,
+    "crawled_at": "2026-02-23T10:34:58.209964471Z",
+    "technologies": [
+      "5centsCDN",
+      "Amazon CloudFront",
+      "Amazon Link Enchancer",
+      "Apache",
+      "Azion",
+      "Bulma",
+      "CDN JS",
+      "CDNetworks DNS",
+      "CacheFly CDN",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fastly CDN",
+      "Fireblade",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Retail Product Discovery",
+      "MediaNova",
+      "OVH CDN",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "Userback",
+      "eLand"
+    ]
+  },
+  {
     "domain": "windsorencore.com",
     "title": "Windsor Encore | Cumberland, GA Apartments",
     "business_name": "Windsor Encore",
@@ -2400,41 +2435,6 @@
       "WordPress Stats",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "cdntoolkit.com",
-    "title": "CDNToolKit | Tools to Find the Best CDN for Your Needs: Performance and Uptime",
-    "business_name": "",
-    "country": "SGP",
-    "seo_score": 77,
-    "tech_spend": 63868,
-    "crawled_at": "2025-11-01T10:43:10.903881189Z",
-    "technologies": [
-      "5centsCDN",
-      "Amazon CloudFront",
-      "Amazon Link Enchancer",
-      "Apache",
-      "Azion",
-      "Bulma",
-      "CDN JS",
-      "CDNetworks DNS",
-      "CacheFly CDN",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fastly CDN",
-      "Fireblade",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Retail Product Discovery",
-      "MediaNova",
-      "OVH CDN",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "Userback",
-      "eLand"
     ]
   }
 ]
