@@ -1,5 +1,26 @@
 [
   {
+    "domain": "l2c-labels.com",
+    "title": "L2C label program",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 78079,
+    "crawled_at": "2026-02-23T09:06:26.161135041Z",
+    "technologies": [
+      "Angular",
+      "CoreUI",
+      "Express",
+      "Fireblade",
+      "MediaPlatform",
+      "OneTrust Domain Verification",
+      "Perl",
+      "QUIC",
+      "Sitecore CMS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "toilet-duck.nz",
     "title": "Contact Us | SC Johnson",
     "business_name": "",
@@ -4194,29 +4215,6 @@
       "Vector Internet Services",
       "Webador",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "l2clabels.com",
-    "title": "L2C label program",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 231499,
-    "crawled_at": "2026-01-29T03:54:12.002423035Z",
-    "technologies": [
-      "Angular",
-      "Azure Edge",
-      "CoreUI",
-      "Express",
-      "Fireblade",
-      "MediaPlatform",
-      "Microsoft Azure Verified CDN",
-      "OneTrust Domain Verification",
-      "Perl",
-      "QUIC",
-      "Sitecore CMS",
-      "UTF-8"
     ]
   },
   {
