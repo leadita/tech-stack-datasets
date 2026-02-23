@@ -1,5 +1,33 @@
 [
   {
+    "domain": "pl.marketing",
+    "title": "Leading Kroger Merchandising Services | PL Marketing",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 253384,
+    "crawled_at": "2026-02-23T18:20:37.852245691Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "DAV",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vimeo",
+      "WF Cookie Consent",
+      "Webflow",
+      "Workday"
+    ]
+  },
+  {
     "domain": "wellcarehealth.com",
     "title": "Well Care Health",
     "business_name": "",
@@ -11135,33 +11163,6 @@
       "YouTube",
       "Zoom Video Conferencing",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "plmarketing.net",
-    "title": "Leading Kroger Merchandising Services | PL Marketing",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 253384,
-    "crawled_at": "2025-12-29T17:01:38.337766283Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "DAV",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Tailwind CSS",
-      "Vimeo",
-      "WF Cookie Consent",
-      "Webflow",
-      "Workday"
     ]
   },
   {
