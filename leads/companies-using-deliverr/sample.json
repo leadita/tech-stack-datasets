@@ -1,5 +1,35 @@
 [
   {
+    "domain": "haircare24.com",
+    "title": "Haircare24.com | Affordable Kerastase Hair Products and more",
+    "business_name": "Haircare24.com",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 9596,
+    "crawled_at": "2026-02-23T15:47:10.106265357Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Deliverr",
+      "Express",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "MailChimp",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "ReviewWidget",
+      "Shopify",
+      "Shopify Collabs",
+      "Shopify Payments",
+      "Thank You",
+      "UTF-8",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "yodiscover.com",
     "title": "Yodiscover",
     "business_name": "",
@@ -6794,36 +6824,6 @@
       "UTF-8",
       "hCaptcha",
       "jsDelivr",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "haircare24.com",
-    "title": "Haircare24.com | Affordable Kerastase Hair Products and more",
-    "business_name": "Haircare24.com",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 9596,
-    "crawled_at": "2025-11-01T11:20:38.937320566Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Deliverr",
-      "Express",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "MailChimp",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "ReviewWidget",
-      "Shopify",
-      "Shopify Collabs",
-      "Shopify Payments",
-      "Thank You",
-      "UTF-8",
-      "hCaptcha",
       "reCAPTCHA"
     ]
   }
