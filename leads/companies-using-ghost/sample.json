@@ -1,5 +1,54 @@
 [
   {
+    "domain": "auappraisals.com.au",
+    "title": ".au Domain Name Appraisals",
+    "business_name": "",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 11212,
+    "crawled_at": "2026-02-23T18:47:02.749867062Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "Ghost",
+      "Google Analytics",
+      "Google Tag Manager",
+      "JotForm",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "RM Education",
+      "UTF-8",
+      "Unsplash",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "uncanny.bingo",
+    "title": "Uncanny Bingo",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 77,
+    "tech_spend": 783,
+    "crawled_at": "2026-02-23T17:28:02.153096092Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "ArvanCloud",
+      "Coming Soon Page",
+      "Express",
+      "Ghost",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "UTF-8",
+      "Unsplash",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "pommetab.com",
     "title": "Pomme::TAB",
     "business_name": "",
@@ -6294,32 +6343,6 @@
       "Ghost",
       "Microdata for Google Shopping",
       "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "auappraisals.net.au",
-    "title": ".au Domain Name Appraisals",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 3124,
-    "crawled_at": "2025-12-23T09:34:38.320565727Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Ghost",
-      "Google Analytics",
-      "Google Tag Manager",
-      "JotForm",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "RM Education",
-      "UTF-8",
-      "Unsplash",
       "jsDelivr"
     ]
   },
@@ -13102,29 +13125,6 @@
       "UTF-8",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "jewishpeninsula.org",
-    "title": "Home | Jewish Peninsula",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 7600,
-    "crawled_at": "2025-11-11T05:41:38.891186951Z",
-    "technologies": [
-      "GZIP Module",
-      "Ghost",
-      "Google Analytics",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "OpenResty",
-      "PHP",
-      "RM Education",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]

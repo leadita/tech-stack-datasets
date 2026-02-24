@@ -1,5 +1,23 @@
 [
   {
+    "domain": "shark5060.net",
+    "title": "Welcome",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 49,
+    "crawled_at": "2026-02-23T17:13:32.904517627Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "fermeduboutdelarue.fr",
     "title": "La Ferme du Bout de la Rue",
     "business_name": "La Ferme du Bout de la Rue    ",
@@ -7177,25 +7195,6 @@
       "Publii",
       "QUIC",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "shark5060.net",
-    "title": "Welcome",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 109,
-    "crawled_at": "2025-11-01T11:32:07.027727474Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
     ]
   }
 ]
