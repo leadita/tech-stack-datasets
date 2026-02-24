@@ -1,5 +1,37 @@
 [
   {
+    "domain": "nicovanheerden.co.za",
+    "title": "Nico van Heerden | attooh! Your Wealth Solution",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 77,
+    "tech_spend": 26360,
+    "crawled_at": "2026-02-24T17:28:57.718260341Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon S3 CDN",
+      "Authorize.net",
+      "Content Delivery Network",
+      "DAV",
+      "Financial Services Guide",
+      "Fireblade",
+      "GZIP Module",
+      "Google",
+      "Google Cloud",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Nuxt.js",
+      "QUIC",
+      "Storyblocks",
+      "UTF-8",
+      "Vimeo",
+      "Vimeo CDN",
+      "eMoney"
+    ]
+  },
+  {
     "domain": "lindaerasmus.com",
     "title": "Linda Erasmus | attooh! Your Wealth Solution",
     "business_name": "",
@@ -3752,38 +3784,6 @@
       "YouTube",
       "eMoney",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "nicovanheerden.co.za",
-    "title": "Nico van Heerden | attooh! Your Wealth Solution",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 26360,
-    "crawled_at": "2025-11-01T14:20:39.020810585Z",
-    "technologies": [
-      "Amazon S3 CDN",
-      "Apture Linking Platform",
-      "Authorize.net",
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Nuxt.js",
-      "QUIC",
-      "Storyblocks",
-      "UTF-8",
-      "Vimeo",
-      "Vimeo CDN",
-      "eMoney"
     ]
   }
 ]
