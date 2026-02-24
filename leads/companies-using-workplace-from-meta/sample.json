@@ -1,12 +1,12 @@
 [
   {
-    "domain": "meetohhello.co",
+    "domain": "getohhello.co",
     "title": "Home - Oh Hello Agency",
     "business_name": "Oh Hello Agency",
     "country": "",
     "seo_score": 60,
     "tech_spend": 4505,
-    "crawled_at": "2026-02-23T12:05:19.724086798Z",
+    "crawled_at": "2026-02-23T22:38:15.390341565Z",
     "technologies": [
       "AWS WAF Challenge",
       "Adult Content",
