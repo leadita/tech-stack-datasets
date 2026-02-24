@@ -1,5 +1,50 @@
 [
   {
+    "domain": "mateoguzman.net",
+    "title": "Welcome | Mateo Guzmán",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-02-24T07:48:48.71314731Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Medium",
+      "Perl",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "aijea.com",
+    "title": "AIJEA - AI-Powered French Joie de Vivre | AIJEA - AI-Powered French Joie de Vivre",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 228,
+    "crawled_at": "2026-02-24T00:14:07.291758381Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Express",
+      "Google Adsense",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google Reseller",
+      "Netlify",
+      "Perl",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "biocentral.cloud",
     "title": "Biocentral",
     "business_name": "",
@@ -12465,56 +12510,6 @@
       "Tailwind CSS",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "sylin.host",
-    "title": "希望我们拥有美好的未来！ | PP 的备忘录",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2025-11-01T19:18:23.498339077Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Docusaurus",
-      "GitHub Hosting",
-      "KaTeX",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "karakabakov.com",
-    "title": "Gjorge Karakabakov - Senior Software Engineer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 18532,
-    "crawled_at": "2025-11-01T18:44:38.939829948Z",
-    "technologies": [
-      "Astro",
-      "Docusaurus",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "LaunchDarkly",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Pico CSS",
-      "Plausible Analytics",
-      "Python",
-      "Tailwind CSS"
     ]
   }
 ]
