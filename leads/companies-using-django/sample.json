@@ -1,5 +1,80 @@
 [
   {
+    "domain": "techsol.africa",
+    "title": "Techsol Solutions | Home",
+    "business_name": "",
+    "country": "KEN",
+    "seo_score": 60,
+    "tech_spend": 708,
+    "crawled_at": "2026-02-24T07:27:16.929953343Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Perl",
+      "QUIC",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "white-zaffarano.com",
+    "title": "White & Zaffarano Law Offices - Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 2460,
+    "crawled_at": "2026-02-24T00:31:33.249193048Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Line2",
+      "Perl",
+      "QUIC",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "yushunchen.com",
+    "title": "Yushun Chen | 陈昱舜",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 80,
+    "tech_spend": 6247,
+    "crawled_at": "2026-02-23T17:00:37.933063428Z",
+    "technologies": [
+      "ArvanCloud",
+      "Baidu Ads",
+      "Baidu Cloud",
+      "Bulma",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Django",
+      "Fastly",
+      "Font Awesome",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Heroku",
+      "Instagram Follow Button",
+      "Material Design for Bootstrap",
+      "Python",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "abaca.pro",
     "title": "Association of Business Angels of Central Asia - Home",
     "business_name": "",
@@ -8881,101 +8956,6 @@
       "University or College",
       "Yelp Badge",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "techsol.africa",
-    "title": "Techsol Solutions | Home",
-    "business_name": "",
-    "country": "KEN",
-    "seo_score": 45,
-    "tech_spend": 708,
-    "crawled_at": "2025-11-01T13:16:00.196967952Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "white-zaffarano.com",
-    "title": "White & Zaffarano Law Offices - Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 2460,
-    "crawled_at": "2025-11-01T12:24:29.701066542Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Line2",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "cherytalents.com",
-    "title": "Chery Talent Management Agency | Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 708,
-    "crawled_at": "2025-11-01T12:13:38.174641516Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "yushunchen.com",
-    "title": "Yushun Chen | 陈昱舜",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 6247,
-    "crawled_at": "2025-11-01T11:29:39.027874429Z",
-    "technologies": [
-      "ArvanCloud",
-      "Baidu Ads",
-      "Baidu Cloud",
-      "Bulma",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Django",
-      "Fastly",
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Heroku",
-      "Instagram Follow Button",
-      "Material Design for Bootstrap",
-      "Python",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "YouTube",
-      "jsDelivr"
     ]
   }
 ]
