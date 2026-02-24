@@ -1,5 +1,26 @@
 [
   {
+    "domain": "automatedcustomerservice.com",
+    "title": "An EMDN - Automated Customer Service, AI-Powered Support Chatbots Virtual Assistants Self-Service Platforms Customer Interaction Automation Help Desk Solutions 24/7 Support Intelligent Response Systems Customer Experience Enhancement",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 135,
+    "crawled_at": "2026-02-24T06:13:08.723943255Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "dulibangourmet.com",
     "title": "Du Liban Restaurant",
     "business_name": "",
@@ -133,27 +154,6 @@
       "Google My Business",
       "Instagram Follow Button",
       "PushPress",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "headphonesless.com",
-    "title": "An EMDN - Headphones Less, Wireless Audio Bluetooth Music Streaming Noise-Canceling Sound Quality Portable Devices Entertainment Technology",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 135,
-    "crawled_at": "2026-02-10T16:18:02.100289992Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microsoft Clarity",
       "UTF-8"
     ]
   },
