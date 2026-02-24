@@ -1,5 +1,24 @@
 [
   {
+    "domain": "elearning-prod.nbs.de",
+    "title": "Log in to the site | eLearning@NBS",
+    "business_name": "",
+    "country": "",
+    "seo_score": 25,
+    "tech_spend": 10500,
+    "crawled_at": "2026-02-23T18:37:15.003031565Z",
+    "technologies": [
+      "GZIP Module",
+      "Moodle",
+      "NFOrce Internet",
+      "Nginx",
+      "PHP",
+      "Totara",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "iasptraining.ca",
     "title": "Ontario Structured Psychotherapy (OSP)",
     "business_name": "",
@@ -1259,25 +1278,6 @@
       "PHP",
       "Totara",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "elearning.nbs.de",
-    "title": "Log in to the site | eLearning@NBS",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 10500,
-    "crawled_at": "2025-11-02T13:26:39.012394012Z",
-    "technologies": [
-      "GZIP Module",
-      "Moodle",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "Totara",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
