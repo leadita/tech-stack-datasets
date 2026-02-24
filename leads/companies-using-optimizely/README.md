@@ -1,6 +1,6 @@
 # Companies Using Optimizely (Live Dataset 2026)
 
-This folder contains an active list of 3,813 companies using **Optimizely**. 
+This folder contains an active list of 3,811 companies using **Optimizely**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 3,813
+- **Total Leads:** 3,811
 - **Verified:** Yes
-- **Last Updated:** 2026-02-23 10:00 UTC
+- **Last Updated:** 2026-02-24 10:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **3,813+** companies using Optimizely.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **3,811+** companies using Optimizely.
 
 [**⚡ Unlock the Full Optimizely List with Contact Details**](https://leadita.com/leads/companies-using-optimizely)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-23 10:00 UTC*
+*Last updated: 2026-02-24 10:00 UTC*
 *Data source: Leadita Technographic Intelligence*
