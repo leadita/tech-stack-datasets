@@ -1,5 +1,97 @@
 [
   {
+    "domain": "danielkoek.ie",
+    "title": "Daniël Koek",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 65,
+    "tech_spend": 15840,
+    "crawled_at": "2026-02-24T07:04:32.025873325Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Nginx",
+      "Python",
+      "QUIC",
+      "Tailwind CSS",
+      "University or College",
+      "Visual Studio",
+      "eLand",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "dimitrikoenig.com",
+    "title": "Home | Dimitri König",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 1800,
+    "crawled_at": "2026-02-23T19:16:52.201292Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Astro",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "NFOrce Internet",
+      "PHP",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "2e0.net",
+    "title": "2E0导航 - Cloudflare Workers Dir",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 120,
+    "crawled_at": "2026-02-23T18:20:37.83933272Z",
+    "technologies": [
+      "Alibaba Cloud Object Storage Service",
+      "Baidu Ads",
+      "Baidu Cloud",
+      "Bing Cashback",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Workers",
+      "GitHub Hosting",
+      "Google My Business",
+      "Semantic UI",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "hswlp.hu",
+    "title": "HSWLP - HSWLP",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 60,
+    "crawled_at": "2026-02-23T15:47:10.111640198Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "emebogu.com",
     "title": "EMEBOGU",
     "business_name": "",
@@ -112,31 +204,6 @@
       "WordPress",
       "YouTube",
       "eLand",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "unique-p.ch",
-    "title": "Senior Web Engineer for Hire | Dimitri König",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 1800,
-    "crawled_at": "2026-02-22T19:36:55.119585296Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Astro",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
       "shadcn ui"
     ]
   },
@@ -3603,32 +3670,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "danielkoek.net",
-    "title": "Daniël Koek",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 75,
-    "tech_spend": 15880,
-    "crawled_at": "2026-01-13T09:31:23.140787374Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "University or College",
-      "Visual Studio",
-      "eLand",
-      "shadcn ui"
     ]
   },
   {
@@ -9253,25 +9294,6 @@
     ]
   },
   {
-    "domain": "hswlp.com",
-    "title": "HSWLP - HSWLP",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 60,
-    "crawled_at": "2025-11-22T02:48:19.460200197Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "experimentationcultureawards.com",
     "title": "Experimentation Culture Awards 2025",
     "business_name": "",
@@ -14442,32 +14464,6 @@
       "Tailwind CSS",
       "Telegram",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "dataflare.app",
-    "title": "Dataflare - Fast, Simple Database Manager",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 15300,
-    "crawled_at": "2025-11-02T05:16:42.097309059Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "DAV",
-      "Fireblade",
-      "GitHub Hosting",
-      "Lemon Squeezy",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Radix UI",
-      "Tailwind CSS",
-      "shadcn ui"
     ]
   }
 ]
