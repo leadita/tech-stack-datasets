@@ -1,5 +1,53 @@
 [
   {
+    "domain": "kpns.net",
+    "title": "Christos Kapenis - Software Engineer",
+    "business_name": "",
+    "country": "LTU",
+    "seo_score": 77,
+    "tech_spend": 4200,
+    "crawled_at": "2026-02-23T23:34:13.425715366Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Gusto",
+      "Microdata for Google Shopping",
+      "Python",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "dianapr.com",
+    "title": "Diana Barton Public Relations",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 25649,
+    "crawled_at": "2026-02-23T19:35:05.648044361Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gusto",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "bookkeepingnetworkllc.com",
     "title": "Bookkeeping Network",
     "business_name": "",
@@ -15744,25 +15792,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "kpns.net",
-    "title": "Christos Kapenis - Software Engineer",
-    "business_name": "",
-    "country": "LTU",
-    "seo_score": 67,
-    "tech_spend": 4200,
-    "crawled_at": "2025-11-01T12:17:37.258043362Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Gusto",
-      "Microdata for Google Shopping",
-      "Python",
-      "UTF-8"
     ]
   }
 ]
