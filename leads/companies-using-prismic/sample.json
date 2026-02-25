@@ -1,5 +1,36 @@
 [
   {
+    "domain": "swiftotter.com",
+    "title": "SwiftOtter: eCommerce and B2B Experts",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 31380,
+    "crawled_at": "2026-02-25T12:39:19.282744511Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Fireblade",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "Prismic",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "reCAPTCHA",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "unicare.au",
     "title": "Unicare Health - Hospital, Aged Care, Disability, Rehab, Continence, Assistive Technology Equipment",
     "business_name": "",
@@ -13577,33 +13608,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "lindaikechukwu.com",
-    "title": "Linda Ikechukwu",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 9819,
-    "crawled_at": "2025-11-19T08:36:19.432213236Z",
-    "technologies": [
-      "Cloudinary",
-      "Content Delivery Network",
-      "CoreUI",
-      "DAV",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Linktree",
-      "Netlify",
-      "Nuxt.js",
-      "Prismic",
-      "QUIC",
-      "UTF-8",
-      "Vector Internet Services"
     ]
   }
 ]
