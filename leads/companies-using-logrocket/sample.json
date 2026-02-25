@@ -1,5 +1,41 @@
 [
   {
+    "domain": "edgecatering.com.au",
+    "title": "Canberra catering - Plan your event with delicious food",
+    "business_name": "The Edge Catering",
+    "country": "AUS",
+    "seo_score": 77,
+    "tech_spend": 4936,
+    "crawled_at": "2026-02-25T16:55:24.009714827Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Contact Form Plugin",
+      "ElementUI",
+      "EmbedPress",
+      "Google",
+      "Google Cloud CDN",
+      "Google My Business",
+      "LiteSpeed",
+      "LogRocket",
+      "Microdata for Google Shopping",
+      "PHP",
+      "QUIC",
+      "Say what",
+      "Thank You",
+      "Theme In WP",
+      "UTF-8",
+      "WPML Multilingual",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "forbforum.org",
     "title": "FoRB Forum - Connecting advocates for freedom of religion or belief worldwide",
     "business_name": "",
@@ -4327,39 +4363,6 @@
       "Ntent",
       "Yandex Hosting",
       "Zeald"
-    ]
-  },
-  {
-    "domain": "schwesi.com",
-    "title": "schwesi - Alexander Schwesinger",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 16752,
-    "crawled_at": "2025-11-01T15:59:38.927009Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon Widgets",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Corporate Governance and Regulatory Compliance",
-      "DAV",
-      "Express",
-      "GitHub Hosting",
-      "IPFS",
-      "LogRocket",
-      "Medium",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "Way",
-      "WordPress",
-      "YouTube",
-      "about.me"
     ]
   }
 ]
