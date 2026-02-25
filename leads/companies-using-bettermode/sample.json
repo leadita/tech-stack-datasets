@@ -1,5 +1,33 @@
 [
   {
+    "domain": "newshuddle.ca",
+    "title": "NewsHuddle",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 8043,
+    "crawled_at": "2026-02-24T21:34:45.664707671Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon WAF Blocked",
+      "BetterMode",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "ElementUI",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Imgix",
+      "PWA",
+      "QUIC",
+      "Tailwind CSS",
+      "Tribe.so",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "the-collab.org",
     "title": "Log in - The Collab",
     "business_name": "",
@@ -1940,33 +1968,6 @@
       "Tribe.so",
       "Vector Internet Services",
       "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "newshuddle.ca",
-    "title": "NewsHuddle",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 7983,
-    "crawled_at": "2025-11-01T14:50:38.918807708Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "BetterMode",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "ElementUI",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Imgix",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "Tribe.so",
-      "Vector Internet Services",
       "shadcn ui"
     ]
   }
