@@ -1,5 +1,34 @@
 [
   {
+    "domain": "1-apostas.com",
+    "title": "1-apostas.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 2578,
+    "crawled_at": "2026-02-24T20:02:42.628779861Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Be Gamble Aware",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Fastly",
+      "GZIP Module",
+      "Gambling Content",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Mercury",
+      "Nginx",
+      "PHP",
+      "RM Education",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "betspectra.com",
     "title": "Online Casino Agent - Free Credit No Deposit | Betspectra",
     "business_name": "",
@@ -8300,35 +8329,6 @@
       "eLand",
       "jQuery",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "1-apostas.com",
-    "title": "1-apostas.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 2578,
-    "crawled_at": "2025-11-01T14:38:11.843890661Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Be Gamble Aware",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Fastly",
-      "GZIP Module",
-      "Gambling Content",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Mercury",
-      "Nginx",
-      "PHP",
-      "RM Education",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
