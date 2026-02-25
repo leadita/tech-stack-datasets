@@ -10736,46 +10736,5 @@
       "UTF-8",
       "eLand"
     ]
-  },
-  {
-    "domain": "tempo-fitness.com",
-    "title": "Support",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 67,
-    "tech_spend": 188347,
-    "crawled_at": "2025-11-01T13:50:38.955047281Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Adobe Marketing Cloud",
-      "Amazon",
-      "ArvanCloud",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ElementUI",
-      "Express",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "M247",
-      "Material Design Icons",
-      "Monetate",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "jsDelivr",
-      "reCAPTCHA",
-      "shadcn ui"
-    ]
   }
 ]
