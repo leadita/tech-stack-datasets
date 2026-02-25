@@ -1,5 +1,33 @@
 [
   {
+    "domain": "appleblossom.net.in",
+    "title": "Top Preschool in Gurgaon | Best Preschool in Gurgaon Sector 45",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 65,
+    "tech_spend": 15408,
+    "crawled_at": "2026-02-24T23:54:21.027426158Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "PHP",
+      "Pabbly",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "University or College",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "popcornbranding.in",
     "title": "Branding, Advertising and Digital Marketing Agency in Vadodara, India",
     "business_name": "Popcorn Branding Agency",
@@ -5352,34 +5380,6 @@
       "WP-Members",
       "WordPress",
       "WordPress Multisite"
-    ]
-  },
-  {
-    "domain": "appleblossom.net.in",
-    "title": "Top Preschool in Gurgaon | Best Preschool in Gurgaon Sector 45",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 65,
-    "tech_spend": 15408,
-    "crawled_at": "2025-11-01T15:08:12.863653196Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "PHP",
-      "Pabbly",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "University or College",
-      "jQuery"
     ]
   }
 ]
