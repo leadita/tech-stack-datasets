@@ -1,5 +1,26 @@
 [
   {
+    "domain": "thebestgene.com",
+    "title": "BestGene Inc. - Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 25980,
+    "crawled_at": "2026-02-25T11:47:58.397313359Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Authorize.net",
+      "Express",
+      "GoDaddy",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Sysnet Global Solutions",
+      "UTF-8",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "scalan.com",
     "title": "About - ScAlAn",
     "business_name": "",
@@ -13329,27 +13350,6 @@
       "University or College",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "thebestgene.com",
-    "title": "BestGene Inc. - Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 25980,
-    "crawled_at": "2025-11-01T16:34:18.687584024Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Authorize.net",
-      "Express",
-      "GoDaddy",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Sysnet Global Solutions",
-      "UTF-8",
-      "Website Tonight"
     ]
   }
 ]
