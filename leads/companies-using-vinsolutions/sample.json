@@ -1,5 +1,25 @@
 [
   {
+    "domain": "bdcangels.com",
+    "title": "BDC Angels | Not All Angels Have Wings— Some of Us Wear Headsets!",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 8972,
+    "crawled_at": "2026-02-24T16:45:04.415282638Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "Hubspot Knowledge Base",
+      "IcoMoon",
+      "UTF-8",
+      "VinSolutions",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "synapticautomotive.com",
     "title": "Synaptic Automotive - Private AI Sales Performance Analysis",
     "business_name": "",
@@ -1913,28 +1933,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "bdcangels.com",
-    "title": "BDC Angels | Not All Angels Have Wings— Some of Us Wear Headsets!",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 33668,
-    "crawled_at": "2025-11-01T14:15:25.031725592Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "Hubspot Knowledge Base",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Twitter Ads",
-      "UTF-8",
-      "VinSolutions",
-      "YouTube"
     ]
   }
 ]
