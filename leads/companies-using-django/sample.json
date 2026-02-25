@@ -1,5 +1,57 @@
 [
   {
+    "domain": "rushplace.co.uk",
+    "title": "Rush Place UK: Discover Unique Home Decor and Lifestyle Inspiration",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 87,
+    "tech_spend": 2756,
+    "crawled_at": "2026-02-24T23:38:20.159154784Z",
+    "technologies": [
+      "About Cookies",
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Django",
+      "Gambling Content",
+      "IcoMoon",
+      "Matomo",
+      "Matomo Tag Manager",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "swandiego.com",
+    "title": "Swan Diego Limousines & Charters | San Diego, California",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 32406,
+    "crawled_at": "2026-02-24T15:05:05.580721238Z",
+    "technologies": [
+      "B12",
+      "Better Lead Generation Services",
+      "Coming Soon Page",
+      "DAV",
+      "Django",
+      "Drift",
+      "Font Awesome",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Customer Reviews",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Perl",
+      "QUIC",
+      "University or College",
+      "Yelp Badge",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "techsol.africa",
     "title": "Techsol Solutions | Home",
     "business_name": "",
@@ -219,31 +271,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vimeo",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "cloudgroei.nl",
-    "title": "CloudGroei: Expert Insights on Cloud Growth and Digital Transformation",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 87,
-    "tech_spend": 2756,
-    "crawled_at": "2026-02-20T12:21:04.145769216Z",
-    "technologies": [
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Django",
-      "Gambling Content",
-      "IcoMoon",
-      "Matomo",
-      "Matomo Tag Manager",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
       "jQuery"
     ]
   },
@@ -8927,34 +8954,6 @@
       "Perl",
       "QUIC",
       "University or College",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "swandiego.com",
-    "title": "Swan Diego Limousines & Charters | San Diego, California",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 32406,
-    "crawled_at": "2025-11-01T14:05:39.013174229Z",
-    "technologies": [
-      "B12",
-      "Better Lead Generation Services",
-      "Coming Soon Page",
-      "DAV",
-      "Django",
-      "Drift",
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Customer Reviews",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Perl",
-      "QUIC",
-      "University or College",
-      "Yelp Badge",
       "reCAPTCHA"
     ]
   }
