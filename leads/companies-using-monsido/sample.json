@@ -1,5 +1,39 @@
 [
   {
+    "domain": "grandvotes.org",
+    "title": "Elections | Grand County, CO - Official Website",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 72,
+    "tech_spend": 49580,
+    "crawled_at": "2026-02-24T16:57:49.171005244Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "AutoComplete",
+      "CivicPlus",
+      "ETranslate",
+      "Fireblade",
+      "GTranslate",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Material-UI",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Monsido",
+      "Perl",
+      "QUIC",
+      "SiteW",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Visual Studio"
+    ]
+  },
+  {
     "domain": "pueblowestmetro.us",
     "title": "Pueblo West, CO | Official Website",
     "business_name": "",
@@ -16124,41 +16158,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "grandvotes.org",
-    "title": "Elections | Grand County, CO - Official Website",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 72,
-    "tech_spend": 50180,
-    "crawled_at": "2025-11-01T14:17:38.938210522Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "AutoComplete",
-      "CivicPlus",
-      "ETranslate",
-      "Fireblade",
-      "GTranslate",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Material-UI",
-      "Microsoft Application Insights",
-      "Microsoft Azure",
-      "Monsido",
-      "Perl",
-      "QUIC",
-      "SiteW",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Visual Studio"
     ]
   }
 ]
