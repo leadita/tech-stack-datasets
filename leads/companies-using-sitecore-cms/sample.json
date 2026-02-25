@@ -1,5 +1,31 @@
 [
   {
+    "domain": "energiehandelsbedrijf.nl",
+    "title": "Eneco Energy Trade | Eneco",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 171388,
+    "crawled_at": "2026-02-24T22:02:53.355454157Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Frontify",
+      "GZIP Module",
+      "Idaq",
+      "InitiativeS",
+      "Microsoft Azure",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Radix UI",
+      "Sitecore CMS",
+      "UTF-8",
+      "Visual Studio",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "coop401kplan.com",
     "title": "Overview | Co-op 401(k) Plan | Milliman",
     "business_name": "",
@@ -11242,31 +11268,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "energytrade.nl",
-    "title": "Eneco Energy Trade | Eneco",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 168888,
-    "crawled_at": "2025-12-11T17:34:56.020929081Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Frontify",
-      "GZIP Module",
-      "InitiativeS",
-      "Microsoft Azure",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Radix UI",
-      "Sitecore CMS",
-      "UTF-8",
-      "Visual Studio",
-      "YouTube"
     ]
   },
   {
