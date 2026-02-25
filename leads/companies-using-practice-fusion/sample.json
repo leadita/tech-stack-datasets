@@ -1574,43 +1574,5 @@
       "Yelp Badge",
       "YouTube"
     ]
-  },
-  {
-    "domain": "saiyanlab.com",
-    "title": "SAIYAN",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 24315,
-    "crawled_at": "2025-11-01T16:51:54.569931172Z",
-    "technologies": [
-      "Alternate Protocol",
-      "AthenaHealth",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Fastly",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Nginx",
-      "PHP",
-      "Page scroll to id",
-      "Popup Builder",
-      "Practice Fusion",
-      "Slider Revolution",
-      "Tailwind CSS",
-      "The7",
-      "Theme In WP",
-      "UTF-8",
-      "Visual Composer Ultimate Addons",
-      "WPBakery",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "reCAPTCHA"
-    ]
   }
 ]
