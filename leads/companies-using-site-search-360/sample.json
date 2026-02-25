@@ -1,5 +1,43 @@
 [
   {
+    "domain": "ymcabr.org",
+    "title": "YMCA non-profit community service organization",
+    "business_name": "",
+    "country": "BRA",
+    "seo_score": 77,
+    "tech_spend": 110060,
+    "crawled_at": "2026-02-25T21:56:34.139767537Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "Cart.com",
+      "CloudFront",
+      "Coming Soon Page",
+      "Cornerstone",
+      "Duda",
+      "Express",
+      "Fireblade",
+      "FormSubmit",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Microsoft 365",
+      "Nginx",
+      "No-Q",
+      "QUIC",
+      "Site Search 360",
+      "Tailwind CSS",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "doornsehc.nl",
     "title": "Doornse Hockey Club Homepagina",
     "business_name": "",
@@ -15671,34 +15709,6 @@
       "Tailwind CSS",
       "TownSq",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "yourrevo.com",
-    "title": "Home : Revo",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 10623,
-    "crawled_at": "2025-11-13T02:35:39.972910454Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Apache",
-      "Apture Linking Platform",
-      "Baidu Cloud",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Tag Manager",
-      "Prospective",
-      "Python",
-      "QUIC",
-      "Site Search 360",
-      "Twitter Ads",
-      "UTF-8",
-      "Yandex Hosting"
     ]
   }
 ]
