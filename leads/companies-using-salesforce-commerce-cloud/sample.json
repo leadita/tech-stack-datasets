@@ -1,5 +1,29 @@
 [
   {
+    "domain": "missuniversemoldova.md",
+    "title": "Miss Universe Moldova",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 150063,
+    "crawled_at": "2026-02-24T20:38:30.588510143Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "QUIC",
+      "Salesforce Commerce Cloud",
+      "Tailwind CSS",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "burton.no",
     "title": "Burton.com | Standing Sideways Since 1977 | Burton Snowboards US",
     "business_name": "Burton Snowboards",
@@ -15015,30 +15039,6 @@
       "WordPress Stats",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "missuniversemoldova.md",
-    "title": "Miss Universe Moldova",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 150063,
-    "crawled_at": "2025-11-01T14:42:12.651807298Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "QUIC",
-      "Salesforce Commerce Cloud",
-      "Tailwind CSS",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]
