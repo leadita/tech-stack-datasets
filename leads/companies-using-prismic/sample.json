@@ -1,5 +1,58 @@
 [
   {
+    "domain": "nametrust.dev",
+    "title": "Nametrust: Corporate Domain Registrar",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 87,
+    "tech_spend": 39036,
+    "crawled_at": "2026-02-25T23:08:14.274235984Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fireblade",
+      "Form.IO",
+      "Getform.io",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Headless UI",
+      "HostGator",
+      "Next.js",
+      "Prismic",
+      "Silicon Valley Web Hosting",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "punkpeace.world",
+    "title": "Ideas for sale from Zero Studios | Punk Peace",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 10348,
+    "crawled_at": "2026-02-25T18:53:31.73193444Z",
+    "technologies": [
+      "Adult Content",
+      "Content Delivery Network",
+      "Contento",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Klaviyo",
+      "Microdata for Google Shopping",
+      "Prismic",
+      "Shopify",
+      "Shopify Collabs",
+      "Svelte",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "swiftotter.com",
     "title": "SwiftOtter: eCommerce and B2B Experts",
     "business_name": "",
@@ -7443,33 +7496,6 @@
     ]
   },
   {
-    "domain": "nametrust.uk",
-    "title": "Nametrust: Corporate Domain Registrar",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 37276,
-    "crawled_at": "2025-12-25T10:52:38.319314597Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Fireblade",
-      "Form.IO",
-      "Getform.io",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Headless UI",
-      "HostGator",
-      "Next.js",
-      "Prismic",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "ablersports.co.uk",
     "title": "Home | Abler",
     "business_name": "",
@@ -13583,30 +13609,6 @@
       "Prismic",
       "Tailwind CSS",
       "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "grill66.is",
-    "title": "Matseðill Grill 66",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": "",
-    "crawled_at": "2025-11-19T09:24:19.445515838Z",
-    "technologies": [
-      "Adult Content",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Prismic",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
       "shadcn ui"
     ]
   }
