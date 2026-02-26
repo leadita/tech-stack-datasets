@@ -1,5 +1,80 @@
 [
   {
+    "domain": "izzatr.com",
+    "title": "Izzat Raihan",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 260,
+    "crawled_at": "2026-02-26T07:32:19.7059343Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google My Business",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "jorgealamilla.com",
+    "title": "Jorge Alamilla - Resume",
+    "business_name": "",
+    "country": "PRK",
+    "seo_score": 77,
+    "tech_spend": 174740,
+    "crawled_at": "2026-02-26T06:49:22.477882166Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Prospective",
+      "Salesforce Hosted",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "neur.nyc.mn",
+    "title": "NEUR - 干净的导航",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 252,
+    "crawled_at": "2026-02-25T21:44:27.502812457Z",
+    "technologies": [
+      "ArvanCloud",
+      "Baidu Ads",
+      "Baidu Cloud",
+      "Bing Cashback",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Workers",
+      "DAV",
+      "GitHub Hosting",
+      "Google My Business",
+      "Semantic UI",
+      "UTF-8",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "deepgraph.co",
     "title": "DeepGraph",
     "business_name": "",
@@ -14390,75 +14465,6 @@
       "Cloudflare Workers",
       "Fireblade",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "taiwoomoya.com",
-    "title": "Taiwo Omoya | Personal Website",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 63,
-    "crawled_at": "2025-11-02T19:29:38.978311115Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Netlify",
-      "Python",
-      "UTF-8",
-      "University or College"
-    ]
-  },
-  {
-    "domain": "rapidtriage.me",
-    "title": "RapidTriageME - Browser Automation & Debugging Platform",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 60,
-    "crawled_at": "2025-11-02T17:32:38.91844691Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Workers",
-      "Coming Soon Page",
-      "GitHub Hosting",
-      "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "aidenmiah.co",
-    "title": "Aiden Miah | Software Engineer Portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 789,
-    "crawled_at": "2025-11-02T17:12:56.237593493Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "Express",
-      "Formspree",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
