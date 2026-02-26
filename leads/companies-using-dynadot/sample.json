@@ -1,12 +1,12 @@
 [
   {
-    "domain": "payp.ca",
-    "title": "An EMDN - Pay p, Digital Payments Fintech Online Transactions Mobile Wallet Secure Payments Canadian Marketplace Payment Gateway Financial Technology Cashless Solutions",
+    "domain": "countiv.com",
+    "title": "An EMDN - Countiv, Analytics Counting Statistics Data Tracking Metrics Measurement Monitoring",
     "business_name": "",
     "country": "",
-    "seo_score": 42,
+    "seo_score": 57,
     "tech_spend": 135,
-    "crawled_at": "2026-02-25T04:26:31.665926104Z",
+    "crawled_at": "2026-02-26T03:39:24.073633814Z",
     "technologies": [
       "Amazon CloudFront",
       "Apture Linking Platform",
@@ -17,6 +17,27 @@
       "Google Analytics",
       "Google Tag Manager",
       "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "aziana.sx",
+    "title": "Aziana Asian Fusion Food Bar",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 278,
+    "crawled_at": "2026-02-26T01:11:05.616372851Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Cornerstone",
+      "DAV",
+      "Dynadot",
+      "Font Awesome",
+      "GZIP Module",
+      "Instagram Follow Button",
       "UTF-8"
     ]
   },
@@ -3462,27 +3483,6 @@
       "Font Awesome",
       "GZIP Module",
       "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "aziana.sx",
-    "title": "Aziana Asian Fusion Food Bar",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 278,
-    "crawled_at": "2025-11-01T18:32:38.891743014Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Cornerstone",
-      "DAV",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Instagram Follow Button",
       "UTF-8"
     ]
   }
