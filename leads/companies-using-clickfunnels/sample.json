@@ -1,12 +1,12 @@
 [
   {
-    "domain": "poshchronicle.com",
-    "title": "ClickFunnels Landing Page",
+    "domain": "realestatecallers.com",
+    "title": "Real Estate Cold Callers Wanted",
     "business_name": "",
     "country": "",
-    "seo_score": 50,
+    "seo_score": 57,
     "tech_spend": 1841,
-    "crawled_at": "2026-02-25T14:05:07.79975572Z",
+    "crawled_at": "2026-02-26T18:11:25.568725832Z",
     "technologies": [
       "AWS WAF Challenge",
       "Aruba",
@@ -14,16 +14,19 @@
       "ClickFunnels",
       "Cloudflare",
       "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
       "Facebook Login",
       "Facebook Messenger Platform",
       "Facebook Reseller",
       "Font Awesome",
       "GZIP Module",
+      "Google Analytics",
       "Google Cloud DNS",
       "Google Font API",
-      "Nginx",
+      "Google Tag Manager",
       "UTF-8",
-      "W3 Total Cache",
+      "YouTube",
       "eLand"
     ]
   },
