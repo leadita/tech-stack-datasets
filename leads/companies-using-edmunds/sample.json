@@ -5540,45 +5540,5 @@
       "University or College",
       "jQuery"
     ]
-  },
-  {
-    "domain": "mikesautosales831.com",
-    "title": "Used Car Dealership - Best Local Used Cars in 348 ABBOTT STREET SALINAS, CA 93901 | MIKE'S AUTO SALES",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 79860,
-    "crawled_at": "2025-11-01T18:40:18.622572472Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "ComplyAuto",
-      "DAV",
-      "Edmunds",
-      "Efilli",
-      "Elfsight",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Gravity",
-      "Instagram Follow Button",
-      "NFOrce Internet",
-      "Negate",
-      "Next.js",
-      "Nginx",
-      "Perl",
-      "Pleroma",
-      "Prospective",
-      "QUIC",
-      "Tailwind CSS",
-      "The Fresh",
-      "UTF-8",
-      "Ubuntu",
-      "Upstart"
-    ]
   }
 ]
