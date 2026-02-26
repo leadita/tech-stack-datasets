@@ -1,5 +1,25 @@
 [
   {
+    "domain": "ryanmiller.dev",
+    "title": "Ryan Miller",
+    "business_name": "",
+    "country": "",
+    "seo_score": 25,
+    "tech_spend": 14463,
+    "crawled_at": "2026-02-26T07:48:59.534193342Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Highspot",
+      "Twitter Ads"
+    ]
+  },
+  {
     "domain": "tailwindortho.com",
     "title": "Bracing and Orthotic Treatment - Tailwind Bracing and Orthotics",
     "business_name": "Tailwind Bracing and Orthotics",
@@ -1621,45 +1641,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "ryanmiller.dev",
-    "title": "Ryan Miller",
-    "business_name": "",
-    "country": "",
-    "seo_score": 25,
-    "tech_spend": 14463,
-    "crawled_at": "2025-11-01T19:19:42.47871519Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Highspot",
-      "Twitter Ads"
-    ]
-  },
-  {
-    "domain": "thomasnakagawa.com",
-    "title": "Thomas Nakagawa",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 35,
-    "tech_spend": 15000,
-    "crawled_at": "2025-11-01T19:06:14.350599738Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Highspot",
-      "Next.js",
-      "Pleroma",
-      "UTF-8"
     ]
   }
 ]
