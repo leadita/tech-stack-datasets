@@ -1,5 +1,55 @@
 [
   {
+    "domain": "sylin.host",
+    "title": "希望我们拥有美好的未来！ | PP 的备忘录",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-02-26T07:38:54.918697075Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Docusaurus",
+      "GitHub Hosting",
+      "KaTeX",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "karakabakov.com",
+    "title": "Gjorge Karakabakov - Senior Software Engineer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 18532,
+    "crawled_at": "2026-02-26T02:58:44.439298393Z",
+    "technologies": [
+      "Astro",
+      "Docusaurus",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "LaunchDarkly",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Pico CSS",
+      "Plausible Analytics",
+      "Python",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "pipeable.com",
     "title": "Hello from Pipeable | Pipeable",
     "business_name": "",
@@ -12455,55 +12505,6 @@
       "Netlify",
       "Perl",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "vzhuck.com",
-    "title": "Valentine Zhuck | Valentine Zhuck",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 7400,
-    "crawled_at": "2025-11-02T00:23:39.00042489Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "KaTeX",
-      "Perl",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "uuboyscy.dev",
-    "title": "UUBOYSCY.DEV | UUBOYSCY ENGINEERING LOGS",
-    "business_name": "uuboyscy",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 19140,
-    "crawled_at": "2025-11-02T00:17:38.924862082Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "Fireblade",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Perl",
-      "Python",
-      "Rev",
-      "UTF-8",
-      "University or College",
-      "Vercel"
     ]
   }
 ]

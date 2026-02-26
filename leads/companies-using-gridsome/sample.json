@@ -1,5 +1,49 @@
 [
   {
+    "domain": "tohfameubles.com",
+    "title": "Tohfa meubles, Mobilier de luxe abordable - Tohfa meubles",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 268,
+    "crawled_at": "2026-02-26T19:50:47.849338431Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Gridsome",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "vanessapashkoff.com",
+    "title": "Index - Vanessa Pashkoff",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 16152,
+    "crawled_at": "2026-02-26T12:25:21.287913575Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Formspree",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Idaq",
+      "Instagram Follow Button",
+      "SMC",
+      "Subversion",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "tts-customs.com",
     "title": "TTS Customs Douane Specialisten voor import en export documenten",
     "business_name": "TTS-Customs.com",
@@ -11801,54 +11845,6 @@
       "PHP",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "vinnytsiajs.org",
-    "title": "Javascript Open Air Conference and Meetups - Vinnytsia JS",
-    "business_name": "",
-    "country": "UKR",
-    "seo_score": 52,
-    "tech_spend": 21404,
-    "crawled_at": "2025-11-07T03:39:06.318263319Z",
-    "technologies": [
-      "Corporate Governance and Regulatory Compliance",
-      "Financial Services Guide",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gridsome",
-      "IcoMoon",
-      "Idaq",
-      "Instagram Follow Button",
-      "KVH",
-      "Netlify",
-      "Nginx",
-      "No-Q",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "Telegram",
-      "Twitter Ads",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "orbit.hr",
-    "title": "Orbit proizvodnja - Orbit proizvodnja",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 15102,
-    "crawled_at": "2025-11-06T13:25:00.739459857Z",
-    "technologies": [
-      "Apache",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Gridsome",
-      "SMC",
-      "Tailwind CSS"
     ]
   }
 ]
