@@ -1,5 +1,38 @@
 [
   {
+    "domain": "justylytics.com",
+    "title": "Justylytics – Building just and impactful data solutions",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 65,
+    "tech_spend": 2860,
+    "crawled_at": "2026-02-25T22:49:55.694809042Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Astra Theme",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "GoDaddy",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Looker Studio",
+      "Google My Business",
+      "Header, Footer and Blocks for Elementor",
+      "NFOrce Internet",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "WPForms",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Related Posts",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "rancheyes.com",
     "title": "Rancheyes | Wireless Livestock Video Monitoring",
     "business_name": "",
@@ -5645,39 +5678,6 @@
       "Tailwind CSS",
       "UTF-8",
       "YouTube",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "justylytics.com",
-    "title": "Justylytics – Building just and impactful data solutions",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 65,
-    "tech_spend": 2860,
-    "crawled_at": "2025-11-01T18:15:03.581759856Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Astra Theme",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "GoDaddy",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Looker Studio",
-      "Google My Business",
-      "Header, Footer and Blocks for Elementor",
-      "NFOrce Internet",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "WPForms",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
       "jQuery"
     ]
   }
