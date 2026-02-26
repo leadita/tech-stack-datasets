@@ -1,5 +1,28 @@
 [
   {
+    "domain": "truthskool.com",
+    "title": "TruthSkool – Free The Spirit – Free The Mind – Free The Body",
+    "business_name": "",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 15732,
+    "crawled_at": "2026-02-26T11:32:34.164599224Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "EmbedPress",
+      "Gravity",
+      "LearnPress",
+      "Pabbly",
+      "QUIC",
+      "Twenty Twenty-Three",
+      "UTF-8",
+      "WP-Members",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "appleblossom.net.in",
     "title": "Top Preschool in Gurgaon | Best Preschool in Gurgaon Sector 45",
     "business_name": "",
@@ -5357,29 +5380,6 @@
       "UTF-8",
       "WhatsApp Sharing",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "truthskool.com",
-    "title": "TruthSkool – Free The Spirit – Free The Mind – Free The Body",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 529,
-    "crawled_at": "2025-11-01T19:45:59.071644524Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "EmbedPress",
-      "Gravity",
-      "LearnPress",
-      "Pabbly",
-      "QUIC",
-      "Twenty Twenty-Three",
-      "UTF-8",
-      "WP-Members",
-      "WordPress",
-      "WordPress Multisite"
     ]
   }
 ]
