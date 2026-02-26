@@ -1,5 +1,33 @@
 [
   {
+    "domain": "lazyjamie.com",
+    "title": "lazy jamie | homeware for in-between moments",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 11816,
+    "crawled_at": "2026-02-26T03:52:59.464149361Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Deliverr",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Klaviyo",
+      "ShareASale",
+      "Shopify",
+      "Shopify Collabs",
+      "Tailwind CSS",
+      "UTF-8",
+      "hCaptcha",
+      "reCAPTCHA",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "jerseypickles.com",
     "title": "Jersey Pickles - Cart",
     "business_name": "",
@@ -6804,34 +6832,6 @@
       "eLand",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "lazyjamie.com",
-    "title": "lazy jamie | home décor for in-between moments",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 11816,
-    "crawled_at": "2025-11-01T18:50:38.994605858Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Deliverr",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "ShareASale",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   }
 ]

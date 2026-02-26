@@ -1,5 +1,35 @@
 [
   {
+    "domain": "softelectronic.au",
+    "title": "Softelectronic ® Hybrid|Electric|Automotive Electronics Repair",
+    "business_name": "",
+    "country": "ARG",
+    "seo_score": 72,
+    "tech_spend": 31300,
+    "crawled_at": "2026-02-26T08:13:32.304103414Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Corporate Governance and Regulatory Compliance",
+      "DHL Parcel",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "UTF-8",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "ownlooks.store",
     "title": "Unique smartphones and handmade accessories since 2007 – OWNLOOKS",
     "business_name": "OWNLOOKS",
@@ -3414,36 +3444,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "softelectronic.co.uk",
-    "title": "Softelectronic ® Hybrid|Electric|Automotive Electronics Repair",
-    "business_name": "",
-    "country": "ARG",
-    "seo_score": 82,
-    "tech_spend": 31300,
-    "crawled_at": "2026-01-28T20:10:02.974598159Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Corporate Governance and Regulatory Compliance",
-      "DHL Parcel",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "UTF-8",
-      "YouTube",
-      "reCAPTCHA"
     ]
   },
   {
@@ -6972,36 +6972,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "softelectronic.us",
-    "title": "Softelectronic ® Hybrid|Electric|Automotive Electronics Repair",
-    "business_name": "",
-    "country": "ARG",
-    "seo_score": 72,
-    "tech_spend": 31300,
-    "crawled_at": "2025-12-28T13:34:38.312129377Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Corporate Governance and Regulatory Compliance",
-      "DHL Parcel",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "UTF-8",
-      "YouTube",
       "reCAPTCHA"
     ]
   },
@@ -18119,6 +18089,39 @@
       "WordPress Multisite",
       "WordPress Related Posts",
       "eLand",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "airshow.bh",
+    "title": "Home - Bahrain International Airshow",
+    "business_name": "",
+    "country": "BHR",
+    "seo_score": 77,
+    "tech_spend": 750,
+    "crawled_at": "2025-11-06T18:30:39.83439639Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "DHL Parcel",
+      "Drupal",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Storefront",
+      "Twitter Ads",
+      "UTF-8",
+      "Vimeo",
+      "Woo Themes",
+      "YouTube",
       "jQuery"
     ]
   }
