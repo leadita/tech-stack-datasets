@@ -1,5 +1,33 @@
 [
   {
+    "domain": "caerfoodshelf.org",
+    "title": "Providing Assistance for Local Families | CAER Food Shelf",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2756,
+    "crawled_at": "2026-02-26T13:58:06.270448433Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "No-Q",
+      "Perl",
+      "Site Search 360",
+      "Styled Components",
+      "Tailwind CSS",
+      "UTF-8",
+      "accessiBe"
+    ]
+  },
+  {
     "domain": "ymcabr.org",
     "title": "YMCA non-profit community service organization",
     "business_name": "",
@@ -15685,30 +15713,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "arrowcreek.com",
-    "title": "ArrowCreek HOA",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 5266,
-    "crawled_at": "2025-11-13T03:05:39.954189744Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Duda",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "No-Q",
-      "QUIC",
-      "Site Search 360",
-      "Tailwind CSS",
-      "TownSq",
-      "UTF-8"
     ]
   }
 ]

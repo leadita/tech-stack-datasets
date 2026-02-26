@@ -1,5 +1,30 @@
 [
   {
+    "domain": "nelsonirrigation.com",
+    "title": "Nelson Irrigation Corporation",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 5280,
+    "crawled_at": "2026-02-26T02:38:18.268332887Z",
+    "technologies": [
+      "Alternate Protocol",
+      "DAV",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Nuxt.js",
+      "Swiftype",
+      "Thank You",
+      "Twitter Ads",
+      "Visual Studio",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "mediumstats.com",
     "title": "Instant Medium Analytics - MediumStats.com - Chrome Web Store",
     "business_name": "",
@@ -418,30 +443,6 @@
       "Vimeo",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "nelsonirr.com",
-    "title": "Nelson Irrigation Corporation",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 5280,
-    "crawled_at": "2026-01-10T15:45:38.623349214Z",
-    "technologies": [
-      "Alternate Protocol",
-      "DAV",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microsoft Azure",
-      "Nuxt.js",
-      "Swiftype",
-      "Thank You",
-      "Twitter Ads",
-      "Visual Studio",
-      "YouTube"
     ]
   },
   {
