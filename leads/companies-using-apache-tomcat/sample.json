@@ -1,5 +1,87 @@
 [
   {
+    "domain": "foiapps.com",
+    "title": "Apache Tomcat/7.0.47",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 50,
+    "tech_spend": "",
+    "crawled_at": "2026-02-26T23:18:54.291491013Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "CentOS",
+      "ISO/IEC 8859",
+      "OpenSSL",
+      "QUIC",
+      "Subversion"
+    ]
+  },
+  {
+    "domain": "pmisfbac.org",
+    "title": "Project Management Institute San Francisco Bay Area Chapter",
+    "business_name": "",
+    "country": "VEN",
+    "seo_score": 72,
+    "tech_spend": 21708,
+    "crawled_at": "2026-02-26T00:12:32.978546539Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Apache Tomcat JK",
+      "AutoComplete",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "SmartAdServer Direct",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "pmimanitoba.org",
+    "title": "Your local PMI chapter in Manitoba | PMI Manitoba Chapter",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 2508,
+    "crawled_at": "2026-02-25T23:50:53.432829719Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "AutoComplete",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Imgix",
+      "Instagram Follow Button",
+      "LinkConnector",
+      "SmartAdServer Direct",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "thebestgene.com",
     "title": "BestGene Inc. - Home",
     "business_name": "",
@@ -729,22 +811,6 @@
       "Python",
       "Ubuntu",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "hlybic.in",
-    "title": "Apache Tomcat/7.0.8",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 45,
-    "tech_spend": "",
-    "crawled_at": "2026-02-08T10:09:35.749880487Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "ISO/IEC 8859",
-      "QUIC",
-      "Subversion"
     ]
   },
   {
@@ -13284,72 +13350,6 @@
       "UTF-8",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "pmisfbac.org",
-    "title": "Project Management Institute San Francisco Bay Area Chapter",
-    "business_name": "",
-    "country": "VEN",
-    "seo_score": 72,
-    "tech_spend": 21708,
-    "crawled_at": "2025-11-01T18:25:02.407210687Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Apache Tomcat JK",
-      "Apture Linking Platform",
-      "AutoComplete",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "SmartAdServer Direct",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "pmimanitoba.org",
-    "title": "Your local PMI chapter in Manitoba | PMI Manitoba Chapter",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 2547,
-    "crawled_at": "2025-11-01T18:22:11.732840726Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "AutoComplete",
-      "Coming Soon Page",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Imgix",
-      "Instagram Follow Button",
-      "LinkConnector",
-      "SmartAdServer Direct",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "YouTube",
-      "reCAPTCHA"
     ]
   }
 ]
