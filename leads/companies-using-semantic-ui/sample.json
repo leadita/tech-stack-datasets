@@ -1,5 +1,70 @@
 [
   {
+    "domain": "vegout.app",
+    "title": "VegOut! | Your Local Guide to Plant-Based Eats",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 228,
+    "crawled_at": "2026-02-26T06:33:02.215996612Z",
+    "technologies": [
+      "Google Analytics",
+      "Google Tag Manager",
+      "Netlify",
+      "PHP",
+      "QUIC",
+      "Semantic UI",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "neur.nyc.mn",
+    "title": "NEUR - 干净的导航",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 252,
+    "crawled_at": "2026-02-25T21:44:27.502812457Z",
+    "technologies": [
+      "ArvanCloud",
+      "Baidu Ads",
+      "Baidu Cloud",
+      "Bing Cashback",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Workers",
+      "DAV",
+      "GitHub Hosting",
+      "Google My Business",
+      "Semantic UI",
+      "UTF-8",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "malnadinfotech.com",
+    "title": "Malnad Infotech",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 60,
+    "tech_spend": 3,
+    "crawled_at": "2026-02-25T16:55:24.053773645Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Nginx",
+      "Semantic UI",
+      "WordPress",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "ekmechanes.com",
     "title": "DEUS EX MACHINA Artificial Intelligence | Machine Learning | Athens | Thessaloniki",
     "business_name": "",
@@ -14553,81 +14618,6 @@
       "Semantic UI",
       "UTF-8",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "labnet.com.ar",
-    "title": "LabNET",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 258,
-    "crawled_at": "2025-12-11T09:13:56.040213552Z",
-    "technologies": [
-      "Angular",
-      "Apache",
-      "Bulma",
-      "Financial Services Guide",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Semantic UI",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "0eurocollectors.com",
-    "title": "0 euro souvenier banknotes",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 62,
-    "tech_spend": 16599,
-    "crawled_at": "2025-12-11T09:10:56.011831836Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Fireblade",
-      "Font Awesome",
-      "NFOrce Internet",
-      "Nginx",
-      "QUIC",
-      "Semantic UI",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "attingerpartner.ch",
-    "title": "Home",
-    "business_name": "",
-    "country": "CHE",
-    "seo_score": 62,
-    "tech_spend": 197,
-    "crawled_at": "2025-12-11T08:16:56.032486233Z",
-    "technologies": [
-      "ChronoEngine",
-      "DAV",
-      "FreeCSSTemplates",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Joomla!",
-      "Lineicons",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "RokNavMenu",
-      "Semantic UI",
-      "Smart Slider 3",
-      "Twitter Ads",
-      "UTF-8",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
