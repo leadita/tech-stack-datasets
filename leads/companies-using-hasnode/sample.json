@@ -1,5 +1,25 @@
 [
   {
+    "domain": "tomaszposiadala.com",
+    "title": "Tomasz Posiadala",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 63,
+    "crawled_at": "2026-02-25T18:36:53.90310285Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Hasnode",
+      "Remix",
+      "Tailwind CSS",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "multiversalis.fun",
     "title": "Welcome | Multiversalis",
     "business_name": "",
@@ -11260,56 +11280,6 @@
       "Vector Internet Services",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "softcolontechnologies.com",
-    "title": "Softcolon | AI-Powered Solutions for Business Growth",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 5711,
-    "crawled_at": "2025-11-01T19:20:38.904206615Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Corporate Governance and Regulatory Compliance",
-      "Express",
-      "Google Analytics",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Hasnode",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "Unsplash",
-      "Vector Internet Services",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "tomaszposiadala.com",
-    "title": "Tomasz Posiadala",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 63,
-    "crawled_at": "2025-11-01T17:42:15.598764372Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hasnode",
-      "Remix",
-      "Tailwind CSS",
-      "Vercel"
     ]
   }
 ]
