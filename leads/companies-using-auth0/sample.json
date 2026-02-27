@@ -1,5 +1,38 @@
 [
   {
+    "domain": "iesf.gg",
+    "title": "IESF",
+    "business_name": "",
+    "country": "PRK",
+    "seo_score": 60,
+    "tech_spend": 2423,
+    "crawled_at": "2026-02-26T19:05:31.279524741Z",
+    "technologies": [
+      "Auth0",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Content Delivery Network",
+      "DAV",
+      "Digital Ocean Spaces",
+      "FormSubmit",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Instagram Follow Button",
+      "Krypt Technologies",
+      "Next.js",
+      "Ntent",
+      "Pleroma",
+      "Plivo",
+      "Scully",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "letsgiveitaspin.com",
     "title": "LetsGiveItASpin | Casino Streamer and Dosser",
     "business_name": "",
