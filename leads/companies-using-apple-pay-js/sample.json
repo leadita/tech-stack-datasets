@@ -9661,57 +9661,5 @@
       "eLand",
       "jQuery"
     ]
-  },
-  {
-    "domain": "broadjoint.com",
-    "title": "www.broadjoint.com",
-    "business_name": "",
-    "country": "GUF",
-    "seo_score": 72,
-    "tech_spend": 78168,
-    "crawled_at": "2025-11-01T20:14:38.977053968Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apple Pay JS",
-      "Aruba",
-      "Cart.com",
-      "Cloudflare",
-      "ETranslate",
-      "Express",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Subversion",
-      "UTF-8",
-      "eLand",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "wwjersey.com",
-    "title": "wwjersey",
-    "business_name": "",
-    "country": "ITA",
-    "seo_score": 72,
-    "tech_spend": 93168,
-    "crawled_at": "2025-11-01T20:02:38.925661325Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apple Pay JS",
-      "Aruba",
-      "Cart.com",
-      "Cloudflare",
-      "ETranslate",
-      "Fireblade",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Subversion",
-      "UTF-8",
-      "eLand",
-      "jQuery"
-    ]
   }
 ]
