@@ -1,6 +1,6 @@
 # Companies Using Ghost (Live Dataset 2026)
 
-This folder contains an active list of 698 companies using **Ghost**. 
+This folder contains an active list of 696 companies using **Ghost**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 698
+- **Total Leads:** 696
 - **Verified:** Yes
-- **Last Updated:** 2026-02-26 12:30 UTC
+- **Last Updated:** 2026-02-27 12:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **698+** companies using Ghost.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **696+** companies using Ghost.
 
 [**⚡ Unlock the Full Ghost List with Contact Details**](https://leadita.com/leads/companies-using-ghost)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-26 12:30 UTC*
+*Last updated: 2026-02-27 12:30 UTC*
 *Data source: Leadita Technographic Intelligence*
