@@ -1,5 +1,40 @@
 [
   {
+    "domain": "edmsllc.org",
+    "title": "Education Data Management Services, LLC",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 21743,
+    "crawled_at": "2026-02-26T12:16:08.828319021Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "ClickOn",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Ntent",
+      "SMC",
+      "Sapper",
+      "Schema Plugin",
+      "Subversion",
+      "Tableau",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "quicksoat.co",
     "title": "quicksoat.co",
     "business_name": "",
@@ -17196,39 +17231,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "indomulti.co.id",
-    "title": "Indomulti - Distributor GWF Industrial Fan",
-    "business_name": "",
-    "country": "IDN",
-    "seo_score": 65,
-    "tech_spend": 1877,
-    "crawled_at": "2025-11-20T18:28:01.038676528Z",
-    "technologies": [
-      "BootstrapMade",
-      "Carrd",
-      "Disqus Comment System for WordPress",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Linktree",
-      "LiteSpeed",
-      "Medium",
-      "OSS CDN",
-      "PHP",
-      "Proven Expert",
-      "QUIC",
-      "Tableau",
-      "Tailwind CSS",
-      "Telegram",
-      "Trello",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "YouTube",
-      "about.me"
     ]
   }
 ]
