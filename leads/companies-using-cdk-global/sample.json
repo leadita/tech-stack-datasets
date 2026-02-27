@@ -573,30 +573,5 @@
       "reCAPTCHA",
       "vAuto"
     ]
-  },
-  {
-    "domain": "helloimrui.com",
-    "title": "Rui Zhang | UX Researcher",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 30600,
-    "crawled_at": "2025-11-01T19:48:32.016022797Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Angular",
-      "BunnyCDN Header",
-      "CDK Global",
-      "Content Delivery Network",
-      "DAV",
-      "GZIP Module",
-      "Google My Business",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "Tailwind CSS",
-      "University or College",
-      "shadcn ui"
-    ]
   }
 ]
