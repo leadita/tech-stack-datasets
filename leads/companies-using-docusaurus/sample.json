@@ -1,5 +1,57 @@
 [
   {
+    "domain": "tedthetrumpet.com",
+    "title": "J Simon van der Walt",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-02-27T03:38:49.702004184Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Google Related Website Sites",
+      "Perl",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "seudev.com",
+    "title": "Seudev · Making your life easier!",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2400,
+    "crawled_at": "2026-02-27T02:06:39.507998194Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "Docusaurus",
+      "ElementUI",
+      "Facebook Conversion Tracking",
+      "Facebook Like",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Buttons Official",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "sylin.host",
     "title": "希望我们拥有美好的未来！ | PP 的备忘录",
     "business_name": "",
@@ -1783,24 +1835,6 @@
       "Tailwind CSS",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "jsimonvanderwalt.com",
-    "title": "J Simon van der Walt",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 62,
-    "tech_spend": 960,
-    "crawled_at": "2026-01-28T01:36:43.895430389Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Google Related Website Sites",
-      "Perl",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {
@@ -12486,24 +12520,6 @@
       "Perl",
       "To Top",
       "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "eshanpai.com",
-    "title": "Eshan Pai",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": "",
-    "crawled_at": "2025-11-02T06:33:49.922149678Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Netlify",
-      "Perl",
       "UTF-8"
     ]
   }
