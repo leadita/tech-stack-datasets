@@ -1,6 +1,6 @@
 # Companies Using Crisp (Live Dataset 2026)
 
-This folder contains an active list of 6,794 companies using **Crisp**. 
+This folder contains an active list of 6,789 companies using **Crisp**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 6,794
+- **Total Leads:** 6,789
 - **Verified:** Yes
-- **Last Updated:** 2026-02-26 15:30 UTC
+- **Last Updated:** 2026-02-27 15:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **6,794+** companies using Crisp.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **6,789+** companies using Crisp.
 
 [**⚡ Unlock the Full Crisp List with Contact Details**](https://leadita.com/leads/companies-using-crisp)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-26 15:30 UTC*
+*Last updated: 2026-02-27 15:30 UTC*
 *Data source: Leadita Technographic Intelligence*
