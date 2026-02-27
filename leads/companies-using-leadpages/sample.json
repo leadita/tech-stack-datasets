@@ -1,5 +1,32 @@
 [
   {
+    "domain": "galliumgroup.com",
+    "title": "GalliumGroup",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 19156,
+    "crawled_at": "2026-02-27T08:47:01.701720211Z",
+    "technologies": [
+      "Amazon",
+      "Amazon S3 CDN",
+      "Apache",
+      "Column Shortcodes",
+      "Fireblade",
+      "Google Cloud DNS",
+      "Google Code Prettify",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "IcoMoon",
+      "LeadPages",
+      "Storyblocks",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "plantbasedcooking.com",
     "title": "Plant Based Cooking with Diane Smith | Healthy Vegan Recipes",
     "business_name": "Plant Based Cooking",
@@ -51,33 +78,6 @@
       "WordPress Download Manager",
       "WordPress Multisite",
       "YouTube",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "galliumo.com",
-    "title": "GalliumGroup",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 19156,
-    "crawled_at": "2026-02-23T16:34:19.494460287Z",
-    "technologies": [
-      "Amazon",
-      "Amazon S3 CDN",
-      "Apache",
-      "Column Shortcodes",
-      "Fireblade",
-      "Google Cloud DNS",
-      "Google Code Prettify",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "IcoMoon",
-      "LeadPages",
-      "Storyblocks",
-      "Twitter Ads",
-      "UTF-8",
       "jQuery"
     ]
   },
