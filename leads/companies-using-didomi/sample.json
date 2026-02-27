@@ -1,5 +1,33 @@
 [
   {
+    "domain": "laurencebh.com",
+    "title": "Laurence Bolduc-Hénen | Residential Real Estate Broker at RE/MAX ACTIF",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 26000,
+    "crawled_at": "2026-02-27T02:14:42.270897865Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Didomi",
+      "Facebook Conversion Tracking",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nginx",
+      "Nuxt.js",
+      "UTF-8",
+      "Vector Internet Services"
+    ]
+  },
+  {
     "domain": "raoulnsabimana.com",
     "title": "Home",
     "business_name": "",
@@ -15688,38 +15716,6 @@
       "Visual Studio",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "aerosocietyjobs.com",
-    "title": "RAeS Home | RAeS Aerospace Jobs",
-    "business_name": "RAeS Aerospace Jobs",
-    "country": "GBR",
-    "seo_score": 87,
-    "tech_spend": 61699,
-    "crawled_at": "2025-11-05T22:50:38.904661139Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon WAF Blocked",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Didomi",
-      "Fireblade",
-      "GZIP Module",
-      "IcoMoon",
-      "JOBIQO",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Nginx",
-      "Perl",
-      "Pleroma",
-      "QUIC",
-      "Radix UI",
-      "Thank You",
-      "UTF-8",
-      "University or College",
-      "YouTube"
     ]
   }
 ]
