@@ -1,5 +1,67 @@
 [
   {
+    "domain": "homeloancentre.in",
+    "title": "HOME LOAN CENTRE | Where Dreams come HOME | home loan kannur",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 57,
+    "tech_spend": 3,
+    "crawled_at": "2026-02-27T04:53:11.189186775Z",
+    "technologies": [
+      "Google Cloud DNS",
+      "Google Font API",
+      "PHP",
+      "QUIC",
+      "Semantic UI",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "WordPress"
+    ]
+  },
+  {
+    "domain": "tinkerworks.nl",
+    "title": "Tinkerworks • Jelte Klas Wijnja",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 600,
+    "crawled_at": "2026-02-27T00:25:59.150804021Z",
+    "technologies": [
+      "CDN JS",
+      "Clicky",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Semantic UI",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "spaceplanrgt.com",
+    "title": "Spaceplan Research and Geospatial Technologies",
+    "business_name": "",
+    "country": "GHA",
+    "seo_score": 77,
+    "tech_spend": 39,
+    "crawled_at": "2026-02-26T18:11:25.553245511Z",
+    "technologies": [
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Gravity",
+      "Nginx",
+      "PHP",
+      "Semantic UI",
+      "Slider Revolution",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "vegout.app",
     "title": "VegOut! | Your Local Guide to Plant-Based Eats",
     "business_name": "",
@@ -14545,79 +14607,6 @@
       "Ubuntu",
       "Vimeo",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "camlikalpburakanaokulu.com",
-    "title": "Ana Sayfa | Alp Burak Anaokulu",
-    "business_name": "",
-    "country": "TUR",
-    "seo_score": 72,
-    "tech_spend": 567,
-    "crawled_at": "2025-12-11T11:46:56.023639189Z",
-    "technologies": [
-      "Cloudflare",
-      "Fancybox for WordPress",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "PHP",
-      "Semantic UI",
-      "Tailwind CSS",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "WoWonder",
-      "YouTube",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "zorvynthoe.com",
-    "title": "Zorvynthoe – Focused Learning Methods for Deep Work Mastery",
-    "business_name": "",
-    "country": "ISR",
-    "seo_score": 77,
-    "tech_spend": 35000,
-    "crawled_at": "2025-12-11T10:58:56.028762243Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "DC74",
-      "Fireblade",
-      "Microdata for Google Shopping",
-      "Perl",
-      "QUIC",
-      "Semantic UI",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "hbhydraulics.co.uk",
-    "title": "Home | HB Hydraulics",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 60,
-    "tech_spend": 162,
-    "crawled_at": "2025-12-11T10:04:56.033348756Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Cookies and You",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Perl",
-      "Semantic UI",
-      "UTF-8",
-      "reCAPTCHA"
     ]
   }
 ]
