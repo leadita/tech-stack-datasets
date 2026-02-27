@@ -1,5 +1,33 @@
 [
   {
+    "domain": "edgeofthecouch.com",
+    "title": "EDGE OF THE COUCH",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 1011,
+    "crawled_at": "2026-02-26T23:18:54.306674174Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Jane App",
+      "LiteSpeed",
+      "PHP",
+      "QUIC",
+      "RSVPify",
+      "Theme In WP",
+      "Twenty Twenty",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "healwell.org",
     "title": "Healwell | Elevating Healthcare with Compassionate Touch and Education",
     "business_name": "",
@@ -2539,32 +2567,6 @@
       "Vimeo",
       "Visx",
       "WP Booking Calendar"
-    ]
-  },
-  {
-    "domain": "edgeofthecouch.com",
-    "title": "EDGE OF THE COUCH",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 1011,
-    "crawled_at": "2025-11-01T21:12:42.703365352Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Jane App",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "Theme In WP",
-      "Twenty Twenty",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite"
     ]
   }
 ]
