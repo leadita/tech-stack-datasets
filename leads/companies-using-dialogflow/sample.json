@@ -1,5 +1,33 @@
 [
   {
+    "domain": "botraise.com",
+    "title": "BotRaise :: Strona główna",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 1219,
+    "crawled_at": "2026-02-27T14:32:35.173674982Z",
+    "technologies": [
+      "3 Products",
+      "Bulma",
+      "CDN JS",
+      "CallPage",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Dialogflow",
+      "Fastly",
+      "Firebase",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Material Design Icons",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "jdheaurangabad.info",
     "title": "Wel Come To Joint Director Of Higher Education – Padam Pura Station Road, Near to Devgiri Mahavidyalaya, Chhatrapati Sambhajinagar District, M.S. (India), Pin Code : 431 001",
     "business_name": "",
@@ -8680,52 +8708,6 @@
       "UTF-8",
       "WordPress",
       "WordPress Multisite"
-    ]
-  },
-  {
-    "domain": "cncai.tech",
-    "title": "C&C - Home",
-    "business_name": "",
-    "country": "THA",
-    "seo_score": 55,
-    "tech_spend": 660,
-    "crawled_at": "2025-11-01T23:02:38.973914636Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Dialogflow",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud CDN",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "botraise.com",
-    "title": "BotRaise :: Strona główna",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 1219,
-    "crawled_at": "2025-11-01T22:59:38.891676742Z",
-    "technologies": [
-      "3 Products",
-      "Bulma",
-      "CDN JS",
-      "CallPage",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Dialogflow",
-      "Fastly",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Material Design Icons",
-      "UTF-8"
     ]
   }
 ]
