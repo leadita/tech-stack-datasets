@@ -17300,32 +17300,5 @@
       "WhatsApp Sharing",
       "jQuery"
     ]
-  },
-  {
-    "domain": "aramirez.dev",
-    "title": "Anderson Ramirez | DevOps Engineer & Tech Educator",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 4627,
-    "crawled_at": "2025-11-02T01:33:28.202313433Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Font Awesome",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Okta",
-      "Python",
-      "Tailwind CSS",
-      "University or College"
-    ]
   }
 ]
