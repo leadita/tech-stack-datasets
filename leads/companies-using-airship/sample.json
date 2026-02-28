@@ -1,5 +1,32 @@
 [
   {
+    "domain": "tryairship.com",
+    "title": "Airship Helium – airship-portableheliumtank",
+    "business_name": "airship-portableheliumtank",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 25411,
+    "crawled_at": "2026-02-28T14:58:43.201682952Z",
+    "technologies": [
+      "Airship CRM",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "Tailwind CSS",
+      "To Top",
+      "UTF-8",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "royalwells.co.uk",
     "title": "Hotel In Tunbridge Wells | The Royal Wells Hotel",
     "business_name": "The Royal Wells Hotel, Tunbridge Wells",
@@ -1079,33 +1106,6 @@
       "YouTube",
       "Zendesk Embeddables",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "tryairship.com",
-    "title": "Airship Helium – airship-portableheliumtank",
-    "business_name": "airship-portableheliumtank",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 30411,
-    "crawled_at": "2025-11-02T01:49:19.311723161Z",
-    "technologies": [
-      "Airship CRM",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "KVH",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "To Top",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   }
 ]
