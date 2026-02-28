@@ -1,5 +1,37 @@
 [
   {
+    "domain": "patrickvanniekerk.co.za",
+    "title": "Patrick van Niekerk | attooh! Your Wealth Solution",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 67,
+    "tech_spend": 23960,
+    "crawled_at": "2026-02-28T00:10:03.780280592Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon S3 CDN",
+      "Authorize.net",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "DAV",
+      "Financial Services Guide",
+      "Fireblade",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Nuxt.js",
+      "QUIC",
+      "Storyblocks",
+      "UTF-8",
+      "Vimeo",
+      "Vimeo CDN",
+      "eMoney"
+    ]
+  },
+  {
     "domain": "presidiocm.com",
     "title": "Presidio Capital Management",
     "business_name": "",
@@ -3749,38 +3781,6 @@
       "eMoney",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "patrickvanniekerk.co.za",
-    "title": "Patrick van Niekerk | attooh! Your Wealth Solution",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 67,
-    "tech_spend": 23960,
-    "crawled_at": "2025-11-02T00:07:52.686849278Z",
-    "technologies": [
-      "Amazon S3 CDN",
-      "Apture Linking Platform",
-      "Authorize.net",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Nuxt.js",
-      "QUIC",
-      "Storyblocks",
-      "UTF-8",
-      "Vimeo",
-      "Vimeo CDN",
-      "eMoney"
     ]
   }
 ]
