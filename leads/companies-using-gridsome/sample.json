@@ -1,5 +1,24 @@
 [
   {
+    "domain": "playtothrive.co.uk",
+    "title": "Home - Play to Thrive",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 62768,
+    "crawled_at": "2026-02-28T18:33:03.41909677Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Netlify",
+      "Phew",
+      "SMC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "tohfameubles.com",
     "title": "Tohfa meubles, Mobilier de luxe abordable - Tohfa meubles",
     "business_name": "",
@@ -11819,32 +11838,6 @@
       "UTF-8",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "ashanub.com",
-    "title": "Home | Ashan Boralugoda 👋",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 67,
-    "tech_spend": 1187,
-    "crawled_at": "2025-11-07T15:09:52.895560458Z",
-    "technologies": [
-      "Bulma",
-      "Content Delivery Network",
-      "ElementUI",
-      "Express",
-      "Font Awesome",
-      "Gatsby JS",
-      "GitHub Hosting",
-      "Gridsome",
-      "Heroku",
-      "Instagram Follow Button",
-      "LottieFiles",
-      "Netlify",
-      "PHP",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]
