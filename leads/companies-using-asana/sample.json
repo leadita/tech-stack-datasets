@@ -1,5 +1,28 @@
 [
   {
+    "domain": "focus247dental.com",
+    "title": "The Teledentists",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 251,
+    "crawled_at": "2026-02-28T08:04:21.262914928Z",
+    "technologies": [
+      "Angular",
+      "Apache",
+      "Apture Linking Platform",
+      "Asana",
+      "Bulma",
+      "CakePHP",
+      "GetResponse",
+      "Matomo Tag Manager",
+      "New Relic",
+      "Slack",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "lhplumbandgas.com",
     "title": "Home | LH Plumbing and Gas",
     "business_name": "",
@@ -18833,66 +18856,6 @@
       "Vercel",
       "Zoom Video Conferencing",
       "eLand"
-    ]
-  },
-  {
-    "domain": "blackbearaffiliates.com",
-    "title": "Black Bear Affiliates",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 1518,
-    "crawled_at": "2025-11-02T01:56:01.018971428Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Asana",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Font Awesome",
-      "FreeCSSTemplates",
-      "Gambling Content",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Krypt Technologies",
-      "LiteSpeed",
-      "PHP",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "WPFront Scroll Top",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "focus247dental.com",
-    "title": "The Teledentists",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 251,
-    "crawled_at": "2025-11-02T01:02:38.953496718Z",
-    "technologies": [
-      "Angular",
-      "Apache",
-      "Apture Linking Platform",
-      "Asana",
-      "Bulma",
-      "CakePHP",
-      "GetResponse",
-      "Matomo Tag Manager",
-      "New Relic",
-      "Slack",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
