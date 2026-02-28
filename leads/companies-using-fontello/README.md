@@ -1,6 +1,6 @@
 # Companies Using Fontello (Live Dataset 2026)
 
-This folder contains an active list of 42,023 companies using **Fontello**. 
+This folder contains an active list of 41,967 companies using **Fontello**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 42,023
+- **Total Leads:** 41,967
 - **Verified:** Yes
-- **Last Updated:** 2026-02-27 23:15 UTC
+- **Last Updated:** 2026-02-28 23:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **42,023+** companies using Fontello.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **41,967+** companies using Fontello.
 
 [**⚡ Unlock the Full Fontello List with Contact Details**](https://leadita.com/leads/companies-using-fontello)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-27 23:15 UTC*
+*Last updated: 2026-02-28 23:15 UTC*
 *Data source: Leadita Technographic Intelligence*
