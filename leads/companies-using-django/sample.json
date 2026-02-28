@@ -1,5 +1,59 @@
 [
   {
+    "domain": "convade.org",
+    "title": "Home - Convade",
+    "business_name": "",
+    "country": "SYC",
+    "seo_score": 72,
+    "tech_spend": 68007,
+    "crawled_at": "2026-02-28T03:31:37.495347207Z",
+    "technologies": [
+      "Create React App",
+      "DAV",
+      "Django",
+      "Fireblade",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Nginx",
+      "Perl",
+      "Pleroma",
+      "Python",
+      "QUIC",
+      "SMC",
+      "UTF-8",
+      "Ubuntu",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "ori-global.com",
+    "title": "ORI Global - RPO and Recruiting Bay Area, CA",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2347,
+    "crawled_at": "2026-02-27T14:17:23.888762473Z",
+    "technologies": [
+      "B12",
+      "Coming Soon Page",
+      "DAV",
+      "Django",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Perl",
+      "QUIC",
+      "University or College",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "spinluxe.nz",
     "title": "SpinLuxe NZ: Premium Online Casino & Pokies Gaming Hub",
     "business_name": "",
@@ -8905,59 +8959,6 @@
       "UTF-8",
       "Ubuntu",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "convade.org",
-    "title": "Home - Convade",
-    "business_name": "",
-    "country": "SYC",
-    "seo_score": 67,
-    "tech_spend": 18007,
-    "crawled_at": "2025-11-02T00:32:18.199018467Z",
-    "technologies": [
-      "Create React App",
-      "DAV",
-      "Django",
-      "Fireblade",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Nginx",
-      "Perl",
-      "Pleroma",
-      "Python",
-      "QUIC",
-      "UTF-8",
-      "Ubuntu",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "ori-global.com",
-    "title": "ORI Global - RPO and Recruiting Bay Area, CA",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2347,
-    "crawled_at": "2025-11-01T22:56:58.907006952Z",
-    "technologies": [
-      "B12",
-      "Coming Soon Page",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "University or College",
-      "reCAPTCHA"
     ]
   }
 ]

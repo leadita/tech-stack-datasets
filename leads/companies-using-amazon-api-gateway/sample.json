@@ -1,5 +1,34 @@
 [
   {
+    "domain": "shinraitechnologies.io",
+    "title": "Shinrai Technologies - AWS Cloud Migration Excellence",
+    "business_name": "",
+    "country": "KEN",
+    "seo_score": 80,
+    "tech_spend": 6690,
+    "crawled_at": "2026-02-27T18:37:42.114743417Z",
+    "technologies": [
+      "Amazon",
+      "Amazon API Gateway",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "ElementUI",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "QUIC"
+    ]
+  },
+  {
     "domain": "downsouthfishingchartersllc.com",
     "title": "Reel in the Big One: Your Guide to Lafitte Fishing Adventures!",
     "business_name": "Down South Fishing Charters",
@@ -17489,39 +17518,6 @@
       "Storyblocks",
       "Styled Components",
       "Subversion"
-    ]
-  },
-  {
-    "domain": "wearelakeshore.com",
-    "title": "Lakeshore Community Church | A Place to Learn, Laugh, and Love in Bright's Grove",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 27590,
-    "crawled_at": "2025-11-15T20:56:04.996473989Z",
-    "technologies": [
-      "Amazon",
-      "Amazon API Gateway",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Church Center",
-      "CloudFront",
-      "Content Delivery Network",
-      "Create React App",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "KVH",
-      "Line2",
-      "Pleroma",
-      "Shore",
-      "Storyblocks",
-      "Styled Components",
-      "Subversion",
-      "YouTube"
     ]
   }
 ]
