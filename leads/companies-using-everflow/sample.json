@@ -1,15 +1,16 @@
 [
   {
-    "domain": "explorewithalosim.com",
+    "domain": "alosimteams.com",
     "title": "aloSIM | Download eSIMs for travel data in 200+ countries",
     "business_name": "aloSIM",
     "country": "PHL",
     "seo_score": 77,
-    "tech_spend": 150111,
-    "crawled_at": "2026-02-27T08:29:34.590165206Z",
+    "tech_spend": 152511,
+    "crawled_at": "2026-02-27T12:23:57.765339091Z",
     "technologies": [
       "AWS WAF Challenge",
       "Alternate Protocol",
+      "Amazon",
       "CCSI",
       "Cloudflare",
       "Content Delivery Network",
