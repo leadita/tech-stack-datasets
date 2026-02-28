@@ -1,5 +1,30 @@
 [
   {
+    "domain": "platinuminsurance.com",
+    "title": "Platinum Resources, Inc | Insurance Agency",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 15300,
+    "crawled_at": "2026-02-27T19:31:09.513948025Z",
+    "technologies": [
+      "Better Lead Generation Services",
+      "Edmunds",
+      "Fireblade",
+      "FreeCSSTemplates",
+      "GZIP Module",
+      "Helix Ultimate",
+      "Joomla!",
+      "Nginx",
+      "PHP",
+      "Parallels Plesk Panel",
+      "RokNavMenu",
+      "UTF-8",
+      "University or College",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "annemarieotanez.com",
     "title": "Own Your Power With – Anne Marie",
     "business_name": "",
@@ -5514,31 +5539,6 @@
       "Subversion",
       "UTF-8",
       "Ubuntu"
-    ]
-  },
-  {
-    "domain": "platinuminsurance.com",
-    "title": "Platinum Resources, Inc | Insurance Agency",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 15300,
-    "crawled_at": "2025-11-01T23:32:54.514972966Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "Edmunds",
-      "Fireblade",
-      "FreeCSSTemplates",
-      "GZIP Module",
-      "Helix Ultimate",
-      "Joomla!",
-      "Nginx",
-      "PHP",
-      "Parallels Plesk Panel",
-      "RokNavMenu",
-      "UTF-8",
-      "University or College",
-      "jQuery"
     ]
   }
 ]
