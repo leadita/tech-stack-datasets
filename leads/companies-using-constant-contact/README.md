@@ -1,6 +1,6 @@
 # Companies Using Constant Contact (Live Dataset 2026)
 
-This folder contains an active list of 46,745 companies using **Constant Contact**. 
+This folder contains an active list of 46,714 companies using **Constant Contact**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 46,745
+- **Total Leads:** 46,714
 - **Verified:** Yes
-- **Last Updated:** 2026-02-27 17:15 UTC
+- **Last Updated:** 2026-02-28 17:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **46,745+** companies using Constant Contact.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **46,714+** companies using Constant Contact.
 
 [**⚡ Unlock the Full Constant Contact List with Contact Details**](https://leadita.com/leads/companies-using-constant-contact)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-27 17:15 UTC*
+*Last updated: 2026-02-28 17:15 UTC*
 *Data source: Leadita Technographic Intelligence*
