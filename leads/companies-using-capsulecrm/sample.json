@@ -1,5 +1,38 @@
 [
   {
+    "domain": "knowledgetrain.jp",
+    "title": "Professional Training and Certification for Individuals | Business Solutions to Improve Organisational Performance | Knowledge Train",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 24195,
+    "crawled_at": "2026-02-27T19:53:05.458159213Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "CapsuleCRM",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Google Analytics",
+      "Google Custom Search",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "LiteSpeed",
+      "PHP",
+      "QUIC",
+      "RM Education",
+      "Tailwind CSS",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "WPML Multilingual",
+      "Woo Themes",
+      "WordPress",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "okanaganluxuryhomeinspections.ca",
     "title": "Home Inspections Kelowna | Stix Property Inspections, Kelowna, BC",
     "business_name": "",
@@ -1037,39 +1070,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "knowledgetrain.jp",
-    "title": "Professional Training and Certification for Individuals | Business Solutions to Improve Organisational Performance | Knowledge Train",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 24195,
-    "crawled_at": "2025-11-01T23:35:38.927773968Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "CapsuleCRM",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Google Analytics",
-      "Google Custom Search",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "RM Education",
-      "Tailwind CSS",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "WPML Multilingual",
-      "Woo Themes",
-      "WordPress",
-      "YouTube"
     ]
   }
 ]
