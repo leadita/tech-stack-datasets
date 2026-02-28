@@ -1,5 +1,40 @@
 [
   {
+    "domain": "festivalofhope.de",
+    "title": "Essen 2023 Festival of Hope – PRESSEPORTAL",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 82,
+    "tech_spend": 31279,
+    "crawled_at": "2026-02-28T00:44:36.239354291Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "AJAX Libraries API",
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "DuracellTomi Google Tag Manager for WordPress",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Gravity",
+      "Gravity Forms",
+      "Kaltura",
+      "Microdata for Google Shopping",
+      "PHP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "smashingmylimits.com",
     "title": "SMAshing My Limits",
     "business_name": "",
@@ -13154,41 +13189,6 @@
       "Visual Studio",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "festivalofhope.de",
-    "title": "Essen 2023 Festival of Hope – PRESSEPORTAL",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 77,
-    "tech_spend": 31279,
-    "crawled_at": "2025-11-02T00:11:38.951754413Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "AJAX Libraries API",
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "DuracellTomi Google Tag Manager for WordPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Gravity",
-      "Gravity Forms",
-      "Kaltura",
-      "Microdata for Google Shopping",
-      "PHP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
