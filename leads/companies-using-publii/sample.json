@@ -1,5 +1,44 @@
 [
   {
+    "domain": "tathamjohnson.com",
+    "title": "Tatham Johnson",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 67,
+    "tech_spend": 149,
+    "crawled_at": "2026-03-01T07:05:50.649632612Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Google Analytics",
+      "Google Tag Manager",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "Publii",
+      "QUIC",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "tylerbeatty.ca",
+    "title": "Tyler's Portfolio",
+    "business_name": "Tyler's Portfolio",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 148,
+    "crawled_at": "2026-02-28T17:42:01.81448481Z",
+    "technologies": [
+      "Content Delivery Network",
+      "CoreUI",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "councilwords.com",
     "title": "Noxidsoft",
     "business_name": "Noxidsoft",
@@ -7151,45 +7190,6 @@
       "Content Delivery Network",
       "Instagram Follow Button",
       "MailChimp",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "tathamjohnson.com",
-    "title": "Tatham Johnson",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 67,
-    "tech_spend": 149,
-    "crawled_at": "2025-11-02T03:44:39.03181889Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Google Analytics",
-      "Google Tag Manager",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "Publii",
-      "QUIC",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "tylerbeatty.ca",
-    "title": "Tyler's Portfolio",
-    "business_name": "Tyler's Portfolio",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 148,
-    "crawled_at": "2025-11-02T02:08:38.880257709Z",
-    "technologies": [
-      "Content Delivery Network",
-      "CoreUI",
-      "Google Analytics",
-      "Google Tag Manager",
       "Microdata for Google Shopping",
       "Netlify",
       "Publii",

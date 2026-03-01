@@ -1,5 +1,52 @@
 [
   {
+    "domain": "peteschaffner.com",
+    "title": "Pete Schaffner",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 60,
+    "crawled_at": "2026-03-01T06:40:13.685297321Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GZIP Module",
+      "Mastodon",
+      "Micro.blog",
+      "Nginx",
+      "Ubuntu"
+    ]
+  },
+  {
+    "domain": "briztreadley.au",
+    "title": "Briztreadley",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 60,
+    "tech_spend": 452,
+    "crawled_at": "2026-03-01T01:27:57.867183184Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Automattic",
+      "DAV",
+      "Express",
+      "Google My Business",
+      "Gravity",
+      "Hugo",
+      "Instagram Follow Button",
+      "Micro.blog",
+      "QUIC",
+      "Shifter",
+      "Tailwind CSS",
+      "Telegram",
+      "UTF-8",
+      "WordPress",
+      "YouTube",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "tookish.net",
     "title": "Noah St. Amand: Web Development, Upright & Electric Bass",
     "business_name": "",
@@ -7608,52 +7655,6 @@
       "Micro.blog",
       "QUIC",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "peteschaffner.com",
-    "title": "Pete Schaffner",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 60,
-    "crawled_at": "2025-11-02T03:41:39.497397149Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GZIP Module",
-      "Mastodon",
-      "Micro.blog",
-      "Nginx",
-      "Ubuntu"
-    ]
-  },
-  {
-    "domain": "briztreadley.au",
-    "title": "Briztreadley",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 60,
-    "tech_spend": 452,
-    "crawled_at": "2025-11-02T03:08:38.948729742Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Automattic",
-      "DAV",
-      "Express",
-      "Google My Business",
-      "Gravity",
-      "Instagram Follow Button",
-      "Micro.blog",
-      "QUIC",
-      "Shifter",
-      "Tailwind CSS",
-      "Telegram",
-      "UTF-8",
-      "WordPress",
-      "YouTube",
-      "eLand",
-      "shadcn ui"
     ]
   }
 ]
