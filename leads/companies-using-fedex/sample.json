@@ -1,5 +1,21 @@
 [
   {
+    "domain": "halbsoschlimm.de",
+    "title": "Professional restoration of antique Tiffany lamps",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 67,
+    "tech_spend": 100,
+    "crawled_at": "2026-03-01T03:50:14.078963251Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "FedEx",
+      "GZIP Module",
+      "ISO/IEC 8859"
+    ]
+  },
+  {
     "domain": "logisticscongress.eu",
     "title": "Home - Logistični kongres",
     "business_name": "Logistični kongres",
@@ -18730,47 +18746,6 @@
       "Twitter Ads",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "ushipsolution.com",
-    "title": "U-Ship Solutions",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 60,
-    "tech_spend": 3302,
-    "crawled_at": "2025-11-13T02:38:39.971071718Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apache",
-      "Astra Theme",
-      "Better Lead Generation Services",
-      "DHL Parcel",
-      "Elementor",
-      "ElementsKit Elementor",
-      "EmbedPress",
-      "Express",
-      "FedEx",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Join.chat",
-      "LiteSpeed",
-      "Metform Elemento",
-      "PHP",
-      "QUIC",
-      "Theme In WP",
-      "UPS",
-      "UTF-8",
-      "Wangsu",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "jQuery",
-      "myStickymenu"
     ]
   }
 ]
