@@ -3358,21 +3358,5 @@
       "Xero",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "traetris.com",
-    "title": "TraeTris Cleaning & Handyman Services - Home",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 62,
-    "tech_spend": 664,
-    "crawled_at": "2025-11-02T01:20:38.908267461Z",
-    "technologies": [
-      "1and1 Website Builder",
-      "Apache",
-      "FreshBooks",
-      "GZIP Module",
-      "UTF-8"
-    ]
   }
 ]
