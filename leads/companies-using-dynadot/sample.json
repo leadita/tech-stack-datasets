@@ -3466,24 +3466,5 @@
       "GZIP Module",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "pepsrus.org",
-    "title": "SIMPLE",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 7635,
-    "crawled_at": "2025-11-02T02:11:39.000763574Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Fireblade",
-      "Font Awesome",
-      "GZIP Module",
-      "QUIC",
-      "UTF-8"
-    ]
   }
 ]
