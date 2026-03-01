@@ -1,6 +1,6 @@
 # Companies Using Adobe Experience Manager (Live Dataset 2026)
 
-This folder contains an active list of 1,286 companies using **Adobe Experience Manager**. 
+This folder contains an active list of 1,285 companies using **Adobe Experience Manager**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 1,286
+- **Total Leads:** 1,285
 - **Verified:** Yes
-- **Last Updated:** 2026-02-28 13:30 UTC
+- **Last Updated:** 2026-03-01 13:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,286+** companies using Adobe Experience Manager.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,285+** companies using Adobe Experience Manager.
 
 [**⚡ Unlock the Full Adobe Experience Manager List with Contact Details**](https://leadita.com/leads/companies-using-adobe-experience-manager)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-28 13:30 UTC*
+*Last updated: 2026-03-01 13:30 UTC*
 *Data source: Leadita Technographic Intelligence*
