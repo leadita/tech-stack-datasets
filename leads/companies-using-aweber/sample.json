@@ -1,5 +1,37 @@
 [
   {
+    "domain": "akfitnessandhealth.com",
+    "title": "Asma Kassam: Women’s Health & Fitness Coach in Vancouver | British Colombia",
+    "business_name": "Ak Fitness Inc",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 21441,
+    "crawled_at": "2026-03-01T11:25:27.864347675Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "Eber",
+      "Etix",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "aWeber",
+      "eLand"
+    ]
+  },
+  {
     "domain": "ironmonk.com",
     "title": "IronMonk Solutions - Web Development, Graphic Design, SEO+",
     "business_name": "Gold IRA Guide",
@@ -18512,45 +18544,6 @@
       "WordPress Related Posts",
       "aWeber",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "forkrestaurant.com",
-    "title": "Home - Fork Restaurant",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 5739,
-    "crawled_at": "2025-12-17T04:25:32.732363327Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apache",
-      "Apture Linking Platform",
-      "Eber",
-      "EmbedPress",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Lazy Load for WordPress",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Stockholm",
-      "UTF-8",
-      "WPBakery",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "aWeber",
-      "eLand"
     ]
   }
 ]
