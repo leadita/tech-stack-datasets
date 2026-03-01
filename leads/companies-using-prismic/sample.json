@@ -1,5 +1,65 @@
 [
   {
+    "domain": "magnusmenzefricke.eu",
+    "title": "Magnus Menzefricke",
+    "business_name": "",
+    "country": "SYC",
+    "seo_score": 62,
+    "tech_spend": 15420,
+    "crawled_at": "2026-03-01T16:33:19.630263587Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adult Content",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Next.js",
+      "Perl",
+      "Pleroma",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "meetlivelessons.co",
+    "title": "One-To-One Online Music Lessons | Live Online Music Lessons",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 6076,
+    "crawled_at": "2026-03-01T14:13:56.623760874Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ByteDance",
+      "Content Delivery Network",
+      "DoubleClick Bid Manager",
+      "Facebook Reseller",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Headless UI",
+      "Instagram Follow Button",
+      "Momence",
+      "Next.js",
+      "Perl",
+      "Plausible Analytics",
+      "Pleroma",
+      "Prismic",
+      "QUIC",
+      "SnapWidget",
+      "Tailwind CSS",
+      "UK Cookie Consent",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "previsico.com",
     "title": "Previsico: Advanced Flood Forecasting Solutions | Previsico",
     "business_name": "",
@@ -2315,42 +2375,6 @@
       "University or College",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "smartliveonlinelessons.org",
-    "title": "One-To-One Online Music Lessons | Live Online Music Lessons",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 1653,
-    "crawled_at": "2026-02-06T00:31:48.879157182Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ByteDance",
-      "Content Delivery Network",
-      "DoubleClick Bid Manager",
-      "Facebook Reseller",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Headless UI",
-      "Instagram Follow Button",
-      "Momence",
-      "Next.js",
-      "Perl",
-      "Plausible Analytics",
-      "Pleroma",
-      "Prismic",
-      "QUIC",
-      "SnapWidget",
-      "Tailwind CSS",
-      "UK Cookie Consent",
-      "UTF-8",
-      "Vercel",
-      "YouTube"
     ]
   },
   {
@@ -13577,34 +13601,6 @@
       "Vimeo",
       "Vimeo CDN",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "leasemyspace.in",
-    "title": "Best Commercial Property Leasing Company In Kolkata | Lease My Space",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 1070,
-    "crawled_at": "2025-11-19T21:07:51.259504366Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon S3 CDN",
-      "Content Delivery Network",
-      "Express",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Next.js",
-      "Pleroma",
-      "Prismic",
-      "QUIC",
-      "Storyblocks",
-      "Tailwind CSS",
-      "Tally",
-      "Thank You",
-      "UTF-8",
-      "Vercel",
-      "WhatsApp Sharing"
     ]
   }
 ]
