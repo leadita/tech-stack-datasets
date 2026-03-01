@@ -1,5 +1,36 @@
 [
   {
+    "domain": "magiclightbox.com",
+    "title": "The Magic Lightbox Company",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 77,
+    "tech_spend": 7251,
+    "crawled_at": "2026-03-01T08:12:31.671893372Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cognito Forms",
+      "Content Delivery Network",
+      "Freshworks CRM",
+      "Google My Business",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Interchange",
+      "Microdata for Google Shopping",
+      "Newsletter for Wordpress",
+      "PandaDoc",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "UTF-8",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "hummingagent.ai",
     "title": "HummingAgent - Build Your AI Workforce | Custom AI Solutions for Your Business",
     "business_name": "Humming Agent AI",
@@ -2170,36 +2201,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "magiclightbox.com",
-    "title": "The Magic Lightbox Company",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 82,
-    "tech_spend": 7251,
-    "crawled_at": "2025-11-02T03:50:39.005921012Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cognito Forms",
-      "Freshworks CRM",
-      "Google My Business",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Interchange",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "PandaDoc",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   }
 ]
