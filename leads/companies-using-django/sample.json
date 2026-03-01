@@ -1,5 +1,35 @@
 [
   {
+    "domain": "timoconnorplumbing.com",
+    "title": "Santa Clarita Plumber - Tim O'Connor Plumbing",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 32020,
+    "crawled_at": "2026-03-01T03:03:17.084756637Z",
+    "technologies": [
+      "Adult Content",
+      "Apture Linking Platform",
+      "B12",
+      "Bing Cashback",
+      "DAV",
+      "Django",
+      "Drift",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Line2",
+      "Perl",
+      "QUIC",
+      "University or College"
+    ]
+  },
+  {
     "domain": "convade.org",
     "title": "Home - Convade",
     "business_name": "",
@@ -1619,31 +1649,6 @@
       "Perl",
       "QUIC",
       "Yelp Badge",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "denkandassociatescpa.net",
-    "title": "Denk & Associates - A Harrisburg, PA-based CPA firm",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 32460,
-    "crawled_at": "2026-01-31T04:18:57.381384455Z",
-    "technologies": [
-      "Adult Content",
-      "Apture Linking Platform",
-      "B12",
-      "DAV",
-      "Django",
-      "Drift",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Line2",
-      "Perl",
-      "QUIC",
       "reCAPTCHA"
     ]
   },
@@ -4312,36 +4317,6 @@
       "Perl",
       "QUIC",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "timoplumbing.com",
-    "title": "Santa Clarita Plumber - Tim O'Connor Plumbing",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 32020,
-    "crawled_at": "2025-12-20T23:32:57.816886556Z",
-    "technologies": [
-      "Adult Content",
-      "Apture Linking Platform",
-      "B12",
-      "Bing Cashback",
-      "DAV",
-      "Django",
-      "Drift",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Line2",
-      "Perl",
-      "QUIC",
-      "University or College"
     ]
   },
   {
