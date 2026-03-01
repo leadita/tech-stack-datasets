@@ -1,5 +1,52 @@
 [
   {
+    "domain": "choosemyquote.com",
+    "title": "Smarter Choice, Better Insurance Rate - ChooseMyQuote",
+    "business_name": "",
+    "country": "JPN",
+    "seo_score": 65,
+    "tech_spend": 2868,
+    "crawled_at": "2026-02-28T21:45:25.271797796Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Edmunds",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Tag Manager",
+      "IcoMoon",
+      "QUIC",
+      "Subversion",
+      "UTF-8",
+      "Ubuntu"
+    ]
+  },
+  {
+    "domain": "findbestquote.com",
+    "title": "Smarter Choice, Better Insurance Rate | FindBestQuote",
+    "business_name": "",
+    "country": "JPN",
+    "seo_score": 72,
+    "tech_spend": 468,
+    "crawled_at": "2026-02-28T21:45:25.271207449Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Edmunds",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "PHP",
+      "QUIC",
+      "Subversion",
+      "UTF-8",
+      "Ubuntu"
+    ]
+  },
+  {
     "domain": "platinuminsurance.com",
     "title": "Platinum Resources, Inc | Insurance Agency",
     "business_name": "",
@@ -5488,57 +5535,6 @@
       "jQuery",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "findbestquote.com",
-    "title": "Smarter Choice, Better Insurance Rate | FindBestQuote",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 828,
-    "crawled_at": "2025-11-02T02:41:38.898391345Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon S3 CDN",
-      "Apache",
-      "Edmunds",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "PHP",
-      "QUIC",
-      "Storyblocks",
-      "Subversion",
-      "UTF-8",
-      "Ubuntu"
-    ]
-  },
-  {
-    "domain": "choosemyquote.com",
-    "title": "Smarter Choice, Better Insurance Rate - ChooseMyQuote",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 3228,
-    "crawled_at": "2025-11-02T02:41:38.898526828Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon S3 CDN",
-      "Apache",
-      "Edmunds",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "IcoMoon",
-      "QUIC",
-      "Storyblocks",
-      "Subversion",
-      "UTF-8",
-      "Ubuntu"
     ]
   }
 ]
