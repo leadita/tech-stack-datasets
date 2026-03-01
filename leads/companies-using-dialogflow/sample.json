@@ -1,5 +1,35 @@
 [
   {
+    "domain": "rsr.org.za",
+    "title": "Home - Railway Safety Regulator",
+    "business_name": "Railway Safety Regulator",
+    "country": "ZAF",
+    "seo_score": 75,
+    "tech_spend": 3232,
+    "crawled_at": "2026-02-28T16:11:17.93667478Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Dialogflow",
+      "EWWW Image Optimizer",
+      "EmbedPress",
+      "Font Awesome",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "PHP",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "botraise.com",
     "title": "BotRaise :: Strona główna",
     "business_name": "",
@@ -8678,36 +8708,6 @@
       "Yandex Hosting",
       "Yandex Metrika",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "rsr.org.za",
-    "title": "Home - Railway Safety Regulator",
-    "business_name": "Railway Safety Regulator",
-    "country": "ZAF",
-    "seo_score": 75,
-    "tech_spend": 3232,
-    "crawled_at": "2025-11-02T01:56:38.986452086Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Dialogflow",
-      "EWWW Image Optimizer",
-      "EmbedPress",
-      "Font Awesome",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite"
     ]
   }
 ]
