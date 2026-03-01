@@ -1,5 +1,31 @@
 [
   {
+    "domain": "jmdetailing.je",
+    "title": "JM Detailing | Jersey",
+    "business_name": "",
+    "country": "GUF",
+    "seo_score": 70,
+    "tech_spend": 18382,
+    "crawled_at": "2026-03-01T03:17:01.299677103Z",
+    "technologies": [
+      "Fireblade",
+      "Flat Icon",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Perl",
+      "QUIC",
+      "Setmore",
+      "Tagembed",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "stlbrickrepair.com",
     "title": "Atek Masonry | Brick-Block-Stone | Repaired-Rebuilt-Restored",
     "business_name": "",
@@ -17331,33 +17357,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "dtfgrafx.com",
-    "title": "My Store",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 55,
-    "tech_spend": 567,
-    "crawled_at": "2025-11-02T12:05:38.930352457Z",
-    "technologies": [
-      "Adult Content",
-      "Amazon",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Facebook Reseller",
-      "Google Cloud DNS",
-      "IcoMoon",
-      "QUIC",
-      "Setmore",
-      "Shopify",
-      "Shopify Collabs",
-      "Tagembed",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   }
 ]
