@@ -1,5 +1,28 @@
 [
   {
+    "domain": "percolate.dev",
+    "title": "Percolate",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 55,
+    "tech_spend": 17659,
+    "crawled_at": "2026-03-01T11:08:01.073873305Z",
+    "technologies": [
+      "Algolia",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "KVH",
+      "NFOrce Internet",
+      "QUIC",
+      "Seismic",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "buriedarray.com",
     "title": "Microseismic - Empowering Industry Heroes",
     "business_name": "Microseismic, Inc.",
@@ -2153,28 +2176,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "percolate.dev",
-    "title": "Percolate",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 17659,
-    "crawled_at": "2025-11-02T04:08:54.29705723Z",
-    "technologies": [
-      "Algolia",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "KVH",
-      "NFOrce Internet",
-      "QUIC",
-      "Seismic",
-      "UTF-8"
     ]
   }
 ]
