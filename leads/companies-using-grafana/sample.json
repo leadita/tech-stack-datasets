@@ -1,5 +1,24 @@
 [
   {
+    "domain": "grafana.oc.dk",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 1200,
+    "crawled_at": "2026-03-01T04:48:07.591000013Z",
+    "technologies": [
+      "Barchart",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Grafana",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "cairos.app",
     "title": "Grafana",
     "business_name": "",

@@ -1,4 +1,5 @@
 domain,title,business_name,country,seo_score,tech_spend,crawled_at,technologies
+grafana.oc.dk,Grafana,,,40,1200,2026-03-01T04:48:07.591000013Z,"['Barchart', 'Cloudflare', 'Cloudflare CDN', 'Express', 'GZIP Module', 'GitHub Hosting', 'Grafana', 'UTF-8']"
 cairos.app,Grafana,,,30,11200,2026-02-28T04:18:36.50243153Z,"['Apache', 'Barchart', 'Contento', 'Express', 'GitHub Hosting', 'Grafana', 'UTF-8']"
 availability.ftc.ru,Grafana,,,30,11200,2026-02-25T13:17:22.934130558Z,"['Apache', 'Barchart', 'Contento', 'Express', 'GZIP Module', 'GitHub Hosting', 'Grafana', 'Nginx', 'UTF-8']"
 vikshep.com,Arya Shakti,,,40,32899,2025-11-12T12:28:47.830657816Z,"['AAPT', 'Apache', 'DAV', 'Financial Services Guide', 'GitHub Hosting', 'Google My Business', 'Grafana', 'KVH', 'Ntent', 'On The Map', 'Paessler', 'RawGit', 'SMC', 'Subversion', 'UTF-8']"
