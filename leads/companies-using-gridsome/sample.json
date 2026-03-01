@@ -1,5 +1,25 @@
 [
   {
+    "domain": "lukasriedel.se",
+    "title": "Portfolio - Lukas Riedel",
+    "business_name": "",
+    "country": "SWE",
+    "seo_score": 45,
+    "tech_spend": 1848,
+    "crawled_at": "2026-03-01T09:11:53.391663458Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Gridsome",
+      "Idaq",
+      "No-Q",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "playtothrive.co.uk",
     "title": "Home - Play to Thrive",
     "business_name": "",
@@ -11819,25 +11839,6 @@
       "Twitter Ads",
       "UTF-8",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "covalentland.au",
-    "title": "Covalent Land Australia",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 348,
-    "crawled_at": "2025-11-07T16:48:33.35523199Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Content Delivery Network",
-      "Gridsome",
-      "Netlify",
-      "Netlify Forms",
-      "UTF-8",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   }
 ]
