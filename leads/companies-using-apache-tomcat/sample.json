@@ -1,5 +1,74 @@
 [
   {
+    "domain": "higgins.host",
+    "title": "The Curriculum Vitae of Sean Higgins",
+    "business_name": "",
+    "country": "JAM",
+    "seo_score": 70,
+    "tech_spend": 21040,
+    "crawled_at": "2026-03-01T10:08:38.721337836Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Apache Tomcat JK",
+      "DAV",
+      "GZIP Module",
+      "GitHub Hosting",
+      "HostGator",
+      "Interchange",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Oracle Cloud",
+      "Parallels Plesk Panel",
+      "Telegram",
+      "UTF-8",
+      "University or College",
+      "Visual Studio"
+    ]
+  },
+  {
+    "domain": "sanockabibliotekacyfrowa.pl",
+    "title": "Municipal Public Library in Sanok",
+    "business_name": "",
+    "country": "POL",
+    "seo_score": 67,
+    "tech_spend": "",
+    "crawled_at": "2026-03-01T03:30:21.194034391Z",
+    "technologies": [
+      "Add to Any",
+      "Apache",
+      "Apache Tomcat JK",
+      "Perl",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "catreus.co",
+    "title": "Catreus — Digital Integrators — API, EAI, ESB, BPM, BAW, MOM, Application, Data, Process, DevOps, DevSecOps, CI/CD",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 20536,
+    "crawled_at": "2026-03-01T01:10:00.341295567Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Apache Tomcat JK",
+      "Content Delivery Network",
+      "ElementUI",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Netlify",
+      "Nginx",
+      "Oracle Cloud",
+      "Python",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "ipp.cas.cz",
     "title": "Institute of plasma physics",
     "business_name": "",
@@ -13279,74 +13348,6 @@
       "WordPress Multisite",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "higgins.host",
-    "title": "The Curriculum Vitae of Sean Higgins",
-    "business_name": "",
-    "country": "JAM",
-    "seo_score": 65,
-    "tech_spend": 21040,
-    "crawled_at": "2025-11-02T04:03:33.775245802Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Apache Tomcat JK",
-      "DAV",
-      "GZIP Module",
-      "GitHub Hosting",
-      "HostGator",
-      "Interchange",
-      "Microsoft Azure",
-      "Oracle Cloud",
-      "Parallels Plesk Panel",
-      "Telegram",
-      "UTF-8",
-      "University or College",
-      "Visual Studio"
-    ]
-  },
-  {
-    "domain": "sanockabibliotekacyfrowa.pl",
-    "title": "Municipal Public Library in Sanok",
-    "business_name": "",
-    "country": "POL",
-    "seo_score": 67,
-    "tech_spend": "",
-    "crawled_at": "2025-11-02T03:23:03.672781267Z",
-    "technologies": [
-      "Add to Any",
-      "Apache",
-      "Apache Tomcat JK",
-      "Perl",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "catreus.co",
-    "title": "Catreus — Digital Integrators — API, EAI, ESB, BPM, BAW, MOM, Application, Data, Process, DevOps, DevSecOps, CI/CD",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 20536,
-    "crawled_at": "2025-11-02T03:06:15.142928228Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Apache Tomcat JK",
-      "Content Delivery Network",
-      "ElementUI",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Netlify",
-      "Nginx",
-      "Oracle Cloud",
-      "Python",
-      "UTF-8"
     ]
   }
 ]
