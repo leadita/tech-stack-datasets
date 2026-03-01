@@ -1,6 +1,6 @@
 # Companies Using Meet Edgar (Live Dataset 2026)
 
-This folder contains an active list of 17 companies using **Meet Edgar**. 
+This folder contains an active list of 16 companies using **Meet Edgar**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 17
+- **Total Leads:** 16
 - **Verified:** Yes
-- **Last Updated:** 2026-02-28 22:30 UTC
+- **Last Updated:** 2026-03-01 22:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **17+** companies using Meet Edgar.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **16+** companies using Meet Edgar.
 
 [**⚡ Unlock the Full Meet Edgar List with Contact Details**](https://leadita.com/leads/companies-using-meet-edgar)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-02-28 22:30 UTC*
+*Last updated: 2026-03-01 22:30 UTC*
 *Data source: Leadita Technographic Intelligence*
