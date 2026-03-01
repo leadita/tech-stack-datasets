@@ -1,5 +1,66 @@
 [
   {
+    "domain": "apphouseinfotech.com",
+    "title": "AppHouse Infotech: Leading Mobile App & Web Development in Rajkot",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 15139,
+    "crawled_at": "2026-03-01T08:28:19.111631513Z",
+    "technologies": [
+      "Bulma",
+      "CDN JS",
+      "CacheFly",
+      "CacheFly CDN",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "WhatsApp Sharing"
+    ]
+  },
+  {
+    "domain": "apartments4.me",
+    "title": "Spherexx: Data Science | Performance | Proptech",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 59328,
+    "crawled_at": "2026-02-28T16:57:09.246462997Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Apture Linking Platform",
+      "Better Lead Generation Services",
+      "CacheFly",
+      "CacheFly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "ILoveLeasing",
+      "IcoMoon",
+      "Okta",
+      "PWA",
+      "Perl",
+      "QUIC",
+      "Spherexx",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vimeo",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "verto-fx.co.uk",
     "title": "Verto LP",
     "business_name": "",
@@ -346,35 +407,6 @@
       "Microsoft Azure",
       "UTF-8",
       "Visual Studio"
-    ]
-  },
-  {
-    "domain": "apartmentkiosk.com",
-    "title": "Kiosks | Multifamily Industry | Spherexx",
-    "business_name": "Spherexx",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 64458,
-    "crawled_at": "2026-01-17T14:01:10.449325749Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Better Lead Generation Services",
-      "CacheFly",
-      "CacheFly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Tag Manager",
-      "ILoveLeasing",
-      "IcoMoon",
-      "PWA",
-      "Prospective",
-      "Spherexx",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Wistia",
-      "jQuery"
     ]
   },
   {
@@ -2407,34 +2439,6 @@
       "UTF-8",
       "University or College",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "apphouseinfotech.com",
-    "title": "AppHouse Infotech: Leading Mobile App & Web Development in Rajkot",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 15139,
-    "crawled_at": "2025-11-02T03:53:38.886835802Z",
-    "technologies": [
-      "Bulma",
-      "CDN JS",
-      "CacheFly",
-      "CacheFly CDN",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "WhatsApp Sharing"
     ]
   }
 ]
