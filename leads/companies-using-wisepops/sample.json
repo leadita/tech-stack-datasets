@@ -1,5 +1,39 @@
 [
   {
+    "domain": "oceanbeachpalletco.com",
+    "title": "Handcrafted Record Player Vinyl Stands – Ocean Beach Pallet Co",
+    "business_name": "Ocean Beach Pallet Co",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 9972,
+    "crawled_at": "2026-03-01T20:17:33.687273847Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "Etsy",
+      "Express",
+      "Google Related Website Sites",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Klaviyo",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "NFOrce Internet",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "Wisepops",
+      "YouTube",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "luxurylivingdirect.com",
     "title": "LuxuryLivingDirect - America Furniture",
     "business_name": "LuxuryLivingDirect",
@@ -21030,33 +21064,6 @@
       "hCaptcha",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "goldenireland.ie",
-    "title": "Golden Ireland | Golden Years Breaks | Golden Ireland Breaks | Over 55's Holidays | Tailored Hotel Breaks for 55s+",
-    "business_name": "",
-    "country": "IRL",
-    "seo_score": 72,
-    "tech_spend": 6257,
-    "crawled_at": "2025-11-07T19:44:38.884647883Z",
-    "technologies": [
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Microsoft Azure Blob Storage",
-      "No-Q",
-      "OneTrust Domain Verification",
-      "Stripe",
-      "UTF-8",
-      "Wisepops",
-      "eLand",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
