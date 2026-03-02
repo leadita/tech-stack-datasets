@@ -1,5 +1,21 @@
 [
   {
+    "domain": "mexon.mx",
+    "title": "MEXON",
+    "business_name": "",
+    "country": "",
+    "seo_score": 32,
+    "tech_spend": 48,
+    "crawled_at": "2026-03-02T12:48:48.690285268Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gusto"
+    ]
+  },
+  {
     "domain": "onlylovehospice.com",
     "title": "HOSPICE | ONLY LOVE HOME CARE",
     "business_name": "",
@@ -15818,22 +15834,6 @@
       "jsDelivr",
       "monday.com",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "mexon.mx",
-    "title": "MEXON",
-    "business_name": "",
-    "country": "",
-    "seo_score": 32,
-    "tech_spend": 48,
-    "crawled_at": "2025-11-02T06:48:30.571016476Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gusto"
     ]
   }
 ]
