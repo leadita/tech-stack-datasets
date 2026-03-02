@@ -1,5 +1,37 @@
 [
   {
+    "domain": "bitcoinportal.co.uk",
+    "title": "bitcoinportal | buying or mining",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 3809,
+    "crawled_at": "2026-03-02T08:03:42.621383812Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Contact Form 7",
+      "Contact Form Plugin",
+      "EmbedPress",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Looker Studio",
+      "Google Maps",
+      "Google My Business",
+      "LiteSpeed",
+      "MaxCDN",
+      "PHP",
+      "Perl",
+      "QUIC",
+      "SiteW",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "eLand",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "switchclinic.com",
     "title": "SWITCH",
     "business_name": "",
@@ -5647,38 +5679,6 @@
       "Schema Plugin",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "bitcoinportal.co.uk",
-    "title": "bitcoinportal | buying or mining",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 3809,
-    "crawled_at": "2025-11-02T06:20:39.392430971Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Contact Form 7",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Looker Studio",
-      "Google Maps",
-      "Google My Business",
-      "LiteSpeed",
-      "MaxCDN",
-      "PHP",
-      "Perl",
-      "QUIC",
-      "SiteW",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "eLand",
-      "reCAPTCHA"
     ]
   }
 ]
