@@ -1,5 +1,23 @@
 [
   {
+    "domain": "eshanpai.com",
+    "title": "Eshan Pai",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": "",
+    "crawled_at": "2026-03-02T10:04:08.816111384Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Netlify",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "anofox.com",
     "title": "AnoFox | Enterprise Forecasting",
     "business_name": "",
@@ -12539,29 +12557,6 @@
       "Vercel",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "prashantbarahi.com.np",
-    "title": "Prashant Barahi",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2025-11-02T10:23:38.93581254Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DAV",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Medium",
-      "Netlify",
-      "Ntent",
-      "Perl",
-      "UTF-8"
     ]
   }
 ]
