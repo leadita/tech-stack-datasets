@@ -1,5 +1,28 @@
 [
   {
+    "domain": "assistancecash.com",
+    "title": "An EMDN - Assistance Cash, Financial Support Money Management Payment Solutions Budgeting Aid Fund Access Personal Finance Assistance Quick Loans Financial Guidance",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 135,
+    "crawled_at": "2026-03-02T07:54:16.328520434Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Clarity",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "sexbuddy.org",
     "title": "Build Your Brand with JM XTRADE, INC.",
     "business_name": "",
@@ -13,27 +36,6 @@
       "Dynadot",
       "Font Awesome",
       "GZIP Module",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "countiv.com",
-    "title": "An EMDN - Countiv, Analytics Counting Statistics Data Tracking Metrics Measurement Monitoring",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 135,
-    "crawled_at": "2026-02-26T03:39:24.073633814Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microsoft Clarity",
       "UTF-8"
     ]
   },
