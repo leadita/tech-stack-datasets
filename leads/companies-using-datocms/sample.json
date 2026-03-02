@@ -1,5 +1,30 @@
 [
   {
+    "domain": "betteroff.studio",
+    "title": "Better Off Studio I Add-to-cart creative™",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 11008,
+    "crawled_at": "2026-03-02T07:41:29.149978312Z",
+    "technologies": [
+      "Calendly",
+      "Content Delivery Network",
+      "DatoCMS",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Netlify",
+      "Nuxt.js",
+      "RM Education",
+      "Tailwind CSS",
+      "Typeform",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "studioagriculture.co",
     "title": "Home | Studio Agriculture",
     "business_name": "",
@@ -14165,36 +14190,6 @@
       "Instagram Follow Button",
       "Netlify",
       "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "lifesumm.com",
-    "title": "Lifesum - Healthy eating. Simplified.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 46826,
-    "crawled_at": "2025-11-29T05:12:46.367171452Z",
-    "technologies": [
-      "Adjust",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CloudFront",
-      "Content Delivery Network",
-      "DatoCMS",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "JUST",
-      "PartnerPage",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
