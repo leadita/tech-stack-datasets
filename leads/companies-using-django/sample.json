@@ -1,5 +1,77 @@
 [
   {
+    "domain": "aashnak.me",
+    "title": "Aashna Kshirsagar",
+    "business_name": "",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 5579,
+    "crawled_at": "2026-03-02T09:31:32.65777438Z",
+    "technologies": [
+      "BootstrapMade",
+      "Content Delivery Network",
+      "Django",
+      "Fastly",
+      "Flask",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "PHP",
+      "Python",
+      "QUIC",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "trtperformancemh.com",
+    "title": "TRT Performance Men’s Health | Home | Men's Wellness Clinic",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 2268,
+    "crawled_at": "2026-03-02T00:57:49.752129341Z",
+    "technologies": [
+      "Angular",
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Perl",
+      "QUIC",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "comm.trade",
+    "title": "CommTrade Tech",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 15040,
+    "crawled_at": "2026-03-01T23:34:33.963228837Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Django",
+      "Fireblade",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Nginx",
+      "UTF-8",
+      "Ubuntu",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "timoconnorplumbing.com",
     "title": "Santa Clarita Plumber - Tim O'Connor Plumbing",
     "business_name": "",
@@ -3809,27 +3881,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "trtperfomancemh.com",
-    "title": "TRT Performance Men’s Health | Home | Men's Wellness Clinic",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 2268,
-    "crawled_at": "2025-12-26T22:43:38.344042906Z",
-    "technologies": [
-      "Angular",
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
     ]
   },
   {
@@ -8883,57 +8934,6 @@
       "Python",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "aashnak.me",
-    "title": "Aashna Kshirsagar",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 663,
-    "crawled_at": "2025-11-02T06:29:39.408730939Z",
-    "technologies": [
-      "BootstrapMade",
-      "Content Delivery Network",
-      "Django",
-      "Fastly",
-      "Flask",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "PHP",
-      "Python",
-      "QUIC",
-      "UTF-8",
-      "University or College"
-    ]
-  },
-  {
-    "domain": "comm.trade",
-    "title": "CommTrade Tech",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 15040,
-    "crawled_at": "2025-11-02T05:32:38.902319185Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Django",
-      "Fireblade",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "UTF-8",
-      "Ubuntu",
-      "jQuery"
     ]
   }
 ]
