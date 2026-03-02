@@ -1,6 +1,6 @@
 # Companies Using ClickUp (Live Dataset 2026)
 
-This folder contains an active list of 659 companies using **ClickUp**. 
+This folder contains an active list of 661 companies using **ClickUp**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 659
+- **Total Leads:** 661
 - **Verified:** Yes
-- **Last Updated:** 2026-03-01 21:00 UTC
+- **Last Updated:** 2026-03-02 21:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **659+** companies using ClickUp.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **661+** companies using ClickUp.
 
 [**⚡ Unlock the Full ClickUp List with Contact Details**](https://leadita.com/leads/companies-using-clickup)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-01 21:00 UTC*
+*Last updated: 2026-03-02 21:00 UTC*
 *Data source: Leadita Technographic Intelligence*

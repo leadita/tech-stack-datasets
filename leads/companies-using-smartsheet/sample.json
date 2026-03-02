@@ -1,5 +1,22 @@
 [
   {
+    "domain": "faithandcommunityflorida.com",
+    "title": "Governor Ron DeSantis' Faith and Community Initiative",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 204,
+    "crawled_at": "2026-03-02T08:12:54.745935747Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Instagram Follow Button",
+      "Smartsheet",
+      "Vimeo",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "fallsconsultinggroup.com",
     "title": "HOME | Group",
     "business_name": "",
@@ -15307,23 +15324,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "faithandcommunityflorida.com",
-    "title": "Governor Ron DeSantis' Faith and Community Initiative",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 204,
-    "crawled_at": "2025-11-02T06:23:27.93220545Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Instagram Follow Button",
-      "Smartsheet",
-      "Vimeo",
-      "YouTube",
-      "jsDelivr"
     ]
   }
 ]
