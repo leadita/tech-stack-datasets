@@ -1,5 +1,34 @@
 [
   {
+    "domain": "tmr-24.com",
+    "title": "TMR Systems",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 16280,
+    "crawled_at": "2026-03-02T05:45:42.299366755Z",
+    "technologies": [
+      "ADFOX",
+      "Content Delivery Network",
+      "DAV",
+      "Dialogflow",
+      "Fastly",
+      "Firebase",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Tag Manager",
+      "Tailwind CSS",
+      "Telegram",
+      "UTF-8",
+      "Yandex Hosting",
+      "Yandex Metrika",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "rsr.org.za",
     "title": "Home - Railway Safety Regulator",
     "business_name": "Railway Safety Regulator",
@@ -8680,34 +8709,6 @@
       "WP Portfolio Astra",
       "WordPress",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "tmr-24.com",
-    "title": "TMR Systems",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 14480,
-    "crawled_at": "2025-11-02T06:08:38.969657661Z",
-    "technologies": [
-      "ADFOX",
-      "Content Delivery Network",
-      "DAV",
-      "Dialogflow",
-      "Fastly",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Tag Manager",
-      "Tailwind CSS",
-      "Telegram",
-      "UTF-8",
-      "Yandex Hosting",
-      "Yandex Metrika",
-      "YouTube"
     ]
   }
 ]
