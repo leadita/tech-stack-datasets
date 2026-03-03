@@ -1,5 +1,5 @@
 domain,title,business_name,country,seo_score,tech_spend,crawled_at,technologies
-grafana.1fo.de,Grafana,,,45,1260,2026-03-02T13:45:44.725354069Z,"['Barchart', 'Express', 'GZIP Module', 'GitHub Hosting', 'Grafana', 'OpenResty', 'UTF-8', 'Yandex Hosting']"
+daveiot.com,Grafana,,,30,1200,2026-03-03T06:00:44.193579594Z,"['Barchart', 'DAV', 'Express', 'GZIP Module', 'GitHub Hosting', 'Grafana', 'Nginx', 'UTF-8', 'Ubuntu']"
 ycfwydu.com,Grafana,,,30,,2026-03-02T07:22:10.778720317Z,"['GitHub Hosting', 'Grafana', 'Nginx', 'Tailwind CSS', 'UTF-8']"
 grafana.oc.dk,Grafana,,,40,1200,2026-03-01T04:48:07.591000013Z,"['Barchart', 'Cloudflare', 'Cloudflare CDN', 'Express', 'GZIP Module', 'GitHub Hosting', 'Grafana', 'UTF-8']"
 cairos.app,Grafana,,,30,11200,2026-02-28T04:18:36.50243153Z,"['Apache', 'Barchart', 'Contento', 'Express', 'GitHub Hosting', 'Grafana', 'UTF-8']"

@@ -1,21 +1,22 @@
 [
   {
-    "domain": "grafana.1fo.de",
+    "domain": "daveiot.com",
     "title": "Grafana",
     "business_name": "",
     "country": "",
-    "seo_score": 45,
-    "tech_spend": 1260,
-    "crawled_at": "2026-03-02T13:45:44.725354069Z",
+    "seo_score": 30,
+    "tech_spend": 1200,
+    "crawled_at": "2026-03-03T06:00:44.193579594Z",
     "technologies": [
       "Barchart",
+      "DAV",
       "Express",
       "GZIP Module",
       "GitHub Hosting",
       "Grafana",
-      "OpenResty",
+      "Nginx",
       "UTF-8",
-      "Yandex Hosting"
+      "Ubuntu"
     ]
   },
   {
