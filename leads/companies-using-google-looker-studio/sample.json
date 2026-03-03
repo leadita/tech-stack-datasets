@@ -1,5 +1,31 @@
 [
   {
+    "domain": "faith2share.net",
+    "title": "Home - Faith2Share",
+    "business_name": "",
+    "country": "PHL",
+    "seo_score": 65,
+    "tech_spend": 2908,
+    "crawled_at": "2026-03-02T14:03:21.952625201Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Looker Studio",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "PWA",
+      "Schema Plugin",
+      "Twitter Ads",
+      "UTF-8",
+      "eLand"
+    ]
+  },
+  {
     "domain": "bitcoinportal.co.uk",
     "title": "bitcoinportal | buying or mining",
     "business_name": "",
@@ -5653,32 +5679,6 @@
       "eLand",
       "jQuery",
       "wpDataTables"
-    ]
-  },
-  {
-    "domain": "faith2share.net",
-    "title": "Home - Faith2Share",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 219,
-    "crawled_at": "2025-11-02T06:56:00.413771089Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Looker Studio",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "PWA",
-      "Schema Plugin",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]
