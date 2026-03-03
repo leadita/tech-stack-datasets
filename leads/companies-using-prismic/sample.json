@@ -1,5 +1,35 @@
 [
   {
+    "domain": "kantamanto.com",
+    "title": "Sharetribe - Marketplace Software for Founders",
+    "business_name": "Sharetribe",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 2528,
+    "crawled_at": "2026-03-03T13:36:40.351816526Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Adult Content",
+      "Alternate Protocol",
+      "Amazon Widgets",
+      "Content Delivery Network",
+      "Investor Relations",
+      "Medium",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "PHP",
+      "Perl",
+      "Pleroma",
+      "Prismic",
+      "QUIC",
+      "Sharetribe",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "helptheair.org",
     "title": "Kaire – Kentuckiana Air Education",
     "business_name": "",
@@ -3106,35 +3136,6 @@
       "Pure.css",
       "Twitter Ads",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "d4a.eu",
-    "title": "Sharetribe - Marketplace Software for Founders",
-    "business_name": "Sharetribe",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 2528,
-    "crawled_at": "2026-02-02T03:34:48.878885898Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Adult Content",
-      "Alternate Protocol",
-      "Amazon Widgets",
-      "Content Delivery Network",
-      "Investor Relations",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "PHP",
-      "Perl",
-      "Pleroma",
-      "Prismic",
-      "QUIC",
-      "Sharetribe",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "YouTube"
     ]
   },
   {
