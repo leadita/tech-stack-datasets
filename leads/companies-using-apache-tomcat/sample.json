@@ -1,5 +1,39 @@
 [
   {
+    "domain": "julhas.com",
+    "title": "WELCOME || JULHAS SUJAN",
+    "business_name": "",
+    "country": "NOR",
+    "seo_score": 72,
+    "tech_spend": 37840,
+    "crawled_at": "2026-03-03T14:14:58.040142973Z",
+    "technologies": [
+      "AAPT",
+      "AWS WAF Challenge",
+      "Apache",
+      "Apache Tomcat JK",
+      "Apture Linking Platform",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "HostGator",
+      "InitiativeS",
+      "Nginx",
+      "Oracle Cloud",
+      "PHP",
+      "Python",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Ubuntu",
+      "University or College",
+      "W3.CSS",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "guillermo.dev",
     "title": "Guillermo Calvo",
     "business_name": "",
@@ -13290,63 +13324,6 @@
       "Vercel",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "deals2protect.com",
-    "title": "Welcome to deals2protect.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 12559,
-    "crawled_at": "2025-11-02T09:48:14.13688565Z",
-    "technologies": [
-      "ActiveProspect",
-      "Apache",
-      "Apache Tomcat JK",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "ISO/IEC 8859",
-      "IcoMoon",
-      "RM Education",
-      "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "julhas.com",
-    "title": "WELCOME || JULHAS SUJAN",
-    "business_name": "",
-    "country": "NOR",
-    "seo_score": 72,
-    "tech_spend": 37840,
-    "crawled_at": "2025-11-02T09:22:17.666703643Z",
-    "technologies": [
-      "AAPT",
-      "AWS WAF Challenge",
-      "Apache",
-      "Apache Tomcat JK",
-      "Apture Linking Platform",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "HostGator",
-      "InitiativeS",
-      "Nginx",
-      "Oracle Cloud",
-      "PHP",
-      "Python",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Ubuntu",
-      "University or College",
-      "W3.CSS",
-      "jQuery"
     ]
   }
 ]
