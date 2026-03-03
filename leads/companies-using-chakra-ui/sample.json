@@ -1,5 +1,76 @@
 [
   {
+    "domain": "hotelliss.al",
+    "title": "Home<!-- --> - <!-- -->Hotel Liss Lezhe<!-- -->",
+    "business_name": "",
+    "country": "ALB",
+    "seo_score": 77,
+    "tech_spend": 26416,
+    "crawled_at": "2026-03-03T09:27:02.568856189Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Google My Business",
+      "Instagram Follow Button",
+      "KVH",
+      "Netlify",
+      "Next.js",
+      "PWA",
+      "Pleroma",
+      "QUIC",
+      "Sanity",
+      "UTF-8",
+      "Vector Internet Services",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "sonneveldhouse.com",
+    "title": "Museum House Huis Sonneveld – Iconic Home in Nieuwe Bouwen Style, Rotterdam",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 72,
+    "tech_spend": 240,
+    "crawled_at": "2026-03-03T06:24:04.154496633Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Chakra UI",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "ndzumamalate.com",
+    "title": "Ndzuma Malate",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 52,
+    "tech_spend": 1200,
+    "crawled_at": "2026-03-02T23:53:25.643141172Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Fastly",
+      "Fastly CDN",
+      "Figma",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "gradecalculator.ai",
     "title": "Grade Calculator - Easily Calculate Grades for Free",
     "business_name": "",
@@ -12941,70 +13012,6 @@
       "adingo",
       "eLand",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "ben.eu",
-    "title": "BEN - home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 118,
-    "crawled_at": "2025-12-28T22:22:38.34612994Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Freepik",
-      "Google My Business",
-      "Google Play",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "pgroupdev.com",
-    "title": "PGroup Development",
-    "business_name": "",
-    "country": "THA",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2025-12-28T22:19:38.38154005Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Google My Business",
-      "Next.js",
-      "Pleroma",
-      "Sanity",
-      "UTF-8",
-      "Vercel",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "reshiadavan.me",
-    "title": "Reshi Adavan",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 500,
-    "crawled_at": "2025-12-28T21:37:38.369277844Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "DAV",
-      "GitHub Hosting",
-      "NFOrce Internet",
-      "Netlify",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "UTF-8",
-      "University or College",
-      "Vercel"
     ]
   }
 ]
