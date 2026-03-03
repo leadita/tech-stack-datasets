@@ -1,5 +1,36 @@
 [
   {
+    "domain": "institutotepeyac.edu.mx",
+    "title": "Inicio - Instituto Tepeyac",
+    "business_name": "",
+    "country": "MEX",
+    "seo_score": 77,
+    "tech_spend": 101420,
+    "crawled_at": "2026-03-03T03:25:34.278447903Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "Ethy",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Instagram Follow Button",
+      "K2F",
+      "KVH",
+      "No-Q",
+      "SMC",
+      "Tailwind CSS",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "thinkandgrowfinance.com.au",
     "title": "Home - Think and Grow Finance",
     "business_name": "",
@@ -1324,36 +1355,6 @@
       "Gridsome",
       "LiteSpeed",
       "QUIC"
-    ]
-  },
-  {
-    "domain": "tepeyac.mx",
-    "title": "Inicio - Instituto Tepeyac",
-    "business_name": "",
-    "country": "MEX",
-    "seo_score": 72,
-    "tech_spend": 101420,
-    "crawled_at": "2026-02-04T06:40:48.867113809Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "Ethy",
-      "Financial Services Guide",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Instagram Follow Button",
-      "K2F",
-      "KVH",
-      "No-Q",
-      "SMC",
-      "Tailwind CSS",
-      "shadcn ui"
     ]
   },
   {
