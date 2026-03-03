@@ -1,5 +1,38 @@
 [
   {
+    "domain": "saipriyas.com",
+    "title": "SaiPriyas Caterers",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 62,
+    "tech_spend": 448,
+    "crawled_at": "2026-03-03T17:30:14.107084941Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Conversion Tracking",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Pabbly",
+      "QUIC",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "truthskool.com",
     "title": "TruthSkool – Free The Spirit – Free The Mind – Free The Body",
     "business_name": "",
@@ -5348,38 +5381,6 @@
       "University or College",
       "WF Cookie Consent",
       "Zeffy"
-    ]
-  },
-  {
-    "domain": "saipriyas.com",
-    "title": "SaiPriyas Caterers",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 67,
-    "tech_spend": 448,
-    "crawled_at": "2025-11-02T09:41:39.034630257Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Conversion Tracking",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "PHP",
-      "Pabbly",
-      "QUIC",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "YouTube"
     ]
   }
 ]
