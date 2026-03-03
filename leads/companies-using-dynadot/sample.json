@@ -1,5 +1,23 @@
 [
   {
+    "domain": "commercialkitchen.net",
+    "title": "Build Your Brand with JM XTRADE, INC.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 135,
+    "crawled_at": "2026-03-03T10:29:48.247109236Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "assistancecash.com",
     "title": "An EMDN - Assistance Cash, Financial Support Money Management Payment Solutions Budgeting Aid Fund Access Personal Finance Assistance Quick Loans Financial Guidance",
     "business_name": "",
@@ -19,23 +37,6 @@
       "Google Tag Manager",
       "Microsoft Clarity",
       "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "sexbuddy.org",
-    "title": "Build Your Brand with JM XTRADE, INC.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 135,
-    "crawled_at": "2026-02-28T10:48:20.595589547Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
       "UTF-8"
     ]
   },
