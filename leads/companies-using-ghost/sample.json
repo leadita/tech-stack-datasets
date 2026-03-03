@@ -1,5 +1,31 @@
 [
   {
+    "domain": "lockdown.systems",
+    "title": "Lockdown Systems",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 3288,
+    "crawled_at": "2026-03-03T03:49:19.782211234Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "Ghost",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Open Collective",
+      "OpenResty",
+      "Plausible Analytics",
+      "Tailwind CSS",
+      "UTF-8",
+      "Wagtail CMS",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "alionakuznetsova.com",
     "title": "Olena (Aliona) Kuznetsova Photography",
     "business_name": "",
@@ -13141,40 +13167,6 @@
       "Twitter Ads",
       "UTF-8",
       "Vello",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "mediatraker.com",
-    "title": "Mediatraker",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 3727,
-    "crawled_at": "2025-11-12T00:35:38.933647725Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "ArvanCloud",
-      "Bookform",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coming Soon Page",
-      "Express",
-      "GZIP Module",
-      "Ghost",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "QUIC",
-      "Share Link",
-      "Tailwind CSS",
-      "UTF-8",
       "jsDelivr"
     ]
   }
