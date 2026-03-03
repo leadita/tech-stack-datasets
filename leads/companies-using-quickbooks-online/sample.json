@@ -1,5 +1,39 @@
 [
   {
+    "domain": "blochandcompany.cpa",
+    "title": "Home | Bloch & Company PC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 147910,
+    "crawled_at": "2026-03-02T14:25:18.290558185Z",
+    "technologies": [
+      "AAPT",
+      "Adobe Creative Cloud WebFonts",
+      "ArvanCloud",
+      "Cloudinary",
+      "DAV",
+      "Fastly CDN",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "K2F",
+      "KVH",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "No-Q",
+      "O2MC Dimml",
+      "QUIC",
+      "QuickBooks Online",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "buckeyeplans.com",
     "title": "Custom Barndominium Floor Plans & Modern Farmhouse Plans | Buckeye Plans",
     "business_name": "",
@@ -8213,40 +8247,6 @@
       "Vector Internet Services",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "blochandcompany.cpa",
-    "title": "Home | Bloch & Company PC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 147910,
-    "crawled_at": "2025-11-02T06:58:49.716613007Z",
-    "technologies": [
-      "AAPT",
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "DAV",
-      "Fastly CDN",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "K2F",
-      "KVH",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "No-Q",
-      "O2MC Dimml",
-      "QUIC",
-      "QuickBooks Online",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
