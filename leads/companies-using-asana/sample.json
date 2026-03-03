@@ -1,5 +1,60 @@
 [
   {
+    "domain": "change50.xyz",
+    "title": "Change50 Foundation | Empowering Gen Z Entrepreneurs | Empowering Gen Z Entrepreneurs",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 96509,
+    "crawled_at": "2026-03-03T11:34:39.903728626Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Accordion Blocks",
+      "Aruba",
+      "Asana",
+      "Express",
+      "FormSubmit",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Investor Relations",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "University or College",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "aisearchavatar.com",
+    "title": "AiSearch Email Explorer Demo",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 7783,
+    "crawled_at": "2026-03-03T00:32:29.458972044Z",
+    "technologies": [
+      "AdEmails",
+      "Adult Content",
+      "Asana",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fireblade",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Thank You",
+      "Trello",
+      "Zoom Video Conferencing"
+    ]
+  },
+  {
     "domain": "pureformenmalaysia.com",
     "title": "Pure for Men | The Original Cleanliness Fiber Supplement | Stay Ready",
     "business_name": "",
@@ -18418,39 +18473,6 @@
     ]
   },
   {
-    "domain": "change50.com",
-    "title": "Change50 Foundation | Empowering Gen Z Entrepreneurs | Empowering Gen Z Entrepreneurs",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 96509,
-    "crawled_at": "2025-11-03T05:23:39.371334364Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Accordion Blocks",
-      "Aruba",
-      "Asana",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Investor Relations",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Pico CSS",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "University or College",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
-    ]
-  },
-  {
     "domain": "quentech.fr",
     "title": "Quentech - IA, No-Code et Data pour optimiser vos processus",
     "business_name": "",
@@ -18906,29 +18928,6 @@
       "Vimeo CDN",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "aisearchavatar.com",
-    "title": "AiSearch Email Explorer Demo",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 7783,
-    "crawled_at": "2025-11-02T07:59:38.943291241Z",
-    "technologies": [
-      "AdEmails",
-      "Adult Content",
-      "Asana",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fireblade",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Thank You",
-      "Trello",
-      "Zoom Video Conferencing"
     ]
   }
 ]
