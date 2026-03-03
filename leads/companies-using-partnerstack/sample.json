@@ -9812,45 +9812,5 @@
       "Yelp Badge",
       "jQuery"
     ]
-  },
-  {
-    "domain": "unicoremail.site",
-    "title": "Email Delivery Service for Marketing & Developer Teams | Mailjet",
-    "business_name": "Mailjet",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 143837,
-    "crawled_at": "2025-11-02T08:15:24.710856579Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Amazon WAF Blocked",
-      "Bing Cashback",
-      "Bing Conversion Tracking",
-      "Builder",
-      "ByteDance",
-      "DAV",
-      "DoubleClick Bid Manager",
-      "Express",
-      "Facebook Reseller",
-      "Gatsby JS",
-      "Google Analytics",
-      "Google Tag Manager",
-      "GrowSumo",
-      "Mailjet Widget",
-      "Nginx",
-      "OneTrust Domain Verification",
-      "PWA",
-      "Pardot",
-      "PartnerStack",
-      "QUIC",
-      "Qualified",
-      "StatusPage IO",
-      "Styled Components",
-      "Twitter Ads",
-      "Twitter Analytics",
-      "Vector Internet Services",
-      "Visual Website Optimizer",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
   }
 ]
