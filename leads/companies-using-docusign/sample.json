@@ -1,5 +1,58 @@
 [
   {
+    "domain": "willowbusinessfinancecenter.com",
+    "title": "Business Loans | Willow Funding",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 88441,
+    "crawled_at": "2026-03-03T13:23:53.22226555Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "DAV",
+      "DocuSign",
+      "Express",
+      "Fastly",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PWA",
+      "Perl",
+      "QUIC",
+      "SMC",
+      "Sentry",
+      "SiteW",
+      "UTF-8",
+      "Vector Internet Services",
+      "WP Booking Calendar",
+      "Wix",
+      "Wix Media",
+      "eLand",
+      "mlcom"
+    ]
+  },
+  {
+    "domain": "branindental.com",
+    "title": "Branin Dental Services",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 300,
+    "crawled_at": "2026-03-02T22:26:37.454204655Z",
+    "technologies": [
+      "Apache",
+      "DocuSign",
+      "Tailwind CSS",
+      "jQuery",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "tripleamortgage.com",
     "title": "Ready to Make Your Dream Home a Reality",
     "business_name": "",
@@ -728,44 +781,6 @@
       "WordPress Multisite",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "mywillowcredit.com",
-    "title": "Business Loans | Willow Funding",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 103441,
-    "crawled_at": "2026-02-16T23:59:41.378182916Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "DAV",
-      "DocuSign",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PWA",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "Sentry",
-      "SiteW",
-      "UTF-8",
-      "Vector Internet Services",
-      "WP Booking Calendar",
-      "Wix",
-      "Wix Media",
-      "eLand",
-      "mlcom"
     ]
   },
   {
@@ -10912,23 +10927,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "branindental.com",
-    "title": "Branin Dental Services",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 300,
-    "crawled_at": "2025-11-02T07:47:38.884084317Z",
-    "technologies": [
-      "Apache",
-      "DocuSign",
-      "PWA",
-      "Tailwind CSS",
-      "jQuery",
-      "shadcn ui"
     ]
   }
 ]
