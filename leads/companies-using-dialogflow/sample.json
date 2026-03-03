@@ -1,5 +1,56 @@
 [
   {
+    "domain": "marketerz.com",
+    "title": "AI Agency in France: Chatbots, Voicebots & Automations",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 18680,
+    "crawled_at": "2026-03-02T23:35:24.649686313Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Dialogflow",
+      "FreeCSSTemplates",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Google Tag Manager",
+      "Joomla!",
+      "PHP",
+      "QUIC",
+      "RokNavMenu",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "www.chatoho.com",
+    "title": "chatoho | ภาควิชาทันตกรรมจัดฟัน - คณะทันตแพทยศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 18108,
+    "crawled_at": "2026-03-02T11:46:10.113067636Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Dialogflow",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "IcoMoon",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "tmr-24.com",
     "title": "TMR Systems",
     "business_name": "",
@@ -2382,29 +2433,6 @@
       "YouTube",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "chatoho.com",
-    "title": "chatoho | ภาควิชาทันตกรรมจัดฟัน - คณะทันตแพทยศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 18108,
-    "crawled_at": "2026-01-21T23:45:29.651938024Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Dialogflow",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "IcoMoon",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress",
-      "YouTube",
-      "jQuery"
     ]
   },
   {
@@ -8669,46 +8697,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "aalinstitute.com",
-    "title": "Medical Spa in Providence, RI | Anti-Aging & Laser Institute",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 59167,
-    "crawled_at": "2025-11-02T07:53:38.915467749Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "BunnyCDN",
-      "BunnyCDN General",
-      "DAV",
-      "Dialogflow",
-      "Elementor",
-      "EmbedPress",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "LoftLoader",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "QUIC",
-      "SMC",
-      "Sitelinks Search Box",
-      "Table Addons for Elementor",
-      "UTF-8",
-      "Vimeo",
-      "WP Portfolio Astra",
-      "WordPress",
-      "jQuery"
     ]
   }
 ]
