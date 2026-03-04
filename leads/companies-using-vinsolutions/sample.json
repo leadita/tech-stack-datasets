@@ -1,5 +1,37 @@
 [
   {
+    "domain": "nithvinsolutions.com",
+    "title": "Nithvin Solutions",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 60,
+    "tech_spend": 8719,
+    "crawled_at": "2026-03-03T18:47:40.768765302Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Bulma",
+      "Contact Form Plugin",
+      "EmbedPress",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "LiteSpeed",
+      "NFOrce Internet",
+      "PHP",
+      "QUIC",
+      "Slider Revolution",
+      "Tailwind CSS",
+      "Theme In WP",
+      "UTF-8",
+      "VinSolutions",
+      "WPBakery",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "bdcangels.com",
     "title": "BDC Angels | Not All Angels Have Wings— Some of Us Wear Headsets!",
     "business_name": "",
@@ -1901,38 +1933,6 @@
       "Wix Media",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "nithvinsolutions.com",
-    "title": "Nithvin Solutions",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 60,
-    "tech_spend": 8719,
-    "crawled_at": "2025-11-02T09:49:56.25474238Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Bulma",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "LiteSpeed",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "Slider Revolution",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "VinSolutions",
-      "WPBakery",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
