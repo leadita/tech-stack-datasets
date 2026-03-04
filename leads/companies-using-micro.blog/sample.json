@@ -1,5 +1,63 @@
 [
   {
+    "domain": "lettings.app",
+    "title": "Landlordy app: Best Property Management Software for Phone",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2800,
+    "crawled_at": "2026-03-04T12:16:57.79145322Z",
+    "technologies": [
+      "App Store",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "Micro.blog",
+      "Nginx",
+      "Perl",
+      "Pleroma",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "Vimeo"
+    ]
+  },
+  {
+    "domain": "wormbytes.ca",
+    "title": "WormBytes",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 65,
+    "tech_spend": 18420,
+    "crawled_at": "2026-03-04T06:30:35.063712083Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon Widgets",
+      "Apture Linking Platform",
+      "Atlassian Bitbucket",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Hugo",
+      "Instagram Follow Button",
+      "Micro.blog",
+      "Nginx",
+      "Perl",
+      "Python",
+      "QUIC",
+      "Slack",
+      "UTF-8",
+      "Ubuntu",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "bettysbubbles.uk",
     "title": "Bettys Bubbles",
     "business_name": "",
@@ -7716,33 +7774,6 @@
       "Micro.blog",
       "QUIC",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "lettings.app",
-    "title": "Landlordy app: Best Property Management Software for Phone",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2800,
-    "crawled_at": "2025-11-02T11:33:25.054850686Z",
-    "technologies": [
-      "App Store",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "Micro.blog",
-      "Nginx",
-      "Perl",
-      "Pleroma",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "Vimeo"
     ]
   }
 ]
