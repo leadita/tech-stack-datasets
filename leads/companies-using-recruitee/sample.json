@@ -1,5 +1,28 @@
 [
   {
+    "domain": "whitecoat.vn",
+    "title": "Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 4416,
+    "crawled_at": "2026-03-04T08:04:45.891256166Z",
+    "technologies": [
+      "Accelerated Mobile Pages",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Perl",
+      "RM Education",
+      "Recruitee",
+      "Web Stories",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "awsm.pl",
     "title": "AWSM",
     "business_name": "",
@@ -8521,29 +8544,6 @@
       "WordPress Multisite",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "whitecoat.vn",
-    "title": "Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 4416,
-    "crawled_at": "2025-11-02T11:08:38.974361453Z",
-    "technologies": [
-      "Accelerated Mobile Pages",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Perl",
-      "RM Education",
-      "Recruitee",
-      "Web Stories",
-      "jsDelivr"
     ]
   }
 ]
