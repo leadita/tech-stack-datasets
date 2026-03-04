@@ -1,5 +1,30 @@
 [
   {
+    "domain": "iw0w.com",
+    "title": "iW0W Marketing – Better Marketing by Design",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 15754,
+    "crawled_at": "2026-03-03T19:05:55.051145029Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Campaign Monitor Widget",
+      "Constant Contact",
+      "Divi",
+      "Eber",
+      "Elegant Themes",
+      "EmbedPress",
+      "GZIP Module",
+      "PHP",
+      "SMC",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "onecubed.co.uk",
     "title": "Cameron Buxton: Graphic Design, Design for Print and Web Development in Carterton, Oxfordshire",
     "business_name": "",
@@ -1629,30 +1654,6 @@
       "WordPress",
       "WordPress Multisite",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "iw0w.com",
-    "title": "iW0W Marketing – Better Marketing by Design",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 15754,
-    "crawled_at": "2025-11-02T09:51:14.128322772Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Campaign Monitor Widget",
-      "Constant Contact",
-      "Divi",
-      "Eber",
-      "Elegant Themes",
-      "GZIP Module",
-      "PHP",
-      "SMC",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress"
     ]
   }
 ]
