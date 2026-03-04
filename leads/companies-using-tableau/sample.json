@@ -1,5 +1,32 @@
 [
   {
+    "domain": "usman-asghar.com",
+    "title": "Usman Asghar | Portfolio",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 4797,
+    "crawled_at": "2026-03-04T06:59:35.008497686Z",
+    "technologies": [
+      "ArvanCloud",
+      "Content Delivery Network",
+      "Formspree",
+      "GitHub Hosting",
+      "Google My Business",
+      "Google Workspace",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Oracle Cloud",
+      "Python",
+      "Tableau",
+      "UTF-8",
+      "University or College",
+      "Unix",
+      "Vercel",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "analysisid.com",
     "title": "Analysis iD – Tactical & Recruitment Analysis for football – blog by Sancho Quinn",
     "business_name": "",
@@ -17238,34 +17265,6 @@
       "WordPress",
       "WordPress Multisite",
       "WordPress Stats"
-    ]
-  },
-  {
-    "domain": "plondero.com",
-    "title": "Pablo Alejandro Londero | Senior IT Professional | Data Analyst & Software Engineer",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 5260,
-    "crawled_at": "2025-11-21T21:42:19.464546412Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ElementUI",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "Oracle Cloud",
-      "PHP",
-      "Python",
-      "QUIC",
-      "Tableau",
-      "University or College",
-      "jsDelivr"
     ]
   }
 ]

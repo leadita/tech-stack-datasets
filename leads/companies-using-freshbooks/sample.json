@@ -3331,34 +3331,5 @@
       "jQuery",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "terenmarketing.com",
-    "title": "Home - Teren Marketing Group",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 1139,
-    "crawled_at": "2025-11-02T10:47:38.930107135Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "EmbedPress",
-      "FreshBooks",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Nginx",
-      "PHP",
-      "QUIC",
-      "Sitelinks Search Box",
-      "ThemeFusion",
-      "Twitter Ads",
-      "UTF-8",
-      "Vimeo",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
-    ]
   }
 ]

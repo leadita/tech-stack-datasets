@@ -1,5 +1,37 @@
 [
   {
+    "domain": "prothena.ca",
+    "title": "Prothena - Accounting Solutions",
+    "business_name": "Prothena",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 19162,
+    "crawled_at": "2026-03-03T20:13:38.476617003Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Calendly",
+      "Content Delivery Network",
+      "Dext",
+      "EmbedPress",
+      "GenerateBlocks",
+      "GeneratePress Company",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Line2",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "QUIC.cloud",
+      "Sitelinks Search Box",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "cloudfinance.co",
     "title": "Cloud Finance Edinburgh | Accounting Support for SMEs",
     "business_name": "",
@@ -4973,38 +5005,6 @@
       "WordPress",
       "Xero",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "prothena.ca",
-    "title": "Prothena - Accounting Solutions",
-    "business_name": "Prothena",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 19162,
-    "crawled_at": "2025-11-02T09:58:20.211994755Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Calendly",
-      "Content Delivery Network",
-      "Dext",
-      "EmbedPress",
-      "GenerateBlocks",
-      "GeneratePress Company",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Line2",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "QUIC.cloud",
-      "Sitelinks Search Box",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite"
     ]
   }
 ]
