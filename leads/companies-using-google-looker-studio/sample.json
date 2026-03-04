@@ -5640,45 +5640,5 @@
       "Twitter Ads",
       "jQuery"
     ]
-  },
-  {
-    "domain": "insuranceone.ca",
-    "title": "Home - InsuranceOne.ca",
-    "business_name": "InsuranceOne.ca",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 16416,
-    "crawled_at": "2025-11-02T11:37:40.395518645Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Divi",
-      "ECharts",
-      "Elegant Themes",
-      "EmbedPress",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Looker Studio",
-      "Google Tag Manager",
-      "H5P for WordPress",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Popup Maker for Wordpress",
-      "QUIC",
-      "StatCounter",
-      "Theme In WP",
-      "UTF-8",
-      "Unsplash",
-      "WPForms",
-      "WordPress",
-      "WordPress Multisite",
-      "eLand",
-      "jQuery",
-      "wpDataTables"
-    ]
   }
 ]
