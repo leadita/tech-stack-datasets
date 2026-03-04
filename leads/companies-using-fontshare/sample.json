@@ -1,5 +1,50 @@
 [
   {
+    "domain": "troutdalechurch.org",
+    "title": "Troutdale Community Church",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 16800,
+    "crawled_at": "2026-03-04T05:36:23.774344329Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Astro",
+      "Church Center",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Fontshare",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "captacollection.eu",
+    "title": "Capta Collection",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2673,
+    "crawled_at": "2026-03-04T03:41:21.93772741Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "CookieYes",
+      "Drupal",
+      "Fontshare",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "indianvisaonline.com",
     "title": "Apply Indian Visa Online | Tourist, Business & Medical eVisa",
     "business_name": "Indian Visa Online",
@@ -317,31 +362,6 @@
       "Google Cloud DNS",
       "Google Font API",
       "Wangsu"
-    ]
-  },
-  {
-    "domain": "capta-selecta.be",
-    "title": "Capta Collection",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 63,
-    "crawled_at": "2026-03-01T05:38:12.641632425Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "CookieYes",
-      "Drupal",
-      "Fontshare",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "UTF-8",
-      "shadcn ui"
     ]
   },
   {
@@ -13873,26 +13893,6 @@
       "QUIC",
       "Tailwind CSS",
       "Ubuntu"
-    ]
-  },
-  {
-    "domain": "conmoji.com",
-    "title": "Conmoji - Coming Soon",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": "",
-    "crawled_at": "2025-12-20T11:34:32.757643112Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Fontshare",
-      "Instagram Follow Button",
-      "Netlify",
-      "UTF-8"
     ]
   }
 ]
