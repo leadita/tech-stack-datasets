@@ -1,5 +1,61 @@
 [
   {
+    "domain": "jldb.ar",
+    "title": "jldb.ar - Database Engineer · Sysadmin",
+    "business_name": "",
+    "country": "ARG",
+    "seo_score": 70,
+    "tech_spend": 144,
+    "crawled_at": "2026-03-04T14:53:39.206621514Z",
+    "technologies": [
+      "Apache",
+      "Bitwarden Passwordless",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Nginx",
+      "Perl",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "cooleur.nl",
+    "title": "Regal Rehab",
+    "business_name": "Regal Rehab",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 12589,
+    "crawled_at": "2026-03-03T19:25:46.053547497Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Bitwarden Passwordless",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Digital Ocean Spaces",
+      "Fastly",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Klaviyo",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "Thank You",
+      "UTF-8",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "glamourbeautycenter.com",
     "title": "Glamour Beauty Center - Professional Hair Styling Supplies",
     "business_name": "Glamour Beauty Center",
@@ -13737,43 +13793,6 @@
     ]
   },
   {
-    "domain": "regalrehab.nl",
-    "title": "Regal Rehab",
-    "business_name": "Regal Rehab",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 27589,
-    "crawled_at": "2025-11-08T19:28:25.966002618Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Bitwarden Passwordless",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Digital Ocean Spaces",
-      "Fastly",
-      "Fireblade",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Interchange",
-      "Klaviyo",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Shopify Payments",
-      "Thank You",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA"
-    ]
-  },
-  {
     "domain": "lottalinuxlinks.com",
     "title": "lottalinuxlinks (o_!_/o) | The lottalinuxlinks.com linux user web blog is where an old linux user rambles on about linux, FOSS, movies, books, and other geekery.",
     "business_name": "",
@@ -16409,28 +16428,6 @@
       "Vector Internet Services",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "jldb.ar",
-    "title": "jldb.ar - Database Engineer · Sysadmin",
-    "business_name": "",
-    "country": "ARG",
-    "seo_score": 70,
-    "tech_spend": 144,
-    "crawled_at": "2025-11-02T11:47:39.538339864Z",
-    "technologies": [
-      "Apache",
-      "Bitwarden Passwordless",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "Perl",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "jsDelivr"
     ]
   }
 ]
