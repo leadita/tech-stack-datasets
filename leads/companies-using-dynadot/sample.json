@@ -1,5 +1,27 @@
 [
   {
+    "domain": "infrainternet.com",
+    "title": "An EMDN - Infra Internet, Network Infrastructure Broadband Connectivity High-Speed Internet Data Transmission Cloud Networking IoT Integration Communication Systems Digital Infrastructure",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 135,
+    "crawled_at": "2026-03-03T18:42:39.178969096Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "commercialkitchen.net",
     "title": "Build Your Brand with JM XTRADE, INC.",
     "business_name": "",
@@ -14,29 +36,6 @@
       "ElementUI",
       "Font Awesome",
       "GZIP Module",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "assistancecash.com",
-    "title": "An EMDN - Assistance Cash, Financial Support Money Management Payment Solutions Budgeting Aid Fund Access Personal Finance Assistance Quick Loans Financial Guidance",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 135,
-    "crawled_at": "2026-03-02T07:54:16.328520434Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microsoft Clarity",
-      "QUIC",
       "UTF-8"
     ]
   },
