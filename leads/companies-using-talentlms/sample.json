@@ -1,5 +1,49 @@
 [
   {
+    "domain": "hhs.com.au",
+    "title": "Empowering NDIS Support Services | High Hopes Services",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 77,
+    "tech_spend": 114809,
+    "crawled_at": "2026-03-03T20:27:48.521194112Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "DAV",
+      "Express",
+      "Fastly",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Investor Relations",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PWA",
+      "Perl",
+      "QUIC",
+      "RM Education",
+      "SMC",
+      "Sentry",
+      "SiteW",
+      "Subversion",
+      "TalentLMS",
+      "Typeform",
+      "UTF-8",
+      "Vector Internet Services",
+      "WP Booking Calendar",
+      "Wix",
+      "Wix Media",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "crownetics.co.uk",
     "title": "Luxury Beauty Supplier - Wholesale, Lashes, Brows, Cosmetics!",
     "business_name": "",
@@ -8547,32 +8591,6 @@
       "Vector Internet Services",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "veterancare.com",
-    "title": "VeteranCare",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 3936,
-    "crawled_at": "2025-11-02T09:56:39.462977362Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Duda",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PWA",
-      "Tailwind CSS",
-      "TalentLMS",
-      "Thank You",
-      "UTF-8",
-      "University or College",
-      "YouTube"
     ]
   }
 ]
