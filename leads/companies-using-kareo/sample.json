@@ -1,5 +1,27 @@
 [
   {
+    "domain": "thecoulterclinic.com",
+    "title": "The Coulter Clinic",
+    "business_name": "The Coulter Clinic",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 30120,
+    "crawled_at": "2026-03-04T00:31:40.270754605Z",
+    "technologies": [
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Kareo",
+      "Microdata for Google Shopping",
+      "PWA",
+      "Tebra",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "redicarehealth.com",
     "title": "Home - Redicare Mobile Health Service",
     "business_name": "",
@@ -17888,33 +17910,6 @@
       "YouTube",
       "ZocDoc",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "pdcultrasound.org",
-    "title": "Home Page",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 14716,
-    "crawled_at": "2025-11-11T23:29:38.975215736Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Kareo",
-      "Microsoft 365",
-      "QUIC",
-      "WF Cookie Consent",
-      "Webflow",
-      "YouTube"
     ]
   }
 ]
