@@ -1,5 +1,33 @@
 [
   {
+    "domain": "bundestierschutzgesetz.org",
+    "title": "FOUR PAWS International - Animal Welfare Organisation",
+    "business_name": "",
+    "country": "AUT",
+    "seo_score": 87,
+    "tech_spend": 55747,
+    "crawled_at": "2026-03-03T20:27:48.519753934Z",
+    "technologies": [
+      "AB Tasty",
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Font Awesome",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "PHP",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Twitter Ads",
+      "UTF-8",
+      "Usercentrics",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "beautyatdebenhams.ae",
     "title": "Fashion, Home & Beauty | Debenhams",
     "business_name": "",
@@ -623,35 +651,6 @@
       "Umbler",
       "Vector Internet Services",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "4pfoten.ngo",
-    "title": "FOUR PAWS International - Animal Welfare Organisation",
-    "business_name": "",
-    "country": "AUT",
-    "seo_score": 77,
-    "tech_spend": 56077,
-    "crawled_at": "2026-02-21T23:37:01.584808416Z",
-    "technologies": [
-      "AB Tasty",
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "No-Q",
-      "PHP",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Twitter Ads",
-      "UTF-8",
-      "Usercentrics",
-      "YouTube"
     ]
   },
   {
