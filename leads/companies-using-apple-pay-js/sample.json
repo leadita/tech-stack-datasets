@@ -1,5 +1,40 @@
 [
   {
+    "domain": "blisswish.net",
+    "title": "blisswish",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 37632,
+    "crawled_at": "2026-03-03T14:00:44.025276557Z",
+    "technologies": [
+      "Adult Content",
+      "Amazon WAF Blocked",
+      "Apple Pay JS",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Express",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Fireblade",
+      "GZIP Module",
+      "GetResponse",
+      "Giropay",
+      "KVH",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PayPal",
+      "PayPal Adaptive Payments",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Underscores",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "bluebriese.xyz",
     "title": "porkbun.com | An oddly satisfying experience.",
     "business_name": "",
@@ -9607,34 +9642,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "blisswish.net",
-    "title": "blisswish",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 16132,
-    "crawled_at": "2025-11-02T09:20:38.967795137Z",
-    "technologies": [
-      "Apple Pay JS",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Express",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Fireblade",
-      "GZIP Module",
-      "GetResponse",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Underscores",
-      "shadcn ui"
     ]
   }
 ]
