@@ -1,5 +1,40 @@
 [
   {
+    "domain": "nationaldpcnetwork.com",
+    "title": "National DPC Network – National Direct Primary Care Network",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 3763,
+    "crawled_at": "2026-03-05T13:32:35.489106116Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apache",
+      "Astra Theme",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Elementor",
+      "EmbedPress",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "LifterLMS",
+      "NFOrce Internet",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "Wangsu",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Related Posts",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "innerharmonyhaven.com",
     "title": "Inner Harmony Haven – Holistic Therapeutic Support for Parents of Neurodivergent Children",
     "business_name": "",
@@ -18302,36 +18337,6 @@
       "WordPress",
       "WordPress Multisite",
       "WordPress Related Posts"
-    ]
-  },
-  {
-    "domain": "nationaldpcnetwork.com",
-    "title": "National DPC Network – National Direct Primary Care Network",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 3503,
-    "crawled_at": "2025-11-02T14:04:29.530049491Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Astra Theme",
-      "Elementor",
-      "EmbedPress",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "LifterLMS",
-      "NFOrce Internet",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "Wangsu",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "jQuery"
     ]
   }
 ]

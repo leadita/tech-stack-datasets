@@ -2684,28 +2684,5 @@
       "YouTube",
       "jQuery"
     ]
-  },
-  {
-    "domain": "isk.ac.mz",
-    "title": "ISK - Início",
-    "business_name": "",
-    "country": "MOZ",
-    "seo_score": 65,
-    "tech_spend": 33359,
-    "crawled_at": "2025-11-02T13:35:38.932373525Z",
-    "technologies": [
-      "Apache",
-      "ArvanCloud",
-      "Blackboard Open LMS",
-      "Bulma",
-      "ElementUI",
-      "Font Awesome",
-      "Instagram Follow Button",
-      "RM Education",
-      "Tailwind CSS",
-      "YouTube",
-      "jQuery",
-      "jsDelivr"
-    ]
   }
 ]

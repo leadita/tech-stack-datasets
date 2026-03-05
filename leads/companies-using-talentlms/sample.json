@@ -1,5 +1,35 @@
 [
   {
+    "domain": "edusc.co.za",
+    "title": "Skin Confidence Education",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 37512,
+    "crawled_at": "2026-03-05T09:50:34.096048966Z",
+    "technologies": [
+      "Aruba",
+      "Contento",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "TalentLMS",
+      "UTF-8",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "hhs.com.au",
     "title": "Empowering NDIS Support Services | High Hopes Services",
     "business_name": "",
@@ -8561,36 +8591,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "edusc.co.za",
-    "title": "Skin Confidence Education",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 37512,
-    "crawled_at": "2025-11-02T13:41:38.906233538Z",
-    "technologies": [
-      "Aruba",
-      "Contento",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "TalentLMS",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
