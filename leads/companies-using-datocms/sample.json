@@ -1,5 +1,72 @@
 [
   {
+    "domain": "imperatordrazka.pl",
+    "title": "Imperator Drążka",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 201,
+    "crawled_at": "2026-03-05T16:20:58.535267654Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DatoCMS",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Next.js",
+      "No-Q",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "mobinga.uk",
+    "title": "Umzugsunternehmen finden & Angebot erhalten | Movinga",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 67,
+    "tech_spend": 9114,
+    "crawled_at": "2026-03-05T16:10:52.622417462Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "DAV",
+      "DatoCMS",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Intercom",
+      "Material-UI",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Next.js",
+      "No-Q",
+      "Perl",
+      "Pico CSS",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "lundqvistdallyn.studio",
+    "title": "Art Direction/Design — Lundqvist & Dallyn",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-03-05T08:50:46.737228951Z",
+    "technologies": [
+      "Astro",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Instagram Follow Button",
+      "Netlify",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "woodandcompany.co.uk",
     "title": "WOOD & COMPANY FINANCIAL SERVICES LTD.",
     "business_name": "",
@@ -2687,34 +2754,6 @@
       "UTF-8",
       "Vector Internet Services",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "mobinga.org",
-    "title": "Umzugsunternehmen finden & Angebot erhalten | Movinga",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 87,
-    "tech_spend": 9114,
-    "crawled_at": "2026-02-09T01:18:27.565755037Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DAV",
-      "DatoCMS",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Intercom",
-      "Material-UI",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Next.js",
-      "No-Q",
-      "Perl",
-      "Pico CSS",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
@@ -14190,55 +14229,6 @@
       "Silicon Valley Web Hosting",
       "Subversion",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "northvolt.com",
-    "title": "Northvolt | Northvolt",
-    "business_name": "",
-    "country": "SWE",
-    "seo_score": 77,
-    "tech_spend": 5857,
-    "crawled_at": "2025-12-01T08:48:46.372893628Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "CoreUI",
-      "Corporate Governance and Regulatory Compliance",
-      "DatoCMS",
-      "GZIP Module",
-      "Gatsby JS",
-      "GitHub Hosting",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "prosper.exchange",
-    "title": "Prosper - Crypto Trading Secure, Fast and Easy",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 72,
-    "tech_spend": 2628,
-    "crawled_at": "2025-12-01T07:41:51.93770129Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DatoCMS",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]

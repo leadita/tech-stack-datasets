@@ -1,5 +1,64 @@
 [
   {
+    "domain": "tripmastersoftware.com",
+    "title": "TripMaster | #1 NEMT &Paratransit Dispatch Software",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 38836,
+    "crawled_at": "2026-03-05T13:53:02.446484281Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Contento",
+      "Gatsby JS",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Intercom",
+      "Netlify",
+      "Prismic",
+      "Styled Components",
+      "UTF-8",
+      "Vector Internet Services",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "air-corporate.com",
+    "title": "Hong Kong Company Incorporation & Corporate Services | Air Corporate",
+    "business_name": "Air Corporate",
+    "country": "CHN",
+    "seo_score": 87,
+    "tech_spend": 2238,
+    "crawled_at": "2026-03-05T00:57:08.872365813Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Gatsby JS",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Headless UI",
+      "Investor Relations",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Netlify",
+      "No-Q",
+      "Prismic",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "latabledelamessardiere.com",
     "title": "Airelles Collection | Luxury | Palace & 5-star hotels",
     "business_name": "",
@@ -8713,30 +8772,6 @@
     ]
   },
   {
-    "domain": "tripmastersoftware.ai",
-    "title": "TripMaster | #1 NEMT &Paratransit Dispatch Software",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 38836,
-    "crawled_at": "2025-12-20T15:55:32.764520425Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Contento",
-      "Gatsby JS",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Intercom",
-      "Netlify",
-      "Prismic",
-      "Styled Components",
-      "UTF-8",
-      "Vector Internet Services",
-      "YouTube"
-    ]
-  },
-  {
     "domain": "wisdach.com",
     "title": "Wisdach | Premium Men’s Clothing for Style, Comfort, & Quality",
     "business_name": "",
@@ -13590,30 +13625,6 @@
       "Pleroma",
       "Prismic",
       "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "powderartfoundation.org",
-    "title": "Powder Art Foundation",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 72,
-    "tech_spend": 20420,
-    "crawled_at": "2025-11-21T06:48:19.432954094Z",
-    "technologies": [
-      "AAPT",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Content Delivery Network",
-      "DAV",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Prismic",
-      "UTF-8",
-      "University or College",
       "Vercel"
     ]
   }
