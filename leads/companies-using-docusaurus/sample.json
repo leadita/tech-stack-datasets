@@ -1,5 +1,38 @@
 [
   {
+    "domain": "nauthilus.org",
+    "title": "Nauthilus",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 7500,
+    "crawled_at": "2026-03-05T10:45:36.782474994Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "Fireblade",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Nginx",
+      "Perl"
+    ]
+  },
+  {
+    "domain": "epz.dev",
+    "title": "EPZ",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 45,
+    "tech_spend": "",
+    "crawled_at": "2026-03-05T02:26:05.89231532Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Perl"
+    ]
+  },
+  {
     "domain": "garysauvage.com",
     "title": "Gary Sauvage: Développeur Web Freelance",
     "business_name": "",
@@ -12488,52 +12521,6 @@
       "Nginx",
       "Perl",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "workfeed.ai",
-    "title": "Free Project Management Tool | Workfeed",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 54900,
-    "crawled_at": "2025-11-02T15:14:38.970913731Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DAV",
-      "Docusaurus",
-      "Fastly",
-      "Financial Services Guide",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Idaq",
-      "KVH",
-      "KaTeX",
-      "M247",
-      "Onyx Internet",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "nauthilus.org",
-    "title": "Nauthilus",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 7500,
-    "crawled_at": "2025-11-02T13:47:39.011775582Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "Fireblade",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Nginx",
-      "Perl"
     ]
   }
 ]

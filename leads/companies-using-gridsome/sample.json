@@ -1,5 +1,41 @@
 [
   {
+    "domain": "trianglespeechom.com",
+    "title": "Home - TriangleSpeechOM",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 15228,
+    "crawled_at": "2026-03-05T21:24:37.763126116Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Gridsome",
+      "Netlify",
+      "QUIC",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "chrinas.com",
+    "title": "Chrina's - Chrina's Guest House",
+    "business_name": "",
+    "country": "MWI",
+    "seo_score": 52,
+    "tech_spend": 2388,
+    "crawled_at": "2026-03-04T23:03:31.890732968Z",
+    "technologies": [
+      "Cloudinary",
+      "Content Delivery Network",
+      "Express",
+      "Gridsome",
+      "Krypt Technologies",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "innovise.se",
     "title": "innovise | innovise",
     "business_name": "",
@@ -11785,55 +11821,6 @@
       "Gridsome",
       "Netlify",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "shipblu.com",
-    "title": "ShipBlu - ShipBlu",
-    "business_name": "",
-    "country": "EGY",
-    "seo_score": 65,
-    "tech_spend": 100000,
-    "crawled_at": "2025-11-09T01:24:17.334404442Z",
-    "technologies": [
-      "Apache",
-      "App Store",
-      "DAV",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google My Business",
-      "Google Play",
-      "Gridsome",
-      "Instagram Follow Button",
-      "K2F",
-      "KVH",
-      "QUIC",
-      "SMC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Ubuntu",
-      "Vector Internet Services",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "medicalwarriors2020.com",
-    "title": "Home - At Your Service Education - Helping Nurses",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 67,
-    "tech_spend": 22500,
-    "crawled_at": "2025-11-08T17:04:39.663968749Z",
-    "technologies": [
-      "Apache",
-      "DAV",
-      "GZIP Module",
-      "Gridsome",
-      "Idaq",
-      "KVH",
-      "Tailwind CSS",
-      "shadcn ui"
     ]
   }
 ]
