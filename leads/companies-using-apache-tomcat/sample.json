@@ -1,5 +1,29 @@
 [
   {
+    "domain": "florian-moehle.de",
+    "title": "Florian Möhle",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 65,
+    "tech_spend": 17400,
+    "crawled_at": "2026-03-05T00:00:11.505986396Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Apache Tomcat JK",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Materialize CSS",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "garysauvage.com",
     "title": "Gary Sauvage: Développeur Web Freelance",
     "business_name": "",
@@ -13246,54 +13270,6 @@
       "Unix",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "linenshop.gr",
-    "title": "Linenshop - Σεντόνια, Παπλωματωθήκες, Παπλώματα, κουβερλί, Κουβέρτες, Αξεσουάρ ύπνου",
-    "business_name": "",
-    "country": "SYC",
-    "seo_score": 82,
-    "tech_spend": 1228,
-    "crawled_at": "2025-11-02T13:14:38.889835592Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Column Shortcodes",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Subversion",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "florian-moehle.de",
-    "title": "Florian Möhle",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 65,
-    "tech_spend": 17400,
-    "crawled_at": "2025-11-02T12:44:32.908501723Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Apache Tomcat JK",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Materialize CSS",
-      "QUIC",
-      "UTF-8"
     ]
   }
 ]
