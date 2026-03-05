@@ -1,5 +1,35 @@
 [
   {
+    "domain": "trypotatotoday.com",
+    "title": "Windmill | AI Performance Reviews",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 20176,
+    "crawled_at": "2026-03-05T01:57:49.401047807Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Astro",
+      "Content Delivery Network",
+      "Drata",
+      "Fontshare",
+      "FormSubmit",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "OpenAI",
+      "QUIC",
+      "Radix UI",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "troutdalechurch.org",
     "title": "Troutdale Community Church",
     "business_name": "",
@@ -112,38 +142,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "joinpotatotoday.com",
-    "title": "Windmill | AI Performance Reviews",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 20546,
-    "crawled_at": "2026-03-03T17:59:52.379575972Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Astro",
-      "Content Delivery Network",
-      "Drata",
-      "Fontshare",
-      "FormSubmit",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "OpenAI",
-      "QUIC",
-      "Radix UI",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "Zoom",
-      "Zoom Video Conferencing",
-      "shadcn ui"
     ]
   },
   {
