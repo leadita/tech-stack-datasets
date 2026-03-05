@@ -1,6 +1,6 @@
 # Companies Using Lever (Live Dataset 2026)
 
-This folder contains an active list of 499 companies using **Lever**. 
+This folder contains an active list of 498 companies using **Lever**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 499
+- **Total Leads:** 498
 - **Verified:** Yes
-- **Last Updated:** 2026-03-04 18:45 UTC
+- **Last Updated:** 2026-03-05 18:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **499+** companies using Lever.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **498+** companies using Lever.
 
 [**⚡ Unlock the Full Lever List with Contact Details**](https://leadita.com/leads/companies-using-lever)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-04 18:45 UTC*
+*Last updated: 2026-03-05 18:45 UTC*
 *Data source: Leadita Technographic Intelligence*
