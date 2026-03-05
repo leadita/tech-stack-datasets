@@ -9976,40 +9976,5 @@
       "jQuery",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "signotter.com",
-    "title": "SignOtter",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 37046,
-    "crawled_at": "2025-11-02T12:38:38.890203963Z",
-    "technologies": [
-      "AutoComplete",
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Digital Ocean Spaces",
-      "Follow Up Boss",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Nginx",
-      "OSS CDN",
-      "Salesforce",
-      "Salesforce Experience Cloud",
-      "Salesforce Hosted",
-      "StackPath",
-      "UTF-8",
-      "jQuery"
-    ]
   }
 ]
