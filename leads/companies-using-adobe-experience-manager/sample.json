@@ -1,5 +1,68 @@
 [
   {
+    "domain": "zukunftskv.at",
+    "title": "Trade union vida | vida",
+    "business_name": "",
+    "country": "AUT",
+    "seo_score": 87,
+    "tech_spend": 725666,
+    "crawled_at": "2026-03-05T06:17:04.949297579Z",
+    "technologies": [
+      "Adobe Analytics",
+      "Adobe CQ",
+      "Adobe Experience Manager",
+      "Adobe Marketing Cloud",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "DC74",
+      "Fastly",
+      "Fireblade",
+      "GZIP Module",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Keycloak",
+      "Matomo",
+      "Matomo Tag Manager",
+      "Microdata for Google Shopping",
+      "No-Q",
+      "Schema Plugin",
+      "Twitter Ads",
+      "UTF-8",
+      "Usercentrics",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "microcontext.com",
+    "title": "autowoven | AEM Sites, DAM, Forms, Campaign, Analytics and Audience Manager Certified Adobe Partner",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 491239,
+    "crawled_at": "2026-03-05T04:25:31.247009906Z",
+    "technologies": [
+      "Adobe Experience Manager",
+      "Apache",
+      "Bulma",
+      "Crisp",
+      "DAV",
+      "Drupal",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Conversion Tracking",
+      "Google Tag Manager",
+      "OpenText TeamSite",
+      "PHP",
+      "QUIC",
+      "Sitecore CMS",
+      "Telerik CDN",
+      "Twitter Ads",
+      "UTF-8",
+      "WoWonder"
+    ]
+  },
+  {
     "domain": "pm-connect.io",
     "title": "Digital Operating System for Your Business | PixelMechanics",
     "business_name": "PixelMechanics",
@@ -6465,38 +6528,6 @@
       "University or College",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "sicherheitsgewerkschaft.at",
-    "title": "Trade union vida | vida",
-    "business_name": "",
-    "country": "AUT",
-    "seo_score": 87,
-    "tech_spend": 625336,
-    "crawled_at": "2026-01-19T22:52:31.035094512Z",
-    "technologies": [
-      "Adobe CQ",
-      "Adobe Experience Manager",
-      "Adobe Marketing Cloud",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DAV",
-      "DC74",
-      "Fastly",
-      "Fireblade",
-      "GZIP Module",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Keycloak",
-      "Matomo",
-      "Matomo Tag Manager",
-      "Microdata for Google Shopping",
-      "Schema Plugin",
-      "Twitter Ads",
-      "UTF-8",
-      "Usercentrics",
-      "YouTube"
     ]
   },
   {
@@ -17514,28 +17545,6 @@
       "Salesforce Hosted",
       "Tailwind CSS",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "esis.com",
-    "title": "ESIS | Managed Claims Services",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 72,
-    "tech_spend": 500299,
-    "crawled_at": "2025-11-30T15:57:46.371421456Z",
-    "technologies": [
-      "Adobe CQ",
-      "Adobe Experience Manager",
-      "Apache",
-      "CoreUI",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Tailwind CSS",
-      "UTF-8",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
