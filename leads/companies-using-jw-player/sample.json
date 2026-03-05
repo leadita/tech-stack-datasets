@@ -1,5 +1,37 @@
 [
   {
+    "domain": "hellomagazine.org",
+    "title": "HELLO! - Daily royal, celebrity, fashion, beauty & lifestyle news",
+    "business_name": "",
+    "country": "SYC",
+    "seo_score": 77,
+    "tech_spend": 30840,
+    "crawled_at": "2026-03-05T16:20:58.512622653Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "DAV",
+      "DoubleClick Bid Manager",
+      "Express",
+      "Google",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "JW Player Platform",
+      "M247",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Prebid",
+      "RM Education",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "rp8.co.uk",
     "title": "RP8",
     "business_name": "",
@@ -19896,38 +19928,6 @@
       "eLand",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "hellomagazine.com",
-    "title": "HELLO! - Daily royal, celebrity, fashion, beauty & lifestyle news",
-    "business_name": "",
-    "country": "SYC",
-    "seo_score": 77,
-    "tech_spend": 30840,
-    "crawled_at": "2025-12-28T06:19:29.263104581Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DAV",
-      "DoubleClick Bid Manager",
-      "Google",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "JW Player Platform",
-      "M247",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "Prebid",
-      "QUIC",
-      "RM Education",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "YouTube"
     ]
   },
   {
