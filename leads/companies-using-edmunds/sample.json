@@ -1,5 +1,23 @@
 [
   {
+    "domain": "granitecityford.net",
+    "title": "Weber Ford in Granite City, IL - Current Inventory List",
+    "business_name": "",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": "",
+    "crawled_at": "2026-03-05T09:27:31.136248187Z",
+    "technologies": [
+      "DoubleClick Bid Manager",
+      "Edmunds",
+      "Google Analytics",
+      "Google Flights Conversion Tracking",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "returningtozarnouqa.com",
     "title": "Returning to Zarnouqa — Anemoia Projects",
     "business_name": "",
@@ -5517,25 +5535,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "granitecityford.net",
-    "title": "Weber Ford in Granite City, IL - Current Inventory List",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 15000,
-    "crawled_at": "2025-11-02T13:38:39.497296858Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "DoubleClick Bid Manager",
-      "Edmunds",
-      "Google Analytics",
-      "Google Flights Conversion Tracking",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "UTF-8"
     ]
   }
 ]
