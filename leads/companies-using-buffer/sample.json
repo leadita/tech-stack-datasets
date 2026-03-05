@@ -8072,38 +8072,5 @@
       "YouTube",
       "jQuery"
     ]
-  },
-  {
-    "domain": "betoncomerce.hr",
-    "title": "Betoncomerce | Tinjan",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 6000,
-    "crawled_at": "2025-11-02T14:26:40.258360594Z",
-    "technologies": [
-      "All in One SEO Pack",
-      "Alternate Protocol",
-      "Apache",
-      "Buffer",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Contact Form Plugin",
-      "CookieConsent",
-      "EmbedPress",
-      "Facebook Embedded Posts",
-      "Fancybox for WordPress",
-      "Google My Business",
-      "Google Recommendations AI",
-      "PHP",
-      "Perl",
-      "Tailwind CSS",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite"
-    ]
   }
 ]
