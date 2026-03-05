@@ -1,5 +1,37 @@
 [
   {
+    "domain": "canadianswimschools.ca",
+    "title": "Canada's Swim School Network | Educate | Connect | Inspire",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 62,
+    "tech_spend": 51256,
+    "crawled_at": "2026-03-05T16:20:58.495170551Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "BetterMode",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "DAV",
+      "ElementUI",
+      "Fireblade",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Imgix",
+      "Instagram Follow Button",
+      "PWA",
+      "QUIC",
+      "Storepoint",
+      "Tailwind CSS",
+      "Tribe.so",
+      "Vector Internet Services",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "paki.ma",
     "title": "Log in - Pakima Academy",
     "business_name": "",
@@ -1858,39 +1890,6 @@
       "Tailwind CSS",
       "Tribe.so",
       "Vector Internet Services",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "canadianswimschools.ca",
-    "title": "Canada's Swim School Network | Educate | Connect | Inspire",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 62,
-    "tech_spend": 53656,
-    "crawled_at": "2025-11-02T14:20:29.598709236Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon WAF Blocked",
-      "BetterMode",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "DAV",
-      "ElementUI",
-      "Fireblade",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Imgix",
-      "Instagram Follow Button",
-      "PWA",
-      "QUIC",
-      "Storepoint",
-      "Tailwind CSS",
-      "Tribe.so",
-      "Vector Internet Services",
-      "YouTube",
       "shadcn ui"
     ]
   }
