@@ -1,5 +1,37 @@
 [
   {
+    "domain": "miapu.com",
+    "title": "MiCasino plays, WINS, and above all, CASHES OUT! – YOUR Online Sports Betting and Casino House.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 41719,
+    "crawled_at": "2026-03-05T14:28:55.680513766Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon",
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Turnstile",
+      "GZIP Module",
+      "Gambling Content",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Nginx",
+      "Optimove",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "weclub88.org",
     "title": "WeClub»Most Reliable & Trusted Online Casino In Malaysia ✅",
     "business_name": "",
@@ -64,29 +96,6 @@
       "UTF-8",
       "Userback",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "micasinovip.net",
-    "title": "¡Micasino play, WIN and above all COBRA! - YOUR HOME for Sports Betting and Online Casino",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 86508,
-    "crawled_at": "2025-12-21T15:37:32.730916151Z",
-    "technologies": [
-      "GZIP Module",
-      "Gambling Content",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Nginx",
-      "Optimove",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services"
     ]
   },
   {
