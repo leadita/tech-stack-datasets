@@ -385,21 +385,5 @@
       "YouTube",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "phaussmann.com",
-    "title": "Philip Haussmann",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 52,
-    "tech_spend": 250000,
-    "crawled_at": "2025-11-02T15:02:38.970734667Z",
-    "technologies": [
-      "Capgemini Invoice Portal",
-      "GZIP Module",
-      "Guidewire",
-      "Nginx",
-      "Ubuntu"
-    ]
   }
 ]
