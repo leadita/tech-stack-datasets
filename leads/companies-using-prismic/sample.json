@@ -1,5 +1,25 @@
 [
   {
+    "domain": "patrycjapetryk.com",
+    "title": "Patrycja Petryk Graphic Designer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-03-06T02:30:28.414943835Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "Netlify",
+      "Next.js",
+      "Pleroma",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "tripmastersoftware.com",
     "title": "TripMaster | #1 NEMT &Paratransit Dispatch Software",
     "business_name": "",
@@ -13607,25 +13627,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "fourthwall.co",
-    "title": "Fourth Wall",
-    "business_name": "",
-    "country": "",
-    "seo_score": 27,
-    "tech_spend": "",
-    "crawled_at": "2025-11-21T07:03:19.456037029Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Instagram Follow Button",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "Prismic",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]

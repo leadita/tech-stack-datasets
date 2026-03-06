@@ -1,5 +1,38 @@
 [
   {
+    "domain": "buddymx.com",
+    "title": "Motocross Kids Books & Fun - Kids Motocross Action | Buddy MX",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 19936,
+    "crawled_at": "2026-03-06T15:35:52.792950651Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "AvantMetrics",
+      "ButterCMS",
+      "Content Delivery Network",
+      "Fireblade",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Next.js",
+      "Perl",
+      "Pleroma",
+      "QUIC",
+      "Styled Components",
+      "Subscribers",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "moneta-international.com",
     "title": "Banking Services in Singapore | Corporate & Commercial | Bruc Bond",
     "business_name": "",
@@ -1823,39 +1856,6 @@
       "University or College",
       "Vercel",
       "Visx",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "buddymx.com",
-    "title": "Motocross Kids Books & Fun - Kids Motocross Action | Buddy MX",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 19936,
-    "crawled_at": "2025-11-02T16:54:48.941604564Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "AvantMetrics",
-      "ButterCMS",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "QUIC",
-      "Styled Components",
-      "Subscribers",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
       "YouTube"
     ]
   }
