@@ -1,6 +1,6 @@
 # Companies Using PushEngage (Live Dataset 2026)
 
-This folder contains an active list of 403 companies using **PushEngage**. 
+This folder contains an active list of 401 companies using **PushEngage**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 403
+- **Total Leads:** 401
 - **Verified:** Yes
-- **Last Updated:** 2026-03-05 21:15 UTC
+- **Last Updated:** 2026-03-06 21:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **403+** companies using PushEngage.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **401+** companies using PushEngage.
 
 [**⚡ Unlock the Full PushEngage List with Contact Details**](https://leadita.com/leads/companies-using-pushengage)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-05 21:15 UTC*
+*Last updated: 2026-03-06 21:15 UTC*
 *Data source: Leadita Technographic Intelligence*
