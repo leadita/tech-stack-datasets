@@ -10,7 +10,7 @@ The data is verified daily by the Leadita Crawler.
 ## 📊 Dataset Statistics
 - **Total Leads:** 343
 - **Verified:** Yes
-- **Last Updated:** 2026-03-05 10:00 UTC
+- **Last Updated:** 2026-03-06 10:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-05 10:00 UTC*
+*Last updated: 2026-03-06 10:00 UTC*
 *Data source: Leadita Technographic Intelligence*

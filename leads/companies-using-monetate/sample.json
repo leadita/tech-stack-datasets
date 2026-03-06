@@ -1,5 +1,30 @@
 [
   {
+    "domain": "hctaxptc.com",
+    "title": "Commercial and Residential Property Tax Consultants | Harding & Carbone",
+    "business_name": "Harding & Carbone",
+    "country": "USA",
+    "seo_score": 92,
+    "tech_spend": 75339,
+    "crawled_at": "2026-03-06T06:05:31.941444069Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "DAV",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Mantine",
+      "Microdata for Google Shopping",
+      "Monetate",
+      "Next.js",
+      "QUIC",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "clarks.eu",
     "title": "Clarks™ Official Site | Shoes, Boots, Sandals & Sneakers",
     "business_name": "",

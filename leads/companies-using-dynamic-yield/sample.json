@@ -5635,38 +5635,5 @@
       "YouTube",
       "iomart"
     ]
-  },
-  {
-    "domain": "charlestyrwhitt.in",
-    "title": "Men's Clothing and Formal Menswear | Charles Tyrwhitt India",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 77078,
-    "crawled_at": "2025-11-02T15:14:38.994776668Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudinary",
-      "Content Delivery Network",
-      "Dynamic Yield",
-      "Fynd Platform",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "No-Q",
-      "PWA",
-      "Perl",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "iomart",
-      "shadcn ui"
-    ]
   }
 ]
