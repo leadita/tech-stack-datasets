@@ -2398,43 +2398,5 @@
       "University or College",
       "Vector Internet Services"
     ]
-  },
-  {
-    "domain": "listen2earn.com",
-    "title": "listen2Earn - Nerea San Jose",
-    "business_name": "",
-    "country": "CRI",
-    "seo_score": 77,
-    "tech_spend": 43691,
-    "crawled_at": "2025-11-02T16:03:40.786917832Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "CacheFly",
-      "CacheFly CDN",
-      "DAV",
-      "EmbedPress",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "LiteSpeed",
-      "MailMunch",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "ShareThis",
-      "TUNE",
-      "Tailwind CSS",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "arsys.es",
-      "jQuery"
-    ]
   }
 ]
