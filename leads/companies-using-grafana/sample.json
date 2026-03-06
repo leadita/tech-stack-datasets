@@ -1,5 +1,27 @@
 [
   {
+    "domain": "schuler-valuestream.net",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 1260,
+    "crawled_at": "2026-03-06T15:53:31.326551634Z",
+    "technologies": [
+      "Apache",
+      "Barchart",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Forms",
+      "Google My Business",
+      "Grafana",
+      "UTF-8",
+      "Ubuntu",
+      "Yandex Hosting"
+    ]
+  },
+  {
     "domain": "daveiot.com",
     "title": "Grafana",
     "business_name": "",
@@ -49,24 +71,6 @@
       "Cloudflare CDN",
       "Express",
       "GZIP Module",
-      "GitHub Hosting",
-      "Grafana",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "cairos.app",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 11200,
-    "crawled_at": "2026-02-28T04:18:36.50243153Z",
-    "technologies": [
-      "Apache",
-      "Barchart",
-      "Contento",
-      "Express",
       "GitHub Hosting",
       "Grafana",
       "UTF-8"
