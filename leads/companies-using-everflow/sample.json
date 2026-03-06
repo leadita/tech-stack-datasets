@@ -1,5 +1,32 @@
 [
   {
+    "domain": "magazinerewards.com",
+    "title": "Welcome to Magazine Rewards!",
+    "business_name": "Magazine Rewards",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 24556,
+    "crawled_at": "2026-03-06T10:52:49.058547498Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Daily Deals",
+      "Everflow",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Heroku",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "UTF-8",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "korrectlife.com",
     "title": "Korrect",
     "business_name": "",
