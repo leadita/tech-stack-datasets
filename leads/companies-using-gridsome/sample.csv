@@ -1,4 +1,5 @@
 domain,title,business_name,country,seo_score,tech_spend,crawled_at,technologies
+sanstream.nl,homepage — Studio Sanstream,,,55,5003,2026-03-06T08:55:17.716510659Z,"['501c3 Status Nonprofit', 'Content Delivery Network', 'GitHub Hosting', 'Google Cloud DNS', 'Google Font API', 'Gridsome', 'M247', 'Netlify', 'Sanity', 'Twitter Ads', 'UTF-8']"
 trianglespeechom.com,Home - TriangleSpeechOM,,USA,70,15228,2026-03-05T21:24:37.763126116Z,"['AWS WAF Challenge', 'Content Delivery Network', 'Gridsome', 'Netlify', 'QUIC', 'UTF-8', 'University or College']"
 chrinas.com,Chrina's - Chrina's Guest House,,MWI,52,2388,2026-03-04T23:03:31.890732968Z,"['Cloudinary', 'Content Delivery Network', 'Express', 'Gridsome', 'Krypt Technologies', 'Netlify', 'UTF-8']"
 innovise.se,innovise | innovise,,,42,60,2026-03-04T12:44:18.229158288Z,"['Amazon', 'Amazon CloudFront', 'CloudFront', 'Content Delivery Network', 'Gridsome', 'Netlify', 'UTF-8']"
@@ -498,4 +499,3 @@ surfacemagic.ie,Ireland’s Leading Surface Repair Specialists - Surface Magic -
 gxy.io,Home - Galaxy Community Hub,,,62,65456,2025-11-09T17:11:38.895942373Z,"['AWS WAF Challenge', 'Corporate Governance and Regulatory Compliance', 'GZIP Module', 'GitHub Hosting', 'Gridsome', 'Netlify', 'Nginx', 'Plausible Analytics', 'SMC', 'Sidecar Gitter', 'Tailwind CSS', 'University or College', 'YouTube']"
 private-aviation-catering.com,Private Aviation Catering - Private Aviation Catering,,DEU,62,40,2025-11-09T07:38:44.745679631Z,"['Apache', 'Google Analytics', 'Google Cloud DNS', 'Google Font API', 'Google Tag Manager', 'Gridsome']"
 design-sprint-series.de,Design-Sprint-Series - Design-Sprint,,ZAF,60,5000,2025-11-09T06:25:28.565387034Z,"['Apache', 'Gridsome', 'M247']"
-agncy.com,Home – AGNCY,,,42,3,2025-11-09T05:22:02.229559658Z,"['Apture Linking Platform', 'Content Delivery Network', 'Google Cloud DNS', 'Google Font API', 'Gridsome', 'Netlify', 'UTF-8']"

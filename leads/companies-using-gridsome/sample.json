@@ -1,5 +1,27 @@
 [
   {
+    "domain": "sanstream.nl",
+    "title": "homepage — Studio Sanstream",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 5003,
+    "crawled_at": "2026-03-06T08:55:17.716510659Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "M247",
+      "Netlify",
+      "Sanity",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "trianglespeechom.com",
     "title": "Home - TriangleSpeechOM",
     "business_name": "",
@@ -11803,24 +11825,6 @@
       "Apache",
       "Gridsome",
       "M247"
-    ]
-  },
-  {
-    "domain": "agncy.com",
-    "title": "Home – AGNCY",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 3,
-    "crawled_at": "2025-11-09T05:22:02.229559658Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Netlify",
-      "UTF-8"
     ]
   }
 ]

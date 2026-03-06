@@ -1,5 +1,26 @@
 [
   {
+    "domain": "loglark.io",
+    "title": "LogLark: simple, fast and affordable log monitoring",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 63,
+    "crawled_at": "2026-03-06T01:01:35.028563299Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Nginx",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "nauthilus.org",
     "title": "Nauthilus",
     "business_name": "",
@@ -12499,27 +12520,6 @@
       "GitHub Hosting",
       "Perl",
       "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "loglark.io",
-    "title": "LogLark: simple, fast and affordable log monitoring",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 63,
-    "crawled_at": "2025-11-02T15:17:39.740190984Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "Perl",
       "UTF-8"
     ]
   }
