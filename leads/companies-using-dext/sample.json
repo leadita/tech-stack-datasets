@@ -1,5 +1,42 @@
 [
   {
+    "domain": "simplifiedbookkeeping.com.au",
+    "title": "Simplified Bookkeeping & Advisory - Bookkeeping and Advisory Services in Sutherland Shire, NSW",
+    "business_name": "Simplified Bookkeeping &amp; Advisory",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 11548,
+    "crawled_at": "2026-03-05T18:49:16.236678967Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Dext",
+      "EmbedPress",
+      "Fastly",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Gravity",
+      "Gravity Forms",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Schema Plugin",
+      "Storybook",
+      "UTF-8",
+      "UnderStrap",
+      "WordPress",
+      "WordPress Multisite",
+      "Xero",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "prothena.ca",
     "title": "Prothena - Accounting Solutions",
     "business_name": "Prothena",
@@ -4971,40 +5008,6 @@
       "UTF-8",
       "Zoom Video Conferencing",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "simplifiedbookkeeping.com.au",
-    "title": "Simplified Bookkeeping & Advisory - Bookkeeping and Advisory Services in Sutherland Shire, NSW",
-    "business_name": "Simplified Bookkeeping &amp; Advisory",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 11499,
-    "crawled_at": "2025-11-02T14:38:22.472921331Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Dext",
-      "Fastly",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Gravity",
-      "Gravity Forms",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Schema Plugin",
-      "Storybook",
-      "UTF-8",
-      "WordPress",
-      "Xero",
-      "reCAPTCHA"
     ]
   }
 ]

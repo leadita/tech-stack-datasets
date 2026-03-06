@@ -1,5 +1,29 @@
 [
   {
+    "domain": "mkpcpa.com",
+    "title": "Home | McKeown Kraai Professional, CPAs",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 12140,
+    "crawled_at": "2026-03-06T10:17:31.045616307Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "Zoom Video Conferencing"
+    ]
+  },
+  {
     "domain": "fvfamilyservices.com",
     "title": "FV Financial Solutions - Small Business Accounting and Setup",
     "business_name": "FV Financial Solutions",
@@ -8221,32 +8245,6 @@
       "QuickBooks Online",
       "Tailwind CSS",
       "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "mkpcpa.com",
-    "title": "Home | McKeown Kraai Professional, CPAs",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 12800,
-    "crawled_at": "2025-11-02T16:20:38.90032597Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "Zoom Video Conferencing",
       "jsDelivr"
     ]
   }
