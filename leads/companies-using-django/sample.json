@@ -1,5 +1,54 @@
 [
   {
+    "domain": "milleriec.com",
+    "title": "Home | Miller Independent Educational Consulting LLC",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2268,
+    "crawled_at": "2026-03-06T11:55:09.213656837Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Perl",
+      "QUIC",
+      "University or College",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "notepulse.co.uk",
+    "title": "Notepulse UK - Tech Insights and Digital Trends Blog",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 87,
+    "tech_spend": 3956,
+    "crawled_at": "2026-03-06T08:19:33.07603313Z",
+    "technologies": [
+      "About Cookies",
+      "Apture Linking Platform",
+      "Azion",
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "DAV",
+      "Django",
+      "Gambling Content",
+      "IcoMoon",
+      "Matomo",
+      "Matomo Tag Manager",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "thomasbrown.app",
     "title": "Thomas Brown - Full-stack Developer & IT Specialist",
     "business_name": "",
@@ -29,38 +78,6 @@
       "Python",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "glowclutch.com",
-    "title": "GlowClutch: Beauty Tips, Skincare Secrets, and Makeup Trends",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 29356,
-    "crawled_at": "2026-03-03T15:34:19.020829179Z",
-    "technologies": [
-      "Adult Content",
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Clutch",
-      "Clutch Technologies",
-      "DAV",
-      "Django",
-      "Gambling Content",
-      "Help.com",
-      "IcoMoon",
-      "Matomo",
-      "Matomo Tag Manager",
-      "NFOrce Internet",
-      "Tailwind CSS",
-      "UPS",
-      "UTF-8",
-      "University or College",
-      "eLand",
-      "jQuery"
     ]
   },
   {
@@ -8917,27 +8934,6 @@
       "Google My Business",
       "Perl",
       "QUIC",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "milleriec.com",
-    "title": "Home | Miller Independent Educational Consulting LLC",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2268,
-    "crawled_at": "2025-11-02T16:30:04.382525429Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "University or College",
       "reCAPTCHA"
     ]
   }
