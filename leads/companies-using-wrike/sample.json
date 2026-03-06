@@ -1,5 +1,26 @@
 [
   {
+    "domain": "gks-it-consulting.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 816,
+    "crawled_at": "2026-03-06T07:29:32.325713281Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "Calendly",
+      "CloudFront",
+      "Duda",
+      "GZIP Module",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8",
+      "Wrike"
+    ]
+  },
+  {
     "domain": "digitaltransformationsingapore.com",
     "title": "Digital Transformation Conference Singapore | November 2023 | In-Person Event",
     "business_name": "",
@@ -2713,27 +2734,6 @@
       "Webflow",
       "Wrike",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "gks-it-consulting.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 816,
-    "crawled_at": "2025-11-02T16:01:42.496893972Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Calendly",
-      "CloudFront",
-      "Duda",
-      "GZIP Module",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "Wrike"
     ]
   }
 ]
