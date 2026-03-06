@@ -1,5 +1,29 @@
 [
   {
+    "domain": "kamconsultinginc.com",
+    "title": "KAM Consulting",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 65,
+    "tech_spend": 55388,
+    "crawled_at": "2026-03-05T20:26:56.252896601Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "AWS WAF Challenge",
+      "Apache",
+      "Corporate Governance and Regulatory Compliance",
+      "Docebo",
+      "ElementUI",
+      "Font Awesome",
+      "Formspree",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "University or College",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "countpowersbi.com",
     "title": "The only collaborative agentic analytics platform | Count",
     "business_name": "Count Technologies Ltd.",
@@ -272,30 +296,6 @@
       "University or College",
       "Zend Server",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "kamconsultinginc.com",
-    "title": "KAM Consulting",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 65,
-    "tech_spend": 55388,
-    "crawled_at": "2025-11-02T14:47:39.367786753Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AWS WAF Challenge",
-      "Apache",
-      "Corporate Governance and Regulatory Compliance",
-      "Docebo",
-      "ElementUI",
-      "Font Awesome",
-      "Formspree",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "University or College",
-      "jQuery"
     ]
   }
 ]
