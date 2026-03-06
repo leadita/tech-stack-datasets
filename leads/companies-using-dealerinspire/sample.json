@@ -1,5 +1,38 @@
 [
   {
+    "domain": "flywheelkinetics.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "JPN",
+    "seo_score": 72,
+    "tech_spend": 64358,
+    "crawled_at": "2026-03-06T07:58:03.899860967Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon S3 CDN",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "DAV",
+      "Dealer Spike",
+      "DealerInspire",
+      "Fastly",
+      "Google Analytics",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Hubspot Knowledge Base",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "No-Q",
+      "Schema Plugin",
+      "Storyblocks",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "ifestpeabody.com",
     "title": "International Festival - Peabody International Festival",
     "business_name": "",
@@ -11571,38 +11604,6 @@
       "TradePending",
       "UTF-8",
       "eLand"
-    ]
-  },
-  {
-    "domain": "flywheelkinetics.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 72,
-    "tech_spend": 64028,
-    "crawled_at": "2025-11-02T16:05:12.816511691Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon S3 CDN",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "DAV",
-      "Dealer Spike",
-      "DealerInspire",
-      "Fastly",
-      "Google Analytics",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Hubspot Knowledge Base",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Schema Plugin",
-      "Storyblocks",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
