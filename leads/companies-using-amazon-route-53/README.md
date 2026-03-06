@@ -1,6 +1,6 @@
 # Companies Using Amazon Route 53 (Live Dataset 2026)
 
-This folder contains an active list of 74,025 companies using **Amazon Route 53**. 
+This folder contains an active list of 73,983 companies using **Amazon Route 53**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 74,025
+- **Total Leads:** 73,983
 - **Verified:** Yes
-- **Last Updated:** 2026-03-05 16:00 UTC
+- **Last Updated:** 2026-03-06 16:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **74,025+** companies using Amazon Route 53.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **73,983+** companies using Amazon Route 53.
 
 [**⚡ Unlock the Full Amazon Route 53 List with Contact Details**](https://leadita.com/leads/companies-using-amazon-route-53)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-05 16:00 UTC*
+*Last updated: 2026-03-06 16:00 UTC*
 *Data source: Leadita Technographic Intelligence*

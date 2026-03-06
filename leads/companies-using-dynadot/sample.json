@@ -1,5 +1,25 @@
 [
   {
+    "domain": "mamba24.org",
+    "title": "Welcome to Mamba24.com",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 55,
+    "tech_spend": 135,
+    "crawled_at": "2026-03-06T08:19:33.109820675Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Amazon WAF Blocked",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "infrainternet.com",
     "title": "An EMDN - Infra Internet, Network Infrastructure Broadband Connectivity High-Speed Internet Data Transmission Cloud Networking IoT Integration Communication Systems Digital Infrastructure",
     "business_name": "",
@@ -611,28 +631,6 @@
       "GZIP Module",
       "Instagram Follow Button",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "nbafinal.com",
-    "title": "Dare to Embrace the Mamba Mentality",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 10219,
-    "crawled_at": "2026-01-30T17:04:48.865091396Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "BLR",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Tumblr",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "eLand"
     ]
   },
   {
@@ -3449,23 +3447,6 @@
       "Font Awesome",
       "GZIP Module",
       "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "grafisale.nl",
-    "title": "GrafiSale",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 135,
-    "crawled_at": "2025-11-02T16:26:39.527521428Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
       "UTF-8"
     ]
   }
