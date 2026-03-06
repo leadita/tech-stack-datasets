@@ -1,5 +1,59 @@
 [
   {
+    "domain": "templers.ru",
+    "title": "Templers - Interlude",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 60,
+    "crawled_at": "2026-03-06T06:44:35.670830216Z",
+    "technologies": [
+      "ADFOX",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "LiveInternet",
+      "Nginx",
+      "PHP",
+      "Tailwind CSS",
+      "Telegram",
+      "Twitch",
+      "UTF-8",
+      "Yandex Hosting",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "jgirlcook.store",
+    "title": "jgirlcook - Link in Bio & Creator Tools | Beacons",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 2144,
+    "crawled_at": "2026-03-06T03:54:04.011839803Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Beacons",
+      "GZIP Module",
+      "Google Cloud",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "PWA",
+      "RM Education",
+      "Subversion",
+      "Twitch",
+      "UTF-8",
+      "Unsplash",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "hobbitsis.com",
     "title": "hobbitsis - Link in Bio & Creator Tools | Beacons",
     "business_name": "",
@@ -5318,35 +5372,6 @@
       "Twitch",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "la2temp.ru",
-    "title": "Templers - Interlude",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 60,
-    "crawled_at": "2026-02-03T03:29:44.879904524Z",
-    "technologies": [
-      "ADFOX",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "LiveInternet",
-      "Nginx",
-      "PHP",
-      "Tailwind CSS",
-      "Telegram",
-      "Twitch",
-      "UTF-8",
-      "Yandex Hosting",
-      "YouTube",
-      "jQuery"
     ]
   },
   {
@@ -15810,36 +15835,6 @@
       "Twitch",
       "Twitter Ads",
       "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "emmarost.com",
-    "title": "emmarost - Link in Bio & Creator Tools | Beacons",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 20244,
-    "crawled_at": "2025-12-24T09:49:13.323169877Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Amazon Widgets",
-      "Beacons",
-      "GZIP Module",
-      "Google Cloud",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nationwide Mortgage Licensing System and Registry",
-      "Next.js",
-      "ON24",
-      "OnlyFans",
-      "PWA",
-      "Pleroma",
-      "Subversion",
-      "Twitch",
-      "UTF-8",
-      "Unsplash",
       "YouTube"
     ]
   }
