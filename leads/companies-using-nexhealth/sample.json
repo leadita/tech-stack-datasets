@@ -1,5 +1,44 @@
 [
   {
+    "domain": "turnerfamilydentistryva.com",
+    "title": "Dentist in Painter, VA | Turner Family Dentistry of Virginia",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 28058,
+    "crawled_at": "2026-03-06T18:17:30.966937373Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Content Delivery Network",
+      "DAV",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "Font Awesome",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "NexHealth",
+      "NitroPack",
+      "Popup Maker for Wordpress",
+      "UTF-8",
+      "University or College",
+      "WP Engine",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "lastingsmiles.com",
     "title": "Dental Implants, Sedation and Cosmetic Dentistry | Lasting Smiles",
     "business_name": "Lasting Smiles Dental Implant Center",
@@ -19562,31 +19601,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "winchesterrad.com",
-    "title": "Winchester Radiologists - Radiology for the 21st Century",
-    "business_name": "Winchester Radiologists",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 23600,
-    "crawled_at": "2025-11-06T12:44:38.889819526Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "GoDaddy",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "NexHealth",
-      "PHP",
-      "Sucuri Cloudproxy",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
