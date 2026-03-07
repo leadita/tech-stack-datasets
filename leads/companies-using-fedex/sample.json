@@ -1,5 +1,43 @@
 [
   {
+    "domain": "rehomepackersandmovers.com",
+    "title": "Best Packers And Movers In Indore | ReHome Packers & Movers",
+    "business_name": "ReHome Packers And Movers",
+    "country": "IND",
+    "seo_score": 92,
+    "tech_spend": 2831,
+    "crawled_at": "2026-03-07T12:26:28.788119683Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Blue Dart",
+      "Content Delivery Network",
+      "Crisp",
+      "DuracellTomi Google Tag Manager for WordPress",
+      "Elementor",
+      "Express",
+      "FedEx",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Join.chat",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "Parcel",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "heavys.co",
     "title": "HEAVYS - Headphones, Earbuds, Gaming, Audio, for Rock & Heavy Music – Heavys",
     "business_name": "Heavys",
@@ -18688,34 +18726,6 @@
       "UPS",
       "USPS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "siristerlinglogistics.com",
-    "title": "Siri Sterling Logistics",
-    "business_name": "",
-    "country": "SGP",
-    "seo_score": 70,
-    "tech_spend": 15599,
-    "crawled_at": "2025-11-14T20:41:04.986578135Z",
-    "technologies": [
-      "Aramex",
-      "Blue Dart",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "DHL Parcel",
-      "Express",
-      "FedEx",
-      "Fireblade",
-      "Font Awesome",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Tailwind CSS",
-      "UPS",
-      "WhatsApp Sharing",
-      "jsDelivr"
     ]
   }
 ]

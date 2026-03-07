@@ -1,5 +1,37 @@
 [
   {
+    "domain": "festinausa.com",
+    "title": "Festina Watches USA | Official Store – Free Shipping & 2-Year Warranty",
+    "business_name": "Festina Watches US",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 10165,
+    "crawled_at": "2026-03-06T23:38:42.812134671Z",
+    "technologies": [
+      "Amazon",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "Financial Services Guide",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Klaviyo",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "Newsletter for Wordpress",
+      "QUIC",
+      "ShipStation",
+      "Shopify",
+      "Shopify Collabs",
+      "UTF-8",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "voilachocolat.com",
     "title": "Voila Chocolat | Team Building Activities | Unique Gifts",
     "business_name": "Voila Chocolat",
@@ -2543,35 +2575,6 @@
       "UTF-8",
       "hCaptcha",
       "jQuery",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "festinawatches.com",
-    "title": "Festina Watches USA | Official Store – Free Shipping & 2-Year Warranty",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 5005,
-    "crawled_at": "2025-11-14T14:59:05.00556594Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Financial Services Guide",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "QUIC",
-      "ShipStation",
-      "Shopify",
-      "Shopify Collabs",
-      "UTF-8",
-      "hCaptcha",
       "reCAPTCHA"
     ]
   },
