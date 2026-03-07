@@ -1,6 +1,6 @@
 # Companies Using Boxzilla (Live Dataset 2026)
 
-This folder contains an active list of 1,187 companies using **Boxzilla**. 
+This folder contains an active list of 1,185 companies using **Boxzilla**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 1,187
+- **Total Leads:** 1,185
 - **Verified:** Yes
-- **Last Updated:** 2026-03-06 20:45 UTC
+- **Last Updated:** 2026-03-07 20:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,187+** companies using Boxzilla.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,185+** companies using Boxzilla.
 
 [**⚡ Unlock the Full Boxzilla List with Contact Details**](https://leadita.com/leads/companies-using-boxzilla)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-06 20:45 UTC*
+*Last updated: 2026-03-07 20:45 UTC*
 *Data source: Leadita Technographic Intelligence*
