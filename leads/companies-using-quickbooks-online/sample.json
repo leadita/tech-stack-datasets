@@ -1,5 +1,53 @@
 [
   {
+    "domain": "twk-cpafirm.com",
+    "title": "Home | Terranova Williams Klein CPAs, LLC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 19740,
+    "crawled_at": "2026-03-06T20:36:07.036376669Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "RM Education",
+      "Tailwind CSS",
+      "UTF-8",
+      "Zoom Video Conferencing"
+    ]
+  },
+  {
+    "domain": "aviaccounting.com",
+    "title": "Home | AVI Accounting LLC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 11920,
+    "crawled_at": "2026-03-06T15:31:07.293059357Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "mkpcpa.com",
     "title": "Home | McKeown Kraai Professional, CPAs",
     "business_name": "",
@@ -8193,58 +8241,6 @@
       "Twitter Ads",
       "UTF-8",
       "Zoom Video Conferencing",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "twk-cpafirm.com",
-    "title": "Home | Terranova Williams Klein CPAs, LLC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 20400,
-    "crawled_at": "2025-11-02T17:26:38.967182634Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "RM Education",
-      "Tailwind CSS",
-      "UTF-8",
-      "Zoom Video Conferencing",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "aviaccounting.com",
-    "title": "Home | AVI Accounting LLC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 12580,
-    "crawled_at": "2025-11-02T16:53:39.589641439Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
       "jsDelivr"
     ]
   }
