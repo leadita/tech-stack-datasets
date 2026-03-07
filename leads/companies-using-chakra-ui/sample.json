@@ -1,5 +1,27 @@
 [
   {
+    "domain": "sign-staging.com",
+    "title": "Secure Signatures Online for Free",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 15240,
+    "crawled_at": "2026-03-06T16:39:11.117666194Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "DAV",
+      "Fireblade",
+      "HHVM",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "UTF-8",
+      "Unix",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "cloudmylab.com",
     "title": "Home | CloudMyLab",
     "business_name": "CloudMyLab",
@@ -1714,28 +1736,6 @@
       "Subversion",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "sign.com",
-    "title": "Secure Signatures Online for Free",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 15240,
-    "crawled_at": "2026-02-22T10:53:19.529719377Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "DAV",
-      "Fireblade",
-      "HHVM",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "UTF-8",
-      "Unix",
-      "Vercel"
     ]
   },
   {
