@@ -1,12 +1,12 @@
 [
   {
-    "domain": "trypotatotoday.com",
+    "domain": "windmillplatform.com",
     "title": "Windmill | AI Performance Reviews",
     "business_name": "",
     "country": "",
-    "seo_score": 67,
-    "tech_spend": 20176,
-    "crawled_at": "2026-03-05T01:57:49.401047807Z",
+    "seo_score": 72,
+    "tech_spend": 20296,
+    "crawled_at": "2026-03-07T21:39:35.97789545Z",
     "technologies": [
       "Apture Linking Platform",
       "Astro",
@@ -24,9 +24,34 @@
       "QUIC",
       "Radix UI",
       "Tailwind CSS",
+      "Termly",
       "UTF-8",
       "Vercel",
       "shadcn ui"
+    ]
+  },
+  {
+    "domain": "abhaymettu.com",
+    "title": "Abhay Mettu",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 200,
+    "crawled_at": "2026-03-07T03:26:28.462224797Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Turnstile",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "DAV",
+      "Fontshare",
+      "Netlify",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "reCAPTCHA"
     ]
   },
   {
@@ -13867,30 +13892,6 @@
       "Heroku",
       "Microdata for Google Shopping",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "kjkrimrepairdeliveryservices.com",
-    "title": "KJK Rim Delivery Services | Premium Wheel Repair & Customization",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 17440,
-    "crawled_at": "2025-12-20T12:22:32.735819984Z",
-    "technologies": [
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fireblade",
-      "Fontshare",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "QUIC",
-      "Tailwind CSS",
-      "Ubuntu"
     ]
   }
 ]
