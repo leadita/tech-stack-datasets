@@ -1,5 +1,31 @@
 [
   {
+    "domain": "aidenmiah.co",
+    "title": "Aiden Miah | Software Engineer Portfolio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 789,
+    "crawled_at": "2026-03-06T18:31:09.475924231Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Express",
+      "Formspree",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "gunnarwrld.com",
     "title": "Gunnar Arias - Software Developer Portfolio",
     "business_name": "",
@@ -14367,26 +14393,6 @@
       "Nginx",
       "Pleroma",
       "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "lewislewin.com",
-    "title": "Lewis Lewin",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 55,
-    "tech_spend": 60,
-    "crawled_at": "2025-11-03T11:44:01.519462458Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "GitHub Hosting",
-      "Python",
-      "Tailwind CSS",
       "shadcn ui"
     ]
   }
