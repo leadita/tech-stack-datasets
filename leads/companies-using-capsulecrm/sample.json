@@ -1,5 +1,35 @@
 [
   {
+    "domain": "jaima.co",
+    "title": "Jaima Art",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 27384,
+    "crawled_at": "2026-03-06T19:43:10.428352042Z",
+    "technologies": [
+      "Aruba",
+      "CapsuleCRM",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "RM Education",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "knowledgetrain.jp",
     "title": "Professional Training and Certification for Individuals | Business Solutions to Improve Organisational Performance | Knowledge Train",
     "business_name": "",
@@ -1040,36 +1070,6 @@
       "Thank You",
       "UTF-8",
       "hCaptcha"
-    ]
-  },
-  {
-    "domain": "jaima.co",
-    "title": "Jaima Art",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 27384,
-    "crawled_at": "2025-11-02T17:21:08.616951768Z",
-    "technologies": [
-      "Aruba",
-      "CapsuleCRM",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "RM Education",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
