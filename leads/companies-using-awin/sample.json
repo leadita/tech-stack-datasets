@@ -1,5 +1,26 @@
 [
   {
+    "domain": "rowandharmony.com",
+    "title": "Row & Harmony — Facility and Property Management Company LTD",
+    "business_name": "",
+    "country": "NGA",
+    "seo_score": 82,
+    "tech_spend": 1428,
+    "crawled_at": "2026-03-06T19:05:54.100714472Z",
+    "technologies": [
+      "AWIN",
+      "Content Delivery Network",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "Sanity",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "wearevantage.ph",
     "title": "Vantage Events and Music Production",
     "business_name": "",
@@ -40501,39 +40522,6 @@
       "Vercel",
       "Visual Studio",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "jamielynnturner.com",
-    "title": "Jamie Lynn Turner",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 9327,
-    "crawled_at": "2025-11-04T09:56:18.382089054Z",
-    "technologies": [
-      "AWIN",
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "Authorize.net",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Express",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "HighLevel",
-      "Nuxt.js",
-      "Tailwind CSS",
-      "Thank You",
-      "Turner CDN",
-      "UTF-8",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   }
 ]

@@ -11573,35 +11573,5 @@
       "W3layouts",
       "jQuery"
     ]
-  },
-  {
-    "domain": "moonaron.com",
-    "title": "moonaron",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": "",
-    "crawled_at": "2025-11-02T17:44:39.936536672Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Commission Junction",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "OpenResty",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
