@@ -1,5 +1,33 @@
 [
   {
+    "domain": "urlinspector.in",
+    "title": "URL INSPECTOR",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 1825,
+    "crawled_at": "2026-03-07T05:47:08.140905603Z",
+    "technologies": [
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Font Awesome",
+      "Freepik",
+      "Google",
+      "Google Cloud CDN",
+      "Iconfinder",
+      "Netlify",
+      "StackPath",
+      "Tailwind CSS",
+      "Todoist",
+      "UTF-8",
+      "Vector Internet Services",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "illustration.tools",
     "title": "Directory | Illustration Tools",
     "business_name": "illustration.tools",
@@ -1841,34 +1869,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "urlinspector.in",
-    "title": "URL INSPECTOR",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 1825,
-    "crawled_at": "2025-11-02T18:26:43.170629306Z",
-    "technologies": [
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Font Awesome",
-      "Freepik",
-      "Google",
-      "Google Cloud CDN",
-      "Iconfinder",
-      "Netlify",
-      "StackPath",
-      "Tailwind CSS",
-      "Todoist",
-      "UTF-8",
-      "Vector Internet Services",
-      "jsDelivr"
     ]
   }
 ]

@@ -1,5 +1,37 @@
 [
   {
+    "domain": "nannyshareagency.com",
+    "title": "nannyshare agency",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 29684,
+    "crawled_at": "2026-03-07T16:02:25.733395724Z",
+    "technologies": [
+      "Accordion Blocks",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Forms",
+      "Google My Business",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Prospective",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand",
+      "monday.com"
+    ]
+  },
+  {
     "domain": "tribemonday.com",
     "title": "Tribe Monday",
     "business_name": "",
@@ -18755,41 +18787,6 @@
       "jsDelivr",
       "monday.com",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "flowpath.tech",
-    "title": "FlowPath | Asana Solutions Partner | Process Automation & Optimisation",
-    "business_name": "Wisely",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 108828,
-    "crawled_at": "2026-01-31T08:13:36.139116047Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Asana",
-      "Content Delivery Network",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "InitiativeS",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PWA",
-      "QUIC",
-      "SMC",
-      "Sentry",
-      "SiteW",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "mlcom",
-      "monday.com"
     ]
   }
 ]
