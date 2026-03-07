@@ -1,5 +1,24 @@
 [
   {
+    "domain": "oldgloryadvance.com",
+    "title": "Old Glory Advance - Where Opportunity Meets Success",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 55,
+    "tech_spend": 135,
+    "crawled_at": "2026-03-07T01:41:55.854704112Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "mamba24.org",
     "title": "Welcome to Mamba24.com",
     "business_name": "",
@@ -3429,24 +3448,6 @@
       "QUIC",
       "SiteGround Optimizer",
       "Sucuri Cloudproxy",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "oldgloryadvance.com",
-    "title": "Old Glory Advance - Where Opportunity Meets Success",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 55,
-    "tech_spend": 135,
-    "crawled_at": "2025-11-02T17:59:38.994791574Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "QUIC",
       "UTF-8"
     ]
   }
