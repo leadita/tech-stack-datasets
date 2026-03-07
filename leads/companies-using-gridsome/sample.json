@@ -1,5 +1,25 @@
 [
   {
+    "domain": "zorinvest.hu",
+    "title": "Zorinvest - Zorinvest",
+    "business_name": "",
+    "country": "HUN",
+    "seo_score": 60,
+    "tech_spend": 20003,
+    "crawled_at": "2026-03-07T10:14:58.077614578Z",
+    "technologies": [
+      "Apache",
+      "DAV",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "K2F",
+      "SMC",
+      "Subversion"
+    ]
+  },
+  {
     "domain": "sanstream.nl",
     "title": "homepage — Studio Sanstream",
     "business_name": "",
@@ -11811,20 +11831,6 @@
       "Google Font API",
       "Google Tag Manager",
       "Gridsome"
-    ]
-  },
-  {
-    "domain": "design-sprint-series.de",
-    "title": "Design-Sprint-Series - Design-Sprint",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 60,
-    "tech_spend": 5000,
-    "crawled_at": "2025-11-09T06:25:28.565387034Z",
-    "technologies": [
-      "Apache",
-      "Gridsome",
-      "M247"
     ]
   }
 ]

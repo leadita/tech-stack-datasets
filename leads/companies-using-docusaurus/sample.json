@@ -1,5 +1,50 @@
 [
   {
+    "domain": "testify.dev",
+    "title": "Android Testify | Android Testify",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 600,
+    "crawled_at": "2026-03-07T14:59:49.198895026Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Jetpack",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "aliveamy.com",
+    "title": "aliveAmy",
+    "business_name": "",
+    "country": "",
+    "seo_score": 32,
+    "tech_spend": 600,
+    "crawled_at": "2026-03-07T07:03:27.691283048Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "loglark.io",
     "title": "LogLark: simple, fast and affordable log monitoring",
     "business_name": "",
@@ -12475,51 +12520,6 @@
       "QUIC",
       "Tailwind CSS",
       "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "testify.dev",
-    "title": "Android Testify | Android Testify",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 600,
-    "crawled_at": "2025-11-02T19:26:48.30997794Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Jetpack",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "aliveamy.com",
-    "title": "aliveAmy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 32,
-    "tech_spend": 600,
-    "crawled_at": "2025-11-02T18:36:57.019888824Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Perl",
-      "Tailwind CSS",
       "UTF-8"
     ]
   }
