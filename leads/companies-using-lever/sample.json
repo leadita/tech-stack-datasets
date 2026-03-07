@@ -1,5 +1,29 @@
 [
   {
+    "domain": "realworldone.ru",
+    "title": "realworld one - Extended Reality (XR) Solutions for the Life Sciences Community",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 82,
+    "tech_spend": 34980,
+    "crawled_at": "2026-03-07T12:46:04.02352099Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Framer Sites",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google My Business",
+      "Google Tag Manager",
+      "KVH",
+      "Lever",
+      "Ntent",
+      "Yandex Hosting",
+      "YouTube",
+      "Zeald"
+    ]
+  },
+  {
     "domain": "tambu1.com",
     "title": "Home | Tambu1",
     "business_name": "",
@@ -231,30 +255,6 @@
       "Tailwind CSS",
       "eLand",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "realworld-one.com",
-    "title": "realworld one - Extended Reality (XR) Solutions for the Life Sciences Community",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 77,
-    "tech_spend": 34980,
-    "crawled_at": "2026-03-04T06:45:46.687018261Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Framer Sites",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Google Tag Manager",
-      "KVH",
-      "Lever",
-      "Ntent",
-      "Yandex Hosting",
-      "YouTube",
-      "Zeald"
     ]
   },
   {

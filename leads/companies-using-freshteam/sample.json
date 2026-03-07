@@ -1,5 +1,37 @@
 [
   {
+    "domain": "velizabeth.com",
+    "title": "V Elizabeth Talent Acquisition Solutions",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 110300,
+    "crawled_at": "2026-03-07T16:51:13.743277149Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Aruba",
+      "Express",
+      "Fireblade",
+      "FormSubmit",
+      "Freshteam",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "InitiativeS",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Newsletter for Wordpress",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "spearmintenergy.com",
     "title": "Spearmint Energy",
     "business_name": "",
