@@ -1,5 +1,41 @@
 [
   {
+    "domain": "fundaspring.com",
+    "title": "Fundaspring: Parenting, Student & Professional Support Hub – fundaspring",
+    "business_name": "",
+    "country": "SGP",
+    "seo_score": 72,
+    "tech_spend": 22224,
+    "crawled_at": "2026-03-07T08:36:16.485896813Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Angular",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "Fastly",
+      "Google Customer Reviews",
+      "Google Related Website Sites",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microsoft Clarity",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "Subversion",
+      "To Top",
+      "UTF-8",
+      "University or College",
+      "Webkul",
+      "Yellow Messenger",
+      "YouTube",
+      "eLand",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "coldcanyonlandfill.com",
     "title": "Cold Canyon Landfill | Disposal | Dump",
     "business_name": "",
@@ -3618,40 +3654,6 @@
       "University or College",
       "Yellow Messenger",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "fundaspring.com",
-    "title": "Fundaspring: Parenting, Student & Professional Support Hub – fundaspring",
-    "business_name": "",
-    "country": "SGP",
-    "seo_score": 72,
-    "tech_spend": 22224,
-    "crawled_at": "2025-11-02T18:47:38.92557624Z",
-    "technologies": [
-      "Adobe GoLive",
-      "Amazon WAF Blocked",
-      "Angular",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Fastly",
-      "Google Customer Reviews",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "To Top",
-      "UTF-8",
-      "University or College",
-      "Webkul",
-      "Yellow Messenger",
-      "YouTube",
-      "eLand",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   }
 ]
