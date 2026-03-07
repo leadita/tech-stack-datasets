@@ -1,5 +1,51 @@
 [
   {
+    "domain": "naomimost.com",
+    "title": "naomimost.com",
+    "business_name": "naomimost.com",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 49,
+    "crawled_at": "2026-03-07T07:24:27.687811371Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Debian",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "pekinbantams.org",
+    "title": "Cluckin",
+    "business_name": "Cluckin",
+    "country": "GBR",
+    "seo_score": 80,
+    "tech_spend": 75416,
+    "crawled_at": "2026-03-06T23:01:29.246625739Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cart.com",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Mediavine Publisher",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "Netlify",
+      "Publii",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "Vine Embed",
+      "WhatsApp Sharing",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "mariedunnechf.com",
     "title": "Homepage",
     "business_name": "",
@@ -635,34 +681,6 @@
       "Nginx",
       "Publii",
       "Ubuntu",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "cluckin.net",
-    "title": "Cluckin",
-    "business_name": "Cluckin",
-    "country": "GBR",
-    "seo_score": 80,
-    "tech_spend": 75416,
-    "crawled_at": "2026-02-11T05:01:27.238281375Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cart.com",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Mediavine Publisher",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "Netlify",
-      "Publii",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "Vine Embed",
-      "WhatsApp Sharing",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   },
@@ -7162,37 +7180,6 @@
       "Microdata for Google Shopping",
       "Publii",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "naomimost.com",
-    "title": "naomimost.com",
-    "business_name": "naomimost.com",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 49,
-    "crawled_at": "2025-11-02T18:39:15.336823399Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Debian",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "alexanderagueroasesor.com.py",
-    "title": "Pagina de venta",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": "",
-    "crawled_at": "2025-11-02T16:50:38.974683665Z",
-    "technologies": [
-      "DAV",
-      "Publii"
     ]
   }
 ]

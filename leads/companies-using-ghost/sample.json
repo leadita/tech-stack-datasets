@@ -1,5 +1,26 @@
 [
   {
+    "domain": "southwoodlincoln.com",
+    "title": "Southwood Neighborhood Association",
+    "business_name": "",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": "",
+    "crawled_at": "2026-03-06T17:44:12.37752209Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ElementUI",
+      "Express",
+      "GZIP Module",
+      "Ghost",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "UTF-8",
+      "Ubuntu"
+    ]
+  },
+  {
     "domain": "waxconn.com",
     "title": "Discogs Tools and Shopify Integration | Waxconn",
     "business_name": "",
@@ -13155,30 +13176,6 @@
       "Nginx",
       "UTF-8",
       "Ubuntu",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "offtacklerepublic.com",
-    "title": "Off Tackle Republic",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 3144,
-    "crawled_at": "2025-11-13T00:35:39.941289883Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Bunny Fonts",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Ghost",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "UTF-8",
-      "University or College",
-      "Unsplash",
       "jsDelivr"
     ]
   }
