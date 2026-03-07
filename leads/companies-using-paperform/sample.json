@@ -1,5 +1,41 @@
 [
   {
+    "domain": "breezyoaksrvpark.com",
+    "title": "Bushnell FL RV Park Home - Breezy Oaks RV Park",
+    "business_name": "Breezy Oaks RV Park",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 2594,
+    "crawled_at": "2026-03-07T15:22:52.142906626Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Camp",
+      "EmbedPress",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Font Awesome",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Jetpack",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Paperform",
+      "QUIC",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "Yelp Badge",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "swohiorealestate.net",
     "title": "Dayton Real Estate Video Blog with Tami Holmes",
     "business_name": "",
@@ -16891,29 +16927,6 @@
       "Twitter Ads",
       "UTF-8",
       "Unicorn Platform"
-    ]
-  },
-  {
-    "domain": "denizxk.com",
-    "title": "Deniz Keskin - Lead Machine Learning Engineer",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 748,
-    "crawled_at": "2025-11-20T01:54:19.445026583Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Paperform",
-      "Pico CSS",
-      "Python",
-      "QUIC",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]
