@@ -1,5 +1,35 @@
 [
   {
+    "domain": "glassroom.ca",
+    "title": "Welcome to Glassroom",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 82,
+    "tech_spend": 29640,
+    "crawled_at": "2026-03-06T18:26:02.048745757Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "DAV",
+      "Didomi",
+      "Envoy",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Next.js",
+      "Ntent",
+      "Oracle Cloud",
+      "Perl",
+      "Pleroma",
+      "QUIC",
+      "Teamtailor",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "hrextensis.com",
     "title": "ExtensisHR: PEO and HR Outsourcing Solutions",
     "business_name": "ExtensisHR",
@@ -15652,33 +15682,6 @@
       "WF Cookie Consent",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "evelynerobert.ca",
-    "title": "Évelyne Robert | Residential Real Estate Broker at RE/MAX D'ICI",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 41720,
-    "crawled_at": "2025-11-07T16:38:24.240494208Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Didomi",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "Nuxt.js",
-      "UTF-8",
-      "Vector Internet Services",
-      "YouTube"
     ]
   }
 ]
