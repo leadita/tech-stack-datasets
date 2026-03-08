@@ -1,5 +1,77 @@
 [
   {
+    "domain": "familynfriends.com",
+    "title": "Family & Friends Campground by Modern America Campgrounds",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 18479,
+    "crawled_at": "2026-03-08T11:26:16.070218152Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Campspot",
+      "Coming Soon Page",
+      "DAV",
+      "GZIP Module",
+      "Gambling Content",
+      "Google Analytics",
+      "Google Cloud",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Forms",
+      "Google My Business",
+      "Google Tag Manager",
+      "Harbor",
+      "Instagram Follow Button",
+      "Mantine",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "yoslash.com",
+    "title": "YoSlash",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 600,
+    "crawled_at": "2026-03-08T04:50:01.718731617Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "Mantine",
+      "Next.js",
+      "Pleroma",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "tempoboost.co",
+    "title": "KI Hausarbeit schreiben auf Knopfdruck - KI Seminararbeit schreiben",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 240,
+    "crawled_at": "2026-03-08T03:25:57.983182378Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Mantine",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "brandypondcampground.com",
     "title": "Brandy Pond Park by Modern America Campgrounds",
     "business_name": "",
@@ -12569,28 +12641,6 @@
     ]
   },
   {
-    "domain": "intellischreiber.de",
-    "title": "KI Hausarbeit schreiben auf Knopfdruck - KI Seminararbeit schreiben",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 240,
-    "crawled_at": "2026-01-31T11:34:48.866410069Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Mantine",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "srsprog.com",
     "title": "SRSProg",
     "business_name": "",
@@ -14624,55 +14674,6 @@
       "Twitter Ads",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "prmobl.com",
-    "title": "Gift Card Hub |",
-    "business_name": "",
-    "country": "SGP",
-    "seo_score": 72,
-    "tech_spend": 14004,
-    "crawled_at": "2026-01-28T05:28:41.229200993Z",
-    "technologies": [
-      "Aruba",
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Mantine",
-      "Next.js",
-      "Pico CSS",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "VWO Engage",
-      "Vercel",
-      "Visual Website Optimizer",
-      "eLand",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "buildwithnicol.com",
-    "title": "Build with Nicol",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 62,
-    "tech_spend": 3780,
-    "crawled_at": "2026-01-28T01:19:43.433263098Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Mantine",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel",
-      "Visual Studio",
-      "monday.com"
     ]
   }
 ]
