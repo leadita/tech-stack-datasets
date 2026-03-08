@@ -581,34 +581,5 @@
       "YouTube",
       "jQuery"
     ]
-  },
-  {
-    "domain": "mixdiff.com",
-    "title": "MixDiff.com——Mixing Mysticism, Defining Destiny.",
-    "business_name": "MixDiff.com——Mixing Mysticism, Defining Destiny.",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2700,
-    "crawled_at": "2025-11-02T21:22:33.434844636Z",
-    "technologies": [
-      "Cloudflare",
-      "DAV",
-      "ETranslate",
-      "Express",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "GTranslate",
-      "Google My Business",
-      "Kwai Conversion Tracking",
-      "Microdata for Google Shopping",
-      "PayPal Adaptive Payments",
-      "Pico CSS",
-      "Pinterest Conversion Tracking",
-      "QUIC",
-      "Sign In With Google",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
   }
 ]
