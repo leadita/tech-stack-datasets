@@ -1,5 +1,37 @@
 [
   {
+    "domain": "emma-mattress.com.au",
+    "title": "Emma® Sleep Mattresses & Beds | On Sale",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 234764,
+    "crawled_at": "2026-03-07T19:05:11.053210644Z",
+    "technologies": [
+      "AB Tasty",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Contentstack",
+      "ElementUI",
+      "Express",
+      "Freshworks Bot",
+      "Instagram Follow Button",
+      "Klarna",
+      "Mention Me",
+      "Nuxt.js",
+      "Parcel",
+      "Product Review",
+      "QUIC",
+      "RM Education",
+      "SpeedCurve",
+      "Swell Rewards",
+      "Typeform",
+      "UTF-8",
+      "Yotpo",
+      "commercetools"
+    ]
+  },
+  {
     "domain": "memyglassesandi.ch",
     "title": "VISILAB - Online Optician in Switzerland : Prescription Glasses, Sunglasses, Contact Lenses | Visilab",
     "business_name": "",
