@@ -1,5 +1,46 @@
 [
   {
+    "domain": "luminx.net",
+    "title": "LuminX - Intelligent Asset Tracking & Staff Safety Solutions",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 7560,
+    "crawled_at": "2026-03-07T19:49:39.19360985Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "Fireblade",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "taiwoomoya.com",
+    "title": "Taiwo Omoya | Personal Website",
+    "business_name": "",
+    "country": "",
+    "seo_score": 70,
+    "tech_spend": 568,
+    "crawled_at": "2026-03-07T15:22:52.123789211Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Netlify",
+      "Python",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "aidenmiah.co",
     "title": "Aiden Miah | Software Engineer Portfolio",
     "business_name": "",
@@ -14343,56 +14384,6 @@
       "GitHub Hosting",
       "Tailwind CSS",
       "University or College",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "ivolimasilva.xyz",
-    "title": "Ivo Lima Silva • Developer 💻",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 15540,
-    "crawled_at": "2025-11-03T13:29:38.972804969Z",
-    "technologies": [
-      "Astro",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "GitHub Hosting",
-      "Google My Business",
-      "Google Retail Product Discovery",
-      "Pico CSS",
-      "Tailwind CSS",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "hackinggate.com",
-    "title": "HackingGate",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 30300,
-    "crawled_at": "2025-11-03T12:08:15.135714193Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "Fireblade",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Headless UI",
-      "Next.js",
-      "Nginx",
-      "Pleroma",
-      "UTF-8",
       "shadcn ui"
     ]
   }
