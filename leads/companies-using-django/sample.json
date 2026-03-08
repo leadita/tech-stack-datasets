@@ -1,5 +1,32 @@
 [
   {
+    "domain": "journalspheretrail.com",
+    "title": "Journalsphere Trail: A Journey Through Personal Stories and Insights",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 2756,
+    "crawled_at": "2026-03-07T20:23:35.813384195Z",
+    "technologies": [
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "Django",
+      "Gambling Content",
+      "IcoMoon",
+      "Matomo",
+      "Matomo Tag Manager",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "milleriec.com",
     "title": "Home | Miller Independent Educational Consulting LLC",
     "business_name": "",
@@ -18,34 +45,6 @@
       "QUIC",
       "University or College",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "notepulse.co.uk",
-    "title": "Notepulse UK - Tech Insights and Digital Trends Blog",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 87,
-    "tech_spend": 3956,
-    "crawled_at": "2026-03-06T08:19:33.07603313Z",
-    "technologies": [
-      "About Cookies",
-      "Apture Linking Platform",
-      "Azion",
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "DAV",
-      "Django",
-      "Gambling Content",
-      "IcoMoon",
-      "Matomo",
-      "Matomo Tag Manager",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   },
   {
