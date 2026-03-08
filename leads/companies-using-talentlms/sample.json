@@ -8501,59 +8501,5 @@
       "Wix Media",
       "mlcom"
     ]
-  },
-  {
-    "domain": "msanan.blog",
-    "title": "M Sanan.blog",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 828,
-    "crawled_at": "2025-11-02T21:26:40.390419734Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "TalentLMS",
-      "W3.CSS"
-    ]
-  },
-  {
-    "domain": "newsim.com.ph",
-    "title": "New Simulator Center of the Philippines, Inc.",
-    "business_name": "NEW SIMULATOR CENTER OF THE PHILIPPINES, INC.",
-    "country": "PHL",
-    "seo_score": 77,
-    "tech_spend": 18236,
-    "crawled_at": "2025-11-02T21:19:31.994759079Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Chatbase",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Maps",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "MATRIX LMS",
-      "Microdata for Google Shopping",
-      "MonsterInsights",
-      "PHP",
-      "QUIC",
-      "Sitelinks Search Box",
-      "TalentLMS",
-      "Twenty Twenty-One",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
