@@ -1,5 +1,29 @@
 [
   {
+    "domain": "sera.ag",
+    "title": "Sera is the first Greenhouse Intelligence Platform",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 15672,
+    "crawled_at": "2026-03-08T06:44:01.443226605Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Apture Linking Platform",
+      "Framer Sites",
+      "Freshteam",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Tag Manager",
+      "Ntent",
+      "QUIC",
+      "Vector Internet Services",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
     "domain": "velizabeth.com",
     "title": "V Elizabeth Talent Acquisition Solutions",
     "business_name": "",
@@ -3054,36 +3078,6 @@
       "WordPress Multisite",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "sera.ag",
-    "title": "Sera intelligence",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 1275,
-    "crawled_at": "2025-11-02T21:08:38.892834156Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Animate It",
-      "CloudFront",
-      "Content Delivery Network",
-      "Freshteam",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Tailwind CSS",
-      "WF Cookie Consent",
-      "Webflow",
-      "jsDelivr"
     ]
   }
 ]
