@@ -1,5 +1,52 @@
 [
   {
+    "domain": "weareprofero.com",
+    "title": "Profero | Access Marketing Agency",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 87,
+    "tech_spend": 20056,
+    "crawled_at": "2026-03-08T04:55:47.986595729Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "DAV",
+      "DatoCMS",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Netlify",
+      "Nuxt.js",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "talentedindenmark.dk",
+    "title": "Talented in Denmark",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 38564,
+    "crawled_at": "2026-03-07T20:23:35.788173597Z",
+    "technologies": [
+      "Adult Content",
+      "Content Delivery Network",
+      "DAV",
+      "DatoCMS",
+      "Financial Services Guide",
+      "Frontify",
+      "Gatsby JS",
+      "Idaq",
+      "Instagram Follow Button",
+      "KVH",
+      "Netlify",
+      "Phew",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "aftr.studio",
     "title": "Home | AFTR",
     "business_name": "",
@@ -14222,51 +14269,6 @@
       "Twitter Ads",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "fiveasy.net",
-    "title": "Fiveasy | FiveM Scripts",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 7500,
-    "crawled_at": "2025-12-03T08:53:34.925680065Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DatoCMS",
-      "Fireblade",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Next.js",
-      "Pleroma",
-      "Radix UI",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "YouTube",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "mountainviewwealth.co.uk",
-    "title": "Mountain View Wealth | Global Wealth Management Recruitment | Specialised Wealth Management Recruiting",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 5120,
-    "crawled_at": "2025-12-02T18:00:23.063736413Z",
-    "technologies": [
-      "AAPT",
-      "Adobe Creative Cloud WebFonts",
-      "Content Delivery Network",
-      "DAV",
-      "DatoCMS",
-      "Gatsby JS",
-      "Netlify",
-      "Styled Components",
-      "UTF-8"
     ]
   }
 ]
