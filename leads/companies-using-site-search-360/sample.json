@@ -1,5 +1,58 @@
 [
   {
+    "domain": "vvcorporation.info",
+    "title": "VVC Resources",
+    "business_name": "",
+    "country": "JAM",
+    "seo_score": 72,
+    "tech_spend": 10862,
+    "crawled_at": "2026-03-08T13:06:23.630399811Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Corporate Governance and Regulatory Compliance",
+      "Duda",
+      "ETranslate",
+      "FormSubmit",
+      "GZIP Module",
+      "Nginx",
+      "No-Q",
+      "Prospective",
+      "QUIC",
+      "Site Search 360",
+      "Tailwind CSS",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "sonobeat.com",
+    "title": "Sonobeat Records | The Beginning of the Austin Music Scene",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 3548,
+    "crawled_at": "2026-03-07T22:49:02.503056454Z",
+    "technologies": [
+      "Cybot",
+      "Express",
+      "Fastly",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Icons8",
+      "Nginx",
+      "Site Search 360",
+      "University or College",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "trycoastcanmore.com",
     "title": "Hotel in Canmore, AB | Coast Canmore Hotel & Conference Centre",
     "business_name": "",
@@ -4403,35 +4456,6 @@
       "UTF-8",
       "Yandex Hosting",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "vvcresources.com",
-    "title": "VVC Resources",
-    "business_name": "",
-    "country": "JAM",
-    "seo_score": 67,
-    "tech_spend": 10862,
-    "crawled_at": "2026-01-25T08:10:43.439964538Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Corporate Governance and Regulatory Compliance",
-      "Duda",
-      "ETranslate",
-      "FormSubmit",
-      "GZIP Module",
-      "Nginx",
-      "No-Q",
-      "Prospective",
-      "QUIC",
-      "Site Search 360",
-      "Tailwind CSS",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8"
     ]
   },
   {
@@ -15666,48 +15690,6 @@
       "Twitter Ads",
       "UTF-8",
       "Yandex Hosting"
-    ]
-  },
-  {
-    "domain": "caviokids.com",
-    "title": "Cavio : Online Shopping For Kids Fashion wear",
-    "business_name": "PUNEET APPARELS PRIVATE LIMITED (All Rights Reserved), GSTIN :- 23AABCP3072B1Z2",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 22531,
-    "crawled_at": "2025-11-15T07:44:24.912784159Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Font Awesome",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Heroku",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Phew",
-      "QUIC",
-      "Shiprocket",
-      "Shopify",
-      "Shopify Collabs",
-      "Shopify Payments",
-      "Site Search 360",
-      "Thank You",
-      "To Top",
-      "Twitter Ads",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   }
 ]
