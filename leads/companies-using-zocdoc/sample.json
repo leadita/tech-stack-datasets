@@ -1,5 +1,19 @@
 [
   {
+    "domain": "housecallptridgefield.com",
+    "title": "House Call PT",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 3588,
+    "crawled_at": "2026-03-08T14:45:10.538580901Z",
+    "technologies": [
+      "Tailwind CSS",
+      "ZocDoc",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "boston.dental",
     "title": "Dental Clinic in Boston, Massachusetts| Dental Designs",
     "business_name": "Dental Designs Boston",
@@ -2942,20 +2956,6 @@
       "Unsplash",
       "WebsiteBuilder",
       "ZocDoc"
-    ]
-  },
-  {
-    "domain": "housecallpt.com",
-    "title": "House Call PT",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 3588,
-    "crawled_at": "2026-02-28T21:29:09.981664773Z",
-    "technologies": [
-      "Tailwind CSS",
-      "ZocDoc",
-      "jsDelivr"
     ]
   },
   {
