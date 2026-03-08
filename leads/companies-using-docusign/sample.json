@@ -10801,41 +10801,5 @@
       "Wix Media",
       "mlcom"
     ]
-  },
-  {
-    "domain": "alondrare.com",
-    "title": "ALONDRA Flat Fee MLS – Fixed Fees, Not Based on Sale Price",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 23207,
-    "crawled_at": "2025-11-02T21:13:29.045626678Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apache",
-      "Bricks",
-      "DocuSign",
-      "Elfsight",
-      "EmbedPress",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Kitco",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Site Kit",
-      "Sitelinks Search Box",
-      "Telegram",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite"
-    ]
   }
 ]
