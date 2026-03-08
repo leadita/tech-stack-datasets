@@ -1,5 +1,52 @@
 [
   {
+    "domain": "adrianiannantuono.ca",
+    "title": "Home | Adrian Iannantuono",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2580,
+    "crawled_at": "2026-03-08T22:24:28.51579922Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Material-UI",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "fedimint.com",
+    "title": "Welcome to Fedimint | Fedimint",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 600,
+    "crawled_at": "2026-03-08T03:25:57.999814219Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "KaTeX",
+      "Perl",
+      "Telegram",
+      "Twitter Ads",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "testify.dev",
     "title": "Android Testify | Android Testify",
     "business_name": "",
@@ -8336,30 +8383,6 @@
     ]
   },
   {
-    "domain": "fedimint.org",
-    "title": "Welcome to Fedimint | Fedimint",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 600,
-    "crawled_at": "2025-11-23T00:36:19.476980647Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "KaTeX",
-      "Perl",
-      "Telegram",
-      "Twitter Ads",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
     "domain": "harshithasompura.com",
     "title": "Harshitha Sompura - Software Engineer Portfolio",
     "business_name": "",
@@ -12498,29 +12521,6 @@
       "Zoom Video Conferencing",
       "eLand",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "adrianiannantuono.ca",
-    "title": "Home | Adrian Iannantuono",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 600,
-    "crawled_at": "2025-11-02T22:42:11.552518873Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Material-UI",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]
