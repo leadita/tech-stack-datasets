@@ -1,5 +1,45 @@
 [
   {
+    "domain": "primelender.net",
+    "title": "Build Your Brand with JM XTRADE, INC.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 135,
+    "crawled_at": "2026-03-08T11:15:38.253332467Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "autonomous-t-a-x-i.com",
+    "title": "An EMDN - Autonomous taxi, Self-Driving Cars Ride-Hailing Mobility Transportation AI-Powered Vehicles Urban Commute Smart Transportation",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 135,
+    "crawled_at": "2026-03-07T17:44:39.863318103Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "oldgloryadvance.com",
     "title": "Old Glory Advance - Where Opportunity Meets Success",
     "business_name": "",
@@ -36,46 +76,6 @@
       "GZIP Module",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "infrainternet.com",
-    "title": "An EMDN - Infra Internet, Network Infrastructure Broadband Connectivity High-Speed Internet Data Transmission Cloud Networking IoT Integration Communication Systems Digital Infrastructure",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 135,
-    "crawled_at": "2026-03-03T18:42:39.178969096Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microsoft Clarity",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "commercialkitchen.net",
-    "title": "Build Your Brand with JM XTRADE, INC.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 135,
-    "crawled_at": "2026-03-03T10:29:48.247109236Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8"
     ]
   },
   {
@@ -3419,35 +3419,6 @@
       "GZIP Module",
       "Instagram Follow Button",
       "Microdata for Google Shopping",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "galadevs.software",
-    "title": "GalaDevs - Modern Software Development Company",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 65,
-    "tech_spend": 33052,
-    "crawled_at": "2025-11-02T21:53:26.086095905Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "CDN JS",
-      "Calendly",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Dynadot",
-      "Fireblade",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "PHP",
-      "Perl",
-      "Pico CSS",
-      "QUIC",
-      "SiteGround Optimizer",
-      "Sucuri Cloudproxy",
       "UTF-8"
     ]
   }
