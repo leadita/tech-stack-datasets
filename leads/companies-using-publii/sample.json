@@ -1,5 +1,22 @@
 [
   {
+    "domain": "fayact.org",
+    "title": "Fayette Accountability",
+    "business_name": "Fayette Accountability",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 377,
+    "crawled_at": "2026-03-08T08:24:25.923659876Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "naomimost.com",
     "title": "naomimost.com",
     "business_name": "naomimost.com",
@@ -7143,43 +7160,6 @@
       "WordPress Related Posts",
       "jQuery",
       "wpDataTables"
-    ]
-  },
-  {
-    "domain": "fayact.org",
-    "title": "Fayette Accountability",
-    "business_name": "Fayette Accountability",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 49,
-    "crawled_at": "2025-11-02T21:17:38.996267307Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "pierrewillot.com",
-    "title": "Pierre Willot",
-    "business_name": "Pierre Willot",
-    "country": "",
-    "seo_score": 32,
-    "tech_spend": 247,
-    "crawled_at": "2025-11-02T21:14:28.969318417Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CoreUI",
-      "Fancybox for WordPress",
-      "Font Awesome",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   }
 ]
