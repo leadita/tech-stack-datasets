@@ -1,5 +1,58 @@
 [
   {
+    "domain": "ash-ai.com",
+    "title": "Ash AI: Intelligent Automation & AI Chatbot Solutions in Egypt",
+    "business_name": "Ash AI",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2880,
+    "crawled_at": "2026-03-08T00:08:53.234214055Z",
+    "technologies": [
+      "Better Lead Generation Services",
+      "Content Delivery Network",
+      "Dialogflow",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "gestiondebase.be",
+    "title": "404 - Formation à Distance",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 65,
+    "tech_spend": 2739,
+    "crawled_at": "2026-03-07T16:51:13.741735818Z",
+    "technologies": [
+      "Angular",
+      "Angular Material",
+      "App Store",
+      "Content Delivery Network",
+      "Dialogflow",
+      "Font Awesome",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "noroozclinic.com",
     "title": "Affordable Therapy in Orange County | Norooz Clinic",
     "business_name": "Norooz Clinic",
@@ -1481,33 +1534,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "formationadistance.eu",
-    "title": "Centre de Formation à Distance - Étudiez où et quand vous voulez",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 77,
-    "tech_spend": 2739,
-    "crawled_at": "2026-02-07T17:01:35.728903057Z",
-    "technologies": [
-      "Angular",
-      "Angular Material",
-      "App Store",
-      "Content Delivery Network",
-      "Dialogflow",
-      "Font Awesome",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
@@ -8653,33 +8679,6 @@
       "WordPress Multisite",
       "Yelp Badge",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "ash-ai.com",
-    "title": "Ash AI: Intelligent Automation & AI Chatbot Solutions in Egypt",
-    "business_name": "Ash AI",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2880,
-    "crawled_at": "2025-11-02T20:27:00.950897318Z",
-    "technologies": [
-      "AI Log",
-      "Better Lead Generation Services",
-      "Content Delivery Network",
-      "Dialogflow",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]

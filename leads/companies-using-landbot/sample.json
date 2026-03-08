@@ -14416,48 +14416,5 @@
       "YouTube",
       "jQuery"
     ]
-  },
-  {
-    "domain": "victoryptforall.com",
-    "title": "Physical Therapy Hillsboro OR - Victory PT",
-    "business_name": "Victory Physical Therapy",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 40067,
-    "crawled_at": "2025-11-02T21:17:38.959163673Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "CDN JS",
-      "Clicky",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Fireblade",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Imgix",
-      "Instagram Follow Button",
-      "Kitco",
-      "LandBot",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Theme In WP",
-      "UTF-8",
-      "WP Engine",
-      "WordPress",
-      "WordPress Multisite",
-      "Yelp Badge",
-      "YouTube",
-      "jQuery"
-    ]
   }
 ]
