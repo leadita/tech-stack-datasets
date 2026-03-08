@@ -3421,42 +3421,5 @@
       "jQuery Pin It Button for Images",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "annachongrealtor.com",
-    "title": "Anna Chong",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 57,
-    "tech_spend": 5094,
-    "crawled_at": "2025-11-02T21:12:44.762426794Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Apache",
-      "Apture Linking Platform",
-      "CoreUI",
-      "DAV",
-      "Fastly CDN",
-      "GZIP Module",
-      "GetResponse",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Homes.com CMS",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "New Relic",
-      "Phusion Passenger Enterprise",
-      "PropertyBase",
-      "QUIC",
-      "Rackspace CDN",
-      "UTF-8",
-      "reCAPTCHA"
-    ]
   }
 ]
