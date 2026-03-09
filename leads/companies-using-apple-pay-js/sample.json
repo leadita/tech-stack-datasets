@@ -1,5 +1,34 @@
 [
   {
+    "domain": "commenceoff.com",
+    "title": "Commenceoff",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 22500,
+    "crawled_at": "2026-03-08T16:08:00.874277297Z",
+    "technologies": [
+      "Apple Pay JS",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "GetResponse",
+      "Giropay",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "PayPal",
+      "PayPal Adaptive Payments",
+      "SMC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Underscores",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "slubee.com",
     "title": "industrial pc | industrial all-in-one pc",
     "business_name": "",
@@ -9438,32 +9467,6 @@
       "TidyCal",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "gmkiti.com",
-    "title": "gmkiti Portugal wins the UEFA Champions League UEFA Champions League World Cup Finals Football live streaming Football suit store",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 78168,
-    "crawled_at": "2025-11-02T22:50:39.40825605Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apple Pay JS",
-      "Aruba",
-      "Cart.com",
-      "Cloudflare",
-      "ETranslate",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Subversion",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
