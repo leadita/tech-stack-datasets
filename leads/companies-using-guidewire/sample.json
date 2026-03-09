@@ -1,5 +1,33 @@
 [
   {
+    "domain": "socialdiscoverycorp.com",
+    "title": "Social Discovery | Social Media Reporting | Accurate Intelligence",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 1013638,
+    "crawled_at": "2026-03-09T17:00:42.829769242Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "CoreUI",
+      "Fastly",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Guidewire",
+      "Hubspot Knowledge Base",
+      "Microdata for Google Shopping",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "carlos-mtz.com",
     "title": "Carlos Martinez",
     "business_name": "",
@@ -354,36 +382,6 @@
       "Yandex Hosting",
       "Zoho SalesIQ",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "socialdiscoverycorp.com",
-    "title": "Social Discovery | Social Media Reporting | Accurate Intelligence",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 1016038,
-    "crawled_at": "2025-11-03T00:29:39.305547166Z",
-    "technologies": [
-      "Amazon",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "CoreUI",
-      "Fastly",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Guidewire",
-      "Hubspot Knowledge Base",
-      "Microdata for Google Shopping",
-      "UTF-8",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]
