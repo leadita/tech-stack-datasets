@@ -1,6 +1,6 @@
 # Companies Using Vercel (Live Dataset 2026)
 
-This folder contains an active list of 211,174 companies using **Vercel**. 
+This folder contains an active list of 211,116 companies using **Vercel**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 211,174
+- **Total Leads:** 211,116
 - **Verified:** Yes
-- **Last Updated:** 2026-03-08 13:15 UTC
+- **Last Updated:** 2026-03-09 13:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **211,174+** companies using Vercel.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **211,116+** companies using Vercel.
 
 [**⚡ Unlock the Full Vercel List with Contact Details**](https://leadita.com/leads/companies-using-vercel)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-08 13:15 UTC*
+*Last updated: 2026-03-09 13:15 UTC*
 *Data source: Leadita Technographic Intelligence*

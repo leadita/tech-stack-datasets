@@ -1,5 +1,29 @@
 [
   {
+    "domain": "vldr.dev",
+    "title": "Virgile Landeiro - Machine Learning Engineer & Ph.D.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 7740,
+    "crawled_at": "2026-03-09T07:06:18.749158959Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Pico CSS",
+      "Python",
+      "Svelte",
+      "Tailwind CSS",
+      "Vector Internet Services"
+    ]
+  },
+  {
     "domain": "luminx.net",
     "title": "LuminX - Intelligent Asset Tracking & Staff Safety Solutions",
     "business_name": "",
@@ -14365,25 +14389,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vector Internet Services",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "omfj.no",
-    "title": "omfj.no",
-    "business_name": "",
-    "country": "NOR",
-    "seo_score": 50,
-    "tech_spend": 60,
-    "crawled_at": "2025-11-03T14:02:38.970510068Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "GitHub Hosting",
-      "Tailwind CSS",
-      "University or College",
       "shadcn ui"
     ]
   }
