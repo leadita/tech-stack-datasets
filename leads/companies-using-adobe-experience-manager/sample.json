@@ -1,5 +1,29 @@
 [
   {
+    "domain": "lilodae.com",
+    "title": "lilodae - AI Image Captioning Tool for Accessibility",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 87,
+    "tech_spend": 415000,
+    "crawled_at": "2026-03-09T03:54:58.818690379Z",
+    "technologies": [
+      "Adobe Experience Manager",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "Fireblade",
+      "GZIP Module",
+      "Nginx",
+      "Python",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "bridgestone-asiapacific.com",
     "title": "Car Tires and Truck Tires | Bridgestone Tires",
     "business_name": "Bridgestone",
@@ -17554,35 +17578,6 @@
       "Microdata for Google Shopping",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "keatonreeder.com",
-    "title": "Keaton Reeder",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 50604,
-    "crawled_at": "2025-12-02T21:34:22.273709961Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Adobe Creative Cloud WebFonts",
-      "Adobe Experience Manager",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "Vimeo",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
