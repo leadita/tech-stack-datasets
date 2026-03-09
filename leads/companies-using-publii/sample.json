@@ -7120,46 +7120,5 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
     ]
-  },
-  {
-    "domain": "mdfpf.com",
-    "title": "Acasă -",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 112,
-    "crawled_at": "2025-11-02T21:53:26.063919485Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Astra Theme",
-      "Content Delivery Network",
-      "Elementor",
-      "ElementsKit Elementor",
-      "EmbedPress",
-      "Essential Addons for Elementor",
-      "FreeCSSTemplates",
-      "GenerateBlocks",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "HurryTimer",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Publii",
-      "QUIC",
-      "TablePress",
-      "Theme In WP",
-      "UTF-8",
-      "Ultimate Addons for Gutenberg",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "jQuery",
-      "wpDataTables"
-    ]
   }
 ]
