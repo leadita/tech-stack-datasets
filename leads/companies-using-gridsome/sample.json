@@ -1,5 +1,44 @@
 [
   {
+    "domain": "timhurley.net",
+    "title": "Tim Hurley | Designer + Engineer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 228,
+    "crawled_at": "2026-03-09T17:52:29.169908138Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GitHub Hosting",
+      "Gridsome",
+      "Mastodon",
+      "Netlify",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "trackersjeepsafari.com",
+    "title": "Trackers Jeep Safari - Exciting excursions & tours on Cyprus",
+    "business_name": "",
+    "country": "CYP",
+    "seo_score": 77,
+    "tech_spend": 228,
+    "crawled_at": "2026-03-09T16:40:22.423314319Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google My Business",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8",
+      "WhatsApp Sharing"
+    ]
+  },
+  {
     "domain": "zachmeyer.com",
     "title": "Welcome to my website/portoflio/thing! - Zach Meyer",
     "business_name": "",
@@ -1195,26 +1234,6 @@
       "Gridsome",
       "Netlify",
       "PWA",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "timh.link",
-    "title": "Tim Hurley | Designer + Engineer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-02-12T05:06:24.677764051Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GitHub Hosting",
-      "Gridsome",
-      "Mastodon",
-      "Netlify",
-      "Tailwind CSS",
-      "Twitter Ads",
       "UTF-8"
     ]
   },
@@ -11814,30 +11833,6 @@
       "Apache",
       "Gridsome",
       "Unix"
-    ]
-  },
-  {
-    "domain": "surfacemagic.ie",
-    "title": "Ireland’s Leading Surface Repair Specialists - Surface Magic - Surface Magic",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 72728,
-    "crawled_at": "2025-11-10T00:10:00.967473166Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "Gridsome",
-      "Idaq",
-      "KVH",
-      "Netlify",
-      "PWA",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress",
-      "eLand"
     ]
   }
 ]
