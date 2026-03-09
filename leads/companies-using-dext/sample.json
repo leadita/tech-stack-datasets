@@ -1,5 +1,32 @@
 [
   {
+    "domain": "kingcpa.net",
+    "title": "Home | Kelly King & Co.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 12860,
+    "crawled_at": "2026-03-09T05:34:14.697166949Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Cloudinary",
+      "Dext",
+      "Fastly CDN",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Zoom Video Conferencing"
+    ]
+  },
+  {
     "domain": "simplifiedbookkeeping.com.au",
     "title": "Simplified Bookkeeping & Advisory - Bookkeeping and Advisory Services in Sutherland Shire, NSW",
     "business_name": "Simplified Bookkeeping &amp; Advisory",
@@ -4979,35 +5006,6 @@
       "YouTube",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "kingcpa.net",
-    "title": "Home | Kelly King & Co.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 13520,
-    "crawled_at": "2025-11-02T23:23:38.982015664Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "Dext",
-      "Fastly CDN",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Zoom Video Conferencing",
-      "jsDelivr"
     ]
   }
 ]

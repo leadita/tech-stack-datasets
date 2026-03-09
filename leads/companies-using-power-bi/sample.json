@@ -1,5 +1,35 @@
 [
   {
+    "domain": "umbrellafaces.eu",
+    "title": "UMBRELLA | Travel Profile and Midoffice Software for Travel Companies",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 25980,
+    "crawled_at": "2026-03-09T07:06:18.703778396Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "Google",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Hubspot",
+      "Hubspot Knowledge Base",
+      "Ntent",
+      "Power BI",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "Vimeo",
+      "Vimeo CDN",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "blountviews.com",
     "title": "BlountViews",
     "business_name": "",
@@ -18644,28 +18674,6 @@
       "YouTube",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "apsfull.com",
-    "title": "APS WebSite",
-    "business_name": "",
-    "country": "ESP",
-    "seo_score": 60,
-    "tech_spend": 339,
-    "crawled_at": "2025-11-07T17:56:38.89072601Z",
-    "technologies": [
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "IcoMoon",
-      "Microsoft Azure",
-      "Power BI",
-      "Visual Studio",
-      "YouTube",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
