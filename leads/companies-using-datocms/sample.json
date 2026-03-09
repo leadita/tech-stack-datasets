@@ -1,5 +1,26 @@
 [
   {
+    "domain": "maisoncarolinefischer.fr",
+    "title": "Maison Caroline Fischer | Décoratrice d'intérieur à Colmar, Caroline Fischer",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 72,
+    "tech_spend": 2628,
+    "crawled_at": "2026-03-09T01:16:05.229015541Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DatoCMS",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "weareprofero.com",
     "title": "Profero | Access Marketing Agency",
     "business_name": "",
@@ -3992,27 +4013,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "inspiration-design.fr",
-    "title": "Maison Caroline Fischer | Décoratrice d'intérieur à Colmar, Caroline Fischer",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 72,
-    "tech_spend": 2628,
-    "crawled_at": "2026-02-01T21:07:48.872796097Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DatoCMS",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {
