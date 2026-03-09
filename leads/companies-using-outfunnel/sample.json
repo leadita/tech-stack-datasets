@@ -1,12 +1,12 @@
 [
   {
-    "domain": "meetourteamlenderfit.com",
+    "domain": "asklenderfit.com",
     "title": "Lenderfit",
     "business_name": "Lenderfit",
     "country": "",
-    "seo_score": 62,
+    "seo_score": 67,
     "tech_spend": 112766,
-    "crawled_at": "2026-03-08T18:46:27.89366306Z",
+    "crawled_at": "2026-03-08T19:34:48.568752359Z",
     "technologies": [
       "Alternate Protocol",
       "Amazon WAF Blocked",
@@ -34,6 +34,7 @@
       "Vector Internet Services",
       "Wix",
       "Wix Media",
+      "eLand",
       "mlcom"
     ]
   },
