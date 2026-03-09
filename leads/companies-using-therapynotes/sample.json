@@ -1,5 +1,25 @@
 [
   {
+    "domain": "spectrumsfamily.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 3708,
+    "crawled_at": "2026-03-09T12:20:55.298670381Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Google My Business",
+      "Monster",
+      "TherapyNotes",
+      "Twitter Ads",
+      "UTF-8",
+      "Weebly",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "snsvsolutions.com",
     "title": "S&S Virtual Solutions – Virtual Assistance and Recruiting Services",
     "business_name": "",
