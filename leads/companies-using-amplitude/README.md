@@ -1,6 +1,6 @@
 # Companies Using Amplitude (Live Dataset 2026)
 
-This folder contains an active list of 6,016 companies using **Amplitude**. 
+This folder contains an active list of 6,013 companies using **Amplitude**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 6,016
+- **Total Leads:** 6,013
 - **Verified:** Yes
-- **Last Updated:** 2026-03-08 11:30 UTC
+- **Last Updated:** 2026-03-09 11:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **6,016+** companies using Amplitude.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **6,013+** companies using Amplitude.
 
 [**⚡ Unlock the Full Amplitude List with Contact Details**](https://leadita.com/leads/companies-using-amplitude)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-08 11:30 UTC*
+*Last updated: 2026-03-09 11:30 UTC*
 *Data source: Leadita Technographic Intelligence*
