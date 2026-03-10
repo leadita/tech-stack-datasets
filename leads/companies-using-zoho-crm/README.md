@@ -1,6 +1,6 @@
 # Companies Using Zoho CRM (Live Dataset 2026)
 
-This folder contains an active list of 1,215 companies using **Zoho CRM**. 
+This folder contains an active list of 1,214 companies using **Zoho CRM**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 1,215
+- **Total Leads:** 1,214
 - **Verified:** Yes
-- **Last Updated:** 2026-03-09 14:45 UTC
+- **Last Updated:** 2026-03-10 14:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,215+** companies using Zoho CRM.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,214+** companies using Zoho CRM.
 
 [**⚡ Unlock the Full Zoho CRM List with Contact Details**](https://leadita.com/leads/companies-using-zoho-crm)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-09 14:45 UTC*
+*Last updated: 2026-03-10 14:45 UTC*
 *Data source: Leadita Technographic Intelligence*
