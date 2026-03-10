@@ -1,5 +1,34 @@
 [
   {
+    "domain": "tashkahealthcare.com",
+    "title": "Home - Tashka Healthcare",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 1759,
+    "crawled_at": "2026-03-09T18:36:49.396074157Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Google Workspace",
+      "Hotjar",
+      "PHP",
+      "UTF-8",
+      "Woo Themes",
+      "YouTube",
+      "Zoho Books"
+    ]
+  },
+  {
     "domain": "beautifulearthlandscapes.com",
     "title": "Beautiful Earth Landscaping – Montgomery County's Premier Landscaping Solution",
     "business_name": "Beautiful Earth Landscaping",
@@ -1723,35 +1752,6 @@
       "Zoho Books",
       "Zoho SalesIQ",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "tashkahealthcare.com",
-    "title": "Home - Tashka Healthcare",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 1759,
-    "crawled_at": "2025-11-03T00:38:59.933573683Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Google Workspace",
-      "Hotjar",
-      "PHP",
-      "UTF-8",
-      "Woo Themes",
-      "YouTube",
-      "Zoho Books"
     ]
   }
 ]
