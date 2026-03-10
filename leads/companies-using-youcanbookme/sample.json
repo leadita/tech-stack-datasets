@@ -1,5 +1,72 @@
 [
   {
+    "domain": "carlos-mendez.org",
+    "title": "Carlos Mendez",
+    "business_name": "",
+    "country": "JPN",
+    "seo_score": 87,
+    "tech_spend": 19900,
+    "crawled_at": "2026-03-09T21:36:25.052612298Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CDN JS",
+      "Canva Websites",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Disqus Comment System for WordPress",
+      "Font Awesome",
+      "Formspree",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Netlify",
+      "Netlify Forms",
+      "On The Map",
+      "PHP",
+      "Python",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Telegram",
+      "UTF-8",
+      "University or College",
+      "YouCanBookMe",
+      "YouTube",
+      "Zoom Video Conferencing",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "creativetouchpaintanddesign.com",
+    "title": "Creative Touch Paint & Design",
+    "business_name": "Creative Touch Paint & Design",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 77311,
+    "crawled_at": "2026-03-09T14:33:51.075075301Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "No-Q",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouCanBookMe",
+      "eLand"
+    ]
+  },
+  {
     "domain": "upliftmylife.today",
     "title": "UpliftMyLife.Today – You are meant to be here. Living purposeful live. With ease.",
     "business_name": "",
@@ -15974,34 +16041,6 @@
     ]
   },
   {
-    "domain": "creativetouch.design",
-    "title": "Creative Touch Paint & Design",
-    "business_name": "Creative Touch Paint & Design",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 77311,
-    "crawled_at": "2025-12-18T00:55:32.748969228Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "No-Q",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouCanBookMe",
-      "eLand"
-    ]
-  },
-  {
     "domain": "nextule.com",
     "title": "Nextule | AI Automation & CRM for Service Businesses",
     "business_name": "",
@@ -17309,24 +17348,6 @@
       "Thank You",
       "YouCanBookMe",
       "Zyro"
-    ]
-  },
-  {
-    "domain": "tech-tutor.net",
-    "title": "Online Tutor House",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 5060,
-    "crawled_at": "2025-12-15T06:28:56.014923809Z",
-    "technologies": [
-      "Google Cloud",
-      "INETu",
-      "Python",
-      "Thank You",
-      "UTF-8",
-      "YouCanBookMe",
-      "YouTube"
     ]
   }
 ]
