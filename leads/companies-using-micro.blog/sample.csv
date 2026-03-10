@@ -1,4 +1,5 @@
 domain,title,business_name,country,seo_score,tech_spend,crawled_at,technologies
+jeannie.fyi,Jeannie M,,USA,57,782,2026-03-10T07:26:34.243857949Z,"['Carrd', 'Ethy', 'Font Awesome', 'GZIP Module', 'Google Cloud DNS', 'Google Font API', 'Micro.blog', 'Tailwind CSS', 'UTF-8', 'Vultr', 'shadcn ui']"
 mikeswimm.org,Mike Swimm,,,35,60,2026-03-07T09:08:53.174803987Z,"['Alternate Protocol', 'Hugo', 'Mastodon', 'Micro.blog', 'UTF-8', 'shadcn ui']"
 martymcgui.re,Marty McGuire,,GBR,72,173849,2026-03-07T02:09:39.491584857Z,"['AAPT', 'Alternate Protocol', 'Apache', 'CCSI', 'DAV', 'Ethy', 'Federal Deposit Insurance Corporation', 'Financial Services Guide', 'GZIP Module', 'GitHub Hosting', 'HHVM', 'HMDG', 'Hexo', 'K2F', 'KVH', 'Micro.blog', 'No-Q', 'Onion Location', 'Onyx Internet', 'PHP', 'Paessler', 'Parallels Plesk Panel', 'Perl', 'SMC', 'Subversion', 'Tailwind CSS', 'UTF-8', 'YouTube', 'Zope', 'shadcn ui']"
 nezteb.org,Noah Betzen,,,37,260,2026-03-06T03:16:51.995430643Z,"['AWS WAF Challenge', 'Alternate Protocol', 'GitHub Hosting', 'Hugo', 'Micro.blog', 'Twitter Ads', 'UTF-8', 'shadcn ui']"
@@ -257,4 +258,3 @@ heydingus.net,HeyDingus,,GBR,65,15120,2025-11-03T13:38:19.327887464Z,"['Alternat
 gregmorris.co.uk,Greg Morris,,GBR,77,3180,2025-11-03T09:32:39.404876292Z,"['Alternate Protocol', 'ArvanCloud', 'Content Delivery Network', 'Fastly', 'GZIP Module', 'Ghost', 'Micro.blog', 'Microdata for Google Shopping', 'OpenResty', 'QUIC', 'UTF-8', 'jsDelivr']"
 isellsoap.net,Francesco Schwarz – Frontend Developer,,,52,60,2025-11-03T09:20:38.951336393Z,"['Alternate Protocol', 'GZIP Module', 'GitHub Hosting', 'Mastodon', 'Micro.blog', 'Nginx', 'PWA', 'UTF-8']"
 okiedokieblog.com,Okie Dokie,,CAN,62,120,2025-11-03T05:56:38.902000771Z,"['Alternate Protocol', 'Micro.blog', 'UTF-8']"
-jeannie.fyi,Jeannie M,,USA,60,192,2025-11-03T01:58:22.284414558Z,"['Carrd', 'Discord', 'Font Awesome', 'GZIP Module', 'Google Cloud DNS', 'Google Font API', 'Micro.blog', 'Tailwind CSS', 'UTF-8', 'Vultr', 'shadcn ui']"

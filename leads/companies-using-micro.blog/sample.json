@@ -1,5 +1,27 @@
 [
   {
+    "domain": "jeannie.fyi",
+    "title": "Jeannie M",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 57,
+    "tech_spend": 782,
+    "crawled_at": "2026-03-10T07:26:34.243857949Z",
+    "technologies": [
+      "Carrd",
+      "Ethy",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Micro.blog",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vultr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "mikeswimm.org",
     "title": "Mike Swimm",
     "business_name": "",
@@ -7721,28 +7743,6 @@
       "Alternate Protocol",
       "Micro.blog",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "jeannie.fyi",
-    "title": "Jeannie M",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 192,
-    "crawled_at": "2025-11-03T01:58:22.284414558Z",
-    "technologies": [
-      "Carrd",
-      "Discord",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Micro.blog",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vultr",
-      "shadcn ui"
     ]
   }
 ]
