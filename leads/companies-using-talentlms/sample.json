@@ -1,5 +1,27 @@
 [
   {
+    "domain": "lexitaslearning.com",
+    "title": "Lexitas Learning Center",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 1251,
+    "crawled_at": "2026-03-09T20:01:33.140684886Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Apache",
+      "CM Commerce",
+      "CloudFront",
+      "GitHub Hosting",
+      "IcoMoon",
+      "Tailwind CSS",
+      "TalentLMS",
+      "UTF-8",
+      "WoWonder"
+    ]
+  },
+  {
     "domain": "prontospanish.com",
     "title": "Pronto Spanish",
     "business_name": "",
@@ -8472,28 +8494,6 @@
       "jQuery",
       "jsDelivr",
       "qTranslate"
-    ]
-  },
-  {
-    "domain": "lexitaslearning.com",
-    "title": "Lexitas Learning Center",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 1251,
-    "crawled_at": "2025-11-03T00:47:38.983426072Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Apache",
-      "CM Commerce",
-      "CloudFront",
-      "GitHub Hosting",
-      "IcoMoon",
-      "Tailwind CSS",
-      "TalentLMS",
-      "UTF-8",
-      "WoWonder"
     ]
   }
 ]
