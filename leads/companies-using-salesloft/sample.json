@@ -1,5 +1,37 @@
 [
   {
+    "domain": "spotline.com",
+    "title": "Veeva Implementation and Managed Services Partner | AI Assistant",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 92,
+    "tech_spend": 191420,
+    "crawled_at": "2026-03-10T10:49:50.674131248Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Hubspot Knowledge Base",
+      "LinkedIn Insights",
+      "LinkedIn Pixel",
+      "Microdata for Google Shopping",
+      "Microsoft Ajax Content Delivery Network",
+      "SAP Ariba Network",
+      "SalesLoft",
+      "Salesforce Hosted",
+      "Twitter Ads",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "scottdanahynaylon.com",
     "title": "SDN Insurance is Now NFP | NFP",
     "business_name": "NFP (formerly SDN Insurance)",
@@ -12792,38 +12824,6 @@
       "Wix Media",
       "YouTube",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "spotline.com",
-    "title": "Veeva Implementation and Managed Services Partner | AI Assistant",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 82,
-    "tech_spend": 191420,
-    "crawled_at": "2025-11-03T02:20:39.47953252Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Hubspot Knowledge Base",
-      "LinkedIn Insights",
-      "LinkedIn Pixel",
-      "Microdata for Google Shopping",
-      "Microsoft Ajax Content Delivery Network",
-      "SAP Ariba Network",
-      "SalesLoft",
-      "Salesforce Hosted",
-      "Twitter Ads",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
