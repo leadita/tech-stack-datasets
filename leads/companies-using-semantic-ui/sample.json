@@ -1,5 +1,30 @@
 [
   {
+    "domain": "obrabiarki.biz.pl",
+    "title": "JANUS Obrabiarki numeryczne CNC, tokarki, centra obróbcze, frezarki",
+    "business_name": "",
+    "country": "POL",
+    "seo_score": 55,
+    "tech_spend": 6255,
+    "crawled_at": "2026-03-10T12:14:22.723106964Z",
+    "technologies": [
+      "AutoComplete",
+      "DoubleClick Bid Manager",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Flights Conversion Tracking",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Nginx",
+      "SALESmanago",
+      "Semantic UI",
+      "UTF-8",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "stonworks.com",
     "title": "Home - STŌNWORKS",
     "business_name": "",
@@ -14606,46 +14631,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "unityapp.ca",
-    "title": "UnityApp",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 8474,
-    "crawled_at": "2025-12-14T22:25:56.027254617Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "App Store",
-      "ArvanCloud",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Debian",
-      "ElementUI",
-      "Fireblade",
-      "Font Awesome",
-      "Foundation",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Play",
-      "NFOrce Internet",
-      "PHP",
-      "PWA",
-      "QUIC",
-      "Semantic UI",
-      "Share Link",
-      "StackPath",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
