@@ -1,5 +1,27 @@
 [
   {
+    "domain": "duanphimngancj.cgv.vn",
+    "title": "Dự án phim ngắn CJ",
+    "business_name": "",
+    "country": "THA",
+    "seo_score": 72,
+    "tech_spend": 7400,
+    "crawled_at": "2026-03-10T04:32:40.370385231Z",
+    "technologies": [
+      "Commission Junction",
+      "Fastly",
+      "LiteSpeed",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "YouTube",
+      "jQuery",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "fragrancesbycj.com",
     "title": "fragrancesbycj.com",
     "business_name": "Fragrances By CJ",
@@ -11519,28 +11541,6 @@
       "PrestaShop",
       "QUIC",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "duanphimngancj.cgv.vn",
-    "title": "Dự án phim ngắn CJ",
-    "business_name": "",
-    "country": "THA",
-    "seo_score": 72,
-    "tech_spend": 7400,
-    "crawled_at": "2025-11-03T01:38:39.519437774Z",
-    "technologies": [
-      "Commission Junction",
-      "Fastly",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "YouTube",
-      "jQuery",
-      "shadcn ui"
     ]
   }
 ]
