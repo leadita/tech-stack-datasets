@@ -1,5 +1,34 @@
 [
   {
+    "domain": "chaselobranomd.com",
+    "title": "Chase Lobrano , MD",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 75,
+    "tech_spend": 87413,
+    "crawled_at": "2026-03-10T11:45:59.804832177Z",
+    "technologies": [
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Line2",
+      "Luma Health",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "Thank You",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "cherryhealth.com",
     "title": "Cherry Health | Family Medicine, Dental, Vision, Counseling",
     "business_name": "",
@@ -638,36 +667,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "andrewgpattonmd.com",
-    "title": "Andrew G. Patton, MD",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 112413,
-    "crawled_at": "2025-11-03T03:32:39.074456085Z",
-    "technologies": [
-      "Aruba",
-      "Contento",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Luma Health",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "eLand"
     ]
   }
 ]
