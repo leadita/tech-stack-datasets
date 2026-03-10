@@ -1,5 +1,70 @@
 [
   {
+    "domain": "tinker-force.co.uk",
+    "title": "TinkerForce - Friendly Local Tech Support You Can Trust",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 15505,
+    "crawled_at": "2026-03-10T07:20:28.972350453Z",
+    "technologies": [
+      "1Password",
+      "AWS WAF Challenge",
+      "Bitwarden Passwordless",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Nginx",
+      "NordPass",
+      "PHP",
+      "Parallels Plesk Panel",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "itsophi.ee",
+    "title": "sophie - Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": "",
+    "crawled_at": "2026-03-10T05:25:26.981771491Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Bitwarden Passwordless",
+      "GZIP Module",
+      "Onion Location",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "cedarvo.com",
+    "title": "Cedarvo — Web Development, SEO & Software in Durango, Colorado",
+    "business_name": "Cedarvo",
+    "country": "ARG",
+    "seo_score": 82,
+    "tech_spend": 357,
+    "crawled_at": "2026-03-09T15:58:44.038466813Z",
+    "technologies": [
+      "1Password",
+      "Bitwarden Passwordless",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "madness3d.co.za",
     "title": "Madness3D | Quality 3D Printed Miniatures & Hobby supplies",
     "business_name": "",
@@ -232,22 +297,6 @@
       "NFOrce Internet",
       "QUIC",
       "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "itsoph.ee",
-    "title": "sophie - Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": "",
-    "crawled_at": "2026-03-06T22:34:55.842515552Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Bitwarden Passwordless",
-      "GZIP Module",
-      "Onion Location",
-      "UTF-8"
     ]
   },
   {
@@ -16303,55 +16352,6 @@
       "hCaptcha",
       "jsDelivr",
       "reCAPTCHA",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "tinker-force.co.uk",
-    "title": "TinkerForce - Friendly Local Tech Support You Can Trust",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 82,
-    "tech_spend": 15505,
-    "crawled_at": "2025-11-03T01:56:38.985987899Z",
-    "technologies": [
-      "1Password",
-      "AWS WAF Challenge",
-      "Bitwarden Passwordless",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Nginx",
-      "NordPass",
-      "PHP",
-      "Parallels Plesk Panel",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "cedarvo.com",
-    "title": "Cedarvo — Web, SEO, Software & Security in Durango",
-    "business_name": "Cedarvo",
-    "country": "ARG",
-    "seo_score": 82,
-    "tech_spend": 357,
-    "crawled_at": "2025-11-03T00:23:38.991640955Z",
-    "technologies": [
-      "1Password",
-      "Bitwarden Passwordless",
-      "Content Delivery Network",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
       "shadcn ui"
     ]
   }
