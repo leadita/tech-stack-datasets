@@ -1,5 +1,25 @@
 [
   {
+    "domain": "islandtimemedical.com",
+    "title": "Bald Head Island Medical | Island Time Medical and Wellness",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 708,
+    "crawled_at": "2026-03-09T22:11:56.70968319Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Perl",
+      "QUIC",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "leaguedeckprox.com",
     "title": "League Deck Proxies: Top Strategies for Competitive Play",
     "business_name": "",
@@ -8918,26 +8938,6 @@
       "Spiceworks",
       "Twitter Ads",
       "University or College"
-    ]
-  },
-  {
-    "domain": "islandtimemedical.com",
-    "title": "Bald Head Island Medical | Island Time Medical and Wellness",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 708,
-    "crawled_at": "2025-11-03T01:00:02.14581697Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
     ]
   }
 ]
