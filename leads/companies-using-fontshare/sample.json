@@ -1,5 +1,53 @@
 [
   {
+    "domain": "greenprints.sg",
+    "title": "We Print Green, Affordably.",
+    "business_name": "",
+    "country": "SGP",
+    "seo_score": 72,
+    "tech_spend": 15240,
+    "crawled_at": "2026-03-10T20:50:19.477900093Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Envoy",
+      "Fontshare",
+      "Google Analytics",
+      "Google Forms",
+      "Google My Business",
+      "Google Tag Manager",
+      "Headless UI",
+      "Instagram Follow Button",
+      "Next.js",
+      "Ntent",
+      "Pleroma",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "devcastle.ch",
+    "title": "Home | Devcastle",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-03-10T18:13:17.507156493Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fontshare",
+      "Google My Business",
+      "LiteSpeed",
+      "QUIC",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "newgenerationtrek.com",
     "title": "Nepal New Generation Trek & Adventure Pvt. Ltd",
     "business_name": "",
@@ -13841,65 +13889,6 @@
       "Pleroma",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "sumanth.work",
-    "title": "Sumanth - Product Designer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 1251,
-    "crawled_at": "2025-12-21T07:28:32.73410578Z",
-    "technologies": [
-      "Cloudinary",
-      "Content Delivery Network",
-      "Fontshare",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "one32solutions.com",
-    "title": "ONE32 Solutions - Marketing & E‑Commerce Agency in Dubai",
-    "business_name": "ONE32 Solutions",
-    "country": "PAK",
-    "seo_score": 77,
-    "tech_spend": 16107,
-    "crawled_at": "2025-12-21T02:34:32.7339032Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apache",
-      "Contact Form Plugin",
-      "Elementor",
-      "EmbedPress",
-      "Font Awesome",
-      "Fontshare",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Header, Footer and Blocks for Elementor",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Site Kit",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
