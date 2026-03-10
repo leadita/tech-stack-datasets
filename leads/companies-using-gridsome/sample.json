@@ -1,5 +1,111 @@
 [
   {
+    "domain": "markbucknell.com",
+    "title": "Hey I'm Mark - repo",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 3,
+    "crawled_at": "2026-03-10T14:55:22.660410326Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "uppsalasmuseer.se",
+    "title": "Start - Uppsalas Museer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 95553,
+    "crawled_at": "2026-03-10T14:17:24.443761766Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Cybot",
+      "DAV",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Retail Product Discovery",
+      "Google Tag Manager",
+      "Gridsome",
+      "Idaq",
+      "K2F",
+      "Netlify",
+      "SMC",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "thenineblock.com",
+    "title": "Real estate - 9Block",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 98098,
+    "crawled_at": "2026-03-10T08:37:39.920165497Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Idaq",
+      "Instagram Follow Button",
+      "K2F",
+      "KVH",
+      "Netlify",
+      "No-Q",
+      "PWA",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "altacapitalpartners.com",
+    "title": "Home - Alta capital partners",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 3868,
+    "crawled_at": "2026-03-09T23:53:57.891517974Z",
+    "technologies": [
+      "DAV",
+      "Financial Industry Regulatory Authority",
+      "Financial Services Guide",
+      "Google My Business",
+      "Gridsome",
+      "HostGator",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Netlify",
+      "Parallels Plesk Panel",
+      "Tailwind CSS",
+      "Visual Studio"
+    ]
+  },
+  {
     "domain": "timhurley.net",
     "title": "Tim Hurley | Designer + Engineer",
     "business_name": "",
@@ -11759,80 +11865,6 @@
       "Subversion",
       "Tailwind CSS",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "bonbox.ca",
-    "title": "Home | BonBox - Staff gifts they’ll love",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 348,
-    "crawled_at": "2025-11-11T07:08:39.319594815Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "Netlify",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "babic-cibaric.com",
-    "title": "Odvjetničko društvo BABIĆ & ČIBARIĆ",
-    "business_name": "",
-    "country": "HRV",
-    "seo_score": 45,
-    "tech_spend": 23000,
-    "crawled_at": "2025-11-11T06:44:38.918820642Z",
-    "technologies": [
-      "Gridsome",
-      "HMDG",
-      "Nginx",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "skaevt.com",
-    "title": "Forside - Skævt Reklamebureau | Full service kommunikations- og reklamebureau - Skævt Reklamebureau",
-    "business_name": "",
-    "country": "DNK",
-    "seo_score": 70,
-    "tech_spend": 973,
-    "crawled_at": "2025-11-10T17:22:36.260370555Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Cybot",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gridsome",
-      "Netlify",
-      "UTF-8",
-      "WordPress"
-    ]
-  },
-  {
-    "domain": "wendepunkt-mb.de",
-    "title": "Wendepunkt MB - Uta Friege - Wendepunkt",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": "",
-    "crawled_at": "2025-11-10T03:29:38.898838447Z",
-    "technologies": [
-      "Apache",
-      "Gridsome",
-      "Unix"
     ]
   }
 ]
