@@ -1,5 +1,28 @@
 [
   {
+    "domain": "helenecharettecourtier.com",
+    "title": "Hélène Charette | Residential and Commercial Real Estate Broker at RE/MAX Immobilier Plus",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 26000,
+    "crawled_at": "2026-03-09T14:46:38.039312226Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Didomi",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Nginx",
+      "Nuxt.js",
+      "UTF-8",
+      "Vector Internet Services"
+    ]
+  },
+  {
     "domain": "robomarkets.sc",
     "title": "Online Trading - 24/5 | Stocks, ETFs, Gold, Indices, Currencies and more - RoboMarkets",
     "business_name": "",
@@ -15661,32 +15684,6 @@
       "Instagram Follow Button",
       "Nginx",
       "Nuxt.js",
-      "UTF-8",
-      "Vector Internet Services"
-    ]
-  },
-  {
-    "domain": "nathalieperez.ca",
-    "title": "Nathalie Perez | Residential and Commercial Real Estate Broker at RE/MAX 2000",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 41000,
-    "crawled_at": "2025-11-08T20:09:42.441119088Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Didomi",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "Nuxt.js",
-      "Thank You",
       "UTF-8",
       "Vector Internet Services"
     ]
