@@ -1,5 +1,35 @@
 [
   {
+    "domain": "silenthub.in",
+    "title": "SilentHUB™ Acoustic Office Pods | Soundproof Work Booths",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 82,
+    "tech_spend": 22259,
+    "crawled_at": "2026-03-10T10:49:50.661831576Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "ElementUI",
+      "Fireblade",
+      "Font Awesome",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "UTF-8",
+      "Workplace from Meta",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "atlanticworkplace.com",
     "title": "Atlantic Workplace Investigation",
     "business_name": "Atlantic Workplace Investigations &amp; Consulting Inc. ",
@@ -7286,36 +7316,6 @@
       "Workplace from Meta",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "silenthub.in",
-    "title": "SilentHUB™ Acoustic Office Pods | Soundproof Work Booths",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 92,
-    "tech_spend": 22259,
-    "crawled_at": "2025-11-03T02:20:39.460065659Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ElementUI",
-      "Fireblade",
-      "Font Awesome",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Forms",
-      "Google Maps",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "UTF-8",
-      "Workplace from Meta",
-      "YouTube"
     ]
   }
 ]
