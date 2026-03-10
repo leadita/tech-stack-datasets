@@ -1,5 +1,30 @@
 [
   {
+    "domain": "zyto.pro",
+    "title": "Log in - ZYTO PRO",
+    "business_name": "",
+    "country": "",
+    "seo_score": 27,
+    "tech_spend": 7983,
+    "crawled_at": "2026-03-10T13:44:44.259138927Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "BetterMode",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "ElementUI",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Imgix",
+      "PWA",
+      "QUIC",
+      "Tailwind CSS",
+      "Tribe.so",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "hellojobvu.com",
     "title": "Start a Staffing Agency | Start a Career Coaching Business",
     "business_name": "",
@@ -1865,31 +1890,6 @@
       "Typeform",
       "Vector Internet Services",
       "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "zyto.pro",
-    "title": "Log in - ZYTO PRO",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 7983,
-    "crawled_at": "2025-11-03T02:38:38.999164168Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "BetterMode",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "ElementUI",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Imgix",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "Tribe.so",
-      "Vector Internet Services",
       "shadcn ui"
     ]
   }
