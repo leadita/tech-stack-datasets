@@ -1,5 +1,72 @@
 [
   {
+    "domain": "stax.ai",
+    "title": "Stax.ai | AI Retirement Plan Admin Software for TPAs",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 4152,
+    "crawled_at": "2026-03-10T18:02:12.505197696Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apollo IO",
+      "CloudFront",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Netlify",
+      "Netlify Forms",
+      "Nuxt.js",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "Vimeo",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "enfabrica.net",
+    "title": "Enfabrica",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 74963,
+    "crawled_at": "2026-03-10T02:54:05.85845614Z",
+    "technologies": [
+      "AAPT",
+      "AiNET",
+      "DAV",
+      "DC74",
+      "DatoCMS",
+      "Ethy",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Gomag",
+      "Google Analytics",
+      "Google Cloud",
+      "Google Tag Manager",
+      "HMDG",
+      "INETu",
+      "IPFS",
+      "Idaq",
+      "K2F",
+      "KVH",
+      "Line2",
+      "Nationwide Mortgage Licensing System and Registry",
+      "Next.js",
+      "No-Q",
+      "ON24",
+      "Onyx Internet",
+      "Pleroma",
+      "SMC",
+      "Silicon Valley Web Hosting",
+      "Subversion",
+      "UTF-8",
+      "Visx",
+      "Zope"
+    ]
+  },
+  {
     "domain": "maisoncarolinefischer.fr",
     "title": "Maison Caroline Fischer | Décoratrice d'intérieur à Colmar, Caroline Fischer",
     "business_name": "",
@@ -2261,29 +2328,6 @@
       "SMC",
       "Styled Components",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "staxaijobs.co",
-    "title": "Stax.ai | AI Retirement Plan Admin Software for TPAs",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 3684,
-    "crawled_at": "2026-02-16T10:59:12.709851559Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apollo IO",
-      "CloudFront",
-      "Content Delivery Network",
-      "DatoCMS",
-      "Netlify",
-      "Nuxt.js",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vimeo",
-      "YouTube",
-      "shadcn ui"
     ]
   },
   {
@@ -14244,30 +14288,6 @@
       "Tailwind CSS",
       "UTF-8",
       "University or College",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "icoietf.com",
-    "title": "ICOI - Bitwise COIN Option Income Strategy ETF",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 59628,
-    "crawled_at": "2025-12-03T23:02:57.204042288Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare Turnstile",
-      "Content Delivery Network",
-      "DatoCMS",
-      "Next.js",
-      "Pleroma",
-      "Prospective",
-      "QUIC",
-      "Radix UI",
-      "SMC",
-      "Twitter Ads",
-      "UTF-8",
       "Vercel"
     ]
   }
