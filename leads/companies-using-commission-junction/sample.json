@@ -1,5 +1,39 @@
 [
   {
+    "domain": "soaphoria.cz",
+    "title": "Natural & Organic Cosmetics",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 92448,
+    "crawled_at": "2026-03-11T01:30:45.307813561Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "AutoComplete",
+      "Commission Junction",
+      "DAV",
+      "DC74",
+      "EasyMe",
+      "Ektron",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Microsoft Clarity",
+      "OneSignal",
+      "OpenResty",
+      "PHP",
+      "Perl",
+      "PrestaShop",
+      "QUIC",
+      "The Fresh",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "duanphimngancj.cgv.vn",
     "title": "Dự án phim ngắn CJ",
     "business_name": "",
@@ -11509,38 +11543,6 @@
       "UTF-8",
       "Vine Embed",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "soaphoria.cz",
-    "title": "Natural & Organic Cosmetics",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 62448,
-    "crawled_at": "2025-11-03T03:53:38.955394189Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "AutoComplete",
-      "Commission Junction",
-      "DAV",
-      "DC74",
-      "EasyMe",
-      "Ektron",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "OneSignal",
-      "OpenResty",
-      "PHP",
-      "Perl",
-      "PrestaShop",
-      "QUIC",
-      "UTF-8"
     ]
   }
 ]
