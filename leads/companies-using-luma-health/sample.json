@@ -1,14 +1,15 @@
 [
   {
-    "domain": "chaselobranomd.com",
-    "title": "Chase Lobrano , MD",
+    "domain": "andrewgpattonmd.com",
+    "title": "Andrew G. Patton, MD",
     "business_name": "",
     "country": "USA",
-    "seo_score": 75,
-    "tech_spend": 87413,
-    "crawled_at": "2026-03-10T11:45:59.804832177Z",
+    "seo_score": 80,
+    "tech_spend": 112413,
+    "crawled_at": "2026-03-10T22:19:35.858259927Z",
     "technologies": [
       "Aruba",
+      "Contento",
       "Express",
       "GZIP Module",
       "Google",
@@ -22,9 +23,9 @@
       "QUIC",
       "SiteW",
       "Squarespace",
-      "Thank You",
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
+      "YouTube",
       "eLand"
     ]
   },
