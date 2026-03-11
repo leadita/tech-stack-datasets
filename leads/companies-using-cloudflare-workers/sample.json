@@ -1,5 +1,28 @@
 [
   {
+    "domain": "hetsuthar.tech",
+    "title": "Portfolio - Het Suthar",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 60,
+    "crawled_at": "2026-03-11T08:31:47.617743159Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "Next.js",
+      "Nginx",
+      "Pleroma",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "qnury.es",
     "title": "Qnury.e's",
     "business_name": "",
@@ -9353,30 +9376,6 @@
       "Woo Themes",
       "WordPress",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "hetsuthar.codes",
-    "title": "Portfolio - Het Suthar",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 120,
-    "crawled_at": "2025-12-10T11:55:56.016183716Z",
-    "technologies": [
-      "Amazon",
-      "Cloudflare",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Next.js",
-      "Nginx",
-      "Pleroma",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {
