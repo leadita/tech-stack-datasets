@@ -1,5 +1,38 @@
 [
   {
+    "domain": "alphadoggroomingsalon.co.uk",
+    "title": "Dog Grooming Salon, Lurgan | Services & Courses | Alpha Dog Grooming Salon",
+    "business_name": "Academy @ Alpha",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 11149,
+    "crawled_at": "2026-03-11T06:12:10.40481601Z",
+    "technologies": [
+      "Alternate Protocol",
+      "BLR",
+      "Buffer",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Line2",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "Photo Gallery by FooGallery",
+      "QUIC",
+      "QUIC.cloud",
+      "Tailwind CSS",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "headachescarpaltunnelfibromyalgia.com",
     "title": "Headaches, Carpal Tunnel Syndrom & Fibromyalgia - Headaches, Carpal Tunnel Syndrome & Fibromyalgia",
     "business_name": "",
@@ -7983,39 +8016,6 @@
       "WordPress Multisite",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "alphadoggroomingsalon.co.uk",
-    "title": "Dog Grooming Salon, Lurgan | Services & Courses | Alpha Dog Grooming Salon",
-    "business_name": "Academy @ Alpha",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 11149,
-    "crawled_at": "2025-11-03T04:23:40.324924225Z",
-    "technologies": [
-      "Alternate Protocol",
-      "BLR",
-      "Buffer",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Line2",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "Photo Gallery by FooGallery",
-      "QUIC",
-      "QUIC.cloud",
-      "Tailwind CSS",
-      "Tumblr",
-      "Twitter Ads",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite"
     ]
   }
 ]
