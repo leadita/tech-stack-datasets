@@ -1,5 +1,28 @@
 [
   {
+    "domain": "jbpm.org",
+    "title": "Apache KIE (incubating) | Apache KIE (incubating)",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 1800,
+    "crawled_at": "2026-03-11T18:49:17.917695289Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Perl",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "Vector Internet Services"
+    ]
+  },
+  {
     "domain": "cwcloud.tech",
     "title": "Home | CWCloud",
     "business_name": "",
@@ -4759,29 +4782,6 @@
       "Tailwind CSS",
       "Ubuntu",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "optaplanner.com",
-    "title": "Apache KIE (incubating) | Apache KIE (incubating)",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 1800,
-    "crawled_at": "2025-12-26T00:28:38.350404862Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Content Delivery Network",
-      "Corporate Governance and Regulatory Compliance",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Perl",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "Vector Internet Services"
     ]
   },
   {

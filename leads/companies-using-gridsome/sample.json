@@ -1,5 +1,78 @@
 [
   {
+    "domain": "incoterm.nl",
+    "title": "Incoterms - alles wat je moet weten",
+    "business_name": "incoterm.nl",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-03-11T21:15:27.828580392Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Google My Business",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "airgrid.io",
+    "title": "AirGrid | Home",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 67,
+    "tech_spend": 90798,
+    "crawled_at": "2026-03-11T17:40:00.303963493Z",
+    "technologies": [
+      "Apyl",
+      "CCSI",
+      "Content Delivery Network",
+      "DAV",
+      "Financial Services Guide",
+      "GitHub Hosting",
+      "Gridsome",
+      "IPFS",
+      "KVH",
+      "Medium",
+      "Netlify",
+      "No-Q",
+      "Perl",
+      "QUIC",
+      "SMC",
+      "Subversion",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "loveconquersallgam.es",
+    "title": "Love Conquers All games - Love Conquers All Games",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 82728,
+    "crawled_at": "2026-03-11T07:45:49.151026089Z",
+    "technologies": [
+      "Adult Content",
+      "BLR",
+      "Content Delivery Network",
+      "Financial Services Guide",
+      "Gridsome",
+      "Idaq",
+      "KVH",
+      "Netlify",
+      "SMC",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "itch.io"
+    ]
+  },
+  {
     "domain": "markbucknell.com",
     "title": "Hey I'm Mark - repo",
     "business_name": "",
@@ -11789,82 +11862,6 @@
       "Instagram Follow Button",
       "QUIC",
       "Twitter Ads"
-    ]
-  },
-  {
-    "domain": "gosuperscript.com",
-    "title": "Superscript business insurance",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 24805,
-    "crawled_at": "2025-11-11T08:53:38.981296774Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Better Lead Generation Services",
-      "Calendly",
-      "Cloudinary",
-      "Content Delivery Network",
-      "Cybot",
-      "DAV",
-      "Fireblade",
-      "Google Analytics",
-      "Google My Business",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Pico CSS",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "arteca.rs",
-    "title": "Hi, It's nice to meet you | Milos-Vujinic.dev",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 228,
-    "crawled_at": "2025-11-11T08:26:39.008210779Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "Netlify",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "wisle.fi",
-    "title": "Wisle APP | Wisle - Sovellus",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 11398,
-    "crawled_at": "2025-11-11T08:14:38.894282009Z",
-    "technologies": [
-      "Active Campaign",
-      "App Store",
-      "Bulma",
-      "DAV",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google My Business",
-      "Google Play",
-      "Gridsome",
-      "Idaq",
-      "Instagram Follow Button",
-      "K2F",
-      "KVH",
-      "Nginx",
-      "Subversion",
-      "Tailwind CSS",
-      "jQuery"
     ]
   }
 ]
