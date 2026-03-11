@@ -1,12 +1,12 @@
 [
   {
-    "domain": "proposalplannerlasvegas.com",
+    "domain": "proposalplannermiami.com",
     "title": "Event Planner Worldwide | Amber Walker Events",
     "business_name": "Amber Walker Events",
     "country": "CAN",
-    "seo_score": 77,
+    "seo_score": 82,
     "tech_spend": 142803,
-    "crawled_at": "2026-03-06T17:24:58.97363034Z",
+    "crawled_at": "2026-03-11T06:52:18.945644857Z",
     "technologies": [
       "123FormBuilder",
       "AWS WAF Challenge",
@@ -41,7 +41,35 @@
       "WP Booking Calendar",
       "Wix",
       "Wix Media",
+      "eLand",
       "mlcom"
+    ]
+  },
+  {
+    "domain": "twopointzero.co",
+    "title": "Two Point Zero – IT Support Company in Auckland",
+    "business_name": "",
+    "country": "NZL",
+    "seo_score": 55,
+    "tech_spend": 2519,
+    "crawled_at": "2026-03-10T18:13:17.496740261Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Contact Form Plugin",
+      "EmbedPress",
+      "Flatsome",
+      "FreshBooks",
+      "Google My Business",
+      "IcoMoon",
+      "Nginx",
+      "Open Dental",
+      "PHP",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
     ]
   },
   {
@@ -3299,36 +3327,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "twopointzero.co",
-    "title": "Two Point Zero – IT Support Company in Auckland",
-    "business_name": "",
-    "country": "NZL",
-    "seo_score": 65,
-    "tech_spend": 3163,
-    "crawled_at": "2025-11-03T03:07:44.384752353Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "Flatsome",
-      "FreshBooks",
-      "Google My Business",
-      "IcoMoon",
-      "Nginx",
-      "Open Dental",
-      "PHP",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "Woo Themes",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]

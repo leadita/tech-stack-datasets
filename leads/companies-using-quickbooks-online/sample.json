@@ -1,5 +1,26 @@
 [
   {
+    "domain": "dioratiki.com",
+    "title": "Home - Dioratiki IT Solutions Ltd",
+    "business_name": "",
+    "country": "CYP",
+    "seo_score": 77,
+    "tech_spend": 1064,
+    "crawled_at": "2026-03-11T00:42:46.261984566Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "QuickBooks Online",
+      "StatCounter",
+      "Tailwind CSS",
+      "UK Cookie Consent",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "firstclasstaxsolutions.com",
     "title": "Home - First Class Tax Solutions",
     "business_name": "",
@@ -8219,27 +8240,6 @@
       "UTF-8",
       "Zoom Video Conferencing",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "dioratiki.com",
-    "title": "Home - Dioratiki IT Solutions Ltd",
-    "business_name": "",
-    "country": "CYP",
-    "seo_score": 77,
-    "tech_spend": 1064,
-    "crawled_at": "2025-11-03T03:47:47.463363119Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "QuickBooks Online",
-      "StatCounter",
-      "Tailwind CSS",
-      "UK Cookie Consent",
-      "jQuery"
     ]
   }
 ]
