@@ -1,5 +1,32 @@
 [
   {
+    "domain": "douxstore.com",
+    "title": "Doux Brazil Store - Biquíni, Maiô e Moda Praia. | Doux",
+    "business_name": "",
+    "country": "BRA",
+    "seo_score": 67,
+    "tech_spend": 81428,
+    "crawled_at": "2026-03-11T04:49:28.50124693Z",
+    "technologies": [
+      "Azion",
+      "Envoy",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Istio",
+      "Parcel",
+      "Plausible Analytics",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "VTEX Personalization",
+      "WhatsApp Sharing",
+      "YouTube",
+      "deco.cx",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "lojasoficiaisdoflamengo.com.br",
     "title": "Loja Oficial do Flamengo",
     "business_name": "",
@@ -35,33 +62,6 @@
       "Yourviews",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "douxbrazil.com",
-    "title": "Doux Brazil Store - Biquíni, Maiô e Moda Praia. | Doux",
-    "business_name": "",
-    "country": "BRA",
-    "seo_score": 67,
-    "tech_spend": 81428,
-    "crawled_at": "2026-02-27T11:37:01.158931339Z",
-    "technologies": [
-      "Azion",
-      "Envoy",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Istio",
-      "Parcel",
-      "Plausible Analytics",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "VTEX Personalization",
-      "WhatsApp Sharing",
-      "YouTube",
-      "deco.cx",
-      "shadcn ui"
     ]
   },
   {
