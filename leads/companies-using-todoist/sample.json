@@ -1832,43 +1832,5 @@
       "eLand",
       "monday.com"
     ]
-  },
-  {
-    "domain": "joaobarros.dev",
-    "title": "João Barros",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 459,
-    "crawled_at": "2025-11-03T05:47:38.990842247Z",
-    "technologies": [
-      "1Password",
-      "AWS WAF Challenge",
-      "App Store",
-      "Apture Linking Platform",
-      "Bento Now",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "DAV",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google My Business",
-      "Next.js",
-      "Notion",
-      "Ntent",
-      "Oracle Cloud",
-      "Pleroma",
-      "Python",
-      "Subversion",
-      "Todoist",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
   }
 ]

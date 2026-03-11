@@ -15107,33 +15107,5 @@
       "Vector Internet Services",
       "Zeald"
     ]
-  },
-  {
-    "domain": "committedhc.com",
-    "title": "Commited Home Care : Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 122727,
-    "crawled_at": "2025-11-03T04:25:31.002846662Z",
-    "technologies": [
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google My Business",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "PHP",
-      "QUIC",
-      "Salesforce Experience Cloud",
-      "Slider Revolution",
-      "Smartsheet",
-      "Twitter Ads",
-      "UTF-8",
-      "jQuery",
-      "reCAPTCHA"
-    ]
   }
 ]
