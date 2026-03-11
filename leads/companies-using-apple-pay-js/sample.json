@@ -1,5 +1,38 @@
 [
   {
+    "domain": "heavenonit.com",
+    "title": "Heavenonit",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 8000,
+    "crawled_at": "2026-03-10T13:14:22.024445307Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Apple Pay JS",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Express",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Fireblade",
+      "GZIP Module",
+      "GetResponse",
+      "Giropay",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PayPal",
+      "PayPal Adaptive Payments",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Underscores",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "hedgesdirect.co.uk",
     "title": "Hedges Direct: Hedges Online | UK's Leading Specialists",
     "business_name": "Hedges Direct",
@@ -9440,33 +9473,6 @@
       "Zonos",
       "eLand",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "heavenonit.com",
-    "title": "Heavenonit",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 1132,
-    "crawled_at": "2025-11-03T02:35:38.921006415Z",
-    "technologies": [
-      "Apple Pay JS",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Express",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "GZIP Module",
-      "GetResponse",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Underscores",
-      "shadcn ui"
     ]
   }
 ]
