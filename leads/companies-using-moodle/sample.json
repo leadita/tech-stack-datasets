@@ -1,5 +1,30 @@
 [
   {
+    "domain": "olota.org",
+    "title": "Home | OLOTA",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 29040,
+    "crawled_at": "2026-03-11T07:38:42.06776866Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Moodle",
+      "NFOrce Internet",
+      "PHP",
+      "Tailwind CSS",
+      "Totara",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "appcradle.dev",
     "title": "Welcome to the moodle of appCradle!",
     "business_name": "",
@@ -1222,30 +1247,6 @@
       "NFOrce Internet",
       "Nginx",
       "PHP",
-      "Totara",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "olota.org",
-    "title": "Home | OLOTA",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 29040,
-    "crawled_at": "2025-11-03T04:32:39.430598435Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "Tailwind CSS",
       "Totara",
       "UTF-8",
       "jsDelivr"
