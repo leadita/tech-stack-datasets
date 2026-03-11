@@ -1,5 +1,54 @@
 [
   {
+    "domain": "danygiroux.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 67,
+    "tech_spend": 9579,
+    "crawled_at": "2026-03-11T12:12:42.894769329Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cornerstone",
+      "Didomi",
+      "Elfsight",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nginx",
+      "Nuxt.js",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "mesdevisgratuits.be",
+    "title": "Mesdevisgratuits.be",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 6000,
+    "crawled_at": "2026-03-10T21:20:26.392980381Z",
+    "technologies": [
+      "Didomi",
+      "GDPR Consent Management Platform",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Nginx",
+      "PHP",
+      "Subversion",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "helenecharettecourtier.com",
     "title": "Hélène Charette | Residential and Commercial Real Estate Broker at RE/MAX Immobilier Plus",
     "business_name": "",
@@ -15638,54 +15687,6 @@
       "Nginx",
       "Nuxt.js",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "karimzouanat.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 67,
-    "tech_spend": 36000,
-    "crawled_at": "2025-11-09T01:32:38.879529349Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Didomi",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Nginx",
-      "Nuxt.js",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "ahlemcheour.com",
-    "title": "Ahlem Cheour | Residential and Commercial Real Estate Broker at RE/MAX Platine",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 41000,
-    "crawled_at": "2025-11-08T20:28:11.177156044Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Didomi",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "Nuxt.js",
-      "UTF-8",
-      "Vector Internet Services"
     ]
   }
 ]
