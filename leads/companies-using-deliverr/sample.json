@@ -1,5 +1,32 @@
 [
   {
+    "domain": "h2obotte.com",
+    "title": "BPA Free Plastic Water Bottles | Eco Friendly Water Bottles – H2OBotté",
+    "business_name": "H2OBotté",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 11576,
+    "crawled_at": "2026-03-11T09:26:40.080967387Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Deliverr",
+      "Fastly",
+      "Google Related Website Sites",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Shipping Rates Calculator",
+      "Shopify",
+      "Shopify Collabs",
+      "Tailwind CSS",
+      "UTF-8",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "unifiedpieces.com",
     "title": "Unified Pieces | Black-Owned Jigsaw Puzzle Company",
     "business_name": "Unified Pieces",
@@ -6680,33 +6707,6 @@
       "UTF-8",
       "Zipify",
       "accessiBe",
-      "hCaptcha",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "h2obotte.com",
-    "title": "BPA Free Plastic Water Bottles | Eco Friendly Water Bottles – H2OBotté",
-    "business_name": "H2OBotté",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 11576,
-    "crawled_at": "2025-11-03T04:44:38.90664703Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Deliverr",
-      "Fastly",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Shipping Rates Calculator",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "UTF-8",
       "hCaptcha",
       "reCAPTCHA"
     ]
