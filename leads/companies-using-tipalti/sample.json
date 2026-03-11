@@ -1,12 +1,12 @@
 [
   {
-    "domain": "gdconference.com",
+    "domain": "gdceurope.co.uk",
     "title": "GDC Festival of Gaming",
     "business_name": "",
     "country": "VEN",
-    "seo_score": 82,
+    "seo_score": 77,
     "tech_spend": 352755,
-    "crawled_at": "2026-02-24T11:18:18.602660667Z",
+    "crawled_at": "2026-03-10T23:37:15.730116681Z",
     "technologies": [
       "501c3 Status Nonprofit",
       "AWS WAF Challenge",
@@ -24,6 +24,7 @@
       "Content Delivery Network",
       "Corporate Governance and Regulatory Compliance",
       "DAV",
+      "Engage",
       "Express",
       "Fastly",
       "Fireblade",
