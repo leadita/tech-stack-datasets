@@ -1,6 +1,6 @@
 # Companies Using Netcore (Live Dataset 2026)
 
-This folder contains an active list of 10 companies using **Netcore**. 
+This folder contains an active list of 11 companies using **Netcore**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 10
+- **Total Leads:** 11
 - **Verified:** Yes
-- **Last Updated:** 2026-03-10 19:45 UTC
+- **Last Updated:** 2026-03-11 19:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **10+** companies using Netcore.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **11+** companies using Netcore.
 
 [**⚡ Unlock the Full Netcore List with Contact Details**](https://leadita.com/leads/companies-using-netcore)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-10 19:45 UTC*
+*Last updated: 2026-03-11 19:45 UTC*
 *Data source: Leadita Technographic Intelligence*
