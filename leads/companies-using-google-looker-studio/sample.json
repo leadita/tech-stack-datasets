@@ -1,5 +1,39 @@
 [
   {
+    "domain": "radstockwestfield.org.uk",
+    "title": "Big Local | my Radstock | my Westfield - Making The Most of £1m",
+    "business_name": "Big Local | my Radstock | my Westfield",
+    "country": "GBR",
+    "seo_score": 92,
+    "tech_spend": 756,
+    "crawled_at": "2026-03-10T19:29:14.822704691Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Bulma",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Looker Studio",
+      "Google My Business",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Schema Plugin",
+      "Termly",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "WP Super Cache",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery Updater"
+    ]
+  },
+  {
     "domain": "4careleavers.org",
     "title": "4careleavers – For Care Leavers",
     "business_name": "",
@@ -5608,41 +5642,6 @@
       "WordPress Multisite",
       "jQuery",
       "wpDataTables"
-    ]
-  },
-  {
-    "domain": "radstockwestfield.org.uk",
-    "title": "Big Local | my Radstock | my Westfield - Making The Most of £1m",
-    "business_name": "Big Local | my Radstock | my Westfield",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 795,
-    "crawled_at": "2025-11-03T03:15:12.061713258Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Bulma",
-      "Coming Soon Page",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Looker Studio",
-      "Google My Business",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Schema Plugin",
-      "Termly",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WP Super Cache",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery Updater"
     ]
   }
 ]
