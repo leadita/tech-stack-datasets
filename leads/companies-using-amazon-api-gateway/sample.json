@@ -1,5 +1,38 @@
 [
   {
+    "domain": "fishingwithcam.com",
+    "title": "Guided Minnesota Fishing Charters on Scenic Lake Elmo",
+    "business_name": "Fishing with Cam",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 35042,
+    "crawled_at": "2026-03-11T11:38:28.179053279Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon",
+      "Amazon API Gateway",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Content Delivery Network",
+      "DoubleClick Bid Manager",
+      "Fastly",
+      "GZIP Module",
+      "Heap",
+      "Hubspot",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Stripe",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "motiva-implants.be",
     "title": "Breast Augmentation – Safe Breast Enlargements | Motiva®",
     "business_name": "Establishment Labs",
@@ -17513,39 +17546,6 @@
       "QUIC",
       "Stripe",
       "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "jasonsfishingadventuresfl.com",
-    "title": "Florida Fishing Charters | Jason’s Fishing Adventures",
-    "business_name": "Jason&apos;s Fishing Adventures",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 65042,
-    "crawled_at": "2025-11-18T21:03:19.439133838Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon",
-      "Amazon API Gateway",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Content Delivery Network",
-      "DoubleClick Bid Manager",
-      "Fastly",
-      "GZIP Module",
-      "Heap",
-      "Hubspot",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Stripe",
-      "Tailwind CSS",
-      "The Fresh",
       "UTF-8"
     ]
   }
