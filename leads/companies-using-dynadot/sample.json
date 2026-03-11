@@ -1,5 +1,83 @@
 [
   {
+    "domain": "pr-typo3.com",
+    "title": "WEB Studio: multi-functional solutions for websites | PR-TYPO3.com",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 18547,
+    "crawled_at": "2026-03-11T13:57:19.49305179Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Column Shortcodes",
+      "Dynadot",
+      "Eber",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Fireblade",
+      "GZIP Module",
+      "GetResponse",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Slider Revolution",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "digiyear.com",
+    "title": "An EMDN - Digi Year, Digital Calendar Innovation Technology Smart Planning Productivity Time Management Automation Future Trends",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 135,
+    "crawled_at": "2026-03-11T03:59:27.906320944Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "herbcornerfl.com",
+    "title": "The Herb Corner",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 2135,
+    "crawled_at": "2026-03-10T22:56:13.037115434Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "BLR",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "stillclarity.com",
     "title": "STILL CLARITY",
     "business_name": "",
@@ -16,28 +94,6 @@
       "GZIP Module",
       "Instagram Follow Button",
       "Microdata for Google Shopping",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "archivecar.com",
-    "title": "An EMDN - Archive Car, Vehicle Storage Classic Cars Automobile Collection Car Preservation Automotive Archives Car History Rare Vehicles Restoration Showcase",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 135,
-    "crawled_at": "2026-03-09T16:25:23.979318118Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microsoft Clarity",
       "UTF-8"
     ]
   },
