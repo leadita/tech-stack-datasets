@@ -1,5 +1,27 @@
 [
   {
+    "domain": "ar-philipot.fr",
+    "title": "ar-philipot.fr",
+    "business_name": "ar-philipot.fr",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 148,
+    "crawled_at": "2026-03-11T08:10:59.454948861Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Angular",
+      "CoreUI",
+      "EasyEngine",
+      "GZIP Module",
+      "Mermaid",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "fayact.org",
     "title": "Fayette Accountability",
     "business_name": "Fayette Accountability",
@@ -7094,28 +7116,6 @@
       "GZIP Module",
       "GitHub Hosting",
       "Microdata for Google Shopping",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "ar-philipot.fr",
-    "title": "ar-philipot.fr",
-    "business_name": "ar-philipot.fr",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 148,
-    "crawled_at": "2025-11-03T04:35:39.441142631Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Angular",
-      "CoreUI",
-      "EasyEngine",
-      "GZIP Module",
-      "Mermaid",
-      "Microdata for Google Shopping",
-      "Nginx",
       "Publii",
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
