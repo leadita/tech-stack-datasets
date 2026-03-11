@@ -1,5 +1,37 @@
 [
   {
+    "domain": "future2green.com",
+    "title": "Tomoshop.nl | The #1 in parts for Tomos moped!",
+    "business_name": "Tomoshop.nl",
+    "country": "ZAF",
+    "seo_score": 82,
+    "tech_spend": 79616,
+    "crawled_at": "2026-03-11T02:30:15.836079148Z",
+    "technologies": [
+      "Arastta",
+      "Doofinder",
+      "Fireblade",
+      "FreeCSSTemplates",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "OS Class",
+      "QUIC",
+      "SALESmanago",
+      "SMC",
+      "Tailwind CSS",
+      "Trusted Shops",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "starlingsofswaffham.co.uk",
     "title": "Florist and Fruiterer in Norfolk - Starlings of Swaffham",
     "business_name": "Starlings of Swaffham",
@@ -22689,38 +22721,6 @@
       "UTF-8",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "tomoshop.de",
-    "title": "Tomoshop.nl | The #1 in parts for Tomos moped!",
-    "business_name": "Tomoshop.nl",
-    "country": "ZAF",
-    "seo_score": 77,
-    "tech_spend": 79616,
-    "crawled_at": "2025-12-16T13:40:32.746375632Z",
-    "technologies": [
-      "Arastta",
-      "Doofinder",
-      "Fireblade",
-      "FreeCSSTemplates",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "OS Class",
-      "QUIC",
-      "SALESmanago",
-      "SMC",
-      "Tailwind CSS",
-      "Trusted Shops",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "YouTube",
-      "jQuery"
     ]
   },
   {
