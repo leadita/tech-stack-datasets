@@ -1,6 +1,6 @@
 # Companies Using Tidio (Live Dataset 2026)
 
-This folder contains an active list of 20,852 companies using **Tidio**. 
+This folder contains an active list of 20,833 companies using **Tidio**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 20,852
+- **Total Leads:** 20,833
 - **Verified:** Yes
-- **Last Updated:** 2026-03-10 15:30 UTC
+- **Last Updated:** 2026-03-11 15:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **20,852+** companies using Tidio.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **20,833+** companies using Tidio.
 
 [**⚡ Unlock the Full Tidio List with Contact Details**](https://leadita.com/leads/companies-using-tidio)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-10 15:30 UTC*
+*Last updated: 2026-03-11 15:30 UTC*
 *Data source: Leadita Technographic Intelligence*
