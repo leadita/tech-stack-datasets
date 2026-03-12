@@ -1,5 +1,42 @@
 [
   {
+    "domain": "trimedx.com",
+    "title": "Unlock the Full Potential of Your Clinical Assets | TRIMEDX",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 299207,
+    "crawled_at": "2026-03-11T21:15:27.841317395Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "DAV",
+      "DoubleClick Bid Manager",
+      "Facebook Reseller",
+      "Fastly",
+      "Financial Services Guide",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google My Business",
+      "Google Tag Manager",
+      "Hubspot Knowledge Base",
+      "IcoMoon",
+      "On The Map",
+      "Twitter Ads",
+      "UTF-8",
+      "Workday",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "myhomesteadvet.com",
     "title": "Homestead Animal Hospital | Best Veterinary Care in FL | 24/...",
     "business_name": "",
@@ -19294,35 +19331,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Workday"
-    ]
-  },
-  {
-    "domain": "mitekmodular.com",
-    "title": "MiTek Modular | Making Modular Construction Mainstream",
-    "business_name": "MiTek",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 261464,
-    "crawled_at": "2025-12-05T05:45:25.037196907Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gravity Forms",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Piwik PRO",
-      "Soliloquy for WordPress",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "Workday",
-      "YouTube",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
