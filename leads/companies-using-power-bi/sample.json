@@ -1,5 +1,34 @@
 [
   {
+    "domain": "bpanz.com",
+    "title": "BPA Analytics",
+    "business_name": "BPA Analytics Pty Ltd",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 4613,
+    "crawled_at": "2026-03-11T13:01:26.738704048Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Power BI",
+      "QUIC",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "legal-bi.co",
     "title": "Home - Legal BI",
     "business_name": "AWordPressSite",
@@ -17068,35 +17097,6 @@
       "QUIC",
       "University or College",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "bpanz.com.au",
-    "title": "BPA Analytics",
-    "business_name": "BPA Analytics Pty Ltd",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 4613,
-    "crawled_at": "2025-11-14T18:50:05.014236623Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Power BI",
-      "QUIC",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   },
   {
