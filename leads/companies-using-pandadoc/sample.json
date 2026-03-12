@@ -2124,45 +2124,5 @@
       "YouTube",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "gigiaesthetics.us",
-    "title": "GiGi Aesthetics",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 75,
-    "tech_spend": 17446,
-    "crawled_at": "2025-11-03T08:32:58.969381955Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Better Lead Generation Services",
-      "CheryFramework",
-      "Cloudflare",
-      "CoBlocks",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Ethy",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "GoDaddy",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Kallyas",
-      "PHP",
-      "PandaDoc",
-      "Share Link",
-      "Square",
-      "Subversion",
-      "Theme In WP",
-      "UTF-8",
-      "Underscores",
-      "University or College",
-      "Wangsu",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
