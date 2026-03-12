@@ -1,5 +1,47 @@
 [
   {
+    "domain": "haru.zone",
+    "title": "Genna's Gentle Blog",
+    "business_name": "Genna's Gentle Blog",
+    "country": "GBR",
+    "seo_score": 70,
+    "tech_spend": 149,
+    "crawled_at": "2026-03-12T01:12:53.025411155Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "Perl",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "aparajitharadhya.com",
+    "title": "Aparajith Aradhya",
+    "business_name": "Aparajith Aradhya",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 748,
+    "crawled_at": "2026-03-11T21:45:03.941555954Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "CoreUI",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "ar-philipot.fr",
     "title": "ar-philipot.fr",
     "business_name": "ar-philipot.fr",
@@ -7057,68 +7099,6 @@
       "Wysija",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "unique.sch.ng",
-    "title": "Welcome Home | Unique Foundation Schools",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 588,
-    "crawled_at": "2025-11-03T06:55:55.044027681Z",
-    "technologies": [
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Oddle",
-      "Publii",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "haru.zone",
-    "title": "Genna's Gentle Blog",
-    "business_name": "Genna's Gentle Blog",
-    "country": "GBR",
-    "seo_score": 70,
-    "tech_spend": 149,
-    "crawled_at": "2025-11-03T06:26:25.422659042Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "Perl",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "aparajitharadhya.com",
-    "title": "Aparajith Aradhya",
-    "business_name": "Aparajith Aradhya",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 748,
-    "crawled_at": "2025-11-03T06:02:38.959499706Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "CoreUI",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   }
 ]
