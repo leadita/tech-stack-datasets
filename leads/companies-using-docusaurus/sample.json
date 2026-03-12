@@ -1,12 +1,37 @@
 [
   {
-    "domain": "jbpm.org",
+    "domain": "austen.info",
+    "title": "Austen Stone",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 663,
+    "crawled_at": "2026-03-12T07:00:12.647218742Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Ntent",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "optaplanner.org",
     "title": "Apache KIE (incubating) | Apache KIE (incubating)",
     "business_name": "",
     "country": "",
     "seo_score": 52,
     "tech_spend": 1800,
-    "crawled_at": "2026-03-11T18:49:17.917695289Z",
+    "crawled_at": "2026-03-12T03:58:38.039603293Z",
     "technologies": [
       "Alternate Protocol",
       "Apache",
@@ -12439,68 +12464,6 @@
       "YouTube",
       "nShift",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "austen.info",
-    "title": "Austen Stone",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 663,
-    "crawled_at": "2025-11-03T07:03:29.183464025Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Perl",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "findthe.tools",
-    "title": "Find the best tools for your job",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 87238,
-    "crawled_at": "2025-11-03T06:37:56.295256493Z",
-    "technologies": [
-      "AI Log",
-      "AWS WAF Challenge",
-      "Apache",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Express",
-      "Fireblade",
-      "Framer Sites",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Hugging Face Space",
-      "NFOrce Internet",
-      "Next.js",
-      "Ntent",
-      "Product Hunt",
-      "Python",
-      "QUIC",
-      "SMC",
-      "Sanity",
-      "Tailwind CSS",
-      "Tally",
-      "Tilda",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
