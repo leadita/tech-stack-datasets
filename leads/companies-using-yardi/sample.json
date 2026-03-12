@@ -1,22 +1,20 @@
 [
   {
-    "domain": "realreitconference.com",
-    "title": "RealREIT",
+    "domain": "montrealresl.com",
+    "title": "Montréal Real Estate Strategy & Leasing Conference",
     "business_name": "",
     "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 257730,
-    "crawled_at": "2026-03-11T18:59:07.035350166Z",
+    "seo_score": 70,
+    "tech_spend": 257283,
+    "crawled_at": "2026-03-12T05:57:41.585620935Z",
     "technologies": [
       "501c3 Status Nonprofit",
       "AWS WAF Challenge",
       "Alternate Protocol",
       "Amazon WAF Blocked",
-      "Angular",
       "Apture Linking Platform",
       "Aruba",
       "CDN JS",
-      "CM Commerce",
       "Cloudflare",
       "Cloudflare CDN",
       "Coming Soon Page",
@@ -26,7 +24,6 @@
       "Express",
       "Fastly",
       "Fireblade",
-      "Font Awesome",
       "GDPR Consent Management Platform",
       "GZIP Module",
       "GetResponse",
@@ -54,7 +51,6 @@
       "VWO Engage",
       "Visual Website Optimizer",
       "Yardi Systems",
-      "YouTube",
       "eLand",
       "eShow"
     ]
