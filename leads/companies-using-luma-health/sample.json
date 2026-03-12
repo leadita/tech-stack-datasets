@@ -629,45 +629,5 @@
       "jQuery",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "pacificarthritis.com",
-    "title": "Pacific Arthritis Care Center | Los Angeles Rheumatologist",
-    "business_name": "Pacific Arthritis Care Center",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 34748,
-    "crawled_at": "2025-11-03T07:14:38.9216162Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Express",
-      "Google Analytics",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Hello Elementor",
-      "Kylos",
-      "Luma Health",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "O360",
-      "PHP",
-      "QUIC",
-      "Schema Plugin",
-      "Sitelinks Search Box",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "Yelp Badge",
-      "YouTube",
-      "jQuery",
-      "reCAPTCHA"
-    ]
   }
 ]
