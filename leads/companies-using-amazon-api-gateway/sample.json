@@ -1,5 +1,37 @@
 [
   {
+    "domain": "samsquatchoutfitter.com",
+    "title": "Wisconsin Fishing Charters | Trout Lake Trips",
+    "business_name": "Samsquatch Outfitters",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 20042,
+    "crawled_at": "2026-03-11T13:40:36.376700236Z",
+    "technologies": [
+      "Amazon",
+      "Amazon API Gateway",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Content Delivery Network",
+      "DoubleClick Bid Manager",
+      "Fastly",
+      "GZIP Module",
+      "Heap",
+      "Hubspot",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Stripe",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "fishingwithcam.com",
     "title": "Guided Minnesota Fishing Charters on Scenic Lake Elmo",
     "business_name": "Fishing with Cam",
@@ -17515,38 +17547,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "mariosfishingmission.com",
-    "title": "Rockport Fishing Charters | Marios Fishing Mission",
-    "business_name": "Mario’s Fishing Mission",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 20042,
-    "crawled_at": "2025-11-18T21:45:19.42842799Z",
-    "technologies": [
-      "Amazon",
-      "Amazon API Gateway",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Content Delivery Network",
-      "DAV",
-      "DoubleClick Bid Manager",
-      "Fastly",
-      "GZIP Module",
-      "Heap",
-      "Hubspot",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Stripe",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
