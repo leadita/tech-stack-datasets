@@ -1,5 +1,36 @@
 [
   {
+    "domain": "mattisherwood.com",
+    "title": "Matt Isherwood's Digital CV",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 72,
+    "tech_spend": 136124,
+    "crawled_at": "2026-03-11T23:01:17.995858648Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "CM Commerce",
+      "Content Delivery Network",
+      "Dynamic Yield",
+      "Figma",
+      "Form.IO",
+      "GitHub Hosting",
+      "Next.js",
+      "Notion",
+      "OpenAI",
+      "Optimizely Recommendations",
+      "PHP",
+      "PWA",
+      "Python",
+      "QUIC",
+      "Shopify",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "hirmer-grosse-groessen.de",
     "title": "Men's plus size fashion I HIRMER big & tall",
     "business_name": "",
@@ -3331,38 +3362,6 @@
       "hCaptcha",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "mattisherwood.co.uk",
-    "title": "Matt Isherwood's Digital CV",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 72,
-    "tech_spend": 136124,
-    "crawled_at": "2025-12-10T07:19:56.029194963Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "CM Commerce",
-      "Content Delivery Network",
-      "Dynamic Yield",
-      "Figma",
-      "Form.IO",
-      "GitHub Hosting",
-      "Next.js",
-      "Notion",
-      "OpenAI",
-      "Optimizely Recommendations",
-      "PHP",
-      "PWA",
-      "Pleroma",
-      "Python",
-      "QUIC",
-      "Shopify",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vercel"
     ]
   },
   {
