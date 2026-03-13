@@ -1,5 +1,77 @@
 [
   {
+    "domain": "welcome-page.com",
+    "title": "GameCity",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 3000,
+    "crawled_at": "2026-03-13T18:01:32.259065948Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DatoCMS",
+      "Express",
+      "Google My Business",
+      "Material-UI",
+      "Next.js",
+      "Pleroma",
+      "Prospective",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "propervoltage.com",
+    "title": "Proper Voltage — Tap into the best battery technology for your product",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 20956,
+    "crawled_at": "2026-03-13T03:05:39.83353158Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apollo IO",
+      "Content Delivery Network",
+      "DAV",
+      "DatoCMS",
+      "Idaq",
+      "Next.js",
+      "Perl",
+      "Pleroma",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Underscores",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "teamcheckin.ca",
+    "title": "TeamCHECKiN- Rental Management",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 11020,
+    "crawled_at": "2026-03-13T02:26:37.039996649Z",
+    "technologies": [
+      "Calendly",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Facebook Customer Chat SDK",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "Headless UI",
+      "Next.js",
+      "Pleroma",
+      "RM Education",
+      "Tailwind CSS",
+      "Typeform",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "gertrude.org.au",
     "title": "Gertrude",
     "business_name": "",
@@ -13168,32 +13240,6 @@
     ]
   },
   {
-    "domain": "zapbatt.com",
-    "title": "Proper Voltage — Tap into the best battery technology for your product",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 20956,
-    "crawled_at": "2025-12-12T11:34:56.014072122Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apollo IO",
-      "Content Delivery Network",
-      "DAV",
-      "DatoCMS",
-      "Idaq",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "QUIC",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "Underscores",
-      "Vercel"
-    ]
-  },
-  {
     "domain": "tjarnarbio.is",
     "title": "Tjarnarbíó",
     "business_name": "",
@@ -14277,57 +14323,6 @@
       "Vector Internet Services",
       "Visual Website Optimizer",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "mindmarket.com",
-    "title": "Real human insights | MindMarket",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 23737,
-    "crawled_at": "2025-12-05T21:15:46.368638371Z",
-    "technologies": [
-      "Astro",
-      "Better Lead Generation Services",
-      "Calendly",
-      "Content Delivery Network",
-      "CoreUI",
-      "DAV",
-      "DatoCMS",
-      "Express",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "HMDG",
-      "Netlify",
-      "No-Q",
-      "Render",
-      "Subversion",
-      "Tailwind CSS",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "focusonhow.it",
-    "title": "Focus on How",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 108,
-    "crawled_at": "2025-12-05T15:12:31.284995475Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "ConvertKit",
-      "DatoCMS",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
