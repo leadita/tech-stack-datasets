@@ -1,35 +1,12 @@
 [
   {
-    "domain": "spinach.studio",
-    "title": "Spencer Haley",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 697,
-    "crawled_at": "2026-03-12T05:00:30.763976408Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "FreshBooks",
-      "GZIP Module",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "proposalplannermiami.com",
+    "domain": "proposalplannerchicago.com",
     "title": "Event Planner Worldwide | Amber Walker Events",
     "business_name": "Amber Walker Events",
     "country": "CAN",
-    "seo_score": 82,
+    "seo_score": 77,
     "tech_spend": 142803,
-    "crawled_at": "2026-03-11T06:52:18.945644857Z",
+    "crawled_at": "2026-03-13T01:31:25.691804876Z",
     "technologies": [
       "123FormBuilder",
       "AWS WAF Challenge",
@@ -64,8 +41,30 @@
       "WP Booking Calendar",
       "Wix",
       "Wix Media",
-      "eLand",
       "mlcom"
+    ]
+  },
+  {
+    "domain": "spinach.studio",
+    "title": "Spencer Haley",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 697,
+    "crawled_at": "2026-03-12T05:00:30.763976408Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "FreshBooks",
+      "GZIP Module",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
     ]
   },
   {

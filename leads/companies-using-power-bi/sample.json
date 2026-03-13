@@ -1,5 +1,63 @@
 [
   {
+    "domain": "adrexpress.net",
+    "title": "Home Page - SettleTek",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 60000,
+    "crawled_at": "2026-03-13T04:47:22.108405726Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Authorize.net",
+      "Bulma",
+      "CDN JS",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DocuSign",
+      "Drift",
+      "Express",
+      "Fireblade",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "NFOrce Internet",
+      "Perl",
+      "Power BI",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vue.js",
+      "Zoom Video Conferencing",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "s-control.co.za",
+    "title": "Login | SupplyTrace",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 180,
+    "crawled_at": "2026-03-13T01:38:09.621359999Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "ElementUI",
+      "GZIP Module",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Power BI",
+      "Subversion",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "bpanz.com",
     "title": "BPA Analytics",
     "business_name": "BPA Analytics Pty Ltd",
@@ -542,42 +600,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "settlethecaseonline.net",
-    "title": "Home Page - SettleTek",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 60000,
-    "crawled_at": "2026-03-06T10:29:12.650513842Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Authorize.net",
-      "Bulma",
-      "CDN JS",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DocuSign",
-      "Drift",
-      "Express",
-      "Fireblade",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "NFOrce Internet",
-      "Perl",
-      "Power BI",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vue.js",
-      "Zoom Video Conferencing",
-      "jQuery"
     ]
   },
   {
@@ -18606,24 +18628,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "kamil-sudol.pl",
-    "title": "Kamil Sudoł's website",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 180,
-    "crawled_at": "2025-11-09T07:20:38.902372048Z",
-    "technologies": [
-      "GitHub Hosting",
-      "InitiativeS",
-      "Oracle Cloud",
-      "Power BI",
-      "Python",
-      "Tailwind CSS",
-      "University or College"
     ]
   }
 ]
