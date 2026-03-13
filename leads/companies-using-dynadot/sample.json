@@ -1,5 +1,25 @@
 [
   {
+    "domain": "repanationnetwork.com",
+    "title": "RepaNation Network",
+    "business_name": "",
+    "country": "CUB",
+    "seo_score": 57,
+    "tech_spend": 135,
+    "crawled_at": "2026-03-13T02:26:37.078022513Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "payconnecting.com",
     "title": "An EMDN - Pay Connecting, Digital Payments Financial Transactions Payment Gateway Mobile Wallet Secure Transfers Money Integration Cashless Solutions",
     "business_name": "",
@@ -3392,42 +3412,6 @@
       "UTF-8",
       "Website Tonight",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "repanationnetwork.com",
-    "title": "RepaNation Network",
-    "business_name": "",
-    "country": "CUB",
-    "seo_score": 57,
-    "tech_spend": 135,
-    "crawled_at": "2025-11-03T09:11:39.76586286Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "newtechsolution.co",
-    "title": "New Tech Solution",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 135,
-    "crawled_at": "2025-11-03T08:53:38.942791483Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8"
     ]
   }
 ]
