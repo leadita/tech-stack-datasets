@@ -1,5 +1,37 @@
 [
   {
+    "domain": "eliyahreviews.com",
+    "title": "Eliyah Reviews - The Growth Engine for Local Businesses",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 77,
+    "tech_spend": 19478,
+    "crawled_at": "2026-03-13T12:43:22.896700454Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Alternate Protocol",
+      "Authorize.net",
+      "Better Lead Generation Services",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "DAV",
+      "Fireblade",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Customer Reviews",
+      "Google Font API",
+      "Google Maps",
+      "No-Q",
+      "Nuxt.js",
+      "Pabbly",
+      "Thank You",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "gotelecare.com",
     "title": "Medical Billing Services | Telemedicine, RPM & RCM Services",
     "business_name": "",
@@ -5490,38 +5522,6 @@
       "hCaptcha",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "eliyahreviews.com",
-    "title": "Eliyah Reviews - The Growth Engine for Local Businesses",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 77,
-    "tech_spend": 19478,
-    "crawled_at": "2025-11-03T10:16:35.936918047Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Apture Linking Platform",
-      "Authorize.net",
-      "Better Lead Generation Services",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "DAV",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Customer Reviews",
-      "Google Font API",
-      "Google Maps",
-      "No-Q",
-      "Nuxt.js",
-      "Pabbly",
-      "Thank You",
-      "UTF-8"
     ]
   }
 ]
