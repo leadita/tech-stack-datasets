@@ -1,5 +1,38 @@
 [
   {
+    "domain": "auctions-sap.com",
+    "title": "SAP Commerce Cloud Auction Module | SaM Solutions",
+    "business_name": "SaM Solutions",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 452436,
+    "crawled_at": "2026-03-12T16:33:17.3505032Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Autoptimize",
+      "Clutch",
+      "Contentstack",
+      "EmbedPress",
+      "Fireblade",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "OneSignal",
+      "PHP",
+      "Python",
+      "QUIC",
+      "SAP",
+      "Sitecore CMS",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "WPML Multilingual",
+      "WordPress",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "onlylandlordsonline.com",
     "title": "Acrisure New York",
     "business_name": "",
@@ -11666,37 +11699,6 @@
       "UTF-8",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "sam-solutions.se",
-    "title": "SaM Solutions - 30+ years of software development and outsourcing",
-    "business_name": "SaM Solutions",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 422436,
-    "crawled_at": "2025-12-21T04:13:32.75992819Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Clutch",
-      "Contentstack",
-      "EmbedPress",
-      "GZIP Module",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "OneSignal",
-      "PHP",
-      "Python",
-      "QUIC",
-      "SAP",
-      "Sitecore CMS",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WPML Multilingual",
-      "WordPress",
-      "YouTube",
-      "jQuery"
     ]
   },
   {
