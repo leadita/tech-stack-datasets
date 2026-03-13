@@ -1,5 +1,34 @@
 [
   {
+    "domain": "reviewbet.de",
+    "title": "ReviewBet.de: Expert Sports Betting Reviews and Tips",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 22856,
+    "crawled_at": "2026-03-13T00:31:40.63109841Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apture Linking Platform",
+      "Bulma",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "Gambling Content",
+      "IcoMoon",
+      "Krypt Technologies",
+      "Matomo",
+      "Matomo Tag Manager",
+      "Nginx",
+      "QUIC",
+      "Tailwind CSS",
+      "UPS",
+      "UTF-8",
+      "Ubuntu",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "ocabr.org",
     "title": "OCABR",
     "business_name": "",
@@ -99,37 +128,6 @@
       "Perl",
       "QUIC",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "leaguedeckprox.com",
-    "title": "League Deck Proxies: Top Strategies for Competitive Play",
-    "business_name": "",
-    "country": "ESP",
-    "seo_score": 72,
-    "tech_spend": 16656,
-    "crawled_at": "2026-03-09T04:29:29.349288305Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Azion",
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Corporate Governance and Regulatory Compliance",
-      "Django",
-      "Gambling Content",
-      "IcoMoon",
-      "Krypt Technologies",
-      "Matomo",
-      "Matomo Tag Manager",
-      "RM Education",
-      "Tailwind CSS",
-      "UPS",
-      "UTF-8",
-      "University or College",
-      "eLand",
-      "jQuery"
     ]
   },
   {
