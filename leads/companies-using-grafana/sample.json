@@ -1,5 +1,23 @@
 [
   {
+    "domain": "sand.ard.de",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 11200,
+    "crawled_at": "2026-03-12T21:25:09.463305978Z",
+    "technologies": [
+      "Adult Content",
+      "Barchart",
+      "Contento",
+      "Express",
+      "GitHub Hosting",
+      "Grafana",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "schuler-valuestream.net",
     "title": "Grafana",
     "business_name": "",
@@ -39,22 +57,6 @@
       "Nginx",
       "UTF-8",
       "Ubuntu"
-    ]
-  },
-  {
-    "domain": "ycfwydu.com",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": "",
-    "crawled_at": "2026-03-02T07:22:10.778720317Z",
-    "technologies": [
-      "GitHub Hosting",
-      "Grafana",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   },
   {
