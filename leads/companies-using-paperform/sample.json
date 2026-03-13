@@ -1,5 +1,66 @@
 [
   {
+    "domain": "2025dotupdates.us",
+    "title": "US DOT Biennial Update Portal | DOT Updates | Federal Applications Processor - Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 5608,
+    "crawled_at": "2026-03-13T01:48:22.138801347Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Apache",
+      "ChatBot",
+      "Cognito Forms",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "LiveChat",
+      "LiveChat Monitoring",
+      "Paperform",
+      "QUIC",
+      "Rocket Chat"
+    ]
+  },
+  {
+    "domain": "laseducationconsulting.com",
+    "title": "Higher Ed | Las Education Consulting",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 93621,
+    "crawled_at": "2026-03-12T19:18:50.534441492Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "DAV",
+      "DC74",
+      "Express",
+      "Fastly",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "NFOrce Internet",
+      "PWA",
+      "Paperform",
+      "Perl",
+      "QUIC",
+      "SMC",
+      "Sentry",
+      "SiteW",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "WP Booking Calendar",
+      "Wix",
+      "Wix Media",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "holisticpulsing.com.au",
     "title": "Michell Mercer - The Power of Gentle Healing | Holistic Pulsing",
     "business_name": "",
@@ -2038,30 +2099,6 @@
       "WordPress Related Posts",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "filedot.us",
-    "title": "US DOT Biennial Update Portal | DOT Updates | Federal Applications Processor - Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 5608,
-    "crawled_at": "2026-02-26T12:25:21.254444056Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Apache",
-      "ChatBot",
-      "Cognito Forms",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "LiveChat",
-      "LiveChat Monitoring",
-      "Paperform",
-      "QUIC",
-      "Rocket Chat"
     ]
   },
   {
@@ -16904,38 +16941,6 @@
       "QUIC",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "lindadunsmoreblog.com",
-    "title": "Real Estate Video Blog with Linda Dunsmore",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 2119,
-    "crawled_at": "2025-11-21T07:45:19.435879715Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Font Awesome",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Jekyll",
-      "Keller Williams Realty",
-      "PWA",
-      "Paperform",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "YouTube",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
