@@ -1,5 +1,35 @@
 [
   {
+    "domain": "jakesundstrom.com",
+    "title": "Jake Sundstrom",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 3653,
+    "crawled_at": "2026-03-13T06:14:36.6941224Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "DAV",
+      "Edmunds",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Line2",
+      "Medium",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "romanochryslerjeep.com",
     "title": "Fayetteville Chrysler, Jeep Dealer in Fayetteville NY | Syracuse Oneida Auburn Chrysler, Jeep Dealership New York",
     "business_name": "",
@@ -5457,36 +5487,6 @@
       "UTF-8",
       "University or College",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "jakesundstrom.com",
-    "title": "Jake Sundstrom",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 3653,
-    "crawled_at": "2025-11-03T09:35:38.920520574Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "DAV",
-      "Edmunds",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "Medium",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
