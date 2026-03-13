@@ -1,5 +1,61 @@
 [
   {
+    "domain": "haiderkhan.dev",
+    "title": "Haider Khan | Software Development Engineer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 1963,
+    "crawled_at": "2026-03-13T12:13:17.087427522Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google My Business",
+      "Hasnode",
+      "Heroku",
+      "Material-UI",
+      "Netlify",
+      "Next.js",
+      "Ntent",
+      "Pleroma",
+      "RM Education",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "siddheshshende.com",
+    "title": "Siddhesh Shende | Full Stack Developer (React, Next.js, Node.js)",
+    "business_name": "",
+    "country": "",
+    "seo_score": 87,
+    "tech_spend": 1824,
+    "crawled_at": "2026-03-12T18:51:29.543776Z",
+    "technologies": [
+      "AI Log",
+      "ArvanCloud",
+      "Content Delivery Network",
+      "Express",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Hasnode",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Next.js",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "UptimeRobot",
+      "Vercel",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "rssgenerator.s91.ch",
     "title": "RSS-Bridge",
     "business_name": "",
@@ -6309,33 +6365,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "iamhaiderkhan.com",
-    "title": "Haider Khan | Software Development Engineer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 1963,
-    "crawled_at": "2025-12-11T05:40:56.033622662Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google My Business",
-      "Hasnode",
-      "Heroku",
-      "Material-UI",
-      "Netlify",
-      "Next.js",
-      "Ntent",
-      "Pleroma",
-      "RM Education",
-      "UTF-8",
-      "Vercel",
-      "YouTube"
     ]
   },
   {

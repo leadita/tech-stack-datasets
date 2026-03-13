@@ -1,5 +1,50 @@
 [
   {
+    "domain": "gregmorris.co.uk",
+    "title": "Greg Morris",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 3180,
+    "crawled_at": "2026-03-13T05:51:31.880067297Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "Ghost",
+      "Google Adsense",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google Reseller",
+      "Mastodon",
+      "Micro.blog",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "www.www.www.www.www.www.www.rohdesign.net",
+    "title": "Mike Rohde - Mike Rohde",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 60,
+    "crawled_at": "2026-03-12T17:10:03.219863877Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Hugo",
+      "Micro.blog",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "okiedokieblog.com",
     "title": "Okie Dokie",
     "business_name": "",
@@ -1215,24 +1260,6 @@
       "about.me",
       "jQuery",
       "mssg.me"
-    ]
-  },
-  {
-    "domain": "www.www.rohdesign.net",
-    "title": "Mike Rohde - Mike Rohde",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 60,
-    "crawled_at": "2026-02-03T22:10:48.863127902Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Hugo",
-      "Micro.blog",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   },
   {
@@ -7702,48 +7729,6 @@
       "UTF-8",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "gregmorris.co.uk",
-    "title": "Greg Morris",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 3180,
-    "crawled_at": "2025-11-03T09:32:39.404876292Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Ghost",
-      "Micro.blog",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "QUIC",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "isellsoap.net",
-    "title": "Francesco Schwarz – Frontend Developer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 60,
-    "crawled_at": "2025-11-03T09:20:38.951336393Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Mastodon",
-      "Micro.blog",
-      "Nginx",
-      "PWA",
-      "UTF-8"
     ]
   }
 ]
