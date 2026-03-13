@@ -1,5 +1,55 @@
 [
   {
+    "domain": "svfplatform.nl",
+    "title": "Werkgroep | Werkgroep",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 70,
+    "tech_spend": 4268,
+    "crawled_at": "2026-03-13T20:45:29.781650479Z",
+    "technologies": [
+      "Cloudinary",
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Netlify",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "gosuperstage.com",
+    "title": "Advised insurance solutions | Superscript",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 92,
+    "tech_spend": 24805,
+    "crawled_at": "2026-03-13T13:04:24.823812666Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Calendly",
+      "Cloudinary",
+      "Content Delivery Network",
+      "Cybot",
+      "Fireblade",
+      "Google Analytics",
+      "Google My Business",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "envsage.com",
     "title": "Envsage",
     "business_name": "",
@@ -11725,64 +11775,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "myhelabasa.org.lk",
-    "title": "HelaBasa",
-    "business_name": "",
-    "country": "LKA",
-    "seo_score": 82,
-    "tech_spend": 160470,
-    "crawled_at": "2025-11-11T11:47:38.946377592Z",
-    "technologies": [
-      "Amazon",
-      "Apyl",
-      "Better Lead Generation Services",
-      "CCSI",
-      "Content Delivery Network",
-      "DAV",
-      "Federal Deposit Insurance Corporation",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Gridsome",
-      "HHVM",
-      "HMDG",
-      "K2F",
-      "KVH",
-      "No-Q",
-      "Onyx Internet",
-      "Perl",
-      "Phew",
-      "Pico CSS",
-      "QUIC",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Unix",
-      "Vercel",
-      "Zope"
-    ]
-  },
-  {
-    "domain": "export-document.com",
-    "title": "Exportdocumenten regelen via export-document.com",
-    "business_name": "export-document.com",
-    "country": "NLD",
-    "seo_score": 77,
-    "tech_spend": 228,
-    "crawled_at": "2025-11-11T11:11:38.914273947Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Google My Business",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
