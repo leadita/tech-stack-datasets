@@ -1,5 +1,29 @@
 [
   {
+    "domain": "mcallenpublicworks.net",
+    "title": "McAllen Public Works",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 1266,
+    "crawled_at": "2026-03-13T20:58:07.618472948Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "No-Q",
+      "Site Search 360",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "365degreetotalmarketing.com",
     "title": "365 Degree Total Marketing - Beyond Full Circle Marketing",
     "business_name": "",
@@ -15789,28 +15813,6 @@
       "Python",
       "QUIC",
       "Site Search 360",
-      "UTF-8",
-      "Yandex Hosting"
-    ]
-  },
-  {
-    "domain": "ckbced.org",
-    "title": "Welcome!",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 20268,
-    "crawled_at": "2025-11-15T22:59:04.984709001Z",
-    "technologies": [
-      "Apache",
-      "Baidu Cloud",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Python",
-      "Site Search 360",
-      "Twitter Ads",
       "UTF-8",
       "Yandex Hosting"
     ]
