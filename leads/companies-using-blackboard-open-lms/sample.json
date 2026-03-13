@@ -1,5 +1,27 @@
 [
   {
+    "domain": "backboardnblackboard.com",
+    "title": "Backboard N' Blackboard | Backboard N' Blackboard",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 10132,
+    "crawled_at": "2026-03-13T14:39:28.950223101Z",
+    "technologies": [
+      "ArvanCloud",
+      "Blackboard Open LMS",
+      "DAV",
+      "GZIP Module",
+      "Nginx",
+      "OpenResty",
+      "PHP",
+      "Perl",
+      "Pixabay",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "mcm.edu.ph",
     "title": "Top Technological School in Davao City | Mapúa Malayan Colleges Mindanao",
     "business_name": "Mapúa Malayan Colleges Mindanao",
@@ -2653,27 +2675,6 @@
       "Vercel",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "backboardnblackboard.com",
-    "title": "Backboard N' Blackboard | Backboard N' Blackboard",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 10000,
-    "crawled_at": "2025-11-03T10:26:39.391677943Z",
-    "technologies": [
-      "Blackboard Open LMS",
-      "DAV",
-      "GZIP Module",
-      "Nginx",
-      "OpenResty",
-      "PHP",
-      "Perl",
-      "Pixabay",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
