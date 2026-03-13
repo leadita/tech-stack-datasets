@@ -1,5 +1,32 @@
 [
   {
+    "domain": "onbee.app",
+    "title": "Onbee.app - Onbee.app: Onboarding & Offboarding; digital employee card, HRIS",
+    "business_name": "",
+    "country": "CZE",
+    "seo_score": 87,
+    "tech_spend": 3027,
+    "crawled_at": "2026-03-13T12:17:44.846278153Z",
+    "technologies": [
+      "Astro",
+      "Coming Soon Page",
+      "ElementUI",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Notion",
+      "PandaDoc",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "thislandus.com",
     "title": "THIS LAND",
     "business_name": "THIS LAND ",
@@ -2094,35 +2121,6 @@
       "Wix Media",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "onbee.app",
-    "title": "Onboardee.io - Onbee.app: Onboarding & Offboarding; digital employee card, HRIS",
-    "business_name": "",
-    "country": "CZE",
-    "seo_score": 87,
-    "tech_spend": 12067,
-    "crawled_at": "2025-11-03T10:12:50.527098887Z",
-    "technologies": [
-      "Astro",
-      "Coming Soon Page",
-      "ElementUI",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Notion",
-      "PandaDoc",
-      "Perl",
-      "QUIC",
-      "RM Education",
-      "Tailwind CSS",
-      "Vercel",
-      "YouTube",
-      "reCAPTCHA"
     ]
   }
 ]
