@@ -1,5 +1,32 @@
 [
   {
+    "domain": "msantina.com",
+    "title": "Email Confirmation",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 16841,
+    "crawled_at": "2026-03-13T12:54:08.149641755Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Aruba",
+      "CDN JS",
+      "ClickFunnels",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "Font Awesome",
+      "GetResponse",
+      "Google Cloud DNS",
+      "Google Font API",
+      "SMC",
+      "UTF-8",
+      "eLand"
+    ]
+  },
+  {
     "domain": "handinhealth.com",
     "title": "Wellness Center in Syracuse & North Syracuse, NY ❘ Hand In Health Massage Therapy",
     "business_name": "Hand in Health",
@@ -47,34 +74,6 @@
       "Wellness Living",
       "WordPress",
       "WordPress Multisite",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "imuawahine.com",
-    "title": "ClickFunnels Landing Page",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 1901,
-    "crawled_at": "2026-03-12T07:40:29.251560971Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Aruba",
-      "CDN JS",
-      "ClickFunnels",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "Font Awesome",
-      "GetResponse",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "UTF-8",
       "eLand"
     ]
   },
