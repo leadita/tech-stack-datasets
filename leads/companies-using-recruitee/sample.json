@@ -1,5 +1,59 @@
 [
   {
+    "domain": "careersatleonardohotels.com",
+    "title": "Home Page",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 7719,
+    "crawled_at": "2026-03-13T15:55:08.086709425Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "AiNET",
+      "Alternate Protocol",
+      "Express",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Harbor",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Perl",
+      "QUIC",
+      "Recruitee",
+      "Share Link",
+      "Styled Components",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "xite.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 42107,
+    "crawled_at": "2026-03-13T03:44:14.659036821Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Cloudinary",
+      "Content Delivery Network",
+      "Fireblade",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Next.js",
+      "Recruitee",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "terraessencegermany.eu",
     "title": "Contract manufacturer for dietary supplements | Terra Essence",
     "business_name": "Terra Essence Germany GmbH",
@@ -7330,31 +7384,6 @@
       "UTF-8",
       "University or College",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "xite.nl",
-    "title": "XITE",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 11467,
-    "crawled_at": "2025-11-11T19:50:38.91481164Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Cloudinary",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Next.js",
-      "Recruitee",
-      "Twitter Ads",
-      "UTF-8"
     ]
   },
   {
