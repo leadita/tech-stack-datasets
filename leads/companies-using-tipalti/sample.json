@@ -1,40 +1,12 @@
 [
   {
-    "domain": "imaginab.com",
-    "title": "ImaginAb - CD8ImmunoPET - Creating greater clarity than ever.",
-    "business_name": "Method & Class Limited",
-    "country": "ESP",
-    "seo_score": 77,
-    "tech_spend": 38360,
-    "crawled_at": "2026-03-13T15:14:18.687178252Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Fireblade",
-      "Google My Business",
-      "LinkedIn Insights",
-      "LinkedIn Pixel",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Perl",
-      "Tailwind CSS",
-      "Tipalti",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "cgdc.com",
+    "domain": "gdcmatch.com",
     "title": "GDC Festival of Gaming",
     "business_name": "",
     "country": "VEN",
     "seo_score": 82,
     "tech_spend": 352755,
-    "crawled_at": "2026-03-13T04:09:05.557431912Z",
+    "crawled_at": "2026-03-14T15:45:43.811363729Z",
     "technologies": [
       "501c3 Status Nonprofit",
       "AWS WAF Challenge",
@@ -92,6 +64,34 @@
       "YouTube",
       "eLand",
       "eShow"
+    ]
+  },
+  {
+    "domain": "imaginab.com",
+    "title": "ImaginAb - CD8ImmunoPET - Creating greater clarity than ever.",
+    "business_name": "Method & Class Limited",
+    "country": "ESP",
+    "seo_score": 77,
+    "tech_spend": 38360,
+    "crawled_at": "2026-03-13T15:14:18.687178252Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Creative Cloud WebFonts",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Fireblade",
+      "Google My Business",
+      "LinkedIn Insights",
+      "LinkedIn Pixel",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Perl",
+      "Tailwind CSS",
+      "Tipalti",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
     ]
   },
   {
