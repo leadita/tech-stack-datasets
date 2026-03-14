@@ -1,5 +1,75 @@
 [
   {
+    "domain": "petemcpherson.com",
+    "title": "Pete McPherson | Pete McPherson",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 240,
+    "crawled_at": "2026-03-14T12:01:51.473335656Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fontshare",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Pico CSS",
+      "Svelte",
+      "Twitter Ads",
+      "Vercel",
+      "WordPress",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "hauselab.com",
+    "title": "HauseLab | AI Financial Intelligence for 900+ Indonesian Companies",
+    "business_name": "HauseLab",
+    "country": "IDN",
+    "seo_score": 77,
+    "tech_spend": 2764,
+    "crawled_at": "2026-03-14T08:39:14.824521205Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Astro",
+      "Content Delivery Network",
+      "Fontshare",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Tailwind CSS",
+      "UTF-8",
+      "Unsplash",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "thenorthstarinitiative.org",
+    "title": "Northstar Initiative",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 228,
+    "crawled_at": "2026-03-14T07:30:07.851990666Z",
+    "technologies": [
+      "Bulma",
+      "Content Delivery Network",
+      "Fontshare",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Netlify",
+      "Next.js",
+      "Pleroma",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "satecon.in",
     "title": "Satellite Buildcon",
     "business_name": "",
@@ -9269,25 +9339,6 @@
     ]
   },
   {
-    "domain": "promptimizer.com",
-    "title": "Home | PROMPTIMIZER",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 240,
-    "crawled_at": "2026-01-19T07:28:59.317002131Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fontshare",
-      "OpenAI",
-      "Pico CSS",
-      "QUIC",
-      "Tailwind CSS",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "carddrop.co",
     "title": "CardDrop - Drop a business card. It's saved everywhere.",
     "business_name": "",
@@ -13881,54 +13932,6 @@
       "GitHub Hosting",
       "Instagram Follow Button",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "byayush.com",
-    "title": "Ayush — Software Developer",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 240,
-    "crawled_at": "2025-12-22T18:58:04.401436545Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Discord",
-      "Express",
-      "Fontshare",
-      "GitHub Hosting",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "aauaiandrobotics.com",
-    "title": "Robotics & AI Club — 2025",
-    "business_name": "",
-    "country": "ETH",
-    "seo_score": 77,
-    "tech_spend": 15124,
-    "crawled_at": "2025-12-22T13:55:38.349207517Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fontshare",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "InitiativeS",
-      "LiteSpeed",
-      "QUIC",
-      "Telegram",
-      "University or College",
-      "Unsplash"
     ]
   }
 ]
