@@ -1,5 +1,51 @@
 [
   {
+    "domain": "fawnmountaincm.com",
+    "title": "Home - Fawn Mountain Creative Media",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 51187,
+    "crawled_at": "2026-03-14T08:20:55.713775374Z",
+    "technologies": [
+      "Angular",
+      "Angular Material",
+      "Apture Linking Platform",
+      "Azure Edge",
+      "CDN JS",
+      "CM Commerce",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Contentful",
+      "Fireblade",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Microsoft 365",
+      "Microsoft Azure",
+      "QUIC",
+      "Report URI",
+      "Sitelinks Search Box",
+      "Twitter Ads",
+      "UTF-8",
+      "Vimeo",
+      "YouTube",
+      "reCAPTCHA",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "igdamelbourne.au",
     "title": "IGDA Melbourne",
     "business_name": "",
@@ -22583,26 +22629,6 @@
       "Visual Website Optimizer",
       "YouTube",
       "arsys.es"
-    ]
-  },
-  {
-    "domain": "future-provenance.io",
-    "title": "Future Provenance works with you to deliver brand identity and digital innovations for airlines, IFE, automotive and hospitality - Future Provenance",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2025-12-28T18:22:38.342771787Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Contentful",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Netlify",
-      "PWA",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
