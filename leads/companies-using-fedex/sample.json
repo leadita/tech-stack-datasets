@@ -1,5 +1,21 @@
 [
   {
+    "domain": "tiffanyrestoration.com",
+    "title": "Professional restoration of antique Tiffany lamps",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 77,
+    "tech_spend": 100,
+    "crawled_at": "2026-03-14T11:16:07.584073535Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "FedEx",
+      "GZIP Module",
+      "ISO/IEC 8859"
+    ]
+  },
+  {
     "domain": "euhomy.com",
     "title": "Euhomy - The World's Best Portable Ice Maker",
     "business_name": "Euhomy",
@@ -55,24 +71,6 @@
       "iAPPS",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "tiffany-gallery.com",
-    "title": "Tiffany Lamps, antique Tiffany lamp restoration, designs of Tiffany Studios New York.",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 67,
-    "tech_spend": 15100,
-    "crawled_at": "2026-03-13T08:09:12.437999699Z",
-    "technologies": [
-      "Adobe GoLive",
-      "Apache",
-      "Apture Linking Platform",
-      "FedEx",
-      "Fireblade",
-      "GZIP Module",
-      "ISO/IEC 8859"
     ]
   },
   {
