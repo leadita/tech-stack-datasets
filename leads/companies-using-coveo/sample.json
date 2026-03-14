@@ -1,5 +1,39 @@
 [
   {
+    "domain": "wjresearch.org",
+    "title": "Welding Research Supplement | AWS Welding Journal",
+    "business_name": "",
+    "country": "PHL",
+    "seo_score": 77,
+    "tech_spend": 197900,
+    "crawled_at": "2026-03-14T01:09:25.947932583Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Azure Edge",
+      "CloudFront",
+      "Coveo",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Microsoft Azure Verified CDN",
+      "PHP",
+      "QUIC",
+      "Sitecore CMS",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "eLand",
+      "eTapestry"
+    ]
+  },
+  {
     "domain": "ewrinstitute.org",
     "title": "Environmental & Water Resources Institute | ASCE",
     "business_name": "",
@@ -3173,37 +3207,6 @@
       "UTF-8",
       "Visual Studio",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "wjresearch.org",
-    "title": "Welding Research Supplement | AWS Welding Journal",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 77,
-    "tech_spend": 197900,
-    "crawled_at": "2025-11-03T11:35:38.923900969Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Alternate Protocol",
-      "Amazon",
-      "Azure Edge",
-      "Coveo",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Microsoft Azure Verified CDN",
-      "PHP",
-      "QUIC",
-      "Sitecore CMS",
-      "UTF-8",
-      "YouTube",
-      "eLand",
-      "eTapestry"
     ]
   }
 ]
