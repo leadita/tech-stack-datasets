@@ -1,5 +1,24 @@
 [
   {
+    "domain": "betzen.io",
+    "title": "Noah Betzen",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 260,
+    "crawled_at": "2026-03-13T20:45:29.763020089Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "GitHub Hosting",
+      "Hugo",
+      "Micro.blog",
+      "Twitter Ads",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "gregmorris.co.uk",
     "title": "Greg Morris",
     "business_name": "",
@@ -136,25 +155,6 @@
       "UTF-8",
       "YouTube",
       "Zope",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "nezteb.org",
-    "title": "Noah Betzen",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 260,
-    "crawled_at": "2026-03-06T03:16:51.995430643Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "GitHub Hosting",
-      "Hugo",
-      "Micro.blog",
-      "Twitter Ads",
-      "UTF-8",
       "shadcn ui"
     ]
   },

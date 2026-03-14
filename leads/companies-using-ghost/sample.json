@@ -1,5 +1,56 @@
 [
   {
+    "domain": "tomravn.com",
+    "title": "Tom Ravn </> Web & Software Developer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 51380,
+    "crawled_at": "2026-03-14T08:32:22.159658092Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "BunnyCDN Header",
+      "Clicky",
+      "Content Delivery Network",
+      "DAV",
+      "Express",
+      "FreeBSD",
+      "Ghost",
+      "Microdata for Google Shopping",
+      "Python",
+      "SMC",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "Wagtail CMS",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "0x63.me",
+    "title": "0x63 blog",
+    "business_name": "",
+    "country": "UGA",
+    "seo_score": 75,
+    "tech_spend": 744,
+    "crawled_at": "2026-03-13T14:39:28.942206137Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Express",
+      "Ghost",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Python",
+      "UTF-8",
+      "Unix",
+      "Unsplash",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "gregmorris.co.uk",
     "title": "Greg Morris",
     "business_name": "",
@@ -13124,47 +13175,6 @@
       "Twitter Ads",
       "UTF-8",
       "Ubuntu",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "eyp.ch",
-    "title": "EYP Switzerland",
-    "business_name": "",
-    "country": "CHE",
-    "seo_score": 57,
-    "tech_spend": 132,
-    "crawled_at": "2025-11-14T23:23:05.007042151Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Express",
-      "Ghost",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "funilrys.com",
-    "title": "The Funilrys Place",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 15660,
-    "crawled_at": "2025-11-14T23:02:05.009436513Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Express",
-      "Ghost",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Python",
-      "UTF-8",
       "jsDelivr"
     ]
   }
