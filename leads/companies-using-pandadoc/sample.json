@@ -1,5 +1,38 @@
 [
   {
+    "domain": "thebeverlycashgroup.com",
+    "title": "Finance | Thebeverlycashgroup",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 88836,
+    "crawled_at": "2026-03-14T02:03:16.222897875Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Express",
+      "Fastly",
+      "Fastly CDN",
+      "Formilla",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PWA",
+      "PandaDoc",
+      "QUIC",
+      "SMC",
+      "Sentry",
+      "SiteW",
+      "UTF-8",
+      "Vector Internet Services",
+      "Wix",
+      "Wix Media",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "onbee.app",
     "title": "Onbee.app - Onbee.app: Onboarding & Offboarding; digital employee card, HRIS",
     "business_name": "",
@@ -2085,42 +2118,6 @@
       "jQuery",
       "mlcom",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "thebeverlycashgroup.com",
-    "title": "Finance | Thebeverlycashgroup",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 120596,
-    "crawled_at": "2025-11-03T11:41:38.897068456Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Endis",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "Formilla",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PWA",
-      "PandaDoc",
-      "QUIC",
-      "SMC",
-      "Seflow Italy",
-      "SiteW",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "eLand",
-      "mlcom"
     ]
   }
 ]
