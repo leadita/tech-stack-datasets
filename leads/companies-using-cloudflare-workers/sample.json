@@ -1,5 +1,32 @@
 [
   {
+    "domain": "hackinggate.com",
+    "title": "HackingGate",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 30300,
+    "crawled_at": "2026-03-14T05:41:30.22938509Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "Fireblade",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Headless UI",
+      "Next.js",
+      "Nginx",
+      "Pleroma",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "chrispaulmoore.com",
     "title": "Chris Moore - Implementation Consultant Advisor | AI Platform Builder",
     "business_name": "",
@@ -14500,24 +14527,6 @@
       "UTF-8",
       "WebAssembly",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "cameronschmidt.dev",
-    "title": "Cameron Schmidt",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 660,
-    "crawled_at": "2025-11-03T19:38:38.954501285Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Workers",
-      "Fastly",
-      "Python",
-      "UTF-8"
     ]
   }
 ]
