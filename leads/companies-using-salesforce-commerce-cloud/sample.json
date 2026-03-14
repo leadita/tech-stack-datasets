@@ -14907,41 +14907,5 @@
       "Trustpilot Reviews for WordPress",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "ashleyhomestorebosna.com",
-    "title": "Ashley | Affordable Home Furniture and Home Goods",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 747896,
-    "crawled_at": "2025-11-03T13:11:38.991029725Z",
-    "technologies": [
-      "App Store",
-      "Apture Linking Platform",
-      "CCSI",
-      "Constructor IO",
-      "Content Delivery Network",
-      "Fastly",
-      "Fireblade",
-      "Google Analytics",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "K2F",
-      "Microdata for Google Shopping",
-      "Oddle",
-      "Optimizely Recommendations",
-      "Perl",
-      "Quantum Metric",
-      "Salesforce Commerce Cloud",
-      "SiteW",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "Vector Internet Services",
-      "YouTube",
-      "shadcn ui"
-    ]
   }
 ]
