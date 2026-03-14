@@ -1,5 +1,29 @@
 [
   {
+    "domain": "gobenet.net",
+    "title": "Distribuidores Autorizados de Izzi en México | Paquetes de Televisión e Internet | Gobenet",
+    "business_name": "",
+    "country": "MEX",
+    "seo_score": 87,
+    "tech_spend": 2655,
+    "crawled_at": "2026-03-14T03:26:14.709063178Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Microsoft Clarity",
+      "OpenResty",
+      "SendPulse",
+      "Zonomi",
+      "Zyro"
+    ]
+  },
+  {
     "domain": "padaugeskrantas.lt",
     "title": "PRADŽIA | Padaugės krantas",
     "business_name": "",
@@ -1009,30 +1033,6 @@
       "Google Font API",
       "Microdata for Google Shopping",
       "OpenResty",
-      "Zonomi",
-      "Zyro"
-    ]
-  },
-  {
-    "domain": "gobenet.net",
-    "title": "Distribuidores Autorizados de Izzi en México | Paquetes de Televisión e Internet | Gobenet",
-    "business_name": "",
-    "country": "MEX",
-    "seo_score": 77,
-    "tech_spend": 2655,
-    "crawled_at": "2025-11-03T11:50:38.989298893Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Microsoft Clarity",
-      "OpenResty",
-      "SendPulse",
       "Zonomi",
       "Zyro"
     ]
