@@ -9934,32 +9934,5 @@
       "University or College",
       "Yelp Badge"
     ]
-  },
-  {
-    "domain": "stridecrm.co",
-    "title": "Stride CRM",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 8852,
-    "crawled_at": "2025-11-03T11:17:42.500460427Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Authorize.net",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Follow Up Boss",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Nuxt.js",
-      "QUIC",
-      "Termly",
-      "UTF-8",
-      "shadcn ui"
-    ]
   }
 ]
