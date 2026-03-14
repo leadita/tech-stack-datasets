@@ -1,5 +1,38 @@
 [
   {
+    "domain": "renmactaggart.com",
+    "title": "Ren's New Leadership Tactics",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 75,
+    "tech_spend": 19477,
+    "crawled_at": "2026-03-14T13:32:42.862740441Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "CoBlocks",
+      "Content Delivery Network",
+      "EmbedPress",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "PHP",
+      "QUIC",
+      "Schema Plugin",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "Wangsu",
+      "WordPress",
+      "WordPress Multisite",
+      "Wrike",
+      "go Theme"
+    ]
+  },
+  {
     "domain": "thankyoumj.com",
     "title": "103.5 KTU - Top Music & News from The Beat of NY",
     "business_name": "",
@@ -2755,39 +2788,6 @@
       "Wrike",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "renmactaggart.com",
-    "title": "Ren's New Leadership Tactics",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 19477,
-    "crawled_at": "2025-11-03T13:00:34.345070678Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "CoBlocks",
-      "Content Delivery Network",
-      "EmbedPress",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Schema Plugin",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "Wangsu",
-      "WordPress",
-      "WordPress Multisite",
-      "Wrike",
-      "go Theme"
     ]
   }
 ]
