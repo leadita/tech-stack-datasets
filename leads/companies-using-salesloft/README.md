@@ -1,6 +1,6 @@
 # Companies Using SalesLoft (Live Dataset 2026)
 
-This folder contains an active list of 650 companies using **SalesLoft**. 
+This folder contains an active list of 649 companies using **SalesLoft**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 650
+- **Total Leads:** 649
 - **Verified:** Yes
-- **Last Updated:** 2026-03-13 21:45 UTC
+- **Last Updated:** 2026-03-14 21:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **650+** companies using SalesLoft.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **649+** companies using SalesLoft.
 
 [**⚡ Unlock the Full SalesLoft List with Contact Details**](https://leadita.com/leads/companies-using-salesloft)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-13 21:45 UTC*
+*Last updated: 2026-03-14 21:45 UTC*
 *Data source: Leadita Technographic Intelligence*
