@@ -1,5 +1,25 @@
 [
   {
+    "domain": "jasonoverby.dev",
+    "title": "JASON OVERBY",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-03-13T17:42:00.76429574Z",
+    "technologies": [
+      "Amazon API Gateway",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Netlify",
+      "Python",
+      "QUIC",
+      "SveltKit",
+      "Svelte",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "reelsouthernfishingcharters.com",
     "title": "Book The Top Louisiana Fishing Charter | Reel Southern Fishing",
     "business_name": "Reel Southern Fishing Charters",
@@ -10488,25 +10508,6 @@
       "Stripe",
       "Tailwind CSS",
       "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "overby.dev",
-    "title": "JASON OVERBY",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2025-12-17T15:25:32.741591624Z",
-    "technologies": [
-      "Amazon API Gateway",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Netlify",
-      "Python",
-      "QUIC",
-      "SveltKit",
       "YouTube"
     ]
   },
