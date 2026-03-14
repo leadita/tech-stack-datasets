@@ -1,5 +1,51 @@
 [
   {
+    "domain": "tps.ac.in",
+    "title": "TPS | Thane Police School",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 65,
+    "tech_spend": 40,
+    "crawled_at": "2026-03-14T07:46:42.768924562Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "ISO/IEC 8859",
+      "Instagram Follow Button",
+      "PHP",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "real-geo.ru",
+    "title": "Реал Гео - Cоздаем и внедряем крупные информационные системы",
+    "business_name": "",
+    "country": "RUS",
+    "seo_score": 75,
+    "tech_spend": 11700,
+    "crawled_at": "2026-03-14T00:32:25.519059282Z",
+    "technologies": [
+      "ADFOX",
+      "ASP.NET MVC",
+      "Apache",
+      "Apache Tomcat JK",
+      "GZIP Module",
+      "LottieFiles",
+      "Nginx",
+      "Oracle Cloud",
+      "Visual Studio",
+      "Yandex Hosting",
+      "Yandex Metrika"
+    ]
+  },
+  {
     "domain": "fairushyn.tech",
     "title": "Roman Fairushyn",
     "business_name": "",
@@ -13190,28 +13236,6 @@
       "Apache Tomcat JK",
       "GZIP Module",
       "University or College"
-    ]
-  },
-  {
-    "domain": "real-geo.ru",
-    "title": "Реал Гео - Cоздаем и внедряем крупные информационные системы",
-    "business_name": "",
-    "country": "RUS",
-    "seo_score": 65,
-    "tech_spend": 11700,
-    "crawled_at": "2025-11-03T11:31:30.240968279Z",
-    "technologies": [
-      "ADFOX",
-      "ASP.NET MVC",
-      "Apache",
-      "Apache Tomcat JK",
-      "GZIP Module",
-      "LottieFiles",
-      "Nginx",
-      "Oracle Cloud",
-      "Visual Studio",
-      "Yandex Hosting",
-      "Yandex Metrika"
     ]
   }
 ]
