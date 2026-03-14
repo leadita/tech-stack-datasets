@@ -1,5 +1,38 @@
 [
   {
+    "domain": "spradley.com",
+    "title": "Spradley Auto Network is a Chevrolet, Hyundai, Kia dealer selling new and used cars in Pueblo, CO",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 35380,
+    "crawled_at": "2026-03-13T15:22:32.585412565Z",
+    "technologies": [
+      "CarGurus",
+      "Content Delivery Network",
+      "DAV",
+      "DealerOn",
+      "Fastly",
+      "Fastly CDN",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Microsoft Azure",
+      "Nginx",
+      "Perl",
+      "QUIC",
+      "SiteW",
+      "Sitelinks Search Box",
+      "UTF-8",
+      "University or College",
+      "Visual Studio"
+    ]
+  },
+  {
     "domain": "walterswill.com",
     "title": "Pikeville Chevrolet, Ford, GMC, Kia, Lincoln, Mazda, Mitsubishi, Nissan, Toyota Dealer in Pikeville KY | Raccoon Shelbiana Coal Run Village Chevrolet Dealership Kentucky",
     "business_name": "",
@@ -3238,39 +3271,6 @@
       "Yelp Badge",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "spradley.com",
-    "title": "Spradley Auto Network is a Chevrolet, Hyundai, Kia dealer selling new and used cars in Pueblo, CO",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 35380,
-    "crawled_at": "2025-11-03T10:32:38.893133422Z",
-    "technologies": [
-      "CarGurus",
-      "Content Delivery Network",
-      "DAV",
-      "DealerOn",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Microsoft Azure",
-      "Nginx",
-      "Perl",
-      "QUIC",
-      "SiteW",
-      "Sitelinks Search Box",
-      "UTF-8",
-      "University or College",
-      "Visual Studio"
     ]
   }
 ]

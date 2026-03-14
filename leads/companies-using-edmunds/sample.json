@@ -1,5 +1,30 @@
 [
   {
+    "domain": "mycsic.com",
+    "title": "Cibolo Schertz Insurance Center",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 15300,
+    "crawled_at": "2026-03-13T19:25:39.573139906Z",
+    "technologies": [
+      "Better Lead Generation Services",
+      "Edmunds",
+      "Fireblade",
+      "FreeCSSTemplates",
+      "GZIP Module",
+      "Helix Ultimate",
+      "Joomla!",
+      "Nginx",
+      "PHP",
+      "Parallels Plesk Panel",
+      "RokNavMenu",
+      "UTF-8",
+      "University or College",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "jakesundstrom.com",
     "title": "Jake Sundstrom",
     "business_name": "",
@@ -5461,31 +5486,6 @@
       "WordPress Stats",
       "YouTube",
       "eLand",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "mycsic.com",
-    "title": "Cibolo Schertz Insurance Center",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 15300,
-    "crawled_at": "2025-11-03T10:56:51.666453419Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "Edmunds",
-      "Fireblade",
-      "FreeCSSTemplates",
-      "GZIP Module",
-      "Helix Ultimate",
-      "Joomla!",
-      "Nginx",
-      "PHP",
-      "Parallels Plesk Panel",
-      "RokNavMenu",
-      "UTF-8",
-      "University or College",
       "jQuery"
     ]
   }
