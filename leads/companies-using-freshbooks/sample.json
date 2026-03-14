@@ -1,5 +1,27 @@
 [
   {
+    "domain": "kilgoremarketingconsultants.com",
+    "title": "Kilgore Marketing Consultants – Accountable, Measurable Marketing Campaigns for Growing YOUR Business!",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 156,
+    "crawled_at": "2026-03-14T01:38:25.500069345Z",
+    "technologies": [
+      "Alternate Protocol",
+      "FreshBooks",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Nginx",
+      "PHP",
+      "QUIC",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "proposalplannerchicago.com",
     "title": "Event Planner Worldwide | Amber Walker Events",
     "business_name": "Amber Walker Events",
@@ -3304,28 +3326,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "Yandex Hosting",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "kilgoremarketingconsultants.com",
-    "title": "Kilgore Marketing Consultants – Accountable, Measurable Marketing Campaigns for Growing YOUR Business!",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 156,
-    "crawled_at": "2025-11-03T11:38:38.962614961Z",
-    "technologies": [
-      "Alternate Protocol",
-      "FreshBooks",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Nginx",
-      "PHP",
-      "QUIC",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]

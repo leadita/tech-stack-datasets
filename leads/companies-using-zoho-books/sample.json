@@ -1,5 +1,37 @@
 [
   {
+    "domain": "tavernitconsulting.com",
+    "title": "Tavernit Consulting",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 25940,
+    "crawled_at": "2026-03-14T02:09:33.746031245Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Metricool",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "Zoho Books",
+      "eLand"
+    ]
+  },
+  {
     "domain": "tashkahealthcare.com",
     "title": "Home - Tashka Healthcare",
     "business_name": "",
@@ -1672,38 +1704,6 @@
       "Google Font API",
       "Ubuntu",
       "Zoho Books"
-    ]
-  },
-  {
-    "domain": "tavernitconsulting.com",
-    "title": "Tavernit Consulting",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 25940,
-    "crawled_at": "2025-11-03T11:41:39.021755474Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Metricool",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "Zoho Books",
-      "eLand"
     ]
   }
 ]

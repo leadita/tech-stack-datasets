@@ -1,5 +1,28 @@
 [
   {
+    "domain": "sehajpreetlubana.com",
+    "title": "Home | Sehajpreet Lubana",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 60,
+    "tech_spend": 11819,
+    "crawled_at": "2026-03-13T14:53:41.427590551Z",
+    "technologies": [
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Sage Intacct",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "tipalti.co.uk",
     "title": "Tipalti | Finance Automation that puts you in charge",
     "business_name": "Tipalti UK",
@@ -7249,23 +7272,6 @@
       "UTF-8",
       "WordPress",
       "WordPress Multisite"
-    ]
-  },
-  {
-    "domain": "sehajpreetlubana.ca",
-    "title": "Home | Sehajpreet Lubana",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 35,
-    "tech_spend": 10600,
-    "crawled_at": "2025-12-10T02:43:56.021079974Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Sage Intacct",
-      "UTF-8"
     ]
   },
   {
