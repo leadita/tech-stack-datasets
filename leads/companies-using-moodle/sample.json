@@ -1,5 +1,26 @@
 [
   {
+    "domain": "campushelenabatlle.com",
+    "title": "Home | campushb",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 10500,
+    "crawled_at": "2026-03-13T21:50:05.906336708Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Moodle",
+      "NFOrce Internet",
+      "Nginx",
+      "PHP",
+      "Totara",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "olota.org",
     "title": "Home | OLOTA",
     "business_name": "",
@@ -1228,27 +1249,6 @@
       "Totara",
       "UTF-8",
       "Ubuntu",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "campushelenabatlle.com",
-    "title": "Home | campushb",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 10500,
-    "crawled_at": "2025-11-03T11:12:14.623893644Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Moodle",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "Totara",
-      "UTF-8",
       "jsDelivr"
     ]
   }

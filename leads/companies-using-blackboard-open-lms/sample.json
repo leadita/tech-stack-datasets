@@ -1,5 +1,36 @@
 [
   {
+    "domain": "ucci.edu.ky",
+    "title": "UCCI",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 63428,
+    "crawled_at": "2026-03-14T09:53:58.171804076Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Blackboard Open LMS",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "DAV",
+      "Express",
+      "Fireblade",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "Prospective",
+      "Sanity",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "backboardnblackboard.com",
     "title": "Backboard N' Blackboard | Backboard N' Blackboard",
     "business_name": "",
@@ -2646,35 +2677,6 @@
       "WordPress",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "ucci.edu.ky",
-    "title": "UCCI",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 48428,
-    "crawled_at": "2025-11-03T12:36:09.499644374Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Blackboard Open LMS",
-      "Content Delivery Network",
-      "Corporate Governance and Regulatory Compliance",
-      "DAV",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Prospective",
-      "Sanity",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]
