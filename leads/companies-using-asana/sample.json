@@ -1,5 +1,40 @@
 [
   {
+    "domain": "dapeoplesassemblynyc.org",
+    "title": "Da People's Assembly",
+    "business_name": "",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 81869,
+    "crawled_at": "2026-03-15T09:27:18.894386218Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Adobe Creative Cloud WebFonts",
+      "Amazon Widgets",
+      "Aruba",
+      "Asana",
+      "Express",
+      "FormSubmit",
+      "GZIP Module",
+      "GoFundMe",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "andreincinemas.com",
     "title": "André Rieu: Merry Christmas | Cinema Concert | December 2025",
     "business_name": "",
@@ -18781,41 +18816,6 @@
       "Triggered Messaging",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "dapeoplesassemblynyc.org",
-    "title": "Da People's Assembly",
-    "business_name": "",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 81869,
-    "crawled_at": "2025-11-03T15:41:38.88275911Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Adobe Creative Cloud WebFonts",
-      "Amazon Widgets",
-      "Aruba",
-      "Asana",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "GoFundMe",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "eLand"
     ]
   }
 ]
