@@ -1,4 +1,5 @@
 domain,title,business_name,country,seo_score,tech_spend,crawled_at,technologies
+boaf-training.com,Log in to the site | BOAF Online Learning and Resource Center,,,50,10500,2026-03-15T11:43:09.470956791Z,"['Amazon WAF Blocked', 'GZIP Module', 'Moodle', 'NFOrce Internet', 'Nginx', 'PHP', 'Totara', 'UTF-8', 'Ubuntu', 'jsDelivr']"
 campushelenabatlle.com,Home | campushb,,,52,10500,2026-03-13T21:50:05.906336708Z,"['Content Delivery Network', 'GZIP Module', 'Instagram Follow Button', 'Moodle', 'NFOrce Internet', 'Nginx', 'PHP', 'Totara', 'UTF-8', 'jsDelivr']"
 olota.org,Home | OLOTA,,GBR,72,29040,2026-03-11T07:38:42.06776866Z,"['Cloudflare', 'Cloudflare CDN', 'GZIP Module', 'Google Cloud DNS', 'Google Font API', 'Google My Business', 'Moodle', 'NFOrce Internet', 'PHP', 'Tailwind CSS', 'Totara', 'UTF-8', 'YouTube', 'jsDelivr']"
 appcradle.dev,Welcome to the moodle of appCradle!,,BEL,72,31900,2026-03-09T00:22:44.249162973Z,"['Angular', 'Apache', 'CDN JS', 'Cloudflare', 'Cloudflare CDN', 'Fastly', 'GZIP Module', 'LMS Ace', 'Moodle', 'NFOrce Internet', 'PHP', 'Totara', 'UTF-8']"
@@ -50,4 +51,3 @@ urantiabookschool.org,UBIS,,,50,11199,2025-11-05T15:26:38.886263287Z,"['CDN JS',
 aals-lms.com,Log in to the site | AALS,,,35,10500,2025-11-04T21:11:38.881231776Z,"['Apache', 'Moodle', 'NFOrce Internet', 'PHP', 'Totara', 'UTF-8', 'jsDelivr']"
 whytecleon.com.ng,Whyte Cleon Limited | Human Resource Outsourcing & Consulting Company,,,55,11358,2025-11-04T18:59:49.959637075Z,"['Fastly', 'Font Awesome', 'Google Cloud DNS', 'Google Font API', 'IcoMoon', 'Instagram Follow Button', 'LiteSpeed', 'Moodle', 'NFOrce Internet', 'PHP', 'QUIC', 'Totara', 'Twitter Ads', 'UTF-8', 'jsDelivr']"
 train-linux.de,Home | train-linux.de,,DEU,75,79000,2025-11-03T21:23:38.884353446Z,"['Apache', 'App Store', 'GZIP Module', 'Google My Business', 'Google Play', 'Moodle', 'NFOrce Internet', 'PHP', 'SMC', 'Totara', 'UTF-8', 'Unix', 'jsDelivr']"
-boaf-training.com,Log in to the site | BOAF Online Learning and Resource Center,,,50,10500,2025-11-03T16:04:27.372530909Z,"['Amazon WAF Blocked', 'GZIP Module', 'Moodle', 'NFOrce Internet', 'Nginx', 'PHP', 'Totara', 'UTF-8', 'Ubuntu', 'jsDelivr']"
