@@ -1,5 +1,33 @@
 [
   {
+    "domain": "deltabenefits.com",
+    "title": "Delta Benefits",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 39367,
+    "crawled_at": "2026-03-14T23:42:03.452801747Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "AWS WAF Challenge",
+      "App Store",
+      "Apple Auto Link Maker",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "Fireblade",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "Netlify",
+      "UTF-8",
+      "Workplace from Meta",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "newstoryschools.com",
     "title": "New Story Schools: Special Education Services",
     "business_name": "New Story Schools",
@@ -7294,61 +7322,6 @@
       "Yelp Badge",
       "YouTube",
       "eLand",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "monicasfamily.com",
-    "title": "Monica's eXp Resource Site",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 13929,
-    "crawled_at": "2025-11-03T14:54:46.508255452Z",
-    "technologies": [
-      "Canva Websites",
-      "Cloudflare",
-      "Coming Soon Page",
-      "ExpRealty",
-      "Google Calendar",
-      "Google Forms",
-      "Google My Business",
-      "Google Related Website Sites",
-      "NFOrce Internet",
-      "No-Q",
-      "UTF-8",
-      "Vector Internet Services",
-      "Workplace from Meta",
-      "YouTube",
-      "Zope",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "deltabenefits.com",
-    "title": "Delta Benefits",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 75,
-    "tech_spend": 39367,
-    "crawled_at": "2025-11-03T14:06:58.624661744Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AWS WAF Challenge",
-      "App Store",
-      "Apple Auto Link Maker",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "Fireblade",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "Netlify",
-      "UTF-8",
-      "Workplace from Meta",
       "jQuery"
     ]
   }
