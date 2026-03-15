@@ -1,5 +1,33 @@
 [
   {
+    "domain": "cleaproducts.com",
+    "title": "Clea - Women's Wellness | Premium Kegel Weights for Pelvic Health",
+    "business_name": "Clea",
+    "country": "",
+    "seo_score": 82,
+    "tech_spend": 8112,
+    "crawled_at": "2026-03-14T20:50:29.952591781Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Microdata for Google Shopping",
+      "Okendo",
+      "OptiMonk",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "Svelte",
+      "UTF-8",
+      "hCaptcha",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "obakki.com",
     "title": "Obakki | Ethical Handmade Home Decor by World-Class Artisans",
     "business_name": "",
