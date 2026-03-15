@@ -1,5 +1,36 @@
 [
   {
+    "domain": "delanobats.com",
+    "title": "Delano Bats",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 15700,
+    "crawled_at": "2026-03-15T15:36:25.594819573Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apture Linking Platform",
+      "ButterCMS",
+      "Content Delivery Network",
+      "Express",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Interchange",
+      "NFOrce Internet",
+      "Next.js",
+      "Perl",
+      "QUIC",
+      "SMC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "buddymx.com",
     "title": "Motocross Kids Books & Fun - Kids Motocross Action | Buddy MX",
     "business_name": "",
@@ -1825,38 +1856,6 @@
       "Subversion",
       "UTF-8",
       "Ubuntu"
-    ]
-  },
-  {
-    "domain": "delanobats.com",
-    "title": "Delano Bats",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 700,
-    "crawled_at": "2025-11-03T16:47:38.957935608Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "ButterCMS",
-      "Content Delivery Network",
-      "Express",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Interchange",
-      "NFOrce Internet",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "Visx",
-      "YouTube"
     ]
   }
 ]
