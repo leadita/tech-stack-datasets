@@ -1,5 +1,32 @@
 [
   {
+    "domain": "legendshub.de",
+    "title": "LegendsHub - Your Ultimate Guide to Mythical Stories and Legends",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 22856,
+    "crawled_at": "2026-03-15T04:30:02.590034315Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Bulma",
+      "Django",
+      "GZIP Module",
+      "Gambling Content",
+      "IcoMoon",
+      "Krypt Technologies",
+      "Matomo",
+      "Matomo Tag Manager",
+      "Nginx",
+      "QUIC",
+      "Tailwind CSS",
+      "UPS",
+      "UTF-8",
+      "Ubuntu",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "summitlegends.de",
     "title": "Summit Legends: Alpine Adventures and Mountain Exploration",
     "business_name": "",
