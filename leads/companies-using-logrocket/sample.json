@@ -1,5 +1,55 @@
 [
   {
+    "domain": "pcapp.store",
+    "title": "PC App Store™",
+    "business_name": "",
+    "country": "DOM",
+    "seo_score": 55,
+    "tech_spend": 1248,
+    "crawled_at": "2026-03-15T17:42:03.240311164Z",
+    "technologies": [
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Fastly",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "LogRocket",
+      "Nginx",
+      "Parcel",
+      "PowerPC",
+      "UTF-8",
+      "Unix",
+      "Zendesk Guide"
+    ]
+  },
+  {
+    "domain": "sera-solutions.lu",
+    "title": "Sera Solutions - Professional Websites for Small Businesses",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-03-14T21:56:59.358016803Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "LogRocket",
+      "Next.js",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "hammerheadsprogram.com",
     "title": "Home | Hammer Heads Program",
     "business_name": "",
