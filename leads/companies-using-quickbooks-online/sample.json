@@ -1,5 +1,28 @@
 [
   {
+    "domain": "jacksonassociatescpa.com",
+    "title": "Home | Jackson & Associates LLC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 11920,
+    "crawled_at": "2026-03-14T13:01:04.148750692Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "rktaxes.com",
     "title": "Home | Kernochan & Associates, Inc.",
     "business_name": "",
@@ -8205,30 +8228,6 @@
       "Twitter Ads",
       "UTF-8",
       "Zoom Video Conferencing",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "jacksonassociatescpa.com",
-    "title": "Home | Jackson & Associates LLC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 12580,
-    "crawled_at": "2025-11-03T12:56:39.088841469Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
       "jsDelivr"
     ]
   }
