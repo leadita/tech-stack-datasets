@@ -11482,39 +11482,5 @@
       "hCaptcha",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "oberst.com",
-    "title": "Oberst BV",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 39279,
-    "crawled_at": "2025-11-03T13:05:38.979863533Z",
-    "technologies": [
-      "AWIN",
-      "AdTraction",
-      "Aruba",
-      "Booking Affiliate",
-      "Breezy HR",
-      "Commission Junction",
-      "Content Delivery Network",
-      "Econda",
-      "Express",
-      "Fireblade",
-      "Font Awesome",
-      "Google My Business",
-      "License Buttons",
-      "M247",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Schema Plugin",
-      "Tailwind CSS",
-      "TradeDoubler",
-      "TradeTracker",
-      "UTF-8",
-      "Zope",
-      "eLand"
-    ]
   }
 ]
