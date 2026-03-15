@@ -1,5 +1,41 @@
 [
   {
+    "domain": "clicknsettle.org",
+    "title": "Home Page - SettleTek",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 60000,
+    "crawled_at": "2026-03-15T10:19:28.678216624Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Authorize.net",
+      "Bulma",
+      "CDN JS",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DocuSign",
+      "Drift",
+      "Express",
+      "Fireblade",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "NFOrce Internet",
+      "Perl",
+      "Power BI",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vue.js",
+      "Zoom Video Conferencing",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "semitractorfinancing.com",
     "title": "Semi-Tractor Financing - Coming Soon!",
     "business_name": "",
@@ -49,42 +85,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "adrexpress.net",
-    "title": "Home Page - SettleTek",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 60000,
-    "crawled_at": "2026-03-13T04:47:22.108405726Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Authorize.net",
-      "Bulma",
-      "CDN JS",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DocuSign",
-      "Drift",
-      "Express",
-      "Fireblade",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "NFOrce Internet",
-      "Perl",
-      "Power BI",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vue.js",
-      "Zoom Video Conferencing",
-      "jQuery"
     ]
   },
   {
@@ -10761,29 +10761,6 @@
       "Twitter Ads",
       "UTF-8",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "fidelity-funding.com",
-    "title": "Fidelity Funding",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 220,
-    "crawled_at": "2025-11-03T13:48:17.812367001Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "CoBlocks",
-      "Content Delivery Network",
-      "DocuSign",
-      "EmbedPress",
-      "GoDaddy",
-      "PHP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
