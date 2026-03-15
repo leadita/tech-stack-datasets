@@ -1,5 +1,57 @@
 [
   {
+    "domain": "katoriberlin.org",
+    "title": "Kenjutsu Berlin - Official school of Katori Shinto-ryu in Berlin",
+    "business_name": "Katori Shinto-ryu Berlin",
+    "country": "JPN",
+    "seo_score": 92,
+    "tech_spend": 189,
+    "crawled_at": "2026-03-15T11:20:55.678109241Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apache",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "cancersurgerykolkata.com",
+    "title": "Dr. Arunabha Sengupta - Surgical Oncologist in Kolkata, Onco Surgeon in Kolkata, Best, top, renowned, Surgeon, Surgery, Treatment, Specialist, Doctor, North Kolkata, South Kolkata, Salt Lake, Ballygunge, Park Street, Phoolbagan, Gariahat, Jadavpur, Tollygunge, Behala, Kolkata, West Bengal, India",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 82,
+    "tech_spend": 9039,
+    "crawled_at": "2026-03-15T00:14:38.12259771Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Apache",
+      "DAV",
+      "Font Awesome",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Publii",
+      "QUIC",
+      "Vector Internet Services",
+      "Yellow Pages Canada",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "haru.zone",
     "title": "Genna's Gentle Blog",
     "business_name": "Genna's Gentle Blog",
@@ -6990,58 +7042,6 @@
       "Publii",
       "University or College",
       "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "katoriberlin.org",
-    "title": "Kenjutsu Berlin - Official school of Katori Shinto-ryu in Berlin",
-    "business_name": "Katori Shinto-ryu Berlin",
-    "country": "JPN",
-    "seo_score": 82,
-    "tech_spend": 189,
-    "crawled_at": "2025-11-03T15:59:57.010461065Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apache",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "cancersurgerykolkata.com",
-    "title": "Dr. Arunabha Sengupta - Surgical Oncologist in Kolkata, Onco Surgeon in Kolkata, Best, top, renowned, Surgeon, Surgery, Treatment, Specialist, Doctor, North Kolkata, South Kolkata, Salt Lake, Ballygunge, Park Street, Phoolbagan, Gariahat, Jadavpur, Tollygunge, Behala, Kolkata, West Bengal, India",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 87,
-    "tech_spend": 9039,
-    "crawled_at": "2025-11-03T14:11:38.899416813Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Apache",
-      "DAV",
-      "Font Awesome",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Publii",
-      "QUIC",
-      "Vector Internet Services",
-      "Yellow Pages Canada",
       "jQuery"
     ]
   }
