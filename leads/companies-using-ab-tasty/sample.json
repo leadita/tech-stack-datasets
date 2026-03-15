@@ -8003,37 +8003,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "tugdev.net",
-    "title": "Tugdev – App builder and tinkerer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 50647,
-    "crawled_at": "2025-11-03T13:05:38.992583322Z",
-    "technologies": [
-      "AB Tasty",
-      "Alternate Protocol",
-      "App Store",
-      "Automattic",
-      "BLR",
-      "CoBlocks",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Express",
-      "GitHub Hosting",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Nginx",
-      "Tailwind CSS",
-      "Telegram",
-      "Tumblr",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "WordPress Stats"
-    ]
   }
 ]
