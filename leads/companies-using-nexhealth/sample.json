@@ -1,5 +1,36 @@
 [
   {
+    "domain": "clarksvillecrossingdental.com",
+    "title": "Clarksville MD Dental Office |",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 8245,
+    "crawled_at": "2026-03-15T17:58:29.09912724Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "NexHealth",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "WP PageNavi",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "nexhealth.com",
     "title": "NexHealth | Automate Your Front-Office",
     "business_name": "Nexhealth",
@@ -19469,39 +19500,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "grahamfamilydental.com",
-    "title": "Smile & Relax With Our Family Dentist in Greenville",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 15388,
-    "crawled_at": "2025-11-09T14:50:38.881573786Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Elfsight",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "NexHealth",
-      "Tailwind CSS",
-      "WF Cookie Consent",
-      "YouTube",
-      "reCAPTCHA"
     ]
   }
 ]

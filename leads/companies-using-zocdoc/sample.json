@@ -1,5 +1,35 @@
 [
   {
+    "domain": "ruththomaswellness.com",
+    "title": "RuthThomas, LLC",
+    "business_name": "RuthThomas LLC",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 23571,
+    "crawled_at": "2026-03-15T15:44:27.631619683Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adult Content",
+      "Amazon",
+      "Cornerstone",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Pexels",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Unsplash",
+      "ZocDoc",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "tribecaphysicaltherapy.com",
     "title": "Physical Therapy in Tribeca | New York | Tribeca PT",
     "business_name": "",
@@ -18393,38 +18423,6 @@
       "UTF-8",
       "Vector Internet Services",
       "YouTube",
-      "ZocDoc"
-    ]
-  },
-  {
-    "domain": "tustincosmeticdental.com",
-    "title": "Dentist | Marta Rudat DDS | Tustin, CA",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 4911,
-    "crawled_at": "2026-01-30T21:28:48.866156946Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Coming Soon Page",
-      "Duda",
-      "FormSubmit",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Healthgrades",
-      "Instagram Follow Button",
-      "Nginx",
-      "Tailwind CSS",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Yelp Badge",
       "ZocDoc"
     ]
   }
