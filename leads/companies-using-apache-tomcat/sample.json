@@ -1,5 +1,51 @@
 [
   {
+    "domain": "immortalpublications.com",
+    "title": "Welcome page | Immortal Publications",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-03-15T18:32:30.019069523Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "GZIP Module",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "infoviaan.com",
+    "title": "Infoviaan Technologies - Launch Your Tech Career",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 7839,
+    "crawled_at": "2026-03-15T18:05:45.321178617Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Python",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vimeo CDN",
+      "WordPress",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "tps.ac.in",
     "title": "TPS | Thane Police School",
     "business_name": "",
@@ -13221,21 +13267,6 @@
       "Unix",
       "Unsplash",
       "Zyro"
-    ]
-  },
-  {
-    "domain": "immortalpublications.com",
-    "title": "Welcome page | Immortal Publications",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2025-11-03T17:22:52.216427084Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "GZIP Module",
-      "University or College"
     ]
   }
 ]
