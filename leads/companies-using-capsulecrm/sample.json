@@ -1,5 +1,25 @@
 [
   {
+    "domain": "trailside.com.au",
+    "title": "Trailside",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 2100,
+    "crawled_at": "2026-03-15T08:22:26.906676277Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "CapsuleCRM",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "RM Education",
+      "Thank You",
+      "UTF-8",
+      "hCaptcha"
+    ]
+  },
+  {
     "domain": "jaima.co",
     "title": "Jaima Art",
     "business_name": "",
@@ -1050,26 +1070,6 @@
       "WordPress",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "trailside.com.au",
-    "title": "Trailside",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 2100,
-    "crawled_at": "2025-11-03T15:29:14.473567872Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "CapsuleCRM",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "RM Education",
-      "Thank You",
-      "UTF-8",
-      "hCaptcha"
     ]
   }
 ]
