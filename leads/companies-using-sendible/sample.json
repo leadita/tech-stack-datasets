@@ -1,5 +1,35 @@
 [
   {
+    "domain": "aisocialposter.com",
+    "title": "The Best Ai Social Media Scheduler, Grow your Brand & Followers online! – AI post generated and scheduled",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 4330,
+    "crawled_at": "2026-03-15T09:10:54.287923722Z",
+    "technologies": [
+      "Alternate Protocol",
+      "BetterDocs",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Hootsuite Badge",
+      "Instagram Follow Button",
+      "Kadence WP",
+      "Nginx",
+      "PHP",
+      "PWA",
+      "Sendible",
+      "Sprout Social",
+      "StatCounter",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "asteriskrealestate.co",
     "title": "Real Estate Marketing Agency | Buyer & Seller Lead Generation",
     "business_name": "",
@@ -352,37 +382,6 @@
       "UTF-8",
       "Vecteezy",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "aisocialposter.com",
-    "title": "The Best Ai Social Media Scheduler, Grow your Brand & Followers online! – AI post generated and scheduled",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 1942,
-    "crawled_at": "2025-11-03T15:38:38.920932698Z",
-    "technologies": [
-      "Alternate Protocol",
-      "BetterDocs",
-      "Content Delivery Network",
-      "EmbedPress",
-      "FreeCSSTemplates",
-      "Hootsuite Badge",
-      "Instagram Follow Button",
-      "Kadence WP",
-      "Nginx",
-      "PHP",
-      "PWA",
-      "Sendible",
-      "StatCounter",
-      "Stripe",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
