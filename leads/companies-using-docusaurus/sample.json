@@ -1,5 +1,86 @@
 [
   {
+    "domain": "freesewing.eu",
+    "title": "Free Bespoke Sewing Patterns | FreeSewing",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 12,
+    "crawled_at": "2026-03-15T10:52:40.285693501Z",
+    "technologies": [
+      "Alternate Protocol",
+      "BunnyCDN Header",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GZIP Module",
+      "PayPal Button",
+      "PayPal Form",
+      "Perl"
+    ]
+  },
+  {
+    "domain": "sidiamor.org",
+    "title": "Home | GDA Sidi Amor",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 67,
+    "tech_spend": 15000,
+    "crawled_at": "2026-03-15T02:50:44.337737267Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "Fireblade",
+      "GZIP Module",
+      "InitiativeS",
+      "Nginx",
+      "Perl",
+      "Tailwind CSS",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "mashku.pro",
+    "title": "Mariia Kulikova | Masha K",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 4840,
+    "crawled_at": "2026-03-14T23:51:33.037442469Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Perl",
+      "Telegram",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "krayola.dev",
+    "title": "Home Portfolio Site | Kendall Kant",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": "",
+    "crawled_at": "2026-03-14T22:58:52.912223273Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Netlify",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "dancarlton.com",
     "title": "Dan Carlton",
     "business_name": "",
@@ -7354,25 +7435,6 @@
     ]
   },
   {
-    "domain": "freesewing.org",
-    "title": "Free Bespoke Sewing Patterns | FreeSewing",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 12,
-    "crawled_at": "2025-12-09T14:19:38.12596799Z",
-    "technologies": [
-      "Alternate Protocol",
-      "BunnyCDN Header",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GZIP Module",
-      "PayPal Button",
-      "PayPal Form",
-      "Perl"
-    ]
-  },
-  {
     "domain": "ossinsight.io",
     "title": "OSS Insight",
     "business_name": "",
@@ -12394,76 +12456,6 @@
       "Python",
       "UTF-8",
       "Vector Internet Services"
-    ]
-  },
-  {
-    "domain": "stately.ai",
-    "title": "Stately | Build complex logic intelligently",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 5660,
-    "crawled_at": "2025-11-03T16:52:14.609843255Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Calendly",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "Corporate Governance and Regulatory Compliance",
-      "Docusaurus",
-      "Express",
-      "GitHub Hosting",
-      "Headless UI",
-      "Plausible Analytics",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "mashku.pro",
-    "title": "Mariia Kulikova | Masha K",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 4840,
-    "crawled_at": "2025-11-03T14:08:11.820861297Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Perl",
-      "Telegram",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "krayola.dev",
-    "title": "Home Portfolio Site | Kendall Kant",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": "",
-    "crawled_at": "2025-11-03T14:02:38.937691521Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Netlify",
-      "Perl",
-      "UTF-8"
     ]
   }
 ]

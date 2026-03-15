@@ -1,5 +1,73 @@
 [
   {
+    "domain": "pembio.com",
+    "title": "Pembio: Your new productivity app - Pembio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2028,
+    "crawled_at": "2026-03-15T21:42:18.890320172Z",
+    "technologies": [
+      "Angular",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "ElementUI",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Gridsome",
+      "Hotjar",
+      "Instagram Follow Button",
+      "Netlify",
+      "Subversion",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "infrontlabs.com",
+    "title": "Home - Colyn Brown (InFront Labs, LLC)",
+    "business_name": "",
+    "country": "",
+    "seo_score": 32,
+    "tech_spend": "",
+    "crawled_at": "2026-03-15T18:23:58.609998701Z",
+    "technologies": [
+      "Calendly",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Gridsome",
+      "Netlify",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "enrollut.org",
+    "title": "EnrollUT | Find the Best Health Insurance in Utah - EnrollUT",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 15798,
+    "crawled_at": "2026-03-15T04:38:36.939563031Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "Financial Services Guide",
+      "Gridsome",
+      "No-Q",
+      "SMC",
+      "Sherpa",
+      "Subversion",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "smartful.app",
     "title": "Home - Smartful",
     "business_name": "",
@@ -1690,26 +1758,6 @@
       "Gridsome",
       "IcoMoon",
       "Netlify",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "openenrollmentutah.com",
-    "title": "EnrollUT | Find the Best Health Insurance in Utah - EnrollUT",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 15798,
-    "crawled_at": "2026-02-12T06:38:37.941428465Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "Financial Services Guide",
-      "Gridsome",
-      "No-Q",
-      "SMC",
-      "Sherpa",
-      "Subversion",
       "UTF-8"
     ]
   },
@@ -5925,25 +5973,6 @@
       "Sanity",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "colyn.dev",
-    "title": "Home - Colyn Brown (InFront Labs, LLC)",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2025-12-23T21:43:21.006177166Z",
-    "technologies": [
-      "Calendly",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Gridsome",
-      "Netlify",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
     ]
   },
   {
@@ -11765,29 +11794,6 @@
       "UTF-8",
       "University or College",
       "Zend Server",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "inovat.com",
-    "title": "Inovāt — digital agency in NYC & Central PA.",
-    "business_name": "",
-    "country": "NZL",
-    "seo_score": 87,
-    "tech_spend": 20558,
-    "crawled_at": "2025-11-12T06:44:38.931741161Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "Federal Deposit Insurance Corporation",
-      "GZIP Module",
-      "Gridsome",
-      "KVH",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "No-Q",
-      "Tailwind CSS",
-      "UTF-8",
       "shadcn ui"
     ]
   }
