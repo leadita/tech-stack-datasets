@@ -1,5 +1,40 @@
 [
   {
+    "domain": "dataline.eu",
+    "title": "Home | Print ERP/MIS software by Dataline",
+    "business_name": "Dataline",
+    "country": "FRA",
+    "seo_score": 70,
+    "tech_spend": 26306,
+    "crawled_at": "2026-03-15T14:19:47.789995138Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Baidu Cloud",
+      "Content Delivery Network",
+      "Drupal",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Parcel",
+      "PrestaShop",
+      "QUIC",
+      "Recruitee",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Woo Themes",
+      "Yandex Hosting"
+    ]
+  },
+  {
     "domain": "villari-technology.de",
     "title": "Villari | structural monitoring I Certified crack detection",
     "business_name": "",
@@ -8443,41 +8478,6 @@
       "WordPress Related Posts",
       "WordPress Stats",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "dataline.eu",
-    "title": "Home | Print ERP/MIS software by Dataline",
-    "business_name": "Dataline",
-    "country": "FRA",
-    "seo_score": 70,
-    "tech_spend": 26306,
-    "crawled_at": "2025-11-03T16:32:53.531141168Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Baidu Cloud",
-      "Content Delivery Network",
-      "Drupal",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Parcel",
-      "PrestaShop",
-      "QUIC",
-      "Recruitee",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Woo Themes",
-      "Yandex Hosting"
     ]
   }
 ]
