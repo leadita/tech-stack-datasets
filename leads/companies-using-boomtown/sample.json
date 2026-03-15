@@ -1,5 +1,26 @@
 [
   {
+    "domain": "michaellangley.com",
+    "title": "Michael Langley | Software Engineer",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 80,
+    "tech_spend": 18244,
+    "crawled_at": "2026-03-15T09:36:21.52774635Z",
+    "technologies": [
+      "3D FlipBook",
+      "Apache",
+      "Apture Linking Platform",
+      "Boomtown ROI",
+      "Content Delivery Network",
+      "Google My Business",
+      "Netlify",
+      "Python",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "janefischer.com",
     "title": "Mason City Homes For Sale | Find Real Estate in Clear Lake and Northern Iowa",
     "business_name": "",
@@ -2662,27 +2683,6 @@
       "WordPress",
       "WordPress Multisite",
       "eLand"
-    ]
-  },
-  {
-    "domain": "michaellangley.com",
-    "title": "Michael Langley | Software Engineer",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 80,
-    "tech_spend": 18244,
-    "crawled_at": "2025-11-03T15:42:55.997348096Z",
-    "technologies": [
-      "3D FlipBook",
-      "Apache",
-      "Apture Linking Platform",
-      "Boomtown ROI",
-      "Content Delivery Network",
-      "Google My Business",
-      "Netlify",
-      "Python",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]
