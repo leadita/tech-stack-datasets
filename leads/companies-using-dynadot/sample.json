@@ -1,5 +1,27 @@
 [
   {
+    "domain": "oyvm.com",
+    "title": "An EMDN - OYVM, Online Video Messaging Virtual Media Digital Communication Multimedia Platform Streaming Technology Interactive Content",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 135,
+    "crawled_at": "2026-03-15T06:55:16.712902764Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "blogpro.so",
     "title": "BlogPro - Build Your Website with Notion in 30 Seconds",
     "business_name": "BlogPro",
@@ -51,28 +73,6 @@
       "GZIP Module",
       "Google Related Website Sites",
       "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "payconnecting.com",
-    "title": "An EMDN - Pay Connecting, Digital Payments Financial Transactions Payment Gateway Mobile Wallet Secure Transfers Money Integration Cashless Solutions",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 135,
-    "crawled_at": "2026-03-12T11:20:15.217388321Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microsoft Clarity",
       "UTF-8"
     ]
   },
