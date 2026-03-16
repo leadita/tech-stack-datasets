@@ -1,5 +1,43 @@
 [
   {
+    "domain": "teatertur.dk",
+    "title": "Gruppebilletter til børn og unge",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 109065,
+    "crawled_at": "2026-03-16T15:22:36.00077733Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Cookie Information",
+      "DAV",
+      "DatoCMS",
+      "Ektron",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gravity",
+      "Idaq",
+      "Instagram Follow Button",
+      "KVH",
+      "Krypt Technologies",
+      "NFOrce Internet",
+      "Next.js",
+      "No-Q",
+      "Perl",
+      "Pleroma",
+      "QUIC",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "YouTube",
+      "e-maerket",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "stayatstrauss.com",
     "title": "Numa - Official Site | Always Best Rates",
     "business_name": "",
@@ -14287,31 +14325,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "corahillebrand.se",
-    "title": "Galleri Cora Hillebrand- Galleri Cora Hillebrand",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 6113,
-    "crawled_at": "2025-12-08T17:52:56.744108049Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DatoCMS",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Idaq",
-      "M247",
-      "Next.js",
-      "Pleroma",
-      "Styled Components",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
