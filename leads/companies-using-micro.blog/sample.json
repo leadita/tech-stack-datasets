@@ -1,5 +1,51 @@
 [
   {
+    "domain": "jnjosh.social",
+    "title": "jnjosh's microblog",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 650,
+    "crawled_at": "2026-03-16T07:40:28.136847061Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Ethy",
+      "Hugo",
+      "Mastodon",
+      "Micro.blog",
+      "QUIC",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "tylerhellard.com",
+    "title": "Tyler Hellard",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 11203,
+    "crawled_at": "2026-03-16T02:24:37.355626589Z",
+    "technologies": [
+      "Alternate Protocol",
+      "BLR",
+      "Express",
+      "Font Awesome",
+      "GoatCounter",
+      "Hive.co",
+      "Hugo",
+      "Micro.blog",
+      "QUIC",
+      "Tailwind CSS",
+      "Tumblr",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "practical.guide",
     "title": "The Practical Guide to Experience Design",
     "business_name": "",
@@ -7637,73 +7683,6 @@
       "Micro.blog",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "jnjosh.social",
-    "title": "jnjosh's microblog",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 650,
-    "crawled_at": "2025-11-03T19:50:38.926003368Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Ethy",
-      "Mastodon",
-      "Micro.blog",
-      "QUIC",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "tylerhellard.com",
-    "title": "Tyler Hellard",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 62,
-    "tech_spend": 30219,
-    "crawled_at": "2025-11-03T18:52:22.739352889Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Flow",
-      "Font Awesome",
-      "Micro.blog",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "phillycodehound.com",
-    "title": "Thoughts Inside My Head",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 3457,
-    "crawled_at": "2025-11-03T17:32:38.963194772Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ElementUI",
-      "Font Awesome",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Micro.blog",
-      "No-Q",
-      "QUIC",
-      "Squid",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "YouTube",
-      "jsDelivr"
     ]
   }
 ]
