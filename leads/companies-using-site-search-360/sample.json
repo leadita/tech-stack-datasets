@@ -1,5 +1,35 @@
 [
   {
+    "domain": "mrcdecoaticook.qc.ca",
+    "title": "MRC de Coaticook - Site Officiel",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 82,
+    "tech_spend": 4496,
+    "crawled_at": "2026-03-16T03:42:51.798691773Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "CookieYes",
+      "ETranslate",
+      "GTranslate",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "InitiativeS",
+      "LiteSpeed",
+      "QUIC",
+      "Site Search 360",
+      "SiteW",
+      "Subversion",
+      "Tailwind CSS",
+      "TeamViewer",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "hernanlara.realtor",
     "title": "Hernan Lara | hernanlara.realtor",
     "business_name": "",
@@ -15796,35 +15826,6 @@
       "Site Search 360",
       "UTF-8",
       "Yandex Hosting"
-    ]
-  },
-  {
-    "domain": "solaris-energy.com",
-    "title": "Solaris Energy Infrastructure | Reliable Technology, Dedicated Service",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 1914,
-    "crawled_at": "2025-11-16T15:05:05.022037088Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "App Store",
-      "CloudFront",
-      "Duda",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "Investor Relations",
-      "Nginx",
-      "No-Q",
-      "QUIC",
-      "Site Search 360",
-      "Tailwind CSS",
-      "UTF-8",
-      "Usercentrics"
     ]
   }
 ]

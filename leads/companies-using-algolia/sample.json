@@ -1,5 +1,38 @@
 [
   {
+    "domain": "polyestershoppen.com",
+    "title": "Polyestershoppen - Your complete supplier of composites!",
+    "business_name": "Polyestershoppen",
+    "country": "NLD",
+    "seo_score": 77,
+    "tech_spend": 20400,
+    "crawled_at": "2026-03-16T17:25:31.987330554Z",
+    "technologies": [
+      "Algolia",
+      "Alternate Protocol",
+      "Digital Ocean Spaces",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "PWA",
+      "Perl",
+      "Plausible Analytics",
+      "QUIC",
+      "Skypack",
+      "Tailwind CSS",
+      "Typesense",
+      "UTF-8",
+      "YouTube",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "re8market.com",
     "title": "RE8 Games",
     "business_name": "",
@@ -20554,43 +20587,6 @@
       "UTF-8",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "parsonsnose.co.uk",
-    "title": "UK's Finest Online Butcher & London's Best",
-    "business_name": "Parson's Nose",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 13219,
-    "crawled_at": "2026-01-16T20:17:48.134272708Z",
-    "technologies": [
-      "Algolia",
-      "Alternate Protocol",
-      "DoubleClick Bid Manager",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Microsoft Azure",
-      "Pico CSS",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "Trustpilot Reviews for WordPress",
-      "Twitter Ads",
-      "UTF-8",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]
