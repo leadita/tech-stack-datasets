@@ -1,5 +1,25 @@
 [
   {
+    "domain": "debvin.com.ng",
+    "title": "Debvin Web Solutions - Best Website Developer in Lagos",
+    "business_name": "",
+    "country": "NGA",
+    "seo_score": 67,
+    "tech_spend": 20816,
+    "crawled_at": "2026-03-15T14:51:20.726692032Z",
+    "technologies": [
+      "Better Lead Generation Services",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "QUIC",
+      "Twitter Ads",
+      "VinSolutions",
+      "Web3Forms",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "heymia.com",
     "title": "Hey Mia: Your 24/7 Automotive AI Phone Agent",
     "business_name": "",
@@ -1912,26 +1932,6 @@
       "UTF-8",
       "VinSolutions",
       "Visual Studio"
-    ]
-  },
-  {
-    "domain": "debvin.com.ng",
-    "title": "Debvin Web Solutions - Best Website Developer in Lagos",
-    "business_name": "",
-    "country": "NGA",
-    "seo_score": 77,
-    "tech_spend": 20816,
-    "crawled_at": "2025-11-03T16:38:38.886694361Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "QUIC",
-      "Twitter Ads",
-      "VinSolutions",
-      "Web3Forms",
-      "YouTube",
-      "jsDelivr"
     ]
   }
 ]
