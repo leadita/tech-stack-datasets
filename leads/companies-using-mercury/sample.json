@@ -8376,40 +8376,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "oseswa.com",
-    "title": "MEGANS",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 731,
-    "crawled_at": "2025-11-03T18:02:38.928820648Z",
-    "technologies": [
-      "ETranslate",
-      "Express",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GZIP Module",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Mercury",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "PHP",
-      "PayPal Adaptive Payments",
-      "QUIC",
-      "Schema Plugin",
-      "Taboola Direct",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "jQuery"
-    ]
   }
 ]
