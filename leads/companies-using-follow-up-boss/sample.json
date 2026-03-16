@@ -1,5 +1,34 @@
 [
   {
+    "domain": "twincedarsapartments.com",
+    "title": "Twin Cedars Apartments | Helena MT Apartments for Rent",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 43792,
+    "crawled_at": "2026-03-16T14:00:11.897056604Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Cloudflare",
+      "DAV",
+      "Follow Up Boss",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "HMDG",
+      "Heroku",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Negate",
+      "ResMan",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "thefountaingardens.com",
     "title": "Home | Fountain Gardens",
     "business_name": "",
@@ -9939,36 +9968,6 @@
       "Thank You",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "twincedarsapartments.com",
-    "title": "Twin Cedars Apartments | Helena MT Apartments for Rent",
-    "business_name": "",
-    "country": "",
-    "seo_score": 82,
-    "tech_spend": 43792,
-    "crawled_at": "2025-11-03T20:59:38.906309405Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Cloudflare",
-      "DAV",
-      "Follow Up Boss",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "HMDG",
-      "Heroku",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Negate",
-      "ResMan",
-      "UTF-8",
-      "University or College",
-      "Yelp Badge"
     ]
   }
 ]
