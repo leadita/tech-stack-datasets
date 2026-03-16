@@ -1,5 +1,26 @@
 [
   {
+    "domain": "bicol.net",
+    "title": "Welcome to PhilippineProperties.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 7219,
+    "crawled_at": "2026-03-15T19:08:27.988294083Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Prospective",
+      "QUIC",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "oyvm.com",
     "title": "An EMDN - OYVM, Online Video Messaging Virtual Media Digital Communication Multimedia Platform Streaming Technology Interactive Content",
     "business_name": "",
@@ -74,27 +95,6 @@
       "Google Related Website Sites",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "legazpivillage.com",
-    "title": "Welcome to PhilippineProperties.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 7219,
-    "crawled_at": "2026-03-11T18:17:31.740671263Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Prospective",
-      "QUIC",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
