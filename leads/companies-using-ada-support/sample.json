@@ -4352,46 +4352,5 @@
       "eLand",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "thecraftytherapy.com",
-    "title": "The CraftyTherapy (thecraftytherapy) - Profile | Pinterest",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 38563,
-    "crawled_at": "2025-11-03T17:08:38.891300798Z",
-    "technologies": [
-      "Ada Support",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon Associates Affiliate Shop",
-      "Amazon WAF Blocked",
-      "Calendly",
-      "Cedexis",
-      "DoubleClick Bid Manager",
-      "Express",
-      "Facebook Reseller",
-      "Getty Images Embed",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Klarna",
-      "LinkedIn Pixel",
-      "PWA",
-      "QUIC",
-      "Sardine",
-      "Storyblocks",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vimeo",
-      "Vine Embed",
-      "YouTube",
-      "shadcn ui"
-    ]
   }
 ]
