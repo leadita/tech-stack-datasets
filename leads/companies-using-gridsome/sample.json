@@ -1,5 +1,63 @@
 [
   {
+    "domain": "ballyhoo.au",
+    "title": "The Lawns",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 360,
+    "crawled_at": "2026-03-16T06:37:27.839398321Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon S3 CDN",
+      "Content Delivery Network",
+      "Google My Business",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "Storyblocks",
+      "Tailwind CSS",
+      "The Deck",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "lewiskori.com",
+    "title": "Home | Lewis Kori – Entrepreneur, Product Builder, Operator",
+    "business_name": "",
+    "country": "",
+    "seo_score": 82,
+    "tech_spend": 19228,
+    "crawled_at": "2026-03-16T02:01:09.728565951Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apache",
+      "App Store",
+      "Astro",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudinary",
+      "Directus",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "Gridsome",
+      "InitiativeS",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Python",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "pembio.com",
     "title": "Pembio: Your new productivity app - Pembio",
     "business_name": "",
@@ -11743,58 +11801,6 @@
       "Instagram Follow Button",
       "Netlify",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "heavy.dev",
-    "title": "Little. Mellow. Different. | Heavy.Dev",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 19536,
-    "crawled_at": "2025-11-12T07:32:38.987834193Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google",
-      "Google Cloud CDN",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Sanity",
-      "Shopify",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "spencerwallace.ca",
-    "title": "Hello, world! - Spencer Wallace",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 75,
-    "tech_spend": 47768,
-    "crawled_at": "2025-11-12T07:05:39.359503426Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Gridsome",
-      "Idaq",
-      "K2F",
-      "Netlify",
-      "PHP",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Zend Server",
-      "shadcn ui"
     ]
   }
 ]

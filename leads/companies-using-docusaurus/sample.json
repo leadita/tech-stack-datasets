@@ -1,5 +1,91 @@
 [
   {
+    "domain": "rz.id.au",
+    "title": "Ryan Zhou | Ryan Zhou",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 3,
+    "crawled_at": "2026-03-16T17:05:15.801617884Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Docusaurus",
+      "Express",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "KaTeX",
+      "Perl",
+      "QUIC",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "locacloud.com",
+    "title": "LocaCloud - Location and Geospatial Data API",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 240,
+    "crawled_at": "2026-03-16T16:02:56.792080655Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Docusaurus",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "objectiv.io",
+    "title": "Objectiv - Powerful product analytics for data teams",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 156,
+    "crawled_at": "2026-03-16T13:02:03.548570995Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "GZIP Module",
+      "GitHub Hosting",
+      "IcoMoon",
+      "Nginx",
+      "Python",
+      "Twitter Ads"
+    ]
+  },
+  {
+    "domain": "pjaworskidev.com",
+    "title": "Patryk Jaworski – Frontend & Mobile Developer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 10092,
+    "crawled_at": "2026-03-16T04:07:48.069951915Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Idaq",
+      "Line2",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "UTF-8",
+      "Vector Internet Services"
+    ]
+  },
+  {
     "domain": "freesewing.eu",
     "title": "Free Bespoke Sewing Patterns | FreeSewing",
     "business_name": "",
@@ -12349,113 +12435,6 @@
       "UTF-8",
       "Vercel",
       "WordPress"
-    ]
-  },
-  {
-    "domain": "mahdi.wtf",
-    "title": "Mahdi Malvandi",
-    "business_name": "",
-    "country": "IRN",
-    "seo_score": 82,
-    "tech_spend": 5093,
-    "crawled_at": "2025-11-03T21:41:38.903762662Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Jetpack",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "rz.id.au",
-    "title": "Ryan Zhou | Ryan Zhou",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 40,
-    "crawled_at": "2025-11-03T21:32:38.905194708Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "KaTeX",
-      "Perl",
-      "QUIC",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "locacloud.com",
-    "title": "LocaCloud - Location and Geospatial Data API",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 240,
-    "crawled_at": "2025-11-03T21:20:38.903619952Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Docusaurus",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "objectiv.io",
-    "title": "Objectiv - Powerful product analytics for data teams",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 156,
-    "crawled_at": "2025-11-03T20:47:38.916976346Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "GZIP Module",
-      "GitHub Hosting",
-      "IcoMoon",
-      "Nginx",
-      "Python",
-      "Twitter Ads"
-    ]
-  },
-  {
-    "domain": "pjaworskidev.com",
-    "title": "Patryk Jaworski – Frontend & Mobile Developer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 10092,
-    "crawled_at": "2025-11-03T19:11:38.886409634Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Idaq",
-      "Line2",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "UTF-8",
-      "Vector Internet Services"
     ]
   }
 ]
