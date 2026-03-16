@@ -1,5 +1,33 @@
 [
   {
+    "domain": "tcb.cpa",
+    "title": "Home | T.C. Burgin, CPA, PC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 56440,
+    "crawled_at": "2026-03-15T18:23:58.610129338Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Citrix",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "M247",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "RightSignature",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Zoom Video Conferencing"
+    ]
+  },
+  {
     "domain": "cpa4it.ca",
     "title": "Cloud Accounting Services for IT Consultants",
     "business_name": "",
@@ -2088,36 +2116,6 @@
       "Tailwind CSS",
       "Twitter Ads",
       "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "tcb.cpa",
-    "title": "Home | T.C. Burgin, CPA, PC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 57100,
-    "crawled_at": "2025-11-03T17:20:38.94513525Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Citrix",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "M247",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "RightSignature",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Zoom Video Conferencing",
       "jsDelivr"
     ]
   }
