@@ -1,5 +1,32 @@
 [
   {
+    "domain": "b2bseven.com",
+    "title": "B2BSEVEN | Professional Website For Your Business",
+    "business_name": "Segev Digital",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 6220,
+    "crawled_at": "2026-03-15T21:58:59.982772637Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon",
+      "Amazon CloudFront",
+      "Calendly",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "LogRocket",
+      "Microdata for Google Shopping",
+      "Tailwind CSS",
+      "UTF-8",
+      "WF Cookie Consent"
+    ]
+  },
+  {
     "domain": "pcapp.store",
     "title": "PC App Store™",
     "business_name": "",
@@ -5129,36 +5156,6 @@
       "WordPress",
       "YouTube",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "prateeksurana.me",
-    "title": "Prateek's Digital 🏡",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 3877,
-    "crawled_at": "2025-11-03T21:31:03.519266638Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "ElementUI",
-      "Formspree",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "LogRocket",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
