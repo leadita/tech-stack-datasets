@@ -1,5 +1,29 @@
 [
   {
+    "domain": "train-linux.de",
+    "title": "Home | train-linux.de",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 65,
+    "tech_spend": 79000,
+    "crawled_at": "2026-03-16T16:10:44.440017576Z",
+    "technologies": [
+      "Apache",
+      "App Store",
+      "GZIP Module",
+      "Google My Business",
+      "Google Play",
+      "Moodle",
+      "NFOrce Internet",
+      "PHP",
+      "SMC",
+      "Totara",
+      "UTF-8",
+      "Unix",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "boaf-training.com",
     "title": "Log in to the site | BOAF Online Learning and Resource Center",
     "business_name": "",
@@ -1225,30 +1249,6 @@
       "Totara",
       "Twitter Ads",
       "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "train-linux.de",
-    "title": "Home | train-linux.de",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 75,
-    "tech_spend": 79000,
-    "crawled_at": "2025-11-03T21:23:38.884353446Z",
-    "technologies": [
-      "Apache",
-      "App Store",
-      "GZIP Module",
-      "Google My Business",
-      "Google Play",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "SMC",
-      "Totara",
-      "UTF-8",
-      "Unix",
       "jsDelivr"
     ]
   }
