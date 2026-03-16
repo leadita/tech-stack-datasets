@@ -1,5 +1,27 @@
 [
   {
+    "domain": "zakbrown.co",
+    "title": "Zak Brown — Portfolio",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 360,
+    "crawled_at": "2026-03-15T12:22:25.092411257Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "DAV",
+      "GZIP Module",
+      "Google My Business",
+      "Instagram Follow Button",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Xero"
+    ]
+  },
+  {
     "domain": "affordbond.co.uk",
     "title": "Home Page | Afford Bond | Nantwich | Wilmslow | Manchester",
     "business_name": "Afford Bond",
@@ -18618,52 +18640,6 @@
       "WordPress",
       "Xero",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "seedaccounting.solutions",
-    "title": "Seed Accounting Solutions - Accountants for Small Businesses",
-    "business_name": "Seed Accounting Solutions",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 31457,
-    "crawled_at": "2025-12-20T02:03:18.202722112Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Calendly",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "Contento",
-      "EmbedPress",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Lazy Load for WordPress",
-      "MailChimp",
-      "Microdata for Google Shopping",
-      "Muffin Group",
-      "Nginx",
-      "PHP",
-      "Parallels Plesk Panel",
-      "QUIC",
-      "Slider Revolution",
-      "Theme In WP",
-      "UTF-8",
-      "WPBakery",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "Xero",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
