@@ -1,5 +1,50 @@
 [
   {
+    "domain": "vividsmileschicago.com",
+    "title": "Trusted Lincoln Park Dentist | Vivid Smiles Chicago",
+    "business_name": "Vivid Smiles Chicago",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 28666,
+    "crawled_at": "2026-03-16T17:25:32.036608813Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "DAV",
+      "ElementUI",
+      "EmbedPress",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Feed for WordPress",
+      "Instagram Follow Button",
+      "KVH",
+      "Line2",
+      "LoftLoader",
+      "Matomo",
+      "Matomo Tag Manager",
+      "Microdata for Google Shopping",
+      "PHP",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Tailwind CSS",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "ZocDoc",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "massoumidental.com",
     "title": "Sayeh Emily Massoumi,DDS",
     "business_name": "New Horizon Dental practice of Massoumi Dental Corporation",
@@ -18429,32 +18474,6 @@
       "ZocDoc",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "centeredmentalhealthcounseling.com",
-    "title": "Expert Mental Health Counseling Services",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 37968,
-    "crawled_at": "2026-01-31T06:09:11.350501582Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "PWA",
-      "UTF-8",
-      "Vimeo",
-      "Vimeo CDN",
-      "Wangsu",
-      "Website Tonight",
-      "Yelp Badge",
-      "ZocDoc"
     ]
   }
 ]
