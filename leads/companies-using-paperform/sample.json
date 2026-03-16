@@ -1,5 +1,87 @@
 [
   {
+    "domain": "soldbycarlvano.com",
+    "title": "Central Florida Real Estate Video Blog with Carl Vano",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 3019,
+    "crawled_at": "2026-03-16T13:10:27.206943393Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Express",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Font Awesome",
+      "GitHub Hosting",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Jekyll",
+      "PWA",
+      "Paperform",
+      "UTF-8",
+      "University or College",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "a45.li",
+    "title": "Erfolgreiche Websites | STUDIO A45 | Digital-Studio für erfolgreiche Websites | Digital Innovation",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 53220,
+    "crawled_at": "2026-03-16T12:54:17.74328665Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Gatsby JS",
+      "Idaq",
+      "Instagram Follow Button",
+      "Paperform",
+      "SMC",
+      "Styled Components",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "cleanfinishcarwash.com",
+    "title": "Clean Finish Car Wash in Pineville, LA",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 18948,
+    "crawled_at": "2026-03-15T19:21:19.498941249Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "DAV",
+      "Duda",
+      "Express",
+      "GZIP Module",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "On The Map",
+      "Paperform",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "sticksnthings.com",
     "title": "Sticks N Things – Making Food Truck Magic!",
     "business_name": "",
@@ -2825,26 +2907,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "metawerk.com",
-    "title": "Erfolgreiche Websites | STUDIO A45 | Digital-Studio für erfolgreiche Websites | Digital Innovation",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 3220,
-    "crawled_at": "2026-02-20T03:16:02.731755753Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "Gatsby JS",
-      "Idaq",
-      "Instagram Follow Button",
-      "Paperform",
-      "Styled Components",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {
@@ -16907,67 +16969,6 @@
       "WF Cookie Consent",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "mattloxton.com.au",
-    "title": "Cinematic & Corporate Headshots in Adelaide | Matt Loxton",
-    "business_name": "Matt Loxton Headshot Photographer",
-    "country": "AUS",
-    "seo_score": 72,
-    "tech_spend": 83460,
-    "crawled_at": "2025-11-22T01:09:19.441405442Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudinary",
-      "Framer Sites",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "KVH",
-      "Microdata for Google Shopping",
-      "Ntent",
-      "Paperform",
-      "QUIC",
-      "SMC",
-      "Yandex Hosting",
-      "Zeald"
-    ]
-  },
-  {
-    "domain": "justintaupert.com",
-    "title": "Making Real Estate Effortless in the Southern Alberta Area",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 4019,
-    "crawled_at": "2025-11-21T19:09:19.43185415Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Font Awesome",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Jekyll",
-      "PWA",
-      "Paperform",
-      "Realtor Canada",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
