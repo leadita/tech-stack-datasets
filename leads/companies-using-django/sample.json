@@ -1,14 +1,13 @@
 [
   {
-    "domain": "legendshub.de",
-    "title": "LegendsHub - Your Ultimate Guide to Mythical Stories and Legends",
+    "domain": "palacesummit.de",
+    "title": "Palace Summit: Exploring Luxury Travel and Exclusive Destinations",
     "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 22856,
-    "crawled_at": "2026-03-15T04:30:02.590034315Z",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 9356,
+    "crawled_at": "2026-03-16T10:49:08.19896416Z",
     "technologies": [
-      "AWS WAF Challenge",
       "Bulma",
       "Django",
       "GZIP Module",
@@ -17,6 +16,7 @@
       "Krypt Technologies",
       "Matomo",
       "Matomo Tag Manager",
+      "NFOrce Internet",
       "Nginx",
       "QUIC",
       "Tailwind CSS",
@@ -24,6 +24,84 @@
       "UTF-8",
       "Ubuntu",
       "jQuery"
+    ]
+  },
+  {
+    "domain": "topnotchdrive.com",
+    "title": "Top Notch Driving School - Rockville Centre and Nassau County Driving Lessons",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 16068,
+    "crawled_at": "2026-03-16T02:57:11.736069587Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "B12",
+      "DAV",
+      "Django",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "QUIC",
+      "Yelp Badge"
+    ]
+  },
+  {
+    "domain": "sunraydatalinks.com",
+    "title": "Sunray Datalinks | Intelligent ERP Solutions",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 16324,
+    "crawled_at": "2026-03-16T01:50:33.685901764Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Django",
+      "ElementUI",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Nginx",
+      "Python",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "Unsplash",
+      "jsDelivr",
+      "reCAPTCHA",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "optumflex.in",
+    "title": "OptumFlex | ERP Systems & SEBI-Compliant Platforms for SMEs & Certified SEBI Professionals",
+    "business_name": "OptumFlex Solutions Pvt Ltd",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": "",
+    "crawled_at": "2026-03-16T00:47:57.352036073Z",
+    "technologies": [
+      "Apache",
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Django",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "YouTube",
+      "jsDelivr"
     ]
   },
   {
@@ -8356,30 +8434,6 @@
     ]
   },
   {
-    "domain": "optumflex.live",
-    "title": "OptumFlex | ERP Systems & SEBI-Compliant Platforms for SMEs & Certified SEBI Professionals",
-    "business_name": "OptumFlex Solutions Pvt Ltd",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": "",
-    "crawled_at": "2025-11-08T09:29:30.679104871Z",
-    "technologies": [
-      "Apache",
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Django",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "YouTube",
-      "jsDelivr"
-    ]
-  },
-  {
     "domain": "jolly.cards",
     "title": "JollyCards - Mobile Greeting Cards Shared as GIFs",
     "business_name": "",
@@ -8937,28 +8991,6 @@
       "Vector Internet Services",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "topnotchdrive.com",
-    "title": "Top Notch Driving School - Rockville Centre and Nassau County Driving Lessons",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 16068,
-    "crawled_at": "2025-11-03T18:58:36.631302002Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "QUIC",
-      "Yelp Badge"
     ]
   }
 ]
