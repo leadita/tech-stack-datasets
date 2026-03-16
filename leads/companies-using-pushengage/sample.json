@@ -15340,41 +15340,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "themrsinglink.com",
-    "title": "theMRSingLink | Relationship advice, unfiltered",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 723,
-    "crawled_at": "2025-11-03T21:26:38.91581114Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "CookieYes",
-      "DoubleClick Bid Manager",
-      "EmbedPress",
-      "Engage",
-      "Express",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Lazy Load for WordPress",
-      "Mediavine Publisher",
-      "Microdata for Google Shopping",
-      "PHP",
-      "PushEngage",
-      "Sitelinks Search Box",
-      "Social Pug",
-      "Twenty Twenty-Four",
-      "UTF-8",
-      "Vine Embed",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery Pin It Button for Images"
-    ]
   }
 ]
