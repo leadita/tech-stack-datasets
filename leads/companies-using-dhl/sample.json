@@ -1,5 +1,93 @@
 [
   {
+    "domain": "omnipack.ai",
+    "title": "eCommerce Fulfillment Services and Logistics | Omnipack",
+    "business_name": "Omnipack Sp. z o.o.",
+    "country": "POL",
+    "seo_score": 82,
+    "tech_spend": 43939,
+    "crawled_at": "2026-03-16T15:13:48.228827547Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Clutch",
+      "CoreUI",
+      "Cybot",
+      "DHL Parcel",
+      "ElementUI",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LottieFiles",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Parcel",
+      "PrestaShop",
+      "QUIC",
+      "Shoper",
+      "Shopify",
+      "Shoplo",
+      "UTF-8",
+      "Woo Themes",
+      "ashop"
+    ]
+  },
+  {
+    "domain": "packnshipquarryville.com",
+    "title": "Pack-N-Ship Quarryville – For all your shipping needs",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 888,
+    "crawled_at": "2026-03-16T14:45:12.820023791Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Contact Form Plugin",
+      "DAV",
+      "DHL Parcel",
+      "EmbedPress",
+      "Express",
+      "FedEx",
+      "GZIP Module",
+      "Google My Business",
+      "LiteSpeed",
+      "Ntent",
+      "Oddle",
+      "PHP",
+      "QUIC",
+      "Theme In WP",
+      "TrustIndex",
+      "UPS",
+      "USPS",
+      "UTF-8",
+      "University or College",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "oliverkunzmann.com",
+    "title": "ok | projects",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-03-16T12:18:58.320252349Z",
+    "technologies": [
+      "Apache",
+      "DHL Parcel",
+      "Google My Business",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "newspaperlogmaker.com",
     "title": "Paper Briquette Maker",
     "business_name": "Paper Briquette Press",
@@ -1649,44 +1737,6 @@
       "Python",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "omnipack.tech",
-    "title": "eCommerce Fulfillment Services and Logistics | Omnipack",
-    "business_name": "Omnipack Sp. z o.o.",
-    "country": "POL",
-    "seo_score": 82,
-    "tech_spend": 43939,
-    "crawled_at": "2026-02-28T03:02:49.866611376Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Clutch",
-      "CoreUI",
-      "Cybot",
-      "DHL Parcel",
-      "ElementUI",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LottieFiles",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Parcel",
-      "PrestaShop",
-      "QUIC",
-      "Shoper",
-      "Shopify",
-      "Shoplo",
-      "UTF-8",
-      "Woo Themes",
-      "ashop"
     ]
   },
   {
@@ -4374,21 +4424,6 @@
       "UPS",
       "USPS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "owkei.de",
-    "title": "ok | projects",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2026-02-01T14:10:29.958250565Z",
-    "technologies": [
-      "Apache",
-      "DHL Parcel",
-      "Google My Business",
-      "jQuery"
     ]
   },
   {
@@ -18035,30 +18070,6 @@
       "WordPress Related Posts",
       "Yandex Hosting",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "leatherschott.com",
-    "title": "Leather Schott",
-    "business_name": "",
-    "country": "PAK",
-    "seo_score": 60,
-    "tech_spend": 159,
-    "crawled_at": "2025-11-11T23:38:38.909869003Z",
-    "technologies": [
-      "DHL Parcel",
-      "Fancybox for WordPress",
-      "FedEx",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "LiteSpeed",
-      "QUIC",
-      "Tailwind CSS",
-      "Telegram",
-      "UPS",
-      "USPS",
-      "UTF-8"
     ]
   }
 ]
