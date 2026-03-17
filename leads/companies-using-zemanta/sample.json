@@ -40346,43 +40346,5 @@
       "vi",
       "vidoomy Direct"
     ]
-  },
-  {
-    "domain": "ktv.org.vn",
-    "title": "Đài Phát thanh và Truyền hình Khánh Hòa",
-    "business_name": "",
-    "country": "THA",
-    "seo_score": 65,
-    "tech_spend": 31376,
-    "crawled_at": "2025-11-04T00:29:38.884417139Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Alternate Protocol",
-      "Apple Auto Link Maker",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "Font Awesome",
-      "GZIP Module",
-      "Gemius",
-      "Google Cloud DNS",
-      "Google My Business",
-      "Google Play",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Nginx",
-      "PHP",
-      "Post Views Counter",
-      "Print-O-Matic",
-      "TablePress",
-      "Theme In WP",
-      "UTF-8",
-      "WP PageNavi",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "YouTube",
-      "Zemanta",
-      "jQuery"
-    ]
   }
 ]
