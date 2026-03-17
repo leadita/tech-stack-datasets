@@ -1,5 +1,33 @@
 [
   {
+    "domain": "lemakhealth.com",
+    "title": "Orthopedic Surgeons and Sports Medicine Physicians : Lemak Health",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 19648,
+    "crawled_at": "2026-03-17T05:48:41.14542262Z",
+    "technologies": [
+      "AthenaHealth",
+      "Bulma",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nginx",
+      "PHP",
+      "Parallels Plesk Panel",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "ZocDoc"
+    ]
+  },
+  {
     "domain": "vividsmileschicago.com",
     "title": "Trusted Lincoln Park Dentist | Vivid Smiles Chicago",
     "business_name": "Vivid Smiles Chicago",
@@ -18438,42 +18466,6 @@
       "ZocDoc",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "tuckergrouppractice.com",
-    "title": "Tucker Group Practice | Therapy | New York, NY, USA",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 106416,
-    "crawled_at": "2026-01-31T08:44:45.838226565Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PWA",
-      "QUIC",
-      "SMC",
-      "Sentry",
-      "SiteW",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "ZocDoc",
-      "eLand",
-      "mlcom"
     ]
   }
 ]
