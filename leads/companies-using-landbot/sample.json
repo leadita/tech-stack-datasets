@@ -1,5 +1,28 @@
 [
   {
+    "domain": "quantio.ar",
+    "title": "Quantio - Healthcare Software",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 23788,
+    "crawled_at": "2026-03-16T16:20:34.401015859Z",
+    "technologies": [
+      "AAPT",
+      "Freshdesk Support",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "LandBot",
+      "QUIC",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "loantec.com.au",
     "title": "Loantec | Competitive Low Interest Loans | Everything Finance",
     "business_name": "Loantec – Everything Finance",
@@ -14229,29 +14252,6 @@
       "Plausible Analytics",
       "UTF-8",
       "Webador"
-    ]
-  },
-  {
-    "domain": "quantio.ar",
-    "title": "Quantio - Healthcare Software",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 23788,
-    "crawled_at": "2025-11-03T21:24:14.481555615Z",
-    "technologies": [
-      "AAPT",
-      "Freshdesk Support",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "LandBot",
-      "QUIC",
-      "UTF-8",
-      "reCAPTCHA"
     ]
   }
 ]

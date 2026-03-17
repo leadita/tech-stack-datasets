@@ -1,5 +1,71 @@
 [
   {
+    "domain": "unbuilt.shop",
+    "title": "Unbuilt - resale construction goods – Unbuilt",
+    "business_name": "Unbuilt",
+    "country": "VAT",
+    "seo_score": 82,
+    "tech_spend": 15995,
+    "crawled_at": "2026-03-17T08:54:46.487469598Z",
+    "technologies": [
+      "17TRACK",
+      "3 Products",
+      "Apture Linking Platform",
+      "Aruba",
+      "Botpress",
+      "Calendly",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Coming Soon Page",
+      "Express",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Related Website Sites",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "Parcel",
+      "Prospective",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "Shopify Payments",
+      "Thank You",
+      "UTF-8",
+      "eLand",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "asalievents.com",
+    "title": "Asali Events and Desserts",
+    "business_name": "Asali Desserts & Cafe",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 8013,
+    "crawled_at": "2026-03-16T14:56:35.780228221Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Adult Content",
+      "Aruba",
+      "Botpress",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Square",
+      "Squarespace",
+      "UTF-8",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "ibilenko.dev",
     "title": "Document",
     "business_name": "",
@@ -17463,46 +17529,6 @@
       "WordPress",
       "WordPress Multisite",
       "WordPress Related Posts"
-    ]
-  },
-  {
-    "domain": "ckbeachclub.com",
-    "title": "CK Beach Club - Perfecto para tí 🌴",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 1493,
-    "crawled_at": "2025-12-10T10:16:56.018375426Z",
-    "technologies": [
-      "Botpress",
-      "Cloudflare",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Tally",
-      "Vector Internet Services"
-    ]
-  },
-  {
-    "domain": "sunnyoptique.com",
-    "title": "Sunny optique",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 162,
-    "crawled_at": "2025-12-10T10:16:56.015807978Z",
-    "technologies": [
-      "Botpress",
-      "Envoy",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
