@@ -1,5 +1,35 @@
 [
   {
+    "domain": "tworiversystems.com",
+    "title": "Home New - Two River Systems",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 814,
+    "crawled_at": "2026-03-16T14:27:34.507658536Z",
+    "technologies": [
+      "Advanced iFrame",
+      "Alternate Protocol",
+      "EmbedPress",
+      "Formidable Pro Form",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Meta Slider for WordPress",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Page scroll to id",
+      "Tableau",
+      "Theme In WP",
+      "Twenty Thirteen",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "dataandstuff.co.uk",
     "title": "Data Analytics | Data & Stuff",
     "business_name": "",
@@ -17582,32 +17612,6 @@
       "Tableau",
       "UTF-8",
       "University or College"
-    ]
-  },
-  {
-    "domain": "txceo.org",
-    "title": "TXCEO | Texas Center for Employee Ownership",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 52484,
-    "crawled_at": "2025-11-26T00:54:19.47762537Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "AudioEye",
-      "CloudFront",
-      "Commoninja",
-      "Duda",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "SMC",
-      "Tableau",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]

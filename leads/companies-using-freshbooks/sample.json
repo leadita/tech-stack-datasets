@@ -1,5 +1,34 @@
 [
   {
+    "domain": "lexact.org",
+    "title": "LexAct",
+    "business_name": "167 rue des Marterets ",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 4013,
+    "crawled_at": "2026-03-16T22:32:18.384048397Z",
+    "technologies": [
+      "Aruba",
+      "Express",
+      "FreshBooks",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "Xero",
+      "eLand"
+    ]
+  },
+  {
     "domain": "chiefproductofficersummit.com",
     "title": "Chief Product Officer Summit | World",
     "business_name": "",
@@ -3299,35 +3328,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "lexact.org",
-    "title": "LexAct",
-    "business_name": "167 rue des Marterets ",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 4013,
-    "crawled_at": "2025-11-03T22:36:50.385233499Z",
-    "technologies": [
-      "Aruba",
-      "Express",
-      "FreshBooks",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "Xero",
-      "eLand"
     ]
   }
 ]
