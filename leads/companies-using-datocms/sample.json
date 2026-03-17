@@ -1,5 +1,37 @@
 [
   {
+    "domain": "thirdway.com",
+    "title": "Creating spaces that bring out the best in people – Thirdway",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 28497,
+    "crawled_at": "2026-03-17T07:27:27.161972273Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "DatoCMS",
+      "Financial Services Guide",
+      "Google",
+      "Idaq",
+      "Instagram Follow Button",
+      "KVH",
+      "Next.js",
+      "No-Q",
+      "Pleroma",
+      "Subversion",
+      "UTF-8",
+      "Vercel",
+      "Vimeo",
+      "Vimeo CDN",
+      "W3 Total Cache",
+      "Way",
+      "YouTube",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "teatertur.dk",
     "title": "Gruppebilletter til børn og unge",
     "business_name": "",
@@ -14299,32 +14331,6 @@
       "Pleroma",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "aygo-tech.com",
-    "title": "Aygo-Tech | Boutique Digital Marketing Agency | Personalized Growth Solutions",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 32888,
-    "crawled_at": "2025-12-09T02:36:53.710008125Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Turnstile",
-      "Cloudflare Web Analytics",
-      "DAV",
-      "DatoCMS",
-      "Fireblade",
-      "Gambling Content",
-      "Heroku",
-      "Taboola Direct",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
