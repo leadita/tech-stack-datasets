@@ -1,12 +1,12 @@
 [
   {
-    "domain": "expomsgs.com",
+    "domain": "expodeliver.com",
     "title": "Event Technology Platform for Live, Virtual, & Hybrid Events - Expo Pass",
     "business_name": "Expo Pass",
     "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 31214,
-    "crawled_at": "2026-03-16T18:09:02.618062455Z",
+    "seo_score": 82,
+    "tech_spend": 31293,
+    "crawled_at": "2026-03-17T16:17:59.737579171Z",
     "technologies": [
       "AWS WAF Challenge",
       "Active Campaign",
@@ -46,6 +46,7 @@
       "UTF-8",
       "Unbounce",
       "WP Engine",
+      "Woo Themes",
       "WordPress",
       "WordPress Multisite",
       "YouTube",
