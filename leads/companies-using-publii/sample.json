@@ -1,5 +1,28 @@
 [
   {
+    "domain": "hmgextended.com",
+    "title": "Minigui",
+    "business_name": "Minigui",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 649,
+    "crawled_at": "2026-03-17T04:31:34.858864903Z",
+    "technologies": [
+      "Apache",
+      "ETranslate",
+      "GTranslate",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "katoriberlin.org",
     "title": "Kenjutsu Berlin - Official school of Katori Shinto-ryu in Berlin",
     "business_name": "Katori Shinto-ryu Berlin",
@@ -1139,28 +1162,6 @@
     "crawled_at": "2026-01-30T03:58:48.866556798Z",
     "technologies": [
       "Alternate Protocol",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "pcmodula.it",
-    "title": "Minigui",
-    "business_name": "Minigui",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 664,
-    "crawled_at": "2026-01-29T23:05:24.508371002Z",
-    "technologies": [
-      "Aruba",
-      "ETranslate",
-      "GTranslate",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
       "Microdata for Google Shopping",
       "Microsoft Authentication Library for JavaScript",
       "Publii",

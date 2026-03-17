@@ -1,5 +1,31 @@
 [
   {
+    "domain": "zendaofir.com",
+    "title": "Evaluation and Transformation",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 92,
+    "tech_spend": 18060,
+    "crawled_at": "2026-03-16T18:25:00.32736768Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "ArvanCloud",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "Ghost",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "UTF-8",
+      "WordPress",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "performpodcast.com",
     "title": "Perform with Dr. Andy Galpin",
     "business_name": "",
@@ -13179,36 +13205,6 @@
       "Stripe",
       "UTF-8",
       "Ubuntu",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "mrsosint.com",
-    "title": "Mrs. OSINT",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 18060,
-    "crawled_at": "2025-11-16T05:23:04.981793436Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Bunny Fonts",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Ghost",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "Twitter Ads",
-      "UTF-8",
       "jsDelivr"
     ]
   }

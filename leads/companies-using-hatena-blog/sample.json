@@ -1,5 +1,33 @@
 [
   {
+    "domain": "npo-scrum.com",
+    "title": "特定非営利活動法人障害者自立生活センター･スクラム | 自分を信じて、スクラム組んで、あなたらしさに向かってトライ！",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": "",
+    "crawled_at": "2026-03-16T12:54:17.729441248Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Facebook Like",
+      "Facebook Login",
+      "Facebook Reseller",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Hatena Blog",
+      "LiteSpeed",
+      "PHP",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "jigadoribu.com",
     "title": "#グラドル自画撮り部 画像まとめサイト",
     "business_name": "",
@@ -290,33 +318,6 @@
       "The Fresh",
       "Twitter Ads",
       "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "npo-scrum.com",
-    "title": "特定非営利活動法人障害者自立生活センター･スクラム | 自分を信じて、スクラム組んで、あなたらしさに向かってトライ！",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": "",
-    "crawled_at": "2025-11-03T20:47:06.221069877Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Facebook Like",
-      "Facebook Login",
-      "Facebook Reseller",
-      "GZIP Module",
-      "Hatena Blog",
-      "PHP",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
       "jQuery"
     ]
   }
