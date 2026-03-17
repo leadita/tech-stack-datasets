@@ -1,5 +1,77 @@
 [
   {
+    "domain": "bransjen.no",
+    "title": "Forside - Bransjen",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-03-17T18:01:58.577367128Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "Sanity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "kodius.com",
+    "title": "Kodius | Expert custom software development",
+    "business_name": "",
+    "country": "HRV",
+    "seo_score": 72,
+    "tech_spend": 10552,
+    "crawled_at": "2026-03-17T11:43:25.80622647Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Amazon S3 CDN",
+      "Apture Linking Platform",
+      "Calendly",
+      "CloudFront",
+      "Clutch",
+      "Directus",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Nginx",
+      "Storyblocks",
+      "Svelte",
+      "Tailwind CSS",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "jaihindroyals.com",
+    "title": "Home - Jaihind Royals",
+    "business_name": "",
+    "country": "JPN",
+    "seo_score": 77,
+    "tech_spend": 15268,
+    "crawled_at": "2026-03-17T03:08:23.007890642Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "Fireblade",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Netlify",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "ballyhoo.au",
     "title": "The Lawns",
     "business_name": "",
@@ -11722,85 +11794,6 @@
       "Twitter Ads",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "revlerrv.com",
-    "title": "Home - Revler",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 100098,
-    "crawled_at": "2025-11-12T13:35:38.958061119Z",
-    "technologies": [
-      "CCSI",
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Idaq",
-      "Instagram Follow Button",
-      "K2F",
-      "Netlify",
-      "No-Q",
-      "PWA",
-      "QUIC",
-      "SMC",
-      "Silicon Valley Web Hosting",
-      "Tailwind CSS",
-      "UTF-8",
-      "WhatsApp Sharing"
-    ]
-  },
-  {
-    "domain": "agioweb.com",
-    "title": "Maximize the potential of your most important digital asset -your website. - agioweb",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 95997,
-    "crawled_at": "2025-11-12T12:05:38.954853305Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "HESK",
-      "Instagram Follow Button",
-      "K2F",
-      "KVH",
-      "Netlify",
-      "No-Q",
-      "PWA",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "Zope",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "freemracewear.co.uk",
-    "title": "FreeM Racewear - FreeM Racewear",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 1050,
-    "crawled_at": "2025-11-12T10:20:38.949743245Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "Idaq",
-      "Instagram Follow Button",
-      "Netlify",
-      "UTF-8"
     ]
   }
 ]
