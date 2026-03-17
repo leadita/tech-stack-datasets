@@ -1,12 +1,45 @@
 [
   {
-    "domain": "veristack.com",
+    "domain": "zerotrustroadmap.org",
+    "title": "A Roadmap to Zero Trust Architecture",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 95948,
+    "crawled_at": "2026-03-16T20:45:01.022230266Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Akamai mPulse",
+      "Amazon Link Enchancer",
+      "Amazon WAF Blocked",
+      "Amazon Widgets",
+      "Apture Linking Platform",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fireblade",
+      "Form.IO",
+      "Google My Business",
+      "Google Retail Product Discovery",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Okta",
+      "OneLogin",
+      "SolarWinds Service Desk",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "lumanox.guru",
     "title": "Files.com: Next-Generation MFT, SFTP & File Sharing — Files.com",
     "business_name": "",
     "country": "USA",
     "seo_score": 77,
     "tech_spend": 272947,
-    "crawled_at": "2026-03-16T02:19:24.46091708Z",
+    "crawled_at": "2026-03-16T16:48:06.849206868Z",
     "technologies": [
       "501c3 Status Nonprofit",
       "Adult Content",
@@ -8284,39 +8317,6 @@
       "Visual Website Optimizer",
       "Wrike",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "zerotrustroadmap.com",
-    "title": "A Roadmap to Zero Trust Architecture",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 95948,
-    "crawled_at": "2025-12-20T01:58:32.759609187Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Akamai mPulse",
-      "Amazon Link Enchancer",
-      "Amazon WAF Blocked",
-      "Amazon Widgets",
-      "Apture Linking Platform",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fireblade",
-      "Form.IO",
-      "Google My Business",
-      "Google Retail Product Discovery",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Okta",
-      "OneLogin",
-      "SolarWinds Service Desk",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "shadcn ui"
     ]
   },
   {
@@ -17124,37 +17124,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "ghoreboshebazar.com",
-    "title": "Ghore Boshe Bazar - Home",
-    "business_name": "",
-    "country": "BGD",
-    "seo_score": 65,
-    "tech_spend": 7972,
-    "crawled_at": "2025-11-04T01:47:38.90315014Z",
-    "technologies": [
-      "Algolia",
-      "ElementUI",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Juicer DMP",
-      "LiteSpeed",
-      "Okta",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "jQuery"
     ]
   }
 ]
