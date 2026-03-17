@@ -1,5 +1,30 @@
 [
   {
+    "domain": "lichtbjdwigs.com",
+    "title": "www.lichtbjdwigs.com",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 75668,
+    "crawled_at": "2026-03-17T02:18:35.623267164Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apple Pay JS",
+      "Aruba",
+      "Cart.com",
+      "Cloudflare",
+      "Gambling Content",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Subversion",
+      "UTF-8",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "verywarmth.com",
     "title": "verywarmth",
     "business_name": "",
@@ -80,30 +105,6 @@
       "UTF-8",
       "University or College",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "easyshop.group",
-    "title": "www.easyshop.group",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 75668,
-    "crawled_at": "2026-03-15T17:26:04.885509737Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apple Pay JS",
-      "Aruba",
-      "Cart.com",
-      "Cloudflare",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Subversion",
-      "UTF-8",
-      "eLand",
-      "jQuery"
     ]
   },
   {

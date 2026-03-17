@@ -1,6 +1,6 @@
 # Companies Using Klarna (Live Dataset 2026)
 
-This folder contains an active list of 4,947 companies using **Klarna**. 
+This folder contains an active list of 4,943 companies using **Klarna**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 4,947
+- **Total Leads:** 4,943
 - **Verified:** Yes
-- **Last Updated:** 2026-03-16 10:45 UTC
+- **Last Updated:** 2026-03-17 10:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **4,947+** companies using Klarna.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **4,943+** companies using Klarna.
 
 [**⚡ Unlock the Full Klarna List with Contact Details**](https://leadita.com/leads/companies-using-klarna)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-16 10:45 UTC*
+*Last updated: 2026-03-17 10:45 UTC*
 *Data source: Leadita Technographic Intelligence*
