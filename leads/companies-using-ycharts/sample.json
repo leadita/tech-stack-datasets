@@ -1,5 +1,38 @@
 [
   {
+    "domain": "votemakers.com",
+    "title": "Votemakers - Political Domain Names, Campaign Strategies, and Candidate Slogans | Votemakers - Campaign Strategies, Political Slogans, Tactics & Tools",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 60229,
+    "crawled_at": "2026-03-17T06:06:14.825754805Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Community",
+      "Content Delivery Network",
+      "Cornerstone",
+      "Fireblade",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Help.com",
+      "InitiativeS",
+      "Microsoft 365",
+      "MyEvent",
+      "NFOrce Internet",
+      "OpenResty",
+      "QUIC",
+      "RM Education",
+      "University or College",
+      "Way",
+      "YCharts",
+      "Zyro",
+      "eLand"
+    ]
+  },
+  {
     "domain": "afrikavantage.com",
     "title": "Vantage FDI | Trade Finance & Working Capital",
     "business_name": "",
@@ -731,40 +764,6 @@
       "Twitter Ads",
       "UTF-8",
       "YCharts"
-    ]
-  },
-  {
-    "domain": "votemakers.com",
-    "title": "Votemakers - Political Domain Names, Campaign Strategies, and Candidate Slogans | Votemakers - Campaign Strategies, Political Slogans, Tactics & Tools",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 60229,
-    "crawled_at": "2025-11-04T00:02:38.888473254Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Community",
-      "Content Delivery Network",
-      "Cornerstone",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Help.com",
-      "InitiativeS",
-      "Microsoft 365",
-      "MyEvent",
-      "NFOrce Internet",
-      "OpenResty",
-      "QUIC",
-      "RM Education",
-      "University or College",
-      "Way",
-      "YCharts",
-      "Zyro",
-      "eLand"
     ]
   }
 ]
