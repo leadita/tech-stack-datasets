@@ -1,5 +1,33 @@
 [
   {
+    "domain": "motoroildepot.com",
+    "title": "AMSOIL Synthetic Oil in MAP - San Carlos, CA | The BestOIL Depot, AMSOIL",
+    "business_name": "",
+    "country": "PHL",
+    "seo_score": 82,
+    "tech_spend": 15840,
+    "crawled_at": "2026-03-17T00:13:41.697733597Z",
+    "technologies": [
+      "Apache",
+      "ByteDance",
+      "ClickUp",
+      "Content Delivery Network",
+      "Facebook Reseller",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "LinkedIn Pixel",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Ntent",
+      "QUIC",
+      "Stripe",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "danwebb.net",
     "title": "danwebb.net",
     "business_name": "",
@@ -18512,43 +18540,6 @@
       "eLand",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "serranoandassociates.com",
-    "title": "Serrano & Associates Real Estate",
-    "business_name": "Serrano & Associates",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 16447,
-    "crawled_at": "2025-11-07T16:59:22.787839663Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "AutoComplete",
-      "Bulma",
-      "ClickUp",
-      "CloudFront",
-      "DAV",
-      "ElementUI",
-      "Fireblade",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Investor Relations",
-      "Microdata for Google Shopping",
-      "Ntent",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "YouTube"
     ]
   }
 ]
