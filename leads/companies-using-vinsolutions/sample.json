@@ -1,5 +1,29 @@
 [
   {
+    "domain": "michaeljaggers.net",
+    "title": "W. Michael Jaggers | About",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 41380,
+    "crawled_at": "2026-03-16T13:20:36.562699349Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Dealer.com",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "VinSolutions",
+      "Visual Studio"
+    ]
+  },
+  {
     "domain": "debvin.com.ng",
     "title": "Debvin Web Solutions - Best Website Developer in Lagos",
     "business_name": "",
@@ -1909,29 +1933,6 @@
       "YouTube",
       "Zendesk Embeddables",
       "elevio"
-    ]
-  },
-  {
-    "domain": "michaeljaggers.net",
-    "title": "W. Michael Jaggers | About",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 41380,
-    "crawled_at": "2025-11-03T20:51:35.80998667Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Dealer.com",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microsoft Azure",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "VinSolutions",
-      "Visual Studio"
     ]
   }
 ]
