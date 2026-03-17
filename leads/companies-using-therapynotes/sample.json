@@ -1,5 +1,28 @@
 [
   {
+    "domain": "lakeviewbilling.com",
+    "title": "Medical Billing - Lakeview Healthcare Billing",
+    "business_name": "Lakeview Healthcare Billing",
+    "country": "",
+    "seo_score": 82,
+    "tech_spend": 19827,
+    "crawled_at": "2026-03-17T01:38:05.857341765Z",
+    "technologies": [
+      "Coming Soon Page",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "PWA",
+      "TherapyNotes",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "nexhealth.com",
     "title": "NexHealth | Automate Your Front-Office",
     "business_name": "Nexhealth",
@@ -4176,29 +4199,6 @@
       "intakeQ",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "lakeviewbilling.com",
-    "title": "Medical Billing - Lakeview Healthcare Billing",
-    "business_name": "Lakeview Healthcare Billing",
-    "country": "",
-    "seo_score": 82,
-    "tech_spend": 19827,
-    "crawled_at": "2025-11-03T23:12:18.820952127Z",
-    "technologies": [
-      "Coming Soon Page",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "PWA",
-      "TherapyNotes",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
     ]
   }
 ]
