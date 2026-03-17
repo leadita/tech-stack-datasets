@@ -1,5 +1,39 @@
 [
   {
+    "domain": "pgcak.com",
+    "title": "General Contractor Anchorage | Precision General Contractors",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 10337,
+    "crawled_at": "2026-03-16T20:00:37.706378801Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Authorize.net",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "DAV",
+      "Equally AI",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Related Website Sites",
+      "HighLevel",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nuxt.js",
+      "QUIC",
+      "UTF-8",
+      "UserWay",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "bp3global.com",
     "title": "Leaders in Process Automation - Design, Implementation, and Support",
     "business_name": "",
@@ -7323,37 +7357,6 @@
       "YouTube",
       "Zoom Video Conferencing",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "pgcak.com",
-    "title": "General Contractor Anchorage | Precision General Contractors",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 9847,
-    "crawled_at": "2025-11-03T22:07:47.952520545Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Authorize.net",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "DAV",
-      "Equally AI",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Related Website Sites",
-      "HighLevel",
-      "Instagram Follow Button",
-      "Nuxt.js",
-      "QUIC",
-      "UTF-8"
     ]
   }
 ]
