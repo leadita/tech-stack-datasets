@@ -1,5 +1,31 @@
 [
   {
+    "domain": "dimitribaro.com",
+    "title": "Dimitri Baro | Residential and Commercial Real Estate Broker at RE/MAX Avantages",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 21720,
+    "crawled_at": "2026-03-17T12:20:07.072266844Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Didomi",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nginx",
+      "Nuxt.js",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "hotelcarlgustaf.pl",
     "title": "Fouquet's Saint-Barth 5 star hotel in Saint-Barth | Barrière Hotels",
     "business_name": "",
@@ -15654,39 +15680,6 @@
       "Nginx",
       "Nuxt.js",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "cbm-packaging.com",
-    "title": "Industrial Packaging Manufacturer - Wooden Crate | CBM Packaging",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 77,
-    "tech_spend": 23408,
-    "crawled_at": "2025-11-10T03:33:45.136661867Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Didomi",
-      "DuracellTomi Google Tag Manager for WordPress",
-      "Elementor",
-      "EmbedPress",
-      "Fireblade",
-      "GDPR Consent Management Platform",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "QUIC",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
