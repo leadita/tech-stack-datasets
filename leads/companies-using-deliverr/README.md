@@ -1,6 +1,6 @@
 # Companies Using Deliverr (Live Dataset 2026)
 
-This folder contains an active list of 215 companies using **Deliverr**. 
+This folder contains an active list of 214 companies using **Deliverr**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 215
+- **Total Leads:** 214
 - **Verified:** Yes
-- **Last Updated:** 2026-03-16 22:15 UTC
+- **Last Updated:** 2026-03-17 22:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **215+** companies using Deliverr.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **214+** companies using Deliverr.
 
 [**⚡ Unlock the Full Deliverr List with Contact Details**](https://leadita.com/leads/companies-using-deliverr)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-16 22:15 UTC*
+*Last updated: 2026-03-17 22:15 UTC*
 *Data source: Leadita Technographic Intelligence*
