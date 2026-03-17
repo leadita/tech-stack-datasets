@@ -1,5 +1,24 @@
 [
   {
+    "domain": "riddhisahyog.in",
+    "title": ":: Welcome to Riddhi Sahyog Nidhi Limited",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 156,
+    "crawled_at": "2026-03-17T06:41:21.980451507Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Apture Linking Platform",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "IcoMoon",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "torbaylibraries.org.uk",
     "title": "Home - Libraries Unlimited",
     "business_name": "",
@@ -13241,59 +13260,6 @@
       "UTF-8",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "volerion.com",
-    "title": "Real-Time CVE Intelligence | Volerion",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 36854,
-    "crawled_at": "2025-11-04T01:29:38.886360858Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apache",
-      "Apache Tomcat JK",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Envoy",
-      "Enzuzo",
-      "Express",
-      "Fireblade",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "NFOrce Internet",
-      "Next.js",
-      "Nginx",
-      "Perl",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "riddhisahyog.in",
-    "title": ":: Welcome to Riddhi Sahyog Nidhi Limited",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 156,
-    "crawled_at": "2025-11-04T00:08:38.954884846Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Apture Linking Platform",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "IcoMoon",
-      "UTF-8"
     ]
   }
 ]
