@@ -1,5 +1,30 @@
 [
   {
+    "domain": "hellowhale.design",
+    "title": "Hello Whale Design",
+    "business_name": "Hello Whale Design",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 1541,
+    "crawled_at": "2026-03-17T19:58:17.171345821Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Edmunds",
+      "Express",
+      "GZIP Module",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "todd-benschneider.com",
     "title": "Todd Benschneider | Research Projects and Case Studies in Economics & Management",
     "business_name": "",
@@ -5463,31 +5488,6 @@
       "GZIP Module",
       "GitHub Hosting",
       "License Buttons"
-    ]
-  },
-  {
-    "domain": "hellowhale.design",
-    "title": "Hello Whale Design",
-    "business_name": "Hello Whale Design",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 1541,
-    "crawled_at": "2025-11-04T02:35:40.780819714Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Edmunds",
-      "Express",
-      "GZIP Module",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
