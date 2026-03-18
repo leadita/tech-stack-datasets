@@ -1,5 +1,31 @@
 [
   {
+    "domain": "mortgagesbyjen.ca",
+    "title": "Jen Fuentes | Mortgage Professional, Langley, BC",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 1722,
+    "crawled_at": "2026-03-18T21:56:15.751687452Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "Elfsight",
+      "FormSubmit",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Nginx",
+      "No-Q",
+      "QUIC",
+      "Site Search 360",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "mybraziliandoctor.com.br",
     "title": "My Brazilian Doctor | Doctor Appointment in Brazil by Telemedicine",
     "business_name": "My Brazilian Doctor Telemedicine LTD",
@@ -15818,28 +15844,6 @@
       "InitiativeS",
       "Python",
       "Site Search 360",
-      "UTF-8",
-      "Yandex Hosting"
-    ]
-  },
-  {
-    "domain": "acornprinting.ca",
-    "title": "Best | Quality | Printing | Calgary, AB | Acorn Graphics Ltd.",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 5268,
-    "crawled_at": "2025-11-16T17:23:05.009363043Z",
-    "technologies": [
-      "Apache",
-      "Baidu Cloud",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Python",
-      "Site Search 360",
-      "Twitter Ads",
       "UTF-8",
       "Yandex Hosting"
     ]
