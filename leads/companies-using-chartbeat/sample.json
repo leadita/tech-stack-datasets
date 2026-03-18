@@ -1,5 +1,33 @@
 [
   {
+    "domain": "financialmail.co.za",
+    "title": "Financial Mail - In-depth analysis and news on SA’s industry and economy",
+    "business_name": "Financial Mail",
+    "country": "ZAF",
+    "seo_score": 87,
+    "tech_spend": 37540,
+    "crawled_at": "2026-03-17T22:21:57.079443134Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon CloudFront",
+      "Chartbeat",
+      "DoubleClick Bid Manager",
+      "FreeCSSTemplates",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Maps",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "Perl",
+      "Queryly",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "rawstory.com",
     "title": "Raw Story - Celebrating 20 Years of Independent Journalism",
     "business_name": "Raw Story",
@@ -104,34 +132,6 @@
       "WordPress Multisite",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "fm.co.za",
-    "title": "Financial Mail - In-depth analysis and news on SA’s industry and economy",
-    "business_name": "Financial Mail",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 37540,
-    "crawled_at": "2026-03-15T08:56:30.853845012Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "Chartbeat",
-      "DoubleClick Bid Manager",
-      "FreeCSSTemplates",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "Perl",
-      "Queryly",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
