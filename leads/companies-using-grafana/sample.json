@@ -1,5 +1,25 @@
 [
   {
+    "domain": "stromfee.info",
+    "title": "StromfeeME: Power-Analysen",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 1200,
+    "crawled_at": "2026-03-18T09:09:37.902009365Z",
+    "technologies": [
+      "Barchart",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Grafana",
+      "Nginx",
+      "UTF-8",
+      "Ubuntu"
+    ]
+  },
+  {
     "domain": "sand.ard.de",
     "title": "Grafana",
     "business_name": "",
@@ -37,45 +57,6 @@
       "UTF-8",
       "Ubuntu",
       "Yandex Hosting"
-    ]
-  },
-  {
-    "domain": "daveiot.com",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 1200,
-    "crawled_at": "2026-03-03T06:00:44.193579594Z",
-    "technologies": [
-      "Barchart",
-      "DAV",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Grafana",
-      "Nginx",
-      "UTF-8",
-      "Ubuntu"
-    ]
-  },
-  {
-    "domain": "grafana.oc.dk",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 1200,
-    "crawled_at": "2026-03-01T04:48:07.591000013Z",
-    "technologies": [
-      "Barchart",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Grafana",
-      "UTF-8"
     ]
   },
   {
