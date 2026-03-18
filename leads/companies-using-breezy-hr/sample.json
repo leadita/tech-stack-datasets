@@ -1,5 +1,31 @@
 [
   {
+    "domain": "easypayfinance.com",
+    "title": "EasyPay Finance | Easy Payment Solutions No Perfect Credit Required",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 32444,
+    "crawled_at": "2026-03-18T04:44:43.739916306Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Breezy HR",
+      "Endis",
+      "Framer Sites",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Tag Manager",
+      "Iubenda",
+      "Nationwide Mortgage Licensing System and Registry",
+      "Ntent",
+      "QUIC",
+      "Vector Internet Services",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
     "domain": "i-techsupport.com",
     "title": "i-Tech Support - Managed IT Services & ERP Solutions for Growing Businesses | i-Tech Support",
     "business_name": "I-Tech Support",
@@ -8948,30 +8974,6 @@
       "QUIC",
       "WF Cookie Consent",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "pacduvera.com",
-    "title": "EasyPay Finance | Easy Payment Solutions No Perfect Credit Required",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 32144,
-    "crawled_at": "2025-12-19T06:52:32.766981435Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Breezy HR",
-      "Endis",
-      "Framer Sites",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "Ntent",
-      "QUIC",
-      "Vector Internet Services",
-      "Yandex Hosting",
-      "Zeald"
     ]
   },
   {
