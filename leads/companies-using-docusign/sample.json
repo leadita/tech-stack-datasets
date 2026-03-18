@@ -10530,34 +10530,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "glowsport.ca",
-    "title": "GlowSport – The Glow Entertainment Company",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 75,
-    "tech_spend": 26168,
-    "crawled_at": "2025-11-04T05:07:51.426848219Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Column Shortcodes",
-      "Content Delivery Network",
-      "Contento",
-      "DocuSign",
-      "EmbedPress",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Kriesi.at",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "eLand",
-      "jQuery"
-    ]
   }
 ]
