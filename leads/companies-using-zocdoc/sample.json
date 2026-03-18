@@ -1,5 +1,28 @@
 [
   {
+    "domain": "lucyliuacupuncture.com",
+    "title": "Lucy Liu Acupuncture | Tribeca | NYC Top Acupuncturist",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 4828,
+    "crawled_at": "2026-03-18T14:41:05.45416017Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon S3 CDN",
+      "Apache",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Imgix",
+      "Storyblocks",
+      "UTF-8",
+      "Yelp Badge",
+      "ZocDoc",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "chr-northfield.com",
     "title": "Couples Counseling & Trauma Treatment | Northfield, MN 55057",
     "business_name": "",
@@ -18398,34 +18421,6 @@
       "Waveform Technology",
       "ZocDoc",
       "Zyro"
-    ]
-  },
-  {
-    "domain": "bennettmindandwellness.com",
-    "title": "Bennett Mind & Wellness",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 29072,
-    "crawled_at": "2026-01-31T17:46:48.876137997Z",
-    "technologies": [
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "ZocDoc",
-      "eLand"
     ]
   }
 ]
