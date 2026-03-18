@@ -1,5 +1,46 @@
 [
   {
+    "domain": "nordben.com",
+    "title": "Monument International - Monument International",
+    "business_name": "",
+    "country": "SGP",
+    "seo_score": 77,
+    "tech_spend": 3868,
+    "crawled_at": "2026-03-18T20:21:32.748212899Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Gridsome",
+      "Netlify",
+      "UTF-8",
+      "WordPress",
+      "eLand",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "lamdani.org",
+    "title": "Home - Lamdani",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-03-18T17:21:42.00378593Z",
+    "technologies": [
+      "GZIP Module",
+      "Gridsome",
+      "Nginx",
+      "PWA",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "bransjen.no",
     "title": "Forside - Bransjen",
     "business_name": "",
@@ -195,22 +236,6 @@
       "Sherpa",
       "Subversion",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "smartful.app",
-    "title": "Home - Smartful",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-03-14T17:55:04.307091588Z",
-    "technologies": [
-      "GZIP Module",
-      "Gridsome",
-      "Nginx",
-      "PWA",
-      "Tailwind CSS"
     ]
   },
   {
@@ -8398,31 +8423,6 @@
       "Gridsome",
       "IcoMoon",
       "Twitter Ads"
-    ]
-  },
-  {
-    "domain": "monument.im",
-    "title": "Monument International - Monument International",
-    "business_name": "",
-    "country": "SGP",
-    "seo_score": 72,
-    "tech_spend": 3868,
-    "crawled_at": "2025-12-05T07:30:46.371953441Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Gridsome",
-      "Netlify",
-      "UTF-8",
-      "WordPress",
-      "eLand",
-      "reCAPTCHA"
     ]
   },
   {
