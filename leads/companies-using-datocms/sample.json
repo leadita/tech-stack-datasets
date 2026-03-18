@@ -1,5 +1,23 @@
 [
   {
+    "domain": "daniellelevitt.com",
+    "title": "Film director and photographer — Danielle Levitt",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-03-17T21:28:51.972664923Z",
+    "technologies": [
+      "Astro",
+      "Content Delivery Network",
+      "DAV",
+      "DatoCMS",
+      "Instagram Follow Button",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "thirdway.com",
     "title": "Creating spaces that bring out the best in people – Thirdway",
     "business_name": "",
@@ -14313,24 +14331,6 @@
       "Twitter Ads",
       "UTF-8",
       "eLand"
-    ]
-  },
-  {
-    "domain": "youngfactor.eu",
-    "title": "Young Factor Europe — Young Factor Europe",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 5000,
-    "crawled_at": "2025-12-09T05:27:48.143498984Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DatoCMS",
-      "KVH",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
