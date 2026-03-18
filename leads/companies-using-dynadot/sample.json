@@ -1,12 +1,12 @@
 [
   {
-    "domain": "title22.com",
+    "domain": "akobicol.com",
     "title": "Build Your Brand with JM XTRADE, INC.",
     "business_name": "",
     "country": "",
     "seo_score": 47,
     "tech_spend": 135,
-    "crawled_at": "2026-03-17T13:24:36.268766278Z",
+    "crawled_at": "2026-03-18T15:31:29.192788513Z",
     "technologies": [
       "Amazon CloudFront",
       "CloudFront",
@@ -18,34 +18,13 @@
     ]
   },
   {
-    "domain": "bicol.net",
-    "title": "Welcome to PhilippineProperties.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 7219,
-    "crawled_at": "2026-03-15T19:08:27.988294083Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Prospective",
-      "QUIC",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "oyvm.com",
-    "title": "An EMDN - OYVM, Online Video Messaging Virtual Media Digital Communication Multimedia Platform Streaming Technology Interactive Content",
+    "domain": "thelineinn.com",
+    "title": "An EMDN - The Line Inn, Luxury Boutique Hotel Futuristic Design Sustainable Architecture Neom Smart Hospitality Modern Amenities Eco-Friendly Accommodation Exclusive Stay Destination Resort Innovative Tourism",
     "business_name": "",
     "country": "",
     "seo_score": 52,
     "tech_spend": 135,
-    "crawled_at": "2026-03-15T06:55:16.712902764Z",
+    "crawled_at": "2026-03-18T14:48:54.548290938Z",
     "technologies": [
       "Amazon CloudFront",
       "Apture Linking Platform",
@@ -58,6 +37,27 @@
       "Google Tag Manager",
       "Microsoft Clarity",
       "UTF-8"
+    ]
+  },
+  {
+    "domain": "makaticity.org",
+    "title": "Welcome to PhilippineProperties.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 7219,
+    "crawled_at": "2026-03-18T09:50:43.085041251Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Prospective",
+      "QUIC",
+      "UTF-8",
+      "YouTube"
     ]
   },
   {
