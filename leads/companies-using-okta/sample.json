@@ -17096,34 +17096,5 @@
       "eLand",
       "jQuery"
     ]
-  },
-  {
-    "domain": "jaredforney.com",
-    "title": "Jared Forney",
-    "business_name": "",
-    "country": "VEN",
-    "seo_score": 77,
-    "tech_spend": 10981,
-    "crawled_at": "2025-11-04T02:02:38.890818926Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Line2",
-      "Medium",
-      "Microdata for Google Shopping",
-      "Okta",
-      "QUIC",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
-    ]
   }
 ]
