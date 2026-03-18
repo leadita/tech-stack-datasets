@@ -1,5 +1,28 @@
 [
   {
+    "domain": "equipeadvisory.com.au",
+    "title": "Equipe Advisory • Accounting & Commercial, Adelaide",
+    "business_name": "Equipe Advisory",
+    "country": "AUS",
+    "seo_score": 77,
+    "tech_spend": 519,
+    "crawled_at": "2026-03-18T06:01:27.654908536Z",
+    "technologies": [
+      "Advisory Board",
+      "Alternate Protocol",
+      "Craft",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Twitter Ads",
+      "UTF-8",
+      "Xero"
+    ]
+  },
+  {
     "domain": "connectorly.io",
     "title": "Home - Connectorly",
     "business_name": "Connectorly Limited",
@@ -18641,31 +18664,6 @@
       "Xero",
       "Zopim",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "fcag.com.au",
-    "title": "Fraser Coast Accounting Group | Accountants Hervey Bay",
-    "business_name": "Fraser Coast Accounting Group",
-    "country": "AUS",
-    "seo_score": 77,
-    "tech_spend": 15924,
-    "crawled_at": "2025-12-20T08:52:32.738758118Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "Better Lead Generation Services",
-      "CloudFront",
-      "Duda",
-      "FormSubmit",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "Xero"
     ]
   }
 ]

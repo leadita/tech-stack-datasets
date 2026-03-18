@@ -4922,48 +4922,5 @@
       "eLand",
       "jQuery"
     ]
-  },
-  {
-    "domain": "nuchart.co.uk",
-    "title": "NuChart Limited | Outsourced Bookkeeping Services",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 124318,
-    "crawled_at": "2025-11-04T04:53:39.950919626Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Aruba",
-      "Calendly",
-      "Content Delivery Network",
-      "DC74",
-      "Dext",
-      "Fastly",
-      "Fastly CDN",
-      "Financial Services Guide",
-      "Fireblade",
-      "FormSubmit",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "POWr",
-      "PWA",
-      "Pico CSS",
-      "QUIC",
-      "SMC",
-      "SiteW",
-      "Subversion",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "Xero",
-      "eLand",
-      "mlcom"
-    ]
   }
 ]
