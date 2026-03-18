@@ -1,5 +1,31 @@
 [
   {
+    "domain": "footrevibrant.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 23088,
+    "crawled_at": "2026-03-17T23:02:30.751027827Z",
+    "technologies": [
+      "Advisory Board",
+      "Alternate Protocol",
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Everflow",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "QUIC",
+      "Tailwind CSS",
+      "Tidio",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "akusolishop.com",
     "title": "Akusoli Insoles - Magnetic Acupressure for Effective Pain Relief | Akusoli",
     "business_name": "Akusoli",
