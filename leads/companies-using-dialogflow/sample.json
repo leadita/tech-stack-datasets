@@ -8659,40 +8659,5 @@
       "UTF-8",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "saugertieslaundry.com",
-    "title": "Saugerties Laundry",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 50240,
-    "crawled_at": "2025-11-04T01:59:49.000325349Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "App Store",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Dialogflow",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Fancybox for WordPress",
-      "Google Analytics",
-      "Google Customer Reviews",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nuxt.js",
-      "SMC",
-      "UTF-8",
-      "Yelp Badge",
-      "jsDelivr"
-    ]
   }
 ]
