@@ -1,5 +1,48 @@
 [
   {
+    "domain": "wylfings.com",
+    "title": "Wylfings",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 62,
+    "tech_spend": 1660,
+    "crawled_at": "2026-03-18T09:20:24.353654957Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Envoy",
+      "Express",
+      "Ghost",
+      "Matomo Tag Manager",
+      "Microdata for Google Shopping",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "thebeautifulidea.show",
+    "title": "The Beautiful Idea",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 660,
+    "crawled_at": "2026-03-18T00:29:07.880284543Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Express",
+      "GZIP Module",
+      "Ghost",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "UTF-8",
+      "Ubuntu",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "zendaofir.com",
     "title": "Evaluation and Transformation",
     "business_name": "",
@@ -13150,61 +13193,6 @@
       "OpenResty",
       "QUIC",
       "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "nickhammond.com",
-    "title": "From The Keyboard",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 822,
-    "crawled_at": "2025-11-16T06:32:05.0105175Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Ghost",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "Plausible Analytics",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "thechocolatelife.com",
-    "title": "TheChocolateLife – News, Views & Conversations about Cocoa & Chocolate.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 7051,
-    "crawled_at": "2025-11-16T06:01:49.557931694Z",
-    "technologies": [
-      "Algolia",
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Coming Soon Page",
-      "Express",
-      "Ghost",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "InitiativeS",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Perl",
-      "Stripe",
-      "UTF-8",
-      "Ubuntu",
       "jsDelivr"
     ]
   }
