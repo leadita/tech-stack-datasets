@@ -1,5 +1,26 @@
 [
   {
+    "domain": "sheetmidi.com",
+    "title": "Halbestunde Music Plugin",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 228,
+    "crawled_at": "2026-03-17T16:50:00.982940527Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Netlify",
+      "Next.js",
+      "PWA",
+      "Pleroma",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "dronealo.com.ar",
     "title": "Dronealo",
     "business_name": "",
@@ -13023,27 +13044,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "motionshot.app",
-    "title": "MotionShot - Make screen guides under minutes!",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 600,
-    "crawled_at": "2026-01-12T08:07:46.521804836Z",
-    "technologies": [
-      "Amazon S3 CDN",
-      "Chakra UI",
-      "Content Delivery Network",
-      "Lemon Squeezy",
-      "Next.js",
-      "Pico CSS",
-      "Pleroma",
-      "Storyblocks",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
