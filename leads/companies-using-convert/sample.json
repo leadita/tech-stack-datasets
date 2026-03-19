@@ -1,5 +1,35 @@
 [
   {
+    "domain": "nellboutique.com",
+    "title": "Aspen Shopping | Boutique in Aspen | The Little Nell",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 49040,
+    "crawled_at": "2026-03-19T05:21:35.757315652Z",
+    "technologies": [
+      "Convert",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Hotjar",
+      "Imperva Bot Detection and Mitigation",
+      "Incapsula CDN",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Microsoft Application Insights",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Revinate",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "feals.com",
     "title": "Premium Microdose CBD + THC Health Supplements | Feals",
     "business_name": "Feals",
@@ -3508,35 +3538,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "nellboutique.com",
-    "title": "Aspen Shopping | Boutique in Aspen | The Little Nell",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 49040,
-    "crawled_at": "2025-11-04T09:05:38.880807203Z",
-    "technologies": [
-      "Convert",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Hotjar",
-      "Imperva Bot Detection and Mitigation",
-      "Incapsula CDN",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Microsoft Application Insights",
-      "Microsoft Azure",
-      "Revinate",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
