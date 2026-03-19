@@ -1,5 +1,39 @@
 [
   {
+    "domain": "grandculture.ca",
+    "title": "Grand Culture | Arts Culture Heritage in Brant Region",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 55946,
+    "crawled_at": "2026-03-19T02:58:20.585707737Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "BetterMode",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "ElementUI",
+      "Fireblade",
+      "Flat Icon",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Imgix",
+      "Instagram Follow Button",
+      "KVH",
+      "Medium",
+      "PWA",
+      "QUIC",
+      "Tailwind CSS",
+      "Tribe.so",
+      "Twitter Ads",
+      "Vector Internet Services",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "cerulea.org",
     "title": "Asociación Cerúlea",
     "business_name": "",
@@ -1834,39 +1868,6 @@
       "iugo",
       "jQuery",
       "mssg.me"
-    ]
-  },
-  {
-    "domain": "grandculture.ca",
-    "title": "Home - Grand Culture",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 15573,
-    "crawled_at": "2025-11-04T08:23:38.897183456Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "BetterMode",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "ElementUI",
-      "Fireblade",
-      "Flat Icon",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Imgix",
-      "Instagram Follow Button",
-      "Medium",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "Tribe.so",
-      "Twitter Ads",
-      "Vector Internet Services",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]
