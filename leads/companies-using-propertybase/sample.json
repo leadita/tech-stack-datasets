@@ -3381,45 +3381,5 @@
       "jQuery Pin It Button for Images",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "mycitycountry.com",
-    "title": "The City Country Group",
-    "business_name": "The City Country Group @ Vanguard Properties",
-    "country": "VEN",
-    "seo_score": 72,
-    "tech_spend": 34226,
-    "crawled_at": "2025-11-04T09:04:27.797960855Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Apache",
-      "Apture Linking Platform",
-      "Cisco/Arrowpoint Content Service Switch",
-      "CoreUI",
-      "Fastly CDN",
-      "GZIP Module",
-      "GetResponse",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Homes.com CMS",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "New Relic",
-      "Phusion Passenger Enterprise",
-      "PropertyBase",
-      "Rackspace CDN",
-      "Twitter Ads",
-      "UTF-8",
-      "Yelp Badge",
-      "YouTube",
-      "jQuery Pin It Button for Images",
-      "reCAPTCHA"
-    ]
   }
 ]
