@@ -1830,32 +1830,5 @@
       "Zinrelo",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "fernish.dev",
-    "title": "Fernish: Furniture rental for an easier and more sustainable home.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 5264,
-    "crawled_at": "2025-11-04T09:08:07.30328517Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "ButterCMS",
-      "CloudFront",
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "GZIP Module",
-      "K2F",
-      "Next.js",
-      "Nginx",
-      "No-Q",
-      "Pleroma",
-      "Subversion",
-      "UTF-8",
-      "Ubuntu"
-    ]
   }
 ]
