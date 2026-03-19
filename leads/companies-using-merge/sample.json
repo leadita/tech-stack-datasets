@@ -508,44 +508,5 @@
       "YouTube",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "mshfaucet.xyz",
-    "title": "Mushee",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 9226,
-    "crawled_at": "2025-11-04T06:56:13.120402955Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Apture Linking Platform",
-      "Blockchain",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Crypto.com",
-      "DAV",
-      "Gravity",
-      "Harmony One",
-      "IPFS",
-      "Merge",
-      "Netlify",
-      "Oracle Cloud",
-      "Perl",
-      "QUIC",
-      "RM Education",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "Verse.io",
-      "Zerion",
-      "jsDelivr",
-      "shadcn ui"
-    ]
   }
 ]
