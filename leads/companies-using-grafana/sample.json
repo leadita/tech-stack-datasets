@@ -1,5 +1,23 @@
 [
   {
+    "domain": "scrapers.world",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 1200,
+    "crawled_at": "2026-03-18T23:57:49.434575271Z",
+    "technologies": [
+      "Barchart",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Grafana",
+      "Nginx",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "stromfee.info",
     "title": "StromfeeME: Power-Analysen",
     "business_name": "",
