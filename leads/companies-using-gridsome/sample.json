@@ -1,5 +1,104 @@
 [
   {
+    "domain": "petitecode.mx",
+    "title": "PetiteCode",
+    "business_name": "",
+    "country": "",
+    "seo_score": 32,
+    "tech_spend": "",
+    "crawled_at": "2026-03-19T17:43:36.279484717Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Gridsome",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "echoes.io",
+    "title": "Echoes: The leading Voice of Customer Operating System - Echoes",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 4850,
+    "crawled_at": "2026-03-19T07:58:49.468068639Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Fastly",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gridsome",
+      "QUIC",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "loaded-open.eu",
+    "title": "Úvod - Nahráno - Otevřeno",
+    "business_name": "",
+    "country": "CZE",
+    "seo_score": 67,
+    "tech_spend": 4228,
+    "crawled_at": "2026-03-19T05:12:52.143411625Z",
+    "technologies": [
+      "Cloudinary",
+      "Content Delivery Network",
+      "Financial Services Guide",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "QUIC",
+      "Subversion",
+      "UTF-8",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "angelosemeraro.info",
+    "title": "Home - Angelo Semeraro",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 6050,
+    "crawled_at": "2026-03-19T03:25:01.55163352Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Gridsome",
+      "Idaq",
+      "KVH",
+      "Medium",
+      "Netlify",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "creditok.co",
+    "title": "ผ่อนประกันธุรกิจ โรงงาน ประกันสุขภาพกลุ่ม ประกันรถยนต์ 0% สูงสุด 6 งวด สำหรับ SME - Credit OK",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 7500,
+    "crawled_at": "2026-03-19T00:36:07.468680958Z",
+    "technologies": [
+      "Fireblade",
+      "Google Analytics",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "Gridsome",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "nordben.com",
     "title": "Monument International - Monument International",
     "business_name": "",
@@ -11680,119 +11779,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "belesprit-architecture.com",
-    "title": "Bel Esprit Architecture - Étienne Emptoz",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 40,
-    "tech_spend": "",
-    "crawled_at": "2025-11-12T19:35:09.922238113Z",
-    "technologies": [
-      "GZIP Module",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "clastix.io",
-    "title": "Clastix",
-    "business_name": "",
-    "country": "ITA",
-    "seo_score": 72,
-    "tech_spend": 34168,
-    "crawled_at": "2025-11-12T19:17:39.97942407Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Gridsome",
-      "NFOrce Internet",
-      "Netlify",
-      "Rackspace Cloud Servers",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "inlink.ee",
-    "title": "Inlink OÜ | Serverid, Võrgud, Süsteemid, Erilahendused, Linux",
-    "business_name": "",
-    "country": "EST",
-    "seo_score": 62,
-    "tech_spend": 22440,
-    "crawled_at": "2025-11-12T17:38:39.958000405Z",
-    "technologies": [
-      "Apache",
-      "DAV",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Gridsome",
-      "KVH",
-      "Subversion",
-      "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "estudio42.com.br",
-    "title": "Home! - Estúdio 42",
-    "business_name": "",
-    "country": "",
-    "seo_score": 32,
-    "tech_spend": 3,
-    "crawled_at": "2025-11-12T16:01:57.210939826Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Gridsome",
-      "Instagram Follow Button",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "devulsoft.com",
-    "title": "undefined",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 7189,
-    "crawled_at": "2025-11-12T13:41:38.971242894Z",
-    "technologies": [
-      "Amazon Link Enchancer",
-      "Amazon Widgets",
-      "Apache",
-      "CM Commerce",
-      "Cloudinary",
-      "Content Delivery Network",
-      "Fastly",
-      "Formspree",
-      "GitHub Hosting",
-      "Google My Business",
-      "Gridsome",
-      "Line2",
-      "Nuxt.js",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
       "shadcn ui"
     ]
   }

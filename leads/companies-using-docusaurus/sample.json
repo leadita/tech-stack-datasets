@@ -1,5 +1,73 @@
 [
   {
+    "domain": "nenadwritesdocs.com",
+    "title": "Nenad Writes Docs",
+    "business_name": "",
+    "country": "",
+    "seo_score": 25,
+    "tech_spend": "",
+    "crawled_at": "2026-03-19T14:44:52.100163084Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Netlify",
+      "Perl",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "gamevau.lt",
+    "title": "The Ultimate Self-Hosted Gaming Platform | GameVault",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 2400,
+    "crawled_at": "2026-03-19T12:42:53.340394333Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "Gambling Content",
+      "GitHub Hosting",
+      "Liberapay",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "dhbalaji.dev",
+    "title": "dhbalaji, lead design technologist at Sabre",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 5040,
+    "crawled_at": "2026-03-19T11:47:03.324002656Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Dialogflow",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Tag Manager",
+      "InitiativeS",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "maharjanrohan.com.np",
     "title": "Rohan Maharjan",
     "business_name": "",
@@ -12398,74 +12466,6 @@
       "Perl",
       "Plausible Analytics",
       "Python"
-    ]
-  },
-  {
-    "domain": "nenadwritesdocs.com",
-    "title": "Nenad Writes Docs",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": "",
-    "crawled_at": "2025-11-04T11:59:47.403618384Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Netlify",
-      "Perl",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "gamevau.lt",
-    "title": "GameVault",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2400,
-    "crawled_at": "2025-11-04T11:16:38.551825707Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "Gambling Content",
-      "GitHub Hosting",
-      "Liberapay",
-      "Perl",
-      "Pico CSS",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "dhbalaji.dev",
-    "title": "dhbalaji, lead design technologist at Sabre",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 5040,
-    "crawled_at": "2025-11-04T10:53:29.347515035Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Dialogflow",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
