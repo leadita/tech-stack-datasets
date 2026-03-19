@@ -1,5 +1,27 @@
 [
   {
+    "domain": "dil.kpi.ua",
+    "title": "Kyiv Polytechnic Digital Library",
+    "business_name": "",
+    "country": "POL",
+    "seo_score": 62,
+    "tech_spend": "",
+    "crawled_at": "2026-03-19T10:42:18.72109145Z",
+    "technologies": [
+      "Add to Any",
+      "Apache",
+      "Apache Tomcat JK",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Perl",
+      "Telegram",
+      "UTF-8",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "riddhisahyog.in",
     "title": ":: Welcome to Riddhi Sahyog Nidhi Limited",
     "business_name": "",
@@ -13237,28 +13259,6 @@
       "Ntent",
       "Twitter Ads",
       "University or College",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "dil.kpi.ua",
-    "title": "Kyiv Polytechnic Digital Library",
-    "business_name": "",
-    "country": "POL",
-    "seo_score": 77,
-    "tech_spend": "",
-    "crawled_at": "2025-11-04T10:28:24.094148442Z",
-    "technologies": [
-      "Add to Any",
-      "Apache",
-      "Apache Tomcat JK",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Perl",
-      "Telegram",
-      "UTF-8",
-      "YouTube",
       "jQuery"
     ]
   }
