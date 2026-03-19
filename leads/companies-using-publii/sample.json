@@ -1,5 +1,50 @@
 [
   {
+    "domain": "infinitepurplegreen.ch",
+    "title": "Infinite Purple Green",
+    "business_name": "Infinite Purple Green",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 49,
+    "crawled_at": "2026-03-19T04:50:43.251212764Z",
+    "technologies": [
+      "Apache",
+      "Debian",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "businessmobilecontract.com",
+    "title": "BusinessMobileContract.com - Best Price 5G Business Mobile Contracts",
+    "business_name": "BusinessMobileContract.com",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 30578,
+    "crawled_at": "2026-03-18T21:46:47.534078833Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "CoreUI",
+      "Fireblade",
+      "Flat Icon",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "paulkater.com",
     "title": "Welkom/Welcome - Paul Kater International",
     "business_name": "",
@@ -6999,51 +7044,6 @@
       "Microdata for Google Shopping",
       "Publii",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "infinitepurplegreen.ch",
-    "title": "Infinite Purple Green",
-    "business_name": "Infinite Purple Green",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 49,
-    "crawled_at": "2025-11-04T08:58:43.513791819Z",
-    "technologies": [
-      "Apache",
-      "Debian",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "businessmobilecontract.com",
-    "title": "BusinessMobileContract.com - Best Price 5G Business Mobile Contracts",
-    "business_name": "BusinessMobileContract.com",
-    "country": "GBR",
-    "seo_score": 92,
-    "tech_spend": 30578,
-    "crawled_at": "2025-11-04T07:14:38.917794403Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "CoreUI",
-      "Fireblade",
-      "Flat Icon",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
     ]
   }
 ]

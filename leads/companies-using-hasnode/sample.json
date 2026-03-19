@@ -1,5 +1,28 @@
 [
   {
+    "domain": "thixpin.me",
+    "title": "Soe Thura | Site Reliability Engineer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 588,
+    "crawled_at": "2026-03-19T06:17:49.284966131Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google My Business",
+      "Google Play",
+      "Hasnode",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "plad.dev",
     "title": "Parth Lad - Data Engineer",
     "business_name": "",
@@ -11197,29 +11220,6 @@
       "iugo",
       "jQuery",
       "mssg.me"
-    ]
-  },
-  {
-    "domain": "thixpin.me",
-    "title": "Soe Thura | Site Reliability Engineer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 588,
-    "crawled_at": "2025-11-04T09:17:38.879511215Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google My Business",
-      "Google Play",
-      "Hasnode",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
