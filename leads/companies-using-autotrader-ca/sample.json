@@ -1,5 +1,64 @@
 [
   {
+    "domain": "bcwautomotivegroup.ca",
+    "title": "Mini Cooper Used Automotive Car Sales - BCW Automotive Group",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 18312,
+    "crawled_at": "2026-03-19T11:12:51.245680651Z",
+    "technologies": [
+      "Apache",
+      "AutoTrader CA",
+      "Express",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Line2",
+      "PWA",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
+    "domain": "lucidautohaus.ca",
+    "title": "BRAMPTON Used Car Dealer | New and Used Car For Sale | Lucid Auto Haus Inc",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 44528,
+    "crawled_at": "2026-03-19T04:32:21.97598937Z",
+    "technologies": [
+      "Amazon S3 CDN",
+      "AutoTrader CA",
+      "Azure Edge",
+      "Carpathia Hosting",
+      "Content Delivery Network",
+      "Dealer.com",
+      "Express",
+      "Free Call",
+      "Google",
+      "Google Cloud DNS",
+      "Google Customer Reviews",
+      "Google Font API",
+      "Google My Business",
+      "Harbor",
+      "Microsoft Azure Verified CDN",
+      "Netlify",
+      "Next.js",
+      "Onyx Internet",
+      "Perl",
+      "QUIC",
+      "Shifter",
+      "Storyblocks",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "autoone.ca",
     "title": "Luxury Car Dealership | Luxury Car Leasing Experts | AUTO ONE Group",
     "business_name": "",
@@ -1965,30 +2024,6 @@
       "Vagaro",
       "Yandex Hosting",
       "eLand"
-    ]
-  },
-  {
-    "domain": "bcwautomotivegroup.ca",
-    "title": "Mini Cooper Used Automotive Car Sales - BCW Automotive Group",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 18312,
-    "crawled_at": "2025-11-04T10:41:28.882547273Z",
-    "technologies": [
-      "Apache",
-      "AutoTrader CA",
-      "Express",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Line2",
-      "PWA",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
     ]
   }
 ]
