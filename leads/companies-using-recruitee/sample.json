@@ -1,5 +1,38 @@
 [
   {
+    "domain": "onlinedialog.de",
+    "title": "OnlineDialog | Die Agentur für digitale Kommunikation. Social Media, Facebook und PR aus Düsseldorf und Berlin. – Startseite",
+    "business_name": "OnlineDialog",
+    "country": "DEU",
+    "seo_score": 82,
+    "tech_spend": 32702,
+    "crawled_at": "2026-03-18T18:56:01.88918661Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Bulma",
+      "Complianz",
+      "Contact Form Plugin",
+      "DAV",
+      "Ektron",
+      "EmbedPress",
+      "Fonts.com",
+      "Friendly Captcha",
+      "GZIP Module",
+      "Google Analytics",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Recruitee",
+      "Tailwind CSS",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "play-chicken.xyz",
     "title": "Free Online Games on CrazyGames | Play Now!",
     "business_name": "",
@@ -8453,39 +8486,6 @@
       "eLand",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "onlinedialog.de",
-    "title": "OnlineDialog | Die Agentur für digitale Kommunikation. Social Media, Facebook und PR aus Düsseldorf und Berlin. – Startseite",
-    "business_name": "OnlineDialog",
-    "country": "DEU",
-    "seo_score": 77,
-    "tech_spend": 32702,
-    "crawled_at": "2025-11-04T06:45:59.718645248Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Bulma",
-      "Complianz",
-      "Contact Form Plugin",
-      "DAV",
-      "Ektron",
-      "EmbedPress",
-      "Fonts.com",
-      "Friendly Captcha",
-      "GZIP Module",
-      "Google Analytics",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Recruitee",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "reCAPTCHA"
     ]
   }
 ]
