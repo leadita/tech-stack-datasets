@@ -1,5 +1,30 @@
 [
   {
+    "domain": "droppedhub.com",
+    "title": "Find Expired Domains Names | DroppedHub",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 844,
+    "crawled_at": "2026-03-19T13:06:44.590357196Z",
+    "technologies": [
+      "Beehiiv",
+      "Content Delivery Network",
+      "Headless UI",
+      "Namecheap",
+      "Next.js",
+      "Pleroma",
+      "Product Hunt",
+      "QUIC",
+      "Radix UI",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "allinclusivewebsitedesigners.com",
     "title": "All-Inclusive Web Design Agency – Elevating Start-Ups, Authors, and Small Businesses with Stellar Websites",
     "business_name": "",
@@ -312,54 +337,6 @@
       "UTF-8",
       "WordPress",
       "WordPress Multisite"
-    ]
-  },
-  {
-    "domain": "droppedhub.com",
-    "title": "Find Expired Domains Names | DroppedHub",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 844,
-    "crawled_at": "2025-11-04T11:24:13.775846071Z",
-    "technologies": [
-      "Beehiiv",
-      "Content Delivery Network",
-      "Headless UI",
-      "Namecheap",
-      "Next.js",
-      "Pleroma",
-      "Product Hunt",
-      "QUIC",
-      "Radix UI",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "orlegniazdo.com",
-    "title": "Orlegniazdo.com is for sale",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 1368,
-    "crawled_at": "2025-11-04T10:29:38.886638047Z",
-    "technologies": [
-      "Dynadot",
-      "GoDaddy",
-      "IcoMoon",
-      "LiteSpeed",
-      "Namecheap",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "Tawk",
-      "UTF-8",
-      "Website Tonight",
-      "jsDelivr"
     ]
   }
 ]

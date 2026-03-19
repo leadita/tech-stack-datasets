@@ -1,12 +1,12 @@
 [
   {
-    "domain": "akobicol.com",
+    "domain": "pet-shirt.com",
     "title": "Build Your Brand with JM XTRADE, INC.",
     "business_name": "",
     "country": "",
     "seo_score": 47,
     "tech_spend": 135,
-    "crawled_at": "2026-03-18T15:31:29.192788513Z",
+    "crawled_at": "2026-03-18T23:08:54.989291522Z",
     "technologies": [
       "Amazon CloudFront",
       "CloudFront",
@@ -3424,29 +3424,6 @@
       "Umbler",
       "University or College",
       "eLand"
-    ]
-  },
-  {
-    "domain": "orlegniazdo.com",
-    "title": "Orlegniazdo.com is for sale",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 1368,
-    "crawled_at": "2025-11-04T10:29:38.886638047Z",
-    "technologies": [
-      "Dynadot",
-      "GoDaddy",
-      "IcoMoon",
-      "LiteSpeed",
-      "Namecheap",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "Tawk",
-      "UTF-8",
-      "Website Tonight",
-      "jsDelivr"
     ]
   }
 ]
