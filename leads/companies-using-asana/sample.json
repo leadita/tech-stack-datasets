@@ -1,5 +1,41 @@
 [
   {
+    "domain": "dellmedgiving.com",
+    "title": "Health Starts Here. It Starts With You.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 82,
+    "tech_spend": 29198,
+    "crawled_at": "2026-03-19T08:47:04.600773584Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apache",
+      "Asana",
+      "Craft",
+      "Debian",
+      "ETranslate",
+      "Fastly CDN",
+      "Font Awesome",
+      "GTranslate",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Microsoft Azure Blob Storage",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "finseo.ai",
     "title": "Finseo - AI-Powered SEO Tools for Next-Gen Search Optimization",
     "business_name": "Finseo",
@@ -18823,41 +18859,6 @@
       "YouTube",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "dellmedgiving.com",
-    "title": "Health Starts Here. It Starts With You.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 21998,
-    "crawled_at": "2025-11-04T09:53:47.665734045Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apache",
-      "Asana",
-      "Craft",
-      "Debian",
-      "ETranslate",
-      "Font Awesome",
-      "GTranslate",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Microsoft Azure Blob Storage",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]
