@@ -4874,40 +4874,5 @@
       "Tealium",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "squiggly.info",
-    "title": "Swatch Watch Bands • Official dealer • Mastersintime.com",
-    "business_name": "Mastersintime.com",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 27389,
-    "crawled_at": "2025-11-04T09:25:05.086090382Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Adyen",
-      "Alternate Protocol",
-      "Aruba",
-      "Coming Soon Page",
-      "Flat Icon",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hotjar",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Onyx Internet",
-      "PHP",
-      "Tailwind CSS",
-      "Trusted Shops",
-      "UTF-8",
-      "VWO Engage",
-      "Visual Website Optimizer",
-      "YouTube",
-      "eLand",
-      "reCAPTCHA",
-      "shadcn ui"
-    ]
   }
 ]
