@@ -1,5 +1,44 @@
 [
   {
+    "domain": "rxweb.cwh.ie",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 3159,
+    "crawled_at": "2026-03-20T18:52:14.0628845Z",
+    "technologies": [
+      "Apache",
+      "Barchart",
+      "Express",
+      "GitHub Hosting",
+      "Grafana",
+      "Paessler",
+      "UTF-8",
+      "Visx",
+      "Yandex Hosting"
+    ]
+  },
+  {
+    "domain": "stage-rheo.com",
+    "title": "Rheo",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 1260,
+    "crawled_at": "2026-03-20T17:12:01.062225421Z",
+    "technologies": [
+      "Amazon",
+      "Apache",
+      "Barchart",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Grafana",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "scrapers.world",
     "title": "Grafana",
     "business_name": "",
@@ -15,26 +54,6 @@
       "Grafana",
       "Nginx",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "stromfee.info",
-    "title": "StromfeeME: Power-Analysen",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 1200,
-    "crawled_at": "2026-03-18T09:09:37.902009365Z",
-    "technologies": [
-      "Barchart",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Grafana",
-      "Nginx",
-      "UTF-8",
-      "Ubuntu"
     ]
   },
   {
@@ -56,25 +75,21 @@
     ]
   },
   {
-    "domain": "schuler-valuestream.net",
+    "domain": "cairos.app",
     "title": "Grafana",
     "business_name": "",
     "country": "",
-    "seo_score": 55,
-    "tech_spend": 1260,
-    "crawled_at": "2026-03-06T15:53:31.326551634Z",
+    "seo_score": 30,
+    "tech_spend": 11200,
+    "crawled_at": "2026-02-28T04:18:36.50243153Z",
     "technologies": [
       "Apache",
       "Barchart",
+      "Contento",
       "Express",
-      "GZIP Module",
       "GitHub Hosting",
-      "Google Forms",
-      "Google My Business",
       "Grafana",
-      "UTF-8",
-      "Ubuntu",
-      "Yandex Hosting"
+      "UTF-8"
     ]
   },
   {
@@ -100,25 +115,6 @@
       "RawGit",
       "SMC",
       "Subversion",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "stage-rheo.com",
-    "title": "Rheo",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 1260,
-    "crawled_at": "2025-11-04T19:08:38.893414737Z",
-    "technologies": [
-      "Amazon",
-      "Apache",
-      "Barchart",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Grafana",
       "UTF-8"
     ]
   }
