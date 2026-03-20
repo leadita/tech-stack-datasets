@@ -2922,37 +2922,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "drinknine.com",
-    "title": "Nine Dot Beverages",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 8354,
-    "crawled_at": "2025-11-04T14:02:12.659474605Z",
-    "technologies": [
-      "BigCommerce",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cornerstone",
-      "Elfsight",
-      "Express",
-      "Fireblade",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Klaviyo",
-      "Perl",
-      "QUIC",
-      "Subversion",
-      "ThoughtMetric",
-      "UTF-8",
-      "jsDelivr"
-    ]
   }
 ]

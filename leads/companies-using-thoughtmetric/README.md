@@ -1,6 +1,6 @@
 # Companies Using ThoughtMetric (Live Dataset 2026)
 
-This folder contains an active list of 77 companies using **ThoughtMetric**. 
+This folder contains an active list of 76 companies using **ThoughtMetric**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 77
+- **Total Leads:** 76
 - **Verified:** Yes
-- **Last Updated:** 2026-03-19 13:00 UTC
+- **Last Updated:** 2026-03-20 13:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **77+** companies using ThoughtMetric.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **76+** companies using ThoughtMetric.
 
 [**⚡ Unlock the Full ThoughtMetric List with Contact Details**](https://leadita.com/leads/companies-using-thoughtmetric)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-19 13:00 UTC*
+*Last updated: 2026-03-20 13:00 UTC*
 *Data source: Leadita Technographic Intelligence*
