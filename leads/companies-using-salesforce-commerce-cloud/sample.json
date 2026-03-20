@@ -14784,41 +14784,5 @@
       "accessiBe",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "compy.mx",
-    "title": "Planea tu compra smart | Compara precios con Compy.mx",
-    "business_name": "",
-    "country": "",
-    "seo_score": 82,
-    "tech_spend": 500096,
-    "crawled_at": "2025-11-04T16:50:08.626950048Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Favorites for WordPress",
-      "FormSubmit",
-      "Google Adsense",
-      "Google Analytics",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google Reseller",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "PWA",
-      "QUIC",
-      "Salesforce Commerce Cloud",
-      "Telegram",
-      "UTF-8",
-      "Walmart"
-    ]
   }
 ]
