@@ -1,5 +1,32 @@
 [
   {
+    "domain": "clementtse.com",
+    "title": "Clement Tse",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 82,
+    "tech_spend": 24647,
+    "crawled_at": "2026-03-20T11:33:27.178530864Z",
+    "technologies": [
+      "CCSI",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "DAV",
+      "Financial Services Guide",
+      "Gatsby JS",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Hotjar",
+      "Jane App",
+      "Netlify",
+      "QUIC",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "simplysadiejane.com",
     "title": "Simply Sadie Jane",
     "business_name": "Simply Sadie Jane",
@@ -2555,33 +2582,6 @@
       "University or College",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "clementtse.com",
-    "title": "Clement Tse",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 24647,
-    "crawled_at": "2025-11-04T17:45:05.696846971Z",
-    "technologies": [
-      "CCSI",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "Gatsby JS",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Hotjar",
-      "Jane App",
-      "Netlify",
-      "QUIC",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]
