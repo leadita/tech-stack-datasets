@@ -1,5 +1,31 @@
 [
   {
+    "domain": "dhbalaji.dev",
+    "title": "dhbalaji, lead design technologist at Sabre",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 5040,
+    "crawled_at": "2026-03-19T11:47:03.324002656Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Dialogflow",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Tag Manager",
+      "InitiativeS",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "stemsuccessglobaltutors.org",
     "title": "STEM SUCCESS GLOBAL TUTORS| Online Math, Physics, Computer Science, Chess Specialists",
     "business_name": "",
@@ -8559,31 +8585,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "dhbalaji.dev",
-    "title": "dhbalaji, lead design technologist at Sabre",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 5040,
-    "crawled_at": "2025-11-04T10:53:29.347515035Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Dialogflow",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
