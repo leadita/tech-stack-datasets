@@ -1,5 +1,39 @@
 [
   {
+    "domain": "mydcmg.com",
+    "title": "DC Multimedia Group",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 29244,
+    "crawled_at": "2026-03-20T02:10:21.252004632Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Aruba",
+      "Baidu Cloud",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "Onyx Internet",
+      "OpenResty",
+      "Perl",
+      "QuickBooks Online",
+      "Twitter Ads",
+      "UTF-8",
+      "Unsplash",
+      "eLand",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "majorsaccounts.com",
     "title": "Majors Accounts | Chartered Certified Accountants | London",
     "business_name": "Majors Accounts",
@@ -8187,40 +8221,6 @@
       "Twitter Ads",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "mydcmg.com",
-    "title": "DC Multimedia Group",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 29244,
-    "crawled_at": "2025-11-04T15:32:38.900829978Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Aruba",
-      "Baidu Cloud",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DAV",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "Onyx Internet",
-      "OpenResty",
-      "Perl",
-      "QuickBooks Online",
-      "Twitter Ads",
-      "UTF-8",
-      "Unsplash",
-      "eLand",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
