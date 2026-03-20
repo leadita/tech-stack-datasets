@@ -1,5 +1,31 @@
 [
   {
+    "domain": "whytecleon.com.ng",
+    "title": "Whyte Cleon Limited | Human Resource Outsourcing & Consulting Company",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 11358,
+    "crawled_at": "2026-03-20T16:36:55.045284876Z",
+    "technologies": [
+      "Fastly",
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Moodle",
+      "NFOrce Internet",
+      "PHP",
+      "QUIC",
+      "Totara",
+      "Twitter Ads",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "train-linux.de",
     "title": "Home | train-linux.de",
     "business_name": "",
@@ -1222,32 +1248,6 @@
       "NFOrce Internet",
       "PHP",
       "Totara",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "whytecleon.com.ng",
-    "title": "Whyte Cleon Limited | Human Resource Outsourcing & Consulting Company",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 11358,
-    "crawled_at": "2025-11-04T18:59:49.959637075Z",
-    "technologies": [
-      "Fastly",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "Totara",
-      "Twitter Ads",
       "UTF-8",
       "jsDelivr"
     ]
