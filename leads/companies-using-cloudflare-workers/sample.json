@@ -1,5 +1,77 @@
 [
   {
+    "domain": "nivekithan.com",
+    "title": "Nivekithan's Blog",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 21288,
+    "crawled_at": "2026-03-20T00:47:40.011535917Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Astro",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Workers",
+      "Form.IO",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Perl",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "dh.gle.cc",
+    "title": "搜一下 - Search It",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 252,
+    "crawled_at": "2026-03-19T22:30:41.33744019Z",
+    "technologies": [
+      "ArvanCloud",
+      "Baidu Ads",
+      "Baidu Cloud",
+      "Bing Cashback",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "GitHub Hosting",
+      "Google My Business",
+      "Semantic UI",
+      "UTF-8",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "irshad.work",
+    "title": "Irshad Ali | Home",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 62,
+    "tech_spend": 2968,
+    "crawled_at": "2026-03-19T14:44:52.075175932Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Netlify",
+      "Python",
+      "Svelte",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "infrabio.dev",
     "title": "Space Portfolio",
     "business_name": "",
@@ -14512,76 +14584,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "aakash19here.me",
-    "title": "aakash - portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 60,
-    "crawled_at": "2025-11-09T14:32:54.853012227Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google My Business",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "harounabidi.com",
-    "title": "Haroun Abidi",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 120,
-    "crawled_at": "2025-11-09T07:32:47.83085151Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Workers",
-      "GitHub Hosting",
-      "Google Related Website Sites",
-      "Tailwind CSS",
-      "UTF-8",
-      "Yandex Hosting"
-    ]
-  },
-  {
-    "domain": "cloudagent.dev",
-    "title": "CloudAgentKit - Starter Kit for building Agents, MCPs, SaaS on Cloudflare.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 4120,
-    "crawled_at": "2025-11-08T23:07:45.407555091Z",
-    "technologies": [
-      "Astro",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "Crisp",
-      "ElementUI",
-      "Free Call",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "QUIC",
-      "Tailwind CSS",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
