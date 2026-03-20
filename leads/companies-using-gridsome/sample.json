@@ -1,5 +1,53 @@
 [
   {
+    "domain": "thoughtsimplified.com",
+    "title": "Home - ThoughtSimplified - Cloud Expertise",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2490,
+    "crawled_at": "2026-03-20T02:20:57.589283844Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "docr.app",
+    "title": "Docr",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2450,
+    "crawled_at": "2026-03-20T02:20:57.583195301Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Gridsome",
+      "Tailwind CSS",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "petitecode.mx",
     "title": "PetiteCode",
     "business_name": "",
@@ -11739,47 +11787,6 @@
       "Gridsome",
       "Netlify",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "istiqlal.now.sh",
-    "title": "Istiqlal - Web",
-    "business_name": "",
-    "country": "IDN",
-    "seo_score": 37,
-    "tech_spend": 15198,
-    "crawled_at": "2025-11-12T23:35:39.968815482Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "Gridsome",
-      "No-Q",
-      "SMC",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "tuonglaifoods.vn",
-    "title": "Tương Lai Foods - DNTN Chế biến thực phẩm Tương Lai - Khô bò, khô mực chế biến theo công thức gia truyền - heartfelt-cupcake-a9c795",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2668,
-    "crawled_at": "2025-11-12T22:29:39.969158495Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Netlify",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]

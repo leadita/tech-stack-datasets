@@ -1,5 +1,99 @@
 [
   {
+    "domain": "tw-7.com",
+    "title": "Welcome to Technical Writer's Weekly | Technical Writer's Weekly",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 5600,
+    "crawled_at": "2026-03-20T19:19:26.991234187Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "M247",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "granular-registry.com",
+    "title": "Precision Tracking for a Decarbonized Grid | Granular Certificate Registry",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 17450,
+    "crawled_at": "2026-03-20T18:29:29.216157284Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "InitiativeS",
+      "Perl"
+    ]
+  },
+  {
+    "domain": "unpackerr.zip",
+    "title": "Unpackerr | Unpackerr Extracter",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 600,
+    "crawled_at": "2026-03-20T09:34:37.338545895Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "FreeBSD",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "jeffmcbride.net",
+    "title": "Home | Jeff McBride",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 2718,
+    "crawled_at": "2026-03-20T01:17:49.339357428Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Perl",
+      "Plausible Analytics",
+      "Python"
+    ]
+  },
+  {
     "domain": "nenadwritesdocs.com",
     "title": "Nenad Writes Docs",
     "business_name": "",
@@ -12395,77 +12489,6 @@
       "UTF-8",
       "Vector Internet Services",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "tw-7.com",
-    "title": "Welcome to Technical Writer's Weekly | Technical Writer's Weekly",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 5600,
-    "crawled_at": "2025-11-04T19:25:30.974133204Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "M247",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "unpackerr.zip",
-    "title": "Unpackerr | Unpackerr Extracter",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2400,
-    "crawled_at": "2025-11-04T17:13:41.306701327Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "FreeBSD",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "jeffmcbride.net",
-    "title": "Home | Jeff McBride",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 2718,
-    "crawled_at": "2025-11-04T15:20:38.948364942Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Perl",
-      "Plausible Analytics",
-      "Python"
     ]
   }
 ]
