@@ -841,31 +841,5 @@
       "jQuery",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "koushikanand.com",
-    "title": "Koushik Anand — Aurora Dark (Final)",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 87,
-    "tech_spend": 78395,
-    "crawled_at": "2025-11-04T16:20:38.908890082Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "DAV",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Workspace",
-      "InitiativeS",
-      "KVH",
-      "Netlify",
-      "Phew",
-      "Ping Identity",
-      "Plausible Analytics",
-      "Subversion",
-      "UTF-8"
-    ]
   }
 ]
