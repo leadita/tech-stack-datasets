@@ -1868,33 +1868,5 @@
       "QUIC",
       "VinSolutions"
     ]
-  },
-  {
-    "domain": "kelvinsolutions.net",
-    "title": "Track Your Performance with Our Sports Tracker",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 39032,
-    "crawled_at": "2025-11-04T17:17:48.482681749Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Line2",
-      "PWA",
-      "UTF-8",
-      "VinSolutions",
-      "Wangsu",
-      "Website Tonight",
-      "YouTube"
-    ]
   }
 ]

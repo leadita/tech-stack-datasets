@@ -1,5 +1,30 @@
 [
   {
+    "domain": "sell.market",
+    "title": "Selection of marketplaces and product aggregators - SELL.MARKET | sell.market",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 10060,
+    "crawled_at": "2026-03-19T13:24:46.830479336Z",
+    "technologies": [
+      "Angular",
+      "AutoTrader CA",
+      "CafePress",
+      "Express",
+      "GZIP Module",
+      "GrubHub",
+      "Monster",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "UTF-8",
+      "Vagaro",
+      "Yandex Hosting",
+      "eLand"
+    ]
+  },
+  {
     "domain": "bcwautomotivegroup.ca",
     "title": "Mini Cooper Used Automotive Car Sales - BCW Automotive Group",
     "business_name": "",
@@ -1999,31 +2024,6 @@
       "Thank You",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "sell.market",
-    "title": "Selection of marketplaces and product aggregators - SELL.MARKET | sell.market",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 10060,
-    "crawled_at": "2025-11-04T11:31:52.611300447Z",
-    "technologies": [
-      "Angular",
-      "AutoTrader CA",
-      "CafePress",
-      "Express",
-      "GZIP Module",
-      "GrubHub",
-      "Monster",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "UTF-8",
-      "Vagaro",
-      "Yandex Hosting",
-      "eLand"
     ]
   }
 ]
