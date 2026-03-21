@@ -1,5 +1,107 @@
 [
   {
+    "domain": "ipswicho2.com.au",
+    "title": "Welcome | Ipswich O2",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 8828,
+    "crawled_at": "2026-03-21T13:01:03.30092102Z",
+    "technologies": [
+      "BunnyCDN",
+      "BunnyCDN General",
+      "Chakra UI",
+      "Content Delivery Network",
+      "DC74",
+      "Gatsby JS",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Netlify",
+      "Perl",
+      "UTF-8",
+      "University or College",
+      "WordPress",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "calianresponseready.dev",
+    "title": "ResponseReady® | Industry-leading platform for supporting emergency simulations",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 600,
+    "crawled_at": "2026-03-21T09:30:06.953673766Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Chakra UI",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "JW Player Platform",
+      "Next.js",
+      "Nginx",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "daretable.com",
+    "title": "Home • 🎪 DareTable",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 24280,
+    "crawled_at": "2026-03-20T22:09:32.363838721Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Airtable",
+      "Chakra UI",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudinary",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "va-rea.org",
+    "title": "VACE",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 249,
+    "crawled_at": "2026-03-20T18:52:14.023224234Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Chakra UI",
+      "CloudFront",
+      "Constant Contact",
+      "Content Delivery Network",
+      "CoolText",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "bizflip.it",
     "title": "Bizflip - Aziende in vendita e gestione in Italia",
     "business_name": "",
@@ -780,28 +882,6 @@
       "Python",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "calianresponseready.com",
-    "title": "ResponseReady® | Industry-leading platform for supporting emergency simulations",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 600,
-    "crawled_at": "2026-03-16T04:07:48.052995312Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Chakra UI",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "JW Player Platform",
-      "Next.js",
-      "Nginx",
-      "QUIC",
-      "UTF-8"
     ]
   },
   {
@@ -12947,73 +13027,6 @@
       "UTF-8",
       "Vercel",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "digiart.ca",
-    "title": "Home • digiArt",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 67,
-    "tech_spend": 1784,
-    "crawled_at": "2026-01-14T02:46:32.404581564Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Chakra UI",
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Replain",
-      "Sapper",
-      "UTF-8",
-      "University or College",
-      "Unsplash",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "golf-coutainville.com",
-    "title": "Le Golf d'Agon-coutainville",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 3828,
-    "crawled_at": "2026-01-14T00:05:24.969298227Z",
-    "technologies": [
-      "Amazon",
-      "Chakra UI",
-      "Content Delivery Network",
-      "Envoy",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Sanity",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "viralpals.com",
-    "title": "Automate social media and drive traffic to your app or website | Viral Pals",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 63,
-    "crawled_at": "2026-01-13T22:27:45.363940491Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Remix",
-      "Vercel"
     ]
   }
 ]
