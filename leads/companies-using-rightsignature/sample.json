@@ -1,5 +1,32 @@
 [
   {
+    "domain": "cpforjobs.com",
+    "title": "ClearPoint Staffing",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 189,
+    "crawled_at": "2026-03-21T11:13:03.907634194Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "ElementUI",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "RightSignature",
+      "Vue.js",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "3ess.no",
     "title": "3ESS",
     "business_name": "",
@@ -2090,32 +2117,6 @@
       "WooCommerce Checkout",
       "WordPress",
       "WordPress Multisite",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "cpforjobs.com",
-    "title": "ClearPoint Staffing",
-    "business_name": "",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 2790,
-    "crawled_at": "2025-11-04T22:56:38.923086184Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "ElementUI",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "RightSignature",
       "jQuery"
     ]
   }
