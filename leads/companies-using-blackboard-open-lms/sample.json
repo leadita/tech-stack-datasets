@@ -1,5 +1,30 @@
 [
   {
+    "domain": "adamzap.com",
+    "title": "adamzap",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 38928,
+    "crawled_at": "2026-03-21T03:38:40.133816602Z",
+    "technologies": [
+      "Amazon Widgets",
+      "Basecamp",
+      "Blackboard Open LMS",
+      "Camp",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Netlify",
+      "PHP",
+      "Phew",
+      "Python",
+      "UTF-8",
+      "WordPress",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "tulsa.tech",
     "title": "Get the training you need to get to work. | Tulsa Technology Center",
     "business_name": "",
@@ -2652,31 +2677,6 @@
       "WP Engine",
       "WordPress",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "adamzap.com",
-    "title": "adamzap",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 38928,
-    "crawled_at": "2025-11-04T21:22:08.225750516Z",
-    "technologies": [
-      "Amazon Widgets",
-      "Basecamp",
-      "Blackboard Open LMS",
-      "Camp",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Netlify",
-      "PHP",
-      "Phew",
-      "Python",
-      "UTF-8",
-      "WordPress",
-      "YouTube",
-      "eLand"
     ]
   }
 ]

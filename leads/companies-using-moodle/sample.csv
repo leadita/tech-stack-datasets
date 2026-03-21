@@ -1,4 +1,5 @@
 domain,title,business_name,country,seo_score,tech_spend,crawled_at,technologies
+aals-lms.com,Log in to the site | AALS,,,25,10500,2026-03-21T02:44:11.708461852Z,"['Moodle', 'NFOrce Internet', 'Nginx', 'PHP', 'Totara', 'UTF-8', 'jsDelivr']"
 whytecleon.com.ng,Whyte Cleon Limited | Human Resource Outsourcing & Consulting Company,,,50,11358,2026-03-20T16:36:55.045284876Z,"['Fastly', 'Font Awesome', 'Google Cloud DNS', 'Google Font API', 'IcoMoon', 'Instagram Follow Button', 'LiteSpeed', 'Moodle', 'NFOrce Internet', 'PHP', 'QUIC', 'Totara', 'Twitter Ads', 'UTF-8', 'jsDelivr']"
 train-linux.de,Home | train-linux.de,,DEU,65,79000,2026-03-16T16:10:44.440017576Z,"['Apache', 'App Store', 'GZIP Module', 'Google My Business', 'Google Play', 'Moodle', 'NFOrce Internet', 'PHP', 'SMC', 'Totara', 'UTF-8', 'Unix', 'jsDelivr']"
 boaf-training.com,Log in to the site | BOAF Online Learning and Resource Center,,,50,10500,2026-03-15T11:43:09.470956791Z,"['Amazon WAF Blocked', 'GZIP Module', 'Moodle', 'NFOrce Internet', 'Nginx', 'PHP', 'Totara', 'UTF-8', 'Ubuntu', 'jsDelivr']"
@@ -50,4 +51,3 @@ dikep.org,Home | DİKEP,,,42,10863,2025-11-08T17:55:28.771488679Z,"['App Store',
 openiwt.org,Home | OpenIWT,,FRA,67,29000,2025-11-08T05:13:02.026402457Z,"['Apache', 'Apture Linking Platform', 'GZIP Module', 'Moodle', 'NFOrce Internet', 'PHP', 'QUIC', 'Tailwind CSS', 'Totara', 'UTF-8', 'Ubuntu', 'YouTube', 'jsDelivr']"
 qec.org.mx,Quality Education Center - SLP,,BOL,57,11100,2025-11-07T03:40:52.960074473Z,"['Apache', 'Fastly', 'Moodle', 'NFOrce Internet', 'PHP', 'Totara', 'UTF-8', 'jsDelivr']"
 urantiabookschool.org,UBIS,,,50,11199,2025-11-05T15:26:38.886263287Z,"['CDN JS', 'Cloudflare', 'Cloudflare CDN', 'DAV', 'Fastly', 'Font Awesome', 'GZIP Module', 'Moodle', 'NFOrce Internet', 'Nginx', 'PHP', 'Tailwind CSS', 'Totara', 'Twitter Ads', 'UTF-8', 'Ubuntu']"
-aals-lms.com,Log in to the site | AALS,,,35,10500,2025-11-04T21:11:38.881231776Z,"['Apache', 'Moodle', 'NFOrce Internet', 'PHP', 'Totara', 'UTF-8', 'jsDelivr']"

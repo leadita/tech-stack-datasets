@@ -1,5 +1,23 @@
 [
   {
+    "domain": "aals-lms.com",
+    "title": "Log in to the site | AALS",
+    "business_name": "",
+    "country": "",
+    "seo_score": 25,
+    "tech_spend": 10500,
+    "crawled_at": "2026-03-21T02:44:11.708461852Z",
+    "technologies": [
+      "Moodle",
+      "NFOrce Internet",
+      "Nginx",
+      "PHP",
+      "Totara",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "whytecleon.com.ng",
     "title": "Whyte Cleon Limited | Human Resource Outsourcing & Consulting Company",
     "business_name": "",
@@ -1232,24 +1250,6 @@
       "Twitter Ads",
       "UTF-8",
       "Ubuntu"
-    ]
-  },
-  {
-    "domain": "aals-lms.com",
-    "title": "Log in to the site | AALS",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 10500,
-    "crawled_at": "2025-11-04T21:11:38.881231776Z",
-    "technologies": [
-      "Apache",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "Totara",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
