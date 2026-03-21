@@ -4219,43 +4219,5 @@
       "Twitter Analytics",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "status.cmd.tw",
-    "title": "cm status",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 60,
-    "tech_spend": 10716,
-    "crawled_at": "2025-11-05T00:18:35.628729886Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Barchart",
-      "Better Stack",
-      "Bing Cashback",
-      "Bing Conversion Tracking",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "DoubleClick Bid Manager",
-      "Facebook Reseller",
-      "Fastly",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Heroku",
-      "Nginx",
-      "Pagekit",
-      "Plausible Analytics",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "Twitter Analytics",
-      "UTF-8",
-      "Vector Internet Services"
-    ]
   }
 ]

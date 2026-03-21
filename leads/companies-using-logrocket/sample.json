@@ -5129,43 +5129,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "matrix.vc",
-    "title": "Matrix",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 118656,
-    "crawled_at": "2025-11-04T20:51:09.061951819Z",
-    "technologies": [
-      "1Password",
-      "AWS WAF Challenge",
-      "Afterpay",
-      "Amazon",
-      "Amazon CloudFront",
-      "Aruba",
-      "Canva Websites",
-      "Chameleon",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Citrix",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "DAV",
-      "FedEx",
-      "GZIP Module",
-      "Google My Business",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "LogRocket",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "Vista Cloud",
-      "WF Cookie Consent",
-      "Yahoo Finance Widget",
-      "Zendesk Embeddables",
-      "jsDelivr"
-    ]
   }
 ]

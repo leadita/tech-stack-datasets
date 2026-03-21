@@ -1,21 +1,21 @@
 [
   {
-    "domain": "rxweb.cwh.ie",
+    "domain": "metrics.k93.sh",
     "title": "Grafana",
     "business_name": "",
     "country": "",
     "seo_score": 30,
-    "tech_spend": 3159,
-    "crawled_at": "2026-03-20T18:52:14.0628845Z",
+    "tech_spend": 1260,
+    "crawled_at": "2026-03-21T06:53:38.069342433Z",
     "technologies": [
-      "Apache",
       "Barchart",
       "Express",
+      "GZIP Module",
       "GitHub Hosting",
       "Grafana",
-      "Paessler",
+      "Nginx",
+      "Subversion",
       "UTF-8",
-      "Visx",
       "Yandex Hosting"
     ]
   },
@@ -57,6 +57,26 @@
     ]
   },
   {
+    "domain": "stromfee.info",
+    "title": "StromfeeME: Power-Analysen",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 1200,
+    "crawled_at": "2026-03-18T09:09:37.902009365Z",
+    "technologies": [
+      "Barchart",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Grafana",
+      "Nginx",
+      "UTF-8",
+      "Ubuntu"
+    ]
+  },
+  {
     "domain": "sand.ard.de",
     "title": "Grafana",
     "business_name": "",
@@ -66,24 +86,6 @@
     "crawled_at": "2026-03-12T21:25:09.463305978Z",
     "technologies": [
       "Adult Content",
-      "Barchart",
-      "Contento",
-      "Express",
-      "GitHub Hosting",
-      "Grafana",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "cairos.app",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 11200,
-    "crawled_at": "2026-02-28T04:18:36.50243153Z",
-    "technologies": [
-      "Apache",
       "Barchart",
       "Contento",
       "Express",
