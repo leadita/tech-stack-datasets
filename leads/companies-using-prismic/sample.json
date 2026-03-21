@@ -1,5 +1,47 @@
 [
   {
+    "domain": "artifactproperty.co.nz",
+    "title": "Artifact Property — Contemporary Architectural Developers",
+    "business_name": "",
+    "country": "NZL",
+    "seo_score": 57,
+    "tech_spend": 20000,
+    "crawled_at": "2026-03-21T15:36:47.449494963Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Express",
+      "Instagram Follow Button",
+      "Netlify",
+      "Nuxt.js",
+      "Prismic",
+      "UTF-8",
+      "Vignette OpenText"
+    ]
+  },
+  {
+    "domain": "sweej.tech",
+    "title": "SweejTech",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 120,
+    "crawled_at": "2026-03-21T10:32:04.123892264Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Instagram Follow Button",
+      "Netlify",
+      "Next.js",
+      "Pleroma",
+      "Prismic",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "hiublue.com",
     "title": "hiublue - AI-Powered Marketing and Communication Platform",
     "business_name": "",
@@ -13639,50 +13681,6 @@
       "Vercel",
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "sarna.io",
-    "title": "Sarna Technologies: Leading FinTech Solutions for Financial Industry",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 220,
-    "crawled_at": "2025-11-25T13:45:19.447131309Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nuxt.js",
-      "Perl",
-      "Prismic",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "navlacilova.cz",
-    "title": "Zubní ordinace",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": "",
-    "crawled_at": "2025-11-25T13:00:19.464234809Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Next.js",
-      "Pleroma",
-      "Prismic",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
