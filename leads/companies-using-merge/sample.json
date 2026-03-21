@@ -470,43 +470,5 @@
       "jsDelivr",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "magiccaptions.com",
-    "title": "Lenny's Podcast",
-    "business_name": "",
-    "country": "SGP",
-    "seo_score": 72,
-    "tech_spend": 348320,
-    "crawled_at": "2025-11-05T00:11:03.77458012Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon Widgets",
-      "Apture Linking Platform",
-      "Canva Websites",
-      "Content Delivery Network",
-      "DoubleClick Bid Manager",
-      "Figma",
-      "GitHub Hosting",
-      "Google My Business",
-      "Merge",
-      "NFOrce Internet",
-      "Next.js",
-      "OpenAI",
-      "Pantheon",
-      "Pleroma",
-      "Salesforce",
-      "Salesforce Experience Cloud",
-      "Salesforce Hosted",
-      "Sinch",
-      "Square",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vercel",
-      "YouTube",
-      "shadcn ui"
-    ]
   }
 ]
