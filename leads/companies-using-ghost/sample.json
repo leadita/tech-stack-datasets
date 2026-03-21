@@ -1,5 +1,54 @@
 [
   {
+    "domain": "necrosoftgames.com",
+    "title": "Necrosoft Games",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 2231,
+    "crawled_at": "2026-03-20T23:08:42.888662906Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "BLR",
+      "Express",
+      "Font Awesome",
+      "Ghost",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Tumblr",
+      "UTF-8",
+      "Ubuntu",
+      "itch.io",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "smartmuv.app",
+    "title": "SmartMuv - Deep Storage Data of Smart Contracts",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 744,
+    "crawled_at": "2026-03-20T15:18:55.334812493Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Express",
+      "Ghost",
+      "Google Conversion Tracking",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "UTF-8",
+      "Ubuntu",
+      "Unsplash",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "pea-pod.org",
     "title": "PEA Pod",
     "business_name": "",
@@ -13101,63 +13150,6 @@
       "Ubuntu",
       "University or College",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "hotconfig.com",
-    "title": "Hot Config",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2784,
-    "crawled_at": "2025-11-16T23:59:05.015169725Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Express",
-      "GZIP Module",
-      "Ghost",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hugging Face Space",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Nginx",
-      "OpenResty",
-      "OpenSSL",
-      "Python",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "Unsplash",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "moneymatrix.com",
-    "title": "Payment Gateway & Platform | MoneyMatrix",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 1240,
-    "crawled_at": "2025-11-16T20:08:05.012944296Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GZIP Module",
-      "Gambling Content",
-      "Ghost",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "LinkedIn Insights",
-      "LinkedIn Pixel",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "reCAPTCHA"
     ]
   }
 ]

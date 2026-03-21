@@ -1,5 +1,27 @@
 [
   {
+    "domain": "lisadiabeteseducator.com.au",
+    "title": "Diabetes Educator - Mount Waverley, Victoria 3149",
+    "business_name": "Diabetes Educator - Mount Waverley, Victoria 3149",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 2599,
+    "crawled_at": "2026-03-21T11:13:03.898753547Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "infinitepurplegreen.ch",
     "title": "Infinite Purple Green",
     "business_name": "Infinite Purple Green",
@@ -7022,27 +7044,6 @@
       "Pico CSS",
       "Publii",
       "The Deck",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "lisadiabeteseducator.com.au",
-    "title": "Diabetes Educator - Mount Waverley, Victoria 3149",
-    "business_name": "Diabetes Educator - Mount Waverley, Victoria 3149",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 2599,
-    "crawled_at": "2025-11-04T22:56:38.917405074Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "Microdata for Google Shopping",
-      "Publii",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   }
