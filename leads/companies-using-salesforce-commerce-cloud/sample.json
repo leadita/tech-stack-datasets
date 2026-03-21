@@ -1,5 +1,36 @@
 [
   {
+    "domain": "cuisinart.ca",
+    "title": "Sites-ca-cuisinart-sfra-Site",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 65,
+    "tech_spend": 622037,
+    "crawled_at": "2026-03-20T19:12:12.992402214Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "CQuotient",
+      "Cloudflare",
+      "Express",
+      "Fireblade",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Juicer DMP",
+      "Klaviyo",
+      "Newsletter for Wordpress",
+      "Quotient",
+      "Riskified",
+      "Salesforce Commerce Cloud",
+      "UTF-8",
+      "YouTube",
+      "accessiBe",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "sarahhusebeauty.com",
     "title": "Sarah Huse Beauty – Sarah Huse Beauty Ltd",
     "business_name": "Sarah Huse Beauty Ltd",
@@ -14753,36 +14784,6 @@
       "YouTube",
       "jQuery",
       "mod_pagespeed"
-    ]
-  },
-  {
-    "domain": "cuisinart.ca",
-    "title": "Sites-ca-cuisinart-sfra-Site",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 65,
-    "tech_spend": 607037,
-    "crawled_at": "2025-11-04T19:23:38.920310883Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "CQuotient",
-      "Cloudflare",
-      "Express",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Juicer DMP",
-      "Klaviyo",
-      "Newsletter for Wordpress",
-      "Quotient",
-      "Riskified",
-      "Salesforce Commerce Cloud",
-      "UTF-8",
-      "YouTube",
-      "accessiBe",
-      "reCAPTCHA"
     ]
   }
 ]

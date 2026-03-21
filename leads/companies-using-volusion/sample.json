@@ -1,5 +1,40 @@
 [
   {
+    "domain": "arteferromiami.com",
+    "title": "Metal Stair Railings & Components | Indital USA",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 40254,
+    "crawled_at": "2026-03-20T18:29:29.231987414Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Better Lead Generation Services",
+      "CallRail",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudinary",
+      "Daily Deals",
+      "ElementUI",
+      "Fireblade",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Gravity",
+      "Instagram Follow Button",
+      "Perl",
+      "Thank You",
+      "UTF-8",
+      "Volusion Live Chat",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "idealfulfillmenthq.com",
     "title": "Top 3PL California Company | Ideal Fulfillment",
     "business_name": "",
@@ -2848,39 +2883,6 @@
       "UTF-8",
       "Volusion",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "arteferromiami.com",
-    "title": "Metal Stair Railings & Components | Gonzato Group USA",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 40254,
-    "crawled_at": "2025-11-04T19:17:38.903458439Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Better Lead Generation Services",
-      "CallRail",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudinary",
-      "Daily Deals",
-      "ElementUI",
-      "Fireblade",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Gravity",
-      "Perl",
-      "Thank You",
-      "UTF-8",
-      "Volusion Live Chat"
     ]
   }
 ]
