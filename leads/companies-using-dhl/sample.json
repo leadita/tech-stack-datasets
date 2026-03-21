@@ -1,5 +1,54 @@
 [
   {
+    "domain": "kungacargo.com",
+    "title": "Kunga Cargo C.A. | Courier Nacional e Internacional",
+    "business_name": "",
+    "country": "VEN",
+    "seo_score": 65,
+    "tech_spend": 20608,
+    "crawled_at": "2026-03-21T19:53:56.902072287Z",
+    "technologies": [
+      "Apache",
+      "Cisco/Arrowpoint Content Service Switch",
+      "DHL Parcel",
+      "Fancybox for WordPress",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "License Buttons",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Wangsu"
+    ]
+  },
+  {
+    "domain": "agilizadoc.com",
+    "title": "Agiliza Documentos e Entregas",
+    "business_name": "",
+    "country": "BOL",
+    "seo_score": 70,
+    "tech_spend": 340,
+    "crawled_at": "2026-03-21T00:50:05.622673512Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Apache",
+      "Aruba",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "DHL Parcel",
+      "Express",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "vestlyd.com",
     "title": "Vestlyd - Power Monitors | Live louder",
     "business_name": "",
@@ -12726,32 +12775,6 @@
     ]
   },
   {
-    "domain": "kungacargo.com.ve",
-    "title": "Kunga Cargo C.A. | Courier Nacional e Internacional",
-    "business_name": "",
-    "country": "VEN",
-    "seo_score": 70,
-    "tech_spend": 20608,
-    "crawled_at": "2025-12-12T14:52:43.455236467Z",
-    "technologies": [
-      "Apache",
-      "Cisco/Arrowpoint Content Service Switch",
-      "DHL Parcel",
-      "Fancybox for WordPress",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "License Buttons",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Wangsu"
-    ]
-  },
-  {
     "domain": "billyjunaidi.my.id",
     "title": "Billy Junaidi Portafolio - Application Support Specialist",
     "business_name": "",
@@ -18004,42 +18027,6 @@
       "hCaptcha",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "jfkinternationalglobalshipping.com",
-    "title": "JFK International Global Shipping",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 35463,
-    "crawled_at": "2025-11-13T06:02:12.45621423Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Angular",
-      "Bulma",
-      "Cloudflare",
-      "Coming Soon Page",
-      "DHL Parcel",
-      "Express",
-      "FedEx",
-      "Fireblade",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "NFOrce Internet",
-      "Parcel",
-      "QUIC",
-      "SmartSupp",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
