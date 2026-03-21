@@ -1,5 +1,30 @@
 [
   {
+    "domain": "lauva.dev",
+    "title": "Laurynas Valiulis | Portfolio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 15340,
+    "crawled_at": "2026-03-21T02:01:29.766055572Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Pico CSS",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "nivekithan.com",
     "title": "Nivekithan's Blog",
     "business_name": "",
@@ -14563,27 +14588,6 @@
       "Twitter Ads",
       "UTF-8",
       "University or College"
-    ]
-  },
-  {
-    "domain": "marcterradas.dev",
-    "title": "Marc Terradas Zapata",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 660,
-    "crawled_at": "2025-11-10T04:41:10.648054567Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Camp",
-      "Cloudflare",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Nuxt.js",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
