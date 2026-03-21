@@ -1,5 +1,28 @@
 [
   {
+    "domain": "tuzz.com.tr",
+    "title": "Tuzz",
+    "business_name": "",
+    "country": "TUR",
+    "seo_score": 60,
+    "tech_spend": 10252,
+    "crawled_at": "2026-03-21T09:30:06.992283507Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Gusto",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Parallels Plesk Panel",
+      "Tailwind CSS",
+      "The Fresh",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "cafe-puravida.com",
     "title": "Tico Coffee Roasters - Coffee, Tea, Subscriptions & Accessories",
     "business_name": "Tico Coffee Roasters",
@@ -15672,30 +15695,6 @@
       "UTF-8",
       "WhatsApp Sharing",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "tuzz.com.tr",
-    "title": "Tuzz",
-    "business_name": "",
-    "country": "TUR",
-    "seo_score": 70,
-    "tech_spend": 34540,
-    "crawled_at": "2025-11-04T22:32:38.894989982Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Gusto",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Neighborhoods",
-      "Parallels Plesk Panel",
-      "Tailwind CSS",
-      "The Fresh",
-      "shadcn ui"
     ]
   }
 ]

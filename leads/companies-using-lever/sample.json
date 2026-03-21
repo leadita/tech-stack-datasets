@@ -8589,47 +8589,5 @@
       "YouTube",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "nwt-wallet.com",
-    "title": "Easy crypto trading for Canadians | Newton",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 34220,
-    "crawled_at": "2025-11-04T23:05:38.915082009Z",
-    "technologies": [
-      "Ada Support",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Animate It",
-      "App Store",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DAV",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Conversion Tracking",
-      "Google My Business",
-      "Google Play",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Lever",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "Mixpanel",
-      "NFOrce Internet",
-      "QUIC",
-      "ShareThis",
-      "Smart App Banner",
-      "Twitter Ads",
-      "WF Cookie Consent",
-      "YouTube",
-      "jsDelivr"
-    ]
   }
 ]
