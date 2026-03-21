@@ -1,5 +1,40 @@
 [
   {
+    "domain": "todarosolutions.com",
+    "title": "Todaro Solutions",
+    "business_name": "Todaro Solutions",
+    "country": "VEN",
+    "seo_score": 70,
+    "tech_spend": 63312,
+    "crawled_at": "2026-03-21T17:50:26.13801835Z",
+    "technologies": [
+      "Apache",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Express",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Line2",
+      "Microdata for Google Shopping",
+      "PWA",
+      "Seismic",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "biotechshowcase.com",
     "title": "Biotech Showcase™ | Premier Investor Conference | 3,200+ Attendees | San Francisco | Co-produced by Demy-Colton and EBD Group",
     "business_name": "",
@@ -2138,41 +2173,6 @@
       "eLand",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "todarosolutions.com",
-    "title": "Todaro Solutions",
-    "business_name": "Todaro Solutions",
-    "country": "VEN",
-    "seo_score": 70,
-    "tech_spend": 63312,
-    "crawled_at": "2025-11-05T00:26:38.884089363Z",
-    "technologies": [
-      "Apache",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Express",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Line2",
-      "Microdata for Google Shopping",
-      "PWA",
-      "Seismic",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
     ]
   }
 ]
