@@ -1,5 +1,38 @@
 [
   {
+    "domain": "zf-hilft.de",
+    "title": "ZF hilft. e.V. | Home - ZF hilft e.V.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 112050,
+    "crawled_at": "2026-03-20T13:26:43.148053137Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Azure Edge",
+      "CloudFront",
+      "Content Delivery Network",
+      "CrownPeak",
+      "Google Cloud DNS",
+      "Google Maps",
+      "Google Related Website Sites",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Kaltura",
+      "Microdata for Google Shopping",
+      "Microsoft Azure",
+      "Microsoft Azure Verified CDN",
+      "OneTrust Domain Verification",
+      "Piwik PRO",
+      "Power BI",
+      "Twitter Ads",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "calmocean.no",
     "title": "Home - Calmocean",
     "business_name": "Calmocean",
@@ -18661,31 +18694,6 @@
       "UTF-8",
       "Vimeo",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "rodriguesloures.com",
-    "title": "Alexandre Loures – Assessor Especial | Diretoria-Executiva",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 5264,
-    "crawled_at": "2025-11-11T18:34:21.05882304Z",
-    "technologies": [
-      "AAPT",
-      "Alternate Protocol",
-      "EmbedPress",
-      "Google Related Website Sites",
-      "Nginx",
-      "PHP",
-      "Parallels Plesk Panel",
-      "Power BI",
-      "Theme In WP",
-      "UTF-8",
-      "University or College",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
