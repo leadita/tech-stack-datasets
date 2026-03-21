@@ -1,5 +1,29 @@
 [
   {
+    "domain": "christiansbookpublishers.com",
+    "title": "Become a Self-Published Author | Costs & Steps to Publish Your Book",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 8598,
+    "crawled_at": "2026-03-20T22:23:26.991404269Z",
+    "technologies": [
+      "Apache",
+      "Better Lead Generation Services",
+      "DAV",
+      "Express",
+      "FormSubmit",
+      "Google Analytics",
+      "Google Tag Manager",
+      "LiveChat",
+      "LiveChat Monitoring",
+      "Rocket Chat",
+      "UTF-8",
+      "Unbounce",
+      "Vector Internet Services"
+    ]
+  },
+  {
     "domain": "stimpack.io",
     "title": "Gain Early Traction in DAYS with Stimpack - Ship, Launch, Earn",
     "business_name": "",
@@ -3007,30 +3031,6 @@
       "Zope",
       "eLand",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "christiansbookpublishers.com",
-    "title": "Become a Self-Published Author | Costs & Steps to Publish Your Book",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 8598,
-    "crawled_at": "2025-11-04T20:07:15.159817099Z",
-    "technologies": [
-      "Apache",
-      "Better Lead Generation Services",
-      "DAV",
-      "Express",
-      "FormSubmit",
-      "Google Analytics",
-      "Google Tag Manager",
-      "LiveChat",
-      "LiveChat Monitoring",
-      "Rocket Chat",
-      "UTF-8",
-      "Unbounce",
-      "Vector Internet Services"
     ]
   }
 ]

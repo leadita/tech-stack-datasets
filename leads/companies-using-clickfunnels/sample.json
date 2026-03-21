@@ -1,5 +1,41 @@
 [
   {
+    "domain": "incomefromthereddot.com",
+    "title": "Welcome To Income From The Red Dot",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 24707,
+    "crawled_at": "2026-03-20T23:27:30.821589791Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Apture Linking Platform",
+      "Aruba",
+      "CDN JS",
+      "ClickFunnels",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Debian",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Hashcash",
+      "Kitco",
+      "New Relic",
+      "PHP",
+      "UTF-8",
+      "University or College",
+      "WP Fastest Cache",
+      "eLand"
+    ]
+  },
+  {
     "domain": "magnaconsulting.de",
     "title": "Magna Consulting | Offizielle Webseite",
     "business_name": "",
@@ -80,35 +116,6 @@
       "WordPress PopUp",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "mcnairdigital.com",
-    "title": "McNair Digital",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 2081,
-    "crawled_at": "2026-03-19T13:06:44.613837626Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Aruba",
-      "CDN JS",
-      "ClickFunnels",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "UTF-8",
-      "WP Engine",
-      "WordPress",
-      "eLand"
     ]
   },
   {
