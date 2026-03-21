@@ -1,5 +1,49 @@
 [
   {
+    "domain": "cozie-fitbit.app",
+    "title": "Cozie, a Fitbit clock face for IEQ and physiological data collection | Cozie, a Fitbit clock face for IEQ and physiological data collection",
+    "business_name": "",
+    "country": "SGP",
+    "seo_score": 72,
+    "tech_spend": 7400,
+    "crawled_at": "2026-03-21T17:43:24.466502628Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Perl",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services"
+    ]
+  },
+  {
+    "domain": "safegen.ai",
+    "title": "SafeGen AI | SafeGen AI",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 20000,
+    "crawled_at": "2026-03-21T08:16:10.689275143Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "Fireblade",
+      "GZIP Module",
+      "Nginx",
+      "Perl",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "tw-7.com",
     "title": "Welcome to Technical Writer's Weekly | Technical Writer's Weekly",
     "business_name": "",
@@ -10403,30 +10447,6 @@
     ]
   },
   {
-    "domain": "cozie-apple.app",
-    "title": "Cozie - An iOS application for watch surveys and physiological data collection",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2400,
-    "crawled_at": "2025-11-18T10:35:05.001827045Z",
-    "technologies": [
-      "Alternate Protocol",
-      "App Store",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College"
-    ]
-  },
-  {
     "domain": "robertaron.io",
     "title": "Robert Aron | Robert Aron",
     "business_name": "",
@@ -12445,50 +12465,6 @@
       "Python",
       "QUIC",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "myboardtoday.com",
-    "title": "MyBoardToday - myboardtoday.com - mbt.report - AI No-Code Work OS for data-driven apps and AI agents | MyBoardToday - myboardtoday.com - mbt.report - AI No-Code Work OS for data-driven apps and AI agents",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 399,
-    "crawled_at": "2025-11-05T00:18:35.597346932Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Clicky",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "safegen.ai",
-    "title": "SafeGen AI | SafeGen AI",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 20000,
-    "crawled_at": "2025-11-04T22:14:38.909884033Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "Fireblade",
-      "GZIP Module",
-      "Nginx",
-      "Perl",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "shadcn ui"
     ]
   }
 ]
