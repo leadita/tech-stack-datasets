@@ -1,5 +1,35 @@
 [
   {
+    "domain": "lamaisondulead.com",
+    "title": "Maison du Lead- Boostez votre entreprise avec des leads qualifiés",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 9990,
+    "crawled_at": "2026-03-22T09:33:08.030849399Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudflare",
+      "DAV",
+      "Financial Services Guide",
+      "FormSubmit",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "RM Education",
+      "Typeform",
+      "UK Cookie Consent",
+      "UTF-8",
+      "Unbounce",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "christiansbookpublishers.com",
     "title": "Become a Self-Published Author | Costs & Steps to Publish Your Book",
     "business_name": "",
@@ -2903,36 +2933,6 @@
       "UTF-8",
       "Unbounce",
       "WP Engine",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "maisondulead.fr",
-    "title": "Maison du Lead- Boostez votre entreprise avec des leads qualifiés",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 9990,
-    "crawled_at": "2025-11-11T03:50:38.884858418Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cloudflare",
-      "DAV",
-      "Financial Services Guide",
-      "FormSubmit",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "RM Education",
-      "Typeform",
-      "UK Cookie Consent",
-      "UTF-8",
-      "Unbounce",
       "jQuery"
     ]
   },
