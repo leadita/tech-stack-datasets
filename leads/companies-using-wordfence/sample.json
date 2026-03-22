@@ -20788,46 +20788,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "kavitasharma.net",
-    "title": "PMP, ACP, RMP & PgMP, Books And Mentoring Sessions, Renew PMP With Easy 60 PDU Pack.",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 2014,
-    "crawled_at": "2025-11-05T02:41:05.051199231Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "Flatsome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "InitiativeS",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WooCommerce Stripe Payment Gateway",
-      "WordPress",
-      "WordPress Multisite",
-      "Wordfence",
-      "YouTube",
-      "jQuery",
-      "reCAPTCHA"
-    ]
   }
 ]
