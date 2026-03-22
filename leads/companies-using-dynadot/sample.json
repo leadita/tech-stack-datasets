@@ -1,5 +1,26 @@
 [
   {
+    "domain": "outliving.net",
+    "title": "This website or DOMAIN NAME may be for sale.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 76599,
+    "crawled_at": "2026-03-22T10:57:01.855738743Z",
+    "technologies": [
+      "Camp",
+      "Cart.com",
+      "Dynadot",
+      "ElementUI",
+      "Fast",
+      "Font Awesome",
+      "GZIP Module",
+      "Google My Business",
+      "PointDNS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "pet-shirt.com",
     "title": "Build Your Brand with JM XTRADE, INC.",
     "business_name": "",
@@ -324,26 +345,6 @@
       "Google Font API",
       "Subversion",
       "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "grueneeggs.com",
-    "title": "This website or DOMAIN NAME may be for sale.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 57,
-    "tech_spend": 30795,
-    "crawled_at": "2026-02-13T21:42:46.671183323Z",
-    "technologies": [
-      "Camp",
-      "Cart.com",
-      "Dynadot",
-      "Fast",
-      "Font Awesome",
-      "GZIP Module",
-      "Google My Business",
-      "PointDNS",
-      "UTF-8"
     ]
   },
   {
