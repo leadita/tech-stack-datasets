@@ -1,5 +1,63 @@
 [
   {
+    "domain": "online-united.de",
+    "title": "ONLINE UNITED – Partner Marketing for E‑Commerce Brands",
+    "business_name": "ONLINE UNITED GmbH",
+    "country": "DEU",
+    "seo_score": 77,
+    "tech_spend": 2440,
+    "crawled_at": "2026-03-21T17:20:42.822798248Z",
+    "technologies": [
+      "AWIN",
+      "Alternate Protocol",
+      "Apache",
+      "Commission Junction",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Impact",
+      "Microdata for Google Shopping",
+      "TradeDoubler",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "rodeocomics.com",
+    "title": "Rodeo Comics | Evan Salazar",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 19247,
+    "crawled_at": "2026-03-21T12:53:43.709670717Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Automattic",
+      "BLR",
+      "Band Camp",
+      "BatCache",
+      "Camp",
+      "Cisco/Arrowpoint Content Service Switch",
+      "CoBlocks",
+      "Commission Junction",
+      "EmbedPress",
+      "Fastly",
+      "GDPR Consent Management Platform",
+      "Instagram Follow Button",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "Nginx",
+      "Perl",
+      "Tailwind CSS",
+      "Tumblr",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "xcelpooltilecleaning.com",
     "title": "Home | Xcel Pool Tile Cleaning Website",
     "business_name": "",
@@ -11452,38 +11510,6 @@
       "mobileStorm",
       "myThings",
       "phpMyVisites"
-    ]
-  },
-  {
-    "domain": "rodeocomics.com",
-    "title": "Rodeo Comics | Evan Salazar",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 16847,
-    "crawled_at": "2025-11-04T23:22:16.988590182Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Automattic",
-      "BLR",
-      "Band Camp",
-      "Camp",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Commission Junction",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Instagram Follow Button",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Nginx",
-      "Perl",
-      "Tailwind CSS",
-      "Tumblr",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "YouTube"
     ]
   }
 ]

@@ -1,5 +1,31 @@
 [
   {
+    "domain": "musicdegreespots.com",
+    "title": "Music Degree Spots",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 14560,
+    "crawled_at": "2026-03-22T05:48:56.154091399Z",
+    "technologies": [
+      "ActiveProspect",
+      "Apture Linking Platform",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Everflow",
+      "Express",
+      "Fastly",
+      "FormSubmit",
+      "Google Analytics",
+      "Google Tag Manager",
+      "RM Education",
+      "Thank You",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "oceansmdonline.com",
     "title": "Homepage New → Oceans MD",
     "business_name": "Oceans MD",
