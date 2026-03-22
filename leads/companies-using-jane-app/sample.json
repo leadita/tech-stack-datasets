@@ -1,5 +1,36 @@
 [
   {
+    "domain": "courtneymoreiratherapy.com",
+    "title": "Courtney Moreira Therapy",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 82073,
+    "crawled_at": "2026-03-22T18:11:12.432134614Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Jane App",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "University or College",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "clementtse.com",
     "title": "Clement Tse",
     "business_name": "",
@@ -2551,37 +2582,6 @@
       "Vimeo",
       "Visx",
       "WP Booking Calendar"
-    ]
-  },
-  {
-    "domain": "courtneymoreiratherapy.com",
-    "title": "Courtney Moreira Therapy",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 82073,
-    "crawled_at": "2025-11-05T05:56:38.708345707Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Jane App",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "University or College",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
