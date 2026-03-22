@@ -1,6 +1,6 @@
 # Companies Using Drupal (Live Dataset 2026)
 
-This folder contains an active list of 22,793 companies using **Drupal**. 
+This folder contains an active list of 22,762 companies using **Drupal**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 22,793
+- **Total Leads:** 22,762
 - **Verified:** Yes
-- **Last Updated:** 2026-03-21 13:30 UTC
+- **Last Updated:** 2026-03-22 13:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **22,793+** companies using Drupal.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **22,762+** companies using Drupal.
 
 [**⚡ Unlock the Full Drupal List with Contact Details**](https://leadita.com/leads/companies-using-drupal)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-21 13:30 UTC*
+*Last updated: 2026-03-22 13:30 UTC*
 *Data source: Leadita Technographic Intelligence*
