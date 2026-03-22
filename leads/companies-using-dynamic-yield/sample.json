@@ -1,5 +1,34 @@
 [
   {
+    "domain": "c-spanclassroom.org",
+    "title": "C-SPAN Classroom",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 75,
+    "tech_spend": 56038,
+    "crawled_at": "2026-03-22T05:58:05.777297392Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Apache",
+      "CloudFront",
+      "Content Delivery Network",
+      "DAV",
+      "Dynamic Yield",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "IcoMoon",
+      "OneTrust Domain Verification",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "thenrgstore.com",
     "title": "The NRG Brand Store",
     "business_name": "",
@@ -5653,35 +5682,6 @@
       "Yotpo",
       "accessiBe",
       "hCaptcha",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "c-spanclassroom.org",
-    "title": "C-SPAN Classroom",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 75,
-    "tech_spend": 56038,
-    "crawled_at": "2025-11-05T03:23:38.890578718Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Apache",
-      "CloudFront",
-      "Content Delivery Network",
-      "Dynamic Yield",
-      "Gambling Content",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "OneTrust Domain Verification",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
       "reCAPTCHA"
     ]
   }
