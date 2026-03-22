@@ -1,5 +1,30 @@
 [
   {
+    "domain": "praveshsudha.com",
+    "title": "Pravesh Sudha",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2748,
+    "crawled_at": "2026-03-21T17:57:54.35585638Z",
+    "technologies": [
+      "Apache",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Hasnode",
+      "Instagram Follow Button",
+      "Medium",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "akashjavali.com",
     "title": "Akash Javali — Senior Full Stack Engineer | MERN & System Architecture",
     "business_name": "",
@@ -11093,53 +11118,6 @@
       "WordPress Multisite",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "osadavidath.com",
-    "title": "Osada",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 7500,
-    "crawled_at": "2025-11-05T02:25:50.927961994Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "DAV",
-      "Fireblade",
-      "GitHub Hosting",
-      "Hasnode",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "praveshsudha.com",
-    "title": "Pravesh Sudha",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2748,
-    "crawled_at": "2025-11-05T00:27:45.034043375Z",
-    "technologies": [
-      "Apache",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Hasnode",
-      "Instagram Follow Button",
-      "Medium",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
