@@ -8550,44 +8550,5 @@
       "UTF-8",
       "eLand"
     ]
-  },
-  {
-    "domain": "heyamosaerospace.co",
-    "title": "Trade & Invest: Online Share Market Trading App in India | Upstox",
-    "business_name": "Upstox",
-    "country": "IND",
-    "seo_score": 67,
-    "tech_spend": 13749,
-    "crawled_at": "2025-11-05T03:32:38.881957601Z",
-    "technologies": [
-      "Adult Content",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Angular",
-      "App Store",
-      "Bug Bounty",
-      "CloudFront",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Lever",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "Telegram",
-      "TradingView",
-      "UTF-8",
-      "Vector Internet Services",
-      "YouTube",
-      "shadcn ui"
-    ]
   }
 ]
