@@ -1,5 +1,34 @@
 [
   {
+    "domain": "latoyasdale.com",
+    "title": "Latoya S. Dale |",
+    "business_name": "",
+    "country": "JAM",
+    "seo_score": 50,
+    "tech_spend": 625,
+    "crawled_at": "2026-03-22T01:39:07.822479853Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LandBot",
+      "Nginx",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "adeptly.ai",
     "title": "Adeptly » Role Playing Games | Game Authoring Tool",
     "business_name": "",
@@ -14172,34 +14201,6 @@
       "Tailwind CSS",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "latoyasdale.com",
-    "title": "Latoya S. Dale |",
-    "business_name": "",
-    "country": "JAM",
-    "seo_score": 55,
-    "tech_spend": 625,
-    "crawled_at": "2025-11-05T02:17:38.881282606Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Divi",
-      "Elegant Themes",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LandBot",
-      "Nginx",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
