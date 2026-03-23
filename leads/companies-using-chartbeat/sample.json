@@ -1,5 +1,58 @@
 [
   {
+    "domain": "tptassist.com",
+    "title": "About",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 7595,
+    "crawled_at": "2026-03-23T07:35:54.308218716Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Apture Linking Platform",
+      "Chartbeat",
+      "CloudFront",
+      "Content Delivery Network",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "OneTrust Domain Verification",
+      "Twitter Ads",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "stlccic.net",
+    "title": "Ice Center | Legacy Ice",
+    "business_name": "Legacy Ice",
+    "country": "USA",
+    "seo_score": 80,
+    "tech_spend": 17859,
+    "crawled_at": "2026-03-23T01:40:49.427630343Z",
+    "technologies": [
+      "Amazon S3 CDN",
+      "Chartbeat",
+      "Content Delivery Network",
+      "Fastly",
+      "Font Awesome",
+      "GZIP Module",
+      "Gambling Content",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Storyblocks",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "thewish.ca",
     "title": "CP24 CHUM Christmas Wish",
     "business_name": "",
@@ -11830,31 +11883,6 @@
     ]
   },
   {
-    "domain": "stlccic.com",
-    "title": "Ice Center | Legacy Ice",
-    "business_name": "Legacy Ice",
-    "country": "USA",
-    "seo_score": 80,
-    "tech_spend": 17859,
-    "crawled_at": "2025-11-06T12:02:38.885794684Z",
-    "technologies": [
-      "Amazon S3 CDN",
-      "Chartbeat",
-      "Content Delivery Network",
-      "Fastly",
-      "Font Awesome",
-      "GZIP Module",
-      "Gambling Content",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Storyblocks",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College"
-    ]
-  },
-  {
     "domain": "wreg.net",
     "title": "WREG.com | News Channel 3 | Memphis News and Weather | Memphis, TN",
     "business_name": "",
@@ -12221,34 +12249,6 @@
       "UTF-8",
       "Ubuntu",
       "eLand"
-    ]
-  },
-  {
-    "domain": "tptassist.com",
-    "title": "About",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 7595,
-    "crawled_at": "2025-11-05T08:44:38.923591124Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Apture Linking Platform",
-      "Chartbeat",
-      "CloudFront",
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "OneTrust Domain Verification",
-      "Twitter Ads",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
     ]
   }
 ]
