@@ -1,5 +1,35 @@
 [
   {
+    "domain": "theseednutrition.com",
+    "title": "The Seed Nutrition & Wellness",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 4241,
+    "crawled_at": "2026-03-23T00:24:44.66414054Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Practice Better",
+      "QUIC",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "atravelingdietitian.com",
     "title": "Dietitian Nutritionist - A Traveling Dietitian",
     "business_name": "A Traveling Dietitian",
@@ -17757,35 +17787,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "taylorpavloffnutrition.com",
-    "title": "Taylor Pavloff Nutrition",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 26984,
-    "crawled_at": "2026-01-15T20:01:43.435595403Z",
-    "technologies": [
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Practice Better",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]

@@ -1,5 +1,31 @@
 [
   {
+    "domain": "foragercounseling.com",
+    "title": "Forager Counseling",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 4234,
+    "crawled_at": "2026-03-23T00:24:44.620222279Z",
+    "technologies": [
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Line2",
+      "No-Q",
+      "PWA",
+      "QUIC",
+      "TherapyNotes",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight",
+      "Yelp Badge"
+    ]
+  },
+  {
     "domain": "blacktherapistandcompanypdx.com",
     "title": "Culturally and Linguistic Specific Mental Health Providers - Black Therapist and Company, LLC",
     "business_name": "",
@@ -4165,32 +4191,6 @@
       "WordPress Multisite",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "foragercounseling.com",
-    "title": "Forager Counseling",
-    "business_name": "",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 20310,
-    "crawled_at": "2025-11-05T07:23:38.93961717Z",
-    "technologies": [
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "No-Q",
-      "PWA",
-      "QUIC",
-      "TherapyNotes",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight",
-      "Yelp Badge"
     ]
   }
 ]
