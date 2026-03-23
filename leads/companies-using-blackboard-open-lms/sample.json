@@ -1,5 +1,33 @@
 [
   {
+    "domain": "codiodev.com",
+    "title": "Codio - Teach Code. With confidence.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 15064,
+    "crawled_at": "2026-03-23T16:34:37.838300721Z",
+    "technologies": [
+      "Adit Dental Software",
+      "Amazon CloudFront",
+      "Amazon S3 CDN",
+      "Blackboard Open LMS",
+      "CloudFront",
+      "ElementUI",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Intercom",
+      "LottieFiles",
+      "Nginx",
+      "Python",
+      "StatusPage IO",
+      "Storyblocks",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "telzio.app",
     "title": "Telzio - Chrome Web Store",
     "business_name": "",
@@ -2811,32 +2839,6 @@
       "UTF-8",
       "University or College",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "codio.co.uk",
-    "title": "Codio - Teach Code. With confidence.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 39484,
-    "crawled_at": "2025-11-07T18:20:38.905198748Z",
-    "technologies": [
-      "Adit Dental Software",
-      "Amazon S3 CDN",
-      "Blackboard Open LMS",
-      "ElementUI",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Intercom",
-      "LottieFiles",
-      "Nginx",
-      "Python",
-      "StatusPage IO",
-      "Storyblocks",
-      "UTF-8",
-      "jsDelivr"
     ]
   },
   {

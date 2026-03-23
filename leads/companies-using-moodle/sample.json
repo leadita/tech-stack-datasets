@@ -1,5 +1,33 @@
 [
   {
+    "domain": "urantiaschool.org",
+    "title": "UBIS",
+    "business_name": "",
+    "country": "ISR",
+    "seo_score": 60,
+    "tech_spend": 12199,
+    "crawled_at": "2026-03-23T09:34:14.591371791Z",
+    "technologies": [
+      "CDN JS",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fastly",
+      "Font Awesome",
+      "GZIP Module",
+      "Moodle",
+      "NFOrce Internet",
+      "Nginx",
+      "PHP",
+      "Tailwind CSS",
+      "Totara",
+      "Twitter Ads",
+      "UTF-8",
+      "Ubuntu",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "aals-lms.com",
     "title": "Log in to the site | AALS",
     "business_name": "",
@@ -1223,33 +1251,6 @@
       "Totara",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "urantiabookschool.org",
-    "title": "UBIS",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 11199,
-    "crawled_at": "2025-11-05T15:26:38.886263287Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DAV",
-      "Fastly",
-      "Font Awesome",
-      "GZIP Module",
-      "Moodle",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "Tailwind CSS",
-      "Totara",
-      "Twitter Ads",
-      "UTF-8",
-      "Ubuntu"
     ]
   }
 ]
