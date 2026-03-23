@@ -1,5 +1,27 @@
 [
   {
+    "domain": "winfertilityprovider.com",
+    "title": "Home - Provider Portal",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 983,
+    "crawled_at": "2026-03-23T10:13:48.689016173Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "AWS WAF Challenge",
+      "Adobe GoLive",
+      "Apture Linking Platform",
+      "DocuSign",
+      "Fastly",
+      "Google Cloud DNS",
+      "Microsoft Azure",
+      "UTF-8",
+      "Visual Studio",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "foreverlabs.com",
     "title": "Forever Labs - Fighting Age-Related Disease, Restoring Youth | ForeverLabs",
     "business_name": "",
