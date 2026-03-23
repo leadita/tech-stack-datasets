@@ -1,6 +1,6 @@
 # Companies Using Outfunnel (Live Dataset 2026)
 
-This folder contains an active list of 364 companies using **Outfunnel**. 
+This folder contains an active list of 365 companies using **Outfunnel**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 364
+- **Total Leads:** 365
 - **Verified:** Yes
-- **Last Updated:** 2026-03-22 19:00 UTC
+- **Last Updated:** 2026-03-23 19:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **364+** companies using Outfunnel.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **365+** companies using Outfunnel.
 
 [**⚡ Unlock the Full Outfunnel List with Contact Details**](https://leadita.com/leads/companies-using-outfunnel)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-22 19:00 UTC*
+*Last updated: 2026-03-23 19:00 UTC*
 *Data source: Leadita Technographic Intelligence*
