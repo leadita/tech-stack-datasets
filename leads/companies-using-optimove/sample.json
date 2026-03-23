@@ -345,29 +345,5 @@
       "UTF-8",
       "YouTube"
     ]
-  },
-  {
-    "domain": "scoop.com",
-    "title": "Scoop | The USA’s Favorite Social Casino – Play, Spin & Win for Free",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 80000,
-    "crawled_at": "2025-11-05T08:32:38.892143805Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GZIP Module",
-      "Gambling Content",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Next.js",
-      "Optimove",
-      "Pleroma",
-      "Radix UI",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "shadcn ui"
-    ]
   }
 ]
