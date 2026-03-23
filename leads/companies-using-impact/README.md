@@ -1,6 +1,6 @@
 # Companies Using Impact (Live Dataset 2026)
 
-This folder contains an active list of 2,980 companies using **Impact**. 
+This folder contains an active list of 2,974 companies using **Impact**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 2,980
+- **Total Leads:** 2,974
 - **Verified:** Yes
-- **Last Updated:** 2026-03-22 11:15 UTC
+- **Last Updated:** 2026-03-23 11:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **2,980+** companies using Impact.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **2,974+** companies using Impact.
 
 [**⚡ Unlock the Full Impact List with Contact Details**](https://leadita.com/leads/companies-using-impact)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-22 11:15 UTC*
+*Last updated: 2026-03-23 11:15 UTC*
 *Data source: Leadita Technographic Intelligence*
