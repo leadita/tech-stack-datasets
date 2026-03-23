@@ -1,5 +1,21 @@
 [
   {
+    "domain": "watermetrics.online",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 1200,
+    "crawled_at": "2026-03-23T07:21:54.243341323Z",
+    "technologies": [
+      "Barchart",
+      "Express",
+      "GitHub Hosting",
+      "Grafana",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "metrics.k93.sh",
     "title": "Grafana",
     "business_name": "",
@@ -35,24 +51,6 @@
       "Google Analytics",
       "Google Tag Manager",
       "Grafana",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "scrapers.world",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 1200,
-    "crawled_at": "2026-03-18T23:57:49.434575271Z",
-    "technologies": [
-      "Barchart",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Grafana",
-      "Nginx",
       "UTF-8"
     ]
   },
