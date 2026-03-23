@@ -1,5 +1,24 @@
 [
   {
+    "domain": "palomatech.org",
+    "title": "Paloma Technologies IT Solutions",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 55,
+    "tech_spend": 5180,
+    "crawled_at": "2026-03-23T00:13:40.328085695Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apache",
+      "Barracuda Web App Firewall",
+      "GZIP Module",
+      "Perl",
+      "YouTube",
+      "Zoho Books"
+    ]
+  },
+  {
     "domain": "aswav.com",
     "title": "ASW | Impress Your Audience",
     "business_name": "",
@@ -364,25 +383,6 @@
       "eLand",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "palomats.com",
-    "title": "Paloma Technologies IT Solutions",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 5180,
-    "crawled_at": "2026-02-13T11:08:23.920961716Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apache",
-      "Barracuda Web App Firewall",
-      "GZIP Module",
-      "Perl",
-      "YouTube",
-      "Zoho Books"
     ]
   },
   {
