@@ -1,5 +1,34 @@
 [
   {
+    "domain": "protridentechnologies.com",
+    "title": "Protriden Technologies",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 6460,
+    "crawled_at": "2026-03-23T14:29:40.102719585Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "ArvanCloud",
+      "CodeIgniter",
+      "Content Delivery Network",
+      "Freshteam",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "Nginx",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "mudrex.com",
     "title": "Mudrex: Trade Bitcoin & Crypto on India's Best Crypto Exchange.",
     "business_name": "Mudrex",
@@ -3010,35 +3039,6 @@
       "YouTube",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "protridentechnologies.com",
-    "title": "Protriden Technologies",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 6460,
-    "crawled_at": "2025-11-05T10:07:59.331549895Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "ArvanCloud",
-      "CodeIgniter",
-      "Content Delivery Network",
-      "Freshteam",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Nginx",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr",
-      "reCAPTCHA"
     ]
   }
 ]
