@@ -1,6 +1,6 @@
 # Companies Using Shopify (Live Dataset 2026)
 
-This folder contains an active list of 328,718 companies using **Shopify**. 
+This folder contains an active list of 328,433 companies using **Shopify**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 328,718
+- **Total Leads:** 328,433
 - **Verified:** Yes
-- **Last Updated:** 2026-03-22 16:30 UTC
+- **Last Updated:** 2026-03-23 16:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **328,718+** companies using Shopify.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **328,433+** companies using Shopify.
 
 [**⚡ Unlock the Full Shopify List with Contact Details**](https://leadita.com/leads/companies-using-shopify)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-22 16:30 UTC*
+*Last updated: 2026-03-23 16:30 UTC*
 *Data source: Leadita Technographic Intelligence*
