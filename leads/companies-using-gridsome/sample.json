@@ -1,5 +1,74 @@
 [
   {
+    "domain": "runhangz.com",
+    "title": "Runhang Zhang - Runhang Z | Full Stack Developer | Product Manager",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 66,
+    "crawled_at": "2026-03-23T16:54:04.328698965Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Gridsome"
+    ]
+  },
+  {
+    "domain": "drkaracsonyiadrienn.hu",
+    "title": "dr. Karácsonyi Adrienn - ügyvéd",
+    "business_name": "",
+    "country": "HUN",
+    "seo_score": 82,
+    "tech_spend": 24470,
+    "crawled_at": "2026-03-23T10:37:28.281968617Z",
+    "technologies": [
+      "DAV",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google My Business",
+      "Gridsome",
+      "KVH",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "No-Q",
+      "Tailwind CSS",
+      "Visual Studio",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "mannes.tech",
+    "title": "Simon Mannes - mannes.tech",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 95456,
+    "crawled_at": "2026-03-23T09:17:12.294471557Z",
+    "technologies": [
+      "CCSI",
+      "Content Delivery Network",
+      "DAV",
+      "Express",
+      "GitHub Hosting",
+      "Gridsome",
+      "K2F",
+      "Netlify",
+      "Plausible Analytics",
+      "SMC",
+      "Subversion",
+      "Svelte",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "sarab.nyc",
     "title": "Home | SaraB",
     "business_name": "",
@@ -11753,60 +11822,6 @@
       "WordPress",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "dekamerakast.nl",
-    "title": "Home - De Kamerakast",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 55,
-    "tech_spend": "",
-    "crawled_at": "2025-11-14T05:38:39.958045154Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Customer Reviews",
-      "Google Tag Manager",
-      "Gridsome",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "mspiess.now.sh",
-    "title": "Personal website - Marc Spiess",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2025-11-14T05:05:39.982687565Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Gridsome",
-      "PWA",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "asw.io",
-    "title": "Home - asw.io",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 84,
-    "crawled_at": "2025-11-14T04:02:39.958472355Z",
-    "technologies": [
-      "Gridsome",
-      "Nginx",
-      "Python",
-      "Tailwind CSS",
-      "Unsplash"
     ]
   }
 ]

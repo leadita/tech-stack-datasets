@@ -1,5 +1,46 @@
 [
   {
+    "domain": "puzzlegarden.app",
+    "title": "Hello from Puzzle Garden | Puzzle Garden",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 800,
+    "crawled_at": "2026-03-23T16:34:37.856682608Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "medshinehealthcare.com",
+    "title": "Medshine Healthcare",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 57,
+    "tech_spend": 156,
+    "crawled_at": "2026-03-23T07:14:04.751195614Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Perl",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "reflow.io",
     "title": "Home | reflow",
     "business_name": "",
@@ -12394,76 +12435,6 @@
       "Ntent",
       "Perl",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "trismik.com",
-    "title": "Trismik - Science-grade LLM evaluation",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 82,
-    "tech_spend": 2450,
-    "crawled_at": "2025-11-05T11:47:38.92185064Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "KaTeX",
-      "Perl",
-      "QUIC",
-      "UTF-8",
-      "University or College",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "puzzlegarden.app",
-    "title": "Hello from Puzzle Garden | Puzzle Garden",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 800,
-    "crawled_at": "2025-11-05T10:32:46.735911485Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "medshinehealthcare.com",
-    "title": "Medshine Healthcare",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 67,
-    "tech_spend": 708,
-    "crawled_at": "2025-11-05T08:41:38.886100074Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Perl",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
