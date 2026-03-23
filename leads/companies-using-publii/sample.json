@@ -1,5 +1,26 @@
 [
   {
+    "domain": "singingtotigers.com",
+    "title": "Singing to Tigers",
+    "business_name": "Singing to Tigers",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 267,
+    "crawled_at": "2026-03-22T16:02:57.69854051Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Debian",
+      "Freepik",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Pico CSS",
+      "Publii",
+      "The Deck",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "lisadiabeteseducator.com.au",
     "title": "Diabetes Educator - Mount Waverley, Victoria 3149",
     "business_name": "Diabetes Educator - Mount Waverley, Victoria 3149",
@@ -7023,27 +7044,6 @@
       "Microdata for Google Shopping",
       "Publii",
       "Thank You",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "singingtotigers.com",
-    "title": "Singing to Tigers",
-    "business_name": "Singing to Tigers",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 267,
-    "crawled_at": "2025-11-05T05:28:00.890162456Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Debian",
-      "Freepik",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Pico CSS",
-      "Publii",
-      "The Deck",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   }

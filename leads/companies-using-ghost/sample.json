@@ -1,5 +1,54 @@
 [
   {
+    "domain": "jjstrength.co",
+    "title": "JJ Strength & Fitness | Josh Jones Forbes, Personal Trainer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2488,
+    "crawled_at": "2026-03-23T11:43:14.21311897Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Eber",
+      "Express",
+      "Ghost",
+      "Google Cloud DNS",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Stripe",
+      "UTF-8",
+      "aWeber",
+      "eLand",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "whatareyoudoing.today",
+    "title": "what are you doing",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 732,
+    "crawled_at": "2026-03-22T20:20:42.852005637Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Bunny Fonts",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "Ghost",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "Stripe",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "necrosoftgames.com",
     "title": "Necrosoft Games",
     "business_name": "",
@@ -13091,65 +13140,6 @@
       "UTF-8",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "newcolossusadvisors.com",
-    "title": "New Colossus Advisors",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 18540,
-    "crawled_at": "2025-11-17T02:41:05.029930282Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Bunny Fonts",
-      "Content Delivery Network",
-      "DAV",
-      "Fastly",
-      "GZIP Module",
-      "Ghost",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "SiteW",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "byflow.it",
-    "title": "byFlow srl",
-    "business_name": "",
-    "country": "ITA",
-    "seo_score": 67,
-    "tech_spend": 3988,
-    "crawled_at": "2025-11-17T00:56:05.025082284Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Azion",
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ElementUI",
-      "Express",
-      "Font Awesome",
-      "Formspree",
-      "GZIP Module",
-      "Ghost",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "StackPath",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "University or College",
-      "jQuery"
     ]
   }
 ]

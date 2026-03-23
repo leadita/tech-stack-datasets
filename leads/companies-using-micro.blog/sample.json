@@ -1,5 +1,43 @@
 [
   {
+    "domain": "antonio.is",
+    "title": "Antonio's Blog",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 60,
+    "tech_spend": 60,
+    "crawled_at": "2026-03-22T20:58:51.999787432Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Hugo",
+      "Micro.blog",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "ipablosb.com",
+    "title": "Pablo Sanchez Bosch",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 62,
+    "tech_spend": 150240,
+    "crawled_at": "2026-03-22T13:12:39.943192685Z",
+    "technologies": [
+      "Alternate Protocol",
+      "DAV",
+      "GoatCounter",
+      "Hugo",
+      "Micro.blog",
+      "Salesforce Hosted",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "cote.io",
     "title": "Coté",
     "business_name": "",
@@ -7559,43 +7597,6 @@
       "Alternate Protocol",
       "Mastodon",
       "Micro.blog",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "antonio.is",
-    "title": "Antonio's Blog",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 60,
-    "tech_spend": 260,
-    "crawled_at": "2025-11-05T06:39:23.09493165Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Micro.blog",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "ipablosb.com",
-    "title": "Pablo Sanchez Bosch",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 62,
-    "tech_spend": 150240,
-    "crawled_at": "2025-11-05T04:56:04.788995259Z",
-    "technologies": [
-      "Alternate Protocol",
-      "DAV",
-      "GoatCounter",
-      "Micro.blog",
-      "Salesforce Hosted",
-      "Twitter Ads",
       "UTF-8"
     ]
   }
