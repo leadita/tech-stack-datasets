@@ -1,5 +1,32 @@
 [
   {
+    "domain": "simplycleaned.co.uk",
+    "title": "Simply Cleaned Ltd, Bournemouth",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 480,
+    "crawled_at": "2026-03-23T11:37:36.294787941Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "App Store",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Dialogflow",
+      "Fancybox for WordPress",
+      "Google My Business",
+      "Google Play",
+      "Instagram Follow Button",
+      "MailChimp",
+      "Nuxt.js",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "kidzlearn.co",
     "title": "Kidz Learn Applications",
     "business_name": "",
@@ -8560,33 +8587,6 @@
       "WordPress Related Posts",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "simplycleaned.co.uk",
-    "title": "Simply Cleaned Ltd, Bournemouth",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 480,
-    "crawled_at": "2025-11-05T09:29:50.691875181Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "App Store",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Dialogflow",
-      "Fancybox for WordPress",
-      "Google My Business",
-      "Google Play",
-      "Instagram Follow Button",
-      "MailChimp",
-      "Nuxt.js",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "jsDelivr"
     ]
   }
 ]
