@@ -6696,34 +6696,5 @@
       "hCaptcha",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "patriottactical.com",
-    "title": "Tactical Knife and Gear Store in Arizona, USA | Patriot Tactical LLC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 18196,
-    "crawled_at": "2025-11-05T10:57:16.309911818Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Deliverr",
-      "Express",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "NFOrce Internet",
-      "QUIC",
-      "RM Education",
-      "Shopify",
-      "Shopify Collabs",
-      "Shopify Payments",
-      "Thank You",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA"
-    ]
   }
 ]
