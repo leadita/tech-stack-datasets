@@ -1,5 +1,38 @@
 [
   {
+    "domain": "gurusankararaman.com",
+    "title": "Tekion | First End-to-End Cloud Native Automotive Platform",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 106599,
+    "crawled_at": "2026-03-22T17:09:22.577982027Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "Cisco/Arrowpoint Content Service Switch",
+      "CloudFront",
+      "Cornerstone",
+      "Fireblade",
+      "GZIP Module",
+      "Gambling Content",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "NFOrce Internet",
+      "Next.js",
+      "Perl",
+      "Pleroma",
+      "QUIC",
+      "Tekion",
+      "Twitter Ads",
+      "UTF-8",
+      "Underscores",
+      "VinSolutions"
+    ]
+  },
+  {
     "domain": "vaissistant.com",
     "title": "VAissistant - AI Voice Agent for Every Business | VAissistant",
     "business_name": "",
@@ -1371,36 +1404,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "tekion.com",
-    "title": "Tekion | First End-to-End Cloud Native Automotive Platform",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 106599,
-    "crawled_at": "2025-12-09T09:17:25.036284103Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "Cisco/Arrowpoint Content Service Switch",
-      "CloudFront",
-      "Cornerstone",
-      "Fireblade",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "NFOrce Internet",
-      "Next.js",
-      "Pleroma",
-      "Tekion",
-      "Twitter Ads",
-      "UTF-8",
-      "Underscores",
-      "VinSolutions"
     ]
   },
   {
