@@ -1,6 +1,6 @@
 # Companies Using Font Awesome (Live Dataset 2026)
 
-This folder contains an active list of 723,368 companies using **Font Awesome**. 
+This folder contains an active list of 722,530 companies using **Font Awesome**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 723,368
+- **Total Leads:** 722,530
 - **Verified:** Yes
-- **Last Updated:** 2026-03-23 23:15 UTC
+- **Last Updated:** 2026-03-24 23:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **723,368+** companies using Font Awesome.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **722,530+** companies using Font Awesome.
 
 [**⚡ Unlock the Full Font Awesome List with Contact Details**](https://leadita.com/leads/companies-using-font-awesome)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-23 23:15 UTC*
+*Last updated: 2026-03-24 23:15 UTC*
 *Data source: Leadita Technographic Intelligence*
