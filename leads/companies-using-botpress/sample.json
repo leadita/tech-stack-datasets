@@ -1,5 +1,37 @@
 [
   {
+    "domain": "mcgs.ac.in",
+    "title": "Mayo College Girls’ School in Ajmer | CISCE Affiliated",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 27780,
+    "crawled_at": "2026-03-23T15:57:19.541872082Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "AutoComplete",
+      "Botpress",
+      "Bulma",
+      "DNN Software",
+      "ElementUI",
+      "FreeCSSTemplates",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Visual Studio",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "mannyceramicprotouch.com",
     "title": "Ceramic Coating Fort Lauderdale, FL | (143)-456-7897 - Ceramic Coating Near Me - Ceramic Coating Services",
     "business_name": "Many Ceramic Pro Touch",
@@ -17641,31 +17673,6 @@
       "WooCommerce Checkout",
       "WordPress",
       "WordPress Multisite",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "choosy.dev",
-    "title": "choosy.xyz",
-    "business_name": "",
-    "country": "BRA",
-    "seo_score": 60,
-    "tech_spend": 10807,
-    "crawled_at": "2025-12-12T21:43:56.045265706Z",
-    "technologies": [
-      "Botpress",
-      "Content Delivery Network",
-      "Flow",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "WF Cookie Consent",
-      "Webflow Ecommerce",
       "jQuery"
     ]
   }
