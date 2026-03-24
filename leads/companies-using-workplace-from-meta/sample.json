@@ -1,5 +1,35 @@
 [
   {
+    "domain": "nicoleeichberger.com",
+    "title": "Nicole A. Eichberger - Professionals - Proskauer Rose LLP",
+    "business_name": "",
+    "country": "BRA",
+    "seo_score": 77,
+    "tech_spend": 37096,
+    "crawled_at": "2026-03-24T08:04:16.901240777Z",
+    "technologies": [
+      "Azure Edge",
+      "Brightcove",
+      "Corporate Governance and Regulatory Compliance",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microsoft Azure Verified CDN",
+      "PHP",
+      "Trustarc Cookie Consent",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Workplace from Meta",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "thehauglandschool.com",
     "title": "Ohio | New Story Schools",
     "business_name": "New Story Schools",
@@ -7267,36 +7297,6 @@
       "Nginx",
       "Twitter Ads",
       "UTF-8",
-      "Workplace from Meta",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "nicoleeichberger.com",
-    "title": "Nicole A. Eichberger - Professionals - Proskauer Rose LLP",
-    "business_name": "",
-    "country": "BRA",
-    "seo_score": 77,
-    "tech_spend": 37096,
-    "crawled_at": "2025-11-05T13:44:38.88414555Z",
-    "technologies": [
-      "Azure Edge",
-      "Brightcove",
-      "Corporate Governance and Regulatory Compliance",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microsoft Azure Verified CDN",
-      "PHP",
-      "Trustarc Cookie Consent",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
       "Workplace from Meta",
       "YouTube"
     ]
