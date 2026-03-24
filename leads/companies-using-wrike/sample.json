@@ -1,5 +1,26 @@
 [
   {
+    "domain": "buzzwagon.agency",
+    "title": "BuzzWagon - Dorman's Creative Engine",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 3888,
+    "crawled_at": "2026-03-23T22:52:28.698400315Z",
+    "technologies": [
+      "Fastly",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "PWA",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Wrike"
+    ]
+  },
+  {
     "domain": "flaglerinfo.org",
     "title": "Flagler College | Nationally Ranked College",
     "business_name": "",
@@ -2783,27 +2804,6 @@
       "Wrike",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "buzzwagon.agency",
-    "title": "BuzzWagon - Dorman's Creative Engine",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 3888,
-    "crawled_at": "2025-11-05T11:59:38.954396901Z",
-    "technologies": [
-      "Fastly",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Wrike"
     ]
   }
 ]
