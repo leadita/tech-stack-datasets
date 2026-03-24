@@ -1,5 +1,31 @@
 [
   {
+    "domain": "brittalisdesign.com",
+    "title": "Britta-Lis Design – Web Design & Marketing",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 159,
+    "crawled_at": "2026-03-24T04:58:03.645543174Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Contact Form Plugin",
+      "EmbedPress",
+      "FreshBooks",
+      "Google Cloud DNS",
+      "Google Font API",
+      "PHP",
+      "QUIC",
+      "Social Media Widget",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "lexact.org",
     "title": "LexAct",
     "business_name": "167 rue des Marterets ",
@@ -3301,32 +3327,6 @@
       "WordPress",
       "WordPress Multisite",
       "eLand",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "brittalisdesign.com",
-    "title": "Britta-Lis Design – Web Design & Marketing",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 159,
-    "crawled_at": "2025-11-05T13:05:38.931162269Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "FreshBooks",
-      "Google Cloud DNS",
-      "Google Font API",
-      "PHP",
-      "QUIC",
-      "Social Media Widget",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
       "jQuery"
     ]
   }
