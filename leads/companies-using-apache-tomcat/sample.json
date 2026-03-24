@@ -1,5 +1,31 @@
 [
   {
+    "domain": "lodgegatems.com",
+    "title": "LODGEGATEMS",
+    "business_name": "",
+    "country": "RUS",
+    "seo_score": 55,
+    "tech_spend": 123,
+    "crawled_at": "2026-03-24T08:27:31.553909735Z",
+    "technologies": [
+      "ADFOX",
+      "ASP.NET Core",
+      "ASP.NET MVC",
+      "Apache",
+      "Apache Tomcat JK",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Nginx",
+      "OpenResty",
+      "Oracle Cloud",
+      "Svelte",
+      "UTF-8",
+      "Visual Studio",
+      "Yandex Hosting",
+      "Yandex Metrika"
+    ]
+  },
+  {
     "domain": "cm-feira.pt",
     "title": "Página inícial - Câmara Municipal de Santa Maria da Feira",
     "business_name": "",
@@ -13148,31 +13174,6 @@
       "UTF-8",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "lodgegatems.com",
-    "title": "LODGEGATEMS",
-    "business_name": "",
-    "country": "RUS",
-    "seo_score": 65,
-    "tech_spend": 11380,
-    "crawled_at": "2025-11-05T13:47:38.8838505Z",
-    "technologies": [
-      "ADFOX",
-      "ASP.NET Core",
-      "ASP.NET MVC",
-      "Apache",
-      "Apache Tomcat JK",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "OpenResty",
-      "Oracle Cloud",
-      "UTF-8",
-      "Visual Studio",
-      "Yandex Hosting",
-      "Yandex Metrika"
     ]
   }
 ]
