@@ -9296,34 +9296,5 @@
       "reCAPTCHA",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "caruoc.com",
-    "title": "www.caruoc.com",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 72,
-    "tech_spend": 75668,
-    "crawled_at": "2025-11-05T11:49:03.885082821Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apple Pay JS",
-      "Aruba",
-      "Cart.com",
-      "Cloudflare",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "eLand",
-      "jQuery"
-    ]
   }
 ]
