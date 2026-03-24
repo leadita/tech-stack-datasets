@@ -11050,31 +11050,5 @@
       "Vercel",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "garethhughes.dev",
-    "title": "Gareth Hughes",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 588,
-    "crawled_at": "2025-11-05T13:45:03.692457584Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Tag Manager",
-      "Hasnode",
-      "Instagram Follow Button",
-      "Jekyll",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pico CSS",
-      "Pleroma",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
   }
 ]
