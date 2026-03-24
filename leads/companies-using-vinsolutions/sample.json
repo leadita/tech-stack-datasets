@@ -1,5 +1,23 @@
 [
   {
+    "domain": "bluvinsolutions.com",
+    "title": "Bluvin Solutions",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 8063,
+    "crawled_at": "2026-03-23T15:57:19.522356218Z",
+    "technologies": [
+      "ElementUI",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "QUIC",
+      "VinSolutions"
+    ]
+  },
+  {
     "domain": "gurusankararaman.com",
     "title": "Tekion | First End-to-End Cloud Native Automotive Platform",
     "business_name": "",
@@ -1880,24 +1898,6 @@
       "WordPress",
       "WordPress Multisite",
       "WordPress Stats"
-    ]
-  },
-  {
-    "domain": "bluvinsolutions.com",
-    "title": "Bluvin Solutions",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 8063,
-    "crawled_at": "2025-11-05T10:25:16.597433955Z",
-    "technologies": [
-      "ElementUI",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "QUIC",
-      "VinSolutions"
     ]
   }
 ]

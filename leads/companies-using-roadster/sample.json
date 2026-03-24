@@ -1,5 +1,35 @@
 [
   {
+    "domain": "event-roadster.com",
+    "title": "Home | Event Planning Solutions with EventRoadster",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 44352,
+    "crawled_at": "2026-03-24T10:49:13.703636793Z",
+    "technologies": [
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Line2",
+      "PWA",
+      "QUIC",
+      "Roadster",
+      "StatCounter",
+      "UTF-8",
+      "Vimeo",
+      "Vimeo CDN",
+      "Wangsu",
+      "Website Tonight",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "rodshows.com",
     "title": "Home Page - Rod Shows",
     "business_name": "",
@@ -621,34 +651,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "eventroadster.com",
-    "title": "Home | Event Planning Solutions with EventRoadster",
-    "business_name": "EventRoadster",
-    "country": "",
-    "seo_score": 92,
-    "tech_spend": 43812,
-    "crawled_at": "2025-12-21T04:01:42.139448102Z",
-    "technologies": [
-      "GoDaddy",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Line2",
-      "Microdata for Google Shopping",
-      "PWA",
-      "QUIC",
-      "Roadster",
-      "StatCounter",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight",
-      "YouTube"
     ]
   },
   {
