@@ -3679,45 +3679,5 @@
       "Vimeo CDN",
       "eMoney"
     ]
-  },
-  {
-    "domain": "dallasfinancialadvisors.us",
-    "title": "Home | Dallas Financial Advisors",
-    "business_name": "Dallas Financial Advisors",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 20259,
-    "crawled_at": "2025-11-05T15:06:12.195600141Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Divi",
-      "Elegant Themes",
-      "EmbedPress",
-      "FEEDZY RSS Feeds",
-      "Financial Industry Regulatory Authority",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Gravity Forms",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Pagekit",
-      "Perl",
-      "Sitelinks Search Box",
-      "SmartCrawl",
-      "Tailwind CSS",
-      "Theme In WP",
-      "TradingView",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "eLand",
-      "eMoney",
-      "jQuery"
-    ]
   }
 ]
