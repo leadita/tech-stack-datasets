@@ -1,12 +1,12 @@
 [
   {
-    "domain": "urantiaschool.org",
+    "domain": "urantiabookschool.org",
     "title": "UBIS",
     "business_name": "",
     "country": "ISR",
     "seo_score": 60,
     "tech_spend": 12199,
-    "crawled_at": "2026-03-23T09:34:14.591371791Z",
+    "crawled_at": "2026-03-24T17:44:18.690337295Z",
     "technologies": [
       "CDN JS",
       "Cisco/Arrowpoint Content Service Switch",
