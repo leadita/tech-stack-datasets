@@ -1,5 +1,23 @@
 [
   {
+    "domain": "ncdhhspip.org",
+    "title": "Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 47,
+    "tech_spend": 87,
+    "crawled_at": "2026-03-25T04:01:19.030268842Z",
+    "technologies": [
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "PHP",
+      "Smartsheet",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "travelnursingday.com",
     "title": "Healthcare Staffing Agency & Solutions | Medical Solutions",
     "business_name": "",
@@ -14861,50 +14879,6 @@
       "eLand",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "theikhlas.com",
-    "title": "My Link in Bio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 354,
-    "crawled_at": "2025-11-05T17:18:13.141644197Z",
-    "technologies": [
-      "Alternate Protocol",
-      "BrandCrowd Website Builder",
-      "CoreUI",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Nuxt.js",
-      "Perl",
-      "QUIC",
-      "Smartsheet",
-      "Twitter Ads",
-      "UTF-8",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "ncdhhspip.org",
-    "title": "Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 52,
-    "tech_spend": 87,
-    "crawled_at": "2025-11-05T16:45:57.274151324Z",
-    "technologies": [
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "PHP",
-      "Smartsheet",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]
