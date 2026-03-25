@@ -1,6 +1,6 @@
 # Companies Using Grafana (Live Dataset 2026)
 
-This folder contains an active list of 99 companies using **Grafana**. 
+This folder contains an active list of 98 companies using **Grafana**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 99
+- **Total Leads:** 98
 - **Verified:** Yes
-- **Last Updated:** 2026-03-24 20:00 UTC
+- **Last Updated:** 2026-03-25 20:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **99+** companies using Grafana.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **98+** companies using Grafana.
 
 [**⚡ Unlock the Full Grafana List with Contact Details**](https://leadita.com/leads/companies-using-grafana)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-24 20:00 UTC*
+*Last updated: 2026-03-25 20:00 UTC*
 *Data source: Leadita Technographic Intelligence*
