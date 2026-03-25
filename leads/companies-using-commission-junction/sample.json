@@ -1,5 +1,78 @@
 [
   {
+    "domain": "dkcj.com.au",
+    "title": "DKCJ LOGISTICS",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 3283,
+    "crawled_at": "2026-03-25T09:54:51.218714372Z",
+    "technologies": [
+      "Apache",
+      "Commission Junction",
+      "Express",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "PWA",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
+    "domain": "catalogoscj.com",
+    "title": "Johnson | Catálogo",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 1003,
+    "crawled_at": "2026-03-24T22:27:09.307963121Z",
+    "technologies": [
+      "Commission Junction",
+      "Fastly",
+      "GZIP Module",
+      "Google Cloud",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "PHP",
+      "StackPath",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "rtytanicj.com",
+    "title": "@rtytanicj | My Portfolio, YouTube | Beacons",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2694,
+    "crawled_at": "2026-03-24T19:46:56.863635751Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Beacons",
+      "Commission Junction",
+      "GZIP Module",
+      "Google Cloud",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nationwide Mortgage Licensing System and Registry",
+      "Next.js",
+      "PWA",
+      "Subversion",
+      "UTF-8",
+      "Unix",
+      "Unsplash",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "notaria4cj.com",
     "title": "Home | Notaria Cuatro",
     "business_name": "",
@@ -11456,57 +11529,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "dkcj.com.au",
-    "title": "DKCJ LOGISTICS",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 3283,
-    "crawled_at": "2025-11-05T18:05:38.897623011Z",
-    "technologies": [
-      "Apache",
-      "Commission Junction",
-      "Express",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "PWA",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
-    ]
-  },
-  {
-    "domain": "rtytanicj.com",
-    "title": "rtytanicj - Link in Bio & Creator Tools | Beacons",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2694,
-    "crawled_at": "2025-11-05T15:48:04.351942535Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Beacons",
-      "Commission Junction",
-      "GZIP Module",
-      "Google Cloud",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nationwide Mortgage Licensing System and Registry",
-      "Next.js",
-      "PWA",
-      "Pleroma",
-      "Subversion",
-      "UTF-8",
-      "Unix",
-      "Unsplash",
-      "YouTube"
     ]
   }
 ]
