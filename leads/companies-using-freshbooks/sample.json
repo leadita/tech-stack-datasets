@@ -1,5 +1,36 @@
 [
   {
+    "domain": "shuswapbookkeeping.ca",
+    "title": "Shuswap Bookkeeping – Professional and Affordable Business Services",
+    "business_name": "",
+    "country": "",
+    "seo_score": 70,
+    "tech_spend": 25508,
+    "crawled_at": "2026-03-24T19:46:56.863260737Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Column Shortcodes",
+      "Content Delivery Network",
+      "Contento",
+      "EmbedPress",
+      "Facebook Login",
+      "Facebook Reseller",
+      "FreshBooks",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Kriesi.at",
+      "PHP",
+      "QUIC",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "brittalisdesign.com",
     "title": "Britta-Lis Design – Web Design & Marketing",
     "business_name": "",
@@ -3298,36 +3329,6 @@
       "Xero",
       "YouTube",
       "Zoho Books"
-    ]
-  },
-  {
-    "domain": "shuswapbookkeeping.ca",
-    "title": "Shuswap Bookkeeping – Professional and Affordable Business Services",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 10218,
-    "crawled_at": "2025-11-05T15:48:04.350331159Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Column Shortcodes",
-      "Content Delivery Network",
-      "Contento",
-      "Facebook Login",
-      "Facebook Reseller",
-      "FreshBooks",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Kriesi.at",
-      "PHP",
-      "QUIC",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
