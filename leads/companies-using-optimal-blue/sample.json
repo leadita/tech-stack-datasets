@@ -1,5 +1,36 @@
 [
   {
+    "domain": "holdenkellerhals.com",
+    "title": "Holden Kellerhals - NEXA Lending",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 48923,
+    "crawled_at": "2026-03-25T08:58:47.059122067Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Authorize.net",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "DAV",
+      "Fireblade",
+      "Font Awesome",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Nationwide Mortgage Licensing System and Registry",
+      "Nuxt.js",
+      "Optimal Blue",
+      "UTF-8",
+      "Unsplash",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "torimessina.com",
     "title": "Tori Messina | Grace Home Lending, LLC",
     "business_name": "",
@@ -5841,37 +5872,6 @@
       "Visual Website Optimizer",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "holdenkellerhals.com",
-    "title": "Holden Kellerhals - NEXA Mortgage",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 48923,
-    "crawled_at": "2025-11-05T17:54:12.830993897Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Authorize.net",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "DAV",
-      "Fireblade",
-      "Font Awesome",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Nationwide Mortgage Licensing System and Registry",
-      "Nuxt.js",
-      "Optimal Blue",
-      "UTF-8",
-      "Unsplash",
-      "YouTube"
     ]
   }
 ]
