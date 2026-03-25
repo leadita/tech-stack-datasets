@@ -1,5 +1,32 @@
 [
   {
+    "domain": "montessorinanny.co.uk",
+    "title": "Peaceful Learning Nanny Agency",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 28156,
+    "crawled_at": "2026-03-24T22:40:20.607505699Z",
+    "technologies": [
+      "CapsuleCRM",
+      "Formstack",
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "PWA",
+      "QUIC",
+      "RM Education",
+      "UTF-8",
+      "Vimeo",
+      "Vimeo CDN",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "thebedonwellfederation.org",
     "title": "School Website Design | Greenhouse School Websites",
     "business_name": "Greenhouse School Websites",
@@ -875,34 +902,6 @@
       "Visual Studio",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "gentlenannies.com",
-    "title": "Peaceful Learning Nanny Agency",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 28156,
-    "crawled_at": "2025-11-30T07:27:46.364927862Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CapsuleCRM",
-      "Formstack",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "PWA",
-      "QUIC",
-      "RM Education",
-      "UTF-8",
-      "Vimeo",
-      "Vimeo CDN",
-      "Wangsu",
-      "Website Tonight"
     ]
   },
   {
