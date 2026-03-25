@@ -1,5 +1,100 @@
 [
   {
+    "domain": "dokk.dev",
+    "title": "DOKK - Plot your port plan with DOKK",
+    "business_name": "",
+    "country": "ISL",
+    "seo_score": 72,
+    "tech_spend": 2388,
+    "crawled_at": "2026-03-25T14:34:14.574847161Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "DatoCMS",
+      "GZIP Module",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "showthemship.com",
+    "title": "DICKIE DANCE. Creative & Experiential Tech",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 6200,
+    "crawled_at": "2026-03-25T08:08:01.49569071Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "DAV",
+      "DatoCMS",
+      "Express",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Nuxt.js",
+      "On The Map",
+      "UTF-8",
+      "Vimeo"
+    ]
+  },
+  {
+    "domain": "bruntondairy.com",
+    "title": "Brunton Dairy",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 37568,
+    "crawled_at": "2026-03-25T00:59:51.423235845Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DatoCMS",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Idaq",
+      "Nuxt.js",
+      "Subversion",
+      "Tailwind CSS",
+      "The Fresh",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "worksworks.works",
+    "title": "WØRKS",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 6728,
+    "crawled_at": "2026-03-24T19:16:27.597264319Z",
+    "technologies": [
+      "Apollo IO",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "DAV",
+      "DatoCMS",
+      "Financial Services Guide",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Idaq",
+      "Instagram Follow Button",
+      "KVH",
+      "Next.js",
+      "Plausible Analytics",
+      "Pleroma",
+      "Subversion",
+      "UTF-8",
+      "Vimeo"
+    ]
+  },
+  {
     "domain": "kronan.is",
     "title": "Krónan",
     "business_name": "",
@@ -604,33 +699,6 @@
       "Netlify",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "richard.dance",
-    "title": "DICKIE DANCE. Creative & Experiential Tech",
-    "business_name": "DICKIE DANCE.",
-    "country": "",
-    "seo_score": 82,
-    "tech_spend": 82856,
-    "crawled_at": "2026-03-20T04:47:03.549365096Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "DAV",
-      "DatoCMS",
-      "Express",
-      "Fireblade",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Nuxt.js",
-      "SMC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vimeo"
     ]
   },
   {
@@ -14284,75 +14352,6 @@
       "Pleroma",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "plcossette.com",
-    "title": "Pier-Luc Cossette — Designer & Front-End Developer",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 108257,
-    "crawled_at": "2025-12-12T00:31:56.00952984Z",
-    "technologies": [
-      "Astro",
-      "Content Delivery Network",
-      "CoreUI",
-      "DAV",
-      "DatoCMS",
-      "Financial Services Guide",
-      "Instagram Follow Button",
-      "K2F",
-      "KVH",
-      "No-Q",
-      "Onyx Internet",
-      "QUIC",
-      "SMC",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "originaltalks.fi",
-    "title": "Original Talks - Viihdyttäviä ja inspiroivia tapahtumia",
-    "business_name": "",
-    "country": "DNK",
-    "seo_score": 62,
-    "tech_spend": 2628,
-    "crawled_at": "2025-12-11T22:01:56.02461415Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DatoCMS",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "maxsaunders.design",
-    "title": "Freelance Graphic Designer | Max Saunders",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2025-12-11T21:28:56.069144708Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DatoCMS",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
