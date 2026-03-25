@@ -1,5 +1,28 @@
 [
   {
+    "domain": "vensonghotel.com",
+    "title": "Ven Sông Riverside Hotel - Cầu Sông Kinh, xã Phước Thuận,huyện Xuyên Mộc, tỉnh BRVT",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 13635,
+    "crawled_at": "2026-03-25T02:17:38.847089784Z",
+    "technologies": [
+      "CDN JS",
+      "CacheFly",
+      "CacheFly CDN",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "Fireblade",
+      "Font Awesome",
+      "IcoMoon",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "apartment.marketing",
     "title": "Spherexx: Data Science | Performance | Proptech",
     "business_name": "",
@@ -2391,29 +2414,6 @@
       "Yandex Hosting",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "vensonghotel.com",
-    "title": "Ven Sông Riverside Hotel - Cầu Sông Kinh, xã Phước Thuận,huyện Xuyên Mộc, tỉnh BRVT",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 13635,
-    "crawled_at": "2025-11-05T16:34:59.695675104Z",
-    "technologies": [
-      "CDN JS",
-      "CacheFly",
-      "CacheFly CDN",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "Fireblade",
-      "Font Awesome",
-      "IcoMoon",
-      "UTF-8"
     ]
   }
 ]
