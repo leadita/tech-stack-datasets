@@ -1,5 +1,39 @@
 [
   {
+    "domain": "eay.one",
+    "title": "@eay on omg.lol",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 159,
+    "crawled_at": "2026-03-25T08:37:55.090152022Z",
+    "technologies": [
+      "Font Awesome",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Micro.blog",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "jo-bager.social",
+    "title": "Jo Bager",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 60,
+    "crawled_at": "2026-03-24T23:52:38.147142141Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Hugo",
+      "Mastodon",
+      "Micro.blog",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "flipboard.com",
     "title": "Flipboard: Your Social Magazine",
     "business_name": "Flipboard",
@@ -7620,68 +7654,6 @@
       "RapidWeaver",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "eay.one",
-    "title": "@eay on omg.lol",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 159,
-    "crawled_at": "2025-11-05T17:48:47.38557392Z",
-    "technologies": [
-      "Font Awesome",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Micro.blog",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "status.lol",
-    "title": "status.lol",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 2959,
-    "crawled_at": "2025-11-05T17:43:04.134159394Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Band Camp",
-      "Camp",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cybercon",
-      "DAV",
-      "Express",
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Mastodon",
-      "Micro.blog",
-      "Perl",
-      "Python",
-      "UTF-8",
-      "WordPress",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "jo-bager.social",
-    "title": "Jo Bager",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 60,
-    "crawled_at": "2025-11-05T16:19:01.961963487Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Mastodon",
-      "Micro.blog",
-      "UTF-8"
     ]
   }
 ]

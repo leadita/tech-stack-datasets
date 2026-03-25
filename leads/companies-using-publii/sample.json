@@ -1,5 +1,27 @@
 [
   {
+    "domain": "a26apartments.com",
+    "title": "A26 Apartments - Premium apartment in Naples",
+    "business_name": "A26 Apartments",
+    "country": "ITA",
+    "seo_score": 72,
+    "tech_spend": 377,
+    "crawled_at": "2026-03-25T09:15:08.609616563Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Netlify",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "prestwick-decorators.com",
     "title": "Prestwick Decorators",
     "business_name": "Prestwick Decorators",
@@ -7004,28 +7026,6 @@
       "Publii",
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "a26apartments.com",
-    "title": "A26 Apartments - Premium apartment in Naples",
-    "business_name": "A26 Apartments",
-    "country": "ITA",
-    "seo_score": 72,
-    "tech_spend": 377,
-    "crawled_at": "2025-11-05T17:57:50.428130435Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Netlify",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
     ]
   }
 ]
