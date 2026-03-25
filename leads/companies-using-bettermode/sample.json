@@ -1732,32 +1732,5 @@
       "Vector Internet Services",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "giveayuda.org",
-    "title": "Home - Give Ayuda",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 7983,
-    "crawled_at": "2025-11-05T16:38:38.99408841Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "BetterMode",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "ElementUI",
-      "Figma",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Imgix",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "Tribe.so",
-      "Vector Internet Services",
-      "shadcn ui"
-    ]
   }
 ]
