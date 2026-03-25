@@ -317,26 +317,5 @@
       "StatCounter",
       "YouTube"
     ]
-  },
-  {
-    "domain": "videocreators.cloud",
-    "title": "Home - Videocreators Cloud",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 100,
-    "crawled_at": "2025-11-05T18:32:38.929240338Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Google No Site Links Search",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "Namecheap",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite"
-    ]
   }
 ]

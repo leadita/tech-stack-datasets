@@ -1,5 +1,31 @@
 [
   {
+    "domain": "topgreenenergy.com",
+    "title": "Web Domain Group",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 3484,
+    "crawled_at": "2026-03-25T00:12:00.476951189Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Dynadot",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Line2",
+      "PWA",
+      "PayPal Adaptive Payments",
+      "PayPal Button",
+      "PayPal Form",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "rocketcafe.com",
     "title": "This website or DOMAIN NAME may be for sale.",
     "business_name": "",
@@ -2467,32 +2493,6 @@
       "WordPress Multisite",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "webdomaingroup.com",
-    "title": "Web Domain Group",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 3484,
-    "crawled_at": "2025-12-06T01:42:46.406281654Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Dynadot",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Line2",
-      "PWA",
-      "PayPal Adaptive Payments",
-      "PayPal Button",
-      "PayPal Form",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
     ]
   },
   {
