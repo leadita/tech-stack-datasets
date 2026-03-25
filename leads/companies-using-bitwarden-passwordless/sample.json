@@ -1,5 +1,26 @@
 [
   {
+    "domain": "eattn.computer",
+    "title": "Watauga Systems | Your Local Tech Experts in East Tennessee",
+    "business_name": "Watauga Systems",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 17484,
+    "crawled_at": "2026-03-25T14:48:06.618602712Z",
+    "technologies": [
+      "Bitwarden Passwordless",
+      "Coming Soon Page",
+      "Fireblade",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "fastkbeauty.com",
     "title": "Fast K. Beauty - Temukan K-Beauty Impianmu",
     "business_name": "",
