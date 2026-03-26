@@ -1,5 +1,33 @@
 [
   {
+    "domain": "theatlanticanimalhospital.com",
+    "title": "Veterinarian in Wilmington, NC | Atlantic Animal Hospital & Pet Care Resort – Your Trusted Veterinary Clinic for Pet Wellness, Surgery, Emergency Care & More. Book an Appointment Today!",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 65380,
+    "crawled_at": "2026-03-26T01:05:03.116559386Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Monetate",
+      "Tailwind CSS",
+      "Visual Studio",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "kck9ortho.com",
     "title": "Veterinarian in Shawnee, KS | Kansas City Canine Orthopedics – Your Trusted Veterinary Clinic for Pet Wellness, Surgery, Emergency Care & More. Book an Appointment Today!",
     "business_name": "",
@@ -10655,33 +10683,6 @@
       "Yieldmo Direct",
       "Yottaa",
       "YouTube",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "theatlanticanimalhospital.com",
-    "title": "Veterinarian in Wilmington, NC | Atlantic Animal Hospital & Pet Care Resort – Your Trusted Veterinary Clinic for Pet Wellness, Surgery, Emergency Care & More. Book an Appointment Today!",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 65380,
-    "crawled_at": "2025-11-05T21:32:38.887599399Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Azure",
-      "Monetate",
-      "Tailwind CSS",
-      "Visual Studio",
       "jQuery"
     ]
   }
