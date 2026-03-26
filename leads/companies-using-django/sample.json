@@ -8880,40 +8880,5 @@
       "University or College",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "fullstackdevz.com",
-    "title": "Home | Full Stack Developers",
-    "business_name": "",
-    "country": "PAK",
-    "seo_score": 65,
-    "tech_spend": 14623,
-    "crawled_at": "2025-11-05T21:08:38.92400863Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "CodeIgniter",
-      "Coming Soon Page",
-      "Django",
-      "Express",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "Icons8",
-      "O360",
-      "PHP",
-      "Phusion Passenger Enterprise",
-      "Pico CSS",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "jsDelivr"
-    ]
   }
 ]
