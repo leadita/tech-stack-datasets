@@ -1,5 +1,29 @@
 [
   {
+    "domain": "hiawatharesort.info",
+    "title": "Hiawatha Resort",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 3603,
+    "crawled_at": "2026-03-25T22:45:31.040273848Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "DocuSign",
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Hiawatha",
+      "PWA",
+      "Thank You",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "firstmarkcu.net",
     "title": "Best Texas Credit Union | Firstmark Credit Union",
     "business_name": "Firstmark Credit Union",
@@ -5894,29 +5918,6 @@
     ]
   },
   {
-    "domain": "hiawatharesortwest.info",
-    "title": "Hiawatha Resort West",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 3563,
-    "crawled_at": "2025-12-20T16:19:32.767513746Z",
-    "technologies": [
-      "DocuSign",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hiawatha",
-      "PWA",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight",
-      "Zoom Video Conferencing"
-    ]
-  },
-  {
     "domain": "autokonnect.ca",
     "title": "Auto Konnect | Car, Truck & SUV Mechanic in Ottawa | Automotive Repairs",
     "business_name": "",
@@ -10522,67 +10523,6 @@
       "Zoom Video Conferencing",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "mfawriting.com",
-    "title": "MFA in Creative Writing, Fiction & Nonfiction | On Campus at SNHU",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 97064,
-    "crawled_at": "2025-11-05T21:14:38.896234976Z",
-    "technologies": [
-      "Akamai Global Host",
-      "Bulma",
-      "Content Delivery Network",
-      "DAV",
-      "DocuSign",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Idaq",
-      "KVH",
-      "Pantheon",
-      "Prospective",
-      "QUIC",
-      "SMC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "VWO Engage",
-      "Visual Website Optimizer",
-      "YouTube",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "hiawatharesort.info",
-    "title": "Hiawatha Resort",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 3603,
-    "crawled_at": "2025-11-05T20:58:05.528637701Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "DocuSign",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hiawatha",
-      "PWA",
-      "Thank You",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
     ]
   }
 ]
