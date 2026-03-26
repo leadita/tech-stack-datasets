@@ -1,5 +1,29 @@
 [
   {
+    "domain": "touchstone.tax",
+    "title": "Touchstone Tax Services",
+    "business_name": "Touchstone Bookkeeping and Tax Services",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 1573,
+    "crawled_at": "2026-03-26T03:09:38.109755542Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "QuickBooks Online",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "montgomeryandco.com",
     "title": "Home - Montgomery and Company, CPAs",
     "business_name": "",
@@ -8076,30 +8100,6 @@
       "WordPress Multisite",
       "Zoom Video Conferencing",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "touchstone.services",
-    "title": "Touchstone Tax Services",
-    "business_name": "Touchstone Bookkeeping and Tax Services",
-    "country": "",
-    "seo_score": 70,
-    "tech_spend": 1573,
-    "crawled_at": "2025-11-06T12:44:15.5352141Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "QuickBooks Online",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   },
   {
