@@ -1,14 +1,17 @@
 [
   {
-    "domain": "watermetrics.online",
+    "domain": "grafana.tlr.gg",
     "title": "Grafana",
     "business_name": "",
     "country": "",
-    "seo_score": 45,
+    "seo_score": 30,
     "tech_spend": 1200,
-    "crawled_at": "2026-03-23T07:21:54.243341323Z",
+    "crawled_at": "2026-03-26T11:53:38.064393202Z",
     "technologies": [
       "Barchart",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
       "Express",
       "GitHub Hosting",
       "Grafana",
