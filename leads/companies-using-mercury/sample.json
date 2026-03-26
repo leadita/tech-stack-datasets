@@ -8328,37 +8328,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "dowoko.com",
-    "title": "Dowoko",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 731,
-    "crawled_at": "2025-11-06T00:30:14.498637836Z",
-    "technologies": [
-      "Adult Content",
-      "ETranslate",
-      "Express",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GZIP Module",
-      "IcoMoon",
-      "Mercury",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "PHP",
-      "PayPal Adaptive Payments",
-      "Schema Plugin",
-      "Taboola Direct",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
   }
 ]
