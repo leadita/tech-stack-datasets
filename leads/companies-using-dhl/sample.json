@@ -1,5 +1,58 @@
 [
   {
+    "domain": "guitarmusichall.com.mx",
+    "title": "Guitar Music Hall - Inicio",
+    "business_name": "",
+    "country": "MEX",
+    "seo_score": 70,
+    "tech_spend": 184,
+    "crawled_at": "2026-03-26T20:57:08.584845344Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "DHL Parcel",
+      "Express",
+      "Facebook Login",
+      "Facebook Reseller",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Perl",
+      "SnapWidget",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "familyopportunitymortgage.com",
+    "title": "Family Opportunity Mortgage in California family opportunity mortgage illinois family opportunity mortgage texasfamily opportunity mortgage Florida",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 19132,
+    "crawled_at": "2026-03-26T02:36:08.612295049Z",
+    "technologies": [
+      "Apache",
+      "DHL Parcel",
+      "Express",
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Nationwide Mortgage Licensing System and Registry",
+      "PWA",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "entrepreneurs.london",
     "title": "Arab Entrepreneurs Board مجلس رواد الأعمال العرب",
     "business_name": "Arab Entrepreneurs Board",
@@ -18036,58 +18089,6 @@
       "UTF-8",
       "eLand",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "huihuangexpress.com",
-    "title": "徽煌国际供应链",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 123,
-    "crawled_at": "2025-11-14T22:47:04.979613068Z",
-    "technologies": [
-      "17TRACK",
-      "Alternate Protocol",
-      "DHL Parcel",
-      "Express",
-      "FedEx",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "Tailwind CSS",
-      "UPS",
-      "USPS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "siristerlinglogistics.com",
-    "title": "Siri Sterling Logistics",
-    "business_name": "",
-    "country": "SGP",
-    "seo_score": 70,
-    "tech_spend": 15599,
-    "crawled_at": "2025-11-14T20:41:04.986578135Z",
-    "technologies": [
-      "Aramex",
-      "Blue Dart",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "DHL Parcel",
-      "Express",
-      "FedEx",
-      "Fireblade",
-      "Font Awesome",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Tailwind CSS",
-      "UPS",
-      "WhatsApp Sharing",
-      "jsDelivr"
     ]
   }
 ]
