@@ -1,5 +1,36 @@
 [
   {
+    "domain": "seo1seotools.com",
+    "title": "Free Backlinks by Seo1 SEO Tools - Free Backlink Generator - Free SEO Tools",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 14800,
+    "crawled_at": "2026-03-25T20:02:57.634054514Z",
+    "technologies": [
+      "Apache",
+      "Barracuda Web App Firewall",
+      "Bing Cashback",
+      "Express",
+      "Fastly",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Looker Studio",
+      "Google My Business",
+      "Google Tag Manager",
+      "ISO/IEC 8859",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Perl",
+      "QUIC",
+      "Schema Plugin",
+      "UTF-8",
+      "Yandex Hosting",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "alicethemov.com",
     "title": "Alice | Official Website | March 18 2022",
     "business_name": "",
@@ -5453,37 +5484,6 @@
       "UTF-8",
       "WordPress",
       "WordPress Multisite"
-    ]
-  },
-  {
-    "domain": "seo1seotools.com",
-    "title": "Free Backlinks by Seo1 SEO Tools - Free Backlink Generator - Free SEO Tools",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 14800,
-    "crawled_at": "2025-11-05T20:28:14.012058849Z",
-    "technologies": [
-      "Apache",
-      "Barracuda Web App Firewall",
-      "Bing Cashback",
-      "Express",
-      "Fastly",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Looker Studio",
-      "Google My Business",
-      "Google Tag Manager",
-      "ISO/IEC 8859",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Perl",
-      "QUIC",
-      "Schema Plugin",
-      "UTF-8",
-      "Yandex Hosting",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
