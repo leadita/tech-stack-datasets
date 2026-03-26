@@ -1,5 +1,42 @@
 [
   {
+    "domain": "deploy-now.ca",
+    "title": "Deploy Now » Build and Deploy via GitHub | IONOS",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 62429,
+    "crawled_at": "2026-03-26T21:54:32.066958504Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Auth Passthrough",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fireblade",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Gridsome",
+      "Hexo",
+      "Instagram Follow Button",
+      "Jekyll",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "ON24",
+      "PHP",
+      "PROPS Publisher",
+      "PrestaShop",
+      "Scully",
+      "Svelte",
+      "UTF-8",
+      "Vector Internet Services",
+      "VitePress",
+      "Woo Themes",
+      "YouTube",
+      "symfony PHP Framework"
+    ]
+  },
+  {
     "domain": "runhangz.com",
     "title": "Runhang Zhang - Runhang Z | Full Stack Developer | Product Manager",
     "business_name": "",
@@ -11788,40 +11825,6 @@
       "Gridsome",
       "Medium",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "iuventa-crew.org",
-    "title": "Home - iuventa crew - solidarity at sea",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 88045,
-    "crawled_at": "2025-11-14T09:50:39.961115663Z",
-    "technologies": [
-      "CCSI",
-      "Content Delivery Network",
-      "CoreUI",
-      "DAV",
-      "Fireblade",
-      "Gambling Content",
-      "Google",
-      "Gridsome",
-      "Idaq",
-      "Instagram Follow Button",
-      "K2F",
-      "KVH",
-      "Matomo",
-      "Matomo Tag Manager",
-      "Netlify",
-      "No-Q",
-      "Subversion",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]
