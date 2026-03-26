@@ -1,5 +1,24 @@
 [
   {
+    "domain": "mindmeshai.us",
+    "title": "MindMesh AI | AI Receptionist Solutions for Dental Practices",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 22779,
+    "crawled_at": "2026-03-25T19:25:40.154973492Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Netlify",
+      "Open Dental",
+      "Practice Fusion",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "medstates.com",
     "title": "Top Medical Billing Services Company in the U.S. | MedStates",
     "business_name": "MedStates Medical Billing Services LLC",
@@ -1556,25 +1575,6 @@
       "UTF-8",
       "University or College",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "mindmeshai.us",
-    "title": "MindMesh AI | AI Receptionist Solutions for Dental Practices",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 22779,
-    "crawled_at": "2025-11-05T20:23:38.888359197Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Netlify",
-      "Open Dental",
-      "Practice Fusion",
-      "UTF-8"
     ]
   }
 ]

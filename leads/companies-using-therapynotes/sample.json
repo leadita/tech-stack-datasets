@@ -1,5 +1,35 @@
 [
   {
+    "domain": "lawyertherapist.com",
+    "title": "Legal Advice for Therapists | Marketing Consulting for Psychotherapists",
+    "business_name": "Lubofsky PC",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 19276,
+    "crawled_at": "2026-03-26T18:22:15.104765474Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Google My Business",
+      "Gravity",
+      "Gravity Forms",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Theme In WP",
+      "TherapyNotes",
+      "Twenty Twenty",
+      "UTF-8",
+      "WP Engine",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "foragercounseling.com",
     "title": "Forager Counseling",
     "business_name": "",
@@ -4161,36 +4191,6 @@
       "WordPress Multisite",
       "WordPress Related Posts",
       "eClinicalWorks"
-    ]
-  },
-  {
-    "domain": "lawyertherapist.com",
-    "title": "Legal Advice for Therapists | Marketing Consulting for Psychotherapists",
-    "business_name": "Lubofsky PC",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 19276,
-    "crawled_at": "2025-11-06T00:43:27.569346604Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Cloudflare",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Google My Business",
-      "Gravity",
-      "Gravity Forms",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Theme In WP",
-      "TherapyNotes",
-      "Twenty Twenty",
-      "UTF-8",
-      "WP Engine",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
