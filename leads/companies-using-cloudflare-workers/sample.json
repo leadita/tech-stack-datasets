@@ -1,5 +1,39 @@
 [
   {
+    "domain": "spittechnologies.com",
+    "title": "SP IT Technologies - Empowering Businesses",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 65,
+    "tech_spend": 61304,
+    "crawled_at": "2026-03-26T09:17:04.914242712Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apache",
+      "Better Lead Generation Services",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare Workers",
+      "Fireblade",
+      "Fortinet",
+      "Google",
+      "Google Cloud DNS",
+      "Google Customer Reviews",
+      "Google Font API",
+      "Gravity",
+      "IconScout",
+      "QUIC",
+      "Tailwind CSS",
+      "Unsplash",
+      "Vercel",
+      "Wangsu",
+      "WordPress",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "status.lol",
     "title": "status.lol",
     "business_name": "",
@@ -14549,39 +14583,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "yanzewu.com",
-    "title": "Yanze (David) Wu — Builder of AI Systems",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 87,
-    "tech_spend": 34496,
-    "crawled_at": "2025-11-11T14:05:39.034749227Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "DAV",
-      "Fastly",
-      "Financial Industry Regulatory Authority",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "InitiativeS",
-      "NFOrce Internet",
-      "Netlify",
-      "Netlify Forms",
-      "Oracle Cloud",
-      "Python",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "Waveform Technology"
     ]
   }
 ]
