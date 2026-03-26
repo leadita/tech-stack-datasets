@@ -7771,41 +7771,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "travelead.ca",
-    "title": "Travelead | Personalized, Tailored and Stress-Free Travel Experiences to Africa",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 4762,
-    "crawled_at": "2025-11-05T22:25:54.615756118Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Buffer",
-      "Divi",
-      "Elegant Themes",
-      "EmbedPress",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Workspace",
-      "Instagram Follow Button",
-      "PHP",
-      "Share Link",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "Vimeo",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "reCAPTCHA"
-    ]
   }
 ]
