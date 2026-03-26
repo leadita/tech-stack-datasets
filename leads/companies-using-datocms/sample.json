@@ -1,5 +1,54 @@
 [
   {
+    "domain": "peakwork.com",
+    "title": "Homepage - Peakwork",
+    "business_name": "Peakwork GmbH",
+    "country": "DEU",
+    "seo_score": 87,
+    "tech_spend": 3829,
+    "crawled_at": "2026-03-26T07:22:51.128587742Z",
+    "technologies": [
+      "Alpine.js",
+      "Apollo IO",
+      "Content Delivery Network",
+      "Cybot",
+      "DatoCMS",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "bilpriseras.no",
+    "title": "Hva er bilen din verdt? Sjekk Bilpriser online",
+    "business_name": "",
+    "country": "SWE",
+    "seo_score": 72,
+    "tech_spend": 3588,
+    "crawled_at": "2026-03-26T06:02:45.155649829Z",
+    "technologies": [
+      "DatoCMS",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Styled Components",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "dokk.dev",
     "title": "DOKK - Plot your port plan with DOKK",
     "business_name": "",
@@ -14296,62 +14345,6 @@
       "Vercel",
       "YouTube",
       "Zoom Video Conferencing"
-    ]
-  },
-  {
-    "domain": "leukaemiacancersociety.org",
-    "title": "Leukaemia and Blood Cancer Charity - Leukaemia Cancer Society",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 128026,
-    "crawled_at": "2025-12-12T04:16:56.054370316Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "DAV",
-      "DatoCMS",
-      "Fastly",
-      "Financial Services Guide",
-      "Gatsby JS",
-      "Google Analytics",
-      "Google My Business",
-      "Hexo",
-      "K2F",
-      "KVH",
-      "Material-UI",
-      "Netlify",
-      "No-Q",
-      "PHP",
-      "Phew",
-      "QUIC",
-      "SMC",
-      "Subversion",
-      "Twitter Ads",
-      "UTF-8",
-      "Visx",
-      "Zope"
-    ]
-  },
-  {
-    "domain": "vivakot.org",
-    "title": "Ukrainian Army Aid Foundation \"Vivakot\"",
-    "business_name": "",
-    "country": "UKR",
-    "seo_score": 77,
-    "tech_spend": 5168,
-    "crawled_at": "2025-12-12T04:15:31.921537235Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DatoCMS",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Idaq",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]

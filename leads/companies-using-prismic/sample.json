@@ -1,5 +1,30 @@
 [
   {
+    "domain": "olis.is",
+    "title": "Olís",
+    "business_name": "",
+    "country": "JPN",
+    "seo_score": 67,
+    "tech_spend": 1140,
+    "crawled_at": "2026-03-25T22:03:52.78507658Z",
+    "technologies": [
+      "Adult Content",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "twoperfectevents.com",
     "title": "Two Perfect Events | Chic + Multicultural Weddings & Events for Creative Souls",
     "business_name": "",
@@ -13602,26 +13627,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "smm.studio",
-    "title": "Home | SMM",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2025-11-27T07:40:53.726131293Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Gatsby JS",
-      "Instagram Follow Button",
-      "Netlify",
-      "Prismic",
-      "Styled Components",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]

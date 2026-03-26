@@ -1829,47 +1829,5 @@
       "reCAPTCHA",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "themillettesp.org",
-    "title": "wellness | Linktree",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 38768,
-    "crawled_at": "2025-11-05T22:50:38.903573612Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ButterCMS",
-      "Content Delivery Network",
-      "Fastly",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Linktree",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Nginx",
-      "Onyx Internet",
-      "PWA",
-      "Pleroma",
-      "QUIC",
-      "Rakuten Affiliate",
-      "Shopify",
-      "Shopify Collabs",
-      "SiteW",
-      "Styled Components",
-      "Superfiliate",
-      "Tailwind CSS",
-      "Telegram",
-      "UTF-8",
-      "YouTube",
-      "Zinrelo",
-      "shadcn ui"
-    ]
   }
 ]
