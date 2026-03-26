@@ -1,5 +1,31 @@
 [
   {
+    "domain": "riccipianoforti.it",
+    "title": "Ricci Pianoforti",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 60,
+    "tech_spend": 3018,
+    "crawled_at": "2026-03-26T04:59:41.068320602Z",
+    "technologies": [
+      "Aruba",
+      "Azion",
+      "ComplyDog",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "GrowSurf",
+      "Perl",
+      "Squid",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "Vello",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "fitforever.com",
     "title": "FITFOREVER - Digital Fitness Designed by Doctors",
     "business_name": "",
@@ -1262,32 +1288,6 @@
       "QUIC",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "riccipianoforti.it",
-    "title": "Ricci Pianoforti",
-    "business_name": "",
-    "country": "ITA",
-    "seo_score": 60,
-    "tech_spend": 3018,
-    "crawled_at": "2025-11-05T22:20:39.046058378Z",
-    "technologies": [
-      "Aruba",
-      "Azion",
-      "ComplyDog",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "GrowSurf",
-      "Perl",
-      "Squid",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "Vello",
-      "jQuery"
     ]
   }
 ]
