@@ -1,5 +1,36 @@
 [
   {
+    "domain": "savioke.info",
+    "title": "Relay Delivery Robots – Leader in delivery robots for hospitals and hotels.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 123,
+    "crawled_at": "2026-03-27T00:47:35.810228442Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Lever",
+      "QUIC",
+      "Tailwind CSS",
+      "Trello",
+      "UTF-8",
+      "WF Cookie Consent",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "findpartner.app",
     "title": "FindPartner: Reach Co-Founders, Investors and Job Seekers",
     "business_name": "FindPartner",
@@ -1152,37 +1183,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "savioke.com",
-    "title": "Relay Delivery Robots – Leader in delivery robots for hospitals and hotels.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 10840,
-    "crawled_at": "2026-03-04T11:11:42.899566805Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Lever",
-      "QUIC",
-      "Tailwind CSS",
-      "Trello",
-      "UTF-8",
-      "WF Cookie Consent",
-      "YouTube"
     ]
   },
   {
@@ -8512,42 +8512,6 @@
       "WF Cookie Consent",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "theflowtrip.life",
-    "title": "The Flow Trip",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 287,
-    "crawled_at": "2025-11-06T05:08:38.920132278Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "ByteDance",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "DoubleClick Bid Manager",
-      "Express",
-      "Facebook Reseller",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Tag Manager",
-      "Imgix",
-      "Instagram Follow Button",
-      "Lever",
-      "Material-UI",
-      "Microdata for Google Shopping",
-      "Neighborhoods",
-      "Next.js",
-      "PWA",
-      "Perl",
-      "Pleroma",
-      "UTF-8"
     ]
   }
 ]

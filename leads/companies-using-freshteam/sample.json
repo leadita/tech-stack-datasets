@@ -1,5 +1,31 @@
 [
   {
+    "domain": "littlelives.com.vn",
+    "title": "LittleLives: The leading school management system",
+    "business_name": "",
+    "country": "IDN",
+    "seo_score": 72,
+    "tech_spend": 18192,
+    "crawled_at": "2026-03-27T01:30:49.283304414Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "App Store",
+      "Content Delivery Network",
+      "CyberJay",
+      "Freshteam",
+      "GZIP Module",
+      "Google Forms",
+      "Google My Business",
+      "Google Play",
+      "Instagram Follow Button",
+      "NFOrce Internet",
+      "Next.js",
+      "Perl",
+      "Pleroma",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "bcdoorsmith.ca",
     "title": "Doorsmith Home - Proud Canadian Manufacturer Interior & Exterior Doors",
     "business_name": "Doorsmith",
@@ -1579,33 +1605,6 @@
       "iZooto",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "littlelives.com",
-    "title": "LittleLives: The leading school management system",
-    "business_name": "",
-    "country": "IDN",
-    "seo_score": 72,
-    "tech_spend": 33192,
-    "crawled_at": "2025-12-29T05:56:33.526162088Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "App Store",
-      "Content Delivery Network",
-      "CyberJay",
-      "Fireblade",
-      "Freshteam",
-      "GZIP Module",
-      "Google My Business",
-      "Google Play",
-      "Instagram Follow Button",
-      "NFOrce Internet",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "UTF-8",
-      "Underscores"
     ]
   },
   {
