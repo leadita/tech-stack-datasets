@@ -1,5 +1,26 @@
 [
   {
+    "domain": "implausible.ai",
+    "title": "Implausible AI",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 3060,
+    "crawled_at": "2026-03-27T10:44:19.014248419Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "Ghost",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "nicoleconley.com",
     "title": "Nicole Conley | Straight Forward Mom",
     "business_name": "",
@@ -13146,29 +13167,6 @@
       "Telegram",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "nickcarroll.com",
-    "title": "nickcarroll.com | Nick's Digital Home Base",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 16260,
-    "crawled_at": "2025-11-18T05:44:04.990012075Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Bunny Fonts",
-      "BunnyCDN Header",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Ghost",
-      "Microdata for Google Shopping",
-      "UTF-8",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]
