@@ -1,5 +1,45 @@
 [
   {
+    "domain": "get50now.com",
+    "title": "Select a time",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 8666,
+    "crawled_at": "2026-03-26T20:41:58.765702573Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "Fastly",
+      "Fireblade",
+      "Google My Business",
+      "NFOrce Internet",
+      "PWA",
+      "UTF-8",
+      "University or College",
+      "YouCanBookMe"
+    ]
+  },
+  {
+    "domain": "journeywithus.vip",
+    "title": "Journey With Us Travel Agency - Your Romantic Getaway Experts - Escape Into Romance",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-03-26T19:41:30.919664962Z",
+    "technologies": [
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "QUIC",
+      "UTF-8",
+      "YouCanBookMe"
+    ]
+  },
+  {
     "domain": "happybluebird.fr",
     "title": "Welcome - Bluebird Happiness Consultancy",
     "business_name": "Bluebird Happiness consulting",
@@ -17327,72 +17367,6 @@
       "WordPress Multisite",
       "YouCanBookMe",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "cloyne.org",
-    "title": "Cloyne | Live, learn, teach, create",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 4048,
-    "crawled_at": "2025-12-20T20:17:16.532630338Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon Widgets",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Forms",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Nginx",
-      "Ntent",
-      "PHP",
-      "Python",
-      "Theme In WP",
-      "Twenty Thirteen",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "WordPress",
-      "WordPress Multisite",
-      "YouCanBookMe",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "fhaintl.net",
-    "title": "Freedom Home Academy International - Chicago, IL",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 46116,
-    "crawled_at": "2025-12-20T18:52:32.761038916Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Authorize.net",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Instagram Follow Button",
-      "K2F",
-      "Nuxt.js",
-      "Oddle",
-      "QUIC",
-      "Thank You",
-      "UTF-8",
-      "Vimeo",
-      "Vimeo CDN",
-      "YouCanBookMe"
     ]
   }
 ]
