@@ -1,5 +1,52 @@
 [
   {
+    "domain": "hrithik.tech",
+    "title": "Hrithik's Portfolio",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 540,
+    "crawled_at": "2026-03-27T10:25:17.177670648Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "Google My Business",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "yulo.im",
+    "title": "Portfolio - GreatStack",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 60,
+    "crawled_at": "2026-03-26T18:08:40.969953059Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google My Business",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Unix",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "spittechnologies.com",
     "title": "SP IT Technologies - Empowering Businesses",
     "business_name": "",
@@ -14539,50 +14586,6 @@
       "UTF-8",
       "University or College",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "spectralhc.com",
-    "title": "Spectral - AI Governance for Healthcare",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2040,
-    "crawled_at": "2025-11-11T18:50:38.932571728Z",
-    "technologies": [
-      "AI Log",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "NFOrce Internet",
-      "Next.js",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "flowrise.app",
-    "title": "FlowRise - FlowRise",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 7560,
-    "crawled_at": "2025-11-11T16:14:38.926597554Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Workers",
-      "Fireblade",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Radix UI",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
