@@ -1706,31 +1706,5 @@
       "WhatsApp Sharing",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "aqar.chat",
-    "title": "عقار شات",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 7983,
-    "crawled_at": "2025-11-06T05:23:38.880778542Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "BetterMode",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "ElementUI",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Imgix",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "Tribe.so",
-      "Vector Internet Services",
-      "shadcn ui"
-    ]
   }
 ]
