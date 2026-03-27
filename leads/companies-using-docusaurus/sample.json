@@ -1,5 +1,33 @@
 [
   {
+    "domain": "upcx.io",
+    "title": "UPCX - Welcome to the Binancial World | UPCX - BEYOND PAYMENTS",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 8850,
+    "crawled_at": "2026-03-27T08:35:48.081537375Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Cloudinary",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Tag Manager",
+      "Medium",
+      "Oracle Cloud",
+      "Perl",
+      "Telegram",
+      "Twitter Ads"
+    ]
+  },
+  {
     "domain": "deploy-now.ca",
     "title": "Deploy Now » Build and Deploy via GitHub | IONOS",
     "business_name": "",
@@ -12365,63 +12393,6 @@
       "Nginx",
       "Perl",
       "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "upcx.io",
-    "title": "UPCX - Welcome to the Binancial World | UPCX - BEYOND PAYMENTS",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 8850,
-    "crawled_at": "2025-11-06T03:54:01.301677041Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Cloudinary",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Google Tag Manager",
-      "Medium",
-      "Oracle Cloud",
-      "Perl",
-      "Telegram",
-      "Twitter Ads"
-    ]
-  },
-  {
-    "domain": "lauriecrean.dev",
-    "title": "Laurie Crean",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 663,
-    "crawled_at": "2025-11-06T03:19:08.259819563Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Express",
-      "Fastly",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Ntent",
-      "Perl",
-      "RawGit",
-      "To Top",
-      "UTF-8",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]
