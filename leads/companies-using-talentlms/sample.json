@@ -1,5 +1,34 @@
 [
   {
+    "domain": "storyarclearning.com",
+    "title": "Instructional Design Services | Story Arc Learning",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 22500,
+    "crawled_at": "2026-03-27T03:07:19.896362624Z",
+    "technologies": [
+      "Apache",
+      "Express",
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "ID Services",
+      "Line2",
+      "PWA",
+      "TalentLMS",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "adaptivediversinternational.com",
     "title": "Home | Diveheart Adaptive Scuba Diving Nonprofit",
     "business_name": "DIVEHEART",
@@ -8310,36 +8339,6 @@
       "Zendesk Embeddables",
       "elevio",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "storyarclearning.com",
-    "title": "Instructional Design Services | Story Arc Learning",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 37500,
-    "crawled_at": "2025-11-06T02:18:31.130837812Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Express",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "ID Services",
-      "Line2",
-      "PWA",
-      "TalentLMS",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
     ]
   }
 ]
