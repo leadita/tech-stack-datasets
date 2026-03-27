@@ -1,5 +1,31 @@
 [
   {
+    "domain": "metteson.no",
+    "title": "Metteson",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 4159,
+    "crawled_at": "2026-03-27T01:04:17.002162919Z",
+    "technologies": [
+      "Bandsintown",
+      "Craft",
+      "Express",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Nginx",
+      "Twitter Ads",
+      "UTF-8",
+      "Workplace from Meta",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "nicoleeichberger.com",
     "title": "Nicole A. Eichberger - Professionals - Proskauer Rose LLP",
     "business_name": "",
@@ -7273,32 +7299,6 @@
       "Wangsu",
       "Website Tonight",
       "Workplace from Meta"
-    ]
-  },
-  {
-    "domain": "metteson.no",
-    "title": "Metteson",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 67,
-    "tech_spend": 4159,
-    "crawled_at": "2025-11-06T01:48:26.294157378Z",
-    "technologies": [
-      "Bandsintown",
-      "Craft",
-      "Express",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Nginx",
-      "Twitter Ads",
-      "UTF-8",
-      "Workplace from Meta",
-      "YouTube"
     ]
   }
 ]
