@@ -1,5 +1,26 @@
 [
   {
+    "domain": "rockyhillmanagement.com",
+    "title": "Carosh E-learning",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 1788,
+    "crawled_at": "2026-03-27T19:43:40.747492093Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GZIP Module",
+      "Google Analytics",
+      "Nginx",
+      "PHP",
+      "Practice Fusion",
+      "QUIC",
+      "UTF-8",
+      "University or College",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "mindmeshai.us",
     "title": "MindMesh AI | AI Receptionist Solutions for Dental Practices",
     "business_name": "",
@@ -1554,27 +1575,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "rockyhillmanagement.com",
-    "title": "Carosh E-learning",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 1788,
-    "crawled_at": "2025-11-06T07:06:28.706113719Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GZIP Module",
-      "Google Analytics",
-      "Nginx",
-      "PHP",
-      "Practice Fusion",
-      "QUIC",
-      "UTF-8",
-      "University or College",
-      "jQuery"
     ]
   }
 ]
