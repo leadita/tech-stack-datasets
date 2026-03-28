@@ -1,5 +1,50 @@
 [
   {
+    "domain": "acady.eu",
+    "title": "IB MYP & DP Tutoring: #1 tutors for top IB results | Acady",
+    "business_name": "Acady",
+    "country": "NLD",
+    "seo_score": 82,
+    "tech_spend": 19209,
+    "crawled_at": "2026-03-27T19:27:36.817329557Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Insights",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Cybot",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Gravity",
+      "Gravity Forms",
+      "Kinsta",
+      "Lazy Load for WordPress",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "QUIC",
+      "Theme In WP",
+      "UTF-8",
+      "University or College",
+      "WP Rocket",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "hrithik.tech",
     "title": "Hrithik's Portfolio",
     "business_name": "",
@@ -14564,28 +14609,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "gauravroy.site",
-    "title": "Gaurav Roy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 15540,
-    "crawled_at": "2025-11-11T19:59:38.941505667Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel"
     ]
   }
 ]
