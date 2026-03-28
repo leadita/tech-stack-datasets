@@ -1675,36 +1675,5 @@
       "YouTube",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "easystay.au",
-    "title": "EasyStay.au - Free Community for Renters and Hosts in Australia",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 7983,
-    "crawled_at": "2025-11-06T13:59:38.88498213Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "BetterMode",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "ElementUI",
-      "Google Adsense",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google Reseller",
-      "Imgix",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "Tribe.so",
-      "Vector Internet Services",
-      "WhatsApp Sharing",
-      "shadcn ui"
-    ]
   }
 ]
