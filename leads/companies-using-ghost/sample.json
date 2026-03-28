@@ -1,5 +1,32 @@
 [
   {
+    "domain": "cloudaiapp.dev",
+    "title": "AI Application Development",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 38060,
+    "crawled_at": "2026-03-27T18:41:07.55810516Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "ArvanCloud",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "Ghost",
+      "KVH",
+      "KaTeX",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "implausible.ai",
     "title": "Implausible AI",
     "business_name": "",
@@ -13139,34 +13166,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "earth-portal.com",
-    "title": "Earth-Portal",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 77,
-    "tech_spend": 1431,
-    "crawled_at": "2025-11-18T15:06:40.276155161Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "BunnyCDN Header",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "DAV",
-      "Express",
-      "Font Awesome",
-      "Ghost",
-      "Linktree",
-      "Microdata for Google Shopping",
-      "Stripe",
-      "Telegram",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]

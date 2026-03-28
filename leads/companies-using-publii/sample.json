@@ -1,5 +1,25 @@
 [
   {
+    "domain": "patmosgardensea.gr",
+    "title": "Patmos Garden Sea",
+    "business_name": "Patmos Garden Sea",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 148,
+    "crawled_at": "2026-03-27T21:47:45.724987318Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "CoreUI",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "a26apartments.com",
     "title": "A26 Apartments - Premium apartment in Naples",
     "business_name": "A26 Apartments",
@@ -7006,26 +7026,6 @@
       "QUIC",
       "WordPress SEO Structured Data Schema Plugin",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "patmosgardensea.gr",
-    "title": "Patmos Garden Sea",
-    "business_name": "Patmos Garden Sea",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 148,
-    "crawled_at": "2025-11-06T07:47:55.624937465Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "CoreUI",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   }
 ]
