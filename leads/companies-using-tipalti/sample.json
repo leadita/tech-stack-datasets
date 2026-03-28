@@ -1,5 +1,33 @@
 [
   {
+    "domain": "aesofnewyork.com",
+    "title": "unicorn (formerly Wiser Elite)",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 247092,
+    "crawled_at": "2026-03-28T15:25:06.366015663Z",
+    "technologies": [
+      "1Password",
+      "Airtable",
+      "Alternate Protocol",
+      "Framer Sites",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Customer Reviews",
+      "Google Tag Manager",
+      "K2F",
+      "Ntent",
+      "SMC",
+      "Salesforce Hosted",
+      "Tipalti",
+      "Vector Internet Services",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
     "domain": "avantiico.com",
     "title": "Avantiico | Microsoft Solutions, Consulting, & Automation",
     "business_name": "Avantiico",
