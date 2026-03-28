@@ -1,5 +1,36 @@
 [
   {
+    "domain": "comfortintheworkplace.com",
+    "title": "Ergonomic Comfort Evaluations for Workplace Solutions",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 23032,
+    "crawled_at": "2026-03-27T22:06:22.505434983Z",
+    "technologies": [
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GoDaddy",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Line2",
+      "PWA",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight",
+      "Workplace from Meta"
+    ]
+  },
+  {
     "domain": "metteson.no",
     "title": "Metteson",
     "business_name": "",
@@ -7276,29 +7307,6 @@
       "Workplace from Meta",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "comfortintheworkplace.com",
-    "title": "Comfortintheworkplace",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 3283,
-    "crawled_at": "2025-11-06T07:56:38.883031383Z",
-    "technologies": [
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "PWA",
-      "QUIC",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight",
-      "Workplace from Meta"
     ]
   }
 ]
