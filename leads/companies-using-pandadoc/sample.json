@@ -2102,27 +2102,5 @@
       "XTemos Studio",
       "monday.com"
     ]
-  },
-  {
-    "domain": "thecharmedtable.com",
-    "title": "The Charmed Table - Good Food At Its Best | Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 30588,
-    "crawled_at": "2025-11-06T09:41:59.887599242Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Nginx",
-      "PandaDoc",
-      "QUIC",
-      "The Fresh",
-      "UTF-8",
-      "Ubuntu",
-      "jQuery"
-    ]
   }
 ]
