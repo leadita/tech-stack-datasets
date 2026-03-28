@@ -1,5 +1,46 @@
 [
   {
+    "domain": "transactional.net",
+    "title": "Home - Transactional Service Industry Online Marketing - Local SEO Services",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 5433,
+    "crawled_at": "2026-03-28T12:41:12.992502913Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "ClickUp",
+      "DAV",
+      "Elementor",
+      "EmbedPress",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Graphina",
+      "Hello Elementor",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PHP",
+      "QUIC",
+      "Qi Addons For Elementor",
+      "SoTellUs",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "dcoil.ca",
     "title": "AMSOIL Synthetic Oil in Caledon, ON | DC OIL",
     "business_name": "",
@@ -18787,32 +18828,6 @@
       "eLand",
       "jQuery",
       "monday.com"
-    ]
-  },
-  {
-    "domain": "geto.app",
-    "title": "Landing - Product Preview - GETO",
-    "business_name": "",
-    "country": "THA",
-    "seo_score": 87,
-    "tech_spend": 5730,
-    "crawled_at": "2025-11-11T09:14:38.935892482Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "ClickUp",
-      "CloudFront",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Next.js",
-      "Pico CSS",
-      "Pleroma",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]

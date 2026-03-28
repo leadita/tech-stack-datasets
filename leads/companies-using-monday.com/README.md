@@ -1,6 +1,6 @@
 # Companies Using Monday.com (Live Dataset 2026)
 
-This folder contains an active list of 3,441 companies using **Monday.com**. 
+This folder contains an active list of 3,439 companies using **Monday.com**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 3,441
+- **Total Leads:** 3,439
 - **Verified:** Yes
-- **Last Updated:** 2026-03-28 14:45 UTC
+- **Last Updated:** 2026-03-28 21:01 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **3,441+** companies using Monday.com.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **3,439+** companies using Monday.com.
 
 [**⚡ Unlock the Full Monday.com List with Contact Details**](https://leadita.com/leads/companies-using-monday.com)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-28 14:45 UTC*
+*Last updated: 2026-03-28 21:01 UTC*
 *Data source: Leadita Technographic Intelligence*
