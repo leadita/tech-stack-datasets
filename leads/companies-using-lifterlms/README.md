@@ -1,6 +1,6 @@
 # Companies Using LifterLMS (Live Dataset 2026)
 
-This folder contains an active list of 466 companies using **LifterLMS**. 
+This folder contains an active list of 464 companies using **LifterLMS**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 466
+- **Total Leads:** 464
 - **Verified:** Yes
-- **Last Updated:** 2026-03-27 17:00 UTC
+- **Last Updated:** 2026-03-28 17:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **466+** companies using LifterLMS.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **464+** companies using LifterLMS.
 
 [**⚡ Unlock the Full LifterLMS List with Contact Details**](https://leadita.com/leads/companies-using-lifterlms)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-27 17:00 UTC*
+*Last updated: 2026-03-28 17:00 UTC*
 *Data source: Leadita Technographic Intelligence*
