@@ -1,6 +1,6 @@
 # Companies Using Sage Intacct (Live Dataset 2026)
 
-This folder contains an active list of 538 companies using **Sage Intacct**. 
+This folder contains an active list of 535 companies using **Sage Intacct**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 538
+- **Total Leads:** 535
 - **Verified:** Yes
-- **Last Updated:** 2026-03-27 10:30 UTC
+- **Last Updated:** 2026-03-28 10:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **538+** companies using Sage Intacct.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **535+** companies using Sage Intacct.
 
 [**⚡ Unlock the Full Sage Intacct List with Contact Details**](https://leadita.com/leads/companies-using-sage-intacct)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-27 10:30 UTC*
+*Last updated: 2026-03-28 10:30 UTC*
 *Data source: Leadita Technographic Intelligence*
