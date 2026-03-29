@@ -1,5 +1,29 @@
 [
   {
+    "domain": "souldirected.com",
+    "title": "Pathology and the Study of Paths",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 27540,
+    "crawled_at": "2026-03-29T10:27:15.082075031Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Constant Contact",
+      "GZIP Module",
+      "Gambling Content",
+      "Google Analytics",
+      "Google Flights Conversion Tracking",
+      "ISO/IEC 8859",
+      "Nginx",
+      "Twitter Ads",
+      "UTF-8",
+      "YCharts"
+    ]
+  },
+  {
     "domain": "votemakers.com",
     "title": "Votemakers - Political Domain Names, Campaign Strategies, and Candidate Slogans | Votemakers - Campaign Strategies, Political Slogans, Tactics & Tools",
     "business_name": "",
@@ -740,30 +764,6 @@
       "WordPress Stats",
       "YCharts",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "souldirected.com",
-    "title": "Pathology and the Study of Paths",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 27540,
-    "crawled_at": "2025-11-06T20:04:14.427978374Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Constant Contact",
-      "GZIP Module",
-      "Gambling Content",
-      "Google Analytics",
-      "Google Flights Conversion Tracking",
-      "ISO/IEC 8859",
-      "Nginx",
-      "Twitter Ads",
-      "UTF-8",
-      "YCharts"
     ]
   }
 ]
