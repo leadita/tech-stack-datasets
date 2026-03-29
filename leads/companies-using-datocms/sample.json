@@ -1,5 +1,92 @@
 [
   {
+    "domain": "more-re.co.nz",
+    "title": "Home | More RE",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 67,
+    "tech_spend": 37946,
+    "crawled_at": "2026-03-29T17:53:04.777841448Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "DAV",
+      "DatoCMS",
+      "Endis",
+      "Express",
+      "Instagram Follow Button",
+      "KVH",
+      "Netlify",
+      "No-Q",
+      "QUIC",
+      "Subversion",
+      "The Deck",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "tuya.it",
+    "title": "Mediterranean Restaurant in Milano | Fresh Flavors & Vibrant Atmosphere | TUYA MILANO",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 82,
+    "tech_spend": 138046,
+    "crawled_at": "2026-03-29T03:30:40.55567387Z",
+    "technologies": [
+      "34SP.com",
+      "Content Delivery Network",
+      "DAV",
+      "DatoCMS",
+      "Ethy",
+      "Federal Deposit Insurance Corporation",
+      "Financial Services Guide",
+      "Gatsby JS",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Idaq",
+      "Instagram Follow Button",
+      "K2F",
+      "KVH",
+      "Netlify",
+      "No-Q",
+      "O2MC Dimml",
+      "Onyx Internet",
+      "SEVENROOMS",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "waabi.ai",
+    "title": "Homepage",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 356,
+    "crawled_at": "2026-03-29T01:10:37.624809164Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Next.js",
+      "Tailwind CSS",
+      "Tally",
+      "UTF-8",
+      "Underscores",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "theprotectionplatform.co.uk",
     "title": "Home",
     "business_name": "",
@@ -10339,33 +10426,6 @@
     ]
   },
   {
-    "domain": "waabi.co",
-    "title": "Waabi",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 66,
-    "crawled_at": "2025-12-29T03:07:38.337607389Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CloudFront",
-      "Content Delivery Network",
-      "DatoCMS",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Next.js",
-      "Tailwind CSS",
-      "UTF-8",
-      "Underscores",
-      "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "dz-skischool.com",
     "title": "DZ Ski School, école de ski à Courchevel",
     "business_name": "",
@@ -14328,48 +14388,6 @@
       "Netlify",
       "RM Education",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "skabholmeninvest.com",
-    "title": "Skabholmen Invest",
-    "business_name": "",
-    "country": "SWE",
-    "seo_score": 37,
-    "tech_spend": "",
-    "crawled_at": "2025-12-12T16:19:56.026729775Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DatoCMS",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "modernity.se",
-    "title": "Home | Modernity",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 57,
-    "tech_spend": 1248,
-    "crawled_at": "2025-12-12T14:19:56.022812517Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "DatoCMS",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Idaq",
-      "Instagram Follow Button",
-      "Next.js",
-      "No-Q",
-      "Pleroma",
-      "Subversion",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
