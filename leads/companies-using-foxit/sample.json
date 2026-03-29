@@ -1,5 +1,30 @@
 [
   {
+    "domain": "coffeeexchange.ca",
+    "title": "Coffee Exchange",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 67,
+    "tech_spend": 16149,
+    "crawled_at": "2026-03-29T14:43:24.222103879Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ContentBox",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "Foxit",
+      "GoDaddy",
+      "Google My Business",
+      "Google Recommendations AI",
+      "ISO/IEC 8859",
+      "PHP",
+      "Shockwave Flash Embed",
+      "StatCounter",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "nerdsthat.care",
     "title": "Home - Nerds That Care",
     "business_name": "Nerds That Care",
@@ -715,31 +740,6 @@
       "UTF-8",
       "WordPress",
       "WordPress Multisite",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "coffeeexchange.ca",
-    "title": "Coffee Exchange",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 67,
-    "tech_spend": 16149,
-    "crawled_at": "2025-11-06T21:33:00.843259734Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ContentBox",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "Foxit",
-      "GoDaddy",
-      "Google My Business",
-      "Google Recommendations AI",
-      "ISO/IEC 8859",
-      "PHP",
-      "Shockwave Flash Embed",
-      "StatCounter",
       "jQuery"
     ]
   }
