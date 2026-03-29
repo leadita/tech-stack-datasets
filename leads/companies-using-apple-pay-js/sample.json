@@ -1,5 +1,29 @@
 [
   {
+    "domain": "youtix.de",
+    "title": "Tickets & Eintrittskarten direkt beim Veranstalter kaufen | www.online-ticket.de",
+    "business_name": "",
+    "country": "IRL",
+    "seo_score": 87,
+    "tech_spend": 20468,
+    "crawled_at": "2026-03-29T01:59:53.549775122Z",
+    "technologies": [
+      "Angular",
+      "Apache",
+      "Apple Pay JS",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Fireblade",
+      "GZIP Module",
+      "Google Tag Manager",
+      "IcoMoon",
+      "PHP",
+      "Pico CSS",
+      "UTF-8",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "amavidajewelery.com",
     "title": "Gabriel & Co. | Luxury Bridal & Fashion Jewelry Designer since 1989",
     "business_name": "Gabriel & Co.",
@@ -9225,32 +9249,6 @@
       "UTF-8",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "youtix.de",
-    "title": "Tickets & Eintrittskarten direkt beim Veranstalter kaufen | www.online-ticket.de",
-    "business_name": "",
-    "country": "IRL",
-    "seo_score": 77,
-    "tech_spend": 22868,
-    "crawled_at": "2025-11-06T17:14:11.796009991Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Angular",
-      "Apache",
-      "Apple Pay JS",
-      "Cisco/Arrowpoint Content Service Switch",
-      "CloudFront",
-      "Fireblade",
-      "GZIP Module",
-      "Google Tag Manager",
-      "IcoMoon",
-      "PHP",
-      "UTF-8",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
