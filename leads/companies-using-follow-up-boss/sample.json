@@ -1,5 +1,32 @@
 [
   {
+    "domain": "bayshoreranchswfl.com",
+    "title": "Bayshore Ranch - Southwest Florida",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 40231,
+    "crawled_at": "2026-03-29T04:41:45.884913001Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Follow Up Boss",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "OSS CDN",
+      "QUIC",
+      "Tailwind CSS",
+      "The Fresh",
+      "UTF-8",
+      "WPForms",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "sergioangulohomes.com",
     "title": "The Angulo Group | Sergio Angulo, Executive Realtor - Real Estate Innovators",
     "business_name": "",
@@ -1099,32 +1126,6 @@
       "UTF-8",
       "Visual Studio",
       "eLand"
-    ]
-  },
-  {
-    "domain": "stonewaterswfl.com",
-    "title": "Stonewater - Southwest Florida",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 10231,
-    "crawled_at": "2026-03-01T16:27:46.890038564Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Follow Up Boss",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "OSS CDN",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "WPForms",
-      "YouTube",
-      "jQuery"
     ]
   },
   {
