@@ -8514,39 +8514,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "royaltrend.pk",
-    "title": "Royal Trend: Best Online Shoe Store in Pakistan | Free Shipping & COD",
-    "business_name": "Royal Trend",
-    "country": "PAK",
-    "seo_score": 77,
-    "tech_spend": 21204,
-    "crawled_at": "2025-11-06T18:30:39.831209701Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Dialogflow",
-      "Fancybox for WordPress",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Conversion Tracking",
-      "Google Font API",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Idaq",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Onyx Internet",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Thank You",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA"
-    ]
   }
 ]
