@@ -1,5 +1,26 @@
 [
   {
+    "domain": "sevtechniek.nl",
+    "title": "SEV Techniek",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 67,
+    "tech_spend": 6274,
+    "crawled_at": "2026-03-29T06:16:01.355491703Z",
+    "technologies": [
+      "Apache",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "IcoMoon",
+      "Recruitee",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "tarantella.hamburg",
     "title": "Pellicano Restaurant Hamburg – Italian Vibes im Herzen der Stadt",
     "business_name": "",

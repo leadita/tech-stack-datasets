@@ -1,5 +1,40 @@
 [
   {
+    "domain": "waivercore.com",
+    "title": "Foxen | Renters Insurance Compliance + Rent Reporting Platform",
+    "business_name": "Foxen Administration",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 25047,
+    "crawled_at": "2026-03-29T13:10:06.307919408Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Lever",
+      "Microdata for Google Shopping",
+      "SiteW",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "WF Cookie Consent",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "savioke.info",
     "title": "Relay Delivery Robots – Leader in delivery robots for hospitals and hotels.",
     "business_name": "",
@@ -8479,39 +8514,6 @@
       "UTF-8",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "waivercore.com",
-    "title": "Foxen | Renters Insurance Compliance + Rent Reporting Platform",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 10047,
-    "crawled_at": "2025-11-06T20:59:38.881798224Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Lever",
-      "SiteW",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "WF Cookie Consent",
-      "YouTube",
-      "jsDelivr"
     ]
   }
 ]

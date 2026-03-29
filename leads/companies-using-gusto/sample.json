@@ -1,5 +1,60 @@
 [
   {
+    "domain": "timecopilot.ai",
+    "title": "Tranquility AI",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 32392,
+    "crawled_at": "2026-03-29T15:47:36.745930668Z",
+    "technologies": [
+      "1Password",
+      "Alternate Protocol",
+      "Financial Services Guide",
+      "Framer Sites",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Tag Manager",
+      "Gusto",
+      "Harbor",
+      "KVH",
+      "NFOrce Internet",
+      "Ntent",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
+    "domain": "zoequinndesign.com",
+    "title": "Zoe Quinn Design | Branding, Print Materials, and Web Design",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 226,
+    "crawled_at": "2026-03-29T02:12:30.707953749Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gusto",
+      "Instagram Follow Button",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "WP Super Cache",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "saasblocks.io",
     "title": "Search and discover your favorite building blocks to extend your SaaS application | SaaS Blocks",
     "business_name": "SaaS Blocks 2.0",
@@ -5930,32 +5985,6 @@
       "Wix Media",
       "mlcom",
       "monday.com"
-    ]
-  },
-  {
-    "domain": "tranquility.ai",
-    "title": "Tranquility AI",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 32392,
-    "crawled_at": "2026-01-21T18:05:04.836112641Z",
-    "technologies": [
-      "1Password",
-      "Alternate Protocol",
-      "Financial Services Guide",
-      "Framer Sites",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "Gusto",
-      "Harbor",
-      "KVH",
-      "NFOrce Internet",
-      "Ntent",
-      "Yandex Hosting",
-      "Zeald"
     ]
   },
   {
@@ -15549,35 +15578,6 @@
       "Zoom Video Conferencing",
       "jQuery",
       "vis.js"
-    ]
-  },
-  {
-    "domain": "zoequinndesign.com",
-    "title": "Zoe Quinn Design | Branding, Print Materials, and Web Design",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 226,
-    "crawled_at": "2025-11-06T17:16:51.113061459Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Divi",
-      "Elegant Themes",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gusto",
-      "Instagram Follow Button",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "WP Super Cache",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
