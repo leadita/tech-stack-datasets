@@ -1,26 +1,64 @@
 [
   {
-    "domain": "dot-support.us",
-    "title": "US DOT Biennial Update Portal | DOT Updates | Federal Applications Processor - Home",
+    "domain": "yychotchocolate.com",
+    "title": "YYC Hot Chocolate Fest",
+    "business_name": "Calgary Meals on Wheels",
+    "country": "CAN",
+    "seo_score": 82,
+    "tech_spend": 5117,
+    "crawled_at": "2026-03-29T12:16:39.51913938Z",
+    "technologies": [
+      "Accordion Blocks",
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "App Store",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "Hive.co",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Paperform",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "getmccert.us",
+    "title": "ORDER MOTOR CARRIER (MC#) CERTIFICATE | FEDERAL APPLICATIONS PROCESSOR | MC CERTIFICATE HOME",
     "business_name": "",
     "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 5608,
-    "crawled_at": "2026-03-28T11:22:13.515401118Z",
+    "seo_score": 72,
+    "tech_spend": 57311,
+    "crawled_at": "2026-03-29T06:33:17.033261767Z",
     "technologies": [
       "Adobe Creative Cloud WebFonts",
       "Apache",
-      "ChatBot",
       "Cognito Forms",
+      "Cornerstone",
       "GZIP Module",
       "Google Cloud DNS",
       "Google Font API",
-      "IcoMoon",
       "LiveChat",
       "LiveChat Monitoring",
+      "MaxCDN",
+      "NFOrce Internet",
       "Paperform",
       "QUIC",
-      "Rocket Chat"
+      "Rocket Chat",
+      "SMC"
     ]
   },
   {
@@ -16857,30 +16895,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "Yelp Badge",
       "eLand"
-    ]
-  },
-  {
-    "domain": "edopia.org",
-    "title": "Edopia",
-    "business_name": "",
-    "country": "PAK",
-    "seo_score": 67,
-    "tech_spend": 10560,
-    "crawled_at": "2025-11-30T19:03:46.366320523Z",
-    "technologies": [
-      "Baidu Cloud",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Paperform",
-      "Tilda",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "Yandex Hosting",
-      "YouTube"
     ]
   }
 ]
