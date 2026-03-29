@@ -1,6 +1,6 @@
 # Companies Using jQuery (Live Dataset 2026)
 
-This folder contains an active list of 2,871,472 companies using **jQuery**. 
+This folder contains an active list of 2,867,273 companies using **jQuery**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 2,871,472
+- **Total Leads:** 2,867,273
 - **Verified:** Yes
-- **Last Updated:** 2026-03-28 19:15 UTC
+- **Last Updated:** 2026-03-29 19:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **2,871,472+** companies using jQuery.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **2,867,273+** companies using jQuery.
 
 [**⚡ Unlock the Full jQuery List with Contact Details**](https://leadita.com/leads/companies-using-jquery)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-28 19:15 UTC*
+*Last updated: 2026-03-29 19:15 UTC*
 *Data source: Leadita Technographic Intelligence*
