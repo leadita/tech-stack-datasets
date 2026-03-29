@@ -1,5 +1,41 @@
 [
   {
+    "domain": "agenciapixelart.com",
+    "title": "Expertos en Marketing Digital :: Somos Agencia Pixelart",
+    "business_name": "Pixelart",
+    "country": "ECU",
+    "seo_score": 82,
+    "tech_spend": 9026,
+    "crawled_at": "2026-03-29T11:04:57.524122898Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Elementor",
+      "EmbedPress",
+      "Engage",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Jetpack",
+      "Kitco",
+      "Line2",
+      "Metricool",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PushEngage",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats"
+    ]
+  },
+  {
     "domain": "cme4life.com",
     "title": "Advanced CME Online Credit for Medical Professionals- CME4Life",
     "business_name": "",
@@ -15097,40 +15133,6 @@
       "WordPress Multisite",
       "Yelp Badge",
       "eLand"
-    ]
-  },
-  {
-    "domain": "agenciapixelart.com",
-    "title": "Expertos en Marketing Digital :: Somos Agencia Pixelart",
-    "business_name": "Pixelart",
-    "country": "ECU",
-    "seo_score": 82,
-    "tech_spend": 8477,
-    "crawled_at": "2025-11-06T20:17:12.564172281Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Elementor",
-      "Engage",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Jetpack",
-      "Kitco",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PushEngage",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats"
     ]
   }
 ]
