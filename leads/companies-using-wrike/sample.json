@@ -2767,46 +2767,5 @@
       "W3layouts",
       "Wrike"
     ]
-  },
-  {
-    "domain": "fundsmith.mu",
-    "title": "Login to Fundsmith | Fundsmith",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 53761,
-    "crawled_at": "2025-11-06T19:08:38.885305213Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cybot",
-      "Endis",
-      "Freshdesk Support",
-      "Freshworks Bot",
-      "Freshworks CRM",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microsoft Azure",
-      "Microsoft Clarity",
-      "NFOrce Internet",
-      "Perl",
-      "RM Education",
-      "Report URI",
-      "Twitter Ads",
-      "Typeform",
-      "UTF-8",
-      "Vimeo",
-      "Vimeo CDN",
-      "Visual Studio",
-      "Wrike",
-      "YouTube"
-    ]
   }
 ]
