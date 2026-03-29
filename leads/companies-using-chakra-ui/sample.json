@@ -1,5 +1,75 @@
 [
   {
+    "domain": "silicosoftware.com",
+    "title": "Home - Web & Mobile Solutions | Silico Software Solutions",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 9440,
+    "crawled_at": "2026-03-29T00:57:31.96465154Z",
+    "technologies": [
+      "Aruba",
+      "Chakra UI",
+      "Cloudinary",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microsoft Clarity",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vercel",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "actisolutions.fr",
+    "title": "Actisolutions",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 55,
+    "tech_spend": 8000,
+    "crawled_at": "2026-03-28T21:45:28.193444259Z",
+    "technologies": [
+      "Chakra UI",
+      "Fireblade",
+      "GZIP Module",
+      "NFOrce Internet",
+      "Next.js",
+      "Nginx",
+      "Pleroma"
+    ]
+  },
+  {
+    "domain": "baodaotalk.com",
+    "title": "BaoDao Talk - Your best Chinese learning partner",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 21860,
+    "crawled_at": "2026-03-28T17:53:59.719757965Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon S3 CDN",
+      "Chakra UI",
+      "Express",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "NFOrce Internet",
+      "Next.js",
+      "Pleroma",
+      "Storyblocks",
+      "UTF-8",
+      "Vector Internet Services",
+      "WhatsApp Sharing",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "kcharleshaulage.co.uk",
     "title": "UK Haulage Companies | European Haulage Companies",
     "business_name": "",
@@ -13081,75 +13151,6 @@
       "Vercel",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "shokz.tv",
-    "title": "Jan 'shokzTV' Holtmann",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 200,
-    "crawled_at": "2026-01-18T13:23:02.668140144Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Chakra UI",
-      "Content Delivery Network",
-      "Next.js",
-      "Pleroma",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "sidharthgrover.com",
-    "title": "Sidharth Grover - Software Engineer, Product Manager & Entrepreneur",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 2680,
-    "crawled_at": "2026-01-18T11:53:42.214179963Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Next.js",
-      "Pleroma",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "unicqfab.com",
-    "title": "Pre Engineered Steel Buildings & Prefabricated Buildings Manufacturer",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 240,
-    "crawled_at": "2026-01-18T07:38:20.798513327Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "Chakra UI",
-      "Content Delivery Network",
-      "Express",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "UTF-8",
-      "Vercel",
-      "YouTube"
     ]
   }
 ]
