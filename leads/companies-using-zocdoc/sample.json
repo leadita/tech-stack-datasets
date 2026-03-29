@@ -1,5 +1,50 @@
 [
   {
+    "domain": "jfnmp.com",
+    "title": "Healthcare - Jenkins Family Nursing Medical Practice, APC",
+    "business_name": "Jenkins Family Nursing Medicine Practice, INC",
+    "country": "USA",
+    "seo_score": 92,
+    "tech_spend": 49975,
+    "crawled_at": "2026-03-29T15:30:15.020411378Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Beaver Builder Lite",
+      "Cloudflare",
+      "CoBlocks",
+      "Content Delivery Network",
+      "Contento",
+      "Elfsight",
+      "EmbedPress",
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Gravity",
+      "Gravity Forms",
+      "Instagram Follow Button",
+      "Max Mega Menu Pro",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Pagekit",
+      "Schema Plugin",
+      "Theme In WP",
+      "UTF-8",
+      "WP Rocket",
+      "Wangsu",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "Yandex Hosting",
+      "YouTube",
+      "ZocDoc",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "1010mrd.com",
     "title": "McDowell Road Dentistry | Family Dentistry",
     "business_name": "",
@@ -18670,28 +18715,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "ZocDoc",
       "eLand"
-    ]
-  },
-  {
-    "domain": "mindcarewellnessllc.com",
-    "title": "MindCare Wellness LLC | Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 3927,
-    "crawled_at": "2026-02-05T19:01:48.871062066Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Font Awesome",
-      "Google Related Website Sites",
-      "ID Services",
-      "Netlify",
-      "StackPath",
-      "UTF-8",
-      "ZocDoc"
     ]
   }
 ]
