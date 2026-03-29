@@ -1,5 +1,32 @@
 [
   {
+    "domain": "wolflakesvillages.com",
+    "title": "Soldier Home Realty - Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 10273,
+    "crawled_at": "2026-03-28T16:22:05.381947326Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "Fancybox for WordPress",
+      "Fireblade",
+      "GZIP Module",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Line2",
+      "Perl",
+      "QUIC",
+      "RM Education",
+      "SnapWidget",
+      "University or College",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "fkodesolution.com",
     "title": "FKode Solution - Digital Transformation Partner",
     "business_name": "",
@@ -8878,33 +8905,6 @@
       "UTF-8",
       "Vector Internet Services",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "wolflakesvillages.com",
-    "title": "Soldier Home Realty - Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 10273,
-    "crawled_at": "2025-11-06T13:59:38.912323312Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "Fireblade",
-      "GZIP Module",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Line2",
-      "Perl",
-      "QUIC",
-      "RM Education",
-      "SnapWidget",
-      "University or College",
-      "YouTube",
-      "reCAPTCHA"
     ]
   }
 ]
