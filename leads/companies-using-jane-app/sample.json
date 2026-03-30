@@ -1,5 +1,35 @@
 [
   {
+    "domain": "communi-qi.com",
+    "title": "Communi-Qi Acupuncture",
+    "business_name": "",
+    "country": "",
+    "seo_score": 70,
+    "tech_spend": 11573,
+    "crawled_at": "2026-03-29T20:16:56.780237115Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Jane App",
+      "Line2",
+      "Microdata for Google Shopping",
+      "MindBody",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "Yelp Badge",
+      "eLand"
+    ]
+  },
+  {
     "domain": "nourishchiropractic.com",
     "title": "Book Online | Nourish Chiropractic + Mindfulness",
     "business_name": "",
@@ -2638,33 +2668,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "communi-qi.com",
-    "title": "Communi-Qi Acupuncture",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 3157,
-    "crawled_at": "2025-11-06T23:20:21.422092391Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Jane App",
-      "Line2",
-      "Microdata for Google Shopping",
-      "MindBody",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "Yelp Badge",
-      "eLand"
     ]
   }
 ]
