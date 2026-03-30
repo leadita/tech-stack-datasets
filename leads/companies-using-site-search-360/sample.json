@@ -1,5 +1,62 @@
 [
   {
+    "domain": "gfmfoundation.net",
+    "title": "Laparoscopic Hospital",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 70,
+    "tech_spend": 3676,
+    "crawled_at": "2026-03-30T21:08:00.57109983Z",
+    "technologies": [
+      "AddThis",
+      "AddThis for Wordpress",
+      "Apache",
+      "Chatbase",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Livestream",
+      "Site Search 360",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "abby.realtor",
+    "title": "Realtor for Buying & Selling Homes | Abby Corrin Realtor | SC & NC Coast",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 3322,
+    "crawled_at": "2026-03-30T14:37:40.748173587Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "Ethy",
+      "FormSubmit",
+      "GZIP Module",
+      "Get.realtor",
+      "Google Customer Reviews",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Neighborhoods",
+      "Nginx",
+      "No-Q",
+      "Perl",
+      "Site Search 360",
+      "Styled Components",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "chamberfestwest.com",
     "title": "ChamberFest West — Calgary’s Chamber Music Festival",
     "business_name": "",
@@ -15866,58 +15923,6 @@
       "UTF-8",
       "Yandex Hosting",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "exphys.com.au",
-    "title": "EXPHYS",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 72,
-    "tech_spend": 2082,
-    "crawled_at": "2025-11-20T14:12:19.446475986Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Duda",
-      "FormSubmit",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "No-Q",
-      "Perl",
-      "QUIC",
-      "Site Search 360",
-      "Styled Components",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "YouTube",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "albatexas.org",
-    "title": "City Information | City of Alba | Alba, TX",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 228,
-    "crawled_at": "2025-11-20T13:39:19.435361994Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Duda",
-      "GZIP Module",
-      "Nginx",
-      "Site Search 360",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
