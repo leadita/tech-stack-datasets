@@ -1,5 +1,26 @@
 [
   {
+    "domain": "lasvegasstripshow.com",
+    "title": "The Las Vegas Strip Show™",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 57,
+    "tech_spend": 260,
+    "crawled_at": "2026-03-29T22:05:15.265554008Z",
+    "technologies": [
+      "Adult Content",
+      "Apache",
+      "CafePress",
+      "GZIP Module",
+      "Namecheap",
+      "PayPal Button",
+      "PayPal Form",
+      "Show.co",
+      "StatCounter",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "droppedhub.com",
     "title": "Find Expired Domains Names | DroppedHub",
     "business_name": "",
@@ -295,27 +316,6 @@
       "UTF-8",
       "University or College",
       "Website Tonight"
-    ]
-  },
-  {
-    "domain": "lasvegasstripshow.com",
-    "title": "The Las Vegas Strip Show™",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 57,
-    "tech_spend": 260,
-    "crawled_at": "2025-11-06T23:59:19.259084134Z",
-    "technologies": [
-      "Adult Content",
-      "Apache",
-      "CafePress",
-      "GZIP Module",
-      "Namecheap",
-      "PayPal Button",
-      "PayPal Form",
-      "Show.co",
-      "StatCounter",
-      "YouTube"
     ]
   }
 ]
