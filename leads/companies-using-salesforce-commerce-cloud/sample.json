@@ -1,5 +1,81 @@
 [
   {
+    "domain": "paribadubai.com",
+    "title": "paribadubai",
+    "business_name": "",
+    "country": "JPN",
+    "seo_score": 70,
+    "tech_spend": 518804,
+    "crawled_at": "2026-03-30T11:53:32.785355Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apture Linking Platform",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google My Business",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Salesforce Commerce Cloud",
+      "Shopify",
+      "Shopify Collabs",
+      "Tailwind CSS",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "hCaptcha",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "thedanberrymint.com",
+    "title": "Shop Jewelry, Collectibles, Coins and Gifts | Danbury Mint",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 553266,
+    "crawled_at": "2026-03-30T10:26:41.523363683Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Blue Box Group",
+      "CQuotient",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Quotient",
+      "Salesforce Commerce Cloud",
+      "Schema Plugin",
+      "Swell Rewards",
+      "Tailwind CSS",
+      "UTF-8",
+      "Wistia",
+      "Yotpo"
+    ]
+  },
+  {
+    "domain": "elifbayrasli.com",
+    "title": "Elif Bayrasli's Portfolio | elif.codes",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 155000,
+    "crawled_at": "2026-03-30T00:01:08.278158425Z",
+    "technologies": [
+      "GZIP Module",
+      "Google Analytics",
+      "Nginx",
+      "Salesforce Commerce Cloud",
+      "Salesforce Hosted",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "hindustanindustries.in",
     "title": "HINDUSTAN INDUSTRY",
     "business_name": "",
@@ -2685,33 +2761,6 @@
       "University or College",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "danburimint.com",
-    "title": "Shop Jewelry, Collectibles, Coins and Gifts | Danbury Mint",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 553266,
-    "crawled_at": "2026-02-28T15:07:17.570530553Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Blue Box Group",
-      "CQuotient",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Quotient",
-      "Salesforce Commerce Cloud",
-      "Schema Plugin",
-      "Swell Rewards",
-      "Tailwind CSS",
-      "UTF-8",
-      "Wistia",
-      "Yotpo"
     ]
   },
   {
@@ -9813,23 +9862,6 @@
     ]
   },
   {
-    "domain": "elif.codes",
-    "title": "Elif Bayrasli's Portfolio | elif.codes",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 155000,
-    "crawled_at": "2025-12-20T05:52:32.747005233Z",
-    "technologies": [
-      "GZIP Module",
-      "Google Analytics",
-      "Nginx",
-      "Salesforce Commerce Cloud",
-      "Salesforce Hosted",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "emilyridgway.com",
     "title": "Ridgway Plastic Surgery and Medical Spa - Bozeman",
     "business_name": "Ridgway Plastic Surgery",
@@ -14581,77 +14613,6 @@
       "arsys.es",
       "eLand",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "paribadubai.com",
-    "title": "paribadubai",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 65,
-    "tech_spend": 518804,
-    "crawled_at": "2025-11-07T04:36:13.164158532Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google My Business",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Salesforce Commerce Cloud",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "hCaptcha",
-      "jsDelivr",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "discoverember.com",
-    "title": "Home | Ember Agency | A Salesforce Partner",
-    "business_name": "Ember Agency",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 830629,
-    "crawled_at": "2025-11-07T00:54:45.429433147Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Black Diamond",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "InitiativeS",
-      "Jetpack",
-      "Menu Icons by ThemeIsle",
-      "Microdata for Google Shopping",
-      "Nectar Slide Plugin",
-      "Nginx",
-      "PHP",
-      "QUIC",
-      "Salesforce",
-      "Salesforce Commerce Cloud",
-      "Salesforce Experience Cloud",
-      "Salesforce Hosted",
-      "Salient",
-      "Slider Revolution",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WPBakery",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
