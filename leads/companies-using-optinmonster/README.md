@@ -1,6 +1,6 @@
 # Companies Using OptinMonster (Live Dataset 2026)
 
-This folder contains an active list of 3,509 companies using **OptinMonster**. 
+This folder contains an active list of 3,504 companies using **OptinMonster**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 3,509
+- **Total Leads:** 3,504
 - **Verified:** Yes
-- **Last Updated:** 2026-03-29 19:30 UTC
+- **Last Updated:** 2026-03-30 19:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **3,509+** companies using OptinMonster.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **3,504+** companies using OptinMonster.
 
 [**⚡ Unlock the Full OptinMonster List with Contact Details**](https://leadita.com/leads/companies-using-optinmonster)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-29 19:30 UTC*
+*Last updated: 2026-03-30 19:30 UTC*
 *Data source: Leadita Technographic Intelligence*
