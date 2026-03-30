@@ -1,5 +1,38 @@
 [
   {
+    "domain": "savethetherapist.com",
+    "title": "Save the Therapist",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 86881,
+    "crawled_at": "2026-03-29T23:34:10.733503836Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Accordion Blocks",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "TalentLMS",
+      "UTF-8",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "careerprocanada.org",
     "title": "Career Professionals of Canada - Authorization required",
     "business_name": "",
@@ -8307,38 +8340,6 @@
       "TalentLMS",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "savethetherapist.com",
-    "title": "Save the Therapist",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 86881,
-    "crawled_at": "2025-11-07T00:31:22.617288906Z",
-    "technologies": [
-      "Accordion Blocks",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "TalentLMS",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]

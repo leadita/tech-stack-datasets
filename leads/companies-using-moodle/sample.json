@@ -1,5 +1,24 @@
 [
   {
+    "domain": "qec.org.mx",
+    "title": "Quality Education Center - SLP",
+    "business_name": "",
+    "country": "BOL",
+    "seo_score": 57,
+    "tech_spend": 11100,
+    "crawled_at": "2026-03-30T09:23:17.512963701Z",
+    "technologies": [
+      "Apache",
+      "Fastly",
+      "Moodle",
+      "NFOrce Internet",
+      "PHP",
+      "Totara",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "urantiabookschool.org",
     "title": "UBIS",
     "business_name": "",
@@ -1231,25 +1250,6 @@
       "UTF-8",
       "Ubuntu",
       "YouTube",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "qec.org.mx",
-    "title": "Quality Education Center - SLP",
-    "business_name": "",
-    "country": "BOL",
-    "seo_score": 57,
-    "tech_spend": 11100,
-    "crawled_at": "2025-11-07T03:40:52.960074473Z",
-    "technologies": [
-      "Apache",
-      "Fastly",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "Totara",
-      "UTF-8",
       "jsDelivr"
     ]
   }

@@ -1,4 +1,5 @@
 domain,title,business_name,country,seo_score,tech_spend,crawled_at,technologies
+qec.org.mx,Quality Education Center - SLP,,BOL,57,11100,2026-03-30T09:23:17.512963701Z,"['Apache', 'Fastly', 'Moodle', 'NFOrce Internet', 'PHP', 'Totara', 'UTF-8', 'jsDelivr']"
 urantiabookschool.org,UBIS,,ISR,60,12199,2026-03-24T17:44:18.690337295Z,"['CDN JS', 'Cisco/Arrowpoint Content Service Switch', 'Cloudflare', 'Cloudflare CDN', 'Fastly', 'Font Awesome', 'GZIP Module', 'Moodle', 'NFOrce Internet', 'Nginx', 'PHP', 'Tailwind CSS', 'Totara', 'Twitter Ads', 'UTF-8', 'Ubuntu', 'YouTube']"
 aals-lms.com,Log in to the site | AALS,,,25,10500,2026-03-21T02:44:11.708461852Z,"['Moodle', 'NFOrce Internet', 'Nginx', 'PHP', 'Totara', 'UTF-8', 'jsDelivr']"
 whytecleon.com.ng,Whyte Cleon Limited | Human Resource Outsourcing & Consulting Company,,,50,11358,2026-03-20T16:36:55.045284876Z,"['Fastly', 'Font Awesome', 'Google Cloud DNS', 'Google Font API', 'IcoMoon', 'Instagram Follow Button', 'LiteSpeed', 'Moodle', 'NFOrce Internet', 'PHP', 'QUIC', 'Totara', 'Twitter Ads', 'UTF-8', 'jsDelivr']"
@@ -50,4 +51,3 @@ alonsolawacademy.online,Home | A&Academy,,GBR,60,23219,2025-11-12T03:17:38.93637
 streamlearn.us,StreamLearn Courses,,JPN,67,31400,2025-11-09T00:25:49.587699162Z,"['Apache', 'Fastly', 'GZIP Module', 'GitHub Hosting', 'Moodle', 'NFOrce Internet', 'PHP', 'Python', 'Tailwind CSS', 'Totara', 'UTF-8', 'Ubuntu', 'University or College', 'jsDelivr']"
 dikep.org,Home | DİKEP,,,42,10863,2025-11-08T17:55:28.771488679Z,"['App Store', 'Google', 'Google Cloud DNS', 'Google Font API', 'Google My Business', 'Google Play', 'IcoMoon', 'Moodle', 'NFOrce Internet', 'Nginx', 'PHP', 'Parallels Plesk Panel', 'Totara', 'UTF-8', 'YouTube', 'jsDelivr']"
 openiwt.org,Home | OpenIWT,,FRA,67,29000,2025-11-08T05:13:02.026402457Z,"['Apache', 'Apture Linking Platform', 'GZIP Module', 'Moodle', 'NFOrce Internet', 'PHP', 'QUIC', 'Tailwind CSS', 'Totara', 'UTF-8', 'Ubuntu', 'YouTube', 'jsDelivr']"
-qec.org.mx,Quality Education Center - SLP,,BOL,57,11100,2025-11-07T03:40:52.960074473Z,"['Apache', 'Fastly', 'Moodle', 'NFOrce Internet', 'PHP', 'Totara', 'UTF-8', 'jsDelivr']"
