@@ -12344,55 +12344,5 @@
       "UTF-8",
       "YouTube"
     ]
-  },
-  {
-    "domain": "a-kgeorge.me",
-    "title": "Alan Kochukalam George - Full-Stack Developer Portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 18170,
-    "crawled_at": "2025-11-07T07:38:38.883711148Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CloudFront",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Related Website Sites",
-      "Next.js",
-      "PHP",
-      "Perl",
-      "Pleroma",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "serendipityhaven.com",
-    "title": "Hello from 邂逅大大小小陆 | 邂逅大大小小陆",
-    "business_name": "",
-    "country": "",
-    "seo_score": 32,
-    "tech_spend": "",
-    "crawled_at": "2025-11-07T05:30:30.950803456Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Nginx",
-      "Perl",
-      "Tailwind CSS"
-    ]
   }
 ]
