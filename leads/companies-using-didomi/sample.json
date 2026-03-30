@@ -1,5 +1,36 @@
 [
   {
+    "domain": "hilti.com.bt",
+    "title": "Bhutan - Hilti Corporation",
+    "business_name": "",
+    "country": "BTN",
+    "seo_score": 67,
+    "tech_spend": 27800,
+    "crawled_at": "2026-03-30T09:27:48.446291735Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Anchor Systems",
+      "Corporate Governance and Regulatory Compliance",
+      "Didomi",
+      "GDPR Consent Management Platform",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "QUIC",
+      "Schema Plugin",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "arsys.es"
+    ]
+  },
+  {
     "domain": "emeraldhoianriverside.com",
     "title": "Emerald Hoi An Riverside Resort - Emerald Hoi An Riverside Resort",
     "business_name": "",
@@ -15723,31 +15754,6 @@
       "UTF-8",
       "Vector Internet Services",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "jpcarlos.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 67,
-    "tech_spend": 41000,
-    "crawled_at": "2025-11-14T15:41:14.447665655Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Didomi",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Nginx",
-      "Nuxt.js",
-      "QUIC",
-      "UTF-8",
-      "Vector Internet Services"
     ]
   }
 ]
