@@ -1,5 +1,25 @@
 [
   {
+    "domain": "posnacademy.com",
+    "title": "POSNAcademy",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 12956,
+    "crawled_at": "2026-03-30T17:46:12.414619225Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Coming Soon Page",
+      "Fastly",
+      "GZIP Module",
+      "IcoMoon",
+      "Kaltura",
+      "UTF-8",
+      "eLand"
+    ]
+  },
+  {
     "domain": "uhgiving.com",
     "title": "Home | UHGiving",
     "business_name": "",
@@ -12927,26 +12947,6 @@
       "YouTube",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "posnacademy.com",
-    "title": "POSNAcademy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 13344,
-    "crawled_at": "2025-11-07T06:41:38.881124556Z",
-    "technologies": [
-      "Cloudflare",
-      "Coming Soon Page",
-      "Fastly",
-      "GZIP Module",
-      "IcoMoon",
-      "Kaltura",
-      "Oddle",
-      "UTF-8",
-      "eLand"
     ]
   }
 ]
