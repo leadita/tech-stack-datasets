@@ -1,5 +1,25 @@
 [
   {
+    "domain": "hydroscene.com",
+    "title": "HydroScene",
+    "business_name": "HydroScene",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 49,
+    "crawled_at": "2026-03-30T10:40:13.139725677Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Publii",
+      "QUIC",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "patmosgardensea.gr",
     "title": "Patmos Garden Sea",
     "business_name": "Patmos Garden Sea",
@@ -7006,26 +7026,6 @@
       "UTF-8",
       "University or College",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "hydroscene.com",
-    "title": "HydroScene",
-    "business_name": "HydroScene",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 49,
-    "crawled_at": "2025-11-07T04:10:10.343138685Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Coming Soon Page",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Publii",
-      "QUIC",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
     ]
   }
 ]

@@ -1,5 +1,31 @@
 [
   {
+    "domain": "ardanziger.com",
+    "title": "A.R. Danziger, Art & Design",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 71346,
+    "crawled_at": "2026-03-30T03:35:30.149876205Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Blogger",
+      "GZIP Module",
+      "Google",
+      "Google Adsense",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Netvibes",
+      "Ntent",
+      "SMC",
+      "UTF-8",
+      "eLand"
+    ]
+  },
+  {
     "domain": "ramanshakti.in",
     "title": "RAMAN SHAKTI FOUNDATION",
     "business_name": "",
@@ -15826,28 +15852,6 @@
       "YouTube",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "gowernurseries.com",
-    "title": "Gower Nurseries",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 6360,
-    "crawled_at": "2026-02-05T19:42:28.732390625Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Blogger",
-      "GZIP Module",
-      "Google",
-      "Google Adsense",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Ntent",
-      "OFFSET",
-      "UTF-8"
     ]
   }
 ]

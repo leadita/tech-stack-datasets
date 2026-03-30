@@ -1,6 +1,6 @@
 # Companies Using Hasnode (Live Dataset 2026)
 
-This folder contains an active list of 302 companies using **Hasnode**. 
+This folder contains an active list of 298 companies using **Hasnode**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 302
+- **Total Leads:** 298
 - **Verified:** Yes
-- **Last Updated:** 2026-03-29 12:30 UTC
+- **Last Updated:** 2026-03-30 12:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **302+** companies using Hasnode.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **298+** companies using Hasnode.
 
 [**⚡ Unlock the Full Hasnode List with Contact Details**](https://leadita.com/leads/companies-using-hasnode)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-29 12:30 UTC*
+*Last updated: 2026-03-30 12:30 UTC*
 *Data source: Leadita Technographic Intelligence*

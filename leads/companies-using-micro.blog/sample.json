@@ -7554,23 +7554,5 @@
       "Twitter Ads",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "visualnewt.com",
-    "title": "VisualNewt",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 150,
-    "crawled_at": "2025-11-06T20:58:21.077813935Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Micro.blog",
-      "PHP",
-      "RapidWeaver",
-      "UTF-8",
-      "jQuery"
-    ]
   }
 ]
