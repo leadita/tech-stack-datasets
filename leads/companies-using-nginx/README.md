@@ -1,6 +1,6 @@
 # Companies Using NGINX (Live Dataset 2026)
 
-This folder contains an active list of 1,302,066 companies using **NGINX**. 
+This folder contains an active list of 1,301,158 companies using **NGINX**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 1,302,066
+- **Total Leads:** 1,301,158
 - **Verified:** Yes
-- **Last Updated:** 2026-03-29 23:30 UTC
+- **Last Updated:** 2026-03-30 23:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,302,066+** companies using NGINX.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,301,158+** companies using NGINX.
 
 [**⚡ Unlock the Full NGINX List with Contact Details**](https://leadita.com/leads/companies-using-nginx)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-29 23:30 UTC*
+*Last updated: 2026-03-30 23:30 UTC*
 *Data source: Leadita Technographic Intelligence*

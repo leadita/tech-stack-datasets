@@ -1,5 +1,25 @@
 [
   {
+    "domain": "nonprod.cid.ie",
+    "title": "CID - Company Information Direct",
+    "business_name": "",
+    "country": "",
+    "seo_score": 25,
+    "tech_spend": 63,
+    "crawled_at": "2026-03-30T04:30:14.966101984Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon",
+      "Apache",
+      "Apache Tomcat JK",
+      "Google Cloud DNS",
+      "ISO/IEC 8859",
+      "Twitter Ads",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "havefunsailing.com",
     "title": "Have Fun Sailing | Have Fun Sailing",
     "business_name": "",
@@ -3958,26 +3978,6 @@
       "WordPress",
       "WordPress Multisite",
       "YouTube",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "cid.ie",
-    "title": "CID - Company Information Direct",
-    "business_name": "",
-    "country": "",
-    "seo_score": 25,
-    "tech_spend": 63,
-    "crawled_at": "2026-01-26T02:51:05.887594566Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Apache",
-      "Apache Tomcat JK",
-      "Google Cloud DNS",
-      "ISO/IEC 8859",
-      "Twitter Ads",
-      "eLand",
       "jQuery"
     ]
   },
