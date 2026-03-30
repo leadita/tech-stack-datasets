@@ -2743,29 +2743,5 @@
       "jQuery",
       "monday.com"
     ]
-  },
-  {
-    "domain": "qualitytribe.net",
-    "title": "QualityTribe",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 1047,
-    "crawled_at": "2025-11-07T01:52:39.769178909Z",
-    "technologies": [
-      "Asana",
-      "Bulma",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Nginx",
-      "PHP",
-      "StackPath",
-      "UTF-8",
-      "W3layouts",
-      "Wrike"
-    ]
   }
 ]
