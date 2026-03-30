@@ -1,5 +1,29 @@
 [
   {
+    "domain": "jimmygaucher.com",
+    "title": "Jimmy Gaucher | Developer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 20528,
+    "crawled_at": "2026-03-30T11:42:44.052373013Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Astro",
+      "Cloudflare",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "M247",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "QUIC",
+      "Svelte",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "acady.eu",
     "title": "IB MYP & DP Tutoring: #1 tutors for top IB results | Acady",
     "business_name": "Acady",
@@ -14582,33 +14606,6 @@
       "Subversion",
       "UTF-8",
       "University or College"
-    ]
-  },
-  {
-    "domain": "chrisciokler.com",
-    "title": "Chris Ciokler | Software Developer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 34540,
-    "crawled_at": "2025-11-11T21:38:38.95673153Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Workers",
-      "Cloudinary",
-      "Content Delivery Network",
-      "Express",
-      "Fireblade",
-      "GitHub Hosting",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
