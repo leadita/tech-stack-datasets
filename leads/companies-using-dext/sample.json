@@ -4882,46 +4882,5 @@
       "Xero",
       "jQuery"
     ]
-  },
-  {
-    "domain": "poindext.com",
-    "title": "Welcome to Poindext.com",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 9766,
-    "crawled_at": "2025-11-06T22:12:30.502587272Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Animate It",
-      "Apture Linking Platform",
-      "CDN JS",
-      "ClickOn",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Dext",
-      "Express",
-      "Facebook Embedded Posts",
-      "Fastly",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "MailChimp",
-      "Microdata for Google Shopping",
-      "Microsoft Ajax Content Delivery Network",
-      "POWr",
-      "QUIC",
-      "Schema Plugin",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "hCaptcha",
-      "jQuery",
-      "reCAPTCHA"
-    ]
   }
 ]
