@@ -8864,47 +8864,5 @@
       "jsDelivr",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "uniquepupil.in",
-    "title": "unique_pupil",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 82,
-    "tech_spend": 28136,
-    "crawled_at": "2025-11-06T23:14:38.883071756Z",
-    "technologies": [
-      "CDN JS",
-      "Chatbase",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Django",
-      "ElementUI",
-      "Fireblade",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "Google Workspace",
-      "Hugging Face Space",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "NFOrce Internet",
-      "Netlify",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vercel"
-    ]
   }
 ]
