@@ -1,5 +1,29 @@
 [
   {
+    "domain": "safe10tproject.eu",
+    "title": "Home",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 77,
+    "tech_spend": 19608,
+    "crawled_at": "2026-03-30T23:36:08.790219449Z",
+    "technologies": [
+      "Apache",
+      "CacheFly",
+      "CacheFly CDN",
+      "Constant Contact",
+      "Fastly",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "PHP",
+      "UTF-8",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "trophy-events-uk.co.uk",
     "title": "Trophy Events | Register interest",
     "business_name": "",
@@ -811,33 +835,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "fehrl.org",
-    "title": "Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 34068,
-    "crawled_at": "2026-01-24T13:10:47.260874579Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "CacheFly",
-      "CacheFly CDN",
-      "Fastly",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "PHP",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "reCAPTCHA"
     ]
   },
   {
@@ -2376,30 +2373,6 @@
       "WordPress Stats",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "safe10tproject.eu",
-    "title": "Home",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 77,
-    "tech_spend": 19608,
-    "crawled_at": "2025-11-07T08:44:30.962578468Z",
-    "technologies": [
-      "Apache",
-      "CacheFly",
-      "CacheFly CDN",
-      "Constant Contact",
-      "Fastly",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "PHP",
-      "UTF-8",
-      "YouTube",
-      "reCAPTCHA"
     ]
   }
 ]
