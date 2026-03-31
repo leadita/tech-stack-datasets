@@ -1,5 +1,31 @@
 [
   {
+    "domain": "pdp.dev",
+    "title": "Phil is typing...",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 126,
+    "crawled_at": "2026-03-31T08:57:32.157765197Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Hugo",
+      "License Buttons",
+      "Mastodon",
+      "Micro.blog",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "skydivestore.com",
     "title": "SkydiveStore.com | Skydiving Gear, Parachutes & Equipment Online",
     "business_name": "",
@@ -7529,30 +7555,6 @@
       "Unix",
       "Wakelet",
       "about.me"
-    ]
-  },
-  {
-    "domain": "pdp.dev",
-    "title": "Phil is typing...",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2570,
-    "crawled_at": "2025-11-07T11:59:38.889016402Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "License Buttons",
-      "Mastodon",
-      "Micro.blog",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]

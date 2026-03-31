@@ -1,5 +1,51 @@
 [
   {
+    "domain": "luxurycoastal.co.uk",
+    "title": "Luxury Coastal Cottages, Apartments & Lodge Holidays UK",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 12275,
+    "crawled_at": "2026-03-31T05:33:38.014403207Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Ametys",
+      "Azion",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cybot",
+      "EmbedPress",
+      "Express",
+      "Fireblade",
+      "Font Awesome",
+      "FreeCSSTemplates",
+      "Ghost",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Feed for WordPress",
+      "Instagram Follow Button",
+      "MailChimp",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Pico CSS",
+      "QUIC",
+      "Rackspace CDN",
+      "SuperControl",
+      "Tailwind CSS",
+      "The Deck",
+      "Theme In WP",
+      "Trustpilot Reviews for WordPress",
+      "UTF-8",
+      "W3 Total Cache",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "upmarket.co",
     "title": "UpMarket: Alternative Investments Curated for Accredited Investors",
     "business_name": "",
@@ -13128,29 +13174,6 @@
       "UTF-8",
       "Unsplash",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "echo-lake.org",
-    "title": "Echo Lake in Lake Zurich, Illinois",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 7912,
-    "crawled_at": "2025-11-18T19:39:19.467779738Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Express",
-      "GZIP Module",
-      "Ghost",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Plausible Analytics",
-      "QUIC",
-      "RM Education",
-      "UTF-8",
-      "Ubuntu",
-      "Unsplash"
     ]
   }
 ]
