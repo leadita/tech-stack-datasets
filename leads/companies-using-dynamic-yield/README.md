@@ -1,6 +1,6 @@
 # Companies Using Dynamic Yield (Live Dataset 2026)
 
-This folder contains an active list of 222 companies using **Dynamic Yield**. 
+This folder contains an active list of 221 companies using **Dynamic Yield**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 222
+- **Total Leads:** 221
 - **Verified:** Yes
-- **Last Updated:** 2026-03-30 10:00 UTC
+- **Last Updated:** 2026-03-31 10:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **222+** companies using Dynamic Yield.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **221+** companies using Dynamic Yield.
 
 [**⚡ Unlock the Full Dynamic Yield List with Contact Details**](https://leadita.com/leads/companies-using-dynamic-yield)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-30 10:00 UTC*
+*Last updated: 2026-03-31 10:00 UTC*
 *Data source: Leadita Technographic Intelligence*
