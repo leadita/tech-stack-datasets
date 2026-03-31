@@ -1,5 +1,66 @@
 [
   {
+    "domain": "w0fficeltd.com",
+    "title": "W Office",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 57,
+    "tech_spend": 1641,
+    "crawled_at": "2026-03-31T12:50:41.532811399Z",
+    "technologies": [
+      "Apache",
+      "Aruba",
+      "CDN JS",
+      "ClickFunnels",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "OpenSSL",
+      "UTF-8",
+      "Ubuntu",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "dreamgoalscore.com",
+    "title": "Make Money Online",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 1901,
+    "crawled_at": "2026-03-31T00:04:01.912405018Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Aruba",
+      "CDN JS",
+      "ClickFunnels",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "Font Awesome",
+      "GZIP Module",
+      "GetResponse",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Nginx",
+      "UTF-8",
+      "eLand"
+    ]
+  },
+  {
     "domain": "moniquejohnson.com",
     "title": "Home - Monique Johnson",
     "business_name": "Monique Johnson",
@@ -37,36 +98,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "davidtwigg.com.au",
-    "title": "David Twigg",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 2010,
-    "crawled_at": "2026-03-30T03:53:49.98797006Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Aruba",
-      "CDN JS",
-      "ClickFunnels",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DAV",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "UTF-8",
-      "Wufoo",
-      "YouTube",
-      "eLand"
     ]
   },
   {
@@ -20335,37 +20366,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "alanguinn.com",
-    "title": "Alan Guinn",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 1841,
-    "crawled_at": "2025-11-08T04:36:16.196130687Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Aruba",
-      "CDN JS",
-      "ClickFunnels",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "PHP",
-      "UTF-8",
-      "University or College",
-      "WordPress",
-      "eLand"
     ]
   }
 ]
