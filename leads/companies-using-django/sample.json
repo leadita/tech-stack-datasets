@@ -1,5 +1,30 @@
 [
   {
+    "domain": "azpmrpc.com",
+    "title": "AZ Physical Medicine & Rehabilitation, PC - Chandler, AZ",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 2440,
+    "crawled_at": "2026-03-31T04:26:22.89484548Z",
+    "technologies": [
+      "Django",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Nginx",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "YouTube",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "wolflakesvillages.com",
     "title": "Soldier Home Realty - Home",
     "business_name": "",
@@ -8806,63 +8831,6 @@
       "Python",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "anneshon.org",
-    "title": "anneshon | home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 1362,
-    "crawled_at": "2025-11-07T11:21:25.977398025Z",
-    "technologies": [
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coming Soon Page",
-      "Django",
-      "Font Awesome",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Placehold IT",
-      "Pleroma",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress",
-      "YouTube",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "azpmrpc.com",
-    "title": "AZ Physical Medicine & Rehabilitation, PC - Chandler, AZ",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 2440,
-    "crawled_at": "2025-11-07T10:26:38.883916701Z",
-    "technologies": [
-      "Django",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Nginx",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "YouTube",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]
