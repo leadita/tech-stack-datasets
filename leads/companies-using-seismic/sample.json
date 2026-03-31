@@ -2069,40 +2069,5 @@
       "YouTube",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "morningstar.cl",
-    "title": "Choose a Location | Morningstar | Morningstar",
-    "business_name": "",
-    "country": "SGP",
-    "seo_score": 77,
-    "tech_spend": 124730,
-    "crawled_at": "2025-11-07T13:32:38.90298275Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CloudFront",
-      "Content Delivery Network",
-      "Express",
-      "Financial Services Guide",
-      "Fireblade",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Investor Relations",
-      "Nuxt.js",
-      "OneTrust Domain Verification",
-      "Optimizely Recommendations",
-      "Perl",
-      "Seismic",
-      "Storyblocks",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "YouTube",
-      "eLand"
-    ]
   }
 ]
