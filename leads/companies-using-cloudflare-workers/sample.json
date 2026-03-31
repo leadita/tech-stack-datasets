@@ -1,5 +1,26 @@
 [
   {
+    "domain": "stackalign.in",
+    "title": "StackAlign | Custom Software & Web Application Development",
+    "business_name": "StackAlign",
+    "country": "",
+    "seo_score": 92,
+    "tech_spend": 16500,
+    "crawled_at": "2026-03-31T05:10:56.35484906Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "Python",
+      "UTF-8",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "jimmygaucher.com",
     "title": "Jimmy Gaucher | Developer",
     "business_name": "",
@@ -14580,32 +14601,6 @@
       "UTF-8",
       "Vector Internet Services",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "sarthaknarayan.net",
-    "title": "Sarthak Narayan",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 82,
-    "tech_spend": 55428,
-    "crawled_at": "2025-11-11T23:14:38.929792491Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "Gatsby JS",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Idaq",
-      "Netlify",
-      "Oracle Cloud",
-      "Python",
-      "SMC",
-      "Subversion",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]
