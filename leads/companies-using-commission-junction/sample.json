@@ -1,5 +1,63 @@
 [
   {
+    "domain": "mikedawsoncomics.com",
+    "title": "Mike Dawson Comics",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 7613,
+    "crawled_at": "2026-03-31T04:06:04.50383158Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon Widgets",
+      "Apache",
+      "Apture Linking Platform",
+      "Commission Junction",
+      "Creative Mail by Constant Contact",
+      "EmbedPress",
+      "Express",
+      "GZIP Module",
+      "GetResponse",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Jetpack",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Shopify",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "Unsplash",
+      "WebsiteBuilder",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "jassomorenocj.com.mx",
+    "title": "JASSO MORENO",
+    "business_name": "",
+    "country": "MEX",
+    "seo_score": 55,
+    "tech_spend": "",
+    "crawled_at": "2026-03-30T22:08:13.367453935Z",
+    "technologies": [
+      "Commission Junction",
+      "GZIP Module",
+      "Nginx",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "soeos.com",
     "title": "Soeos",
     "business_name": "Soeos",
@@ -10235,39 +10293,6 @@
     ]
   },
   {
-    "domain": "cartooninglessonswithmikedawson.com",
-    "title": "Cartooning Lessons with Mike Dawson",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 79337,
-    "crawled_at": "2025-11-15T08:05:04.985279636Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Commission Junction",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
-    ]
-  },
-  {
     "domain": "kendylyoung.digital",
     "title": "Kendyl Young - Affiliate Marketing & Sales Consultant",
     "business_name": "",
@@ -11655,22 +11680,6 @@
       "UTF-8",
       "WordPress",
       "WordPress Multisite"
-    ]
-  },
-  {
-    "domain": "jassomorenocj.com.mx",
-    "title": "JASSO MORENO",
-    "business_name": "",
-    "country": "MEX",
-    "seo_score": 55,
-    "tech_spend": "",
-    "crawled_at": "2025-11-07T08:17:08.063076258Z",
-    "technologies": [
-      "Commission Junction",
-      "GZIP Module",
-      "Nginx",
-      "Perl",
-      "UTF-8"
     ]
   }
 ]

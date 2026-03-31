@@ -1,5 +1,33 @@
 [
   {
+    "domain": "restream.studio",
+    "title": "Restream Studio - Stream and Record Professional Video | Restream",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 7614,
+    "crawled_at": "2026-03-31T06:19:45.286380199Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "CrazyEgg",
+      "HubSpot Conversations",
+      "Hubspot",
+      "Next.js",
+      "PartnerStack",
+      "Pleroma",
+      "Tailwind CSS",
+      "Vector Internet Services",
+      "Weglot",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "taxcycle.com",
     "title": "TaxCycle - Professional Tax Software for Canadian Accountants and Bookkeepers - TaxCycle",
     "business_name": "",
@@ -9604,34 +9632,6 @@
       "eLand",
       "mlcom",
       "monday.com"
-    ]
-  },
-  {
-    "domain": "restream.studio",
-    "title": "Restream Studio - Stream and Record Professional Video | Restream",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 7614,
-    "crawled_at": "2025-11-07T11:08:38.894130097Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "CrazyEgg",
-      "HubSpot Conversations",
-      "Hubspot",
-      "Next.js",
-      "PartnerStack",
-      "Pleroma",
-      "Tailwind CSS",
-      "Vector Internet Services",
-      "Weglot",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]
