@@ -1,5 +1,33 @@
 [
   {
+    "domain": "kryptonait.com",
+    "title": "Krypton AI Technologies",
+    "business_name": "Krypton AI Technologies",
+    "country": "IND",
+    "seo_score": 92,
+    "tech_spend": 8940,
+    "crawled_at": "2026-03-31T14:56:28.720540191Z",
+    "technologies": [
+      "AI Log",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Krypt Technologies",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PWA",
+      "Perl",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "upcx.io",
     "title": "UPCX - Welcome to the Binancial World | UPCX - BEYOND PAYMENTS",
     "business_name": "",
@@ -12321,28 +12349,6 @@
       "UTF-8",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "kryptonait.com",
-    "title": "Krypton AI Technologies",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 8900,
-    "crawled_at": "2025-11-07T13:35:38.881929443Z",
-    "technologies": [
-      "AI Log",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "Instagram Follow Button",
-      "Krypt Technologies",
-      "NFOrce Internet",
-      "Perl",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]

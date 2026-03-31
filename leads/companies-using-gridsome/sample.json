@@ -1,5 +1,31 @@
 [
   {
+    "domain": "ashanub.com",
+    "title": "Home | Ashan Boralugoda 👋",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 67,
+    "tech_spend": 1187,
+    "crawled_at": "2026-03-31T20:34:07.353506954Z",
+    "technologies": [
+      "Bulma",
+      "Content Delivery Network",
+      "ElementUI",
+      "Express",
+      "Font Awesome",
+      "Gatsby JS",
+      "GitHub Hosting",
+      "Gridsome",
+      "Heroku",
+      "Instagram Follow Button",
+      "LottieFiles",
+      "Netlify",
+      "PHP",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "orbit.hr",
     "title": "Orbit proizvodnja - Orbit proizvodnja",
     "business_name": "",
@@ -11808,21 +11834,6 @@
       "Twitter Ads",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "noblebeastwines.com",
-    "title": "noble beast",
-    "business_name": "",
-    "country": "",
-    "seo_score": 20,
-    "tech_spend": "",
-    "crawled_at": "2025-11-14T15:38:05.0068287Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
