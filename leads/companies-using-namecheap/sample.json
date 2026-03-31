@@ -1,5 +1,28 @@
 [
   {
+    "domain": "domainshostinganddesign.com",
+    "title": "Domains, Hosting And Design",
+    "business_name": "",
+    "country": "BEL",
+    "seo_score": 77,
+    "tech_spend": 4169,
+    "crawled_at": "2026-03-31T04:38:47.463586871Z",
+    "technologies": [
+      "Apache",
+      "EqualWeb",
+      "Font Awesome",
+      "GoDaddy",
+      "InMotion Hosting",
+      "Namecheap",
+      "Oracle Cloud",
+      "Twitter Ads",
+      "UPS",
+      "UTF-8",
+      "University or College",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "lasvegasstripshow.com",
     "title": "The Las Vegas Strip Show™",
     "business_name": "",
@@ -294,28 +317,6 @@
       "Namecheap",
       "StatCounter",
       "Turn"
-    ]
-  },
-  {
-    "domain": "domainshostinganddesign.com",
-    "title": "Domains, Hosting And Design",
-    "business_name": "",
-    "country": "BEL",
-    "seo_score": 77,
-    "tech_spend": 3679,
-    "crawled_at": "2025-11-07T10:30:58.624240169Z",
-    "technologies": [
-      "Apache",
-      "Font Awesome",
-      "GoDaddy",
-      "InMotion Hosting",
-      "Namecheap",
-      "Oracle Cloud",
-      "Twitter Ads",
-      "UPS",
-      "UTF-8",
-      "University or College",
-      "Website Tonight"
     ]
   }
 ]
