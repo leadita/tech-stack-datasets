@@ -1,5 +1,24 @@
 [
   {
+    "domain": "payrollbuzz.com",
+    "title": "Accounting and Time-Tracking Software",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 40000,
+    "crawled_at": "2026-03-30T10:52:44.810839562Z",
+    "technologies": [
+      "Adobe GoLive",
+      "Apache",
+      "GZIP Module",
+      "ISO/IEC 8859",
+      "QUIC",
+      "Sage Intacct",
+      "Salesforce Experience Cloud",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "orionbas.com",
     "title": "Orion Business & Accounting Solutions - Stellar performance from your Sage 100 Software",
     "business_name": "Orion Business &amp; Accounting Solutions",
@@ -11233,71 +11252,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "thespendhound.com",
-    "title": "100% Free Renewal Management Platform | SpendHound",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 99512,
-    "crawled_at": "2025-11-07T05:34:57.445658994Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AWS WAF Challenge",
-      "Accordion Blocks",
-      "Adult Content",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon WAF Blocked",
-      "ArvanCloud",
-      "CDN JS",
-      "Clarip",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "DAV",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "HERO",
-      "IcoMoon",
-      "Nudgify",
-      "Optibase",
-      "Oracle Cloud",
-      "QUIC",
-      "Sage Intacct",
-      "SiteW",
-      "Tailwind CSS",
-      "WF Cookie Consent",
-      "Webflow",
-      "Yandex Hosting",
-      "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "payrollbuzz.com",
-    "title": "Accounting and Time-Tracking Software",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 40000,
-    "crawled_at": "2025-11-07T04:14:10.756791202Z",
-    "technologies": [
-      "Adobe GoLive",
-      "Apache",
-      "GZIP Module",
-      "ISO/IEC 8859",
-      "QUIC",
-      "Sage Intacct",
-      "Salesforce Experience Cloud",
-      "UTF-8"
     ]
   }
 ]

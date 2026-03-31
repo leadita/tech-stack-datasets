@@ -1,5 +1,64 @@
 [
   {
+    "domain": "hannahpaxton.com",
+    "title": "HANNAH PAXTON",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 4073,
+    "crawled_at": "2026-03-31T09:46:08.570716505Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "Tableau",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "mihaiadam.com",
+    "title": "Applications - MIHAI ADAM Proof of Concept applications as list of pages",
+    "business_name": "",
+    "country": "ROU",
+    "seo_score": 77,
+    "tech_spend": 2127,
+    "crawled_at": "2026-03-30T18:56:07.743931776Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon Link Enchancer",
+      "Amazon Widgets",
+      "Apache",
+      "Cybot",
+      "DuracellTomi Google Tag Manager for WordPress",
+      "EmbedPress",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Jetpack",
+      "Microdata for Google Shopping",
+      "Tableau",
+      "Twenty Sixteen",
+      "UTF-8",
+      "WPForms",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "ashnideviseenarine.com",
     "title": "Ashni Devi Seenarine",
     "business_name": "",
@@ -17548,53 +17607,6 @@
       "Twitter Ads",
       "UTF-8",
       "Vine Embed"
-    ]
-  },
-  {
-    "domain": "akshaykanchibail.com",
-    "title": "Akshay Kanchibail Portfolio",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 3628,
-    "crawled_at": "2025-12-05T04:09:20.995888241Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "Netlify",
-      "Python",
-      "Tableau",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Visual Studio"
-    ]
-  },
-  {
-    "domain": "samranahmed.com",
-    "title": "Samran Ahmed Portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 180,
-    "crawled_at": "2025-12-04T12:09:46.368034287Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Microsoft Authentication Library for JavaScript",
-      "Python",
-      "Tableau",
-      "UTF-8",
-      "Vercel",
-      "jQuery"
     ]
   }
 ]
