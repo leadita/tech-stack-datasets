@@ -1,5 +1,30 @@
 [
   {
+    "domain": "oosten-frankfurt.com",
+    "title": "Oosten Frankfurt | Restaurant Frankfurt",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 3176,
+    "crawled_at": "2026-03-31T13:02:05.249551451Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Fastly",
+      "Google Analytics",
+      "Google Cloud",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nuxt.js",
+      "Perl",
+      "Prismic",
+      "Recruitee",
+      "Thank You",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "codelessacademy.com",
     "title": "Codeless Academy | Kickstart your career as a Low Code Developer",
     "business_name": "",
@@ -8415,31 +8440,6 @@
       "University or College",
       "WordPress",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "oosten-frankfurt.com",
-    "title": "Oosten Frankfurt | Restaurant Frankfurt",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 10647,
-    "crawled_at": "2025-11-07T13:11:50.42102749Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Fastly",
-      "Google Analytics",
-      "Google Cloud",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nuxt.js",
-      "Perl",
-      "Prismic",
-      "Recruitee",
-      "Thank You",
-      "UTF-8"
     ]
   }
 ]

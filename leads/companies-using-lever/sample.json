@@ -1,5 +1,38 @@
 [
   {
+    "domain": "magnetdefense.ai",
+    "title": "Magnet Defense | AI-Enabled Autonomy for Next-Generation Fleet operations and Missile Defense",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 7730,
+    "crawled_at": "2026-03-31T14:30:28.268947954Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "Fireblade",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Lever",
+      "LiteSpeed",
+      "PHP",
+      "Supreme Modules Lite",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "waivercore.com",
     "title": "Foxen | Renters Insurance Compliance + Rent Reporting Platform",
     "business_name": "Foxen Administration",
