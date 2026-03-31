@@ -1,5 +1,35 @@
 [
   {
+    "domain": "mrcarlosh.com",
+    "title": "Mr. Carlos H - UX/UI Product Designer | Digital Strategy Expert",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 82,
+    "tech_spend": 1748,
+    "crawled_at": "2026-03-31T07:48:43.745848456Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Apture Linking Platform",
+      "Contact Form Plugin",
+      "Elementor",
+      "EmbedPress",
+      "Fontshare",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Hello Elementor",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "ecommproducers.com",
     "title": "EcommProducers Media - The Leader In Generating High Intent Customers",
     "business_name": "",
@@ -14109,25 +14139,6 @@
       "UTF-8",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "unitedstatesofdesign.com",
-    "title": "United States of Design",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 998,
-    "crawled_at": "2025-12-30T10:10:38.312418378Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Fastly",
-      "Fontshare",
-      "GZIP Module",
-      "GitHub Hosting",
-      "No-Q",
-      "UTF-8"
     ]
   }
 ]
