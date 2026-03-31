@@ -1,6 +1,6 @@
 # Companies Using PixelYourSite (Live Dataset 2026)
 
-This folder contains an active list of 20,474 companies using **PixelYourSite**. 
+This folder contains an active list of 20,445 companies using **PixelYourSite**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 20,474
+- **Total Leads:** 20,445
 - **Verified:** Yes
-- **Last Updated:** 2026-03-30 14:30 UTC
+- **Last Updated:** 2026-03-31 14:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **20,474+** companies using PixelYourSite.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **20,445+** companies using PixelYourSite.
 
 [**⚡ Unlock the Full PixelYourSite List with Contact Details**](https://leadita.com/leads/companies-using-pixelyoursite)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-30 14:30 UTC*
+*Last updated: 2026-03-31 14:30 UTC*
 *Data source: Leadita Technographic Intelligence*
