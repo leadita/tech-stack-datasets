@@ -1,5 +1,36 @@
 [
   {
+    "domain": "incredibleoutdoors.in",
+    "title": "Incredible Outdoors - Yoga, Wellness & Spiritual Retreats in India",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 22047,
+    "crawled_at": "2026-03-31T23:15:39.967938825Z",
+    "technologies": [
+      "BookingCore",
+      "Convert",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "ImageKit.io",
+      "Instagram Follow Button",
+      "Nginx",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Ubuntu",
+      "Vue.js",
+      "WordPress",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "yourcbdstoresatx.com",
     "title": "Shop All CBD Products - Sunmed CBD",
     "business_name": "",
@@ -3567,36 +3598,6 @@
       "YouTube",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "incredibleoutdoors.in",
-    "title": "Home",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 60,
-    "tech_spend": 2700,
-    "crawled_at": "2025-11-07T15:58:26.347693379Z",
-    "technologies": [
-      "BookingCore",
-      "Convert",
-      "DAV",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "ImageKit.io",
-      "Instagram Follow Button",
-      "Nginx",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Ubuntu",
-      "WordPress",
-      "jsDelivr"
     ]
   }
 ]
