@@ -1,6 +1,6 @@
 # Companies Using Matomo (Live Dataset 2026)
 
-This folder contains an active list of 44,280 companies using **Matomo**. 
+This folder contains an active list of 44,258 companies using **Matomo**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 44,280
+- **Total Leads:** 44,258
 - **Verified:** Yes
-- **Last Updated:** 2026-03-31 11:30 UTC
+- **Last Updated:** 2026-04-01 11:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **44,280+** companies using Matomo.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **44,258+** companies using Matomo.
 
 [**⚡ Unlock the Full Matomo List with Contact Details**](https://leadita.com/leads/companies-using-matomo)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-31 11:30 UTC*
+*Last updated: 2026-04-01 11:30 UTC*
 *Data source: Leadita Technographic Intelligence*
