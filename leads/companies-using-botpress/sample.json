@@ -1,5 +1,57 @@
 [
   {
+    "domain": "estragroup.com",
+    "title": "EstraGroup",
+    "business_name": "",
+    "country": "VEN",
+    "seo_score": 72,
+    "tech_spend": 19240,
+    "crawled_at": "2026-04-01T08:34:00.123531062Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "AutoComplete",
+      "Botpress",
+      "ECharts",
+      "ElementUI",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Nginx",
+      "PHP",
+      "QUIC",
+      "Sign In With Google",
+      "Tailwind CSS",
+      "UTF-8",
+      "Way",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "seerooholidays.com",
+    "title": "Seeroo Holidays - Travel agency",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 65,
+    "tech_spend": 4936,
+    "crawled_at": "2026-04-01T06:12:41.651554272Z",
+    "technologies": [
+      "Botpress",
+      "Content Delivery Network",
+      "ElementUI",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "oky.digital",
     "title": "Home - Oky",
     "business_name": "Oky",
@@ -17750,59 +17802,6 @@
       "WordPress Multisite",
       "accessiBe",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "fleeceai.agency",
-    "title": "AI Agency for Businesses｜Fleece AI Agency",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 45780,
-    "crawled_at": "2025-12-15T16:43:56.02677075Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Better Lead Generation Services",
-      "Botpress",
-      "Framer Sites",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "KVH",
-      "Ntent",
-      "QUIC",
-      "Yandex Hosting",
-      "Zeald"
-    ]
-  },
-  {
-    "domain": "uniglobelogistics.com",
-    "title": "UniGlobe Logistics | Home",
-    "business_name": "",
-    "country": "SGP",
-    "seo_score": 72,
-    "tech_spend": 24427,
-    "crawled_at": "2025-12-15T16:22:56.007562034Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "Botpress",
-      "Coming Soon Page",
-      "Endis",
-      "Express",
-      "Google My Business",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Parcel",
-      "Prospective",
-      "QUIC",
-      "Shipping Rates Calculator",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "YouTube"
     ]
   }
 ]
