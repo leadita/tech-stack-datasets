@@ -1,5 +1,62 @@
 [
   {
+    "domain": "cluewisevocab.com",
+    "title": "Welcome to ClueWise Vocabulary! - ClueWise Vocabulary",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 377,
+    "crawled_at": "2026-04-01T12:11:36.476878776Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon Widgets",
+      "Content Delivery Network",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Publii",
+      "UTF-8",
+      "University or College",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "builtbymmc.com",
+    "title": "MMC",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 21713,
+    "crawled_at": "2026-04-01T09:41:20.003823594Z",
+    "technologies": [
+      "Amazon",
+      "Apache",
+      "Apture Linking Platform",
+      "ClickOn",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Ntent",
+      "Plausible Analytics",
+      "Publii",
+      "SMC",
+      "Sapper",
+      "Schema Plugin",
+      "Subversion",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "hydroscene.com",
     "title": "HydroScene",
     "business_name": "HydroScene",
@@ -7006,26 +7063,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "cluewisevocab.com",
-    "title": "Welcome to ClueWise Vocabulary! - ClueWise Vocabulary",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 377,
-    "crawled_at": "2025-11-07T19:29:38.925629732Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon Widgets",
-      "Content Delivery Network",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Publii",
-      "UTF-8",
-      "University or College",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   }
 ]
