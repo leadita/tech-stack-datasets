@@ -1,5 +1,25 @@
 [
   {
+    "domain": "1964cheetah.com",
+    "title": "BTM LLC Cheetah",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 508,
+    "crawled_at": "2026-04-01T03:51:27.990743874Z",
+    "technologies": [
+      "Edmunds",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "LiteSpeed",
+      "QUIC",
+      "UTF-8",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "marionedmunds.com",
     "title": "Marion Edmunds",
     "business_name": "",
@@ -4905,26 +4925,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "billthomascheetah.com",
-    "title": "BTMLLC of Arizona Cheetah",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 508,
-    "crawled_at": "2025-11-12T08:19:32.44264978Z",
-    "technologies": [
-      "Edmunds",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "LiteSpeed",
-      "QUIC",
-      "UTF-8",
-      "YouTube",
-      "jQuery"
     ]
   },
   {
