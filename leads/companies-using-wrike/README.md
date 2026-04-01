@@ -1,6 +1,6 @@
 # Companies Using Wrike (Live Dataset 2026)
 
-This folder contains an active list of 79 companies using **Wrike**. 
+This folder contains an active list of 81 companies using **Wrike**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 79
+- **Total Leads:** 81
 - **Verified:** Yes
-- **Last Updated:** 2026-03-31 21:00 UTC
+- **Last Updated:** 2026-04-01 21:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **79+** companies using Wrike.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **81+** companies using Wrike.
 
 [**⚡ Unlock the Full Wrike List with Contact Details**](https://leadita.com/leads/companies-using-wrike)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-03-31 21:00 UTC*
+*Last updated: 2026-04-01 21:00 UTC*
 *Data source: Leadita Technographic Intelligence*
