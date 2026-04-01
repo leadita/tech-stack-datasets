@@ -1,5 +1,44 @@
 [
   {
+    "domain": "metrodetroitcdjr.com",
+    "title": "Chrysler Dodge Jeep Ram Dealer Detroit MI | Suburban CDJR",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 286935,
+    "crawled_at": "2026-04-01T13:17:20.009363895Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Call to Visit",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Dealer.com",
+      "Fireblade",
+      "GetResponse",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Investor Relations",
+      "LaunchDarkly",
+      "New Relic",
+      "Nginx",
+      "Perl",
+      "QUIC",
+      "Site.pro",
+      "SiteW",
+      "Subversion",
+      "UTF-8",
+      "Underscores",
+      "Way",
+      "Workday",
+      "dc.js"
+    ]
+  },
+  {
     "domain": "cabrillopethospital.com",
     "title": "Cabrillo Pet Hospital | Best Veterinary Care in San Diego, C...",
     "business_name": "",
@@ -19248,30 +19287,6 @@
       "Zope",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "sandiegohospitaljobs.org",
-    "title": "Find a Job at SHARP HEALTHCARE – San Diego",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 268056,
-    "crawled_at": "2025-12-20T22:22:32.760044569Z",
-    "technologies": [
-      "ASP.NET Core",
-      "AWS WAF Challenge",
-      "FormSubmit",
-      "GZIP Module",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Hotjar",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "Workday",
-      "YouTube",
-      "reCAPTCHA"
     ]
   }
 ]
