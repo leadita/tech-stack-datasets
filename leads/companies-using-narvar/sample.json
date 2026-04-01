@@ -1,12 +1,12 @@
 [
   {
-    "domain": "stevemadden.shoes",
+    "domain": "stevemadden.com",
     "title": "Steve Madden® Official Site | Free Shipping on orders $75+",
     "business_name": "Steve Madden",
-    "country": "",
-    "seo_score": 87,
+    "country": "USA",
+    "seo_score": 77,
     "tech_spend": 216802,
-    "crawled_at": "2026-03-25T19:45:10.179460781Z",
+    "crawled_at": "2026-04-01T18:44:20.05070893Z",
     "technologies": [
       "AB Tasty",
       "Adobe Creative Cloud WebFonts",
@@ -37,6 +37,7 @@
       "Investor Relations",
       "Microdata for Google Shopping",
       "Microsoft Azure Verified CDN",
+      "Microsoft Clarity",
       "Narvar",
       "Oddle",
       "OneTrust Domain Verification",
@@ -51,7 +52,6 @@
       "Svelte",
       "Swell Rewards",
       "Swym Wishlist Plus",
-      "Tailwind CSS",
       "Thank You",
       "To Top",
       "UTF-8",
