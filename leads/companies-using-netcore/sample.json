@@ -1,5 +1,40 @@
 [
   {
+    "domain": "indiaaffiliatesummit.in",
+    "title": "India Affiliate Summit 2025, best affiliate programs in india, digital marketing company in delhi, digital marketing agency in delhi, affiliate marketing",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 34068,
+    "crawled_at": "2026-04-01T16:29:27.475091893Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "Bulma",
+      "Express",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Calendar",
+      "Google Forms",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "MGID",
+      "Microsoft 365",
+      "Netcore Cloud",
+      "Offer18",
+      "Outbrain Direct",
+      "Taboola Direct",
+      "Taboola Reseller",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "shadcn ui",
+      "vCommission"
+    ]
+  },
+  {
     "domain": "indialt.in",
     "title": "IndiAlt - Find Indian Alternatives to Global Products",
     "business_name": "IndiAlt",
@@ -393,40 +428,6 @@
       "YouCanBookMe",
       "shadcn ui",
       "vFairs"
-    ]
-  },
-  {
-    "domain": "indiaaffiliatesummit.in",
-    "title": "India Affiliate Summit 2025, best affiliate programs in india, digital marketing company in delhi, digital marketing agency in delhi, affiliate marketing",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 34068,
-    "crawled_at": "2025-11-07T21:02:46.186443045Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "Bulma",
-      "Express",
-      "Financial Services Guide",
-      "Google Analytics",
-      "Google Calendar",
-      "Google Forms",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "MGID",
-      "Microsoft 365",
-      "Netcore Cloud",
-      "Offer18",
-      "Outbrain Direct",
-      "Taboola Direct",
-      "Taboola Reseller",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "shadcn ui",
-      "vCommission"
     ]
   }
 ]
