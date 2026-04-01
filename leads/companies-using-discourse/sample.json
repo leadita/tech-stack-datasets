@@ -367,35 +367,5 @@
       "Yandex Hosting",
       "Zeald"
     ]
-  },
-  {
-    "domain": "crean-network.org",
-    "title": "Home - CREAN - UNIGE",
-    "business_name": "",
-    "country": "NOR",
-    "seo_score": 67,
-    "tech_spend": 17740,
-    "crawled_at": "2025-11-07T18:48:25.193441548Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Bulma",
-      "Concrete CMS",
-      "Corporate Governance and Regulatory Compliance",
-      "Discourse",
-      "Facebook Login",
-      "Facebook Reseller",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "NFOrce Internet",
-      "PHP",
-      "UTF-8",
-      "University or College",
-      "eLand",
-      "jQuery"
-    ]
   }
 ]
