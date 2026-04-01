@@ -1,12 +1,59 @@
 [
   {
-    "domain": "jmxtrade.net",
+    "domain": "nenolod.net",
+    "title": "nenolod.net",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 70,
+    "tech_spend": 2300,
+    "crawled_at": "2026-04-01T15:30:47.384360763Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Content Delivery Network",
+      "Dynadot",
+      "Engintron",
+      "Express",
+      "FreeBSD",
+      "GZIP Module",
+      "GoDaddy",
+      "NFOrce Internet",
+      "Nginx",
+      "QUIC",
+      "UTF-8",
+      "Unix",
+      "Website Tonight"
+    ]
+  },
+  {
+    "domain": "doingwood.com",
+    "title": "An EMDN - Doing Wood, Woodworking Carpentry Furniture Making DIY Projects Home Improvement Timber Craftsmanship Interior Design",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 135,
+    "crawled_at": "2026-04-01T14:02:19.987778826Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "workinusa.org",
     "title": "Build Your Brand with JM XTRADE, INC.",
     "business_name": "",
     "country": "",
     "seo_score": 47,
     "tech_spend": 135,
-    "crawled_at": "2026-03-30T15:54:58.008220084Z",
+    "crawled_at": "2026-04-01T11:11:19.98636948Z",
     "technologies": [
       "Amazon CloudFront",
       "CloudFront",
@@ -62,28 +109,6 @@
       "UTF-8",
       "Wangsu",
       "Website Tonight"
-    ]
-  },
-  {
-    "domain": "thelineinn.com",
-    "title": "An EMDN - The Line Inn, Luxury Boutique Hotel Futuristic Design Sustainable Architecture Neom Smart Hospitality Modern Amenities Eco-Friendly Accommodation Exclusive Stay Destination Resort Innovative Tourism",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 135,
-    "crawled_at": "2026-03-18T14:48:54.548290938Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microsoft Clarity",
-      "UTF-8"
     ]
   },
   {
@@ -3339,30 +3364,6 @@
       "GZIP Module",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "nenolod.net",
-    "title": "nenolod.net",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 60,
-    "tech_spend": 756,
-    "crawled_at": "2025-11-07T20:39:13.526941305Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Dynadot",
-      "Engintron",
-      "Express",
-      "FreeBSD",
-      "GZIP Module",
-      "GoDaddy",
-      "NFOrce Internet",
-      "Nginx",
-      "QUIC",
-      "UTF-8",
-      "Unix",
-      "Website Tonight"
     ]
   }
 ]

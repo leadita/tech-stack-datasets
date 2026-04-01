@@ -1,5 +1,22 @@
 [
   {
+    "domain": "confidentialcomputing.com",
+    "title": "ConfidentialComputing.com - Strategic Business-generating Asset & Brand Available for LEASE TO OWN",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 8260,
+    "crawled_at": "2026-03-31T18:47:54.776249474Z",
+    "technologies": [
+      "Fireblade",
+      "LiteSpeed",
+      "NFOrce Internet",
+      "Namecheap",
+      "StatCounter",
+      "Turn"
+    ]
+  },
+  {
     "domain": "domainshostinganddesign.com",
     "title": "Domains, Hosting And Design",
     "business_name": "",
@@ -299,24 +316,6 @@
       "Nginx",
       "Telegram",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "confidentialcomputing.com",
-    "title": "ConfidentialComputing.com is Available for Acquisition",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 8260,
-    "crawled_at": "2025-11-07T14:35:43.949406309Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "Fireblade",
-      "LiteSpeed",
-      "NFOrce Internet",
-      "Namecheap",
-      "StatCounter",
-      "Turn"
     ]
   }
 ]
