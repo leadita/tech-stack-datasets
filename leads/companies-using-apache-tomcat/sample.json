@@ -1,5 +1,101 @@
 [
   {
+    "domain": "ziuton.com",
+    "title": "Ziuton - Gerente de Proyectos / App Developer",
+    "business_name": "",
+    "country": "PHL",
+    "seo_score": 70,
+    "tech_spend": 40,
+    "crawled_at": "2026-04-01T22:11:20.058719394Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "PHP",
+      "PrestaShop",
+      "Subversion",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Ubuntu",
+      "University or College",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "webbagger.com",
+    "title": "Apache Tomcat/7.0.37",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 50,
+    "tech_spend": "",
+    "crawled_at": "2026-04-01T21:20:19.999129926Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "ISO/IEC 8859",
+      "Nginx",
+      "QUIC",
+      "Subversion"
+    ]
+  },
+  {
+    "domain": "naveencv-info.com",
+    "title": "Naveen Profile",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 18039,
+    "crawled_at": "2026-04-01T10:56:20.021043723Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Apache Tomcat JK",
+      "GZIP Module",
+      "InitiativeS",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "OpenResty",
+      "OpenSSL",
+      "Oracle Cloud",
+      "PWA",
+      "Placehold IT",
+      "Python",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Unix",
+      "Visual Studio",
+      "Weblium"
+    ]
+  },
+  {
+    "domain": "tecnofreddo.tech",
+    "title": "Accedi al catalogo dinamico delle macchine di raffreddamento",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-04-01T10:53:20.014985134Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Azion",
+      "GZIP Module",
+      "Google No Site Links Search",
+      "Google Related Website Sites",
+      "Java EE",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "acentis.eu",
     "title": "Acentis",
     "business_name": "",
@@ -2093,24 +2189,6 @@
       "UTF-8",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "foiapps.com",
-    "title": "Apache Tomcat/7.0.47",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 50,
-    "tech_spend": "",
-    "crawled_at": "2026-02-26T23:18:54.291491013Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "CentOS",
-      "ISO/IEC 8859",
-      "OpenSSL",
-      "QUIC",
-      "Subversion"
     ]
   },
   {
@@ -6956,36 +7034,6 @@
     ]
   },
   {
-    "domain": "naveencv-info.com",
-    "title": "Naveen Profile",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 18039,
-    "crawled_at": "2025-12-15T17:34:56.016790311Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Apache Tomcat JK",
-      "GZIP Module",
-      "InitiativeS",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "OpenResty",
-      "OpenSSL",
-      "Oracle Cloud",
-      "PWA",
-      "Placehold IT",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Unix",
-      "Visual Studio",
-      "Weblium"
-    ]
-  },
-  {
     "domain": "fitandalive.co.uk",
     "title": "Fit &amp; Alive | Carly Whitby | Personal Training | Personal Trainer | Pilates | Sports Massage | Chippenham | Corsham | Wiltshire | Carl Todd | Clinic | Osteopath | Physiotherapist | Core Stability | Injury | Rehabilitation | Sport | Event | Relaxation | Athlete | Fitness | Health | Weight",
     "business_name": "",
@@ -7982,25 +8030,6 @@
     ]
   },
   {
-    "domain": "tecnofreddo.tech",
-    "title": "Accedi al catalogo dinamico delle macchine di raffreddamento",
-    "business_name": "",
-    "country": "ITA",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2025-12-10T16:22:56.063952497Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Azion",
-      "GZIP Module",
-      "Google No Site Links Search",
-      "Google Related Website Sites",
-      "Java EE",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "optionsnet.gr",
     "title": "Welcome - Optionsnet",
     "business_name": "",
@@ -8417,36 +8446,6 @@
       "QUIC",
       "Tailwind CSS",
       "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "ziuton.com",
-    "title": "Ziuton - Gerente de Proyectos / App Developer",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 70,
-    "tech_spend": 40,
-    "crawled_at": "2025-12-07T12:24:08.242450906Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "PHP",
-      "PrestaShop",
-      "Subversion",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Ubuntu",
-      "University or College",
       "jQuery"
     ]
   },
