@@ -1,5 +1,85 @@
 [
   {
+    "domain": "steadydigest.us",
+    "title": "Steady Digest: Daily Insights on Tech, Business, and Lifestyle",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 19256,
+    "crawled_at": "2026-04-01T12:14:19.998486335Z",
+    "technologies": [
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Django",
+      "Fireblade",
+      "Gambling Content",
+      "IcoMoon",
+      "Matomo",
+      "Matomo Tag Manager",
+      "NFOrce Internet",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "parveenenterprise.com",
+    "title": "Parveen Enterprises - Connecting Brands with Influencers",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 2927,
+    "crawled_at": "2026-04-01T07:25:38.40067067Z",
+    "technologies": [
+      "BootstrapMade",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Django",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Nginx",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu"
+    ]
+  },
+  {
+    "domain": "logix.co.tz",
+    "title": "LOGIX - Home",
+    "business_name": "",
+    "country": "TZA",
+    "seo_score": 72,
+    "tech_spend": 17536,
+    "crawled_at": "2026-04-01T04:54:10.092373123Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Django",
+      "FormSubmit",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Nginx",
+      "Perl",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "azpmrpc.com",
     "title": "AZ Physical Medicine & Rehabilitation, PC - Chandler, AZ",
     "business_name": "",
@@ -104,32 +184,6 @@
       "UTF-8",
       "Ubuntu",
       "YouTube",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "mormeck.com",
-    "title": "Mormeck's Blog: Insights on Technology, Design, and Personal Growth",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 87,
-    "tech_spend": 20256,
-    "crawled_at": "2026-03-25T07:39:54.28991247Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Django",
-      "Gambling Content",
-      "IcoMoon",
-      "Matomo",
-      "Matomo Tag Manager",
-      "NFOrce Internet",
-      "Tailwind CSS",
-      "Twist",
-      "UTF-8",
       "jQuery"
     ]
   },
@@ -8778,59 +8832,6 @@
       "UTF-8",
       "Vimeo",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "parveenenterprise.com",
-    "title": "Parveen Enterprises - Connecting Brands with Influencers",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 2927,
-    "crawled_at": "2025-11-07T18:16:57.376900503Z",
-    "technologies": [
-      "BootstrapMade",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Django",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Nginx",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu"
-    ]
-  },
-  {
-    "domain": "logix.co.tz",
-    "title": "LOGIX - Home",
-    "business_name": "",
-    "country": "TZA",
-    "seo_score": 72,
-    "tech_spend": 17536,
-    "crawled_at": "2025-11-07T17:47:25.539347328Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Django",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Nginx",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
