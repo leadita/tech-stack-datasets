@@ -1,5 +1,41 @@
 [
   {
+    "domain": "agilekrc.com",
+    "title": "Agile Pioneers in Business Agility | agileKRC",
+    "business_name": "agileKRC",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 24096,
+    "crawled_at": "2026-04-01T01:10:40.408744007Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CapsuleCRM",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Fireblade",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "PHP",
+      "RM Education",
+      "Tailwind CSS",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "montessorinanny.co.uk",
     "title": "Peaceful Learning Nanny Agency",
     "business_name": "",
@@ -1036,40 +1072,6 @@
       "Webflow",
       "Zendesk Embeddables",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "agilekrc.com",
-    "title": "Agile Pioneers in Business Agility | agileKRC",
-    "business_name": "agileKRC",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 24047,
-    "crawled_at": "2025-11-07T16:40:24.158776482Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CapsuleCRM",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "RM Education",
-      "Tailwind CSS",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]
