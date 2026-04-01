@@ -1,5 +1,34 @@
 [
   {
+    "domain": "landscapingone.com",
+    "title": "Landscaping, Cleanup, Renovations, and Landscape Lighting based in Forsyth County | LOI - Landscaping One, Inc",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 48653,
+    "crawled_at": "2026-04-01T11:05:19.997889027Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Ping Identity",
+      "QUIC",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "averbuchwealthmanagement.ca",
     "title": "Averbuch Wealth Management - Markham, ON",
     "business_name": "Averbuch Wealth Management",
