@@ -2086,38 +2086,5 @@
       "eLand",
       "mlcom"
     ]
-  },
-  {
-    "domain": "codeoneportal.com",
-    "title": "CodeOne Corporate Housing & Serviced Apartments Software",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 15998,
-    "crawled_at": "2025-11-07T17:35:38.884143229Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Apture Linking Platform",
-      "BootstrapMade",
-      "Express",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "HubSpot Conversations",
-      "Hubspot",
-      "Instagram Follow Button",
-      "Nginx",
-      "PHP",
-      "Propertyware",
-      "QUIC",
-      "RightSignature",
-      "UTF-8",
-      "jQuery",
-      "reCAPTCHA"
-    ]
   }
 ]
