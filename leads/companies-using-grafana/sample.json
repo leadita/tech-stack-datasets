@@ -1,21 +1,21 @@
 [
   {
-    "domain": "grafana.tlr.gg",
+    "domain": "vergecurrency.network",
     "title": "Grafana",
     "business_name": "",
     "country": "",
-    "seo_score": 30,
+    "seo_score": 35,
     "tech_spend": 1200,
-    "crawled_at": "2026-03-26T11:53:38.064393202Z",
+    "crawled_at": "2026-04-01T14:59:20.014887153Z",
     "technologies": [
       "Barchart",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
       "Express",
+      "GZIP Module",
       "GitHub Hosting",
       "Grafana",
-      "UTF-8"
+      "Nginx",
+      "UTF-8",
+      "Ubuntu"
     ]
   },
   {
@@ -75,24 +75,6 @@
       "Nginx",
       "UTF-8",
       "Ubuntu"
-    ]
-  },
-  {
-    "domain": "sand.ard.de",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 11200,
-    "crawled_at": "2026-03-12T21:25:09.463305978Z",
-    "technologies": [
-      "Adult Content",
-      "Barchart",
-      "Contento",
-      "Express",
-      "GitHub Hosting",
-      "Grafana",
-      "UTF-8"
     ]
   },
   {

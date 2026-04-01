@@ -1,5 +1,27 @@
 [
   {
+    "domain": "tkkr.dev",
+    "title": "Thaddeus Kuah",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 7500,
+    "crawled_at": "2026-04-01T18:38:20.015161783Z",
+    "technologies": [
+      "Better Stack",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Fireblade",
+      "GitHub Hosting",
+      "Next.js",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "3weikes.nl",
     "title": "Home - 3 weikes",
     "business_name": "",
@@ -754,24 +776,6 @@
       "YouTube",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "tkkr.link",
-    "title": "Thaddeus Kuah",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": "",
-    "crawled_at": "2026-02-23T08:23:40.511850768Z",
-    "technologies": [
-      "Better Stack",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Next.js",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {
