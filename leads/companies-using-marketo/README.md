@@ -1,6 +1,6 @@
 # Companies Using Marketo (Live Dataset 2026)
 
-This folder contains an active list of 1,154 companies using **Marketo**. 
+This folder contains an active list of 1,167 companies using **Marketo**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 1,154
+- **Total Leads:** 1,167
 - **Verified:** Yes
-- **Last Updated:** 2026-04-01 19:45 UTC
+- **Last Updated:** 2026-04-02 19:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,154+** companies using Marketo.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,167+** companies using Marketo.
 
 [**⚡ Unlock the Full Marketo List with Contact Details**](https://leadita.com/leads/companies-using-marketo)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-01 19:45 UTC*
+*Last updated: 2026-04-02 19:45 UTC*
 *Data source: Leadita Technographic Intelligence*
