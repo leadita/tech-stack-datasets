@@ -2054,37 +2054,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "mainstlending.com",
-    "title": "HOME | OmegaCapitalFunding",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 26616,
-    "crawled_at": "2025-11-08T03:56:38.885101477Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PWA",
-      "QUIC",
-      "RightSignature",
-      "SMC",
-      "SiteW",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "eLand",
-      "mlcom"
-    ]
   }
 ]
