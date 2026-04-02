@@ -1,6 +1,6 @@
 # Companies Using Kameleoon (Live Dataset 2026)
 
-This folder contains an active list of 236 companies using **Kameleoon**. 
+This folder contains an active list of 237 companies using **Kameleoon**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 236
+- **Total Leads:** 237
 - **Verified:** Yes
-- **Last Updated:** 2026-04-01 10:00 UTC
+- **Last Updated:** 2026-04-02 10:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **236+** companies using Kameleoon.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **237+** companies using Kameleoon.
 
 [**⚡ Unlock the Full Kameleoon List with Contact Details**](https://leadita.com/leads/companies-using-kameleoon)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-01 10:00 UTC*
+*Last updated: 2026-04-02 10:00 UTC*
 *Data source: Leadita Technographic Intelligence*
