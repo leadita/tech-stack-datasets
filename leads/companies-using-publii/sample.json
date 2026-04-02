@@ -1,5 +1,88 @@
 [
   {
+    "domain": "justusrstone.com",
+    "title": "The Bleeding Worlds - Justus R. Stone",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 609,
+    "crawled_at": "2026-04-02T10:44:19.997599833Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Apache",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "poster-galaxy.com",
+    "title": "Galaxy Posters",
+    "business_name": "Galaxy Posters",
+    "country": "DEU",
+    "seo_score": 40,
+    "tech_spend": 61,
+    "crawled_at": "2026-04-02T09:29:20.014053937Z",
+    "technologies": [
+      "BunnyCDN Header",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "pedojack.com",
+    "title": "Site Change - The Jack Gerritsen Pedo-Files",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 649,
+    "crawled_at": "2026-04-02T03:14:20.025738968Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "heytigerband.com",
+    "title": "About the band - Hey Tiger",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 2549,
+    "crawled_at": "2026-04-01T18:41:27.103223498Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "cluewisevocab.com",
     "title": "Welcome to ClueWise Vocabulary! - ClueWise Vocabulary",
     "business_name": "",
@@ -916,25 +999,6 @@
       "Microdata for Google Shopping",
       "Publii",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "postergalaxy.net",
-    "title": "Galaxy Posters",
-    "business_name": "Galaxy Posters",
-    "country": "DEU",
-    "seo_score": 40,
-    "tech_spend": 61,
-    "crawled_at": "2026-02-19T16:50:41.263911774Z",
-    "technologies": [
-      "BunnyCDN Header",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
     ]
   },
   {
@@ -7004,65 +7068,6 @@
       "Publii",
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "jakimaasianhouse.co",
-    "title": "Orderific - Celebrating food / <span id=\"brandName\" class=\"brand_name saveBrandNameFromPreview\" contenteditable=\"false\">Jakima Asian House </span>",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 351,
-    "crawled_at": "2025-11-07T23:56:05.345973922Z",
-    "technologies": [
-      "AdRoll",
-      "Apache",
-      "Content Delivery Network",
-      "CrazyEgg",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Customer Reviews",
-      "Google Font API",
-      "Google Maps",
-      "Google Tag Manager",
-      "IPFS",
-      "Instagram Follow Button",
-      "Pinterest Conversion Tracking",
-      "Publii",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu"
-    ]
-  },
-  {
-    "domain": "heytigerband.com",
-    "title": "About the band - Hey Tiger",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2549,
-    "crawled_at": "2025-11-07T21:41:36.909022119Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]

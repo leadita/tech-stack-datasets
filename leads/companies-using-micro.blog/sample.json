@@ -1,5 +1,73 @@
 [
   {
+    "domain": "mitchellaneous.net",
+    "title": "Mitchellaneous",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 60,
+    "crawled_at": "2026-04-02T11:59:19.98029598Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Hugo",
+      "Mastodon",
+      "Micro.blog",
+      "UTF-8",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "amitg.net",
+    "title": "@amit",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 42,
+    "tech_spend": 159,
+    "crawled_at": "2026-04-02T02:44:20.009777297Z",
+    "technologies": [
+      "Font Awesome",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Micro.blog",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "mitchelltribe.com",
+    "title": "Michael Mitchell",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 18708,
+    "crawled_at": "2026-04-01T14:02:20.008389279Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "DAV",
+      "Express",
+      "GitHub Hosting",
+      "Hugo",
+      "InMotion Hosting",
+      "License Buttons",
+      "Mastodon",
+      "Micro.blog",
+      "Python",
+      "QUIC",
+      "Tribe.so",
+      "UTF-8",
+      "Underscores",
+      "Write.as",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "downloadgram.me",
     "title": "DownloadGram: Download Instagram Photos Online",
     "business_name": "DownloadGram",
@@ -5110,27 +5178,6 @@
     ]
   },
   {
-    "domain": "mitchelltribe.com",
-    "title": "Michael Mitchell",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 3408,
-    "crawled_at": "2025-12-11T06:31:56.043586865Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GitHub Hosting",
-      "License Buttons",
-      "Micro.blog",
-      "Python",
-      "QUIC",
-      "Tribe.so",
-      "UTF-8",
-      "Write.as",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "lioncourt.me",
     "title": "Josh de Lioncourt",
     "business_name": "",
@@ -5888,26 +5935,6 @@
       "Twitter Ads",
       "UTF-8",
       "University or College",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "amitg.net",
-    "title": "@amit",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 30,
-    "tech_spend": 159,
-    "crawled_at": "2025-11-25T10:01:32.553425686Z",
-    "technologies": [
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Micro.blog",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
       "shadcn ui"
     ]
   },
@@ -7512,48 +7539,6 @@
       "Plausible Analytics",
       "Ubuntu",
       "Write.as"
-    ]
-  },
-  {
-    "domain": "proven.lol",
-    "title": "proven.lol",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 74418,
-    "crawled_at": "2025-11-08T03:08:14.98457671Z",
-    "technologies": [
-      "BLR",
-      "Band Camp",
-      "Bento Now",
-      "Camp",
-      "Carrd",
-      "Community",
-      "DAV",
-      "Ecologi",
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Liberapay",
-      "Mastodon",
-      "Medium",
-      "Micro.blog",
-      "Open Collective",
-      "Replyco",
-      "SMC",
-      "Squid",
-      "TNT",
-      "Telegram",
-      "Tumblr",
-      "Twitter Ads",
-      "UTF-8",
-      "User.com",
-      "Vercel",
-      "YouTube",
-      "about.me",
-      "ePly",
-      "itch.io"
     ]
   }
 ]
