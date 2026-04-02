@@ -1,5 +1,33 @@
 [
   {
+    "domain": "toursoficeland.is",
+    "title": "Tours of Iceland – Experience Iceland Your Way",
+    "business_name": "Tours of Iceland",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 32734,
+    "crawled_at": "2026-04-01T22:47:20.015857273Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adyen",
+      "Bokun",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fireblade",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "eLand",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "mythos-mozart.com",
     "title": "MYTHOS MOZART - The immersive Mozart experience in Vienna - Mythos Mozart",
     "business_name": "",
