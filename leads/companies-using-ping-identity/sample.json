@@ -1,5 +1,52 @@
 [
   {
+    "domain": "techjobsupport.com",
+    "title": "IT Job Support-Risk free online tech job support from India",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 76188,
+    "crawled_at": "2026-04-02T12:26:32.96511172Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Fireblade",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "PHP",
+      "Ping Identity",
+      "Python",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "nagendragandla.com",
+    "title": "Nagendra Gandla | Lead Frontend Developer",
+    "business_name": "",
+    "country": "SGP",
+    "seo_score": 62,
+    "tech_spend": 46740,
+    "crawled_at": "2026-04-02T02:02:20.006304989Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "NFOrce Internet",
+      "Next.js",
+      "Nginx",
+      "Ping Identity",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "landscapingone.com",
     "title": "Landscaping, Cleanup, Renovations, and Landscape Lighting based in Forsyth County | LOI - Landscaping One, Inc",
     "business_name": "",
@@ -1037,32 +1084,6 @@
       "QUIC",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "techjobsupport.com",
-    "title": "IT Job Support-Risk free online tech job support from India",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 82,
-    "tech_spend": 76188,
-    "crawled_at": "2025-11-08T03:20:11.942869359Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fireblade",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "PHP",
-      "Ping Identity",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
