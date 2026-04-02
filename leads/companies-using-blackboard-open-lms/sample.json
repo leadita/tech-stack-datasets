@@ -1,5 +1,30 @@
 [
   {
+    "domain": "syllabit.dev",
+    "title": "Syllabit",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 25240,
+    "crawled_at": "2026-04-02T03:29:20.016662736Z",
+    "technologies": [
+      "Angular",
+      "Blackboard Open LMS",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "codio.co.uk",
     "title": "Codio - Teach Code. With confidence.",
     "business_name": "",
@@ -1024,31 +1049,6 @@
       "YouTube",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "syllabit.com",
-    "title": "Syllabit",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 25240,
-    "crawled_at": "2026-02-01T10:28:48.884745251Z",
-    "technologies": [
-      "Angular",
-      "Blackboard Open LMS",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "shadcn ui"
     ]
   },
   {
