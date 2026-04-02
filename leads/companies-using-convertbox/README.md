@@ -1,6 +1,6 @@
 # Companies Using ConvertBox (Live Dataset 2026)
 
-This folder contains an active list of 1,025 companies using **ConvertBox**. 
+This folder contains an active list of 1,031 companies using **ConvertBox**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 1,025
+- **Total Leads:** 1,031
 - **Verified:** Yes
-- **Last Updated:** 2026-04-01 20:45 UTC
+- **Last Updated:** 2026-04-02 20:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,025+** companies using ConvertBox.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,031+** companies using ConvertBox.
 
 [**⚡ Unlock the Full ConvertBox List with Contact Details**](https://leadita.com/leads/companies-using-convertbox)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-01 20:45 UTC*
+*Last updated: 2026-04-02 20:45 UTC*
 *Data source: Leadita Technographic Intelligence*
