@@ -1,5 +1,31 @@
 [
   {
+    "domain": "reavtex.com",
+    "title": "Traditional Hand-Stitched Embroidery & Home Decor | REAVTEX",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 52554,
+    "crawled_at": "2026-04-02T03:35:19.995473915Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Express",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "Pexels",
+      "Thank You",
+      "Unsplash",
+      "VTEX Personalization",
+      "Zyro"
+    ]
+  },
+  {
     "domain": "enroladotecidos.com",
     "title": "Loja de Tecidos Online para decoração, móveis e festa | Enrolado Tecidos",
     "business_name": "Enrolado Tecidos",
@@ -1049,48 +1075,6 @@
       "VTEX Personalization",
       "YouTube",
       "Zendesk Embeddables"
-    ]
-  },
-  {
-    "domain": "suarezusa.com",
-    "title": "SUAREZ® Online Official Store - Cycling Clothing",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 27826,
-    "crawled_at": "2025-11-08T01:37:37.602549789Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Content Delivery Network",
-      "Express",
-      "Facebook Reseller",
-      "Fireblade",
-      "FormSubmit",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Gravity",
-      "Instagram Follow Button",
-      "Nginx",
-      "QUIC",
-      "Render",
-      "Shipping Rates Calculator",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "Tawk",
-      "To Top",
-      "UTF-8",
-      "VTEX Personalization",
-      "YouTube",
-      "reCAPTCHA"
     ]
   }
 ]
