@@ -1,5 +1,69 @@
 [
   {
+    "domain": "hud223f.loans",
+    "title": "HUD 223(f) Loans",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-04-02T22:02:20.006982066Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Federal Deposit Insurance Corporation",
+      "Gridsome",
+      "QUIC",
+      "Segment",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "beyond-interfaces.de",
+    "title": "beyond interfaces | Enterprise UX & Development",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 60,
+    "tech_spend": 156,
+    "crawled_at": "2026-04-02T01:59:19.988664249Z",
+    "technologies": [
+      "Apache",
+      "Gridsome",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Medium"
+    ]
+  },
+  {
+    "domain": "aplikacjalupa.com",
+    "title": "Start - Lupa",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 38354,
+    "crawled_at": "2026-04-01T22:53:20.014862827Z",
+    "technologies": [
+      "App Store",
+      "Apyl",
+      "DAV",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google My Business",
+      "Google Play",
+      "Gridsome",
+      "HMDG",
+      "Hexo",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "K2F",
+      "KVH",
+      "M247",
+      "No-Q",
+      "SMC",
+      "Subversion"
+    ]
+  },
+  {
     "domain": "etherpass.io",
     "title": "Home - EtherPass",
     "business_name": "",
@@ -9393,35 +9457,6 @@
     ]
   },
   {
-    "domain": "aplikacjalupa.com",
-    "title": "Start - Lupa",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 38354,
-    "crawled_at": "2025-11-26T14:29:00.340225042Z",
-    "technologies": [
-      "App Store",
-      "Apyl",
-      "DAV",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google My Business",
-      "Google Play",
-      "Gridsome",
-      "HMDG",
-      "Hexo",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "K2F",
-      "KVH",
-      "M247",
-      "No-Q",
-      "SMC",
-      "Subversion"
-    ]
-  },
-  {
     "domain": "firstclasslearning.co.uk",
     "title": "UK Maths & English Tuition Centres | First Class Learning",
     "business_name": "",
@@ -11812,48 +11847,6 @@
       "Ubuntu",
       "University or College",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "urbndg.com.au",
-    "title": "URBN DG",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 75,
-    "tech_spend": 52016,
-    "crawled_at": "2025-11-15T11:19:28.702753907Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Content Delivery Network",
-      "Gridsome",
-      "Netlify",
-      "Netlify Forms",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "reCAPTCHA",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "coredev.com.au",
-    "title": "Core | Canberra Property Developers",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 120,
-    "crawled_at": "2025-11-15T10:06:09.366960081Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Content Delivery Network",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vimeo",
-      "shadcn ui"
     ]
   }
 ]

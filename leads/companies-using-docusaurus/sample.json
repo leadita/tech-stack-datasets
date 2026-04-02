@@ -1,5 +1,225 @@
 [
   {
+    "domain": "vzhuck.com",
+    "title": "Valentine Zhuck | Valentine Zhuck",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 7400,
+    "crawled_at": "2026-04-02T21:08:19.992009145Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "KaTeX",
+      "Perl",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "marussy.com",
+    "title": "Kristóf Marussy",
+    "business_name": "",
+    "country": "HUN",
+    "seo_score": 60,
+    "tech_spend": 200,
+    "crawled_at": "2026-04-02T19:53:19.988247651Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Google My Business",
+      "License Buttons",
+      "Microsoft Teams",
+      "Onion Location",
+      "UTF-8",
+      "University or College",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "resonanceprotocol.org",
+    "title": "RESONANCE | The Quiet Protocol",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 8940,
+    "crawled_at": "2026-04-02T17:53:19.985201292Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "KaTeX",
+      "LiteSpeed",
+      "NFOrce Internet",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "Vector Internet Services",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "changeloghub.com",
+    "title": "DocsAlot - Docs Manager Your Projects",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 240,
+    "crawled_at": "2026-04-02T12:11:19.997749842Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Next.js",
+      "Pleroma",
+      "ProProfs",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "rz.id.au",
+    "title": "Ryan Zhou | Ryan Zhou",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 3,
+    "crawled_at": "2026-04-02T09:35:19.978573086Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Docusaurus",
+      "Express",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "KaTeX",
+      "Perl",
+      "QUIC",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "bazaarforge.com",
+    "title": "BazaarForge | Shopify Partner | BazaarForge",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 1148,
+    "crawled_at": "2026-04-02T07:35:20.010666249Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Perl",
+      "Shopify",
+      "Shopify Collabs",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "koyuton.com",
+    "title": "Hello from Koyuton Technologies | Koyuton Technologies",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 600,
+    "crawled_at": "2026-04-02T04:50:20.011075469Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "3hodltech.com",
+    "title": "3USD: The Future of Stablecoins | 3USD: The Future of Stablecoins",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-04-02T03:38:19.995746501Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "clientwire.net",
+    "title": "Hello from Wire | Wire",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 4123,
+    "crawled_at": "2026-04-02T01:56:39.064490877Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "Cybot",
+      "Docusaurus",
+      "GZIP Module",
+      "Matomo",
+      "Perl",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "sidiamor.org",
+    "title": "Home | GDA Sidi Amor",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 57,
+    "tech_spend": 7500,
+    "crawled_at": "2026-04-02T00:29:20.020135111Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "Fireblade",
+      "GZIP Module",
+      "InitiativeS",
+      "Nginx",
+      "Perl",
+      "Tailwind CSS",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "scalewaveai.com",
     "title": "ScaleWaveAI - Enterprise AI & Computer Vision APIs | ScaleWaveAI - Empower Your AI Journey",
     "business_name": "",
@@ -820,30 +1040,6 @@
     ]
   },
   {
-    "domain": "rz.id.au",
-    "title": "Ryan Zhou | Ryan Zhou",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 3,
-    "crawled_at": "2026-03-16T17:05:15.801617884Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Docusaurus",
-      "Express",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "KaTeX",
-      "Perl",
-      "QUIC",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
     "domain": "locacloud.com",
     "title": "LocaCloud - Location and Geospatial Data API",
     "business_name": "",
@@ -922,26 +1118,6 @@
       "PayPal Button",
       "PayPal Form",
       "Perl"
-    ]
-  },
-  {
-    "domain": "sidiamor.org",
-    "title": "Home | GDA Sidi Amor",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 67,
-    "tech_spend": 15000,
-    "crawled_at": "2026-03-15T02:50:44.337737267Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "Fireblade",
-      "GZIP Module",
-      "InitiativeS",
-      "Nginx",
-      "Perl",
-      "Tailwind CSS",
-      "shadcn ui"
     ]
   },
   {
@@ -1565,28 +1741,6 @@
       "UTF-8",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "vzhuck.com",
-    "title": "Valentine Zhuck | Valentine Zhuck",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 7400,
-    "crawled_at": "2026-02-28T02:14:02.794318036Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "KaTeX",
-      "Perl",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "jsDelivr"
     ]
   },
   {
@@ -4388,30 +4542,6 @@
       "Python",
       "To Top",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "clientwire.com",
-    "title": "Hello from Wire | Wire",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 66,
-    "crawled_at": "2026-01-20T08:18:29.095369832Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "Cybot",
-      "Docusaurus",
-      "GZIP Module",
-      "Matomo",
-      "Perl",
-      "Tailwind CSS"
     ]
   },
   {
@@ -7444,28 +7574,6 @@
       "Vercel",
       "eLand",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "marussy.com",
-    "title": "Kristóf Marussy",
-    "business_name": "",
-    "country": "HUN",
-    "seo_score": 60,
-    "tech_spend": 200,
-    "crawled_at": "2025-12-15T03:13:56.029823214Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Google My Business",
-      "License Buttons",
-      "Microsoft Teams",
-      "Onion Location",
-      "UTF-8",
-      "University or College",
-      "YouTube"
     ]
   },
   {
