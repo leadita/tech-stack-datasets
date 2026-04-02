@@ -1,5 +1,7 @@
 domain,title,business_name,country,seo_score,tech_spend,crawled_at,technologies
-vergecurrency.network,Grafana,,,35,1200,2026-04-01T14:59:20.014887153Z,"['Barchart', 'Express', 'GZIP Module', 'GitHub Hosting', 'Grafana', 'Nginx', 'UTF-8', 'Ubuntu']"
+ecogi.mdj.sk,Grafana,,,30,1200,2026-04-02T18:14:20.01814365Z,"['Apache', 'Barchart', 'DAV', 'Express', 'GZIP Module', 'GitHub Hosting', 'Grafana', 'UTF-8']"
+batviot.com,Grafana,,,45,11200,2026-04-02T14:29:20.007009693Z,"['Barchart', 'Cloudflare', 'Cloudflare CDN', 'Cloudflare Web Analytics', 'Contento', 'Express', 'GitHub Hosting', 'Grafana', 'Ntent', 'RawGit', 'UTF-8']"
+iot-dgr.com,Grafana,,,20,1200,2026-04-01T21:13:32.773387542Z,"['Barchart', 'Express', 'GZIP Module', 'GitHub Hosting', 'Grafana', 'Nginx', 'UTF-8', 'Ubuntu']"
 metrics.k93.sh,Grafana,,,30,1260,2026-03-21T06:53:38.069342433Z,"['Barchart', 'Express', 'GZIP Module', 'GitHub Hosting', 'Grafana', 'Nginx', 'Subversion', 'UTF-8', 'Yandex Hosting']"
 stage-rheo.com,Rheo,,,30,1260,2026-03-20T17:12:01.062225421Z,"['Amazon', 'Apache', 'Barchart', 'GitHub Hosting', 'Google Analytics', 'Google Tag Manager', 'Grafana', 'UTF-8']"
 stromfee.info,StromfeeME: Power-Analysen,,,40,1200,2026-03-18T09:09:37.902009365Z,"['Barchart', 'Express', 'GZIP Module', 'GitHub Hosting', 'Google My Business', 'Grafana', 'Nginx', 'UTF-8', 'Ubuntu']"

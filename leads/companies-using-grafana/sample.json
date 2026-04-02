@@ -1,12 +1,53 @@
 [
   {
-    "domain": "vergecurrency.network",
+    "domain": "ecogi.mdj.sk",
     "title": "Grafana",
     "business_name": "",
     "country": "",
-    "seo_score": 35,
+    "seo_score": 30,
     "tech_spend": 1200,
-    "crawled_at": "2026-04-01T14:59:20.014887153Z",
+    "crawled_at": "2026-04-02T18:14:20.01814365Z",
+    "technologies": [
+      "Apache",
+      "Barchart",
+      "DAV",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Grafana",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "batviot.com",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 11200,
+    "crawled_at": "2026-04-02T14:29:20.007009693Z",
+    "technologies": [
+      "Barchart",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Contento",
+      "Express",
+      "GitHub Hosting",
+      "Grafana",
+      "Ntent",
+      "RawGit",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "iot-dgr.com",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 20,
+    "tech_spend": 1200,
+    "crawled_at": "2026-04-01T21:13:32.773387542Z",
     "technologies": [
       "Barchart",
       "Express",
