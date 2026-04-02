@@ -1,5 +1,29 @@
 [
   {
+    "domain": "dirbyaber.org",
+    "title": "Dirbyaber – ድር ቢያብር ዕድር ዋሽንግተን ሜትሮ",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 540,
+    "crawled_at": "2026-04-02T00:39:53.83335514Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Authorize.net",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "PHP",
+      "Theme In WP",
+      "Twenty Twenty",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "Zoho Books"
+    ]
+  },
+  {
     "domain": "avantiico.com",
     "title": "Avantiico | Microsoft Solutions, Consulting, & Automation",
     "business_name": "Avantiico",
@@ -1678,30 +1702,6 @@
       "Tailwind CSS",
       "WF Cookie Consent",
       "Webflow",
-      "Zoho Books"
-    ]
-  },
-  {
-    "domain": "dirbyaber.org",
-    "title": "Dirbyaber – ድር ቢያብር ዕድር ዋሽንግተን ሜትሮ",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 540,
-    "crawled_at": "2025-11-07T23:34:42.735621223Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Authorize.net",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "PHP",
-      "Theme In WP",
-      "Twenty Twenty",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
       "Zoho Books"
     ]
   }
