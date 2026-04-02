@@ -1,5 +1,36 @@
 [
   {
+    "domain": "admin-dashboards.com",
+    "title": "Admin Dashboards",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 4060,
+    "crawled_at": "2026-04-02T03:08:20.016281165Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "Ghost",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Material-UI",
+      "Microdata for Google Shopping",
+      "Namecheap",
+      "OpenResty",
+      "Python",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "confidentialcomputing.com",
     "title": "ConfidentialComputing.com - Strategic Business-generating Asset & Brand Available for LEASE TO OWN",
     "business_name": "",

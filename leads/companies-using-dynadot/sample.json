@@ -1,5 +1,77 @@
 [
   {
+    "domain": "self-summon.com",
+    "title": "An EMDN - Self-Summon, Personal Empowerment Instant Access Autonomous Action Quick Response Self-Reliance Independent Decision Automatic Activation",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 195,
+    "crawled_at": "2026-04-02T15:59:19.979521247Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Clarity",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "adu.one",
+    "title": "Build Your Brand with JM XTRADE, INC.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 135,
+    "crawled_at": "2026-04-02T12:32:19.990404892Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "commercialpropertyinspectortx.com",
+    "title": "Commercial Property Inspections Texas | Imperial Pro Inspection | Houston, Austin, Dallas–Fort Worth, San Antonio",
+    "business_name": "Imperial Pro Inspection LLC — Commercial Division",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 18379,
+    "crawled_at": "2026-04-02T12:32:19.980918817Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Fireblade",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Customer Reviews",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Perl",
+      "QUIC",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "nenolod.net",
     "title": "nenolod.net",
     "business_name": "",
@@ -22,46 +94,6 @@
       "UTF-8",
       "Unix",
       "Website Tonight"
-    ]
-  },
-  {
-    "domain": "doingwood.com",
-    "title": "An EMDN - Doing Wood, Woodworking Carpentry Furniture Making DIY Projects Home Improvement Timber Craftsmanship Interior Design",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 135,
-    "crawled_at": "2026-04-01T14:02:19.987778826Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microsoft Clarity",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "workinusa.org",
-    "title": "Build Your Brand with JM XTRADE, INC.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 135,
-    "crawled_at": "2026-04-01T11:11:19.98636948Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8"
     ]
   },
   {
