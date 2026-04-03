@@ -1,5 +1,36 @@
 [
   {
+    "domain": "sdartshub.com",
+    "title": "San Diego ArtsHub",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 70856,
+    "crawled_at": "2026-04-03T13:23:20.01036797Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "BetterMode",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "DAV",
+      "ElementUI",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Forms",
+      "Google My Business",
+      "Imgix",
+      "PWA",
+      "QUIC",
+      "SMC",
+      "Tailwind CSS",
+      "Tribe.so",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "warmkeyboard.com",
     "title": "AI-first automation for every team · Activepieces",
     "business_name": "",
@@ -291,36 +322,6 @@
       "Tribe.so",
       "Vector Internet Services",
       "Wiser Notify",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "sdartshub.com",
-    "title": "San Diego ArtsHub",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 70856,
-    "crawled_at": "2026-03-18T04:53:41.852776886Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "BetterMode",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "ElementUI",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Forms",
-      "Google My Business",
-      "Imgix",
-      "PWA",
-      "QUIC",
-      "SMC",
-      "Tailwind CSS",
-      "Tribe.so",
-      "Vector Internet Services",
       "shadcn ui"
     ]
   },
