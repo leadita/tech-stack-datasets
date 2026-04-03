@@ -1,14 +1,13 @@
 [
   {
-    "domain": "self-summon.com",
-    "title": "An EMDN - Self-Summon, Personal Empowerment Instant Access Autonomous Action Quick Response Self-Reliance Independent Decision Automatic Activation",
+    "domain": "thefamilybed.com",
+    "title": "An EMDN - The Family Bed, Co-Sleeping Shared Sleeping Space Family Comfort Parenting Solutions Sleep Together Child Safety Bedtime Routine Home Furniture Household Harmony",
     "business_name": "",
     "country": "",
-    "seo_score": 52,
-    "tech_spend": 195,
-    "crawled_at": "2026-04-02T15:59:19.979521247Z",
+    "seo_score": 42,
+    "tech_spend": 135,
+    "crawled_at": "2026-04-03T15:56:20.018589753Z",
     "technologies": [
-      "Amazon",
       "Amazon CloudFront",
       "Apture Linking Platform",
       "CloudFront",
@@ -19,18 +18,38 @@
       "Google Analytics",
       "Google Tag Manager",
       "Microsoft Clarity",
-      "QUIC",
       "UTF-8"
     ]
   },
   {
-    "domain": "adu.one",
+    "domain": "michaelmaui.com",
+    "title": "This website or DOMAIN NAME may be for sale.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 76599,
+    "crawled_at": "2026-04-03T09:56:19.99736924Z",
+    "technologies": [
+      "Camp",
+      "Cart.com",
+      "Dynadot",
+      "ElementUI",
+      "Fast",
+      "Font Awesome",
+      "GZIP Module",
+      "Google My Business",
+      "PointDNS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "pegula.org",
     "title": "Build Your Brand with JM XTRADE, INC.",
     "business_name": "",
     "country": "",
     "seo_score": 47,
     "tech_spend": 135,
-    "crawled_at": "2026-04-02T12:32:19.990404892Z",
+    "crawled_at": "2026-04-03T05:08:20.022478313Z",
     "technologies": [
       "Amazon CloudFront",
       "CloudFront",
@@ -94,27 +113,6 @@
       "UTF-8",
       "Unix",
       "Website Tonight"
-    ]
-  },
-  {
-    "domain": "duramade.com",
-    "title": "This website or DOMAIN NAME may be for sale.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 76599,
-    "crawled_at": "2026-03-30T06:56:53.500239808Z",
-    "technologies": [
-      "Camp",
-      "Cart.com",
-      "Dynadot",
-      "ElementUI",
-      "Fast",
-      "Font Awesome",
-      "GZIP Module",
-      "Google My Business",
-      "PointDNS",
-      "UTF-8"
     ]
   },
   {
