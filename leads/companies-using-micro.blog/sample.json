@@ -1,5 +1,95 @@
 [
   {
+    "domain": "www.www.www.www.www.www.jgmac1106.me",
+    "title": "Greg McVerry",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 60,
+    "tech_spend": 10063,
+    "crawled_at": "2026-04-03T12:02:19.984758234Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "Blackboard Open LMS",
+      "CloudFront",
+      "DAV",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Hugo",
+      "License Buttons",
+      "Micro.blog",
+      "QUIC",
+      "Shockwave Flash Embed",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vello",
+      "WordPress",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "chrisdeluca.me",
+    "title": "Chris DeLuca - Chris DeLuca",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 65,
+    "tech_spend": 10120,
+    "crawled_at": "2026-04-03T00:02:20.016991807Z",
+    "technologies": [
+      "Alternate Protocol",
+      "BLR",
+      "Drupal",
+      "GitHub Hosting",
+      "Hugo",
+      "License Buttons",
+      "Micro.blog",
+      "Perl",
+      "Tumblr",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "rachelpietraszek.com",
+    "title": "Driven by Cheese",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 62,
+    "tech_spend": 120,
+    "crawled_at": "2026-04-02T16:41:20.001738234Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Angular",
+      "Hugo",
+      "Mastodon",
+      "Micro.blog",
+      "PWA",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "betzen.io",
+    "title": "Noah Betzen",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 260,
+    "crawled_at": "2026-04-02T16:17:20.011012962Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "GitHub Hosting",
+      "Hugo",
+      "Micro.blog",
+      "Twitter Ads",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "mitchellaneous.net",
     "title": "Mitchellaneous",
     "business_name": "",
@@ -708,25 +798,6 @@
       "UTF-8",
       "University or College",
       "eLand",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "betzen.io",
-    "title": "Noah Betzen",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 260,
-    "crawled_at": "2026-03-13T20:45:29.763020089Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "GitHub Hosting",
-      "Hugo",
-      "Micro.blog",
-      "Twitter Ads",
-      "UTF-8",
       "shadcn ui"
     ]
   },
@@ -5134,29 +5205,6 @@
       "University or College",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "chrisdeluca.me",
-    "title": "Chris DeLuca - Chris DeLuca",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 11320,
-    "crawled_at": "2025-12-12T02:52:56.031249239Z",
-    "technologies": [
-      "Alternate Protocol",
-      "BLR",
-      "Band Camp",
-      "Camp",
-      "DAV",
-      "Drupal",
-      "GitHub Hosting",
-      "License Buttons",
-      "Micro.blog",
-      "QUIC",
-      "Tumblr",
-      "UTF-8"
     ]
   },
   {
