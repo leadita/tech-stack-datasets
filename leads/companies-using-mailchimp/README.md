@@ -1,6 +1,6 @@
 # Companies Using MailChimp (Live Dataset 2026)
 
-This folder contains an active list of 104,067 companies using **MailChimp**. 
+This folder contains an active list of 104,770 companies using **MailChimp**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 104,067
+- **Total Leads:** 104,770
 - **Verified:** Yes
-- **Last Updated:** 2026-04-02 17:15 UTC
+- **Last Updated:** 2026-04-03 17:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **104,067+** companies using MailChimp.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **104,770+** companies using MailChimp.
 
 [**⚡ Unlock the Full MailChimp List with Contact Details**](https://leadita.com/leads/companies-using-mailchimp)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-02 17:15 UTC*
+*Last updated: 2026-04-03 17:15 UTC*
 *Data source: Leadita Technographic Intelligence*
