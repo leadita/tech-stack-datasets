@@ -1,5 +1,35 @@
 [
   {
+    "domain": "the-scherzer-report.com",
+    "title": "Reports",
+    "business_name": "Scherzer International",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 2119,
+    "crawled_at": "2026-04-02T22:59:20.023779729Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Apture Linking Platform",
+      "Corporate Governance and Regulatory Compliance",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "PHP",
+      "RightSignature",
+      "Snitcher",
+      "Theme In WP",
+      "ThemeFusion",
+      "UTF-8",
+      "WP jQuery Lightbox",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "mybrooklynapt.com",
     "title": "My Bushwick Apartment – Book a room in Brooklyn!",
     "business_name": "",

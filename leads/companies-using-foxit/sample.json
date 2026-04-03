@@ -1,5 +1,29 @@
 [
   {
+    "domain": "bibletoyou.org",
+    "title": "bibletoyou | “…warning every man, and teaching every man in all wisdom; that we may present every man perfect in Christ Jesus.” Colossians 1:28",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 70,
+    "tech_spend": 327,
+    "crawled_at": "2026-04-03T09:04:49.3269995Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Content Delivery Network",
+      "Element Pack Lite",
+      "EmbedPress",
+      "Foxit",
+      "Logos Reftagger",
+      "Nginx",
+      "Twenty Ten",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "coffeeexchange.ca",
     "title": "Coffee Exchange",
     "business_name": "",
@@ -713,30 +737,6 @@
       "RM Education",
       "The Events Calendar",
       "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "bibletoyou.org",
-    "title": "bibletoyou | “…warning every man, and teaching every man in all wisdom; that we may present every man perfect in Christ Jesus.” Colossians 1:28",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 70,
-    "tech_spend": 327,
-    "crawled_at": "2025-11-08T10:16:29.966693408Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Content Delivery Network",
-      "Element Pack Lite",
-      "EmbedPress",
-      "Foxit",
-      "Logos Reftagger",
-      "Nginx",
-      "Twenty Ten",
       "UTF-8",
       "WordPress",
       "WordPress Multisite",
