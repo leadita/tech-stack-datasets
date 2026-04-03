@@ -1,5 +1,29 @@
 [
   {
+    "domain": "openiwt.org",
+    "title": "Home | OpenIWT",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 67,
+    "tech_spend": 29000,
+    "crawled_at": "2026-04-02T17:52:58.565231154Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "GZIP Module",
+      "Moodle",
+      "NFOrce Internet",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "Totara",
+      "UTF-8",
+      "Ubuntu",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "qec.org.mx",
     "title": "Quality Education Center - SLP",
     "business_name": "",
@@ -1225,30 +1249,6 @@
       "Parallels Plesk Panel",
       "Totara",
       "UTF-8",
-      "YouTube",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "openiwt.org",
-    "title": "Home | OpenIWT",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 67,
-    "tech_spend": 29000,
-    "crawled_at": "2025-11-08T05:13:02.026402457Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "GZIP Module",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "Totara",
-      "UTF-8",
-      "Ubuntu",
       "YouTube",
       "jsDelivr"
     ]
