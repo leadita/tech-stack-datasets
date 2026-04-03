@@ -1,5 +1,62 @@
 [
   {
+    "domain": "cciu.org",
+    "title": "Home - Chester County Intermediate Unit 24",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 70887,
+    "crawled_at": "2026-04-03T11:23:19.983159581Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "AudioEye",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Financial Services Guide",
+      "Google Analytics",
+      "Google Tag Manager",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "PHP",
+      "Ruby on Rails",
+      "SMC",
+      "UTF-8",
+      "University or College",
+      "Weglot",
+      "Wrike",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "etillar.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 30591,
+    "crawled_at": "2026-04-03T06:35:20.011914224Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Cybot",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Joomla!",
+      "Netsuite Site Builder",
+      "QUIC",
+      "RokNavMenu",
+      "Tailwind CSS",
+      "UTF-8",
+      "Wrike",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "worschoolclosings.info",
     "title": "710 WOR - The Voice of New York With Your Latest Local and National News!",
     "business_name": "",
@@ -2106,33 +2163,6 @@
     ]
   },
   {
-    "domain": "etillar.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 30591,
-    "crawled_at": "2025-12-14T19:54:30.658022944Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Cybot",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Joomla!",
-      "Netsuite Site Builder",
-      "QUIC",
-      "RokNavMenu",
-      "Tailwind CSS",
-      "UTF-8",
-      "Wrike",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "deanrussell.info",
     "title": "Dean Russell Resume",
     "business_name": "",
@@ -2631,36 +2661,6 @@
       "WordPress",
       "WordPress Multisite",
       "Wrike"
-    ]
-  },
-  {
-    "domain": "cciu.org",
-    "title": "Home - Chester County Intermediate Unit 24",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 70848,
-    "crawled_at": "2025-11-14T22:50:05.029292952Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Angular",
-      "AudioEye",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "Google Analytics",
-      "Google Tag Manager",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "PHP",
-      "Ruby on Rails",
-      "SMC",
-      "UTF-8",
-      "University or College",
-      "Weglot",
-      "Wrike",
-      "YouTube"
     ]
   },
   {
