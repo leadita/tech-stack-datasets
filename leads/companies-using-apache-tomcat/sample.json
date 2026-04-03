@@ -1,5 +1,94 @@
 [
   {
+    "domain": "naftosense.com",
+    "title": "Naftosense - Designing and Manufacturing Engineered Hydrocarbon Leak Detection Systems",
+    "business_name": "",
+    "country": "IRL",
+    "seo_score": 62,
+    "tech_spend": 840,
+    "crawled_at": "2026-04-03T18:50:20.001940858Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Clicky",
+      "FreeCSSTemplates",
+      "Google Related Website Sites",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "thomassalesinc.com",
+    "title": "Thomas Sales and Marketing",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-04-03T18:50:20.001524691Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Clicky",
+      "DAV",
+      "FreeCSSTemplates",
+      "Google Related Website Sites",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "basitazeem.info",
+    "title": "Basit Azeem Sheikh - Techno-Creative | Software Architect | AI Enthusiast",
+    "business_name": "Guava Trees Softech",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 10068,
+    "crawled_at": "2026-04-03T13:50:19.989360873Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Apture Linking Platform",
+      "Astro",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Java EE",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Nginx",
+      "Oracle Cloud",
+      "Python",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services"
+    ]
+  },
+  {
+    "domain": "gargan.org",
+    "title": "Apache Tomcat/7.0.26",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 45,
+    "tech_spend": "",
+    "crawled_at": "2026-04-03T07:00:01.263741194Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "GZIP Module",
+      "ISO/IEC 8859",
+      "Nginx",
+      "QUIC",
+      "Subversion"
+    ]
+  },
+  {
     "domain": "deals2protect.com",
     "title": "Welcome to deals2protect.com",
     "business_name": "",
@@ -143,23 +232,6 @@
       "Ubuntu",
       "University or College",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "webbagger.com",
-    "title": "Apache Tomcat/7.0.37",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 50,
-    "tech_spend": "",
-    "crawled_at": "2026-04-01T21:20:19.999129926Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "ISO/IEC 8859",
-      "Nginx",
-      "QUIC",
-      "Subversion"
     ]
   },
   {
