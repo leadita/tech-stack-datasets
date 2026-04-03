@@ -1,5 +1,71 @@
 [
   {
+    "domain": "ahccncorp.net",
+    "title": "Community Oncology Research Program - AHCC CORP",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 819527,
+    "crawled_at": "2026-04-03T06:26:19.983757492Z",
+    "technologies": [
+      "Adobe CQ",
+      "Adobe Experience Manager",
+      "Adobe Marketing Cloud",
+      "Amazon",
+      "Apache",
+      "Bing Cashback",
+      "Bing Conversion Tracking",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Coveo",
+      "DoubleClick Bid Manager",
+      "Fastly",
+      "Font Awesome",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Kyruus",
+      "Microdata for Google Shopping",
+      "OneTrust Domain Verification",
+      "Quantcast Direct",
+      "RM Education",
+      "SiteSpect",
+      "SiteW",
+      "Twitter Ads",
+      "Twitter Analytics",
+      "UTF-8",
+      "YouTube",
+      "arsys.es"
+    ]
+  },
+  {
+    "domain": "careconnectcarolinas.com",
+    "title": "Atrium Health CareConnect",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 45,
+    "tech_spend": 15216,
+    "crawled_at": "2026-04-03T02:41:19.999554885Z",
+    "technologies": [
+      "Atrium Health",
+      "Coveo",
+      "Express",
+      "IcoMoon",
+      "Microsoft Azure",
+      "UK Cookie Consent",
+      "UTF-8",
+      "Visual Studio"
+    ]
+  },
+  {
     "domain": "jcicampaigns.com",
     "title": "Chillers | Johnson Controls",
     "business_name": "",
@@ -1416,25 +1482,6 @@
       "University or College",
       "YouTube",
       "arsys.es"
-    ]
-  },
-  {
-    "domain": "atriumhealthcareconnect.net",
-    "title": "Atrium Health CareConnect",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 45,
-    "tech_spend": 15216,
-    "crawled_at": "2026-01-31T15:40:48.884680154Z",
-    "technologies": [
-      "Atrium Health",
-      "Coveo",
-      "Express",
-      "IcoMoon",
-      "Microsoft Azure",
-      "UK Cookie Consent",
-      "UTF-8",
-      "Visual Studio"
     ]
   },
   {
