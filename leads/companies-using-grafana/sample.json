@@ -1,5 +1,44 @@
 [
   {
+    "domain": "agrob.agr.nz",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 1260,
+    "crawled_at": "2026-04-03T18:27:05.29045985Z",
+    "technologies": [
+      "Barchart",
+      "Express",
+      "GitHub Hosting",
+      "Grafana",
+      "Subversion",
+      "UTF-8",
+      "Yandex Hosting"
+    ]
+  },
+  {
+    "domain": "smartsecuritywithdata.ec",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 11200,
+    "crawled_at": "2026-04-02T23:57:56.170045962Z",
+    "technologies": [
+      "Apache",
+      "Barchart",
+      "Contento",
+      "Express",
+      "GitHub Hosting",
+      "Grafana",
+      "Nginx",
+      "Ntent",
+      "RawGit",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "ecogi.mdj.sk",
     "title": "Grafana",
     "business_name": "",
@@ -15,28 +54,6 @@
       "GZIP Module",
       "GitHub Hosting",
       "Grafana",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "batviot.com",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 11200,
-    "crawled_at": "2026-04-02T14:29:20.007009693Z",
-    "technologies": [
-      "Barchart",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Contento",
-      "Express",
-      "GitHub Hosting",
-      "Grafana",
-      "Ntent",
-      "RawGit",
       "UTF-8"
     ]
   },
@@ -57,26 +74,6 @@
       "Nginx",
       "UTF-8",
       "Ubuntu"
-    ]
-  },
-  {
-    "domain": "metrics.k93.sh",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 1260,
-    "crawled_at": "2026-03-21T06:53:38.069342433Z",
-    "technologies": [
-      "Barchart",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Grafana",
-      "Nginx",
-      "Subversion",
-      "UTF-8",
-      "Yandex Hosting"
     ]
   },
   {
