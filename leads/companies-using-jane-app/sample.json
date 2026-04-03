@@ -1,5 +1,65 @@
 [
   {
+    "domain": "talentero.ca",
+    "title": "Home - Talentero",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 18740,
+    "crawled_at": "2026-04-03T15:42:49.911238999Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Calendly",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "Hello Elementor",
+      "InitiativeS",
+      "Jane App",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Perl",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "ellenennes.com",
+    "title": "LNNS",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 25534,
+    "crawled_at": "2026-04-03T09:44:20.018542489Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Akamai Edge",
+      "Akamai Global Host",
+      "Aruba",
+      "Coming Soon Page",
+      "Express",
+      "GZIP Module",
+      "Google My Business",
+      "Gusto",
+      "Instagram Follow Button",
+      "Jane App",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "simplysadiejane.com",
     "title": "Simply Sadie Jane",
     "business_name": "Simply Sadie Jane",
@@ -2753,36 +2813,6 @@
       "QUIC",
       "UTF-8",
       "Unsplash"
-    ]
-  },
-  {
-    "domain": "talentero.ca",
-    "title": "Home - Talentero",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 18740,
-    "crawled_at": "2025-11-08T12:28:47.015696359Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Calendly",
-      "Elementor",
-      "EmbedPress",
-      "Hello Elementor",
-      "InitiativeS",
-      "Jane App",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Perl",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
