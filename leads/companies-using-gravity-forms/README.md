@@ -1,6 +1,6 @@
 # Companies Using Gravity Forms (Live Dataset 2026)
 
-This folder contains an active list of 176,604 companies using **Gravity Forms**. 
+This folder contains an active list of 177,464 companies using **Gravity Forms**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 176,604
+- **Total Leads:** 177,464
 - **Verified:** Yes
-- **Last Updated:** 2026-04-02 17:45 UTC
+- **Last Updated:** 2026-04-03 17:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **176,604+** companies using Gravity Forms.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **177,464+** companies using Gravity Forms.
 
 [**⚡ Unlock the Full Gravity Forms List with Contact Details**](https://leadita.com/leads/companies-using-gravity-forms)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-02 17:45 UTC*
+*Last updated: 2026-04-03 17:45 UTC*
 *Data source: Leadita Technographic Intelligence*
