@@ -1,5 +1,165 @@
 [
   {
+    "domain": "iflux.app",
+    "title": "Home Page - Flux",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 28686,
+    "crawled_at": "2026-04-03T21:44:19.989062707Z",
+    "technologies": [
+      "Alternate Protocol",
+      "App Store",
+      "Apyl",
+      "Content Delivery Network",
+      "DAV",
+      "DC74",
+      "Financial Services Guide",
+      "Gomag",
+      "Google My Business",
+      "Google Play",
+      "Gridsome",
+      "Idaq",
+      "Instagram Follow Button",
+      "Intercom",
+      "K2F",
+      "KVH",
+      "Nationwide Mortgage Licensing System and Registry",
+      "Netlify",
+      "No-Q",
+      "SMC",
+      "Subversion",
+      "Twitter Ads",
+      "UTF-8",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "cryptium.com",
+    "title": "Cryptium - cryptium.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 8000,
+    "crawled_at": "2026-04-03T21:44:19.977887339Z",
+    "technologies": [
+      "GZIP Module",
+      "Gridsome",
+      "HMDG",
+      "Nginx",
+      "PWA",
+      "Subversion",
+      "Twitter Ads",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "digitalstate.co.uk",
+    "title": "Digital State - Digital State",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 7697,
+    "crawled_at": "2026-04-03T21:39:35.809845653Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Federal Deposit Insurance Corporation",
+      "Financial Services Guide",
+      "Font Awesome",
+      "GZIP Module",
+      "Gridsome",
+      "KVH",
+      "Netlify",
+      "No-Q",
+      "Onyx Internet",
+      "QUIC",
+      "Subversion",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "brianvanwinkle.com",
+    "title": "Homepage",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 284,
+    "crawled_at": "2026-04-03T18:35:20.007328418Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Gridsome",
+      "Prismic",
+      "QUIC",
+      "Svelte",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Unsplash",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "practice.inc",
+    "title": "Practice",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 6416,
+    "crawled_at": "2026-04-03T18:08:40.5742486Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Angular",
+      "Content Delivery Network",
+      "Gridsome",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Netlify",
+      "Sanity",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "getpkg.io",
+    "title": "Home - GetPkg",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-04-03T10:29:20.005409576Z",
+    "technologies": [
+      "GZIP Module",
+      "Gridsome",
+      "Nginx",
+      "PWA",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "mtgbus.com.au",
+    "title": "Mount Gambier Bus Lines - Mount Gambier Buslines",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 42,
+    "tech_spend": 5000,
+    "crawled_at": "2026-04-03T02:23:19.99599188Z",
+    "technologies": [
+      "Apache",
+      "Google My Business",
+      "Gridsome",
+      "K2F",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "hud223f.loans",
     "title": "HUD 223(f) Loans",
     "business_name": "",
@@ -61,23 +221,6 @@
       "No-Q",
       "SMC",
       "Subversion"
-    ]
-  },
-  {
-    "domain": "etherpass.io",
-    "title": "Home - EtherPass",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-04-01T20:23:20.015918265Z",
-    "technologies": [
-      "DAV",
-      "GZIP Module",
-      "Gridsome",
-      "Nginx",
-      "PWA",
-      "Tailwind CSS"
     ]
   },
   {
@@ -705,22 +848,6 @@
       "WordPress",
       "eLand",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "lamdani.org",
-    "title": "Home - Lamdani",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-03-18T17:21:42.00378593Z",
-    "technologies": [
-      "GZIP Module",
-      "Gridsome",
-      "Nginx",
-      "PWA",
-      "Tailwind CSS"
     ]
   },
   {
@@ -4719,41 +4846,6 @@
     ]
   },
   {
-    "domain": "iflux.app",
-    "title": "Home Page - Flux",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 28686,
-    "crawled_at": "2026-01-21T20:02:07.195933651Z",
-    "technologies": [
-      "Alternate Protocol",
-      "App Store",
-      "Apyl",
-      "Content Delivery Network",
-      "DAV",
-      "DC74",
-      "Financial Services Guide",
-      "Gomag",
-      "Google My Business",
-      "Google Play",
-      "Gridsome",
-      "Idaq",
-      "Instagram Follow Button",
-      "Intercom",
-      "K2F",
-      "KVH",
-      "Nationwide Mortgage Licensing System and Registry",
-      "Netlify",
-      "No-Q",
-      "SMC",
-      "Subversion",
-      "Twitter Ads",
-      "UTF-8",
-      "eLand"
-    ]
-  },
-  {
     "domain": "greenparkdeweloper.pl",
     "title": "Green Park KTC Development - Green Park Deweloper",
     "business_name": "",
@@ -7631,22 +7723,6 @@
     ]
   },
   {
-    "domain": "mtgbus.com.au",
-    "title": "Mount Gambier Bus Lines - Mount Gambier Buslines",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 42,
-    "tech_spend": 5000,
-    "crawled_at": "2025-12-17T15:25:32.737561623Z",
-    "technologies": [
-      "Apache",
-      "Google My Business",
-      "Gridsome",
-      "K2F",
-      "reCAPTCHA"
-    ]
-  },
-  {
     "domain": "mikkodc.com",
     "title": "Welcome to my Portfolio Site! - Gridsome",
     "business_name": "",
@@ -7664,30 +7740,6 @@
       "Twitter Ads",
       "UTF-8",
       "University or College"
-    ]
-  },
-  {
-    "domain": "brianvanwinkle.com",
-    "title": "Homepage",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 284,
-    "crawled_at": "2025-12-16T21:40:32.739408576Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Gridsome",
-      "Prismic",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Unsplash",
-      "Vercel",
-      "shadcn ui"
     ]
   },
   {
@@ -11796,56 +11848,6 @@
       "QUIC",
       "Tailwind CSS",
       "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "synergylabs.org",
-    "title": "Home - Synergy Labs",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 15578,
-    "crawled_at": "2025-11-15T11:47:04.979892512Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Flat Icon",
-      "Freepik",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Gridsome",
-      "No-Q",
-      "Subversion",
-      "Tailwind CSS",
-      "Ubuntu",
-      "University or College"
-    ]
-  },
-  {
-    "domain": "iotsecurityprivacy.org",
-    "title": "Home - IoT Security & Privacy Label",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 1003,
-    "crawled_at": "2025-11-15T11:47:04.979995348Z",
-    "technologies": [
-      "Apache",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Financial Services Guide",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "License Buttons",
-      "Netlify",
-      "Ubuntu",
-      "University or College",
       "YouTube"
     ]
   }
