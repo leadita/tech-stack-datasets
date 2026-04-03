@@ -1,5 +1,27 @@
 [
   {
+    "domain": "marcos.id",
+    "title": "Marcos Oliveira",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 27500,
+    "crawled_at": "2026-04-03T02:53:19.994476151Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Fireblade",
+      "GitHub Hosting",
+      "InitiativeS",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "VTEX Personalization"
+    ]
+  },
+  {
     "domain": "reavtex.com",
     "title": "Traditional Hand-Stitched Embroidery & Home Decor | REAVTEX",
     "business_name": "",
