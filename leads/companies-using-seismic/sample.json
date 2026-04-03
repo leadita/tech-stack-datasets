@@ -1,5 +1,22 @@
 [
   {
+    "domain": "tamaven.com",
+    "title": "Tama Ventures",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 22000,
+    "crawled_at": "2026-04-03T15:02:20.013003549Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Perl",
+      "SAS",
+      "Seismic",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "workingagainstgravity.com",
     "title": "Nutrition Coaching, Macro and Flexible Dieting | Working Against Gravity",
     "business_name": "Working Against Gravity",
@@ -1166,23 +1183,6 @@
       "PWA",
       "Seismic",
       "Sitelinks Search Box",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "tamaven.com",
-    "title": "Tama Ventures",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 22000,
-    "crawled_at": "2025-12-22T01:31:38.329002178Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Perl",
-      "SAS",
-      "Seismic",
       "UTF-8"
     ]
   },
