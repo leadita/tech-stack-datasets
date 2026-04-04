@@ -382,28 +382,5 @@
       "Yandex Hosting",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "siraberiot.com",
-    "title": "$ir Abe Official Site",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 1163,
-    "crawled_at": "2025-11-08T15:56:38.891154558Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Icons8",
-      "Instagram Follow Button",
-      "Sendible",
-      "UTF-8",
-      "Vecteezy",
-      "YouTube"
-    ]
   }
 ]
