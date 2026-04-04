@@ -1113,26 +1113,5 @@
       "UTF-8",
       "Zonomi"
     ]
-  },
-  {
-    "domain": "pontonolieptas.lt",
-    "title": "Home",
-    "business_name": "",
-    "country": "LTU",
-    "seo_score": 65,
-    "tech_spend": 2520,
-    "crawled_at": "2025-11-08T13:43:07.809685577Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "Zonomi",
-      "Zyro"
-    ]
   }
 ]

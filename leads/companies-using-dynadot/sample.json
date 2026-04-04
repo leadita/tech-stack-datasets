@@ -1,12 +1,12 @@
 [
   {
-    "domain": "thefamilybed.com",
-    "title": "An EMDN - The Family Bed, Co-Sleeping Shared Sleeping Space Family Comfort Parenting Solutions Sleep Together Child Safety Bedtime Routine Home Furniture Household Harmony",
+    "domain": "xvnw.com",
+    "title": "An EMDN - XVNW, Digital Media Streaming Entertainment Platform Video Content Online Broadcasting Multimedia Network Interactive Experiences Innovative Technology",
     "business_name": "",
     "country": "",
-    "seo_score": 42,
+    "seo_score": 52,
     "tech_spend": 135,
-    "crawled_at": "2026-04-03T15:56:20.018589753Z",
+    "crawled_at": "2026-04-04T15:02:19.98804729Z",
     "technologies": [
       "Amazon CloudFront",
       "Apture Linking Platform",
@@ -18,6 +18,96 @@
       "Google Analytics",
       "Google Tag Manager",
       "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "nataliekoury.com",
+    "title": "Just Michelle — Bio Sites",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 1023,
+    "crawled_at": "2026-04-04T10:29:20.003836278Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Dynadot",
+      "Fastly",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Systeme",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "rzpo.com",
+    "title": "Zero Point Technology",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 335,
+    "crawled_at": "2026-04-04T06:47:19.997388502Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "InitiativeS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "inspectmyslab.com",
+    "title": "Pier-less Foundation Inspections",
+    "business_name": "Pier-less Foundation Services LLC",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 18379,
+    "crawled_at": "2026-04-03T21:35:20.002720006Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Fireblade",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Customer Reviews",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "UTF-8",
+      "University or College",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "modmatch.com",
+    "title": "ModMatch",
+    "business_name": "",
+    "country": "",
+    "seo_score": 27,
+    "tech_spend": 36,
+    "crawled_at": "2026-04-03T18:50:20.009416226Z",
+    "technologies": [
+      "Coming Soon Page",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Instagram Follow Button",
       "UTF-8"
     ]
   },

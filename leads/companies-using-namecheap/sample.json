@@ -1,5 +1,22 @@
 [
   {
+    "domain": "rapture.ws",
+    "title": "Rapture Watch & Signs",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 20,
+    "crawled_at": "2026-04-04T04:59:19.634276024Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "GZIP Module",
+      "Namecheap",
+      "Nginx",
+      "Telegram",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "admin-dashboards.com",
     "title": "Admin Dashboards",
     "business_name": "",
@@ -330,23 +347,6 @@
       "YouTube",
       "jQuery",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "rapture.ws",
-    "title": "Rapture Watch & Signs",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 20,
-    "crawled_at": "2025-11-08T17:04:39.679388219Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "GZIP Module",
-      "Namecheap",
-      "Nginx",
-      "Telegram",
-      "UTF-8"
     ]
   }
 ]
