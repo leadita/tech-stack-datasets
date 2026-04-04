@@ -1,5 +1,29 @@
 [
   {
+    "domain": "carbontrace.co.uk",
+    "title": "Home page - Carbon Trace",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 70,
+    "tech_spend": 4828,
+    "crawled_at": "2026-04-04T16:45:36.780530517Z",
+    "technologies": [
+      "Bulma",
+      "ButterCMS",
+      "D3 JS",
+      "HostGator",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Parallels Plesk Panel",
+      "Rickshaw",
+      "Tailwind CSS",
+      "UTF-8",
+      "Visual Studio",
+      "jQuery",
+      "xCharts"
+    ]
+  },
+  {
     "domain": "workwithnikkichubb.com",
     "title": "Day & Night Drops",
     "business_name": "",
@@ -1744,29 +1768,6 @@
       "University or College",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "carbontrace.co.uk",
-    "title": "Home page - Carbon Trace",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 70,
-    "tech_spend": 4828,
-    "crawled_at": "2025-11-08T20:54:05.12800952Z",
-    "technologies": [
-      "Bulma",
-      "ButterCMS",
-      "D3 JS",
-      "HostGator",
-      "Microsoft Azure",
-      "Parallels Plesk Panel",
-      "Rickshaw",
-      "Tailwind CSS",
-      "UTF-8",
-      "Visual Studio",
-      "jQuery",
-      "xCharts"
     ]
   }
 ]
