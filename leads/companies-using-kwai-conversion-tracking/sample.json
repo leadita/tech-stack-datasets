@@ -591,28 +591,5 @@
       "TikTok Conversion Tracking Pixel",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "halloini.xyz",
-    "title": "Raja710 Portal Games Gampang Cuan besar",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 243,
-    "crawled_at": "2025-11-08T18:06:30.416424482Z",
-    "technologies": [
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Kwai Conversion Tracking",
-      "QUIC",
-      "StackPath",
-      "Tailwind CSS",
-      "shadcn ui"
-    ]
   }
 ]
