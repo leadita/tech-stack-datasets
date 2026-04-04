@@ -1,5 +1,53 @@
 [
   {
+    "domain": "zipleaf.com",
+    "title": "The World Business Directory",
+    "business_name": "",
+    "country": "SGP",
+    "seo_score": 77,
+    "tech_spend": 41948,
+    "crawled_at": "2026-04-03T19:53:20.012625618Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apache",
+      "Apture Linking Platform",
+      "Azion",
+      "BLR",
+      "DAV",
+      "Debian",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Gambling Content",
+      "Google Adsense",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google Reseller",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Medium",
+      "PHP",
+      "Pabbly",
+      "Parallels Plesk Panel",
+      "Perl",
+      "Pixelmate",
+      "QUIC",
+      "Subversion",
+      "The Deck",
+      "Tumblr",
+      "UTF-8",
+      "University or College",
+      "YouTube",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "tlbdevelopment.com",
     "title": "Nurture Behavioral Health and Education Services",
     "business_name": "",
@@ -5393,29 +5441,6 @@
       "WordPress",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "stockscreenerandfundamentalanalysis.info",
-    "title": "Fundamental Stock Analysis Training by Ruchir Gupta",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 5248,
-    "crawled_at": "2025-11-08T14:34:20.212826735Z",
-    "technologies": [
-      "Fastly",
-      "Gambling Content",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Nginx",
-      "Pabbly",
-      "Telegram",
-      "WhatsApp Sharing",
-      "YouTube",
-      "jsDelivr"
     ]
   }
 ]
