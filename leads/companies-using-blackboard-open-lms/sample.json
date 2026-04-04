@@ -1,5 +1,36 @@
 [
   {
+    "domain": "jgmac1106.me",
+    "title": "Greg McVerry",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 65,
+    "tech_spend": 25410,
+    "crawled_at": "2026-04-04T13:41:20.007654115Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "Blackboard Open LMS",
+      "CloudFront",
+      "DAV",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Hugo",
+      "License Buttons",
+      "Micro.blog",
+      "QUIC",
+      "Shockwave Flash Embed",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vello",
+      "WordPress",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "blacktom.com",
     "title": "All‑in‑One AI Homework Helper for Every Subject to Study Smarter | BlackTom AI",
     "business_name": "",
@@ -37,37 +68,6 @@
       "The Trade Desk Direct",
       "UTF-8",
       "University or College"
-    ]
-  },
-  {
-    "domain": "www.www.www.www.www.www.jgmac1106.me",
-    "title": "Greg McVerry",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 60,
-    "tech_spend": 10063,
-    "crawled_at": "2026-04-03T12:02:19.984758234Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "Blackboard Open LMS",
-      "CloudFront",
-      "DAV",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hugo",
-      "License Buttons",
-      "Micro.blog",
-      "QUIC",
-      "Shockwave Flash Embed",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vello",
-      "WordPress",
-      "YouTube",
-      "shadcn ui"
     ]
   },
   {

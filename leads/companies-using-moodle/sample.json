@@ -1225,32 +1225,5 @@
       "University or College",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "dikep.org",
-    "title": "Home | DİKEP",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 10863,
-    "crawled_at": "2025-11-08T17:55:28.771488679Z",
-    "technologies": [
-      "App Store",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "IcoMoon",
-      "Moodle",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "Parallels Plesk Panel",
-      "Totara",
-      "UTF-8",
-      "YouTube",
-      "jsDelivr"
-    ]
   }
 ]
