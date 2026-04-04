@@ -1,5 +1,36 @@
 [
   {
+    "domain": "bababou.com",
+    "title": "Missing Child - Abducted daughter by her mother and moved from France to Norway then Germany",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 19791,
+    "crawled_at": "2026-04-04T19:44:19.99753Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Better Stack",
+      "CDN JS",
+      "Calendly",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Turnstile",
+      "Content Delivery Network",
+      "Express",
+      "Font Awesome",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Rickshaw",
+      "StackPath",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "xCharts"
+    ]
+  },
+  {
     "domain": "status.zst.me",
     "title": "Uptime Monitoring by Better Stack",
     "business_name": "",

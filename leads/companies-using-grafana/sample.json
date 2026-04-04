@@ -1,60 +1,61 @@
 [
   {
-    "domain": "agrob.agr.nz",
+    "domain": "malaysia-grafana.iqx.no",
     "title": "Grafana",
     "business_name": "",
     "country": "",
     "seo_score": 30,
     "tech_spend": 1260,
-    "crawled_at": "2026-04-03T18:27:05.29045985Z",
+    "crawled_at": "2026-04-04T10:05:42.826717555Z",
     "technologies": [
       "Barchart",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
       "Express",
       "GitHub Hosting",
       "Grafana",
-      "Subversion",
       "UTF-8",
       "Yandex Hosting"
     ]
   },
   {
-    "domain": "smartsecuritywithdata.ec",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 11200,
-    "crawled_at": "2026-04-02T23:57:56.170045962Z",
-    "technologies": [
-      "Apache",
-      "Barchart",
-      "Contento",
-      "Express",
-      "GitHub Hosting",
-      "Grafana",
-      "Nginx",
-      "Ntent",
-      "RawGit",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "ecogi.mdj.sk",
+    "domain": "pedrosantiagodelrey.com",
     "title": "Grafana",
     "business_name": "",
     "country": "",
     "seo_score": 30,
     "tech_spend": 1200,
-    "crawled_at": "2026-04-02T18:14:20.01814365Z",
+    "crawled_at": "2026-04-04T07:23:20.007624381Z",
     "technologies": [
       "Apache",
       "Barchart",
-      "DAV",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Grafana",
+      "Nginx",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "monit.i4w.pt",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 1200,
+    "crawled_at": "2026-04-04T03:19:57.419030298Z",
+    "technologies": [
+      "Barchart",
       "Express",
       "GZIP Module",
       "GitHub Hosting",
       "Grafana",
-      "UTF-8"
+      "Nginx",
+      "UTF-8",
+      "Ubuntu"
     ]
   },
   {

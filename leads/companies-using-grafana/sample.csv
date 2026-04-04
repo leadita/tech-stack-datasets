@@ -1,7 +1,7 @@
 domain,title,business_name,country,seo_score,tech_spend,crawled_at,technologies
-agrob.agr.nz,Grafana,,,30,1260,2026-04-03T18:27:05.29045985Z,"['Barchart', 'Express', 'GitHub Hosting', 'Grafana', 'Subversion', 'UTF-8', 'Yandex Hosting']"
-smartsecuritywithdata.ec,Grafana,,,40,11200,2026-04-02T23:57:56.170045962Z,"['Apache', 'Barchart', 'Contento', 'Express', 'GitHub Hosting', 'Grafana', 'Nginx', 'Ntent', 'RawGit', 'UTF-8']"
-ecogi.mdj.sk,Grafana,,,30,1200,2026-04-02T18:14:20.01814365Z,"['Apache', 'Barchart', 'DAV', 'Express', 'GZIP Module', 'GitHub Hosting', 'Grafana', 'UTF-8']"
+malaysia-grafana.iqx.no,Grafana,,,30,1260,2026-04-04T10:05:42.826717555Z,"['Barchart', 'Cloudflare', 'Cloudflare CDN', 'Cloudflare Web Analytics', 'Express', 'GitHub Hosting', 'Grafana', 'UTF-8', 'Yandex Hosting']"
+pedrosantiagodelrey.com,Grafana,,,30,1200,2026-04-04T07:23:20.007624381Z,"['Apache', 'Barchart', 'Express', 'GZIP Module', 'GitHub Hosting', 'Google My Business', 'Grafana', 'Nginx', 'UTF-8']"
+monit.i4w.pt,Grafana,,,30,1200,2026-04-04T03:19:57.419030298Z,"['Barchart', 'Express', 'GZIP Module', 'GitHub Hosting', 'Grafana', 'Nginx', 'UTF-8', 'Ubuntu']"
 iot-dgr.com,Grafana,,,20,1200,2026-04-01T21:13:32.773387542Z,"['Barchart', 'Express', 'GZIP Module', 'GitHub Hosting', 'Grafana', 'Nginx', 'UTF-8', 'Ubuntu']"
 stage-rheo.com,Rheo,,,30,1260,2026-03-20T17:12:01.062225421Z,"['Amazon', 'Apache', 'Barchart', 'GitHub Hosting', 'Google Analytics', 'Google Tag Manager', 'Grafana', 'UTF-8']"
 stromfee.info,StromfeeME: Power-Analysen,,,40,1200,2026-03-18T09:09:37.902009365Z,"['Barchart', 'Express', 'GZIP Module', 'GitHub Hosting', 'Google My Business', 'Grafana', 'Nginx', 'UTF-8', 'Ubuntu']"
