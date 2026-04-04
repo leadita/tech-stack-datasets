@@ -1,5 +1,34 @@
 [
   {
+    "domain": "aeystercpa.com",
+    "title": "Home | Angela L Eyster CPA LLC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 22660,
+    "crawled_at": "2026-04-04T09:20:19.981067756Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Cloudinary",
+      "Dext",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft 365",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "Zoom Video Conferencing",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "jasmanagement.co.uk",
     "title": "JAS Management",
     "business_name": "",
@@ -4645,34 +4674,6 @@
       "QUIC",
       "UTF-8",
       "Xero"
-    ]
-  },
-  {
-    "domain": "aeystercpa.com",
-    "title": "Home | Angela L Eyster CPA LLC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 17120,
-    "crawled_at": "2025-11-14T01:05:39.952995286Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "Dext",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft 365",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "Zoom Video Conferencing",
-      "jsDelivr"
     ]
   },
   {
