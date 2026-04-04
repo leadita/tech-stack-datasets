@@ -1,6 +1,6 @@
 # Companies Using Loyalty Lion (Live Dataset 2026)
 
-This folder contains an active list of 35 companies using **Loyalty Lion**. 
+This folder contains an active list of 36 companies using **Loyalty Lion**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 35
+- **Total Leads:** 36
 - **Verified:** Yes
-- **Last Updated:** 2026-04-03 16:45 UTC
+- **Last Updated:** 2026-04-04 16:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **35+** companies using Loyalty Lion.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **36+** companies using Loyalty Lion.
 
 [**⚡ Unlock the Full Loyalty Lion List with Contact Details**](https://leadita.com/leads/companies-using-loyalty-lion)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-03 16:45 UTC*
+*Last updated: 2026-04-04 16:45 UTC*
 *Data source: Leadita Technographic Intelligence*
