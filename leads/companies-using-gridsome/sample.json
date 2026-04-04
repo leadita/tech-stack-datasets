@@ -1,5 +1,200 @@
 [
   {
+    "domain": "avcphuket.com",
+    "title": "Home Automation, MEP Engineering, Solar Power, Lighting Design - AVC Engineering Phuket",
+    "business_name": "",
+    "country": "THA",
+    "seo_score": 77,
+    "tech_spend": 25128,
+    "crawled_at": "2026-04-04T16:11:20.007421777Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Bulma",
+      "CloudFront",
+      "Content Delivery Network",
+      "DAV",
+      "Financial Services Guide",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gridsome",
+      "Idaq",
+      "KVH",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "jeffnhorner.com",
+    "title": "Jeff Horner | Developer, Designer, & Creator",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 5258,
+    "crawled_at": "2026-04-04T13:50:20.013558296Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Gridsome",
+      "Instagram Follow Button",
+      "K2F",
+      "Netlify",
+      "No-Q",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "trackersjeepsafari.com",
+    "title": "Trackers Jeep Safari - Exciting excursions & tours on Cyprus",
+    "business_name": "",
+    "country": "CYP",
+    "seo_score": 67,
+    "tech_spend": 228,
+    "crawled_at": "2026-04-04T13:44:19.978627234Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google My Business",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8",
+      "WhatsApp Sharing"
+    ]
+  },
+  {
+    "domain": "knology.org",
+    "title": "Knology - Practical social science for a better world",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 47656,
+    "crawled_at": "2026-04-04T11:50:32.246780759Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "DatoCMS",
+      "Financial Services Guide",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "K2F",
+      "KVH",
+      "Netlify",
+      "Subversion",
+      "Twitter Ads",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "creditok.co",
+    "title": "ผ่อนประกันธุรกิจ โรงงาน ประกันสุขภาพกลุ่ม ประกันรถยนต์ 0% สูงสุด 6 งวด สำหรับ SME - Credit OK",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 7500,
+    "crawled_at": "2026-04-04T09:59:19.998021063Z",
+    "technologies": [
+      "Fireblade",
+      "Google Analytics",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "Gridsome",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "medicalwarriors2020.com",
+    "title": "Home - At Your Service Education - Helping Nurses",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 67,
+    "tech_spend": 22500,
+    "crawled_at": "2026-04-04T04:59:19.625760218Z",
+    "technologies": [
+      "Apache",
+      "DAV",
+      "GZIP Module",
+      "Gridsome",
+      "Idaq",
+      "KVH",
+      "Tailwind CSS",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "no23miltonstreet.co.uk",
+    "title": "Welcome - No. 23 Milton Street",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 1347,
+    "crawled_at": "2026-04-04T02:35:20.022007398Z",
+    "technologies": [
+      "Bulma",
+      "Content Delivery Network",
+      "Financial Services Guide",
+      "Font Awesome",
+      "Google My Business",
+      "Gridsome",
+      "Idaq",
+      "Instagram Follow Button",
+      "Netlify",
+      "No-Q",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "alijaya.my.id",
+    "title": "Home - alijaya's website",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 50228,
+    "crawled_at": "2026-04-04T01:44:28.916872661Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "Financial Services Guide",
+      "Gridsome",
+      "Hexo",
+      "Netlify",
+      "SMC",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "jojosgirls.com",
+    "title": "Adult/OnlyFans Talent Management - JojosGirls - Adult/OnlyFans Management",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 67,
+    "tech_spend": 4327,
+    "crawled_at": "2026-04-04T00:27:16.797885084Z",
+    "technologies": [
+      "Adult Content",
+      "Bulma",
+      "Cloudinary",
+      "Content Delivery Network",
+      "Font Awesome",
+      "Gridsome",
+      "Netlify",
+      "Tawk",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "iflux.app",
     "title": "Home Page - Flux",
     "business_name": "",
@@ -807,25 +1002,6 @@
     ]
   },
   {
-    "domain": "creditok.co",
-    "title": "ผ่อนประกันธุรกิจ โรงงาน ประกันสุขภาพกลุ่ม ประกันรถยนต์ 0% สูงสุด 6 งวด สำหรับ SME - Credit OK",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 7500,
-    "crawled_at": "2026-03-19T00:36:07.468680958Z",
-    "technologies": [
-      "Fireblade",
-      "Google Analytics",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "Gridsome",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "nordben.com",
     "title": "Monument International - Monument International",
     "business_name": "",
@@ -1293,28 +1469,6 @@
     ]
   },
   {
-    "domain": "no23miltonstreet.co.uk",
-    "title": "Welcome - No. 23 Milton Street",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 1347,
-    "crawled_at": "2026-03-12T21:25:09.459089992Z",
-    "technologies": [
-      "Bulma",
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "Font Awesome",
-      "Google My Business",
-      "Gridsome",
-      "Idaq",
-      "Instagram Follow Button",
-      "Netlify",
-      "No-Q",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "tyrnimedia.fi",
     "title": "Juha Tyrni - Tyrnimedia Oy - Digital Business Consultancy - Gridsome",
     "business_name": "",
@@ -1421,28 +1575,6 @@
     ]
   },
   {
-    "domain": "markbucknell.com",
-    "title": "Hey I'm Mark - repo",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 3,
-    "crawled_at": "2026-03-10T14:55:22.660410326Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "uppsalasmuseer.se",
     "title": "Start - Uppsalas Museer",
     "business_name": "",
@@ -1544,25 +1676,6 @@
       "Tailwind CSS",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "trackersjeepsafari.com",
-    "title": "Trackers Jeep Safari - Exciting excursions & tours on Cyprus",
-    "business_name": "",
-    "country": "CYP",
-    "seo_score": 77,
-    "tech_spend": 228,
-    "crawled_at": "2026-03-09T16:40:22.423314319Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google My Business",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8",
-      "WhatsApp Sharing"
     ]
   },
   {
@@ -3777,31 +3890,6 @@
       "Twitter Ads",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "avcphuket.com",
-    "title": "Home Automation, MEP Engineering, Solar Power, Lighting Design - AVC Engineering Phuket",
-    "business_name": "",
-    "country": "THA",
-    "seo_score": 77,
-    "tech_spend": 25128,
-    "crawled_at": "2026-01-30T22:34:01.067904038Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Bulma",
-      "CloudFront",
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gridsome",
-      "Idaq",
-      "KVH",
-      "Netlify",
-      "UTF-8"
     ]
   },
   {
@@ -7581,31 +7669,6 @@
     ]
   },
   {
-    "domain": "jeffnhorner.com",
-    "title": "Jeff Horner | Developer, Designer, & Creator",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 5258,
-    "crawled_at": "2025-12-18T20:25:32.732993235Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Gridsome",
-      "Instagram Follow Button",
-      "K2F",
-      "Netlify",
-      "No-Q",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "jsDelivr"
-    ]
-  },
-  {
     "domain": "akduba.cz",
     "title": "DUBA LEGAL | advokátní kancelář",
     "business_name": "",
@@ -8473,32 +8536,6 @@
       "QUIC",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "newknowledge.org",
-    "title": "Knology - Practical social science for a better world",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 10203,
-    "crawled_at": "2025-12-13T00:43:56.016985374Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "DAV",
-      "DatoCMS",
-      "Financial Services Guide",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "K2F",
-      "KVH",
-      "Netlify",
-      "Subversion",
-      "Twitter Ads",
-      "UTF-8",
-      "jsDelivr"
     ]
   },
   {
@@ -11804,51 +11841,6 @@
       "Twitter Ads",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "kevinalbrecht.dev",
-    "title": "Hello, world! - Kevin Albrecht",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 600,
-    "crawled_at": "2025-11-15T17:26:05.019103323Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "GitHub Hosting",
-      "Google Related Website Sites",
-      "Gridsome",
-      "Netlify",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "itcracy.com",
-    "title": "Automation for everyone - ITcracy",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 82,
-    "tech_spend": 22628,
-    "crawled_at": "2025-11-15T11:55:55.56513597Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Gridsome",
-      "Instagram Follow Button",
-      "KVH",
-      "License Buttons",
-      "Netlify",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
