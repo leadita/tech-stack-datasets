@@ -1,6 +1,6 @@
 # Companies Using Kareo (Live Dataset 2026)
 
-This folder contains an active list of 670 companies using **Kareo**. 
+This folder contains an active list of 671 companies using **Kareo**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 670
+- **Total Leads:** 671
 - **Verified:** Yes
-- **Last Updated:** 2026-04-04 18:30 UTC
+- **Last Updated:** 2026-04-05 18:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **670+** companies using Kareo.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **671+** companies using Kareo.
 
 [**⚡ Unlock the Full Kareo List with Contact Details**](https://leadita.com/leads/companies-using-kareo)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-04 18:30 UTC*
+*Last updated: 2026-04-05 18:30 UTC*
 *Data source: Leadita Technographic Intelligence*

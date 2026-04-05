@@ -1,5 +1,38 @@
 [
   {
+    "domain": "nmbilling.org",
+    "title": "New Mexico Behavioral Health Billing, LLC",
+    "business_name": "",
+    "country": "PHL",
+    "seo_score": 75,
+    "tech_spend": 80177,
+    "crawled_at": "2026-04-05T12:56:19.994930678Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Aruba",
+      "Express",
+      "FormSubmit",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "Thank You",
+      "TherapyNotes",
+      "UTF-8",
+      "University or College",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "christinemillerlcsw.com",
     "title": "Personalized Therapy & Training in Northfield & Mays Landing | Christine Miller, LCSW",
     "business_name": "",
