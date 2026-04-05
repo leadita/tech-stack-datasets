@@ -1977,33 +1977,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "revitupcall.com",
-    "title": "RevItUpCalls – Professional CRM Support and Remote Calling Services for Car Dealerships.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 42647,
-    "crawled_at": "2025-11-08T22:21:35.994139079Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Automattic",
-      "Better Lead Generation Services",
-      "Content Delivery Network",
-      "EmbedPress",
-      "GDPR Consent Management Platform",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Nginx",
-      "Prospective",
-      "Tailwind CSS",
-      "UTF-8",
-      "VinSolutions",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats"
-    ]
   }
 ]
