@@ -1,5 +1,29 @@
 [
   {
+    "domain": "better-t-stack.dev",
+    "title": "Better-T-Stack",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 62,
+    "tech_spend": 600,
+    "crawled_at": "2026-04-05T02:22:13.402394546Z",
+    "technologies": [
+      "Better Stack",
+      "Content Delivery Network",
+      "DAV",
+      "GitHub Hosting",
+      "Next.js",
+      "Ntent",
+      "Svelte",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "bababou.com",
     "title": "Missing Child - Abducted daughter by her mother and moved from France to Norway then Germany",
     "business_name": "",
@@ -1209,30 +1233,6 @@
       "YouTube",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "better-t-stack.com",
-    "title": "Better-T-Stack",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 600,
-    "crawled_at": "2026-02-12T14:09:53.196205091Z",
-    "technologies": [
-      "Better Stack",
-      "Content Delivery Network",
-      "DAV",
-      "GitHub Hosting",
-      "Next.js",
-      "Ntent",
-      "Svelte",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "YouTube",
-      "shadcn ui"
     ]
   },
   {
