@@ -1,5 +1,30 @@
 [
   {
+    "domain": "streamlearn.us",
+    "title": "StreamLearn Courses",
+    "business_name": "",
+    "country": "JPN",
+    "seo_score": 67,
+    "tech_spend": 31400,
+    "crawled_at": "2026-04-05T03:47:53.926045369Z",
+    "technologies": [
+      "Apache",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Moodle",
+      "NFOrce Internet",
+      "PHP",
+      "Python",
+      "Tailwind CSS",
+      "Totara",
+      "UTF-8",
+      "Ubuntu",
+      "University or College",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "openiwt.org",
     "title": "Home | OpenIWT",
     "business_name": "",
@@ -1199,31 +1224,6 @@
       "YouTube",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "streamlearn.us",
-    "title": "StreamLearn Courses",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 67,
-    "tech_spend": 31400,
-    "crawled_at": "2025-11-09T00:25:49.587699162Z",
-    "technologies": [
-      "Apache",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "Python",
-      "Tailwind CSS",
-      "Totara",
-      "UTF-8",
-      "Ubuntu",
-      "University or College",
-      "jsDelivr"
     ]
   }
 ]
