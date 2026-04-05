@@ -1,5 +1,30 @@
 [
   {
+    "domain": "mydigitaldna.io",
+    "title": "Digital DNA — Performance Marketing & Growth Consultancy",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 78496,
+    "crawled_at": "2026-04-04T20:47:20.023318604Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apollo IO",
+      "Better Lead Generation Services",
+      "Content Delivery Network",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "QUIC",
+      "Treasure Data",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "marcopolo.dev",
     "title": "MarcoPolo: Connect agentic AI to your internal data",
     "business_name": "",
