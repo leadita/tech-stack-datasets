@@ -1,5 +1,28 @@
 [
   {
+    "domain": "tnwildlifemag.net",
+    "title": "Tennessee Wildlife Magazine",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 239468,
+    "crawled_at": "2026-04-05T15:53:19.998098067Z",
+    "technologies": [
+      "Adobe Analytics",
+      "Adobe Marketing Cloud",
+      "Apache",
+      "Coveo",
+      "GZIP Module",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "NFOrce Internet",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "paolihospital.org",
     "title": "Paoli Hospital | Locations | Main Line Health",
     "business_name": "",

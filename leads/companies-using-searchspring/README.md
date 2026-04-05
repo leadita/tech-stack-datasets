@@ -1,6 +1,6 @@
 # Companies Using SearchSpring (Live Dataset 2026)
 
-This folder contains an active list of 207 companies using **SearchSpring**. 
+This folder contains an active list of 211 companies using **SearchSpring**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 207
+- **Total Leads:** 211
 - **Verified:** Yes
-- **Last Updated:** 2026-04-04 22:00 UTC
+- **Last Updated:** 2026-04-05 22:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **207+** companies using SearchSpring.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **211+** companies using SearchSpring.
 
 [**⚡ Unlock the Full SearchSpring List with Contact Details**](https://leadita.com/leads/companies-using-searchspring)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-04 22:00 UTC*
+*Last updated: 2026-04-05 22:00 UTC*
 *Data source: Leadita Technographic Intelligence*
