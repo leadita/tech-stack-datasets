@@ -1,6 +1,6 @@
 # Companies Using Mercury (Live Dataset 2026)
 
-This folder contains an active list of 260 companies using **Mercury**. 
+This folder contains an active list of 265 companies using **Mercury**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 260
+- **Total Leads:** 265
 - **Verified:** Yes
-- **Last Updated:** 2026-04-04 17:30 UTC
+- **Last Updated:** 2026-04-05 17:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **260+** companies using Mercury.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **265+** companies using Mercury.
 
 [**⚡ Unlock the Full Mercury List with Contact Details**](https://leadita.com/leads/companies-using-mercury)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-04 17:30 UTC*
+*Last updated: 2026-04-05 17:30 UTC*
 *Data source: Leadita Technographic Intelligence*
