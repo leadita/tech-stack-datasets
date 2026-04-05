@@ -765,38 +765,5 @@
       "Zendesk Embeddables",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "gainsightpulse.com",
-    "title": "Gainsight Pulse Europe | 12-13 November 2025 in Dublin",
-    "business_name": "Gainsight Pulse - Customer Success and Product Management Conference",
-    "country": "VEN",
-    "seo_score": 77,
-    "tech_spend": 79308,
-    "crawled_at": "2025-11-09T00:47:11.293807557Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Gainsight",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "PHP",
-      "RM Education",
-      "Schema Plugin",
-      "Theme In WP",
-      "UTF-8",
-      "WP Engine",
-      "WordPress",
-      "WordPress Multisite",
-      "eLand",
-      "jQuery"
-    ]
   }
 ]
