@@ -1,6 +1,6 @@
 # Companies Using Buffer (Live Dataset 2026)
 
-This folder contains an active list of 198 companies using **Buffer**. 
+This folder contains an active list of 199 companies using **Buffer**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 198
+- **Total Leads:** 199
 - **Verified:** Yes
-- **Last Updated:** 2026-04-04 22:30 UTC
+- **Last Updated:** 2026-04-05 22:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **198+** companies using Buffer.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **199+** companies using Buffer.
 
 [**⚡ Unlock the Full Buffer List with Contact Details**](https://leadita.com/leads/companies-using-buffer)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-04 22:30 UTC*
+*Last updated: 2026-04-05 22:30 UTC*
 *Data source: Leadita Technographic Intelligence*
