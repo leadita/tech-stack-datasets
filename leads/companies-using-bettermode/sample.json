@@ -1,5 +1,32 @@
 [
   {
+    "domain": "bekynderworld.com",
+    "title": "Acts of Kindness - BeKynder",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 15983,
+    "crawled_at": "2026-04-04T21:56:19.983818455Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "BetterMode",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "ElementUI",
+      "Google Cloud DNS",
+      "Google Font API",
+      "HMDG",
+      "Imgix",
+      "PWA",
+      "QUIC",
+      "Tailwind CSS",
+      "Tribe.so",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "forcepaneltechnology.com",
     "title": "AI-first automation for every team · Activepieces",
     "business_name": "",
