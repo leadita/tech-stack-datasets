@@ -1,12 +1,33 @@
 [
   {
-    "domain": "xvnw.com",
-    "title": "An EMDN - XVNW, Digital Media Streaming Entertainment Platform Video Content Online Broadcasting Multimedia Network Interactive Experiences Innovative Technology",
+    "domain": "phoenixheartflame.com",
+    "title": "Phoenix Heart Flame",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 267,
+    "crawled_at": "2026-04-05T15:08:19.994100914Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "ArvanCloud",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "databaseg.com",
+    "title": "An EMDN - Database G, Google Database Global Data Graph Database Genomic Data Government Database Geographic Information System Gateway Data",
     "business_name": "",
     "country": "",
     "seo_score": 52,
     "tech_spend": 135,
-    "crawled_at": "2026-04-04T15:02:19.98804729Z",
+    "crawled_at": "2026-04-05T11:17:20.01611853Z",
     "technologies": [
       "Amazon CloudFront",
       "Apture Linking Platform",
@@ -19,6 +40,50 @@
       "Google Tag Manager",
       "Microsoft Clarity",
       "UTF-8"
+    ]
+  },
+  {
+    "domain": "stocksale.org",
+    "title": "Build Your Brand with JM XTRADE, INC.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 135,
+    "crawled_at": "2026-04-05T00:23:19.99673503Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "oasiscalme.eu",
+    "title": "Tech Insight Reviews",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 67,
+    "tech_spend": 13279,
+    "crawled_at": "2026-04-04T17:35:19.984230983Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "ArvanCloud",
+      "BLR",
+      "Baidu Ads",
+      "Baidu Cloud",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8",
+      "jsDelivr"
     ]
   },
   {
@@ -129,24 +194,6 @@
       "GZIP Module",
       "Google My Business",
       "PointDNS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "pegula.org",
-    "title": "Build Your Brand with JM XTRADE, INC.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 135,
-    "crawled_at": "2026-04-03T05:08:20.022478313Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
       "UTF-8"
     ]
   },

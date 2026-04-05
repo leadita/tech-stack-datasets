@@ -1,5 +1,24 @@
 [
   {
+    "domain": "supportimation.com",
+    "title": "RimuHosting - RimuHosting Info",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 62,
+    "tech_spend": 15878,
+    "crawled_at": "2026-04-05T08:53:19.989478257Z",
+    "technologies": [
+      "Apache",
+      "Chatlio",
+      "Debian",
+      "Drata",
+      "GZIP Module",
+      "QUIC",
+      "UTF-8",
+      "Zonomi"
+    ]
+  },
+  {
     "domain": "sportzonomics.com",
     "title": "Sportzonomics | Empower Young Athletes Today!",
     "business_name": "Sportzonomics",
@@ -271,27 +290,6 @@
     ]
   },
   {
-    "domain": "25mail.st",
-    "title": "25 Mail St.: Managed email hosting",
-    "business_name": "",
-    "country": "NZL",
-    "seo_score": 77,
-    "tech_spend": 15878,
-    "crawled_at": "2026-01-23T05:28:08.621448165Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "Chatlio",
-      "Debian",
-      "Drata",
-      "GZIP Module",
-      "Google Analytics",
-      "QUIC",
-      "UTF-8",
-      "Zonomi"
-    ]
-  },
-  {
     "domain": "kidzonomics.com",
     "title": "Kidzonomics",
     "business_name": "",
@@ -404,28 +402,6 @@
     ]
   },
   {
-    "domain": "bakop.com",
-    "title": "Bakop - better offsite backups",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 15978,
-    "crawled_at": "2026-01-18T06:24:12.577503784Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "Chatlio",
-      "Debian",
-      "Drata",
-      "GZIP Module",
-      "Google Analytics",
-      "UPS",
-      "UTF-8",
-      "Unix",
-      "Zonomi"
-    ]
-  },
-  {
     "domain": "resort101.lt",
     "title": "Pagrindinis ll RESORT 101",
     "business_name": "",
@@ -447,30 +423,6 @@
       "YouTube",
       "Zonomi",
       "Zyro"
-    ]
-  },
-  {
-    "domain": "launchtimevps.com",
-    "title": "RimuHosting - Linux/Xen VPS Hosting | Tomcat JSP Hosting | JBoss J2EE Hosting - LaunchtimeVPS",
-    "business_name": "",
-    "country": "NZL",
-    "seo_score": 77,
-    "tech_spend": 21178,
-    "crawled_at": "2026-01-14T19:49:43.435635694Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "Chatlio",
-      "Debian",
-      "Drata",
-      "GZIP Module",
-      "Google Analytics",
-      "Internap",
-      "OpenSSL",
-      "Parallels Plesk Panel",
-      "Perl",
-      "Zonomi",
-      "mod_perl"
     ]
   },
   {
@@ -709,26 +661,6 @@
       "Vignette OpenText",
       "Zonomi",
       "Zyro"
-    ]
-  },
-  {
-    "domain": "supportimation.com",
-    "title": "RimuHosting - RimuHosting Info",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 62,
-    "tech_spend": 15878,
-    "crawled_at": "2025-12-19T05:49:32.757093942Z",
-    "technologies": [
-      "Apache",
-      "Chatlio",
-      "Debian",
-      "Drata",
-      "GZIP Module",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "Zonomi"
     ]
   },
   {
