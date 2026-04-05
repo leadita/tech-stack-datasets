@@ -1,6 +1,6 @@
 # Companies Using Dialogflow (Live Dataset 2026)
 
-This folder contains an active list of 290 companies using **Dialogflow**. 
+This folder contains an active list of 292 companies using **Dialogflow**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 290
+- **Total Leads:** 292
 - **Verified:** Yes
-- **Last Updated:** 2026-04-04 11:45 UTC
+- **Last Updated:** 2026-04-05 11:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **290+** companies using Dialogflow.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **292+** companies using Dialogflow.
 
 [**⚡ Unlock the Full Dialogflow List with Contact Details**](https://leadita.com/leads/companies-using-dialogflow)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-04 11:45 UTC*
+*Last updated: 2026-04-05 11:45 UTC*
 *Data source: Leadita Technographic Intelligence*
