@@ -1,12 +1,12 @@
 [
   {
-    "domain": "lexact.org",
+    "domain": "lexact.biz",
     "title": "LexAct",
     "business_name": "167 rue des Marterets ",
     "country": "",
-    "seo_score": 67,
+    "seo_score": 62,
     "tech_spend": 4013,
-    "crawled_at": "2026-04-04T02:53:19.9767934Z",
+    "crawled_at": "2026-04-05T04:05:20.026995223Z",
     "technologies": [
       "Aruba",
       "Express",
@@ -26,6 +26,40 @@
       "WordPress SEO Structured Data Schema Plugin",
       "Xero",
       "eLand"
+    ]
+  },
+  {
+    "domain": "webprosny.com",
+    "title": "WebPros | Web Design Syracuse | eCommerce Websites",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 1120,
+    "crawled_at": "2026-04-04T21:09:23.82151227Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Apache",
+      "AutoComplete",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Fancybox for WordPress",
+      "FreshBooks",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Maps",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Microdata for Google Shopping",
+      "Schema Plugin",
+      "UTF-8",
+      "jQuery"
     ]
   },
   {
@@ -3209,40 +3243,6 @@
       "accessiBe",
       "jQuery",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "webprosny.com",
-    "title": "WebPros | Web Design Syracuse | eCommerce Websites",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 1120,
-    "crawled_at": "2025-11-08T22:19:23.630217811Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Apache",
-      "AutoComplete",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Fancybox for WordPress",
-      "FreshBooks",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "Schema Plugin",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
