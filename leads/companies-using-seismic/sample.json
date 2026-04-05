@@ -1,5 +1,26 @@
 [
   {
+    "domain": "saseismic.com",
+    "title": "South American Seismic - Who we are",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 12003,
+    "crawled_at": "2026-04-05T06:59:17.265979592Z",
+    "technologies": [
+      "Apache",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Seismic",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "goldentree.com",
     "title": "GoldenTree Asset Management",
     "business_name": "",
@@ -460,27 +481,6 @@
       "Svelte",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "southamericanseismic.com",
-    "title": "South American Seismic - Who we are",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 12003,
-    "crawled_at": "2026-02-05T14:37:48.878419141Z",
-    "technologies": [
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Seismic",
-      "Tailwind CSS"
     ]
   },
   {
