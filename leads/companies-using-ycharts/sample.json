@@ -1,5 +1,37 @@
 [
   {
+    "domain": "amycharts.com",
+    "title": "Amy Evans, M.Ed., BCBA | Enhance Learning & Teaching Today",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 90968,
+    "crawled_at": "2026-04-06T15:50:20.000405054Z",
+    "technologies": [
+      "Accordion Blocks",
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "FormSubmit",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Newsletter for Wordpress",
+      "Pico CSS",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YCharts",
+      "eLand"
+    ]
+  },
+  {
     "domain": "bsc.news",
     "title": "Leading Crypto News, Analysis & Research",
     "business_name": "",

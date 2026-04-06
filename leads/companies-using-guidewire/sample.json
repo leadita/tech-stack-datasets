@@ -1,5 +1,30 @@
 [
   {
+    "domain": "ogonconsulting.com",
+    "title": "Customer-Driven Solutions for Guidewire InsuranceNow",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 1004840,
+    "crawled_at": "2026-04-06T03:38:20.003442726Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Guidewire",
+      "Tailwind CSS",
+      "UTF-8",
+      "WF Cookie Consent"
+    ]
+  },
+  {
     "domain": "socialdiscoverycorp.com",
     "title": "Social Discovery | Social Media Reporting | Accurate Intelligence",
     "business_name": "",
@@ -284,30 +309,6 @@
       "WordPress Stats",
       "Yandex Hosting",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "ogonconsulting.com",
-    "title": "Customer-Driven Solutions for Guidewire InsuranceNow",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 62,
-    "tech_spend": 1004840,
-    "crawled_at": "2025-12-12T20:28:56.066035996Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Guidewire",
-      "Tailwind CSS",
-      "WF Cookie Consent"
     ]
   },
   {
