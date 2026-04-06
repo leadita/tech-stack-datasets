@@ -1,8 +1,6 @@
 domain,title,business_name,country,seo_score,tech_spend,crawled_at,technologies
+wmate.fi,Grafana,,,30,11200,2026-04-06T17:10:58.69249129Z,"['Barchart', 'Contento', 'Express', 'GitHub Hosting', 'Google My Business', 'Grafana', 'Nginx', 'UTF-8']"
 malaysia-grafana.iqx.no,Grafana,,,30,1260,2026-04-04T10:05:42.826717555Z,"['Barchart', 'Cloudflare', 'Cloudflare CDN', 'Cloudflare Web Analytics', 'Express', 'GitHub Hosting', 'Grafana', 'UTF-8', 'Yandex Hosting']"
-pedrosantiagodelrey.com,Grafana,,,30,1200,2026-04-04T07:23:20.007624381Z,"['Apache', 'Barchart', 'Express', 'GZIP Module', 'GitHub Hosting', 'Google My Business', 'Grafana', 'Nginx', 'UTF-8']"
-monit.i4w.pt,Grafana,,,30,1200,2026-04-04T03:19:57.419030298Z,"['Barchart', 'Express', 'GZIP Module', 'GitHub Hosting', 'Grafana', 'Nginx', 'UTF-8', 'Ubuntu']"
 iot-dgr.com,Grafana,,,20,1200,2026-04-01T21:13:32.773387542Z,"['Barchart', 'Express', 'GZIP Module', 'GitHub Hosting', 'Grafana', 'Nginx', 'UTF-8', 'Ubuntu']"
 stage-rheo.com,Rheo,,,30,1260,2026-03-20T17:12:01.062225421Z,"['Amazon', 'Apache', 'Barchart', 'GitHub Hosting', 'Google Analytics', 'Google Tag Manager', 'Grafana', 'UTF-8']"
-stromfee.info,StromfeeME: Power-Analysen,,,40,1200,2026-03-18T09:09:37.902009365Z,"['Barchart', 'Express', 'GZIP Module', 'GitHub Hosting', 'Google My Business', 'Grafana', 'Nginx', 'UTF-8', 'Ubuntu']"
 vikshep.com,Arya Shakti,,,40,32899,2025-11-12T12:28:47.830657816Z,"['AAPT', 'Apache', 'DAV', 'Financial Services Guide', 'GitHub Hosting', 'Google My Business', 'Grafana', 'KVH', 'Ntent', 'On The Map', 'Paessler', 'RawGit', 'SMC', 'Subversion', 'UTF-8']"
