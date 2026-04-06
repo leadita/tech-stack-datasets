@@ -1,6 +1,6 @@
 # Companies Using Media.net (Live Dataset 2026)
 
-This folder contains an active list of 10,616 companies using **Media.net**. 
+This folder contains an active list of 10,634 companies using **Media.net**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 10,616
+- **Total Leads:** 10,634
 - **Verified:** Yes
-- **Last Updated:** 2026-04-05 11:00 UTC
+- **Last Updated:** 2026-04-06 11:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **10,616+** companies using Media.net.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **10,634+** companies using Media.net.
 
 [**⚡ Unlock the Full Media.net List with Contact Details**](https://leadita.com/leads/companies-using-media.net)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-05 11:00 UTC*
+*Last updated: 2026-04-06 11:00 UTC*
 *Data source: Leadita Technographic Intelligence*
