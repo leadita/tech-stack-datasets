@@ -1,5 +1,57 @@
 [
   {
+    "domain": "blackjackworld.co.uk",
+    "title": "Blackjack World UK - Expert Tips, Strategies & Casino Reviews",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 4652,
+    "crawled_at": "2026-04-06T10:59:20.003905645Z",
+    "technologies": [
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "DAV",
+      "Django",
+      "Gambling Content",
+      "IcoMoon",
+      "Matomo",
+      "Matomo Tag Manager",
+      "NFOrce Internet",
+      "QUIC",
+      "Research.net",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "usap.co.ke",
+    "title": "Home - USAP United Super Alliance Party",
+    "business_name": "",
+    "country": "KEN",
+    "seo_score": 70,
+    "tech_spend": 16500,
+    "crawled_at": "2026-04-05T22:08:20.003171013Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Create React App",
+      "Django",
+      "Fireblade",
+      "GZIP Module",
+      "NFOrce Internet",
+      "Nginx",
+      "Perl",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "esignatures-plugin-dev1.b12.io",
     "title": "Smart websites at your service | B12",
     "business_name": "",
@@ -83,33 +135,6 @@
       "Tailwind CSS",
       "Unsplash",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "beatscope.store",
-    "title": "BeatScope Store: Premium Audio Gear Reviews & Expert Buying Guides",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 19256,
-    "crawled_at": "2026-04-05T04:35:20.006084396Z",
-    "technologies": [
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Django",
-      "Gambling Content",
-      "IcoMoon",
-      "Matomo",
-      "Matomo Tag Manager",
-      "NFOrce Internet",
-      "QUIC",
-      "RegOnline",
-      "Tailwind CSS",
-      "UTF-8",
-      "Way",
-      "jQuery"
     ]
   },
   {
