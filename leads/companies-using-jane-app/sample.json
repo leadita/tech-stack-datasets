@@ -1,5 +1,27 @@
 [
   {
+    "domain": "frictio.app",
+    "title": "Frictio — Home Care in Motion",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 5980,
+    "crawled_at": "2026-04-06T10:56:20.004129392Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Create React App",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Jane App",
+      "Microdata for Google Shopping",
+      "PWA",
+      "Pleroma",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "vietacu.ca",
     "title": "Book Online | Life Care Acupuncture & Natural Medicine Clinic",
     "business_name": "",
