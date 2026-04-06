@@ -1,5 +1,38 @@
 [
   {
+    "domain": "marcianteandco.com",
+    "title": "Marciante and Company",
+    "business_name": "Marciante and Company",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 36280,
+    "crawled_at": "2026-04-05T13:51:32.425075157Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Checkout.com",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Heroku",
+      "K2F",
+      "Klaviyo",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "Swell Rewards",
+      "ThoughtMetric",
+      "UTF-8",
+      "Yotpo",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "krabot.net",
     "title": "Buy Kratom Online: #1 Shop to Order Kratom Powder & More",
     "business_name": "",
@@ -2723,39 +2756,6 @@
       "hCaptcha",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "marcianteandco.com",
-    "title": "Marciante and Company",
-    "business_name": "Marciante and Company",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 36280,
-    "crawled_at": "2025-11-09T03:45:08.984302314Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Checkout.com",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Heroku",
-      "K2F",
-      "Klaviyo",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Swell Rewards",
-      "ThoughtMetric",
-      "UTF-8",
-      "Yotpo",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   }
 ]
