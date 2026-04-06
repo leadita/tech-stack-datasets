@@ -3096,38 +3096,5 @@
       "jQuery",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "tycoproductsolutions.com",
-    "title": "TycoEMEA Product Library Retirement | Johnson Controls",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 299248,
-    "crawled_at": "2025-11-09T11:56:38.879892255Z",
-    "technologies": [
-      "Akamai Global Host",
-      "Aruba",
-      "Content Delivery Network",
-      "Coveo",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Imperva Bot Detection and Mitigation",
-      "Incapsula CDN",
-      "Instagram Follow Button",
-      "Outreach Pro",
-      "PHP",
-      "QUIC",
-      "Sitecore CMS",
-      "Tealium",
-      "Trustarc Cookie Consent",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "YouTube",
-      "eLand",
-      "jQuery"
-    ]
   }
 ]
