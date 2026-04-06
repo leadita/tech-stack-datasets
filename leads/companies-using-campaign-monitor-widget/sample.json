@@ -1,5 +1,55 @@
 [
   {
+    "domain": "stevenfabre.com",
+    "title": "Steven Fabre",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 3088,
+    "crawled_at": "2026-04-06T15:47:19.990124735Z",
+    "technologies": [
+      "Angular",
+      "Campaign Monitor Widget",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Idaq",
+      "Instagram Follow Button",
+      "Medium",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Product Hunt",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "iw0w.com",
+    "title": "iW0W Marketing – Better Marketing by Design",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 15754,
+    "crawled_at": "2026-04-06T06:41:19.978019712Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Campaign Monitor Widget",
+      "Constant Contact",
+      "Divi",
+      "Eber",
+      "Elegant Themes",
+      "EmbedPress",
+      "GZIP Module",
+      "PHP",
+      "SMC",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "forcepaneltechnology.com",
     "title": "AI-first automation for every team · Activepieces",
     "business_name": "",
@@ -367,31 +417,6 @@
       "University or College",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "iw0w.com",
-    "title": "iW0W Marketing – Better Marketing by Design",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 15754,
-    "crawled_at": "2026-03-03T19:05:55.051145029Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Campaign Monitor Widget",
-      "Constant Contact",
-      "Divi",
-      "Eber",
-      "Elegant Themes",
-      "EmbedPress",
-      "GZIP Module",
-      "PHP",
-      "SMC",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress"
     ]
   },
   {
