@@ -1,5 +1,35 @@
 [
   {
+    "domain": "stonemountaincity.org",
+    "title": "Welcome to City of Stone Mountain, GA",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 30493,
+    "crawled_at": "2026-04-05T21:14:19.978246074Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "AddThis",
+      "AddThis for Wordpress",
+      "Adult Content",
+      "Docebo",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "K2F",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "UserWay",
+      "WordPress",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "vittorionardone.it",
     "title": "Vittorio Nardone — Fractional CTO & Software Strategy",
     "business_name": "",
