@@ -1,6 +1,6 @@
 # Companies Using Elfsight (Live Dataset 2026)
 
-This folder contains an active list of 62,144 companies using **Elfsight**. 
+This folder contains an active list of 62,552 companies using **Elfsight**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 62,144
+- **Total Leads:** 62,552
 - **Verified:** Yes
-- **Last Updated:** 2026-04-05 20:45 UTC
+- **Last Updated:** 2026-04-06 20:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **62,144+** companies using Elfsight.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **62,552+** companies using Elfsight.
 
 [**⚡ Unlock the Full Elfsight List with Contact Details**](https://leadita.com/leads/companies-using-elfsight)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-05 20:45 UTC*
+*Last updated: 2026-04-06 20:45 UTC*
 *Data source: Leadita Technographic Intelligence*
