@@ -1,6 +1,6 @@
 # Companies Using CINC (Live Dataset 2026)
 
-This folder contains an active list of 829 companies using **CINC**. 
+This folder contains an active list of 841 companies using **CINC**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 829
+- **Total Leads:** 841
 - **Verified:** Yes
-- **Last Updated:** 2026-04-05 21:30 UTC
+- **Last Updated:** 2026-04-06 21:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **829+** companies using CINC.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **841+** companies using CINC.
 
 [**⚡ Unlock the Full CINC List with Contact Details**](https://leadita.com/leads/companies-using-cinc)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-05 21:30 UTC*
+*Last updated: 2026-04-06 21:30 UTC*
 *Data source: Leadita Technographic Intelligence*
