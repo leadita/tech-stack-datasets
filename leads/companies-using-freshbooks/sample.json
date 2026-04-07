@@ -1,5 +1,28 @@
 [
   {
+    "domain": "spinachreally.com",
+    "title": "Spencer Haley",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 697,
+    "crawled_at": "2026-04-06T16:53:20.019541042Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "FreshBooks",
+      "GZIP Module",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "lexact.biz",
     "title": "LexAct",
     "business_name": "167 rue des Marterets ",
@@ -263,29 +286,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "spncrhly.com",
-    "title": "Spencer Haley",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 697,
-    "crawled_at": "2026-03-28T21:45:28.219265151Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "FreshBooks",
-      "GZIP Module",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   },
   {
@@ -2089,28 +2089,6 @@
       "Schema Plugin",
       "Subversion",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "tomgervais.com",
-    "title": "Website of Tom Gervais",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 2899,
-    "crawled_at": "2025-12-23T14:59:28.108797785Z",
-    "technologies": [
-      "Apache",
-      "Font Awesome",
-      "FreshBooks",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Oracle Cloud",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   },
   {

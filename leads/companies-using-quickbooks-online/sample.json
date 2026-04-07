@@ -1,5 +1,58 @@
 [
   {
+    "domain": "anacpa.com",
+    "title": "Home | ACTS CPAs and Advisors, PLLC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 21720,
+    "crawled_at": "2026-04-07T01:50:19.989396337Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Teams",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "aviaccounting.com",
+    "title": "Home | AVI Accounting LLC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 18120,
+    "crawled_at": "2026-04-06T18:08:20.003063339Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "williamsonai.com",
     "title": "Home | Williamson & Associates, Inc",
     "business_name": "",
@@ -926,31 +979,6 @@
     ]
   },
   {
-    "domain": "nextgenerationfirm.com",
-    "title": "Home | ACTS CPAs and Advisors, PLLC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 20520,
-    "crawled_at": "2026-03-24T07:46:27.775947604Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Teams",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services"
-    ]
-  },
-  {
     "domain": "napavalleywinesnob.com",
     "title": "Home | Five Cities CPAs, Inc.",
     "business_name": "",
@@ -1557,29 +1585,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Zoom Video Conferencing"
-    ]
-  },
-  {
-    "domain": "aviaccounting.com",
-    "title": "Home | AVI Accounting LLC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 11920,
-    "crawled_at": "2026-03-06T15:31:07.293059357Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   },
   {
@@ -8511,52 +8516,6 @@
       "UTF-8",
       "Zoom Video Conferencing",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "eftprints.com",
-    "title": "EFTPrints – Printing & Publishing",
-    "business_name": "",
-    "country": "NGA",
-    "seo_score": 65,
-    "tech_spend": 5600,
-    "crawled_at": "2025-11-09T14:29:38.901843802Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Contact Form Plugin",
-      "Daily Deals",
-      "EmbedPress",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "MailChimp for WordPress",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "Nginx",
-      "PHP",
-      "QUIC",
-      "QuickBooks Online",
-      "Schema Plugin",
-      "Slider Revolution",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "WPBakery",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "YouTube Advanced by Embed Plus",
-      "jQuery",
-      "monday.com",
-      "reCAPTCHA"
     ]
   }
 ]
