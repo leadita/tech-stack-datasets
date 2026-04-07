@@ -1,5 +1,31 @@
 [
   {
+    "domain": "apollobillingsolutions.com",
+    "title": "Apollo Billing Solutions",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 5296,
+    "crawled_at": "2026-04-07T12:46:42.678608221Z",
+    "technologies": [
+      "Alternate Protocol",
+      "FormSubmit",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Line2",
+      "Practice Fusion",
+      "QUIC",
+      "Thank You",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "billingfreedom.com",
     "title": "#1 Medical Billing Company | Medical Billing Services in the US",
     "business_name": "BillingFreedom",
@@ -1614,32 +1640,6 @@
       "WordPress Related Posts",
       "eClinicalWorks",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "apollobillingsolutions.com",
-    "title": "Apollo Billing Solutions",
-    "business_name": "",
-    "country": "",
-    "seo_score": 70,
-    "tech_spend": 23772,
-    "crawled_at": "2025-11-09T18:08:38.883722477Z",
-    "technologies": [
-      "Alternate Protocol",
-      "FormSubmit",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Line2",
-      "Practice Fusion",
-      "QUIC",
-      "Thank You",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight",
-      "YouTube"
     ]
   }
 ]
