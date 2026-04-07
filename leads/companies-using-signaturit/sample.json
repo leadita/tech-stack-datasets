@@ -1,5 +1,28 @@
 [
   {
+    "domain": "signaturitinternational.com",
+    "title": "Signaturit International",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 3643,
+    "crawled_at": "2026-04-07T00:19:04.392552751Z",
+    "technologies": [
+      "Apache",
+      "Express",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "PWA",
+      "Signaturit",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "sqaas.io",
     "title": "SqaaS - We help you bridge the gap between Business & Tech",
     "business_name": "",
@@ -24,29 +47,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "signaturitinternational.com",
-    "title": "Signaturit International",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 3643,
-    "crawled_at": "2025-11-09T14:17:38.884205203Z",
-    "technologies": [
-      "Apache",
-      "Express",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "PWA",
-      "Signaturit",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
     ]
   }
 ]
