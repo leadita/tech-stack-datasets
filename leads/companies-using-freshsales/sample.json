@@ -1,12 +1,40 @@
 [
   {
-    "domain": "smoothweblife.com",
+    "domain": "nexterp.ae",
+    "title": "NextERP - #1 EdTech Software Solutions & Services Provider",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 9980,
+    "crawled_at": "2026-04-07T07:44:19.995818058Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "CentOS",
+      "Freshsales",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "OpenSSL",
+      "PHP",
+      "RM Education",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "smoothweblife.info",
     "title": "Reliable Website & Digital Support for Growing Businesses",
     "business_name": "SmoothWebLife Inc",
     "country": "CAN",
     "seo_score": 77,
     "tech_spend": 26609,
-    "crawled_at": "2026-04-06T12:50:19.980012763Z",
+    "crawled_at": "2026-04-07T02:02:20.003850453Z",
     "technologies": [
       "AWS WAF Challenge",
       "Alternate Protocol",
@@ -49,6 +77,37 @@
       "Yandex Hosting",
       "YouTube",
       "jQuery"
+    ]
+  },
+  {
+    "domain": "utilitycloud.uk",
+    "title": "Transform traditional utility sales into seamless eCommerce",
+    "business_name": "",
+    "country": "NOR",
+    "seo_score": 77,
+    "tech_spend": 178677,
+    "crawled_at": "2026-04-06T17:59:19.984805115Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "DAV",
+      "Freshsales",
+      "Full Media",
+      "GZIP Module",
+      "Google My Business",
+      "Google Related Website Sites",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand",
+      "shadcn ui"
     ]
   },
   {
@@ -142,37 +201,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "altere.dk",
-    "title": "Transform traditional utility sales into seamless eCommerce",
-    "business_name": "",
-    "country": "NOR",
-    "seo_score": 77,
-    "tech_spend": 178677,
-    "crawled_at": "2026-04-04T05:50:20.00740225Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DAV",
-      "Freshsales",
-      "Full Media",
-      "GZIP Module",
-      "Google My Business",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand",
-      "shadcn ui"
     ]
   },
   {
@@ -2055,34 +2083,6 @@
       "Wix Media",
       "YouTube",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "nexterp.ae",
-    "title": "NextERP - #1 EdTech Software Solutions & Services Provider",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 9980,
-    "crawled_at": "2025-12-22T07:22:38.315935534Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "CentOS",
-      "Freshsales",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "OpenSSL",
-      "PHP",
-      "RM Education",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "YouTube"
     ]
   },
   {
