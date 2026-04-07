@@ -4894,45 +4894,5 @@
       "eLand",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "guidemeinthegarden.co.uk",
-    "title": "Facebook",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 116155,
-    "crawled_at": "2025-11-09T14:47:38.903792533Z",
-    "technologies": [
-      "Adyen",
-      "Amazon Advertising Sizmek Ad Suite",
-      "Amazon CloudFront",
-      "Amazon WAF Blocked",
-      "AppNexus Direct",
-      "Apture Linking Platform",
-      "Booking Affiliate",
-      "Cloudflare",
-      "Content Delivery Network",
-      "DoubleClick Bid Manager",
-      "Facebook CDN",
-      "Facebook Reseller",
-      "Fastly CDN",
-      "FormSubmit",
-      "Giphy",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Jetpack Site Accelerator",
-      "PHP",
-      "Pantheon",
-      "QUIC",
-      "Salesforce Hosted",
-      "UTF-8",
-      "Workday",
-      "about.me"
-    ]
   }
 ]
