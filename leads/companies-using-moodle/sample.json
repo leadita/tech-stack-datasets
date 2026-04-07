@@ -1,5 +1,28 @@
 [
   {
+    "domain": "btz-moodle.de",
+    "title": "Home | BTZ -Moodle",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 67,
+    "tech_spend": 29000,
+    "crawled_at": "2026-04-07T12:41:20.002557613Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Google My Business",
+      "Moodle",
+      "NFOrce Internet",
+      "PHP",
+      "Tailwind CSS",
+      "Totara",
+      "Twitter Ads",
+      "UTF-8",
+      "Ubuntu",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "streamlearn.us",
     "title": "StreamLearn Courses",
     "business_name": "",
@@ -774,29 +797,6 @@
       "Moodle",
       "NFOrce Internet",
       "PHP",
-      "Totara",
-      "Twitter Ads",
-      "UTF-8",
-      "Ubuntu",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "btz-moodle.de",
-    "title": "Home | BTZ -Moodle",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 67,
-    "tech_spend": 29000,
-    "crawled_at": "2025-12-24T05:31:38.316522416Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Google My Business",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "Tailwind CSS",
       "Totara",
       "Twitter Ads",
       "UTF-8",
