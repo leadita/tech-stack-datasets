@@ -1,5 +1,145 @@
 [
   {
+    "domain": "sirenia.io",
+    "title": "Home - Sirenia",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 20297,
+    "crawled_at": "2026-04-07T18:53:20.003879652Z",
+    "technologies": [
+      "Bulma",
+      "Financial Services Guide",
+      "Formspree",
+      "Gridsome",
+      "IPFS",
+      "KVH",
+      "No-Q",
+      "SMC",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "personalwebsites.org",
+    "title": "PersonalWebsites.org - Discover Personal Websites",
+    "business_name": "",
+    "country": "BRA",
+    "seo_score": 72,
+    "tech_spend": 427336,
+    "crawled_at": "2026-04-07T18:47:19.998397862Z",
+    "technologies": [
+      "ASP.NET Core",
+      "Alternate Protocol",
+      "Angular",
+      "Astro",
+      "Better Lead Generation Services",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "Corporate Governance and Regulatory Compliance",
+      "Craft",
+      "Envoy",
+      "Express",
+      "Fireblade",
+      "FreeBSD",
+      "Gambling Content",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "IcoMoon",
+      "InitiativeS",
+      "Jekyll",
+      "NFOrce Internet",
+      "PHP",
+      "Perl",
+      "Python",
+      "SAP",
+      "Salesforce Hosted",
+      "Svelte",
+      "Tailwind CSS",
+      "TiddlyWiki",
+      "University or College",
+      "Unix",
+      "Visual Studio",
+      "Woo Themes",
+      "eLand",
+      "symfony PHP Framework"
+    ]
+  },
+  {
+    "domain": "damagelabs.ca",
+    "title": "Damage Labs game studio pre-accelerator for underrepresented founders - Damage Labs",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 558,
+    "crawled_at": "2026-04-07T15:56:20.002344308Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Gridsome",
+      "Netlify",
+      "No-Q",
+      "Stripe",
+      "Subversion",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "zeeshanali.me",
+    "title": "Technical Consultant | Solution Architect | Engineering Lead | Zeeshan Ali",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 968,
+    "crawled_at": "2026-04-07T14:14:19.988071746Z",
+    "technologies": [
+      "Apache",
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "Gridsome",
+      "Heroku",
+      "Netlify",
+      "Next.js",
+      "Nginx",
+      "Pleroma",
+      "Python",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "szkolawlombard.org",
+    "title": "Polska Szkoła w Lombard",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 25000,
+    "crawled_at": "2026-04-06T23:56:20.007887077Z",
+    "technologies": [
+      "Apache",
+      "Ektron",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Gridsome",
+      "SMC",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "annemeije.nl",
     "title": "Totat, licht- geluid- en theatertechniek - Totat, licht- geluid- en theatertechniek",
     "business_name": "",
@@ -4974,28 +5114,6 @@
     ]
   },
   {
-    "domain": "damagelabs.ca",
-    "title": "Damage Labs game studio pre-accelerator for underrepresented founders - Damage Labs",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 87,
-    "tech_spend": 558,
-    "crawled_at": "2026-01-23T21:50:12.714124044Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "Gridsome",
-      "Netlify",
-      "No-Q",
-      "Stripe",
-      "Subversion",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "binayabaral.com.np",
     "title": "Home - Binaya Baral",
     "business_name": "",
@@ -7129,34 +7247,6 @@
     ]
   },
   {
-    "domain": "zeeshanali.me",
-    "title": "Technical Consultant | Solution Architect | Engineering Lead | Zeeshan Ali",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 968,
-    "crawled_at": "2025-12-24T11:28:38.351178035Z",
-    "technologies": [
-      "Apache",
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Gridsome",
-      "Heroku",
-      "Netlify",
-      "Next.js",
-      "Nginx",
-      "Pleroma",
-      "Python",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "marenawhitcher.com",
     "title": "Marena Whitcher - Marena Whitcher",
     "business_name": "",
@@ -8882,26 +8972,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "szkolawlombard.org",
-    "title": "Polska Szkoła w Lombard",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 25000,
-    "crawled_at": "2025-12-12T03:07:24.779814498Z",
-    "technologies": [
-      "Apache",
-      "Ektron",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Gridsome",
-      "SMC",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
@@ -11691,55 +11761,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "evflux.pro",
-    "title": "Home - evflux.pro : ID3 tech",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 40598,
-    "crawled_at": "2025-11-16T23:17:04.990974115Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "HMDG",
-      "Instagram Follow Button",
-      "KVH",
-      "Netlify",
-      "No-Q",
-      "QUIC",
-      "Subversion",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "dvandehaterd.nl",
-    "title": "Daniël van de Haterd - Daniël van de Haterd",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 67,
-    "tech_spend": 1268,
-    "crawled_at": "2025-11-16T21:50:05.019895139Z",
-    "technologies": [
-      "Bulma",
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "UTF-8",
-      "YouTube",
-      "jsDelivr"
     ]
   }
 ]
