@@ -1,5 +1,35 @@
 [
   {
+    "domain": "tecno-boga.cl",
+    "title": "Tecnoboga | Bienvenidos",
+    "business_name": "",
+    "country": "CHL",
+    "seo_score": 77,
+    "tech_spend": 53408,
+    "crawled_at": "2026-04-07T07:49:03.474376983Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Lightwidget",
+      "Netlify",
+      "UTF-8",
+      "VTEX Personalization",
+      "eLand",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "yaleelectricsupply.com",
     "title": "Yale Electric Supply | Electrical Supply in PA, NJ & DE",
     "business_name": "",
@@ -576,36 +606,6 @@
       "VTEX Personalization",
       "Yandex Hosting",
       "Zeald"
-    ]
-  },
-  {
-    "domain": "tecnoboga.cl",
-    "title": "Tecnoboga | Bienvenidos",
-    "business_name": "",
-    "country": "CHL",
-    "seo_score": 72,
-    "tech_spend": 53408,
-    "crawled_at": "2026-01-16T17:17:58.991062982Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Lightwidget",
-      "Netlify",
-      "UTF-8",
-      "VTEX Personalization",
-      "eLand",
-      "jsDelivr"
     ]
   },
   {
