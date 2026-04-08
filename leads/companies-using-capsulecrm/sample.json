@@ -1,12 +1,12 @@
 [
   {
-    "domain": "stixpropertyinspections.ca",
+    "domain": "stixpropertyinspections.com",
     "title": "Home Inspections Kelowna | Stix Property Inspections, Kelowna, BC",
     "business_name": "",
     "country": "CAN",
     "seo_score": 77,
     "tech_spend": 11437,
-    "crawled_at": "2026-04-06T23:53:20.013031666Z",
+    "crawled_at": "2026-04-08T00:56:20.015718586Z",
     "technologies": [
       "Akismet",
       "Alternate Protocol",
@@ -39,6 +39,31 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "thebrandstrategy.co.uk",
+    "title": "The Brand Strategy",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 67,
+    "tech_spend": 62480,
+    "crawled_at": "2026-04-07T17:56:20.024492297Z",
+    "technologies": [
+      "CapsuleCRM",
+      "Framer Sites",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Tag Manager",
+      "K2F",
+      "KVH",
+      "LinkedIn Insights",
+      "LinkedIn Pixel",
+      "Ntent",
+      "RM Education",
+      "Yandex Hosting",
+      "Zeald"
     ]
   },
   {
