@@ -1,5 +1,53 @@
 [
   {
+    "domain": "hoseki.app",
+    "title": "Hoseki",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 3588,
+    "crawled_at": "2026-04-08T03:08:20.01331051Z",
+    "technologies": [
+      "ButterCMS",
+      "Chakra UI",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "LinkedIn Insights",
+      "LinkedIn Pixel",
+      "Next.js",
+      "Pleroma",
+      "Twitter Ads",
+      "Twitter Analytics",
+      "UTF-8",
+      "Vercel",
+      "Workable",
+      "Yahoo Finance Widget",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "mindmetrix.com",
+    "title": "For Providers | The MindMetrix Comprehensive Assessment",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 1188,
+    "crawled_at": "2026-04-07T18:37:58.26495509Z",
+    "technologies": [
+      "ButterCMS",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Medium",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "dablestate.shop",
     "title": "DABL Real Estate",
     "business_name": "",
@@ -1769,62 +1817,6 @@
       "Vector Internet Services",
       "YouTube",
       "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "terriemeryagelessbeauty.com",
-    "title": "Terri Emery Ageless Beauty",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 34135,
-    "crawled_at": "2025-11-10T02:36:30.258638376Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "ButterCMS",
-      "CloudFront",
-      "Contentstack",
-      "ETranslate",
-      "Ecwid Ecommerce Shopping Cart",
-      "Ethy",
-      "Fireblade",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Nginx",
-      "PWA",
-      "QUIC",
-      "UTF-8",
-      "Unsplash",
-      "YouTube",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "mindmetrix.com",
-    "title": "For Providers | The MindMetrix Comprehensive Assessment",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 77,
-    "tech_spend": 3588,
-    "crawled_at": "2025-11-09T19:41:30.850318167Z",
-    "technologies": [
-      "Amazon",
-      "ButterCMS",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Medium",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "YouTube",
       "shadcn ui"
     ]
   }
