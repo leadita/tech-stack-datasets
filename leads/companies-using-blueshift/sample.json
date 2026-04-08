@@ -1,5 +1,33 @@
 [
   {
+    "domain": "southerncomfort.org",
+    "title": "Southern Comfort",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 264896,
+    "crawled_at": "2026-04-07T15:32:19.976890186Z",
+    "technologies": [
+      "Adobe Analytics",
+      "Adobe Marketing Cloud",
+      "Apture Linking Platform",
+      "Blueshift",
+      "CM Commerce",
+      "Content Delivery Network",
+      "Curator",
+      "Fastly",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "OneTrust Domain Verification",
+      "Schema Plugin",
+      "Twitter Ads",
+      "UTF-8",
+      "Vimeo",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "campaign-genius.com",
     "title": "Campaign Genius",
     "business_name": "Campaign-Genius",
