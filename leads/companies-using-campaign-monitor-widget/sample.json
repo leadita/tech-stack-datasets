@@ -1,16 +1,15 @@
 [
   {
-    "domain": "emailbtn.net",
-    "title": "Bulletproof email buttons | Campaign Monitor",
+    "domain": "emailbg.net",
+    "title": "Bulletproof background images | Campaign Monitor",
     "business_name": "",
     "country": "",
     "seo_score": 62,
     "tech_spend": 78548,
-    "crawled_at": "2026-04-07T05:29:20.005887826Z",
+    "crawled_at": "2026-04-07T19:20:20.014512389Z",
     "technologies": [
       "AdRoll",
       "Amazon CloudFront",
-      "Amazon WAF Blocked",
       "AppNexus Direct",
       "Bizo",
       "Campaign Monitor Widget",
