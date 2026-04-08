@@ -1,5 +1,38 @@
 [
   {
+    "domain": "circadify.com",
+    "title": "Circadify | Fully Customizable Contactless Vitals Detection",
+    "business_name": "Circadify",
+    "country": "VEN",
+    "seo_score": 77,
+    "tech_spend": 83956,
+    "crawled_at": "2026-04-07T23:59:19.993600851Z",
+    "technologies": [
+      "Adify",
+      "Apollo IO",
+      "Apture Linking Platform",
+      "AthenaHealth",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Ethy",
+      "Fireblade",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Practice Fusion",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Waveform Technology",
+      "eClinicalWorks",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "apollobillingsolutions.com",
     "title": "Apollo Billing Solutions",
     "business_name": "",

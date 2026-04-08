@@ -1,5 +1,27 @@
 [
   {
+    "domain": "counsellingclient.com",
+    "title": "CounsellingClient - Practice software for counselling professionals",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 588,
+    "crawled_at": "2026-04-07T23:32:19.982431707Z",
+    "technologies": [
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pico CSS",
+      "QUIC",
+      "Tailwind CSS",
+      "TherapyNotes",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "oasistechgroup.com",
     "title": "Oasis Technologies Group, LLC",
     "business_name": "",

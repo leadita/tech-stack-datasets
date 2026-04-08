@@ -1,5 +1,32 @@
 [
   {
+    "domain": "clunypeak.ca",
+    "title": "CLUNY PEAK",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 9002,
+    "crawled_at": "2026-04-08T05:36:49.084353205Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "BrandCrowd Website Builder",
+      "CoreUI",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Jane App",
+      "Nuxt.js",
+      "Perl",
+      "QUIC",
+      "UTF-8",
+      "Unsplash"
+    ]
+  },
+  {
     "domain": "frictio.app",
     "title": "Frictio — Home Care in Motion",
     "business_name": "",
@@ -2808,33 +2835,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Zeffy"
-    ]
-  },
-  {
-    "domain": "clunypeak.ca",
-    "title": "CLUNY PEAK",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 9002,
-    "crawled_at": "2025-11-09T23:10:11.639381121Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "BrandCrowd Website Builder",
-      "CoreUI",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Jane App",
-      "Nuxt.js",
-      "Perl",
-      "QUIC",
-      "UTF-8",
-      "Unsplash"
     ]
   }
 ]
