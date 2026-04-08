@@ -1,5 +1,135 @@
 [
   {
+    "domain": "liuzaoqi.com",
+    "title": "Home | Liuzaoqi",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 600,
+    "crawled_at": "2026-04-08T16:50:20.007041464Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "KaTeX",
+      "Perl",
+      "Python",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "yap.ad",
+    "title": "yap.ad",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-04-08T14:35:20.003788304Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "deepaffex.ai",
+    "title": "DeepAffex® | DeepAffex®",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 17500,
+    "crawled_at": "2026-04-08T07:11:20.01600234Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "Envoy",
+      "Fireblade",
+      "GitHub Hosting",
+      "Istio",
+      "JIRA",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "University or College",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "mordheimer.net",
+    "title": "The New Mordheimer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 27,
+    "tech_spend": "",
+    "crawled_at": "2026-04-08T05:44:20.019368655Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Perl",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "apidocsaccelerator.com",
+    "title": "API Docs Accelerator - Turn Your API Docs Into a Growth Engine",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-04-08T05:14:20.001045005Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Docusaurus",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Netlify",
+      "Next.js",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "maryslittlelambschildcare.org",
+    "title": "Home | Mary's Little Lambs",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 1428,
+    "crawled_at": "2026-04-08T00:26:20.004080586Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Express",
+      "Google Maps",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Oddle",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "ageapi.org",
     "title": "OpenAge Developer Documentation",
     "business_name": "",
@@ -4327,48 +4457,6 @@
     ]
   },
   {
-    "domain": "leadboost.co",
-    "title": "LeadBoost - Turn Your API Docs Into a Growth Engine",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 948,
-    "crawled_at": "2026-02-01T16:55:48.865031902Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Docusaurus",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Netlify",
-      "Next.js",
-      "PWA",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "devyap.ad",
-    "title": "yap.ad",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2026-02-01T11:07:48.861761035Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "husarion.com",
     "title": "Husarion | Autonomous Mobile Robots Made Simple",
     "business_name": "",
@@ -4419,25 +4507,6 @@
       "UTF-8",
       "University or College",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "mordheimer.net",
-    "title": "The New Mordheimer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 27,
-    "tech_spend": "",
-    "crawled_at": "2026-01-30T20:31:48.897074018Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Perl",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {
@@ -12539,77 +12608,6 @@
       "QUIC",
       "To Top",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "nearkim.coffee",
-    "title": "In Keun Kim | nearKim.coffee",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 600,
-    "crawled_at": "2025-11-13T18:08:39.952408271Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "KaTeX",
-      "Perl",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "smashbrosshineon.com",
-    "title": "SSB6 | Smash 6",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 20000,
-    "crawled_at": "2025-11-13T12:20:39.94315725Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Google Related Website Sites",
-      "K2F",
-      "Nationwide Mortgage Licensing System and Registry",
-      "Netlify",
-      "Perl",
-      "SMC",
-      "Subversion",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "lailai.one",
-    "title": "lailai's Home",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 82,
-    "tech_spend": 4800,
-    "crawled_at": "2025-11-13T04:53:30.962220114Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Baidu Cloud",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "KaTeX",
-      "License Buttons",
-      "Perl",
-      "Python",
-      "Tailwind CSS",
-      "Telegram",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
