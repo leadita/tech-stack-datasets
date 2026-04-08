@@ -1,5 +1,35 @@
 [
   {
+    "domain": "thames.ai",
+    "title": "simplify, and add lightness",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 541620,
+    "crawled_at": "2026-04-08T05:25:34.75705829Z",
+    "technologies": [
+      "Broadridge",
+      "Corporate Governance and Regulatory Compliance",
+      "Express",
+      "Financial Industry Regulatory Authority",
+      "Fireblade",
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Interchange",
+      "NFOrce Internet",
+      "PWA",
+      "Perl",
+      "Prospective",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "acolin.net",
     "title": "Acolin – Leading the way in fund distribution support services",
     "business_name": "",
@@ -2441,37 +2471,6 @@
       "WordPress Multisite",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "thames.ai",
-    "title": "ultra high net worth solutions",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 556620,
-    "crawled_at": "2025-11-09T23:05:38.882010627Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Broadridge",
-      "Corporate Governance and Regulatory Compliance",
-      "Express",
-      "Financial Industry Regulatory Authority",
-      "Fireblade",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Interchange",
-      "NFOrce Internet",
-      "PWA",
-      "Perl",
-      "Prospective",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
     ]
   }
 ]
