@@ -345,27 +345,5 @@
       "Yahoo Finance Widget",
       "monday.com"
     ]
-  },
-  {
-    "domain": "arbtr.ai",
-    "title": "Arbtr.ai",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 17060,
-    "crawled_at": "2025-11-19T15:24:19.456783555Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "DAV",
-      "Discourse",
-      "Framer Sites",
-      "Ntent",
-      "QUIC",
-      "SMC",
-      "Yandex Hosting",
-      "Zeald"
-    ]
   }
 ]
