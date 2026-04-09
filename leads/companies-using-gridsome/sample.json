@@ -1,5 +1,95 @@
 [
   {
+    "domain": "praktika.co.jp",
+    "title": "株式会社プラクティカ",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 30003,
+    "crawled_at": "2026-04-09T17:35:19.984612592Z",
+    "technologies": [
+      "AAPT",
+      "Content Delivery Network",
+      "DAV",
+      "Financial Services Guide",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "K2F",
+      "KVH",
+      "Netlify",
+      "PHP",
+      "SMC",
+      "Subversion",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "ramzy.tech",
+    "title": "RamzyTech | Your Partner in Digital Solutions",
+    "business_name": "RamzyTech",
+    "country": "EGY",
+    "seo_score": 82,
+    "tech_spend": 52040,
+    "crawled_at": "2026-04-09T08:59:20.044051843Z",
+    "technologies": [
+      "AnyChat",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Cloud Functions",
+      "Google Tag Manager",
+      "Gridsome",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "SMC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "lucianademichelis.com.ar",
+    "title": "Luciana Demichelis - Luciana Demichelis",
+    "business_name": "",
+    "country": "MEX",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-04-09T06:47:20.004336924Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Gridsome",
+      "Instagram Follow Button",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "xn--skvt-woa.com",
+    "title": "Forside - Skævt Reklamebureau | Full service kommunikations- og reklamebureau - Skævt Reklamebureau",
+    "business_name": "",
+    "country": "DNK",
+    "seo_score": 55,
+    "tech_spend": 120,
+    "crawled_at": "2026-04-09T04:38:19.996039408Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Cybot",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gridsome",
+      "Netlify",
+      "UTF-8",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "crowdsearched.com",
     "title": "Crowd Searched - The USA Based Mobile App for Manage Errands",
     "business_name": "",
@@ -7177,32 +7267,6 @@
     ]
   },
   {
-    "domain": "ramzy.tech",
-    "title": "RamzyTech | Your Partner in Digital Solutions",
-    "business_name": "RamzyTech",
-    "country": "EGY",
-    "seo_score": 82,
-    "tech_spend": 52040,
-    "crawled_at": "2025-12-26T15:49:38.312673719Z",
-    "technologies": [
-      "AnyChat",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Cloud Functions",
-      "Google Tag Manager",
-      "Gridsome",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "SMC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "petite-hirondelle.de",
     "title": "Petite Hirondelle",
     "business_name": "",
@@ -7281,31 +7345,6 @@
       "Twitter Ads",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "praktika.co.jp",
-    "title": "株式会社プラクティカ",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 30003,
-    "crawled_at": "2025-12-26T00:04:02.361342265Z",
-    "technologies": [
-      "AAPT",
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "K2F",
-      "KVH",
-      "Netlify",
-      "PHP",
-      "SMC",
-      "Subversion",
-      "UTF-8"
     ]
   },
   {
@@ -11732,44 +11771,6 @@
       "Netlify",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "portfolio.vka.ee",
-    "title": "Viljandi Kultuuriakadeemia - Portfolio - Viljandi Kultuuriakadeemia",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": "",
-    "crawled_at": "2025-11-18T12:00:03.953351689Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Content Delivery Network",
-      "Gridsome",
-      "Netlify",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "zexuan.xyz",
-    "title": "Ze Xuan - Homebase",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 299,
-    "crawled_at": "2025-11-18T05:08:05.024254064Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Bulma",
-      "Content Delivery Network",
-      "Font Awesome",
-      "GitHub Hosting",
-      "Google Related Website Sites",
-      "Gridsome",
-      "Netlify",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
