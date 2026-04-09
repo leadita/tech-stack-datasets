@@ -1,5 +1,33 @@
 [
   {
+    "domain": "edgeofthecouch.com",
+    "title": "EDGE OF THE COUCH",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 1011,
+    "crawled_at": "2026-04-09T08:44:19.98665271Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Jane App",
+      "LiteSpeed",
+      "PHP",
+      "QUIC",
+      "RSVPify",
+      "Theme In WP",
+      "Twenty Twenty",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "clunypeak.ca",
     "title": "CLUNY PEAK",
     "business_name": "",
@@ -1009,34 +1037,6 @@
       "Vimeo",
       "Visx",
       "WP Booking Calendar"
-    ]
-  },
-  {
-    "domain": "edgeofthecouch.com",
-    "title": "EDGE OF THE COUCH",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 1011,
-    "crawled_at": "2026-02-26T23:18:54.306674174Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Jane App",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "RSVPify",
-      "Theme In WP",
-      "Twenty Twenty",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite"
     ]
   },
   {
