@@ -1,5 +1,35 @@
 [
   {
+    "domain": "kurveonwilshire.com",
+    "title": "Modern Apartment Residences in Koreatown",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 61517,
+    "crawled_at": "2026-04-08T22:44:29.107247961Z",
+    "technologies": [
+      "Alternate Protocol",
+      "BetterBot",
+      "CacheFly",
+      "CacheFly CDN",
+      "EmbedPress",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Netseer Direct",
+      "Nginx",
+      "PHP",
+      "PWA",
+      "RealPage",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "towntreeline.com",
     "title": "Town Treeline | Luxury Townhomes & Villas for Rent in Fort Myers, FL",
     "business_name": "Town Treeline Luxury Apartments",
@@ -2361,36 +2391,6 @@
       "Nginx",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "kurveonwilshire.com",
-    "title": "Modern Apartment Residences in Koreatown",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 61708,
-    "crawled_at": "2025-11-10T04:30:00.935241055Z",
-    "technologies": [
-      "Alternate Protocol",
-      "BetterBot",
-      "CacheFly",
-      "CacheFly CDN",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Netseer Direct",
-      "Nginx",
-      "PHP",
-      "PWA",
-      "RealPage",
-      "Theme In WP",
-      "UTF-8",
-      "Vimeo",
-      "WordPress",
-      "WordPress Multisite"
     ]
   }
 ]

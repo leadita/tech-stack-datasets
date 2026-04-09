@@ -1,6 +1,6 @@
 # Companies Using Cloudinary (Live Dataset 2026)
 
-This folder contains an active list of 39,703 companies using **Cloudinary**. 
+This folder contains an active list of 39,856 companies using **Cloudinary**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 39,703
+- **Total Leads:** 39,856
 - **Verified:** Yes
-- **Last Updated:** 2026-04-08 14:15 UTC
+- **Last Updated:** 2026-04-09 14:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **39,703+** companies using Cloudinary.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **39,856+** companies using Cloudinary.
 
 [**⚡ Unlock the Full Cloudinary List with Contact Details**](https://leadita.com/leads/companies-using-cloudinary)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-08 14:15 UTC*
+*Last updated: 2026-04-09 14:15 UTC*
 *Data source: Leadita Technographic Intelligence*
