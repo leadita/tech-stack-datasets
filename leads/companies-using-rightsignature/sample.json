@@ -1,5 +1,42 @@
 [
   {
+    "domain": "yourswiftbizfunds.com",
+    "title": "Swift Business Funding",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 40240,
+    "crawled_at": "2026-04-09T01:44:20.005054682Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Authorize.net",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Fireblade",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Nuxt.js",
+      "QUIC",
+      "RightSignature",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8",
+      "Vector Internet Services",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "sendmesafe.com",
     "title": "Secure Data Exchange. | SendMeSafe | SendMeSafe",
     "business_name": "SendMeSafe",
@@ -858,43 +895,6 @@
       "jQuery",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "yourswiftbizfunds.com",
-    "title": "Swift Business Funding",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 40240,
-    "crawled_at": "2026-02-01T04:50:13.388420034Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "Authorize.net",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Nuxt.js",
-      "QUIC",
-      "RightSignature",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "Vector Internet Services",
-      "reCAPTCHA"
     ]
   },
   {
@@ -2133,26 +2133,6 @@
       "RightSignature",
       "Subversion",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "taxprepetcbycam.com",
-    "title": "Tax Preparation Etc by Cam - Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 47,
-    "tech_spend": 240,
-    "crawled_at": "2025-11-10T08:09:57.683662512Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Google My Business",
-      "Google Related Website Sites",
-      "RightSignature",
-      "UTF-8",
-      "Weebly",
-      "Yelp Badge",
-      "reCAPTCHA"
     ]
   }
 ]

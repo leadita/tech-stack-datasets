@@ -1,5 +1,38 @@
 [
   {
+    "domain": "inalchemysolutions.co",
+    "title": "Health and Life Insurance",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 39367,
+    "crawled_at": "2026-04-09T12:56:19.980331285Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Authorize.net",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Fireblade",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "KVH",
+      "Nuxt.js",
+      "PandaDoc",
+      "Perl",
+      "Sherpa",
+      "UTF-8",
+      "WordPress",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "odomotor.com",
     "title": "Odomotor - Drive. Record. Review.",
     "business_name": "",
