@@ -1,5 +1,46 @@
 [
   {
+    "domain": "gonebutnotforgotten.site",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 1260,
+    "crawled_at": "2026-04-09T10:29:20.009038543Z",
+    "technologies": [
+      "Apache",
+      "Barchart",
+      "Express",
+      "GitHub Hosting",
+      "Google Forms",
+      "Google My Business",
+      "Grafana",
+      "UTF-8",
+      "Yandex Hosting"
+    ]
+  },
+  {
+    "domain": "showroom01.nmx.cl",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 11200,
+    "crawled_at": "2026-04-09T04:26:20.000994695Z",
+    "technologies": [
+      "Apache",
+      "Barchart",
+      "Contento",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Grafana",
+      "OpenResty",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "vortlager-damm.de",
     "title": "Grafana",
     "business_name": "",
@@ -18,61 +59,23 @@
     ]
   },
   {
-    "domain": "wmate.fi",
+    "domain": "pedrosantiagodelrey.com",
     "title": "Grafana",
     "business_name": "",
     "country": "",
     "seo_score": 30,
-    "tech_spend": 11200,
-    "crawled_at": "2026-04-06T17:10:58.69249129Z",
+    "tech_spend": 1200,
+    "crawled_at": "2026-04-04T07:23:20.007624381Z",
     "technologies": [
+      "Apache",
       "Barchart",
-      "Contento",
       "Express",
+      "GZIP Module",
       "GitHub Hosting",
       "Google My Business",
       "Grafana",
       "Nginx",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "malaysia-grafana.iqx.no",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 1260,
-    "crawled_at": "2026-04-04T10:05:42.826717555Z",
-    "technologies": [
-      "Barchart",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Express",
-      "GitHub Hosting",
-      "Grafana",
-      "UTF-8",
-      "Yandex Hosting"
-    ]
-  },
-  {
-    "domain": "iot-dgr.com",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 20,
-    "tech_spend": 1200,
-    "crawled_at": "2026-04-01T21:13:32.773387542Z",
-    "technologies": [
-      "Barchart",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Grafana",
-      "Nginx",
-      "UTF-8",
-      "Ubuntu"
     ]
   },
   {
@@ -92,6 +95,26 @@
       "Google Tag Manager",
       "Grafana",
       "UTF-8"
+    ]
+  },
+  {
+    "domain": "stromfee.info",
+    "title": "StromfeeME: Power-Analysen",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 1200,
+    "crawled_at": "2026-03-18T09:09:37.902009365Z",
+    "technologies": [
+      "Barchart",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Grafana",
+      "Nginx",
+      "UTF-8",
+      "Ubuntu"
     ]
   },
   {
