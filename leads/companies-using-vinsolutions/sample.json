@@ -1,5 +1,26 @@
 [
   {
+    "domain": "contactterautomotive.com",
+    "title": "AI Platform for Car Dealerships | Contactter.ai | Contactter.ai",
+    "business_name": "Silent Partner AI",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 20432,
+    "crawled_at": "2026-04-09T04:56:20.033025431Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Calendly",
+      "Content Delivery Network",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel",
+      "VinSolutions",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "arizonamuscle.com",
     "title": "Arizona Muscle - Porsche, Exotic and Specialty Car Sales",
     "business_name": "Arizona Muscle - Porsche, Exotic and Specialty Car Sales",
@@ -862,28 +883,6 @@
       "jQuery",
       "jsDelivr",
       "vAuto"
-    ]
-  },
-  {
-    "domain": "usecontactter.com",
-    "title": "Contactter.ai | Complete AI Platform for Automotive Dealerships",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 22872,
-    "crawled_at": "2026-01-31T23:46:48.882425747Z",
-    "technologies": [
-      "Calendly",
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel",
-      "VinSolutions",
-      "YouTube"
     ]
   },
   {
