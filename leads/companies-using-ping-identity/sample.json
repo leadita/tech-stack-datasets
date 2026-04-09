@@ -1,5 +1,28 @@
 [
   {
+    "domain": "craftlabs.net",
+    "title": "CRAFTLabs - Custom Software Solutions for Your Business",
+    "business_name": "",
+    "country": "CHL",
+    "seo_score": 82,
+    "tech_spend": 62908,
+    "crawled_at": "2026-04-09T06:44:34.493606248Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Astro",
+      "Bulma",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "Ping Identity",
+      "QUIC",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "nickjgraham.com",
     "title": "Nick Graham - Principal Infrastructure Engineer",
     "business_name": "",
@@ -1236,29 +1259,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "craftlabs.net",
-    "title": "CRAFTLabs - Custom Software Solutions for Your Business",
-    "business_name": "CRAFTLabs",
-    "country": "CHL",
-    "seo_score": 82,
-    "tech_spend": 62908,
-    "crawled_at": "2025-11-10T07:05:38.888745339Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Astro",
-      "Bulma",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Ping Identity",
-      "QUIC",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]
