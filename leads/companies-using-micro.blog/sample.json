@@ -1,5 +1,134 @@
 [
   {
+    "domain": "afterword.blog",
+    "title": "Bryan Robb",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 21704,
+    "crawled_at": "2026-04-10T02:35:20.004572218Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "DAV",
+      "Micro.blog",
+      "NFOrce Internet",
+      "Neighborhoods",
+      "Parcel",
+      "Svelte",
+      "Unsplash"
+    ]
+  },
+  {
+    "domain": "tantek.com",
+    "title": "Tantek Çelik",
+    "business_name": "",
+    "country": "VEN",
+    "seo_score": 60,
+    "tech_spend": 8060,
+    "crawled_at": "2026-04-10T00:59:20.015561356Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Express",
+      "Fastly CDN",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "KVH",
+      "Mastodon",
+      "Micro.blog",
+      "Neighborhoods",
+      "PHP",
+      "Perl",
+      "QUIC",
+      "Subversion",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "readingourleaves.org",
+    "title": "Johnny Sagan aka Snowy Wilderness - Johnny Sagan aka Snowy Wilderness",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 60,
+    "tech_spend": 60,
+    "crawled_at": "2026-04-09T18:32:20.013588281Z",
+    "technologies": [
+      "Alternate Protocol",
+      "DAV",
+      "Express",
+      "Hugo",
+      "Micro.blog",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "reedandpickup.com",
+    "title": "The Reed and Pickup - The Reed and Pickup",
+    "business_name": "",
+    "country": "VEN",
+    "seo_score": 70,
+    "tech_spend": 21660,
+    "crawled_at": "2026-04-09T16:11:19.9925222Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Automattic",
+      "Band Camp",
+      "Camp",
+      "Cisco/Arrowpoint Content Service Switch",
+      "DAV",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Hugo",
+      "Micro.blog",
+      "Perl",
+      "QUIC",
+      "Say what",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "sameoldstory.co",
+    "title": "sameoldstory co",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 183,
+    "crawled_at": "2026-04-09T14:56:20.018585418Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Digital Ocean Spaces",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Heroku",
+      "Micro.blog",
+      "Microdata for Google Shopping",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "miscellanian.ca",
     "title": "A Mess of Miscellany - A Mess of Miscellany",
     "business_name": "",
@@ -225,25 +354,6 @@
       "Micro.blog",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "bryanrobb.com",
-    "title": "About | Bryan Robb",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 60,
-    "crawled_at": "2026-04-07T07:41:20.026121908Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "DAV",
-      "Micro.blog",
-      "Neighborhoods",
-      "Svelte"
     ]
   },
   {
@@ -2134,42 +2244,6 @@
       "QUIC",
       "Share Link",
       "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "tantek.com",
-    "title": "Tantek Çelik",
-    "business_name": "",
-    "country": "VEN",
-    "seo_score": 60,
-    "tech_spend": 8060,
-    "crawled_at": "2026-02-18T17:53:43.279513373Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Express",
-      "Fastly CDN",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "KVH",
-      "Mastodon",
-      "Micro.blog",
-      "Neighborhoods",
-      "PHP",
-      "Perl",
-      "QUIC",
-      "Subversion",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
       "shadcn ui"
     ]
   },
@@ -5779,24 +5853,6 @@
       "Mastodon",
       "Micro.blog",
       "PWA",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "readingourleaves.org",
-    "title": "Johnny Sagan aka Snowy Wilderness - Johnny Sagan aka Snowy Wilderness",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 60,
-    "tech_spend": 60,
-    "crawled_at": "2025-12-08T22:56:29.745207696Z",
-    "technologies": [
-      "Alternate Protocol",
-      "DAV",
-      "Express",
-      "Micro.blog",
-      "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
     ]

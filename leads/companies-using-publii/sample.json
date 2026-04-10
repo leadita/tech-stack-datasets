@@ -1,5 +1,65 @@
 [
   {
+    "domain": "melodyverityart.com",
+    "title": "Welcome - melodyverityart.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2549,
+    "crawled_at": "2026-04-10T11:59:20.030494432Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "amberja.in",
+    "title": "Hi 👋 I’m Amber Jain! - Amber's Journal",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 2549,
+    "crawled_at": "2026-04-10T00:23:19.98679692Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "Gambling Content",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "sdanywhere.com",
+    "title": "sdAnywhere LLC",
+    "business_name": "sdAnywhere LLC",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 49,
+    "crawled_at": "2026-04-09T17:32:19.988022999Z",
+    "technologies": [
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "debruynelectric.com",
     "title": "DeBruyn Electric",
     "business_name": "DeBruyn Electric",
@@ -4383,30 +4443,6 @@
       "Publii",
       "WordPress SEO Structured Data Schema Plugin",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "amberja.in",
-    "title": "Hi 👋 I’m Amber Jain! - Amber's Journal",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 2549,
-    "crawled_at": "2025-12-25T14:49:38.313758165Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Gambling Content",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   },
   {

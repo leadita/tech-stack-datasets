@@ -1,5 +1,30 @@
 [
   {
+    "domain": "tipsforkyototravel.jp",
+    "title": "Tips for Kyoto travel",
+    "business_name": "",
+    "country": "JPN",
+    "seo_score": 70,
+    "tech_spend": 30792,
+    "crawled_at": "2026-04-10T09:41:25.08671149Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Hatena Blog",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "The Fresh",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "earthgiftaroma.site",
     "title": "EGA Lab ~アースギフトアロマのブログサイト~",
     "business_name": "",
@@ -293,31 +318,6 @@
       "Thank You",
       "Twitter Ads",
       "YouTube",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "tipsforkyototravel.jp",
-    "title": "Tips for Kyoto travel",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 70,
-    "tech_spend": 30792,
-    "crawled_at": "2025-11-11T01:27:46.147220535Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Hatena Blog",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "The Fresh",
-      "Twitter Ads",
-      "UTF-8",
       "jQuery"
     ]
   }
