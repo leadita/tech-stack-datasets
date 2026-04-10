@@ -1,6 +1,6 @@
 # Companies Using Semantic UI (Live Dataset 2026)
 
-This folder contains an active list of 1,063 companies using **Semantic UI**. 
+This folder contains an active list of 1,064 companies using **Semantic UI**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 1,063
+- **Total Leads:** 1,064
 - **Verified:** Yes
-- **Last Updated:** 2026-04-09 15:00 UTC
+- **Last Updated:** 2026-04-10 15:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,063+** companies using Semantic UI.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,064+** companies using Semantic UI.
 
 [**⚡ Unlock the Full Semantic UI List with Contact Details**](https://leadita.com/leads/companies-using-semantic-ui)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-09 15:00 UTC*
+*Last updated: 2026-04-10 15:00 UTC*
 *Data source: Leadita Technographic Intelligence*
