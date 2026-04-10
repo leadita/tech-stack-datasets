@@ -1,6 +1,6 @@
 # Companies Using Okta (Live Dataset 2026)
 
-This folder contains an active list of 438 companies using **Okta**. 
+This folder contains an active list of 446 companies using **Okta**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 438
+- **Total Leads:** 446
 - **Verified:** Yes
-- **Last Updated:** 2026-04-09 15:45 UTC
+- **Last Updated:** 2026-04-10 15:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **438+** companies using Okta.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **446+** companies using Okta.
 
 [**⚡ Unlock the Full Okta List with Contact Details**](https://leadita.com/leads/companies-using-okta)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-09 15:45 UTC*
+*Last updated: 2026-04-10 15:45 UTC*
 *Data source: Leadita Technographic Intelligence*
