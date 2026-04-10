@@ -1,6 +1,6 @@
 # Companies Using Tableau (Live Dataset 2026)
 
-This folder contains an active list of 810 companies using **Tableau**. 
+This folder contains an active list of 818 companies using **Tableau**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 810
+- **Total Leads:** 818
 - **Verified:** Yes
-- **Last Updated:** 2026-04-09 10:30 UTC
+- **Last Updated:** 2026-04-10 10:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **810+** companies using Tableau.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **818+** companies using Tableau.
 
 [**⚡ Unlock the Full Tableau List with Contact Details**](https://leadita.com/leads/companies-using-tableau)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-09 10:30 UTC*
+*Last updated: 2026-04-10 10:30 UTC*
 *Data source: Leadita Technographic Intelligence*
