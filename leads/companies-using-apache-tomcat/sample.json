@@ -1,5 +1,83 @@
 [
   {
+    "domain": "ferminaguilar.com",
+    "title": "Fermin Aguilar - Resume / Portfolio",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 2539,
+    "crawled_at": "2026-04-10T21:28:55.560330813Z",
+    "technologies": [
+      "Adobe ColdFusion",
+      "Apache",
+      "Apache Tomcat JK",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Nginx",
+      "Python",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "arianakamura.dev",
+    "title": "Aria Nakamura Nguyen | website for aria nakamura nguyen",
+    "business_name": "",
+    "country": "JPN",
+    "seo_score": 82,
+    "tech_spend": 152640,
+    "crawled_at": "2026-04-10T10:38:20.015343647Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Apache Tomcat JK",
+      "Content Delivery Network",
+      "Express",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Jekyll",
+      "Microdata for Google Shopping",
+      "Python",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "saharshisoft.in",
+    "title": "Saharshi Foundation",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 55,
+    "tech_spend": 7563,
+    "crawled_at": "2026-04-10T09:11:20.010501128Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Better Lead Generation Services",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fireblade",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "QUIC",
+      "Tailwind CSS",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "lawlink.ie",
     "title": "LawLink : Irish Company Information",
     "business_name": "",
@@ -7149,31 +7227,6 @@
     ]
   },
   {
-    "domain": "saharshisoft.in",
-    "title": "Saharshi Foundation",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 60,
-    "tech_spend": 7563,
-    "crawled_at": "2026-01-10T06:32:55.206559561Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Better Lead Generation Services",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fireblade",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "QUIC",
-      "Tailwind CSS",
-      "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "iqbalt.com",
     "title": "Taha Iqbal | Senior Java, Integration and Cloud Engineer",
     "business_name": "",
@@ -9132,33 +9185,6 @@
       "StackPath",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "arianakamura.dev",
-    "title": "Aria Nakamura Nguyen | website for aria nakamura nguyen",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 82,
-    "tech_spend": 152640,
-    "crawled_at": "2025-12-11T13:55:56.032887188Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Apache Tomcat JK",
-      "Content Delivery Network",
-      "Express",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Jekyll",
-      "Microdata for Google Shopping",
-      "Python",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel"
     ]
   },
   {
@@ -13356,32 +13382,6 @@
       "To Top",
       "UTF-8",
       "Vector Internet Services"
-    ]
-  },
-  {
-    "domain": "ferminaguilar.com",
-    "title": "Fermin Aguilar - Resume / Portfolio",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 2539,
-    "crawled_at": "2025-11-11T07:44:19.372704155Z",
-    "technologies": [
-      "Adobe ColdFusion",
-      "Apache",
-      "Apache Tomcat JK",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Nginx",
-      "Python",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "jQuery"
     ]
   }
 ]
