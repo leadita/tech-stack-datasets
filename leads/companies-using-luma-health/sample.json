@@ -1,5 +1,28 @@
 [
   {
+    "domain": "videlaw.co",
+    "title": "Vide Law | Lean Legal. Founder Focused.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 39228,
+    "crawled_at": "2026-04-09T20:35:20.02596192Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Fireblade",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Luma Health",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Next.js",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "thefarmventures.us",
     "title": "Spike Ventures’ Fund and Syndicate - Alumni Ventures",
     "business_name": "",
@@ -43,29 +66,6 @@
       "UTF-8",
       "University or College",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "videlaw.com",
-    "title": "Vide Law | Lean Legal. Founder Focused.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 39228,
-    "crawled_at": "2026-04-06T18:44:19.976686369Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Luma Health",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Next.js",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   },
   {

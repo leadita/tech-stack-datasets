@@ -1,5 +1,41 @@
 [
   {
+    "domain": "rvprimarycare.com",
+    "title": "Primary Care Services | RV Primary Care",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 58402,
+    "crawled_at": "2026-04-10T14:20:19.999266618Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Contact Form Plugin",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PHP",
+      "Popup Maker for Wordpress",
+      "SMC",
+      "Slider Revolution",
+      "Telegram",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "ZocDoc",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "hgmintegrated.com",
     "title": "Quality Mental Health Services | Healthcare Geniuses Medical",
     "business_name": "",
@@ -18243,41 +18279,6 @@
       "ZocDoc",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "boston.dental",
-    "title": "Dental Clinic in Boston, Massachusetts| Dental Designs",
-    "business_name": "Dental Designs Boston",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 87131,
-    "crawled_at": "2026-03-08T03:25:57.998060799Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "DAV",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "ZocDoc",
-      "accessiBe",
-      "eLand"
     ]
   }
 ]

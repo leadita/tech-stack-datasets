@@ -1,5 +1,25 @@
 [
   {
+    "domain": "superbilled.com",
+    "title": "Superbill Generator for Therapists — Create Professional Superbills in 60 Seconds | Superbilled | Superbilled",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 1908,
+    "crawled_at": "2026-04-10T00:05:19.985137032Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Tailwind CSS",
+      "TherapyNotes",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "medheavium.info",
     "title": "Premier Medical Billing Company in Massachusetts | Medheave",
     "business_name": "Medheave",
