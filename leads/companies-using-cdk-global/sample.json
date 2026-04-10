@@ -1,5 +1,39 @@
 [
   {
+    "domain": "moparmastersguild.com",
+    "title": "Mopar Masters Guild – Connecting dealers & vendors",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 12161,
+    "crawled_at": "2026-04-10T06:53:19.845881271Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "CDK Global",
+      "EmbedPress",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "PHP",
+      "Slider Revolution",
+      "Tailwind CSS",
+      "Theme In WP",
+      "UTF-8",
+      "WP Rocket",
+      "WordPress",
+      "WordPress Multisite",
+      "bbPress",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "heymia.com",
     "title": "Hey Mia: Your 24/7 Automotive AI Phone Agent",
     "business_name": "",
@@ -531,39 +565,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "moparmastersguild.com",
-    "title": "Mopar Masters Guild – Connecting dealers & vendors",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 12102,
-    "crawled_at": "2025-11-10T22:56:38.892400464Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "CDK Global",
-      "EmbedPress",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "PHP",
-      "Slider Revolution",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "bbPress",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]

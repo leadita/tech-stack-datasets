@@ -1,5 +1,67 @@
 [
   {
+    "domain": "auto-records.com",
+    "title": "Auto-Records - Vehicle Check",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 7659,
+    "crawled_at": "2026-04-09T17:17:20.021699706Z",
+    "technologies": [
+      "Braintree",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Coming Soon Page",
+      "Edmunds",
+      "Fireblade",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "IcoMoon",
+      "PWA",
+      "Thank You",
+      "UTF-8",
+      "Way"
+    ]
+  },
+  {
+    "domain": "rayedmunds.com",
+    "title": "Ray Edmunds - Voice Actor",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 55040,
+    "crawled_at": "2026-04-09T16:26:20.003907389Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "Edmunds",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "SMC",
+      "Twitter Ads",
+      "Vector Internet Services",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "safecarsearch.com",
+    "title": "Safecarsearch",
+    "business_name": "",
+    "country": "",
+    "seo_score": 25,
+    "tech_spend": "",
+    "crawled_at": "2026-04-09T13:32:20.001092099Z",
+    "technologies": [
+      "Edmunds",
+      "Nginx"
+    ]
+  },
+  {
     "domain": "accountantburystedmunds.uk",
     "title": "Accountants | Bury St Edmunds | Mildenhall - Gray & Co Dan Ltd",
     "business_name": "Gray and Co Dan Limited",
@@ -3396,19 +3458,6 @@
     ]
   },
   {
-    "domain": "safecarsearch.com",
-    "title": "Safecarsearch",
-    "business_name": "",
-    "country": "",
-    "seo_score": 25,
-    "tech_spend": "",
-    "crawled_at": "2025-12-25T06:55:38.326873062Z",
-    "technologies": [
-      "Edmunds",
-      "Nginx"
-    ]
-  },
-  {
     "domain": "ontheprmo.com",
     "title": "Used Cars Honolulu | Used Car Dealer Honolulu | Autosource Hawaii Tier 4",
     "business_name": "",
@@ -4152,28 +4201,6 @@
       "Styled Components",
       "Tailwind CSS",
       "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "rayedmunds.com",
-    "title": "Ray Edmunds - Voice Actor",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 55040,
-    "crawled_at": "2025-12-04T11:53:33.12831567Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "Edmunds",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "SMC",
-      "Twitter Ads",
-      "Vector Internet Services",
       "YouTube"
     ]
   },
@@ -5662,46 +5689,6 @@
       "Vimeo CDN",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "americancounsel.org",
-    "title": "American Counsel Association",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 70,
-    "tech_spend": 10504,
-    "crawled_at": "2025-11-10T12:58:35.055057231Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Corporate Governance and Regulatory Compliance",
-      "Edmunds",
-      "Elementor",
-      "EmbedPress",
-      "Font Awesome",
-      "FreeCSSTemplates",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "PHP",
-      "Page scroll to id",
-      "QUIC",
-      "RM Education",
-      "Slider Revolution",
-      "TablePress",
-      "Thank You",
-      "The7",
-      "Theme In WP",
-      "UTF-8",
-      "Way",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "myStickymenu"
     ]
   }
 ]
