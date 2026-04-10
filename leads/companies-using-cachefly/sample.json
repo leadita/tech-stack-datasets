@@ -1,5 +1,26 @@
 [
   {
+    "domain": "houseallies.com",
+    "title": "House Allies - House Allies",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 5943,
+    "crawled_at": "2026-04-10T12:50:20.005377092Z",
+    "technologies": [
+      "CacheFly",
+      "CacheFly CDN",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "QUIC",
+      "UTF-8",
+      "Visual Studio"
+    ]
+  },
+  {
     "domain": "kurveonwilshire.com",
     "title": "Modern Apartment Residences in Koreatown",
     "business_name": "",
@@ -1118,48 +1139,6 @@
     ]
   },
   {
-    "domain": "teamhypeeview.com",
-    "title": "Home - HypeeView",
-    "business_name": "HypeeView",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 14164,
-    "crawled_at": "2026-02-13T05:25:20.29226855Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Better Lead Generation Services",
-      "CacheFly CDN",
-      "Complianz",
-      "Elementor",
-      "ElementsKit Elementor",
-      "EmbedPress",
-      "Font Awesome",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Hello Elementor",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Metform Elemento",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Slider Revolution",
-      "Theme In WP",
-      "UTF-8",
-      "W3 Total Cache",
-      "WPForms",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "fit.hu",
     "title": "Főoldal - FIT Számítástechnika Kft.",
     "business_name": "",
@@ -1417,26 +1396,6 @@
       "Tailwind CSS",
       "Talentfinder",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "houseallies.com",
-    "title": "House Allies - House Allies",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 5943,
-    "crawled_at": "2025-12-23T08:07:38.314480025Z",
-    "technologies": [
-      "CacheFly",
-      "CacheFly CDN",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microsoft Azure",
-      "QUIC",
-      "UTF-8",
-      "Visual Studio"
     ]
   },
   {
@@ -2374,22 +2333,6 @@
       "WordPress",
       "Yardi Systems",
       "Yelp Badge",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "ijscreme.be",
-    "title": "Huisbereide maaltijden & ijs",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 2940,
-    "crawled_at": "2025-11-10T14:36:38.427730439Z",
-    "technologies": [
-      "CacheFly CDN",
-      "FreeCSSTemplates",
-      "Nginx",
-      "UTF-8",
       "jQuery"
     ]
   }
