@@ -1,5 +1,28 @@
 [
   {
+    "domain": "leeuwmaluleka.co.za",
+    "title": "Leeuw Maluleka | Full Stack Web Developer & IT Professional",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 77,
+    "tech_spend": 23500,
+    "crawled_at": "2026-04-10T08:08:19.985364522Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "CapsuleCRM",
+      "GitHub Hosting",
+      "JumpCloud",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "PHP",
+      "QUIC",
+      "RM Education",
+      "UTF-8",
+      "University or College",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "stixpropertyinspections.com",
     "title": "Home Inspections Kelowna | Stix Property Inspections, Kelowna, BC",
     "business_name": "",
