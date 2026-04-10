@@ -1,5 +1,184 @@
 [
   {
+    "domain": "bonbox.ca",
+    "title": "Home | BonBox - Staff gifts they’ll love",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 1176,
+    "crawled_at": "2026-04-10T18:48:09.353059298Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Gridsome",
+      "Netlify",
+      "Shopify",
+      "Shopify Collabs",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "babic-cibaric.com",
+    "title": "Odvjetničko društvo BABIĆ & ČIBARIĆ",
+    "business_name": "",
+    "country": "HRV",
+    "seo_score": 35,
+    "tech_spend": 23000,
+    "crawled_at": "2026-04-10T15:52:03.583919111Z",
+    "technologies": [
+      "Gridsome",
+      "HMDG",
+      "Nginx",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "vjpnegocios.com.uy",
+    "title": "VJP Negocios - Inicio - VJP Negocios",
+    "business_name": "",
+    "country": "URY",
+    "seo_score": 72,
+    "tech_spend": 13098,
+    "crawled_at": "2026-04-10T14:56:19.994530903Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Financial Services Guide",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Netlify",
+      "No-Q",
+      "Phew",
+      "Pico CSS",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "roguecreative.io",
+    "title": "Home - A Blog By Tony Junkes",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 3651,
+    "crawled_at": "2026-04-10T11:02:20.006480053Z",
+    "technologies": [
+      "Adobe ColdFusion",
+      "Content Delivery Network",
+      "Formspree",
+      "GitHub Hosting",
+      "Google Adsense",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google Reseller",
+      "Gridsome",
+      "Idaq",
+      "Netlify",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "advanced-isys.com",
+    "title": "AIS - Advanced Intelligent Systems",
+    "business_name": "",
+    "country": "MOZ",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-04-10T10:26:20.005616833Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Content Delivery Network",
+      "Gridsome",
+      "Netlify",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "yoga.co.il",
+    "title": "פורטל היוגה והיוגה תרפיה - פורטל היוגה והיוגה תרפיה",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 117870,
+    "crawled_at": "2026-04-10T09:59:19.988874228Z",
+    "technologies": [
+      "Apyl",
+      "DAV",
+      "Financial Services Guide",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Gridsome",
+      "Idaq",
+      "Instagram Follow Button",
+      "K2F",
+      "KVH",
+      "LiteSpeed",
+      "No-Q",
+      "O2MC Dimml",
+      "QUIC",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "blueeyescbr.com.au",
+    "title": "Blue Eyes CBR | A taste of Hollywood magic in Garema Place",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 70,
+    "tech_spend": 2016,
+    "crawled_at": "2026-04-10T07:20:20.01150382Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Content Delivery Network",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "Netlify Forms",
+      "Tailwind CSS",
+      "UTF-8",
+      "reCAPTCHA",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "skaevt.com",
+    "title": "Forside - Skævt Reklamebureau | Full service kommunikations- og reklamebureau - Skævt Reklamebureau",
+    "business_name": "",
+    "country": "DNK",
+    "seo_score": 60,
+    "tech_spend": 120,
+    "crawled_at": "2026-04-10T00:44:35.380809096Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Cybot",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gridsome",
+      "Netlify",
+      "UTF-8",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "praktika.co.jp",
     "title": "株式会社プラクティカ",
     "business_name": "",
@@ -64,29 +243,6 @@
       "Instagram Follow Button",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "xn--skvt-woa.com",
-    "title": "Forside - Skævt Reklamebureau | Full service kommunikations- og reklamebureau - Skævt Reklamebureau",
-    "business_name": "",
-    "country": "DNK",
-    "seo_score": 55,
-    "tech_spend": 120,
-    "crawled_at": "2026-04-09T04:38:19.996039408Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Cybot",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gridsome",
-      "Netlify",
-      "UTF-8",
-      "WordPress"
     ]
   },
   {
@@ -3206,33 +3362,6 @@
       "Google Font API",
       "Gridsome",
       "Netlify",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "tonycreates.dev",
-    "title": "Home - A Blog By Tony Junkes",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 5516,
-    "crawled_at": "2026-02-19T17:47:51.250097424Z",
-    "technologies": [
-      "Adobe ColdFusion",
-      "Content Delivery Network",
-      "Formspree",
-      "GitHub Hosting",
-      "Google Adsense",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google Reseller",
-      "Gridsome",
-      "Idaq",
-      "Netlify",
-      "Tailwind CSS",
       "Twitter Ads",
       "UTF-8"
     ]
@@ -7083,25 +7212,6 @@
     ]
   },
   {
-    "domain": "advanced-isys.com",
-    "title": "AIS - Advanced Intelligent Systems",
-    "business_name": "",
-    "country": "MOZ",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2025-12-28T12:22:38.31597762Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Content Delivery Network",
-      "Gridsome",
-      "Netlify",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "suedspace.de",
     "title": "Südspace - Südspace",
     "business_name": "",
@@ -7223,27 +7333,6 @@
       "Netlify",
       "Sanity",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "blueeyescbr.com.au",
-    "title": "Blue Eyes CBR | A taste of Hollywood magic in Garema Place",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 70,
-    "tech_spend": 2016,
-    "crawled_at": "2025-12-27T05:31:38.331963113Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Content Delivery Network",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Netlify Forms",
-      "Tailwind CSS",
-      "UTF-8",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   },
   {
@@ -7510,34 +7599,6 @@
       "KVH",
       "Nginx",
       "Parallels Plesk Panel"
-    ]
-  },
-  {
-    "domain": "vjpnegocios.com",
-    "title": "VJP Negocios - Inicio - VJP Negocios",
-    "business_name": "",
-    "country": "URY",
-    "seo_score": 72,
-    "tech_spend": 110598,
-    "crawled_at": "2025-12-22T23:28:38.320103636Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Idaq",
-      "Instagram Follow Button",
-      "K2F",
-      "KVH",
-      "Netlify",
-      "No-Q",
-      "Phew",
-      "Pico CSS",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   },
   {
@@ -8892,36 +8953,6 @@
       "Tailwind CSS",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "yoga.co.il",
-    "title": "פורטל היוגה והיוגה תרפיה - פורטל היוגה והיוגה תרפיה",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 117870,
-    "crawled_at": "2025-12-13T06:54:44.466205191Z",
-    "technologies": [
-      "Apache",
-      "Apyl",
-      "DAV",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Gridsome",
-      "Idaq",
-      "Instagram Follow Button",
-      "K2F",
-      "KVH",
-      "No-Q",
-      "O2MC Dimml",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS"
     ]
   },
   {
@@ -11735,42 +11766,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "talkboard.live",
-    "title": "Home - TalkBoard",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 699,
-    "crawled_at": "2025-11-18T20:27:19.498690318Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Gridsome",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "uvik.dp.ua",
-    "title": "ЮВВН - виробництво меблевої фурнітури в Дніпрі - ЮВВН",
-    "business_name": "",
-    "country": "UKR",
-    "seo_score": 62,
-    "tech_spend": 228,
-    "crawled_at": "2025-11-18T15:15:40.325055838Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]

@@ -1,5 +1,147 @@
 [
   {
+    "domain": "cansat.fi",
+    "title": "Welcome to CanSat NeXT! | CanSat NeXT",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-04-10T20:38:20.022396892Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "KaTeX",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "drafft.dev",
+    "title": "Plan Your Game | Drafft",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2400,
+    "crawled_at": "2026-04-10T16:17:20.034269929Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Headless UI",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "itch.io",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "tablesprintapps.com",
+    "title": "TableSprint - AI Platform to Build Future-Ready Apps",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 47780,
+    "crawled_at": "2026-04-10T08:50:19.986936342Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "DAV",
+      "Docusaurus",
+      "Google Analytics",
+      "Google Tag Manager",
+      "K2F",
+      "KVH",
+      "No-Q",
+      "Perl",
+      "Product Hunt",
+      "Tailwind CSS",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "pearsoncohen.com",
+    "title": "Pierce Cohen | AI Engineer",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-04-10T07:02:19.983088241Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Netlify",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "vidsy.ai",
+    "title": "Vidsy AI — Offline AI Pipe Inspection Software",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 240,
+    "crawled_at": "2026-04-10T06:05:20.029363259Z",
+    "technologies": [
+      "AI Log",
+      "Alternate Protocol",
+      "Docusaurus",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Perl",
+      "Stetic",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "sahilll.dev",
+    "title": "Sahil Khan",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 67,
+    "tech_spend": 15240,
+    "crawled_at": "2026-04-09T23:53:19.991755739Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "elastetic.com",
     "title": "Elastetic | Elastetic",
     "business_name": "",
@@ -5633,45 +5775,6 @@
     ]
   },
   {
-    "domain": "tablesprintbuilds.com",
-    "title": "TableSprint - AI Platform to Build Future-Ready Apps",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 125879,
-    "crawled_at": "2026-01-22T23:01:43.466875441Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "DAV",
-      "Docusaurus",
-      "Ethy",
-      "Federal Deposit Insurance Corporation",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "HMDG",
-      "K2F",
-      "KVH",
-      "No-Q",
-      "PHP",
-      "Paessler",
-      "Perl",
-      "Product Hunt",
-      "QUIC",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "YouTube"
-    ]
-  },
-  {
     "domain": "rewardscc.com",
     "title": "Rewards Credit Card API | Rewards Credit Card API",
     "business_name": "",
@@ -5838,29 +5941,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "vidsy.ai",
-    "title": "Vidsy AI",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 87,
-    "crawled_at": "2026-01-21T14:19:43.432373578Z",
-    "technologies": [
-      "AI Log",
-      "Alternate Protocol",
-      "Docusaurus",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Perl",
-      "Stetic",
-      "Tailwind CSS",
-      "UTF-8",
-      "Unsplash"
     ]
   },
   {
@@ -7342,29 +7422,6 @@
     ]
   },
   {
-    "domain": "sahilll.dev",
-    "title": "Sahil Khan",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 67,
-    "tech_spend": 15240,
-    "crawled_at": "2025-12-25T18:58:38.330299752Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vercel"
-    ]
-  },
-  {
     "domain": "shira.app",
     "title": "Shira",
     "business_name": "",
@@ -8356,24 +8413,6 @@
       "WordPress Multisite",
       "WordPress Related Posts",
       "WordPress Stats"
-    ]
-  },
-  {
-    "domain": "piercecohen.com",
-    "title": "Pierce Cohen | AI Engineer",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 228,
-    "crawled_at": "2025-12-19T03:19:32.753767564Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Netlify",
-      "Perl",
-      "UTF-8"
     ]
   },
   {
@@ -12568,55 +12607,6 @@
       "Tailwind CSS",
       "Telegram",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "archischool.in",
-    "title": "Archi School | Archi School",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2025-11-15T09:26:05.013361601Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "teimurjan.dev",
-    "title": "Teimur Gasanov",
-    "business_name": "",
-    "country": "KGZ",
-    "seo_score": 67,
-    "tech_spend": 18600,
-    "crawled_at": "2025-11-15T08:41:05.031994804Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Gravity",
-      "Imgix",
-      "InitiativeS",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "Storyblocks",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]
