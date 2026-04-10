@@ -1,5 +1,33 @@
 [
   {
+    "domain": "hey-zell.com",
+    "title": "Howdy! | Andrew Zell",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 46040,
+    "crawled_at": "2026-04-10T08:26:19.986798318Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Docebo",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Tailwind CSS",
+      "UTF-8",
+      "WF Cookie Consent",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "stonemountaincity.org",
     "title": "Welcome to City of Stone Mountain, GA",
     "business_name": "",
