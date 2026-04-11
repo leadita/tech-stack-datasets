@@ -1,5 +1,26 @@
 [
   {
+    "domain": "contactterautoleads.com",
+    "title": "AI Platform for Car Dealerships | Contactter.ai | Contactter.ai",
+    "business_name": "Silent Partner AI",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 20432,
+    "crawled_at": "2026-04-10T17:17:20.006817826Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Calendly",
+      "Content Delivery Network",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel",
+      "VinSolutions",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "dietbyclarakaraki.com",
     "title": "Diet by Clara Karaki | Personal Training & Nutrition Coaching",
     "business_name": "",
@@ -22,27 +43,6 @@
       "UTF-8",
       "VinSolutions",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "contactterapp.com",
-    "title": "AI Platform for Car Dealerships | Contactter.ai | Contactter.ai",
-    "business_name": "Silent Partner AI",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 20432,
-    "crawled_at": "2026-04-09T19:38:19.978898385Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Calendly",
-      "Content Delivery Network",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel",
-      "VinSolutions",
-      "YouTube"
     ]
   },
   {
