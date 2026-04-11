@@ -1,5 +1,60 @@
 [
   {
+    "domain": "sanyogeeta.com",
+    "title": "Sanyogeeta Lawande - Seasoned Software Engineer | Sanyogeeta",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 2833,
+    "crawled_at": "2026-04-11T10:44:25.185430833Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Dialogflow",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "OpenResty",
+      "Unsplash",
+      "YouTube",
+      "Zyro"
+    ]
+  },
+  {
+    "domain": "thedrycleaningco.uk",
+    "title": "The Dry Cleaning Co., Altrincham",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 960,
+    "crawled_at": "2026-04-10T12:56:19.979789911Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "App Store",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Dialogflow",
+      "Express",
+      "Fancybox for WordPress",
+      "Google Analytics",
+      "Google My Business",
+      "Google Play",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nuxt.js",
+      "Perl",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "mountclub.space",
     "title": "MountClub",
     "business_name": "",
@@ -8867,34 +8922,6 @@
       "Pexels",
       "Thank You",
       "Unsplash",
-      "Zyro"
-    ]
-  },
-  {
-    "domain": "sanyogeeta.com",
-    "title": "Sanyogeeta Lawande - Seasoned Software Engineer | Sanyogeeta",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 52833,
-    "crawled_at": "2025-11-11T10:35:39.396586029Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Dialogflow",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "OpenResty",
-      "SMC",
-      "Unsplash",
-      "YouTube",
       "Zyro"
     ]
   }
