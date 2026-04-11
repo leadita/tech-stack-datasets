@@ -1,5 +1,29 @@
 [
   {
+    "domain": "friendlyworkplace.com",
+    "title": "Friendly Workplace® Awards Certification for World's Best Employers",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 3,
+    "crawled_at": "2026-04-11T04:58:31.123873808Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Coming Soon Page",
+      "EmbedPress",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "QUIC",
+      "Thank You",
+      "UTF-8",
+      "WordPress",
+      "Workplace from Meta"
+    ]
+  },
+  {
     "domain": "iwlegacy.com",
     "title": "IOSH & NEBOSH Qualifications and Training",
     "business_name": "",
@@ -7813,56 +7837,6 @@
       "WordPress Stats",
       "Workplace from Meta",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "friendlyworkplace.com",
-    "title": "Site is undergoing maintenance",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2025-11-11T09:26:38.966563959Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Bunny Fonts",
-      "Coming Soon Page",
-      "EmbedPress",
-      "LiteSpeed",
-      "QUIC",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "Workplace from Meta",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "onboardingrealohio.com",
-    "title": "Coming soon | Real of Ohio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 177,
-    "crawled_at": "2025-11-11T08:56:38.955609669Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "OpenResty",
-      "Subversion",
-      "Twitter Ads",
-      "Unsplash",
-      "Workplace from Meta",
-      "Zyro"
     ]
   }
 ]
