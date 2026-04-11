@@ -1,5 +1,32 @@
 [
   {
+    "domain": "shastaventures.com",
+    "title": "Shasta Ventures",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 15519,
+    "crawled_at": "2026-04-11T10:11:20.00043071Z",
+    "technologies": [
+      "Amazon S3 CDN",
+      "Canva Websites",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Fastly",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Highspot",
+      "Hubspot Knowledge Base",
+      "Medium",
+      "Storyblocks",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Vimeo"
+    ]
+  },
+  {
     "domain": "nanosonics.com",
     "title": "At Nanosonics, infection prevention for life isn’t just a tagline, it’s personal. | Nanosonics",
     "business_name": "",
@@ -718,34 +745,6 @@
       "Wix Media",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "shasta.vc",
-    "title": "Shasta Ventures",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 15519,
-    "crawled_at": "2026-01-13T21:25:32.937502465Z",
-    "technologies": [
-      "Amazon S3 CDN",
-      "Canva Websites",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Highspot",
-      "Hubspot Knowledge Base",
-      "Medium",
-      "Storyblocks",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vimeo"
     ]
   },
   {

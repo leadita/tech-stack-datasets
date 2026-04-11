@@ -1,5 +1,36 @@
 [
   {
+    "domain": "lawfirmarchitect.com",
+    "title": "We Design Law Firms That Don't Run on Burnout® | Law Firm Architects",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 28048,
+    "crawled_at": "2026-04-11T18:47:19.977645855Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Airtable",
+      "Asana",
+      "Calendly",
+      "ClickUp",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Google Workspace",
+      "Netlify",
+      "Next.js",
+      "OpenAI",
+      "PandaDoc",
+      "Slack",
+      "UTF-8",
+      "Vine Embed",
+      "monday.com"
+    ]
+  },
+  {
     "domain": "mgproposaluploadscc.com",
     "title": "MG Proposal Uploads",
     "business_name": "",
