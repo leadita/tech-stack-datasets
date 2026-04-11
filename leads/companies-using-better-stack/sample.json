@@ -1,5 +1,23 @@
 [
   {
+    "domain": "paweljw.al",
+    "title": "Hi! | Paweł J. Wal",
+    "business_name": "",
+    "country": "",
+    "seo_score": 27,
+    "tech_spend": "",
+    "crawled_at": "2026-04-11T08:55:23.421797357Z",
+    "technologies": [
+      "Better Stack",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "personalisebook.com",
     "title": "Personalized Children's Books with AI | Booklydoo",
     "business_name": "Booklydoo",
@@ -2321,24 +2339,6 @@
       "WordPress",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "steamshard.net",
-    "title": "Hi! | Paweł J. Wal",
-    "business_name": "",
-    "country": "",
-    "seo_score": 27,
-    "tech_spend": "",
-    "crawled_at": "2026-01-09T23:38:10.386514014Z",
-    "technologies": [
-      "Better Stack",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {

@@ -1,5 +1,22 @@
 [
   {
+    "domain": "dbos.tel",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 1200,
+    "crawled_at": "2026-04-11T06:17:19.984834358Z",
+    "technologies": [
+      "Barchart",
+      "Express",
+      "GitHub Hosting",
+      "Grafana",
+      "Nginx",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "gonebutnotforgotten.site",
     "title": "Grafana",
     "business_name": "",
@@ -37,44 +54,6 @@
       "Google My Business",
       "Grafana",
       "OpenResty",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "vortlager-damm.de",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 1200,
-    "crawled_at": "2026-04-07T18:53:20.013881974Z",
-    "technologies": [
-      "Barchart",
-      "Express",
-      "GZIP Module",
-      "Grafana",
-      "Nginx",
-      "UTF-8",
-      "Ubuntu"
-    ]
-  },
-  {
-    "domain": "pedrosantiagodelrey.com",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 1200,
-    "crawled_at": "2026-04-04T07:23:20.007624381Z",
-    "technologies": [
-      "Apache",
-      "Barchart",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Grafana",
-      "Nginx",
       "UTF-8"
     ]
   },
