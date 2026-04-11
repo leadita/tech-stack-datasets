@@ -1,5 +1,53 @@
 [
   {
+    "domain": "solidtax.ca",
+    "title": "Solid Tax Inc - #1 Tax Preparation & Accounting Service in Ottawa",
+    "business_name": "Solid Tax Inc",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 8691,
+    "crawled_at": "2026-04-10T20:44:19.977420308Z",
+    "technologies": [
+      "Add to Any",
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "Bing Cashback",
+      "Bing Conversion Tracking",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Contact Form Plugin",
+      "Elementor",
+      "EmbedPress",
+      "Essential Addons for Elementor",
+      "Formidable Pro Form",
+      "FreeCSSTemplates",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Conversion Tracking",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "GrowSurf",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Ntent",
+      "PHP",
+      "QUIC",
+      "Schema Plugin",
+      "TablePress",
+      "Thank You",
+      "Theme In WP",
+      "UTF-8",
+      "WP Mobile Menu",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "carterranchhorse.com",
     "title": "CarterRanchHorses",
     "business_name": "",
@@ -1377,29 +1425,6 @@
       "Tailwind CSS",
       "University or College",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "larsarboleda.me",
-    "title": "Lars Arboleda",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 67,
-    "tech_spend": 7200,
-    "crawled_at": "2025-11-11T07:05:38.881139282Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google My Business",
-      "GrowSurf",
-      "InitiativeS",
-      "Liquid Web",
-      "Medium",
-      "Nginx",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
