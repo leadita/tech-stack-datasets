@@ -1,5 +1,26 @@
 [
   {
+    "domain": "temple-group.com",
+    "title": "Temple Financial Group -",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 100000,
+    "crawled_at": "2026-04-11T02:53:20.015141434Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Broadridge",
+      "Express",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "advisorstream.com",
     "title": "AdvisorStream - Digital Marketing Automation for Financial Advisors",
     "business_name": "",
