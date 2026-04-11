@@ -1,5 +1,29 @@
 [
   {
+    "domain": "angelaro.com",
+    "title": "Angela Lana Ro",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 4660,
+    "crawled_at": "2026-04-11T16:02:19.979991872Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Cisco/Arrowpoint Content Service Switch",
+      "CloudFront",
+      "Cloudflare",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "GZIP Module",
+      "InitiativeS",
+      "Luma Health",
+      "Tailwind CSS",
+      "UTF-8",
+      "WF Cookie Consent"
+    ]
+  },
+  {
     "domain": "videlaw.co",
     "title": "Vide Law | Lean Legal. Founder Focused.",
     "business_name": "",
