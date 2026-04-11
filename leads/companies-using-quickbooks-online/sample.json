@@ -1,5 +1,61 @@
 [
   {
+    "domain": "oneplusbusinessandtax.com",
+    "title": "Home | One Plus Tax & Accounting, Inc",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 18532,
+    "crawled_at": "2026-04-11T01:08:19.977729708Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Calendly",
+      "Cloudinary",
+      "Express",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "Zoom Video Conferencing",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "xponentgroup.com",
+    "title": "Home | XPonent Group",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 18120,
+    "crawled_at": "2026-04-10T12:05:19.992535766Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "mcinniscpa.com",
     "title": "Home | The McInnis Company Certified Public Accountants",
     "business_name": "",
@@ -5519,34 +5575,6 @@
       "WordPress Stats",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "oneplusbusinessandtax.com",
-    "title": "Home | One Plus Tax & Accounting, Inc",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 12992,
-    "crawled_at": "2025-12-29T00:40:31.137559703Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Calendly",
-      "Cloudinary",
-      "Express",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "Zoom Video Conferencing",
-      "jsDelivr"
     ]
   },
   {
