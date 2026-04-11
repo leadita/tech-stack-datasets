@@ -1,5 +1,33 @@
 [
   {
+    "domain": "lagainsight.com",
+    "title": "Laga Insight",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 41684,
+    "crawled_at": "2026-04-10T22:35:19.980603206Z",
+    "technologies": [
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Gainsight",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "udaykp.dev",
     "title": "Uday Kiran Portfolio",
     "business_name": "",
