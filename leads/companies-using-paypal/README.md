@@ -1,6 +1,6 @@
 # Companies Using PayPal (Live Dataset 2026)
 
-This folder contains an active list of 64,828 companies using **PayPal**. 
+This folder contains an active list of 65,089 companies using **PayPal**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 64,828
+- **Total Leads:** 65,089
 - **Verified:** Yes
-- **Last Updated:** 2026-04-10 10:45 UTC
+- **Last Updated:** 2026-04-11 10:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **64,828+** companies using PayPal.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **65,089+** companies using PayPal.
 
 [**⚡ Unlock the Full PayPal List with Contact Details**](https://leadita.com/leads/companies-using-paypal)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-10 10:45 UTC*
+*Last updated: 2026-04-11 10:45 UTC*
 *Data source: Leadita Technographic Intelligence*
