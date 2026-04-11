@@ -1,6 +1,6 @@
 # Companies Using Segment (Live Dataset 2026)
 
-This folder contains an active list of 8,515 companies using **Segment**. 
+This folder contains an active list of 8,578 companies using **Segment**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 8,515
+- **Total Leads:** 8,578
 - **Verified:** Yes
-- **Last Updated:** 2026-04-10 11:30 UTC
+- **Last Updated:** 2026-04-11 11:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **8,515+** companies using Segment.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **8,578+** companies using Segment.
 
 [**⚡ Unlock the Full Segment List with Contact Details**](https://leadita.com/leads/companies-using-segment)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-10 11:30 UTC*
+*Last updated: 2026-04-11 11:30 UTC*
 *Data source: Leadita Technographic Intelligence*
