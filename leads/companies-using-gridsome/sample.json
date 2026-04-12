@@ -1,5 +1,60 @@
 [
   {
+    "domain": "sghopkins.com",
+    "title": "Stuart Hopkins - Gridsome",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": "",
+    "crawled_at": "2026-04-12T19:13:59.967835201Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Gridsome",
+      "Netlify",
+      "PHP",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "enrollut.com",
+    "title": "EnrollUT | Find the Best Health Insurance in Utah - EnrollUT",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 15798,
+    "crawled_at": "2026-04-12T08:37:19.870222048Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "Financial Services Guide",
+      "Gridsome",
+      "No-Q",
+      "SMC",
+      "Sherpa",
+      "Subversion",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "newclearstudios.com",
+    "title": "Newclear Studios - Newclear Studios",
+    "business_name": "",
+    "country": "MYS",
+    "seo_score": 40,
+    "tech_spend": 3,
+    "crawled_at": "2026-04-12T00:59:19.979143175Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Gridsome",
+      "Netlify",
+      "UTF-8",
+      "Zope"
+    ]
+  },
+  {
     "domain": "eazybite.pl",
     "title": "Eazy Bite",
     "business_name": "",
@@ -2384,26 +2439,6 @@
       "Netlify",
       "Tailwind CSS",
       "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "enrollut.org",
-    "title": "EnrollUT | Find the Best Health Insurance in Utah - EnrollUT",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 15798,
-    "crawled_at": "2026-03-15T04:38:36.939563031Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "Financial Services Guide",
-      "Gridsome",
-      "No-Q",
-      "SMC",
-      "Sherpa",
-      "Subversion",
       "UTF-8"
     ]
   },
@@ -9373,25 +9408,6 @@
     ]
   },
   {
-    "domain": "newclearstudios.com",
-    "title": "Newclear Studios - Newclear Studios",
-    "business_name": "",
-    "country": "MYS",
-    "seo_score": 40,
-    "tech_spend": 3,
-    "crawled_at": "2025-12-11T18:37:29.654761495Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Gridsome",
-      "Netlify",
-      "UTF-8",
-      "Zope"
-    ]
-  },
-  {
     "domain": "interactiveo.net",
     "title": "Interactiveo - Interactiveo",
     "business_name": "",
@@ -11761,26 +11777,6 @@
       "Simple-Jekyll-Search",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "knutholmen.no",
-    "title": "Velkomen - Knutholmen",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2025-11-19T18:45:19.427155039Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "Harbor",
-      "Instagram Follow Button",
-      "Netlify",
-      "Perl",
-      "Sanity",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
