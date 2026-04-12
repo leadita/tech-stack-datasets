@@ -1,12 +1,12 @@
 [
   {
-    "domain": "heyreachco.com",
+    "domain": "clientpointflow.link",
     "title": "ClientPoint | We Make it Easy for People to do Business with You",
     "business_name": "",
     "country": "USA",
     "seo_score": 72,
-    "tech_spend": 169308,
-    "crawled_at": "2026-04-11T10:53:19.998862156Z",
+    "tech_spend": 219308,
+    "crawled_at": "2026-04-12T08:44:20.044457902Z",
     "technologies": [
       "Calendly",
       "Cloudflare",
@@ -27,6 +27,7 @@
       "Infusionsoft",
       "PWA",
       "RightSignature",
+      "SMC",
       "Salesforce Hosted",
       "Telegram",
       "Twitter Ads",
@@ -35,6 +36,44 @@
       "YouTube",
       "Zendesk Guide",
       "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "joel225.org",
+    "title": "Joel 2:25 International",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 1912,
+    "crawled_at": "2026-04-12T00:53:20.011012802Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Cornerstone",
+      "Express",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Line2",
+      "Microdata for Google Shopping",
+      "PayPal Adaptive Payments",
+      "QUIC",
+      "RightSignature",
+      "Rumble Player",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube",
+      "Zoom Video Conferencing",
+      "eLand"
     ]
   },
   {
