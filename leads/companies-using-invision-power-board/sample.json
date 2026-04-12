@@ -1,5 +1,27 @@
 [
   {
+    "domain": "secondchancedobes.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 540,
+    "crawled_at": "2026-04-12T12:05:19.980337647Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Alternate Protocol",
+      "Apache",
+      "GZIP Module",
+      "ISO/IEC 8859",
+      "Investor Relations",
+      "Invision Power Board",
+      "PayPal Button",
+      "PayPal Form",
+      "Perl",
+      "QUIC"
+    ]
+  },
+  {
     "domain": "narendradwivedi.org",
     "title": "Narendra Dwivedi",
     "business_name": "",

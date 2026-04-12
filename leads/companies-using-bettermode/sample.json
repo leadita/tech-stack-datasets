@@ -1931,39 +1931,5 @@
       "YouTube",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "kacheridiaries.com",
-    "title": "Kacheri Diaries",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 12983,
-    "crawled_at": "2025-11-11T16:32:38.940731298Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "BetterMode",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "ElementUI",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Headless UI",
-      "Imgix",
-      "Instagram Follow Button",
-      "KVH",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "Tribe.so",
-      "Twitter Ads",
-      "Vector Internet Services",
-      "YouTube",
-      "shadcn ui"
-    ]
   }
 ]
