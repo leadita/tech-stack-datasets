@@ -1,5 +1,40 @@
 [
   {
+    "domain": "curatedmarketing.co",
+    "title": "Home | Curated Marketing",
+    "business_name": "",
+    "country": "PHL",
+    "seo_score": 75,
+    "tech_spend": 114576,
+    "crawled_at": "2026-04-12T09:34:57.016931399Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "Fastly",
+      "Fastly CDN",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Oracle Cloud",
+      "PWA",
+      "QUIC",
+      "RMS Cloud",
+      "SMC",
+      "Sentry",
+      "SiteW",
+      "TrustRadius",
+      "UTF-8",
+      "Vector Internet Services",
+      "Volusion Live Chat",
+      "Wix",
+      "Wix Media",
+      "eLand",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "cmscrawler.com",
     "title": "Discover top CMS and web builders",
     "business_name": "",
@@ -3006,41 +3041,6 @@
       "Twitter Ads",
       "Volusion",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "curatedmarketing.co",
-    "title": "Home | Curated Marketing",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 65,
-    "tech_spend": 129336,
-    "crawled_at": "2025-11-11T15:44:38.938835345Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Oracle Cloud",
-      "PWA",
-      "QUIC",
-      "RMS Cloud",
-      "SMC",
-      "SiteW",
-      "TrustRadius",
-      "UTF-8",
-      "Vector Internet Services",
-      "Volusion Live Chat",
-      "Wix",
-      "Wix Media",
-      "eLand",
-      "mlcom"
     ]
   }
 ]

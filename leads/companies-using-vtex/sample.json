@@ -1,5 +1,31 @@
 [
   {
+    "domain": "factorydeportivo.com.ar",
+    "title": "Factory Deportivo - Calzado, Indumentaria y Accesorios para Deportistas",
+    "business_name": "",
+    "country": "ARG",
+    "seo_score": 72,
+    "tech_spend": 71269,
+    "crawled_at": "2026-04-12T12:17:20.007660962Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "UTF-8",
+      "VTEX Personalization",
+      "monday.com"
+    ]
+  },
+  {
     "domain": "tecno-boga.cl",
     "title": "Tecnoboga | Bienvenidos",
     "business_name": "",
@@ -800,32 +826,6 @@
       "VTEX Personalization",
       "Vector Internet Services",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "megasports.com.ar",
-    "title": "CYBERMONDAY + CUOTAS SIN INTERÉS HASTA 70% - Mega Sports Calzado, Indumentaria y Accesorios para Deportistas",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 56269,
-    "crawled_at": "2025-12-14T07:31:56.00743777Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CloudFront",
-      "Content Delivery Network",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Pure.css",
-      "UTF-8",
-      "VTEX Personalization",
-      "monday.com"
     ]
   },
   {
