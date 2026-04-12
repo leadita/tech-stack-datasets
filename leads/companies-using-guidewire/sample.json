@@ -1,5 +1,64 @@
 [
   {
+    "domain": "riskjockey.com",
+    "title": "RiskJockey | Contact ALL Law Enforcement Agencies with ONE request",
+    "business_name": "",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 1064700,
+    "crawled_at": "2026-04-11T18:32:44.01223213Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Guidewire",
+      "Hubspot Knowledge Base",
+      "Microsoft Clarity",
+      "NFOrce Internet",
+      "SMC",
+      "UTF-8",
+      "Vine Embed"
+    ]
+  },
+  {
+    "domain": "pronavigator.ai",
+    "title": "ProNavigator",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 251491,
+    "crawled_at": "2026-04-11T17:38:19.993855892Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Guidewire",
+      "Instagram Follow Button",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "WF Cookie Consent",
+      "Webflow",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "ogonconsulting.com",
     "title": "Customer-Driven Solutions for Guidewire InsuranceNow",
     "business_name": "",
@@ -309,31 +368,6 @@
       "WordPress Stats",
       "Yandex Hosting",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "riskjockey.com",
-    "title": "Home | RiskJockey",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 266514,
-    "crawled_at": "2025-11-11T12:20:38.949444608Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Guidewire",
-      "Hubspot Knowledge Base",
-      "Microsoft Clarity",
-      "NFOrce Internet",
-      "No-Q",
-      "SMC",
-      "UTF-8",
-      "Vine Embed"
     ]
   }
 ]
