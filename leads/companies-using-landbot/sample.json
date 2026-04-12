@@ -1,5 +1,31 @@
 [
   {
+    "domain": "eugenedumpsterrental.net",
+    "title": "Eugene Dumpster Rental",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 17099,
+    "crawled_at": "2026-04-12T03:20:19.987386137Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fireblade",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google My Business",
+      "LandBot",
+      "Microdata for Google Shopping",
+      "Neighborhoods",
+      "QUIC",
+      "Schema Plugin",
+      "UTF-8",
+      "University or College",
+      "Yet Another Related Posts Plugin"
+    ]
+  },
+  {
     "domain": "womancentre.co.uk",
     "title": "Solace Women's Aid: violence against women and girls ends here",
     "business_name": "Solace Womens Aid",
