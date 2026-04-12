@@ -1,5 +1,130 @@
 [
   {
+    "domain": "empresssuma.com",
+    "title": "Empress Suma",
+    "business_name": "Empress Suma",
+    "country": "ESP",
+    "seo_score": 70,
+    "tech_spend": 449,
+    "crawled_at": "2026-04-12T06:53:19.98214112Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Content Delivery Network",
+      "Giphy",
+      "Instagram Follow Button",
+      "Linktree",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Netlify",
+      "Publii",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "brettbeyer.com",
+    "title": "Bridgit Beyer: Architectural and Interior Photographer",
+    "business_name": "Brett Beyer Photography",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 81528,
+    "crawled_at": "2026-04-12T03:32:20.042338078Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "DAV",
+      "Express",
+      "FormSubmit",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Newsletter for Wordpress",
+      "Publii",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "holdrightgames.com",
+    "title": "Hold Right Games",
+    "business_name": "Hold Right Games",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2549,
+    "crawled_at": "2026-04-11T23:20:05.971006579Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Content Delivery Network",
+      "Fastly",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "kollakorner.com",
+    "title": "Richard - Your Central Sask IT Guy - Kolla Korner",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 11047,
+    "crawled_at": "2026-04-11T18:53:20.020274972Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Idaq",
+      "Instagram Follow Button",
+      "JotForm",
+      "Microdata for Google Shopping",
+      "No-Q",
+      "Publii",
+      "RM Education",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "decentapps.net",
+    "title": "Decent Apps",
+    "business_name": "Decent Apps",
+    "country": "GBR",
+    "seo_score": 65,
+    "tech_spend": 3509,
+    "crawled_at": "2026-04-11T18:14:20.032246499Z",
+    "technologies": [
+      "Amazon",
+      "Amazon S3 CDN",
+      "BunnyCDN Header",
+      "Content Delivery Network",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Publii",
+      "QUIC",
+      "Storyblocks",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "alteregos.tech",
     "title": "AlterEgos Tech",
     "business_name": "AlterEgos Tech",
@@ -1038,30 +1163,6 @@
       "Tailwind CSS",
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "kolla.tech",
-    "title": "Richard - Your Central Sask IT Guy - Kolla Korner",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 11047,
-    "crawled_at": "2026-04-04T22:44:20.013356558Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Idaq",
-      "Instagram Follow Button",
-      "JotForm",
-      "Microdata for Google Shopping",
-      "No-Q",
-      "Publii",
-      "RM Education",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
     ]
   },
   {
@@ -2134,28 +2235,6 @@
     ]
   },
   {
-    "domain": "decentapps.net",
-    "title": "Decent Apps",
-    "business_name": "Decent Apps",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 3509,
-    "crawled_at": "2026-03-06T05:40:47.551042327Z",
-    "technologies": [
-      "Amazon",
-      "Amazon S3 CDN",
-      "BunnyCDN Header",
-      "Content Delivery Network",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Publii",
-      "QUIC",
-      "Storyblocks",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
     "domain": "shadowpuppettheater.com",
     "title": "Mr. Damon's Shadow Puppets",
     "business_name": "Mr. Damon's Shadow Puppets",
@@ -2433,39 +2512,6 @@
       "Trustpilot Reviews for WordPress",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "beyer.photo",
-    "title": "Bridgit Beyer: Architectural and Interior Photographer",
-    "business_name": "Brett Beyer Photography",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 81528,
-    "crawled_at": "2026-02-20T13:56:54.399118898Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "DAV",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "Publii",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   },
   {
@@ -4423,32 +4469,6 @@
       "Publii",
       "Ubuntu",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "empresssuma.com",
-    "title": "Empress Suma",
-    "business_name": "Empress Suma",
-    "country": "ESP",
-    "seo_score": 70,
-    "tech_spend": 449,
-    "crawled_at": "2025-12-27T04:43:38.334117072Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Content Delivery Network",
-      "Giphy",
-      "Instagram Follow Button",
-      "Linktree",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Netlify",
-      "Publii",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "jQuery"
     ]
   },
   {
@@ -7499,26 +7519,6 @@
       "Google Play",
       "Microdata for Google Shopping",
       "Nginx",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "holdrightgames.com",
-    "title": "Hold Right Games",
-    "business_name": "Hold Right Games",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 649,
-    "crawled_at": "2025-11-11T13:26:38.898966633Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Content Delivery Network",
-      "Fastly",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
       "Publii",
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
