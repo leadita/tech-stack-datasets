@@ -1,6 +1,6 @@
 # Companies Using Everflow (Live Dataset 2026)
 
-This folder contains an active list of 149 companies using **Everflow**. 
+This folder contains an active list of 152 companies using **Everflow**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 149
+- **Total Leads:** 152
 - **Verified:** Yes
-- **Last Updated:** 2026-04-11 11:15 UTC
+- **Last Updated:** 2026-04-12 11:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **149+** companies using Everflow.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **152+** companies using Everflow.
 
 [**⚡ Unlock the Full Everflow List with Contact Details**](https://leadita.com/leads/companies-using-everflow)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-11 11:15 UTC*
+*Last updated: 2026-04-12 11:15 UTC*
 *Data source: Leadita Technographic Intelligence*
