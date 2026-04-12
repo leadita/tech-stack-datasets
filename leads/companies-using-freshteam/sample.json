@@ -1,5 +1,40 @@
 [
   {
+    "domain": "hinted.me",
+    "title": "HintEd Digital Adoption Platform - Hinted",
+    "business_name": "HINTED COMPANY",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 29584,
+    "crawled_at": "2026-04-11T20:11:41.632351643Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cybot",
+      "Elementor",
+      "EmbedPress",
+      "Fastly",
+      "Freshteam",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "HubSpot Conversations",
+      "HubSpot WordPress Plugin",
+      "Hubspot",
+      "Lazy Load for WordPress",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Polylang",
+      "Sitelinks Search Box",
+      "UTF-8",
+      "Ubuntu",
+      "Vector Internet Services",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "thewaroftheworldsimmersive.com",
     "title": "Jeff Wayne's The War of The Worlds: The Immersive Experience",
     "business_name": "Layered Reality",
@@ -3138,40 +3173,6 @@
       "Vector Internet Services",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "hinted.me",
-    "title": "HintEd Digital Adoption Platform - Hinted",
-    "business_name": "HINTED COMPANY",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 29584,
-    "crawled_at": "2025-11-11T12:44:38.919654598Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cybot",
-      "Elementor",
-      "EmbedPress",
-      "Fastly",
-      "Freshteam",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "HubSpot Conversations",
-      "HubSpot WordPress Plugin",
-      "Hubspot",
-      "Lazy Load for WordPress",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Polylang",
-      "Sitelinks Search Box",
-      "UTF-8",
-      "Ubuntu",
-      "Vector Internet Services",
-      "WordPress",
-      "YouTube"
     ]
   }
 ]
