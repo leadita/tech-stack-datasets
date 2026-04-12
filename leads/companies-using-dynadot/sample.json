@@ -1,5 +1,65 @@
 [
   {
+    "domain": "lugee.co",
+    "title": "Lugee — Smarter Airport Mobility",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 135,
+    "crawled_at": "2026-04-12T15:20:19.993968889Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "nocodemeta.com",
+    "title": "An EMDN - no code meta, No-Code Tools Automation App Builders Workflows SaaS Platforms AI Integration",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 135,
+    "crawled_at": "2026-04-12T14:23:19.984168245Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "lasvegasfireclaim.com",
+    "title": "Spartan Claim Resources LLC- A local Las Vegas / Henderson fire and water claim public adjusting firm",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 219,
+    "crawled_at": "2026-04-12T08:53:44.41482552Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "inbacklink.com",
     "title": "Inbacklink - In Backlink - @inbacklink",
     "business_name": "",
@@ -71,28 +131,6 @@
       "Google Analytics",
       "Google Tag Manager",
       "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "excoding.com",
-    "title": "An EMDN - EX coding, Software Development Programming Technology Application Development Coding Solutions",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 135,
-    "crawled_at": "2026-04-11T11:28:48.201275484Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microsoft Clarity",
       "UTF-8"
     ]
   },
@@ -3744,94 +3782,6 @@
       "Font Awesome",
       "GZIP Module",
       "Tumblr",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "digital-twin.engineer",
-    "title": "Digital-Twin Research and Development Foundation - Stanford",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 135,
-    "crawled_at": "2025-11-11T16:56:38.933337176Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "hyperscale.engineering",
-    "title": "Hyperscale R&D Foundation",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 335,
-    "crawled_at": "2025-11-11T16:38:38.904547171Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "lasvegasfireclaim.com",
-    "title": "Spartan Claim Resources LLC- A local Las Vegas / Henderson fire and water claim public adjusting firm",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 219,
-    "crawled_at": "2025-11-11T15:32:38.939890277Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "analog.engineer",
-    "title": "Analog",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 135,
-    "crawled_at": "2025-11-11T14:20:38.922875062Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "pat-raz.com",
-    "title": "PATRAZ",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 135,
-    "crawled_at": "2025-11-11T13:08:38.951889414Z",
-    "technologies": [
-      "Dynadot",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "Font Awesome",
-      "GZIP Module",
       "Twitter Ads",
       "UTF-8"
     ]
