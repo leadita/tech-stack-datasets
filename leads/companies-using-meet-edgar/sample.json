@@ -1,5 +1,38 @@
 [
   {
+    "domain": "nm4db.com",
+    "title": "Home | Guild Foundation Press | Steve Mouzon",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 19201,
+    "crawled_at": "2026-04-12T17:53:19.982193529Z",
+    "technologies": [
+      "A2 Hosting",
+      "Amazon",
+      "Amazon S3 CDN",
+      "Amazon Widgets",
+      "Apple Auto Link Maker",
+      "Facebook Embedded Posts",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "Google Analytics",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Related Website Sites",
+      "LiteSpeed",
+      "Meet Edgar",
+      "Microsoft Ajax Content Delivery Network",
+      "PayPal Adaptive Payments",
+      "PayPal Button",
+      "PayPal Form",
+      "QUIC",
+      "Storyblocks",
+      "Twitter Ads"
+    ]
+  },
+  {
     "domain": "homedecoratie.co.uk",
     "title": "Online shopping for home decor supplies with free worldwide shipping",
     "business_name": "Home Decoratie",
