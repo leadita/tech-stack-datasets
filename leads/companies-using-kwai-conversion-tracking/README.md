@@ -1,6 +1,6 @@
 # Companies Using Kwai Conversion Tracking (Live Dataset 2026)
 
-This folder contains an active list of 73 companies using **Kwai Conversion Tracking**. 
+This folder contains an active list of 74 companies using **Kwai Conversion Tracking**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 73
+- **Total Leads:** 74
 - **Verified:** Yes
-- **Last Updated:** 2026-04-11 14:30 UTC
+- **Last Updated:** 2026-04-12 14:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **73+** companies using Kwai Conversion Tracking.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **74+** companies using Kwai Conversion Tracking.
 
 [**⚡ Unlock the Full Kwai Conversion Tracking List with Contact Details**](https://leadita.com/leads/companies-using-kwai-conversion-tracking)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-11 14:30 UTC*
+*Last updated: 2026-04-12 14:30 UTC*
 *Data source: Leadita Technographic Intelligence*
