@@ -1,5 +1,36 @@
 [
   {
+    "domain": "compassresearch.net.au",
+    "title": "Compass Research | Economy | Economic and Market Research } Cairns | Far North Queensland | Regional",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 72,
+    "tech_spend": 585,
+    "crawled_at": "2026-04-12T23:11:19.987402934Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "ElementUI",
+      "Foxit",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "LiteSpeed",
+      "Material Design Icons",
+      "QUIC",
+      "Research.net",
+      "University or College",
+      "W3.CSS",
+      "YouTube",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "foxit.com",
     "title": "PDF Software & Tools Tailored to Your Business | Foxit",
     "business_name": "Foxit Software",
@@ -594,37 +625,6 @@
       "UTF-8",
       "Verified Profile",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "compassresearch.net.au",
-    "title": "Compass Research | Economy | Economic and Market Research } Cairns | Far North Queensland | Regional",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 77,
-    "tech_spend": 585,
-    "crawled_at": "2025-12-15T20:43:59.499155901Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ElementUI",
-      "Foxit",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "LiteSpeed",
-      "Material Design Icons",
-      "QUIC",
-      "Research.net",
-      "University or College",
-      "W3.CSS",
-      "YouTube",
-      "eLand",
-      "jQuery"
     ]
   },
   {
