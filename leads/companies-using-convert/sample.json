@@ -3875,38 +3875,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "fashionette.co.uk",
-    "title": "fashionette: Buy designer bags, shoes, jewellery, watches & accessories online",
-    "business_name": "fashionette",
-    "country": "DEU",
-    "seo_score": 87,
-    "tech_spend": 72918,
-    "crawled_at": "2025-11-11T17:38:39.008184783Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Apache",
-      "CloudFront",
-      "Content Delivery Network",
-      "Convert",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "PWA",
-      "Rich Relevance",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "To Top",
-      "UTF-8",
-      "eLand"
-    ]
   }
 ]
