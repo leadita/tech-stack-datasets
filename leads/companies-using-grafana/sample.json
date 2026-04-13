@@ -1,39 +1,18 @@
 [
   {
-    "domain": "dbos.tel",
+    "domain": "blokhus-energy.ssc.dk",
     "title": "Grafana",
     "business_name": "",
     "country": "",
     "seo_score": 30,
     "tech_spend": 1200,
-    "crawled_at": "2026-04-11T06:17:19.984834358Z",
+    "crawled_at": "2026-04-13T17:56:20.030460429Z",
     "technologies": [
       "Barchart",
       "Express",
       "GitHub Hosting",
       "Grafana",
-      "Nginx",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "gonebutnotforgotten.site",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 1260,
-    "crawled_at": "2026-04-09T10:29:20.009038543Z",
-    "technologies": [
-      "Apache",
-      "Barchart",
-      "Express",
-      "GitHub Hosting",
-      "Google Forms",
-      "Google My Business",
-      "Grafana",
-      "UTF-8",
-      "Yandex Hosting"
     ]
   },
   {
@@ -54,6 +33,26 @@
       "Google My Business",
       "Grafana",
       "OpenResty",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "pedrosantiagodelrey.com",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 1200,
+    "crawled_at": "2026-04-04T07:23:20.007624381Z",
+    "technologies": [
+      "Apache",
+      "Barchart",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Grafana",
+      "Nginx",
       "UTF-8"
     ]
   },
