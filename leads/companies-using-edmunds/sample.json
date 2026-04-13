@@ -1,5 +1,32 @@
 [
   {
+    "domain": "windycitymotors.co",
+    "title": "Windy City Motors – Car Dealer in Chicago, IL",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 4828,
+    "crawled_at": "2026-04-12T17:26:20.035670878Z",
+    "technologies": [
+      "Edmunds",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "StackPath",
+      "Tailwind CSS",
+      "UTF-8",
+      "reCAPTCHA",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "clioautomall.com",
     "title": "Clio Auto Mall & Wholesale, LTD",
     "business_name": "",
