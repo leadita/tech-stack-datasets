@@ -1,6 +1,6 @@
 # Companies Using Termly (Live Dataset 2026)
 
-This folder contains an active list of 7,229 companies using **Termly**. 
+This folder contains an active list of 7,255 companies using **Termly**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 7,229
+- **Total Leads:** 7,255
 - **Verified:** Yes
-- **Last Updated:** 2026-04-12 14:00 UTC
+- **Last Updated:** 2026-04-13 14:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **7,229+** companies using Termly.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **7,255+** companies using Termly.
 
 [**⚡ Unlock the Full Termly List with Contact Details**](https://leadita.com/leads/companies-using-termly)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-12 14:00 UTC*
+*Last updated: 2026-04-13 14:00 UTC*
 *Data source: Leadita Technographic Intelligence*
