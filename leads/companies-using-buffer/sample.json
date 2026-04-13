@@ -1,5 +1,38 @@
 [
   {
+    "domain": "timhearnconsulting.co.uk",
+    "title": "Home - Tim Hearn Consulting",
+    "business_name": "Tim Hearn Consulting",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 4088,
+    "crawled_at": "2026-04-13T01:59:20.004734471Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Astra Theme",
+      "Buffer",
+      "Elegant Themes",
+      "EmbedPress",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "PHP",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "WordPress",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "nigelsloam.co.uk",
     "title": "Nigel Sloam - Actuaries and Consultants",
     "business_name": "",
