@@ -1,5 +1,86 @@
 [
   {
+    "domain": "liberty.su",
+    "title": "Liberty.SU Network",
+    "business_name": "Liberty.SU Network",
+    "country": "RUS",
+    "seo_score": 60,
+    "tech_spend": 49,
+    "crawled_at": "2026-04-13T11:59:20.009213078Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Debian",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Pinterest Conversion Tracking",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "ponjoh.com",
+    "title": "Pontus Johansson — Product Designer",
+    "business_name": "Pontus Johansson",
+    "country": "SWE",
+    "seo_score": 45,
+    "tech_spend": 748,
+    "crawled_at": "2026-04-13T09:35:23.293914267Z",
+    "technologies": [
+      "Content Delivery Network",
+      "CoreUI",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "oksanaandreeva.com",
+    "title": "oksanaandreeva.com",
+    "business_name": "oksanaandreeva.com",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 109,
+    "crawled_at": "2026-04-13T00:49:23.408193632Z",
+    "technologies": [
+      "ADFOX",
+      "Alternate Protocol",
+      "Apache",
+      "Drupal",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin",
+      "Yandex Hosting",
+      "Yandex Metrika"
+    ]
+  },
+  {
+    "domain": "adventurous2.ltd",
+    "title": "Adventurous, too",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 49,
+    "crawled_at": "2026-04-12T19:02:35.559546278Z",
+    "technologies": [
+      "App Store",
+      "Google My Business",
+      "Google Play",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "empresssuma.com",
     "title": "Empress Suma",
     "business_name": "Empress Suma",
@@ -4892,25 +4973,6 @@
     ]
   },
   {
-    "domain": "liberty.su",
-    "title": "Liberty.SU Network",
-    "business_name": "Liberty.SU Network",
-    "country": "RUS",
-    "seo_score": 60,
-    "tech_spend": 49,
-    "crawled_at": "2025-12-21T04:17:20.81289413Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Debian",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Pinterest Conversion Tracking",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
     "domain": "freeonplate.com",
     "title": "Free HowTos, DIY Projects and More... - FREEonPLATE.com",
     "business_name": "FREEonPLATE.com",
@@ -7459,68 +7521,6 @@
       "QUIC",
       "University or College",
       "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "ponjoh.com",
-    "title": "Pontus Johansson — Product Designer",
-    "business_name": "Pontus Johansson",
-    "country": "SWE",
-    "seo_score": 45,
-    "tech_spend": 748,
-    "crawled_at": "2025-11-11T21:35:38.933048417Z",
-    "technologies": [
-      "Content Delivery Network",
-      "CoreUI",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "oksanaandreeva.com",
-    "title": "oksanaandreeva.com",
-    "business_name": "oksanaandreeva.com",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 8549,
-    "crawled_at": "2025-11-11T19:26:38.947941279Z",
-    "technologies": [
-      "ADFOX",
-      "Alternate Protocol",
-      "Apache",
-      "Drupal",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin",
-      "Yandex Hosting",
-      "Yandex Metrika"
-    ]
-  },
-  {
-    "domain": "adventurous2.ltd",
-    "title": "Adventurous, too",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 49,
-    "crawled_at": "2025-11-11T18:05:38.904197273Z",
-    "technologies": [
-      "App Store",
-      "Google My Business",
-      "Google Play",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Publii",
-      "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   }
