@@ -1,5 +1,36 @@
 [
   {
+    "domain": "thebilling-tree.info",
+    "title": "The Billing Tree",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 49249,
+    "crawled_at": "2026-04-13T09:25:52.234060208Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "AthenaHealth",
+      "Better Lead Generation Services",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "ElementUI",
+      "Fastly",
+      "Formspree",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Open Dental",
+      "Practice Fusion",
+      "UTF-8",
+      "Unsplash",
+      "eClinicalWorks"
+    ]
+  },
+  {
     "domain": "roonyai.com",
     "title": "Roony - AI-Powered Claims Resolution for Healthcare Providers | Roony",
     "business_name": "Roony",
