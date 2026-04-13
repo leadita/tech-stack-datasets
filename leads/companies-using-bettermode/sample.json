@@ -1,5 +1,35 @@
 [
   {
+    "domain": "mikirsaham.com",
+    "title": "Home - Mikirsaham",
+    "business_name": "",
+    "country": "OMN",
+    "seo_score": 67,
+    "tech_spend": 40856,
+    "crawled_at": "2026-04-12T23:31:40.841802652Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "BetterMode",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "ElementUI",
+      "Financial Services Guide",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Imgix",
+      "Instagram Follow Button",
+      "KVH",
+      "PWA",
+      "QUIC",
+      "Tailwind CSS",
+      "Tribe.so",
+      "Vector Internet Services",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "yurbi.how",
     "title": "Home - Yurbi",
     "business_name": "",
@@ -1898,37 +1928,6 @@
       "Tailwind CSS",
       "Tribe.so",
       "Vector Internet Services",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "mikirsaham.com",
-    "title": "Home - Mikirsaham",
-    "business_name": "",
-    "country": "OMN",
-    "seo_score": 67,
-    "tech_spend": 45856,
-    "crawled_at": "2025-11-11T19:11:38.911774937Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "BetterMode",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "DC74",
-      "ElementUI",
-      "Financial Services Guide",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Imgix",
-      "Instagram Follow Button",
-      "KVH",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "Tribe.so",
-      "Vector Internet Services",
-      "YouTube",
       "shadcn ui"
     ]
   }
