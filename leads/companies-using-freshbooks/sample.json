@@ -1,5 +1,34 @@
 [
   {
+    "domain": "foundersfreedomsystem.com",
+    "title": "Founder Command System - The Business Operating System for 7-Figure Founders",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 9364,
+    "crawled_at": "2026-04-13T06:44:19.983582409Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Facebook Reseller",
+      "Fastly",
+      "FreshBooks",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "HighLevel",
+      "Microsoft Clarity",
+      "Next.js",
+      "PWA",
+      "QUIC",
+      "Tailwind CSS",
+      "Trello",
+      "UTF-8",
+      "Vercel",
+      "Xero"
+    ]
+  },
+  {
     "domain": "codaconsulting.org",
     "title": "Coda Consulting ~ performing arts support | RnP ARTS",
     "business_name": "Coda Consulting | RnP+ARTS",
