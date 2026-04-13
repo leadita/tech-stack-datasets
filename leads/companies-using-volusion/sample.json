@@ -1,5 +1,53 @@
 [
   {
+    "domain": "ifn-gamma.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 55,
+    "tech_spend": 384,
+    "crawled_at": "2026-04-13T15:38:20.009487931Z",
+    "technologies": [
+      "Google My Business",
+      "Microsoft Frontpage",
+      "Nginx",
+      "Volusion Live Chat",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "fire-extinguisher.net",
+    "title": "Your Trusted, Local Fire Extingusiher Experts | AFS",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 31408,
+    "crawled_at": "2026-04-13T11:15:28.714672524Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "AWS WAF Challenge",
+      "Apture Linking Platform",
+      "AutoComplete",
+      "Better Lead Generation Services",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Fireblade",
+      "FreeCSSTemplates",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "ISO/IEC 8859",
+      "IcoMoon",
+      "PayPal",
+      "QUIC",
+      "Twitter Ads",
+      "Volusion",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "curatedmarketing.co",
     "title": "Home | Curated Marketing",
     "business_name": "",
@@ -604,22 +652,6 @@
       "UTF-8",
       "Volusion Live Chat",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "ifn-gamma.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 50,
-    "tech_spend": 384,
-    "crawled_at": "2026-03-04T22:33:18.142444602Z",
-    "technologies": [
-      "Google My Business",
-      "Microsoft Frontpage",
-      "Nginx",
-      "Volusion Live Chat",
-      "eLand"
     ]
   },
   {
@@ -3009,38 +3041,6 @@
       "UTF-8",
       "Volusion",
       "Volusion Live Chat"
-    ]
-  },
-  {
-    "domain": "fire-extinguisher.net",
-    "title": "Your Trusted, Local Fire Extingusiher Experts | AFS",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 31408,
-    "crawled_at": "2025-11-11T21:59:38.926330369Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "AutoComplete",
-      "Better Lead Generation Services",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Fireblade",
-      "FreeCSSTemplates",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "ISO/IEC 8859",
-      "IcoMoon",
-      "PayPal",
-      "QUIC",
-      "Twitter Ads",
-      "Volusion",
-      "jQuery"
     ]
   }
 ]
