@@ -1,5 +1,31 @@
 [
   {
+    "domain": "goodsalesemails.com",
+    "title": "Good Sales Emails",
+    "business_name": "",
+    "country": "VEN",
+    "seo_score": 72,
+    "tech_spend": 52988,
+    "crawled_at": "2026-04-13T21:50:19.979799673Z",
+    "technologies": [
+      "Adult Content",
+      "Amplemarket",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Clearbit",
+      "GZIP Module",
+      "Heroku",
+      "NFOrce Internet",
+      "Next.js",
+      "PWA",
+      "QUIC",
+      "Swiftype",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouCanBookMe",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "foxit.com",
     "title": "PDF Software & Tools Tailored to Your Business | Foxit",
     "business_name": "Foxit Software",
