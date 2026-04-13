@@ -1,5 +1,126 @@
 [
   {
+    "domain": "applesaucelabs.com",
+    "title": "Welcome to Applesauce Labs | Applesauce Labs",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 600,
+    "crawled_at": "2026-04-13T17:08:19.984779973Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "quantstruct.com",
+    "title": "Quantstruct",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 5000,
+    "crawled_at": "2026-04-13T14:41:20.007507973Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Docusaurus",
+      "INETu",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "emsa-technology.com",
+    "title": "EMSA TECHNOLOGY LTD | EMSA TECHNOLOGY LTD",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 240,
+    "crawled_at": "2026-04-13T08:14:19.998403993Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "willyhardian.com",
+    "title": "Willy Hardian | Full-Stack Developer & Technical Instructor",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-04-13T05:47:20.000073324Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Docusaurus",
+      "Express",
+      "GitHub Hosting",
+      "Next.js",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "wuchuheng.com",
+    "title": "Hello from wuchuheng's notes | wuchuheng's notes",
+    "business_name": "",
+    "country": "",
+    "seo_score": 32,
+    "tech_spend": "",
+    "crawled_at": "2026-04-13T04:20:20.013946623Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "GZIP Module",
+      "GitHub Hosting",
+      "OpenResty",
+      "PWA",
+      "Perl"
+    ]
+  },
+  {
+    "domain": "adnanrahic.com",
+    "title": "Welcome! | Hi! I'm Adnan Rahić",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 4416,
+    "crawled_at": "2026-04-12T23:12:04.710863708Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Bento Now",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "InitiativeS",
+      "Netlify",
+      "Perl",
+      "Sematext",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "jchu.tech",
     "title": "Hello from Jiacheng's Wiki | Jiacheng's Wiki",
     "business_name": "",
@@ -5348,26 +5469,6 @@
     ]
   },
   {
-    "domain": "willyhardian.com",
-    "title": "Willy Hardian | Full-Stack Developer & Technical Instructor",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 240,
-    "crawled_at": "2026-02-01T19:24:41.114477535Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Docusaurus",
-      "Express",
-      "GitHub Hosting",
-      "Next.js",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel"
-    ]
-  },
-  {
     "domain": "husarion.com",
     "title": "Husarion | Autonomous Mobile Robots Made Simple",
     "business_name": "",
@@ -7995,25 +8096,6 @@
     ]
   },
   {
-    "domain": "quantstruct.com",
-    "title": "Quantstruct",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 5000,
-    "crawled_at": "2025-12-24T17:55:38.336346072Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Docusaurus",
-      "INETu",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
     "domain": "mitchellmudd.dev",
     "title": "Portfolio | Hallo, I'm Mitchell Mudd!",
     "business_name": "",
@@ -9062,27 +9144,6 @@
       "QUIC",
       "UTF-8",
       "Vector Internet Services",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "emsa-technology.com",
-    "title": "EMSA TECHNOLOGY LTD | EMSA TECHNOLOGY LTD",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 240,
-    "crawled_at": "2025-12-15T22:34:56.035180179Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
       "Vercel"
     ]
   },
@@ -10949,31 +11010,6 @@
     ]
   },
   {
-    "domain": "scalar.com",
-    "title": "Scalar - Document, Test & Discover APIs",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 5639,
-    "crawled_at": "2025-11-24T03:27:19.446466299Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Digital Ocean Spaces",
-      "Docusaurus",
-      "Express",
-      "GitHub Hosting",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "Typesense",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "cyanview.cloud",
     "title": "AI-Powered Documentation Search | CyanView Support",
     "business_name": "",
@@ -12415,53 +12451,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "zachsharma.us",
-    "title": "Hello from Zachariah Sharma | Zachariah Sharma",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 18900,
-    "crawled_at": "2025-11-17T19:38:04.995001969Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GitHub Hosting",
-      "NFOrce Internet",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "penateam.com",
-    "title": "Pena - Technical Writing as a Subscription",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 251,
-    "crawled_at": "2025-11-17T19:18:26.566638574Z",
-    "technologies": [
-      "Calendly",
-      "Cornerstone",
-      "Docusaurus",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Next.js",
-      "Nginx",
-      "Pleroma",
-      "Product Hunt",
-      "QUIC",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
