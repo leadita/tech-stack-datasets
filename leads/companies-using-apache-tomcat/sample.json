@@ -1,5 +1,83 @@
 [
   {
+    "domain": "srilathathumati.com",
+    "title": "Srilatha Thumati",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 5816,
+    "crawled_at": "2026-04-13T14:08:19.989199656Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "CDN JS",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Express",
+      "Font Awesome",
+      "Formspree",
+      "GitHub Hosting",
+      "Netlify",
+      "Nginx",
+      "Perl",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "saaeagle.com",
+    "title": "Admission advisory",
+    "business_name": "",
+    "country": "NGA",
+    "seo_score": 65,
+    "tech_spend": "",
+    "crawled_at": "2026-04-13T05:49:29.826859383Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Google Adsense",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google Reseller",
+      "Instagram Follow Button",
+      "JavaServer Faces",
+      "Tawk",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "trasmy.com",
+    "title": "Trasmy",
+    "business_name": "",
+    "country": "URY",
+    "seo_score": 65,
+    "tech_spend": 508,
+    "crawled_at": "2026-04-13T04:48:14.800032838Z",
+    "technologies": [
+      "Angular",
+      "Apache",
+      "Apache Tomcat JK",
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "ISO/IEC 8859",
+      "IcoMoon",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "ojasmicrofinance.in",
     "title": "OJAS MICRO",
     "business_name": "",
@@ -7591,35 +7669,6 @@
     ]
   },
   {
-    "domain": "srilathathumati.com",
-    "title": "Srilatha Thumati",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 75,
-    "tech_spend": 5816,
-    "crawled_at": "2026-01-10T09:04:49.621441763Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "CDN JS",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Express",
-      "Font Awesome",
-      "Formspree",
-      "GitHub Hosting",
-      "Netlify",
-      "Nginx",
-      "Perl",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
     "domain": "iqbalt.com",
     "title": "Taha Iqbal | Senior Java, Integration and Cloud Engineer",
     "business_name": "",
@@ -13440,117 +13489,6 @@
       "PWA",
       "Subversion",
       "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "artificialcognitions.com",
-    "title": "Home | Artificial Cognitions",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": "",
-    "crawled_at": "2025-11-11T22:44:38.911010749Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Bulma",
-      "University or College",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "bibhutripathy.in",
-    "title": "Home",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 70,
-    "tech_spend": 17914,
-    "crawled_at": "2025-11-11T22:29:38.903021618Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apache",
-      "Apache Tomcat JK",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Workspace",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "Python",
-      "QUIC",
-      "Twitter Ads",
-      "University or College",
-      "Unsplash",
-      "Zyro"
-    ]
-  },
-  {
-    "domain": "artificialintelligence.dk",
-    "title": "Home | Artificial Intelligence",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 70,
-    "tech_spend": "",
-    "crawled_at": "2025-11-11T21:05:38.908580545Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Bulma",
-      "Python",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "saaeagle.com",
-    "title": "Admission advisory",
-    "business_name": "",
-    "country": "NGA",
-    "seo_score": 65,
-    "tech_spend": "",
-    "crawled_at": "2025-11-11T20:41:38.925315701Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Google Adsense",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google Reseller",
-      "Instagram Follow Button",
-      "JavaServer Faces",
-      "Tawk",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College"
-    ]
-  },
-  {
-    "domain": "trasmy.com",
-    "title": "Trasmy",
-    "business_name": "",
-    "country": "URY",
-    "seo_score": 60,
-    "tech_spend": 159,
-    "crawled_at": "2025-11-11T20:23:38.955877714Z",
-    "technologies": [
-      "Angular",
-      "Apache",
-      "Apache Tomcat JK",
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "ISO/IEC 8859",
-      "IcoMoon",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
