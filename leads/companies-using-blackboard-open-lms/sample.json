@@ -1,5 +1,64 @@
 [
   {
+    "domain": "holmesedu.ca",
+    "title": "Holmes Institute Canada | Diploma Hospitality Toronto",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 87,
+    "tech_spend": 72891,
+    "crawled_at": "2026-04-13T16:07:59.960219129Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon",
+      "Amazon CloudFront",
+      "Aruba",
+      "Blackboard Open LMS",
+      "Calendly",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Flow",
+      "Font Awesome",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Tailwind CSS",
+      "Tawk",
+      "UTF-8",
+      "WF Cookie Consent",
+      "YouTube",
+      "eLand",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "arkansasbaptist.edu",
+    "title": "Arkansas Baptist College | Faith. Growth. Service.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 45067,
+    "crawled_at": "2026-04-13T01:14:19.993806935Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Blackboard Open LMS",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Express",
+      "Instagram Follow Button",
+      "Microsoft 365",
+      "Next.js",
+      "Sanity",
+      "Spiceworks",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "accessibilityict.org",
     "title": "Accessibility Summer Camp | Accessibility ICT",
     "business_name": "",
@@ -3096,36 +3155,6 @@
       "WordPress Multisite",
       "WordPress Stats",
       "eLand"
-    ]
-  },
-  {
-    "domain": "holmesedu.ca",
-    "title": "Holmes Institute Canada | Diploma Hospitality Toronto",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 73167,
-    "crawled_at": "2025-11-11T23:11:38.974047321Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon",
-      "Amazon CloudFront",
-      "Aruba",
-      "Blackboard Open LMS",
-      "Calendly",
-      "CloudFront",
-      "Content Delivery Network",
-      "Flow",
-      "Font Awesome",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Tailwind CSS",
-      "Tawk",
-      "WF Cookie Consent",
-      "Webflow",
-      "YouTube",
-      "eLand",
-      "jsDelivr"
     ]
   }
 ]
