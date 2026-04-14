@@ -1,5 +1,57 @@
 [
   {
+    "domain": "westudy.ca",
+    "title": "WeStudy Tutoring",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 65,
+    "tech_spend": 30579,
+    "crawled_at": "2026-04-14T18:20:20.020402352Z",
+    "technologies": [
+      "Book Direct",
+      "Cloudflare",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Grammarly",
+      "Notion",
+      "QUIC",
+      "RM Education",
+      "Snowplow",
+      "Todoist",
+      "UTF-8",
+      "University or College",
+      "Way",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "jonm.cc",
+    "title": "Jon McCullough",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-04-13T21:28:44.89801696Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "PWA",
+      "Todoist",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "project-management-software.org",
     "title": "Top 25 Best Project Management Software in 2026",
     "business_name": "ProjectManagers.net",
@@ -1930,27 +1982,6 @@
       "YouTube",
       "Zeald",
       "monday.com"
-    ]
-  },
-  {
-    "domain": "jonm.cc",
-    "title": "Jon McCullough",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2025-11-12T00:02:38.89147057Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "PWA",
-      "Pleroma",
-      "Todoist",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
