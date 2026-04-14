@@ -1,5 +1,36 @@
 [
   {
+    "domain": "keithbrooks.com",
+    "title": "Keith Brooks, The B2B Whisperer",
+    "business_name": "Keith Brooks",
+    "country": "SWE",
+    "seo_score": 82,
+    "tech_spend": 81468,
+    "crawled_at": "2026-04-14T19:32:20.033623342Z",
+    "technologies": [
+      "ADTECH",
+      "AWS WAF Challenge",
+      "Amazon Widgets",
+      "Automattic",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Drip",
+      "Google My Business",
+      "Highspot",
+      "InitiativeS",
+      "Marketing Alliance",
+      "Medium",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "RM Education",
+      "RingCentral",
+      "Smartling",
+      "Twitter Ads",
+      "Woopra",
+      "WordPress",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "nbhrconsulting.com",
     "title": "NBHR Consulting | Specialists in Outplacement and Organisational Development",
     "business_name": "NBHR Consulting",
@@ -551,37 +582,6 @@
       "WordPress",
       "WordPress Multisite",
       "WordPress Stats"
-    ]
-  },
-  {
-    "domain": "keithbrooks.com",
-    "title": "Keith Brooks, The B2B Whisperer",
-    "business_name": "Keith Brooks",
-    "country": "SWE",
-    "seo_score": 82,
-    "tech_spend": 81468,
-    "crawled_at": "2026-02-10T04:06:13.613032534Z",
-    "technologies": [
-      "ADTECH",
-      "AWS WAF Challenge",
-      "Amazon Widgets",
-      "Automattic",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Drip",
-      "Google My Business",
-      "Highspot",
-      "InitiativeS",
-      "Marketing Alliance",
-      "Medium",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "RM Education",
-      "RingCentral",
-      "Smartling",
-      "Twitter Ads",
-      "Woopra",
-      "WordPress",
-      "YouTube"
     ]
   },
   {
