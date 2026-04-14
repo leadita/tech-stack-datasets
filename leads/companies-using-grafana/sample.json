@@ -1,5 +1,23 @@
 [
   {
+    "domain": "corrquestanalytics.com",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": "",
+    "crawled_at": "2026-04-14T03:23:19.997442638Z",
+    "technologies": [
+      "Apache",
+      "GitHub Hosting",
+      "Google My Business",
+      "Grafana",
+      "OpenSSL",
+      "PHP",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "blokhus-energy.ssc.dk",
     "title": "Grafana",
     "business_name": "",
