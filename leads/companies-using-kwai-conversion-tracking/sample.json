@@ -1,12 +1,12 @@
 [
   {
-    "domain": "1ace.top",
+    "domain": "1ace8088.com",
     "title": "1ACE | Cricket Betting & Live Casino Game in India",
     "business_name": "",
     "country": "CHN",
     "seo_score": 72,
     "tech_spend": 1639,
-    "crawled_at": "2026-04-12T22:07:40.447711013Z",
+    "crawled_at": "2026-04-14T01:56:20.011044729Z",
     "technologies": [
       "Adult Content",
       "Alternate Protocol",
@@ -31,6 +31,40 @@
       "TikTok Conversion Tracking Pixel",
       "Twitter Ads",
       "UTF-8"
+    ]
+  },
+  {
+    "domain": "hikmens.com",
+    "title": "Ouryours",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 13672,
+    "crawled_at": "2026-04-14T01:22:26.683939254Z",
+    "technologies": [
+      "Amazon",
+      "Apture Linking Platform",
+      "Baidu Cloud",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "GZIP Module",
+      "GetResponse",
+      "Giropay",
+      "Google",
+      "Google Cloud CDN",
+      "Kwai Conversion Tracking",
+      "Microdata for Google Shopping",
+      "Microsoft Azure",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Visual Studio",
+      "Yandex Hosting"
     ]
   },
   {
@@ -267,41 +301,6 @@
       "Sign In With Google",
       "TikTok Conversion Tracking Pixel",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "ouryours.com",
-    "title": "Ouryours",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 13672,
-    "crawled_at": "2026-01-28T17:07:43.434069469Z",
-    "technologies": [
-      "Amazon",
-      "Apture Linking Platform",
-      "Baidu Cloud",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Express",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "GZIP Module",
-      "GetResponse",
-      "Giropay",
-      "Google",
-      "Google Cloud CDN",
-      "Kwai Conversion Tracking",
-      "Microdata for Google Shopping",
-      "Microsoft Azure",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Visual Studio",
-      "Yandex Hosting"
     ]
   },
   {
