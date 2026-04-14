@@ -1,5 +1,84 @@
 [
   {
+    "domain": "mediapathic.net",
+    "title": "Welcome |mediapathic",
+    "business_name": "",
+    "country": "VEN",
+    "seo_score": 67,
+    "tech_spend": 15459,
+    "crawled_at": "2026-04-14T07:53:19.986662711Z",
+    "technologies": [
+      "3 Products",
+      "Apache",
+      "BLR",
+      "Cisco/Arrowpoint Content Service Switch",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Micro.blog",
+      "PHP",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8",
+      "WoWonder"
+    ]
+  },
+  {
+    "domain": "skydiveproshop.com",
+    "title": "SkydiveStore.com | Skydiving Gear, Parachutes & Equipment Online",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 23856,
+    "crawled_at": "2026-04-13T21:47:20.002229786Z",
+    "technologies": [
+      "Alternate Protocol",
+      "BigCommerce",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Fireblade",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Micro.blog",
+      "Olark",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services"
+    ]
+  },
+  {
+    "domain": "ekcragg.co.uk",
+    "title": "Emma Cragg",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 60,
+    "crawled_at": "2026-04-13T12:46:22.491392894Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Instagram Follow Button",
+      "KaTeX",
+      "Micro.blog",
+      "Render",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "thedent.net",
     "title": "The Dent",
     "business_name": "",
@@ -200,42 +279,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "theskydivingstore.com",
-    "title": "SkydiveStore.com | Skydiving Gear, Parachutes & Equipment Online",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 23856,
-    "crawled_at": "2026-04-13T00:00:09.652114855Z",
-    "technologies": [
-      "Alternate Protocol",
-      "BigCommerce",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Fireblade",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Micro.blog",
-      "Olark",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services"
     ]
   },
   {
@@ -2020,33 +2063,6 @@
       "University or College",
       "eLand",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "gregmorris.co.uk",
-    "title": "Greg Morris",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 3180,
-    "crawled_at": "2026-03-13T05:51:31.880067297Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Ghost",
-      "Google Adsense",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google Reseller",
-      "Mastodon",
-      "Micro.blog",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "UTF-8",
-      "jsDelivr"
     ]
   },
   {
@@ -5151,30 +5167,6 @@
     ]
   },
   {
-    "domain": "mediapathic.net",
-    "title": "Welcome |mediapathic",
-    "business_name": "",
-    "country": "VEN",
-    "seo_score": 72,
-    "tech_spend": 15459,
-    "crawled_at": "2025-12-24T15:50:47.571495967Z",
-    "technologies": [
-      "3 Products",
-      "Apache",
-      "BLR",
-      "Cisco/Arrowpoint Content Service Switch",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Micro.blog",
-      "PHP",
-      "Tumblr",
-      "Twitter Ads",
-      "UTF-8",
-      "WoWonder"
-    ]
-  },
-  {
     "domain": "albertjaynock.org",
     "title": "Albert Jay Nock – fierce critic of organized stupidity",
     "business_name": "",
@@ -7911,31 +7903,6 @@
       "Twitter Ads",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "ekcragg.co.uk",
-    "title": "Emma Cragg",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 60,
-    "crawled_at": "2025-11-11T22:23:38.971511485Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Cloudflare",
-      "Dart",
-      "GraphQL",
-      "Instagram Follow Button",
-      "Micro.blog",
-      "Nginx",
-      "Pagekit",
-      "Perl",
-      "Python",
-      "Snowplow",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]

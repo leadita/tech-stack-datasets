@@ -1,5 +1,125 @@
 [
   {
+    "domain": "mderegnieaux.work",
+    "title": "Maxime Deregnieaux",
+    "business_name": "Maxime Deregnieaux",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 49,
+    "crawled_at": "2026-04-14T11:08:19.992048156Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Publii",
+      "Ubuntu",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "abqzscca.org",
+    "title": "Albuquerque BMW Z’s",
+    "business_name": "Albuquerque BMW Z’s",
+    "country": "PHL",
+    "seo_score": 72,
+    "tech_spend": 10257,
+    "crawled_at": "2026-04-14T08:05:19.985157189Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Neon One",
+      "Publii",
+      "RM Education",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "michielebberink.nl",
+    "title": "Michiel Ebberink",
+    "business_name": "Michiel Ebberink",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 148,
+    "crawled_at": "2026-04-13T18:56:19.996280519Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CoreUI",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "kollatech.com",
+    "title": "Richard - Your Central Sask IT Guy - Kolla Korner",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 11047,
+    "crawled_at": "2026-04-13T14:39:43.457519544Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Idaq",
+      "Instagram Follow Button",
+      "JotForm",
+      "Microdata for Google Shopping",
+      "No-Q",
+      "Publii",
+      "RM Education",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "globalwebify.com",
+    "title": "Global Webify | Digital Marketing & IT Services Company in India",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 19279,
+    "crawled_at": "2026-04-13T14:27:02.716467629Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Fireblade",
+      "Font Awesome",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Microsoft Clarity",
+      "NFOrce Internet",
+      "PHP",
+      "Publii",
+      "QUIC",
+      "UTF-8",
+      "Vercel",
+      "WhatsApp Sharing",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "liberty.su",
     "title": "Liberty.SU Network",
     "business_name": "Liberty.SU Network",
@@ -157,30 +277,6 @@
       "Publii",
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "kollakorner.com",
-    "title": "Richard - Your Central Sask IT Guy - Kolla Korner",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 11047,
-    "crawled_at": "2026-04-11T18:53:20.020274972Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Idaq",
-      "Instagram Follow Button",
-      "JotForm",
-      "Microdata for Google Shopping",
-      "No-Q",
-      "Publii",
-      "RM Education",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
     ]
   },
   {
@@ -4314,27 +4410,6 @@
     ]
   },
   {
-    "domain": "abqzscca.org",
-    "title": "Albuquerque BMW Z’s",
-    "business_name": "Albuquerque BMW Z’s",
-    "country": "PHL",
-    "seo_score": 72,
-    "tech_spend": 10137,
-    "crawled_at": "2025-12-31T07:16:38.311668369Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "NeonCRM",
-      "Publii",
-      "RM Education",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
     "domain": "digitalhumanitarians.com",
     "title": "Digital Humanitarian Network",
     "business_name": "Digital Humanitarian Network",
@@ -4418,23 +4493,6 @@
       "CloudFront",
       "Content Delivery Network",
       "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "michielebberink.nl",
-    "title": "Michiel Ebberink",
-    "business_name": "Michiel Ebberink",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 148,
-    "crawled_at": "2025-12-30T01:55:38.318377364Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CoreUI",
-      "Microdata for Google Shopping",
-      "Nginx",
       "Publii",
       "WordPress SEO Structured Data Schema Plugin"
     ]
@@ -4532,24 +4590,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "mderegnieaux.work",
-    "title": "Maxime Deregnieaux",
-    "business_name": "Maxime Deregnieaux",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 49,
-    "crawled_at": "2025-12-28T04:40:38.336634506Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Publii",
-      "Ubuntu",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   },
   {
