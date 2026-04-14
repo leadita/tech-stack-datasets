@@ -1,5 +1,26 @@
 [
   {
+    "domain": "mayaanne.com",
+    "title": "Maya Anne",
+    "business_name": "",
+    "country": "PHL",
+    "seo_score": 50,
+    "tech_spend": 263,
+    "crawled_at": "2026-04-13T21:38:20.012491107Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "ButterCMS",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Python",
+      "UTF-8",
+      "Vercel",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "quiet-tv.com",
     "title": "MDHearing QuietTV | Wireless TV Headphones",
     "business_name": "",
