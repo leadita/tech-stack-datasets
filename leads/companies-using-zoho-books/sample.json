@@ -1,5 +1,35 @@
 [
   {
+    "domain": "gocrs.com",
+    "title": "Crisp Imaging | Printing in San Luis Obispo County – Crisp Imaging Central Coast",
+    "business_name": "Crisp Imaging Central Coast",
+    "country": "AUS",
+    "seo_score": 82,
+    "tech_spend": 4458,
+    "crawled_at": "2026-04-14T09:08:20.023877061Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "Better Lead Generation Services",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content ad",
+      "Google Related Website Sites",
+      "Microdata for Google Shopping",
+      "POWr",
+      "QUIC",
+      "Sapper",
+      "Shopify",
+      "Shopify Collabs",
+      "UTF-8",
+      "Zoho Books",
+      "hCaptcha",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "owlhootmedia.com",
     "title": "Owlhoot Media - Digital Marketing",
     "business_name": "Owlhoot Media",
@@ -68,36 +98,6 @@
       "Zoho Books",
       "Zoho SalesIQ",
       "hCaptcha",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "gocrs.com",
-    "title": "Crisp Imaging | Printing in San Luis Obispo County – Crisp Imaging Central Coast",
-    "business_name": "Crisp Imaging Central Coast",
-    "country": "AUS",
-    "seo_score": 82,
-    "tech_spend": 4458,
-    "crawled_at": "2026-04-12T21:17:10.910657794Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "Better Lead Generation Services",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content ad",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "POWr",
-      "QUIC",
-      "Sapper",
-      "Shopify",
-      "Shopify Collabs",
-      "UTF-8",
-      "Zoho Books",
-      "hCaptcha",
-      "jsDelivr",
       "reCAPTCHA"
     ]
   },
