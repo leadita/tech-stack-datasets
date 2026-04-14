@@ -1,6 +1,6 @@
 # Companies Using BunnyCDN (Live Dataset 2026)
 
-This folder contains an active list of 47,789 companies using **BunnyCDN**. 
+This folder contains an active list of 48,063 companies using **BunnyCDN**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 47,789
+- **Total Leads:** 48,063
 - **Verified:** Yes
-- **Last Updated:** 2026-04-13 14:15 UTC
+- **Last Updated:** 2026-04-14 14:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **47,789+** companies using BunnyCDN.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **48,063+** companies using BunnyCDN.
 
 [**⚡ Unlock the Full BunnyCDN List with Contact Details**](https://leadita.com/leads/companies-using-bunnycdn)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-13 14:15 UTC*
+*Last updated: 2026-04-14 14:15 UTC*
 *Data source: Leadita Technographic Intelligence*
