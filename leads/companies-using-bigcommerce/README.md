@@ -1,6 +1,6 @@
 # Companies Using BigCommerce (Live Dataset 2026)
 
-This folder contains an active list of 4,615 companies using **BigCommerce**. 
+This folder contains an active list of 4,623 companies using **BigCommerce**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 4,615
+- **Total Leads:** 4,623
 - **Verified:** Yes
-- **Last Updated:** 2026-04-13 16:30 UTC
+- **Last Updated:** 2026-04-14 16:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **4,615+** companies using BigCommerce.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **4,623+** companies using BigCommerce.
 
 [**⚡ Unlock the Full BigCommerce List with Contact Details**](https://leadita.com/leads/companies-using-bigcommerce)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-13 16:30 UTC*
+*Last updated: 2026-04-14 16:30 UTC*
 *Data source: Leadita Technographic Intelligence*
