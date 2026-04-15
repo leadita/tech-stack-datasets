@@ -1,5 +1,27 @@
 [
   {
+    "domain": "lada-quadrat.ru",
+    "title": "Клуб ВАЗ 2105, 2104, 2107.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 600,
+    "crawled_at": "2026-04-14T19:41:20.012035595Z",
+    "technologies": [
+      "ADFOX",
+      "DAV",
+      "GZIP Module",
+      "Invision Power Board",
+      "Nginx",
+      "PHP",
+      "QUIC",
+      "Sape",
+      "UTF-8",
+      "Yandex Hosting",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "secondchancedobes.com",
     "title": "Home",
     "business_name": "",

@@ -1,5 +1,34 @@
 [
   {
+    "domain": "aliprobuzz.com",
+    "title": "Ali Pro Buzz - Viral & Trending Community",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 7983,
+    "crawled_at": "2026-04-15T13:41:19.988824762Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "BetterMode",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "ElementUI",
+      "Figma",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Imgix",
+      "PWA",
+      "QUIC",
+      "Tailwind CSS",
+      "Tribe.so",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "mikirsaham.com",
     "title": "Home - Mikirsaham",
     "business_name": "",
@@ -1254,34 +1283,6 @@
       "Vector Internet Services",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "aliprobuzz.com",
-    "title": "Ali Pro Buzz - Viral & Trending Community",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 7983,
-    "crawled_at": "2025-12-27T21:40:38.334234472Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "BetterMode",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "ElementUI",
-      "Figma",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Imgix",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "Tribe.so",
-      "Vector Internet Services",
-      "shadcn ui"
     ]
   },
   {
