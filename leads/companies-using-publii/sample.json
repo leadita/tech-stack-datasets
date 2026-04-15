@@ -1,5 +1,67 @@
 [
   {
+    "domain": "ensody.com",
+    "title": "Kotlin Multiplatform & Android Freelancer Hamburg - Ensody",
+    "business_name": "Ensody",
+    "country": "DEU",
+    "seo_score": 77,
+    "tech_spend": 1431,
+    "crawled_at": "2026-04-15T06:32:19.982992318Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Atlassian Bitbucket",
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "Jetpack",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Perl",
+      "Publii",
+      "Python",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "phixy.eu",
+    "title": "Phixy's site",
+    "business_name": "Phixy's site",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 5149,
+    "crawled_at": "2026-04-14T20:33:55.158684001Z",
+    "technologies": [
+      "GZIP Module",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "Publii",
+      "Python",
+      "QUIC",
+      "University or College",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "knobla.ch",
+    "title": "DER BURGER",
+    "business_name": "DER BURGER",
+    "country": "FRA",
+    "seo_score": 57,
+    "tech_spend": 49,
+    "crawled_at": "2026-04-14T19:59:19.999568715Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "mderegnieaux.work",
     "title": "Maxime Deregnieaux",
     "business_name": "Maxime Deregnieaux",
@@ -4254,23 +4316,6 @@
     ]
   },
   {
-    "domain": "knobla.ch",
-    "title": "DER BURGER",
-    "business_name": "DER BURGER",
-    "country": "FRA",
-    "seo_score": 67,
-    "tech_spend": 149,
-    "crawled_at": "2026-01-10T14:48:28.489309307Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
     "domain": "alphacutlawncare.com",
     "title": "Alpha Cut Lawn Care & OPE Repair | Johnston County NC",
     "business_name": "",
@@ -7540,27 +7585,6 @@
       "Investor Relations",
       "Microdata for Google Shopping",
       "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "phixy.eu",
-    "title": "Phixy's site",
-    "business_name": "Phixy's site",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 5149,
-    "crawled_at": "2025-11-12T05:43:05.463507138Z",
-    "technologies": [
-      "GZIP Module",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "Publii",
-      "Python",
-      "QUIC",
-      "University or College",
-      "Vector Internet Services",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   }
