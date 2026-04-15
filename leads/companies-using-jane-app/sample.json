@@ -1,5 +1,38 @@
 [
   {
+    "domain": "mcmullanmentalhealthandwellness.ca",
+    "title": "McMullan Mental Health & Wellness | Therapy in North Bay",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 121713,
+    "crawled_at": "2026-04-15T09:20:19.98399241Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Accordion Blocks",
+      "Aruba",
+      "Contento",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Jane App",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "oliverswellness.net",
     "title": "Book Online | Oliver’s Wellness",
     "business_name": "",
