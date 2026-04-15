@@ -1,12 +1,12 @@
 [
   {
-    "domain": "retirementprogram.com",
+    "domain": "manet.net",
     "title": "Build Your Brand",
     "business_name": "",
     "country": "",
     "seo_score": 37,
     "tech_spend": 135,
-    "crawled_at": "2026-04-14T14:02:20.017684972Z",
+    "crawled_at": "2026-04-15T15:23:20.019546006Z",
     "technologies": [
       "Amazon CloudFront",
       "CloudFront",
@@ -14,6 +14,53 @@
       "ElementUI",
       "Font Awesome",
       "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "vip.rest",
+    "title": "Punto 2012 .BAR .REST | .rest and .bar domain names",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 1268,
+    "crawled_at": "2026-04-15T07:05:19.489319731Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "Dynadot",
+      "GZIP Module",
+      "GoDaddy",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8",
+      "Website Tonight"
+    ]
+  },
+  {
+    "domain": "xahx.com",
+    "title": "An EMDN - XAHX, Technology Innovation AI Automation Network",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 135,
+    "crawled_at": "2026-04-14T23:08:19.989564072Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Clarity",
       "UTF-8"
     ]
   },
@@ -71,28 +118,6 @@
       "GZIP Module",
       "Google My Business",
       "PointDNS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "3monster.com",
-    "title": "An EMDN - 3 Monster, Numbers Digits Gaming Entertainment Action Adventure Characters Power Strength Fantasy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 135,
-    "crawled_at": "2026-04-13T16:50:20.020757703Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microsoft Clarity",
       "UTF-8"
     ]
   },
@@ -1256,31 +1281,6 @@
       "Google Tag Manager",
       "Instagram Follow Button",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "nic.bar",
-    "title": "Punto 2012 .BAR .REST | .rest and .bar domain names",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 1268,
-    "crawled_at": "2026-02-05T07:07:48.892073199Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Duda",
-      "Dynadot",
-      "GZIP Module",
-      "GoDaddy",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "Website Tonight"
     ]
   },
   {

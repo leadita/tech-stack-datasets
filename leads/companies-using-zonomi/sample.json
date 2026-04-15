@@ -1,5 +1,32 @@
 [
   {
+    "domain": "asefishinglight.com",
+    "title": "Recon Floating Fishing Light",
+    "business_name": "Recon Floating Fishing Light",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 4106,
+    "crawled_at": "2026-04-15T02:17:19.9945181Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google Related Website Sites",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "Shopify Payments",
+      "Thank You",
+      "UTF-8",
+      "Zonomi",
+      "eLand",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "bcdeives.lt",
     "title": "Merginų krepšinio klubas BC „Deivės”",
     "business_name": "BC Deives",
