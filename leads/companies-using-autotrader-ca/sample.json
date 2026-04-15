@@ -1,5 +1,24 @@
 [
   {
+    "domain": "hotdealautogurus.com",
+    "title": "HOTDEAL-AUTO TRADER GURUS",
+    "business_name": "",
+    "country": "PHL",
+    "seo_score": 60,
+    "tech_spend": "",
+    "crawled_at": "2026-04-14T19:23:20.023376473Z",
+    "technologies": [
+      "Alternate Protocol",
+      "AutoTrader CA",
+      "DAV",
+      "Google My Business",
+      "LiteSpeed",
+      "QUIC",
+      "Tawk",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "albiongolfcars.com",
     "title": "HOME | albiongolfcars",
     "business_name": "Albion Golf Cars",
