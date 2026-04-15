@@ -1,5 +1,33 @@
 [
   {
+    "domain": "longisvtju.com",
+    "title": "The Electoral Justice Rejects the Impeachment of Former Bolsonaro Minister Sergio Moro as Senator - 22/05/2024 - Brazil - Folha",
+    "business_name": "",
+    "country": "ARG",
+    "seo_score": 72,
+    "tech_spend": 19257,
+    "crawled_at": "2026-04-14T22:23:19.988366582Z",
+    "technologies": [
+      "Advertising.com",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Chartbeat",
+      "CloudFront",
+      "Content Delivery Network",
+      "CoreUI",
+      "DoubleClick Bid Manager",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "IcoMoon",
+      "Nginx",
+      "Share Link",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "wflx.com",
     "title": "WFLX | Fox 29-TV",
     "business_name": "",
@@ -8403,34 +8431,6 @@
       "YouTube",
       "comScore",
       "eLand"
-    ]
-  },
-  {
-    "domain": "longisvtju.com",
-    "title": "The Electoral Justice Rejects the Impeachment of Former Bolsonaro Minister Sergio Moro as Senator - 22/05/2024 - Brazil - Folha",
-    "business_name": "",
-    "country": "BRA",
-    "seo_score": 72,
-    "tech_spend": 19257,
-    "crawled_at": "2025-12-24T08:40:38.325049272Z",
-    "technologies": [
-      "Advertising.com",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Chartbeat",
-      "CloudFront",
-      "Content Delivery Network",
-      "CoreUI",
-      "DoubleClick Bid Manager",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "IcoMoon",
-      "Nginx",
-      "Share Link",
-      "Tailwind CSS"
     ]
   },
   {
