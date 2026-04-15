@@ -1,12 +1,12 @@
 [
   {
-    "domain": "podcastinvitations.com",
+    "domain": "meetspl.info",
     "title": "Smart Panda Labs | Improving Post-Click Digital Experiences",
     "business_name": "Smart Panda Labs",
     "country": "",
     "seo_score": 67,
-    "tech_spend": 203852,
-    "crawled_at": "2026-04-13T19:14:19.981821497Z",
+    "tech_spend": 202592,
+    "crawled_at": "2026-04-15T10:29:19.980211284Z",
     "technologies": [
       "Akismet",
       "Alternate Protocol",
@@ -33,7 +33,6 @@
       "Nginx",
       "Optimizely Recommendations",
       "PHP",
-      "Pantheon",
       "Tealium",
       "Theme In WP",
       "UTF-8",
