@@ -1,6 +1,6 @@
 # Companies Using Commission Junction (Live Dataset 2026)
 
-This folder contains an active list of 770 companies using **Commission Junction**. 
+This folder contains an active list of 766 companies using **Commission Junction**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 770
+- **Total Leads:** 766
 - **Verified:** Yes
-- **Last Updated:** 2026-04-14 11:15 UTC
+- **Last Updated:** 2026-04-15 11:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **770+** companies using Commission Junction.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **766+** companies using Commission Junction.
 
 [**⚡ Unlock the Full Commission Junction List with Contact Details**](https://leadita.com/leads/companies-using-commission-junction)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-14 11:15 UTC*
+*Last updated: 2026-04-15 11:15 UTC*
 *Data source: Leadita Technographic Intelligence*
