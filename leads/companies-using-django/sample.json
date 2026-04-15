@@ -1,5 +1,156 @@
 [
   {
+    "domain": "dretelny.com",
+    "title": "Daniela Retelny Blum",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 72,
+    "tech_spend": 1108,
+    "crawled_at": "2026-04-14T21:41:19.982985125Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "QUIC",
+      "Twitter Ads",
+      "University or College",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "jijiyiyimart.com",
+    "title": "Jijiyiyi Mart: Your Ultimate Shopping Destination for Deals",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 17856,
+    "crawled_at": "2026-04-14T20:57:21.737518777Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "About Cookies",
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Django",
+      "Gambling Content",
+      "IcoMoon",
+      "Matomo",
+      "Matomo Tag Manager",
+      "QUIC",
+      "Tailwind CSS",
+      "UPS",
+      "UTF-8",
+      "University or College",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "azurearts.org",
+    "title": "Artists Grants for Supplies and Studios | Azure Arts Foundation",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 2460,
+    "crawled_at": "2026-04-14T18:43:05.882687137Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Line2",
+      "PayPal Adaptive Payments",
+      "PayPal Button",
+      "PayPal Form",
+      "Perl",
+      "QUIC",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "miffscustomtackle.com",
+    "title": "Custom Bait and Tackle Shop Magna Utah - Miffs Custom Tackle",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 7460,
+    "crawled_at": "2026-04-14T18:43:05.840298663Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "DC74",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Line2",
+      "Perl",
+      "QUIC",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "rapidfg.com",
+    "title": "Rapid Funds | Bad Credit, No Problem! Home Financing Tampa FL",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 32308,
+    "crawled_at": "2026-04-14T14:32:20.000996562Z",
+    "technologies": [
+      "Adult Content",
+      "Apture Linking Platform",
+      "B12",
+      "DAV",
+      "Django",
+      "Drift",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Perl",
+      "QUIC",
+      "Twitter Ads",
+      "University or College",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "charlottechristianfellowship.org",
+    "title": "Charlotte Christian Fellowship",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 1328,
+    "crawled_at": "2026-04-14T12:29:20.019535328Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "QUIC",
+      "YouTube",
+      "Zoom Video Conferencing"
+    ]
+  },
+  {
     "domain": "thinkbridges.com",
     "title": "Think Bridges - Home",
     "business_name": "",
@@ -46,36 +197,6 @@
       "Perl",
       "QUIC",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "lecture.edu.pl",
-    "title": "Lecture.edu.pl - Expert Academic Insights and Educational Resources",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 87,
-    "tech_spend": 25000,
-    "crawled_at": "2026-04-14T10:18:51.753307594Z",
-    "technologies": [
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "DAV",
-      "Django",
-      "Gambling Content",
-      "Hive.co",
-      "IcoMoon",
-      "Krypt Technologies",
-      "Line2",
-      "Matomo",
-      "Matomo Tag Manager",
-      "QUIC",
-      "Show.co",
-      "Tailwind CSS",
-      "UTF-8",
-      "eShow",
-      "jQuery"
     ]
   },
   {
@@ -402,35 +523,6 @@
       "QUIC",
       "University or College",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "dhr.house",
-    "title": "DreamHome Realty Group - San Fernando Valley Real Estate",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 77,
-    "tech_spend": 31300,
-    "crawled_at": "2026-04-13T00:18:04.229267521Z",
-    "technologies": [
-      "Adult Content",
-      "Apture Linking Platform",
-      "B12",
-      "DAV",
-      "Django",
-      "Drift",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Line2",
-      "Perl",
-      "QUIC",
-      "Twitter Ads",
-      "University or College"
     ]
   },
   {
@@ -4849,31 +4941,6 @@
     ]
   },
   {
-    "domain": "danielaretelny.com",
-    "title": "Daniela Retelny Blum",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 72,
-    "tech_spend": 1108,
-    "crawled_at": "2026-01-23T13:07:11.728993589Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "QUIC",
-      "Twitter Ads",
-      "University or College",
-      "YouTube"
-    ]
-  },
-  {
     "domain": "elkvalleyelectric.com",
     "title": "Elk Valley Electric, LLC - Home",
     "business_name": "",
@@ -5544,32 +5611,6 @@
     ]
   },
   {
-    "domain": "mdkhaledbin.me",
-    "title": "MD Khaled Bin | Software Engineer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 5392,
-    "crawled_at": "2026-01-13T09:34:43.447963238Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Django",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Ntent",
-      "Python",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Unsplash"
-    ]
-  },
-  {
     "domain": "powertaxplan.com",
     "title": "Business and Tax Planning - Power Tax Planning",
     "business_name": "",
@@ -6075,28 +6116,6 @@
       "QUIC",
       "Twitter Ads",
       "University or College"
-    ]
-  },
-  {
-    "domain": "charlottechristianfellowship.org",
-    "title": "Charlotte Christian Fellowship",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 1328,
-    "crawled_at": "2025-12-21T12:40:55.928395163Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "QUIC",
-      "YouTube",
-      "Zoom Video Conferencing"
     ]
   },
   {
@@ -9019,54 +9038,6 @@
       "Google My Business",
       "Line2",
       "QUIC"
-    ]
-  },
-  {
-    "domain": "azurearts.org",
-    "title": "Artists Grants for Supplies and Studios | Azure Arts Foundation",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 2460,
-    "crawled_at": "2025-11-12T05:14:38.932942143Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Line2",
-      "PayPal Adaptive Payments",
-      "PayPal Button",
-      "PayPal Form",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "miffscustomtackle.com",
-    "title": "Custom Bait and Tackle Shop Magna Utah - Miffs Custom Tackle",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 7460,
-    "crawled_at": "2025-11-12T05:11:38.981046433Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "DC74",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Line2",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
     ]
   }
 ]
