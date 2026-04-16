@@ -1,5 +1,33 @@
 [
   {
+    "domain": "invisiblehand.co",
+    "title": "Invisible Hand",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 1432,
+    "crawled_at": "2026-04-16T18:08:20.013437824Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "Express",
+      "Freshteam",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "profoundtechnology.com",
     "title": "Audio Visual Specialists | System Installation & Maintenance",
     "business_name": "Profound Technologies",
@@ -1723,34 +1751,6 @@
       "YouTube",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "invisiblehand.co",
-    "title": "Invisible Hand",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 1432,
-    "crawled_at": "2026-01-20T08:09:23.657656758Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "Express",
-      "Freshteam",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   },
   {
