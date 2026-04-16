@@ -1,6 +1,6 @@
 # Companies Using Qualtrics (Live Dataset 2026)
 
-This folder contains an active list of 2,755 companies using **Qualtrics**. 
+This folder contains an active list of 2,772 companies using **Qualtrics**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 2,755
+- **Total Leads:** 2,772
 - **Verified:** Yes
-- **Last Updated:** 2026-04-15 17:45 UTC
+- **Last Updated:** 2026-04-16 17:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **2,755+** companies using Qualtrics.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **2,772+** companies using Qualtrics.
 
 [**⚡ Unlock the Full Qualtrics List with Contact Details**](https://leadita.com/leads/companies-using-qualtrics)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-15 17:45 UTC*
+*Last updated: 2026-04-16 17:45 UTC*
 *Data source: Leadita Technographic Intelligence*
