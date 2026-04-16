@@ -1,5 +1,36 @@
 [
   {
+    "domain": "vitakingproducts.com",
+    "title": "Vita King Pigeon Supplies",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 38508,
+    "crawled_at": "2026-04-15T17:47:19.997223369Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudinary",
+      "Daily Deals",
+      "ElementUI",
+      "Express",
+      "Fireblade",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Tag Manager",
+      "Gravity",
+      "QUIC",
+      "Thank You",
+      "UTF-8",
+      "Volusion Live Chat"
+    ]
+  },
+  {
     "domain": "nuttyjazz.com",
     "title": "Nutty - Classic rock, all jazzed-up",
     "business_name": "",
