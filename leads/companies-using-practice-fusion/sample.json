@@ -1,5 +1,26 @@
 [
   {
+    "domain": "revivesleepmedicine.com",
+    "title": "Revive Sleep Medicine | Dr. Shahnaz Rao | Sleep Specialist Bowie, MD",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 20604,
+    "crawled_at": "2026-04-16T10:07:11.516144782Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Practice Fusion",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "secureexsolutions.com",
     "title": "Cloud-Based Clinical Exchange Software",
     "business_name": "",
