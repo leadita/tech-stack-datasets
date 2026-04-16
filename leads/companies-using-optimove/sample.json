@@ -1,5 +1,34 @@
 [
   {
+    "domain": "miapu.com",
+    "title": "MiCasino plays, WINS, and above all, CASHES OUT! – YOUR Online Sports Betting and Casino House.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 41579,
+    "crawled_at": "2026-04-16T07:53:19.992671162Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "GZIP Module",
+      "Gambling Content",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Nginx",
+      "Optimove",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "oria.be",
     "title": "The online Belgian Casino for dice enthusiasts - Oria.be | Oria",
     "business_name": "",
@@ -231,38 +260,6 @@
       "UTF-8",
       "Visual Studio",
       "eLand"
-    ]
-  },
-  {
-    "domain": "miapu.com",
-    "title": "MiCasino plays, WINS, and above all, CASHES OUT! – YOUR Online Sports Betting and Casino House.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 41719,
-    "crawled_at": "2026-03-05T14:28:55.680513766Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Turnstile",
-      "GZIP Module",
-      "Gambling Content",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Nginx",
-      "Optimove",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "reCAPTCHA"
     ]
   },
   {
