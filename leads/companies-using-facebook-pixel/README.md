@@ -1,6 +1,6 @@
 # Companies Using Facebook Pixel (Live Dataset 2026)
 
-This folder contains an active list of 383,102 companies using **Facebook Pixel**. 
+This folder contains an active list of 384,483 companies using **Facebook Pixel**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 383,102
+- **Total Leads:** 384,483
 - **Verified:** Yes
-- **Last Updated:** 2026-04-15 14:30 UTC
+- **Last Updated:** 2026-04-16 14:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **383,102+** companies using Facebook Pixel.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **384,483+** companies using Facebook Pixel.
 
 [**⚡ Unlock the Full Facebook Pixel List with Contact Details**](https://leadita.com/leads/companies-using-facebook-pixel)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-15 14:30 UTC*
+*Last updated: 2026-04-16 14:30 UTC*
 *Data source: Leadita Technographic Intelligence*
