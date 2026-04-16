@@ -1,5 +1,194 @@
 [
   {
+    "domain": "nikireid.co.nz",
+    "title": "Niki Reid",
+    "business_name": "Niki Reid",
+    "country": "NZL",
+    "seo_score": 45,
+    "tech_spend": 49,
+    "crawled_at": "2026-04-16T12:24:15.021720891Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Investor Relations",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "structural-bodyworks.com",
+    "title": "Structural Bodyworks | Rolfing® Structural Integration in Perth Western Australia",
+    "business_name": "Structural Bodyworks",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 149,
+    "crawled_at": "2026-04-16T08:59:19.977411279Z",
+    "technologies": [
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "sevyntech.com",
+    "title": "SevynTech",
+    "business_name": "SevynTech",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 49,
+    "crawled_at": "2026-04-16T05:05:19.980095547Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "OpenResty",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "enxas.eu",
+    "title": "enxas.eu",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 1060,
+    "crawled_at": "2026-04-16T01:11:19.995562456Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Nginx",
+      "PHP",
+      "Publii",
+      "UTF-8",
+      "Visual Studio",
+      "itch.io",
+      "symfony PHP Framework"
+    ]
+  },
+  {
+    "domain": "kangaruu.io",
+    "title": "Kangaruu : automated Time Tracking for your R&D projects",
+    "business_name": "Kangaruu",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 431,
+    "crawled_at": "2026-04-16T00:17:19.990224855Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Calendly",
+      "Flat Icon",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Publii",
+      "Ubuntu",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "thomasmastersgallery.com",
+    "title": "thomas masters gallery",
+    "business_name": "thomas masters gallery ",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 448,
+    "crawled_at": "2026-04-15T21:41:20.010562055Z",
+    "technologies": [
+      "Apache",
+      "CoreUI",
+      "DAV",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "beatkuert.com",
+    "title": "%Beat Kuert",
+    "business_name": "BeatKuert",
+    "country": "ITA",
+    "seo_score": 72,
+    "tech_spend": 2589,
+    "crawled_at": "2026-04-15T18:53:19.98229991Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "OpenSSL",
+      "PHP",
+      "Publii",
+      "QUIC",
+      "Unix",
+      "WordPress SEO Structured Data Schema Plugin",
+      "mod_ssl"
+    ]
+  },
+  {
+    "domain": "khristianaries.cloud",
+    "title": "Khristian Aries — AI Automation Specialist",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 62784,
+    "crawled_at": "2026-04-15T14:08:20.005845282Z",
+    "technologies": [
+      "34SP.com",
+      "AAPT",
+      "Apture Linking Platform",
+      "CCSI",
+      "Content Delivery Network",
+      "DAV",
+      "DC74",
+      "Drata",
+      "Ethy",
+      "Federal Deposit Insurance Corporation",
+      "Financial Services Guide",
+      "Formspree",
+      "Free Call",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "HHVM",
+      "HMDG",
+      "Hexo",
+      "K2F",
+      "KVH",
+      "Nationwide Mortgage Licensing System and Registry",
+      "No-Q",
+      "Onyx Internet",
+      "Phew",
+      "Publii",
+      "QUIC",
+      "SMC",
+      "Salesforce Hosted",
+      "Subversion",
+      "UTF-8",
+      "Unix",
+      "Unsplash",
+      "Vercel",
+      "Visx"
+    ]
+  },
+  {
     "domain": "ensody.com",
     "title": "Kotlin Multiplatform & Android Freelancer Hamburg - Ensody",
     "business_name": "Ensody",
@@ -2791,24 +2980,6 @@
     ]
   },
   {
-    "domain": "thomasmastersgallery.com",
-    "title": "thomas masters gallery",
-    "business_name": "thomas masters gallery ",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 448,
-    "crawled_at": "2026-02-19T20:15:31.565046776Z",
-    "technologies": [
-      "Apache",
-      "CoreUI",
-      "DAV",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
     "domain": "lupusvox.com",
     "title": "Subject: Lupus Vox",
     "business_name": "",
@@ -2898,25 +3069,6 @@
       "UTF-8",
       "University or College",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "sevyntech.com",
-    "title": "SevynTech",
-    "business_name": "SevynTech",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 49,
-    "crawled_at": "2026-02-16T13:32:01.324317233Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "OpenResty",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
     ]
   },
   {
@@ -3936,27 +4088,6 @@
       "Nginx",
       "Publii",
       "Python",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "kangaruu.io",
-    "title": "Kangaruu : automated Time Tracking for your R&D projects",
-    "business_name": "Kangaruu",
-    "country": "GBR",
-    "seo_score": 92,
-    "tech_spend": 431,
-    "crawled_at": "2026-01-20T15:44:58.241057372Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Calendly",
-      "Flat Icon",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Publii",
-      "Ubuntu",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   },
@@ -5853,28 +5984,6 @@
     ]
   },
   {
-    "domain": "enxas.eu",
-    "title": "enxas.eu",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 1060,
-    "crawled_at": "2025-12-10T06:55:56.082879268Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Nginx",
-      "PHP",
-      "Publii",
-      "UTF-8",
-      "Visual Studio",
-      "itch.io",
-      "symfony PHP Framework"
-    ]
-  },
-  {
     "domain": "pjahn.net",
     "title": "pjahn - artwork",
     "business_name": "pjahn",
@@ -7566,23 +7675,6 @@
       "Apache",
       "CoreUI",
       "GZIP Module",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "nikireid.co.nz",
-    "title": "Niki Reid",
-    "business_name": "Niki Reid",
-    "country": "NZL",
-    "seo_score": 45,
-    "tech_spend": 49,
-    "crawled_at": "2025-11-12T16:09:52.101695665Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Investor Relations",
       "Microdata for Google Shopping",
       "Publii",
       "WordPress SEO Structured Data Schema Plugin"
