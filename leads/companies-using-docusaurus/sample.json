@@ -1,5 +1,144 @@
 [
   {
+    "domain": "safegen.ai",
+    "title": "SafeGen AI | SafeGen AI",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 20000,
+    "crawled_at": "2026-04-16T17:02:19.999905536Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "Fireblade",
+      "GZIP Module",
+      "Nginx",
+      "Perl",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "torchv.com",
+    "title": "TorchV | 企业 AI 落地平台",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 60,
+    "crawled_at": "2026-04-16T14:50:19.994781067Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Baidu Ads",
+      "Baidu Analytics",
+      "Baidu Cloud",
+      "Docusaurus",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Clarity",
+      "Nginx",
+      "Perl",
+      "Product Hunt",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "leonardosalles.com",
+    "title": "Leonardo Salles | Lead Software Engineer | Mobile | React Native | Expo | React | Typescript | Full-stack | Next.js | Nest.js | MCP | AI",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 2640,
+    "crawled_at": "2026-04-16T14:38:20.003530104Z",
+    "technologies": [
+      "Alpine.js",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Express",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "License Buttons",
+      "Python",
+      "Sitelinks Search Box",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "linguax.app",
+    "title": "LinguaX - Automatic Input Switching and Mouse Enhancement for macOS | LinguaX",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 2400,
+    "crawled_at": "2026-04-16T09:53:19.996396534Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Perl",
+      "Yandex Hosting"
+    ]
+  },
+  {
+    "domain": "bhargav.io",
+    "title": "AI/ML and SWE | Bhargav Singapuri",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2400,
+    "crawled_at": "2026-04-16T04:50:20.01070608Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Investor Relations",
+      "Perl",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "kovacevic.dev",
+    "title": "Nikola Kovačević",
+    "business_name": "",
+    "country": "ESP",
+    "seo_score": 42,
+    "tech_spend": 3,
+    "crawled_at": "2026-04-16T02:23:14.371885698Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Netlify",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "hcd.cards",
     "title": "Sketch Database | sketch.cards",
     "business_name": "",
@@ -3481,28 +3620,6 @@
     ]
   },
   {
-    "domain": "safegen.ai",
-    "title": "SafeGen AI | SafeGen AI",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 20000,
-    "crawled_at": "2026-03-21T08:16:10.689275143Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "Fireblade",
-      "GZIP Module",
-      "Nginx",
-      "Perl",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "tw-7.com",
     "title": "Welcome to Technical Writer's Weekly | Technical Writer's Weekly",
     "business_name": "",
@@ -5097,28 +5214,6 @@
       "Docusaurus",
       "GitHub Hosting",
       "Perl"
-    ]
-  },
-  {
-    "domain": "linguax.app",
-    "title": "LinguaX - Automatic Input Switching and Mouse Enhancement for macOS | LinguaX",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 2400,
-    "crawled_at": "2026-02-16T07:23:01.083845245Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Perl",
-      "Yandex Hosting"
     ]
   },
   {
@@ -7481,34 +7576,6 @@
       "UTF-8",
       "Vercel",
       "Visual Studio",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "torchv.com",
-    "title": "TorchV | AI商业应用",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 5060,
-    "crawled_at": "2026-01-12T19:13:22.624958367Z",
-    "technologies": [
-      "AAPT",
-      "Alternate Protocol",
-      "Baidu Ads",
-      "Baidu Analytics",
-      "Baidu Cloud",
-      "DAV",
-      "Docusaurus",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Headless UI",
-      "Microsoft Clarity",
-      "Nginx",
-      "Perl",
-      "Product Hunt",
-      "Tailwind CSS",
-      "Twitter Ads",
       "shadcn ui"
     ]
   },
@@ -12427,74 +12494,6 @@
       "No-Q",
       "Perl",
       "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "digidib.dev",
-    "title": "Engineering, Security, and Regex Expertise – All in One Place | digidib",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 90,
-    "crawled_at": "2025-11-19T07:24:19.445614723Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "GZIP Module",
-      "KaTeX",
-      "Nginx",
-      "Perl",
-      "Plausible Analytics",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "pragmalingu.de",
-    "title": "Hello from PragmaLingu | PragmaLingu",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 62,
-    "tech_spend": 2400,
-    "crawled_at": "2025-11-19T00:27:19.468795401Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "openwa.dev",
-    "title": "Hello from @open-wa/wa-automate-nodejs | @open-wa/wa-automate-nodejs",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 600,
-    "crawled_at": "2025-11-18T23:36:19.514533918Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Ntent",
-      "Perl",
-      "QUIC",
-      "RawGit",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
