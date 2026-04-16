@@ -1,12 +1,41 @@
 [
   {
-    "domain": "eventplanninglagunabeach.com",
+    "domain": "foundercommandsystem.com",
+    "title": "Founder Command System - The Business Operating System for 7-Figure Founders",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 9364,
+    "crawled_at": "2026-04-16T10:17:19.978073187Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Facebook Reseller",
+      "Fastly",
+      "FreshBooks",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "HighLevel",
+      "Microsoft Clarity",
+      "Next.js",
+      "PWA",
+      "QUIC",
+      "Tailwind CSS",
+      "Trello",
+      "UTF-8",
+      "Vercel",
+      "Xero"
+    ]
+  },
+  {
+    "domain": "eventplanningtoronto.com",
     "title": "Event Planner Worldwide | Amber Walker Events",
     "business_name": "Amber Walker Events",
     "country": "CAN",
     "seo_score": 77,
     "tech_spend": 142803,
-    "crawled_at": "2026-04-15T03:38:20.013378565Z",
+    "crawled_at": "2026-04-16T03:08:20.005222709Z",
     "technologies": [
       "123FormBuilder",
       "AWS WAF Challenge",
@@ -42,6 +71,41 @@
       "Wix",
       "Wix Media",
       "mlcom"
+    ]
+  },
+  {
+    "domain": "seoirl.com",
+    "title": "SEO IRL | Canada's largest SEO Conference",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 5809,
+    "crawled_at": "2026-04-16T00:49:35.368942848Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Atlas Pickup Points",
+      "Bunny Fonts",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "DuracellTomi Google Tag Manager for WordPress",
+      "EmbedPress",
+      "Financial Services Guide",
+      "FreshBooks",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Hello Elementor",
+      "PHP",
+      "Python",
+      "Sucuri Cloudproxy",
+      "UTF-8",
+      "Underscores",
+      "University or College",
+      "WordPress",
+      "WordPress Multisite",
+      "eLand",
+      "jQuery"
     ]
   },
   {
@@ -106,35 +170,6 @@
       "UTF-8",
       "WhatsApp Sharing",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "foundersfreedomsystem.com",
-    "title": "Founder Command System - The Business Operating System for 7-Figure Founders",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 9364,
-    "crawled_at": "2026-04-13T06:44:19.983582409Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Facebook Reseller",
-      "Fastly",
-      "FreshBooks",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "HighLevel",
-      "Microsoft Clarity",
-      "Next.js",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "Trello",
-      "UTF-8",
-      "Vercel",
-      "Xero"
     ]
   },
   {
@@ -3278,41 +3313,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "seoirl.com",
-    "title": "SEO IRL | Canada's largest SEO Conference",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 6139,
-    "crawled_at": "2025-11-12T12:29:38.881174174Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Atlas Pickup Points",
-      "Bunny Fonts",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "DuracellTomi Google Tag Manager for WordPress",
-      "EmbedPress",
-      "FreshBooks",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Hello Elementor",
-      "No-Q",
-      "PHP",
-      "Python",
-      "Sucuri Cloudproxy",
-      "UTF-8",
-      "Underscores",
-      "University or College",
-      "WordPress",
-      "WordPress Multisite",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
