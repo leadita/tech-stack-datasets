@@ -1,5 +1,38 @@
 [
   {
+    "domain": "motokodas.lt",
+    "title": "Moto prekės motociklininkams - Išparduotuvė | Moto kodas",
+    "business_name": "",
+    "country": "LTU",
+    "seo_score": 72,
+    "tech_spend": 147604,
+    "crawled_at": "2026-04-15T19:32:19.983333958Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "DAV",
+      "Express",
+      "Financial Services Guide",
+      "Fireblade",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "K2F",
+      "Krypt Technologies",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "Pexels",
+      "Ravand Cybertech",
+      "SMC",
+      "Unsplash",
+      "Vector Internet Services",
+      "Vignette OpenText",
+      "Zonomi",
+      "Zyro"
+    ]
+  },
+  {
     "domain": "asefishinglight.com",
     "title": "Recon Floating Fishing Light",
     "business_name": "Recon Floating Fishing Light",
@@ -713,39 +746,6 @@
       "University or College",
       "YouTube",
       "Zonomi"
-    ]
-  },
-  {
-    "domain": "motokodas.lt",
-    "title": "Moto prekės motociklininkams - Išparduotuvė | Moto kodas",
-    "business_name": "",
-    "country": "LTU",
-    "seo_score": 62,
-    "tech_spend": 122604,
-    "crawled_at": "2025-12-29T21:13:38.345976638Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DAV",
-      "Express",
-      "Financial Services Guide",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Krypt Technologies",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "Pexels",
-      "Ravand Cybertech",
-      "SMC",
-      "Unsplash",
-      "Vector Internet Services",
-      "Vignette OpenText",
-      "Zonomi",
-      "Zyro"
     ]
   },
   {
