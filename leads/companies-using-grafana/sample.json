@@ -1,76 +1,27 @@
 [
   {
-    "domain": "corrquestanalytics.com",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": "",
-    "crawled_at": "2026-04-14T03:23:19.997442638Z",
-    "technologies": [
-      "Apache",
-      "GitHub Hosting",
-      "Google My Business",
-      "Grafana",
-      "OpenSSL",
-      "PHP",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "blokhus-energy.ssc.dk",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 1200,
-    "crawled_at": "2026-04-13T17:56:20.030460429Z",
-    "technologies": [
-      "Barchart",
-      "Express",
-      "GitHub Hosting",
-      "Grafana",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "showroom01.nmx.cl",
-    "title": "Grafana",
+    "domain": "vikshep.com",
+    "title": "Arya Shakti",
     "business_name": "",
     "country": "",
     "seo_score": 40,
-    "tech_spend": 11200,
-    "crawled_at": "2026-04-09T04:26:20.000994695Z",
+    "tech_spend": 32899,
+    "crawled_at": "2026-04-16T00:49:35.356010479Z",
     "technologies": [
+      "AAPT",
       "Apache",
-      "Barchart",
-      "Contento",
-      "Express",
-      "GZIP Module",
+      "DAV",
+      "Financial Services Guide",
       "GitHub Hosting",
       "Google My Business",
       "Grafana",
-      "OpenResty",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "pedrosantiagodelrey.com",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 1200,
-    "crawled_at": "2026-04-04T07:23:20.007624381Z",
-    "technologies": [
-      "Apache",
-      "Barchart",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Grafana",
-      "Nginx",
+      "KVH",
+      "Ntent",
+      "On The Map",
+      "Paessler",
+      "RawGit",
+      "SMC",
+      "Subversion",
       "UTF-8"
     ]
   },
@@ -90,52 +41,6 @@
       "Google Analytics",
       "Google Tag Manager",
       "Grafana",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "stromfee.info",
-    "title": "StromfeeME: Power-Analysen",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 1200,
-    "crawled_at": "2026-03-18T09:09:37.902009365Z",
-    "technologies": [
-      "Barchart",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Grafana",
-      "Nginx",
-      "UTF-8",
-      "Ubuntu"
-    ]
-  },
-  {
-    "domain": "vikshep.com",
-    "title": "Arya Shakti",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 32899,
-    "crawled_at": "2025-11-12T12:28:47.830657816Z",
-    "technologies": [
-      "AAPT",
-      "Apache",
-      "DAV",
-      "Financial Services Guide",
-      "GitHub Hosting",
-      "Google My Business",
-      "Grafana",
-      "KVH",
-      "Ntent",
-      "On The Map",
-      "Paessler",
-      "RawGit",
-      "SMC",
-      "Subversion",
       "UTF-8"
     ]
   }
