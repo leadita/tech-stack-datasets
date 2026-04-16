@@ -1,5 +1,24 @@
 [
   {
+    "domain": "easycharts.com.ng",
+    "title": "Easy Charts Enterprises",
+    "business_name": "",
+    "country": "NGA",
+    "seo_score": 60,
+    "tech_spend": 6000,
+    "crawled_at": "2026-04-15T18:26:20.002132726Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Instagram Follow Button",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "YCharts",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "amycharts.com",
     "title": "Amy Evans, M.Ed., BCBA | Enhance Learning & Teaching Today",
     "business_name": "",

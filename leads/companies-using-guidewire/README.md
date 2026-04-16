@@ -1,6 +1,6 @@
 # Companies Using Guidewire (Live Dataset 2026)
 
-This folder contains an active list of 13 companies using **Guidewire**. 
+This folder contains an active list of 14 companies using **Guidewire**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 13
+- **Total Leads:** 14
 - **Verified:** Yes
-- **Last Updated:** 2026-04-15 17:30 UTC
+- **Last Updated:** 2026-04-16 17:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **13+** companies using Guidewire.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **14+** companies using Guidewire.
 
 [**⚡ Unlock the Full Guidewire List with Contact Details**](https://leadita.com/leads/companies-using-guidewire)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-15 17:30 UTC*
+*Last updated: 2026-04-16 17:30 UTC*
 *Data source: Leadita Technographic Intelligence*
