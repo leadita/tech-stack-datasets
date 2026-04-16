@@ -1,6 +1,6 @@
 # Companies Using Ping Identity (Live Dataset 2026)
 
-This folder contains an active list of 64 companies using **Ping Identity**. 
+This folder contains an active list of 65 companies using **Ping Identity**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 64
+- **Total Leads:** 65
 - **Verified:** Yes
-- **Last Updated:** 2026-04-15 15:45 UTC
+- **Last Updated:** 2026-04-16 15:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **64+** companies using Ping Identity.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **65+** companies using Ping Identity.
 
 [**⚡ Unlock the Full Ping Identity List with Contact Details**](https://leadita.com/leads/companies-using-ping-identity)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-15 15:45 UTC*
+*Last updated: 2026-04-16 15:45 UTC*
 *Data source: Leadita Technographic Intelligence*
