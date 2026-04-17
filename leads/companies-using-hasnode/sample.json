@@ -1,5 +1,30 @@
 [
   {
+    "domain": "cechiorlu.com",
+    "title": "Chimzi Chiorlu - Software Engineer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 1200,
+    "crawled_at": "2026-04-16T23:52:03.726617749Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Hasnode",
+      "Medium",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "chikere.dev",
     "title": "Chikere Ezekannagha - Software Engineer",
     "business_name": "",
@@ -11612,31 +11637,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "cechiorlu.com",
-    "title": "Chimzi Chiorlu - Software Engineer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 1200,
-    "crawled_at": "2025-11-12T20:56:39.989254764Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Hasnode",
-      "Medium",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "Vercel"
     ]
   }
 ]

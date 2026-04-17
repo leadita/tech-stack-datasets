@@ -1,5 +1,32 @@
 [
   {
+    "domain": "syomei.biz",
+    "title": "Create a unique signature for your name",
+    "business_name": "",
+    "country": "JPN",
+    "seo_score": 72,
+    "tech_spend": 15240,
+    "crawled_at": "2026-04-17T08:09:27.356012277Z",
+    "technologies": [
+      "Apache",
+      "DAV",
+      "Express",
+      "Facebook Like",
+      "GeoTrust Seal",
+      "Google Analytics",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Tag Manager",
+      "Hatena Blog",
+      "QUIC",
+      "Subversion",
+      "Thank You",
+      "Twitter Ads",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "tipsforkyototravel.jp",
     "title": "Tips for Kyoto travel",
     "business_name": "",
@@ -292,33 +319,6 @@
       "jQuery",
       "qTranslate",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "syomei.biz",
-    "title": "Create a unique signature for your name",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 72,
-    "tech_spend": 15240,
-    "crawled_at": "2025-11-13T00:32:40.014929941Z",
-    "technologies": [
-      "Apache",
-      "DAV",
-      "Express",
-      "Facebook Like",
-      "GeoTrust Seal",
-      "Google Analytics",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Tag Manager",
-      "Hatena Blog",
-      "QUIC",
-      "Subversion",
-      "Thank You",
-      "Twitter Ads",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
