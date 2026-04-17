@@ -2924,36 +2924,5 @@
       "Vimeo CDN",
       "eMoney"
     ]
-  },
-  {
-    "domain": "jacomvanwyk.co.za",
-    "title": "Jacom van Wyk | attooh! Your Wealth Solution",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 67,
-    "tech_spend": 23960,
-    "crawled_at": "2025-11-13T02:23:44.037938054Z",
-    "technologies": [
-      "Amazon S3 CDN",
-      "Apture Linking Platform",
-      "Authorize.net",
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Nuxt.js",
-      "QUIC",
-      "Storyblocks",
-      "UTF-8",
-      "Vimeo",
-      "Vimeo CDN",
-      "eMoney"
-    ]
   }
 ]
