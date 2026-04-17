@@ -1,5 +1,55 @@
 [
   {
+    "domain": "medreceptionist.com",
+    "title": "MedReceptionist — AI Phone Receptionist for Healthcare Practices",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 90102,
+    "crawled_at": "2026-04-17T03:41:20.005220084Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "AthenaHealth",
+      "Book Direct",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Fireblade",
+      "Google",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Open Dental",
+      "Oracle Cloud",
+      "Practice Fusion",
+      "Smith.ai",
+      "TherapyNotes",
+      "UTF-8",
+      "Vercel",
+      "eClinicalWorks",
+      "intakeQ"
+    ]
+  },
+  {
+    "domain": "mindmeshai.us",
+    "title": "MindMesh AI | AI Receptionist Solutions for Dental Practices",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 4136,
+    "crawled_at": "2026-04-16T22:29:20.021227279Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Netlify",
+      "Open Dental",
+      "Practice Fusion",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "revivesleepmedicine.com",
     "title": "Revive Sleep Medicine | Dr. Shahnaz Rao | Sleep Specialist Bowie, MD",
     "business_name": "",
@@ -467,25 +517,6 @@
       "UTF-8",
       "University or College",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "mindmeshai.us",
-    "title": "MindMesh AI | AI Receptionist Solutions for Dental Practices",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 22779,
-    "crawled_at": "2026-03-25T19:25:40.154973492Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Netlify",
-      "Open Dental",
-      "Practice Fusion",
-      "UTF-8"
     ]
   },
   {
