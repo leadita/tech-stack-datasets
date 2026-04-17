@@ -1,5 +1,27 @@
 [
   {
+    "domain": "crematoriu-uman.ro",
+    "title": "Phoenix Cremation Services",
+    "business_name": "",
+    "country": "ROU",
+    "seo_score": 77,
+    "tech_spend": 2242,
+    "crawled_at": "2026-04-17T07:20:20.021251123Z",
+    "technologies": [
+      "Apache",
+      "Azion",
+      "Cybot",
+      "Foxit",
+      "FreeCSSTemplates",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "ISO/IEC 8859",
+      "IcoMoon",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "compassresearch.net.au",
     "title": "Compass Research | Economy | Economic and Market Research } Cairns | Far North Queensland | Regional",
     "business_name": "",
@@ -512,28 +534,6 @@
       "Nginx",
       "Twitter Ads",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "crematoriu-uman.ro",
-    "title": "Phoenix Cremation Services",
-    "business_name": "",
-    "country": "ROU",
-    "seo_score": 77,
-    "tech_spend": 2242,
-    "crawled_at": "2026-01-24T15:55:43.45280639Z",
-    "technologies": [
-      "Apache",
-      "Azion",
-      "Cybot",
-      "Foxit",
-      "FreeCSSTemplates",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "ISO/IEC 8859",
-      "IcoMoon",
-      "Tailwind CSS"
     ]
   },
   {
