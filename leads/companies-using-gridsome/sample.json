@@ -1,5 +1,211 @@
 [
   {
+    "domain": "adamjlev.com",
+    "title": "Adam LeVasseur | adamjlev.com",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 40,
+    "tech_spend": 3,
+    "crawled_at": "2026-04-17T21:14:20.00152252Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "arti-mestieri.com",
+    "title": "Arti e Mestieri",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 63,
+    "crawled_at": "2026-04-17T19:53:20.02456637Z",
+    "technologies": [
+      "Azion",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "fabritconsulting.com",
+    "title": "Transforming Companies Into Digital Leaders - Fabrit Global",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 138230,
+    "crawled_at": "2026-04-17T18:20:19.990130067Z",
+    "technologies": [
+      "Apache",
+      "Clutch",
+      "DAV",
+      "Federal Deposit Insurance Corporation",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Gridsome",
+      "HMDG",
+      "HubSpot Conversations",
+      "Hubspot",
+      "K2F",
+      "KVH",
+      "Medium",
+      "Nationwide Mortgage Licensing System and Registry",
+      "No-Q",
+      "SMC",
+      "Silicon Valley Web Hosting",
+      "Subversion",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "aldorr.net",
+    "title": "aldorr - Home - aldorr v48",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 6078,
+    "crawled_at": "2026-04-17T12:02:20.014136946Z",
+    "technologies": [
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Form.IO",
+      "GitHub Hosting",
+      "Gridsome",
+      "License Buttons",
+      "Material Design Icons",
+      "Ntent",
+      "Plausible Analytics",
+      "Svelte"
+    ]
+  },
+  {
+    "domain": "simonluyts.be",
+    "title": "Home - Simon Luyts",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 3,
+    "crawled_at": "2026-04-17T11:11:09.411064224Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "printwork.at",
+    "title": "Printwork.at - Beratung - Entwicklung - Produktion - Konfektion - Printwork",
+    "business_name": "PRINTwork Thomas Nezold e.U.",
+    "country": "AUT",
+    "seo_score": 72,
+    "tech_spend": 19649,
+    "crawled_at": "2026-04-17T09:14:19.977571172Z",
+    "technologies": [
+      "Apache",
+      "Endis",
+      "Gridsome",
+      "Idaq",
+      "Perl",
+      "Silicon Valley Web Hosting",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "istiqlal.now.sh",
+    "title": "Istiqlal - Web",
+    "business_name": "",
+    "country": "IDN",
+    "seo_score": 37,
+    "tech_spend": 15198,
+    "crawled_at": "2026-04-17T05:51:24.236119038Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Financial Services Guide",
+      "Gridsome",
+      "No-Q",
+      "SMC",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "reitrifecta.com",
+    "title": "REI Trifecta - Real Estate Wealth Network",
+    "business_name": "",
+    "country": "MYS",
+    "seo_score": 55,
+    "tech_spend": 11236,
+    "crawled_at": "2026-04-17T04:23:20.007987586Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gridsome",
+      "HERO",
+      "Market Hero",
+      "Nginx",
+      "Proof"
+    ]
+  },
+  {
+    "domain": "tuonglaifoods.vn",
+    "title": "Tương Lai Foods - DNTN Chế biến thực phẩm Tương Lai - Khô bò, khô mực chế biến theo công thức gia truyền - heartfelt-cupcake-a9c795",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2668,
+    "crawled_at": "2026-04-17T03:13:41.282796083Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Netlify",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "clastix.io",
     "title": "Clastix",
     "business_name": "",
@@ -500,39 +706,6 @@
       "Shopify",
       "Vercel",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "fabritlabs.com",
-    "title": "Transforming Companies Into Digital Leaders - Fabrit Global",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 138230,
-    "crawled_at": "2026-04-15T04:17:20.001842339Z",
-    "technologies": [
-      "Apache",
-      "Clutch",
-      "DAV",
-      "Federal Deposit Insurance Corporation",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Gridsome",
-      "HMDG",
-      "HubSpot Conversations",
-      "Hubspot",
-      "K2F",
-      "KVH",
-      "Medium",
-      "Nationwide Mortgage Licensing System and Registry",
-      "No-Q",
-      "SMC",
-      "Silicon Valley Web Hosting",
-      "Subversion",
-      "Tailwind CSS"
     ]
   },
   {
@@ -1788,35 +1961,6 @@
       "Gridsome",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "camwebclass.com",
-    "title": "Webinar Registration - Real Estate Wealth Network",
-    "business_name": "",
-    "country": "MYS",
-    "seo_score": 65,
-    "tech_spend": 30136,
-    "crawled_at": "2026-04-06T20:47:19.994069319Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gridsome",
-      "HERO",
-      "Market Hero",
-      "Nginx",
-      "Proof",
-      "QUIC"
     ]
   },
   {
@@ -6016,28 +6160,6 @@
     ]
   },
   {
-    "domain": "aldorr.net",
-    "title": "aldorr - Home - aldorr v48",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 6216,
-    "crawled_at": "2026-01-28T14:55:01.827869652Z",
-    "technologies": [
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Form.IO",
-      "GitHub Hosting",
-      "Gridsome",
-      "License Buttons",
-      "Material Design Icons",
-      "Ntent",
-      "Plausible Analytics"
-    ]
-  },
-  {
     "domain": "schoonheidssalonhelmich.nl",
     "title": "Schoonheidssalon Helmich - Schoonheidssalon Helmich",
     "business_name": "",
@@ -6290,33 +6412,6 @@
       "Gridsome",
       "Nginx",
       "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "arti-mestieri.com",
-    "title": "Arti e Mestieri",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 63,
-    "crawled_at": "2026-01-25T03:55:43.446052987Z",
-    "technologies": [
-      "Azion",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   },
   {
@@ -7027,23 +7122,6 @@
       "KVH",
       "Netlify",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "grossiconstruction.com",
-    "title": "Home - Grossi Construction",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": "",
-    "crawled_at": "2026-01-15T10:07:43.44575195Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GZIP Module",
-      "Gridsome",
-      "Nginx",
-      "Tailwind CSS",
-      "shadcn ui"
     ]
   },
   {
@@ -11685,95 +11763,6 @@
       "PWA",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "recode-software.eu",
-    "title": "Recode Software Przemysław Szejna",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 3,
-    "crawled_at": "2025-11-21T11:10:38.311316956Z",
-    "technologies": [
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Parcel",
-      "PrestaShop"
-    ]
-  },
-  {
-    "domain": "damienserin.com",
-    "title": "Damien Serin",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 67,
-    "tech_spend": 50697,
-    "crawled_at": "2025-11-21T06:11:07.251171188Z",
-    "technologies": [
-      "Bulma",
-      "Content Delivery Network",
-      "DAV",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Netlify",
-      "No-Q",
-      "Python",
-      "SMC",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "howewealth.co.uk",
-    "title": "Under Construction | Howe Wealth Management | howe-wealth-management",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 52,
-    "tech_spend": 222,
-    "crawled_at": "2025-11-21T03:27:19.447286548Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Microsoft Azure"
-    ]
-  },
-  {
-    "domain": "bobdempsey83.com",
-    "title": "Home | Bob Dempsey",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2640,
-    "crawled_at": "2025-11-21T01:48:19.450124432Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Astro",
-      "Builder",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Google My Business",
-      "Gridsome",
-      "Headless UI",
-      "Nginx",
-      "PWA",
-      "Pico CSS",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]

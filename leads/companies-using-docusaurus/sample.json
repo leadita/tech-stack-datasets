@@ -1,5 +1,203 @@
 [
   {
+    "domain": "dvarahq.com",
+    "title": "AI Gateway Built for Governance | DVARA",
+    "business_name": "Dvara",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 36579,
+    "crawled_at": "2026-04-17T17:32:20.008193486Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fireblade",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "NFOrce Internet",
+      "Perl",
+      "QUIC",
+      "UTF-8",
+      "Vector Internet Services"
+    ]
+  },
+  {
+    "domain": "freesewing.org",
+    "title": "Free Bespoke Sewing Patterns | FreeSewing",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 12,
+    "crawled_at": "2026-04-17T17:08:20.025873614Z",
+    "technologies": [
+      "Alternate Protocol",
+      "BunnyCDN Header",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GZIP Module",
+      "PayPal Button",
+      "PayPal Form",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "session.it",
+    "title": "Session Technologies | Session Technologies",
+    "business_name": "",
+    "country": "ESP",
+    "seo_score": 77,
+    "tech_spend": 40268,
+    "crawled_at": "2026-04-17T16:36:58.678200852Z",
+    "technologies": [
+      "Alfresco",
+      "Alternate Protocol",
+      "Apache",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Netlify",
+      "Perl",
+      "Python",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "demo-tibillet.ovh",
+    "title": "TiBillet",
+    "business_name": "TiBillet",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 690,
+    "crawled_at": "2026-04-17T15:26:50.00888301Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Perl",
+      "Plausible Analytics",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "sanjogkshetri.com.np",
+    "title": "Hello from Sanjog Chhetri Sapkota | Sanjog Chhetri Sapkota",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 15240,
+    "crawled_at": "2026-04-17T11:20:01.784779535Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Google My Business",
+      "InitiativeS",
+      "Ntent",
+      "Perl",
+      "QUIC",
+      "RawGit",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "delpeuch.net",
+    "title": "Sébastien Delpeuch",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 55,
+    "tech_spend": 690,
+    "crawled_at": "2026-04-17T02:46:56.447270624Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "KaTeX",
+      "Perl",
+      "Plausible Analytics",
+      "Python",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "daredoes.work",
+    "title": "Home | DareDoes.Work",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 141900,
+    "crawled_at": "2026-04-17T01:44:20.001302234Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Alternate Protocol",
+      "BLR",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Community",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "Financial Services Guide",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Perl",
+      "Python",
+      "QUIC",
+      "Rev",
+      "Salesforce Experience Cloud",
+      "Tailwind CSS",
+      "Tumblr",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "joeloveless.com",
+    "title": "Joe Loveless",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 600,
+    "crawled_at": "2026-04-17T01:32:19.996739732Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "safegen.ai",
     "title": "SafeGen AI | SafeGen AI",
     "business_name": "",
@@ -4051,25 +4249,6 @@
     ]
   },
   {
-    "domain": "freesewing.eu",
-    "title": "Free Bespoke Sewing Patterns | FreeSewing",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 12,
-    "crawled_at": "2026-03-15T10:52:40.285693501Z",
-    "technologies": [
-      "Alternate Protocol",
-      "BunnyCDN Header",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GZIP Module",
-      "PayPal Button",
-      "PayPal Form",
-      "Perl"
-    ]
-  },
-  {
     "domain": "mashku.pro",
     "title": "Mariia Kulikova | Masha K",
     "business_name": "",
@@ -6879,26 +7058,6 @@
       "Google Tag Manager",
       "Perl",
       "Python",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "joeloveless.com",
-    "title": "Joe Loveless",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 600,
-    "crawled_at": "2026-01-23T10:35:55.835103217Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Perl",
       "UTF-8"
     ]
   },
@@ -11469,28 +11628,6 @@
     ]
   },
   {
-    "domain": "tibillet.coop",
-    "title": "TiBillet",
-    "business_name": "TiBillet",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 690,
-    "crawled_at": "2025-11-23T02:33:19.47249684Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Perl",
-      "Plausible Analytics",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "harshithasompura.com",
     "title": "Harshitha Sompura - Software Engineer Portfolio",
     "business_name": "",
@@ -12381,119 +12518,6 @@
       "Python",
       "To Top",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "ergonautkb.com",
-    "title": "Hello from Ergonaut Keyboards | Ergonaut Keyboards",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 600,
-    "crawled_at": "2025-11-19T17:33:19.4347893Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Perl",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "tallinnrunningtours.com",
-    "title": "Free Tallinn Running Tours - Start with 5km | Free Tallinn Running Tours",
-    "business_name": "",
-    "country": "EST",
-    "seo_score": 77,
-    "tech_spend": 2400,
-    "crawled_at": "2025-11-19T12:54:19.464533118Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "KaTeX",
-      "Perl",
-      "Telegram",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "codepod.io",
-    "title": "Codepod IDE",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2400,
-    "crawled_at": "2025-11-19T11:30:19.436809269Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Perl",
-      "Python",
-      "QUIC",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "terratrack.at",
-    "title": "Home | TerraTrack",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 7500,
-    "crawled_at": "2025-11-19T10:56:56.198724621Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "Fireblade",
-      "GitHub Hosting",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "shipmondo.dev",
-    "title": "Shipmondo.dev",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 5264,
-    "crawled_at": "2025-11-19T09:12:22.786878329Z",
-    "technologies": [
-      "AAPT",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "DAV",
-      "Docusaurus",
-      "Financial Services Guide",
-      "No-Q",
-      "Perl",
-      "Tailwind CSS"
     ]
   }
 ]
