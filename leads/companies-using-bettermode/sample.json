@@ -1,5 +1,32 @@
 [
   {
+    "domain": "mantras.world",
+    "title": "Home - Mantras World",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 7983,
+    "crawled_at": "2026-04-17T06:44:20.009499021Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "BetterMode",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "ElementUI",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Imgix",
+      "PWA",
+      "QUIC",
+      "Tailwind CSS",
+      "Tribe.so",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "aliprobuzz.com",
     "title": "Ali Pro Buzz - Viral & Trending Community",
     "business_name": "",
@@ -1341,33 +1368,6 @@
     ]
   },
   {
-    "domain": "mantras.world",
-    "title": "Home - Mantras World",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 7983,
-    "crawled_at": "2025-12-22T18:22:19.325488013Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "BetterMode",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "ElementUI",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Imgix",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "Tribe.so",
-      "Vector Internet Services",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "zapnavigator.com",
     "title": "Your Navigator for WhatsApp Services | Explore Now",
     "business_name": "",
@@ -1896,39 +1896,6 @@
       "Twitter Ads",
       "Vector Internet Services",
       "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "logical.community",
-    "title": "Home - Logical",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 7983,
-    "crawled_at": "2025-11-13T02:26:39.944616125Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "BetterMode",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "DAV",
-      "ElementUI",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Custom Search",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Headless UI",
-      "Imgix",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "Tribe.so",
-      "Vector Internet Services",
       "shadcn ui"
     ]
   }
