@@ -1,5 +1,128 @@
 [
   {
+    "domain": "internetomni.com",
+    "title": "An EMDN - Internet OMNI, Omnichannel Connectivity Unified Network Always Connected Multi Platform Internet Seamless Access",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 135,
+    "crawled_at": "2026-04-17T12:41:19.983025696Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "punto2012.com",
+    "title": "Punto 2012 .BAR .REST | .rest and .bar domain names",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 1268,
+    "crawled_at": "2026-04-17T08:17:20.012478963Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "Dynadot",
+      "GZIP Module",
+      "GoDaddy",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8",
+      "Website Tonight"
+    ]
+  },
+  {
+    "domain": "bremmyjames.com",
+    "title": "BREMMY JAMES",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 52,
+    "tech_spend": 135,
+    "crawled_at": "2026-04-17T07:02:19.985121482Z",
+    "technologies": [
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "cityoflaspinas.com",
+    "title": "Welcome to PhilippineProperties.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 7219,
+    "crawled_at": "2026-04-17T05:50:19.997841167Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Neighborhoods",
+      "Prospective",
+      "QUIC",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "madeinheaven.net",
+    "title": "Build Your Brand",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 135,
+    "crawled_at": "2026-04-17T00:17:19.994214212Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "crreflexology.co.uk",
+    "title": "CR-Reflexology",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 135,
+    "crawled_at": "2026-04-16T17:32:20.022736045Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "karate-do.academy",
     "title": "Karate Classes in Somerset for Kids & Adults | Karate-Do Academy",
     "business_name": "",
@@ -68,93 +191,6 @@
       "Font Awesome",
       "GZIP Module",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "foodsafetymanagementsystem.com",
-    "title": "An EMDN - Food Safety Management System, Food Safety HACCP ISO 22000 Quality Control Risk Management Hygiene Compliance Food Inspection",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 135,
-    "crawled_at": "2026-04-16T03:56:19.980892346Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microsoft Clarity",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "philippinerealestate.org",
-    "title": "Welcome to PhilippineProperties.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 7219,
-    "crawled_at": "2026-04-16T01:23:20.00298078Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Neighborhoods",
-      "Prospective",
-      "QUIC",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "marketwatch.us",
-    "title": "Build Your Brand",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 135,
-    "crawled_at": "2026-04-15T21:08:19.999459331Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "register.bar",
-    "title": "Punto 2012 .BAR .REST | .rest and .bar domain names",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 1268,
-    "crawled_at": "2026-04-15T18:02:19.979180856Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Duda",
-      "Dynadot",
-      "GZIP Module",
-      "GoDaddy",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "Website Tonight"
     ]
   },
   {
@@ -1940,25 +1976,6 @@
     ]
   },
   {
-    "domain": "crreflexology.co.uk",
-    "title": "CR-Reflexology",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 135,
-    "crawled_at": "2026-01-23T00:58:11.689175146Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "shopdavaza.com",
     "title": "DAVAZA Leotard Rentals",
     "business_name": "",
@@ -2219,21 +2236,6 @@
       "UTF-8",
       "WordPress",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "bremmyjames.com",
-    "title": "BREMMY JAMES",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 52,
-    "tech_spend": 135,
-    "crawled_at": "2026-01-13T11:25:43.459267002Z",
-    "technologies": [
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8"
     ]
   },
   {
@@ -3812,27 +3814,6 @@
       "GZIP Module",
       "Google My Business",
       "Instagram Follow Button",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "emnettrading.com",
-    "title": "Emnet Trading",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 67,
-    "tech_spend": 10219,
-    "crawled_at": "2025-11-13T01:53:39.944111779Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "BLR",
-      "CloudFront",
-      "DAV",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Tumblr",
-      "Twitter Ads",
       "UTF-8"
     ]
   }
