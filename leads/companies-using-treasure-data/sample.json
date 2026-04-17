@@ -1,5 +1,31 @@
 [
   {
+    "domain": "mymitsubishiapps.com",
+    "title": "Mitsubishi Motors Digital Kit",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 45099,
+    "crawled_at": "2026-04-16T19:19:53.02125292Z",
+    "technologies": [
+      "CookieConsent",
+      "Engage",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microsoft Clarity",
+      "MoEngage",
+      "PHP",
+      "Treasure Data",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "iAPPS",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "dmpg.co.uk",
     "title": "DMPG - Boost Your Digital Performance",
     "business_name": "DMPG Ltd",
@@ -1747,33 +1773,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "mymitsubishiapps.com",
-    "title": "Mitsubishi Motors Digital Kit",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 45159,
-    "crawled_at": "2025-11-12T19:02:22.065670972Z",
-    "technologies": [
-      "Amazon",
-      "CookieConsent",
-      "Engage",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microsoft Clarity",
-      "MoEngage",
-      "PHP",
-      "Treasure Data",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "iAPPS",
-      "jsDelivr"
     ]
   }
 ]
