@@ -1,5 +1,38 @@
 [
   {
+    "domain": "ddbird.co",
+    "title": "DD Bird",
+    "business_name": "DD Bird",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 5743,
+    "crawled_at": "2026-04-17T04:11:20.020837547Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "PayPal",
+      "QUIC",
+      "ShipStation",
+      "Squarespace",
+      "UTF-8",
+      "Vimeo",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "neptunesharvestfertilizer.com",
     "title": "Rocky Mountain BioAg | Organic Fertilizer, Soil Amendments",
     "business_name": "",
@@ -1348,39 +1381,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "myddbird.com",
-    "title": "DD Bird",
-    "business_name": "DD Bird",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 5743,
-    "crawled_at": "2026-03-25T13:36:22.348886402Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "PayPal",
-      "QUIC",
-      "ShipStation",
-      "Squarespace",
-      "UTF-8",
-      "Vimeo",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand",
-      "jQuery"
     ]
   },
   {
