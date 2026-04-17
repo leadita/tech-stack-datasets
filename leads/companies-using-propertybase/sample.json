@@ -1,12 +1,12 @@
 [
   {
-    "domain": "atlanticcitycasinodeals.com",
+    "domain": "blackjackonlinebiloxicasino.com",
     "title": "VP. Meybohm Real Estate / Owner GrantSuttonRealEstate LLC.",
     "business_name": "",
     "country": "USA",
     "seo_score": 67,
     "tech_spend": 5429,
-    "crawled_at": "2026-04-16T14:23:20.003488109Z",
+    "crawled_at": "2026-04-17T20:53:19.979617429Z",
     "technologies": [
       "Adobe Creative Cloud WebFonts",
       "Aruba",
@@ -36,6 +36,44 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "eLand"
+    ]
+  },
+  {
+    "domain": "danielhuberrealestate.com",
+    "title": "D.E. Huber Real Estate",
+    "business_name": "D.E. Huber Real Estate",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 18965,
+    "crawled_at": "2026-04-17T16:20:19.987021156Z",
+    "technologies": [
+      "Amazon S3 CDN",
+      "CoreUI",
+      "DAV",
+      "Fastly CDN",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Homes.com CMS",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "New Relic",
+      "PropertyBase",
+      "QUIC",
+      "Storyblocks",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery Pin It Button for Images",
+      "reCAPTCHA",
+      "shadcn ui"
     ]
   },
   {
