@@ -1084,48 +1084,5 @@
       "WordPress",
       "jQuery"
     ]
-  },
-  {
-    "domain": "bibiperu.com.pe",
-    "title": "Calzado infantil para niños, niñas y recién nacidos | BIBI",
-    "business_name": "",
-    "country": "ARG",
-    "seo_score": 67,
-    "tech_spend": 69886,
-    "crawled_at": "2025-11-13T02:14:39.953735604Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "ByteDance",
-      "CloudFront",
-      "Content Delivery Network",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "FormSubmit",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "QUIC",
-      "Render",
-      "Shipping Rates Calculator",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "TikTok Conversion Tracking Pixel",
-      "UTF-8",
-      "VTEX Personalization",
-      "WhatsApp Sharing",
-      "YouTube",
-      "reCAPTCHA"
-    ]
   }
 ]
