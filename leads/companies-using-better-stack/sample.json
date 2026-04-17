@@ -1,5 +1,55 @@
 [
   {
+    "domain": "wilkin.xyz",
+    "title": "home | wilkin.xyz",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 200,
+    "crawled_at": "2026-04-17T16:38:20.027568066Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Astro",
+      "Better Stack",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "ElementUI",
+      "GitHub Hosting",
+      "Tailwind CSS",
+      "Website Carbon"
+    ]
+  },
+  {
+    "domain": "cab.link",
+    "title": "Home | CabCard Services - Low Cost Card Payments for Taxi Drivers and Fleets",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": "",
+    "crawled_at": "2026-04-17T03:26:19.991942645Z",
+    "technologies": [
+      "Better Stack",
+      "Content Delivery Network",
+      "Express",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Google Analytics",
+      "Google Tag Manager",
+      "License Buttons",
+      "Netlify",
+      "PWA",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "unrubble.com",
     "title": "Staff Scheduling with Time and Attendance Tracking | Unrubble",
     "business_name": "Unrubble",
@@ -3145,25 +3195,6 @@
     ]
   },
   {
-    "domain": "leowilkin.xyz",
-    "title": "home | wilkin.xyz",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": "",
-    "crawled_at": "2025-12-18T08:43:32.749612053Z",
-    "technologies": [
-      "Astro",
-      "Better Stack",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "ElementUI",
-      "GitHub Hosting",
-      "Tailwind CSS"
-    ]
-  },
-  {
     "domain": "simcompanies.com",
     "title": "Business simulation game - Sim Companies",
     "business_name": "Sim Companies",
@@ -4424,37 +4455,6 @@
       "University or College",
       "YouTube",
       "reCAPTCHA",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "tradingthings.io",
-    "title": "tradingthings.io | TradingView Chart Trading. Automatic Journaling. Video Clips.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 3738,
-    "crawled_at": "2025-11-13T04:38:39.942269044Z",
-    "technologies": [
-      "Better Stack",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Digital Ocean Spaces",
-      "ElementUI",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Radix UI",
-      "Tailwind CSS",
-      "TradingView",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "YouTube",
       "shadcn ui"
     ]
   }

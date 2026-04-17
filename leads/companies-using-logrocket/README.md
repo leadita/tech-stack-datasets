@@ -1,6 +1,6 @@
 # Companies Using LogRocket (Live Dataset 2026)
 
-This folder contains an active list of 338 companies using **LogRocket**. 
+This folder contains an active list of 393 companies using **LogRocket**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 338
+- **Total Leads:** 393
 - **Verified:** Yes
-- **Last Updated:** 2026-04-16 20:00 UTC
+- **Last Updated:** 2026-04-17 20:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **338+** companies using LogRocket.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **393+** companies using LogRocket.
 
 [**⚡ Unlock the Full LogRocket List with Contact Details**](https://leadita.com/leads/companies-using-logrocket)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-16 20:00 UTC*
+*Last updated: 2026-04-17 20:00 UTC*
 *Data source: Leadita Technographic Intelligence*

@@ -1,5 +1,23 @@
 [
   {
+    "domain": "selffeeder.eu",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 1200,
+    "crawled_at": "2026-04-17T19:53:19.995404295Z",
+    "technologies": [
+      "Apache",
+      "Barchart",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Grafana",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "vikshep.com",
     "title": "Arya Shakti",
     "business_name": "",
