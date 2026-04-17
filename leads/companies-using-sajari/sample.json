@@ -1,5 +1,30 @@
 [
   {
+    "domain": "neatsoft.dev",
+    "title": "NeatSoft - Web App Development | Singapore-Based Agency",
+    "business_name": "",
+    "country": "SGP",
+    "seo_score": 77,
+    "tech_spend": 5524,
+    "crawled_at": "2026-04-17T13:44:19.990943106Z",
+    "technologies": [
+      "Express",
+      "GZIP Module",
+      "Gambling Content",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Nginx",
+      "QUIC",
+      "Sajari",
+      "Svelte",
+      "Tailwind CSS",
+      "Unsplash",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "kaboodle.com.au",
     "title": "stylish kitchen renovation solutions | kaboodle kitchen",
     "business_name": "Kaboodle Kitchen Australia",
