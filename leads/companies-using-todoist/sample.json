@@ -1,5 +1,26 @@
 [
   {
+    "domain": "remarkartsnews.com",
+    "title": "Doist Inc. - Todoist: Planner & Calendar",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": "",
+    "crawled_at": "2026-04-17T04:44:20.005530451Z",
+    "technologies": [
+      "Apache",
+      "Bulma",
+      "GZIP Module",
+      "Google My Business",
+      "Google Play",
+      "Ntent",
+      "QUIC",
+      "Tailwind CSS",
+      "Todoist",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "westudy.ca",
     "title": "WeStudy Tutoring",
     "business_name": "",
@@ -1207,28 +1228,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "remarkartsnews.com",
-    "title": "Doist Inc. - Todoist: Planner & Calendar",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 60,
-    "crawled_at": "2025-12-17T07:29:09.594590686Z",
-    "technologies": [
-      "Amazon",
-      "Apache",
-      "Bulma",
-      "GZIP Module",
-      "Google My Business",
-      "Google Play",
-      "Ntent",
-      "QUIC",
-      "Tailwind CSS",
-      "Todoist",
-      "UTF-8"
     ]
   },
   {
