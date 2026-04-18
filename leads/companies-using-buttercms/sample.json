@@ -1,5 +1,37 @@
 [
   {
+    "domain": "partner.co",
+    "title": "Partner.Co™",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 13858,
+    "crawled_at": "2026-04-18T06:17:20.008027093Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "ButterCMS",
+      "Ethy",
+      "Fireblade",
+      "GZIP Module",
+      "Imperva Bot Detection and Mitigation",
+      "Incapsula CDN",
+      "Instagram Follow Button",
+      "Next.js",
+      "Nginx",
+      "Perl",
+      "QUIC",
+      "Radix UI",
+      "Share Link",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "joelovesmdneo.com",
     "title": "Shop MDHearing's Special BOGO Offer",
     "business_name": "",
@@ -202,38 +234,6 @@
       "Visual Website Optimizer",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "wellnesspartner.co",
-    "title": "Partner.Co™",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 13858,
-    "crawled_at": "2026-04-11T10:56:20.015265869Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "ButterCMS",
-      "Ethy",
-      "Fireblade",
-      "GZIP Module",
-      "Imperva Bot Detection and Mitigation",
-      "Incapsula CDN",
-      "Instagram Follow Button",
-      "Next.js",
-      "Nginx",
-      "Perl",
-      "QUIC",
-      "Radix UI",
-      "Share Link",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "eLand",
-      "shadcn ui"
     ]
   },
   {
