@@ -1,5 +1,30 @@
 [
   {
+    "domain": "samuel-cardenas.com",
+    "title": "Samuel Cárdenas - Product Designer",
+    "business_name": "",
+    "country": "BRA",
+    "seo_score": 62,
+    "tech_spend": 31880,
+    "crawled_at": "2026-04-18T13:02:20.008969984Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Framer Sites",
+      "Google",
+      "Google Cloud CDN",
+      "Instagram Follow Button",
+      "KVH",
+      "Notion",
+      "Ntent",
+      "QUIC",
+      "Slack",
+      "Todoist",
+      "Twitter Ads",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
     "domain": "remarkartsnews.com",
     "title": "Doist Inc. - Todoist: Planner & Calendar",
     "business_name": "",
@@ -890,31 +915,6 @@
       "Todoist",
       "UTF-8",
       "WF Cookie Consent"
-    ]
-  },
-  {
-    "domain": "samuel-cardenas.com",
-    "title": "Samuel Cárdenas - Product Designer",
-    "business_name": "",
-    "country": "BRA",
-    "seo_score": 67,
-    "tech_spend": 31880,
-    "crawled_at": "2026-01-14T05:25:43.437408333Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Framer Sites",
-      "Google",
-      "Google Cloud CDN",
-      "Instagram Follow Button",
-      "KVH",
-      "Notion",
-      "Ntent",
-      "QUIC",
-      "Slack",
-      "Todoist",
-      "Twitter Ads",
-      "Yandex Hosting",
-      "Zeald"
     ]
   },
   {
