@@ -1,5 +1,24 @@
 [
   {
+    "domain": "handwave.co",
+    "title": "Password Security - handwave.co",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 224,
+    "crawled_at": "2026-04-18T09:38:19.998445514Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "FormSubmit",
+      "Namecheap",
+      "Nginx",
+      "PHP",
+      "Parallels Plesk Panel",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "rapture.ws",
     "title": "Rapture Watch & Signs",
     "business_name": "",

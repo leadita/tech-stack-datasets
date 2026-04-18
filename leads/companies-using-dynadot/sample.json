@@ -1,12 +1,12 @@
 [
   {
-    "domain": "internetomni.com",
-    "title": "An EMDN - Internet OMNI, Omnichannel Connectivity Unified Network Always Connected Multi Platform Internet Seamless Access",
+    "domain": "automatedfinancialsystems.com",
+    "title": "An EMDN - Automated Financial Systems, Financial Technology Banking Automation Accounting Software Investment Management Risk Analysis Payment Processing Wealth Management Digital Finance",
     "business_name": "",
     "country": "",
     "seo_score": 52,
     "tech_spend": 135,
-    "crawled_at": "2026-04-17T12:41:19.983025696Z",
+    "crawled_at": "2026-04-17T22:17:20.016589925Z",
     "technologies": [
       "Amazon CloudFront",
       "Apture Linking Platform",
@@ -18,6 +18,27 @@
       "Google Analytics",
       "Google Tag Manager",
       "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "ncsfi.com",
+    "title": "National Center for Systemic Family Interventions",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 10219,
+    "crawled_at": "2026-04-17T21:29:19.995563193Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "BLR",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Tumblr",
+      "Twitter Ads",
       "UTF-8"
     ]
   },
