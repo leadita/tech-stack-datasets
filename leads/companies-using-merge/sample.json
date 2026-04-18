@@ -1,5 +1,26 @@
 [
   {
+    "domain": "startday.io",
+    "title": "StartDay — One Link. Zero Chaos.",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 9319,
+    "crawled_at": "2026-04-18T04:23:20.007492274Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Merge",
+      "Next.js",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "socratify.io",
     "title": "Socratify",
     "business_name": "",
