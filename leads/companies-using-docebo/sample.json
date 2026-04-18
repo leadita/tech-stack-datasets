@@ -1,5 +1,54 @@
 [
   {
+    "domain": "gaetano.design",
+    "title": "Gaetano Scognamiglio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 31920,
+    "crawled_at": "2026-04-18T15:11:19.988107277Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docebo",
+      "Framer Sites",
+      "Google",
+      "Google Cloud CDN",
+      "KVH",
+      "Ntent",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
+    "domain": "bootstrapperweekly.com",
+    "title": "Bootstrapper Weekly | The Indie Hacker's Digest",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 46148,
+    "crawled_at": "2026-04-18T09:32:19.989940904Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Better Lead Generation Services",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Docebo",
+      "Drata",
+      "Expensify",
+      "Instapage",
+      "Next.js",
+      "PagerDuty",
+      "Python",
+      "QUIC",
+      "Sage Intacct",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "rankscale.io",
     "title": "Rankscale - Track and Deeply Analyze Visibility in AI Search Engines",
     "business_name": "Rankscale",
