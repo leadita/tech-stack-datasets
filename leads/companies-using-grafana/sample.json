@@ -1,19 +1,41 @@
 [
   {
-    "domain": "selffeeder.eu",
+    "domain": "gsx.ro",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 1800,
+    "crawled_at": "2026-04-17T23:10:08.282917748Z",
+    "technologies": [
+      "Apache",
+      "Barchart",
+      "Camp",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "GitHub Hosting",
+      "Grafana",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "availability.ftc.ru",
     "title": "Grafana",
     "business_name": "",
     "country": "",
     "seo_score": 30,
-    "tech_spend": 1200,
-    "crawled_at": "2026-04-17T19:53:19.995404295Z",
+    "tech_spend": 11200,
+    "crawled_at": "2026-04-17T05:02:19.997451749Z",
     "technologies": [
       "Apache",
       "Barchart",
+      "Contento",
       "Express",
       "GZIP Module",
       "GitHub Hosting",
       "Grafana",
+      "Nginx",
       "UTF-8"
     ]
   },
