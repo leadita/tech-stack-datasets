@@ -6,7 +6,7 @@
     "country": "",
     "seo_score": 72,
     "tech_spend": 3180,
-    "crawled_at": "2026-04-17T03:40:40.628493434Z",
+    "crawled_at": "2026-04-18T16:29:19.985862094Z",
     "technologies": [
       "Alternate Protocol",
       "Content Delivery Network",
@@ -24,6 +24,41 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
+    ]
+  },
+  {
+    "domain": "keyprotek.com",
+    "title": "Protective Key Fob & Remote Starter Covers / Worldwide Shipping – KeyProtek",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 103998,
+    "crawled_at": "2026-04-18T06:05:19.991447474Z",
+    "technologies": [
+      "17TRACK",
+      "Azure Edge",
+      "Cart.com",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Express",
+      "Fireblade",
+      "Freshdesk Support",
+      "Freshteam",
+      "Gambling Content",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Heroku",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "POWr",
+      "QUIC",
+      "Refersion",
+      "Shopify",
+      "Shopify Collabs",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8"
     ]
   },
   {
@@ -2672,41 +2707,6 @@
       "Tailwind CSS",
       "Twitter Ads",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "keyprotek.com",
-    "title": "Protective Key Fob & Remote Starter Covers / Worldwide Shipping – KeyProtek",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 103998,
-    "crawled_at": "2025-12-09T16:17:10.310898654Z",
-    "technologies": [
-      "17TRACK",
-      "Azure Edge",
-      "Cart.com",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Express",
-      "Fireblade",
-      "Freshdesk Support",
-      "Freshteam",
-      "Gambling Content",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Heroku",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "POWr",
-      "QUIC",
-      "Refersion",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8"
     ]
   },
   {
