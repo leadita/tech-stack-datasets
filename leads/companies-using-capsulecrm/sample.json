@@ -1,5 +1,38 @@
 [
   {
+    "domain": "rhcook.co.uk",
+    "title": "Builders Marlow | Home Renovations & Refurbishments | RH Cook",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 92,
+    "tech_spend": 35568,
+    "crawled_at": "2026-04-17T15:26:49.983083946Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "CapsuleCRM",
+      "Column Shortcodes",
+      "Content Delivery Network",
+      "Contento",
+      "EmbedPress",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Kriesi.at",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "RM Education",
+      "Theme In WP",
+      "UTF-8",
+      "WP Engine",
+      "WordPress",
+      "WordPress Multisite",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "khr-online.com",
     "title": "KHR | Floor Sanding Machines, Abrasives and Finishes | KHR Lägler",
     "business_name": "",
@@ -1211,39 +1244,6 @@
       "WP Engine",
       "WordPress",
       "WordPress Multisite",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "rhcook.co.uk",
-    "title": "Builders Marlow | Home Renovations & Refurbishments | RH Cook",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 77,
-    "tech_spend": 35568,
-    "crawled_at": "2025-11-13T03:38:39.947037493Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "CapsuleCRM",
-      "Column Shortcodes",
-      "Content Delivery Network",
-      "Contento",
-      "EmbedPress",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Kriesi.at",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "RM Education",
-      "Theme In WP",
-      "UTF-8",
-      "WP Engine",
-      "WordPress",
-      "WordPress Multisite",
-      "eLand",
       "jQuery"
     ]
   }
