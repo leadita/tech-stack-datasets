@@ -1,6 +1,6 @@
 # Companies Using Amazon Advertising (Live Dataset 2026)
 
-This folder contains an active list of 174 companies using **Amazon Advertising**. 
+This folder contains an active list of 175 companies using **Amazon Advertising**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 174
+- **Total Leads:** 175
 - **Verified:** Yes
-- **Last Updated:** 2026-04-17 11:00 UTC
+- **Last Updated:** 2026-04-18 11:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **174+** companies using Amazon Advertising.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **175+** companies using Amazon Advertising.
 
 [**⚡ Unlock the Full Amazon Advertising List with Contact Details**](https://leadita.com/leads/companies-using-amazon-advertising)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-17 11:00 UTC*
+*Last updated: 2026-04-18 11:00 UTC*
 *Data source: Leadita Technographic Intelligence*
