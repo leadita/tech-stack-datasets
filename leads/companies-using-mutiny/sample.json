@@ -1,5 +1,42 @@
 [
   {
+    "domain": "mycomutiny.com",
+    "title": "Myco-Mutiny",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 45653,
+    "crawled_at": "2026-04-18T04:14:20.000176531Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "ClickOn",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Mutiny",
+      "NFOrce Internet",
+      "Ntent",
+      "Plausible Analytics",
+      "SMC",
+      "Sapper",
+      "Schema Plugin",
+      "Subversion",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "tinymutiny.com",
     "title": "chris jefferys",
     "business_name": "",
@@ -331,36 +368,6 @@
       "Mutiny",
       "OpenResty",
       "Zyro"
-    ]
-  },
-  {
-    "domain": "janelaurie.com",
-    "title": "Jane Mutiny",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 62,
-    "tech_spend": 63752,
-    "crawled_at": "2025-11-13T09:47:39.966493953Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Apture Linking Platform",
-      "Aruba",
-      "Express",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Mutiny",
-      "QUIC",
-      "Squarespace",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
