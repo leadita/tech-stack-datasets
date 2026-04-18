@@ -1,6 +1,6 @@
 # Companies Using Netlify (Live Dataset 2026)
 
-This folder contains an active list of 107,983 companies using **Netlify**. 
+This folder contains an active list of 108,768 companies using **Netlify**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 107,983
+- **Total Leads:** 108,768
 - **Verified:** Yes
-- **Last Updated:** 2026-04-17 13:15 UTC
+- **Last Updated:** 2026-04-18 13:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **107,983+** companies using Netlify.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **108,768+** companies using Netlify.
 
 [**⚡ Unlock the Full Netlify List with Contact Details**](https://leadita.com/leads/companies-using-netlify)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-17 13:15 UTC*
+*Last updated: 2026-04-18 13:15 UTC*
 *Data source: Leadita Technographic Intelligence*
