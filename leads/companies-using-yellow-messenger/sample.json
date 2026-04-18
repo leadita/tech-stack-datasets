@@ -1,5 +1,30 @@
 [
   {
+    "domain": "anmolchhabra.cv",
+    "title": "Anmol Chhabra",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 65600,
+    "crawled_at": "2026-04-17T12:44:19.985715173Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon S3 CDN",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Headless UI",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Python",
+      "SMC",
+      "Storyblocks",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "Yellow Messenger"
+    ]
+  },
+  {
     "domain": "investspherewealth.com",
     "title": "Investsphere Wealth | No 1 Financial Product Distributor in Pune | AMFI registered Mutual Fund Distributor",
     "business_name": "",
@@ -2222,29 +2247,6 @@
       "WordPress Related Posts",
       "Yellow Messenger",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "anmolchhabra.cv",
-    "title": "Anmol Chhabra",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 65600,
-    "crawled_at": "2026-01-14T14:16:43.43675403Z",
-    "technologies": [
-      "Amazon S3 CDN",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Headless UI",
-      "Next.js",
-      "Python",
-      "SMC",
-      "Storyblocks",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "Yellow Messenger"
     ]
   },
   {
