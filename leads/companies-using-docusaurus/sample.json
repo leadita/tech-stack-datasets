@@ -1,5 +1,134 @@
 [
   {
+    "domain": "paff-shell.com",
+    "title": "strider@paff-shell.com | strider@paff-shell.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-04-18T19:32:20.020771252Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "GZIP Module",
+      "GitHub Hosting",
+      "KaTeX",
+      "Mastodon",
+      "Perl",
+      "Tailwind CSS",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "smashbrosshineon.com",
+    "title": "Super Smash Bros 6 Fan Proposal — Shine On | Super Smash Bros 6",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 75948,
+    "crawled_at": "2026-04-18T12:32:08.431391374Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Google Related Website Sites",
+      "K2F",
+      "Nationwide Mortgage Licensing System and Registry",
+      "Netlify",
+      "Perl",
+      "SMC",
+      "Subversion",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "shira.app",
+    "title": "Shira",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-04-18T12:29:20.007073982Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Nginx",
+      "Perl",
+      "Ubuntu"
+    ]
+  },
+  {
+    "domain": "clientwire.com",
+    "title": "Hello from Wire | Wire",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 66,
+    "crawled_at": "2026-04-18T05:35:20.010095153Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "Cybot",
+      "Docusaurus",
+      "GZIP Module",
+      "Matomo",
+      "Perl",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "miltykh.com",
+    "title": "Home | Ilia Miltykh, Researcher",
+    "business_name": "",
+    "country": "RUS",
+    "seo_score": 57,
+    "tech_spend": 600,
+    "crawled_at": "2026-04-17T23:08:20.006982817Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Perl",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "abhayb.com",
+    "title": "Abhay Bisht — Software Engineer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 19840,
+    "crawled_at": "2026-04-17T23:00:03.303278336Z",
+    "technologies": [
+      "AthenaHealth",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Python",
+      "QUIC",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "dvarahq.com",
     "title": "AI Gateway Built for Governance | DVARA",
     "business_name": "Dvara",
@@ -2591,26 +2720,6 @@
     ]
   },
   {
-    "domain": "paff-shell.com",
-    "title": "strider@paff-shell.com | strider@paff-shell.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-04-05T19:49:15.595273195Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "GZIP Module",
-      "GitHub Hosting",
-      "KaTeX",
-      "Mastodon",
-      "Perl",
-      "Tailwind CSS",
-      "jsDelivr"
-    ]
-  },
-  {
     "domain": "prompthackerdanny.com",
     "title": "프롬프트해커 대니 | 프롬프트해커 대니",
     "business_name": "",
@@ -3361,30 +3470,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "clientwire.net",
-    "title": "Hello from Wire | Wire",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 4123,
-    "crawled_at": "2026-04-02T01:56:39.064490877Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "Cybot",
-      "Docusaurus",
-      "GZIP Module",
-      "Matomo",
-      "Perl",
-      "Tailwind CSS"
     ]
   },
   {
@@ -6935,26 +7020,6 @@
     ]
   },
   {
-    "domain": "miltykh.com",
-    "title": "Home | Ilia Miltykh, Researcher",
-    "business_name": "",
-    "country": "RUS",
-    "seo_score": 57,
-    "tech_spend": 600,
-    "crawled_at": "2026-01-23T16:16:43.472244066Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Perl",
-      "UTF-8",
-      "University or College"
-    ]
-  },
-  {
     "domain": "timbrook.tech",
     "title": "7imbrook",
     "business_name": "",
@@ -8579,23 +8644,6 @@
       "Tailwind CSS",
       "Ubuntu",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "shira.app",
-    "title": "Shira",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2025-12-25T17:40:38.343224162Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "GZIP Module",
-      "Nginx",
-      "Perl",
-      "Ubuntu"
     ]
   },
   {
@@ -12472,51 +12520,6 @@
       "Netlify",
       "Perl",
       "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "egaranti.dev",
-    "title": "egaranti docs | egaranti",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 66,
-    "crawled_at": "2025-11-19T18:57:19.547871144Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GZIP Module",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "unifi-cam-proxy.com",
-    "title": "Installation | unifi-cam-proxy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2400,
-    "crawled_at": "2025-11-19T18:27:19.427758512Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "OpenSSL",
-      "Perl",
-      "Python",
-      "To Top",
       "UTF-8"
     ]
   }

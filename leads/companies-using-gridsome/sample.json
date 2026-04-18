@@ -1,5 +1,144 @@
 [
   {
+    "domain": "ramirezwilliam.com",
+    "title": "William Ramirez - Graphic Design and Modern Website Development",
+    "business_name": "",
+    "country": "DOM",
+    "seo_score": 82,
+    "tech_spend": 78097,
+    "crawled_at": "2026-04-18T14:42:51.550867019Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Bulma",
+      "CloudFront",
+      "Content Delivery Network",
+      "DAV",
+      "Font Awesome",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Gridsome",
+      "K2F",
+      "Netlify",
+      "No-Q",
+      "PHP",
+      "SMC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "dfbrown.dev",
+    "title": "Work Hard, Live Passionately - Work Hard, Live Passionately",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 99,
+    "crawled_at": "2026-04-18T06:56:20.022792476Z",
+    "technologies": [
+      "Bulma",
+      "Content Delivery Network",
+      "DAV",
+      "Formspree",
+      "GitHub Hosting",
+      "Gridsome",
+      "License Buttons",
+      "Material Design Icons",
+      "Netlify",
+      "PHP",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "timeboxed.de",
+    "title": "Timeboxed - Das blindwerk Magazin",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 72,
+    "tech_spend": 8185,
+    "crawled_at": "2026-04-18T06:56:19.994019018Z",
+    "technologies": [
+      "Apache",
+      "Cybot",
+      "DAV",
+      "GZIP Module",
+      "Gridsome",
+      "Perl",
+      "Shopware",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress"
+    ]
+  },
+  {
+    "domain": "sydneyquantum.org",
+    "title": "Sydney Quantum Academy",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 77,
+    "tech_spend": 35636,
+    "crawled_at": "2026-04-18T06:38:00.90940754Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "DAV",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "HMDG",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Netlify",
+      "Phew",
+      "QUIC",
+      "Subversion",
+      "UTF-8",
+      "University or College",
+      "WordPress",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "g30.be",
+    "title": "Association of architects - G30",
+    "business_name": "",
+    "country": "BEL",
+    "seo_score": 67,
+    "tech_spend": 268,
+    "crawled_at": "2026-04-18T05:45:22.698467848Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "joncflint.com",
+    "title": "Home | FJ",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-04-18T01:02:19.978121033Z",
+    "technologies": [
+      "GZIP Module",
+      "Gridsome",
+      "Nginx",
+      "Ubuntu"
+    ]
+  },
+  {
     "domain": "adamjlev.com",
     "title": "Adam LeVasseur | adamjlev.com",
     "business_name": "",
@@ -6293,21 +6432,6 @@
     ]
   },
   {
-    "domain": "joncflint.com",
-    "title": "Home | FJ",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2026-01-26T06:13:59.064803281Z",
-    "technologies": [
-      "GZIP Module",
-      "Gridsome",
-      "Nginx",
-      "Ubuntu"
-    ]
-  },
-  {
     "domain": "newdawnsolar.co.za",
     "title": "New Dawn Solar - Solar Solutions for Farming, Business and Homes",
     "business_name": "",
@@ -9037,27 +9161,6 @@
     ]
   },
   {
-    "domain": "timeboxed.de",
-    "title": "Timeboxed - Das blindwerk Magazin",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 72,
-    "tech_spend": 8185,
-    "crawled_at": "2025-12-15T19:58:56.009654008Z",
-    "technologies": [
-      "Apache",
-      "Cybot",
-      "DAV",
-      "GZIP Module",
-      "Gridsome",
-      "Perl",
-      "Shopware",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "WordPress"
-    ]
-  },
-  {
     "domain": "kirklanduk.com",
     "title": "Fruit Growing Equipment - Kirkland",
     "business_name": "",
@@ -11668,101 +11771,6 @@
       "Twitter Ads",
       "UTF-8",
       "Visx"
-    ]
-  },
-  {
-    "domain": "arweiler.pro",
-    "title": "volker arweiler - senior software engineer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 500,
-    "crawled_at": "2025-11-22T01:51:19.460757355Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Express",
-      "Gambling Content",
-      "Gridsome",
-      "NFOrce Internet",
-      "OpenSSL",
-      "Python"
-    ]
-  },
-  {
-    "domain": "thats-ideal.co.uk",
-    "title": "Bookkeeping for creatives |Digital|Beauty|Gamers|Creators - Thats Ideal - Thats Ideal",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 70468,
-    "crawled_at": "2025-11-22T01:42:19.469741738Z",
-    "technologies": [
-      "Adult Content",
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "Gridsome",
-      "Instagram Follow Button",
-      "KVH",
-      "MailChimp",
-      "Netlify",
-      "QUIC",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "gurubalan.dev",
-    "title": "Gurubalan Harikrishnan | Software Engineer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 3,
-    "crawled_at": "2025-11-22T00:03:19.450912217Z",
-    "technologies": [
-      "Amazon Link Enchancer",
-      "Amazon Widgets",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Gridsome",
-      "Medium",
-      "Next.js",
-      "PROPS Publisher",
-      "Pleroma",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "skylineentities.com",
-    "title": "Home - Skyline",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 268,
-    "crawled_at": "2025-11-21T18:15:39.55436949Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "PWA",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
