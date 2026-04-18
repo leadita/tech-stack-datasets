@@ -1,6 +1,6 @@
 # Companies Using Texthelp (Live Dataset 2026)
 
-This folder contains an active list of 157 companies using **Texthelp**. 
+This folder contains an active list of 158 companies using **Texthelp**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 157
+- **Total Leads:** 158
 - **Verified:** Yes
-- **Last Updated:** 2026-04-17 10:15 UTC
+- **Last Updated:** 2026-04-18 10:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **157+** companies using Texthelp.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **158+** companies using Texthelp.
 
 [**⚡ Unlock the Full Texthelp List with Contact Details**](https://leadita.com/leads/companies-using-texthelp)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-17 10:15 UTC*
+*Last updated: 2026-04-18 10:15 UTC*
 *Data source: Leadita Technographic Intelligence*
