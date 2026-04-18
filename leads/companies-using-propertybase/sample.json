@@ -1,12 +1,12 @@
 [
   {
-    "domain": "blackjackonlinebiloxicasino.com",
+    "domain": "wageronlineatmacaucasino.com",
     "title": "VP. Meybohm Real Estate / Owner GrantSuttonRealEstate LLC.",
     "business_name": "",
     "country": "USA",
     "seo_score": 67,
     "tech_spend": 5429,
-    "crawled_at": "2026-04-17T20:53:19.979617429Z",
+    "crawled_at": "2026-04-18T20:20:20.01785568Z",
     "technologies": [
       "Adobe Creative Cloud WebFonts",
       "Aruba",
@@ -36,6 +36,44 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "eLand"
+    ]
+  },
+  {
+    "domain": "mihalcingroup.com",
+    "title": "Copper & Stone Realty",
+    "business_name": "Copper And Stone Realty",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 19433,
+    "crawled_at": "2026-04-18T01:20:19.993740394Z",
+    "technologies": [
+      "Amazon S3 CDN",
+      "Bulma",
+      "CoreUI",
+      "Fastly CDN",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Homes.com CMS",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "Neighborhoods",
+      "New Relic",
+      "PropertyBase",
+      "QUIC",
+      "Storyblocks",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery Pin It Button for Images",
+      "reCAPTCHA"
     ]
   },
   {
