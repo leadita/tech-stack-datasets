@@ -1,5 +1,173 @@
 [
   {
+    "domain": "misericordiainzago.org",
+    "title": "Misericordia Inzago - servizi di soccorso sanitario, convenzione AREU",
+    "business_name": "Misericordia Inzago",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 172,
+    "crawled_at": "2026-04-18T12:17:19.995638558Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Azion",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Publii",
+      "Visual Studio",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "i2ileadership.com",
+    "title": "I2I Leadership",
+    "business_name": "I2I Leadership",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 49,
+    "crawled_at": "2026-04-18T11:08:20.001909656Z",
+    "technologies": [
+      "Alternate Protocol",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Publii",
+      "QUIC",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "bbprojects.net",
+    "title": "Bridgit Beyer: Architectural and Interior Photographer",
+    "business_name": "Brett Beyer Photography",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 81528,
+    "crawled_at": "2026-04-18T09:53:20.000117361Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "DAV",
+      "Express",
+      "FormSubmit",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Newsletter for Wordpress",
+      "Publii",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "agnewanalog.com",
+    "title": "Agnew Analog",
+    "business_name": "Agnew Analog",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2589,
+    "crawled_at": "2026-04-18T03:37:25.919504079Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Publii",
+      "Scully",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "ordinata.ca",
+    "title": "Data Architecture & AI: Subsidized Growth of SMEs",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 149,
+    "crawled_at": "2026-04-18T02:20:19.99389008Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Perl",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "debruynelectric.com",
+    "title": "DeBruyn Electric",
+    "business_name": "DeBruyn Electric",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 7549,
+    "crawled_at": "2026-04-17T23:44:20.011473667Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Publii",
+      "QUIC",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "johannesarnold.com",
+    "title": "Johannes Arnold | Photography | Photography",
+    "business_name": "Johannes Arnold | Photography",
+    "country": "DEU",
+    "seo_score": 77,
+    "tech_spend": 2736,
+    "crawled_at": "2026-04-17T15:44:20.017864567Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apache",
+      "CoreUI",
+      "Instagram Follow Button",
+      "Matomo",
+      "Matomo Tag Manager",
+      "Microdata for Google Shopping",
+      "Parcel",
+      "Publii",
+      "Unix",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "ai-readiness.ch",
     "title": "AI Readiness",
     "business_name": "AI Readiness",
@@ -547,39 +715,6 @@
     ]
   },
   {
-    "domain": "brettbeyer.com",
-    "title": "Bridgit Beyer: Architectural and Interior Photographer",
-    "business_name": "Brett Beyer Photography",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 81528,
-    "crawled_at": "2026-04-12T03:32:20.042338078Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "DAV",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "Publii",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
-    ]
-  },
-  {
     "domain": "holdrightgames.com",
     "title": "Hold Right Games",
     "business_name": "Hold Right Games",
@@ -859,27 +994,6 @@
       "Microdata for Google Shopping",
       "Nginx",
       "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "debruynelectric.com",
-    "title": "DeBruyn Electric",
-    "business_name": "DeBruyn Electric",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 15149,
-    "crawled_at": "2026-04-09T03:57:59.51689891Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Publii",
-      "QUIC",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   },
@@ -4790,31 +4904,6 @@
     ]
   },
   {
-    "domain": "magneticfidelity.com",
-    "title": "Agnew Analog",
-    "business_name": "Agnew Analog",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2589,
-    "crawled_at": "2025-12-28T07:25:38.361733269Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Publii",
-      "Scully",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "jsDelivr"
-    ]
-  },
-  {
     "domain": "hennesseyhandyman.ca",
     "title": "Reliable Handyman Services in Victoria, BC",
     "business_name": "Hennessey Handyman",
@@ -7067,28 +7156,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "misericordiainzago.org",
-    "title": "Misericordia Inzago - servizi di soccorso sanitario, convenzione AREU",
-    "business_name": "Misericordia Inzago",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 172,
-    "crawled_at": "2025-11-21T13:24:19.445956035Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Azion",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Microsoft Azure",
-      "Publii",
-      "Visual Studio",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   },
   {

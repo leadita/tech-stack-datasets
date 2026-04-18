@@ -1,5 +1,27 @@
 [
   {
+    "domain": "darch.dk",
+    "title": "søren peter mørch",
+    "business_name": "",
+    "country": "EST",
+    "seo_score": 67,
+    "tech_spend": 120,
+    "crawled_at": "2026-04-17T17:46:29.777301559Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Micro.blog",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "ttk.me",
     "title": "Tantek Çelik",
     "business_name": "",
@@ -7944,28 +7966,6 @@
       "Tailwind CSS",
       "UTF-8",
       "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "darch.dk",
-    "title": "søren peter mørch",
-    "business_name": "",
-    "country": "EST",
-    "seo_score": 62,
-    "tech_spend": 120,
-    "crawled_at": "2025-11-13T04:44:39.949218556Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Micro.blog",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr",
       "shadcn ui"
     ]
   }

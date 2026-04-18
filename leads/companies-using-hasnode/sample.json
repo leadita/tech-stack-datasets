@@ -1,5 +1,56 @@
 [
   {
+    "domain": "sayt-rf.ru",
+    "title": "Website Catalog",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 27754,
+    "crawled_at": "2026-04-18T12:17:20.009074301Z",
+    "technologies": [
+      "Azion",
+      "BLR",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "Flat Icon",
+      "Flip",
+      "GZIP Module",
+      "Hasnode",
+      "Linktree",
+      "Nginx",
+      "PHP",
+      "QUIC",
+      "RM Education",
+      "Scholastica",
+      "Telegram",
+      "Trustami",
+      "Tumblr",
+      "UTF-8",
+      "Wantedly",
+      "about.me"
+    ]
+  },
+  {
+    "domain": "sandeepdev.space",
+    "title": "Sandeep | FullStack Developer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-04-17T19:26:43.390675732Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Hasnode",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "cechiorlu.com",
     "title": "Chimzi Chiorlu - Software Engineer",
     "business_name": "",
@@ -11619,24 +11670,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "sandeepdev.space",
-    "title": "Sandeep | FullStack Developer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2025-11-13T05:26:39.957807072Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Hasnode",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
