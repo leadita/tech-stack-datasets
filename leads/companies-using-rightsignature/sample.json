@@ -1,5 +1,30 @@
 [
   {
+    "domain": "hoainsurancexpert.com",
+    "title": "HOA Sales Expert Program | HOA Expertise and Transparency",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 22848,
+    "crawled_at": "2026-04-19T15:20:19.998088721Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Hubspot Knowledge Base",
+      "QUIC",
+      "RM Education",
+      "RightSignature",
+      "Snitcher",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "hkbcpas.com",
     "title": "Home | Hummingbird, King & Butler CPAs & Advisors, LLC",
     "business_name": "",
