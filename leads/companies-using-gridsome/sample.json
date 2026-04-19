@@ -1,5 +1,220 @@
 [
   {
+    "domain": "reubenjohn.com",
+    "title": "Home - Reuben Koppenheffer - Web Developer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 1251,
+    "crawled_at": "2026-04-19T22:29:19.98586478Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Financial Services Guide",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Idaq",
+      "Netlify",
+      "No-Q",
+      "Python",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "asw.io",
+    "title": "Home - asw.io",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 84,
+    "crawled_at": "2026-04-19T22:17:44.401604078Z",
+    "technologies": [
+      "Gridsome",
+      "Nginx",
+      "Python",
+      "Tailwind CSS",
+      "Unsplash"
+    ]
+  },
+  {
+    "domain": "weshipat.com",
+    "title": "Home - WeShip",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 3,
+    "crawled_at": "2026-04-19T21:14:19.991976123Z",
+    "technologies": [
+      "Better Lead Generation Services",
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Netlify",
+      "PWA",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "menssen.tech",
+    "title": "Simon Mannes - mannes.tech",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 95456,
+    "crawled_at": "2026-04-19T20:15:04.717170132Z",
+    "technologies": [
+      "CCSI",
+      "Content Delivery Network",
+      "DAV",
+      "Express",
+      "GitHub Hosting",
+      "Gridsome",
+      "K2F",
+      "Netlify",
+      "Plausible Analytics",
+      "SMC",
+      "Subversion",
+      "Svelte",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "fix8pro.com",
+    "title": "FIX Engine, Market Data, Trading, Trade Capture, Drop Copy, SDK, C++ Framework, Matching Engine - Fix8MT",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 252780,
+    "crawled_at": "2026-04-19T19:20:19.980507426Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Apture Linking Platform",
+      "Bulma",
+      "Carta",
+      "CloudFront",
+      "Content Delivery Network",
+      "DAV",
+      "Financial Services Guide",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Gridsome",
+      "HHVM",
+      "KVH",
+      "No-Q",
+      "SMC",
+      "Snowplow",
+      "Subversion",
+      "Tailwind CSS",
+      "Thomson Reuters Corporate Solutions",
+      "Twitter Ads"
+    ]
+  },
+  {
+    "domain": "schoonheidssalonhelmich.nl",
+    "title": "Schoonheidssalon Helmich - Schoonheidssalon Helmich",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 55,
+    "tech_spend": 63,
+    "crawled_at": "2026-04-19T09:35:19.99535864Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "slevinthheaven.com",
+    "title": "Slevinth Heaven Ltd - Slevinth Heaven Ltd",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": "",
+    "crawled_at": "2026-04-19T03:42:35.793592315Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Gridsome",
+      "Netlify",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "satoprinterstore.com",
+    "title": "Shop SATO Printers, Accessories, Replacement Parts & Supplies",
+    "business_name": "SATO Printer Store",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 3028,
+    "crawled_at": "2026-04-19T02:39:07.712944975Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Amazon CloudFront",
+      "Bing Cashback",
+      "Bing Conversion Tracking",
+      "Clicky",
+      "CloudFront",
+      "Cloudflare",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "IcoMoon",
+      "Oracle Cloud",
+      "QUIC",
+      "WordPress"
+    ]
+  },
+  {
+    "domain": "muhaddis.info",
+    "title": "Muhaddis – Security Engineer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 65464,
+    "crawled_at": "2026-04-18T23:41:20.012910152Z",
+    "technologies": [
+      "AutoComplete",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "DAV",
+      "FormSubmit",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "HackerOne",
+      "Netlify",
+      "Nuxt.js",
+      "PHP",
+      "PostNL",
+      "Python",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "ramirezwilliam.com",
     "title": "William Ramirez - Graphic Design and Modern Website Development",
     "business_name": "",
@@ -1302,27 +1517,6 @@
       "Subversion",
       "Tailwind CSS",
       "Visual Studio",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "weshipat.com",
-    "title": "Home - WeShip",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 3,
-    "crawled_at": "2026-04-11T16:09:30.893385984Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Netlify",
-      "PWA",
-      "Tailwind CSS",
-      "UTF-8",
       "shadcn ui"
     ]
   },
@@ -3004,32 +3198,6 @@
       "Tailwind CSS",
       "Visual Studio",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "mannes.tech",
-    "title": "Simon Mannes - mannes.tech",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 95456,
-    "crawled_at": "2026-03-23T09:17:12.294471557Z",
-    "technologies": [
-      "CCSI",
-      "Content Delivery Network",
-      "DAV",
-      "Express",
-      "GitHub Hosting",
-      "Gridsome",
-      "K2F",
-      "Netlify",
-      "Plausible Analytics",
-      "SMC",
-      "Subversion",
-      "Svelte",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
     ]
   },
   {
@@ -6299,26 +6467,6 @@
     ]
   },
   {
-    "domain": "schoonheidssalonhelmich.nl",
-    "title": "Schoonheidssalon Helmich - Schoonheidssalon Helmich",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 55,
-    "tech_spend": 63,
-    "crawled_at": "2026-01-28T07:48:59.734324913Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
     "domain": "polarstern.me",
     "title": "Polarstern - Polarstern",
     "business_name": "",
@@ -7189,30 +7337,6 @@
       "IcoMoon",
       "Netlify",
       "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "reubenjohn.com",
-    "title": "Home - Reuben Koppenheffer - Web Developer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 1251,
-    "crawled_at": "2026-01-15T22:40:43.443585723Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Idaq",
-      "Netlify",
-      "No-Q",
-      "Python",
-      "Subversion",
-      "Tailwind CSS",
       "UTF-8"
     ]
   },
@@ -8620,37 +8744,6 @@
       "UTF-8",
       "University or College",
       "itch.io"
-    ]
-  },
-  {
-    "domain": "muhaddis.info",
-    "title": "Muhaddis – Security Engineer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 65464,
-    "crawled_at": "2025-12-21T10:52:23.828656802Z",
-    "technologies": [
-      "AutoComplete",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "DAV",
-      "FormSubmit",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "HackerOne",
-      "Netlify",
-      "Nuxt.js",
-      "PHP",
-      "PostNL",
-      "Python",
-      "Twitter Ads",
-      "UTF-8",
-      "jQuery"
     ]
   },
   {
@@ -11685,92 +11778,6 @@
       "Sanity",
       "UTF-8",
       "Way"
-    ]
-  },
-  {
-    "domain": "super-a.nl",
-    "title": "Super A - Super A",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 103,
-    "crawled_at": "2025-11-22T15:00:19.46757836Z",
-    "technologies": [
-      "Bulma",
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "kalypso.network",
-    "title": "Kalypso - Kalypso",
-    "business_name": "",
-    "country": "",
-    "seo_score": 25,
-    "tech_spend": "",
-    "crawled_at": "2025-11-22T14:27:19.445339264Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Related Website Sites",
-      "Gridsome",
-      "Netlify",
-      "Telegram",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "tommyvedvik.com",
-    "title": "tommyvedvik.com - tommyvedvik.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 198,
-    "crawled_at": "2025-11-22T13:22:07.629537886Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "Gridsome",
-      "HHVM",
-      "Netlify",
-      "No-Q",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "unicowd.com",
-    "title": "Cowde ninjas in your projects | Unicowd",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 27896,
-    "crawled_at": "2025-11-22T03:21:21.063188978Z",
-    "technologies": [
-      "Adult Content",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "K2F",
-      "Netlify",
-      "Plausible Analytics",
-      "Python",
-      "Subversion",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Visx"
     ]
   }
 ]
