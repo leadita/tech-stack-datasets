@@ -1,5 +1,30 @@
 [
   {
+    "domain": "colegiofrayvirtual.com.ar",
+    "title": "Colegio Fray Virtual Plataforma Educativa",
+    "business_name": "",
+    "country": "ARG",
+    "seo_score": 60,
+    "tech_spend": 11103,
+    "crawled_at": "2026-04-19T08:23:19.992041159Z",
+    "technologies": [
+      "Fastly",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Moodle",
+      "NFOrce Internet",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "Totara",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "alonsolawacademy.online",
     "title": "Home | A&Academy",
     "business_name": "",
