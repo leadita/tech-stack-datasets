@@ -1,5 +1,32 @@
 [
   {
+    "domain": "invopps.com",
+    "title": "Invus Opportunities",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 47312,
+    "crawled_at": "2026-04-18T23:44:19.998077327Z",
+    "technologies": [
+      "Astro",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Housecall Pro",
+      "IcoMoon",
+      "Practice Fusion",
+      "Socure",
+      "SplashThat",
+      "Taboola Direct",
+      "Taboola Reseller",
+      "Tailwind CSS",
+      "UTF-8",
+      "ezCater"
+    ]
+  },
+  {
     "domain": "medreceptionist.com",
     "title": "MedReceptionist — AI Phone Receptionist for Healthcare Practices",
     "business_name": "",
@@ -1072,33 +1099,6 @@
       "WF Cookie Consent",
       "eClinicalWorks",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "ifanyc.com",
-    "title": "Invus Opportunities",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 47312,
-    "crawled_at": "2025-12-21T03:43:32.758225711Z",
-    "technologies": [
-      "Astro",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DAV",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Housecall Pro",
-      "IcoMoon",
-      "Practice Fusion",
-      "Socure",
-      "SplashThat",
-      "Taboola Direct",
-      "Taboola Reseller",
-      "Tailwind CSS",
-      "UTF-8",
-      "ezCater"
     ]
   },
   {
