@@ -1,5 +1,51 @@
 [
   {
+    "domain": "applefreakz.de",
+    "title": "csh's toolbox",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 859,
+    "crawled_at": "2026-04-19T00:38:31.99179928Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Font Awesome",
+      "Giphy",
+      "GitHub Hosting",
+      "Hugo",
+      "Micro.blog",
+      "NFOrce Internet",
+      "Slack",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "nezteb.com",
+    "title": "Noah Betzen",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 260,
+    "crawled_at": "2026-04-18T15:32:19.981248408Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "GitHub Hosting",
+      "Hugo",
+      "Micro.blog",
+      "Twitter Ads",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "darch.dk",
     "title": "søren peter mørch",
     "business_name": "",
@@ -1723,25 +1769,6 @@
       "PWA",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "betzen.io",
-    "title": "Noah Betzen",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 260,
-    "crawled_at": "2026-04-02T16:17:20.011012962Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "GitHub Hosting",
-      "Hugo",
-      "Micro.blog",
-      "Twitter Ads",
-      "UTF-8",
-      "shadcn ui"
     ]
   },
   {
@@ -7914,58 +7941,6 @@
       "Twitter Ads",
       "UTF-8",
       "Yandex Hosting",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "brandonsjournal.com",
-    "title": "Brandon’s Journal",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 63,
-    "crawled_at": "2025-11-13T21:02:39.979500213Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "Micro.blog",
-      "PHP",
-      "Pagekit",
-      "Smush Image Optimization",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "applefreakz.de",
-    "title": "csh's toolbox",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 859,
-    "crawled_at": "2025-11-13T18:11:04.395656683Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Font Awesome",
-      "Giphy",
-      "GitHub Hosting",
-      "Micro.blog",
-      "NFOrce Internet",
-      "Slack",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
       "shadcn ui"
     ]
   }
