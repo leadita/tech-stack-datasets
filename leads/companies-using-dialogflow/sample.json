@@ -9099,35 +9099,5 @@
       "Unsplash",
       "YouTube"
     ]
-  },
-  {
-    "domain": "pakdropzee.com",
-    "title": "Pak Dropzee",
-    "business_name": "Pak Dropzee",
-    "country": "VAT",
-    "seo_score": 65,
-    "tech_spend": 6176,
-    "crawled_at": "2025-11-13T22:32:39.979231409Z",
-    "technologies": [
-      "Aruba",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Dialogflow",
-      "Financial Services Guide",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Thank You",
-      "UTF-8",
-      "eLand",
-      "hCaptcha",
-      "reCAPTCHA"
-    ]
   }
 ]
