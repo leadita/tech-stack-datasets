@@ -5146,39 +5146,5 @@
       "reCAPTCHA",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "c12augusta.com",
-    "title": "C12 Midlands Greater Purpose Workshops",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 35140,
-    "crawled_at": "2025-11-13T18:29:39.972137535Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adyen",
-      "Aruba",
-      "Bing Cashback",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Express",
-      "Fireblade",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Idaq",
-      "MaxCDN",
-      "Tailwind CSS",
-      "TicketSpice",
-      "Twitter Ads",
-      "UTF-8",
-      "Webconnex",
-      "YouTube",
-      "eLand"
-    ]
   }
 ]
