@@ -1,5 +1,25 @@
 [
   {
+    "domain": "jonmccullough.no",
+    "title": "Jon McCullough",
+    "business_name": "",
+    "country": "",
+    "seo_score": 32,
+    "tech_spend": "",
+    "crawled_at": "2026-04-19T14:20:19.993442086Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "PWA",
+      "Todoist",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "samuel-cardenas.com",
     "title": "Samuel Cárdenas - Product Designer",
     "business_name": "",
@@ -75,26 +95,6 @@
       "Way",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "jonm.cc",
-    "title": "Jon McCullough",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2026-04-13T21:28:44.89801696Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "PWA",
-      "Todoist",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   },
   {
