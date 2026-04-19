@@ -1,5 +1,35 @@
 [
   {
+    "domain": "hamiltonapartmentassociation.ca",
+    "title": "Hamilton & District Apartment Association",
+    "business_name": "HDAA",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 118773,
+    "crawled_at": "2026-04-19T11:02:19.992887119Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "Subversion",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "Yardi Systems",
+      "eLand"
+    ]
+  },
+  {
     "domain": "skyloftapts.com",
     "title": "Skyloft: Luxury Apartments in Downtown Irvine, CA",
     "business_name": "Skyloft Apartments",
@@ -1183,36 +1213,6 @@
       "YouTube",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "hamiltonapartmentassociation.ca",
-    "title": "Hamilton & District Apartment Association",
-    "business_name": "HDAA",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 118773,
-    "crawled_at": "2025-12-17T16:49:32.748890592Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "Subversion",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "Yardi Systems",
-      "eLand"
     ]
   },
   {
