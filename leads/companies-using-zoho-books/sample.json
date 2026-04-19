@@ -1,5 +1,38 @@
 [
   {
+    "domain": "expressautomationsolutions.com",
+    "title": "Express Automation Solutions | Certified Zoho Partner",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 186300,
+    "crawled_at": "2026-04-18T12:47:19.979588121Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Workers",
+      "DAV",
+      "Express",
+      "Fireblade",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Line2",
+      "NFOrce Internet",
+      "QUIC",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "UTF-8",
+      "Zoho Books",
+      "Zoho Cliq",
+      "Zoho Projects",
+      "Zoho Sites"
+    ]
+  },
+  {
     "domain": "bloodbikes.co.nz",
     "title": "Metro Ambulance Ltd | Ambulance Patient Transport Service",
     "business_name": "",

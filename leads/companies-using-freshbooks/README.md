@@ -1,6 +1,6 @@
 # Companies Using FreshBooks (Live Dataset 2026)
 
-This folder contains an active list of 121 companies using **FreshBooks**. 
+This folder contains an active list of 122 companies using **FreshBooks**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 121
+- **Total Leads:** 122
 - **Verified:** Yes
-- **Last Updated:** 2026-04-18 10:30 UTC
+- **Last Updated:** 2026-04-19 10:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **121+** companies using FreshBooks.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **122+** companies using FreshBooks.
 
 [**⚡ Unlock the Full FreshBooks List with Contact Details**](https://leadita.com/leads/companies-using-freshbooks)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-18 10:30 UTC*
+*Last updated: 2026-04-19 10:30 UTC*
 *Data source: Leadita Technographic Intelligence*
