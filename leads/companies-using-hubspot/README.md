@@ -1,6 +1,6 @@
 # Companies Using Hubspot (Live Dataset 2026)
 
-This folder contains an active list of 88,708 companies using **Hubspot**. 
+This folder contains an active list of 89,001 companies using **Hubspot**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 88,708
+- **Total Leads:** 89,001
 - **Verified:** Yes
-- **Last Updated:** 2026-04-18 14:45 UTC
+- **Last Updated:** 2026-04-19 14:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **88,708+** companies using Hubspot.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **89,001+** companies using Hubspot.
 
 [**⚡ Unlock the Full Hubspot List with Contact Details**](https://leadita.com/leads/companies-using-hubspot)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-18 14:45 UTC*
+*Last updated: 2026-04-19 14:45 UTC*
 *Data source: Leadita Technographic Intelligence*

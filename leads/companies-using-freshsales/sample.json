@@ -1,5 +1,44 @@
 [
   {
+    "domain": "tritekacademy.co.uk",
+    "title": "Tritek Academy: Launch Your Tech Career | Professional Courses",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 122189,
+    "crawled_at": "2026-04-18T16:41:47.152067691Z",
+    "technologies": [
+      "34SP.com",
+      "AWS WAF Challenge",
+      "Apture Linking Platform",
+      "Azion",
+      "Content Delivery Network",
+      "DAV",
+      "Federal Deposit Insurance Corporation",
+      "Financial Services Guide",
+      "Freshsales",
+      "Instagram Follow Button",
+      "K2F",
+      "KVH",
+      "Next.js",
+      "No-Q",
+      "Paessler",
+      "Pleroma",
+      "SMC",
+      "SiteW",
+      "Subversion",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Vagaro",
+      "Vercel",
+      "Visx",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "wedoonlinesafetytraining.com",
     "title": "We Do Online Safety Training | We Do Online Safety Training | Get Certified Today!",
     "business_name": "",
@@ -3985,30 +4024,6 @@
       "YouTube",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "tritekacademy.co.uk",
-    "title": "Tritek Academy: Launch Your Tech Career | Professional Courses",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 2580,
-    "crawled_at": "2025-11-13T13:59:39.990293536Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Freshsales",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]
