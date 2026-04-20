@@ -1,5 +1,30 @@
 [
   {
+    "domain": "gbcol.online",
+    "title": "Home | GBC",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 60,
+    "tech_spend": 10759,
+    "crawled_at": "2026-04-20T04:05:20.019037642Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Cornerstone",
+      "GZIP Module",
+      "InitiativeS",
+      "Moodle",
+      "NFOrce Internet",
+      "PHP",
+      "Tailwind CSS",
+      "Totara",
+      "UTF-8",
+      "University or College",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "colegiofrayvirtual.com.ar",
     "title": "Colegio Fray Virtual Plataforma Educativa",
     "business_name": "",
