@@ -1,5 +1,65 @@
 [
   {
+    "domain": "profectusaccounting.co.uk",
+    "title": "Profectus Accounting – Accountants in Milton Keynes",
+    "business_name": "Profectus Accounting",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 1845,
+    "crawled_at": "2026-04-20T07:29:19.978319557Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Boei",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Corporate Governance and Regulatory Compliance",
+      "Dext",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GoCardLess",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "UTF-8",
+      "Xero"
+    ]
+  },
+  {
+    "domain": "hoytadvisors.com",
+    "title": "Home | Hoyt Advisors PC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 18984,
+    "crawled_at": "2026-04-19T12:44:20.016030984Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Cloudinary",
+      "Dext",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "GotoMeeting",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "atmcpaky.com",
     "title": "Home | Miller CPA & Advisors",
     "business_name": "",
@@ -3296,36 +3356,6 @@
     ]
   },
   {
-    "domain": "profectusaccounting.co.uk",
-    "title": "Accounting Services and Bookkeeping in Milton Keynes?",
-    "business_name": "Profectus Bookkeeping Services",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 1845,
-    "crawled_at": "2026-01-15T13:37:43.436977902Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Boei",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Corporate Governance and Regulatory Compliance",
-      "Dext",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GoCardLess",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "UTF-8",
-      "Xero"
-    ]
-  },
-  {
     "domain": "businessandindustry.co.uk",
     "title": "Business & Industry - News, information and advice",
     "business_name": "",
@@ -4122,6 +4152,36 @@
       "Wix",
       "Wix Media",
       "mlcom"
+    ]
+  },
+  {
+    "domain": "profectusaccountancy.co.uk",
+    "title": "Accounting Services and Bookkeeping in Milton Keynes?",
+    "business_name": "Profectus Bookkeeping Services",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 1845,
+    "crawled_at": "2025-12-16T12:58:32.75191179Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Boei",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Corporate Governance and Regulatory Compliance",
+      "Dext",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GoCardLess",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "UTF-8",
+      "Xero"
     ]
   },
   {
@@ -5146,35 +5206,6 @@
       "Xero",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "profectusbookkeepingservices.co.uk",
-    "title": "Accounting Services and Bookkeeping in Milton Keynes?",
-    "business_name": "Profectus Bookkeeping Services",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 1845,
-    "crawled_at": "2025-11-14T09:53:39.944634945Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Boei",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Dext",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GoCardLess",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "UTF-8",
-      "Xero"
     ]
   }
 ]

@@ -1958,33 +1958,5 @@
       "Zoho Books",
       "jQuery"
     ]
-  },
-  {
-    "domain": "eemaa.org",
-    "title": "eemaa – eemaa Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 243,
-    "crawled_at": "2025-11-14T03:02:47.393747221Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Elementor",
-      "EmbedPress",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "PHP",
-      "Theme In WP",
-      "Twenty Twenty",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "Zoho Books",
-      "jQuery"
-    ]
   }
 ]
