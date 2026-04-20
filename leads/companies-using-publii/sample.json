@@ -1,5 +1,47 @@
 [
   {
+    "domain": "polinaumova.com",
+    "title": "polina naumova | painting",
+    "business_name": "polina naumova",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2589,
+    "crawled_at": "2026-04-19T18:11:29.634422998Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Nginx",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "blimedut.no",
+    "title": "Bli med UT!",
+    "business_name": "Bli med UT!",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 5748,
+    "crawled_at": "2026-04-19T18:02:20.017527033Z",
+    "technologies": [
+      "Content Delivery Network",
+      "CoreUI",
+      "Fastly",
+      "INETu",
+      "Microdata for Google Shopping",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "pimiya.rocks",
     "title": "PIMIYA 注設工作室",
     "business_name": "PIMIYA 注設工作室",
@@ -4400,25 +4442,6 @@
     ]
   },
   {
-    "domain": "blimedut.no",
-    "title": "Bli med UT!",
-    "business_name": "Bli med UT!",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 5748,
-    "crawled_at": "2026-01-15T02:19:43.443963078Z",
-    "technologies": [
-      "Content Delivery Network",
-      "CoreUI",
-      "Fastly",
-      "INETu",
-      "Microdata for Google Shopping",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
     "domain": "selfhike.in.th",
     "title": "Self Hike - เดินป่าด้วยตัวเอง",
     "business_name": "Self Hike - เดินป่าด้วยตัวเอง",
@@ -7748,29 +7771,6 @@
       "UTF-8",
       "University or College",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "polinaumova.com",
-    "title": "polina naumova | painting",
-    "business_name": "polina naumova",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 112,
-    "crawled_at": "2025-11-14T02:14:39.957675211Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Nginx",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
     ]
   }
 ]
