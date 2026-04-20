@@ -1,5 +1,66 @@
 [
   {
+    "domain": "picturesnetwork.com",
+    "title": "An EMDN - Pictures Network, Image Sharing Photography Platform Visual Content Media Network Photo Collaboration Creative Gallery Digital Assets Online Community",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 135,
+    "crawled_at": "2026-04-20T12:17:19.989697429Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "nuvali.net",
+    "title": "Welcome to PhilippineProperties.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 7219,
+    "crawled_at": "2026-04-20T06:19:04.238072461Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Neighborhoods",
+      "Prospective",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "lasvegasfireclaim.com",
+    "title": "Spartan Claim Resources LLC- A local Las Vegas / Henderson fire and water claim public adjusting firm",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 219,
+    "crawled_at": "2026-04-19T23:47:19.996413114Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "tenx.maison",
     "title": "tenX.maison",
     "business_name": "",
@@ -76,28 +137,6 @@
     ]
   },
   {
-    "domain": "automatedfinancialsystems.com",
-    "title": "An EMDN - Automated Financial Systems, Financial Technology Banking Automation Accounting Software Investment Management Risk Analysis Payment Processing Wealth Management Digital Finance",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 135,
-    "crawled_at": "2026-04-17T22:17:20.016589925Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microsoft Clarity",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "ncsfi.com",
     "title": "National Center for Systemic Family Interventions",
     "business_name": "",
@@ -157,28 +196,6 @@
       "Font Awesome",
       "GZIP Module",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "cityoflaspinas.com",
-    "title": "Welcome to PhilippineProperties.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 7219,
-    "crawled_at": "2026-04-17T05:50:19.997841167Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Neighborhoods",
-      "Prospective",
-      "QUIC",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
@@ -368,24 +385,6 @@
       "GZIP Module",
       "Google Analytics",
       "Google Tag Manager",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "lasvegasfireclaim.com",
-    "title": "Spartan Claim Resources LLC- A local Las Vegas / Henderson fire and water claim public adjusting firm",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 219,
-    "crawled_at": "2026-04-12T08:53:44.41482552Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
       "UTF-8"
     ]
   },
@@ -3820,25 +3819,6 @@
       "GZIP Module",
       "Google My Business",
       "TradingView",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "missionexpress.ca",
-    "title": "Architecture",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 40,
-    "tech_spend": 135,
-    "crawled_at": "2025-11-14T03:59:39.971689673Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Express",
-      "Font Awesome",
-      "GZIP Module",
-      "Instagram Follow Button",
       "UTF-8"
     ]
   }
