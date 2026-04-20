@@ -1,5 +1,57 @@
 [
   {
+    "domain": "theexpressworld.co.uk",
+    "title": "Find, Compare & Book Cheap Flights -:- African Tours",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 67,
+    "tech_spend": 2680,
+    "crawled_at": "2026-04-20T09:20:19.982915358Z",
+    "technologies": [
+      "Dialogflow",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "Materialize CSS",
+      "QUIC"
+    ]
+  },
+  {
+    "domain": "cryptoswift.eu",
+    "title": "End-to-end Crypto Travel Rule Compliance Solution - CryptoSwift",
+    "business_name": "CryptoSwift",
+    "country": "EST",
+    "seo_score": 75,
+    "tech_spend": 29221,
+    "crawled_at": "2026-04-19T14:38:19.997534467Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apache",
+      "CookieYes",
+      "Dialogflow",
+      "Elementor",
+      "EmbedPress",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Tag Manager",
+      "Hello Elementor",
+      "HubSpot WordPress Plugin",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "WP Fastest Cache",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "growers.marketing",
     "title": "Autonomous AI Infrastructure & Digital Workers | Growers",
     "business_name": "",
@@ -678,25 +730,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "theexpressworld.co.uk",
-    "title": "Find, Compare & Book Cheap Flights -:- African Tours",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 2680,
-    "crawled_at": "2026-04-14T10:43:26.596659473Z",
-    "technologies": [
-      "Dialogflow",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "Materialize CSS",
-      "QUIC"
     ]
   },
   {
@@ -4036,41 +4069,6 @@
       "UTF-8",
       "University or College",
       "Visual Studio",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "cryptoswift.eu",
-    "title": "End-to-end Crypto Travel Rule Compliance Solution - CryptoSwift",
-    "business_name": "CryptoSwift",
-    "country": "EST",
-    "seo_score": 75,
-    "tech_spend": 29221,
-    "crawled_at": "2026-02-21T07:52:56.475222799Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apache",
-      "CookieYes",
-      "Dialogflow",
-      "Elementor",
-      "EmbedPress",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "Hello Elementor",
-      "HubSpot WordPress Plugin",
-      "LinkedIn Insights",
-      "LinkedIn Pixel",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
       "jQuery"
     ]
   },
@@ -9063,41 +9061,6 @@
       "Ubuntu",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "tamzidullah.com",
-    "title": "Tamzid Ullah - Software Engineer & AI Consultant",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 20263,
-    "crawled_at": "2025-11-14T08:59:39.964450688Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Dialogflow",
-      "Fastly",
-      "Font Awesome",
-      "GitHub Hosting",
-      "Google",
-      "Google Adsense",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google Reseller",
-      "Microdata for Google Shopping",
-      "Python",
-      "QUIC",
-      "Square",
-      "UTF-8",
-      "Unsplash",
-      "YouTube"
     ]
   }
 ]
