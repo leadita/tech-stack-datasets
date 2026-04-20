@@ -1,5 +1,33 @@
 [
   {
+    "domain": "athenda.net",
+    "title": "Stardock",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 6443,
+    "crawled_at": "2026-04-20T07:32:19.995566792Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "CacheFly",
+      "CacheFly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "JIRA",
+      "Microsoft Azure",
+      "Microsoft Clarity",
+      "Microsoft IIS",
+      "NFOrce Internet",
+      "Twitter Ads",
+      "UTF-8",
+      "Visual Studio",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "waldenwoodsfla.com",
     "title": "Manufactured Home Communities - Sun Communities",
     "business_name": "",
@@ -157,34 +185,6 @@
       "Yelp Badge",
       "accessiBe",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "stardockentertainment.info",
-    "title": "Stardock",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 6443,
-    "crawled_at": "2026-04-14T09:47:20.020404386Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "CacheFly",
-      "CacheFly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "JIRA",
-      "Microsoft Azure",
-      "Microsoft Clarity",
-      "Microsoft IIS",
-      "NFOrce Internet",
-      "Twitter Ads",
-      "UTF-8",
-      "Visual Studio",
-      "YouTube"
     ]
   },
   {
