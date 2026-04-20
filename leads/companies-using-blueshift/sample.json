@@ -1,12 +1,40 @@
 [
   {
-    "domain": "meetspl.info",
+    "domain": "southerncomfort.es",
+    "title": "Southern Comfort",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 264896,
+    "crawled_at": "2026-04-20T14:35:19.983398837Z",
+    "technologies": [
+      "Adobe Analytics",
+      "Adobe Marketing Cloud",
+      "Apture Linking Platform",
+      "Blueshift",
+      "CM Commerce",
+      "Content Delivery Network",
+      "Curator",
+      "Fastly",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "OneTrust Domain Verification",
+      "Schema Plugin",
+      "Twitter Ads",
+      "UTF-8",
+      "Vimeo",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "thinkspl.net",
     "title": "Smart Panda Labs | Improving Post-Click Digital Experiences",
     "business_name": "Smart Panda Labs",
     "country": "",
-    "seo_score": 67,
+    "seo_score": 77,
     "tech_spend": 202592,
-    "crawled_at": "2026-04-15T10:29:19.980211284Z",
+    "crawled_at": "2026-04-20T05:52:39.779722247Z",
     "technologies": [
       "Akismet",
       "Alternate Protocol",
@@ -42,34 +70,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "southerncomfort.org",
-    "title": "Southern Comfort",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 264896,
-    "crawled_at": "2026-04-07T15:32:19.976890186Z",
-    "technologies": [
-      "Adobe Analytics",
-      "Adobe Marketing Cloud",
-      "Apture Linking Platform",
-      "Blueshift",
-      "CM Commerce",
-      "Content Delivery Network",
-      "Curator",
-      "Fastly",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "OneTrust Domain Verification",
-      "Schema Plugin",
-      "Twitter Ads",
-      "UTF-8",
-      "Vimeo",
-      "YouTube"
     ]
   },
   {

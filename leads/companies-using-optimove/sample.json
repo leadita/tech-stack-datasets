@@ -1,15 +1,16 @@
 [
   {
-    "domain": "wcclubmy.com",
+    "domain": "weclubmy2.com",
     "title": "WeClub»Most Reliable & Trusted Online Casino In Malaysia ✅",
-    "business_name": "",
+    "business_name": "WECLUB",
     "country": "SGP",
-    "seo_score": 72,
+    "seo_score": 77,
     "tech_spend": 95471,
-    "crawled_at": "2026-04-18T00:22:20.651525461Z",
+    "crawled_at": "2026-04-19T18:38:20.02413936Z",
     "technologies": [
       "AWS WAF Challenge",
       "Adult Content",
+      "Alternate Protocol",
       "Cloudflare",
       "Cloudflare CDN",
       "Cloudflare Web Analytics",
