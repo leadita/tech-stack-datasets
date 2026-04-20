@@ -1,6 +1,6 @@
 # Companies Using WooCommerce (Live Dataset 2026)
 
-This folder contains an active list of 444,191 companies using **WooCommerce**. 
+This folder contains an active list of 445,353 companies using **WooCommerce**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 444,191
+- **Total Leads:** 445,353
 - **Verified:** Yes
-- **Last Updated:** 2026-04-19 16:30 UTC
+- **Last Updated:** 2026-04-20 16:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **444,191+** companies using WooCommerce.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **445,353+** companies using WooCommerce.
 
 [**⚡ Unlock the Full WooCommerce List with Contact Details**](https://leadita.com/leads/companies-using-woocommerce)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-19 16:30 UTC*
+*Last updated: 2026-04-20 16:30 UTC*
 *Data source: Leadita Technographic Intelligence*
