@@ -1,12 +1,12 @@
 [
   {
-    "domain": "invopps.com",
+    "domain": "ifanyc.net",
     "title": "Invus Opportunities",
     "business_name": "",
     "country": "USA",
-    "seo_score": 67,
+    "seo_score": 77,
     "tech_spend": 47312,
-    "crawled_at": "2026-04-18T23:44:19.998077327Z",
+    "crawled_at": "2026-04-20T09:34:57.070383812Z",
     "technologies": [
       "Astro",
       "Cloudflare",
@@ -1746,52 +1746,6 @@
       "WordPress Multisite",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "advancedrcms.com",
-    "title": "Advanced RCMS LLC – We Provide Full Suit Of RCM Services including Medical Billing services – Insurance Credentialing Services – Medical Virtual assistant Services & Web Development Services For Your Healthcare Business!",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 72777,
-    "crawled_at": "2025-11-14T08:44:39.953245426Z",
-    "technologies": [
-      "Ajax Search Lite",
-      "Alternate Protocol",
-      "AthenaHealth",
-      "Cloudflare",
-      "Content Delivery Network",
-      "DC74",
-      "Elementor",
-      "EmbedPress",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Interchange",
-      "Kareo",
-      "Lazy Load for WordPress",
-      "LiteSpeed",
-      "NFOrce Internet",
-      "PHP",
-      "Perl",
-      "Practice Fusion",
-      "QUIC",
-      "Slider Revolution",
-      "Tawk",
-      "Theme In WP",
-      "UTF-8",
-      "Wangsu",
-      "WhatsApp Sharing",
-      "Woo Themes",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "eClinicalWorks",
-      "jQuery",
-      "myStickymenu"
     ]
   }
 ]
