@@ -1,5 +1,34 @@
 [
   {
+    "domain": "tjwwealth.com",
+    "title": "Home | TJW Wealth",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 35121,
+    "crawled_at": "2026-04-19T21:44:52.197678731Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Calendly",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Express",
+      "Financial Industry Regulatory Authority",
+      "Fireblade",
+      "GZIP Module",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "No-Q",
+      "QUIC",
+      "Schema Plugin",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vimeo",
+      "eMoney"
+    ]
+  },
+  {
     "domain": "protectioinvestments.com",
     "title": "Let's Achieve Operational Excellence for Your Business! | Protectio Investments",
     "business_name": "Protectio Investments",
@@ -1570,37 +1599,6 @@
     ]
   },
   {
-    "domain": "dorettevandermerwe.co.za",
-    "title": "Dorette van der Merwe | attooh! Your Wealth Solution",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 77,
-    "tech_spend": 23960,
-    "crawled_at": "2026-01-18T00:35:40.207257294Z",
-    "technologies": [
-      "Amazon S3 CDN",
-      "Apture Linking Platform",
-      "Authorize.net",
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Nuxt.js",
-      "QUIC",
-      "Storyblocks",
-      "UTF-8",
-      "Vimeo",
-      "Vimeo CDN",
-      "eMoney"
-    ]
-  },
-  {
     "domain": "shanicepillay.co.za",
     "title": "Shanice J Pillay | attooh! Your Wealth Solution",
     "business_name": "",
@@ -1905,33 +1903,6 @@
       "UTF-8",
       "Vimeo",
       "Vimeo CDN",
-      "eMoney"
-    ]
-  },
-  {
-    "domain": "fiveringscolorado.com",
-    "title": "Home | TJW Wealth",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 10298,
-    "crawled_at": "2025-12-22T09:52:38.317262713Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Calendly",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Fireblade",
-      "GZIP Module",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "No-Q",
-      "QUIC",
-      "Schema Plugin",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vimeo",
       "eMoney"
     ]
   },
