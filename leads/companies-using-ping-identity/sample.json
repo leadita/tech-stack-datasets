@@ -1,5 +1,19 @@
 [
   {
+    "domain": "autozoneorderit.com",
+    "title": "Ignition Login",
+    "business_name": "",
+    "country": "",
+    "seo_score": 20,
+    "tech_spend": 20000,
+    "crawled_at": "2026-04-19T19:38:20.017753742Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Ping Identity",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "frjcdonsdebienfaisance.ca",
     "title": "Charitable Giving Fund | Raymond James Canada Foundation",
     "business_name": "Raymond James Canada Foundation",
