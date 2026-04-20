@@ -1,6 +1,6 @@
 # Companies Using Sendible (Live Dataset 2026)
 
-This folder contains an active list of 11 companies using **Sendible**. 
+This folder contains an active list of 12 companies using **Sendible**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 11
+- **Total Leads:** 12
 - **Verified:** Yes
-- **Last Updated:** 2026-04-19 22:30 UTC
+- **Last Updated:** 2026-04-20 22:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **11+** companies using Sendible.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **12+** companies using Sendible.
 
 [**⚡ Unlock the Full Sendible List with Contact Details**](https://leadita.com/leads/companies-using-sendible)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-19 22:30 UTC*
+*Last updated: 2026-04-20 22:30 UTC*
 *Data source: Leadita Technographic Intelligence*

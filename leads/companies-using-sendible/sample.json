@@ -1,5 +1,27 @@
 [
   {
+    "domain": "brandmolders.digital",
+    "title": "brandmolders.digital",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 65,
+    "tech_spend": 153708,
+    "crawled_at": "2026-04-20T14:44:19.998383864Z",
+    "technologies": [
+      "Amazon",
+      "Amazon S3 CDN",
+      "Apache",
+      "Google Cloud DNS",
+      "Google Font API",
+      "InitiativeS",
+      "Salesforce Hosted",
+      "Sendible",
+      "Storyblocks",
+      "Tailwind CSS",
+      "Tawk"
+    ]
+  },
+  {
     "domain": "saloof.com",
     "title": "Saloof - My Ecommerce Resources -",
     "business_name": "",
