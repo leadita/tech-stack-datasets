@@ -1,12 +1,12 @@
 [
   {
-    "domain": "yolofederal.coop",
+    "domain": "yolofederalcu.com",
     "title": "Yolo Federal Credit Union",
     "business_name": "",
     "country": "",
     "seo_score": 62,
     "tech_spend": 102238,
-    "crawled_at": "2026-04-19T14:53:19.995110219Z",
+    "crawled_at": "2026-04-20T13:23:19.999260855Z",
     "technologies": [
       "AJAX Libraries API",
       "Amazon",
@@ -46,6 +46,37 @@
       "jsDelivr",
       "reCAPTCHA",
       "shadcn ui"
+    ]
+  },
+  {
+    "domain": "samgeer.com",
+    "title": "SAM GEER",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 5993,
+    "crawled_at": "2026-04-20T05:47:20.009101337Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "Swiftype",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube",
+      "eLand"
     ]
   },
   {
@@ -1363,37 +1394,6 @@
       "University or College",
       "Yahoo Image CDN",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "samgeer.com",
-    "title": "SAM GEER",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 5993,
-    "crawled_at": "2025-12-19T19:22:32.751218805Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "Swiftype",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "eLand"
     ]
   },
   {
