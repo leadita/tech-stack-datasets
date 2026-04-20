@@ -1,5 +1,177 @@
 [
   {
+    "domain": "muzych.uk",
+    "title": "Andrei Muzychuk — Software Engineer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 60,
+    "crawled_at": "2026-04-20T22:44:20.014570503Z",
+    "technologies": [
+      "GZIP Module",
+      "Gridsome",
+      "Nginx",
+      "Oracle Cloud",
+      "PHP",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "l-s-a.ch",
+    "title": "Ludovic Schober Architectes | Sion | Valais",
+    "business_name": "",
+    "country": "CHE",
+    "seo_score": 67,
+    "tech_spend": "",
+    "crawled_at": "2026-04-20T18:29:20.014337096Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Gridsome",
+      "Instagram Follow Button",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "elitecanines.com.au",
+    "title": "Dog Training Sunshine Coast | Elite Canines",
+    "business_name": "Elite Canine Training & Behaviour",
+    "country": "AUS",
+    "seo_score": 82,
+    "tech_spend": 7264,
+    "crawled_at": "2026-04-20T17:56:20.012616184Z",
+    "technologies": [
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Gridsome",
+      "Idaq",
+      "Netlify",
+      "PWA",
+      "Sanity",
+      "Sitelinks Search Box",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "iuventa-crew.org",
+    "title": "Home - iuventa crew - solidarity at sea",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 88045,
+    "crawled_at": "2026-04-20T12:11:53.694582603Z",
+    "technologies": [
+      "CCSI",
+      "Content Delivery Network",
+      "CoreUI",
+      "DAV",
+      "Fireblade",
+      "Gambling Content",
+      "Google",
+      "Gridsome",
+      "Idaq",
+      "Instagram Follow Button",
+      "K2F",
+      "KVH",
+      "Matomo",
+      "Matomo Tag Manager",
+      "Netlify",
+      "No-Q",
+      "Subversion",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "conwince.de",
+    "title": "- Conwince",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 20000,
+    "crawled_at": "2026-04-20T10:38:19.986562886Z",
+    "technologies": [
+      "Apache",
+      "DAV",
+      "Gridsome",
+      "K2F",
+      "SMC",
+      "Tailwind CSS",
+      "Unix"
+    ]
+  },
+  {
+    "domain": "achosagency.com",
+    "title": "Adult Content - @achosagency",
+    "business_name": "",
+    "country": "ESP",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-04-20T07:38:02.618875082Z",
+    "technologies": [
+      "Adult Content",
+      "Content Delivery Network",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "OnlyFans",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "dekamerakast.nl",
+    "title": "Home - De Kamerakast",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 55,
+    "tech_spend": "",
+    "crawled_at": "2026-04-20T02:09:39.008073714Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Customer Reviews",
+      "Google Tag Manager",
+      "Gridsome",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "mspiess.now.sh",
+    "title": "Personal website - Marc Spiess",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-04-20T00:52:47.436927911Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Gridsome",
+      "PWA",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "reubenjohn.com",
     "title": "Home - Reuben Koppenheffer - Web Developer",
     "business_name": "",
@@ -7102,22 +7274,6 @@
     ]
   },
   {
-    "domain": "ludovic-schober.ch",
-    "title": "Ludovic Schober Architectes | Sion | Valais",
-    "business_name": "",
-    "country": "CHE",
-    "seo_score": 67,
-    "tech_spend": "",
-    "crawled_at": "2026-01-20T16:25:43.432734094Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Gridsome",
-      "Instagram Follow Button",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "abdellatif.design",
     "title": "Abdellatif El Mellouki - UI/UX Designer - Abdellatif El Mellouki - UI/UX Designer",
     "business_name": "",
@@ -8648,33 +8804,6 @@
     ]
   },
   {
-    "domain": "elitecanines.com.au",
-    "title": "Dog Training Sunshine Coast | Elite Canines",
-    "business_name": "Elite Canine Training & Behaviour",
-    "country": "AUS",
-    "seo_score": 82,
-    "tech_spend": 7264,
-    "crawled_at": "2025-12-22T07:18:36.450363545Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Gridsome",
-      "Idaq",
-      "Netlify",
-      "PWA",
-      "Sanity",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jsDelivr"
-    ]
-  },
-  {
     "domain": "laurapiquet.fr",
     "title": "Portfolio - Laura P.",
     "business_name": "",
@@ -10181,26 +10310,6 @@
     ]
   },
   {
-    "domain": "achos.xxx",
-    "title": "Adult Content - @achosagency",
-    "business_name": "",
-    "country": "ESP",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2025-12-09T18:49:56.044197092Z",
-    "technologies": [
-      "Adult Content",
-      "Content Delivery Network",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "OnlyFans",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "emsgen.com",
     "title": "EMSGEN Interactive - EMSGEN Interactive",
     "business_name": "",
@@ -11679,105 +11788,6 @@
       "LinkedIn Pixel",
       "Netlify",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "johandahl.com",
-    "title": "About Johan Dahl - Code & Design - Johan Dahl",
-    "business_name": "",
-    "country": "SWE",
-    "seo_score": 42,
-    "tech_spend": 1050,
-    "crawled_at": "2025-11-23T00:15:19.462467018Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Gridsome",
-      "Idaq",
-      "Netlify",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "tipe.io",
-    "title": "Tipe: Powerful CMS for Jamstack apps",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 188,
-    "crawled_at": "2025-11-22T20:57:19.452682424Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Angular",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Coming Soon Page",
-      "GitHub Hosting",
-      "Gridsome",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Twitter Ads",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "karen-markwardt.de",
-    "title": "Home - Karen Markwardt",
-    "business_name": "",
-    "country": "",
-    "seo_score": 25,
-    "tech_spend": 1050,
-    "crawled_at": "2025-11-22T18:39:19.429438751Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "Idaq",
-      "Netlify",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "hundefriseur-solingen.de",
-    "title": "Hundefriseur Solingen - Ihr mobiler Hundefriseur",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 16392,
-    "crawled_at": "2025-11-22T18:36:19.4819261Z",
-    "technologies": [
-      "DAV",
-      "Ektron",
-      "Federal Deposit Insurance Corporation",
-      "Financial Services Guide",
-      "Gridsome",
-      "Idaq",
-      "KVH",
-      "Nginx",
-      "No-Q",
-      "Parallels Plesk Panel",
-      "Subversion"
-    ]
-  },
-  {
-    "domain": "arteagabriel.io",
-    "title": "Front-End Engineer - Gabriel Arteaga",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 16456,
-    "crawled_at": "2025-11-22T16:25:55.265194885Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Netlify",
-      "Sanity",
-      "UTF-8",
-      "Way"
     ]
   }
 ]
