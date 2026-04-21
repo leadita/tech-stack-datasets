@@ -1,5 +1,27 @@
 [
   {
+    "domain": "educamet.com.mx",
+    "title": "Home | Educamet",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 10500,
+    "crawled_at": "2026-04-21T16:59:19.978668422Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Google My Business",
+      "Moodle",
+      "NFOrce Internet",
+      "PHP",
+      "Totara",
+      "Twitter Ads",
+      "UTF-8",
+      "Ubuntu",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "gbcol.online",
     "title": "Home | GBC",
     "business_name": "",
@@ -867,28 +889,6 @@
       "PHP",
       "Totara",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "educamet.com.mx",
-    "title": "Home | Educamet",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 10500,
-    "crawled_at": "2025-12-24T21:40:38.317857411Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Google My Business",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "Totara",
-      "Twitter Ads",
-      "UTF-8",
-      "Ubuntu",
-      "jsDelivr"
     ]
   },
   {
