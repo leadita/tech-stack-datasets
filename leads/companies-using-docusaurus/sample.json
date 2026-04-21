@@ -1,5 +1,189 @@
 [
   {
+    "domain": "cdnbye.com",
+    "title": "SwarmCloud Docs",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": "",
+    "crawled_at": "2026-04-21T20:56:19.978889871Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Perl",
+      "Tailwind CSS",
+      "Telegram",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "linguisttranslate.com",
+    "title": "Linguist - Translate Web Pages Privately | Browser Translator Extension for Chrome & Firefox",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 7630,
+    "crawled_at": "2026-04-21T16:46:43.432061638Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Chakra UI",
+      "Content Delivery Network",
+      "Docusaurus",
+      "ETranslate",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "No-Q",
+      "Perl",
+      "QUIC",
+      "UTF-8",
+      "Yandex Hosting"
+    ]
+  },
+  {
+    "domain": "imdeepmind.com",
+    "title": "Abhishek's Homepage | imdeepmind",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 6228,
+    "crawled_at": "2026-04-21T15:29:13.461496183Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "ImageKit.io",
+      "KaTeX",
+      "Perl",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "lucanerlich.com",
+    "title": "Home | Luca Nerlich - Tech Documentation",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 250000,
+    "crawled_at": "2026-04-21T13:44:20.00810873Z",
+    "technologies": [
+      "Adobe Experience Manager",
+      "Alternate Protocol",
+      "Docusaurus",
+      "GZIP Module",
+      "GitHub Hosting",
+      "PHP",
+      "Perl",
+      "QUIC",
+      "To Top",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "alexaung.tech",
+    "title": "Tech Consultant for SaaS, Cloud & Automation | AMO.Consulting",
+    "business_name": "",
+    "country": "SGP",
+    "seo_score": 77,
+    "tech_spend": 16040,
+    "crawled_at": "2026-04-21T04:26:19.987821191Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Express",
+      "GitHub Hosting",
+      "GoDaddy",
+      "Perl",
+      "Python",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "University or College",
+      "Visual Studio"
+    ]
+  },
+  {
+    "domain": "mxrap.com",
+    "title": "mXrap",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-04-21T03:11:19.992775943Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "KaTeX",
+      "LiteSpeed",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "cozie.app",
+    "title": "Cozie | Cozie",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 600,
+    "crawled_at": "2026-04-21T01:22:21.133271459Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "felipezorzo.com",
+    "title": "Felipe | Senior Software Engineer | Felipe Zorzo",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 760,
+    "crawled_at": "2026-04-20T23:50:19.977948334Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "NFOrce Internet",
+      "Oracle Cloud",
+      "Perl"
+    ]
+  },
+  {
     "domain": "brocodelab.live",
     "title": "Software Development Company Guwahati, Kolkata, Assam & Singapore | Bro Code Lab",
     "business_name": "Bro Code Lab",
@@ -182,27 +366,6 @@
       "Perl",
       "Schema Plugin",
       "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "lucanerlich.com",
-    "title": "Home | Luca Nerlich - Tech Documentation",
-    "business_name": "",
-    "country": "",
-    "seo_score": 82,
-    "tech_spend": 250000,
-    "crawled_at": "2026-04-19T09:05:26.272972946Z",
-    "technologies": [
-      "Adobe Experience Manager",
-      "Alternate Protocol",
-      "Docusaurus",
-      "GZIP Module",
-      "GitHub Hosting",
-      "PHP",
-      "Perl",
-      "QUIC",
-      "To Top",
       "UTF-8"
     ]
   },
@@ -2964,26 +3127,6 @@
     ]
   },
   {
-    "domain": "felipezorzo.com.br",
-    "title": "Felipe | Senior Software Engineer | Felipe Zorzo",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 260,
-    "crawled_at": "2026-04-06T20:38:19.987145025Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Oracle Cloud",
-      "Perl"
-    ]
-  },
-  {
     "domain": "thematrixcrop.com",
     "title": "The Matrix Corporation | The Matrix Corporation",
     "business_name": "",
@@ -4389,28 +4532,6 @@
       "Python",
       "QUIC",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "cozie-fitbit.app",
-    "title": "Cozie, a Fitbit clock face for IEQ and physiological data collection | Cozie, a Fitbit clock face for IEQ and physiological data collection",
-    "business_name": "",
-    "country": "SGP",
-    "seo_score": 72,
-    "tech_spend": 7400,
-    "crawled_at": "2026-03-21T17:43:24.466502628Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Perl",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services"
     ]
   },
   {
@@ -12475,123 +12596,6 @@
       "Python",
       "To Top",
       "Twitter Ads"
-    ]
-  },
-  {
-    "domain": "anbaukumpel.de",
-    "title": "Anbaukumpel - Your Digital Gardening Companion | Anbaukumpel",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 144,
-    "crawled_at": "2025-11-21T12:39:19.459940492Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Docusaurus",
-      "GZIP Module",
-      "Google My Business",
-      "Google Play",
-      "Parallels Plesk Panel",
-      "Perl",
-      "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "wearoscentral.com",
-    "title": "WearOS Central: Your Ultimate Guide to WearOS | WearOS Central",
-    "business_name": "WearOS Central",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 32400,
-    "crawled_at": "2025-11-21T10:36:19.45696118Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "Fireblade",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "Perl",
-      "QUIC",
-      "To Top",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "crossmicrosystems.com",
-    "title": "Hello from Cross Microsytems | Cross Microsytems",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2025-11-21T10:21:19.455315671Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "reactnativetesting.io",
-    "title": "Home | ReactNativeTesting.io",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2025-11-21T09:18:19.458127968Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Netlify",
-      "Perl",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "openpanel.com",
-    "title": "OpenPanel | Next Generation Web Hosting Panel",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 77,
-    "tech_spend": 900,
-    "crawled_at": "2025-11-21T08:57:19.451809723Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Content Delivery Network",
-      "Digital Ocean Spaces",
-      "Discord",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Headless UI",
-      "LiteSpeed",
-      "Microsoft Clarity",
-      "Nginx",
-      "OpenResty",
-      "PHP",
-      "Parallels Plesk Panel",
-      "Perl",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
