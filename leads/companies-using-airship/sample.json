@@ -1,5 +1,46 @@
 [
   {
+    "domain": "dynamovipinfo.com",
+    "title": "Dynamo — The AI-Driven DM Platform",
+    "business_name": "Dynamo",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 25000,
+    "crawled_at": "2026-04-21T20:50:20.00715721Z",
+    "technologies": [
+      "Airship CRM",
+      "Content Delivery Network",
+      "Gambling Content",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "royceashlandgroup.com",
+    "title": "Royce Ashland Group, Inc",
+    "business_name": "",
+    "country": "MYS",
+    "seo_score": 70,
+    "tech_spend": 93120,
+    "crawled_at": "2026-04-21T01:38:19.977236885Z",
+    "technologies": [
+      "Airship CRM",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "PWA",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "hangglidingspectacular.com",
     "title": "54th Annual Hang Gliding Spectacular | Kitty Hawk Kites",
     "business_name": "Kitty Hawk Kites",
@@ -549,26 +590,6 @@
       "iTickets",
       "jQuery",
       "route"
-    ]
-  },
-  {
-    "domain": "dynamointer.com",
-    "title": "Dynamo — The AI-Driven DM Platform",
-    "business_name": "Dynamo",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 25000,
-    "crawled_at": "2026-04-16T13:26:19.991471965Z",
-    "technologies": [
-      "Airship CRM",
-      "Content Delivery Network",
-      "Gambling Content",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   },
   {
