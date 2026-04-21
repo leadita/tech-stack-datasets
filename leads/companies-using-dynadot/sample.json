@@ -1,5 +1,140 @@
 [
   {
+    "domain": "ijcai-05.org",
+    "title": "IJCAI-05",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 45,
+    "tech_spend": 36,
+    "crawled_at": "2026-04-21T15:50:19.99927422Z",
+    "technologies": [
+      "Apache",
+      "Dynadot",
+      "GZIP Module",
+      "Perl",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "nationallanguageservices.com",
+    "title": "National Language Service",
+    "business_name": "National Language Services",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 11875,
+    "crawled_at": "2026-04-21T07:41:20.011352456Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "ArvanCloud",
+      "BLR",
+      "Calendly",
+      "CloudFront",
+      "DAV",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Customer Reviews",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8",
+      "Unsplash",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "networkaidafrica.org",
+    "title": "Network AID Is Transitioning to Network AID Africa - home",
+    "business_name": "",
+    "country": "SLE",
+    "seo_score": 72,
+    "tech_spend": 879,
+    "crawled_at": "2026-04-21T05:35:19.995339529Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "ArvanCloud",
+      "CloudFront",
+      "Corporate Governance and Regulatory Compliance",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "tfmarauders.org",
+    "title": "Task Force Giant Slayer (TFGS) - TFGS Operations",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 16719,
+    "crawled_at": "2026-04-21T04:14:19.990325428Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Fireblade",
+      "Font Awesome",
+      "GZIP Module",
+      "NFOrce Internet",
+      "QUIC",
+      "UTF-8",
+      "Way"
+    ]
+  },
+  {
+    "domain": "lbhi.org",
+    "title": "Latino Behavioral Health Institute | Non-Profit Website",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 60,
+    "tech_spend": 36,
+    "crawled_at": "2026-04-21T01:29:19.994365412Z",
+    "technologies": [
+      "Dynadot",
+      "Google Analytics",
+      "LiteSpeed",
+      "QUIC",
+      "UTF-8",
+      "WordPress"
+    ]
+  },
+  {
+    "domain": "rotaipo.com",
+    "title": "ROTAIPO",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 890,
+    "crawled_at": "2026-04-20T22:14:33.614041455Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ETranslate",
+      "ElementUI",
+      "Font Awesome",
+      "GTranslate",
+      "GZIP Module",
+      "Google My Business",
+      "TradingView",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "picturesnetwork.com",
     "title": "An EMDN - Pictures Network, Image Sharing Photography Platform Visual Content Media Network Photo Collaboration Creative Gallery Digital Assets Online Community",
     "business_name": "",
@@ -1328,23 +1463,6 @@
       "GZIP Module",
       "Instagram Follow Button",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "lbhi.org",
-    "title": "Latino Behavioral Health Institute | Non-Profit Website",
-    "business_name": "",
-    "country": "ITA",
-    "seo_score": 60,
-    "tech_spend": 36,
-    "crawled_at": "2026-02-21T13:28:25.247498966Z",
-    "technologies": [
-      "Dynadot",
-      "Google Analytics",
-      "LiteSpeed",
-      "QUIC",
-      "UTF-8",
-      "WordPress"
     ]
   },
   {
@@ -3798,27 +3916,6 @@
       "Font Awesome",
       "GZIP Module",
       "Google Related Website Sites",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "rotaipo.com",
-    "title": "ROTAIPO",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 890,
-    "crawled_at": "2025-11-14T14:02:05.048224251Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ETranslate",
-      "Font Awesome",
-      "GTranslate",
-      "GZIP Module",
-      "Google My Business",
-      "TradingView",
       "UTF-8"
     ]
   }

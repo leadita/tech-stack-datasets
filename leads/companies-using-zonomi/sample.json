@@ -1,5 +1,33 @@
 [
   {
+    "domain": "kidzonomics.com",
+    "title": "Kidzonomics",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 67,
+    "tech_spend": 39790,
+    "crawled_at": "2026-04-20T23:26:20.005500147Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Authorize.net",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Fireblade",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Nomics",
+      "Nuxt.js",
+      "UTF-8",
+      "Zonomi",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "stillcreekfarms.com",
     "title": "Still Creek Farms",
     "business_name": "",
@@ -536,34 +564,6 @@
       "Unsplash",
       "Zonomi",
       "Zyro"
-    ]
-  },
-  {
-    "domain": "kidzonomics.com",
-    "title": "Kidzonomics",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 67,
-    "tech_spend": 39790,
-    "crawled_at": "2026-01-21T12:36:23.41639244Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Authorize.net",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Nomics",
-      "Nuxt.js",
-      "UTF-8",
-      "Zonomi",
-      "shadcn ui"
     ]
   },
   {
