@@ -1433,38 +1433,6 @@
     ]
   },
   {
-    "domain": "schanevanzijl.co.za",
-    "title": "Schané van Zijl | attooh! Your Wealth Solution",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 67,
-    "tech_spend": 23960,
-    "crawled_at": "2026-01-24T02:29:12.992028234Z",
-    "technologies": [
-      "Amazon S3 CDN",
-      "Apture Linking Platform",
-      "Authorize.net",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Nuxt.js",
-      "QUIC",
-      "Storyblocks",
-      "UTF-8",
-      "Vimeo",
-      "Vimeo CDN",
-      "eMoney"
-    ]
-  },
-  {
     "domain": "ruanoosthuizen.co.za",
     "title": "Ruan Oosthuizen | attooh! Your Wealth Solution",
     "business_name": "",
@@ -2176,38 +2144,6 @@
     ]
   },
   {
-    "domain": "wilhelmnaude.co.za",
-    "title": "Wilhelm Naude | attooh! Your Wealth Solution",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 23960,
-    "crawled_at": "2025-12-10T15:07:56.058982971Z",
-    "technologies": [
-      "Amazon S3 CDN",
-      "Apture Linking Platform",
-      "Authorize.net",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Nuxt.js",
-      "QUIC",
-      "Storyblocks",
-      "UTF-8",
-      "Vimeo",
-      "Vimeo CDN",
-      "eMoney"
-    ]
-  },
-  {
     "domain": "drikuskruger.co.za",
     "title": "Drikus Kruger | attooh! Your Wealth Solution",
     "business_name": "",
@@ -2744,39 +2680,6 @@
       "Vimeo",
       "Vimeo CDN",
       "eMoney"
-    ]
-  },
-  {
-    "domain": "thabanglekheto.co.za",
-    "title": "Thabang Lekheto | attooh! Your Wealth Solution",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 23960,
-    "crawled_at": "2025-11-14T21:59:04.982997953Z",
-    "technologies": [
-      "Amazon S3 CDN",
-      "Apture Linking Platform",
-      "Authorize.net",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Nuxt.js",
-      "QUIC",
-      "Storyblocks",
-      "UTF-8",
-      "Vimeo",
-      "Vimeo CDN",
-      "eMoney",
-      "shadcn ui"
     ]
   }
 ]
