@@ -1,5 +1,45 @@
 [
   {
+    "domain": "surveygroup.net",
+    "title": "Survey Group: Get paid for your opinion!",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": "",
+    "crawled_at": "2026-04-21T17:38:19.984185011Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Bulma",
+      "FreeCSSTemplates",
+      "GZIP Module",
+      "ISO/IEC 8859",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "eurospectra.com",
+    "title": "Home | Welcome to Nova Eurospectra | Nova Eurospectra",
+    "business_name": "",
+    "country": "RUS",
+    "seo_score": 87,
+    "tech_spend": 5567,
+    "crawled_at": "2026-04-21T08:46:34.704799698Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Apache Tomcat JK",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Maps",
+      "Google My Business",
+      "IcoMoon",
+      "UTF-8",
+      "Vector Internet Services",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "tallfire.com",
     "title": "TallFire IT Consulting | Enhance IT Efficiency – Contact Us Today",
     "business_name": "",
@@ -12121,24 +12161,6 @@
     ]
   },
   {
-    "domain": "surveygroup.net",
-    "title": "Survey Group: Get paid for your opinion!",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": "",
-    "crawled_at": "2025-11-24T16:57:19.438105107Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Bulma",
-      "FreeCSSTemplates",
-      "GZIP Module",
-      "ISO/IEC 8859",
-      "University or College"
-    ]
-  },
-  {
     "domain": "maggieharperdiscovers.com",
     "title": "Maggie Harper Discovers — Official Site",
     "business_name": "",
@@ -13520,56 +13542,6 @@
       "IcoMoon",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "eurospectra.com",
-    "title": "Home | Welcome to Nova Eurospectra | Nova Eurospectra",
-    "business_name": "",
-    "country": "RUS",
-    "seo_score": 62,
-    "tech_spend": 5567,
-    "crawled_at": "2025-11-14T18:47:05.005114457Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Apache Tomcat JK",
-      "Font Awesome",
-      "GZIP Module",
-      "IcoMoon",
-      "UTF-8",
-      "Vector Internet Services",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "jeromededios.de",
-    "title": "Jerome de Dios · Software Engineering",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 72,
-    "tech_spend": 26039,
-    "crawled_at": "2025-11-14T16:50:04.979629589Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Apache Tomcat JK",
-      "Content Delivery Network",
-      "Gambling Content",
-      "GitHub Hosting",
-      "Java EE",
-      "NFOrce Internet",
-      "Next.js",
-      "Oracle Cloud",
-      "Paessler",
-      "Pleroma",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
