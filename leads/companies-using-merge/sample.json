@@ -1,5 +1,24 @@
 [
   {
+    "domain": "kochian.dev",
+    "title": "Jacob Kochian",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-04-21T06:17:20.009386217Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Merge",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "hacktheprompt.com",
     "title": "Hack the Prompt | Discover 4,000+ AI Tools",
     "business_name": "Hack the Prompt",
