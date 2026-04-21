@@ -1,5 +1,31 @@
 [
   {
+    "domain": "kimayaashram.com",
+    "title": "Kimaya - Beyond Enlightenment",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 70,
+    "tech_spend": 16240,
+    "crawled_at": "2026-04-21T06:05:19.993997466Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Discourse",
+      "Fireblade",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Nginx",
+      "Perl",
+      "WhatsApp Sharing",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "fatimashrinejaffna.com",
     "title": "Shrine of Our Lady of Fatima – Pandatharippu ,Sri Lanka",
     "business_name": "",
