@@ -1,5 +1,64 @@
 [
   {
+    "domain": "rpsrealsolutions.com",
+    "title": "RPS - Real Property Solutions | Trusted Property Intelligence for Smarter Decisions",
+    "business_name": "RPS Real Property Solutions",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 17447,
+    "crawled_at": "2026-04-21T16:17:19.986788079Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cookie Accept",
+      "Cookie Notice",
+      "Elementor",
+      "EmbedPress",
+      "HubSpot WordPress Plugin",
+      "Lever",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Nginx",
+      "PHP",
+      "Perl",
+      "QUIC",
+      "Sitelinks Search Box",
+      "UTF-8",
+      "WPML Multilingual",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "hrrefer.com",
+    "title": "HRRefer – Smarter Hiring Starts Here",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 46220,
+    "crawled_at": "2026-04-21T04:35:19.984265088Z",
+    "technologies": [
+      "Appium",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fireblade",
+      "Google Forms",
+      "Google My Business",
+      "Greenhouse",
+      "Harbor",
+      "Instagram Follow Button",
+      "Lever",
+      "LiteSpeed",
+      "PHP",
+      "Pepper Cloud",
+      "Python",
+      "QUIC",
+      "UTF-8",
+      "Workable"
+    ]
+  },
+  {
     "domain": "legacyrestorationllc.com",
     "title": "Welcome to Legacy Restoration",
     "business_name": "",
@@ -7198,31 +7257,6 @@
     ]
   },
   {
-    "domain": "hrrefer.com",
-    "title": "HRRefer – Smarter Hiring Starts Here",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 41900,
-    "crawled_at": "2025-12-23T05:10:23.212130024Z",
-    "technologies": [
-      "Appium",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fireblade",
-      "Greenhouse",
-      "Instagram Follow Button",
-      "Lever",
-      "LiteSpeed",
-      "PHP",
-      "Pepper Cloud",
-      "Python",
-      "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "bigmind.pro",
     "title": "BigMind",
     "business_name": "",
@@ -9559,40 +9593,6 @@
       "WordPress Stats",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "bam.design",
-    "title": "BAM DESIGN | Web & Mobile Design Agency based in Paris",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 72,
-    "tech_spend": 21200,
-    "crawled_at": "2025-11-14T18:14:05.003245536Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Animate It",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "DC74",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Lever",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "Vector Internet Services",
-      "WF Cookie Consent"
     ]
   }
 ]

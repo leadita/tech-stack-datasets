@@ -1,5 +1,35 @@
 [
   {
+    "domain": "awfullynice.co",
+    "title": "Awfully Nice",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 26312,
+    "crawled_at": "2026-04-21T03:08:20.025965713Z",
+    "technologies": [
+      "Aruba",
+      "Express",
+      "Freshteam",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "netformant.net",
     "title": "Tech-Americas USA, Inc – Service. Support. Solved.",
     "business_name": "",
