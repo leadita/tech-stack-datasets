@@ -1,5 +1,140 @@
 [
   {
+    "domain": "jermainkaminski.com",
+    "title": "Jermain C. Kaminski",
+    "business_name": "Jermain C. Kaminski",
+    "country": "NLD",
+    "seo_score": 72,
+    "tech_spend": 5217,
+    "crawled_at": "2026-04-22T07:02:20.004301137Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Plausible Analytics",
+      "Publii",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "spinme.ca",
+    "title": "Panoramic Photography by Robert Schwartz - Google Street View Trusted",
+    "business_name": "spinme.ca",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 5039,
+    "crawled_at": "2026-04-22T05:26:20.006998736Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Amazon WAF Blocked",
+      "CloudFront",
+      "Content Delivery Network",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "brandenburger.ch",
+    "title": "brandenburgerch",
+    "business_name": "brandenburger.ch",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 325,
+    "crawled_at": "2026-04-22T03:47:19.992565623Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GZIP Module",
+      "GetYourGuide",
+      "Imgix",
+      "Microdata for Google Shopping",
+      "Publii",
+      "Wix Media",
+      "WordPress",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "kollatech.com",
+    "title": "Richard - Your Central Sask IT Guy - Kolla Korner",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 11047,
+    "crawled_at": "2026-04-21T21:38:19.997648381Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Idaq",
+      "Instagram Follow Button",
+      "JotForm",
+      "Microdata for Google Shopping",
+      "No-Q",
+      "Publii",
+      "RM Education",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "galaxy-posters.net",
+    "title": "Galaxy Posters",
+    "business_name": "Galaxy Posters",
+    "country": "DEU",
+    "seo_score": 40,
+    "tech_spend": 61,
+    "crawled_at": "2026-04-21T18:40:55.404377328Z",
+    "technologies": [
+      "BunnyCDN Header",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "infinitepurplegreen.ch",
+    "title": "Infinite Purple Green",
+    "business_name": "Infinite Purple Green",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 49,
+    "crawled_at": "2026-04-21T15:23:19.992633213Z",
+    "technologies": [
+      "Apache",
+      "Debian",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "counsellingformind.com",
     "title": "Counselling for Minds- Psychological Centre",
     "business_name": "",
@@ -106,32 +241,6 @@
       "Google Cloud DNS",
       "Google Font API",
       "Publii"
-    ]
-  },
-  {
-    "domain": "jermainkaminski.com",
-    "title": "Jermain C. Kaminski",
-    "business_name": "Jermain C. Kaminski",
-    "country": "NLD",
-    "seo_score": 72,
-    "tech_spend": 5217,
-    "crawled_at": "2026-04-20T17:56:39.276620381Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Plausible Analytics",
-      "Publii",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   },
   {
@@ -849,30 +958,6 @@
     ]
   },
   {
-    "domain": "kollatech.com",
-    "title": "Richard - Your Central Sask IT Guy - Kolla Korner",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 11047,
-    "crawled_at": "2026-04-13T14:39:43.457519544Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Idaq",
-      "Instagram Follow Button",
-      "JotForm",
-      "Microdata for Google Shopping",
-      "No-Q",
-      "Publii",
-      "RM Education",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
-    ]
-  },
-  {
     "domain": "liberty.su",
     "title": "Liberty.SU Network",
     "business_name": "Liberty.SU Network",
@@ -1215,26 +1300,6 @@
       "Microdata for Google Shopping",
       "Nginx",
       "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "brandenburger.ch",
-    "title": "brandenburgerch",
-    "business_name": "brandenburger.ch",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 325,
-    "crawled_at": "2026-04-09T02:21:40.956841928Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GZIP Module",
-      "GetYourGuide",
-      "Imgix",
-      "Microdata for Google Shopping",
-      "Publii",
-      "Wix Media",
-      "WordPress",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   },
@@ -2357,25 +2422,6 @@
     ]
   },
   {
-    "domain": "galaxyposter.net",
-    "title": "Galaxy Posters",
-    "business_name": "Galaxy Posters",
-    "country": "DEU",
-    "seo_score": 40,
-    "tech_spend": 61,
-    "crawled_at": "2026-04-03T01:05:20.009960729Z",
-    "technologies": [
-      "BunnyCDN Header",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "bananna-threads.com",
     "title": "Bananna Threads",
     "business_name": "Bananna Threads",
@@ -2734,23 +2780,6 @@
       "Amazon S3 CDN",
       "CloudFront",
       "Content Delivery Network",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "infinitepurplegreen.ch",
-    "title": "Infinite Purple Green",
-    "business_name": "Infinite Purple Green",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 49,
-    "crawled_at": "2026-03-19T04:50:43.251212764Z",
-    "technologies": [
-      "Apache",
-      "Debian",
       "GZIP Module",
       "Microdata for Google Shopping",
       "Publii",
@@ -6362,35 +6391,6 @@
     ]
   },
   {
-    "domain": "spinme.ca",
-    "title": "Panoramic Photography by Robert Schwartz - Google Street View Trusted",
-    "business_name": "spinme.ca",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 5039,
-    "crawled_at": "2025-12-05T07:48:46.375254836Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Amazon WAF Blocked",
-      "CloudFront",
-      "Content Delivery Network",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
     "domain": "wolflinktelecom.com",
     "title": "wolflinktelcom",
     "business_name": "wolflinktelcom",
@@ -7767,26 +7767,6 @@
       "Publii",
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "nilepanorama.com",
-    "title": "Nile Panorama hotel - Tours",
-    "business_name": "Nile Panorama hotel - Tours",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 6136,
-    "crawled_at": "2025-11-15T00:14:05.061206548Z",
-    "technologies": [
-      "Content Delivery Network",
-      "CoreUI",
-      "Form.IO",
-      "Microdata for Google Shopping",
-      "Publii",
-      "QUIC",
-      "UTF-8",
-      "Vercel",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   }
 ]
