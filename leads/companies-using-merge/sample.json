@@ -863,41 +863,5 @@
       "Zendesk Embeddables",
       "eLand"
     ]
-  },
-  {
-    "domain": "productleadersummit.com",
-    "title": "Product Leader Summit",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 15020,
-    "crawled_at": "2025-11-15T03:20:04.98504573Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "Centercode",
-      "Chameleon",
-      "DAV",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Line2",
-      "Merge",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "Pico CSS",
-      "QUIC",
-      "Scully",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "eLand"
-    ]
   }
 ]
