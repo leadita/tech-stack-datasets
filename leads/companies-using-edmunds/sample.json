@@ -1,5 +1,42 @@
 [
   {
+    "domain": "melanieedmunds.com",
+    "title": "Melanie Edmunds Counselling and Clinical Supervision | mental health counselling",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 67,
+    "tech_spend": 88141,
+    "crawled_at": "2026-04-22T05:41:19.99484513Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "DAV",
+      "Edmunds",
+      "Express",
+      "Fastly",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PWA",
+      "Perl",
+      "QUIC",
+      "SMC",
+      "Sentry",
+      "SiteW",
+      "Thank You",
+      "UTF-8",
+      "Vector Internet Services",
+      "WP Booking Calendar",
+      "Wix",
+      "Wix Media",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "carolemcmanus.com",
     "title": "Carole McManus",
     "business_name": "Carole Newton McManus",
@@ -3312,27 +3349,6 @@
     ]
   },
   {
-    "domain": "carlockoutmesquite.com",
-    "title": "Car Lockout in Mesquite Texas Local Pop A Lock Service",
-    "business_name": "Car Lockout Mesquite",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 15000,
-    "crawled_at": "2026-01-21T02:25:43.431080809Z",
-    "technologies": [
-      "Apache",
-      "Edmunds",
-      "Fireblade",
-      "GZIP Module",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "mobilemassagenorthlondon.com",
     "title": "Mobile Massage Bury | Deep Tissue Massage Bury St Edmunds Suffolk | Mobile Massage Bury St Edmunds | England | Massage Therapist | Manual Lymphatic Drainage Massage | Sports Massage Bury | Prenatal",
     "business_name": "MobileMassageBuryStEdmunds",
@@ -5696,42 +5712,6 @@
       "Schema Plugin",
       "UTF-8",
       "Yelp Badge",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "sabestcars.com",
-    "title": "S A Best Used Cars - Car Dealer in San Antonio, TX",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 73007,
-    "crawled_at": "2025-11-14T22:08:04.980279713Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Edmunds",
-      "Financial Services Guide",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "K2F",
-      "KVH",
-      "Nginx",
-      "Onyx Internet",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
       "jQuery"
     ]
   }
