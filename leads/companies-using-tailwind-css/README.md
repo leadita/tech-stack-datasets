@@ -1,6 +1,6 @@
 # Companies Using Tailwind CSS (Live Dataset 2026)
 
-This folder contains an active list of 2,204,818 companies using **Tailwind CSS**. 
+This folder contains an active list of 2,212,879 companies using **Tailwind CSS**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 2,204,818
+- **Total Leads:** 2,212,879
 - **Verified:** Yes
-- **Last Updated:** 2026-04-21 15:00 UTC
+- **Last Updated:** 2026-04-22 15:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **2,204,818+** companies using Tailwind CSS.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **2,212,879+** companies using Tailwind CSS.
 
 [**⚡ Unlock the Full Tailwind CSS List with Contact Details**](https://leadita.com/leads/companies-using-tailwind-css)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-21 15:00 UTC*
+*Last updated: 2026-04-22 15:00 UTC*
 *Data source: Leadita Technographic Intelligence*
