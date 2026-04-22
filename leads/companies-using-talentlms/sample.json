@@ -1,5 +1,41 @@
 [
   {
+    "domain": "learningtoday.net",
+    "title": "Empowering Education with Learning Today's Innovative Strategies -",
+    "business_name": "Learningtoday.net",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 19436,
+    "crawled_at": "2026-04-22T02:29:20.021858938Z",
+    "technologies": [
+      "DMCA Badge",
+      "EmbedPress",
+      "Fireblade",
+      "Font Awesome",
+      "Google Adsense",
+      "Google Analytics",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google Related Website Sites",
+      "Google Reseller",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Python",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Tailwind CSS",
+      "TalentLMS",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "campersinnu.com",
     "title": "campersinn",
     "business_name": "",
@@ -171,43 +207,6 @@
       "WordPress Stats",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "learningtoday.net",
-    "title": "Empowering Education with Learning Today's Innovative Strategies -",
-    "business_name": "Learningtoday.net",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 19436,
-    "crawled_at": "2026-04-19T16:31:33.341668203Z",
-    "technologies": [
-      "Angular",
-      "DMCA Badge",
-      "EmbedPress",
-      "Fireblade",
-      "Font Awesome",
-      "Google Adsense",
-      "Google Analytics",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google Related Website Sites",
-      "Google Reseller",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Python",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "TalentLMS",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite"
     ]
   },
   {
@@ -7623,28 +7622,6 @@
       "eLand",
       "elevio",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "kibytes.com.au",
-    "title": "KIBYTES",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 921,
-    "crawled_at": "2025-12-15T06:01:56.011450958Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Nginx",
-      "Plausible Analytics",
-      "TalentLMS",
-      "UTF-8",
-      "Webador"
     ]
   },
   {

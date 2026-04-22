@@ -1247,33 +1247,5 @@
       "YouTube",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "unadecavirtual.org",
-    "title": "Campus Virtual",
-    "business_name": "",
-    "country": "CRI",
-    "seo_score": 60,
-    "tech_spend": 11418,
-    "crawled_at": "2025-11-15T00:20:04.98279283Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Fastly",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Microsoft 365",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "Tailwind CSS",
-      "Totara",
-      "UTF-8",
-      "Vimeo",
-      "YouTube",
-      "jsDelivr"
-    ]
   }
 ]
