@@ -1,12 +1,44 @@
 [
   {
-    "domain": "okanaganradontesting.ca",
+    "domain": "amityonsite.com",
+    "title": "Amity On-Site - Amity On-Site",
+    "business_name": "Amity On-Site",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 25698,
+    "crawled_at": "2026-04-22T10:14:54.926766824Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "CapsuleCRM",
+      "Cloudflare",
+      "Content Delivery Network",
+      "DuracellTomi Google Tag Manager for WordPress",
+      "EmbedPress",
+      "Font Awesome",
+      "Genesis Blocks",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "PHP",
+      "RM Education",
+      "ThemeFusion",
+      "UTF-8",
+      "WP Engine",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "vernonhomeinspectors.ca",
     "title": "Home Inspections Kelowna | Stix Property Inspections, Kelowna, BC",
     "business_name": "",
     "country": "CAN",
     "seo_score": 77,
     "tech_spend": 11437,
-    "crawled_at": "2026-04-20T12:59:18.943745196Z",
+    "crawled_at": "2026-04-22T08:50:20.001632599Z",
     "technologies": [
       "Akismet",
       "Alternate Protocol",
@@ -1286,38 +1318,6 @@
       "Underscores",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "amityonsite.com",
-    "title": "Amity On-Site - Amity On-Site",
-    "business_name": "Amity On-Site",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 25698,
-    "crawled_at": "2025-11-15T04:50:04.980590274Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "CapsuleCRM",
-      "Cloudflare",
-      "Content Delivery Network",
-      "DuracellTomi Google Tag Manager for WordPress",
-      "EmbedPress",
-      "Font Awesome",
-      "Genesis Blocks",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "PHP",
-      "RM Education",
-      "ThemeFusion",
-      "UTF-8",
-      "WP Engine",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
