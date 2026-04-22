@@ -1,5 +1,58 @@
 [
   {
+    "domain": "mischiefmedia.ca",
+    "title": "Mischief Media",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 65,
+    "tech_spend": 33808,
+    "crawled_at": "2026-04-22T11:48:46.543433471Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "AWS WAF Challenge",
+      "Adobe Creative Cloud WebFonts",
+      "Adult Content",
+      "Bulma",
+      "CacheFly",
+      "CacheFly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "IcoMoon",
+      "InitiativeS",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "QUIC",
+      "Visual Studio",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "pickrelay.com",
+    "title": "Relay | 20,000+ movies and shows. Just $4.99/month.",
+    "business_name": "Relay",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 5880,
+    "crawled_at": "2026-04-22T00:59:19.983650963Z",
+    "technologies": [
+      "Adult Content",
+      "Amazon Associates",
+      "Amazon Widgets",
+      "App Store",
+      "CacheFly",
+      "CacheFly CDN",
+      "Content Delivery Network",
+      "Google My Business",
+      "Google Play",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "windsorencoreapts.com",
     "title": "Windsor Encore | Cumberland, GA Apartments",
     "business_name": "Windsor Encore",
@@ -613,31 +666,6 @@
       "Vignette OpenText",
       "WordPress SEO Structured Data Schema Plugin",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "rly.movie",
-    "title": "Relay | 20,000+ movies and shows. Just $4.99/month.",
-    "business_name": "Relay",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 5880,
-    "crawled_at": "2026-04-06T16:50:20.01661464Z",
-    "technologies": [
-      "Adult Content",
-      "Amazon Associates",
-      "Amazon Widgets",
-      "App Store",
-      "CacheFly",
-      "CacheFly CDN",
-      "Content Delivery Network",
-      "Google My Business",
-      "Google Play",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   },
   {
@@ -2468,33 +2496,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "mischiefmedia.ca",
-    "title": "Mischief Media",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 65,
-    "tech_spend": 33808,
-    "crawled_at": "2025-11-15T05:26:04.999049325Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Adult Content",
-      "Bulma",
-      "CacheFly",
-      "CacheFly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "IcoMoon",
-      "InitiativeS",
-      "Microsoft Azure",
-      "QUIC",
-      "Visual Studio",
-      "jQuery"
     ]
   }
 ]
