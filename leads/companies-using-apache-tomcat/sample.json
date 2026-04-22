@@ -1,5 +1,70 @@
 [
   {
+    "domain": "brayanbernabe.com",
+    "title": "Brayan Bernabe",
+    "business_name": "",
+    "country": "ECU",
+    "seo_score": 65,
+    "tech_spend": 2900,
+    "crawled_at": "2026-04-22T21:19:06.652744944Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Heroku",
+      "ID Services",
+      "Instagram Follow Button",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "cornisharmsfrogpool.com",
+    "title": "Cornish Arms | Frogpool Cornwall | Traditional pub in the Cornish village | Family run | Quality food at affordable prices | Free house | Ales | Beers | Wines | Truro | Falmouth | Redruth | Christmas",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 156,
+    "crawled_at": "2026-04-22T19:27:40.898368019Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Google Related Website Sites",
+      "IcoMoon",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "douglasthrift.net",
+    "title": "Douglas Thrift",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 7321,
+    "crawled_at": "2026-04-22T00:59:20.02528994Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "CM Commerce",
+      "FreeBSD",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "OpenSSL",
+      "Phusion Passenger Enterprise",
+      "Pinboard",
+      "Python",
+      "Rackspace Cloud Servers",
+      "Subversion",
+      "Twitter Ads",
+      "Unix"
+    ]
+  },
+  {
     "domain": "surveygroup.net",
     "title": "Survey Group: Get paid for your opinion!",
     "business_name": "",
@@ -4326,32 +4391,6 @@
       "GZIP Module",
       "QUIC",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "douglasthrift.net",
-    "title": "Douglas Thrift",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 7321,
-    "crawled_at": "2026-03-23T19:34:29.409736956Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "CM Commerce",
-      "FreeBSD",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "OpenSSL",
-      "Phusion Passenger Enterprise",
-      "Pinboard",
-      "Python",
-      "Rackspace Cloud Servers",
-      "Subversion",
-      "Twitter Ads",
-      "Unix"
     ]
   },
   {
@@ -13502,45 +13541,6 @@
       "QUIC",
       "Subversion",
       "University or College",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "brayanbernabe.com",
-    "title": "Brayan Bernabe",
-    "business_name": "",
-    "country": "ECU",
-    "seo_score": 65,
-    "tech_spend": 2900,
-    "crawled_at": "2025-11-15T09:05:04.991161617Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Heroku",
-      "ID Services",
-      "Instagram Follow Button",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "cornisharmsfrogpool.com",
-    "title": "Cornish Arms | Frogpool Cornwall | Traditional pub in the Cornish village | Family run | Quality food at affordable prices | Free house | Ales | Beers | Wines | Truro | Falmouth | Redruth | Christmas",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 156,
-    "crawled_at": "2025-11-15T08:20:15.828671967Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "UTF-8",
       "jQuery"
     ]
   }
