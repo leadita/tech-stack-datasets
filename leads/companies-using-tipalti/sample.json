@@ -1,5 +1,35 @@
 [
   {
+    "domain": "stlaurentagency.com",
+    "title": "stlaurentagency",
+    "business_name": "St. Laurent Agency",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 86968,
+    "crawled_at": "2026-04-21T21:53:18.364995691Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "FormSubmit",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Newsletter for Wordpress",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "Tipalti",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "rankscale.de",
     "title": "Rankscale - Track and Deeply Analyze Visibility in AI Search Engines",
     "business_name": "Rankscale",
@@ -920,36 +950,6 @@
       "Vercel",
       "WordPress",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "stlaurentagency.com",
-    "title": "stlaurentagency",
-    "business_name": "St. Laurent Agency",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 27452,
-    "crawled_at": "2025-11-15T00:11:05.022901003Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "Tipalti",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
