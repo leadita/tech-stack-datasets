@@ -1,6 +1,6 @@
 # Companies Using CrazyEgg (Live Dataset 2026)
 
-This folder contains an active list of 8,361 companies using **CrazyEgg**. 
+This folder contains an active list of 8,428 companies using **CrazyEgg**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 8,361
+- **Total Leads:** 8,428
 - **Verified:** Yes
-- **Last Updated:** 2026-04-21 11:30 UTC
+- **Last Updated:** 2026-04-22 11:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **8,361+** companies using CrazyEgg.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **8,428+** companies using CrazyEgg.
 
 [**⚡ Unlock the Full CrazyEgg List with Contact Details**](https://leadita.com/leads/companies-using-crazyegg)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-21 11:30 UTC*
+*Last updated: 2026-04-22 11:30 UTC*
 *Data source: Leadita Technographic Intelligence*
