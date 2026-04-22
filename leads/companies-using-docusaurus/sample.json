@@ -1,5 +1,250 @@
 [
   {
+    "domain": "gamerank.io",
+    "title": "GameRank",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-04-22T22:23:19.977437257Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "GZIP Module",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "archischool.in",
+    "title": "Archi School | Archi School",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-04-22T22:16:52.621586671Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "teimurjan.dev",
+    "title": "Teimur Gasanov",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 924,
+    "crawled_at": "2026-04-22T20:20:14.530467252Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Gravity",
+      "Imgix",
+      "InitiativeS",
+      "Next.js",
+      "Ntent",
+      "Python",
+      "Storyblocks",
+      "Svelte",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "wesngu28.com",
+    "title": "Wesley Nguyen",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 108,
+    "crawled_at": "2026-04-22T18:57:34.744644094Z",
+    "technologies": [
+      "Astro",
+      "CM Commerce",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Python",
+      "Svelte",
+      "Tailwind CSS",
+      "University or College",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "hilnbrand.com",
+    "title": "Jeff Anders",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 10228,
+    "crawled_at": "2026-04-22T18:49:03.49099001Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Astro",
+      "Autodesk",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Material Design Icons",
+      "Medium",
+      "Netlify",
+      "PWA",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "anofox.de",
+    "title": "AnoFox | Enterprise Forecasting",
+    "business_name": "DataZoo GmbH",
+    "country": "DEU",
+    "seo_score": 82,
+    "tech_spend": 52440,
+    "crawled_at": "2026-04-22T09:23:19.980964602Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "KaTeX",
+      "Microdata for Google Shopping",
+      "Ntent",
+      "Perl",
+      "Python",
+      "SMC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "mikikiv.dev",
+    "title": "Mikey Villavicencio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 7500,
+    "crawled_at": "2026-04-22T07:35:20.02206844Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fireblade",
+      "GitHub Hosting",
+      "Google My Business",
+      "Netlify",
+      "Next.js",
+      "Ntent",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "patentgate.de",
+    "title": "patentGate",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-04-22T06:23:19.995326926Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Docusaurus",
+      "Instagram Follow Button",
+      "OpenSSL",
+      "Perl",
+      "Unix"
+    ]
+  },
+  {
+    "domain": "cyclops-ui.com",
+    "title": "Developer friendly Kubernetes | Cyclops",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 15192,
+    "crawled_at": "2026-04-22T03:53:19.983079043Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Ant Design Vue",
+      "Calendly",
+      "Discord",
+      "Docusaurus",
+      "Financial Services Guide",
+      "GitHub Hosting",
+      "Google Adsense",
+      "Google Analytics",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google Reseller",
+      "Google Tag Manager",
+      "Nginx",
+      "Ntent",
+      "Perl",
+      "Product Hunt",
+      "RawGit"
+    ]
+  },
+  {
+    "domain": "deepmate.world",
+    "title": "Your Journey to Study in China Starts Here | Deepmate",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 240,
+    "crawled_at": "2026-04-22T00:11:19.986279059Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Investor Relations",
+      "Neighborhoods",
+      "Perl",
+      "QUIC",
+      "UTF-8",
+      "University or College",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "cdnbye.com",
     "title": "SwarmCloud Docs",
     "business_name": "",
@@ -1487,37 +1732,6 @@
       "Fastly",
       "Perl",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "anofox.de",
-    "title": "AnoFox | Enterprise Forecasting",
-    "business_name": "DataZoo GmbH",
-    "country": "",
-    "seo_score": 92,
-    "tech_spend": 52440,
-    "crawled_at": "2026-04-14T10:31:35.155082113Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "KaTeX",
-      "Microdata for Google Shopping",
-      "Ntent",
-      "Perl",
-      "Python",
-      "SMC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr",
-      "shadcn ui"
     ]
   },
   {
@@ -5443,24 +5657,6 @@
     ]
   },
   {
-    "domain": "patentgate.de",
-    "title": "patentGate",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2026-03-03T07:48:59.629112077Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Docusaurus",
-      "Instagram Follow Button",
-      "OpenSSL",
-      "Perl",
-      "Unix"
-    ]
-  },
-  {
     "domain": "eshanpai.com",
     "title": "Eshan Pai",
     "business_name": "",
@@ -6214,24 +6410,6 @@
       "UTF-8",
       "University or College",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "gamerank.io",
-    "title": "GameRank",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-02-10T15:56:31.570349544Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "GZIP Module",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   },
   {
@@ -8004,27 +8182,6 @@
       "Vector Internet Services",
       "Zope",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "deepmate.world",
-    "title": "Your Journey to Study in China Starts Here | Deepmate",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 240,
-    "crawled_at": "2026-01-19T01:10:43.430398095Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Investor Relations",
-      "Neighborhoods",
-      "Perl",
-      "QUIC",
-      "UTF-8",
-      "University or College",
-      "Vercel"
     ]
   },
   {
@@ -12103,36 +12260,6 @@
     ]
   },
   {
-    "domain": "jhil.co",
-    "title": "Jeff Anders",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 10228,
-    "crawled_at": "2025-11-24T04:12:19.451030293Z",
-    "technologies": [
-      "Astro",
-      "Autodesk",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Material Design Icons",
-      "Medium",
-      "Netlify",
-      "PWA",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "harrydata.com",
     "title": "Harry Ramsay - Data Analyst",
     "business_name": "",
@@ -12392,29 +12519,6 @@
     ]
   },
   {
-    "domain": "mikikiv.dev",
-    "title": "Mikey Villavicencio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2025-11-22T11:09:19.435842356Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Google My Business",
-      "Netlify",
-      "Next.js",
-      "Ntent",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
     "domain": "hostim.dev",
     "title": "Docker Hosting with MySQL/Postgres/Redis | Hostim.dev | HOSTIM.DEV",
     "business_name": "",
@@ -12494,108 +12598,6 @@
       "Vercel",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "yaco.email",
-    "title": "YaCo | Crypto & AI Developer🚀☕",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 48,
-    "crawled_at": "2025-11-22T05:18:19.487388454Z",
-    "technologies": [
-      "Cloudflare",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Hexo",
-      "Hyperlane",
-      "Linktree",
-      "Perl",
-      "UTF-8",
-      "Vercel",
-      "YouTube",
-      "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "orthogonal.one",
-    "title": "Orthogonal: Music making from a different angle | Orthogonal",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2025-11-22T03:54:19.45473847Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "Perl",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "navimarket.mn",
-    "title": "NaviMarket Pro | NaviMarket Pro",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 52970,
-    "crawled_at": "2025-11-21T22:39:19.45510687Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DAV",
-      "Docusaurus",
-      "Facebook CDN",
-      "Google",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Google Play",
-      "No-Q",
-      "Ntent",
-      "PHP",
-      "Perl",
-      "SMC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "mccaffers.com",
-    "title": "Home | McCaffers",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 126,
-    "crawled_at": "2025-11-21T18:42:19.440976444Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GZIP Module",
-      "GitHub Hosting",
-      "License Buttons",
-      "Perl",
-      "Python",
-      "To Top",
-      "Twitter Ads"
     ]
   }
 ]

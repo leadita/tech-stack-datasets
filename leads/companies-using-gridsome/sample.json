@@ -1,5 +1,197 @@
 [
   {
+    "domain": "madbit.co",
+    "title": "Product Design Consultancy • MADBIT Co.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 63,
+    "crawled_at": "2026-04-22T18:44:20.027271658Z",
+    "technologies": [
+      "AdBit",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Netlify",
+      "Pirsch",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "hbsl.ch",
+    "title": "Martin Giger - humanoids bePage",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 27979,
+    "crawled_at": "2026-04-22T12:59:20.02482892Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "DAV",
+      "GitHub Hosting",
+      "Gridsome",
+      "Idaq",
+      "KVH",
+      "Mastodon",
+      "Microdata for Google Shopping",
+      "No-Q",
+      "PWA",
+      "QUIC",
+      "Schema Plugin",
+      "Subversion",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "dekamerakast.nl",
+    "title": "Home - De Kamerakast",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 55,
+    "tech_spend": "",
+    "crawled_at": "2026-04-22T07:47:19.980853111Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Customer Reviews",
+      "Google Tag Manager",
+      "Gridsome",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "prowet.eu",
+    "title": "PRO-WET Wałbrzych - deratyzacja, dezynfekcja, dezynsekcja",
+    "business_name": "",
+    "country": "POL",
+    "seo_score": 50,
+    "tech_spend": "",
+    "crawled_at": "2026-04-22T06:20:20.045163425Z",
+    "technologies": [
+      "Gridsome",
+      "LiteSpeed",
+      "QUIC",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "gozo-taxi.com",
+    "title": "Gozo Taxi Service | Official Website - Gozo Taxi",
+    "business_name": "",
+    "country": "MLT",
+    "seo_score": 67,
+    "tech_spend": 71278,
+    "crawled_at": "2026-04-22T05:38:19.998102517Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Financial Services Guide",
+      "Google Related Website Sites",
+      "Gridsome",
+      "KVH",
+      "Netlify",
+      "No-Q",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "whiteforeststudio.com",
+    "title": "Aplikacje internetowe i strony WWW - White Forest Studio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 3,
+    "crawled_at": "2026-04-22T04:21:42.800616264Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Gridsome",
+      "Netlify",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "ibnabubakre.xyz",
+    "title": "Abdulqudus Abubakre | Frontend Developer | ibn-abubakre.xyz",
+    "business_name": "",
+    "country": "NGA",
+    "seo_score": 62,
+    "tech_spend": 377,
+    "crawled_at": "2026-04-22T03:44:19.99951795Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Gridsome",
+      "Netlify",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "253markham.ca",
+    "title": "Markham & Dunelm - Options For Homes",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 62,
+    "tech_spend": 14976,
+    "crawled_at": "2026-04-22T02:56:19.993978358Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "ClientSuccess",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "rayh.io",
+    "title": "Ray Yamamoto Hilton | Space, Engineering, Science, Music | Ray Yamamoto Hilton",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 77,
+    "tech_spend": 352,
+    "crawled_at": "2026-04-22T00:42:20.001705183Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Netlify",
+      "Python",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Unsplash",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "slevinthheaven.com",
     "title": "Slevinth Heaven Ltd - Slevinth Heaven Ltd",
     "business_name": "",
@@ -458,25 +650,6 @@
       "Netlify",
       "OnlyFans",
       "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "dekamerakast.nl",
-    "title": "Home - De Kamerakast",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 55,
-    "tech_spend": "",
-    "crawled_at": "2026-04-20T02:09:39.008073714Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Customer Reviews",
-      "Google Tag Manager",
-      "Gridsome",
-      "Netlify",
       "Tailwind CSS",
       "UTF-8"
     ]
@@ -1434,29 +1607,6 @@
       "University or College",
       "Vercel",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "optionsforhomes.ca",
-    "title": "Home - Options For Homes",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 36015,
-    "crawled_at": "2026-04-15T05:50:20.000092971Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ClientSuccess",
-      "CoStar",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "DatoCMS",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8"
     ]
   },
   {
@@ -5192,32 +5342,6 @@
     ]
   },
   {
-    "domain": "humanoids.be",
-    "title": "Martin Giger - humanoids bePage",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 27979,
-    "crawled_at": "2026-02-21T03:23:53.50818418Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "DAV",
-      "GitHub Hosting",
-      "Gridsome",
-      "Idaq",
-      "KVH",
-      "Microdata for Google Shopping",
-      "No-Q",
-      "PWA",
-      "QUIC",
-      "Schema Plugin",
-      "Subversion",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
     "domain": "torvehallerne.dk",
     "title": "Forside - Torvehallerne",
     "business_name": "",
@@ -5469,27 +5593,6 @@
     ]
   },
   {
-    "domain": "madbit.co",
-    "title": "Product Design Consultancy • MADBIT Co.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 388,
-    "crawled_at": "2026-02-14T21:16:52.401392472Z",
-    "technologies": [
-      "AdBit",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Netlify",
-      "Pirsch",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "harvac.com.au",
     "title": "Delivering extraordinary experiences | HARVAC group",
     "business_name": "",
@@ -5625,21 +5728,6 @@
       "Instagram Follow Button",
       "Tailwind CSS",
       "Twitter Ads"
-    ]
-  },
-  {
-    "domain": "prowet.eu",
-    "title": "PRO-WET Wałbrzych - deratyzacja, dezynfekcja, dezynsekcja",
-    "business_name": "",
-    "country": "POL",
-    "seo_score": 50,
-    "tech_spend": "",
-    "crawled_at": "2026-02-11T17:03:49.025788458Z",
-    "technologies": [
-      "Gridsome",
-      "LiteSpeed",
-      "QUIC",
-      "Tailwind CSS"
     ]
   },
   {
@@ -8510,29 +8598,6 @@
     ]
   },
   {
-    "domain": "gozo-taxi.com",
-    "title": "Gozo Taxi Service | Official Website - Gozo Taxi",
-    "business_name": "",
-    "country": "MLT",
-    "seo_score": 67,
-    "tech_spend": 71278,
-    "crawled_at": "2025-12-29T11:11:01.018094109Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "Google Related Website Sites",
-      "Gridsome",
-      "KVH",
-      "Netlify",
-      "No-Q",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "deleiderkomt.be",
     "title": "THE LEADER WILL COME",
     "business_name": "",
@@ -8819,25 +8884,6 @@
     ]
   },
   {
-    "domain": "ibnabubakre.xyz",
-    "title": "Abdulqudus Abubakre | Frontend Developer | ibn-abubakre.xyz",
-    "business_name": "",
-    "country": "NGA",
-    "seo_score": 62,
-    "tech_spend": 377,
-    "crawled_at": "2025-12-24T18:34:38.32635158Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Gridsome",
-      "Netlify",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
     "domain": "justfalafs.com.au",
     "title": "Just Falafs",
     "business_name": "",
@@ -9111,34 +9157,6 @@
       "Netlify",
       "No-Q",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "martingiger.ch",
-    "title": "Martin Giger - humanoids bePage",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 28079,
-    "crawled_at": "2025-12-21T00:58:32.737924033Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "DAV",
-      "GitHub Hosting",
-      "Gridsome",
-      "Idaq",
-      "KVH",
-      "La Poste Suisse",
-      "Microdata for Google Shopping",
-      "No-Q",
-      "PWA",
-      "QUIC",
-      "Schema Plugin",
-      "Subversion",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "shadcn ui"
     ]
   },
   {
@@ -11862,27 +11880,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "machovojezero-chatky.cz",
-    "title": "Máchovo jezero ubytování - Chatky Selská rokle",
-    "business_name": "",
-    "country": "CZE",
-    "seo_score": 72,
-    "tech_spend": 22500,
-    "crawled_at": "2025-11-23T12:30:19.431365087Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DAV",
-      "Google Maps",
-      "Google My Business",
-      "Gridsome",
-      "Idaq",
-      "KVH",
-      "Subversion",
-      "UTF-8"
     ]
   }
 ]
