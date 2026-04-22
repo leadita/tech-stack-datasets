@@ -1,5 +1,157 @@
 [
   {
+    "domain": "kornerstone.co.uk",
+    "title": "Kornerstone",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 135,
+    "crawled_at": "2026-04-22T15:52:20.528870856Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "legaspivillage.com",
+    "title": "Welcome to PhilippineProperties.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 7219,
+    "crawled_at": "2026-04-22T12:32:20.00477533Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Neighborhoods",
+      "Prospective",
+      "QUIC",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "tax-return.org",
+    "title": "Build Your Brand",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 135,
+    "crawled_at": "2026-04-22T12:29:19.984689263Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "kcwithpowercosmic.ca",
+    "title": "Power Cosmic | Multidisciplinary Artist & Conceptual Musician",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 10918,
+    "crawled_at": "2026-04-22T07:32:20.002332774Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "ArvanCloud",
+      "BLR",
+      "CloudFront",
+      "Coming Soon Page",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "xtreme-methven.co.nz",
+    "title": "X-M CrossFit",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 17547,
+    "crawled_at": "2026-04-22T01:41:20.002691054Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adult Content",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google My Business",
+      "Instagram Follow Button",
+      "PushPress",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "fellowhumanoid.com",
+    "title": "An EMDN - Fellow Humanoid, AI Robotics Companionship Humanlike Interaction Intelligent Systems Synthetic Life Future Technology Innovation",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 135,
+    "crawled_at": "2026-04-22T00:50:19.993317932Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "1millionshirts.org",
+    "title": "1 Million Shirts",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 55,
+    "tech_spend": 39,
+    "crawled_at": "2026-04-21T17:53:20.00737093Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Alternate Protocol",
+      "AutoComplete",
+      "Dynadot",
+      "Google Cloud DNS",
+      "LiteSpeed",
+      "PHP",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "ijcai-05.org",
     "title": "IJCAI-05",
     "business_name": "",
@@ -135,49 +287,6 @@
     ]
   },
   {
-    "domain": "picturesnetwork.com",
-    "title": "An EMDN - Pictures Network, Image Sharing Photography Platform Visual Content Media Network Photo Collaboration Creative Gallery Digital Assets Online Community",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 135,
-    "crawled_at": "2026-04-20T12:17:19.989697429Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microsoft Clarity",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "nuvali.net",
-    "title": "Welcome to PhilippineProperties.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 7219,
-    "crawled_at": "2026-04-20T06:19:04.238072461Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Neighborhoods",
-      "Prospective",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
     "domain": "lasvegasfireclaim.com",
     "title": "Spartan Claim Resources LLC- A local Las Vegas / Henderson fire and water claim public adjusting firm",
     "business_name": "",
@@ -230,24 +339,6 @@
       "Font Awesome",
       "GZIP Module",
       "Thank You",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "market-watch.org",
-    "title": "Build Your Brand",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 135,
-    "crawled_at": "2026-04-19T10:32:20.003810086Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
       "UTF-8"
     ]
   },
@@ -1484,28 +1575,6 @@
       "Google Font API",
       "Subversion",
       "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "xtreme-methven.co.nz",
-    "title": "X-M CrossFit",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 17547,
-    "crawled_at": "2026-02-11T10:10:43.766810096Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adult Content",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Google My Business",
-      "Instagram Follow Button",
-      "PushPress",
-      "UTF-8"
     ]
   },
   {
@@ -3598,26 +3667,6 @@
     ]
   },
   {
-    "domain": "1millionshirts.org",
-    "title": "1 Million Shirts",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 55,
-    "tech_spend": 39,
-    "crawled_at": "2025-11-22T14:54:19.428918656Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Alternate Protocol",
-      "AutoComplete",
-      "Dynadot",
-      "Google Cloud DNS",
-      "LiteSpeed",
-      "PHP",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "dayalbandhu.vip",
     "title": "Dr. Dayal Bandhu Majumdar - Snakebite Trainer of Kolkata",
     "business_name": "",
@@ -3899,24 +3948,6 @@
       "GZIP Module",
       "UTF-8",
       "Zeffy"
-    ]
-  },
-  {
-    "domain": "kornerstone.co.uk",
-    "title": "Kornerstone",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 135,
-    "crawled_at": "2025-11-15T07:01:13.495201705Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "UTF-8"
     ]
   }
 ]
