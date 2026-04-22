@@ -1,6 +1,6 @@
 # Companies Using Workplace from Meta (Live Dataset 2026)
 
-This folder contains an active list of 274 companies using **Workplace from Meta**. 
+This folder contains an active list of 273 companies using **Workplace from Meta**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 274
+- **Total Leads:** 273
 - **Verified:** Yes
-- **Last Updated:** 2026-04-21 13:45 UTC
+- **Last Updated:** 2026-04-22 13:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **274+** companies using Workplace from Meta.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **273+** companies using Workplace from Meta.
 
 [**⚡ Unlock the Full Workplace from Meta List with Contact Details**](https://leadita.com/leads/companies-using-workplace-from-meta)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-21 13:45 UTC*
+*Last updated: 2026-04-22 13:45 UTC*
 *Data source: Leadita Technographic Intelligence*
