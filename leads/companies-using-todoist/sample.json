@@ -1,5 +1,31 @@
 [
   {
+    "domain": "serralq.dev",
+    "title": "Project Norn",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 67,
+    "tech_spend": 3039,
+    "crawled_at": "2026-04-21T23:11:19.9895615Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "ElementUI",
+      "Express",
+      "Fastly",
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Squid",
+      "Todoist",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "illustration.tools",
     "title": "Directory | Illustration Tools",
     "business_name": "illustration.tools",
