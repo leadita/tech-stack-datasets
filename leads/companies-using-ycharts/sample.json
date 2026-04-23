@@ -1,5 +1,57 @@
 [
   {
+    "domain": "rifftech.llc",
+    "title": "RiffTech LLC — Technology Consulting",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 16890,
+    "crawled_at": "2026-04-23T07:23:19.992520373Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Clever",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "YCharts"
+    ]
+  },
+  {
+    "domain": "swaggycharts.com",
+    "title": "Home - SwaggyCharts | MT5",
+    "business_name": "SwaggyCharts | MT5",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 13921,
+    "crawled_at": "2026-04-23T06:06:22.877219165Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Astra Theme",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Nginx",
+      "PHP",
+      "QUIC",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Related Posts",
+      "YCharts",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "bgkeithley.com",
     "title": "Thoughts on Alaska Oil & Gas | News & Commentary on Alaska Oil, Gas & Fiscal Policy from Brad Keithley",
     "business_name": "",
@@ -891,35 +943,6 @@
       "WordPress Multisite",
       "WordPress Stats",
       "YCharts"
-    ]
-  },
-  {
-    "domain": "swaggycharts.com",
-    "title": "Home - SwaggyCharts | MT5",
-    "business_name": "SwaggyCharts | MT5",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 13921,
-    "crawled_at": "2025-11-15T12:44:24.364075483Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Astra Theme",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "QUIC",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "YCharts",
-      "jQuery"
     ]
   }
 ]
