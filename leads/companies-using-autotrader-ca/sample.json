@@ -1,5 +1,24 @@
 [
   {
+    "domain": "cargrep.com",
+    "title": "CarGrep",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-04-23T09:11:20.012682352Z",
+    "technologies": [
+      "AutoTrader CA",
+      "Content Delivery Network",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "les2hp.com",
     "title": "Club Cycliste Les 2HP",
     "business_name": "",

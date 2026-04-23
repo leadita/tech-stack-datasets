@@ -1,5 +1,26 @@
 [
   {
+    "domain": "premiovin.com",
+    "title": "Premiovin Solutions Nigeria Limited",
+    "business_name": "",
+    "country": "NGA",
+    "seo_score": 65,
+    "tech_spend": 20508,
+    "crawled_at": "2026-04-23T03:47:30.009116472Z",
+    "technologies": [
+      "Apache",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "VinSolutions"
+    ]
+  },
+  {
     "domain": "alvinitsolutions.in",
     "title": "Alvin IT Solutions Software Training Institute | Web Design & Development | java | Python | .Net Programming",
     "business_name": "",
@@ -2379,27 +2400,6 @@
       "VinSolutions",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "premiovin.com",
-    "title": "Premiovin Solutions Nigeria Limited",
-    "business_name": "",
-    "country": "NGA",
-    "seo_score": 70,
-    "tech_spend": 20508,
-    "crawled_at": "2025-11-15T11:44:04.999013274Z",
-    "technologies": [
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "VinSolutions"
     ]
   }
 ]
