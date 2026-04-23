@@ -1,6 +1,6 @@
 # Companies Using NexHealth (Live Dataset 2026)
 
-This folder contains an active list of 704 companies using **NexHealth**. 
+This folder contains an active list of 713 companies using **NexHealth**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 704
+- **Total Leads:** 713
 - **Verified:** Yes
-- **Last Updated:** 2026-04-22 18:30 UTC
+- **Last Updated:** 2026-04-23 18:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **704+** companies using NexHealth.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **713+** companies using NexHealth.
 
 [**⚡ Unlock the Full NexHealth List with Contact Details**](https://leadita.com/leads/companies-using-nexhealth)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-22 18:30 UTC*
+*Last updated: 2026-04-23 18:30 UTC*
 *Data source: Leadita Technographic Intelligence*
