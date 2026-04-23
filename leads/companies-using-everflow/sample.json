@@ -1,5 +1,34 @@
 [
   {
+    "domain": "smartshelfshop.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "SHN",
+    "seo_score": 65,
+    "tech_spend": 40488,
+    "crawled_at": "2026-04-22T15:20:19.992869528Z",
+    "technologies": [
+      "Amazon",
+      "Apture Linking Platform",
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Everflow",
+      "Express",
+      "Fireblade",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "QUIC",
+      "Tailwind CSS",
+      "Tidio",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "dm-event.com",
     "title": "LIVE EVENT | Decentralized Masters",
     "business_name": "",
