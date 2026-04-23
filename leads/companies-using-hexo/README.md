@@ -1,6 +1,6 @@
 # Companies Using Hexo (Live Dataset 2026)
 
-This folder contains an active list of 12,522 companies using **Hexo**. 
+This folder contains an active list of 12,581 companies using **Hexo**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 12,522
+- **Total Leads:** 12,581
 - **Verified:** Yes
-- **Last Updated:** 2026-04-22 12:30 UTC
+- **Last Updated:** 2026-04-23 12:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **12,522+** companies using Hexo.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **12,581+** companies using Hexo.
 
 [**⚡ Unlock the Full Hexo List with Contact Details**](https://leadita.com/leads/companies-using-hexo)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-22 12:30 UTC*
+*Last updated: 2026-04-23 12:30 UTC*
 *Data source: Leadita Technographic Intelligence*

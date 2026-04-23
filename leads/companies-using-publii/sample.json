@@ -1,5 +1,68 @@
 [
   {
+    "domain": "kobyofek.com",
+    "title": "homepage - Koby Ofek",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 377,
+    "crawled_at": "2026-04-23T11:50:20.018366799Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon Widgets",
+      "Content Delivery Network",
+      "DAV",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Publii",
+      "QUIC",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "greengasweekly.eu",
+    "title": "Green Gas Weekly - Regulatory Updates on Biomethane and Hydrogen",
+    "business_name": "Green Gas Weekly - Regulatory Updates on Biomethane and Hydrogen",
+    "country": "DEU",
+    "seo_score": 50,
+    "tech_spend": 7549,
+    "crawled_at": "2026-04-23T00:14:19.978309016Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Fireblade",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "realisat.com",
+    "title": "Realisat | Underground dancemusic from the heart of Europe",
+    "business_name": "realisat",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 1648,
+    "crawled_at": "2026-04-22T18:01:43.106754836Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Band Camp",
+      "Camp",
+      "CoreUI",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "jermainkaminski.com",
     "title": "Jermain C. Kaminski",
     "business_name": "Jermain C. Kaminski",
@@ -3390,28 +3453,6 @@
       "Alternate Protocol",
       "Microdata for Google Shopping",
       "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "kobyofek.com",
-    "title": "homepage - Koby Ofek",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 377,
-    "crawled_at": "2026-02-17T14:41:48.43429892Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon Widgets",
-      "Content Delivery Network",
-      "DAV",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Publii",
-      "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   },
@@ -7744,27 +7785,6 @@
       "University or College",
       "Vector Internet Services",
       "WordPress",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "realisat.com",
-    "title": "Realisat | Underground dancemusic from the heart of Europe",
-    "business_name": "realisat",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 748,
-    "crawled_at": "2025-11-15T07:47:05.02104391Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Band Camp",
-      "Camp",
-      "CoreUI",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Publii",
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube"
     ]
