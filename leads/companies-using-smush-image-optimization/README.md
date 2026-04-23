@@ -1,6 +1,6 @@
 # Companies Using Smush Image Optimization (Live Dataset 2026)
 
-This folder contains an active list of 36,841 companies using **Smush Image Optimization**. 
+This folder contains an active list of 36,904 companies using **Smush Image Optimization**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 36,841
+- **Total Leads:** 36,904
 - **Verified:** Yes
-- **Last Updated:** 2026-04-22 20:30 UTC
+- **Last Updated:** 2026-04-23 20:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **36,841+** companies using Smush Image Optimization.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **36,904+** companies using Smush Image Optimization.
 
 [**⚡ Unlock the Full Smush Image Optimization List with Contact Details**](https://leadita.com/leads/companies-using-smush-image-optimization)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-22 20:30 UTC*
+*Last updated: 2026-04-23 20:30 UTC*
 *Data source: Leadita Technographic Intelligence*
