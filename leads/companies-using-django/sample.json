@@ -1,5 +1,242 @@
 [
   {
+    "domain": "dentalinfo.ru",
+    "title": "Стоматология на Таганке - стоматологическая клиника в Москве: лечение зубов и имплантация, отбеливание и протезирование зубов. Метро Таганская, Марксистская",
+    "business_name": "",
+    "country": "MCO",
+    "seo_score": 72,
+    "tech_spend": 15440,
+    "crawled_at": "2026-04-23T10:02:19.993299071Z",
+    "technologies": [
+      "ADFOX",
+      "Apache",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "Django",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Maps",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Kylos",
+      "Tailwind CSS",
+      "Telegram",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "Yandex Hosting",
+      "Yandex Metrika",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "bluelakesearch.com",
+    "title": "Blue Lake Search | Home | Grand Rapids IT Staffing Services",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 708,
+    "crawled_at": "2026-04-23T08:05:58.789111001Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Perl",
+      "QUIC",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "talentcookbook.io",
+    "title": "talent cookbook - Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 711,
+    "crawled_at": "2026-04-22T23:47:19.988737513Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Perl",
+      "Twitter Ads",
+      "University or College",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "novaspinplus.com",
+    "title": "NovaSpinPlus: Your Ultimate Guide to Online Casino Reviews",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 22756,
+    "crawled_at": "2026-04-22T21:32:20.005749126Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Angular",
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Django",
+      "Gambling Content",
+      "IcoMoon",
+      "Krypt Technologies",
+      "Matomo",
+      "Matomo Tag Manager",
+      "Ntent",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "ardmoreglass.com",
+    "title": "Ardmore Glass Company - Residential & Commercial Glass Services",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 708,
+    "crawled_at": "2026-04-22T21:27:03.113241882Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "QUIC"
+    ]
+  },
+  {
+    "domain": "pjgrandview.com",
+    "title": "P.J. Grandview | Financial Advisor Ladysmith, BC",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 17268,
+    "crawled_at": "2026-04-22T21:11:20.021188584Z",
+    "technologies": [
+      "B12",
+      "Corporate Governance and Regulatory Compliance",
+      "DAV",
+      "Django",
+      "Fireblade",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "Perl",
+      "QUIC",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "claimsroom.org",
+    "title": "Construction Management - ClaimsRoom - Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 1108,
+    "crawled_at": "2026-04-22T17:32:20.027384938Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "QUIC"
+    ]
+  },
+  {
+    "domain": "pretautofacile.ca",
+    "title": "Car Loan Brokers Ottawa & Gatineau - Easy Car Loan",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 17308,
+    "crawled_at": "2026-04-22T17:02:19.996884023Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Perl",
+      "Twitter Ads",
+      "University or College",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "amyandnitesh.com",
+    "title": "Amy & Nitesh - Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 2268,
+    "crawled_at": "2026-04-22T13:14:19.994541296Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Perl",
+      "QUIC",
+      "University or College",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "catapultsgi.com",
+    "title": "Catapult Solutions Group Inc - Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 16127,
+    "crawled_at": "2026-04-22T12:25:38.929366099Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "B12",
+      "Cornerstone",
+      "DAV",
+      "Django",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "QUIC",
+      "University or College"
+    ]
+  },
+  {
     "domain": "trecventures.com",
     "title": "TREC Ventures | Intentional Investing in CA Communities",
     "business_name": "",
@@ -271,35 +508,6 @@
     ]
   },
   {
-    "domain": "hypergamblepoint.com",
-    "title": "HyperGamblePoint: Expert Casino Reviews & Betting Strategy Guides",
-    "business_name": "",
-    "country": "VEN",
-    "seo_score": 77,
-    "tech_spend": 17948,
-    "crawled_at": "2026-04-22T03:32:20.005159634Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Django",
-      "Gambling Content",
-      "IcoMoon",
-      "Line2",
-      "Matomo",
-      "Matomo Tag Manager",
-      "QUIC",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "eLand",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "azurearts.org",
     "title": "Artists Grants for Supplies and Studios | Azure Arts Foundation",
     "business_name": "",
@@ -370,31 +578,6 @@
       "Line2",
       "Perl",
       "QUIC",
-      "Twitter Ads",
-      "University or College",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "ez-carloan.ca",
-    "title": "Car Loan Brokers Ottawa & Gatineau - Easy Car Loan",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 17308,
-    "crawled_at": "2026-04-21T22:14:19.978071201Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Perl",
       "Twitter Ads",
       "University or College",
       "reCAPTCHA"
@@ -1314,28 +1497,6 @@
     ]
   },
   {
-    "domain": "catapultsgi.info",
-    "title": "Catapult Solutions Group Inc - Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 16127,
-    "crawled_at": "2026-04-18T15:53:20.024369274Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "B12",
-      "Cornerstone",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "QUIC",
-      "University or College"
-    ]
-  },
-  {
     "domain": "calculatrice-immobiliere.ca",
     "title": "Calculatrice Immobilière | La 'Calculatrice Immobilière' qui débloque votre potentiel!Calculatrice Immobilière: Votre outil essentiel pour l'investissement immobilier",
     "business_name": "",
@@ -1693,29 +1854,6 @@
       "UTF-8",
       "Unsplash",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "talentcookbook.io",
-    "title": "talent cookbook - Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 711,
-    "crawled_at": "2026-04-17T10:53:23.248871311Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Perl",
-      "Twitter Ads",
-      "University or College",
-      "reCAPTCHA"
     ]
   },
   {
@@ -4777,27 +4915,6 @@
     ]
   },
   {
-    "domain": "claimsroom.org",
-    "title": "Construction Management - ClaimsRoom - Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 1108,
-    "crawled_at": "2026-02-10T00:59:34.502149312Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "QUIC"
-    ]
-  },
-  {
     "domain": "cmlgroup.com",
     "title": "CMLGroup",
     "business_name": "",
@@ -5913,29 +6030,6 @@
     ]
   },
   {
-    "domain": "pjgrandview.com",
-    "title": "P.J. Grandview | Financial Advisor Ladysmith, BC",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 17268,
-    "crawled_at": "2026-01-28T09:59:28.409319332Z",
-    "technologies": [
-      "B12",
-      "Corporate Governance and Regulatory Compliance",
-      "DAV",
-      "Django",
-      "Fireblade",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
-    ]
-  },
-  {
     "domain": "juleneshairpetals.com",
     "title": "Julene's Hair Petals | Queens, NY Hair Store",
     "business_name": "",
@@ -6323,27 +6417,6 @@
       "Python",
       "QUIC",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "amyandnitesh.com",
-    "title": "Amy & Nitesh - Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 2268,
-    "crawled_at": "2026-01-24T08:42:07.632183742Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "University or College",
-      "reCAPTCHA"
     ]
   },
   {
@@ -7556,28 +7629,6 @@
       "UTF-8",
       "Ubuntu",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "foundationsystemssupply.com",
-    "title": "Foundation Systems Supply LLC - Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 17460,
-    "crawled_at": "2025-12-18T14:27:36.413949031Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Line2",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
     ]
   },
   {
@@ -9248,45 +9299,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "bluelakesearch.com",
-    "title": "Blue Lake Search | Home | Grand Rapids IT Staffing Services",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 708,
-    "crawled_at": "2025-11-15T13:32:05.01281522Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "ardmoreglass.com",
-    "title": "Ardmore Glass Company - Residential & Commercial Glass Services",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 708,
-    "crawled_at": "2025-11-15T09:08:04.990396988Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "QUIC"
     ]
   }
 ]
