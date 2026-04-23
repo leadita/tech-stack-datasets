@@ -1,5 +1,26 @@
 [
   {
+    "domain": "kriegerproducts.com",
+    "title": "Krieger Specialty Products: Custom Doors & Windows Manufacturer | Wood, Metal, Steel Door Manufacturer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 4908,
+    "crawled_at": "2026-04-23T03:47:30.009316853Z",
+    "technologies": [
+      "Apache",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "OneTrust Domain Verification",
+      "PHP",
+      "Sajari",
+      "Tachyons",
+      "UTF-8",
+      "Vimeo"
+    ]
+  },
+  {
     "domain": "neatsoft.dev",
     "title": "NeatSoft - Web App Development | Singapore-Based Agency",
     "business_name": "",
@@ -577,27 +598,6 @@
       "UTF-8",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "kriegerproducts.com",
-    "title": "Krieger Specialty Products: Custom Doors & Windows Manufacturer | Wood, Metal, Steel Door Manufacturer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 3708,
-    "crawled_at": "2025-11-15T11:44:05.001043803Z",
-    "technologies": [
-      "Apache",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "PHP",
-      "QUIC",
-      "Sajari",
-      "Tachyons",
-      "UTF-8",
-      "Vimeo"
     ]
   }
 ]
