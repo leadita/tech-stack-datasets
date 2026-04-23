@@ -1,6 +1,6 @@
 # Companies Using Freshteam (Live Dataset 2026)
 
-This folder contains an active list of 97 companies using **Freshteam**. 
+This folder contains an active list of 99 companies using **Freshteam**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 97
+- **Total Leads:** 99
 - **Verified:** Yes
-- **Last Updated:** 2026-04-22 18:45 UTC
+- **Last Updated:** 2026-04-23 18:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **97+** companies using Freshteam.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **99+** companies using Freshteam.
 
 [**⚡ Unlock the Full Freshteam List with Contact Details**](https://leadita.com/leads/companies-using-freshteam)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-22 18:45 UTC*
+*Last updated: 2026-04-23 18:45 UTC*
 *Data source: Leadita Technographic Intelligence*
