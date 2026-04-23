@@ -1,5 +1,40 @@
 [
   {
+    "domain": "priverv.eu",
+    "title": "Vi skaber målbar værdi ⁃ Priverv",
+    "business_name": "",
+    "country": "DNK",
+    "seo_score": 67,
+    "tech_spend": 360,
+    "crawled_at": "2026-04-22T22:35:20.033181933Z",
+    "technologies": [
+      "Apache",
+      "Better Stack",
+      "LinkedIn Insights",
+      "LinkedIn Pixel"
+    ]
+  },
+  {
+    "domain": "rills.ai",
+    "title": "Rills | Supervised AI Workflow Automation",
+    "business_name": "Rills",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 600,
+    "crawled_at": "2026-04-22T20:29:19.989050437Z",
+    "technologies": [
+      "Better Stack",
+      "Content Delivery Network",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Python",
+      "Radix UI",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "diffio.com.ar",
     "title": "Diffio - Agencia Desarrollo de software",
     "business_name": "",
@@ -1745,23 +1780,6 @@
       "YouTube",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "priverv.dk",
-    "title": "Vi skaber målbar værdi ⁃ Priverv",
-    "business_name": "",
-    "country": "DNK",
-    "seo_score": 67,
-    "tech_spend": 360,
-    "crawled_at": "2026-03-08T17:55:15.929725805Z",
-    "technologies": [
-      "Apache",
-      "Better Stack",
-      "GZIP Module",
-      "LinkedIn Insights",
-      "LinkedIn Pixel",
-      "Nginx"
     ]
   },
   {
