@@ -1,5 +1,25 @@
 [
   {
+    "domain": "angelhost.co",
+    "title": "v0 App",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 15000,
+    "crawled_at": "2026-04-23T06:43:17.001514461Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Gainsight",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "ShopBack",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "joingainsightapp.com",
     "title": "Customer Success and Product Experience Software | Gainsight",
     "business_name": "Gainsight",
@@ -1044,26 +1064,6 @@
       "YouTube",
       "Zendesk Embeddables",
       "eLand"
-    ]
-  },
-  {
-    "domain": "angelhost.co",
-    "title": "v0 App",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 15000,
-    "crawled_at": "2025-11-15T12:59:05.039677107Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gainsight",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "ShopBack",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
