@@ -1,5 +1,23 @@
 [
   {
+    "domain": "racomai.com",
+    "title": "racomai.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 135,
+    "crawled_at": "2026-04-23T06:02:19.998713208Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "kornerstone.co.uk",
     "title": "Kornerstone",
     "business_name": "",
