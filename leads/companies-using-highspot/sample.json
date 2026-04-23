@@ -1,5 +1,27 @@
 [
   {
+    "domain": "tayscw.com",
+    "title": "TCW Custom Apparel | We Specialize in Special Orders",
+    "business_name": "TCW Custom Apparel",
+    "country": "",
+    "seo_score": 82,
+    "tech_spend": 20052,
+    "crawled_at": "2026-04-23T10:06:56.711670752Z",
+    "technologies": [
+      "Apache",
+      "Ecwid Ecommerce Shopping Cart",
+      "Etsy",
+      "Express",
+      "Highspot",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "University or College",
+      "Wufoo",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "heritageacademybenefits.com",
     "title": "Open Enrollment Resource Center",
     "business_name": "",
@@ -1697,28 +1719,6 @@
       "University or College",
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "tayscw.com",
-    "title": "TCW Custom Apparel | We Specialize in Special Orders",
-    "business_name": "TCW Custom Apparel",
-    "country": "",
-    "seo_score": 82,
-    "tech_spend": 20052,
-    "crawled_at": "2025-11-15T14:31:18.146559491Z",
-    "technologies": [
-      "Apache",
-      "Ecwid Ecommerce Shopping Cart",
-      "Etsy",
-      "Express",
-      "Highspot",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "University or College",
-      "Wufoo",
-      "jQuery"
     ]
   }
 ]
