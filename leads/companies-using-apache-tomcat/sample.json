@@ -1,5 +1,86 @@
 [
   {
+    "domain": "figge.dk",
+    "title": "Figgé Consulting",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 50219,
+    "crawled_at": "2026-04-23T05:11:05.619493068Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Adobe CQ",
+      "Apache",
+      "Apache Tomcat JK",
+      "FreeCSSTemplates",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "IcoMoon",
+      "Java EE",
+      "Oracle Cloud",
+      "Perl",
+      "QUIC",
+      "Subversion",
+      "University or College",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "atharvbadole.site",
+    "title": "Atharv Badole - Personal Portfolio",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 65,
+    "tech_spend": 20035,
+    "crawled_at": "2026-04-23T05:05:20.017619616Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Apache Tomcat JK",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "Font Awesome",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Java Servlet",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Web3Forms",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "protectnest.com",
+    "title": "Welcome to protectnest.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 12559,
+    "crawled_at": "2026-04-23T00:14:20.002567529Z",
+    "technologies": [
+      "ActiveProspect",
+      "Apache",
+      "Apache Tomcat JK",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "ISO/IEC 8859",
+      "IcoMoon",
+      "RM Education",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "brayanbernabe.com",
     "title": "Brayan Bernabe",
     "business_name": "",
@@ -9325,29 +9406,6 @@
     ]
   },
   {
-    "domain": "protectnest.com",
-    "title": "Welcome to protectnest.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 12559,
-    "crawled_at": "2025-12-25T22:49:38.33544861Z",
-    "technologies": [
-      "ActiveProspect",
-      "Apache",
-      "Apache Tomcat JK",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "ISO/IEC 8859",
-      "IcoMoon",
-      "RM Education",
-      "Tailwind CSS"
-    ]
-  },
-  {
     "domain": "angel-jobs.fr",
     "title": "Search Jobs in France, Recruitment France",
     "business_name": "",
@@ -9624,37 +9682,6 @@
       "Tailwind CSS",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "atharvbadole.site",
-    "title": "Atharv Badole - Personal Portfolio",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 20035,
-    "crawled_at": "2025-12-21T03:49:32.759839369Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Apache Tomcat JK",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Java Servlet",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Web3Forms",
-      "jsDelivr"
     ]
   },
   {
@@ -13514,33 +13541,6 @@
       "UTF-8",
       "Unix",
       "WP Featherlight",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "figge.dk",
-    "title": "Figgé Consulting",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 50219,
-    "crawled_at": "2025-11-15T12:23:04.991191477Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Adobe CQ",
-      "Apache",
-      "Apache Tomcat JK",
-      "FreeCSSTemplates",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "IcoMoon",
-      "Java EE",
-      "Oracle Cloud",
-      "Perl",
-      "QUIC",
-      "Subversion",
-      "University or College",
       "jQuery"
     ]
   }
