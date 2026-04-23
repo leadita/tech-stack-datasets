@@ -1,5 +1,33 @@
 [
   {
+    "domain": "merkeltexas.com",
+    "title": "Merkel Texas – The Windmill City",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 11875,
+    "crawled_at": "2026-04-23T14:59:39.50329186Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "EmbedPress",
+      "Foxit",
+      "Google",
+      "Google Cloud CDN",
+      "Max Mega Menu",
+      "Max Mega Menu Pro",
+      "NFOrce Internet",
+      "PHP",
+      "RM Education",
+      "The Events Calendar",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "crematoriu-uman.ro",
     "title": "Phoenix Cremation Services",
     "business_name": "",
@@ -724,37 +752,6 @@
       "eLand",
       "iDevAffiliate",
       "nopCommerce"
-    ]
-  },
-  {
-    "domain": "merkeltx.gov",
-    "title": "Merkel Texas – The Windmill City",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 11875,
-    "crawled_at": "2025-11-18T17:54:19.450551182Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Apture Linking Platform",
-      "EmbedPress",
-      "Foxit",
-      "Google",
-      "Google Cloud CDN",
-      "Google Forms",
-      "Google My Business",
-      "Max Mega Menu",
-      "Max Mega Menu Pro",
-      "NFOrce Internet",
-      "PHP",
-      "RM Education",
-      "The Events Calendar",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]

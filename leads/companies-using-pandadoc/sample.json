@@ -1,5 +1,31 @@
 [
   {
+    "domain": "doyouevenlaw.com",
+    "title": "AI Agents for Law Firms That Actually Work | LFA",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 11848,
+    "crawled_at": "2026-04-23T01:17:20.013423063Z",
+    "technologies": [
+      "Airtable",
+      "Asana",
+      "Calendly",
+      "ClickUp",
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Workspace",
+      "Microsoft 365",
+      "Netlify",
+      "PandaDoc",
+      "UTF-8",
+      "Vine Embed",
+      "monday.com"
+    ]
+  },
+  {
     "domain": "salesguild.co",
     "title": "SalesGuild: Revenue Engineering for B2B Organizations",
     "business_name": "",
@@ -332,37 +358,6 @@
       "YouTube",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "lawfirmarchitect.com",
-    "title": "We Design Law Firms That Don't Run on Burnout® | Law Firm Architects",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 28048,
-    "crawled_at": "2026-04-11T18:47:19.977645855Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Airtable",
-      "Asana",
-      "Calendly",
-      "ClickUp",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Google Workspace",
-      "Netlify",
-      "Next.js",
-      "OpenAI",
-      "PandaDoc",
-      "Slack",
-      "UTF-8",
-      "Vine Embed",
-      "monday.com"
     ]
   },
   {
