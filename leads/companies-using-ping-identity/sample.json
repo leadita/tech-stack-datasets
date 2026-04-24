@@ -1,5 +1,31 @@
 [
   {
+    "domain": "ryandeschaine.com",
+    "title": "Ryan Deschaine - Senior AI Architect & Software Developer",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 225728,
+    "crawled_at": "2026-04-24T02:59:19.992390991Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Citrix",
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "InitiativeS",
+      "NFOrce Internet",
+      "Netlify",
+      "Next.js",
+      "Ping Identity",
+      "Python",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services"
+    ]
+  },
+  {
     "domain": "15000firsttimehomebuyeract.org",
     "title": "Homebuyer.com - Happy Homebuying | Homebuyer.com",
     "business_name": "",
