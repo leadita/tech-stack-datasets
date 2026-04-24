@@ -1,5 +1,38 @@
 [
   {
+    "domain": "lifccoan.org",
+    "title": "LIVING FOR CHRIST CHURCH OF ALL NATIONS – 2 Corinthians 5:15",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 162,
+    "crawled_at": "2026-04-24T01:38:19.998465203Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Bunny Fonts",
+      "Contact Form Plugin",
+      "Content Delivery Network",
+      "Discourse",
+      "Elementor",
+      "EmbedPress",
+      "Font Awesome",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "PHP",
+      "QUIC",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "kimayaashram.com",
     "title": "Kimaya - Beyond Enlightenment",
     "business_name": "",
@@ -87,39 +120,6 @@
       "WordPress Related Posts",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "lifccoan.org",
-    "title": "LIVING FOR CHRIST CHURCH OF ALL NATIONS – 2 Corinthians 5:15",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 162,
-    "crawled_at": "2026-03-04T05:43:48.394624995Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Bunny Fonts",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "Discourse",
-      "Elementor",
-      "EmbedPress",
-      "Font Awesome",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
     ]
   },
   {
