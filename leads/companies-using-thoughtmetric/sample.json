@@ -1,5 +1,40 @@
 [
   {
+    "domain": "ebsadventure.com",
+    "title": "Saskatoon's paddling and cross country ski shop since 1973 — ebsadventure",
+    "business_name": "",
+    "country": "IRQ",
+    "seo_score": 82,
+    "tech_spend": 23361,
+    "crawled_at": "2026-04-23T20:17:07.25317243Z",
+    "technologies": [
+      "Angular",
+      "Apture Linking Platform",
+      "BookThatApp",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "Fastly",
+      "Fireblade",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "Newsletter for Wordpress",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "ThoughtMetric",
+      "UTF-8",
+      "YouTube",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "vanbase.ca",
     "title": "Vanbase - Exclusive Canucks apparel, trending teams, and concert gear",
     "business_name": "Vanbase",
@@ -2779,38 +2814,6 @@
       "Zendesk Guide",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "ebsadventure.com",
-    "title": "Saskatoon's paddling and cross country ski shop since 1973 — ebsadventure",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 82,
-    "tech_spend": 25761,
-    "crawled_at": "2025-11-15T19:02:04.997900791Z",
-    "technologies": [
-      "Amazon",
-      "Angular",
-      "Apture Linking Platform",
-      "BookThatApp",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fastly",
-      "Fireblade",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "Newsletter for Wordpress",
-      "Shopify",
-      "Shopify Collabs",
-      "ThoughtMetric",
-      "UTF-8",
-      "YouTube",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   }
 ]
