@@ -1,6 +1,6 @@
 # Companies Using Practice Fusion (Live Dataset 2026)
 
-This folder contains an active list of 53 companies using **Practice Fusion**. 
+This folder contains an active list of 54 companies using **Practice Fusion**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 53
+- **Total Leads:** 54
 - **Verified:** Yes
-- **Last Updated:** 2026-04-23 18:30 UTC
+- **Last Updated:** 2026-04-24 18:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **53+** companies using Practice Fusion.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **54+** companies using Practice Fusion.
 
 [**⚡ Unlock the Full Practice Fusion List with Contact Details**](https://leadita.com/leads/companies-using-practice-fusion)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-23 18:30 UTC*
+*Last updated: 2026-04-24 18:30 UTC*
 *Data source: Leadita Technographic Intelligence*

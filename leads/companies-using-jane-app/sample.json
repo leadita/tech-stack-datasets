@@ -1,5 +1,28 @@
 [
   {
+    "domain": "qbtherapy.ca",
+    "title": "Quiet Bloom Therapy | Psychotherapy & Counselling in Ontario",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 12431,
+    "crawled_at": "2026-04-24T15:41:19.99667616Z",
+    "technologies": [
+      "1Password",
+      "Alternate Protocol",
+      "Framer Sites",
+      "GenerateBlocks",
+      "Google",
+      "Google Cloud CDN",
+      "Hexo",
+      "Jane App",
+      "Ntent",
+      "QUIC",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
     "domain": "rgrmt.ca",
     "title": "Book Online | RG RMT",
     "business_name": "",
