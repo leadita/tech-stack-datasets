@@ -1,5 +1,29 @@
 [
   {
+    "domain": "online-post.ca",
+    "title": "Send letter online with Online-Post.ca",
+    "business_name": "Online-Post",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 600,
+    "crawled_at": "2026-04-24T01:11:20.015407079Z",
+    "technologies": [
+      "Better Stack",
+      "Content Delivery Network",
+      "DAV",
+      "Express",
+      "Headless UI",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Radix UI",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "priverv.eu",
     "title": "Vi skaber målbar værdi ⁃ Priverv",
     "business_name": "",

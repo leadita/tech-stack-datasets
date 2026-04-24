@@ -1,23 +1,38 @@
 [
   {
-    "domain": "gsx.ro",
+    "domain": "ecofye.cloud",
     "title": "Grafana",
     "business_name": "",
     "country": "",
-    "seo_score": 45,
-    "tech_spend": 1800,
-    "crawled_at": "2026-04-21T14:32:19.997021078Z",
+    "seo_score": 40,
+    "tech_spend": 1203,
+    "crawled_at": "2026-04-24T16:14:50.746605737Z",
     "technologies": [
-      "Apache",
       "Barchart",
-      "Camp",
       "Cloudflare",
       "Cloudflare CDN",
-      "Cloudflare Web Analytics",
       "Express",
       "GitHub Hosting",
+      "Google Cloud DNS",
       "Grafana",
       "UTF-8"
+    ]
+  },
+  {
+    "domain": "metrics.m2b.io",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": "",
+    "crawled_at": "2026-04-24T00:35:19.990478045Z",
+    "technologies": [
+      "GZIP Module",
+      "GitHub Hosting",
+      "Grafana",
+      "Nginx",
+      "UTF-8",
+      "Ubuntu"
     ]
   },
   {
