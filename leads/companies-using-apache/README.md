@@ -1,6 +1,6 @@
 # Companies Using Apache (Live Dataset 2026)
 
-This folder contains an active list of 1,345,859 companies using **Apache**. 
+This folder contains an active list of 1,348,812 companies using **Apache**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 1,345,859
+- **Total Leads:** 1,348,812
 - **Verified:** Yes
-- **Last Updated:** 2026-04-23 23:30 UTC
+- **Last Updated:** 2026-04-24 23:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,345,859+** companies using Apache.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,348,812+** companies using Apache.
 
 [**⚡ Unlock the Full Apache List with Contact Details**](https://leadita.com/leads/companies-using-apache)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-23 23:30 UTC*
+*Last updated: 2026-04-24 23:30 UTC*
 *Data source: Leadita Technographic Intelligence*

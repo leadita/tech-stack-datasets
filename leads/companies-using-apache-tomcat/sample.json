@@ -1,5 +1,158 @@
 [
   {
+    "domain": "icisinvest.com",
+    "title": "India Cements Investment Services Ltd Trading Demat Account Opening Home",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 468,
+    "crawled_at": "2026-04-24T22:35:20.017985131Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Apple Auto Link Maker",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "ISO/IEC 8859",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "JavaServer Faces",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "sahiya.me",
+    "title": "Sahidemon - Portfolio",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 15240,
+    "crawled_at": "2026-04-24T16:29:20.0000999Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "Google My Business",
+      "Next.js",
+      "OLO",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "codecrumbs404.us.kg",
+    "title": "Codecrumbs404",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-04-24T14:07:40.587753731Z",
+    "technologies": [
+      "Amazon Widgets",
+      "Apache",
+      "Apache Tomcat JK",
+      "Apture Linking Platform",
+      "Canva Websites",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Notion",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "npskj.com",
+    "title": "NPSKJ Pvt. Ltd. Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 7563,
+    "crawled_at": "2026-04-24T11:59:19.993929426Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fireblade",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "moham.dev",
+    "title": "Curiosity into `Code`",
+    "business_name": "",
+    "country": "PHL",
+    "seo_score": 77,
+    "tech_spend": 4840,
+    "crawled_at": "2026-04-24T06:41:20.004683488Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Apache Tomcat JK",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Nginx",
+      "Perl",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "mg9vendas.com.br",
+    "title": "Apache Tomcat/7.0.22",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 50,
+    "tech_spend": "",
+    "crawled_at": "2026-04-24T03:23:20.001401652Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "ISO/IEC 8859",
+      "Nginx",
+      "QUIC",
+      "Subversion"
+    ]
+  },
+  {
     "domain": "figge.dk",
     "title": "Figgé Consulting",
     "business_name": "",
@@ -1297,25 +1450,6 @@
       "Twitter Ads",
       "UTF-8",
       "University or College"
-    ]
-  },
-  {
-    "domain": "evalua.com.co",
-    "title": "Apache Tomcat/8.5.34",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": "",
-    "crawled_at": "2026-04-14T12:29:20.030319959Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "DAV",
-      "Express",
-      "GZIP Module",
-      "ISO/IEC 8859",
-      "Nginx",
-      "Ubuntu"
     ]
   },
   {
@@ -3786,22 +3920,6 @@
     ]
   },
   {
-    "domain": "jnluyalu.com",
-    "title": "Apache Tomcat/7.0.47",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 45,
-    "tech_spend": "",
-    "crawled_at": "2026-04-04T11:35:51.347669692Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "ISO/IEC 8859",
-      "QUIC",
-      "Subversion"
-    ]
-  },
-  {
     "domain": "websparrow.org",
     "title": "Websparrow - Collection of Java, Spring Boot and Web Development tutorials",
     "business_name": "Websparrow",
@@ -4229,33 +4347,6 @@
       "UTF-8",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "npskj.com",
-    "title": "NPSKJ Pvt. Ltd. Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 7563,
-    "crawled_at": "2026-03-28T15:41:51.353984907Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "YouTube"
     ]
   },
   {
@@ -8098,31 +8189,6 @@
     ]
   },
   {
-    "domain": "sahiya.me",
-    "title": "Sahidemon - Portfolio",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 15240,
-    "crawled_at": "2026-01-21T03:46:43.437256003Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Google My Business",
-      "Next.js",
-      "OLO",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "robindalle.com",
     "title": "HOME | Robindalle",
     "business_name": "",
@@ -9653,35 +9719,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "codecrumbs404.tech",
-    "title": "Codecrumbs404",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 120,
-    "crawled_at": "2025-12-21T20:53:55.085146963Z",
-    "technologies": [
-      "Amazon Widgets",
-      "Apache",
-      "Apache Tomcat JK",
-      "Apture Linking Platform",
-      "Canva Websites",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Notion",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
@@ -13423,30 +13460,6 @@
       "University or College",
       "Visual Studio",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "moham.dev",
-    "title": "Curiosity into `Code`",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 70,
-    "tech_spend": 4840,
-    "crawled_at": "2025-11-17T05:29:05.011956824Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "Perl",
-      "QUIC",
-      "UTF-8"
     ]
   },
   {
