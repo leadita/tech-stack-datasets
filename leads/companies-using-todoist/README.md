@@ -1,6 +1,6 @@
 # Companies Using Todoist (Live Dataset 2026)
 
-This folder contains an active list of 51 companies using **Todoist**. 
+This folder contains an active list of 52 companies using **Todoist**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 51
+- **Total Leads:** 52
 - **Verified:** Yes
-- **Last Updated:** 2026-04-23 21:00 UTC
+- **Last Updated:** 2026-04-24 21:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **51+** companies using Todoist.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **52+** companies using Todoist.
 
 [**⚡ Unlock the Full Todoist List with Contact Details**](https://leadita.com/leads/companies-using-todoist)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-23 21:00 UTC*
+*Last updated: 2026-04-24 21:00 UTC*
 *Data source: Leadita Technographic Intelligence*
