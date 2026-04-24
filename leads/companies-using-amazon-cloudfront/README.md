@@ -1,6 +1,6 @@
 # Companies Using Amazon CloudFront (Live Dataset 2026)
 
-This folder contains an active list of 469,428 companies using **Amazon CloudFront**. 
+This folder contains an active list of 471,195 companies using **Amazon CloudFront**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 469,428
+- **Total Leads:** 471,195
 - **Verified:** Yes
-- **Last Updated:** 2026-04-23 14:15 UTC
+- **Last Updated:** 2026-04-24 14:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **469,428+** companies using Amazon CloudFront.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **471,195+** companies using Amazon CloudFront.
 
 [**⚡ Unlock the Full Amazon CloudFront List with Contact Details**](https://leadita.com/leads/companies-using-amazon-cloudfront)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-23 14:15 UTC*
+*Last updated: 2026-04-24 14:15 UTC*
 *Data source: Leadita Technographic Intelligence*
