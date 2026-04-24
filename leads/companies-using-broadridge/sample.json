@@ -1,12 +1,12 @@
 [
   {
-    "domain": "fitchinkservices.com",
+    "domain": "fitchinkchat.com",
     "title": "Thought Leadership - Editorial Consulting | Fitch Ink",
     "business_name": "",
     "country": "USA",
     "seo_score": 77,
     "tech_spend": 609113,
-    "crawled_at": "2026-04-23T08:50:20.018882515Z",
+    "crawled_at": "2026-04-24T09:32:19.984973437Z",
     "technologies": [
       "AJAX Libraries API",
       "AWS WAF Challenge",
@@ -36,6 +36,48 @@
       "WordPress SEO Structured Data Schema Plugin",
       "eLand",
       "jQuery"
+    ]
+  },
+  {
+    "domain": "catalyst.pr",
+    "title": "Catalyst | financial technology public relations",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 756972,
+    "crawled_at": "2026-04-24T02:47:19.97746305Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Broadridge",
+      "Calendly",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "DAV",
+      "Express",
+      "Fastly",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "Microdata for Google Shopping",
+      "Microsoft 365",
+      "NFOrce Internet",
+      "PWA",
+      "Perl",
+      "QUIC",
+      "SMC",
+      "Sentry",
+      "SiteW",
+      "Sitelinks Search Box",
+      "Thomson Reuters Corporate Solutions",
+      "UTF-8",
+      "Vector Internet Services",
+      "WP Booking Calendar",
+      "Wix",
+      "Wix Media",
+      "mlcom"
     ]
   },
   {
