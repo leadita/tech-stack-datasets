@@ -1,6 +1,6 @@
 # Companies Using Treasure Data (Live Dataset 2026)
 
-This folder contains an active list of 62 companies using **Treasure Data**. 
+This folder contains an active list of 63 companies using **Treasure Data**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 62
+- **Total Leads:** 63
 - **Verified:** Yes
-- **Last Updated:** 2026-04-23 15:15 UTC
+- **Last Updated:** 2026-04-24 15:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **62+** companies using Treasure Data.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **63+** companies using Treasure Data.
 
 [**⚡ Unlock the Full Treasure Data List with Contact Details**](https://leadita.com/leads/companies-using-treasure-data)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-23 15:15 UTC*
+*Last updated: 2026-04-24 15:15 UTC*
 *Data source: Leadita Technographic Intelligence*
