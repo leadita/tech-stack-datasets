@@ -1,15 +1,14 @@
 [
   {
-    "domain": "cherokeecasinomonkey.com",
+    "domain": "cherokeegambling.com",
     "title": "VP. Meybohm Real Estate / Owner GrantSuttonRealEstate LLC.",
     "business_name": "",
     "country": "USA",
     "seo_score": 67,
-    "tech_spend": 7829,
-    "crawled_at": "2026-04-23T21:20:20.021558172Z",
+    "tech_spend": 5429,
+    "crawled_at": "2026-04-24T16:17:19.99976864Z",
     "technologies": [
       "Adobe Creative Cloud WebFonts",
-      "Amazon",
       "Aruba",
       "Express",
       "Facebook Conversion Tracking",
@@ -37,6 +36,43 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "eLand"
+    ]
+  },
+  {
+    "domain": "robsonranchhomesales.com",
+    "title": "Rightsize Realty Associates, LLC",
+    "business_name": "Rightsize Realty Associates, LLC",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 19433,
+    "crawled_at": "2026-04-24T05:59:20.030713731Z",
+    "technologies": [
+      "Amazon S3 CDN",
+      "CoreUI",
+      "Fastly CDN",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Homes.com CMS",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "Neighborhoods",
+      "New Relic",
+      "PropertyBase",
+      "QUIC",
+      "Storyblocks",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery Pin It Button for Images",
+      "reCAPTCHA",
+      "shadcn ui"
     ]
   },
   {
