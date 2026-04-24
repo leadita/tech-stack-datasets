@@ -1,5 +1,70 @@
 [
   {
+    "domain": "jmmdp.com",
+    "title": "JM Martin - Directeur Photo - JM Martin - Directeur Photo",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 50,
+    "tech_spend": "",
+    "crawled_at": "2026-04-24T22:41:20.016401259Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "servicetoproduct.com",
+    "title": "Transforming Companies Into Digital Leaders - Fabrit Global",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 138230,
+    "crawled_at": "2026-04-24T18:26:19.999616885Z",
+    "technologies": [
+      "Apache",
+      "Clutch",
+      "DAV",
+      "Federal Deposit Insurance Corporation",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Gridsome",
+      "HMDG",
+      "HubSpot Conversations",
+      "Hubspot",
+      "K2F",
+      "KVH",
+      "Medium",
+      "Nationwide Mortgage Licensing System and Registry",
+      "No-Q",
+      "SMC",
+      "Silicon Valley Web Hosting",
+      "Subversion",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "tyrnimedia.com",
+    "title": "Juha Tyrni - Tyrnimedia Oy - Digital Business Consultancy - Gridsome",
+    "business_name": "",
+    "country": "FIN",
+    "seo_score": 35,
+    "tech_spend": "",
+    "crawled_at": "2026-04-24T04:35:20.007568087Z",
+    "technologies": [
+      "GitHub Hosting",
+      "Gridsome",
+      "LiteSpeed"
+    ]
+  },
+  {
     "domain": "smart-rights.co.il",
     "title": "Smart Rights - Smart Rights",
     "business_name": "",
@@ -420,39 +485,6 @@
       "Twitter Ads",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "fabritaiservices.com",
-    "title": "Transforming Companies Into Digital Leaders - Fabrit Global",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 138230,
-    "crawled_at": "2026-04-21T13:53:20.022355191Z",
-    "technologies": [
-      "Apache",
-      "Clutch",
-      "DAV",
-      "Federal Deposit Insurance Corporation",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Gridsome",
-      "HMDG",
-      "HubSpot Conversations",
-      "Hubspot",
-      "K2F",
-      "KVH",
-      "Medium",
-      "Nationwide Mortgage Licensing System and Registry",
-      "No-Q",
-      "SMC",
-      "Silicon Valley Web Hosting",
-      "Subversion",
-      "Tailwind CSS"
     ]
   },
   {
@@ -4693,21 +4725,6 @@
     ]
   },
   {
-    "domain": "tyrnimedia.fi",
-    "title": "Juha Tyrni - Tyrnimedia Oy - Digital Business Consultancy - Gridsome",
-    "business_name": "",
-    "country": "FIN",
-    "seo_score": 45,
-    "tech_spend": "",
-    "crawled_at": "2026-03-12T09:14:08.143843934Z",
-    "technologies": [
-      "GitHub Hosting",
-      "Gridsome",
-      "LiteSpeed",
-      "QUIC"
-    ]
-  },
-  {
     "domain": "concable.com.mx",
     "title": "Concable !! - Concable",
     "business_name": "",
@@ -5388,24 +5405,6 @@
       "Tailwind CSS",
       "Vimeo",
       "Vimeo CDN"
-    ]
-  },
-  {
-    "domain": "jmmdp.com",
-    "title": "JM Martin - Directeur Photo - JM Martin - Directeur Photo",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 50,
-    "tech_spend": "",
-    "crawled_at": "2026-02-24T02:14:07.51478129Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   },
   {
