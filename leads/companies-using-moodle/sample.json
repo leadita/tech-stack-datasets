@@ -1,5 +1,37 @@
 [
   {
+    "domain": "alumniphm.com",
+    "title": "Home | Campus Alumni",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 11319,
+    "crawled_at": "2026-04-23T20:08:20.001325452Z",
+    "technologies": [
+      "App Store",
+      "Content Delivery Network",
+      "Fastly",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Moodle",
+      "NFOrce Internet",
+      "Nginx",
+      "PHP",
+      "Totara",
+      "Twitter Ads",
+      "UTF-8",
+      "Vimeo",
+      "WhatsApp Sharing",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "educamet.com.mx",
     "title": "Home | Educamet",
     "business_name": "",
@@ -512,38 +544,6 @@
       "University or College",
       "Vello",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "alumniphm.com",
-    "title": "Home | Campus Alumni",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 11319,
-    "crawled_at": "2026-02-15T13:10:57.16717916Z",
-    "technologies": [
-      "App Store",
-      "Content Delivery Network",
-      "Fastly",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Moodle",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "Totara",
-      "Twitter Ads",
-      "UTF-8",
-      "Vimeo",
-      "WhatsApp Sharing",
-      "YouTube",
-      "jsDelivr"
     ]
   },
   {
