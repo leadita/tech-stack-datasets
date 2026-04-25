@@ -1,5 +1,34 @@
 [
   {
+    "domain": "konstkollen.se",
+    "title": "Konstkollen - Open calls, residens stipendier, etc..",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 76876,
+    "crawled_at": "2026-04-25T01:33:34.132452389Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudflare",
+      "Contento",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "FormSubmit",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "No-Q",
+      "SMC",
+      "UTF-8",
+      "Unbounce"
+    ]
+  },
+  {
     "domain": "streamlineverify.com",
     "title": "Streamline Verify",
     "business_name": "Streamline Verify",
