@@ -1,5 +1,57 @@
 [
   {
+    "domain": "darciemoran.com",
+    "title": "Darcie Moran – Journalist",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 647,
+    "crawled_at": "2026-04-25T02:26:21.286708732Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Automattic",
+      "Content Delivery Network",
+      "Edmunds",
+      "EmbedPress",
+      "Financial Services Guide",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "Nginx",
+      "Perl",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats"
+    ]
+  },
+  {
+    "domain": "rookestxhills.com",
+    "title": "Rooke's Texas Hills Insurance",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 15300,
+    "crawled_at": "2026-04-24T18:14:19.981667259Z",
+    "technologies": [
+      "Better Lead Generation Services",
+      "Edmunds",
+      "Fireblade",
+      "FreeCSSTemplates",
+      "GZIP Module",
+      "Helix Ultimate",
+      "Joomla!",
+      "Nginx",
+      "PHP",
+      "Parallels Plesk Panel",
+      "RokNavMenu",
+      "UTF-8",
+      "University or College",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "hannahedmundsgardens.co",
     "title": "HannahEdmundsGardens",
     "business_name": "",
@@ -5538,31 +5590,6 @@
     ]
   },
   {
-    "domain": "rookestxhills.com",
-    "title": "Rooke's Texas Hills Insurance",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 15300,
-    "crawled_at": "2025-11-18T12:32:04.996916437Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "Edmunds",
-      "Fireblade",
-      "FreeCSSTemplates",
-      "GZIP Module",
-      "Helix Ultimate",
-      "Joomla!",
-      "Nginx",
-      "PHP",
-      "Parallels Plesk Panel",
-      "RokNavMenu",
-      "UTF-8",
-      "University or College",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "firstonefinancial.com",
     "title": "First One Financial",
     "business_name": "",
@@ -5675,33 +5702,6 @@
       "YouTube",
       "accessiBe",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "darciemoran.com",
-    "title": "Darcie Moran – Journalist",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 647,
-    "crawled_at": "2025-11-16T08:26:05.009222777Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Automattic",
-      "Content Delivery Network",
-      "Edmunds",
-      "EmbedPress",
-      "Financial Services Guide",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Nginx",
-      "Perl",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats"
     ]
   }
 ]

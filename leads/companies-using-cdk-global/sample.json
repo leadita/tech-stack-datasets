@@ -1,5 +1,23 @@
 [
   {
+    "domain": "prmaloney.com",
+    "title": "prmaloney",
+    "business_name": "",
+    "country": "IRL",
+    "seo_score": 52,
+    "tech_spend": 12000,
+    "crawled_at": "2026-04-25T03:14:19.987097451Z",
+    "technologies": [
+      "CDK Global",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Svelte",
+      "Tailwind CSS",
+      "University or College",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "dealerdigitalsigns.com",
     "title": "Home - Dealer Digital Signage",
     "business_name": "Dealer Digital Signage",
