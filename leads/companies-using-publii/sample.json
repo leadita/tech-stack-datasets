@@ -1,5 +1,92 @@
 [
   {
+    "domain": "collabta.co.uk",
+    "title": "Collab Training Academy",
+    "business_name": "Collab Training Academy",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 109,
+    "crawled_at": "2026-04-25T09:29:19.981916924Z",
+    "technologies": [
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Publii",
+      "Visual Studio",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "theaardvark.co.uk",
+    "title": "theaardvark.co.uk",
+    "business_name": "theaardvark.co.uk",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 4088,
+    "crawled_at": "2026-04-25T01:23:19.978237182Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Band Camp",
+      "Camp",
+      "CoreUI",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "Perl",
+      "Publii",
+      "QUIC",
+      "Tailwind CSS",
+      "WordPress SEO Structured Data Schema Plugin",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "kimothoi.gr",
+    "title": "KIMOTHOI, CULTURAL SPACE in Monemvasia",
+    "business_name": "KIMOTHOI, CULTURAL SPACE in Monemvasia",
+    "country": "GRC",
+    "seo_score": 65,
+    "tech_spend": 149,
+    "crawled_at": "2026-04-24T19:41:19.995262418Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "magneticscrolls.net",
+    "title": "magneticscrolls.net",
+    "business_name": "magneticscrolls.net",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 112,
+    "crawled_at": "2026-04-24T14:44:19.993495555Z",
+    "technologies": [
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "hermanbergman.eu",
     "title": "Herman Bergman Fine Art Foundry",
     "business_name": "Bergman ENG",
@@ -5347,26 +5434,6 @@
     ]
   },
   {
-    "domain": "kimothoi.gr",
-    "title": "KIMOTHOI, CULTURAL SPACE in Monemvasia",
-    "business_name": "KIMOTHOI, CULTURAL SPACE in Monemvasia",
-    "country": "GRC",
-    "seo_score": 65,
-    "tech_spend": 149,
-    "crawled_at": "2025-12-25T09:04:38.342712405Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "brockoleur.com",
     "title": "Kevin Brock | brockoleur.com",
     "business_name": "Kevin Brock",
@@ -6252,26 +6319,6 @@
       "Publii",
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "magneticscrolls.net",
-    "title": "magneticscrolls.net",
-    "business_name": "magneticscrolls.net",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 112,
-    "crawled_at": "2025-12-12T02:42:20.435668187Z",
-    "technologies": [
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
     ]
   },
   {
