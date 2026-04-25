@@ -1,12 +1,33 @@
 [
   {
-    "domain": "topologynetwork.com",
-    "title": "An EMDN - Topology Network, Network Design Infrastructure Connectivity Communication Architecture Data Flow System Optimization Internet Architecture",
+    "domain": "scoop.name",
+    "title": "This website or DOMAIN NAME may be for sale.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 76599,
+    "crawled_at": "2026-04-25T05:41:19.988076263Z",
+    "technologies": [
+      "Camp",
+      "Cart.com",
+      "Dynadot",
+      "ElementUI",
+      "Fast",
+      "Font Awesome",
+      "GZIP Module",
+      "Google My Business",
+      "PointDNS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "hamhq.com",
+    "title": "An EMDN - Ham HQ, Corporate Headquarters Business Operations Strategic Management Executive Center Leadership Office Administrative Center Organizational Hub Professional Team",
     "business_name": "",
     "country": "",
     "seo_score": 52,
     "tech_spend": 135,
-    "crawled_at": "2026-04-24T11:44:19.999065929Z",
+    "crawled_at": "2026-04-25T04:02:19.998697712Z",
     "technologies": [
       "Amazon CloudFront",
       "Apture Linking Platform",
@@ -19,6 +40,66 @@
       "Google Tag Manager",
       "Microsoft Clarity",
       "UTF-8"
+    ]
+  },
+  {
+    "domain": "rockmarin.org",
+    "title": "ROCKMarin",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 135,
+    "crawled_at": "2026-04-24T21:45:47.007117559Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8",
+      "Zeffy"
+    ]
+  },
+  {
+    "domain": "fashionexpert.org",
+    "title": "Build Your Brand",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 135,
+    "crawled_at": "2026-04-24T20:14:19.987929639Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "sanlorenzovillage.com",
+    "title": "Welcome to PhilippineProperties.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 7219,
+    "crawled_at": "2026-04-24T19:05:19.980226089Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Neighborhoods",
+      "Prospective",
+      "QUIC",
+      "UTF-8",
+      "YouTube"
     ]
   },
   {
@@ -91,24 +172,6 @@
     ]
   },
   {
-    "domain": "primelending.org",
-    "title": "Build Your Brand",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 135,
-    "crawled_at": "2026-04-23T23:20:19.988189447Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "racomai.com",
     "title": "racomai.com",
     "business_name": "",
@@ -143,28 +206,6 @@
       "GZIP Module",
       "Google Related Website Sites",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "legaspivillage.com",
-    "title": "Welcome to PhilippineProperties.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 7219,
-    "crawled_at": "2026-04-22T12:32:20.00477533Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Neighborhoods",
-      "Prospective",
-      "QUIC",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
@@ -636,27 +677,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "iquisative.com",
-    "title": "This website or DOMAIN NAME may be for sale.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 76599,
-    "crawled_at": "2026-04-14T09:04:36.655612327Z",
-    "technologies": [
-      "Camp",
-      "Cart.com",
-      "Dynadot",
-      "ElementUI",
-      "Fast",
-      "Font Awesome",
-      "GZIP Module",
-      "Google My Business",
-      "PointDNS",
-      "UTF-8"
     ]
   },
   {
@@ -3967,25 +3987,6 @@
       "UTF-8",
       "University or College",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "rockmarin.org",
-    "title": "ROCKMarin",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 135,
-    "crawled_at": "2025-11-16T06:11:05.011960162Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8",
-      "Zeffy"
     ]
   }
 ]
