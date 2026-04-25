@@ -1,12 +1,40 @@
 [
   {
-    "domain": "rfsbilling.com",
+    "domain": "admissions.hid.ie",
+    "title": "Holmes Institute Dublin | Modern Business Degrees",
+    "business_name": "",
+    "country": "IRL",
+    "seo_score": 72,
+    "tech_spend": 31000,
+    "crawled_at": "2026-04-25T12:35:19.997370872Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Blackboard Open LMS",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Microsoft 365",
+      "Tailwind CSS",
+      "Tawk",
+      "UTF-8",
+      "WF Cookie Consent",
+      "YouTube",
+      "eLand",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "stratospllc.com",
     "title": "Outsourced Finance and Accounting Services | ROSE",
     "business_name": "",
     "country": "USA",
     "seo_score": 77,
     "tech_spend": 87328,
-    "crawled_at": "2026-04-24T01:29:20.012258774Z",
+    "crawled_at": "2026-04-24T20:59:19.99716577Z",
     "technologies": [
       "501c3 Status Nonprofit",
       "Alternate Protocol",
@@ -2135,33 +2163,6 @@
       "UTF-8",
       "University or College",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "admissions.hid.ie",
-    "title": "Holmes Institute Dublin | Modern Business Degrees",
-    "business_name": "",
-    "country": "IRL",
-    "seo_score": 77,
-    "tech_spend": 31276,
-    "crawled_at": "2026-01-09T06:40:15.239989326Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Blackboard Open LMS",
-      "CloudFront",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Microsoft 365",
-      "Tailwind CSS",
-      "Tawk",
-      "WF Cookie Consent",
-      "Webflow",
-      "YouTube",
-      "eLand",
-      "jsDelivr"
     ]
   },
   {
