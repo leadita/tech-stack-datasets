@@ -1,6 +1,6 @@
 # Companies Using TherapyNotes (Live Dataset 2026)
 
-This folder contains an active list of 197 companies using **TherapyNotes**. 
+This folder contains an active list of 200 companies using **TherapyNotes**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 197
+- **Total Leads:** 200
 - **Verified:** Yes
-- **Last Updated:** 2026-04-25 18:30 UTC
+- **Last Updated:** 2026-04-26 18:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **197+** companies using TherapyNotes.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **200+** companies using TherapyNotes.
 
 [**⚡ Unlock the Full TherapyNotes List with Contact Details**](https://leadita.com/leads/companies-using-therapynotes)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-25 18:30 UTC*
+*Last updated: 2026-04-26 18:30 UTC*
 *Data source: Leadita Technographic Intelligence*

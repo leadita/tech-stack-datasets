@@ -1,5 +1,31 @@
 [
   {
+    "domain": "hikigai.ai",
+    "title": "Hikigai AI",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 67,
+    "tech_spend": 44568,
+    "crawled_at": "2026-04-26T16:41:19.993428604Z",
+    "technologies": [
+      "AI Log",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Fireblade",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Next.js",
+      "Oracle Cloud",
+      "Practice Fusion",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "eClinicalWorks",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "myaccu.net",
     "title": "Remote Patient Monitoring Services & Solutions | Accuhealth",
     "business_name": "Accuhealth",

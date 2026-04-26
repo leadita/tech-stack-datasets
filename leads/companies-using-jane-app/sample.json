@@ -3718,31 +3718,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "chironucleus.com",
-    "title": "Northern California Chiropractors Who Drive to You",
-    "business_name": "",
-    "country": "IRL",
-    "seo_score": 77,
-    "tech_spend": 3768,
-    "crawled_at": "2025-11-16T21:47:05.004935181Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Discord",
-      "Duda",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Jane App",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
-    ]
   }
 ]
