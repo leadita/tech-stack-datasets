@@ -1,5 +1,28 @@
 [
   {
+    "domain": "amankhalid.com",
+    "title": "Aman Khalid | Software Engineer",
+    "business_name": "",
+    "country": "SEN",
+    "seo_score": 77,
+    "tech_spend": 6028,
+    "crawled_at": "2026-04-25T21:41:19.993869459Z",
+    "technologies": [
+      "ButterCMS",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Medium",
+      "Python",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "atlas-bench.com",
     "title": "Atlas Bench | Atlassian Platinum Solution Partner",
     "business_name": "Atlas Bench",
