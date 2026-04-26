@@ -1,5 +1,33 @@
 [
   {
+    "domain": "nicolleparadise.com",
+    "title": "Nicolle Paradise | Consultant and Speaker",
+    "business_name": "Nicolle Paradise",
+    "country": "VEN",
+    "seo_score": 67,
+    "tech_spend": 56213,
+    "crawled_at": "2026-04-26T04:29:19.995635633Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Express",
+      "GZIP Module",
+      "Gainsight",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "saastrlondon2023.com",
     "title": "SaaStr Europa 2023",
     "business_name": "",
