@@ -1,5 +1,63 @@
 [
   {
+    "domain": "finsightic.com",
+    "title": "Expert Accounting & CFO Support for Startups | Finsightic",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 30326,
+    "crawled_at": "2026-04-26T00:26:20.003916526Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Carta",
+      "Content Delivery Network",
+      "Expensify",
+      "Express",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gusto",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "Pexels",
+      "QUIC",
+      "Shopify",
+      "Thank You",
+      "Zyro"
+    ]
+  },
+  {
+    "domain": "expensivepie.com",
+    "title": "Expensive Pie Inc.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 135,
+    "crawled_at": "2026-04-25T18:20:20.013907786Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Aruba",
+      "Baidu Cloud",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Coming Soon Page",
+      "Expensify",
+      "GZIP Module",
+      "Google Analytics",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "Perl",
+      "Twitter Ads",
+      "UTF-8",
+      "eLand",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "bootstrapperweekly.com",
     "title": "Bootstrapper Weekly | The Indie Hacker's Digest",
     "business_name": "",
@@ -1330,35 +1388,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "finsightic.com",
-    "title": "Expert Accounting & CFO Support for Startups | Finsightic",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 30326,
-    "crawled_at": "2025-11-18T15:03:40.289738778Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Carta",
-      "Content Delivery Network",
-      "Expensify",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gusto",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "Pexels",
-      "QUIC",
-      "Shopify",
-      "Thank You",
-      "Zyro"
     ]
   }
 ]
