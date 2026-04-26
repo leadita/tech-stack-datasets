@@ -1,5 +1,143 @@
 [
   {
+    "domain": "ostreostri.eu",
+    "title": "Ostré Ostří",
+    "business_name": "Ostré Ostří",
+    "country": "CZE",
+    "seo_score": 52,
+    "tech_spend": 49,
+    "crawled_at": "2026-04-26T12:13:46.152860603Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Apache",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "neotangomarathonmunich.com",
+    "title": "NEOTANGO MARATHON MÜNCHEN - 22-24 May 2025",
+    "business_name": "NEOTANGO MARATHON MÜNCHEN - 22-24 May 2025",
+    "country": "FRA",
+    "seo_score": 72,
+    "tech_spend": 149,
+    "crawled_at": "2026-04-26T03:50:20.007348337Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Publii",
+      "Share Link",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "prisonbook.club",
+    "title": "Prison Book Club",
+    "business_name": "Prison Book Club",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 49,
+    "crawled_at": "2026-04-26T00:23:19.99534151Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Publii",
+      "Ubuntu",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "icodse.org",
+    "title": "ICoDSE 2026",
+    "business_name": "ICoDSE 2026",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 712,
+    "crawled_at": "2026-04-25T23:35:19.99438159Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Publii",
+      "UTF-8",
+      "WordPress",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "cyber-kong.io",
+    "title": "Cyber Kong: gamified cybersecurity training for teams",
+    "business_name": "Cyber Kong",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 431,
+    "crawled_at": "2026-04-25T18:20:19.986077495Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Calendly",
+      "Flat Icon",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Publii",
+      "Ubuntu",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "impacttrack.org",
+    "title": "Impact Track - The tool for measuring and valorizing your social impact",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 24656,
+    "crawled_at": "2026-04-25T18:04:10.09203047Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apture Linking Platform",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Contento",
+      "DAV",
+      "E-Satisfaction",
+      "Envoy",
+      "Express",
+      "Financial Services Guide",
+      "Fireblade",
+      "InitiativeS",
+      "K2F",
+      "NFOrce Internet",
+      "Perl",
+      "Pressable",
+      "Publii",
+      "Tailwind CSS",
+      "University or College",
+      "WordPress",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "collabta.co.uk",
     "title": "Collab Training Academy",
     "business_name": "Collab Training Academy",
@@ -101,32 +239,6 @@
       "Nginx",
       "Publii",
       "Tailwind CSS",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "icodse.org",
-    "title": "ICoDSE 2026",
-    "business_name": "ICoDSE 2026",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 712,
-    "crawled_at": "2026-04-24T07:09:18.128896541Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Publii",
-      "UTF-8",
-      "WordPress",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   },
@@ -943,27 +1055,6 @@
       "Visual Studio",
       "itch.io",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "kangaruu.io",
-    "title": "Kangaruu : automated Time Tracking for your R&D projects",
-    "business_name": "Kangaruu",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 431,
-    "crawled_at": "2026-04-16T00:17:19.990224855Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Calendly",
-      "Flat Icon",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Publii",
-      "Ubuntu",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   },
   {
@@ -5152,25 +5243,6 @@
     ]
   },
   {
-    "domain": "neotangomarathonmunich.com",
-    "title": "NEOTANGO MARATHON MÜNCHEN - 22-24 May 2025",
-    "business_name": "NEOTANGO MARATHON MÜNCHEN - 22-24 May 2025",
-    "country": "FRA",
-    "seo_score": 72,
-    "tech_spend": 149,
-    "crawled_at": "2025-12-30T23:14:41.599793432Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Publii",
-      "Share Link",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "butedigital.co.uk",
     "title": "Bute Digital",
     "business_name": "Bute Digital",
@@ -6745,26 +6817,6 @@
     ]
   },
   {
-    "domain": "prisonbook.club",
-    "title": "Prison Book Club",
-    "business_name": "Prison Book Club",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 49,
-    "crawled_at": "2025-11-30T11:08:39.186871391Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Publii",
-      "Ubuntu",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "locallia.com",
     "title": "Locallia.com",
     "business_name": "Locallia.com",
@@ -7802,59 +7854,6 @@
       "Publii",
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "ostreostri.eu",
-    "title": "Ostré Ostří",
-    "business_name": "Ostré Ostří",
-    "country": "CZE",
-    "seo_score": 52,
-    "tech_spend": 49,
-    "crawled_at": "2025-11-17T00:23:04.992104422Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Apache",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "impacttrack.org",
-    "title": "Impact Track - The tool for measuring and valorizing your social impact",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 27428,
-    "crawled_at": "2025-11-16T16:02:05.025346996Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Contento",
-      "DAV",
-      "Envoy",
-      "Express",
-      "Financial Services Guide",
-      "Fireblade",
-      "Google Forms",
-      "Google My Business",
-      "InitiativeS",
-      "NFOrce Internet",
-      "O2MC Dimml",
-      "Pressable",
-      "Publii",
-      "QUIC",
-      "Tailwind CSS",
-      "University or College",
-      "WordPress",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]
