@@ -1,5 +1,66 @@
 [
   {
+    "domain": "gc-t.in",
+    "title": "Instant credit limit, No Annual Fee - GalaxyCard",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 52,
+    "tech_spend": 931,
+    "crawled_at": "2026-04-26T08:26:40.701293015Z",
+    "technologies": [
+      "Bulma",
+      "Envoy",
+      "Freshteam",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Tag Manager",
+      "Istio",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "spearmintenergy.com",
+    "title": "Spearmint Energy",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 39456,
+    "crawled_at": "2026-04-26T06:11:20.012480909Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon S3 CDN",
+      "Beaver Builder Lite",
+      "Content Delivery Network",
+      "CookieYes",
+      "EmbedPress",
+      "Freshteam",
+      "Genesis Blocks",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Learned Media",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "QUIC",
+      "Schema Plugin",
+      "Storyblocks",
+      "Theme In WP",
+      "UTF-8",
+      "UserWay",
+      "WP Engine",
+      "WordPress",
+      "WordPress Multisite",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "summaft.com",
     "title": "Summa Financial Technology – The Multi-Book of Record Digital Platform",
     "business_name": "",
@@ -1364,47 +1425,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "spearmintenergy.com",
-    "title": "Spearmint Energy",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 39456,
-    "crawled_at": "2026-03-01T16:11:40.982071262Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon S3 CDN",
-      "Beaver Builder Lite",
-      "Content Delivery Network",
-      "CookieYes",
-      "EmbedPress",
-      "Freshteam",
-      "Genesis Blocks",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Learned Media",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "QUIC",
-      "Schema Plugin",
-      "Storyblocks",
-      "Theme In WP",
-      "UTF-8",
-      "UserWay",
-      "WP Engine",
-      "WordPress",
-      "WordPress Multisite",
-      "eLand",
-      "jQuery"
     ]
   },
   {
@@ -3238,26 +3258,6 @@
       "UTF-8",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "gc-t.in",
-    "title": "Instant credit limit, No Annual Fee - GalaxyCard",
-    "business_name": "",
-    "country": "ITA",
-    "seo_score": 62,
-    "tech_spend": 2732,
-    "crawled_at": "2025-11-16T22:42:56.267111864Z",
-    "technologies": [
-      "Bulma",
-      "Envoy",
-      "Freshteam",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Tag Manager",
-      "Istio",
-      "UTF-8"
     ]
   }
 ]
