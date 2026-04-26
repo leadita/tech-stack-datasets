@@ -1,6 +1,6 @@
 # Companies Using Wistia (Live Dataset 2026)
 
-This folder contains an active list of 11,042 companies using **Wistia**. 
+This folder contains an active list of 11,128 companies using **Wistia**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 11,042
+- **Total Leads:** 11,128
 - **Verified:** Yes
-- **Last Updated:** 2026-04-25 23:00 UTC
+- **Last Updated:** 2026-04-26 23:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **11,042+** companies using Wistia.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **11,128+** companies using Wistia.
 
 [**⚡ Unlock the Full Wistia List with Contact Details**](https://leadita.com/leads/companies-using-wistia)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-25 23:00 UTC*
+*Last updated: 2026-04-26 23:00 UTC*
 *Data source: Leadita Technographic Intelligence*
