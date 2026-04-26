@@ -1,5 +1,36 @@
 [
   {
+    "domain": "holyhorsepower.co",
+    "title": "Holy Horsepower",
+    "business_name": "",
+    "country": "JPN",
+    "seo_score": 77,
+    "tech_spend": 68623,
+    "crawled_at": "2026-04-25T22:31:15.617537006Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Blueshift",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "Google Related Website Sites",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Newsletter for Wordpress",
+      "QUIC",
+      "Shifter",
+      "Shopify",
+      "Shopify Collabs",
+      "UTF-8",
+      "hCaptcha",
+      "reCAPTCHA",
+      "route"
+    ]
+  },
+  {
     "domain": "smartpandalab.com",
     "title": "Smart Panda Labs | Improving Post-Click Digital Experiences",
     "business_name": "Smart Panda Labs",
@@ -907,37 +938,6 @@
       "WordPress Multisite",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "holyhorsepower.co",
-    "title": "Holy Horsepower",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 72,
-    "tech_spend": 68623,
-    "crawled_at": "2025-11-16T18:08:05.05417322Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Blueshift",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Newsletter for Wordpress",
-      "QUIC",
-      "Shifter",
-      "Shopify",
-      "Shopify Collabs",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA",
-      "route"
     ]
   }
 ]
