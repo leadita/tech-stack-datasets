@@ -1,6 +1,5 @@
 domain,title,business_name,country,seo_score,tech_spend,crawled_at,technologies
-ecofye.cloud,Grafana,,,40,1203,2026-04-24T16:14:50.746605737Z,"['Barchart', 'Cloudflare', 'Cloudflare CDN', 'Express', 'GitHub Hosting', 'Google Cloud DNS', 'Grafana', 'UTF-8']"
-metrics.m2b.io,Grafana,,,30,,2026-04-24T00:35:19.990478045Z,"['GZIP Module', 'GitHub Hosting', 'Grafana', 'Nginx', 'UTF-8', 'Ubuntu']"
-availability.ftc.ru,Grafana,,,30,11200,2026-04-17T05:02:19.997451749Z,"['Apache', 'Barchart', 'Contento', 'Express', 'GZIP Module', 'GitHub Hosting', 'Grafana', 'Nginx', 'UTF-8']"
+zabbixdash.com.br,Grafana,,,30,11200,2026-04-26T01:38:19.981827946Z,"['Barchart', 'Contento', 'Express', 'GZIP Module', 'Grafana', 'Nginx', 'UTF-8', 'Ubuntu']"
+servermonitor.fi,Grafana,,,30,1200,2026-04-25T22:29:20.021551785Z,"['Apache', 'Barchart', 'Express', 'GZIP Module', 'GitHub Hosting', 'Grafana', 'Nginx', 'UTF-8']"
 vikshep.com,Arya Shakti,,,40,32899,2026-04-16T00:49:35.356010479Z,"['AAPT', 'Apache', 'DAV', 'Financial Services Guide', 'GitHub Hosting', 'Google My Business', 'Grafana', 'KVH', 'Ntent', 'On The Map', 'Paessler', 'RawGit', 'SMC', 'Subversion', 'UTF-8']"
 stage-rheo.com,Rheo,,,30,1260,2026-03-20T17:12:01.062225421Z,"['Amazon', 'Apache', 'Barchart', 'GitHub Hosting', 'Google Analytics', 'Google Tag Manager', 'Grafana', 'UTF-8']"

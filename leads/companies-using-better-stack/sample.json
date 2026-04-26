@@ -1,5 +1,28 @@
 [
   {
+    "domain": "startlist.ch",
+    "title": "Startlist",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 5090,
+    "crawled_at": "2026-04-26T05:11:19.990826814Z",
+    "technologies": [
+      "Better Stack",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "CoinStats",
+      "Content Delivery Network",
+      "Gem",
+      "GitHub Hosting",
+      "Observable",
+      "Plausible Analytics",
+      "Svelte",
+      "Yahoo Finance Widget",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "online-post.ca",
     "title": "Send letter online with Online-Post.ca",
     "business_name": "Online-Post",

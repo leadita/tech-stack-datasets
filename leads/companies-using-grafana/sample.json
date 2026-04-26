@@ -1,34 +1,17 @@
 [
   {
-    "domain": "ecofye.cloud",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 1203,
-    "crawled_at": "2026-04-24T16:14:50.746605737Z",
-    "technologies": [
-      "Barchart",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Grafana",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "metrics.m2b.io",
+    "domain": "zabbixdash.com.br",
     "title": "Grafana",
     "business_name": "",
     "country": "",
     "seo_score": 30,
-    "tech_spend": "",
-    "crawled_at": "2026-04-24T00:35:19.990478045Z",
+    "tech_spend": 11200,
+    "crawled_at": "2026-04-26T01:38:19.981827946Z",
     "technologies": [
+      "Barchart",
+      "Contento",
+      "Express",
       "GZIP Module",
-      "GitHub Hosting",
       "Grafana",
       "Nginx",
       "UTF-8",
@@ -36,17 +19,16 @@
     ]
   },
   {
-    "domain": "availability.ftc.ru",
+    "domain": "servermonitor.fi",
     "title": "Grafana",
     "business_name": "",
     "country": "",
     "seo_score": 30,
-    "tech_spend": 11200,
-    "crawled_at": "2026-04-17T05:02:19.997451749Z",
+    "tech_spend": 1200,
+    "crawled_at": "2026-04-25T22:29:20.021551785Z",
     "technologies": [
       "Apache",
       "Barchart",
-      "Contento",
       "Express",
       "GZIP Module",
       "GitHub Hosting",
