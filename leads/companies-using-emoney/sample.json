@@ -1,5 +1,36 @@
 [
   {
+    "domain": "safemoneyadvisory.com",
+    "title": "Tax-Free Retirement & Tax Reduction | Sarasota",
+    "business_name": "Safe Money Advisory LLC",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 91428,
+    "crawled_at": "2026-04-26T06:38:19.989784465Z",
+    "technologies": [
+      "Advisory Board",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Express",
+      "Fastly",
+      "Fastly CDN",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PWA",
+      "QUIC",
+      "SMC",
+      "Sentry",
+      "SiteW",
+      "UTF-8",
+      "Vector Internet Services",
+      "Wix",
+      "Wix Media",
+      "eMoney",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "arlenewasserman.co.za",
     "title": "Arlene Wasserman | attooh! Your Wealth Solution",
     "business_name": "",
@@ -1776,38 +1807,6 @@
       "Vimeo CDN",
       "eMoney",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "benventer.co.za",
-    "title": "Ben Venter | attooh! Your Wealth Solution",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 38960,
-    "crawled_at": "2025-12-26T12:43:38.338627081Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon S3 CDN",
-      "Apture Linking Platform",
-      "Authorize.net",
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Nuxt.js",
-      "QUIC",
-      "Storyblocks",
-      "UTF-8",
-      "Vimeo",
-      "Vimeo CDN",
-      "eMoney"
     ]
   },
   {
