@@ -1,15 +1,14 @@
 [
   {
-    "domain": "alumniphm.com",
-    "title": "Home | Campus Alumni",
+    "domain": "campusfarmacia.com",
+    "title": "Home | Farmacias PHM",
     "business_name": "",
     "country": "",
     "seo_score": 45,
     "tech_spend": 11319,
-    "crawled_at": "2026-04-23T20:08:20.001325452Z",
+    "crawled_at": "2026-04-26T06:38:19.988362081Z",
     "technologies": [
       "App Store",
-      "Content Delivery Network",
       "Fastly",
       "Google",
       "Google Cloud DNS",
@@ -25,7 +24,6 @@
       "Totara",
       "Twitter Ads",
       "UTF-8",
-      "Vimeo",
       "WhatsApp Sharing",
       "YouTube",
       "jsDelivr"
