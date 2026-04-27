@@ -1,5 +1,34 @@
 [
   {
+    "domain": "nicenter.fi",
+    "title": "Home - Nykarleby Innovation Center",
+    "business_name": "",
+    "country": "FIN",
+    "seo_score": 62,
+    "tech_spend": 36096,
+    "crawled_at": "2026-04-27T12:05:20.017383234Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "BetterMode",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "ElementUI",
+      "Fireblade",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Imgix",
+      "Instagram Follow Button",
+      "PWA",
+      "QUIC",
+      "Tailwind CSS",
+      "Tribe.so",
+      "Vector Internet Services",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "e-pal.com",
     "title": "Industrial Automation Knowledge Engine",
     "business_name": "",
