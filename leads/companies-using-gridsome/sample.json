@@ -1,5 +1,52 @@
 [
   {
+    "domain": "costabastos.com.br",
+    "title": "Costa Bastos - Corretora de Seguros - Costa Bastos",
+    "business_name": "",
+    "country": "BRA",
+    "seo_score": 57,
+    "tech_spend": 3249,
+    "crawled_at": "2026-04-27T11:41:20.001955613Z",
+    "technologies": [
+      "Gridsome",
+      "IcoMoon",
+      "Idaq",
+      "Instagram Follow Button",
+      "Nginx",
+      "Paessler",
+      "Parallels Plesk Panel"
+    ]
+  },
+  {
+    "domain": "pabue.com",
+    "title": "Hello - Pabueco",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 23557,
+    "crawled_at": "2026-04-27T07:29:19.99366924Z",
+    "technologies": [
+      "AdonisJs",
+      "Automattic",
+      "Content Delivery Network",
+      "DAV",
+      "Express",
+      "Formspree",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Idaq",
+      "KVH",
+      "Plausible Analytics",
+      "QUIC",
+      "Svelte",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "hildurhult.com",
     "title": "Hildur Hult - Hildur Hult",
     "business_name": "",
@@ -8591,34 +8638,6 @@
     ]
   },
   {
-    "domain": "pabue.co",
-    "title": "Hello - Pabueco",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 23557,
-    "crawled_at": "2026-01-11T09:00:54.104935205Z",
-    "technologies": [
-      "AdonisJs",
-      "Automattic",
-      "Content Delivery Network",
-      "DAV",
-      "Express",
-      "Formspree",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Idaq",
-      "KVH",
-      "Plausible Analytics",
-      "QUIC",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "krig.agency",
     "title": "Hello world! - KRIG.agency",
     "business_name": "",
@@ -11969,25 +11988,6 @@
       "Instagram Follow Button",
       "Netlify",
       "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "impact-events.com",
-    "title": "Home - Impact Events",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 50,
-    "tech_spend": 1188,
-    "crawled_at": "2025-11-25T08:33:19.464636675Z",
-    "technologies": [
-      "Cloudinary",
-      "Content Delivery Network",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Tailwind CSS",
-      "Thank You",
       "UTF-8"
     ]
   }
