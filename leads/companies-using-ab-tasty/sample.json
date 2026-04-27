@@ -1,5 +1,61 @@
 [
   {
+    "domain": "4macsphotography.com",
+    "title": "B. McDonald",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 43286,
+    "crawled_at": "2026-04-27T05:20:53.941916942Z",
+    "technologies": [
+      "AB Tasty",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "Fastly",
+      "Financial Services Guide",
+      "Fireblade",
+      "GZIP Module",
+      "Help.com",
+      "KVH",
+      "Nginx",
+      "Ntent",
+      "QUIC",
+      "SMC",
+      "SmartyStreets",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "picyourimage.org",
+    "title": "Picyourimage",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 23286,
+    "crawled_at": "2026-04-26T20:53:19.981663355Z",
+    "technologies": [
+      "AB Tasty",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "DAV",
+      "Fastly",
+      "Fireblade",
+      "GZIP Module",
+      "Help.com",
+      "Nginx",
+      "Ntent",
+      "QUIC",
+      "SmartyStreets",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "onearth.org",
     "title": "Be a Force for the Future | NRDC",
     "business_name": "",
@@ -49,32 +105,6 @@
       "YouTube",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "ithacagifts.com",
-    "title": "Joe Scaglione - Visual Artist - Ithaca, NY",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 23286,
-    "crawled_at": "2026-04-24T14:41:19.998227305Z",
-    "technologies": [
-      "AB Tasty",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CloudFront",
-      "Content Delivery Network",
-      "Fastly",
-      "Fireblade",
-      "GZIP Module",
-      "Help.com",
-      "Nginx",
-      "Ntent",
-      "QUIC",
-      "SmartyStreets",
-      "UTF-8"
     ]
   },
   {
