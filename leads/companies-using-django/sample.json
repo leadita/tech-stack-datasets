@@ -1,5 +1,79 @@
 [
   {
+    "domain": "nouvel-arch.com",
+    "title": "Nouvel Arch Visual | Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 708,
+    "crawled_at": "2026-04-26T21:29:36.05877104Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Perl",
+      "QUIC",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "spinobserver.de",
+    "title": "SpinObserver - Insights on Quantum Physics and Modern Science",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 19256,
+    "crawled_at": "2026-04-26T16:41:20.000063293Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Bulma",
+      "Django",
+      "GZIP Module",
+      "Gambling Content",
+      "IcoMoon",
+      "Matomo",
+      "Matomo Tag Manager",
+      "NFOrce Internet",
+      "Nginx",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "vectorindustries.de",
+    "title": "Vector Industries: Innovative Tech Solutions & Industry Insights",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 8788,
+    "crawled_at": "2026-04-26T12:23:20.020956499Z",
+    "technologies": [
+      "Angular",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "Gambling Content",
+      "Matomo",
+      "Matomo Tag Manager",
+      "NFOrce Internet",
+      "Nginx",
+      "Ntent",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "Vector Internet Services",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "regalleather.com",
     "title": "Regal - Timeless Leather Craft",
     "business_name": "Regal Leather",
@@ -47,58 +121,6 @@
       "NFOrce Internet",
       "Nginx",
       "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "luckyinsight.de",
-    "title": "Lucky Insight Blog: Discover Fortune, Wisdom and Life's Hidden Treasures",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 8476,
-    "crawled_at": "2026-04-26T10:20:20.0185928Z",
-    "technologies": [
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "Gambling Content",
-      "Krypt Technologies",
-      "Matomo",
-      "Matomo Tag Manager",
-      "Nginx",
-      "Oddle",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "eLand",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "slotgroup624.de",
-    "title": "Slot Group 624 - Expert Insights on Gaming and Casino Entertainment",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 24256,
-    "crawled_at": "2026-04-26T08:08:19.984881959Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Angular",
-      "Bulma",
-      "Django",
-      "GZIP Module",
-      "Gambling Content",
-      "IcoMoon",
-      "Krypt Technologies",
-      "Matomo",
-      "Matomo Tag Manager",
-      "NFOrce Internet",
-      "Nginx",
       "Tailwind CSS",
       "UTF-8",
       "Ubuntu",
@@ -9384,27 +9406,6 @@
       "UTF-8",
       "Ubuntu",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "nouvel-arch.com",
-    "title": "Nouvel Arch Visual | Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 708,
-    "crawled_at": "2025-11-17T04:47:05.016094388Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
     ]
   }
 ]
