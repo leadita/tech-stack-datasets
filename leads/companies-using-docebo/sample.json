@@ -1,5 +1,35 @@
 [
   {
+    "domain": "dxday.it",
+    "title": "home | dxday 2025 - the developer experience conference",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 77,
+    "tech_spend": 43450,
+    "crawled_at": "2026-04-27T02:59:19.988756112Z",
+    "technologies": [
+      "Bulma",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "DAV",
+      "Docebo",
+      "Express",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Hexo",
+      "Instagram Follow Button",
+      "Iubenda",
+      "Microdata for Google Shopping",
+      "Tito",
+      "UTF-8",
+      "Vello",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "ras-consulting.com",
     "title": "RAS Consulting Services",
     "business_name": "",
