@@ -1,6 +1,6 @@
 # Companies Using Foxit (Live Dataset 2026)
 
-This folder contains an active list of 32 companies using **Foxit**. 
+This folder contains an active list of 33 companies using **Foxit**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 32
+- **Total Leads:** 33
 - **Verified:** Yes
-- **Last Updated:** 2026-04-26 16:15 UTC
+- **Last Updated:** 2026-04-27 16:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **32+** companies using Foxit.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **33+** companies using Foxit.
 
 [**⚡ Unlock the Full Foxit List with Contact Details**](https://leadita.com/leads/companies-using-foxit)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-26 16:15 UTC*
+*Last updated: 2026-04-27 16:15 UTC*
 *Data source: Leadita Technographic Intelligence*
