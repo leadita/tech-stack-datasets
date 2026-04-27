@@ -1,5 +1,38 @@
 [
   {
+    "domain": "learntodobydoing.com",
+    "title": "Learn to do by doing. | Let's see what happens if we try this.",
+    "business_name": "",
+    "country": "IRL",
+    "seo_score": 77,
+    "tech_spend": 23595,
+    "crawled_at": "2026-04-26T17:14:19.999012782Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Automattic",
+      "Barefoot",
+      "CoBlocks",
+      "Content Delivery Network",
+      "DAV",
+      "EmbedPress",
+      "Investor Relations",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "Nginx",
+      "Perl",
+      "Tailwind CSS",
+      "Thank You",
+      "ThoughtMetric",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "eLand"
+    ]
+  },
+  {
     "domain": "afvv447.net",
     "title": "CBD Shop - Buy Delta 8, Kratom, Mushroom, Blue Lotus Products",
     "business_name": "",
