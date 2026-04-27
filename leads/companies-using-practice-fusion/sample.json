@@ -1,5 +1,36 @@
 [
   {
+    "domain": "practicecollab.com",
+    "title": "Practice Collab",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 21793,
+    "crawled_at": "2026-04-27T17:02:19.988844197Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "Express",
+      "FormSubmit",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Practice Fusion",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "hikigai.ai",
     "title": "Hikigai AI",
     "business_name": "",
