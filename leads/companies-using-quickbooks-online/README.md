@@ -1,6 +1,6 @@
 # Companies Using QuickBooks Online (Live Dataset 2026)
 
-This folder contains an active list of 317 companies using **QuickBooks Online**. 
+This folder contains an active list of 320 companies using **QuickBooks Online**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 317
+- **Total Leads:** 320
 - **Verified:** Yes
-- **Last Updated:** 2026-04-26 10:30 UTC
+- **Last Updated:** 2026-04-27 10:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **317+** companies using QuickBooks Online.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **320+** companies using QuickBooks Online.
 
 [**⚡ Unlock the Full QuickBooks Online List with Contact Details**](https://leadita.com/leads/companies-using-quickbooks-online)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-26 10:30 UTC*
+*Last updated: 2026-04-27 10:30 UTC*
 *Data source: Leadita Technographic Intelligence*
