@@ -1,5 +1,133 @@
 [
   {
+    "domain": "laspinas.net",
+    "title": "Welcome to PhilippineProperties.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 7219,
+    "crawled_at": "2026-04-27T12:05:20.002651162Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Neighborhoods",
+      "Prospective",
+      "QUIC",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "healthcaremobileappdevelopment.com",
+    "title": "An EMDN - Healthcare Mobile App Development, Mobile Health Technology Patient Management Telemedicine Health Monitoring Digital Clinics Medical Apps Electronic Health Records Wellness Tracking Healthcare Innovation",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 135,
+    "crawled_at": "2026-04-27T10:27:00.128714042Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "shopdavaza.com",
+    "title": "DAVAZA Leotard Rentals",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 10219,
+    "crawled_at": "2026-04-27T09:47:19.997333826Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "BLR",
+      "CloudFront",
+      "DAV",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "datacube.inc",
+    "title": "DataCube",
+    "business_name": "",
+    "country": "SGP",
+    "seo_score": 67,
+    "tech_spend": 2919,
+    "crawled_at": "2026-04-27T09:18:47.712710967Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ETranslate",
+      "ElementUI",
+      "Font Awesome",
+      "GTranslate",
+      "GZIP Module",
+      "Google My Business",
+      "UTF-8",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "aminblacknoor.com",
+    "title": "Unlocking the Healing Power of Black Seeds",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 10219,
+    "crawled_at": "2026-04-27T04:44:19.992381148Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "BLR",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "dentalglove.com",
+    "title": "Build Your Brand",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 135,
+    "crawled_at": "2026-04-27T03:44:19.984925161Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "biorada.com",
     "title": "Domains For Sale All Offers to leo@dc.vc",
     "business_name": "",
@@ -38,24 +166,6 @@
       "GZIP Module",
       "Google Forms",
       "Google My Business",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "primelender.org",
-    "title": "Build Your Brand",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 135,
-    "crawled_at": "2026-04-26T08:08:20.01771895Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
       "UTF-8"
     ]
   },
@@ -101,28 +211,6 @@
     ]
   },
   {
-    "domain": "hamhq.com",
-    "title": "An EMDN - Ham HQ, Corporate Headquarters Business Operations Strategic Management Executive Center Leadership Office Administrative Center Organizational Hub Professional Team",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 135,
-    "crawled_at": "2026-04-25T04:02:19.998697712Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microsoft Clarity",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "rockmarin.org",
     "title": "ROCKMarin",
     "business_name": "",
@@ -140,28 +228,6 @@
       "GZIP Module",
       "UTF-8",
       "Zeffy"
-    ]
-  },
-  {
-    "domain": "sanlorenzovillage.com",
-    "title": "Welcome to PhilippineProperties.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 7219,
-    "crawled_at": "2026-04-24T19:05:19.980226089Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Neighborhoods",
-      "Prospective",
-      "QUIC",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
@@ -2361,28 +2427,6 @@
     ]
   },
   {
-    "domain": "shopdavaza.com",
-    "title": "DAVAZA Leotard Rentals",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 10219,
-    "crawled_at": "2026-01-22T17:13:43.432975987Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "BLR",
-      "CloudFront",
-      "DAV",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Tumblr",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "roseandwren.consulting",
     "title": "Rose and Wren Consulting PLLC",
     "business_name": "",
@@ -3967,49 +4011,6 @@
       "Tumblr",
       "Twitter Ads",
       "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "datacube.inc",
-    "title": "DataCube",
-    "business_name": "",
-    "country": "SGP",
-    "seo_score": 67,
-    "tech_spend": 2919,
-    "crawled_at": "2025-11-17T10:59:05.036578514Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ETranslate",
-      "Font Awesome",
-      "GTranslate",
-      "GZIP Module",
-      "Google My Business",
-      "UTF-8",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "dokuzpilot.com",
-    "title": "MATA UDARA",
-    "business_name": "",
-    "country": "IDN",
-    "seo_score": 67,
-    "tech_spend": 579,
-    "crawled_at": "2025-11-17T07:59:05.028200655Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Google My Business",
-      "Google Workspace",
-      "Instagram Follow Button",
-      "UTF-8",
-      "University or College",
       "YouTube"
     ]
   }

@@ -1,5 +1,33 @@
 [
   {
+    "domain": "hello.cymru",
+    "title": "Wales | Discover the Land of Dragons, Castles and Culture",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 5636,
+    "crawled_at": "2026-04-26T22:44:19.986705255Z",
+    "technologies": [
+      "DAV",
+      "ElementUI",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Namecheap",
+      "Netlify",
+      "PHP",
+      "Pixabay",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "founderforger.com",
     "title": "MyFounderFellow — Build Your Business From Scratch",
     "business_name": "",
