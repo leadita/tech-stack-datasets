@@ -1,5 +1,24 @@
 [
   {
+    "domain": "matiries.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 1092,
+    "crawled_at": "2026-04-26T23:05:54.649231936Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "Hubspot Knowledge Base",
+      "IcoMoon",
+      "ShipStation",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "cennanbooks.net",
     "title": "Cynren Press | Publishing History, Memoir & Historical Fiction",
     "business_name": "Cynren Press",
@@ -3340,61 +3359,6 @@
       "WordPress",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "vemo-technology.com",
-    "title": "Vemo Technology",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 26158,
-    "crawled_at": "2025-11-17T12:35:05.007794646Z",
-    "technologies": [
-      "AliExpress",
-      "Amazon CloudFront",
-      "Angular",
-      "Apture Linking Platform",
-      "Blue Box Group",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Instagram Follow Button",
-      "KVH",
-      "Microsoft Azure Blob Storage",
-      "OnTrac",
-      "PageFly",
-      "QUIC",
-      "ShipStation",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "UPS",
-      "UTF-8",
-      "Unsplash",
-      "WordPress",
-      "hCaptcha",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "matiries.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 1092,
-    "crawled_at": "2025-11-17T05:41:05.017781837Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "Hubspot Knowledge Base",
-      "IcoMoon",
-      "ShipStation",
-      "UTF-8"
     ]
   }
 ]
