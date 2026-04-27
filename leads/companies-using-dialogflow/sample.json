@@ -1,12 +1,74 @@
 [
   {
-    "domain": "seeiriscx.com",
+    "domain": "pictorsoftware.com",
+    "title": "No.#1 White Label GPS Tracking by Pictor Software",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 5607,
+    "crawled_at": "2026-04-27T06:56:20.00044769Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dialogflow",
+      "Font Awesome",
+      "Google",
+      "Google Cloud CDN",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Tailwind CSS",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "queenstreetlaundry.com",
+    "title": "Soda Laundry | Best Laundromat in Toronto",
+    "business_name": "Soda Laundry",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 78653,
+    "crawled_at": "2026-04-27T04:14:20.002531199Z",
+    "technologies": [
+      "Aruba",
+      "Dialogflow",
+      "Express",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Customer Reviews",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "tryiriscx.com",
     "title": "IrisCX | Property Management Maintenance Software",
     "business_name": "IrisCX.",
     "country": "",
     "seo_score": 67,
     "tech_spend": 25950,
-    "crawled_at": "2026-04-26T11:23:19.984139955Z",
+    "crawled_at": "2026-04-26T21:46:55.38817166Z",
     "technologies": [
       "AWS WAF Challenge",
       "Akismet",
@@ -14,7 +76,6 @@
       "Amazon WAF Blocked",
       "Apture Linking Platform",
       "Complianz",
-      "Content Delivery Network",
       "Dialogflow",
       "Elementor",
       "EmbedPress",
@@ -43,6 +104,50 @@
       "UTF-8",
       "WordPress",
       "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "imbookingnow.com",
+    "title": "IM BOOKINGS Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 63,
+    "crawled_at": "2026-04-26T19:05:20.006862247Z",
+    "technologies": [
+      "Apache",
+      "Bulma",
+      "Dialogflow",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "kmicloud.co.ke",
+    "title": "国际语音|国际短信|OTP|海外短信|验证码短信|营销短信-KMI Cloud",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 163,
+    "crawled_at": "2026-04-26T13:55:51.601598547Z",
+    "technologies": [
+      "Bulma",
+      "Dialogflow",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Nginx",
       "jQuery"
     ]
   },
@@ -8220,25 +8325,6 @@
     ]
   },
   {
-    "domain": "mobiprima.com",
-    "title": "国际语音|国际短信|OTP|海外短信|验证码短信|营销短信-KMI Cloud",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 163,
-    "crawled_at": "2025-12-09T04:38:08.900521255Z",
-    "technologies": [
-      "Bulma",
-      "Dialogflow",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Nginx",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "monkeymagiccloud.co.uk",
     "title": "AI and Digital Transformation Consultancy and Development agency. Artificial Intelligence focused. – All your AI and digital needs, from eCommerce, AI, AR,ML, Big Data, system automation, IOT, Mobile APP, and system analysis. Artificial Intelligence focused",
     "business_name": "",
@@ -9059,31 +9145,6 @@
       "Thank You",
       "Unsplash",
       "Zyro"
-    ]
-  },
-  {
-    "domain": "pictorsoftware.com",
-    "title": "No.#1 White Label GPS Tracking by Pictor Software",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 5607,
-    "crawled_at": "2025-11-19T14:00:19.465455681Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dialogflow",
-      "Font Awesome",
-      "Google",
-      "Google Cloud CDN",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Tailwind CSS",
-      "YouTube",
-      "jQuery"
     ]
   },
   {

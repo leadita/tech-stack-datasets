@@ -1,6 +1,6 @@
 # Companies Using Intercom (Live Dataset 2026)
 
-This folder contains an active list of 19,703 companies using **Intercom**. 
+This folder contains an active list of 19,670 companies using **Intercom**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 19,703
+- **Total Leads:** 19,670
 - **Verified:** Yes
-- **Last Updated:** 2026-04-26 11:45 UTC
+- **Last Updated:** 2026-04-27 11:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **19,703+** companies using Intercom.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **19,670+** companies using Intercom.
 
 [**⚡ Unlock the Full Intercom List with Contact Details**](https://leadita.com/leads/companies-using-intercom)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-26 11:45 UTC*
+*Last updated: 2026-04-27 11:45 UTC*
 *Data source: Leadita Technographic Intelligence*
