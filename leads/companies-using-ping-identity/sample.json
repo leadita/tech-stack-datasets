@@ -1,5 +1,35 @@
 [
   {
+    "domain": "herndoncarr.com",
+    "title": "Insurance Services in Florida | Patriot GIS",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 79478,
+    "crawled_at": "2026-04-26T23:20:19.996027495Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Creative Cloud WebFonts",
+      "Azure Active Directory B2C",
+      "Content Delivery Network",
+      "Express",
+      "Fireblade",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Ping Identity",
+      "Sanity",
+      "Svelte",
+      "Tailwind CSS",
+      "Thank You",
+      "Vercel",
+      "accessiBe",
+      "reCAPTCHA",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "taxcreditforhomebuyers.org",
     "title": "Homebuyer.com - Happy Homebuying | Homebuyer.com",
     "business_name": "",
@@ -251,38 +281,6 @@
       "Visual Studio",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "clermontinsuranceagency.com",
-    "title": "Insurance Services in Florida | Patriot GIS",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 99478,
-    "crawled_at": "2026-04-12T06:02:19.985278264Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Azure Active Directory B2C",
-      "Content Delivery Network",
-      "Express",
-      "Fireblade",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Ping Identity",
-      "QUIC",
-      "Sanity",
-      "Snowplow",
-      "Svelte",
-      "Tailwind CSS",
-      "Thank You",
-      "Vercel",
-      "accessiBe",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   },
   {
