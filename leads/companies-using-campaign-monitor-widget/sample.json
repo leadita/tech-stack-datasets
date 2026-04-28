@@ -1,12 +1,12 @@
 [
   {
-    "domain": "ayso13.org",
+    "domain": "asyo13.org",
     "title": "AYSO Region 13 | Make friends through soccer",
     "business_name": "",
     "country": "USA",
-    "seo_score": 70,
+    "seo_score": 65,
     "tech_spend": 46325,
-    "crawled_at": "2026-04-25T23:44:19.983948349Z",
+    "crawled_at": "2026-04-27T22:41:20.007719629Z",
     "technologies": [
       "AWS WAF Challenge",
       "Alternate Protocol",
