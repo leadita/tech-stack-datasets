@@ -1,5 +1,35 @@
 [
   {
+    "domain": "tullabee.com",
+    "title": "ALTAR'D STATE KIDS | AS Kids: Baby, Toddler & Kids’ Clothes",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 567196,
+    "crawled_at": "2026-04-27T15:53:20.020396221Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CQuotient",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Oddle",
+      "QUIC",
+      "Quotient",
+      "Salesforce Commerce Cloud",
+      "Schema Plugin",
+      "UTF-8",
+      "Yellow Messenger"
+    ]
+  },
+  {
     "domain": "usalliance.org",
     "title": "Checking, Credit Cards, Loans, Top CD Rates | USALLIANCE Financial",
     "business_name": "USALLIANCE Financial",
@@ -211,36 +241,6 @@
       "Zoom Video Conferencing",
       "osTicket",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "altardstatekids.com",
-    "title": "ALTAR'D STATE KIDS | AS Kids: Baby, Toddler & Kids’ Clothes",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 567196,
-    "crawled_at": "2026-04-25T09:47:19.994213158Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CQuotient",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Oddle",
-      "QUIC",
-      "Quotient",
-      "Salesforce Commerce Cloud",
-      "Schema Plugin",
-      "UTF-8",
-      "Yellow Messenger"
     ]
   },
   {
