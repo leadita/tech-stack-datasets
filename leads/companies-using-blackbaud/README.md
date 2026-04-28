@@ -1,6 +1,6 @@
 # Companies Using Blackbaud (Live Dataset 2026)
 
-This folder contains an active list of 856 companies using **Blackbaud**. 
+This folder contains an active list of 859 companies using **Blackbaud**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 856
+- **Total Leads:** 859
 - **Verified:** Yes
-- **Last Updated:** 2026-04-27 20:15 UTC
+- **Last Updated:** 2026-04-28 20:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **856+** companies using Blackbaud.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **859+** companies using Blackbaud.
 
 [**⚡ Unlock the Full Blackbaud List with Contact Details**](https://leadita.com/leads/companies-using-blackbaud)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-27 20:15 UTC*
+*Last updated: 2026-04-28 20:15 UTC*
 *Data source: Leadita Technographic Intelligence*
