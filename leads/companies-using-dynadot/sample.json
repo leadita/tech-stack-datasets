@@ -1,12 +1,131 @@
 [
   {
-    "domain": "laspinas.net",
+    "domain": "austinpointhomeinspector.com",
+    "title": "Austin Point New Construction Home Inspections | Imperial Pro",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 20518,
+    "crawled_at": "2026-04-28T15:38:20.021866025Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudflare",
+      "Coming Soon Page",
+      "Dynadot",
+      "ElementUI",
+      "Fireblade",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Customer Reviews",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Inspection Support",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "shabu.org",
+    "title": "Build Your Brand",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 195,
+    "crawled_at": "2026-04-28T14:02:46.826819532Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "interlockingsystem.com",
+    "title": "An EMDN - Interlocking System, Mechanical Engineering Railway Safety Track Control Signal Coordination Automated Locking Industrial Mechanisms Infrastructure Reliability",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 135,
+    "crawled_at": "2026-04-28T12:18:27.930596336Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "paleyhollywood.com",
+    "title": "Paley Hollywood Restaurant - Los Angeles, CA",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 6480,
+    "crawled_at": "2026-04-28T07:44:19.98152986Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Caviar",
+      "Dynadot",
+      "GZIP Module",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nginx",
+      "PHP",
+      "SEVENROOMS",
+      "Subversion",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress"
+    ]
+  },
+  {
+    "domain": "lexgen.info",
+    "title": "Lex Gen - Generative AI Law Centre",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 25258,
+    "crawled_at": "2026-04-27T22:26:20.022663362Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "BLR",
+      "CloudFront",
+      "Coming Soon Page",
+      "Dynadot",
+      "ElementUI",
+      "Fireblade",
+      "Font Awesome",
+      "GZIP Module",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "philippinevacationrentals.com",
     "title": "Welcome to PhilippineProperties.com",
     "business_name": "",
     "country": "",
     "seo_score": 62,
     "tech_spend": 7219,
-    "crawled_at": "2026-04-27T12:05:20.002651162Z",
+    "crawled_at": "2026-04-27T17:32:19.977714911Z",
     "technologies": [
       "Amazon CloudFront",
       "CloudFront",
@@ -22,25 +141,28 @@
     ]
   },
   {
-    "domain": "healthcaremobileappdevelopment.com",
-    "title": "An EMDN - Healthcare Mobile App Development, Mobile Health Technology Patient Management Telemedicine Health Monitoring Digital Clinics Medical Apps Electronic Health Records Wellness Tracking Healthcare Innovation",
+    "domain": "alexandriabarassociation.com",
+    "title": "The Alexandria Bar Association | Non-Official Website – The Franklin P. Backus Court House, Alexandria, Virginia, USA",
     "business_name": "",
     "country": "",
-    "seo_score": 42,
-    "tech_spend": 135,
-    "crawled_at": "2026-04-27T10:27:00.128714042Z",
+    "seo_score": 50,
+    "tech_spend": 39,
+    "crawled_at": "2026-04-27T17:11:19.982746969Z",
     "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
+      "Alternate Protocol",
       "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microsoft Clarity",
-      "UTF-8"
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Schema Plugin",
+      "Tailwind CSS",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
     ]
   },
   {
@@ -106,24 +228,6 @@
       "GZIP Module",
       "Tumblr",
       "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "dentalglove.com",
-    "title": "Build Your Brand",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 135,
-    "crawled_at": "2026-04-27T03:44:19.984925161Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
       "UTF-8"
     ]
   },
@@ -1192,36 +1296,6 @@
       "ElementUI",
       "Font Awesome",
       "GZIP Module",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "rootbarrierpro.com",
-    "title": "Sugar Land’s Home Inspector | Imperial Pro Inspection - Root Barrier Installation in Sugar Land TX | Foundation Protection Experts",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 19579,
-    "crawled_at": "2026-04-07T13:08:20.020269662Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Ethy",
-      "Fireblade",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Customer Reviews",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Perl",
-      "Tailwind CSS",
       "UTF-8"
     ]
   },
@@ -2486,31 +2560,6 @@
       "Google Analytics",
       "Google Tag Manager",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "alexandriabarassoc.com",
-    "title": "The Alexandria Bar Association | Non-Official Website – The Franklin P. Backus Court House, Alexandria, Virginia, USA",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 39,
-    "crawled_at": "2026-01-21T16:52:43.44335467Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Dynadot",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Schema Plugin",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   },
   {
