@@ -1,5 +1,26 @@
 [
   {
+    "domain": "67.gay",
+    "title": "dummy.cafe",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 60,
+    "crawled_at": "2026-04-27T20:35:20.009597663Z",
+    "technologies": [
+      "Astro",
+      "Better Stack",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Microdata for Google Shopping",
+      "PWA",
+      "Tailwind CSS",
+      "Yandex Hosting"
+    ]
+  },
+  {
     "domain": "status.sno.ai",
     "title": "Sno AI status",
     "business_name": "",
@@ -281,28 +302,6 @@
       "Twitter Analytics",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "dummy.cafe",
-    "title": "dummy.cafe",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 459,
-    "crawled_at": "2026-04-20T21:20:19.984205927Z",
-    "technologies": [
-      "Astro",
-      "Better Stack",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Font Awesome",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Tailwind CSS",
-      "shadcn ui"
     ]
   },
   {
