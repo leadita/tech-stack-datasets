@@ -1,5 +1,171 @@
 [
   {
+    "domain": "binayabaral.com.np",
+    "title": "Home - Binaya Baral",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 8691,
+    "crawled_at": "2026-04-28T19:23:20.012788539Z",
+    "technologies": [
+      "Cloudinary",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Fireblade",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "PWA",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "gvelop.com",
+    "title": "Management Consulting and Project Development - Gvelop",
+    "business_name": "",
+    "country": "PRI",
+    "seo_score": 55,
+    "tech_spend": "",
+    "crawled_at": "2026-04-28T09:29:19.982210314Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Gridsome",
+      "Netlify",
+      "PWA",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "thinkandgrowfinance.com.au",
+    "title": "Home - Think and Grow Finance",
+    "business_name": "",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 20541,
+    "crawled_at": "2026-04-28T09:08:20.019926803Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Australian Credit Licence",
+      "CloudFront",
+      "Content Delivery Network",
+      "Fireblade",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gravity",
+      "Gravity Forms",
+      "Gridsome",
+      "Line2",
+      "QUIC",
+      "Trustpilot Reviews for WordPress"
+    ]
+  },
+  {
+    "domain": "xn--lwehrz-eua4l.ch",
+    "title": "Kita Löwehärz - Ihre Kita in Wahlen",
+    "business_name": "",
+    "country": "CHE",
+    "seo_score": 67,
+    "tech_spend": 1228,
+    "crawled_at": "2026-04-28T08:32:19.987554336Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vimeo"
+    ]
+  },
+  {
+    "domain": "lavitabooy.nl",
+    "title": "Relatietherapie Amersfoort - Robert Paul Booy",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 77,
+    "tech_spend": 1617,
+    "crawled_at": "2026-04-28T05:53:19.982799181Z",
+    "technologies": [
+      "Calendly",
+      "Content Delivery Network",
+      "Formspree",
+      "Google Related Website Sites",
+      "Gridsome",
+      "Netlify",
+      "Perl",
+      "Plausible Analytics",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "okahyaoglu.net",
+    "title": "Hi! | Oguzhan Kahyaoglu",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 181939,
+    "crawled_at": "2026-04-28T05:14:19.992702032Z",
+    "technologies": [
+      "Amazon",
+      "Bulma",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "DAV",
+      "Fastly",
+      "Financial Services Guide",
+      "Font Awesome",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Heroku",
+      "K2F",
+      "NFOrce Internet",
+      "QUIC",
+      "Salesforce Hosted",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "duende.design",
+    "title": "Home — Duende",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 47,
+    "tech_spend": 120,
+    "crawled_at": "2026-04-28T04:24:08.835915902Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Apache",
+      "Express",
+      "GZIP Module",
+      "Gridsome",
+      "Ubuntu",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "costabastos.com.br",
     "title": "Costa Bastos - Corretora de Seguros - Costa Bastos",
     "business_name": "",
@@ -5710,34 +5876,6 @@
     ]
   },
   {
-    "domain": "thinkandgrowfinance.com.au",
-    "title": "Home - Think and Grow Finance",
-    "business_name": "",
-    "country": "",
-    "seo_score": 75,
-    "tech_spend": 20541,
-    "crawled_at": "2026-03-01T23:22:54.958813025Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Australian Credit Licence",
-      "CloudFront",
-      "Content Delivery Network",
-      "Fireblade",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gravity",
-      "Gravity Forms",
-      "Gridsome",
-      "Line2",
-      "QUIC",
-      "Trustpilot Reviews for WordPress"
-    ]
-  },
-  {
     "domain": "lukasriedel.se",
     "title": "Portfolio - Lukas Riedel",
     "business_name": "",
@@ -7040,29 +7178,6 @@
     ]
   },
   {
-    "domain": "xn--lwehrz-eua4l.ch",
-    "title": "Kita Löwehärz - Ihre Kita in Wahlen",
-    "business_name": "",
-    "country": "CHE",
-    "seo_score": 67,
-    "tech_spend": 1228,
-    "crawled_at": "2026-02-02T09:01:48.886095442Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vimeo"
-    ]
-  },
-  {
     "domain": "nslgroup.co.uk",
     "title": "Pharmaceutical Wholesaler & distributor - NSL Group",
     "business_name": "",
@@ -7993,30 +8108,6 @@
     ]
   },
   {
-    "domain": "binayabaral.com.np",
-    "title": "Home - Binaya Baral",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 8691,
-    "crawled_at": "2026-01-23T21:04:43.449696641Z",
-    "technologies": [
-      "Cloudinary",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Fireblade",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Netlify",
-      "PWA",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "thesojournerproject.org",
     "title": "The Sojourner Project - The Sojourner Project",
     "business_name": "",
@@ -8031,27 +8122,6 @@
       "Netlify",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "lavitabooy.nl",
-    "title": "Relatietherapie Amersfoort - Robert Paul Booy",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 77,
-    "tech_spend": 1617,
-    "crawled_at": "2026-01-23T11:19:43.463413053Z",
-    "technologies": [
-      "Calendly",
-      "Content Delivery Network",
-      "Formspree",
-      "Google Related Website Sites",
-      "Gridsome",
-      "Netlify",
-      "Perl",
-      "Plausible Analytics",
-      "Twitter Ads",
-      "UTF-8"
     ]
   },
   {
@@ -8247,27 +8317,6 @@
       "QUIC",
       "SMC",
       "Subversion"
-    ]
-  },
-  {
-    "domain": "abdellatif.design",
-    "title": "Abdellatif El Mellouki - UI/UX Designer - Abdellatif El Mellouki - UI/UX Designer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 3,
-    "crawled_at": "2026-01-20T10:04:43.440491029Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Nginx",
-      "Ubuntu"
     ]
   },
   {
@@ -11954,41 +12003,6 @@
       "itch.io",
       "jQuery",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "spa4home.net",
-    "title": "Spa4Home - Aus Weener für die Umgebung - Spa4Home - Aus Weener für die Umgebung",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 62,
-    "tech_spend": 2968,
-    "crawled_at": "2025-11-25T16:18:19.478299151Z",
-    "technologies": [
-      "Apache",
-      "Financial Services Guide",
-      "Gridsome",
-      "IcoMoon",
-      "Idaq"
-    ]
-  },
-  {
-    "domain": "tts-transocean.com",
-    "title": "Zeevracht - Specialist voor transport over zee",
-    "business_name": "TTS TransOcean",
-    "country": "NLD",
-    "seo_score": 67,
-    "tech_spend": 228,
-    "crawled_at": "2025-11-25T14:54:19.451369538Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Google My Business",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
