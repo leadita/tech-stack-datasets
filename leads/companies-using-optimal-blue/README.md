@@ -1,6 +1,6 @@
 # Companies Using Optimal Blue (Live Dataset 2026)
 
-This folder contains an active list of 200 companies using **Optimal Blue**. 
+This folder contains an active list of 202 companies using **Optimal Blue**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 200
+- **Total Leads:** 202
 - **Verified:** Yes
-- **Last Updated:** 2026-04-27 17:30 UTC
+- **Last Updated:** 2026-04-28 17:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **200+** companies using Optimal Blue.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **202+** companies using Optimal Blue.
 
 [**⚡ Unlock the Full Optimal Blue List with Contact Details**](https://leadita.com/leads/companies-using-optimal-blue)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-27 17:30 UTC*
+*Last updated: 2026-04-28 17:30 UTC*
 *Data source: Leadita Technographic Intelligence*

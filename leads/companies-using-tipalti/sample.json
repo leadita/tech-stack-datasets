@@ -1,5 +1,38 @@
 [
   {
+    "domain": "qfisol.com",
+    "title": "QuantiFi | Strategic Accounting & Fractional CFO Services",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 311524,
+    "crawled_at": "2026-04-28T02:53:19.978761991Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "OneTrust Domain Verification",
+      "Oracle Cloud",
+      "QUIC",
+      "Radix UI",
+      "Salesforce",
+      "Salesforce Experience Cloud",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "Tipalti",
+      "UTF-8",
+      "Unsplash",
+      "Vercel",
+      "WordPress",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "annoxcapital.com",
     "title": "Annox Capital – Annox Capital Investments",
     "business_name": "",
@@ -81,39 +114,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "qfisol.com",
-    "title": "QuantiFi | Strategic Accounting & Fractional CFO Services",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 311524,
-    "crawled_at": "2026-04-23T03:19:49.071516289Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "Corporate Governance and Regulatory Compliance",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "OneTrust Domain Verification",
-      "Oracle Cloud",
-      "QUIC",
-      "Radix UI",
-      "Salesforce",
-      "Salesforce Experience Cloud",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "Tipalti",
-      "UTF-8",
-      "Unsplash",
-      "Vercel",
-      "WordPress",
-      "shadcn ui"
     ]
   },
   {
