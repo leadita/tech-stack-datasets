@@ -1,5 +1,91 @@
 [
   {
+    "domain": "lexislearn.co.uk",
+    "title": "Latin and Greek Teacher",
+    "business_name": "Lexis Learn",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 49,
+    "crawled_at": "2026-04-28T11:35:19.984158245Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "sanderspianostudio.com",
+    "title": "Sanders Piano Studio",
+    "business_name": "Sanders Piano Studio",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 712,
+    "crawled_at": "2026-04-28T08:32:19.991693188Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "teddancestudio.com",
+    "title": "Home - Ted Motyka Dance Studio",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 4949,
+    "crawled_at": "2026-04-27T21:17:19.985781767Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud CDN",
+      "Microdata for Google Shopping",
+      "Publii",
+      "QUIC",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "briandesign.co.uk",
+    "title": "briandesign",
+    "business_name": "briandesign",
+    "country": "",
+    "seo_score": 25,
+    "tech_spend": 649,
+    "crawled_at": "2026-04-27T15:38:19.994804832Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "hacklab01.org",
     "title": "hacklab01",
     "business_name": "hacklab01",
@@ -2153,26 +2239,6 @@
       "Instagram Follow Button",
       "Microdata for Google Shopping",
       "Netlify",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "briandesign.co.uk",
-    "title": "briandesign",
-    "business_name": "briandesign",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 649,
-    "crawled_at": "2026-04-07T10:15:07.388683218Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
       "Publii",
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
@@ -4635,25 +4701,6 @@
     ]
   },
   {
-    "domain": "lexislearn.co.uk",
-    "title": "Latin and Greek Teacher",
-    "business_name": "Lexis Learn",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 49,
-    "crawled_at": "2026-01-23T15:22:43.456385274Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
-    ]
-  },
-  {
     "domain": "timschmoyer.com",
     "title": "Tim Schmoyer, host of Elder My City",
     "business_name": "Tim Schmoyer, host of Elder My City",
@@ -5338,30 +5385,6 @@
       "GZIP Module",
       "Microdata for Google Shopping",
       "OpenResty",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "sanderspianostudio.com",
-    "title": "Sanders Piano Studio",
-    "business_name": "Sanders Piano Studio",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 712,
-    "crawled_at": "2026-01-02T13:58:10.849894434Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
       "Publii",
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
