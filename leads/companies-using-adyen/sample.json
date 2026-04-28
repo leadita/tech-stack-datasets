@@ -1,16 +1,17 @@
 [
   {
-    "domain": "nakdlounge.nl",
+    "domain": "na-kdlounge.fr",
     "title": "NA-KD - Women's fashion online | NA-KD",
     "business_name": "",
     "country": "",
     "seo_score": 42,
-    "tech_spend": 26931,
-    "crawled_at": "2026-04-27T10:26:19.987517623Z",
+    "tech_spend": 26991,
+    "crawled_at": "2026-04-27T21:56:19.978828473Z",
     "technologies": [
       "Adult Content",
       "Adyen",
       "Alternate Protocol",
+      "Amazon",
       "Amazon WAF Blocked",
       "Baidu Cloud",
       "Cloudflare",
@@ -24,7 +25,6 @@
       "Google Cloud DNS",
       "Google Font API",
       "Google My Business",
-      "Google Related Website Sites",
       "Google Tag Manager",
       "GroupMe",
       "InitiativeS",
