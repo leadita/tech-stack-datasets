@@ -1,5 +1,21 @@
 [
   {
+    "domain": "crazy66.cyou",
+    "title": "CRAZY78",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 10360,
+    "crawled_at": "2026-04-28T06:04:51.639510641Z",
+    "technologies": [
+      "Ektron",
+      "GZIP Module",
+      "Kinsta",
+      "Kwai Conversion Tracking",
+      "Nginx"
+    ]
+  },
+  {
     "domain": "1ace999.com",
     "title": "1ACE | Cricket Betting & Live Casino Game in India",
     "business_name": "",
@@ -645,22 +661,6 @@
       "Sign In With Google",
       "Subversion",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "crazy66.cyou",
-    "title": "CRAZY78",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 10360,
-    "crawled_at": "2025-11-17T20:47:05.000215155Z",
-    "technologies": [
-      "Ektron",
-      "GZIP Module",
-      "Kinsta",
-      "Kwai Conversion Tracking",
-      "Nginx"
     ]
   }
 ]
