@@ -1,12 +1,12 @@
 [
   {
-    "domain": "herndoncarr.com",
+    "domain": "gillilandinsurance.com",
     "title": "Insurance Services in Florida | Patriot GIS",
     "business_name": "",
     "country": "USA",
     "seo_score": 67,
     "tech_spend": 79478,
-    "crawled_at": "2026-04-26T23:20:19.996027495Z",
+    "crawled_at": "2026-04-28T13:05:20.010646719Z",
     "technologies": [
       "AWS WAF Challenge",
       "Adobe Creative Cloud WebFonts",
@@ -19,6 +19,7 @@
       "Google Tag Manager",
       "Instagram Follow Button",
       "Ping Identity",
+      "QUIC",
       "Sanity",
       "Svelte",
       "Tailwind CSS",
