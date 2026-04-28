@@ -1,6 +1,6 @@
 # Companies Using Privy (Live Dataset 2026)
 
-This folder contains an active list of 8,003 companies using **Privy**. 
+This folder contains an active list of 8,016 companies using **Privy**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 8,003
+- **Total Leads:** 8,016
 - **Verified:** Yes
-- **Last Updated:** 2026-04-27 20:45 UTC
+- **Last Updated:** 2026-04-28 20:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **8,003+** companies using Privy.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **8,016+** companies using Privy.
 
 [**⚡ Unlock the Full Privy List with Contact Details**](https://leadita.com/leads/companies-using-privy)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-27 20:45 UTC*
+*Last updated: 2026-04-28 20:45 UTC*
 *Data source: Leadita Technographic Intelligence*
