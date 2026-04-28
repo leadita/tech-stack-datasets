@@ -1,6 +1,6 @@
 # Companies Using Material-UI (Live Dataset 2026)
 
-This folder contains an active list of 21,053 companies using **Material-UI**. 
+This folder contains an active list of 21,167 companies using **Material-UI**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 21,053
+- **Total Leads:** 21,167
 - **Verified:** Yes
-- **Last Updated:** 2026-04-27 15:00 UTC
+- **Last Updated:** 2026-04-28 15:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **21,053+** companies using Material-UI.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **21,167+** companies using Material-UI.
 
 [**⚡ Unlock the Full Material-UI List with Contact Details**](https://leadita.com/leads/companies-using-material-ui)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-27 15:00 UTC*
+*Last updated: 2026-04-28 15:00 UTC*
 *Data source: Leadita Technographic Intelligence*
