@@ -1,5 +1,32 @@
 [
   {
+    "domain": "club443.ru",
+    "title": "Частный клуб Алекса Экслера",
+    "business_name": "",
+    "country": "RUS",
+    "seo_score": 65,
+    "tech_spend": 9420,
+    "crawled_at": "2026-04-28T06:38:19.994546965Z",
+    "technologies": [
+      "ADFOX",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "CookieConsent",
+      "DoubleClick Bid Manager",
+      "GZIP Module",
+      "Google My Business",
+      "Invision Power Board",
+      "LiveInternet",
+      "Nginx",
+      "PHP",
+      "QUIC",
+      "UTF-8",
+      "Yandex Hosting",
+      "Yandex Metrika"
+    ]
+  },
+  {
     "domain": "danthenaturalman.com",
     "title": "Dan the Natural Man",
     "business_name": "",
@@ -335,33 +362,6 @@
       "Yandex Hosting",
       "Yandex Metrika",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "club443.ru",
-    "title": "Частный клуб Алекса Экслера",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 600,
-    "crawled_at": "2025-12-09T09:17:25.029444541Z",
-    "technologies": [
-      "ADFOX",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "CookieConsent",
-      "DoubleClick Bid Manager",
-      "GZIP Module",
-      "Google My Business",
-      "Invision Power Board",
-      "LiveInternet",
-      "Nginx",
-      "PHP",
-      "QUIC",
-      "UTF-8",
-      "Yandex Hosting",
-      "Yandex Metrika"
     ]
   },
   {
