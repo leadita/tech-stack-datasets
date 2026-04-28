@@ -1,6 +1,6 @@
 # Companies Using VWO (Live Dataset 2026)
 
-This folder contains an active list of 9,788 companies using **VWO**. 
+This folder contains an active list of 9,854 companies using **VWO**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 9,788
+- **Total Leads:** 9,854
 - **Verified:** Yes
-- **Last Updated:** 2026-04-27 10:00 UTC
+- **Last Updated:** 2026-04-28 10:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **9,788+** companies using VWO.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **9,854+** companies using VWO.
 
 [**⚡ Unlock the Full VWO List with Contact Details**](https://leadita.com/leads/companies-using-vwo)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-27 10:00 UTC*
+*Last updated: 2026-04-28 10:00 UTC*
 *Data source: Leadita Technographic Intelligence*
