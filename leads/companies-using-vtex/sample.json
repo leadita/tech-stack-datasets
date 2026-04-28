@@ -1,5 +1,33 @@
 [
   {
+    "domain": "tecnoboga.cl",
+    "title": "Tecnoboga | Bienvenidos",
+    "business_name": "",
+    "country": "CHL",
+    "seo_score": 72,
+    "tech_spend": 53408,
+    "crawled_at": "2026-04-28T04:20:20.026997873Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Lightwidget",
+      "Netlify",
+      "UTF-8",
+      "VTEX Personalization",
+      "eLand",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "casadocol.com.br",
     "title": "Docol | Líder em Design na América Latina",
     "business_name": "",
@@ -500,36 +528,6 @@
       "UTF-8",
       "VTEX Personalization",
       "monday.com"
-    ]
-  },
-  {
-    "domain": "tecno-boga.cl",
-    "title": "Tecnoboga | Bienvenidos",
-    "business_name": "",
-    "country": "CHL",
-    "seo_score": 77,
-    "tech_spend": 53408,
-    "crawled_at": "2026-04-07T07:49:03.474376983Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Lightwidget",
-      "Netlify",
-      "UTF-8",
-      "VTEX Personalization",
-      "eLand",
-      "jsDelivr"
     ]
   },
   {
