@@ -1,5 +1,39 @@
 [
   {
+    "domain": "weamse.com",
+    "title": "WordPress & Shopify Development Agency | WEAMSE",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 25262,
+    "crawled_at": "2026-04-29T14:53:19.98936012Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Apollo IO",
+      "Calendly",
+      "CloudFront",
+      "Content Delivery Network",
+      "Fireblade",
+      "Freshteam",
+      "GZIP Module",
+      "Google",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microsoft Clarity",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Tailwind CSS",
+      "Trustpilot Reviews for WordPress",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "daato.net",
     "title": "Daato I Your ESG management platform.",
     "business_name": "",
@@ -3230,34 +3264,6 @@
       "YouTube",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "workineuropa.de",
-    "title": "Workineuropa",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 67,
-    "tech_spend": 17372,
-    "crawled_at": "2025-11-18T04:05:04.981022425Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Fireblade",
-      "Freshteam",
-      "Gandi",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Material-UI",
-      "Next.js",
-      "PWA",
-      "Pleroma",
-      "Statamic",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
