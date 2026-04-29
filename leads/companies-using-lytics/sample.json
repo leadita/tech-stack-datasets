@@ -1152,40 +1152,5 @@
       "UTF-8",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "mbscentedhome.com",
-    "title": "HolidayFavorites",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 62125,
-    "crawled_at": "2025-11-18T02:56:05.02398364Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Adobe Marketing Cloud",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Coming Soon Page",
-      "Contentstack",
-      "Fireblade",
-      "Font Awesome",
-      "GZIP Module",
-      "GetResponse",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Hotjar",
-      "Imperva Bot Detection and Mitigation",
-      "Incapsula CDN",
-      "Lytics",
-      "New Relic",
-      "No-Q",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "reCAPTCHA"
-    ]
   }
 ]
