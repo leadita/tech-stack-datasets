@@ -1,6 +1,6 @@
 # Companies Using Heroku (Live Dataset 2026)
 
-This folder contains an active list of 40,768 companies using **Heroku**. 
+This folder contains an active list of 40,950 companies using **Heroku**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 40,768
+- **Total Leads:** 40,950
 - **Verified:** Yes
-- **Last Updated:** 2026-04-28 13:15 UTC
+- **Last Updated:** 2026-04-29 13:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **40,768+** companies using Heroku.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **40,950+** companies using Heroku.
 
 [**⚡ Unlock the Full Heroku List with Contact Details**](https://leadita.com/leads/companies-using-heroku)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-28 13:15 UTC*
+*Last updated: 2026-04-29 13:15 UTC*
 *Data source: Leadita Technographic Intelligence*
