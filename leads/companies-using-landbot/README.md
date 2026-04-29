@@ -1,6 +1,6 @@
 # Companies Using LandBot (Live Dataset 2026)
 
-This folder contains an active list of 551 companies using **LandBot**. 
+This folder contains an active list of 552 companies using **LandBot**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 551
+- **Total Leads:** 552
 - **Verified:** Yes
-- **Last Updated:** 2026-04-28 11:45 UTC
+- **Last Updated:** 2026-04-29 11:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **551+** companies using LandBot.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **552+** companies using LandBot.
 
 [**⚡ Unlock the Full LandBot List with Contact Details**](https://leadita.com/leads/companies-using-landbot)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-28 11:45 UTC*
+*Last updated: 2026-04-29 11:45 UTC*
 *Data source: Leadita Technographic Intelligence*
