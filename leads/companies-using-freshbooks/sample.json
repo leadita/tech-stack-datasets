@@ -1,12 +1,37 @@
 [
   {
-    "domain": "proposalplannernewportbeach.com",
+    "domain": "scaleupaccounting.net",
+    "title": "ScaleUp Accounting: Modern Cloud-Based Bookkeeping Solutions | ScaleUp Accounting",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 4102,
+    "crawled_at": "2026-04-29T04:04:01.848932263Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Calendly",
+      "Content Delivery Network",
+      "Dext",
+      "FreshBooks",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "QUIC",
+      "Wave",
+      "Xero",
+      "Zyro"
+    ]
+  },
+  {
+    "domain": "proposalplannerlagunabeach.com",
     "title": "Event Planner Worldwide | Amber Walker Events",
     "business_name": "Amber Walker Events",
     "country": "CAN",
     "seo_score": 77,
     "tech_spend": 142803,
-    "crawled_at": "2026-04-28T06:32:20.012403515Z",
+    "crawled_at": "2026-04-28T13:41:20.00200884Z",
     "technologies": [
       "123FormBuilder",
       "AWS WAF Challenge",
@@ -2774,30 +2799,6 @@
     ]
   },
   {
-    "domain": "accanalysis.com",
-    "title": "Home | AccAnalysis",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 3360,
-    "crawled_at": "2025-12-12T17:03:57.868041005Z",
-    "technologies": [
-      "Express",
-      "FreshBooks",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Nginx",
-      "Power BI",
-      "QUIC",
-      "UTF-8",
-      "Ubuntu",
-      "Wave",
-      "Xero",
-      "YouTube"
-    ]
-  },
-  {
     "domain": "traqworx.com",
     "title": "Home - traqworx.com",
     "business_name": "",
@@ -3252,67 +3253,6 @@
       "Vector Internet Services",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "scaleupaccounting.net",
-    "title": "ScaleUp Accounting: Modern Cloud-Based Bookkeeping Solutions | ScaleUp Accounting",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 4102,
-    "crawled_at": "2025-11-18T06:32:04.998072325Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Calendly",
-      "Content Delivery Network",
-      "Dext",
-      "FreshBooks",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "QUIC",
-      "Wave",
-      "Xero",
-      "Zyro"
-    ]
-  },
-  {
-    "domain": "ailsablair.com",
-    "title": "ailsa blair [dot] com // portfolio",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 65,
-    "tech_spend": 21055,
-    "crawled_at": "2025-11-18T04:02:04.993340981Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AWS WAF Challenge",
-      "Amazon",
-      "Amazon CloudFront",
-      "Animate It",
-      "CloudFront",
-      "Cloudflare",
-      "Coming Soon Page",
-      "Commoninja",
-      "Content Delivery Network",
-      "FreshBooks",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "QUIC",
-      "Tailwind CSS",
-      "University or College",
-      "WF Cookie Consent",
-      "Wave",
-      "jsDelivr"
     ]
   }
 ]

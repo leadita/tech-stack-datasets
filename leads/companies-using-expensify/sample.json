@@ -1,5 +1,31 @@
 [
   {
+    "domain": "algorista.ai",
+    "title": "Algorista ai",
+    "business_name": "",
+    "country": "COL",
+    "seo_score": 60,
+    "tech_spend": 4563,
+    "crawled_at": "2026-04-29T09:05:19.98833789Z",
+    "technologies": [
+      "ADFOX",
+      "Baidu Cloud",
+      "Expensify",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Nginx",
+      "Teamtailor",
+      "Tilda",
+      "UTF-8",
+      "Ubuntu",
+      "Vector Internet Services",
+      "Yandex Hosting",
+      "Yandex Metrika"
+    ]
+  },
+  {
     "domain": "synergic-corp.com",
     "title": "Back Office Support Solutions | Synergic Group LLC | Los Angeles",
     "business_name": "https://synergic-corp.com",
@@ -1105,32 +1131,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "algorista.ai",
-    "title": "Algorista ai",
-    "business_name": "",
-    "country": "COL",
-    "seo_score": 70,
-    "tech_spend": 24588,
-    "crawled_at": "2025-12-21T16:48:05.615798371Z",
-    "technologies": [
-      "ADFOX",
-      "Baidu Cloud",
-      "Expensify",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "Teamtailor",
-      "Tilda",
-      "UTF-8",
-      "Ubuntu",
-      "Vector Internet Services",
-      "Yandex Hosting",
-      "Yandex Metrika"
     ]
   },
   {
