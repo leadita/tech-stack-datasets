@@ -1,5 +1,54 @@
 [
   {
+    "domain": "19asteroids.com",
+    "title": "Insight that drives growth",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 24182,
+    "crawled_at": "2026-04-29T08:41:19.981004571Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "CapsuleCRM",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "LiteSpeed",
+      "PHP",
+      "QUIC",
+      "RM Education",
+      "RapidWeaver",
+      "UTF-8",
+      "Unsplash"
+    ]
+  },
+  {
+    "domain": "bluemountainsprinting.com.au",
+    "title": "Blue Mountains Printing - Design Penrith + Blue Mountains + Lithgow",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 9119,
+    "crawled_at": "2026-04-28T23:41:19.989605304Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "CapsuleCRM",
+      "Coming Soon Page",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "QUIC",
+      "RM Education",
+      "Subversion",
+      "Zopim",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "pharmacistwealth.com",
     "title": "Pharmacist Wealth",
     "business_name": "",
@@ -1021,32 +1070,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "bluemountainsprinting.com.au",
-    "title": "Blue Mountains Printing - Design Penrith + Blue Mountains + Lithgow",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 9119,
-    "crawled_at": "2026-01-03T22:27:35.042752932Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "CapsuleCRM",
-      "Coming Soon Page",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "QUIC",
-      "RM Education",
-      "Subversion",
-      "Zopim",
-      "jQuery"
     ]
   },
   {
