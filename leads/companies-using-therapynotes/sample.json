@@ -1,5 +1,62 @@
 [
   {
+    "domain": "mredscircleoftrust.com",
+    "title": "Dr. Franklin Edward Shoemaker, PhD, LMHC, QS, TF-CBT Home Adoption Competent Clinician/Attachment-Focused Therapist",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 16668,
+    "crawled_at": "2026-04-29T08:56:38.676187568Z",
+    "technologies": [
+      "Adult Content",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Fireblade",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Tailwind CSS",
+      "TherapyNotes",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "therapistaiplaybook.com",
+    "title": "The Therapist's AI Playbook | AI Documentation for Therapists",
+    "business_name": "The Therapist's AI Playbook",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 4348,
+    "crawled_at": "2026-04-29T01:23:19.980156218Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Harbor",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "QUIC",
+      "Stripe",
+      "Tailwind CSS",
+      "TherapyNotes",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "medheaveconnect.info",
     "title": "Premier Medical Billing Company in Massachusetts | Medheave",
     "business_name": "Medheave",
@@ -5156,37 +5213,6 @@
       "YouTube",
       "eClinicalWorks",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "mredscircleoftrust.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 34068,
-    "crawled_at": "2025-11-18T08:44:05.019286856Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adult Content",
-      "Amazon",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Tailwind CSS",
-      "TherapyNotes",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "eLand"
     ]
   }
 ]
