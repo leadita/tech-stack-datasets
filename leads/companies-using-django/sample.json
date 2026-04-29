@@ -1,5 +1,126 @@
 [
   {
+    "domain": "petestreesofridgefield.com",
+    "title": "Pete's Trees LLC | Home",
+    "business_name": "",
+    "country": "EGY",
+    "seo_score": 70,
+    "tech_spend": 2268,
+    "crawled_at": "2026-04-29T11:08:20.009789587Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Perl",
+      "QUIC",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "slotworld1043.de",
+    "title": "SlotWorld1043: Expert Casino Reviews & Winning Strategies",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 22756,
+    "crawled_at": "2026-04-29T10:20:20.015869244Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Bulma",
+      "Django",
+      "Fireblade",
+      "GZIP Module",
+      "Gambling Content",
+      "IcoMoon",
+      "Krypt Technologies",
+      "Matomo",
+      "Matomo Tag Manager",
+      "Nginx",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "vertexupdate.de",
+    "title": "Vertex Update: AI and Machine Learning Insights for Developers",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 7288,
+    "crawled_at": "2026-04-29T09:59:19.993192341Z",
+    "technologies": [
+      "Django",
+      "GZIP Module",
+      "Gambling Content",
+      "Krypt Technologies",
+      "Matomo",
+      "Matomo Tag Manager",
+      "Nginx",
+      "Ntent",
+      "QUIC",
+      "UTF-8",
+      "Ubuntu",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "accoplacers.com",
+    "title": "Accoplacers - Career Support for Accounting & Finance Professionals",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 124,
+    "crawled_at": "2026-04-29T00:56:20.002201979Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Django",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Nginx",
+      "QUIC",
+      "UTF-8",
+      "Ubuntu",
+      "Unsplash"
+    ]
+  },
+  {
+    "domain": "slotdrive1090.de",
+    "title": "SlotDrive1090: Expert Tips for Online Slot Gaming Success",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 18788,
+    "crawled_at": "2026-04-28T16:38:19.98168116Z",
+    "technologies": [
+      "Django",
+      "Fireblade",
+      "GZIP Module",
+      "Gambling Content",
+      "Matomo",
+      "Matomo Tag Manager",
+      "Media.net",
+      "NFOrce Internet",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "squadf1.com",
     "title": "SquadF1 - Engineering Smart Solutions | Software Architecture | Embedded Systems | RFID | DevOps",
     "business_name": "",
@@ -132,59 +253,6 @@
     ]
   },
   {
-    "domain": "spinobserver.de",
-    "title": "SpinObserver - Insights on Quantum Physics and Modern Science",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 19256,
-    "crawled_at": "2026-04-26T16:41:20.000063293Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Bulma",
-      "Django",
-      "GZIP Module",
-      "Gambling Content",
-      "IcoMoon",
-      "Matomo",
-      "Matomo Tag Manager",
-      "NFOrce Internet",
-      "Nginx",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "vectorindustries.de",
-    "title": "Vector Industries: Innovative Tech Solutions & Industry Insights",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 8788,
-    "crawled_at": "2026-04-26T12:23:20.020956499Z",
-    "technologies": [
-      "Angular",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "Gambling Content",
-      "Matomo",
-      "Matomo Tag Manager",
-      "NFOrce Internet",
-      "Nginx",
-      "Ntent",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "Vector Internet Services",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "regalleather.com",
     "title": "Regal - Timeless Leather Craft",
     "business_name": "Regal Leather",
@@ -212,30 +280,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "slotservices416.de",
-    "title": "Slot Services 416 | Expert Casino Gaming Solutions & Tips",
-    "business_name": "",
-    "country": "IRN",
-    "seo_score": 72,
-    "tech_spend": 3788,
-    "crawled_at": "2026-04-26T11:50:20.01181503Z",
-    "technologies": [
-      "Bulma",
-      "Django",
-      "GZIP Module",
-      "Gambling Content",
-      "Matomo",
-      "Matomo Tag Manager",
-      "NFOrce Internet",
-      "Nginx",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "jQuery"
     ]
   },
   {
@@ -9294,27 +9338,6 @@
       "UTF-8",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "petestreesofridgefield.com",
-    "title": "Pete's Trees LLC | Home",
-    "business_name": "",
-    "country": "EGY",
-    "seo_score": 70,
-    "tech_spend": 2268,
-    "crawled_at": "2025-11-20T10:00:19.432635391Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
     ]
   },
   {
