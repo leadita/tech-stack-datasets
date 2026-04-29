@@ -1,5 +1,37 @@
 [
   {
+    "domain": "govcertcollective.com",
+    "title": "Support for ESPs w/Contracting",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 21087,
+    "crawled_at": "2026-04-28T20:11:19.985620212Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "BetterMode",
+      "Calendly",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "ElementUI",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Headless UI",
+      "Imgix",
+      "Instagram Follow Button",
+      "OnlineWebFonts",
+      "PWA",
+      "QUIC",
+      "Subversion",
+      "Tailwind CSS",
+      "Tribe.so",
+      "University or College",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "nicenter.fi",
     "title": "Home - Nykarleby Innovation Center",
     "business_name": "",
