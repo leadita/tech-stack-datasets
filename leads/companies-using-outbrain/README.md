@@ -1,6 +1,6 @@
 # Companies Using Outbrain (Live Dataset 2026)
 
-This folder contains an active list of 4,465 companies using **Outbrain**. 
+This folder contains an active list of 4,471 companies using **Outbrain**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 4,465
+- **Total Leads:** 4,471
 - **Verified:** Yes
-- **Last Updated:** 2026-04-28 11:00 UTC
+- **Last Updated:** 2026-04-29 11:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **4,465+** companies using Outbrain.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **4,471+** companies using Outbrain.
 
 [**⚡ Unlock the Full Outbrain List with Contact Details**](https://leadita.com/leads/companies-using-outbrain)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-28 11:00 UTC*
+*Last updated: 2026-04-29 11:00 UTC*
 *Data source: Leadita Technographic Intelligence*
