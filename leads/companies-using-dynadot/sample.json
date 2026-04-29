@@ -1,5 +1,121 @@
 [
   {
+    "domain": "chainshq.com",
+    "title": "An EMDN - Chains HQ, Blockchain SupplyChain Logistics Management Technology",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 135,
+    "crawled_at": "2026-04-29T13:44:23.196419151Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "cinemenace.com",
+    "title": "CINEMENACE",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 2135,
+    "crawled_at": "2026-04-29T11:39:20.055229717Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "BLR",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "rocket.im",
+    "title": "This website or DOMAIN NAME may be for sale.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 76599,
+    "crawled_at": "2026-04-29T09:59:19.982523335Z",
+    "technologies": [
+      "Camp",
+      "Cart.com",
+      "Dynadot",
+      "ElementUI",
+      "Fast",
+      "Font Awesome",
+      "GZIP Module",
+      "Google My Business",
+      "PointDNS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "alessandraderossi.com",
+    "title": "Build Your Brand",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 135,
+    "crawled_at": "2026-04-29T09:53:20.030379731Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "pier-less.com",
+    "title": "Pier-less Foundation Inspections",
+    "business_name": "Pier-less Foundation Services LLC",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 18379,
+    "crawled_at": "2026-04-28T17:26:19.981779484Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Fireblade",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Customer Reviews",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "UTF-8",
+      "University or College",
+      "eLand"
+    ]
+  },
+  {
     "domain": "austinpointhomeinspector.com",
     "title": "Austin Point New Construction Home Inspections | Imperial Pro",
     "business_name": "",
@@ -28,47 +144,6 @@
       "Microdata for Google Shopping",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "shabu.org",
-    "title": "Build Your Brand",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 195,
-    "crawled_at": "2026-04-28T14:02:46.826819532Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "interlockingsystem.com",
-    "title": "An EMDN - Interlocking System, Mechanical Engineering Railway Safety Track Control Signal Coordination Automated Locking Industrial Mechanisms Infrastructure Reliability",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 135,
-    "crawled_at": "2026-04-28T12:18:27.930596336Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microsoft Clarity",
-      "UTF-8"
     ]
   },
   {
@@ -290,27 +365,6 @@
       "GZIP Module",
       "Google Analytics",
       "Google Tag Manager",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "scoop.name",
-    "title": "This website or DOMAIN NAME may be for sale.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 76599,
-    "crawled_at": "2026-04-25T05:41:19.988076263Z",
-    "technologies": [
-      "Camp",
-      "Cart.com",
-      "Dynadot",
-      "ElementUI",
-      "Fast",
-      "Font Awesome",
-      "GZIP Module",
-      "Google My Business",
-      "PointDNS",
       "UTF-8"
     ]
   },
@@ -1492,37 +1546,6 @@
       "GZIP Module",
       "InitiativeS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "inspectmyslab.com",
-    "title": "Pier-less Foundation Inspections",
-    "business_name": "Pier-less Foundation Services LLC",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 18379,
-    "crawled_at": "2026-04-03T21:35:20.002720006Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Fireblade",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Customer Reviews",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "UTF-8",
-      "University or College",
-      "eLand"
     ]
   },
   {
@@ -4038,29 +4061,6 @@
       "Tumblr",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "cinemenace.com",
-    "title": "CINEMENACE",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 2135,
-    "crawled_at": "2025-11-18T10:02:04.997777931Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "BLR",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Tumblr",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
