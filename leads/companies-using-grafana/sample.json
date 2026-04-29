@@ -1,5 +1,21 @@
 [
   {
+    "domain": "fabryczna.art",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 1200,
+    "crawled_at": "2026-04-29T16:06:19.875219284Z",
+    "technologies": [
+      "Barchart",
+      "Express",
+      "GitHub Hosting",
+      "Grafana",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "pmm.par.pw",
     "title": "Grafana",
     "business_name": "",
@@ -38,22 +54,20 @@
     ]
   },
   {
-    "domain": "servermonitor.fi",
+    "domain": "metrics.m2b.io",
     "title": "Grafana",
     "business_name": "",
     "country": "",
     "seo_score": 30,
-    "tech_spend": 1200,
-    "crawled_at": "2026-04-25T22:29:20.021551785Z",
+    "tech_spend": "",
+    "crawled_at": "2026-04-24T00:35:19.990478045Z",
     "technologies": [
-      "Apache",
-      "Barchart",
-      "Express",
       "GZIP Module",
       "GitHub Hosting",
       "Grafana",
       "Nginx",
-      "UTF-8"
+      "UTF-8",
+      "Ubuntu"
     ]
   },
   {
