@@ -1,6 +1,6 @@
 # Companies Using Apache Tomcat (Live Dataset 2026)
 
-This folder contains an active list of 537 companies using **Apache Tomcat**. 
+This folder contains an active list of 543 companies using **Apache Tomcat**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 537
+- **Total Leads:** 543
 - **Verified:** Yes
-- **Last Updated:** 2026-04-28 23:30 UTC
+- **Last Updated:** 2026-04-29 23:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **537+** companies using Apache Tomcat.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **543+** companies using Apache Tomcat.
 
 [**⚡ Unlock the Full Apache Tomcat List with Contact Details**](https://leadita.com/leads/companies-using-apache-tomcat)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-04-28 23:30 UTC*
+*Last updated: 2026-04-29 23:30 UTC*
 *Data source: Leadita Technographic Intelligence*
