@@ -1,5 +1,24 @@
 [
   {
+    "domain": "henrylabs.com",
+    "title": "henrylabs : information & relationships",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 6000,
+    "crawled_at": "2026-04-29T07:06:41.395760141Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "Drupal",
+      "GZIP Module",
+      "Google Analytics",
+      "UTF-8",
+      "University or College",
+      "YCharts"
+    ]
+  },
+  {
     "domain": "maverickinvestors.com",
     "title": "Maverick Investors Rally Site | An investment blog by Mal Spooner, veteran money manager and author of: A Maverick Investors Guidebook",
     "business_name": "",
@@ -928,25 +947,6 @@
       "Visual Studio",
       "YCharts",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "henrylabs.com",
-    "title": "henrylabs : information & relationships",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 6000,
-    "crawled_at": "2025-11-18T07:50:05.012018875Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "Drupal",
-      "GZIP Module",
-      "Google Analytics",
-      "UTF-8",
-      "University or College",
-      "YCharts"
     ]
   }
 ]
