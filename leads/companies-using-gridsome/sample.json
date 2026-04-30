@@ -1,5 +1,230 @@
 [
   {
+    "domain": "cegielniaolszanka.pl",
+    "title": "Cegielnia Olszanka - cegła ręcznie formowana - Cegielnia Olszanka",
+    "business_name": "",
+    "country": "POL",
+    "seo_score": 72,
+    "tech_spend": 20988,
+    "crawled_at": "2026-04-30T15:41:19.988657691Z",
+    "technologies": [
+      "Bulma",
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Gridsome",
+      "HMDG",
+      "Netlify",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "omscs-notes.com",
+    "title": "Home - OMSCS Notes",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 858,
+    "crawled_at": "2026-04-30T15:20:20.004569688Z",
+    "technologies": [
+      "Algolia",
+      "Amazon Widgets",
+      "Content Delivery Network",
+      "DAV",
+      "Fastly",
+      "Font Awesome",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Gridsome",
+      "IcoMoon",
+      "KaTeX",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "handcodedstudio.co.uk",
+    "title": "Hand Coded Studio - Hand Coded Studio",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 67,
+    "tech_spend": 426,
+    "crawled_at": "2026-04-30T14:47:20.007696621Z",
+    "technologies": [
+      "Bulma",
+      "Content Delivery Network",
+      "Cornerstone",
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "loginfront.com",
+    "title": "Home - LoginFront",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 114929,
+    "crawled_at": "2026-04-30T12:26:20.010997835Z",
+    "technologies": [
+      "DAV",
+      "Federal Deposit Insurance Corporation",
+      "Financial Services Guide",
+      "Fireblade",
+      "Font Awesome",
+      "GZIP Module",
+      "Gridsome",
+      "Idaq",
+      "K2F",
+      "KVH",
+      "Nginx",
+      "No-Q",
+      "PWA",
+      "SMC",
+      "Silicon Valley Web Hosting",
+      "Subversion",
+      "Tailwind CSS",
+      "Visx"
+    ]
+  },
+  {
+    "domain": "von-der-wiesbachaue.de",
+    "title": "Kooikerhondjes von der Wiesbachaue - Gridsome",
+    "business_name": "",
+    "country": "",
+    "seo_score": 70,
+    "tech_spend": 55570,
+    "crawled_at": "2026-04-30T11:57:21.689079308Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Financial Services Guide",
+      "Gridsome",
+      "K2F",
+      "KVH",
+      "No-Q",
+      "Onyx Internet",
+      "Subversion",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "eswat42.dev",
+    "title": "Richard Hess | my personal GitHub Page…",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 42607,
+    "crawled_at": "2026-04-30T11:35:19.985890612Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Express",
+      "Fastly",
+      "Figma",
+      "Flow",
+      "Font Awesome",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Gridsome",
+      "Headless UI",
+      "Heroku",
+      "Jekyll",
+      "Material Design Icons",
+      "Medium",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Parcel",
+      "Perl",
+      "QUIC",
+      "Slack",
+      "Subversion",
+      "Svelte",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vercel",
+      "Visual Studio"
+    ]
+  },
+  {
+    "domain": "chrinas.com",
+    "title": "Chrina's - Chrina's Guest House",
+    "business_name": "",
+    "country": "MWI",
+    "seo_score": 52,
+    "tech_spend": 2388,
+    "crawled_at": "2026-04-30T08:59:20.002568759Z",
+    "technologies": [
+      "Cloudinary",
+      "Content Delivery Network",
+      "Express",
+      "Gridsome",
+      "Krypt Technologies",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "khemio.dev",
+    "title": "KhemioDev",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 156,
+    "crawled_at": "2026-04-30T05:38:20.016148645Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Gridsome",
+      "IcoMoon",
+      "Netlify",
+      "UTF-8",
+      "University or College",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "consultlowtide.com",
+    "title": "Martin Laws - Low Tide Consulting",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 268,
+    "crawled_at": "2026-04-30T02:17:19.987282556Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "wippolino.com",
     "title": "Wipptiermanufaktur aus Tirol | Wippolino - Wippolino",
     "business_name": "",
@@ -1029,46 +1254,6 @@
       "Netlify",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "eswat2.dev",
-    "title": "Richard Hess | my personal GitHub Page…",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 42607,
-    "crawled_at": "2026-04-23T09:40:32.066312878Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Express",
-      "Fastly",
-      "Figma",
-      "Flow",
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Gridsome",
-      "Headless UI",
-      "Heroku",
-      "Jekyll",
-      "Material Design Icons",
-      "Medium",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Parcel",
-      "Perl",
-      "QUIC",
-      "Slack",
-      "Subversion",
-      "Svelte",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vercel",
-      "Visual Studio"
     ]
   },
   {
@@ -4453,25 +4638,6 @@
     ]
   },
   {
-    "domain": "cryptium.com",
-    "title": "Cryptium - cryptium.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 8000,
-    "crawled_at": "2026-04-03T21:44:19.977887339Z",
-    "technologies": [
-      "GZIP Module",
-      "Gridsome",
-      "HMDG",
-      "Nginx",
-      "PWA",
-      "Subversion",
-      "Twitter Ads",
-      "YouTube"
-    ]
-  },
-  {
     "domain": "digitalstate.co.uk",
     "title": "Digital State - Digital State",
     "business_name": "",
@@ -5900,24 +6066,6 @@
       "QUIC",
       "UTF-8",
       "University or College"
-    ]
-  },
-  {
-    "domain": "chrinas.com",
-    "title": "Chrina's - Chrina's Guest House",
-    "business_name": "",
-    "country": "MWI",
-    "seo_score": 52,
-    "tech_spend": 2388,
-    "crawled_at": "2026-03-04T23:03:31.890732968Z",
-    "technologies": [
-      "Cloudinary",
-      "Content Delivery Network",
-      "Express",
-      "Gridsome",
-      "Krypt Technologies",
-      "Netlify",
-      "UTF-8"
     ]
   },
   {
@@ -8089,27 +8237,6 @@
     ]
   },
   {
-    "domain": "consultlowtide.com",
-    "title": "Martin Laws - Low Tide Consulting",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 268,
-    "crawled_at": "2026-01-25T02:43:43.439881775Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "robdekruijf.nl",
     "title": "Rob de Kruijf - Gestalttherapie in Krimpen aan den IJsel, Rotterdam en Den Hoorn",
     "business_name": "",
@@ -9061,28 +9188,6 @@
       "Tailwind CSS",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "khemio.dev",
-    "title": "KhemioDev",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 75,
-    "tech_spend": 936,
-    "crawled_at": "2026-01-07T08:44:16.036412467Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Gridsome",
-      "IcoMoon",
-      "Netlify",
-      "UTF-8",
-      "University or College",
-      "Vercel"
     ]
   },
   {
@@ -11766,26 +11871,6 @@
     ]
   },
   {
-    "domain": "handcodedstudio.co.uk",
-    "title": "Hand Coded Studio - Hand Coded Studio",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 67,
-    "tech_spend": 426,
-    "crawled_at": "2025-11-28T13:21:21.031080459Z",
-    "technologies": [
-      "Bulma",
-      "Content Delivery Network",
-      "Cornerstone",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Netlify",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "cartography-co.io",
     "title": "Cartography - Code Better",
     "business_name": "",
@@ -11866,86 +11951,6 @@
       "Onyx Internet",
       "Tailwind CSS",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "firstclasslearning.co.uk",
-    "title": "UK Maths & English Tuition Centres | First Class Learning",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 151880,
-    "crawled_at": "2025-11-26T09:09:19.428573215Z",
-    "technologies": [
-      "34SP.com",
-      "AWS WAF Challenge",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "DAV",
-      "Drata",
-      "Financial Services Guide",
-      "Google My Business",
-      "Gridsome",
-      "Idaq",
-      "Instagram Follow Button",
-      "K2F",
-      "KVH",
-      "M247",
-      "Nationwide Mortgage Licensing System and Registry",
-      "No-Q",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "Unix",
-      "eLand",
-      "reCAPTCHA",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "abrajinjaz.com",
-    "title": "Industrie minière et des carrières - Abraj Injaz",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 268,
-    "crawled_at": "2025-11-26T06:42:19.436283953Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Gridsome",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "timepiecegroup.co.uk",
-    "title": "Home - Shop online for quality sourced watches",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 52,
-    "tech_spend": 348,
-    "crawled_at": "2025-11-26T00:18:19.446369018Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Related Website Sites",
-      "Gridsome",
-      "Netlify",
-      "PWA",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
