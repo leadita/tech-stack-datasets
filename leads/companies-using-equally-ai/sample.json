@@ -1,12 +1,43 @@
 [
   {
-    "domain": "sigiltalentconnect.com",
+    "domain": "agitatorwines.com",
+    "title": "Agitator",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 65,
+    "tech_spend": 85791,
+    "crawled_at": "2026-04-30T08:17:20.017323378Z",
+    "technologies": [
+      "Aruba",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Elfsight",
+      "Equally AI",
+      "Express",
+      "FormSubmit",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Newsletter for Wordpress",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "sigilpartnersinvest.com",
     "title": "Your Elite Search Firm for Exceptional Talent I Sigil Partners",
     "business_name": "Sigil Partners",
     "country": "USA",
     "seo_score": 77,
     "tech_spend": 41181,
-    "crawled_at": "2026-04-28T13:53:08.533343171Z",
+    "crawled_at": "2026-04-30T00:02:20.001654992Z",
     "technologies": [
       "AWS WAF Challenge",
       "Alternate Protocol",
@@ -7675,37 +7706,6 @@
       "hCaptcha",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "agitatorwines.com",
-    "title": "Agitator",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 85791,
-    "crawled_at": "2025-11-21T06:36:19.455439748Z",
-    "technologies": [
-      "Aruba",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Elfsight",
-      "Equally AI",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   },
   {
