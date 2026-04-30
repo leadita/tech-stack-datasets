@@ -1,5 +1,35 @@
 [
   {
+    "domain": "tricochetando.com",
+    "title": "Tricochetando.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 22155,
+    "crawled_at": "2026-04-30T03:02:20.005319311Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "DC74",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Norton Site Seal",
+      "QUIC",
+      "Subversion",
+      "UTF-8",
+      "VTEX Personalization",
+      "Yourviews"
+    ]
+  },
+  {
     "domain": "tecnoboga.cl",
     "title": "Tecnoboga | Bienvenidos",
     "business_name": "",
