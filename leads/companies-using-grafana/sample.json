@@ -1,5 +1,26 @@
 [
   {
+    "domain": "lora.md5.si",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 6260,
+    "crawled_at": "2026-04-30T02:32:19.999900746Z",
+    "technologies": [
+      "Barchart",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Grafana",
+      "KVH",
+      "OpenResty",
+      "UTF-8",
+      "Visx",
+      "Yandex Hosting"
+    ]
+  },
+  {
     "domain": "fabryczna.art",
     "title": "Grafana",
     "business_name": "",
@@ -47,23 +68,6 @@
       "Contento",
       "Express",
       "GZIP Module",
-      "Grafana",
-      "Nginx",
-      "UTF-8",
-      "Ubuntu"
-    ]
-  },
-  {
-    "domain": "metrics.m2b.io",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": "",
-    "crawled_at": "2026-04-24T00:35:19.990478045Z",
-    "technologies": [
-      "GZIP Module",
-      "GitHub Hosting",
       "Grafana",
       "Nginx",
       "UTF-8",
