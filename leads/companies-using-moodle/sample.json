@@ -1,5 +1,25 @@
 [
   {
+    "domain": "campuscoachingcorp.com",
+    "title": "Home | Coaching Corp",
+    "business_name": "",
+    "country": "CHL",
+    "seo_score": 57,
+    "tech_spend": 10500,
+    "crawled_at": "2026-04-29T21:20:20.011086845Z",
+    "technologies": [
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Moodle",
+      "NFOrce Internet",
+      "PHP",
+      "QUIC",
+      "Totara",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "campusfarmacia.com",
     "title": "Home | Farmacias PHM",
     "business_name": "",
