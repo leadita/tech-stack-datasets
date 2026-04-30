@@ -1,16 +1,16 @@
 [
   {
-    "domain": "gobashealth.com",
+    "domain": "trybascarepass.com",
     "title": "Benefit Airship Affordable Health & Wellness Plans Nationwide",
     "business_name": "Benefit Airship",
     "country": "",
     "seo_score": 67,
-    "tech_spend": 108736,
-    "crawled_at": "2026-04-28T10:35:20.008149862Z",
+    "tech_spend": 106336,
+    "crawled_at": "2026-04-30T20:50:19.994109752Z",
     "technologies": [
       "AWS WAF Challenge",
       "Airship CRM",
-      "Amazon",
+      "Alternate Protocol",
       "Amazon CloudFront",
       "Amazon WAF Blocked",
       "Apture Linking Platform",
