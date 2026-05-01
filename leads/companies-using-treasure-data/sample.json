@@ -1,5 +1,26 @@
 [
   {
+    "domain": "bvaughn.me",
+    "title": "Brian Vaughn: Resume",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 21000,
+    "crawled_at": "2026-05-01T06:35:19.992450214Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "GitHub Hosting",
+      "Google My Business",
+      "Google Play",
+      "Google Retail Product Discovery",
+      "Treasure Data",
+      "UTF-8",
+      "University or College",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "akersrentatruck.com",
     "title": "The Largest Selection of Ford Rental Trucks in South East Florida | Akers Rent A Truck",
     "business_name": "",
@@ -1455,27 +1476,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "bvaughn.now.sh",
-    "title": "Brian Vaughn: Resume",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 21000,
-    "crawled_at": "2026-01-11T01:52:49.806616229Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "GitHub Hosting",
-      "Google My Business",
-      "Google Play",
-      "Google Retail Product Discovery",
-      "Treasure Data",
-      "UTF-8",
-      "University or College",
-      "Vercel"
     ]
   },
   {
