@@ -1,5 +1,35 @@
 [
   {
+    "domain": "joel225.info",
+    "title": "Joel225.info",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 1421,
+    "crawled_at": "2026-05-01T14:14:20.006405156Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "Fastly",
+      "GZIP Module",
+      "Line2",
+      "Microdata for Google Shopping",
+      "PayPal Adaptive Payments",
+      "PayPal Button",
+      "PayPal Form",
+      "QUIC",
+      "RightSignature",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "Zoom Video Conferencing",
+      "eLand"
+    ]
+  },
+  {
     "domain": "brianhartong.com",
     "title": "Brian Hartong | Senior Software Engineer | Portfolio",
     "business_name": "",
@@ -574,44 +604,6 @@
       "YouTube",
       "Zendesk Guide",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "joel225.org",
-    "title": "Joel 2:25 International",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 1912,
-    "crawled_at": "2026-04-12T00:53:20.011012802Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Cornerstone",
-      "Express",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Line2",
-      "Microdata for Google Shopping",
-      "PayPal Adaptive Payments",
-      "QUIC",
-      "RightSignature",
-      "Rumble Player",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "Zoom Video Conferencing",
-      "eLand"
     ]
   },
   {
@@ -1574,36 +1566,6 @@
       "Wix Media",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "joel225.info",
-    "title": "Joel225.info",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 1421,
-    "crawled_at": "2026-01-02T13:03:21.79140299Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "Fastly",
-      "GZIP Module",
-      "Line2",
-      "Microdata for Google Shopping",
-      "PayPal Adaptive Payments",
-      "PayPal Button",
-      "PayPal Form",
-      "QUIC",
-      "RightSignature",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "Zoom Video Conferencing",
-      "eLand"
     ]
   },
   {

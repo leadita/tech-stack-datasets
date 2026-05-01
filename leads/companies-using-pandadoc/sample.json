@@ -2589,39 +2589,5 @@
       "WordPress Related Posts",
       "jQuery"
     ]
-  },
-  {
-    "domain": "vantagepointplaybook.com",
-    "title": "Vantage Point Playbook",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 3407,
-    "crawled_at": "2025-11-19T10:39:24.851881639Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Elementor",
-      "EmailMeForm",
-      "EmbedPress",
-      "Formstack",
-      "GZIP Module",
-      "Hello Elementor",
-      "IPFS",
-      "Jetpack",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "PandaDoc",
-      "QUIC",
-      "RM Education",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
-    ]
   }
 ]
