@@ -1,5 +1,79 @@
 [
   {
+    "domain": "provisioninvest.com",
+    "title": "Provision Investment Club | Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 708,
+    "crawled_at": "2026-05-01T09:09:31.272422879Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Perl",
+      "QUIC",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "freshstartup.tr",
+    "title": "FreshStartup: Insights and Strategies for New Entrepreneurs",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 2756,
+    "crawled_at": "2026-05-01T07:11:19.977275247Z",
+    "technologies": [
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Django",
+      "Gambling Content",
+      "IcoMoon",
+      "Matomo",
+      "Matomo Tag Manager",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "shresthagagan.com.np",
+    "title": "Gagan Shrestha - Full Stack Web Developer | Portfolio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 6308,
+    "crawled_at": "2026-04-30T20:49:10.089367781Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Django",
+      "GitHub Hosting",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Workspace",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "petestreesofridgefield.com",
     "title": "Pete's Trees LLC | Home",
     "business_name": "",
@@ -18,33 +92,6 @@
       "Perl",
       "QUIC",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "slotworld1043.de",
-    "title": "SlotWorld1043: Expert Casino Reviews & Winning Strategies",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 22756,
-    "crawled_at": "2026-04-29T10:20:20.015869244Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Bulma",
-      "Django",
-      "Fireblade",
-      "GZIP Module",
-      "Gambling Content",
-      "IcoMoon",
-      "Krypt Technologies",
-      "Matomo",
-      "Matomo Tag Manager",
-      "Nginx",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "jQuery"
     ]
   },
   {
@@ -9445,26 +9492,6 @@
       "Vector Internet Services",
       "WebAssembly",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "provisioninvest.com",
-    "title": "Provision Investment Club | Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 708,
-    "crawled_at": "2025-11-19T08:56:00.257540877Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
     ]
   }
 ]
