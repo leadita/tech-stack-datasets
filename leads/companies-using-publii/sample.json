@@ -1,5 +1,81 @@
 [
   {
+    "domain": "productbehavior.com",
+    "title": "Turning Technology Into Customer Demand - Product Behavior",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 149,
+    "crawled_at": "2026-05-01T11:51:47.575625703Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "poster-galaxy.net",
+    "title": "Galaxy Posters",
+    "business_name": "Galaxy Posters",
+    "country": "DEU",
+    "seo_score": 40,
+    "tech_spend": 61,
+    "crawled_at": "2026-05-01T09:20:19.978976939Z",
+    "technologies": [
+      "BunnyCDN Header",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "adventurous2.ltd",
+    "title": "Adventurous, too",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 49,
+    "crawled_at": "2026-04-30T22:56:20.011564437Z",
+    "technologies": [
+      "App Store",
+      "Google My Business",
+      "Google Play",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "kairos-research.org",
+    "title": "Kairos Research",
+    "business_name": "Kairos Research",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 649,
+    "crawled_at": "2026-04-30T18:14:19.977254661Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "License Buttons",
+      "Microdata for Google Shopping",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "wepurpose.eu",
     "title": "We Purpose",
     "business_name": "We Purpose",
@@ -977,25 +1053,6 @@
     ]
   },
   {
-    "domain": "galaxy-posters.net",
-    "title": "Galaxy Posters",
-    "business_name": "Galaxy Posters",
-    "country": "DEU",
-    "seo_score": 40,
-    "tech_spend": 61,
-    "crawled_at": "2026-04-21T18:40:55.404377328Z",
-    "technologies": [
-      "BunnyCDN Header",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "infinitepurplegreen.ch",
     "title": "Infinite Purple Green",
     "business_name": "Infinite Purple Green",
@@ -1828,25 +1885,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "Yandex Hosting",
       "Yandex Metrika"
-    ]
-  },
-  {
-    "domain": "adventurous2.ltd",
-    "title": "Adventurous, too",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 49,
-    "crawled_at": "2026-04-12T19:02:35.559546278Z",
-    "technologies": [
-      "App Store",
-      "Google My Business",
-      "Google Play",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   },
   {
@@ -7910,67 +7948,6 @@
       "Publii",
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "productbehavior.com",
-    "title": "Turning Technology Into Customer Demand - Product Behavior",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 149,
-    "crawled_at": "2025-11-19T10:30:19.429387713Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "dwisniewski.com",
-    "title": "dwisniewski.com – Simply about Programming And Data",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 1163,
-    "crawled_at": "2025-11-19T06:18:19.432934835Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Apache",
-      "Bulma",
-      "CodeIgniter",
-      "Contact Form Plugin",
-      "Elementor",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "PrestaShop",
-      "Publii",
-      "Python",
-      "Site Kit",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "Ubuntu",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "symfony PHP Framework"
     ]
   }
 ]
