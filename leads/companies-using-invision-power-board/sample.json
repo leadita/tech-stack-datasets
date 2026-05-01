@@ -1,5 +1,38 @@
 [
   {
+    "domain": "ignaciozamo.com.ar",
+    "title": "Ignacio Zamo - Portfolio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 11644,
+    "crawled_at": "2026-05-01T16:32:32.333599393Z",
+    "technologies": [
+      "Astro",
+      "Builder",
+      "CM Commerce",
+      "Content Delivery Network",
+      "Flat Icon",
+      "Freepik",
+      "GitHub Hosting",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Invision Power Board",
+      "Netlify",
+      "PWA",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "WhatsApp Sharing",
+      "WordPress",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "club443.ru",
     "title": "Частный клуб Алекса Экслера",
     "business_name": "",
@@ -362,39 +395,6 @@
       "Yandex Hosting",
       "Yandex Metrika",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "ignaciozamo.com.ar",
-    "title": "Ignacio Zamo - Portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 11644,
-    "crawled_at": "2025-11-19T12:57:23.113536009Z",
-    "technologies": [
-      "Astro",
-      "Builder",
-      "CM Commerce",
-      "Content Delivery Network",
-      "Flat Icon",
-      "Freepik",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Invision Power Board",
-      "Netlify",
-      "PWA",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "WhatsApp Sharing",
-      "WordPress",
-      "shadcn ui"
     ]
   }
 ]
