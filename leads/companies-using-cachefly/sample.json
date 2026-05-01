@@ -1,5 +1,27 @@
 [
   {
+    "domain": "as212895.net",
+    "title": "Home | AS212895",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 42300,
+    "crawled_at": "2026-05-01T11:43:12.13327321Z",
+    "technologies": [
+      "CacheFly CDN",
+      "Cloudflare",
+      "EdgeCast Networks",
+      "GZIP Module",
+      "GravCMS",
+      "M247",
+      "Nginx",
+      "PHP",
+      "Parallels Plesk Panel",
+      "SpectreCSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "merielwaterfrontapts.com",
     "title": "Windsor Marina Bay | Quincy, MA Apartments near Boston",
     "business_name": "Windsor Marina Bay",
@@ -2475,28 +2497,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "as212895.net",
-    "title": "Home | AS212895",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 67,
-    "tech_spend": 42300,
-    "crawled_at": "2025-11-19T10:24:19.430542947Z",
-    "technologies": [
-      "CacheFly CDN",
-      "Cloudflare",
-      "EdgeCast Networks",
-      "GZIP Module",
-      "GravCMS",
-      "M247",
-      "Nginx",
-      "PHP",
-      "Parallels Plesk Panel",
-      "SpectreCSS",
-      "UTF-8"
     ]
   }
 ]
