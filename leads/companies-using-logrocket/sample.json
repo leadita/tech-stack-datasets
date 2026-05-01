@@ -1,5 +1,91 @@
 [
   {
+    "domain": "sarvdesign.com",
+    "title": "Sarv Interior Design Agency",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 77,
+    "tech_spend": 83290,
+    "crawled_at": "2026-05-01T16:56:19.978589236Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Calendly",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Clutch",
+      "DAV",
+      "Financial Services Guide",
+      "Fireblade",
+      "Framer Sites",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LogRocket",
+      "Microsoft Clarity",
+      "No-Q",
+      "Ntent",
+      "SMC",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
+    "domain": "d2s.us",
+    "title": "Driven To Show",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 4816,
+    "crawled_at": "2026-05-01T15:20:20.003980273Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "DAV",
+      "GZIP Module",
+      "Gambling Content",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "LogRocket",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "Show.co",
+      "Stripe",
+      "Svelte",
+      "Tailwind CSS",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "kccartech.com",
+    "title": "Car DVD Players & Multimedia Systems | Huizhou Kaichuangxing Technology Co., Ltd.",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 72,
+    "tech_spend": 3658,
+    "crawled_at": "2026-05-01T10:31:20.390709439Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Express",
+      "Free Call",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LogRocket",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "Pexels",
+      "Thank You",
+      "YouTube",
+      "Zyro"
+    ]
+  },
+  {
     "domain": "flco.ca",
     "title": "Family Lawyers Collective LLP – London, Ontario Family Law Lawyers",
     "business_name": "",
@@ -3109,35 +3195,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "sarvinterior.com",
-    "title": "Sarv Interior Design Agency",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 77,
-    "tech_spend": 83290,
-    "crawled_at": "2026-04-14T08:53:29.415086984Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Calendly",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Clutch",
-      "Financial Services Guide",
-      "Fireblade",
-      "Framer Sites",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LogRocket",
-      "Microsoft Clarity",
-      "No-Q",
-      "Ntent",
-      "SMC",
-      "Yandex Hosting",
-      "Zeald"
     ]
   },
   {
@@ -9404,52 +9461,6 @@
       "Vine Embed",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "paulccari.com",
-    "title": "Paul Ccari | Developer, Designer, Content Creator.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 17148,
-    "crawled_at": "2025-11-19T12:15:19.474607169Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LogRocket",
-      "Next.js",
-      "PHP",
-      "Pexels",
-      "Pleroma",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "WordPress",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "frederickobrien.com",
-    "title": "Frederick O'Brien",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2025-11-19T02:15:19.467588043Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "DAV",
-      "GitHub Hosting",
-      "LogRocket",
-      "Netlify"
     ]
   }
 ]
