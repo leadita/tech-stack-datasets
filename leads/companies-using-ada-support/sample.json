@@ -1,5 +1,32 @@
 [
   {
+    "domain": "457insurance.com.au",
+    "title": "Compare 457 Visa Health Insurance",
+    "business_name": "457 Insurance",
+    "country": "AUS",
+    "seo_score": 77,
+    "tech_spend": 21541,
+    "crawled_at": "2026-05-01T10:29:19.996576613Z",
+    "technologies": [
+      "Ada Support",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "CookieYes",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Ruby on Rails",
+      "Sentry",
+      "Twitter Ads",
+      "UTF-8",
+      "Zendesk Embeddables"
+    ]
+  },
+  {
     "domain": "scentiq.ai",
     "title": "ScentIQ",
     "business_name": "",
