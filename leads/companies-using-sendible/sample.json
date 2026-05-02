@@ -376,36 +376,5 @@
       "eLand",
       "mlcom"
     ]
-  },
-  {
-    "domain": "expertincubators.com",
-    "title": "Automating Profits Using Ai",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 6088,
-    "crawled_at": "2025-11-20T02:06:19.434502472Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Authorize.net",
-      "Better Lead Generation Services",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google Tag Manager",
-      "Nuxt.js",
-      "Sendible",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vimeo",
-      "reCAPTCHA",
-      "shadcn ui"
-    ]
   }
 ]
