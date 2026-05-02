@@ -1,6 +1,6 @@
 # Companies Using DatoCMS (Live Dataset 2026)
 
-This folder contains an active list of 1,287 companies using **DatoCMS**. 
+This folder contains an active list of 1,288 companies using **DatoCMS**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 1,287
+- **Total Leads:** 1,288
 - **Verified:** Yes
-- **Last Updated:** 2026-05-01 18:15 UTC
+- **Last Updated:** 2026-05-02 18:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,287+** companies using DatoCMS.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,288+** companies using DatoCMS.
 
 [**⚡ Unlock the Full DatoCMS List with Contact Details**](https://leadita.com/leads/companies-using-datocms)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-05-01 18:15 UTC*
+*Last updated: 2026-05-02 18:15 UTC*
 *Data source: Leadita Technographic Intelligence*
