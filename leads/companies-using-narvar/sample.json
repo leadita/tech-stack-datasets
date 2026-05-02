@@ -1,5 +1,37 @@
 [
   {
+    "domain": "bitahonarvar.photography",
+    "title": "BITA HONARVAR | Photographer • Visuals Editor",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 179133,
+    "crawled_at": "2026-05-02T00:05:20.006236842Z",
+    "technologies": [
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Narvar",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "Vignette OpenText",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "ruvilla.org",
     "title": "DTLR | Your Fashion. Your Lifestyle | Free Shipping",
     "business_name": "DTLR",
@@ -925,38 +957,6 @@
       "Tailwind CSS",
       "UTF-8",
       "WF Cookie Consent"
-    ]
-  },
-  {
-    "domain": "bitahonarvar.com",
-    "title": "BITA HONARVAR | Photographer • Visuals Editor",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 179133,
-    "crawled_at": "2026-04-11T08:50:20.002322691Z",
-    "technologies": [
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Narvar",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "Vignette OpenText",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   },
   {
