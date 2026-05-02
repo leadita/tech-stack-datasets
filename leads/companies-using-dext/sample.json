@@ -1,12 +1,12 @@
 [
   {
-    "domain": "roofrejuvenation-chicago.com",
+    "domain": "roofrejuvenationchicago.com",
     "title": "James Hardie Siding Contractor | Park Ridge & Chicagoland Suburbs",
     "business_name": "",
     "country": "USA",
     "seo_score": 77,
     "tech_spend": 41049,
-    "crawled_at": "2026-04-30T13:59:19.980270389Z",
+    "crawled_at": "2026-05-01T14:35:20.001295486Z",
     "technologies": [
       "AWS WAF Challenge",
       "Alternate Protocol",
@@ -38,6 +38,70 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "finshift.co.uk",
+    "title": "FinShift",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 105048,
+    "crawled_at": "2026-05-01T13:23:19.999881296Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Contento",
+      "Dext",
+      "Express",
+      "FormSubmit",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Newsletter for Wordpress",
+      "Pico CSS",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "Xero",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "taxlex.co.uk",
+    "title": "TaxLex - Accounting Services for Individuals, Small Businesses & Limited Companies - Home",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 87,
+    "tech_spend": 32832,
+    "crawled_at": "2026-05-01T12:56:42.265919239Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "App Store",
+      "Calendly",
+      "Dext",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Play",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LottieFiles",
+      "MailChimp",
+      "Nginx",
+      "QUIC",
+      "UTF-8",
+      "Ubuntu",
+      "Xero",
+      "taggbox"
     ]
   },
   {
@@ -5666,37 +5730,6 @@
       "UTF-8",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "taxlex.co.uk",
-    "title": "TaxLex - Accounting Services for Individuals, Small Businesses & Limited Companies - Home",
-    "business_name": "",
-    "country": "JAM",
-    "seo_score": 77,
-    "tech_spend": 32832,
-    "crawled_at": "2025-11-19T11:00:19.429310823Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "App Store",
-      "Calendly",
-      "Dext",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Play",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LottieFiles",
-      "MailChimp",
-      "Nginx",
-      "QUIC",
-      "UTF-8",
-      "Ubuntu",
-      "Xero",
-      "taggbox"
     ]
   }
 ]

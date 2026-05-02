@@ -1,6 +1,6 @@
 # Companies Using Dext (Live Dataset 2026)
 
-This folder contains an active list of 193 companies using **Dext**. 
+This folder contains an active list of 196 companies using **Dext**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 193
+- **Total Leads:** 196
 - **Verified:** Yes
-- **Last Updated:** 2026-05-01 10:30 UTC
+- **Last Updated:** 2026-05-02 10:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **193+** companies using Dext.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **196+** companies using Dext.
 
 [**⚡ Unlock the Full Dext List with Contact Details**](https://leadita.com/leads/companies-using-dext)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-05-01 10:30 UTC*
+*Last updated: 2026-05-02 10:30 UTC*
 *Data source: Leadita Technographic Intelligence*
