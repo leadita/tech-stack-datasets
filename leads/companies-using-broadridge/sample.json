@@ -3237,47 +3237,5 @@
       "Visual Studio",
       "jQuery"
     ]
-  },
-  {
-    "domain": "clarusfunds.com",
-    "title": "Life Sciences - Blackstone",
-    "business_name": "Blackstone",
-    "country": "FLK",
-    "seo_score": 77,
-    "tech_spend": 548737,
-    "crawled_at": "2025-11-20T01:21:19.4706307Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Brightcove",
-      "Broadridge",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "ElasticPress",
-      "EmbedPress",
-      "Fireblade",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Jetpack",
-      "Microdata for Google Shopping",
-      "New Relic",
-      "PHP",
-      "PWA",
-      "QUIC",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "WordPress Stats"
-    ]
   }
 ]
