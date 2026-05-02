@@ -1,5 +1,24 @@
 [
   {
+    "domain": "freep.com.br",
+    "title": "FREEP | Aumento de conversão para ecommerce",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 20495,
+    "crawled_at": "2026-05-02T05:53:19.991507202Z",
+    "technologies": [
+      "Apache",
+      "Bulma",
+      "Lineicons",
+      "Loja Integrada",
+      "Shopify",
+      "Twitter Ads",
+      "UTF-8",
+      "VTEX Personalization"
+    ]
+  },
+  {
     "domain": "atacadaodoartesanatomdf.com.br",
     "title": "Atacadão do Artesanado MDF",
     "business_name": "",
