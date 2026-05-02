@@ -1,5 +1,27 @@
 [
   {
+    "domain": "comunicarparaocambio.org",
+    "title": "seminario comunicacion social",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 11100,
+    "crawled_at": "2026-05-02T07:05:19.983563017Z",
+    "technologies": [
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fastly",
+      "GZIP Module",
+      "Moodle",
+      "NFOrce Internet",
+      "PHP",
+      "Totara",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "campuscoachingcorp.com",
     "title": "Home | Coaching Corp",
     "business_name": "",
@@ -810,28 +832,6 @@
       "PHP",
       "SiteW",
       "Stetic",
-      "Totara",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "comunicarparaocambio.org",
-    "title": "seminario comunicacion social",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 11100,
-    "crawled_at": "2025-12-31T11:43:38.330028024Z",
-    "technologies": [
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fastly",
-      "GZIP Module",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
       "Totara",
       "UTF-8",
       "jsDelivr"

@@ -1,5 +1,64 @@
 [
   {
+    "domain": "sdo-profi.ru",
+    "title": "PROFI: Log in to the site",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 21103,
+    "crawled_at": "2026-05-02T16:08:19.979824407Z",
+    "technologies": [
+      "Blackboard Open LMS",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fastly",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "NFOrce Internet",
+      "Nginx",
+      "PHP",
+      "Totara",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "rosefinancialservice.org",
+    "title": "Outsourced Finance and Accounting Services | ROSE",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 87328,
+    "crawled_at": "2026-05-01T19:20:19.978106563Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "Blackboard Open LMS",
+      "CloudFront",
+      "DAV",
+      "Duda",
+      "Eventbrite",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "HubSpot Conversations",
+      "Hubspot",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Perl",
+      "QUIC",
+      "SMC",
+      "Styled Components",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "collinslaboratory.com",
     "title": "Microbial Communities | Collins Lab | NUI Galway",
     "business_name": "",
@@ -128,41 +187,6 @@
       "YouTube",
       "arsys.es",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "tellyourcfoisaidhi.com",
-    "title": "Outsourced Finance and Accounting Services | ROSE",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 87328,
-    "crawled_at": "2026-04-29T09:32:19.995515523Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Blackboard Open LMS",
-      "CloudFront",
-      "DAV",
-      "Duda",
-      "Eventbrite",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "HubSpot Conversations",
-      "Hubspot",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "Styled Components",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
@@ -2291,30 +2315,6 @@
       "YouTube",
       "Zoom Video Conferencing",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "sdo-profi.ru",
-    "title": "PROFI: Log in to the site",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 21103,
-    "crawled_at": "2026-01-28T12:34:43.450058492Z",
-    "technologies": [
-      "Blackboard Open LMS",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fastly",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "Totara",
-      "UTF-8"
     ]
   },
   {
