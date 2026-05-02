@@ -1,5 +1,194 @@
 [
   {
+    "domain": "desertmoonweb.com",
+    "title": "Desert Moon",
+    "business_name": "",
+    "country": "PHL",
+    "seo_score": 67,
+    "tech_spend": 5120,
+    "crawled_at": "2026-05-02T08:26:20.012381361Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Bulma",
+      "Google Code Prettify",
+      "Mastodon",
+      "Micro.blog",
+      "Microdata for Google Shopping",
+      "Python",
+      "QUIC",
+      "Schema Plugin",
+      "Svelte",
+      "Vector Internet Services",
+      "jQuery",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "pinkbooks.coffee",
+    "title": "Pink, Books, Coffee",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 62,
+    "tech_spend": 10219,
+    "crawled_at": "2026-05-02T07:25:59.2851821Z",
+    "technologies": [
+      "BLR",
+      "Font Awesome",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Micro.blog",
+      "Nginx",
+      "Tumblr"
+    ]
+  },
+  {
+    "domain": "lowlatencysystem.com",
+    "title": "Low Latency System",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 3563,
+    "crawled_at": "2026-05-02T07:08:20.028516756Z",
+    "technologies": [
+      "Angular",
+      "Apture Linking Platform",
+      "Automattic",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "DokuWiki",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Adsense",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google My Business",
+      "Google Reseller",
+      "Micro.blog",
+      "PHP",
+      "RM Education",
+      "UTF-8",
+      "WordPress",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "adamknight.me",
+    "title": "Adam Knight — Software & Stories",
+    "business_name": "",
+    "country": "RUS",
+    "seo_score": 70,
+    "tech_spend": 2560,
+    "crawled_at": "2026-05-02T04:17:19.981806428Z",
+    "technologies": [
+      "Alternate Protocol",
+      "FreeBSD",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Mastodon",
+      "Micro.blog",
+      "Pleroma",
+      "Python",
+      "Tailwind CSS",
+      "Telegram",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "bobwertz.com",
+    "title": "Bob Wertz",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 15120,
+    "crawled_at": "2026-05-02T01:30:47.596825218Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "GitHub Hosting",
+      "Hugo",
+      "License Buttons",
+      "Micro.blog",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "skorgu.net",
+    "title": "Dome of the Boxmaker",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 6088,
+    "crawled_at": "2026-05-01T14:35:20.016745568Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Atlas Pickup Points",
+      "Automattic",
+      "Bulma",
+      "DAV",
+      "Discord",
+      "GitHub Hosting",
+      "IcoMoon",
+      "Mastodon",
+      "Medium",
+      "Micro.blog",
+      "Perl",
+      "Twitter Ads",
+      "USPS",
+      "Unix",
+      "Vector Internet Services",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "scrooks.net",
+    "title": "scrooks stuff – A blog by Steve Crooks",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 60,
+    "tech_spend": 63,
+    "crawled_at": "2026-05-01T13:40:57.771066012Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Automattic",
+      "DAV",
+      "EmbedPress",
+      "FEEDZY RSS Feeds",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "Micro.blog",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "davidmurr.com",
     "title": "David Murr",
     "business_name": "",
@@ -193,38 +382,6 @@
       "UTF-8",
       "WordPress",
       "WordPress Multisite"
-    ]
-  },
-  {
-    "domain": "stevecrooks.net",
-    "title": "scrooks stuff – A blog by Steve Crooks",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 60,
-    "tech_spend": 63,
-    "crawled_at": "2026-04-30T09:39:35.925495596Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Automattic",
-      "DAV",
-      "EmbedPress",
-      "FEEDZY RSS Feeds",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Micro.blog",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "jQuery"
     ]
   },
   {
@@ -652,30 +809,6 @@
       "Render",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "desertmoonweb.com",
-    "title": "Desert Moon",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 67,
-    "tech_spend": 5120,
-    "crawled_at": "2026-04-27T18:43:36.318492324Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Bulma",
-      "Google Code Prettify",
-      "Mastodon",
-      "Micro.blog",
-      "Microdata for Google Shopping",
-      "Python",
-      "QUIC",
-      "Schema Plugin",
-      "Svelte",
-      "Vector Internet Services",
-      "jQuery",
-      "shadcn ui"
     ]
   },
   {
@@ -3102,29 +3235,6 @@
     ]
   },
   {
-    "domain": "www.www.bobwertz.com",
-    "title": "Bob Wertz",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 120,
-    "crawled_at": "2026-04-05T12:53:19.981706015Z",
-    "technologies": [
-      "Alternate Protocol",
-      "DAV",
-      "GitHub Hosting",
-      "Hugo",
-      "License Buttons",
-      "Micro.blog",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "tookish.net",
     "title": "Noah St. Amand: Web Development, Upright & Electric Bass",
     "business_name": "",
@@ -5288,36 +5398,6 @@
       "Vercel",
       "WordPress",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "skorgu.net",
-    "title": "Dome of the Boxmaker",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 6088,
-    "crawled_at": "2026-01-30T11:27:48.843108008Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Atlas Pickup Points",
-      "Automattic",
-      "Bulma",
-      "DAV",
-      "Discord",
-      "GitHub Hosting",
-      "IcoMoon",
-      "Mastodon",
-      "Medium",
-      "Micro.blog",
-      "Perl",
-      "Twitter Ads",
-      "USPS",
-      "Unix",
-      "Vector Internet Services",
-      "YouTube",
-      "shadcn ui"
     ]
   },
   {
@@ -8206,24 +8286,6 @@
       "eLand",
       "jQuery",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "pinkbooks.coffee",
-    "title": "Pink, Books, Coffee",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 62,
-    "tech_spend": 10219,
-    "crawled_at": "2025-11-19T20:46:37.028966895Z",
-    "technologies": [
-      "BLR",
-      "Font Awesome",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Micro.blog",
-      "Nginx",
-      "Tumblr"
     ]
   }
 ]

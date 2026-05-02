@@ -1,5 +1,158 @@
 [
   {
+    "domain": "easternmainemodelrailroadclub.org",
+    "title": "Eastern Maine Model Railroad Club",
+    "business_name": "Eastern Maine Model Railroad Club",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 115,
+    "crawled_at": "2026-05-02T11:26:19.98900603Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Publii",
+      "Square",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "author-ink.com",
+    "title": "Author Ink Limited",
+    "business_name": "Author Ink Limited",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 49,
+    "crawled_at": "2026-05-02T11:17:20.005215774Z",
+    "technologies": [
+      "Alternate Protocol",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Publii",
+      "QUIC",
+      "Twitter Ads",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "dhatriayurdhama.in",
+    "title": "Dhatri Ayurdhama - dhatriayurdhama.in",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 49,
+    "crawled_at": "2026-05-02T10:41:19.989858296Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Commoninja",
+      "Content Delivery Network",
+      "Elfsight",
+      "Google Calendar",
+      "Google Customer Reviews",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Publii",
+      "Twitter Ads",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "rockinbeat.com",
+    "title": "Solutions Consulting",
+    "business_name": "Solutions Consulting",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 49,
+    "crawled_at": "2026-05-02T06:05:20.011625183Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "betterwayalliance.ca",
+    "title": "Better Way Alliance",
+    "business_name": "Better Way Alliance",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 149,
+    "crawled_at": "2026-05-02T04:05:19.984049112Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "Publii",
+      "QUIC",
+      "Thank You",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "1tickle.xyz",
+    "title": "1tickle | narratives helper",
+    "business_name": "1tickle | narratives helper",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 49,
+    "crawled_at": "2026-05-01T22:17:20.008356722Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "pekinbantams.org",
+    "title": "Cluckin",
+    "business_name": "Cluckin",
+    "country": "GBR",
+    "seo_score": 65,
+    "tech_spend": 75416,
+    "crawled_at": "2026-05-01T14:05:19.984481839Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cart.com",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Mediavine Publisher",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "Netlify",
+      "Publii",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "Vine Embed",
+      "WhatsApp Sharing",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "productbehavior.com",
     "title": "Turning Technology Into Customer Demand - Product Behavior",
     "business_name": "",
@@ -1109,34 +1262,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "cluckin.net",
-    "title": "Cluckin",
-    "business_name": "Cluckin",
-    "country": "GBR",
-    "seo_score": 70,
-    "tech_spend": 75416,
-    "crawled_at": "2026-04-21T07:17:20.003193184Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cart.com",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Mediavine Publisher",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "Netlify",
-      "Publii",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "Vine Embed",
-      "WhatsApp Sharing",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   },
   {
@@ -4502,68 +4627,6 @@
       "Publii",
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "author-ink.com",
-    "title": "Author Ink Limited",
-    "business_name": "Author Ink Limited",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 49,
-    "crawled_at": "2026-01-28T07:43:43.431133164Z",
-    "technologies": [
-      "Alternate Protocol",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Publii",
-      "QUIC",
-      "Twitter Ads",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "easternmainemodelrailroadclub.org",
-    "title": "Eastern Maine Model Railroad Club",
-    "business_name": "Eastern Maine Model Railroad Club",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 115,
-    "crawled_at": "2026-01-27T10:37:43.427641421Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Publii",
-      "Square",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "president-electronics.md",
-    "title": "Home",
-    "business_name": "",
-    "country": "MDA",
-    "seo_score": 50,
-    "tech_spend": "",
-    "crawled_at": "2026-01-27T02:25:43.455518287Z",
-    "technologies": [
-      "Bunny Fonts",
-      "DAV",
-      "GZIP Module",
-      "Nginx",
-      "PHP",
-      "Publii",
-      "UTF-8"
     ]
   },
   {
