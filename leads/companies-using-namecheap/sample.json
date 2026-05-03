@@ -1,5 +1,29 @@
 [
   {
+    "domain": "yeezyeezyeezy.com",
+    "title": "Hustles HQ",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 20,
+    "crawled_at": "2026-05-03T12:38:20.004861937Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Amazon Widgets",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google My Business",
+      "Google Workspace",
+      "Namecheap",
+      "QUIC",
+      "Snowplow",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "hello.cymru",
     "title": "Wales | Discover the Land of Dragons, Castles and Culture",
     "business_name": "",
