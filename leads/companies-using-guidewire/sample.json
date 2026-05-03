@@ -1,5 +1,35 @@
 [
   {
+    "domain": "jb-soft.co.uk",
+    "title": "JB Soft Ltd - Angular, NgRx, TyepeScript, .NET Core, Microservices",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 70,
+    "tech_spend": 1004807,
+    "crawled_at": "2026-05-03T06:05:19.98144737Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "Guidewire",
+      "IcoMoon",
+      "Material Design Icons",
+      "Materialize CSS",
+      "Okta",
+      "Subversion",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "cmcpemfellowship.com",
     "title": "Carolinas Pediatric Emergency Medicine Fellowship",
     "business_name": "",
