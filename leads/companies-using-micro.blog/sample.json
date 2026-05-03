@@ -1,5 +1,51 @@
 [
   {
+    "domain": "rachsmith.com",
+    "title": "Home | Rach Smith's digital garden",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 1536,
+    "crawled_at": "2026-05-02T19:08:20.001564086Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Astro",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Mastodon",
+      "Micro.blog",
+      "Minimal",
+      "Netlify",
+      "Oddle",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "The Deck",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "www.rohdesign.net",
+    "title": "Mike Rohde - Mike Rohde",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 60,
+    "crawled_at": "2026-05-02T16:53:19.985188148Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Hugo",
+      "Micro.blog",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "desertmoonweb.com",
     "title": "Desert Moon",
     "business_name": "",
@@ -4087,24 +4133,6 @@
     ]
   },
   {
-    "domain": "www.www.www.www.www.www.www.rohdesign.net",
-    "title": "Mike Rohde - Mike Rohde",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 60,
-    "crawled_at": "2026-03-12T17:10:03.219863877Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Hugo",
-      "Micro.blog",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "okiedokieblog.com",
     "title": "Okie Dokie",
     "business_name": "",
@@ -7795,34 +7823,6 @@
       "Yandex Hosting",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "rachsmith.com",
-    "title": "Home | Rach Smith's digital garden",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 1536,
-    "crawled_at": "2025-11-27T05:14:13.766776485Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Astro",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Mastodon",
-      "Micro.blog",
-      "Minimal",
-      "Netlify",
-      "Oddle",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
-      "The Deck",
-      "UTF-8"
     ]
   },
   {

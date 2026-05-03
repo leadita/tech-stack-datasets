@@ -1,5 +1,90 @@
 [
   {
+    "domain": "neverlanddestinations.com",
+    "title": "Neverland Destinations - Disney and Universal Studios Vacations",
+    "business_name": "Neverland Destinations",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 2817,
+    "crawled_at": "2026-05-03T08:42:03.820419824Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Book Direct",
+      "Content Delivery Network",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "jack.engineering",
+    "title": "Jack F. Murphy",
+    "business_name": "Jack F. Murphy",
+    "country": "IRL",
+    "seo_score": 67,
+    "tech_spend": 2848,
+    "crawled_at": "2026-05-03T02:53:19.985028057Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "CoreUI",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "Publii",
+      "UTF-8",
+      "University or College",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "keepdoingbetter.com",
+    "title": "Keep Doing Better",
+    "business_name": "Keep Doing Better",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 649,
+    "crawled_at": "2026-05-02T14:17:20.015799994Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Fastly",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "allimotec.ch",
+    "title": "Allimotec",
+    "business_name": "Allimotec",
+    "country": "GBR",
+    "seo_score": 60,
+    "tech_spend": 49,
+    "crawled_at": "2026-05-02T13:44:19.977655168Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "easternmainemodelrailroadclub.org",
     "title": "Eastern Maine Model Railroad Club",
     "business_name": "Eastern Maine Model Railroad Club",
@@ -1388,26 +1473,6 @@
       "InitiativeS",
       "Publii",
       "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "keepdoingbetter.com",
-    "title": "Keep Doing Better",
-    "business_name": "Keep Doing Better",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 649,
-    "crawled_at": "2026-04-18T20:39:05.105480647Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Fastly",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   },
   {
@@ -4334,23 +4399,6 @@
     "crawled_at": "2026-02-05T19:58:48.880803404Z",
     "technologies": [
       "Alternate Protocol",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "allimotec.ch",
-    "title": "Allimotec",
-    "business_name": "Allimotec",
-    "country": "GBR",
-    "seo_score": 60,
-    "tech_spend": 49,
-    "crawled_at": "2026-02-02T17:25:48.870811387Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "GZIP Module",
       "Microdata for Google Shopping",
       "Publii",
       "WordPress SEO Structured Data Schema Plugin"
@@ -7946,70 +7994,6 @@
       "PayPal Adaptive Payments",
       "Publii",
       "RM Education",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "neverlanddestinations.com",
-    "title": "Neverland Destinations - Disney and Universal Studios Vacations",
-    "business_name": "Neverland Destinations",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 2817,
-    "crawled_at": "2025-11-20T09:45:19.447483128Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Book Direct",
-      "Content Delivery Network",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "daphne-solutions.com",
-    "title": "Daphne Solutions",
-    "business_name": "Daphne Solutions",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 30349,
-    "crawled_at": "2025-11-20T09:06:39.462984735Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cart.com",
-      "Content Delivery Network",
-      "FormSubmit",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Publii",
-      "StatCounter",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "ladysmithcamera.club",
-    "title": "Ladysmith Camera Club",
-    "business_name": "Ladysmith Camera Club",
-    "country": "NZL",
-    "seo_score": 60,
-    "tech_spend": 249,
-    "crawled_at": "2025-11-20T09:03:19.46774308Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Publii",
-      "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   }
