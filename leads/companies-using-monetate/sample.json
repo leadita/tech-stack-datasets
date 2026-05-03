@@ -1,5 +1,38 @@
 [
   {
+    "domain": "anchorageanimal.com",
+    "title": "Veterinarian in Louisville, KY | Livewell Animal Hospital of Anchorage – Your Trusted Veterinary Clinic for Pet Wellness, Surgery, Emergency Care & More. Book an Appointment Today!",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 65740,
+    "crawled_at": "2026-05-03T07:38:19.992230998Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Adobe Creative Cloud WebFonts",
+      "Express",
+      "FreeCSSTemplates",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Monetate",
+      "Neighborhoods",
+      "QUIC",
+      "Tailwind CSS",
+      "Visual Studio",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "modgents.com",
     "title": "Modern Gents Wedding Rings & Simulated Diamond Jewelry",
     "business_name": "Modern Gents Trading Co.",
