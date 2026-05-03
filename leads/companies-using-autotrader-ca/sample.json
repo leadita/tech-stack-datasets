@@ -1,5 +1,28 @@
 [
   {
+    "domain": "autoyou.ca",
+    "title": "AutoYou.ca",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": "",
+    "crawled_at": "2026-05-03T06:53:19.985580038Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "AutoTrader CA",
+      "Contact Form Plugin",
+      "EmbedPress",
+      "GZIP Module",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "convertus.ninja",
     "title": "Homepage | Convertus Development",
     "business_name": "Convertus Development",
