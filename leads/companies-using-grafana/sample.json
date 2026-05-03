@@ -1,5 +1,23 @@
 [
   {
+    "domain": "grafana.uvm.cz",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 1200,
+    "crawled_at": "2026-05-03T07:47:14.43670687Z",
+    "technologies": [
+      "Apache",
+      "Barchart",
+      "Debian",
+      "Express",
+      "GitHub Hosting",
+      "Grafana",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "lora.md5.si",
     "title": "Grafana",
     "business_name": "",
@@ -33,25 +51,6 @@
       "Express",
       "GitHub Hosting",
       "Grafana",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "pmm.par.pw",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 1200,
-    "crawled_at": "2026-04-28T17:50:40.255068572Z",
-    "technologies": [
-      "Apache",
-      "Barchart",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Grafana",
-      "Nginx",
       "UTF-8"
     ]
   },
