@@ -1,5 +1,32 @@
 [
   {
+    "domain": "482insurance.com.au",
+    "title": "Compare 482 Visa Health Insurance.",
+    "business_name": "482 Insurance",
+    "country": "AUS",
+    "seo_score": 77,
+    "tech_spend": 36541,
+    "crawled_at": "2026-05-02T17:47:19.999755034Z",
+    "technologies": [
+      "Ada Support",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "CookieYes",
+      "Fireblade",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Ruby on Rails",
+      "Sentry",
+      "Twitter Ads",
+      "UTF-8",
+      "Zendesk Embeddables"
+    ]
+  },
+  {
     "domain": "457insurance.com.au",
     "title": "Compare 457 Visa Health Insurance",
     "business_name": "457 Insurance",
