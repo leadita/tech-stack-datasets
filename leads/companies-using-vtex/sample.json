@@ -1,5 +1,28 @@
 [
   {
+    "domain": "dreamzzavtex.com",
+    "title": "Dreamzz AV Tex",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 67,
+    "tech_spend": 50606,
+    "crawled_at": "2026-05-02T18:59:19.995092191Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Coming Soon Page",
+      "Font Awesome",
+      "IcoMoon",
+      "LiteSpeed",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "VTEX Personalization"
+    ]
+  },
+  {
     "domain": "freep.com.br",
     "title": "FREEP | Aumento de conversão para ecommerce",
     "business_name": "",
