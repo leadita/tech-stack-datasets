@@ -1,5 +1,30 @@
 [
   {
+    "domain": "weareuntold.be",
+    "title": "We create impact on your business using data | Agiliz",
+    "business_name": "Agiliz",
+    "country": "BEL",
+    "seo_score": 77,
+    "tech_spend": 78920,
+    "crawled_at": "2026-05-03T03:29:20.009066842Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Hubspot Knowledge Base",
+      "Lytics",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "chadgreenforva.com",
     "title": "York County supervisor found not guilty for drinking and boating in 2018 incident",
     "business_name": "",
@@ -298,31 +323,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "weareuntold.be",
-    "title": "We create impact on your business using data | Agiliz",
-    "business_name": "Agiliz",
-    "country": "NLD",
-    "seo_score": 87,
-    "tech_spend": 78920,
-    "crawled_at": "2026-04-16T17:33:47.961339963Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Hubspot Knowledge Base",
-      "Lytics",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "UTF-8"
     ]
   },
   {
@@ -1178,38 +1178,6 @@
       "WordPress Multisite",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "cassandrasmellsgood.com",
-    "title": "No host? Order here!",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 61927,
-    "crawled_at": "2025-11-20T02:18:19.459350884Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Adobe Marketing Cloud",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Contentstack",
-      "Fireblade",
-      "Font Awesome",
-      "GZIP Module",
-      "GetResponse",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Hotjar",
-      "Imperva Bot Detection and Mitigation",
-      "Incapsula CDN",
-      "Lytics",
-      "New Relic",
-      "Tailwind CSS",
-      "UTF-8",
-      "reCAPTCHA"
     ]
   }
 ]
