@@ -1,5 +1,36 @@
 [
   {
+    "domain": "ayacucho-outdoor.fr",
+    "title": "Designed for generations | Ayacucho",
+    "business_name": "Ayacucho",
+    "country": "PER",
+    "seo_score": 92,
+    "tech_spend": 337450,
+    "crawled_at": "2026-05-04T01:10:02.843780844Z",
+    "technologies": [
+      "Adobe Analytics",
+      "Adobe Marketing Cloud",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "BloomReach",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Klarna",
+      "Klarna On Site Messaging",
+      "Microdata for Google Shopping",
+      "Monetate",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "anchorageanimal.com",
     "title": "Veterinarian in Louisville, KY | Livewell Animal Hospital of Anchorage – Your Trusted Veterinary Clinic for Pet Wellness, Surgery, Emergency Care & More. Book an Appointment Today!",
     "business_name": "",
@@ -4752,36 +4783,6 @@
       "Tailwind CSS",
       "Visual Studio",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "ayacucho-outdoor.uk",
-    "title": "Designed for generations | Ayacucho",
-    "business_name": "Ayacucho",
-    "country": "PER",
-    "seo_score": 67,
-    "tech_spend": 262450,
-    "crawled_at": "2026-03-19T06:17:49.270817845Z",
-    "technologies": [
-      "Adobe Analytics",
-      "Adobe Marketing Cloud",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CloudFront",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Klarna",
-      "Klarna On Site Messaging",
-      "Microdata for Google Shopping",
-      "Monetate",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   },
   {
