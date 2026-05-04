@@ -8025,44 +8025,5 @@
       "reCAPTCHA",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "hermes-nexus.com",
-    "title": "Home - Hermes Nexus",
-    "business_name": "Hermes Nexus",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 33813,
-    "crawled_at": "2025-11-20T21:57:19.466772155Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apache",
-      "Cloudflare",
-      "CoBlocks",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Express",
-      "Formidable Pro Form",
-      "GoDaddy",
-      "IcoMoon",
-      "InitiativeS",
-      "Line2",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Outfunnel",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "Wangsu",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
