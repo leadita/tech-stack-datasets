@@ -1,5 +1,231 @@
 [
   {
+    "domain": "bizelix.com",
+    "title": "Bizelix - Make an impact, online marketing made easy. Web, mobile, social and print. Whatever you need we can help",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": "",
+    "crawled_at": "2026-05-04T18:47:20.006112212Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Google Related Website Sites",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "fitandalive.co.uk",
+    "title": "Fit & Alive | Carly Whitby | Personal Training | Personal Trainer | Pilates | Chippenham | Corsham | Wiltshire | Core Stability | Injury | Rehabilitation | Sport | Event | Relaxation | Athlete | Fitness | Health | Weight",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 55,
+    "tech_spend": 156,
+    "crawled_at": "2026-05-04T18:47:20.001202215Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "IcoMoon",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "paypertray.com",
+    "title": "Paypertray Catering. Quality catering for any occasion or event.",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 55,
+    "tech_spend": 156,
+    "crawled_at": "2026-05-04T18:44:20.002897462Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "IcoMoon",
+      "QUIC",
+      "Stripe",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "kumarumesh.cv",
+    "title": "Busa Umesh Kumar",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 600,
+    "crawled_at": "2026-05-04T17:50:20.00067975Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon S3 CDN",
+      "Apache",
+      "Apache Tomcat JK",
+      "Content Delivery Network",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Storyblocks",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "pmivi.org",
+    "title": "Welcome | PMI Vancouver Island",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 1668,
+    "crawled_at": "2026-05-04T17:23:20.003638945Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "AutoComplete",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "SmartAdServer Direct",
+      "Tailwind CSS",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "cedrik.fr",
+    "title": "Apache Tomcat",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": "",
+    "crawled_at": "2026-05-04T17:20:57.34638107Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Express",
+      "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "cathypearce.co.uk",
+    "title": "Cathy Pearce a landscape painter in Wiltshire with a specific interest in pastel and Associate Artist of Unison Colour",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 156,
+    "crawled_at": "2026-05-04T17:11:19.993913521Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Express",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Stripe",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "kumarrishi.cv",
+    "title": "Rishi Kumar Shah",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 3000,
+    "crawled_at": "2026-05-04T16:50:19.996117722Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon S3 CDN",
+      "Apache",
+      "Apache Tomcat JK",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Oracle Cloud",
+      "Storyblocks",
+      "UTF-8",
+      "University or College",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "pmi-milwaukee.org",
+    "title": "Welcome to PMI Milwaukee - Southeast WI | PMI Milwaukee / Southeast Wisconsin",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 4068,
+    "crawled_at": "2026-05-04T06:35:19.987722751Z",
+    "technologies": [
+      "Amazon",
+      "Apache",
+      "Apache Tomcat JK",
+      "AutoComplete",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "SmartAdServer Direct",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "rajshamanipodcast.in",
+    "title": "My Portfolio",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 65,
+    "tech_spend": 99,
+    "crawled_at": "2026-05-04T01:02:19.985787961Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Font Awesome",
+      "GitHub Hosting",
+      "ID Services",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Python",
+      "QUIC",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "abhishekdumaniya.space",
+    "title": "Abhishek Dumaniya",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 240,
+    "crawled_at": "2026-05-04T00:23:19.997933011Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "dta.io.vn",
     "title": "Đỗ Tuấn Anh — Full Stack Developer",
     "business_name": "",
@@ -4011,26 +4237,6 @@
     ]
   },
   {
-    "domain": "cathypearce.co.uk",
-    "title": "Cathy Pearce a landscape painter in Wiltshire with a specific interest in pastel and Associate Artist of Unison Colour",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 156,
-    "crawled_at": "2026-04-08T19:26:05.231668717Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Express",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Stripe",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "foxandgooseinnexmoor.co.uk",
     "title": "The Fox and Goose Inn Parracombe Devon a proper Exmoor inn serving local ales, cider and seasonal dishes and offering bed and breakfast too.",
     "business_name": "",
@@ -4083,24 +4289,6 @@
       "Apache Tomcat JK",
       "Bulma",
       "IcoMoon",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "bizelix.com",
-    "title": "Bizelix - Make an impact, online marketing made easy. Web, mobile, social and print. Whatever you need we can help",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": "",
-    "crawled_at": "2026-04-08T18:38:59.090856783Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Google Related Website Sites",
-      "QUIC",
       "Tailwind CSS",
       "UTF-8",
       "jQuery"
@@ -11224,22 +11412,6 @@
     ]
   },
   {
-    "domain": "fitandalive.co.uk",
-    "title": "Fit &amp; Alive | Carly Whitby | Personal Training | Personal Trainer | Pilates | Sports Massage | Chippenham | Corsham | Wiltshire | Carl Todd | Clinic | Osteopath | Physiotherapist | Core Stability | Injury | Rehabilitation | Sport | Event | Relaxation | Athlete | Fitness | Health | Weight",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 55,
-    "tech_spend": 156,
-    "crawled_at": "2025-12-15T12:28:56.037110335Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "IcoMoon",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "guochenliao.com",
     "title": "Guochen Liao | Developer & Researcher",
     "business_name": "",
@@ -13955,30 +14127,6 @@
     ]
   },
   {
-    "domain": "pmi-milwaukee.org",
-    "title": "Welcome to PMI Milwaukee - Southeast WI | PMI Milwaukee / Southeast Wisconsin",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 1668,
-    "crawled_at": "2025-11-21T17:30:19.477621534Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "AutoComplete",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "SmartAdServer Direct",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "reCAPTCHA"
-    ]
-  },
-  {
     "domain": "venkatachada.com",
     "title": "Venkat Chada - Java Full Stack Engineer Portfolio",
     "business_name": "",
@@ -14134,75 +14282,6 @@
       "University or College",
       "Way",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "dangio.it",
-    "title": "Dangio.it – Web Designer and Network Engineer",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 8615,
-    "crawled_at": "2025-11-20T18:24:19.461907924Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Apache Tomcat JK",
-      "Azion",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Contact Form Plugin",
-      "Elementor",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Jetpack",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "QUIC",
-      "Subversion",
-      "Theme In WP",
-      "UTF-8",
-      "Vello",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "jQuery",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "prosenjitkm.com",
-    "title": "Prosenjit Kumar Mandal",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 5340,
-    "crawled_at": "2025-11-20T17:27:19.427472252Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Content Delivery Network",
-      "Express",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Maps",
-      "Google My Business",
-      "InitiativeS",
-      "Oracle Cloud",
-      "Subversion",
-      "UTF-8",
-      "University or College",
-      "Unix",
-      "Visual Studio",
-      "jQuery",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]
