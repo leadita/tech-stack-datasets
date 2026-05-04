@@ -1,5 +1,37 @@
 [
   {
+    "domain": "evejanssenproperties.com",
+    "title": "Eve Janssen",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 3369,
+    "crawled_at": "2026-05-04T07:26:20.005997021Z",
+    "technologies": [
+      "Amazon S3 CDN",
+      "CoreUI",
+      "Fastly CDN",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Homes.com CMS",
+      "New Relic",
+      "Perl",
+      "PropertyBase",
+      "QUIC",
+      "Storyblocks",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "agentmehrnaz.com",
     "title": "Agent Mehrnaz Afsari - Agent mehrnaz",
     "business_name": "",
