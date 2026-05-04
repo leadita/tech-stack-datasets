@@ -1,5 +1,30 @@
 [
   {
+    "domain": "galliass.com",
+    "title": "Your all-in-one link engagement platform - Galliass",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 75864,
+    "crawled_at": "2026-05-04T11:56:20.006057021Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Bulma",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Hive.co",
+      "PHP",
+      "Tailwind CSS",
+      "Treasure Data",
+      "UTF-8",
+      "Ubuntu",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "winnerscirclerewards.ca",
     "title": "OLG | Ontario's Online LOTTERY, CASINO & SPORTS 2026",
     "business_name": "",
@@ -536,31 +561,6 @@
       "YouTube",
       "eLand",
       "eShow"
-    ]
-  },
-  {
-    "domain": "lenc.cc",
-    "title": "Your all-in-one link engagement platform - Galliass",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 75864,
-    "crawled_at": "2026-04-13T22:59:20.004144667Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Bulma",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hive.co",
-      "PHP",
-      "Tailwind CSS",
-      "Treasure Data",
-      "UTF-8",
-      "Ubuntu",
-      "jQuery"
     ]
   },
   {
