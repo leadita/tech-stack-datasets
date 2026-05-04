@@ -1,5 +1,61 @@
 [
   {
+    "domain": "peppa.app",
+    "title": "Peppa - AI Family Organizer | Text Schedule to Calendar",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 11919,
+    "crawled_at": "2026-05-03T23:42:32.779989985Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "GrowSurf",
+      "Hotjar",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Tailwind CSS",
+      "UTF-8",
+      "WF Cookie Consent"
+    ]
+  },
+  {
+    "domain": "jmtaxadvocates.net",
+    "title": "Marietta GA Tax Accountants | Tax Services | Bookkeeping",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 14207,
+    "crawled_at": "2026-05-03T19:47:20.003816083Z",
+    "technologies": [
+      "Apache",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "GrowSurf",
+      "IcoMoon",
+      "QUIC",
+      "RM Education",
+      "Subversion",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "boxcast.com",
     "title": "Professional Live Video Streaming + Production Made Simple | BoxCast",
     "business_name": "BoxCast",
@@ -790,32 +846,6 @@
     ]
   },
   {
-    "domain": "jmtaxadvocates.net",
-    "title": "Marietta GA Tax Accountants | Tax Services | Bookkeeping",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 14207,
-    "crawled_at": "2026-02-17T10:33:44.934313163Z",
-    "technologies": [
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "GrowSurf",
-      "IcoMoon",
-      "QUIC",
-      "RM Education",
-      "Subversion",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "askapollohq.com",
     "title": "AskApollo - AI-First Help Desk!",
     "business_name": "",
@@ -1382,36 +1412,6 @@
       "YouTube",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "peppa.app",
-    "title": "Peppa - AI Family Organizer | Text Schedule to Calendar",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 12195,
-    "crawled_at": "2025-11-20T17:30:19.465766027Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "GrowSurf",
-      "Hotjar",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Tailwind CSS",
-      "WF Cookie Consent",
-      "Webflow"
     ]
   }
 ]
