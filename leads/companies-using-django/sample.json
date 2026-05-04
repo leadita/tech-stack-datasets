@@ -1,5 +1,111 @@
 [
   {
+    "domain": "palacesummit.de",
+    "title": "Palace Summit: Exploring Luxury Travel and Exclusive Destinations",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 7856,
+    "crawled_at": "2026-05-04T12:11:19.979426737Z",
+    "technologies": [
+      "Angular",
+      "Bulma",
+      "Django",
+      "GZIP Module",
+      "Gambling Content",
+      "IcoMoon",
+      "Krypt Technologies",
+      "Matomo",
+      "Matomo Tag Manager",
+      "Nginx",
+      "QUIC",
+      "Tailwind CSS",
+      "UPS",
+      "UTF-8",
+      "Ubuntu",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "kulturkompakt.de",
+    "title": "Kulturkompakt – Kultur, Kunst und Gesellschaft verständlich erklärt",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 2288,
+    "crawled_at": "2026-05-03T19:41:19.985443438Z",
+    "technologies": [
+      "Django",
+      "GZIP Module",
+      "Gambling Content",
+      "Matomo",
+      "Matomo Tag Manager",
+      "Nginx",
+      "Ntent",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "indielistdigital.com",
+    "title": "IndieListDigital UI (Black Menu Links)",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": "",
+    "crawled_at": "2026-05-03T16:22:56.927438632Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Django",
+      "GZIP Module",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "roofoftheworldtravel.com",
+    "title": "Welcome! | Roof of the World Travel | The leading company in the tourism market of Tajikistan",
+    "business_name": "",
+    "country": "TJK",
+    "seo_score": 72,
+    "tech_spend": 3124,
+    "crawled_at": "2026-05-03T14:52:34.735729307Z",
+    "technologies": [
+      "AddThis",
+      "AddThis for Wordpress",
+      "Bulma",
+      "Django",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Customer Reviews",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "JivoSite",
+      "Nginx",
+      "Phusion Passenger Enterprise",
+      "Pleroma",
+      "QUIC",
+      "ShareThis",
+      "Tailwind CSS",
+      "Tawk",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "shreeshacademy.com",
     "title": "kanakai Futsal | Premium Futsal Courts in Jhapa, Nepal",
     "business_name": "",
@@ -130,34 +236,6 @@
       "Yandex Hosting",
       "Yandex Metrika",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "jijiyiyimart.com",
-    "title": "Jijiyiyi Mart: Your Ultimate Shopping Destination for Deals",
-    "business_name": "",
-    "country": "VEN",
-    "seo_score": 77,
-    "tech_spend": 2856,
-    "crawled_at": "2026-05-02T18:26:19.99404642Z",
-    "technologies": [
-      "About Cookies",
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Django",
-      "Gambling Content",
-      "IcoMoon",
-      "Matomo",
-      "Matomo Tag Manager",
-      "QUIC",
-      "Tailwind CSS",
-      "UPS",
-      "UTF-8",
-      "University or College",
-      "jQuery"
     ]
   },
   {
@@ -339,30 +417,6 @@
       "Perl",
       "QUIC",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "vertexupdate.de",
-    "title": "Vertex Update: AI and Machine Learning Insights for Developers",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 7288,
-    "crawled_at": "2026-04-29T09:59:19.993192341Z",
-    "technologies": [
-      "Django",
-      "GZIP Module",
-      "Gambling Content",
-      "Krypt Technologies",
-      "Matomo",
-      "Matomo Tag Manager",
-      "Nginx",
-      "Ntent",
-      "QUIC",
-      "UTF-8",
-      "Ubuntu",
-      "eLand",
-      "jQuery"
     ]
   },
   {
@@ -9492,85 +9546,6 @@
       "QUIC",
       "Twitter Ads",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "markanelson.com",
-    "title": "Law Office of Mark A. Nelson, APC | Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 7268,
-    "crawled_at": "2025-11-20T19:48:19.44456521Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "DC74",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Perl",
-      "QUIC",
-      "Yelp Badge",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "indielistdigital.com",
-    "title": "IndieListDigital UI (Black Menu Links)",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": "",
-    "crawled_at": "2025-11-20T13:36:19.470286837Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Django",
-      "GZIP Module",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "roofoftheworldtravel.com",
-    "title": "Welcome! | Roof of the World Travel | The leading company in the tourism market of Tajikistan",
-    "business_name": "",
-    "country": "TJK",
-    "seo_score": 72,
-    "tech_spend": 3124,
-    "crawled_at": "2025-11-20T12:45:19.468133022Z",
-    "technologies": [
-      "AddThis",
-      "AddThis for Wordpress",
-      "Bulma",
-      "Django",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Customer Reviews",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "JivoSite",
-      "Nginx",
-      "Phusion Passenger Enterprise",
-      "Pleroma",
-      "QUIC",
-      "ShareThis",
-      "Tailwind CSS",
-      "Tawk",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
