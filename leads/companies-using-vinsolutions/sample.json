@@ -1,5 +1,89 @@
 [
   {
+    "domain": "ozang.me",
+    "title": "Ozan G. - Sr. Sourcing Manager - ZAN Global | Popl",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 20603,
+    "crawled_at": "2026-05-04T09:20:19.988670719Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Fireblade",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Google My Business",
+      "Material-UI",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Salesforce Hosted",
+      "Twitter Ads",
+      "UTF-8",
+      "VinSolutions",
+      "WhatsApp Sharing",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "rudnevmike.com",
+    "title": "Mike Rudnev - Realtor - eXp Realty | Popl",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 21671,
+    "crawled_at": "2026-05-04T08:29:19.995265831Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Cloudflare",
+      "ExpRealty",
+      "Fireblade",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Linktree",
+      "Material-UI",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Salesforce Hosted",
+      "Twitter Ads",
+      "UTF-8",
+      "VinSolutions",
+      "WhatsApp Sharing",
+      "YouTube",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "bdcangels.com",
+    "title": "BDC Angels | Not All Angels Have Wings— Some of Us Wear Headsets!",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 8972,
+    "crawled_at": "2026-05-03T18:41:20.016759027Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "Hubspot Knowledge Base",
+      "IcoMoon",
+      "UTF-8",
+      "VinSolutions",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "amvinsolution.com",
     "title": "Amvin E-Solution | Full Fixed Portal",
     "business_name": "",
@@ -1955,26 +2039,6 @@
     ]
   },
   {
-    "domain": "bdcangels.com",
-    "title": "BDC Angels | Not All Angels Have Wings— Some of Us Wear Headsets!",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 8972,
-    "crawled_at": "2026-02-24T16:45:04.415282638Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "Hubspot Knowledge Base",
-      "IcoMoon",
-      "UTF-8",
-      "VinSolutions",
-      "YouTube"
-    ]
-  },
-  {
     "domain": "synapticautomotive.com",
     "title": "Synaptic Automotive - Private AI Sales Performance Analysis",
     "business_name": "",
@@ -2857,38 +2921,6 @@
       "UTF-8",
       "VinSolutions",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "bestcrmsoftwareforcardealerships.com",
-    "title": "In-Depth Analysis and Rankings of Best CRM Software for Car Dealerships",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 92590,
-    "crawled_at": "2025-11-20T11:36:19.436660411Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Better Lead Generation Services",
-      "Bulma",
-      "CDK Global",
-      "CloudFront",
-      "Content Delivery Network",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hotjar",
-      "Instagram Follow Button",
-      "NFOrce Internet",
-      "ProMax Unlimited",
-      "RM Education",
-      "Twitter Ads",
-      "UTF-8",
-      "VinSolutions"
     ]
   }
 ]
