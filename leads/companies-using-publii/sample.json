@@ -1,5 +1,126 @@
 [
   {
+    "domain": "totallyscience.co",
+    "title": "Totally Science: Unblocked Games",
+    "business_name": "Totally Science",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 22898,
+    "crawled_at": "2026-05-04T09:23:19.986565193Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Amazon WAF Blocked",
+      "CloudFront",
+      "Content Delivery Network",
+      "CoreUI",
+      "DAV",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Publii",
+      "Tailwind CSS",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "brettbeyerphoto.com",
+    "title": "Bridgit Beyer: Architectural and Interior Photographer",
+    "business_name": "Brett Beyer Photography",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 81528,
+    "crawled_at": "2026-05-04T04:09:03.833172712Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "DAV",
+      "Express",
+      "FormSubmit",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Newsletter for Wordpress",
+      "Publii",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "bartatwork.com",
+    "title": "Bart at work",
+    "business_name": "Bart at work",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 112,
+    "crawled_at": "2026-05-04T04:08:19.989237701Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Publii",
+      "Wistia",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "chuckowenby.com",
+    "title": "Chuck Owenby is spying on you. - ChuckOwenby.com",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 51649,
+    "crawled_at": "2026-05-03T15:14:20.016539303Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Publii",
+      "SAS",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "tathamrmt.com",
+    "title": "Tatham Johnson",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 62,
+    "tech_spend": 149,
+    "crawled_at": "2026-05-03T12:35:19.978912296Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Google Analytics",
+      "Google Tag Manager",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "Publii",
+      "QUIC",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "neverlanddestinations.com",
     "title": "Neverland Destinations - Disney and Universal Studios Vacations",
     "business_name": "Neverland Destinations",
@@ -1537,39 +1658,6 @@
       "QUIC",
       "WordPress SEO Structured Data Schema Plugin",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "bbprojects.net",
-    "title": "Bridgit Beyer: Architectural and Interior Photographer",
-    "business_name": "Brett Beyer Photography",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 81528,
-    "crawled_at": "2026-04-18T09:53:20.000117361Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "DAV",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "Publii",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   },
   {
@@ -3954,25 +4042,6 @@
     ]
   },
   {
-    "domain": "tathamjohnson.com",
-    "title": "Tatham Johnson",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 67,
-    "tech_spend": 149,
-    "crawled_at": "2026-03-01T07:05:50.649632612Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Google Analytics",
-      "Google Tag Manager",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "Publii",
-      "QUIC",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
     "domain": "tylerbeatty.ca",
     "title": "Tyler's Portfolio",
     "business_name": "Tyler's Portfolio",
@@ -5700,34 +5769,6 @@
       "Microdata for Google Shopping",
       "Publii",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "totallyscience.co",
-    "title": "Totally Science: Unblocked Games",
-    "business_name": "Totally Science",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 17898,
-    "crawled_at": "2025-12-29T20:49:07.803398652Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Amazon WAF Blocked",
-      "CloudFront",
-      "Content Delivery Network",
-      "CoreUI",
-      "DAV",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Publii",
-      "Tailwind CSS",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
     ]
   },
   {
@@ -7898,24 +7939,6 @@
     ]
   },
   {
-    "domain": "chuckowenby.com",
-    "title": "Chuck Owenby is spying on you. - ChuckOwenby.com",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 51649,
-    "crawled_at": "2025-11-21T13:12:19.440429626Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Publii",
-      "SAS",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
     "domain": "spokanewriter.com",
     "title": "Cia Watson",
     "business_name": "Cia Watson - Transportation Freelance Writer",
@@ -7973,27 +7996,6 @@
       "Microdata for Google Shopping",
       "Publii",
       "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "katnipfarm.com",
-    "title": "KatnipFarm",
-    "business_name": "KatnipFarm",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 7788,
-    "crawled_at": "2025-11-20T14:09:19.456859171Z",
-    "technologies": [
-      "Coming Soon Page",
-      "GZIP Module",
-      "Google Forms",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PayPal Adaptive Payments",
-      "Publii",
-      "RM Education",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   }
