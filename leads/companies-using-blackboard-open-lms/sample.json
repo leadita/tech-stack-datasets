@@ -1,5 +1,25 @@
 [
   {
+    "domain": "spvsoftwareproducts.com",
+    "title": "SPV Software Products",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 25060,
+    "crawled_at": "2026-05-04T01:38:20.010412875Z",
+    "technologies": [
+      "Apache",
+      "Blackboard Open LMS",
+      "ISO/IEC 8859",
+      "License Buttons",
+      "Oracle Cloud",
+      "PHP",
+      "Perl",
+      "UTF-8",
+      "iAPPS"
+    ]
+  },
+  {
     "domain": "sdo-profi.ru",
     "title": "PROFI: Log in to the site",
     "business_name": "",
@@ -3331,32 +3351,6 @@
       "Subversion",
       "UTF-8",
       "University or College"
-    ]
-  },
-  {
-    "domain": "paulnaumanmedia.com",
-    "title": "Paul Nauman Media – Paul Nauman Media",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 55325,
-    "crawled_at": "2025-11-21T00:12:19.464050828Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Dreamweaver",
-      "Alternate Protocol",
-      "Apache",
-      "Blackboard Open LMS",
-      "EmbedPress",
-      "GZIP Module",
-      "PHP",
-      "SchoolWires Centricity",
-      "Theme In WP",
-      "UTF-8",
-      "University or College",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
