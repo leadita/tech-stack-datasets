@@ -1,5 +1,35 @@
 [
   {
+    "domain": "zeroscams.com",
+    "title": "Zero Scams is an online anti-scam community",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 15483,
+    "crawled_at": "2026-05-04T23:23:19.994652753Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "BetterMode",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Commoninja",
+      "ElementUI",
+      "Fireblade",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Imgix",
+      "PWA",
+      "QUIC",
+      "Share Link",
+      "Tailwind CSS",
+      "Tribe.so",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "win111.promo",
     "title": "Win111: Exclusive Promotions, Bonuses & Daily Rewards for You",
     "business_name": "WIN111",
