@@ -1,5 +1,124 @@
 [
   {
+    "domain": "cubifive.com",
+    "title": "Cubifive LLC",
+    "business_name": "Cubi5",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 49,
+    "crawled_at": "2026-05-05T12:08:20.019536937Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "craigrackemann.com",
+    "title": "Stretch Therapy Sessions",
+    "business_name": "Stretch Therapy Sessions",
+    "country": "AUS",
+    "seo_score": 67,
+    "tech_spend": 3648,
+    "crawled_at": "2026-05-05T09:31:13.425013589Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "CoreUI",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "uPress"
+    ]
+  },
+  {
+    "domain": "ggcwryk.edu.pk",
+    "title": "Home - Govt. Graduate College For Women",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 69448,
+    "crawled_at": "2026-05-05T01:38:33.278658644Z",
+    "technologies": [
+      "AAPT",
+      "Adult Content",
+      "Apache",
+      "Apyl",
+      "CCSI",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "CoreUI",
+      "DAV",
+      "DC74",
+      "Dalue",
+      "Facebook Embedded Posts",
+      "Federal Deposit Insurance Corporation",
+      "Financial Services Guide",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Idaq",
+      "Jublo",
+      "K2F",
+      "KVH",
+      "Nationwide Mortgage Licensing System and Registry",
+      "No-Q",
+      "ON24",
+      "Onyx Internet",
+      "PHP",
+      "Paessler",
+      "Perl",
+      "Phew",
+      "Plivo",
+      "Publii",
+      "QUIC",
+      "SMC",
+      "SiteW",
+      "Subversion",
+      "UTF-8",
+      "Ubuntu",
+      "University or College",
+      "Unix",
+      "Visx",
+      "Zope",
+      "acens Technologies",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "longview.be",
+    "title": "LA2YUA — RF and related projects",
+    "business_name": "LA2YUA",
+    "country": "GBR",
+    "seo_score": 75,
+    "tech_spend": 15149,
+    "crawled_at": "2026-05-04T20:20:16.905753639Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Apache",
+      "Apture Linking Platform",
+      "Fireblade",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Publii",
+      "QUIC",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "totallyscience.co",
     "title": "Totally Science: Unblocked Games",
     "business_name": "Totally Science",
@@ -6234,29 +6353,6 @@
     ]
   },
   {
-    "domain": "stretchtherapysessions.com",
-    "title": "Stretch Therapy Sessions",
-    "business_name": "Stretch Therapy Sessions",
-    "country": "AUS",
-    "seo_score": 67,
-    "tech_spend": 3648,
-    "crawled_at": "2025-12-20T04:01:32.748415031Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "CoreUI",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "uPress"
-    ]
-  },
-  {
     "domain": "jasminedelsur.com",
     "title": "@jasminedelsur",
     "business_name": "@jasminedelsur",
@@ -7405,29 +7501,6 @@
     ]
   },
   {
-    "domain": "spielgruppelandquart.ch",
-    "title": "Startseite",
-    "business_name": "",
-    "country": "CHE",
-    "seo_score": 60,
-    "tech_spend": 11600,
-    "crawled_at": "2025-11-25T09:07:59.752328781Z",
-    "technologies": [
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "Contento",
-      "Fastly",
-      "GZIP Module",
-      "Google My Business",
-      "OpenResty",
-      "Publii",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "eLand"
-    ]
-  },
-  {
     "domain": "bucky.media",
     "title": "Bucky",
     "business_name": "Bucky",
@@ -7936,67 +8009,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "spokanewriter.com",
-    "title": "Cia Watson",
-    "business_name": "Cia Watson - Transportation Freelance Writer",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 289,
-    "crawled_at": "2025-11-21T05:03:19.45539546Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Nginx",
-      "Publii",
-      "StatCounter",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "longview.be",
-    "title": "LA2YUA — RF and related projects",
-    "business_name": "LA2YUA",
-    "country": "GBR",
-    "seo_score": 75,
-    "tech_spend": 15149,
-    "crawled_at": "2025-11-21T03:30:19.444561966Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Apache",
-      "Fireblade",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Publii",
-      "QUIC",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "cloudhomes.bg",
-    "title": "cloudhomes",
-    "business_name": "cloudhomes",
-    "country": "BGR",
-    "seo_score": 40,
-    "tech_spend": 649,
-    "crawled_at": "2025-11-21T02:02:22.472427225Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   }
 ]
