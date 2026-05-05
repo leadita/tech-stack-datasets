@@ -1,5 +1,155 @@
 [
   {
+    "domain": "bubblebath.net",
+    "title": "Build Your Brand",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 135,
+    "crawled_at": "2026-05-05T15:56:20.002775638Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "currimao.com",
+    "title": "Welcome to PhilippineProperties.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 7219,
+    "crawled_at": "2026-05-05T15:50:20.010888165Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Neighborhoods",
+      "Prospective",
+      "QUIC",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "dizklaymer.com",
+    "title": "Dizklaymer.com",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 57,
+    "tech_spend": 735,
+    "crawled_at": "2026-05-05T15:20:52.17413307Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Amazon Widgets",
+      "Band Camp",
+      "Camp",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "levi8.com",
+    "title": "Leviate @ levi8.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 961,
+    "crawled_at": "2026-05-05T13:56:20.014876409Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Blocksy",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Dynadot",
+      "EmbedPress",
+      "GoDaddy",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Line2",
+      "LiteSpeed",
+      "PHP",
+      "QUIC",
+      "ShippingEasy",
+      "Stackable Page Builder Gutenberg Blocks",
+      "Theme In WP",
+      "UTF-8",
+      "Ultimate Addons for Gutenberg",
+      "Woo Themes",
+      "WooCommerce",
+      "WooCommerce Checkout",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Related Posts",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "agenticvital.com",
+    "title": "An EMDN - Agentic Vital, Health Technology Wellness Monitoring Medical Innovation Smart Healthcare AI-Driven Solutions Preventive Care Personalized Medicine Life Optimization",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 135,
+    "crawled_at": "2026-05-05T06:56:20.01139694Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "forextopnews.com",
+    "title": "Forex Top News",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 2135,
+    "crawled_at": "2026-05-05T02:17:19.977537544Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "BLR",
+      "CloudFront",
+      "Coming Soon Page",
+      "DAV",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "getcdl.us",
     "title": "This website or DOMAIN NAME may be for sale.",
     "business_name": "",
@@ -17,28 +167,6 @@
       "GZIP Module",
       "Google My Business",
       "PointDNS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "highpanel.com",
-    "title": "An EMDN - High Panel, Solar Energy Architecture Construction Design Technology",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 135,
-    "crawled_at": "2026-05-04T13:17:19.988619446Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microsoft Clarity",
       "UTF-8"
     ]
   },
@@ -91,24 +219,6 @@
       "Vultr",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "indexfund.net",
-    "title": "Build Your Brand",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 135,
-    "crawled_at": "2026-05-04T07:44:20.406147141Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8"
     ]
   },
   {
@@ -317,28 +427,6 @@
       "Font Awesome",
       "GZIP Module",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "muntinlupa.com",
-    "title": "Welcome to PhilippineProperties.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 7219,
-    "crawled_at": "2026-05-03T02:41:19.991132859Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Neighborhoods",
-      "Prospective",
-      "QUIC",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
@@ -4216,29 +4304,6 @@
     ]
   },
   {
-    "domain": "forextopnews.com",
-    "title": "Forex Top News",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 2135,
-    "crawled_at": "2025-11-23T18:00:19.434779148Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "BLR",
-      "CloudFront",
-      "Coming Soon Page",
-      "DAV",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Tumblr",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
     "domain": "zaythra.com",
     "title": "Zaythra Ayurvedic Orthopedic Care",
     "business_name": "",
@@ -4336,24 +4401,6 @@
       "Font Awesome",
       "GZIP Module",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "dizklaymer.com",
-    "title": "Dizklaymer.com",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 47,
-    "tech_spend": 135,
-    "crawled_at": "2025-11-21T13:36:19.454916855Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
