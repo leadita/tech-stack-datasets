@@ -1087,36 +1087,5 @@
       "Website Tonight",
       "YouTube"
     ]
-  },
-  {
-    "domain": "saasiest2023.com",
-    "title": "SaaSiest 2023",
-    "business_name": "",
-    "country": "SWE",
-    "seo_score": 67,
-    "tech_spend": 71936,
-    "crawled_at": "2025-11-21T02:18:19.444199079Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon",
-      "Amazon CloudFront",
-      "Aruba",
-      "CloudFront",
-      "Express",
-      "GZIP Module",
-      "Gainsight",
-      "Gambling Content",
-      "Google My Business",
-      "Google Tag Manager",
-      "OptiMonk",
-      "QUIC",
-      "Tailwind CSS",
-      "Thank You",
-      "TwentyThree",
-      "UTF-8",
-      "WordPress",
-      "YouCanBookMe",
-      "eLand"
-    ]
   }
 ]
