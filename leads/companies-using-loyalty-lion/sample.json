@@ -1,5 +1,40 @@
 [
   {
+    "domain": "kingsmenshoes.com",
+    "title": "Kingsmen Shoes - Kingsmen Shoes",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 38482,
+    "crawled_at": "2026-05-05T00:11:19.985148715Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Loyalty Lion",
+      "Microdata for Google Shopping",
+      "PHP",
+      "POWr",
+      "Python",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "bulknutrients.com.au",
     "title": "Bulk Nutrients | Australia's first choice for supplements",
     "business_name": "",
@@ -916,40 +951,6 @@
       "YouTube",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "kingsmenshoes.com",
-    "title": "Kingsmen Shoes - Kingsmen Shoes",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 38482,
-    "crawled_at": "2025-11-23T00:36:19.437025218Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Loyalty Lion",
-      "Microdata for Google Shopping",
-      "PHP",
-      "POWr",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
