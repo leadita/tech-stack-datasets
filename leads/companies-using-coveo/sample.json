@@ -1,5 +1,35 @@
 [
   {
+    "domain": "prostatecancer.ca",
+    "title": "Transform the future of prostate cancer | Canadian Cancer Society",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 192592,
+    "crawled_at": "2026-05-05T20:47:20.019104088Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Coveo",
+      "Express",
+      "Fundraise Up",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LiveChat",
+      "LiveChat Monitoring",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Mondial Relay",
+      "Rocket Chat",
+      "Sitecore CMS",
+      "Tailwind CSS",
+      "UTF-8",
+      "Visual Studio",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "cesvancouver.com",
     "title": "Home | CES Vancouver",
     "business_name": "",
@@ -2338,36 +2368,6 @@
       "UTF-8",
       "Visual Studio",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "mandicruzz.com",
-    "title": "Support the breast cancer cause | Canadian Cancer Society",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 194892,
-    "crawled_at": "2026-03-22T14:12:12.457372966Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Coveo",
-      "Express",
-      "Fundraise Up",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LiveChat",
-      "LiveChat Monitoring",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Rocket Chat",
-      "Sitecore CMS",
-      "Tailwind CSS",
-      "UTF-8",
-      "Visual Studio",
-      "YouTube"
     ]
   },
   {
