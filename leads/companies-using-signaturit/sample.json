@@ -1,5 +1,29 @@
 [
   {
+    "domain": "marrad.es",
+    "title": "Julián Marrades",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 4540,
+    "crawled_at": "2026-05-05T06:34:41.796814821Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "NFOrce Internet",
+      "PHP",
+      "Python",
+      "Signaturit",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "signaturitinternational.com",
     "title": "Signaturit International",
     "business_name": "",
