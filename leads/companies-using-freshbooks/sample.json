@@ -1,5 +1,39 @@
 [
   {
+    "domain": "bestransomwarerecovery.com",
+    "title": "Enterprise Security And Data Protection Services | Best Ransomware Recovery",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 18948,
+    "crawled_at": "2026-05-05T05:24:08.21924781Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "App Store",
+      "AutoComplete",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Easy Pie Chart",
+      "Fireblade",
+      "FreshBooks",
+      "Google Analytics",
+      "Google My Business",
+      "Google Play",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "PHP",
+      "StackPath",
+      "Tailwind CSS",
+      "Tawk",
+      "UTF-8",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "avantiico.com",
     "title": "Avantiico | Microsoft Solutions, Consulting, & Automation",
     "business_name": "Avantiico",
@@ -3216,40 +3250,6 @@
       "WordPress",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "bestransomwarerecovery.com",
-    "title": "Enterprise Security And Data Protection Services | Best Ransomware Recovery",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 18948,
-    "crawled_at": "2025-11-21T08:24:19.451765828Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "App Store",
-      "AutoComplete",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Easy Pie Chart",
-      "Fireblade",
-      "FreshBooks",
-      "Google Analytics",
-      "Google My Business",
-      "Google Play",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "PHP",
-      "StackPath",
-      "Tailwind CSS",
-      "Tawk",
-      "UTF-8",
-      "WordPress"
     ]
   }
 ]

@@ -1,5 +1,50 @@
 [
   {
+    "domain": "jcccpa.com",
+    "title": "Home | JC & Company",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 13840,
+    "crawled_at": "2026-05-05T09:56:20.025192304Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Cloudinary",
+      "Dext",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "radext.com",
+    "title": "Radext Software Inc. — Minimal, fast, human‑centered software",
+    "business_name": "Radext Software Inc.",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 1176,
+    "crawled_at": "2026-05-04T15:32:20.002669373Z",
+    "technologies": [
+      "App Store",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Dext",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Netlify Forms",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "evergreentaxprep.com",
     "title": "Home | Evergreen Tax Services & Accounting",
     "business_name": "",
@@ -3701,25 +3746,6 @@
     ]
   },
   {
-    "domain": "radext.com",
-    "title": "Radext Software Inc. — Minimal, fast, human‑centered software",
-    "business_name": "Radext Software Inc.",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 1176,
-    "crawled_at": "2026-01-29T13:55:48.876598164Z",
-    "technologies": [
-      "App Store",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Dext",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Netlify Forms",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "dswacpa.com",
     "title": "Home | DSWA Certified Public Accountants",
     "business_name": "",
@@ -5731,50 +5757,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "okcredit.app",
-    "title": "OkCredit: Ledger, UPI, Billing - Apps on Google Play",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 240970,
-    "crawled_at": "2025-11-21T00:39:19.443020393Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Apture Linking Platform",
-      "Better Lead Generation Services",
-      "DAV",
-      "Dext",
-      "GTranslate",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Calendar",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google My Business",
-      "Google Play",
-      "Google Recommendations AI",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Google Workspace",
-      "KVH",
-      "Microdata for Google Shopping",
-      "No-Q",
-      "Ntent",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "Salesforce Hosted",
-      "Sapper",
-      "Subversion",
-      "UTF-8",
-      "YouTube",
-      "reCAPTCHA"
     ]
   }
 ]
