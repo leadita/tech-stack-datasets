@@ -1,5 +1,27 @@
 [
   {
+    "domain": "scanitparts.com",
+    "title": "ScanIt Parts - Wireless Barcode Scanning for Dealers",
+    "business_name": "ScanIt Parts",
+    "country": "JPN",
+    "seo_score": 82,
+    "tech_spend": 32440,
+    "crawled_at": "2026-05-04T13:23:19.998438002Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "CDK Global",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "UTF-8",
+      "Ubuntu",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "pentesoft.com",
     "title": "Pentesoft LLC - Software and Systems Engineering",
     "business_name": "",
@@ -569,40 +591,6 @@
       "Twitter Ads",
       "University or College",
       "WhatsApp Sharing"
-    ]
-  },
-  {
-    "domain": "scanitparts.com",
-    "title": "ScanIt Parts Home - Dealership Inventory Management",
-    "business_name": "ScanIt Parts",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 33625,
-    "crawled_at": "2025-11-28T14:35:41.446799828Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDK Global",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "OptiMole",
-      "QUIC",
-      "SiteGround Optimizer",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]

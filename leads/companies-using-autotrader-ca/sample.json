@@ -1,5 +1,28 @@
 [
   {
+    "domain": "adamreynolds.ca",
+    "title": "Adam Reynolds | Freelance web developer and web designer in Hamilton Ontario",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 4140,
+    "crawled_at": "2026-05-05T10:11:19.984347025Z",
+    "technologies": [
+      "ASP.NET MVC",
+      "Apache",
+      "Apture Linking Platform",
+      "AutoTrader CA",
+      "Better Lead Generation Services",
+      "DAV",
+      "GZIP Module",
+      "Google Analytics",
+      "Homes.com CMS",
+      "PHP",
+      "Visual Studio",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "autoyou.ca",
     "title": "AutoYou.ca",
     "business_name": "",
@@ -1534,29 +1557,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "adamreynolds.ca",
-    "title": "Adam Reynolds | Freelance web developer and web designer in Hamilton Ontario",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 4140,
-    "crawled_at": "2026-01-26T20:37:43.434924545Z",
-    "technologies": [
-      "ASP.NET MVC",
-      "Apache",
-      "Apture Linking Platform",
-      "AutoTrader CA",
-      "Better Lead Generation Services",
-      "DAV",
-      "GZIP Module",
-      "Google Analytics",
-      "Homes.com CMS",
-      "PHP",
-      "Visual Studio",
-      "jQuery"
     ]
   },
   {
