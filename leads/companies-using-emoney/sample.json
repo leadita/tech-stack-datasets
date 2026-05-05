@@ -1,5 +1,29 @@
 [
   {
+    "domain": "stevenwaller.io",
+    "title": "Steven Waller › Full-Stack Developer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 2580,
+    "crawled_at": "2026-05-04T20:38:19.988310214Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon",
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Hugo",
+      "Netlify",
+      "Ntent",
+      "Twitter Ads",
+      "UTF-8",
+      "eMoney"
+    ]
+  },
+  {
     "domain": "shoalcreekwp.com",
     "title": "Home | Shoal Creek Wealth Partners",
     "business_name": "",
@@ -32,30 +56,6 @@
       "Storyblocks",
       "UTF-8",
       "Yandex Hosting",
-      "eMoney"
-    ]
-  },
-  {
-    "domain": "stevenwaller.io",
-    "title": "Steven Waller › Full-Stack Developer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 2580,
-    "crawled_at": "2026-05-01T16:32:32.297850735Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Amazon",
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hugo",
-      "Netlify",
-      "Ntent",
-      "Twitter Ads",
-      "UTF-8",
       "eMoney"
     ]
   },
