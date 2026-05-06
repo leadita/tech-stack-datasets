@@ -1,5 +1,25 @@
 [
   {
+    "domain": "allmypets.uk",
+    "title": "Susie's Animals",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 2000,
+    "crawled_at": "2026-05-06T04:41:08.024275756Z",
+    "technologies": [
+      "Automattic",
+      "BLR",
+      "Buffer",
+      "Nginx",
+      "Share Link",
+      "Sharebutton Fonts",
+      "Tumblr",
+      "UTF-8",
+      "WhatsApp Sharing"
+    ]
+  },
+  {
     "domain": "entrepreneurgeeks.com",
     "title": "Entrepreneurship Crash Course - Java Code Geeks",
     "business_name": "Exelixis Media P.C.",
@@ -8685,26 +8705,6 @@
       "YouTube",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "allmypets.uk",
-    "title": "Susie's Animals",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 2000,
-    "crawled_at": "2025-11-21T20:48:19.445096123Z",
-    "technologies": [
-      "Automattic",
-      "BLR",
-      "Buffer",
-      "Nginx",
-      "Share Link",
-      "Sharebutton Fonts",
-      "Tumblr",
-      "UTF-8",
-      "WhatsApp Sharing"
     ]
   }
 ]
