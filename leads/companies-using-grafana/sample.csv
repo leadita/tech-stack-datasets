@@ -1,6 +1,6 @@
 domain,title,business_name,country,seo_score,tech_spend,crawled_at,technologies
-grafana.uvm.cz,Grafana,,,45,1200,2026-05-03T07:47:14.43670687Z,"['Apache', 'Barchart', 'Debian', 'Express', 'GitHub Hosting', 'Grafana', 'UTF-8']"
-lora.md5.si,Grafana,,,40,6260,2026-04-30T02:32:19.999900746Z,"['Barchart', 'Express', 'GZIP Module', 'GitHub Hosting', 'Grafana', 'KVH', 'OpenResty', 'UTF-8', 'Visx', 'Yandex Hosting']"
+bocabarracas.com.ar,ESTACIONES,,,35,,2026-05-05T21:35:40.453814423Z,"['GitHub Hosting', 'Grafana', 'Ntent', 'UTF-8']"
+stacjameteommz.pl,Grafana,,,50,1260,2026-05-05T21:27:44.50353895Z,"['Barchart', 'Express', 'GZIP Module', 'GitHub Hosting', 'Google Analytics', 'Google Forms', 'Google My Business', 'Google Tag Manager', 'Grafana', 'Nginx', 'UTF-8', 'Yandex Hosting']"
 fabryczna.art,Grafana,,,30,1200,2026-04-29T16:06:19.875219284Z,"['Barchart', 'Express', 'GitHub Hosting', 'Grafana', 'UTF-8']"
 zabbixdash.com.br,Grafana,,,30,11200,2026-04-26T01:38:19.981827946Z,"['Barchart', 'Contento', 'Express', 'GZIP Module', 'Grafana', 'Nginx', 'UTF-8', 'Ubuntu']"
 vikshep.com,Arya Shakti,,,40,32899,2026-04-16T00:49:35.356010479Z,"['AAPT', 'Apache', 'DAV', 'Financial Services Guide', 'GitHub Hosting', 'Google My Business', 'Grafana', 'KVH', 'Ntent', 'On The Map', 'Paessler', 'RawGit', 'SMC', 'Subversion', 'UTF-8']"
