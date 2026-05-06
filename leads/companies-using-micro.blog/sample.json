@@ -1,5 +1,37 @@
 [
   {
+    "domain": "entangledstates.org",
+    "title": "Entangled States",
+    "business_name": "",
+    "country": "ISR",
+    "seo_score": 65,
+    "tech_spend": 51507,
+    "crawled_at": "2026-05-05T16:44:19.980594046Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Automattic",
+      "Content Delivery Network",
+      "EmbedPress",
+      "GoDaddy",
+      "Gutenberg",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "Micro.blog",
+      "Nginx",
+      "Perl",
+      "QUIC",
+      "SMC",
+      "Twitter Ads",
+      "UTF-8",
+      "Vimeo",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "00dani.me",
     "title": "00dani.me",
     "business_name": "",
@@ -1103,37 +1135,6 @@
       "YouTube",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "entangledstates.org",
-    "title": "Entangled States",
-    "business_name": "",
-    "country": "ISR",
-    "seo_score": 65,
-    "tech_spend": 51507,
-    "crawled_at": "2026-04-29T04:22:58.000911199Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Automattic",
-      "EmbedPress",
-      "GoDaddy",
-      "Gutenberg",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Micro.blog",
-      "Nginx",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "Twitter Ads",
-      "UTF-8",
-      "Vimeo",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "YouTube",
-      "jQuery"
     ]
   },
   {
@@ -6416,37 +6417,6 @@
       "Mastodon",
       "Micro.blog",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "logic2design.com",
-    "title": "Logic2Design",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 3127,
-    "crawled_at": "2025-12-29T09:55:38.334311804Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ElementUI",
-      "Font Awesome",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Mastodon",
-      "Micro.blog",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "jQuery",
-      "jsDelivr"
     ]
   },
   {
