@@ -1,5 +1,38 @@
 [
   {
+    "domain": "bogdanraicu.dev",
+    "title": "Bogdan Raicu | Software Developer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 52028,
+    "crawled_at": "2026-05-06T20:53:20.003467856Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Aruba",
+      "Astro",
+      "CM Commerce",
+      "Content Delivery Network",
+      "Express",
+      "Figma",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "Python",
+      "RM Education",
+      "Svelte",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "Yardi Systems",
+      "eLand"
+    ]
+  },
+  {
     "domain": "wpmaccounting.com",
     "title": "Property Management Accounting Services | WPM Accounting",
     "business_name": "",
