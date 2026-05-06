@@ -1,5 +1,29 @@
 [
   {
+    "domain": "mystiquex.com",
+    "title": "MystiqueX™ — Empowering Businesses With Cloud-Native And AI-Driven Solutions",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 254381,
+    "crawled_at": "2026-05-05T19:29:19.995199993Z",
+    "technologies": [
+      "Apache",
+      "Astro",
+      "Contao Cookie Consent",
+      "Formspree",
+      "Freshteam",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "QUIC",
+      "SAP",
+      "Tailwind CSS",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "cansave.ca",
     "title": "CanSave Home - Welcome to CanSave Supply and Distribution, Barrie",
     "business_name": "CanSave",
@@ -2421,26 +2445,6 @@
       "Twitter Ads",
       "WF Cookie Consent",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "mystiquex.com",
-    "title": "mystiqueX - Cloud native application development, Service virtualization, distributed performance testing, Routing for AB testing, Quality Testing",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 1692,
-    "crawled_at": "2025-12-31T09:09:54.219193043Z",
-    "technologies": [
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Freshteam",
-      "InitiativeS",
-      "Tailwind CSS",
-      "YouTube",
-      "jQuery"
     ]
   },
   {
