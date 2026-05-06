@@ -1,5 +1,32 @@
 [
   {
+    "domain": "obpromoshop.com",
+    "title": "Optimal Blue",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 19503,
+    "crawled_at": "2026-05-06T15:26:54.382733736Z",
+    "technologies": [
+      "AutoComplete",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Fireblade",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "GrandNode",
+      "Optimal Blue",
+      "PHP",
+      "QUIC",
+      "UTF-8",
+      "jQuery",
+      "nopCommerce"
+    ]
+  },
+  {
     "domain": "therfcgroup.com",
     "title": "The RFC Group – Opening Doors Since 1990",
     "business_name": "",
@@ -7494,30 +7521,6 @@
       "QUIC",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "obpromoshop.com",
-    "title": "Optimal Blue",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 12102,
-    "crawled_at": "2025-11-22T02:18:19.428424421Z",
-    "technologies": [
-      "AutoComplete",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "GrandNode",
-      "Optimal Blue",
-      "PHP",
-      "QUIC",
-      "UTF-8",
-      "WoWonder",
-      "jQuery",
-      "nopCommerce"
     ]
   }
 ]
