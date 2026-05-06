@@ -1,5 +1,31 @@
 [
   {
+    "domain": "certificados12cccprofesional.com",
+    "title": "Log in to the site |",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 23063,
+    "crawled_at": "2026-05-05T18:38:19.984167281Z",
+    "technologies": [
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "KVH",
+      "Moodle",
+      "NFOrce Internet",
+      "Nginx",
+      "PHP",
+      "Perl",
+      "Totara",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "learnjozsef.hu",
     "title": "Home | moodle.jozsef",
     "business_name": "",
