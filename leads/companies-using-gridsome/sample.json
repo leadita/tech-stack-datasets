@@ -1,5 +1,338 @@
 [
   {
+    "domain": "knutholmen.no",
+    "title": "Velkomen - Knutholmen",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 6416,
+    "crawled_at": "2026-05-06T18:23:19.996431303Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DC74",
+      "Gridsome",
+      "Harbor",
+      "Instagram Follow Button",
+      "Netlify",
+      "Perl",
+      "Sanity",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "tspros.com",
+    "title": "TSPRO - Technical Service Professionals",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 47,
+    "tech_spend": 1113,
+    "crawled_at": "2026-05-06T18:08:20.016965639Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Idaq",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "unicowd.com",
+    "title": "Cowde ninjas in your projects | Unicowd",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 27896,
+    "crawled_at": "2026-05-06T17:35:21.497440681Z",
+    "technologies": [
+      "Adult Content",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "K2F",
+      "Netlify",
+      "Plausible Analytics",
+      "Python",
+      "Subversion",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Visx"
+    ]
+  },
+  {
+    "domain": "reflektordigital.com",
+    "title": "Reflektor Digital | Home",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 67,
+    "tech_spend": 1268,
+    "crawled_at": "2026-05-06T17:14:20.010611543Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Google My Business",
+      "Gridsome",
+      "Hotjar",
+      "LinkedIn Insights",
+      "LinkedIn Pixel",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "ovelarsenas.dk",
+    "title": "- Ove Larsen A/S i Jylland | Entrepren&#248;r Vejle, Horsens &amp; Kolding",
+    "business_name": "",
+    "country": "DNK",
+    "seo_score": 52,
+    "tech_spend": 3,
+    "crawled_at": "2026-05-06T15:38:20.008855664Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Gridsome",
+      "Netlify",
+      "UTF-8",
+      "WordPress"
+    ]
+  },
+  {
+    "domain": "utahopenenrollment.org",
+    "title": "EnrollUT | Find the Best Health Insurance in Utah - EnrollUT",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 15798,
+    "crawled_at": "2026-05-06T14:47:19.993249136Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "Financial Services Guide",
+      "Gridsome",
+      "No-Q",
+      "SMC",
+      "Sherpa",
+      "Subversion",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "arweiler.pro",
+    "title": "volker arweiler - principal software engineer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 500,
+    "crawled_at": "2026-05-06T14:37:21.172951941Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Express",
+      "Gambling Content",
+      "Gridsome",
+      "NFOrce Internet",
+      "OpenSSL",
+      "Python",
+      "Svelte"
+    ]
+  },
+  {
+    "domain": "garagemanu.be",
+    "title": "Garage Manu | Uw garagist in de regio Vlaams-Brabant, Hoegaarden, Tienen, Leuven, Waals-Brabant",
+    "business_name": "",
+    "country": "BEL",
+    "seo_score": 62,
+    "tech_spend": "",
+    "crawled_at": "2026-05-06T11:38:19.9797045Z",
+    "technologies": [
+      "GZIP Module",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Nginx",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "gurubalan.dev",
+    "title": "Gurubalan Harikrishnan | Software Engineer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 3,
+    "crawled_at": "2026-05-06T11:01:33.815748579Z",
+    "technologies": [
+      "Amazon Link Enchancer",
+      "Amazon Widgets",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Gridsome",
+      "Medium",
+      "Next.js",
+      "PROPS Publisher",
+      "Pleroma",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "mixonauten.de",
+    "title": "Gridsome - Gridsome",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 40,
+    "tech_spend": 3,
+    "crawled_at": "2026-05-06T09:50:19.984257535Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "etherlink.one",
+    "title": "Home - EtherLink",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 57,
+    "tech_spend": 12500,
+    "crawled_at": "2026-05-06T07:50:19.981997038Z",
+    "technologies": [
+      "Financial Services Guide",
+      "Fireblade",
+      "GZIP Module",
+      "Gridsome",
+      "KVH",
+      "Nginx",
+      "PWA",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "madamebellahk.com",
+    "title": "Madame Bella Interiors - Interior Design Hong Kong",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 21050,
+    "crawled_at": "2026-05-06T07:32:19.983192977Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Gridsome",
+      "Idaq",
+      "KVH",
+      "Netlify",
+      "SMC",
+      "Subversion",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "villbrygg.com",
+    "title": "Velkommen - Villbrygg",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-05-06T02:59:20.019962065Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "Perl",
+      "Sanity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "drchangperio.com",
+    "title": "Welcome - Dr. Chang Periodontics and Implants",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 21053,
+    "crawled_at": "2026-05-06T02:50:19.989708025Z",
+    "technologies": [
+      "Cloudflare",
+      "Content Delivery Network",
+      "DAV",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Gridsome",
+      "Idaq",
+      "KVH",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "skylineentities.com",
+    "title": "Home - Skyline",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 268,
+    "crawled_at": "2026-05-05T23:40:24.306108031Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "PWA",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "jbdelicatessen.com",
+    "title": "JB Delicatessen - JB Delicatessen",
+    "business_name": "",
+    "country": "SWE",
+    "seo_score": 40,
+    "tech_spend": 15198,
+    "crawled_at": "2026-05-05T23:26:20.021251984Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Financial Services Guide",
+      "Gridsome",
+      "Netlify",
+      "No-Q",
+      "SMC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "constructionexcavationyb.ca",
     "title": "Accueil - Construction Excavation YB",
     "business_name": "",
@@ -800,25 +1133,6 @@
     ]
   },
   {
-    "domain": "reflektor.digital",
-    "title": "Reflektor Digital | Home",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 67,
-    "tech_spend": 1268,
-    "crawled_at": "2026-05-02T08:52:31.860366942Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Gridsome",
-      "Hotjar",
-      "LinkedIn Insights",
-      "LinkedIn Pixel",
-      "Netlify",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "formcarry.email",
     "title": "Form API | Formcarry. - Best Form Backend",
     "business_name": "",
@@ -917,27 +1231,6 @@
     ]
   },
   {
-    "domain": "knutholmen.no",
-    "title": "Velkomen - Knutholmen",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 6416,
-    "crawled_at": "2026-05-02T03:21:00.770574971Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DC74",
-      "Gridsome",
-      "Harbor",
-      "Instagram Follow Button",
-      "Netlify",
-      "Perl",
-      "Sanity",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "jaihindroyals.com",
     "title": "Home - Jaihind Royals",
     "business_name": "",
@@ -1024,25 +1317,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "madamebellahk.com",
-    "title": "Madame Bella Interiors - Interior Design Hong Kong",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 21050,
-    "crawled_at": "2026-05-01T19:41:31.125125375Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "Idaq",
-      "KVH",
-      "Netlify",
-      "SMC",
-      "Subversion",
-      "UTF-8"
     ]
   },
   {
@@ -1245,35 +1519,6 @@
       "Gridsome",
       "Netlify",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "loginfront.com",
-    "title": "Home - LoginFront",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 114929,
-    "crawled_at": "2026-04-30T12:26:20.010997835Z",
-    "technologies": [
-      "DAV",
-      "Federal Deposit Insurance Corporation",
-      "Financial Services Guide",
-      "Fireblade",
-      "Font Awesome",
-      "GZIP Module",
-      "Gridsome",
-      "Idaq",
-      "K2F",
-      "KVH",
-      "Nginx",
-      "No-Q",
-      "PWA",
-      "SMC",
-      "Silicon Valley Web Hosting",
-      "Subversion",
-      "Tailwind CSS",
-      "Visx"
     ]
   },
   {
@@ -4282,26 +4527,6 @@
     ]
   },
   {
-    "domain": "enrollut.com",
-    "title": "EnrollUT | Find the Best Health Insurance in Utah - EnrollUT",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 15798,
-    "crawled_at": "2026-04-12T08:37:19.870222048Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "Financial Services Guide",
-      "Gridsome",
-      "No-Q",
-      "SMC",
-      "Sherpa",
-      "Subversion",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "newclearstudios.com",
     "title": "Newclear Studios - Newclear Studios",
     "business_name": "",
@@ -6025,26 +6250,6 @@
       "Tailwind CSS",
       "University or College",
       "eLand"
-    ]
-  },
-  {
-    "domain": "villbrygg.com",
-    "title": "Velkommen - Villbrygg",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-03-22T05:25:14.48076435Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Perl",
-      "Sanity",
-      "UTF-8"
     ]
   },
   {
@@ -8641,25 +8846,6 @@
     ]
   },
   {
-    "domain": "jbdelicatessen.com",
-    "title": "JB Delicatessen - JB Delicatessen",
-    "business_name": "",
-    "country": "SWE",
-    "seo_score": 40,
-    "tech_spend": 15198,
-    "crawled_at": "2026-01-30T21:31:48.869841457Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "Gridsome",
-      "Netlify",
-      "No-Q",
-      "SMC",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "shoesforkidsproject.org",
     "title": "Shoes for Kids - shoes-for-kids",
     "business_name": "",
@@ -8785,22 +8971,6 @@
       "University or College",
       "Unix",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "garagemanu.be",
-    "title": "Garage Manu | Uw garagist in de regio Vlaams-Brabant, Hoegaarden, Tienen, Leuven, Waals-Brabant",
-    "business_name": "",
-    "country": "BEL",
-    "seo_score": 62,
-    "tech_spend": "",
-    "crawled_at": "2026-01-29T04:42:07.551854726Z",
-    "technologies": [
-      "GZIP Module",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Nginx",
-      "UTF-8"
     ]
   },
   {
@@ -11823,171 +11993,6 @@
       "Tailwind CSS",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "undercoverroofing.org",
-    "title": "Home - Under Cover Roofing",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 21053,
-    "crawled_at": "2025-12-12T08:46:56.008537826Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Idaq",
-      "KVH",
-      "Netlify",
-      "QUIC",
-      "SMC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "freddiefallsinlove.com",
-    "title": "Home - Freddie Falls In Love",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": "",
-    "crawled_at": "2025-12-12T06:13:56.030796727Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "talchaim.com",
-    "title": "Tal Chaim - Tal Chaim",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 60,
-    "crawled_at": "2025-12-12T04:13:56.031044748Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Express",
-      "FormSubmit",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gridsome",
-      "PayPal Adaptive Payments",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "40ba.com.au",
-    "title": "Forty Brisbane Avenue | Chase Developments - Forty Brisbane Avenue | Chase Developments",
-    "business_name": "",
-    "country": "JAM",
-    "seo_score": 62,
-    "tech_spend": 588,
-    "crawled_at": "2025-12-12T00:10:56.030989114Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Content Delivery Network",
-      "Gridsome",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "interactiveo.net",
-    "title": "Interactiveo - Interactiveo",
-    "business_name": "",
-    "country": "DZA",
-    "seo_score": 77,
-    "tech_spend": 268,
-    "crawled_at": "2025-12-11T18:16:56.008601725Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Gridsome",
-      "Netlify",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "jeremytjackson.com",
-    "title": "Home - Jeremy Jackson",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 3096,
-    "crawled_at": "2025-12-11T13:54:20.795401818Z",
-    "technologies": [
-      "Amazon",
-      "Content Delivery Network",
-      "Gambling Content",
-      "GitHub Hosting",
-      "Gridsome",
-      "IcoMoon",
-      "Mastodon",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8",
-      "itch.io"
-    ]
-  },
-  {
-    "domain": "commoswiss.ch",
-    "title": "commoswiss - commoswiss",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 112500,
-    "crawled_at": "2025-12-11T05:19:56.022410221Z",
-    "technologies": [
-      "AAPT",
-      "Apache",
-      "DAV",
-      "Express",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Gridsome",
-      "HMDG",
-      "Idaq",
-      "KVH",
-      "SMC",
-      "Subversion",
-      "University or College"
-    ]
-  },
-  {
-    "domain": "ma-little-agence.com",
-    "title": "Ma Little Agence - Ma Little Agence",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 1050,
-    "crawled_at": "2025-12-11T01:40:56.023808156Z",
-    "technologies": [
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gridsome",
-      "Idaq",
-      "Instagram Follow Button",
-      "Nginx",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]

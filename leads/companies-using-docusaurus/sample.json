@@ -1,5 +1,317 @@
 [
   {
+    "domain": "yaco.email",
+    "title": "YaCo | Crypto & AI Developer🚀☕",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 48,
+    "crawled_at": "2026-05-06T22:09:18.933297117Z",
+    "technologies": [
+      "Cloudflare",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Hexo",
+      "Hyperlane",
+      "Linktree",
+      "Perl",
+      "UTF-8",
+      "Vercel",
+      "VitePress",
+      "YouTube",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "orthogonal.one",
+    "title": "Orthogonal: Music making from a different angle | Orthogonal",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-05-06T18:39:40.330149535Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nginx",
+      "Perl",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "devtodollars.com",
+    "title": "Home | DevToDollars",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-05-06T15:02:20.004278371Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "DAV",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "printnetwork.com",
+    "title": "Printnetwork | Easy and advance E-commerce | Printnetwork",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-05-06T12:14:19.984669636Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "GZIP Module",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "grucloud.com",
+    "title": "GruCloud | GruCloud",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 660,
+    "crawled_at": "2026-05-06T10:05:19.982728637Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "FreePrivacyPolicy.com",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Ntent",
+      "Perl",
+      "RawGit",
+      "Twitter Ads",
+      "UCloud",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "dataactkit.eu",
+    "title": "Data Act Kit - EU Data Act Compliance Made Easy | Data Act Kit",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-05-06T09:11:19.989625499Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Calendly",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Perl",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "navimarket.mn",
+    "title": "NaviMarket Pro | NaviMarket Pro",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 52970,
+    "crawled_at": "2026-05-06T08:34:37.022898056Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "DAV",
+      "Docusaurus",
+      "Facebook CDN",
+      "Google",
+      "Google Cloud CDN",
+      "Google My Business",
+      "Google Play",
+      "No-Q",
+      "Ntent",
+      "PHP",
+      "Perl",
+      "SMC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "apocha.info",
+    "title": "You've Never Seen Your Money This Clearly | apocha",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 17400,
+    "crawled_at": "2026-05-06T08:34:37.003032976Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "Fireblade",
+      "Instagram Follow Button",
+      "Perl",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "loganlawns.com",
+    "title": "Hello from Logan Lawns | Logan Lawns",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 42,
+    "tech_spend": 600,
+    "crawled_at": "2026-05-06T08:23:20.012993406Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "benjaminklang.com",
+    "title": "Benjamin Klang | Technical Writer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2440,
+    "crawled_at": "2026-05-06T07:08:20.013811048Z",
+    "technologies": [
+      "Docusaurus",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Jekyll",
+      "Microdata for Google Shopping"
+    ]
+  },
+  {
+    "domain": "rustxiu.com",
+    "title": "Building a Stable, Secure, and Efficient Live Streaming Media Service | XIU",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 600,
+    "crawled_at": "2026-05-06T06:50:20.00715422Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Adsense",
+      "Google Analytics",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google Reseller",
+      "Google Tag Manager",
+      "PWA",
+      "Perl",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "carly.cool",
+    "title": "Home | Carly.cool",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 62,
+    "tech_spend": 2400,
+    "crawled_at": "2026-05-06T06:26:19.976620213Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Perl",
+      "Python",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "crossmicrosystems.com",
+    "title": "Hello from Cross Microsytems | Cross Microsytems",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-05-06T00:44:20.027937729Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "mccaffers.com",
+    "title": "Home | McCaffers",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 126,
+    "crawled_at": "2026-05-06T00:35:38.631934409Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "App Store",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "License Buttons",
+      "Perl",
+      "Python",
+      "To Top"
+    ]
+  },
+  {
     "domain": "securecodebox.io",
     "title": "Automated Security Testing Tool | secureCodeBox",
     "business_name": "",
@@ -223,22 +535,6 @@
       "Perl",
       "QUIC",
       "To Top",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "crossmicrosystems.com",
-    "title": "Hello from Cross Microsytems | Cross Microsytems",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2026-05-05T09:21:25.524319927Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "Perl",
-      "Tailwind CSS",
       "UTF-8"
     ]
   },
@@ -5859,27 +6155,6 @@
     ]
   },
   {
-    "domain": "apocha.biz",
-    "title": "You've Never Seen Your Money This Clearly | apocha",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 17400,
-    "crawled_at": "2026-04-14T02:32:19.981566766Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "Fireblade",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Perl",
-      "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "hollplex.com",
     "title": "Hollplex | Engineering Blog",
     "business_name": "",
@@ -10241,33 +10516,6 @@
     ]
   },
   {
-    "domain": "grucloud.com",
-    "title": "GruCloud | GruCloud",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 4800,
-    "crawled_at": "2026-02-06T05:08:48.129124673Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "FreePrivacyPolicy.com",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Ntent",
-      "Perl",
-      "RawGit",
-      "Twitter Ads",
-      "UCloud",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
     "domain": "genwritesdocs.com",
     "title": "Hello from Genesis Sorto | Genesis Sorto",
     "business_name": "",
@@ -12338,25 +12586,6 @@
     ]
   },
   {
-    "domain": "printnetwork.com",
-    "title": "Printnetwork | Easy and advance E-commerce | Printnetwork",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2025-12-30T17:37:05.500035007Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "GZIP Module",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "reCAPTCHA"
-    ]
-  },
-  {
     "domain": "vanceism7.us",
     "title": "Vance Palacio | My Site",
     "business_name": "",
@@ -12587,224 +12816,6 @@
       "Google Reseller",
       "Google Tag Manager",
       "Perl"
-    ]
-  },
-  {
-    "domain": "developerfastlane.com",
-    "title": "코딩추월차선 | 코딩추월차선",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2025-12-25T11:01:38.341063686Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Google Adsense",
-      "Google Analytics",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google Reseller",
-      "Google Tag Manager",
-      "Perl",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "remtools.io",
-    "title": "rem.tools | Minimiza riesgos, maximiza conexiones",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 25798,
-    "crawled_at": "2025-12-25T10:10:38.334292435Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Cronitor",
-      "Docusaurus",
-      "Expedient",
-      "Financial Services Guide",
-      "No-Q",
-      "Perl",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "dextrolumarian.org",
-    "title": "Dextrolumarian - Advanced Game Mechanics & 3D Design Platform",
-    "business_name": "Dextrolumarian",
-    "country": "JPN",
-    "seo_score": 82,
-    "tech_spend": 15040,
-    "crawled_at": "2025-12-25T02:49:38.362648586Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Docusaurus",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Pleroma",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "p1meter.eu",
-    "title": "ADA P1 Meter/Server | ADA P1 Meter/Server",
-    "business_name": "",
-    "country": "HUN",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2025-12-24T21:46:38.329588427Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Docusaurus",
-      "GitHub Hosting",
-      "OpenSSL",
-      "PHP",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "mitchellmudd.dev",
-    "title": "Portfolio | Hallo, I'm Mitchell Mudd!",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2025-12-24T15:04:38.358240459Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Perl",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "dothttp.dev",
-    "title": "dothttp | dothttp",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 600,
-    "crawled_at": "2025-12-24T10:16:38.32110563Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "openm2.org",
-    "title": "openM2 - Create High Value Business Applications at Low Costs | openM2 | openM2",
-    "business_name": "",
-    "country": "AUT",
-    "seo_score": 62,
-    "tech_spend": "",
-    "crawled_at": "2025-12-23T18:58:38.329643563Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "Perl",
-      "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "stockapis.com",
-    "title": "Professional Financial Data Parsers | StockAPI - Professional Financial Data Parsers | Crypto & Stock Markets",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 280,
-    "crawled_at": "2025-12-23T18:40:38.320011665Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "PWA",
-      "Perl",
-      "Python",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "forminer.com",
-    "title": "Forminer | Save 1500 hours with our React form builder",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 43770,
-    "crawled_at": "2025-12-23T11:31:38.31343936Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DAV",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hotjar",
-      "K2F",
-      "No-Q",
-      "Perl",
-      "Subversion",
-      "UTF-8",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "stepanvacek.com",
-    "title": "Štěpán Vacek - Localization Manager & Technical Writer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2025-12-23T10:07:38.313835031Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Docusaurus",
-      "InitiativeS",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
