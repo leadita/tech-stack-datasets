@@ -1,12 +1,123 @@
 [
   {
-    "domain": "bubblebath.net",
-    "title": "Build Your Brand",
+    "domain": "dizklaymer.com",
+    "title": "Dizklaymer.com",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 57,
+    "tech_spend": 735,
+    "crawled_at": "2026-05-06T12:11:20.011633334Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Amazon Widgets",
+      "Band Camp",
+      "Camp",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "europeanclubcup.com",
+    "title": "An EMDN - European Club Cup, chess European Chess Club Championship International Competition Team Tournament Grandmasters Strategic Play Board Game Elite Players Rankings Tactical Matches",
     "business_name": "",
     "country": "",
-    "seo_score": 37,
+    "seo_score": 42,
     "tech_spend": 135,
-    "crawled_at": "2026-05-05T15:56:20.002775638Z",
+    "crawled_at": "2026-05-06T11:17:19.993451132Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "reclo.io",
+    "title": "Reclo",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 135,
+    "crawled_at": "2026-05-06T10:23:19.983219732Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Coming Soon Page",
+      "Dynadot",
+      "ElementUI",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "telanganajob.com",
+    "title": "Suresh.co.in - Business of Words - IndiaJob.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 135,
+    "crawled_at": "2026-05-06T07:41:19.989072864Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8",
+      "Vello",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "debarras-cuisine.ch",
+    "title": "DEBARRAS CUISINE pas cher en Suisse",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 10219,
+    "crawled_at": "2026-05-06T07:14:19.993035753Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "BLR",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Envoy",
+      "Font Awesome",
+      "GZIP Module",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "patinaroom.art",
+    "title": "patinaroom",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 135,
+    "crawled_at": "2026-05-06T07:02:20.008292731Z",
     "technologies": [
       "Amazon CloudFront",
       "CloudFront",
@@ -15,6 +126,45 @@
       "Font Awesome",
       "GZIP Module",
       "UTF-8"
+    ]
+  },
+  {
+    "domain": "lgbtqplus.net",
+    "title": "Build Your Brand",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 135,
+    "crawled_at": "2026-05-06T05:20:20.006266149Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "sisistudio.com.mx",
+    "title": "Sisi Studio",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 219,
+    "crawled_at": "2026-05-05T18:56:19.986439901Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Financial Services Guide",
+      "Font Awesome",
+      "GZIP Module",
+      "Google My Business",
+      "UTF-8",
+      "YouTube"
     ]
   },
   {
@@ -35,28 +185,6 @@
       "Neighborhoods",
       "Prospective",
       "QUIC",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "dizklaymer.com",
-    "title": "Dizklaymer.com",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 57,
-    "tech_spend": 735,
-    "crawled_at": "2026-05-05T15:20:52.17413307Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Amazon Widgets",
-      "Band Camp",
-      "Camp",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
       "UTF-8",
       "YouTube"
     ]
@@ -101,28 +229,6 @@
       "WordPress Multisite",
       "WordPress Related Posts",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "agenticvital.com",
-    "title": "An EMDN - Agentic Vital, Health Technology Wellness Monitoring Medical Innovation Smart Healthcare AI-Driven Solutions Preventive Care Personalized Medicine Life Optimization",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 135,
-    "crawled_at": "2026-05-05T06:56:20.01139694Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microsoft Clarity",
-      "UTF-8"
     ]
   },
   {
@@ -2773,24 +2879,6 @@
     ]
   },
   {
-    "domain": "telanganajob.com",
-    "title": "Suresh.co.in - IndiaJob.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 135,
-    "crawled_at": "2026-01-31T12:25:48.916130305Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8",
-      "Vello"
-    ]
-  },
-  {
     "domain": "torontoclimatecampaign.org",
     "title": "Blog | Toronto Climate Campaign",
     "business_name": "",
@@ -2814,31 +2902,6 @@
       "University or College",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "reclo.io",
-    "title": "Reclo",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 135,
-    "crawled_at": "2026-01-31T04:49:48.875239258Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Coming Soon Page",
-      "Dynadot",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Font Awesome",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "UTF-8"
     ]
   },
   {
@@ -4168,27 +4231,6 @@
       "DAV",
       "Dynadot",
       "Express",
-      "Font Awesome",
-      "GZIP Module",
-      "Tumblr",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "debarras-cuisine.ch",
-    "title": "DEBARRAS CUISINE pas cher en Suisse",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 10219,
-    "crawled_at": "2025-11-24T08:36:19.442992285Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "BLR",
-      "CloudFront",
-      "Dynadot",
-      "Envoy",
       "Font Awesome",
       "GZIP Module",
       "Tumblr",
