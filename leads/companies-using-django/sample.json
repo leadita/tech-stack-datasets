@@ -1,5 +1,34 @@
 [
   {
+    "domain": "asliddincoder.uz",
+    "title": "Mening portfoliomga xush kelibsiz",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 231,
+    "crawled_at": "2026-05-07T07:29:19.990183626Z",
+    "technologies": [
+      "ArvanCloud",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "Django",
+      "Font Awesome",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Netlify",
+      "Nginx",
+      "PHP",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "evolveventures.ca",
     "title": "Evolve Ventures: Business Growth Strategies & Innovation Insights",
     "business_name": "",
