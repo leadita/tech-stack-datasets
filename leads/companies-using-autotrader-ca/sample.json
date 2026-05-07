@@ -2699,30 +2699,5 @@
       "UTF-8",
       "YouTube"
     ]
-  },
-  {
-    "domain": "automationbyexperts.com",
-    "title": "Automation by Experts | Intelligent Automation & Web Scraping Solutions",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 3007,
-    "crawled_at": "2025-11-22T09:27:19.429724638Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "AutoTrader CA",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Pleroma",
-      "UTF-8"
-    ]
   }
 ]
