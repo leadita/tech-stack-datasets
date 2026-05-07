@@ -1,5 +1,187 @@
 [
   {
+    "domain": "arteagabriel.io",
+    "title": "Front-End Engineer - Gabriel Arteaga",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 16456,
+    "crawled_at": "2026-05-07T19:21:57.616324561Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Netlify",
+      "Sanity",
+      "UTF-8",
+      "Way"
+    ]
+  },
+  {
+    "domain": "curious.us",
+    "title": "Home - Joshua To",
+    "business_name": "",
+    "country": "",
+    "seo_score": 20,
+    "tech_spend": "",
+    "crawled_at": "2026-05-07T18:47:19.996294298Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Gridsome",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "super-a.nl",
+    "title": "Super A - Super A",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 103,
+    "crawled_at": "2026-05-07T16:42:01.131007676Z",
+    "technologies": [
+      "Bulma",
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "kalypso.network",
+    "title": "Kalypso - Kalypso",
+    "business_name": "",
+    "country": "",
+    "seo_score": 25,
+    "tech_spend": "",
+    "crawled_at": "2026-05-07T15:35:40.178477961Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Related Website Sites",
+      "Gridsome",
+      "Netlify",
+      "Telegram",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "tommyvedvik.com",
+    "title": "tommyvedvik.com - tommyvedvik.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 198,
+    "crawled_at": "2026-05-07T13:28:11.459971951Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Gridsome",
+      "HHVM",
+      "Netlify",
+      "No-Q",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "kobecreations.com",
+    "title": "B2C & B2B Ecommerce & ERP Integration Experts | Kobe Creations - Kobe Creations",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 72,
+    "tech_spend": 10219,
+    "crawled_at": "2026-05-07T11:19:57.59834626Z",
+    "technologies": [
+      "Better Lead Generation Services",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gridsome",
+      "HubSpot Conversations",
+      "Hubspot",
+      "Instagram Follow Button",
+      "Nginx",
+      "PrestaShop",
+      "QUIC",
+      "Twitter Ads",
+      "Woo Themes",
+      "WordPress"
+    ]
+  },
+  {
+    "domain": "hoacorp.ca",
+    "title": "Home - Options For Homes",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 36015,
+    "crawled_at": "2026-05-07T07:20:19.993466404Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "ClientSuccess",
+      "CoStar",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "seductive-beauty-spa.de",
+    "title": "Raffaello Rossi Outlet & Spa - Raffaello Rossi Outlet & Spa",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 45,
+    "tech_spend": 1170,
+    "crawled_at": "2026-05-07T03:29:20.010599754Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "DAV",
+      "Gridsome",
+      "Idaq",
+      "Instagram Follow Button",
+      "Nginx",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "globaldecibel.com",
+    "title": "Expertos en marketing de afiliación y datos 🥇 - Global Decibel SL",
+    "business_name": "",
+    "country": "ESP",
+    "seo_score": 77,
+    "tech_spend": 45598,
+    "crawled_at": "2026-05-06T23:44:20.006986048Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "K2F",
+      "KVH",
+      "Netlify",
+      "No-Q",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "knutholmen.no",
     "title": "Velkomen - Knutholmen",
     "business_name": "",
@@ -1085,27 +1267,6 @@
       "Gridsome",
       "Netlify",
       "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "globaldecibel.com",
-    "title": "Expertos en marketing de afiliación y datos 🥇 - Global Decibel SL",
-    "business_name": "",
-    "country": "ESP",
-    "seo_score": 77,
-    "tech_spend": 45598,
-    "crawled_at": "2026-05-02T12:40:48.382743014Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "K2F",
-      "KVH",
-      "Netlify",
-      "No-Q",
-      "Tailwind CSS",
       "UTF-8"
     ]
   },
@@ -2846,26 +3007,6 @@
       "Twitter Ads",
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "253markham.ca",
-    "title": "Markham & Dunelm - Options For Homes",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 62,
-    "tech_spend": 14976,
-    "crawled_at": "2026-04-22T02:56:19.993978358Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ClientSuccess",
-      "Content Delivery Network",
-      "DatoCMS",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Twitter Ads",
-      "UTF-8"
     ]
   },
   {
@@ -7552,31 +7693,6 @@
     ]
   },
   {
-    "domain": "lovettandleaveit.com.au",
-    "title": "B2C & B2B Ecommerce & ERP Integration Experts | Kobe Creations - Kobe Creations",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 62,
-    "tech_spend": 10219,
-    "crawled_at": "2026-02-21T11:12:08.064128798Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gridsome",
-      "HubSpot Conversations",
-      "Hubspot",
-      "Instagram Follow Button",
-      "Nginx",
-      "PrestaShop",
-      "QUIC",
-      "Twitter Ads",
-      "Woo Themes",
-      "WordPress"
-    ]
-  },
-  {
     "domain": "centrocarpinteropv.com",
     "title": "Centro Carpintero | Custom Woodworking & Home Renovations Puerto Vallarta",
     "business_name": "",
@@ -11520,24 +11636,6 @@
     ]
   },
   {
-    "domain": "outlet-spa.de",
-    "title": "Raffaello Rossi Outlet & Spa - Raffaello Rossi Outlet & Spa",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 50,
-    "tech_spend": 1170,
-    "crawled_at": "2025-12-15T00:01:56.015328663Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "DAV",
-      "Gridsome",
-      "Idaq",
-      "Instagram Follow Button",
-      "Nginx",
-      "Tailwind CSS"
-    ]
-  },
-  {
     "domain": "frozenfoodpac.org",
     "title": "Frozen Food PAC",
     "business_name": "",
@@ -11886,113 +11984,6 @@
       "Tailwind CSS",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "claudsonmartins.com",
-    "title": "Home - Claudson Martins",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 45598,
-    "crawled_at": "2025-12-13T04:10:56.039399446Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "K2F",
-      "KVH",
-      "Netlify",
-      "No-Q",
-      "PHP",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "promo.ai",
-    "title": "Promo.ai - Newsletters made easy | Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 507,
-    "crawled_at": "2025-12-13T01:54:05.292232349Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DatoCMS",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "IcoMoon",
-      "Landen",
-      "Netlify",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "curious.us",
-    "title": "Home - Joshua To",
-    "business_name": "",
-    "country": "",
-    "seo_score": 20,
-    "tech_spend": "",
-    "crawled_at": "2025-12-13T00:40:56.018142799Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "Netlify",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "adjudoalgarve.pt",
-    "title": "Associação Distrital de Judo do Algarve - ASSOCIAÇÃO DISTRITAL DE JUDO DO ALGARVE",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 52830,
-    "crawled_at": "2025-12-12T22:58:56.022338127Z",
-    "technologies": [
-      "DAV",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Gridsome",
-      "Idaq",
-      "Nginx",
-      "No-Q",
-      "SMC",
-      "Subversion",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "bildbewegt.ch",
-    "title": "Dihei - bildbewegt",
-    "business_name": "",
-    "country": "CHE",
-    "seo_score": 50,
-    "tech_spend": 20201,
-    "crawled_at": "2025-12-12T19:34:56.050060694Z",
-    "technologies": [
-      "DAV",
-      "Financial Services Guide",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Instagram Follow Button",
-      "KVH",
-      "Nginx",
-      "No-Q",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
