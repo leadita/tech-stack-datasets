@@ -1,5 +1,36 @@
 [
   {
+    "domain": "arzinternacional.es",
+    "title": "Arzinternacional Conexion S.L.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 19523,
+    "crawled_at": "2026-05-07T14:05:20.00595678Z",
+    "technologies": [
+      "Amazon",
+      "BLR",
+      "Buffer",
+      "ETranslate",
+      "Ethy",
+      "Font Awesome",
+      "GTranslate",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "LiteSpeed",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8",
+      "WhatsApp Sharing"
+    ]
+  },
+  {
     "domain": "allmypets.uk",
     "title": "Susie's Animals",
     "business_name": "",
@@ -3774,33 +3805,6 @@
       "Wysija",
       "YouTube",
       "eLand",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "sallamarikeskimaula.com",
-    "title": "Musiikkia juhliin ja häihin | Esiintyjä Sallamari Johansson | Laulaja Oulu",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 15265,
-    "crawled_at": "2026-04-01T16:23:16.330004199Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Buffer",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "Facebook Embedded Posts",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Microdata for Google Shopping",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
       "jQuery"
     ]
   },
