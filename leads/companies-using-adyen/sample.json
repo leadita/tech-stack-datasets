@@ -1,5 +1,37 @@
 [
   {
+    "domain": "enterrally.com",
+    "title": "2026 ARA EVENT REGISTRATION",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 14508,
+    "crawled_at": "2026-05-07T07:08:19.986339218Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adyen",
+      "Aruba",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Express",
+      "Fireblade",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Idaq",
+      "MaxCDN",
+      "NFOrce Internet",
+      "Rally",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Webconnex",
+      "eLand"
+    ]
+  },
+  {
     "domain": "gcp.fail",
     "title": "Data sovereignty with STACKIT - STACKIT Cloud",
     "business_name": "",
