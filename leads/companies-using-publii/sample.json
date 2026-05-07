@@ -1,5 +1,43 @@
 [
   {
+    "domain": "ozsan.tr",
+    "title": "ozsan®",
+    "business_name": "ozsan®",
+    "country": "TUR",
+    "seo_score": 45,
+    "tech_spend": 49,
+    "crawled_at": "2026-05-07T08:47:19.978960007Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "mychainsaregone.net",
+    "title": "My Chains Are Gone",
+    "business_name": "MyChainsAreGone.net",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 15257,
+    "crawled_at": "2026-05-06T21:05:19.995581544Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Disqus Comment System for WordPress",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "ajanthan.in",
     "title": "Ajanthan Mani",
     "business_name": "Ajanthan Mani",
@@ -895,23 +933,6 @@
       "YouTube",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "ozsan.com.tr",
-    "title": "ozsan®",
-    "business_name": "ozsan®",
-    "country": "TUR",
-    "seo_score": 45,
-    "tech_spend": 49,
-    "crawled_at": "2026-04-28T21:19:52.428172847Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   },
   {

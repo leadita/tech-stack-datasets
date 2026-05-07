@@ -1,5 +1,242 @@
 [
   {
+    "domain": "vvnnepal.com",
+    "title": "VVN Nepal",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 60,
+    "tech_spend": 53990,
+    "crawled_at": "2026-05-07T10:38:19.994640176Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Chute",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "Contently",
+      "Disqus Comment System for WordPress",
+      "EmbedPress",
+      "Express",
+      "GTranslate",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "IntenseDebate",
+      "KVH",
+      "LiteSpeed",
+      "Medium",
+      "Micro.blog",
+      "Mixi",
+      "OnlyFans",
+      "PHP",
+      "Photo Gallery for WordPress",
+      "Pixabay",
+      "PrestaShop",
+      "Product Hunt",
+      "Proven Expert",
+      "QUIC",
+      "Reevoo",
+      "Tailwind CSS",
+      "Telegram",
+      "Theme In WP",
+      "Trello",
+      "UTF-8",
+      "University or College",
+      "Wakelet",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "about.me",
+      "ashop",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "www.www.www.www.www.www.bobwertz.com",
+    "title": "Bob Wertz",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 120,
+    "crawled_at": "2026-05-07T10:05:19.986305169Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GitHub Hosting",
+      "Hugo",
+      "License Buttons",
+      "Micro.blog",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "willfong.me",
+    "title": "Will Fong",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 63,
+    "crawled_at": "2026-05-07T07:32:20.019513906Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gravity",
+      "Hugo",
+      "Micro.blog",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "nezteb.net",
+    "title": "Noah Betzen",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 260,
+    "crawled_at": "2026-05-07T06:56:20.015761047Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "GitHub Hosting",
+      "Hugo",
+      "Micro.blog",
+      "Twitter Ads",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "joalchin.au",
+    "title": "Jo Alchin",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 60,
+    "crawled_at": "2026-05-07T05:56:20.002861996Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Hugo",
+      "Instagram Follow Button",
+      "Liberapay",
+      "Micro.blog",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "adamcomputer.blog",
+    "title": "Jeff's Coleco ADAM Blog",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 63,
+    "crawled_at": "2026-05-07T05:17:19.980534629Z",
+    "technologies": [
+      "Alternate Protocol",
+      "App Store",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Hive.co",
+      "Hugo",
+      "Micro.blog",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "derekhayn.com",
+    "title": "Derek Hayn | Graphic Design & Architectural Photography",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 67,
+    "tech_spend": 520,
+    "crawled_at": "2026-05-07T04:40:10.996212853Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Apache",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Micro.blog",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "weatheralibi.com",
+    "title": "Weather Alibi by MikeTRose - Weather Alibi by MikeTRose",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 50,
+    "tech_spend": 63,
+    "crawled_at": "2026-05-07T02:41:19.999212721Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Hugo",
+      "Micro.blog",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "studioitsy.com",
+    "title": "Studio Itsy",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 60,
+    "crawled_at": "2026-05-07T00:42:48.451328695Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GZIP Module",
+      "Micro.blog",
+      "Nginx",
+      "QUIC"
+    ]
+  },
+  {
+    "domain": "www.www.www.www.www.frankmcpherson.blog",
+    "title": "Routine Revelations",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 120,
+    "crawled_at": "2026-05-06T18:23:19.991624393Z",
+    "technologies": [
+      "Alternate Protocol",
+      "DAV",
+      "GitHub Hosting",
+      "Hugo",
+      "Micro.blog",
+      "PWA",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "entangledstates.org",
     "title": "Entangled States",
     "business_name": "",
@@ -264,28 +501,6 @@
       "Micro.blog",
       "PWA",
       "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "www.frankmcpherson.blog",
-    "title": "Routine Revelations",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 120,
-    "crawled_at": "2026-05-04T02:59:20.008804636Z",
-    "technologies": [
-      "Alternate Protocol",
-      "DAV",
-      "GitHub Hosting",
-      "Hugo",
-      "Micro.blog",
-      "PWA",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
       "jsDelivr"
     ]
   },
@@ -671,29 +886,6 @@
       "Tailwind CSS",
       "Telegram",
       "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "bobwertz.com",
-    "title": "Bob Wertz",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 15120,
-    "crawled_at": "2026-05-02T01:30:47.596825218Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "GitHub Hosting",
-      "Hugo",
-      "License Buttons",
-      "Micro.blog",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "jsDelivr",
       "shadcn ui"
     ]
   },
@@ -2410,25 +2602,6 @@
       "Tailwind CSS",
       "UTF-8",
       "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "nezteb.com",
-    "title": "Noah Betzen",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 260,
-    "crawled_at": "2026-04-18T15:32:19.981248408Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "GitHub Hosting",
-      "Hugo",
-      "Micro.blog",
-      "Twitter Ads",
-      "UTF-8",
       "shadcn ui"
     ]
   },
@@ -5403,29 +5576,6 @@
     ]
   },
   {
-    "domain": "willfong.me",
-    "title": "Will Fong",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 63,
-    "crawled_at": "2026-02-01T01:46:48.864603739Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gravity",
-      "Hugo",
-      "Micro.blog",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "danrudmann.com",
     "title": "Dan Rudmann",
     "business_name": "",
@@ -5476,26 +5626,6 @@
     ]
   },
   {
-    "domain": "joalchin.au",
-    "title": "Jo Alchin",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 60,
-    "crawled_at": "2026-02-01T00:01:48.872774022Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Hugo",
-      "Instagram Follow Button",
-      "Liberapay",
-      "Micro.blog",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "christouranchor.org",
     "title": "Christ our Anchor Anglican Mission",
     "business_name": "",
@@ -5513,70 +5643,6 @@
       "Tailwind CSS",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "adamcomputer.blog",
-    "title": "Jeff's Coleco ADAM Blog",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 63,
-    "crawled_at": "2026-01-31T21:49:48.870757167Z",
-    "technologies": [
-      "Alternate Protocol",
-      "App Store",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hive.co",
-      "Hugo",
-      "Micro.blog",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "weatheralibi.com",
-    "title": "Weather Alibi by MikeTRose - Weather Alibi by MikeTRose",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 50,
-    "tech_spend": 63,
-    "crawled_at": "2026-01-31T21:04:48.865001949Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hugo",
-      "Micro.blog",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "www.www.www.www.www.frankmcpherson.blog",
-    "title": "Routine Revelations",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 14214,
-    "crawled_at": "2026-01-31T15:28:48.880893458Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GitHub Hosting",
-      "Hugo",
-      "Micro.blog",
-      "NFOrce Internet",
-      "PWA",
-      "TUNE",
-      "Twitter Ads",
-      "UTF-8",
-      "Way",
-      "YouTube",
-      "eLand",
-      "jsDelivr"
     ]
   },
   {
@@ -8257,65 +8323,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "derekhayn.com",
-    "title": "Derek Hayn | Graphic Design & Architectural Photography",
-    "business_name": "",
-    "country": "NOR",
-    "seo_score": 67,
-    "tech_spend": 520,
-    "crawled_at": "2025-11-22T08:42:19.436240834Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Apache",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Micro.blog",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "studioitsy.com",
-    "title": "Studio Itsy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 60,
-    "crawled_at": "2025-11-22T06:39:19.443301745Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GZIP Module",
-      "Micro.blog",
-      "Nginx",
-      "QUIC"
-    ]
-  },
-  {
-    "domain": "writingslowly.com",
-    "title": "Writing Slowly",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 72,
-    "tech_spend": 15120,
-    "crawled_at": "2025-11-22T03:54:19.429311827Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Express",
-      "Micro.blog",
-      "PWA",
-      "Perl",
-      "Python",
-      "QUIC",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]

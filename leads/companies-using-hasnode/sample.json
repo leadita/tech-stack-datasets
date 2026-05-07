@@ -1,5 +1,109 @@
 [
   {
+    "domain": "kris.im",
+    "title": "Kris Mac",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 52,
+    "tech_spend": 3,
+    "crawled_at": "2026-05-07T10:32:19.995483239Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Hasnode",
+      "Instagram Follow Button",
+      "Medium",
+      "UTF-8",
+      "Vercel",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "iamshadmirza.com",
+    "title": "Shad Mirza - Full-Stack Engineer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 15816,
+    "crawled_at": "2026-05-07T02:33:45.949408759Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Astro",
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "Hasnode",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "ajitama.dev",
+    "title": "Beranda",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-05-06T23:50:19.996028324Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "Hasnode",
+      "Next.js",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "zerabooks.com",
+    "title": "Zera Books — AI-Native Accounting Software",
+    "business_name": "Zera Books",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 15260,
+    "crawled_at": "2026-05-06T17:02:20.011720409Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Bing Cashback",
+      "Bing Conversion Tracking",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Clutch",
+      "Content Delivery Network",
+      "Facebook Reseller",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Hasnode",
+      "LinkedIn Pixel",
+      "Linktree",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Oracle Cloud",
+      "Product Hunt",
+      "QUIC",
+      "Stripe",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "ralphopacic.com",
     "title": "Home - Ralph Opacic",
     "business_name": "",
@@ -10722,29 +10826,6 @@
     ]
   },
   {
-    "domain": "kris.im",
-    "title": "Kris Mac",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 52,
-    "tech_spend": 3,
-    "crawled_at": "2025-12-16T15:25:32.745714452Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hasnode",
-      "Instagram Follow Button",
-      "Medium",
-      "UTF-8",
-      "Vercel",
-      "YouTube",
-      "eLand"
-    ]
-  },
-  {
     "domain": "ductrinh.dev",
     "title": "Simple but often overlooked tech nuggets",
     "business_name": "",
@@ -12422,55 +12503,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "theilgaard.dev",
-    "title": "theilgaard.dev",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 15816,
-    "crawled_at": "2025-11-22T08:33:19.432907667Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Tag Manager",
-      "Hasnode",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pico CSS",
-      "Plausible Analytics",
-      "Pleroma",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "iamshadmirza.com",
-    "title": "Shad Mirza - Full-Stack Engineer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 17004,
-    "crawled_at": "2025-11-22T07:33:19.456874066Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Astro",
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Hasnode",
-      "LogRocket",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
