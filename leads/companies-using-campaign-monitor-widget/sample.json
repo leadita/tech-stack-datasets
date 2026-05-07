@@ -2074,28 +2074,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "sendlines.com",
-    "title": "SendLines - AI Email Marketing Platform | Create & Send Marketing Emails | Small Business Newsletter Tool",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 3212,
-    "crawled_at": "2025-11-22T13:30:19.428402754Z",
-    "technologies": [
-      "Campaign Monitor Widget",
-      "Constant Contact",
-      "Content Delivery Network",
-      "ElementUI",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hotjar",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "NetHunt CRM",
-      "UTF-8",
-      "Vercel"
-    ]
   }
 ]
