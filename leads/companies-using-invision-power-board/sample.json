@@ -1,5 +1,28 @@
 [
   {
+    "domain": "forum.df2.ru",
+    "title": "DF2 :: ������",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 600,
+    "crawled_at": "2026-05-07T02:33:45.964996071Z",
+    "technologies": [
+      "ADFOX",
+      "Adult Content",
+      "ContentBox",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Invision Power Board",
+      "Nginx",
+      "Perl",
+      "Yandex Hosting",
+      "Yandex Metrika",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "thephpguys.com",
     "title": "ThePHPGuys – Digital Agency",
     "business_name": "",
@@ -309,28 +332,6 @@
       "WooCommerce Payments",
       "WordPress",
       "WordPress Multisite",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "forum.df3.ru",
-    "title": "DF2 :: ������",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 600,
-    "crawled_at": "2026-02-06T05:08:48.040971004Z",
-    "technologies": [
-      "ADFOX",
-      "ContentBox",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Invision Power Board",
-      "Nginx",
-      "Perl",
-      "Yandex Hosting",
-      "Yandex Metrika",
       "jQuery"
     ]
   },
