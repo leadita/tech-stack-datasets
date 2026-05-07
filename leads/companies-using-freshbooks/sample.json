@@ -1,5 +1,33 @@
 [
   {
+    "domain": "nasmm360.com",
+    "title": "NASMM 360",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 6533,
+    "crawled_at": "2026-05-06T23:35:20.002076877Z",
+    "technologies": [
+      "17hats",
+      "Asana",
+      "DAV",
+      "FreshBooks",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "HighLevel",
+      "K2F",
+      "Nginx",
+      "QUIC",
+      "Teamwork",
+      "Trello",
+      "UTF-8",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "bestransomwarerecovery.com",
     "title": "Enterprise Security And Data Protection Services | Best Ransomware Recovery",
     "business_name": "",
@@ -755,33 +783,6 @@
       "WordPress",
       "WordPress Multisite",
       "WordPress Stats",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "nasmmvip.com",
-    "title": "NASMM 360",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 1533,
-    "crawled_at": "2026-04-16T13:32:20.018817467Z",
-    "technologies": [
-      "17hats",
-      "Asana",
-      "DAV",
-      "FreshBooks",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "HighLevel",
-      "Nginx",
-      "QUIC",
-      "Teamwork",
-      "Trello",
-      "UTF-8",
-      "YouTube",
       "jQuery"
     ]
   },
