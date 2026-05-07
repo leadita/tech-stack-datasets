@@ -1,5 +1,29 @@
 [
   {
+    "domain": "yadavabhishek.cv",
+    "title": "ABHISHEK KUMAR YADAV",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 3000,
+    "crawled_at": "2026-05-07T11:53:19.985470691Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon S3 CDN",
+      "Apache",
+      "Apache Tomcat JK",
+      "Content Delivery Network",
+      "DAV",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Oracle Cloud",
+      "Storyblocks",
+      "Subversion",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "jenniebae.com",
     "title": "Jennie Bae",
     "business_name": "",
@@ -13970,36 +13994,6 @@
     ]
   },
   {
-    "domain": "hammy3.com",
-    "title": "Hammy3.com",
-    "business_name": "",
-    "country": "HUN",
-    "seo_score": 67,
-    "tech_spend": 59628,
-    "crawled_at": "2025-11-24T20:33:19.44354455Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Apache Tomcat JK",
-      "Fastly",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Medium",
-      "Nginx",
-      "Oracle Cloud",
-      "Phusion Passenger Enterprise",
-      "Ruby on Rails",
-      "SMC",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
     "domain": "maggieharperdiscovers.com",
     "title": "Maggie Harper Discovers — Official Site",
     "business_name": "",
@@ -14308,30 +14302,6 @@
       "Plausible Analytics",
       "QUIC",
       "Tailwind CSS",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "lahirus.com",
-    "title": "Lahiru's dev journal",
-    "business_name": "",
-    "country": "LKA",
-    "seo_score": 72,
-    "tech_spend": 4200,
-    "crawled_at": "2025-11-22T10:39:19.467509411Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Apache Tomcat JK",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Cloud Functions",
-      "Jekyll",
-      "Python",
-      "Twitter Ads",
       "UTF-8",
       "YouTube"
     ]
