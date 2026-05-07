@@ -1,5 +1,5 @@
 domain,title,business_name,country,seo_score,tech_spend,crawled_at,technologies
-bocabarracas.com.ar,ESTACIONES,,,35,,2026-05-05T21:35:40.453814423Z,"['GitHub Hosting', 'Grafana', 'Ntent', 'UTF-8']"
+bocabarracas.com.ar,ESTACIONES,,,20,,2026-05-07T19:56:20.011712567Z,"['GitHub Hosting', 'Grafana', 'Ntent', 'UTF-8']"
 stacjameteommz.pl,Grafana,,,50,1260,2026-05-05T21:27:44.50353895Z,"['Barchart', 'Express', 'GZIP Module', 'GitHub Hosting', 'Google Analytics', 'Google Forms', 'Google My Business', 'Google Tag Manager', 'Grafana', 'Nginx', 'UTF-8', 'Yandex Hosting']"
 fabryczna.art,Grafana,,,30,1200,2026-04-29T16:06:19.875219284Z,"['Barchart', 'Express', 'GitHub Hosting', 'Grafana', 'UTF-8']"
 zabbixdash.com.br,Grafana,,,30,11200,2026-04-26T01:38:19.981827946Z,"['Barchart', 'Contento', 'Express', 'GZIP Module', 'Grafana', 'Nginx', 'UTF-8', 'Ubuntu']"
