@@ -1,5 +1,40 @@
 [
   {
+    "domain": "fwsop2026.com",
+    "title": "FWSOP Class of 2026",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 36563,
+    "crawled_at": "2026-05-07T08:20:02.243469639Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "Blackboard Open LMS",
+      "ClickOn",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Related Website Sites",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Ntent",
+      "Qualtrics Site Intercept",
+      "SMC",
+      "Sapper",
+      "Schema Plugin",
+      "Subversion",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "rosefinancialsolutions.co",
     "title": "Outsourced Finance and Accounting Services | ROSE",
     "business_name": "",
@@ -3319,38 +3354,6 @@
       "University or College",
       "Vercel",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "fwsop2026.com",
-    "title": "FWSOP Class of 2026",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 36563,
-    "crawled_at": "2025-11-22T10:39:19.453545814Z",
-    "technologies": [
-      "Blackboard Open LMS",
-      "ClickOn",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Ntent",
-      "Qualtrics Site Intercept",
-      "SMC",
-      "Sapper",
-      "Schema Plugin",
-      "Subversion",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]
