@@ -1,5 +1,35 @@
 [
   {
+    "domain": "worldhomeapplication.com",
+    "title": "World Home Application",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 16048,
+    "crawled_at": "2026-05-07T00:42:48.438908765Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Astra Theme",
+      "Coming Soon Page",
+      "Elementor",
+      "EmbedPress",
+      "Fireblade",
+      "LiteSpeed",
+      "PHP",
+      "PandaDoc",
+      "QUIC",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WooCommerce",
+      "WooCommerce Checkout",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Related Posts",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "siliconfriendly.com",
     "title": "Silicon Friendly - How AI-Agent Friendly is Your Website?",
     "business_name": "",
@@ -2797,36 +2827,6 @@
       "Wix Media",
       "YouTube",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "worldhomeapplication.com",
-    "title": "World Home Application",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 7728,
-    "crawled_at": "2025-11-22T06:39:19.432542683Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Astra Theme",
-      "Coming Soon Page",
-      "Elementor",
-      "EmbedPress",
-      "Fireblade",
-      "LiteSpeed",
-      "PHP",
-      "PandaDoc",
-      "QUIC",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "jQuery"
     ]
   }
 ]
