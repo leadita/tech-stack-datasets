@@ -1,5 +1,32 @@
 [
   {
+    "domain": "techjobsupport.com",
+    "title": "IT Job Support-Risk free online tech job support from India",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 76188,
+    "crawled_at": "2026-05-08T08:08:19.995566666Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Fireblade",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "PHP",
+      "Ping Identity",
+      "Python",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "jasonrberk.com",
     "title": "Jason Berk | jasonrberk.github.io",
     "business_name": "",
@@ -664,33 +691,6 @@
       "WF Cookie Consent",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "techjobsupport.com",
-    "title": "IT Job Support-Risk free online tech job support from India",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 76188,
-    "crawled_at": "2026-04-02T12:26:32.96511172Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Fireblade",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "PHP",
-      "Ping Identity",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   },
   {
