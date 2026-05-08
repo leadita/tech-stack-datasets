@@ -1,5 +1,174 @@
 [
   {
+    "domain": "devyap.ad",
+    "title": "yap.ad",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-05-08T20:17:20.010306632Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "cvbuilderai.com",
+    "title": "Your resume with you forever | CVBuilder AI",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-05-08T14:50:19.992055503Z",
+    "technologies": [
+      "AI Log",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Netlify",
+      "Perl",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "tibillet.coop",
+    "title": "TiBillet",
+    "business_name": "TiBillet",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 2628,
+    "crawled_at": "2026-05-08T14:34:03.75454161Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Perl",
+      "Plausible Analytics",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "decoderesearch.org",
+    "title": "Home | Decode Research",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-05-08T12:17:19.978010088Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "DAV",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Perl",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "harshithasompura.com",
+    "title": "Harshitha Sompura - Software Engineer Portfolio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-05-08T09:07:32.741452828Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "pfoundation.ong",
+    "title": "Home | P Foundation",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 17400,
+    "crawled_at": "2026-05-08T04:32:06.184024107Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "Docusaurus",
+      "Express",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "InitiativeS",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "mendable.ai",
+    "title": "Mendable",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 12500,
+    "crawled_at": "2026-05-08T01:17:19.998772559Z",
+    "technologies": [
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Discord",
+      "Docusaurus",
+      "Fireblade",
+      "GitHub Hosting",
+      "Headless UI",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "Radix UI",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "lefiko.hu",
+    "title": "LEFIKÓ | LEFIKÓ",
+    "business_name": "",
+    "country": "",
+    "seo_score": 25,
+    "tech_spend": "",
+    "crawled_at": "2026-05-08T00:56:20.021498553Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "10factory.com",
     "title": "We start, build, and partner with internet businesses. | We start, build, and partner with internet businesses.",
     "business_name": "",
@@ -1105,28 +1274,6 @@
     ]
   },
   {
-    "domain": "pfs.gdn",
-    "title": "PFS LTD | P Foundation",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 2400,
-    "crawled_at": "2026-05-04T12:35:19.998759474Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Corporate Governance and Regulatory Compliance",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "InitiativeS",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "clutch.sh",
     "title": "Clutch · An extensible platform for infrastructure management. | Clutch · An extensible platform for infrastructure management.",
     "business_name": "",
@@ -1178,29 +1325,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "tibillet.org",
-    "title": "TiBillet",
-    "business_name": "TiBillet",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2628,
-    "crawled_at": "2026-05-04T08:20:19.980322411Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Perl",
-      "Plausible Analytics",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   },
   {
@@ -1765,25 +1889,6 @@
       "UTF-8",
       "Yandex Hosting",
       "Yandex Metrika"
-    ]
-  },
-  {
-    "domain": "cvbuilderai.com",
-    "title": "Your resume with you forever | CVBuilder AI",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2026-05-02T10:10:41.945315291Z",
-    "technologies": [
-      "AI Log",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Netlify",
-      "Perl",
-      "Twitter Ads",
-      "UTF-8"
     ]
   },
   {
@@ -7416,25 +7521,6 @@
     ]
   },
   {
-    "domain": "yap.ad",
-    "title": "yap.ad",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2026-04-08T14:35:20.003788304Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "deepaffex.ai",
     "title": "DeepAffex® | DeepAffex®",
     "business_name": "",
@@ -10986,35 +11072,6 @@
     ]
   },
   {
-    "domain": "mendable.ai",
-    "title": "Mendable",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 12500,
-    "crawled_at": "2026-02-02T15:37:48.886121359Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Discord",
-      "Docusaurus",
-      "Fireblade",
-      "GitHub Hosting",
-      "Headless UI",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "Radix UI",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "jointplugin.com",
     "title": "Joint",
     "business_name": "",
@@ -11085,21 +11142,6 @@
       "Perl",
       "Tailwind CSS",
       "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "lefiko.hu",
-    "title": "LEFIKÓ | LEFIKÓ",
-    "business_name": "",
-    "country": "",
-    "seo_score": 25,
-    "tech_spend": "",
-    "crawled_at": "2026-02-02T05:34:48.88239071Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "Perl",
       "UTF-8"
     ]
   },
@@ -12773,45 +12815,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "datasciencepool.hu.nl",
-    "title": "Data Science Pool | Data Science Pool",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 7580,
-    "crawled_at": "2025-12-31T09:49:38.333284061Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Codero",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Material-UI",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "vanceism7.us",
-    "title": "Vance Palacio | My Site",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2025-12-29T13:49:38.319202385Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Perl",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
