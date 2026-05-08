@@ -1,5 +1,206 @@
 [
   {
+    "domain": "bobwertz.com",
+    "title": "Bob Wertz",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 120,
+    "crawled_at": "2026-05-08T06:29:20.025272571Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GitHub Hosting",
+      "Hugo",
+      "License Buttons",
+      "Micro.blog",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "jonathansick.blog",
+    "title": "Jonathan Sick’s Timeline",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 952,
+    "crawled_at": "2026-05-08T04:20:20.007835216Z",
+    "technologies": [
+      "1Password",
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Amazon S3 CDN",
+      "DAV",
+      "GitHub Hosting",
+      "Hugo",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Micro.blog",
+      "Python",
+      "Storyblocks",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "antonio.is",
+    "title": "Antonio's Blog",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 60,
+    "tech_spend": 60,
+    "crawled_at": "2026-05-08T02:44:19.977757709Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Hugo",
+      "Micro.blog",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "buysellmerger.com",
+    "title": "Home - BuySellMerger.com",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 8966,
+    "crawled_at": "2026-05-08T01:26:19.992166609Z",
+    "technologies": [
+      "Add to Any",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "Fastly",
+      "Font Awesome",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Line2",
+      "ListingProWP",
+      "LiteSpeed",
+      "Micro.blog",
+      "Microdata for Google Shopping",
+      "MonsterInsights",
+      "NFOrce Internet",
+      "PHP",
+      "QUIC",
+      "QUIC.cloud",
+      "Sitelinks Search Box",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "christouranchor.org",
+    "title": "Christ our Anchor Anglican Mission",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 359,
+    "crawled_at": "2026-05-07T18:44:19.995388112Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Font Awesome",
+      "Hugo",
+      "Micro.blog",
+      "Pico CSS",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "plumey.com",
+    "title": "Javier Plumey",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 780,
+    "crawled_at": "2026-05-07T18:14:20.012576961Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "Hugo",
+      "Micro.blog",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "luciendupont.com",
+    "title": "Lucien Dupont",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 62,
+    "tech_spend": 120,
+    "crawled_at": "2026-05-07T14:14:19.976767919Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Hugo",
+      "Micro.blog",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "briztreadley.com",
+    "title": "Briztreadley",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 60,
+    "tech_spend": 452,
+    "crawled_at": "2026-05-07T13:17:19.983462561Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Automattic",
+      "DAV",
+      "Express",
+      "Google My Business",
+      "Gravity",
+      "Hugo",
+      "Instagram Follow Button",
+      "Micro.blog",
+      "QUIC",
+      "Shifter",
+      "Tailwind CSS",
+      "Telegram",
+      "UTF-8",
+      "WordPress",
+      "YouTube",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "vvnnepal.com",
     "title": "VVN Nepal",
     "business_name": "",
@@ -51,28 +252,6 @@
       "about.me",
       "ashop",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "www.www.www.www.www.www.bobwertz.com",
-    "title": "Bob Wertz",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 120,
-    "crawled_at": "2026-05-07T10:05:19.986305169Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GitHub Hosting",
-      "Hugo",
-      "License Buttons",
-      "Micro.blog",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "jsDelivr",
-      "shadcn ui"
     ]
   },
   {
@@ -4372,25 +4551,6 @@
     ]
   },
   {
-    "domain": "antonio.is",
-    "title": "Antonio's Blog",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 60,
-    "tech_spend": 60,
-    "crawled_at": "2026-03-22T20:58:51.999787432Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Hugo",
-      "Micro.blog",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "cote.io",
     "title": "Coté",
     "business_name": "",
@@ -4925,36 +5085,6 @@
     ]
   },
   {
-    "domain": "briztreadley.au",
-    "title": "Briztreadley",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 60,
-    "tech_spend": 452,
-    "crawled_at": "2026-03-01T01:27:57.867183184Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Automattic",
-      "DAV",
-      "Express",
-      "Google My Business",
-      "Gravity",
-      "Hugo",
-      "Instagram Follow Button",
-      "Micro.blog",
-      "QUIC",
-      "Shifter",
-      "Tailwind CSS",
-      "Telegram",
-      "UTF-8",
-      "WordPress",
-      "YouTube",
-      "eLand",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "cammacmurchy.com",
     "title": "Cam MacMurchy - Technology, Media, Travel & More » CamMacMurchy.com",
     "business_name": "",
@@ -5150,30 +5280,6 @@
       "University or College",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "plumey.com",
-    "title": "Javier Plumey",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 780,
-    "crawled_at": "2026-02-17T04:33:43.336707666Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DAV",
-      "Hugo",
-      "Micro.blog",
-      "Python",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "jsDelivr"
     ]
   },
   {
@@ -5623,26 +5729,6 @@
       "UTF-8",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "christouranchor.org",
-    "title": "Christ our Anchor Anglican Mission",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 359,
-    "crawled_at": "2026-01-31T22:01:48.872746081Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Font Awesome",
-      "Hugo",
-      "Micro.blog",
-      "Pico CSS",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
@@ -8292,37 +8378,6 @@
       "Webflow",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "laurencecruz.com",
-    "title": "Laurence",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 724,
-    "crawled_at": "2025-11-22T23:54:19.443717229Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "Micro.blog",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "QUIC",
-      "Squarespace",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]

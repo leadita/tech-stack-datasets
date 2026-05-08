@@ -1,5 +1,130 @@
 [
   {
+    "domain": "nealmckee.com",
+    "title": "About - Neal McKee",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 72,
+    "tech_spend": 2549,
+    "crawled_at": "2026-05-08T09:02:19.977760076Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Express",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "keinpfusch.net",
+    "title": "Das Böse Büro",
+    "business_name": "Das Böse Büro",
+    "country": "ESP",
+    "seo_score": 67,
+    "tech_spend": 1349,
+    "crawled_at": "2026-05-08T06:41:20.012651899Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Azion",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Nginx",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "pepi.com.hr",
+    "title": "Pepi Zoopam",
+    "business_name": "Pepi Zoopam",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 112,
+    "crawled_at": "2026-05-08T05:25:39.69866977Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "noodohs.com",
+    "title": "noodohs",
+    "business_name": "noodohs",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 49,
+    "crawled_at": "2026-05-08T04:44:19.980945475Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "traisfluors.ch",
+    "title": "Chesa Trais Fluors",
+    "business_name": "Chesa Trais Fluors",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 148,
+    "crawled_at": "2026-05-08T02:18:48.79579534Z",
+    "technologies": [
+      "CoreUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "silkie.org",
+    "title": "Cluckin",
+    "business_name": "Cluckin",
+    "country": "GBR",
+    "seo_score": 65,
+    "tech_spend": 75416,
+    "crawled_at": "2026-05-07T19:14:19.983056066Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cart.com",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Mediavine Publisher",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "Netlify",
+      "Publii",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "Vine Embed",
+      "WhatsApp Sharing",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "ozsan.tr",
     "title": "ozsan®",
     "business_name": "ozsan®",
@@ -619,34 +744,6 @@
       "GZIP Module",
       "Microdata for Google Shopping",
       "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "pekinbantams.org",
-    "title": "Cluckin",
-    "business_name": "Cluckin",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 75416,
-    "crawled_at": "2026-05-01T14:05:19.984481839Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cart.com",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Mediavine Publisher",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "Netlify",
-      "Publii",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "Vine Embed",
-      "WhatsApp Sharing",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   },
@@ -8008,43 +8105,6 @@
       "Publii",
       "Twitter Ads",
       "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "pepi.com.hr",
-    "title": "Pepi Zoopam",
-    "business_name": "Pepi Zoopam",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 112,
-    "crawled_at": "2025-11-22T21:54:19.443264296Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "traisfluors.ch",
-    "title": "Chesa Trais Fluors",
-    "business_name": "Chesa Trais Fluors",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 148,
-    "crawled_at": "2025-11-22T20:13:43.811204771Z",
-    "technologies": [
-      "CoreUI",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Publii",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   }
