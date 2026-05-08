@@ -2218,33 +2218,5 @@
       "YouTube",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "eduity.net",
-    "title": "Eduity",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 15483,
-    "crawled_at": "2025-11-23T00:24:19.485496561Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "BetterMode",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "ElementUI",
-      "Fireblade",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Imgix",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "Tribe.so",
-      "Vector Internet Services",
-      "shadcn ui"
-    ]
   }
 ]
