@@ -1,5 +1,22 @@
 [
   {
+    "domain": "rapture.ws",
+    "title": "Rapture Watch & Signs",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 20,
+    "crawled_at": "2026-05-07T17:02:20.001438843Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "GZIP Module",
+      "Namecheap",
+      "Nginx",
+      "Telegram",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "yeezyeezyeezy.com",
     "title": "Hustles HQ",
     "business_name": "",
@@ -210,23 +227,6 @@
       "Nginx",
       "PHP",
       "Parallels Plesk Panel",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "rapture.ws",
-    "title": "Rapture Watch & Signs",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 20,
-    "crawled_at": "2026-04-04T04:59:19.634276024Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "GZIP Module",
-      "Namecheap",
-      "Nginx",
-      "Telegram",
       "UTF-8"
     ]
   },
