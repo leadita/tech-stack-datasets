@@ -1,5 +1,29 @@
 [
   {
+    "domain": "samarsyed.com",
+    "title": "Samar's Portfolio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 32448,
+    "crawled_at": "2026-05-08T01:32:20.00020844Z",
+    "technologies": [
+      "Framer Sites",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "ImageKit.io",
+      "Insider",
+      "KVH",
+      "Medium",
+      "Microsoft Clarity",
+      "Netcore Cloud",
+      "Ntent",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
     "domain": "index2web.org",
     "title": "index2web",
     "business_name": "",
