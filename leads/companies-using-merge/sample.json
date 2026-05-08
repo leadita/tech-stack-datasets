@@ -1,5 +1,25 @@
 [
   {
+    "domain": "hayleyye.com",
+    "title": "Hayley Ye",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 40,
+    "tech_spend": 603,
+    "crawled_at": "2026-05-08T01:05:20.018257166Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Merge",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "siliconfriendly.com",
     "title": "Silicon Friendly - How AI-Agent Friendly is Your Website?",
     "business_name": "",
