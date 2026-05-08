@@ -1,5 +1,38 @@
 [
   {
+    "domain": "currentparty.info",
+    "title": "DP 067",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 91927,
+    "crawled_at": "2026-05-08T08:02:20.013722945Z",
+    "technologies": [
+      "Adobe Analytics",
+      "Adobe Creative Cloud WebFonts",
+      "Adobe Marketing Cloud",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Contentstack",
+      "Fireblade",
+      "Font Awesome",
+      "GZIP Module",
+      "GetResponse",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Hotjar",
+      "Imperva Bot Detection and Mitigation",
+      "Incapsula CDN",
+      "Lytics",
+      "New Relic",
+      "Tailwind CSS",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "weareuntold.be",
     "title": "We create impact on your business using data | Agiliz",
     "business_name": "Agiliz",
