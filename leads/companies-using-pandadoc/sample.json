@@ -1,5 +1,35 @@
 [
   {
+    "domain": "encuentrofamiliarecono.com",
+    "title": "Econo Encuentro Familiar 2026 - Optimizando servicios para suplidores y tiendas.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 16614,
+    "crawled_at": "2026-05-09T17:17:20.007879192Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Elementor",
+      "EmbedPress",
+      "Endis",
+      "Essential Addons for Elementor",
+      "Formidable Pro Form",
+      "GZIP Module",
+      "IcoMoon",
+      "LiteSpeed",
+      "PHP",
+      "PandaDoc",
+      "Premium Addons for Elementor",
+      "QUIC",
+      "ThemeFusion",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "accumulator.co",
     "title": "Accumulator™ | Better Than Secondaries",
     "business_name": "Accumulator",
