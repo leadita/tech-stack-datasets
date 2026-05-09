@@ -1,34 +1,50 @@
 [
   {
-    "domain": "nscif.com",
-    "title": "An EMDN - nSCIF, SCIF in National Security Intelligence Research Cybersecurity Defense Technology Information Analysis Risk Assessment Classified Data Strategic Operations",
+    "domain": "webtechsolutionsbd.com",
+    "title": "WebTech Solutions BD – Your Digital Groth Partner",
     "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 135,
-    "crawled_at": "2026-05-08T15:02:19.993784127Z",
+    "country": "BGD",
+    "seo_score": 65,
+    "tech_spend": 5587,
+    "crawled_at": "2026-05-09T15:05:19.987859639Z",
     "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
+      "Alternate Protocol",
+      "Apache",
+      "BunnyCDN",
+      "BunnyCDN General",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
       "Dynadot",
-      "ElementUI",
-      "Font Awesome",
+      "Elementor",
+      "EmbedPress",
       "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microsoft Clarity",
-      "UTF-8"
+      "Google Cloud DNS",
+      "Google Font API",
+      "Hello Elementor",
+      "NFOrce Internet",
+      "PHP",
+      "QUIC",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WooCommerce",
+      "WooCommerce Checkout",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery",
+      "jsDelivr"
     ]
   },
   {
-    "domain": "dagat.net",
+    "domain": "philippine.blog",
     "title": "Welcome to PhilippineProperties.com",
     "business_name": "",
     "country": "",
     "seo_score": 62,
     "tech_spend": 7219,
-    "crawled_at": "2026-05-08T13:02:20.026337532Z",
+    "crawled_at": "2026-05-09T14:08:19.995933321Z",
     "technologies": [
       "Amazon CloudFront",
       "CloudFront",
@@ -44,13 +60,13 @@
     ]
   },
   {
-    "domain": "realissues.org",
+    "domain": "garyvalenciano.com",
     "title": "Build Your Brand",
     "business_name": "",
     "country": "",
     "seo_score": 37,
     "tech_spend": 135,
-    "crawled_at": "2026-05-08T08:08:19.995126663Z",
+    "crawled_at": "2026-05-09T12:34:34.491658274Z",
     "technologies": [
       "Amazon CloudFront",
       "CloudFront",
@@ -59,6 +75,93 @@
       "Font Awesome",
       "GZIP Module",
       "UTF-8"
+    ]
+  },
+  {
+    "domain": "intelligentqwen.com",
+    "title": "An EMDN - Intelligent Qwen, AI model generative intelligence machine learning language model reasoning automation innovation",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 135,
+    "crawled_at": "2026-05-09T05:59:16.374138576Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "zaythra.com",
+    "title": "Zaythra Ayurvedic Orthopedic Care",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 20879,
+    "crawled_at": "2026-05-09T02:05:19.99317063Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "ArvanCloud",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "KVH",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "amandadorancounselling.co.uk",
+    "title": "Amanda Doran Counselling",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 135,
+    "crawled_at": "2026-05-08T21:45:33.397712091Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "classicupstate.com",
+    "title": "Classic Upstate Services",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 25219,
+    "crawled_at": "2026-05-08T19:26:19.991137874Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon CloudFront",
+      "BLR",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "QUIC",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
     ]
   },
   {
@@ -3401,24 +3504,6 @@
     ]
   },
   {
-    "domain": "amandadorancounselling.com",
-    "title": "Amanda Doran Counselling",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 135,
-    "crawled_at": "2026-01-08T13:07:11.065450219Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "thundermtlenape.org",
     "title": "Thunder Mountain Lenapé Nation",
     "business_name": "",
@@ -4257,29 +4342,6 @@
     ]
   },
   {
-    "domain": "classicupstate.com",
-    "title": "Classic Upstate Services",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 25219,
-    "crawled_at": "2025-11-25T10:51:19.458703419Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "BLR",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "QUIC",
-      "Tumblr",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
     "domain": "kebunbibit.com",
     "title": "kebunbibit.com for sale",
     "business_name": "",
@@ -4383,24 +4445,6 @@
       "Google Cloud DNS",
       "Google Font API",
       "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "zaythra.com",
-    "title": "Zaythra Ayurvedic Orthopedic Care",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 135,
-    "crawled_at": "2025-11-23T11:48:19.449879155Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Instagram Follow Button",
       "UTF-8"
     ]
   }
