@@ -1,5 +1,50 @@
 [
   {
+    "domain": "michaelwhitmanmba.com",
+    "title": "Whitman Consulting",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 2460,
+    "crawled_at": "2026-05-09T06:56:19.991697731Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Calendly",
+      "Framer Sites",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Tag Manager",
+      "Ntent",
+      "Pulse 360",
+      "QUIC",
+      "eMoney"
+    ]
+  },
+  {
+    "domain": "vibewealthpartners.com",
+    "title": "VIBE Wealth Partners",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 6760,
+    "crawled_at": "2026-05-09T03:44:20.012195456Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Apture Linking Platform",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "UTF-8",
+      "eMoney",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "copperskywealth.com",
     "title": "CopperSky Wealth - Financial Planning Western OK",
     "business_name": "",
