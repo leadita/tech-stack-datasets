@@ -1,6 +1,7 @@
 domain,title,business_name,country,seo_score,tech_spend,crawled_at,technologies
-mycosystems.net,Grafana,,,30,1260,2026-05-08T17:44:20.00328087Z,"['Apache', 'Barchart', 'Debian', 'Express', 'GZIP Module', 'GitHub Hosting', 'Grafana', 'UTF-8', 'Yandex Hosting']"
-grafana.uvm.cz,Grafana,,,30,1200,2026-05-08T00:23:19.987168032Z,"['Apache', 'Barchart', 'Debian', 'Express', 'GitHub Hosting', 'Grafana', 'UTF-8']"
+aupros.com.br,Huxx - Advanced Monitoring System,,,25,,2026-05-09T17:50:19.982482466Z,"['GZIP Module', 'GitHub Hosting', 'Grafana', 'Nginx', 'UTF-8', 'Ubuntu']"
+rxweb.cwh.ie,Grafana,,,30,3159,2026-05-09T09:47:19.989879455Z,"['Apache', 'Barchart', 'Express', 'GitHub Hosting', 'Grafana', 'Paessler', 'UTF-8', 'Visx', 'Yandex Hosting']"
+grafana.rc0.at,Grafana,,,40,17549,2026-05-08T22:44:20.003239783Z,"['Apache', 'Barchart', 'Contento', 'Express', 'GitHub Hosting', 'Grafana', 'On The Map', 'OpenSSL', 'Red Hat Enterprise Linux', 'UTF-8']"
 fabryczna.art,Grafana,,,30,1200,2026-04-29T16:06:19.875219284Z,"['Barchart', 'Express', 'GitHub Hosting', 'Grafana', 'UTF-8']"
 zabbixdash.com.br,Grafana,,,30,11200,2026-04-26T01:38:19.981827946Z,"['Barchart', 'Contento', 'Express', 'GZIP Module', 'Grafana', 'Nginx', 'UTF-8', 'Ubuntu']"
 vikshep.com,Arya Shakti,,,40,32899,2026-04-16T00:49:35.356010479Z,"['AAPT', 'Apache', 'DAV', 'Financial Services Guide', 'GitHub Hosting', 'Google My Business', 'Grafana', 'KVH', 'Ntent', 'On The Map', 'Paessler', 'RawGit', 'SMC', 'Subversion', 'UTF-8']"

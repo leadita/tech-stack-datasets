@@ -1,39 +1,59 @@
 [
   {
-    "domain": "mycosystems.net",
+    "domain": "aupros.com.br",
+    "title": "Huxx - Advanced Monitoring System",
+    "business_name": "",
+    "country": "",
+    "seo_score": 25,
+    "tech_spend": "",
+    "crawled_at": "2026-05-09T17:50:19.982482466Z",
+    "technologies": [
+      "GZIP Module",
+      "GitHub Hosting",
+      "Grafana",
+      "Nginx",
+      "UTF-8",
+      "Ubuntu"
+    ]
+  },
+  {
+    "domain": "rxweb.cwh.ie",
     "title": "Grafana",
     "business_name": "",
     "country": "",
     "seo_score": 30,
-    "tech_spend": 1260,
-    "crawled_at": "2026-05-08T17:44:20.00328087Z",
+    "tech_spend": 3159,
+    "crawled_at": "2026-05-09T09:47:19.989879455Z",
     "technologies": [
       "Apache",
       "Barchart",
-      "Debian",
       "Express",
-      "GZIP Module",
       "GitHub Hosting",
       "Grafana",
+      "Paessler",
       "UTF-8",
+      "Visx",
       "Yandex Hosting"
     ]
   },
   {
-    "domain": "grafana.uvm.cz",
+    "domain": "grafana.rc0.at",
     "title": "Grafana",
     "business_name": "",
     "country": "",
-    "seo_score": 30,
-    "tech_spend": 1200,
-    "crawled_at": "2026-05-08T00:23:19.987168032Z",
+    "seo_score": 40,
+    "tech_spend": 17549,
+    "crawled_at": "2026-05-08T22:44:20.003239783Z",
     "technologies": [
       "Apache",
       "Barchart",
-      "Debian",
+      "Contento",
       "Express",
       "GitHub Hosting",
       "Grafana",
+      "On The Map",
+      "OpenSSL",
+      "Red Hat Enterprise Linux",
       "UTF-8"
     ]
   },
