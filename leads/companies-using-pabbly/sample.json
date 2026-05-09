@@ -1,5 +1,22 @@
 [
   {
+    "domain": "getfreehomesecurity.com",
+    "title": "RI Community Safety | Free Device Install",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 204,
+    "crawled_at": "2026-05-09T07:32:19.984542848Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Netlify",
+      "Pabbly",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "valecc.co.uk",
     "title": "Home | Vale Cricket Club",
     "business_name": "Vale Cricket Club Community Benefit Society",
@@ -4533,23 +4550,6 @@
       "Zendesk Embeddables",
       "monday.com",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "getfreehomesecurity.com",
-    "title": "RI Community Safety | Free Device Install",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 204,
-    "crawled_at": "2026-02-02T13:55:48.865185474Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Netlify",
-      "Pabbly",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   },
   {

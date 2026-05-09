@@ -1,5 +1,26 @@
 [
   {
+    "domain": "magestic.app",
+    "title": "Build your custom back-office app without coding",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 9989,
+    "crawled_at": "2026-05-09T11:41:20.009198899Z",
+    "technologies": [
+      "Coming Soon Page",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Merge",
+      "Nginx",
+      "QUIC",
+      "Ubuntu",
+      "Wistia",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "hayleyye.com",
     "title": "Hayley Ye",
     "business_name": "",
@@ -988,27 +1009,6 @@
       "YouTube",
       "eLand",
       "eShow"
-    ]
-  },
-  {
-    "domain": "magestic.app",
-    "title": "Build your custom back-office app without coding",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 9989,
-    "crawled_at": "2026-02-15T23:32:00.399066863Z",
-    "technologies": [
-      "Coming Soon Page",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Merge",
-      "Nginx",
-      "QUIC",
-      "Ubuntu",
-      "Wistia",
-      "YouTube"
     ]
   },
   {

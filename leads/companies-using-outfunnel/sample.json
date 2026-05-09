@@ -1,5 +1,36 @@
 [
   {
+    "domain": "deltahomeinvestment.com",
+    "title": "Delta Home Investments",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 691,
+    "crawled_at": "2026-05-09T15:05:19.983580633Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Authorize.net",
+      "Content Delivery Network",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Ntent",
+      "Nuxt.js",
+      "Outfunnel",
+      "UTF-8",
+      "vis.js"
+    ]
+  },
+  {
     "domain": "wearemore.agency",
     "title": "Website Design in Athens, GA | MORE creative agency",
     "business_name": "MORE creative agency",
@@ -4649,36 +4680,6 @@
       "UTF-8",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "deltahomeinvestments.com",
-    "title": "Delta Home Investments",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 4328,
-    "crawled_at": "2026-03-15T14:08:07.186357051Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Authorize.net",
-      "Content Delivery Network",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Ntent",
-      "Nuxt.js",
-      "Outfunnel",
-      "UTF-8"
     ]
   },
   {
