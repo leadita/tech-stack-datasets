@@ -1,5 +1,28 @@
 [
   {
+    "domain": "logixia.ca",
+    "title": "Logixia - Services Informatiques",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 70,
+    "tech_spend": 3399,
+    "crawled_at": "2026-05-09T04:26:20.007752954Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Font Awesome",
+      "FreshBooks",
+      "GZIP Module",
+      "Google My Business",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Tailwind CSS",
+      "Unix",
+      "Visual Studio"
+    ]
+  },
+  {
     "domain": "nasmm360.com",
     "title": "NASMM 360",
     "business_name": "",
@@ -2147,29 +2170,6 @@
       "Website Tonight",
       "Xero",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "logixia.ca",
-    "title": "Logixia - Services Informatiques",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 70,
-    "tech_spend": 3399,
-    "crawled_at": "2026-01-31T01:07:48.887123913Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Font Awesome",
-      "FreshBooks",
-      "GZIP Module",
-      "Google My Business",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Tailwind CSS",
-      "Unix",
-      "Visual Studio"
     ]
   },
   {

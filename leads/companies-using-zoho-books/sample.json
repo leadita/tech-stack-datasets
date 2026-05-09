@@ -1,5 +1,29 @@
 [
   {
+    "domain": "exp3dent.com",
+    "title": "EXP3DENT",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 564,
+    "crawled_at": "2026-05-08T11:44:19.999463112Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Apache",
+      "CloudFront",
+      "GZIP Module",
+      "ID Services",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "QUIC",
+      "Tailwind CSS",
+      "WF Cookie Consent",
+      "Webflow",
+      "Zoho Books"
+    ]
+  },
+  {
     "domain": "freedomlinx.com",
     "title": "Business Technology Solutions in Gallia, Jackson, Lawrence - Freedomlinx",
     "business_name": "",
@@ -978,30 +1002,6 @@
       "YouTube",
       "Zoho Books",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "exp3dent.com",
-    "title": "EXP3DENT",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 564,
-    "crawled_at": "2026-04-03T02:26:33.183270458Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Apache",
-      "CloudFront",
-      "GZIP Module",
-      "ID Services",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "QUIC",
-      "Tailwind CSS",
-      "WF Cookie Consent",
-      "Webflow",
-      "Zoho Books"
     ]
   },
   {
