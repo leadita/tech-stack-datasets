@@ -1,12 +1,12 @@
 [
   {
-    "domain": "ontariopickthree.net",
+    "domain": "playolg-lottery.ca",
     "title": "OLG | Ontario's Online LOTTERY, CASINO & SPORTS 2026",
     "business_name": "",
     "country": "USA",
     "seo_score": 77,
-    "tech_spend": 813600,
-    "crawled_at": "2026-05-08T05:38:20.006255928Z",
+    "tech_spend": 814200,
+    "crawled_at": "2026-05-08T23:32:19.977723224Z",
     "technologies": [
       "Adobe Analytics",
       "Adobe CQ",
@@ -34,6 +34,7 @@
       "Line2",
       "Microdata for Google Shopping",
       "NFOrce Internet",
+      "Paysafe",
       "Perl",
       "Prospective",
       "QUIC",
