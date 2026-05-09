@@ -1,6 +1,6 @@
 # Companies Using StackPath (Live Dataset 2026)
 
-This folder contains an active list of 65,043 companies using **StackPath**. 
+This folder contains an active list of 65,123 companies using **StackPath**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 65,043
+- **Total Leads:** 65,123
 - **Verified:** Yes
-- **Last Updated:** 2026-05-08 14:15 UTC
+- **Last Updated:** 2026-05-09 14:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **65,043+** companies using StackPath.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **65,123+** companies using StackPath.
 
 [**⚡ Unlock the Full StackPath List with Contact Details**](https://leadita.com/leads/companies-using-stackpath)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-05-08 14:15 UTC*
+*Last updated: 2026-05-09 14:15 UTC*
 *Data source: Leadita Technographic Intelligence*
