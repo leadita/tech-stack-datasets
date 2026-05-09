@@ -1,5 +1,23 @@
 [
   {
+    "domain": "geddeslake.org",
+    "title": "Geddes Lake Condominiums - Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 50,
+    "tech_spend": 10000,
+    "crawled_at": "2026-05-09T02:23:19.993096876Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "DAV",
+      "GitHub Hosting",
+      "Yardi Systems"
+    ]
+  },
+  {
     "domain": "bogdanraicu.dev",
     "title": "Bogdan Raicu | Software Developer",
     "business_name": "",
