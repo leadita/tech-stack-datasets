@@ -1,5 +1,33 @@
 [
   {
+    "domain": "zulchtax.com",
+    "title": "Zulch Tax Consultants",
+    "business_name": "Zulch Tax Consultants & Accountants",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 1870,
+    "crawled_at": "2026-05-09T00:59:19.986270659Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "Express",
+      "FormSubmit",
+      "GZIP Module",
+      "Google My Business",
+      "Line2",
+      "MailerLite",
+      "Microdata for Google Shopping",
+      "Newsletter for Wordpress",
+      "QUIC",
+      "RightSignature",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "powerfinanced.com",
     "title": "Home - High Power Capital Group",
     "business_name": "",

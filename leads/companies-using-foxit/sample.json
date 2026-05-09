@@ -1,5 +1,29 @@
 [
   {
+    "domain": "bibletoyou.org",
+    "title": "bibletoyou | “…warning every man, and teaching every man in all wisdom; that we may present every man perfect in Christ Jesus.” Colossians 1:28",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 70,
+    "tech_spend": 327,
+    "crawled_at": "2026-05-09T13:14:20.003490178Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Content Delivery Network",
+      "Element Pack Lite",
+      "EmbedPress",
+      "Foxit",
+      "Logos Reftagger",
+      "Nginx",
+      "Twenty Ten",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "genkinka-kyokasyo.com",
     "title": "genkinka-kyokasyo",
     "business_name": "",
@@ -436,30 +460,6 @@
       "WordPress",
       "WordPress Multisite",
       "eLand"
-    ]
-  },
-  {
-    "domain": "bibletoyou.org",
-    "title": "bibletoyou | “…warning every man, and teaching every man in all wisdom; that we may present every man perfect in Christ Jesus.” Colossians 1:28",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 70,
-    "tech_spend": 327,
-    "crawled_at": "2026-04-03T09:04:49.3269995Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Content Delivery Network",
-      "Element Pack Lite",
-      "EmbedPress",
-      "Foxit",
-      "Logos Reftagger",
-      "Nginx",
-      "Twenty Ten",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   },
   {
