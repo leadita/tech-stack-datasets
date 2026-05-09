@@ -1,5 +1,35 @@
 [
   {
+    "domain": "quiroz.ch",
+    "title": "Adrien Quiroz - B.A. Relations Internationales - Université de Genève | Popl",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 20603,
+    "crawled_at": "2026-05-09T03:50:20.00076492Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Fireblade",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Google My Business",
+      "Material-UI",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Salesforce Hosted",
+      "Twitter Ads",
+      "UTF-8",
+      "VinSolutions",
+      "WhatsApp Sharing",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "grandstrandmyrtlebeachsc.com",
     "title": "Myrtle Beach's Grand Strand Nissan | New and Used Nissan Cars",
     "business_name": "",
