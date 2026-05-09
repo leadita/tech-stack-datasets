@@ -1,12 +1,53 @@
 [
   {
-    "domain": "bobwertz.com",
+    "domain": "derekhayn.com",
+    "title": "Derek Hayn | Graphic Design & Architectural Photography",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 67,
+    "tech_spend": 520,
+    "crawled_at": "2026-05-09T08:56:20.000473144Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Apache",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Micro.blog",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "lol.mat.tl",
+    "title": "Dr. Matt Lee (mattl)",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 159,
+    "crawled_at": "2026-05-09T04:26:19.99490145Z",
+    "technologies": [
+      "Font Awesome",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Micro.blog",
+      "Tailwind CSS",
+      "UTF-8",
+      "Unix",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "www.www.www.bobwertz.com",
     "title": "Bob Wertz",
     "business_name": "",
     "country": "USA",
-    "seo_score": 72,
+    "seo_score": 67,
     "tech_spend": 120,
-    "crawled_at": "2026-05-08T06:29:20.025272571Z",
+    "crawled_at": "2026-05-09T03:40:41.108145067Z",
     "technologies": [
       "Alternate Protocol",
       "GitHub Hosting",
@@ -19,6 +60,55 @@
       "University or College",
       "jsDelivr",
       "shadcn ui"
+    ]
+  },
+  {
+    "domain": "mattharwood.com",
+    "title": "Matt Harwood",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 30120,
+    "crawled_at": "2026-05-08T19:29:19.983926083Z",
+    "technologies": [
+      "Alternate Protocol",
+      "DAV",
+      "GitHub Hosting",
+      "Hugo",
+      "Micro.blog",
+      "PHP",
+      "QUIC",
+      "The Fresh",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "cote.io",
+    "title": "Coté - Michael Coté on platform engineering, enterprise software, and AI",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 77,
+    "tech_spend": 120,
+    "crawled_at": "2026-05-08T14:53:19.987411185Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GitHub Hosting",
+      "Google Adsense",
+      "Google Analytics",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google Reseller",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Micro.blog",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
     ]
   },
   {
@@ -337,27 +427,6 @@
       "Tailwind CSS",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "derekhayn.com",
-    "title": "Derek Hayn | Graphic Design & Architectural Photography",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 67,
-    "tech_spend": 520,
-    "crawled_at": "2026-05-07T04:40:10.996212853Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Apache",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Micro.blog",
-      "UTF-8"
     ]
   },
   {
@@ -1157,26 +1226,6 @@
       "University or College",
       "WordPress",
       "WordPress Multisite"
-    ]
-  },
-  {
-    "domain": "lol.mat.tl",
-    "title": "Dr. Matt Lee (mattl)",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 159,
-    "crawled_at": "2026-05-01T04:20:07.305305343Z",
-    "technologies": [
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Micro.blog",
-      "Tailwind CSS",
-      "UTF-8",
-      "Unix",
-      "YouTube",
-      "shadcn ui"
     ]
   },
   {
@@ -4548,34 +4597,6 @@
       "Mastodon",
       "Micro.blog",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "cote.io",
-    "title": "Coté",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 72,
-    "tech_spend": 120,
-    "crawled_at": "2026-03-22T01:10:48.355416124Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GitHub Hosting",
-      "Google Adsense",
-      "Google Analytics",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google Reseller",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Micro.blog",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {

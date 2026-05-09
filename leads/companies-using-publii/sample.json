@@ -1,5 +1,30 @@
 [
   {
+    "domain": "xraberteifi.uk",
+    "title": "Extinction Rebellion Aberteifi/Cardigan - XR Aberteifi",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2648,
+    "crawled_at": "2026-05-08T15:17:23.970804182Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Fastly",
+      "Font Awesome",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "License Buttons",
+      "Microdata for Google Shopping",
+      "Pico CSS",
+      "Publii",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "nealmckee.com",
     "title": "About - Neal McKee",
     "business_name": "",
@@ -8064,47 +8089,6 @@
       "Microdata for Google Shopping",
       "Publii",
       "Twitter Ads",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "redshift.is",
-    "title": "Redshift ehf.",
-    "business_name": "Redshift ehf.",
-    "country": "",
-    "seo_score": 25,
-    "tech_spend": 249,
-    "crawled_at": "2025-11-23T10:40:53.045997369Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "xraberteifi.uk",
-    "title": "Extinction Rebellion Aberteifi/Cardigan - XR Aberteifi",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2648,
-    "crawled_at": "2025-11-23T03:00:19.442271103Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Fastly",
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "License Buttons",
-      "Microdata for Google Shopping",
-      "Pico CSS",
-      "Publii",
-      "Twitter Ads",
-      "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   }
