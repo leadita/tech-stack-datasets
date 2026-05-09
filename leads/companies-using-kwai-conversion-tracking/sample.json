@@ -1,5 +1,35 @@
 [
   {
+    "domain": "kidsbits.cc",
+    "title": "Kidsbits",
+    "business_name": "Kidsbits",
+    "country": "CHN",
+    "seo_score": 72,
+    "tech_spend": 50228,
+    "crawled_at": "2026-05-09T14:11:20.230682037Z",
+    "technologies": [
+      "Cloudflare",
+      "ElementUI",
+      "Express",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Kwai Conversion Tracking",
+      "Microdata for Google Shopping",
+      "Ntent",
+      "PayPal Adaptive Payments",
+      "Pico CSS",
+      "Plausible Analytics",
+      "Python",
+      "SMC",
+      "Sign In With Google",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "crazy66.cyou",
     "title": "CRAZY78",
     "business_name": "",
@@ -598,36 +628,6 @@
       "StackPath",
       "Tailwind CSS",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "kidsbits.cc",
-    "title": "Kidsbits",
-    "business_name": "Kidsbits",
-    "country": "CHN",
-    "seo_score": 72,
-    "tech_spend": 50228,
-    "crawled_at": "2025-11-23T15:42:57.72480031Z",
-    "technologies": [
-      "Cloudflare",
-      "DAV",
-      "ElementUI",
-      "Express",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "Google Analytics",
-      "Google My Business",
-      "Kwai Conversion Tracking",
-      "Microdata for Google Shopping",
-      "Ntent",
-      "PayPal Adaptive Payments",
-      "Pico CSS",
-      "Plausible Analytics",
-      "Python",
-      "SMC",
-      "Sign In With Google",
-      "UTF-8"
     ]
   }
 ]
