@@ -1,5 +1,33 @@
 [
   {
+    "domain": "benesse.co.uk",
+    "title": "Home - Money Wellness",
+    "business_name": "Money Wellness",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 22880,
+    "crawled_at": "2026-05-09T17:20:20.041282085Z",
+    "technologies": [
+      "ButterCMS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "DAV",
+      "Feefo",
+      "Fireblade",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Next.js",
+      "Pleroma",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "learningtree.ca",
     "title": "IT Training Courses and Certifications | Learning Tree",
     "business_name": "Learning Tree International, Inc.",
@@ -1311,33 +1339,6 @@
       "UTF-8",
       "WordPress",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "benesse.co.uk",
-    "title": "Home - Money Wellness",
-    "business_name": "Money Wellness",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 22880,
-    "crawled_at": "2026-02-01T09:31:48.879507919Z",
-    "technologies": [
-      "ButterCMS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Feefo",
-      "Fireblade",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Next.js",
-      "Pleroma",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
