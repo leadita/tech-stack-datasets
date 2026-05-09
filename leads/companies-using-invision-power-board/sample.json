@@ -1,5 +1,38 @@
 [
   {
+    "domain": "ignaciozamo.com.ar",
+    "title": "Ignacio Zamo - Portfolio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 11644,
+    "crawled_at": "2026-05-08T21:23:20.012644939Z",
+    "technologies": [
+      "Astro",
+      "Builder",
+      "CM Commerce",
+      "Content Delivery Network",
+      "Flat Icon",
+      "Freepik",
+      "GitHub Hosting",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Invision Power Board",
+      "Netlify",
+      "PWA",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "WhatsApp Sharing",
+      "WordPress",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "forum.df2.ru",
     "title": "DF2 :: ������",
     "business_name": "",
@@ -97,39 +130,6 @@
       "LiveInternet",
       "Perl",
       "Yandex Hosting"
-    ]
-  },
-  {
-    "domain": "ignaciozamo.com.ar",
-    "title": "Ignacio Zamo - Portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 11644,
-    "crawled_at": "2026-05-01T16:32:32.333599393Z",
-    "technologies": [
-      "Astro",
-      "Builder",
-      "CM Commerce",
-      "Content Delivery Network",
-      "Flat Icon",
-      "Freepik",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Invision Power Board",
-      "Netlify",
-      "PWA",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "WhatsApp Sharing",
-      "WordPress",
-      "shadcn ui"
     ]
   },
   {
