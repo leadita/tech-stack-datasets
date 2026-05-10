@@ -1,5 +1,28 @@
 [
   {
+    "domain": "prizmadesk.com",
+    "title": "PrizmaDesk | Wealth Management Platform",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 9560,
+    "crawled_at": "2026-05-10T04:50:55.398238776Z",
+    "technologies": [
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Guide Pro",
+      "Nginx",
+      "Nuxt.js",
+      "RightCapital",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "eMoney",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "michaelwhitmanmba.com",
     "title": "Whitman Consulting",
     "business_name": "",

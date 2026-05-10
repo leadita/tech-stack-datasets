@@ -1,35 +1,12 @@
 [
   {
-    "domain": "laithkhalafwmg.com",
-    "title": "Laith Khalaf - Laith Khalaf Wealth Management Group of Wells Fargo Advisors, Dublin, OH | Wells Fargo Advisors",
-    "business_name": "Laith Khalaf Wealth Management Group of Wells Fargo Advisors",
-    "country": "IRL",
-    "seo_score": 70,
-    "tech_spend": 17400,
-    "crawled_at": "2026-05-09T03:26:20.009207519Z",
-    "technologies": [
-      "Broadridge Advisor Solutions",
-      "Federal Deposit Insurance Corporation",
-      "Financial Industry Regulatory Authority",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "OneTrust Domain Verification",
-      "Tailwind CSS",
-      "UTF-8",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "fitchinkmail.com",
+    "domain": "fitchinkemails.com",
     "title": "Thought Leadership - Editorial Consulting | Fitch Ink",
     "business_name": "",
     "country": "USA",
-    "seo_score": 92,
+    "seo_score": 87,
     "tech_spend": 609113,
-    "crawled_at": "2026-05-06T16:57:28.565314523Z",
+    "crawled_at": "2026-05-10T12:00:49.828525631Z",
     "technologies": [
       "AJAX Libraries API",
       "AWS WAF Challenge",
@@ -59,6 +36,58 @@
       "WordPress SEO Structured Data Schema Plugin",
       "eLand",
       "jQuery"
+    ]
+  },
+  {
+    "domain": "cdmgestionfinanciere.com",
+    "title": "Cité Montcalm Gestion Financière | Services financiers",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 82,
+    "tech_spend": 522400,
+    "crawled_at": "2026-05-09T22:05:26.56614177Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Broadridge",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Fastly",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "PHP",
+      "UTF-8",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "laithkhalafwmg.com",
+    "title": "Laith Khalaf - Laith Khalaf Wealth Management Group of Wells Fargo Advisors, Dublin, OH | Wells Fargo Advisors",
+    "business_name": "Laith Khalaf Wealth Management Group of Wells Fargo Advisors",
+    "country": "IRL",
+    "seo_score": 70,
+    "tech_spend": 17400,
+    "crawled_at": "2026-05-09T03:26:20.009207519Z",
+    "technologies": [
+      "Broadridge Advisor Solutions",
+      "Federal Deposit Insurance Corporation",
+      "Financial Industry Regulatory Authority",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "OneTrust Domain Verification",
+      "Tailwind CSS",
+      "UTF-8",
+      "reCAPTCHA"
     ]
   },
   {
@@ -1204,35 +1233,6 @@
       "UTF-8",
       "Vector Internet Services",
       "Vimeo",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "cdmgf.ca",
-    "title": "Cité Montcalm Gestion Financière | Services financiers",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 522400,
-    "crawled_at": "2026-04-14T00:27:03.036767113Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Broadridge",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Fastly",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "UTF-8",
-      "Vector Internet Services",
       "shadcn ui"
     ]
   },
