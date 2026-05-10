@@ -1,5 +1,58 @@
 [
   {
+    "domain": "learntoteach.tech",
+    "title": "Jen Kramer - Jen Kramer",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 75771,
+    "crawled_at": "2026-05-10T08:33:58.7374683Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Dreamweaver",
+      "Alternate Protocol",
+      "Amazon Widgets",
+      "Font Awesome",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "HigherEducation",
+      "Hugo",
+      "Medium",
+      "Micro.blog",
+      "Perl",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Webflow",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "www.www.www.www.www.bobwertz.com",
+    "title": "Bob Wertz",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 120,
+    "crawled_at": "2026-05-09T16:11:20.002161724Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GitHub Hosting",
+      "Hugo",
+      "License Buttons",
+      "Micro.blog",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "derekhayn.com",
     "title": "Derek Hayn | Graphic Design & Architectural Photography",
     "business_name": "",
@@ -37,28 +90,6 @@
       "UTF-8",
       "Unix",
       "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "www.www.www.bobwertz.com",
-    "title": "Bob Wertz",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 120,
-    "crawled_at": "2026-05-09T03:40:41.108145067Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GitHub Hosting",
-      "Hugo",
-      "License Buttons",
-      "Micro.blog",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "jsDelivr",
       "shadcn ui"
     ]
   },
@@ -8369,36 +8400,6 @@
       "Micro.blog",
       "Tumblr",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "learntoteach.tech",
-    "title": "Jen Kramer - Jen Kramer",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 75771,
-    "crawled_at": "2025-11-24T02:03:19.432001399Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Dreamweaver",
-      "Alternate Protocol",
-      "Amazon Widgets",
-      "Font Awesome",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "HigherEducation",
-      "Medium",
-      "Micro.blog",
-      "Perl",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Webflow",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]
