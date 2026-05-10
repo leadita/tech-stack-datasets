@@ -1,5 +1,176 @@
 [
   {
+    "domain": "cmbs.loans",
+    "title": "CMBS Loans",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 1440,
+    "crawled_at": "2026-05-10T18:14:19.999387301Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Federal Deposit Insurance Corporation",
+      "Gridsome",
+      "Segment",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "rodrigodagostino.com",
+    "title": "Rodrigo D’Agostino | Web Developer",
+    "business_name": "",
+    "country": "ARG",
+    "seo_score": 65,
+    "tech_spend": 42668,
+    "crawled_at": "2026-05-10T17:44:20.008455012Z",
+    "technologies": [
+      "Apache",
+      "DAV",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "KVH",
+      "M247",
+      "Netlify",
+      "Subversion",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "tepeyac.mx",
+    "title": "Inicio - Instituto Tepeyac",
+    "business_name": "",
+    "country": "MEX",
+    "seo_score": 72,
+    "tech_spend": 101420,
+    "crawled_at": "2026-05-10T07:47:19.989003414Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "Ethy",
+      "Financial Services Guide",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Instagram Follow Button",
+      "K2F",
+      "KVH",
+      "No-Q",
+      "SMC",
+      "Tailwind CSS",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "optionsreadyprogram.ca",
+    "title": "Options Ready Program - Options For Homes",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 34976,
+    "crawled_at": "2026-05-10T05:41:19.992351584Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "ClientSuccess",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Gridsome",
+      "Instagram Follow Button",
+      "KVH",
+      "Netlify",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "utahenroll.org",
+    "title": "EnrollUT | Find the Best Health Insurance in Utah - EnrollUT",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 15798,
+    "crawled_at": "2026-05-10T05:11:19.991105448Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "Financial Services Guide",
+      "Gridsome",
+      "No-Q",
+      "SMC",
+      "Sherpa",
+      "Subversion",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "suffoquer.online",
+    "title": "Suffoquer's Blog",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 450,
+    "crawled_at": "2026-05-10T01:56:20.002861602Z",
+    "technologies": [
+      "ArvanCloud",
+      "Baidu Ads",
+      "Baidu Analytics",
+      "Baidu Cloud",
+      "Bulma",
+      "Content Delivery Network",
+      "FastClick",
+      "Font Awesome",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Gridsome",
+      "Hexo",
+      "IcoMoon",
+      "Jekyll",
+      "PWA",
+      "Simple-Jekyll-Search",
+      "UTF-8",
+      "Vercel",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "loewehaerz.ch",
+    "title": "Kita Löwehärz - Ihre Kita in Wahlen",
+    "business_name": "",
+    "country": "CHE",
+    "seo_score": 77,
+    "tech_spend": 1228,
+    "crawled_at": "2026-05-10T01:32:11.207338189Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vimeo"
+    ]
+  },
+  {
     "domain": "the-kitchen.ca",
     "title": "The-Kitchen.ca",
     "business_name": "",
@@ -160,26 +331,6 @@
       "Netlify",
       "PHP",
       "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "utahopenenrollment.com",
-    "title": "EnrollUT | Find the Best Health Insurance in Utah - EnrollUT",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 15798,
-    "crawled_at": "2026-05-09T08:26:19.990431534Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "Financial Services Guide",
-      "Gridsome",
-      "No-Q",
-      "SMC",
-      "Sherpa",
-      "Subversion",
       "UTF-8"
     ]
   },
@@ -672,29 +823,6 @@
       "No-Q",
       "QUIC",
       "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "hoacorp.ca",
-    "title": "Home - Options For Homes",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 36015,
-    "crawled_at": "2026-05-07T07:20:19.993466404Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ClientSuccess",
-      "CoStar",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "DatoCMS",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "QUIC",
       "Twitter Ads",
       "UTF-8"
     ]
@@ -2339,27 +2467,6 @@
     ]
   },
   {
-    "domain": "cmbs.loans",
-    "title": "CMBS Loans",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 1440,
-    "crawled_at": "2026-04-29T00:21:38.189878981Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Federal Deposit Insurance Corporation",
-      "Gridsome",
-      "Segment",
-      "UTF-8",
-      "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "marena.ch",
     "title": "Marena Whitcher - Marena Whitcher",
     "business_name": "",
@@ -2465,29 +2572,6 @@
       "Line2",
       "QUIC",
       "Trustpilot Reviews for WordPress"
-    ]
-  },
-  {
-    "domain": "xn--lwehrz-eua4l.ch",
-    "title": "Kita Löwehärz - Ihre Kita in Wahlen",
-    "business_name": "",
-    "country": "CHE",
-    "seo_score": 67,
-    "tech_spend": 1228,
-    "crawled_at": "2026-04-28T08:32:19.987554336Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vimeo"
     ]
   },
   {
@@ -7791,37 +7875,6 @@
     ]
   },
   {
-    "domain": "institutotepeyac.edu.mx",
-    "title": "Inicio - Instituto Tepeyac",
-    "business_name": "",
-    "country": "MEX",
-    "seo_score": 77,
-    "tech_spend": 101420,
-    "crawled_at": "2026-03-03T03:25:34.278447903Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "Ethy",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Instagram Follow Button",
-      "K2F",
-      "KVH",
-      "No-Q",
-      "SMC",
-      "Tailwind CSS",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "lukasriedel.se",
     "title": "Portfolio - Lukas Riedel",
     "business_name": "",
@@ -11868,40 +11921,6 @@
       "UTF-8",
       "University or College",
       "Vvveb"
-    ]
-  },
-  {
-    "domain": "chattanoogadsa.org",
-    "title": "Chattanooga DSA - Chattanooga DSA",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 7500,
-    "crawled_at": "2025-12-15T06:38:08.308772876Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fireblade",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "axlhazarika.in",
-    "title": "Musician, Computer Engineer & A Digital Pagan. - Axl Hazarika",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2025-12-15T04:01:56.035513991Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
