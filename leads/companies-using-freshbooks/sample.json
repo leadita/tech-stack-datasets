@@ -1,5 +1,28 @@
 [
   {
+    "domain": "lucasleung.me",
+    "title": "Lucas Leung | Marketing Leader Portfolio",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 70,
+    "tech_spend": 152800,
+    "crawled_at": "2026-05-10T07:23:20.003621836Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "FreshBooks",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "logixia.ca",
     "title": "Logixia - Services Informatiques",
     "business_name": "",

@@ -1,5 +1,29 @@
 [
   {
+    "domain": "solutionetinc.com",
+    "title": "Solutionet | Accounting Services",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 824,
+    "crawled_at": "2026-05-09T18:14:20.00280442Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Expensify",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gusto",
+      "NFOrce Internet",
+      "QUIC",
+      "Xero"
+    ]
+  },
+  {
     "domain": "ensoaccounting.com",
     "title": "Home - Enso Accounting",
     "business_name": "",
