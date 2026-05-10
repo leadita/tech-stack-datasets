@@ -1,5 +1,30 @@
 [
   {
+    "domain": "agiliz.be",
+    "title": "We create impact on your business using data | Agiliz",
+    "business_name": "Agiliz",
+    "country": "BEL",
+    "seo_score": 77,
+    "tech_spend": 78920,
+    "crawled_at": "2026-05-10T12:14:20.000101614Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Hubspot Knowledge Base",
+      "Lytics",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "currentparty.info",
     "title": "DP 067",
     "business_name": "",
@@ -30,31 +55,6 @@
       "Tailwind CSS",
       "UTF-8",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "weareuntold.be",
-    "title": "We create impact on your business using data | Agiliz",
-    "business_name": "Agiliz",
-    "country": "BEL",
-    "seo_score": 77,
-    "tech_spend": 78920,
-    "crawled_at": "2026-05-03T03:29:20.009066842Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Hubspot Knowledge Base",
-      "Lytics",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "UTF-8"
     ]
   },
   {
