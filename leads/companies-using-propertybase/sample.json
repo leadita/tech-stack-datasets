@@ -4057,36 +4057,5 @@
       "Wix Media",
       "mlcom"
     ]
-  },
-  {
-    "domain": "98362.info",
-    "title": "98362.info",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 9228,
-    "crawled_at": "2025-11-24T04:03:19.438765004Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Harbor",
-      "Investor Relations",
-      "Next.js",
-      "Nginx",
-      "Pleroma",
-      "PropertyBase",
-      "QUIC",
-      "Squarespace",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "Unsplash",
-      "Wix Media",
-      "WordPress",
-      "shadcn ui"
-    ]
   }
 ]
