@@ -1,5 +1,22 @@
 [
   {
+    "domain": "gcor.ru",
+    "title": "Anton Ahatov",
+    "business_name": "",
+    "country": "SWE",
+    "seo_score": 57,
+    "tech_spend": 488,
+    "crawled_at": "2026-05-10T14:59:20.008523239Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "PandaDoc",
+      "UTF-8",
+      "Vercel",
+      "Yandex Hosting"
+    ]
+  },
+  {
     "domain": "encuentrofamiliarecono.com",
     "title": "Econo Encuentro Familiar 2026 - Optimizando servicios para suplidores y tiendas.",
     "business_name": "",
@@ -1169,23 +1186,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "ahatov.com",
-    "title": "Anton Ahatov",
-    "business_name": "",
-    "country": "SWE",
-    "seo_score": 57,
-    "tech_spend": 488,
-    "crawled_at": "2026-04-10T16:08:19.993138854Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "PandaDoc",
-      "UTF-8",
-      "Vercel",
-      "Yandex Hosting"
     ]
   },
   {
