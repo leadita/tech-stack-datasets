@@ -880,33 +880,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "valledelsol.com",
-    "title": "Community Health Center | Valle del Sol",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 9936,
-    "crawled_at": "2025-11-23T20:15:19.460271522Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "DoubleClick Bid Manager",
-      "Duda",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Luma Health",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Site Search 360",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
-    ]
   }
 ]
