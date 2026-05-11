@@ -1,12 +1,12 @@
 [
   {
-    "domain": "embroideredwesternshirts.com",
-    "title": "Howler Brothers – HOWLER BROTHERS",
+    "domain": "monosonicrecords.com",
+    "title": "Howler Music – HOWLER BROTHERS",
     "business_name": "HOWLER BROTHERS",
     "country": "USA",
     "seo_score": 77,
     "tech_spend": 92811,
-    "crawled_at": "2026-05-10T05:47:19.984588888Z",
+    "crawled_at": "2026-05-11T15:02:19.998029753Z",
     "technologies": [
       "Adobe Creative Cloud WebFonts",
       "Apture Linking Platform",
@@ -44,6 +44,38 @@
       "hCaptcha",
       "jsDelivr",
       "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "bitahonarvar.org",
+    "title": "BITA HONARVAR | Photographer • Visuals Editor",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 179133,
+    "crawled_at": "2026-05-10T23:26:20.004013748Z",
+    "technologies": [
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Narvar",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "Vignette OpenText",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
     ]
   },
   {
@@ -343,38 +375,6 @@
       "Twitter Ads",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "bitahonarvar.photography",
-    "title": "BITA HONARVAR | Photographer • Visuals Editor",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 179133,
-    "crawled_at": "2026-05-02T00:05:20.006236842Z",
-    "technologies": [
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Narvar",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "Vignette OpenText",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   },
   {
