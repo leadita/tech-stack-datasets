@@ -1,5 +1,32 @@
 [
   {
+    "domain": "trump-defenders.com",
+    "title": "thelectioninsider.com",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 94920,
+    "crawled_at": "2026-05-11T20:11:20.015482536Z",
+    "technologies": [
+      "Express",
+      "Fireblade",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Iterable",
+      "License Buttons",
+      "NFOrce Internet",
+      "PWA",
+      "Perl",
+      "UTF-8",
+      "Vimeo CDN",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "allbirds.com",
     "title": "Allbirds: Comfortable, Sustainable Shoes & Apparel",
     "business_name": "",
@@ -1470,33 +1497,6 @@
       "YouTube",
       "eLand",
       "iZooto"
-    ]
-  },
-  {
-    "domain": "insidedcpolitics.com",
-    "title": "thelectioninsider.com",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 94920,
-    "crawled_at": "2026-04-24T14:05:19.993084406Z",
-    "technologies": [
-      "Express",
-      "Fireblade",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Iterable",
-      "License Buttons",
-      "NFOrce Internet",
-      "PWA",
-      "Perl",
-      "UTF-8",
-      "Vimeo CDN",
-      "Wangsu",
-      "Website Tonight"
     ]
   },
   {
