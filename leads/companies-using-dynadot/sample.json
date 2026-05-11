@@ -1,12 +1,12 @@
 [
   {
-    "domain": "malecaregiver.online",
+    "domain": "vinamorales.com",
     "title": "Build Your Brand",
     "business_name": "",
     "country": "",
     "seo_score": 37,
     "tech_spend": 135,
-    "crawled_at": "2026-05-10T13:54:25.98900258Z",
+    "crawled_at": "2026-05-11T14:32:20.012652001Z",
     "technologies": [
       "Amazon CloudFront",
       "CloudFront",
@@ -18,13 +18,13 @@
     ]
   },
   {
-    "domain": "cityofdavao.com",
+    "domain": "paupahan.net",
     "title": "Welcome to PhilippineProperties.com",
     "business_name": "",
     "country": "",
     "seo_score": 62,
     "tech_spend": 7219,
-    "crawled_at": "2026-05-10T06:12:17.628329391Z",
+    "crawled_at": "2026-05-11T14:08:20.018866953Z",
     "technologies": [
       "Amazon CloudFront",
       "CloudFront",
@@ -37,6 +37,73 @@
       "QUIC",
       "UTF-8",
       "YouTube"
+    ]
+  },
+  {
+    "domain": "intelligentcua.com",
+    "title": "An EMDN - Intelligent CUA, Smart Automation AI Systems User Experience Technology Innovation Adaptive Interfaces Cognitive Computing Intelligent Solutions Agent Computer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 135,
+    "crawled_at": "2026-05-11T10:20:19.984087105Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "titanload.io",
+    "title": "TitanLoad",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 50,
+    "tech_spend": 138,
+    "crawled_at": "2026-05-11T09:59:19.991675825Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "asbestos.us",
+    "title": "ETC. - Asbestos",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 135,
+    "crawled_at": "2026-05-10T20:17:19.99370996Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "UTF-8"
     ]
   },
   {
@@ -73,28 +140,6 @@
       "ElementUI",
       "Font Awesome",
       "GZIP Module",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "sysstock.com",
-    "title": "An EMDN - SysStock, Inventory Management Supply Chain Technology Stock Tracking Warehouse Management Asset Control Real-Time Monitoring Business Operations Logistics Software",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 135,
-    "crawled_at": "2026-05-10T02:45:28.515148765Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microsoft Clarity",
       "UTF-8"
     ]
   },
@@ -3589,23 +3634,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "envirotesting.us",
-    "title": "ETC.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 135,
-    "crawled_at": "2026-01-02T19:34:30.208050552Z",
-    "technologies": [
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "UTF-8"
     ]
   },
   {
