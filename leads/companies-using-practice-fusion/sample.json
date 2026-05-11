@@ -1,5 +1,25 @@
 [
   {
+    "domain": "spriggan.ai",
+    "title": "Spriggan AI — AI agents for medical clinics",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 8856,
+    "crawled_at": "2026-05-11T15:23:20.010794444Z",
+    "technologies": [
+      "AthenaHealth",
+      "Content Delivery Network",
+      "Next.js",
+      "Practice Fusion",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "eClinicalWorks",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "medicalbillingstar.com",
     "title": "Top Medical Billing Company | Medical Billing Star",
     "business_name": "MedicalBillingStar",
