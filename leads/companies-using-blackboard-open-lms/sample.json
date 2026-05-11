@@ -1,12 +1,77 @@
 [
   {
-    "domain": "inshoring.us",
+    "domain": "agenceblackboard.com",
+    "title": "blackboard : spécialiste en communication. Relations Presse et Photographie.",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 77,
+    "tech_spend": 25508,
+    "crawled_at": "2026-05-11T14:42:05.249117413Z",
+    "technologies": [
+      "Blackboard Open LMS",
+      "Envoy",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "IcoMoon",
+      "PHP",
+      "Twitter Ads"
+    ]
+  },
+  {
+    "domain": "stlukescollege.edu",
+    "title": "St. Luke's College",
+    "business_name": "St. Lukes College - UnityPoint Health",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 98037,
+    "crawled_at": "2026-05-11T13:38:19.992951971Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Azure Active Directory",
+      "Blackboard Open LMS",
+      "Cornerstone",
+      "Ethy",
+      "Financial Services Guide",
+      "Fireblade",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "K2F",
+      "KVH",
+      "Microdata for Google Shopping",
+      "Microsoft 365",
+      "Microsoft Azure",
+      "Nationwide Mortgage Licensing System and Registry",
+      "No-Q",
+      "QUIC",
+      "Silicon Valley Web Hosting",
+      "Subversion",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Visual Studio",
+      "YouTube",
+      "Zope"
+    ]
+  },
+  {
+    "domain": "rfspayments.com",
     "title": "Outsourced Finance and Accounting Services | ROSE",
     "business_name": "",
     "country": "USA",
     "seo_score": 77,
     "tech_spend": 87328,
-    "crawled_at": "2026-05-09T17:17:20.016940239Z",
+    "crawled_at": "2026-05-11T03:05:19.977133095Z",
     "technologies": [
       "501c3 Status Nonprofit",
       "Alternate Protocol",
@@ -32,6 +97,31 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
+    ]
+  },
+  {
+    "domain": "syllabit.app",
+    "title": "Syllabit",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 67,
+    "tech_spend": 25240,
+    "crawled_at": "2026-05-10T17:53:20.013101348Z",
+    "technologies": [
+      "Angular",
+      "Blackboard Open LMS",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "shadcn ui"
     ]
   },
   {
@@ -1687,31 +1777,6 @@
     ]
   },
   {
-    "domain": "syllabit.dev",
-    "title": "Syllabit",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 25240,
-    "crawled_at": "2026-04-02T03:29:20.016662736Z",
-    "technologies": [
-      "Angular",
-      "Blackboard Open LMS",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "codio.co.uk",
     "title": "Codio - Teach Code. With confidence.",
     "business_name": "",
@@ -2327,27 +2392,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "useagenceblackboard.com",
-    "title": "blackboard : spécialiste en communication. Relations Presse et Photographie.",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 72,
-    "tech_spend": 25508,
-    "crawled_at": "2026-01-31T14:18:53.404918126Z",
-    "technologies": [
-      "Blackboard Open LMS",
-      "Envoy",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "IcoMoon",
-      "PHP",
-      "Twitter Ads"
     ]
   },
   {

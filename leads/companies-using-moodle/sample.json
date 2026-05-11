@@ -1,5 +1,47 @@
 [
   {
+    "domain": "campushelenabatlle.com",
+    "title": "Home | campushb",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 10500,
+    "crawled_at": "2026-05-10T20:29:19.98285963Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Moodle",
+      "NFOrce Internet",
+      "Nginx",
+      "PHP",
+      "Totara",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "faculteadventiste.com",
+    "title": "Faculté adventiste de théologie",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 11100,
+    "crawled_at": "2026-05-10T17:07:08.577058881Z",
+    "technologies": [
+      "Fastly",
+      "GZIP Module",
+      "Moodle",
+      "NFOrce Internet",
+      "Nginx",
+      "PHP",
+      "Totara",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "mylearningplus.com",
     "title": "MyLearningPlus: Log in to the site",
     "business_name": "",
@@ -487,27 +529,6 @@
       "Totara",
       "UTF-8",
       "Ubuntu",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "campushelenabatlle.com",
-    "title": "Home | campushb",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 10500,
-    "crawled_at": "2026-03-13T21:50:05.906336708Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Moodle",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "Totara",
-      "UTF-8",
       "jsDelivr"
     ]
   },
@@ -1269,27 +1290,6 @@
       "Totara",
       "UTF-8",
       "Ubuntu",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "faculteadventiste.com",
-    "title": "Faculté adventiste de théologie",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 11100,
-    "crawled_at": "2025-11-24T06:38:06.507614462Z",
-    "technologies": [
-      "Fastly",
-      "GZIP Module",
-      "Moodle",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "Totara",
-      "UTF-8",
-      "YouTube",
       "jsDelivr"
     ]
   }
