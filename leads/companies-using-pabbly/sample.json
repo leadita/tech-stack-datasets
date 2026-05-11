@@ -1,5 +1,67 @@
 [
   {
+    "domain": "itivas.com",
+    "title": "Best Interior Designers in Hyderabad | Home Interiors | Itivas",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 2808,
+    "crawled_at": "2026-05-11T12:29:20.008955068Z",
+    "technologies": [
+      "Better Lead Generation Services",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Fastly",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Pabbly",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "madsthill.com",
+    "title": "MadsThill",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 55,
+    "tech_spend": 25808,
+    "crawled_at": "2026-05-11T11:58:28.022799038Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Pabbly",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "designdrop.pro",
     "title": "Design Drop | Unlimited Graphic Design Services at a Flat Monthly Fee",
     "business_name": "",
@@ -370,39 +432,6 @@
       "jQuery",
       "mod_pagespeed",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "itivas.com",
-    "title": "Best Interior Designers in Hyderabad | Home Interiors | Itivas",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 87,
-    "tech_spend": 2808,
-    "crawled_at": "2026-05-05T07:38:05.742610829Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Fastly",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Pabbly",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "jQuery"
     ]
   },
   {
@@ -6118,35 +6147,6 @@
       "jQuery",
       "reCAPTCHA",
       "wpForo Forum"
-    ]
-  },
-  {
-    "domain": "madsthill.com",
-    "title": "MadsThill",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 55,
-    "tech_spend": 25808,
-    "crawled_at": "2025-11-24T17:15:19.47109588Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Pabbly",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
