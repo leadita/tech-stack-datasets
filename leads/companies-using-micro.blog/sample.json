@@ -1,5 +1,47 @@
 [
   {
+    "domain": "www.www.www.www.www.www.www.bobwertz.com",
+    "title": "Bob Wertz",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 120,
+    "crawled_at": "2026-05-11T07:20:19.996383786Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GitHub Hosting",
+      "Hugo",
+      "License Buttons",
+      "Micro.blog",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "eLand",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "samcohen.org",
+    "title": "Samography",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 2060,
+    "crawled_at": "2026-05-10T20:54:33.338326275Z",
+    "technologies": [
+      "Alternate Protocol",
+      "BLR",
+      "GitHub Hosting",
+      "Hugo",
+      "Instagram Follow Button",
+      "Micro.blog",
+      "Tumblr",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "learntoteach.tech",
     "title": "Jen Kramer - Jen Kramer",
     "business_name": "",
@@ -27,28 +69,6 @@
       "University or College",
       "Webflow",
       "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "www.www.www.www.www.bobwertz.com",
-    "title": "Bob Wertz",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 120,
-    "crawled_at": "2026-05-09T16:11:20.002161724Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GitHub Hosting",
-      "Hugo",
-      "License Buttons",
-      "Micro.blog",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "jsDelivr",
       "shadcn ui"
     ]
   },
@@ -8382,24 +8402,6 @@
       "WordPress",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "samcohen.org",
-    "title": "Samography",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 2060,
-    "crawled_at": "2025-11-24T08:42:19.456793392Z",
-    "technologies": [
-      "Alternate Protocol",
-      "BLR",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Micro.blog",
-      "Tumblr",
-      "UTF-8"
     ]
   }
 ]

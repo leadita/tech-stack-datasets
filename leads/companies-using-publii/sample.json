@@ -1,5 +1,109 @@
 [
   {
+    "domain": "peppermint.wedding",
+    "title": "Peppermint Weddings",
+    "business_name": "Peppermint Weddings",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 2048,
+    "crawled_at": "2026-05-11T10:24:20.104056954Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "CoreUI",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Publii",
+      "RM Education",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "moonandpearllutherie.com",
+    "title": "Moon & Pearl Lutherie",
+    "business_name": "Moon & Pearl Lutherie",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 649,
+    "crawled_at": "2026-05-11T02:25:51.274743667Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "dtewfik.com",
+    "title": "Daniel Tewfik",
+    "business_name": "Daniel Tewfik",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 49,
+    "crawled_at": "2026-05-11T00:23:19.986036022Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "heytigerband.com",
+    "title": "About the band - Hey Tiger",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2549,
+    "crawled_at": "2026-05-10T19:41:19.983559822Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "halfinitystudio.com",
+    "title": "HOME - Halfinity Studio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 416,
+    "crawled_at": "2026-05-10T15:02:20.003188135Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Netlify",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "april10.be",
     "title": "April10 consulting and services",
     "business_name": "April10 consulting and services",
@@ -4122,30 +4226,6 @@
     ]
   },
   {
-    "domain": "heytigerband.com",
-    "title": "About the band - Hey Tiger",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 2549,
-    "crawled_at": "2026-04-01T18:41:27.103223498Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "cluewisevocab.com",
     "title": "Welcome to ClueWise Vocabulary! - ClueWise Vocabulary",
     "business_name": "",
@@ -8027,48 +8107,6 @@
     "technologies": [
       "Microdata for Google Shopping",
       "Nginx",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "peppermint.wedding",
-    "title": "Peppermint Weddings",
-    "business_name": "Peppermint Weddings",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 2048,
-    "crawled_at": "2025-11-24T16:39:19.482143174Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "CoreUI",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Publii",
-      "RM Education",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "moonandpearllutherie.com",
-    "title": "Moon & Pearl Lutherie",
-    "business_name": "Moon & Pearl Lutherie",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 649,
-    "crawled_at": "2025-11-24T12:06:19.430842072Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
       "Publii",
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
