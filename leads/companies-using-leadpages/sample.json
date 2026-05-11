@@ -1,16 +1,15 @@
 [
   {
-    "domain": "leaderassistant.io",
+    "domain": "goburrows.io",
     "title": "Resources & Training for Executive & Administrative Assistants - LeaderAssistant.com",
     "business_name": "Go Burrows - Leader Assistant Resources",
     "country": "",
     "seo_score": 67,
-    "tech_spend": 18594,
-    "crawled_at": "2026-05-10T12:05:19.988622362Z",
+    "tech_spend": 20875,
+    "crawled_at": "2026-05-10T20:17:19.998687549Z",
     "technologies": [
       "AWS WAF Challenge",
       "Alternate Protocol",
-      "Amazon WAF Blocked",
       "Apture Linking Platform",
       "Cloudflare",
       "Content Delivery Network",
@@ -24,6 +23,7 @@
       "Facebook Tag API",
       "FormSubmit",
       "Genius Link",
+      "Google",
       "Google Analytics",
       "Google Related Website Sites",
       "Google Tag Manager",
@@ -32,14 +32,15 @@
       "LeadPages",
       "Microdata for Google Shopping",
       "PHP",
+      "Theme In WP",
       "ThemeFusion",
       "Twitter Ads",
       "UTF-8",
       "WP Engine",
-      "WP Rocket",
       "WP jQuery Lightbox",
       "WordPress",
-      "WordPress Multisite"
+      "WordPress Multisite",
+      "jQuery"
     ]
   },
   {
