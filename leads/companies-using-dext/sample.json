@@ -1,5 +1,34 @@
 [
   {
+    "domain": "wilsoncpallc.com",
+    "title": "Home | James E Wilson CPA, LLC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 34060,
+    "crawled_at": "2026-05-10T12:29:19.994811141Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Cloudinary",
+      "DAV",
+      "Dext",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "KVH",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "Zoom Video Conferencing",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "cloud9strategic.com.au",
     "title": "Home - Cloud 9 Strategic",
     "business_name": "",

@@ -1,5 +1,63 @@
 [
   {
+    "domain": "shopnewlyfe.com",
+    "title": "Shop New Lyfe — New Lyfe Financial",
+    "business_name": "NEW LYFE FINANCIAL GROUP LLC",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 79276,
+    "crawled_at": "2026-05-11T01:24:08.834451214Z",
+    "technologies": [
+      "Aruba",
+      "Ecwid Ecommerce Shopping Cart",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "QuickBooks Online",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "wilsoncpallc.com",
+    "title": "Home | James E Wilson CPA, LLC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 34060,
+    "crawled_at": "2026-05-10T12:29:19.994811141Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Cloudinary",
+      "DAV",
+      "Dext",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "KVH",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "Zoom Video Conferencing",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "coreadvisors.com",
     "title": "More Than Dental CPAs | Tax, Wealth & Growth |Core Advisors",
     "business_name": "",
@@ -10207,35 +10265,6 @@
       "WordPress Multisite",
       "Xero",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "shopnewlyfe.com",
-    "title": "Shop New Lyfe — New Lyfe Financial",
-    "business_name": "NEW LYFE FINANCIAL GROUP LLC",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 79276,
-    "crawled_at": "2025-11-24T11:30:19.436358584Z",
-    "technologies": [
-      "Aruba",
-      "Ecwid Ecommerce Shopping Cart",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "QuickBooks Online",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
