@@ -1,5 +1,31 @@
 [
   {
+    "domain": "ceu.com",
+    "title": "CEU Insurance Continuing Education | The Institutes",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 62400,
+    "crawled_at": "2026-05-11T11:20:07.972422639Z",
+    "technologies": [
+      "Add to Any",
+      "Backdrop",
+      "Content Delivery Network",
+      "Drupal",
+      "Express",
+      "Fastly",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Monetate",
+      "Nginx",
+      "PHP",
+      "Twitter Ads",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "oakleyinclegal.com",
     "title": "Intellectual Property | Official Oakley | Oakley® US",
     "business_name": "",
