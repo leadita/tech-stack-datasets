@@ -1,5 +1,67 @@
 [
   {
+    "domain": "hospitalitysuccessguide.com",
+    "title": "Metro Hospitality - Easy Hotel Booking & Seamless Reservations",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 52,
+    "tech_spend": 66,
+    "crawled_at": "2026-05-12T16:44:19.981822418Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Ant Design Vue",
+      "CloudFront",
+      "Content Delivery Network",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Hotjar",
+      "Instagram Follow Button",
+      "LogRocket",
+      "Next.js",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "getpostrfunnels.com",
+    "title": "POSTR",
+    "business_name": "",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 27008,
+    "crawled_at": "2026-05-12T15:43:49.441616622Z",
+    "technologies": [
+      "Amazon",
+      "Apture Linking Platform",
+      "AutoComplete",
+      "Better Lead Generation Services",
+      "CDN JS",
+      "Calendly",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "LogRocket",
+      "Netlify",
+      "On The Map",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "jQuery",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "sbgbizsupport.com",
     "title": "SBG Funding: Fast Business Loans | Apply Online Now",
     "business_name": "SBG Funding",
@@ -1191,34 +1253,6 @@
       "Vector Internet Services",
       "Vercel",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "meetpostracquisition.com",
-    "title": "POSTR",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 7200,
-    "crawled_at": "2026-05-05T23:20:19.989757936Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "AutoComplete",
-      "Better Lead Generation Services",
-      "CDN JS",
-      "Calendly",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "LogRocket",
-      "Netlify",
-      "On The Map",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "jQuery",
-      "shadcn ui"
     ]
   },
   {
@@ -7137,39 +7171,6 @@
     ]
   },
   {
-    "domain": "metrohospitality.com",
-    "title": "Metro Hospitality - Easy Hotel Booking & Seamless Reservations",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 4678,
-    "crawled_at": "2026-03-26T04:11:54.574980774Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Ant Design Vue",
-      "CloudFront",
-      "Content Delivery Network",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hotjar",
-      "Instagram Follow Button",
-      "LogRocket",
-      "Next.js",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "contra-dev.com",
     "title": "Application Security Training For Developers | Kontra",
     "business_name": "",
@@ -10101,30 +10102,6 @@
       "Pleroma",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "jimnaylor.com",
-    "title": "Jim Naylor.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 31920,
-    "crawled_at": "2025-11-24T21:27:19.459948611Z",
-    "technologies": [
-      "Framer Sites",
-      "Google",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Gravity",
-      "Instagram Follow Button",
-      "KVH",
-      "LogRocket",
-      "Naylor",
-      "Ntent",
-      "SMC",
-      "Yandex Hosting",
-      "Zeald"
     ]
   }
 ]
