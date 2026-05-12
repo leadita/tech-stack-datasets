@@ -1,37 +1,12 @@
 [
   {
-    "domain": "nissankeyreplacementaustin.com",
-    "title": "Nissan Key Replacement Austin Texas - (512)523-4550",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 77,
-    "tech_spend": 1240,
-    "crawled_at": "2026-05-11T11:56:19.983730846Z",
-    "technologies": [
-      "Adult Content",
-      "Apache",
-      "Better Lead Generation Services",
-      "Call to Visit",
-      "Edmunds",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "Neighborhoods",
-      "Perl",
-      "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "sellmymaserati.us",
+    "domain": "sellmyaudi.us",
     "title": "Sell My Exotic and Super Car | We Buy Exotics",
     "business_name": "We Buy Exotics",
     "country": "",
     "seo_score": 67,
     "tech_spend": 35701,
-    "crawled_at": "2026-05-11T11:48:42.091646593Z",
+    "crawled_at": "2026-05-12T09:26:19.986954756Z",
     "technologies": [
       "AWS WAF Challenge",
       "Alternate Protocol",
@@ -89,6 +64,31 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "nissankeyreplacementaustin.com",
+    "title": "Nissan Key Replacement Austin Texas - (512)523-4550",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 77,
+    "tech_spend": 1240,
+    "crawled_at": "2026-05-11T11:56:19.983730846Z",
+    "technologies": [
+      "Adult Content",
+      "Apache",
+      "Better Lead Generation Services",
+      "Call to Visit",
+      "Edmunds",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "Neighborhoods",
+      "Perl",
+      "QUIC",
+      "UTF-8"
     ]
   },
   {
