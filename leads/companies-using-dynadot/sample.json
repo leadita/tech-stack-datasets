@@ -1,12 +1,56 @@
 [
   {
-    "domain": "vinamorales.com",
+    "domain": "wordcampmidatlantic.com",
+    "title": "WordCamp Mid-Atlantic",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 120,
+    "crawled_at": "2026-05-12T13:11:20.006036316Z",
+    "technologies": [
+      "DAV",
+      "Dynadot",
+      "Express",
+      "Google Maps",
+      "Google My Business",
+      "Nginx",
+      "Thank You",
+      "The Deck",
+      "UTF-8",
+      "University or College",
+      "WordPress"
+    ]
+  },
+  {
+    "domain": "healthplantexas.com",
+    "title": "An EMDN - Health Plan Texas, Healthcare Insurance Coverage Benefits Medicare Medicaid Texas",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 135,
+    "crawled_at": "2026-05-12T12:47:20.027633878Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "nobroker.org",
     "title": "Build Your Brand",
     "business_name": "",
     "country": "",
     "seo_score": 37,
     "tech_spend": 135,
-    "crawled_at": "2026-05-11T14:32:20.012652001Z",
+    "crawled_at": "2026-05-12T07:04:56.490852128Z",
     "technologies": [
       "Amazon CloudFront",
       "CloudFront",
@@ -18,13 +62,13 @@
     ]
   },
   {
-    "domain": "paupahan.net",
+    "domain": "calamba.org",
     "title": "Welcome to PhilippineProperties.com",
     "business_name": "",
     "country": "",
     "seo_score": 62,
     "tech_spend": 7219,
-    "crawled_at": "2026-05-11T14:08:20.018866953Z",
+    "crawled_at": "2026-05-12T05:58:11.140311585Z",
     "technologies": [
       "Amazon CloudFront",
       "CloudFront",
@@ -40,24 +84,68 @@
     ]
   },
   {
-    "domain": "intelligentcua.com",
-    "title": "An EMDN - Intelligent CUA, Smart Automation AI Systems User Experience Technology Innovation Adaptive Interfaces Cognitive Computing Intelligent Solutions Agent Computer",
+    "domain": "kranticheon.com",
+    "title": "Kranti's Art Gallery",
     "business_name": "",
     "country": "",
-    "seo_score": 52,
+    "seo_score": 35,
     "tech_spend": 135,
-    "crawled_at": "2026-05-11T10:20:19.984087105Z",
+    "crawled_at": "2026-05-12T03:17:19.992713644Z",
     "technologies": [
       "Amazon CloudFront",
-      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Express",
+      "Font Awesome",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "sdchq.org",
+    "title": "Stagville Descendants Council",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 579,
+    "crawled_at": "2026-05-11T23:59:20.018470108Z",
+    "technologies": [
+      "Amazon CloudFront",
       "CloudFront",
       "Dynadot",
       "ElementUI",
       "Font Awesome",
       "GZIP Module",
       "Google Analytics",
+      "Google Forms",
+      "Google My Business",
       "Google Tag Manager",
-      "Microsoft Clarity",
+      "Instagram Follow Button",
+      "SignUpGenius",
+      "UTF-8",
+      "YouTube",
+      "Zeffy"
+    ]
+  },
+  {
+    "domain": "frogtravel.co.uk",
+    "title": "Crazy Frog Travel - Toad Travel | Holiday Quotes | Trips | Cruises | Coach Holidays",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 55,
+    "tech_spend": 7635,
+    "crawled_at": "2026-05-11T16:05:19.998821936Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Fireblade",
+      "Font Awesome",
+      "GZIP Module",
+      "Instagram Follow Button",
       "UTF-8"
     ]
   },
@@ -141,32 +229,6 @@
       "Font Awesome",
       "GZIP Module",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "sdchq.org",
-    "title": "Stagville Descendants Council",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 579,
-    "crawled_at": "2026-05-10T00:11:55.071352185Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Forms",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "SignUpGenius",
-      "UTF-8",
-      "YouTube",
-      "Zeffy"
     ]
   },
   {
@@ -2811,25 +2873,6 @@
       "Dynadot",
       "Font Awesome",
       "GZIP Module",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "crazyfrogtravel.co.uk",
-    "title": "Crazy Frog Travel - Toad Travel | Holiday Quotes | Trips | Cruises | Coach Holidays",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 55,
-    "tech_spend": 7635,
-    "crawled_at": "2026-02-22T10:42:47.615507185Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Fireblade",
-      "Font Awesome",
-      "GZIP Module",
-      "Instagram Follow Button",
       "UTF-8"
     ]
   },
