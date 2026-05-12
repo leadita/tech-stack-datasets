@@ -1,5 +1,48 @@
 [
   {
+    "domain": "openiwt.org",
+    "title": "Home | OpenIWT",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 67,
+    "tech_spend": 29000,
+    "crawled_at": "2026-05-12T13:02:20.008756839Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "GZIP Module",
+      "Moodle",
+      "NFOrce Internet",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "Totara",
+      "UTF-8",
+      "Ubuntu",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "qec.org.mx",
+    "title": "Quality Education Center - SLP",
+    "business_name": "",
+    "country": "BOL",
+    "seo_score": 57,
+    "tech_spend": 11100,
+    "crawled_at": "2026-05-11T17:29:19.978337742Z",
+    "technologies": [
+      "Apache",
+      "Fastly",
+      "Moodle",
+      "NFOrce Internet",
+      "PHP",
+      "Totara",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "campushelenabatlle.com",
     "title": "Home | campushb",
     "business_name": "",
@@ -369,49 +412,6 @@
       "UTF-8",
       "Ubuntu",
       "University or College",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "openiwt.org",
-    "title": "Home | OpenIWT",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 67,
-    "tech_spend": 29000,
-    "crawled_at": "2026-04-02T17:52:58.565231154Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "GZIP Module",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "Totara",
-      "UTF-8",
-      "Ubuntu",
-      "YouTube",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "qec.org.mx",
-    "title": "Quality Education Center - SLP",
-    "business_name": "",
-    "country": "BOL",
-    "seo_score": 57,
-    "tech_spend": 11100,
-    "crawled_at": "2026-03-30T09:23:17.512963701Z",
-    "technologies": [
-      "Apache",
-      "Fastly",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "Totara",
-      "UTF-8",
       "jsDelivr"
     ]
   },
