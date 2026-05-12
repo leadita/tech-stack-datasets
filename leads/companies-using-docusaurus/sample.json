@@ -1,5 +1,114 @@
 [
   {
+    "domain": "melancholylabs.info",
+    "title": "Melancholy Labs | Melancholy Labs",
+    "business_name": "",
+    "country": "PRK",
+    "seo_score": 72,
+    "tech_spend": 15000,
+    "crawled_at": "2026-05-12T13:14:19.982315623Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "App Store",
+      "Apture Linking Platform",
+      "Docusaurus",
+      "Google My Business",
+      "Google Play",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "mr-graham.co.uk",
+    "title": "PETER GRAHAM | PETER GRAHAM",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": "",
+    "crawled_at": "2026-05-12T07:26:20.00684733Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Netlify",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "jointplugin.com",
+    "title": "Joint",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 600,
+    "crawled_at": "2026-05-12T05:23:19.992403487Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Perl",
+      "Share Link",
+      "Thank You",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "insanux.com",
+    "title": "Home | Insanux",
+    "business_name": "Insanux",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 279,
+    "crawled_at": "2026-05-11T23:51:36.011248372Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Discord",
+      "Docusaurus",
+      "Font Awesome",
+      "Google Adsense",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google Reseller",
+      "Material-UI",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "ironarray.io",
+    "title": "Make data smaller to make systems faster | ironArray SLU",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 90,
+    "crawled_at": "2026-05-11T23:47:19.99016147Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Mastodon",
+      "Nginx",
+      "Perl",
+      "Plausible Analytics",
+      "Stripe",
+      "Ubuntu"
+    ]
+  },
+  {
     "domain": "alifm.net",
     "title": "ALIF",
     "business_name": "",
@@ -1869,27 +1978,6 @@
       "Twitter Ads",
       "UTF-8",
       "Vector Internet Services"
-    ]
-  },
-  {
-    "domain": "cat2.cloud",
-    "title": "ironArray SLU",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 90,
-    "crawled_at": "2026-05-04T13:35:19.999328138Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "Express",
-      "GitHub Hosting",
-      "Mastodon",
-      "Nginx",
-      "Plausible Analytics",
-      "Python",
-      "Stripe",
-      "Ubuntu"
     ]
   },
   {
@@ -9086,23 +9174,6 @@
     ]
   },
   {
-    "domain": "mr-graham.co.uk",
-    "title": "PETER GRAHAM | PETER GRAHAM",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": "",
-    "crawled_at": "2026-04-03T07:32:37.632657534Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Netlify",
-      "Perl",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "getstack.dev",
     "title": "getStack - Technology Trends",
     "business_name": "",
@@ -10965,27 +11036,6 @@
     ]
   },
   {
-    "domain": "melancholylabs.info",
-    "title": "Melancholy Labs | Melancholy Labs",
-    "business_name": "",
-    "country": "PRK",
-    "seo_score": 72,
-    "tech_spend": 15000,
-    "crawled_at": "2026-02-23T01:36:11.817299586Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "App Store",
-      "Apture Linking Platform",
-      "Docusaurus",
-      "Google My Business",
-      "Google Play",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "amantel.de",
     "title": "Alexander Mantel's Homepage",
     "business_name": "",
@@ -11501,28 +11551,6 @@
       "Docusaurus",
       "Perl",
       "University or College"
-    ]
-  },
-  {
-    "domain": "jointplugin.com",
-    "title": "Joint",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 600,
-    "crawled_at": "2026-02-02T10:40:48.858895767Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Perl",
-      "Share Link",
-      "Thank You",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
@@ -12823,24 +12851,6 @@
       "Telegram",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "aware.tools",
-    "title": "Research group for Trustworthy Systems | Research group for Trustworthy Systems",
-    "business_name": "",
-    "country": "CHL",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-01-10T04:42:46.189420337Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Docusaurus",
-      "GZIP Module",
-      "Perl",
-      "Tailwind CSS",
-      "University or College"
     ]
   }
 ]
