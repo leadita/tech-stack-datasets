@@ -1,5 +1,29 @@
 [
   {
+    "domain": "lookscraft.com",
+    "title": "LooksCraft — AI UGC Video Generator & Canvas Platform",
+    "business_name": "LooksCraft",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 6240,
+    "crawled_at": "2026-05-11T20:35:20.022612479Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "GrowSurf",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "PWA",
+      "Pleroma",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "luckytrip.co.uk",
     "title": "LuckyTrip",
     "business_name": "",
