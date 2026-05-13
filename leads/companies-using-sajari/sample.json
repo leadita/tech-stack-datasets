@@ -1,5 +1,36 @@
 [
   {
+    "domain": "therapro.com",
+    "title": "Therapro: Tools & Resources for Therapists, Educators, and Families",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 108767,
+    "crawled_at": "2026-05-13T05:35:46.774699282Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Adult Content",
+      "DAV",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Custom Search",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Klaviyo",
+      "Netsuite Site Builder",
+      "Sajari",
+      "UTF-8",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "kaboodle.co.nz",
     "title": "stylish kitchen renovation solutions | kaboodle kitchen",
     "business_name": "Kaboodle Kitchen Australia",
@@ -612,37 +643,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "therapro.com",
-    "title": "Therapro: Tools & Resources for Therapists, Educators, and Families",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 108767,
-    "crawled_at": "2025-11-25T16:39:19.435679225Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Adult Content",
-      "Amazon",
-      "DAV",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Custom Search",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "Netsuite Site Builder",
-      "Sajari",
-      "UTF-8",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
