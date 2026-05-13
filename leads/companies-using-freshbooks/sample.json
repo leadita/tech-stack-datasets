@@ -1,5 +1,53 @@
 [
   {
+    "domain": "onyxiabookkeeping.com",
+    "title": "Home | Onyxia Bookkeeping",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 3219,
+    "crawled_at": "2026-05-13T02:29:19.980485393Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Content Delivery Network",
+      "Fastly",
+      "FreshBooks",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Onyx Internet",
+      "OpenResty",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "iacprofessionals.com",
+    "title": "IAC Professionals",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 5156,
+    "crawled_at": "2026-05-13T01:23:19.998299433Z",
+    "technologies": [
+      "AAPT",
+      "Apache",
+      "FreshBooks",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "QUIC",
+      "Ubuntu",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "techtripp.com",
     "title": "TechTripp - a Full Service Technology Company | Home",
     "business_name": "",
@@ -2595,27 +2643,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "iacprofessionals.com",
-    "title": "IAC Professionals",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 5156,
-    "crawled_at": "2026-01-23T19:00:39.895959422Z",
-    "technologies": [
-      "AAPT",
-      "Apache",
-      "FreshBooks",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "QUIC",
-      "Ubuntu",
-      "reCAPTCHA"
     ]
   },
   {

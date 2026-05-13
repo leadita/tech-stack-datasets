@@ -1,5 +1,28 @@
 [
   {
+    "domain": "justclickcorp.com",
+    "title": "JustClick | Web Development | Web Design",
+    "business_name": "",
+    "country": "ESP",
+    "seo_score": 70,
+    "tech_spend": 579,
+    "crawled_at": "2026-05-12T18:38:20.006454918Z",
+    "technologies": [
+      "Bulma",
+      "DAV",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "Nginx",
+      "PHP",
+      "Parallels Plesk Panel",
+      "PrestaShop",
+      "Slider Revolution",
+      "UTF-8",
+      "YouTube",
+      "Zoho Books"
+    ]
+  },
+  {
     "domain": "milanchase.com",
     "title": "Milanchase - Meet the next generation law firm",
     "business_name": "",
