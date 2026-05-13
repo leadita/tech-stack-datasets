@@ -1,5 +1,29 @@
 [
   {
+    "domain": "geoffwellington.com",
+    "title": "Geoff Wellington | Staff Software Engineer & Technical Lead",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 34800,
+    "crawled_at": "2026-05-13T07:44:19.991906649Z",
+    "technologies": [
+      "CDK Global",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Next.js",
+      "Oracle Cloud",
+      "Pleroma",
+      "Python",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "scanitparts.com",
     "title": "ScanIt Parts - Wireless Barcode Scanning for Dealers",
     "business_name": "ScanIt Parts",
