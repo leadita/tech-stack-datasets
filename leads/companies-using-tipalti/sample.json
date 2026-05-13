@@ -1,5 +1,32 @@
 [
   {
+    "domain": "mapmuity.com",
+    "title": "ImaginAb - CD8ImmunoPET - Creating greater clarity than ever.",
+    "business_name": "Method & Class Limited",
+    "country": "ESP",
+    "seo_score": 77,
+    "tech_spend": 38360,
+    "crawled_at": "2026-05-12T23:53:19.994973292Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Creative Cloud WebFonts",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Fireblade",
+      "Google My Business",
+      "LinkedIn Insights",
+      "LinkedIn Pixel",
+      "PHP",
+      "Perl",
+      "Tailwind CSS",
+      "Tipalti",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "aortasystems.com",
     "title": "Aorta Systems - Your Salesforce Technology Partner",
     "business_name": "Aorta Systems",
@@ -106,34 +133,6 @@
       "YouTube",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "imaginab.com",
-    "title": "ImaginAb - CD8ImmunoPET - Creating greater clarity than ever.",
-    "business_name": "Method & Class Limited",
-    "country": "ESP",
-    "seo_score": 82,
-    "tech_spend": 38360,
-    "crawled_at": "2026-05-04T11:47:20.006500758Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Fireblade",
-      "Google My Business",
-      "LinkedIn Insights",
-      "LinkedIn Pixel",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Perl",
-      "Tailwind CSS",
-      "Tipalti",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
