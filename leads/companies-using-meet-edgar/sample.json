@@ -1,5 +1,36 @@
 [
   {
+    "domain": "white-horse-reflexology.co.uk",
+    "title": "About White Horse Reflexology services in Wantage, Grove, Oxford, Oxfordshire",
+    "business_name": "White Horse Reflexology",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 1801,
+    "crawled_at": "2026-05-13T17:39:32.52609924Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Contact Form Plugin",
+      "Content Delivery Network",
+      "Cutomizr",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "IcoMoon",
+      "Meet Edgar",
+      "PHP",
+      "Sitelinks Search Box",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "wvoter-owned.org",
     "title": "Home - WV Citizens for Clean Elections",
     "business_name": "",
@@ -751,37 +782,6 @@
       "Sendible",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "white-horse-reflexology.co.uk",
-    "title": "About White Horse Reflexology services in Wantage, Grove, Oxford, Oxfordshire",
-    "business_name": "White Horse Reflexology",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 1801,
-    "crawled_at": "2025-11-25T23:00:19.452893279Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "Cutomizr",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Meet Edgar",
-      "PHP",
-      "Sitelinks Search Box",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]

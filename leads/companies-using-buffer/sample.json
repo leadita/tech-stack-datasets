@@ -1,5 +1,39 @@
 [
   {
+    "domain": "nssactuarialmonaco.com",
+    "title": "Nigel Sloam - Nigel Sloam Monaco",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 28190,
+    "crawled_at": "2026-05-13T06:27:41.728579035Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Buffer",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cybot",
+      "DoubleClick Bid Manager",
+      "Fireblade",
+      "Fonts.com",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Ntent",
+      "Rackspace CDN",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "laughingzone.uk",
     "title": "The Laughing Zone",
     "business_name": "",
@@ -8722,39 +8756,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "nssactuarialmonaco.com",
-    "title": "Nigel Sloam - Nigel Sloam Monaco",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 27805,
-    "crawled_at": "2025-11-25T17:09:19.427674398Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Buffer",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "DoubleClick Bid Manager",
-      "Fireblade",
-      "Fonts.com",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Ntent",
-      "Rackspace CDN",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
