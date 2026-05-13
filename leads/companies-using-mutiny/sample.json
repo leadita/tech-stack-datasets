@@ -1,5 +1,31 @@
 [
   {
+    "domain": "xmutiny.com",
+    "title": "XMUTINY - SLAMMING STEEL CITY DEATH METAL | XMUTINY",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 63910,
+    "crawled_at": "2026-05-12T18:16:15.969222707Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Amazon Widgets",
+      "Band Camp",
+      "Big Cartel",
+      "Camp",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Mutiny",
+      "OpenResty",
+      "Zyro"
+    ]
+  },
+  {
     "domain": "grimalgrove.com",
     "title": "Grimal Grove - Botanical Wonderland | Explore the Botanical Wonder's of the Florida Keys",
     "business_name": "",
@@ -339,34 +365,6 @@
       "eLand",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "xmutiny.com",
-    "title": "Xmutiny: Pittsburgh's Death Metal Band | xmutiny",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 63949,
-    "crawled_at": "2025-11-25T10:10:29.479449965Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Amazon Widgets",
-      "Band Camp",
-      "Big Cartel",
-      "Camp",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Mutiny",
-      "OpenResty",
-      "Zyro"
     ]
   }
 ]
