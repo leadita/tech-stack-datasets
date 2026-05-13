@@ -1,5 +1,30 @@
 [
   {
+    "domain": "droppedhub.com",
+    "title": "Find Expired Domains Names | DroppedHub",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 844,
+    "crawled_at": "2026-05-12T18:35:20.019108505Z",
+    "technologies": [
+      "Beehiiv",
+      "Content Delivery Network",
+      "Headless UI",
+      "Namecheap",
+      "Next.js",
+      "Pleroma",
+      "Product Hunt",
+      "QUIC",
+      "Radix UI",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "makingthelasvegasstripshow.com",
     "title": "The Las Vegas Strip Show™",
     "business_name": "",
@@ -320,31 +345,6 @@
       "UTF-8",
       "University or College",
       "Website Tonight"
-    ]
-  },
-  {
-    "domain": "droppedhub.com",
-    "title": "Find Expired Domains Names | DroppedHub",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 844,
-    "crawled_at": "2026-03-19T13:06:44.590357196Z",
-    "technologies": [
-      "Beehiiv",
-      "Content Delivery Network",
-      "Headless UI",
-      "Namecheap",
-      "Next.js",
-      "Pleroma",
-      "Product Hunt",
-      "QUIC",
-      "Radix UI",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "YouTube",
-      "shadcn ui"
     ]
   },
   {

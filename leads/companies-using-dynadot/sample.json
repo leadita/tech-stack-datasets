@@ -1,5 +1,105 @@
 [
   {
+    "domain": "leo-lemon.com",
+    "title": "Online Courses for NDE, Inspection, and Quality Control",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 135,
+    "crawled_at": "2026-05-13T13:41:19.999922867Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "statearena.com",
+    "title": "An EMDN - State Arena, Sports Venue National Stadium Event Arena Management Sports Facility",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 135,
+    "crawled_at": "2026-05-13T06:53:19.988090889Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "joysoftravel.org",
+    "title": "Build Your Brand",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 135,
+    "crawled_at": "2026-05-13T01:26:19.977484445Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "toadtravel.co.uk",
+    "title": "Crazy Frog Travel - Toad Travel | Holiday Quotes | Trips | Cruises | Coach Holidays",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 55,
+    "tech_spend": 7635,
+    "crawled_at": "2026-05-12T21:41:20.026506388Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Fireblade",
+      "Font Awesome",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "philippineproperties.app",
+    "title": "Welcome to PhilippineProperties.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 7219,
+    "crawled_at": "2026-05-12T20:08:20.033568243Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Neighborhoods",
+      "Prospective",
+      "QUIC",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "wordcampmidatlantic.com",
     "title": "WordCamp Mid-Atlantic",
     "business_name": "",
@@ -19,68 +119,6 @@
       "UTF-8",
       "University or College",
       "WordPress"
-    ]
-  },
-  {
-    "domain": "healthplantexas.com",
-    "title": "An EMDN - Health Plan Texas, Healthcare Insurance Coverage Benefits Medicare Medicaid Texas",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 135,
-    "crawled_at": "2026-05-12T12:47:20.027633878Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microsoft Clarity",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "nobroker.org",
-    "title": "Build Your Brand",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 135,
-    "crawled_at": "2026-05-12T07:04:56.490852128Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "calamba.org",
-    "title": "Welcome to PhilippineProperties.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 7219,
-    "crawled_at": "2026-05-12T05:58:11.140311585Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Neighborhoods",
-      "Prospective",
-      "QUIC",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
@@ -127,26 +165,6 @@
       "UTF-8",
       "YouTube",
       "Zeffy"
-    ]
-  },
-  {
-    "domain": "frogtravel.co.uk",
-    "title": "Crazy Frog Travel - Toad Travel | Holiday Quotes | Trips | Cruises | Coach Holidays",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 55,
-    "tech_spend": 7635,
-    "crawled_at": "2026-05-11T16:05:19.998821936Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Fireblade",
-      "Font Awesome",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "UTF-8"
     ]
   },
   {
@@ -2990,27 +3008,6 @@
       "Dynadot",
       "Font Awesome",
       "GZIP Module",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "chicagoriders.com",
-    "title": "An EMDN - Chicago Riders, Urban Transportation Commuters Bicycle Sharing Motorcycle Community Ride Sharing City Mobility Transit Network",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 135,
-    "crawled_at": "2026-02-04T20:10:48.883374259Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microsoft Clarity",
       "UTF-8"
     ]
   },
