@@ -1,5 +1,33 @@
 [
   {
+    "domain": "medwriter.ai",
+    "title": "The Best AI Medical Scribe | Medwriter",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 60839,
+    "crawled_at": "2026-05-13T15:17:19.96830224Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "AthenaHealth",
+      "Calendly",
+      "Content Delivery Network",
+      "Fireblade",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LinkedIn Pixel",
+      "Microdata for Google Shopping",
+      "Practice Fusion",
+      "Tailwind CSS",
+      "Vercel",
+      "YouTube",
+      "eClinicalWorks",
+      "intakeQ",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "spriggan.ai",
     "title": "Spriggan AI — AI agents for medical clinics",
     "business_name": "",
