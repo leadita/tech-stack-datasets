@@ -1,5 +1,142 @@
 [
   {
+    "domain": "dickeyvillerestoration.site",
+    "title": "Rebuilding Dickeyville Grotto & Shrines - Heritage Restoration and Design, Inc.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 5377,
+    "crawled_at": "2026-05-12T21:23:19.995638024Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "GZIP Module",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "Plausible Analytics",
+      "Publii",
+      "QUIC",
+      "Vector Internet Services",
+      "WhatsApp Sharing",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "sienatile.ca",
+    "title": "Siena Tile | Kitchen Backsplash Specialists — GTA Weekend & After-Hours Installation",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 217770,
+    "crawled_at": "2026-05-12T19:14:19.988014286Z",
+    "technologies": [
+      "AAPT",
+      "Apyl",
+      "Better Lead Generation Services",
+      "CCSI",
+      "DAV",
+      "DC74",
+      "FOSSA IO",
+      "Federal Deposit Insurance Corporation",
+      "Financial Services Guide",
+      "FormSubmit",
+      "Formspree",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "HHVM",
+      "HMDG",
+      "IPFS",
+      "Idaq",
+      "K2F",
+      "KVH",
+      "Line2",
+      "M247",
+      "Nationwide Mortgage Licensing System and Registry",
+      "No-Q",
+      "Onyx Internet",
+      "PHP",
+      "Paessler",
+      "Perl",
+      "Phew",
+      "Publii",
+      "QUIC",
+      "SMC",
+      "Silicon Valley Web Hosting",
+      "Subversion",
+      "Unix",
+      "Wix Media",
+      "Zope"
+    ]
+  },
+  {
+    "domain": "wyandotte.co.uk",
+    "title": "Wyandotte chickens. - Yorkshire Wyandottes",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 377,
+    "crawled_at": "2026-05-12T17:11:19.998977836Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Express",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Publii",
+      "Share Link",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "insource.it",
+    "title": "Insource IT",
+    "business_name": "INSOURCE IT",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 649,
+    "crawled_at": "2026-05-12T16:47:19.987497729Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "bucky.media",
+    "title": "Bucky",
+    "business_name": "Bucky",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 112,
+    "crawled_at": "2026-05-12T15:02:57.888959982Z",
+    "technologies": [
+      "Alternate Protocol",
+      "App Store",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Publii",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "gapsoiree.com",
     "title": "Soirée, a night of fabulous music",
     "business_name": "Soirée, a night of fabulous music",
@@ -4040,25 +4177,6 @@
     ]
   },
   {
-    "domain": "wyandotte.co.uk",
-    "title": "Wyandotte chickens. - Yorkshire Wyandottes",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 377,
-    "crawled_at": "2026-04-03T17:02:09.796155965Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Express",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Publii",
-      "Share Link",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
     "domain": "agnewdefense.com",
     "title": "Defense & Aerospace Engineering - Agnew Defense",
     "business_name": "",
@@ -5524,26 +5642,6 @@
       "Google Tag Manager",
       "Microdata for Google Shopping",
       "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "insource.it",
-    "title": "Insource IT",
-    "business_name": "INSOURCE IT",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 649,
-    "crawled_at": "2026-01-29T03:54:12.005394312Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Publii",
-      "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   },
@@ -8180,30 +8278,6 @@
       "WordPress Multisite",
       "WordPress Related Posts",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "bucky.media",
-    "title": "Bucky",
-    "business_name": "Bucky",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 112,
-    "crawled_at": "2025-11-25T08:27:19.431152053Z",
-    "technologies": [
-      "Alternate Protocol",
-      "App Store",
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Publii",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   }
 ]
