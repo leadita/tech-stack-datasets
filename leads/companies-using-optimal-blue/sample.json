@@ -1,5 +1,44 @@
 [
   {
+    "domain": "clemanshousingnetwork.com",
+    "title": "Home - Clemans Housing Network",
+    "business_name": "Clemans Housing Network",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 48218,
+    "crawled_at": "2026-05-13T18:23:19.970662494Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Bunny Fonts",
+      "Cloudflare",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Gravity",
+      "Gravity Forms",
+      "Microdata for Google Shopping",
+      "Nationwide Mortgage Licensing System and Registry",
+      "Optimal Blue",
+      "PHP",
+      "QUIC",
+      "ThemeFusion",
+      "TrustIndex",
+      "Twitter Ads",
+      "UTF-8",
+      "WP Engine",
+      "WhatsApp Sharing",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress PopUp",
+      "Yelp Badge",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "johnproffittloans.com",
     "title": "John Proffitt | Grace Home Lending, LLC",
     "business_name": "",
@@ -7650,33 +7689,6 @@
       "WordPress",
       "WordPress Multisite",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "uhfinancing.com",
-    "title": "United Home Financing LLC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 37187,
-    "crawled_at": "2025-11-26T02:18:19.472899959Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Bulma",
-      "CloudFront",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Matomo",
-      "Matomo Tag Manager",
-      "Nationwide Mortgage Licensing System and Registry",
-      "OpenResty",
-      "Optimal Blue",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]

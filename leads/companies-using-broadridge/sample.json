@@ -3343,45 +3343,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "istm-in.com",
-    "title": "Indian Smart systems",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 60,
-    "tech_spend": 102959,
-    "crawled_at": "2025-11-25T23:10:34.822921198Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Broadridge",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Elementor",
-      "ElementsKit Elementor",
-      "EmbedPress",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Gravity",
-      "Gravity Forms",
-      "Hello Elementor",
-      "Instagram Follow Button",
-      "MonsterInsights",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "Popup Maker for Wordpress",
-      "QUIC",
-      "Synchrony",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "jsDelivr"
-    ]
   }
 ]
