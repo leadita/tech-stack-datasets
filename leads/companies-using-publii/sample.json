@@ -1,5 +1,52 @@
 [
   {
+    "domain": "garagedooratl.com",
+    "title": "Gray Wolf Garage Door | Repair & Installation Atlanta, GA",
+    "business_name": "Garage Door ATL",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 1061,
+    "crawled_at": "2026-05-14T04:32:19.973367255Z",
+    "technologies": [
+      "Content Delivery Network",
+      "FormSubmit",
+      "Google Analytics",
+      "Google Customer Reviews",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Publii",
+      "QUIC",
+      "TrustIndex",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "Yelp Badge"
+    ]
+  },
+  {
+    "domain": "glastec.be",
+    "title": "Glastec - Glas voor labo, farmacie, verlichting, interieur, kachels",
+    "business_name": "Glastec",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 5503,
+    "crawled_at": "2026-05-13T14:23:20.005685382Z",
+    "technologies": [
+      "Font Awesome",
+      "Google My Business",
+      "Kitco",
+      "Lineicons",
+      "Microdata for Google Shopping",
+      "Pirsch",
+      "Publii",
+      "Tailwind CSS",
+      "Web3Forms",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "dickeyvillerestoration.site",
     "title": "Rebuilding Dickeyville Grotto & Shrines - Heritage Restoration and Design, Inc.",
     "business_name": "",
@@ -6021,26 +6068,6 @@
     ]
   },
   {
-    "domain": "garagedooratl.com",
-    "title": "Gray Wolf Garage Door of Atlanta | Repair",
-    "business_name": "Garage Door ATL",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 473,
-    "crawled_at": "2026-01-22T17:12:32.763268856Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "FormSubmit",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Publii",
-      "QUIC",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
     "domain": "taleofthreads.com",
     "title": "Tale of Threads",
     "business_name": "Tale of Threads",
@@ -8239,45 +8266,6 @@
       "Zbanx",
       "Znode",
       "Zope"
-    ]
-  },
-  {
-    "domain": "radioalovoce.com.br",
-    "title": "Rádio Alô Você – – A sua Webrádio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 20261,
-    "crawled_at": "2025-11-25T21:48:19.453248226Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Astra Theme",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "DAV",
-      "Elementor",
-      "EmbedPress",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Header, Footer and Blocks for Elementor",
-      "Instagram Follow Button",
-      "KVH",
-      "LiteSpeed",
-      "No-Q",
-      "PHP",
-      "Publii",
-      "SMC",
-      "Subversion",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "jQuery"
     ]
   }
 ]
