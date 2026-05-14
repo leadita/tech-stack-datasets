@@ -1,5 +1,19 @@
 [
   {
+    "domain": "gracenjane.qte.nu",
+    "title": "Grace and Jane",
+    "business_name": "",
+    "country": "SWE",
+    "seo_score": 35,
+    "tech_spend": 948,
+    "crawled_at": "2026-05-14T05:32:19.970949746Z",
+    "technologies": [
+      "Jane App",
+      "LiteSpeed",
+      "QUIC"
+    ]
+  },
+  {
     "domain": "quartzcounselling.ca",
     "title": "Home | Quartz Counselling",
     "business_name": "Quartz Counselling",
