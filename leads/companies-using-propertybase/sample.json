@@ -1,5 +1,29 @@
 [
   {
+    "domain": "wenglein.de",
+    "title": "WENGLEIN. Coaching & Capital",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 8815,
+    "crawled_at": "2026-05-14T00:32:19.988255085Z",
+    "technologies": [
+      "BoldLeads",
+      "Bulma",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Hugo",
+      "Netlify",
+      "PropertyBase",
+      "QUIC",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "saasgarage.com",
     "title": "Pre-Seed Angel Fund for SaaS Startups in Europe",
     "business_name": "SaaSgarage",
