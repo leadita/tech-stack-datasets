@@ -1,5 +1,37 @@
 [
   {
+    "domain": "maptown.com",
+    "title": "Welcome to Map Town, Canada's largest map store. Since 1989, we have been the premier destination for explorers, travelers, and professionals seeking high-quality maps, globes, atlases, and travel guides. With an inventory of over 85,000 maps and related products, we are your one-stop shop to find exactly what you need to navigate the globe, from local areas to international destinations",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 82,
+    "tech_spend": 38508,
+    "crawled_at": "2026-05-14T07:33:05.204072838Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudinary",
+      "Content Delivery Network",
+      "Daily Deals",
+      "Express",
+      "Fireblade",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Tag Manager",
+      "Gravity",
+      "Instagram Follow Button",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "Volusion Live Chat"
+    ]
+  },
+  {
     "domain": "profusionservices.org",
     "title": "Profusion Services",
     "business_name": "",
@@ -3619,38 +3651,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "maptown.com",
-    "title": "Welcome to Map Town, Canada's largest map store. Since 1989, we have been the premier destination for explorers, travelers, and professionals seeking high-quality maps, globes, atlases, and travel guides. With an inventory of over 85,000 maps and related products, we are your one-stop shop to find exactly what you need to navigate the globe, from local areas to international destinations",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 62,
-    "tech_spend": 38508,
-    "crawled_at": "2025-11-26T07:03:19.439817848Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudinary",
-      "Daily Deals",
-      "ElementUI",
-      "Express",
-      "Fireblade",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Tag Manager",
-      "Gravity",
-      "Instagram Follow Button",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "Volusion Live Chat"
     ]
   }
 ]
