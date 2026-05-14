@@ -606,43 +606,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "dtst.com",
-    "title": "Investor Relations :: Data Storage Corporation (DTST)",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 52890,
-    "crawled_at": "2025-11-26T05:09:19.451843084Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Apache",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Corporate Governance and Regulatory Compliance",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Investor Relations",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "QuoteMedia",
-      "Sajari",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
-    ]
   }
 ]
