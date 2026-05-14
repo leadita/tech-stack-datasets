@@ -2454,32 +2454,5 @@
       "monday.com",
       "tix"
     ]
-  },
-  {
-    "domain": "muhamedporic.dev",
-    "title": "Muhamed Porić - Welcome to my CV",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 12100,
-    "crawled_at": "2025-11-26T05:45:53.778668916Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "Figma",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "PHP",
-      "Perl",
-      "Todoist",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "YouTube",
-      "jsDelivr",
-      "monday.com"
-    ]
   }
 ]
