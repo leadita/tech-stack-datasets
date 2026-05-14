@@ -1,6 +1,6 @@
 # Companies Using Ada Support (Live Dataset 2026)
 
-This folder contains an active list of 171 companies using **Ada Support**. 
+This folder contains an active list of 172 companies using **Ada Support**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 171
+- **Total Leads:** 172
 - **Verified:** Yes
-- **Last Updated:** 2026-05-13 11:45 UTC
+- **Last Updated:** 2026-05-14 11:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **171+** companies using Ada Support.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **172+** companies using Ada Support.
 
 [**⚡ Unlock the Full Ada Support List with Contact Details**](https://leadita.com/leads/companies-using-ada-support)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-05-13 11:45 UTC*
+*Last updated: 2026-05-14 11:45 UTC*
 *Data source: Leadita Technographic Intelligence*
