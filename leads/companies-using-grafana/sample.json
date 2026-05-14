@@ -1,39 +1,37 @@
 [
   {
-    "domain": "aupros.com.br",
-    "title": "Huxx - Advanced Monitoring System",
-    "business_name": "",
-    "country": "",
-    "seo_score": 25,
-    "tech_spend": "",
-    "crawled_at": "2026-05-09T17:50:19.982482466Z",
-    "technologies": [
-      "GZIP Module",
-      "GitHub Hosting",
-      "Grafana",
-      "Nginx",
-      "UTF-8",
-      "Ubuntu"
-    ]
-  },
-  {
-    "domain": "rxweb.cwh.ie",
+    "domain": "iot.skh.fi",
     "title": "Grafana",
     "business_name": "",
     "country": "",
     "seo_score": 30,
-    "tech_spend": 3159,
-    "crawled_at": "2026-05-09T09:47:19.989879455Z",
+    "tech_spend": 1200,
+    "crawled_at": "2026-05-14T14:23:19.990666021Z",
     "technologies": [
-      "Apache",
       "Barchart",
       "Express",
       "GitHub Hosting",
       "Grafana",
-      "Paessler",
-      "UTF-8",
-      "Visx",
-      "Yandex Hosting"
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "wmate.fi",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 11200,
+    "crawled_at": "2026-05-13T23:02:19.999501985Z",
+    "technologies": [
+      "Barchart",
+      "Contento",
+      "Express",
+      "GitHub Hosting",
+      "Google My Business",
+      "Grafana",
+      "Nginx",
+      "UTF-8"
     ]
   },
   {
@@ -55,41 +53,6 @@
       "OpenSSL",
       "Red Hat Enterprise Linux",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "fabryczna.art",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 1200,
-    "crawled_at": "2026-04-29T16:06:19.875219284Z",
-    "technologies": [
-      "Barchart",
-      "Express",
-      "GitHub Hosting",
-      "Grafana",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "zabbixdash.com.br",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 11200,
-    "crawled_at": "2026-04-26T01:38:19.981827946Z",
-    "technologies": [
-      "Barchart",
-      "Contento",
-      "Express",
-      "GZIP Module",
-      "Grafana",
-      "Nginx",
-      "UTF-8",
-      "Ubuntu"
     ]
   },
   {
