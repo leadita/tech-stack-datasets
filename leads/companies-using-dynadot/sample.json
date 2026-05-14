@@ -1,12 +1,31 @@
 [
   {
-    "domain": "leo-lemon.com",
-    "title": "Online Courses for NDE, Inspection, and Quality Control",
+    "domain": "premiernotary.co",
+    "title": "Mobile Notary Services – Delivered to Your Location with Professionalism and Precision.",
     "business_name": "",
     "country": "",
-    "seo_score": 52,
+    "seo_score": 45,
     "tech_spend": 135,
-    "crawled_at": "2026-05-13T13:41:19.999922867Z",
+    "crawled_at": "2026-05-14T06:02:19.997074985Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Calendly",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "aiethicshq.com",
+    "title": "AIEthicsHQ.com",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 50,
+    "tech_spend": 135,
+    "crawled_at": "2026-05-14T04:26:19.987227753Z",
     "technologies": [
       "Amazon CloudFront",
       "CloudFront",
@@ -18,13 +37,13 @@
     ]
   },
   {
-    "domain": "statearena.com",
-    "title": "An EMDN - State Arena, Sports Venue National Stadium Event Arena Management Sports Facility",
+    "domain": "siai.ca",
+    "title": "An EMDN - Si Ai, Artificial Intelligence Smart Systems Machine Learning Cognitive Computing AI Solutions Data Analytics Automation Technology Canadian Tech Platform",
     "business_name": "",
     "country": "",
     "seo_score": 52,
     "tech_spend": 135,
-    "crawled_at": "2026-05-13T06:53:19.988090889Z",
+    "crawled_at": "2026-05-14T01:17:19.993517401Z",
     "technologies": [
       "Amazon CloudFront",
       "Apture Linking Platform",
@@ -40,13 +59,31 @@
     ]
   },
   {
-    "domain": "joysoftravel.org",
+    "domain": "laairport.net",
     "title": "Build Your Brand",
     "business_name": "",
     "country": "",
     "seo_score": 37,
     "tech_spend": 135,
-    "crawled_at": "2026-05-13T01:26:19.977484445Z",
+    "crawled_at": "2026-05-13T20:13:42.409917685Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "leo-lemon.com",
+    "title": "Online Courses for NDE, Inspection, and Quality Control",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 135,
+    "crawled_at": "2026-05-13T13:41:19.999922867Z",
     "technologies": [
       "Amazon CloudFront",
       "CloudFront",
@@ -2990,24 +3027,6 @@
       "Google Analytics",
       "Google Tag Manager",
       "Instagram Follow Button",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "premiernotary.co",
-    "title": "Mobile Notary Services – Delivered to Your Location with Professionalism and Precision.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 135,
-    "crawled_at": "2026-02-05T04:49:48.868884278Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Calendly",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
       "UTF-8"
     ]
   },
