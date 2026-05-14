@@ -1,5 +1,130 @@
 [
   {
+    "domain": "getclientchat.com",
+    "title": "Hello from Wire | Wire",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 4123,
+    "crawled_at": "2026-05-14T12:49:37.358889219Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "Cybot",
+      "Docusaurus",
+      "GZIP Module",
+      "Matomo",
+      "Perl",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "texastsarulebook.org",
+    "title": "Texas TSA Rulebook Introduction | Texas TSA Rulebook",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 2400,
+    "crawled_at": "2026-05-14T10:09:36.935689234Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Perl",
+      "To Top",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "ajayakhatri.com.np",
+    "title": "Ajaya Khatri | A personal website showcasing my projects",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 6740,
+    "crawled_at": "2026-05-14T05:32:19.990930963Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "DAV",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Google My Business",
+      "NFOrce Internet",
+      "Ntent",
+      "PWA",
+      "Perl",
+      "Python",
+      "RawGit",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "robindalmy.com",
+    "title": "Robin Dalmy",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 15768,
+    "crawled_at": "2026-05-14T02:29:19.969802287Z",
+    "technologies": [
+      "Astro",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fireblade",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Netlify",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "Visual Studio",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "leadboost.co",
+    "title": "LeadBoost - Turn Your API Docs Into a Growth Engine",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 948,
+    "crawled_at": "2026-05-14T01:08:19.986094602Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Docusaurus",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Netlify",
+      "Next.js",
+      "PWA",
+      "Pleroma",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "hueami.de",
     "title": "Hello from seclog | seclog",
     "business_name": "",
@@ -6409,30 +6534,6 @@
     ]
   },
   {
-    "domain": "clientwire.com",
-    "title": "Hello from Wire | Wire",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 66,
-    "crawled_at": "2026-04-18T05:35:20.010095153Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "Cybot",
-      "Docusaurus",
-      "GZIP Module",
-      "Matomo",
-      "Perl",
-      "Tailwind CSS"
-    ]
-  },
-  {
     "domain": "miltykh.com",
     "title": "Home | Ilia Miltykh, Researcher",
     "business_name": "",
@@ -6877,32 +6978,6 @@
       "QUIC",
       "Svelte",
       "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "robindalmy.com",
-    "title": "Robin Dalmy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 15768,
-    "crawled_at": "2026-04-15T01:23:09.746348509Z",
-    "technologies": [
-      "Astro",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fireblade",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Netlify",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "Visual Studio",
       "shadcn ui"
     ]
   },
@@ -8189,26 +8264,6 @@
       "Perl",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "apidocsaccelerator.com",
-    "title": "API Docs Accelerator - Turn Your API Docs Into a Growth Engine",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-04-08T05:14:20.001045005Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Docusaurus",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Netlify",
-      "Next.js",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   },
   {
@@ -12797,50 +12852,6 @@
       "Perl",
       "Python",
       "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "wings.dev",
-    "title": "A website-as-a-service for progressive organizations | Wings",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 2516,
-    "crawled_at": "2026-01-14T01:20:40.142432792Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Matomo",
-      "Matomo Tag Manager",
-      "Netlify",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "mutimetroo.com",
-    "title": "Self-Hosted Mesh Tunneling | Muti Metroo",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2628,
-    "crawled_at": "2026-01-14T00:28:43.441035571Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Perl",
-      "Plausible Analytics",
-      "QUIC",
-      "UTF-8"
     ]
   }
 ]
