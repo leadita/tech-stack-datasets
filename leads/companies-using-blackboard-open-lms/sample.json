@@ -1,5 +1,36 @@
 [
   {
+    "domain": "www.jgmac1106.me",
+    "title": "Greg McVerry",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 60,
+    "tech_spend": 10063,
+    "crawled_at": "2026-05-14T09:32:19.970384749Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "Blackboard Open LMS",
+      "CloudFront",
+      "DAV",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Hugo",
+      "License Buttons",
+      "Micro.blog",
+      "QUIC",
+      "Shockwave Flash Embed",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vello",
+      "WordPress",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "rfscloud.com",
     "title": "Outsourced Finance and Accounting Services | ROSE",
     "business_name": "",
@@ -1381,37 +1412,6 @@
       "Tailwind CSS",
       "Ubuntu",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "www.www.www.www.jgmac1106.me",
-    "title": "Greg McVerry",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 60,
-    "tech_spend": 10063,
-    "crawled_at": "2026-04-10T12:53:19.997700954Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "Blackboard Open LMS",
-      "CloudFront",
-      "DAV",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hugo",
-      "License Buttons",
-      "Micro.blog",
-      "QUIC",
-      "Shockwave Flash Embed",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vello",
-      "WordPress",
-      "YouTube",
-      "shadcn ui"
     ]
   },
   {
