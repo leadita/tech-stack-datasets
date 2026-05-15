@@ -1,5 +1,22 @@
 [
   {
+    "domain": "apacas.com",
+    "title": "APACAS is a community of customer support pros in the Asia Pacific region",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 708,
+    "crawled_at": "2026-05-15T08:56:19.98349202Z",
+    "technologies": [
+      "Campaign Monitor Widget",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "aicavo.com",
     "title": "AICavo - The Most Advanced AI & SaaS Tools Directory Platform - 9925+ Tools",
     "business_name": "",
