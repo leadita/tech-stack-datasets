@@ -1,5 +1,38 @@
 [
   {
+    "domain": "commerce.vc",
+    "title": "Frontpage - Commerce Ventures",
+    "business_name": "Commerce Ventures",
+    "country": "VEN",
+    "seo_score": 75,
+    "tech_spend": 162449,
+    "crawled_at": "2026-05-15T21:53:19.992972256Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Autoptimize",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Express",
+      "Forter",
+      "Google",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Narvar",
+      "Socure",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "epiphone.com",
     "title": "Epiphone Home – Gibson",
     "business_name": "Gibson",
@@ -1176,39 +1209,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "commerce.vc",
-    "title": "Frontpage - Commerce Ventures",
-    "business_name": "Commerce Ventures",
-    "country": "VEN",
-    "seo_score": 85,
-    "tech_spend": 162449,
-    "crawled_at": "2026-04-03T17:17:23.038562265Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Autoptimize",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Express",
-      "Forter",
-      "Google",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Narvar",
-      "Socure",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   },
   {
