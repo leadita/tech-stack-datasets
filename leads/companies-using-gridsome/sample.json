@@ -1,5 +1,122 @@
 [
   {
+    "domain": "garemaplacesurgery.com.au",
+    "title": "Garema Place Surgery",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 57,
+    "tech_spend": 122,
+    "crawled_at": "2026-05-15T21:56:19.999424332Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Cornerstone",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Netlify",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "lcl-ila.com",
+    "title": "Monument International - Monument International",
+    "business_name": "",
+    "country": "SGP",
+    "seo_score": 87,
+    "tech_spend": 3868,
+    "crawled_at": "2026-05-15T19:12:59.341898375Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Gridsome",
+      "Netlify",
+      "UTF-8",
+      "WordPress",
+      "eLand",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "nutrientcheck.com",
+    "title": "Nutrient Check - Nutrient Check",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 7043,
+    "crawled_at": "2026-05-15T15:20:19.968524647Z",
+    "technologies": [
+      "Bulma",
+      "Content Delivery Network",
+      "DAV",
+      "Fastly",
+      "Firebase",
+      "Font Awesome",
+      "Google",
+      "Google Cloud CDN",
+      "Gridsome",
+      "MailChimp",
+      "Postimage.org",
+      "QUIC",
+      "Subversion",
+      "UTF-8",
+      "Unsplash",
+      "WordPress"
+    ]
+  },
+  {
+    "domain": "phuket-lighting.com",
+    "title": "Lighting Design - Lighting Design by AVC Engineering",
+    "business_name": "",
+    "country": "THA",
+    "seo_score": 77,
+    "tech_spend": 25308,
+    "crawled_at": "2026-05-15T10:03:39.225426002Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Content Delivery Network",
+      "DAV",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gridsome",
+      "Idaq",
+      "KVH",
+      "Material-UI",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "openenrollmentutah.org",
+    "title": "EnrollUT | Find the Best Health Insurance in Utah - EnrollUT",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 15798,
+    "crawled_at": "2026-05-14T23:14:19.983316254Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "Financial Services Guide",
+      "Gridsome",
+      "No-Q",
+      "SMC",
+      "Sherpa",
+      "Subversion",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "theohiohottie.com",
     "title": "Team | TravelJoy",
     "business_name": "",
@@ -318,31 +435,6 @@
       "Twitter Ads",
       "Woo Themes",
       "WordPress"
-    ]
-  },
-  {
-    "domain": "nordben.com",
-    "title": "Monument International - Monument International",
-    "business_name": "",
-    "country": "SGP",
-    "seo_score": 77,
-    "tech_spend": 3868,
-    "crawled_at": "2026-05-13T23:35:19.998888031Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Gridsome",
-      "Netlify",
-      "UTF-8",
-      "WordPress",
-      "eLand",
-      "reCAPTCHA"
     ]
   },
   {
@@ -1123,26 +1215,6 @@
       "KVH",
       "Netlify",
       "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "utahenroll.org",
-    "title": "EnrollUT | Find the Best Health Insurance in Utah - EnrollUT",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 15798,
-    "crawled_at": "2026-05-10T05:11:19.991105448Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "Financial Services Guide",
-      "Gridsome",
-      "No-Q",
-      "SMC",
-      "Sherpa",
-      "Subversion",
       "UTF-8"
     ]
   },
@@ -7196,31 +7268,6 @@
     ]
   },
   {
-    "domain": "avcphuket.com",
-    "title": "Home Automation, MEP Engineering, Solar Power, Lighting Design - AVC Engineering Phuket",
-    "business_name": "",
-    "country": "THA",
-    "seo_score": 77,
-    "tech_spend": 25128,
-    "crawled_at": "2026-04-04T16:11:20.007421777Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Bulma",
-      "CloudFront",
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gridsome",
-      "Idaq",
-      "KVH",
-      "Netlify",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "jeffnhorner.com",
     "title": "Jeff Horner | Developer, Designer, & Creator",
     "business_name": "",
@@ -9010,33 +9057,6 @@
       "Tailwind CSS",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "nutrientcheck.com",
-    "title": "Nutrient Check - Nutrient Check",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 7043,
-    "crawled_at": "2026-02-20T10:42:02.454286212Z",
-    "technologies": [
-      "Bulma",
-      "Content Delivery Network",
-      "DAV",
-      "Fastly",
-      "Firebase",
-      "Font Awesome",
-      "Google",
-      "Google Cloud CDN",
-      "Gridsome",
-      "MailChimp",
-      "Postimage.org",
-      "QUIC",
-      "Subversion",
-      "UTF-8",
-      "Unsplash",
-      "WordPress"
     ]
   },
   {
@@ -11001,26 +11021,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "garemaplacesurgery.com.au",
-    "title": "Garema Place Surgery",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 57,
-    "tech_spend": 122,
-    "crawled_at": "2026-01-11T22:47:10.162438842Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Cornerstone",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Netlify",
-      "UTF-8",
       "shadcn ui"
     ]
   },
