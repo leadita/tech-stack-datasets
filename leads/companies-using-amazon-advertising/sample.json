@@ -1,5 +1,32 @@
 [
   {
+    "domain": "hcdmqt.com",
+    "title": "Hagerty Construction and Design: Premium Construction",
+    "business_name": "Hagerty Construction and Design LLC",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 126573,
+    "crawled_at": "2026-05-15T03:11:19.974819783Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon Advertising Sizmek Ad Suite",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "Vimeo",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "texacolubricants.com",
     "title": "Advanced lubricants and coolants for business | Texaco Lubricants (uk)",
     "business_name": "",
