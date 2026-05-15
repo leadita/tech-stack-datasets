@@ -1,5 +1,27 @@
 [
   {
+    "domain": "emeraldit.ca",
+    "title": "Emerald IT Consulting Inc. - Elite Technology Solutions",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 70,
+    "tech_spend": 64800,
+    "crawled_at": "2026-05-15T11:14:19.976312682Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "InitiativeS",
+      "Oracle Cloud",
+      "Ping Identity",
+      "Python",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "alaskaaviation.com",
     "title": "Baldwin Safety and Compliance | Your Safety & Quality Management System Partner",
     "business_name": "",
@@ -1312,28 +1334,6 @@
       "Thank You",
       "Unsplash",
       "Zyro"
-    ]
-  },
-  {
-    "domain": "emeraldit.ca",
-    "title": "Emerald IT Consulting Inc. - Elite Technology Solutions",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 70,
-    "tech_spend": 64800,
-    "crawled_at": "2026-02-05T15:10:48.865385407Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "InitiativeS",
-      "Oracle Cloud",
-      "Ping Identity",
-      "Python",
-      "UTF-8",
-      "University or College"
     ]
   },
   {
