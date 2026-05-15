@@ -1,5 +1,36 @@
 [
   {
+    "domain": "elitepminc.com",
+    "title": "Home | Elite Property Management Inc.",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 65,
+    "tech_spend": 40346,
+    "crawled_at": "2026-05-15T11:08:19.993489906Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Contact Form Plugin",
+      "Content Delivery Network",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "PHP",
+      "SiteGround Optimizer",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "Yardi Systems",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "thepropertygauge.online",
     "title": "Property Gauge - Powerful Property Management Analytics",
     "business_name": "Property Gauge",
@@ -835,37 +866,6 @@
       "Yardi Systems",
       "eLand",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "elitepminc.com",
-    "title": "Home | Elite Property Management Inc.",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 65,
-    "tech_spend": 40346,
-    "crawled_at": "2026-04-09T00:40:32.930746098Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "Divi",
-      "Elegant Themes",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "PHP",
-      "SiteGround Optimizer",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "Yardi Systems",
-      "eLand",
-      "jQuery"
     ]
   },
   {
