@@ -1,5 +1,48 @@
 [
   {
+    "domain": "cushingseismic.com",
+    "title": "Cushing Seismic — Real-Time Earthquake Detection for Energy Markets",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 44890,
+    "crawled_at": "2026-05-15T17:53:19.977729002Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Nginx",
+      "Seismic",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "porpoisedetector.org",
+    "title": "Porpoise Detector | Ocean Science Consulting Ltd | Marine Science",
+    "business_name": "",
+    "country": "NZL",
+    "seo_score": 67,
+    "tech_spend": 42440,
+    "crawled_at": "2026-05-14T23:32:19.980893737Z",
+    "technologies": [
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "QUIC",
+      "Seismic",
+      "Twitter Ads",
+      "WordPress",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "citi-seismic.com",
     "title": "Citi-Seismic | Helping property owners meet San Francisco’s Mandatory Soft Story Retrofit Ordinance requirements",
     "business_name": "Citi-Seismic",
