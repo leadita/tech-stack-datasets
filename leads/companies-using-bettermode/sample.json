@@ -1,5 +1,32 @@
 [
   {
+    "domain": "mydoglikesthat.com",
+    "title": "Home - My Dog Likes That",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 20856,
+    "crawled_at": "2026-05-15T15:44:19.988560131Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "BetterMode",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "ElementUI",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Imgix",
+      "PWA",
+      "QUIC",
+      "Tailwind CSS",
+      "Tribe.so",
+      "Twitter Ads",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "ahhniceradio.com",
     "title": "AHH NICE! Radio",
     "business_name": "",
@@ -1957,33 +1984,6 @@
       "QUIC",
       "Tailwind CSS",
       "Tribe.so",
-      "Vector Internet Services",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "mydoglikesthat.com",
-    "title": "Home - My Dog Likes That",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 20856,
-    "crawled_at": "2026-01-07T19:27:06.737378273Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "BetterMode",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "ElementUI",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Imgix",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "Tribe.so",
-      "Twitter Ads",
       "Vector Internet Services",
       "shadcn ui"
     ]
