@@ -1,5 +1,27 @@
 [
   {
+    "domain": "ajaywatpade.in",
+    "title": "Ajay Watpade - Portfolio",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 740,
+    "crawled_at": "2026-05-14T23:05:19.989994384Z",
+    "technologies": [
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "Todoist",
+      "UTF-8",
+      "Vercel",
+      "WhatsApp Sharing",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "invoiceradar.at",
     "title": "Invoice Radar - Automate your invoice collection",
     "business_name": "",
