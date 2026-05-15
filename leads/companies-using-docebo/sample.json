@@ -408,44 +408,5 @@
       "Wangsu",
       "Website Tonight"
     ]
-  },
-  {
-    "domain": "uprankd.com",
-    "title": "Premium SEO & Digital Growth Agency | Uprankd - Scalable Strategies for Mid & Large Companies",
-    "business_name": "",
-    "country": "LVA",
-    "seo_score": 77,
-    "tech_spend": 444548,
-    "crawled_at": "2025-11-27T16:34:39.297327978Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Better Lead Generation Services",
-      "Canny",
-      "Docebo",
-      "Dynamic Yield",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Highspot",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "KVH",
-      "Next.js",
-      "Nginx",
-      "Perl",
-      "Pleroma",
-      "QUIC",
-      "Qualtrics Site Intercept",
-      "Salesforce",
-      "Salesforce Experience Cloud",
-      "Salesforce Hosted",
-      "Shopify",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
   }
 ]

@@ -1,5 +1,48 @@
 [
   {
+    "domain": "acemsebastianos.cl",
+    "title": "Home | ACEMUSS",
+    "business_name": "",
+    "country": "CHL",
+    "seo_score": 60,
+    "tech_spend": 10500,
+    "crawled_at": "2026-05-14T19:26:19.994629365Z",
+    "technologies": [
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Moodle",
+      "NFOrce Internet",
+      "Nginx",
+      "PHP",
+      "Totara",
+      "UTF-8",
+      "Ubuntu",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "e-somatos.it",
+    "title": "Home | e-somatos",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 60,
+    "tech_spend": 10700,
+    "crawled_at": "2026-05-14T18:43:11.523570117Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "LMS Ace",
+      "Moodle",
+      "NFOrce Internet",
+      "PHP",
+      "Tailwind CSS",
+      "Totara",
+      "UTF-8",
+      "Ubuntu",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "openiwt.org",
     "title": "Home | OpenIWT",
     "business_name": "",
@@ -750,27 +793,6 @@
     ]
   },
   {
-    "domain": "acemsebastianos.cl",
-    "title": "Home | ACEMUSS",
-    "business_name": "",
-    "country": "CHL",
-    "seo_score": 55,
-    "tech_spend": 10500,
-    "crawled_at": "2026-02-03T22:01:48.890916703Z",
-    "technologies": [
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Moodle",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "Totara",
-      "UTF-8",
-      "Ubuntu",
-      "jsDelivr"
-    ]
-  },
-  {
     "domain": "mathpool.ru",
     "title": "Mathpool",
     "business_name": "",
@@ -1268,28 +1290,6 @@
       "PHP",
       "Totara",
       "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "e-somatos.it",
-    "title": "Home | e-somatos",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 60,
-    "tech_spend": 10700,
-    "crawled_at": "2025-11-26T20:40:12.873745455Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "LMS Ace",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "Tailwind CSS",
-      "Totara",
-      "UTF-8",
-      "Ubuntu",
       "jsDelivr"
     ]
   }
