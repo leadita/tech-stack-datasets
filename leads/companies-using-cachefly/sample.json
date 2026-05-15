@@ -1,5 +1,33 @@
 [
   {
+    "domain": "ljmevents.com",
+    "title": "LJM Events",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 13120,
+    "crawled_at": "2026-05-15T09:26:50.692366829Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CacheFly",
+      "CacheFly CDN",
+      "Cloudflare",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Google Cloud DNS",
+      "Google Font API",
+      "PHP",
+      "TUNE",
+      "Theme In WP",
+      "U-Design",
+      "UTF-8",
+      "WP PageNavi",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "momentchicago.com",
     "title": "Moment by Windsor | Chicago, IL Apartments",
     "business_name": "Moment",
@@ -2523,34 +2551,6 @@
       "Yahoo Image CDN",
       "Yahoo Web Analytics",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "ljmevents.com",
-    "title": "LJM Events",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 13159,
-    "crawled_at": "2025-11-27T16:06:46.366545346Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "CacheFly",
-      "CacheFly CDN",
-      "EmbedPress",
-      "Google Cloud DNS",
-      "Google Font API",
-      "PHP",
-      "Slider Revolution",
-      "TUNE",
-      "Theme In WP",
-      "U-Design",
-      "UTF-8",
-      "WP PageNavi",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
