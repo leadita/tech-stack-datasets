@@ -1,14 +1,13 @@
 [
   {
-    "domain": "benefitairship-pro.com",
+    "domain": "bascarepass.com",
     "title": "Benefit Airship Affordable Health & Wellness Plans Nationwide",
     "business_name": "Benefit Airship",
     "country": "",
     "seo_score": 67,
-    "tech_spend": 106864,
-    "crawled_at": "2026-05-14T00:59:19.989831663Z",
+    "tech_spend": 91864,
+    "crawled_at": "2026-05-15T17:53:19.98671863Z",
     "technologies": [
-      "AWS WAF Challenge",
       "Airship CRM",
       "Alternate Protocol",
       "Amazon CloudFront",
