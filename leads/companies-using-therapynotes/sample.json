@@ -1,5 +1,36 @@
 [
   {
+    "domain": "beautyofminds.com",
+    "title": "Beautiful Minds - Counseling Services for Individuals, Couples, and Families.",
+    "business_name": "Beautiful Minds",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 7798,
+    "crawled_at": "2026-05-16T07:14:19.979851212Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "DC74",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Max Mega Menu",
+      "Max Mega Menu Pro",
+      "Microdata for Google Shopping",
+      "PHP",
+      "StudioPress",
+      "The Post Grid",
+      "Theme In WP",
+      "TherapyNotes",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "curemb.com",
     "title": "Home - CureMB Medical Billing Service",
     "business_name": "CureMB Medical Billing Service",
@@ -5522,31 +5553,6 @@
       "UTF-8",
       "Unsplash",
       "eClinicalWorks"
-    ]
-  },
-  {
-    "domain": "loveyourmindtherapy.com",
-    "title": "Love Your Mind Therapy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 4236,
-    "crawled_at": "2025-11-28T14:36:46.365058199Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "InitiativeS",
-      "Line2",
-      "PWA",
-      "TherapyNotes",
-      "UTF-8",
-      "University or College",
-      "Wangsu",
-      "Website Tonight"
     ]
   }
 ]
