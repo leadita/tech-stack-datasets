@@ -1,5 +1,36 @@
 [
   {
+    "domain": "r21motorsports.com",
+    "title": "R21 Motorsports - Car Dealership in Canal Fulton, OH",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 2786,
+    "crawled_at": "2026-05-15T14:38:19.977161158Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CarGurus",
+      "Content Delivery Network",
+      "CoreUI",
+      "Edmunds",
+      "Font Awesome",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Headless UI",
+      "Netlify",
+      "Next.js",
+      "Pleroma",
+      "Radix UI",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "reCAPTCHA",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "platinuminsurance.com",
     "title": "Platinum Resources, Inc | Insurance Agency",
     "business_name": "",
