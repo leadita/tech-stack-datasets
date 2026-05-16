@@ -1,15 +1,16 @@
 [
   {
-    "domain": "iot.skh.fi",
+    "domain": "atmosphereproto.com",
     "title": "Grafana",
     "business_name": "",
     "country": "",
     "seo_score": 30,
-    "tech_spend": 1200,
-    "crawled_at": "2026-05-14T14:23:19.990666021Z",
+    "tech_spend": "",
+    "crawled_at": "2026-05-15T20:26:06.961688124Z",
     "technologies": [
-      "Barchart",
+      "Apache",
       "Express",
+      "GZIP Module",
       "GitHub Hosting",
       "Grafana",
       "UTF-8"
