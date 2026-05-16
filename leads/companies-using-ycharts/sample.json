@@ -1,5 +1,38 @@
 [
   {
+    "domain": "excel-dna.net",
+    "title": "Free and easy .NET for Excel | Excel-DNA",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 87,
+    "tech_spend": 109458,
+    "crawled_at": "2026-05-15T22:41:38.354073109Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Bench",
+      "CCSI",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "Financial Services Guide",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "KVH",
+      "No-Q",
+      "Perl",
+      "QUIC",
+      "SMC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Visual Studio",
+      "YCharts",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "henrylabs.com",
     "title": "henrylabs : information & relationships",
     "business_name": "",
@@ -914,39 +947,6 @@
       "comScore",
       "eLand",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "excel-dna.net",
-    "title": "Free and easy .NET for Excel | Excel-DNA",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 77,
-    "tech_spend": 109458,
-    "crawled_at": "2025-11-28T10:15:01.530580803Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Bench",
-      "CCSI",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "Financial Services Guide",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "KVH",
-      "No-Q",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Visual Studio",
-      "YCharts",
-      "YouTube"
     ]
   }
 ]
