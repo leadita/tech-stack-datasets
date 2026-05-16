@@ -1,12 +1,35 @@
 [
   {
-    "domain": "medical-supply.net",
+    "domain": "yenoy.com",
+    "title": "An EMDN - Yenoy, Brand Name Digital Identity Startup Name Tech Brand Online Platform",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 195,
+    "crawled_at": "2026-05-16T15:11:19.998883065Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "architecturalplan.ai",
     "title": "Build Your Brand",
     "business_name": "",
     "country": "",
     "seo_score": 37,
     "tech_spend": 135,
-    "crawled_at": "2026-05-15T13:44:20.022509792Z",
+    "crawled_at": "2026-05-16T13:14:19.999849001Z",
     "technologies": [
       "Amazon CloudFront",
       "CloudFront",
@@ -15,6 +38,134 @@
       "Font Awesome",
       "GZIP Module",
       "UTF-8"
+    ]
+  },
+  {
+    "domain": "muntinlupa.org",
+    "title": "Welcome to PhilippineProperties.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 7219,
+    "crawled_at": "2026-05-16T12:02:19.997788438Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Neighborhoods",
+      "Prospective",
+      "QUIC",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "omarcaloca.com",
+    "title": "COMPASS",
+    "business_name": "",
+    "country": "",
+    "seo_score": 20,
+    "tech_spend": 135,
+    "crawled_at": "2026-05-16T08:44:19.999563484Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "gemdeliveries.com",
+    "title": "GEM Deliveries",
+    "business_name": "",
+    "country": "",
+    "seo_score": 20,
+    "tech_spend": 36,
+    "crawled_at": "2026-05-16T04:53:19.986229844Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "mocs.com.ph",
+    "title": "MOCS",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 1335,
+    "crawled_at": "2026-05-16T04:47:20.006340706Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8",
+      "Vector Internet Services"
+    ]
+  },
+  {
+    "domain": "ericthawkins.com",
+    "title": "VFX | COMPOSITOR | ERIC T HAWKINS",
+    "business_name": "",
+    "country": "",
+    "seo_score": 32,
+    "tech_spend": 135,
+    "crawled_at": "2026-05-15T20:44:19.99314281Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "DAV",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8",
+      "Vimeo"
+    ]
+  },
+  {
+    "domain": "fun88.name",
+    "title": "Fun88 - Trang web cá cược trực tuyến hàng đầu châu Á",
+    "business_name": "",
+    "country": "THA",
+    "seo_score": 67,
+    "tech_spend": 11203,
+    "crawled_at": "2026-05-15T18:20:19.973221691Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "BLR",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Gambling Content",
+      "Google Calendar",
+      "Google Forms",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Scoop It",
+      "Telegram",
+      "Trello",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "about.me"
     ]
   },
   {
@@ -181,28 +332,6 @@
     ]
   },
   {
-    "domain": "siai.ca",
-    "title": "An EMDN - Si Ai, Artificial Intelligence Smart Systems Machine Learning Cognitive Computing AI Solutions Data Analytics Automation Technology Canadian Tech Platform",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 135,
-    "crawled_at": "2026-05-14T01:17:19.993517401Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microsoft Clarity",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "leo-lemon.com",
     "title": "Online Courses for NDE, Inspection, and Quality Control",
     "business_name": "",
@@ -238,28 +367,6 @@
       "GZIP Module",
       "Instagram Follow Button",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "philippineproperties.app",
-    "title": "Welcome to PhilippineProperties.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 7219,
-    "crawled_at": "2026-05-12T20:08:20.033568243Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Neighborhoods",
-      "Prospective",
-      "QUIC",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
