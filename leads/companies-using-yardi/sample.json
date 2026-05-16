@@ -1,5 +1,37 @@
 [
   {
+    "domain": "crett.org",
+    "title": "Real Estate Technology & Transformation Center",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 156200,
+    "crawled_at": "2026-05-16T09:17:20.001212561Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Airbnb",
+      "Amazon Widgets",
+      "AppFolio",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Hubspot Knowledge Base",
+      "LinkedIn Insights",
+      "LinkedIn Pixel",
+      "MRI Software",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "QUIC",
+      "RealPage",
+      "UTF-8",
+      "Yardi Systems",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "elitepminc.com",
     "title": "Home | Elite Property Management Inc.",
     "business_name": "",
@@ -1335,36 +1367,6 @@
       "Vercel",
       "Yardi Systems",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "crett.org",
-    "title": "Real Estate Technology & Transformation Center",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 156200,
-    "crawled_at": "2026-02-18T07:00:32.830904051Z",
-    "technologies": [
-      "AI Log",
-      "AWS WAF Challenge",
-      "Airbnb",
-      "Amazon Widgets",
-      "AppFolio",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hubspot Knowledge Base",
-      "MRI Software",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "RealPage",
-      "UTF-8",
-      "Yardi Systems",
-      "YouTube"
     ]
   },
   {
