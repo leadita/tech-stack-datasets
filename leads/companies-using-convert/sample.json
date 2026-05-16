@@ -4450,45 +4450,5 @@
       "Microsoft Clarity",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "spotandtango.com",
-    "title": "Healthy, Fresh Dog Food Delivery Service | Spot & Tango",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 27998,
-    "crawled_at": "2025-11-28T15:33:46.37067261Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Convert",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Gladly",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "Placehold IT",
-      "Swell Rewards",
-      "jQuery",
-      "jsDelivr"
-    ]
   }
 ]

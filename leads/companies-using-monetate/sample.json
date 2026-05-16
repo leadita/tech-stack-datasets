@@ -1,5 +1,39 @@
 [
   {
+    "domain": "asadventure.com",
+    "title": "Adventure is everywhere | A.S.Adventure",
+    "business_name": "A.S.Adventure",
+    "country": "BEL",
+    "seo_score": 77,
+    "tech_spend": 352450,
+    "crawled_at": "2026-05-16T03:51:17.378150015Z",
+    "technologies": [
+      "Adobe Analytics",
+      "Adobe Marketing Cloud",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "BloomReach",
+      "CloudFront",
+      "Content Delivery Network",
+      "Financial Services Guide",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Klarna",
+      "Klarna On Site Messaging",
+      "Microdata for Google Shopping",
+      "Monetate",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "thehipstore.co.uk",
     "title": "HIP | Curators of fascinating brands for the modern lifestyle",
     "business_name": "",
@@ -13456,40 +13490,6 @@
       "Tailwind CSS",
       "Visual Studio",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "asadventure.com",
-    "title": "Adventure is everywhere | A.S.Adventure",
-    "business_name": "A.S.Adventure",
-    "country": "NLD",
-    "seo_score": 77,
-    "tech_spend": 178950,
-    "crawled_at": "2025-11-28T16:48:46.365930083Z",
-    "technologies": [
-      "Adobe Marketing Cloud",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CloudFront",
-      "Content Delivery Network",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Klarna",
-      "Klarna On Site Messaging",
-      "Microdata for Google Shopping",
-      "Monetate",
-      "NFOrce Internet",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
