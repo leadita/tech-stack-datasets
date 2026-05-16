@@ -1,5 +1,223 @@
 [
   {
+    "domain": "achos.es",
+    "title": "Adult Content - @achosagency",
+    "business_name": "",
+    "country": "ESP",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-05-16T17:56:19.984406539Z",
+    "technologies": [
+      "Adult Content",
+      "Content Delivery Network",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "OnlyFans",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "cosmosgh.mx",
+    "title": "Home - Cosmos",
+    "business_name": "",
+    "country": "PHL",
+    "seo_score": 67,
+    "tech_spend": 147179,
+    "crawled_at": "2026-05-16T13:14:19.972523138Z",
+    "technologies": [
+      "AAPT",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CCSI",
+      "CloudFront",
+      "Content Delivery Network",
+      "DAV",
+      "Financial Services Guide",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gridsome",
+      "Idaq",
+      "K2F",
+      "KVH",
+      "Nationwide Mortgage Licensing System and Registry",
+      "No-Q",
+      "Paessler",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS",
+      "Visx"
+    ]
+  },
+  {
+    "domain": "urbndg.com.au",
+    "title": "URBN DG",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 65,
+    "tech_spend": 52016,
+    "crawled_at": "2026-05-16T11:11:19.997518584Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Content Delivery Network",
+      "Gridsome",
+      "Netlify",
+      "Netlify Forms",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "reCAPTCHA",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "clarus.page",
+    "title": "Clarus — Draft, polish, and publish effortlessly.",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 2908,
+    "crawled_at": "2026-05-16T05:17:19.990628455Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Hexo",
+      "Jekyll",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Plausible Analytics",
+      "Radix UI",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "apptbc.com",
+    "title": "Simplify your life - apptbc.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 3,
+    "crawled_at": "2026-05-16T04:34:03.290145275Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "surfacemagic.ie",
+    "title": "Ireland’s Leading Surface Repair Specialists - Surface Magic - Surface Magic",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 72728,
+    "crawled_at": "2026-05-16T04:26:19.970182204Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Financial Services Guide",
+      "Gridsome",
+      "Idaq",
+      "KVH",
+      "Netlify",
+      "PWA",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "tts-customs.com",
+    "title": "TTS Customs Douane Specialisten voor import en export documenten",
+    "business_name": "TTS-Customs.com",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 15000,
+    "crawled_at": "2026-05-16T04:11:19.97320642Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Google My Business",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "SMC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "facilitamanagement.com.au",
+    "title": "Facilitá Management",
+    "business_name": "",
+    "country": "SYC",
+    "seo_score": 65,
+    "tech_spend": 31936,
+    "crawled_at": "2026-05-16T03:07:59.620694312Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Fireblade",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Netlify",
+      "Netlify Forms",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vimeo",
+      "reCAPTCHA",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "ownbit.net",
+    "title": "Individuelle Websites und Webapps — OWNBIT Webagentur Schaffhausen",
+    "business_name": "",
+    "country": "CHE",
+    "seo_score": 72,
+    "tech_spend": 117830,
+    "crawled_at": "2026-05-16T02:02:19.980539048Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Federal Deposit Insurance Corporation",
+      "Gridsome",
+      "HMDG",
+      "Idaq",
+      "Instagram Follow Button",
+      "K2F",
+      "KVH",
+      "Nginx",
+      "No-Q",
+      "PHP",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "garemaplacesurgery.com.au",
     "title": "Garema Place Surgery",
     "business_name": "",
@@ -4377,28 +4595,6 @@
     ]
   },
   {
-    "domain": "urbndg.com.au",
-    "title": "URBN DG",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 65,
-    "tech_spend": 52016,
-    "crawled_at": "2026-04-23T02:45:53.778553219Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Content Delivery Network",
-      "Gridsome",
-      "Netlify",
-      "Netlify Forms",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "reCAPTCHA",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "madbit.co",
     "title": "Product Design Consultancy • MADBIT Co.",
     "business_name": "",
@@ -4919,26 +5115,6 @@
       "SMC",
       "Tailwind CSS",
       "Unix"
-    ]
-  },
-  {
-    "domain": "achosagency.com",
-    "title": "Adult Content - @achosagency",
-    "business_name": "",
-    "country": "ESP",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2026-04-20T07:38:02.618875082Z",
-    "technologies": [
-      "Adult Content",
-      "Content Delivery Network",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "OnlyFans",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   },
   {
@@ -6845,30 +7021,6 @@
       "Twitter Ads",
       "University or College",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "surfacemagic.ie",
-    "title": "Ireland’s Leading Surface Repair Specialists - Surface Magic - Surface Magic",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 72728,
-    "crawled_at": "2026-04-08T08:51:54.342132943Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "Gridsome",
-      "Idaq",
-      "KVH",
-      "Netlify",
-      "PWA",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress",
-      "eLand"
     ]
   },
   {
@@ -8844,25 +8996,6 @@
     ]
   },
   {
-    "domain": "tts-customs.com",
-    "title": "TTS Customs Douane Specialisten voor import en export documenten",
-    "business_name": "TTS-Customs.com",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-02-25T17:46:10.44625432Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Google My Business",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "transurgent.com",
     "title": "Spoedtransport & koerierdienst door heel Europa | Kleine zending tot FTL",
     "business_name": "Transurgent",
@@ -9447,41 +9580,6 @@
       "Google Font API",
       "Gridsome",
       "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "cosmosgh.mx",
-    "title": "Home - Cosmos",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 67,
-    "tech_spend": 147179,
-    "crawled_at": "2026-02-05T07:31:48.882105786Z",
-    "technologies": [
-      "AAPT",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CCSI",
-      "CloudFront",
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gridsome",
-      "Idaq",
-      "K2F",
-      "KVH",
-      "Nationwide Mortgage Licensing System and Registry",
-      "No-Q",
-      "Paessler",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "Visx"
     ]
   },
   {
@@ -11817,91 +11915,6 @@
       "Sanity",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "mangounit.com",
-    "title": "Homepage - mango unit",
-    "business_name": "",
-    "country": "ROU",
-    "seo_score": 67,
-    "tech_spend": 268,
-    "crawled_at": "2025-12-23T21:16:40.753209014Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "michaelheil.de",
-    "title": "Klavier & Keyboard - mit Michael Heil - Gridsome",
-    "business_name": "",
-    "country": "",
-    "seo_score": 25,
-    "tech_spend": 10144,
-    "crawled_at": "2025-12-23T09:16:01.995645408Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Financial Services Guide",
-      "Gridsome",
-      "K2F",
-      "KVH",
-      "Nginx",
-      "Parallels Plesk Panel"
-    ]
-  },
-  {
-    "domain": "zoldteruletkezeles-alfold.hu",
-    "title": "Zöldterület-kezelés - Gridsome",
-    "business_name": "",
-    "country": "HUN",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2025-12-22T19:13:38.311883389Z",
-    "technologies": [
-      "Bulma",
-      "Content Delivery Network",
-      "Google My Business",
-      "Gridsome",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "mkrafinance.com",
-    "title": "Homepage - MKRA Finance",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 77,
-    "tech_spend": 13130,
-    "crawled_at": "2025-12-22T17:16:10.918611604Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Content Delivery Network",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Gridsome",
-      "Trustpilot Reviews for WordPress",
-      "Vector Internet Services",
-      "Vimeo",
-      "Vimeo CDN"
     ]
   }
 ]
