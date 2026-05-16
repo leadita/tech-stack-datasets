@@ -1,5 +1,90 @@
 [
   {
+    "domain": "turnerhouse.in",
+    "title": "Turner House | LEED Platinum Grade A Office Spaces in Bandra West",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 22147,
+    "crawled_at": "2026-05-16T17:08:20.000044851Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "ElementUI",
+      "Express",
+      "Fancybox for WordPress",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "On The Map",
+      "Pabbly",
+      "Thank You",
+      "UTF-8",
+      "jQuery",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "awsper.com",
+    "title": "Awsper - Affordable and Secure Cloud Solutions",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 60,
+    "tech_spend": 207,
+    "crawled_at": "2026-05-16T06:15:18.939047434Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Netlify",
+      "PWA",
+      "Pabbly",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "ireviews.au",
+    "title": "Instant Reviews - The Growth Engine for Local Businesses",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 19478,
+    "crawled_at": "2026-05-15T22:59:20.014208417Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Alternate Protocol",
+      "Authorize.net",
+      "Better Lead Generation Services",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "DAV",
+      "Fireblade",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Customer Reviews",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "No-Q",
+      "Nuxt.js",
+      "Pabbly",
+      "Thank You",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "deftform.com",
     "title": "Powerful Form Builder and Online Form Creator | Deftform",
     "business_name": "",
@@ -1675,38 +1760,6 @@
       "WP-Members",
       "WordPress",
       "WordPress Multisite"
-    ]
-  },
-  {
-    "domain": "turnerhouse.in",
-    "title": "Turner House | LEED Platinum Grade A Office Spaces in Bandra West",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 22147,
-    "crawled_at": "2026-04-21T06:50:44.6736238Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "ElementUI",
-      "Express",
-      "Fancybox for WordPress",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "On The Map",
-      "Pabbly",
-      "Thank You",
-      "UTF-8",
-      "jQuery",
-      "jsDelivr",
-      "reCAPTCHA"
     ]
   },
   {
@@ -4220,39 +4273,6 @@
     ]
   },
   {
-    "domain": "ireviews.au",
-    "title": "Instant Reviews - The Growth Engine for Local Businesses",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 19478,
-    "crawled_at": "2026-02-22T02:32:08.312194636Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Alternate Protocol",
-      "Authorize.net",
-      "Better Lead Generation Services",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "DAV",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Customer Reviews",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "No-Q",
-      "Nuxt.js",
-      "Pabbly",
-      "Thank You",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "efflair.com",
     "title": "Myefflair",
     "business_name": "Myefflair",
@@ -6294,26 +6314,6 @@
       "WordPress Multisite",
       "Wysija",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "awsper.com",
-    "title": "Awsper - Affordable and Secure Cloud Solutions",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 60,
-    "tech_spend": 207,
-    "crawled_at": "2025-11-28T19:30:46.373529639Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Netlify",
-      "PWA",
-      "Pabbly",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
