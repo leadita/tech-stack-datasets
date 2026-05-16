@@ -1,5 +1,37 @@
 [
   {
+    "domain": "idealfulfillment.com",
+    "title": "Top 3PL California Company | Ideal Fulfillment",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 23774,
+    "crawled_at": "2026-05-16T11:00:52.041109015Z",
+    "technologies": [
+      "DAV",
+      "DHL Parcel",
+      "Extensiv",
+      "FedEx",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Parcel",
+      "QUIC",
+      "ShipStation",
+      "Shopify",
+      "Tailwind CSS",
+      "UPS",
+      "USPS",
+      "Volusion Live Chat",
+      "Walmart",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "yogatocalmthenoise.com",
     "title": "runtocalmthenoise",
     "business_name": "runtocalmthenoise",
@@ -1662,38 +1694,6 @@
       "hCaptcha",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "teamidealfulfillment.com",
-    "title": "Top 3PL California Company | Ideal Fulfillment",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 23774,
-    "crawled_at": "2026-04-08T12:44:19.999943252Z",
-    "technologies": [
-      "DAV",
-      "DHL Parcel",
-      "Extensiv",
-      "FedEx",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Parcel",
-      "QUIC",
-      "ShipStation",
-      "Shopify",
-      "Tailwind CSS",
-      "UPS",
-      "USPS",
-      "Volusion Live Chat",
-      "Walmart",
-      "YouTube"
     ]
   },
   {
@@ -3586,37 +3586,6 @@
       "hCaptcha",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "theecommforum.com",
-    "title": "Ecomm Forum | Oct 16 2025 | Register Here",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 82436,
-    "crawled_at": "2025-11-29T11:06:40.691615516Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Accertify",
-      "Channable",
-      "DAV",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "NFOrce Internet",
-      "Nginx",
-      "QUIC",
-      "ShipStation",
-      "ShipperHQ",
-      "Shopify",
-      "Shopware",
-      "SiteVibes",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]
