@@ -1,5 +1,30 @@
 [
   {
+    "domain": "therexreport.info",
+    "title": "HOA Sales Expert Program | HOA Expertise and Transparency",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 22848,
+    "crawled_at": "2026-05-17T15:59:19.979398688Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Hubspot Knowledge Base",
+      "QUIC",
+      "RM Education",
+      "RightSignature",
+      "Snitcher",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "rankr.ai",
     "title": "Rankr – GHL Zapier Connection Made Easy – Connect All of GHL to any App in Zapier",
     "business_name": "",
@@ -97,31 +122,6 @@
       "Website Tonight",
       "WordPress",
       "WordPress Multisite",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "therexreport.com",
-    "title": "HOA Sales Expert Program | HOA Expertise and Transparency",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 22848,
-    "crawled_at": "2026-05-05T22:50:20.007012499Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hubspot Knowledge Base",
-      "QUIC",
-      "RM Education",
-      "RightSignature",
-      "Snitcher",
-      "UTF-8",
       "jQuery"
     ]
   },

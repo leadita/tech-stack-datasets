@@ -1,5 +1,54 @@
 [
   {
+    "domain": "procashgroup.com",
+    "title": "Pro Cash Group — Merchant Cash Advance (MCA) Services in New York City",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 300,
+    "crawled_at": "2026-05-17T06:05:19.997801586Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DocuSign",
+      "GZIP Module",
+      "Next.js",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "smartplaninvesting.com",
+    "title": "SmartPlan Investing",
+    "business_name": "SmartPlan Investing",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 3550,
+    "crawled_at": "2026-05-16T22:50:09.069372537Z",
+    "technologies": [
+      "Apache",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DocuSign",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Investing",
+      "Joomla!",
+      "Microdata for Google Shopping",
+      "No-Q",
+      "RokNavMenu",
+      "Subversion",
+      "UTF-8",
+      "Vimeo",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "wiscocapital.com",
     "title": "Wisco Capital - Financial Solutions for Business Owners",
     "business_name": "",
@@ -11861,37 +11910,6 @@
       "WordPress Stats",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "smartplaninvesting.com",
-    "title": "SmartPlan Investing",
-    "business_name": "SmartPlan Investing",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 3550,
-    "crawled_at": "2025-11-29T18:15:43.370137197Z",
-    "technologies": [
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DocuSign",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Investing",
-      "Joomla!",
-      "Microdata for Google Shopping",
-      "No-Q",
-      "RokNavMenu",
-      "Subversion",
-      "UTF-8",
-      "Vimeo",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
