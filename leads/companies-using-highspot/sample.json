@@ -1848,27 +1848,5 @@
       "securiti",
       "symfony PHP Framework"
     ]
-  },
-  {
-    "domain": "cosmobio.com.ar",
-    "title": "CosmoBio - Avanzando siempre",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 72,
-    "tech_spend": 19200,
-    "crawled_at": "2025-11-29T23:25:31.960993621Z",
-    "technologies": [
-      "Apache",
-      "Bulma",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Highspot",
-      "Nginx",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "jQuery"
-    ]
   }
 ]
