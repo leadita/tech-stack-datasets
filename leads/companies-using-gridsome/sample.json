@@ -1,5 +1,110 @@
 [
   {
+    "domain": "luseeds.com",
+    "title": "Home - Luseeds",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 5000,
+    "crawled_at": "2026-05-17T22:44:29.349734418Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Financial Services Guide",
+      "GitHub Hosting",
+      "Gridsome",
+      "KVH",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "sportclubnutricion.com",
+    "title": "Sportclub Nutrición",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 168,
+    "crawled_at": "2026-05-17T21:06:09.933905911Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Subversion",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "private-aviation-catering.com",
+    "title": "Private Aviation Catering - Private Aviation Catering",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 62,
+    "tech_spend": 760,
+    "crawled_at": "2026-05-17T14:41:19.991806136Z",
+    "technologies": [
+      "Apache",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Gridsome"
+    ]
+  },
+  {
+    "domain": "royschreuder.com",
+    "title": "Roy Schreuder - Roy Schreuder",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 57,
+    "tech_spend": 103,
+    "crawled_at": "2026-05-17T11:53:29.685716779Z",
+    "technologies": [
+      "Bulma",
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "whiteforeststudio.com",
+    "title": "Aplikacje internetowe i strony WWW - White Forest Studio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 3,
+    "crawled_at": "2026-05-17T04:20:19.98274871Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Gridsome",
+      "Netlify",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "achos.es",
     "title": "Adult Content - @achosagency",
     "business_name": "",
@@ -4701,28 +4806,6 @@
     ]
   },
   {
-    "domain": "whiteforeststudio.com",
-    "title": "Aplikacje internetowe i strony WWW - White Forest Studio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 3,
-    "crawled_at": "2026-04-22T04:21:42.800616264Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Gridsome",
-      "Netlify",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "ibnabubakre.xyz",
     "title": "Abdulqudus Abubakre | Frontend Developer | ibn-abubakre.xyz",
     "business_name": "",
@@ -7181,24 +7264,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vimeo"
-    ]
-  },
-  {
-    "domain": "private-aviation-catering.com",
-    "title": "Private Aviation Catering - Private Aviation Catering",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 72,
-    "tech_spend": 760,
-    "crawled_at": "2026-04-06T01:57:42.370735569Z",
-    "technologies": [
-      "Apache",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Gridsome"
     ]
   },
   {
@@ -11853,67 +11918,6 @@
       "Twitter Ads",
       "UTF-8",
       "Vercel",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "krtk.dev",
-    "title": "krtk.dev",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 5500,
-    "crawled_at": "2025-12-24T18:52:38.352302185Z",
-    "technologies": [
-      "Astro",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Gridsome",
-      "InitiativeS",
-      "Medium",
-      "NFOrce Internet",
-      "Nginx",
-      "Python",
-      "QUIC",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "justfalafs.com.au",
-    "title": "Just Falafs",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2025-12-24T17:34:38.315376964Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Square",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "haukeblikkfilm.no",
-    "title": "Haukeblikk Film",
-    "business_name": "",
-    "country": "",
-    "seo_score": 32,
-    "tech_spend": "",
-    "crawled_at": "2025-12-23T22:08:56.477542517Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "Netlify",
-      "Sanity",
-      "UTF-8",
       "YouTube"
     ]
   }
