@@ -1,5 +1,33 @@
 [
   {
+    "domain": "snotherlyinsurance.com",
+    "title": "Snotherly Insurance in Raleigh, NC | Highstreet",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 65500,
+    "crawled_at": "2026-05-17T04:59:19.984982964Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Better Lead Generation Services",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Contentstack",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Lytics",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "wcdigit.org",
     "title": "wcdigit.org",
     "business_name": "",

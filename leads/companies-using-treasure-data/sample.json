@@ -1,14 +1,15 @@
 [
   {
-    "domain": "craftsmancanuckscontest.ca",
+    "domain": "craftsmanbuildspride.com",
     "title": "CRAFTSMAN® Home",
     "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
+    "country": "",
+    "seo_score": 62,
     "tech_spend": 167460,
-    "crawled_at": "2026-05-16T14:35:20.010156538Z",
+    "crawled_at": "2026-05-17T07:50:20.016759208Z",
     "technologies": [
       "501c3 Status Nonprofit",
+      "Agoda",
       "Alternate Protocol",
       "Bazaarvoice",
       "Bazaarvoice Curations",
@@ -23,10 +24,12 @@
       "OneTrust Domain Verification",
       "Pleroma",
       "QUIC",
+      "Tailwind CSS",
       "Treasure Data",
       "UTF-8",
       "Underscores",
       "Vercel",
+      "YouTube",
       "arsys.es",
       "shadcn ui"
     ]
