@@ -1,5 +1,33 @@
 [
   {
+    "domain": "wildfork.com",
+    "title": "Meat Online Store | Frozen Meat & Seafood Delivery | Wild Fork Foods",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 30698,
+    "crawled_at": "2026-05-16T11:14:19.981705371Z",
+    "technologies": [
+      "Azure Edge",
+      "CCSI",
+      "Content Delivery Network",
+      "DAV",
+      "Dynamic Yield",
+      "Financial Services Guide",
+      "Google My Business",
+      "Google Pay",
+      "Instagram Follow Button",
+      "K2F",
+      "Nationwide Mortgage Licensing System and Registry",
+      "Next.js",
+      "No-Q",
+      "Pleroma",
+      "QUIC",
+      "Subversion",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "deloitteussponsorshipgear.com",
     "title": "Deloitte Sponsorship",
     "business_name": "",
@@ -6713,34 +6741,6 @@
       "Thank You",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "wildfork.com",
-    "title": "Meat Online Store | Frozen Meat & Seafood Delivery | Wild Fork Foods",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 40698,
-    "crawled_at": "2025-12-12T14:58:56.033924865Z",
-    "technologies": [
-      "Azure Edge",
-      "CCSI",
-      "Content Delivery Network",
-      "DAV",
-      "Dynamic Yield",
-      "Financial Services Guide",
-      "Google My Business",
-      "Google Pay",
-      "Instagram Follow Button",
-      "K2F",
-      "Nationwide Mortgage Licensing System and Registry",
-      "Next.js",
-      "No-Q",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "The Fresh"
     ]
   },
   {
