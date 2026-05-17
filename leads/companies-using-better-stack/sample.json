@@ -1,12 +1,12 @@
 [
   {
-    "domain": "bookpersonalized.com",
+    "domain": "letterfist.com",
     "title": "Personalized Children's Books with AI | Booklydoo",
     "business_name": "Booklydoo",
     "country": "GBR",
     "seo_score": 77,
     "tech_spend": 54860,
-    "crawled_at": "2026-05-16T13:53:19.979613372Z",
+    "crawled_at": "2026-05-17T18:35:19.989391638Z",
     "technologies": [
       "AWS WAF Challenge",
       "Alternate Protocol",

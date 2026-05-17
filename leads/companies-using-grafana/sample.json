@@ -1,5 +1,22 @@
 [
   {
+    "domain": "sensetif.net",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 6200,
+    "crawled_at": "2026-05-16T20:53:19.977721715Z",
+    "technologies": [
+      "Barchart",
+      "Express",
+      "GitHub Hosting",
+      "Grafana",
+      "Salesforce Hosted",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "atmosphereproto.com",
     "title": "Grafana",
     "business_name": "",

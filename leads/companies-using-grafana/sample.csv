@@ -1,4 +1,5 @@
 domain,title,business_name,country,seo_score,tech_spend,crawled_at,technologies
+sensetif.net,Grafana,,,30,6200,2026-05-16T20:53:19.977721715Z,"['Barchart', 'Express', 'GitHub Hosting', 'Grafana', 'Salesforce Hosted', 'UTF-8']"
 atmosphereproto.com,Grafana,,,30,,2026-05-15T20:26:06.961688124Z,"['Apache', 'Express', 'GZIP Module', 'GitHub Hosting', 'Grafana', 'UTF-8']"
 wmate.fi,Grafana,,,30,11200,2026-05-13T23:02:19.999501985Z,"['Barchart', 'Contento', 'Express', 'GitHub Hosting', 'Google My Business', 'Grafana', 'Nginx', 'UTF-8']"
 grafana.rc0.at,Grafana,,,40,17549,2026-05-08T22:44:20.003239783Z,"['Apache', 'Barchart', 'Contento', 'Express', 'GitHub Hosting', 'Grafana', 'On The Map', 'OpenSSL', 'Red Hat Enterprise Linux', 'UTF-8']"
