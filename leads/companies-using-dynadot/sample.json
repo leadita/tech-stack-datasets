@@ -1,14 +1,34 @@
 [
   {
-    "domain": "yenoy.com",
-    "title": "An EMDN - Yenoy, Brand Name Digital Identity Startup Name Tech Brand Online Platform",
+    "domain": "kmaudiolabs.com",
+    "title": "KM Audio Labs",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 219,
+    "crawled_at": "2026-05-17T12:26:19.971486991Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google My Business",
+      "Instagram Follow Button",
+      "UTF-8",
+      "Unsplash"
+    ]
+  },
+  {
+    "domain": "paymenttraffic.com",
+    "title": "An EMDN - Payment Traffic, Transaction Volume Payment Flow Financial Analytics Revenue Monitoring Cash Flow Management E-Commerce Transactions Digital Payment Insights Payment Trends",
     "business_name": "",
     "country": "",
     "seo_score": 52,
-    "tech_spend": 195,
-    "crawled_at": "2026-05-16T15:11:19.998883065Z",
+    "tech_spend": 135,
+    "crawled_at": "2026-05-17T09:20:19.984395537Z",
     "technologies": [
-      "Amazon",
       "Amazon CloudFront",
       "Apture Linking Platform",
       "CloudFront",
@@ -23,13 +43,114 @@
     ]
   },
   {
-    "domain": "architecturalplan.ai",
+    "domain": "publishware.com",
+    "title": "This website or DOMAIN NAME may be for sale.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 76599,
+    "crawled_at": "2026-05-17T09:02:19.972973933Z",
+    "technologies": [
+      "Camp",
+      "Cart.com",
+      "Dynadot",
+      "ElementUI",
+      "Fast",
+      "Font Awesome",
+      "GZIP Module",
+      "Google My Business",
+      "PointDNS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "contnowtax.com",
+    "title": "Contnow Bookkeeping Services",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 983,
+    "crawled_at": "2026-05-17T07:38:19.97029811Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "NFOrce Internet",
+      "QUIC",
+      "Tidio",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "sbotop.bid",
+    "title": "Sbotop - Nền tảng cá cược thể thao hàng đầu châu Á",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 10219,
+    "crawled_at": "2026-05-17T03:35:20.00202537Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "BLR",
+      "CloudFront",
+      "DAV",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Gambling Content",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "sapantrading.com",
+    "title": "Sapan Company for General Trading and Food Products",
+    "business_name": "",
+    "country": "IRQ",
+    "seo_score": 57,
+    "tech_spend": 135,
+    "crawled_at": "2026-05-16T17:35:20.022863523Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "sextamin.com",
     "title": "Build Your Brand",
     "business_name": "",
     "country": "",
     "seo_score": 37,
     "tech_spend": 135,
-    "crawled_at": "2026-05-16T13:14:19.999849001Z",
+    "crawled_at": "2026-05-16T16:59:19.998620704Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "backstrap.com",
+    "title": "backstrap@backstrap.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 25,
+    "tech_spend": 135,
+    "crawled_at": "2026-05-16T16:38:20.004311387Z",
     "technologies": [
       "Amazon CloudFront",
       "CloudFront",
@@ -620,27 +741,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "webamerica.org",
-    "title": "This website or DOMAIN NAME may be for sale.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 76599,
-    "crawled_at": "2026-05-08T07:56:19.989291084Z",
-    "technologies": [
-      "Camp",
-      "Cart.com",
-      "Dynadot",
-      "ElementUI",
-      "Fast",
-      "Font Awesome",
-      "GZIP Module",
-      "Google My Business",
-      "PointDNS",
-      "UTF-8"
     ]
   },
   {
@@ -4656,26 +4756,6 @@
       "Google Tag Manager",
       "Instagram Follow Button",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "kmaudiolabs.com",
-    "title": "KM Audio Labs",
-    "business_name": "",
-    "country": "",
-    "seo_score": 20,
-    "tech_spend": 219,
-    "crawled_at": "2025-12-10T10:31:56.021686039Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Google My Business",
-      "Instagram Follow Button",
-      "UTF-8",
-      "Unsplash"
     ]
   },
   {
