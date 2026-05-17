@@ -1,5 +1,28 @@
 [
   {
+    "domain": "corevassist.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 21232,
+    "crawled_at": "2026-05-16T13:22:22.754053452Z",
+    "technologies": [
+      "Calendly",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "Google My Business",
+      "Hubspot Knowledge Base",
+      "Instagram Follow Button",
+      "QUIC",
+      "RM Education",
+      "UTF-8",
+      "Zoho Books"
+    ]
+  },
+  {
     "domain": "metroambulance.co.nz",
     "title": "Metro Ambulance Ltd | Ambulance Patient Transport Service",
     "business_name": "",
@@ -2031,29 +2054,6 @@
       "SMC",
       "Tailwind CSS",
       "Thank You",
-      "UTF-8",
-      "Zoho Books"
-    ]
-  },
-  {
-    "domain": "corevassist.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 21232,
-    "crawled_at": "2025-11-29T05:06:53.004669728Z",
-    "technologies": [
-      "Calendly",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "Google My Business",
-      "Hubspot Knowledge Base",
-      "Instagram Follow Button",
-      "QUIC",
-      "RM Education",
       "UTF-8",
       "Zoho Books"
     ]
