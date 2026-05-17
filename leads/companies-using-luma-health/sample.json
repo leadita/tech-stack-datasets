@@ -1,5 +1,33 @@
 [
   {
+    "domain": "tdorthopedics.com",
+    "title": "Taylor Dunphy, MD",
+    "business_name": "Taylor Dunphy, MD",
+    "country": "GBR",
+    "seo_score": 87,
+    "tech_spend": 53032,
+    "crawled_at": "2026-05-17T10:13:20.83515034Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Contento",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Harbor",
+      "Line2",
+      "Luma Health",
+      "Microdata for Google Shopping",
+      "PWA",
+      "QUIC",
+      "UTF-8",
+      "University or College",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "gsplasticsurgery.com",
     "title": "Plastic Surgery | Cosmetics | Golden State Plastic Surgery",
     "business_name": "Golden State Plastic Surgery",
@@ -797,34 +825,6 @@
       "Tailwind CSS",
       "WF Cookie Consent",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "tdorthopedics.com",
-    "title": "Taylor Dunphy, MD",
-    "business_name": "Taylor Dunphy, MD",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 53032,
-    "crawled_at": "2025-11-30T09:06:46.366841453Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Contento",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Harbor",
-      "Line2",
-      "Luma Health",
-      "Microdata for Google Shopping",
-      "PWA",
-      "QUIC",
-      "UTF-8",
-      "University or College",
-      "Wangsu",
-      "Website Tonight"
     ]
   }
 ]
