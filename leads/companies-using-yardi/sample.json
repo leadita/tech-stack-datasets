@@ -1,5 +1,59 @@
 [
   {
+    "domain": "1-to-many.eu",
+    "title": "Yardi Consulting & Real Estate Implementation | 1-to-Many",
+    "business_name": "",
+    "country": "CZE",
+    "seo_score": 82,
+    "tech_spend": 42440,
+    "crawled_at": "2026-05-18T14:53:19.991084511Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "CookieConsent",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Twitter Ads",
+      "UTF-8",
+      "Yardi Systems",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "taramobilecreches.org",
+    "title": "TARA MOBILE CRECHES PUNE",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 70,
+    "tech_spend": 45608,
+    "crawled_at": "2026-05-18T04:26:16.609923356Z",
+    "technologies": [
+      "AutoComplete",
+      "HostGator",
+      "IcoMoon",
+      "InitiativeS",
+      "Microsoft Azure",
+      "NFOrce Internet",
+      "Parallels Plesk Panel",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Visual Studio",
+      "Yardi Systems",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "crett.org",
     "title": "Real Estate Technology & Transformation Center",
     "business_name": "",
@@ -989,35 +1043,6 @@
     ]
   },
   {
-    "domain": "1-to-many.cz",
-    "title": "Yardi Consulting & Real Estate Implementation | 1-to-Many",
-    "business_name": "",
-    "country": "CZE",
-    "seo_score": 92,
-    "tech_spend": 42440,
-    "crawled_at": "2026-03-25T06:56:33.3010058Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "CookieConsent",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Twitter Ads",
-      "UTF-8",
-      "Yardi Systems",
-      "jsDelivr"
-    ]
-  },
-  {
     "domain": "datacentreleaders.com",
     "title": "Data Centre Leaders Summit | 17-18 March 2026",
     "business_name": "",
@@ -1646,31 +1671,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "Yardi Systems",
       "eLand",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "taramobilecreches.org",
-    "title": "TARA MOBILE CRECHES PUNE",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 65,
-    "tech_spend": 45608,
-    "crawled_at": "2025-12-01T08:39:00.160691549Z",
-    "technologies": [
-      "AutoComplete",
-      "HostGator",
-      "IcoMoon",
-      "InitiativeS",
-      "Microsoft Azure",
-      "NFOrce Internet",
-      "Parallels Plesk Panel",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Visual Studio",
-      "Yardi Systems",
       "jQuery"
     ]
   }
