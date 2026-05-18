@@ -1,5 +1,31 @@
 [
   {
+    "domain": "miataroadster.com",
+    "title": "MiataRoadster",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 15475,
+    "crawled_at": "2026-05-17T12:07:59.335407317Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GoDaddy",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "PWA",
+      "Roadster",
+      "Shifter",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "vishaltaxiservices.com",
     "title": "VTS | Premium Car Rentals & Chauffeur Services in India",
     "business_name": "",
@@ -976,32 +1002,6 @@
       "Thank You",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "miataroadster.com",
-    "title": "MiataRoadster",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 15475,
-    "crawled_at": "2025-11-30T11:45:46.375526996Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GoDaddy",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "PWA",
-      "Roadster",
-      "Shifter",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
     ]
   }
 ]
