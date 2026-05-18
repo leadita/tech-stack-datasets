@@ -1,5 +1,35 @@
 [
   {
+    "domain": "jobjapan.app",
+    "title": "Job4Foreigner - Jobs in Japan with Visa Sponsorship",
+    "business_name": "Job4Foreigner",
+    "country": "JPN",
+    "seo_score": 77,
+    "tech_spend": 99952,
+    "crawled_at": "2026-05-18T12:05:19.992372956Z",
+    "technologies": [
+      "AI Log",
+      "Content Delivery Network",
+      "Freshteam",
+      "Google My Business",
+      "Greenhouse",
+      "Lever",
+      "Ma Jin Geniee MA",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "OSS CDN",
+      "Python",
+      "Sitelinks Search Box",
+      "Svelte",
+      "Tenso",
+      "Treasure Data",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "Workable"
+    ]
+  },
+  {
     "domain": "craftsmanbuildspride.com",
     "title": "CRAFTSMAN® Home",
     "business_name": "",
