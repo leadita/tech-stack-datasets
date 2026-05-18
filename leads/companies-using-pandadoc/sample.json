@@ -1,5 +1,34 @@
 [
   {
+    "domain": "tylergraceauctions.com",
+    "title": "Grace Auction - Tyler Grace Auctions | Your Premier Tyler Auction House",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 19428,
+    "crawled_at": "2026-05-17T23:09:14.189077256Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Express",
+      "GoDaddy",
+      "Google",
+      "Google Adsense",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Reseller",
+      "PWA",
+      "PandaDoc",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "magnify-co.com",
     "title": "Modern Mystery Shoppers | Magnify",
     "business_name": "",
@@ -2749,66 +2778,6 @@
       "Tailwind CSS",
       "Ubuntu",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "otovo.ai",
-    "title": "Otovo USA - Complete Power Service for Your Solar, Battery, Generator & EV Charger",
-    "business_name": "Otovo",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 36388,
-    "crawled_at": "2025-12-01T08:59:33.869113834Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "ElementUI",
-      "Fireblade",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "PandaDoc",
-      "Stripe",
-      "Tailwind CSS",
-      "Twilio",
-      "Twitter Ads",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "tylergraceauctions.com",
-    "title": "Grace Auction - Tyler Grace Auctions | Your Premier Tyler Auction House",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 19428,
-    "crawled_at": "2025-12-01T02:03:46.383127599Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GoDaddy",
-      "Google",
-      "Google Adsense",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Reseller",
-      "PWA",
-      "PandaDoc",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
     ]
   }
 ]
