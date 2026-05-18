@@ -1,5 +1,28 @@
 [
   {
+    "domain": "miadowicz.com",
+    "title": "Łukasz Miądowicz - AI, Growth & Platform PM",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 4448,
+    "crawled_at": "2026-05-18T02:02:19.996203379Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ButterCMS",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Digital Ocean Spaces",
+      "GZIP Module",
+      "Heroku",
+      "License Buttons",
+      "Microdata for Google Shopping",
+      "OpenAI",
+      "Pico CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "learningtree.co.uk",
     "title": "IT Training Courses and Certifications | Learning Tree",
     "business_name": "Learning Tree International, Inc.",
