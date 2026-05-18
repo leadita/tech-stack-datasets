@@ -1,5 +1,35 @@
 [
   {
+    "domain": "trendcentralblog.co.uk",
+    "title": "Trend Central Blog: Latest UK Fashion, Tech & Lifestyle Updates",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 153152,
+    "crawled_at": "2026-05-18T05:53:19.969241944Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon WAF Blocked",
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Django",
+      "Fireblade",
+      "Gambling Content",
+      "IcoMoon",
+      "Matomo",
+      "Matomo Tag Manager",
+      "QUIC",
+      "Research.net",
+      "Salesforce Experience Cloud",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "americanwizardjanitorial.net",
     "title": "American Wizard Janitorial | Home",
     "business_name": "",
@@ -21,29 +51,6 @@
       "Perl",
       "QUIC",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "889992824.xyz",
-    "title": "Tech Insights Blog: Latest Trends in AI, Web Development & Digital Innovation",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 407,
-    "crawled_at": "2026-05-17T09:44:19.973229782Z",
-    "technologies": [
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Django",
-      "IcoMoon",
-      "Matomo",
-      "Matomo Tag Manager",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   },
   {
