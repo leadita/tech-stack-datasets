@@ -1,5 +1,317 @@
 [
   {
+    "domain": "igawadds.com",
+    "title": "Chris Igawa D.D.S., Inc.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-05-18T14:04:57.724547088Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "GZIP Module",
+      "Google My Business",
+      "Subversion",
+      "University or College",
+      "Yelp Badge"
+    ]
+  },
+  {
+    "domain": "thiruvengadesh.in",
+    "title": "Thiruvengadesh Gopal – DevOps & SRE Leader",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 66,
+    "crawled_at": "2026-05-18T11:35:20.010658531Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Apache",
+      "Apache Tomcat JK",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "InitiativeS",
+      "Nginx",
+      "Python",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "nrhqqms.com",
+    "title": "NRHQ QMS- Housing Management",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 607,
+    "crawled_at": "2026-05-18T09:22:11.861094961Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "neelkamalnidhi.in",
+    "title": "RULER NEELKAMAL MICRO CARE FOUNDATION | MICRO CARE FOUNDATION",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 50,
+    "tech_spend": "",
+    "crawled_at": "2026-05-18T01:02:19.99480821Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "QUIC",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "frienddobsonlaw.ca",
+    "title": "Friend & Dobson Law",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 65,
+    "tech_spend": 2067,
+    "crawled_at": "2026-05-18T00:38:19.974326431Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "DAV",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "InitiativeS",
+      "NFOrce Internet",
+      "Parcel",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "asidearchitects.ca",
+    "title": "Aside Architects - An architectural practice in Peterborough, Ontario",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 50,
+    "tech_spend": 63,
+    "crawled_at": "2026-05-18T00:38:19.971231781Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "fluidfilmmobileundercoating.ca",
+    "title": "JB Mobile Undercoating",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 16435,
+    "crawled_at": "2026-05-18T00:35:19.991025316Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Fireblade",
+      "Font Awesome",
+      "FormSubmit",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "kawarthacollaborative.com",
+    "title": "Kawartha Collaborative Practice - Lawyers and Financial Professionals offering an alternative to family court in Lindsay, Peterborough, and surrounding area.",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 70,
+    "tech_spend": 40,
+    "crawled_at": "2026-05-18T00:35:19.989173838Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Column Shortcodes",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Subversion",
+      "UTF-8",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "shieldstoragecentres.com",
+    "title": "Shield Storage Centres in Kawartha Lakes - 3 Locations, 1 Great Self-Storage Experience",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 65,
+    "tech_spend": 927,
+    "crawled_at": "2026-05-18T00:32:20.006004976Z",
+    "technologies": [
+      "Amazon S3 CDN",
+      "Apache",
+      "Apache Tomcat JK",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Storyblocks",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "ontrackhydrovac.com",
+    "title": "OnTrack Hydrovac Services Inc. | Kawartha Lakes, ON",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 139,
+    "crawled_at": "2026-05-18T00:32:20.003416017Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Maps",
+      "Google Tag Manager",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "youngsconstruction.ca",
+    "title": "Young's Construction and Landscaping - Welcome",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 508,
+    "crawled_at": "2026-05-18T00:32:19.985566344Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Apache",
+      "Apache Tomcat JK",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Gumby",
+      "IcoMoon",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "kateandkevin.ca",
+    "title": "Kate & Kevin - Kawartha Lakes Real Estate Team | Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 508,
+    "crawled_at": "2026-05-17T23:47:19.997725159Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Easy Pie Chart",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Materialize CSS",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "veracityltd.ca",
+    "title": "Veracity Ltd - Design Build Consultant in Lindsay Ontario and Kawartha Lakes",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 50,
+    "tech_spend": 3,
+    "crawled_at": "2026-05-17T23:44:19.991988228Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "weedlesslawns.ca",
+    "title": "Weedless Lawns - Residential, Golf, Specialty Turf in Lindsay and the City of Kawarha Lakes",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 3007,
+    "crawled_at": "2026-05-17T23:44:19.988799826Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Fastly",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "yozons.com",
     "title": "E-Signatures in the U.S.A. | Yozons eSignForms - Web-based Electronic Signature Software online contracts and workflow using digital signature software from Yozons",
     "business_name": "",
@@ -1740,29 +2052,6 @@
       "Google Cloud DNS",
       "Google Font API",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "villagestorage.ca",
-    "title": "Shield Storage Centres in Kawartha Lakes - 3 Locations, 1 Great Self-Storage Experience",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 60,
-    "tech_spend": 495,
-    "crawled_at": "2026-05-06T12:00:57.071088583Z",
-    "technologies": [
-      "Amazon S3 CDN",
-      "Apache",
-      "Apache Tomcat JK",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Storyblocks",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress",
-      "jQuery"
     ]
   },
   {
@@ -4475,29 +4764,6 @@
     ]
   },
   {
-    "domain": "weedlesslawns.ca",
-    "title": "Weedless Lawns - Residential, Golf, Specialty Turf in Lindsay and the City of Kawarha Lakes",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 3007,
-    "crawled_at": "2026-04-19T00:38:32.005953263Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Fastly",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "vhmc.ca",
     "title": "Van Halteren's Music Centre - Lindsay, Ontario",
     "business_name": "",
@@ -4517,51 +4783,6 @@
       "Google Tag Manager",
       "IcoMoon",
       "Shopify",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "kawarthacollaborative.com",
-    "title": "Kawartha Collaborative Practice - Lawyers and Financial Professionals offering an alternative to family court in Lindsay, Peterborough, and surrounding area.",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 70,
-    "tech_spend": 40,
-    "crawled_at": "2026-04-19T00:38:31.999875141Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Column Shortcodes",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Subversion",
-      "UTF-8",
-      "YouTube",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "kateandkevin.ca",
-    "title": "Kate & Kevin - Kawartha Lakes Real Estate Team | Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 508,
-    "crawled_at": "2026-04-19T00:38:31.999400646Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Easy Pie Chart",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Materialize CSS",
       "Tailwind CSS",
       "UTF-8",
       "jQuery"
@@ -5059,56 +5280,6 @@
       "Subversion",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "frienddobsonlaw.ca",
-    "title": "Friend & Dobson Law",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 65,
-    "tech_spend": 2067,
-    "crawled_at": "2026-04-16T12:24:15.037798592Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "DAV",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "InitiativeS",
-      "NFOrce Internet",
-      "Parcel",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "jQuery",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "ontrackhydrovac.com",
-    "title": "OnTrack Hydrovac Services Inc. | Kawartha Lakes, ON",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 139,
-    "crawled_at": "2026-04-16T12:24:15.03477593Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google Tag Manager",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress",
-      "jQuery"
     ]
   },
   {
@@ -12083,26 +12254,6 @@
     ]
   },
   {
-    "domain": "veracityltd.ca",
-    "title": "Veracity Ltd - Design Build Consultant in Lindsay Ontario and Kawartha Lakes",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 50,
-    "tech_spend": 3,
-    "crawled_at": "2026-01-01T20:28:49.851811007Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "jesusinthelamb.com",
     "title": "Ken Adeniji's Blog | Just another WordPress.com weblog",
     "business_name": "",
@@ -13050,32 +13201,6 @@
     ]
   },
   {
-    "domain": "fluidfilmmobileundercoating.ca",
-    "title": "JB Mobile Undercoating",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 16435,
-    "crawled_at": "2025-12-14T17:34:56.007913414Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Fireblade",
-      "Font Awesome",
-      "FormSubmit",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "jsDelivr",
-      "reCAPTCHA"
-    ]
-  },
-  {
     "domain": "mariposawoolenmill.ca",
     "title": "Marisposa Woolen Mill",
     "business_name": "",
@@ -13093,30 +13218,6 @@
       "Google Maps",
       "Google Tag Manager",
       "Instagram Follow Button",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "youngsconstruction.ca",
-    "title": "Young's Construction and Landscaping - Welcome",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 508,
-    "crawled_at": "2025-12-14T17:28:56.014308118Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Apache",
-      "Apache Tomcat JK",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Gumby",
-      "IcoMoon",
       "Tailwind CSS",
       "UTF-8",
       "jQuery"
@@ -13450,25 +13551,6 @@
       "IcoMoon",
       "MaxCDN",
       "On The Map",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "asidearchitects.ca",
-    "title": "Aside Architects - An architectural practice in Peterborough, Ontario",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 60,
-    "tech_spend": "",
-    "crawled_at": "2025-12-12T13:34:56.013829075Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Apture Linking Platform",
-      "Google Analytics",
-      "Google Tag Manager",
-      "QUIC",
-      "Tailwind CSS",
       "UTF-8"
     ]
   },
@@ -14472,74 +14554,6 @@
       "Vello",
       "Vignette OpenText",
       "Visual Studio",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "lionelbenvino.xyz",
-    "title": "Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 4939,
-    "crawled_at": "2025-12-01T22:59:54.159513238Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "Oracle Cloud",
-      "Perl",
-      "Python",
-      "UTF-8",
-      "Ubuntu"
-    ]
-  },
-  {
-    "domain": "igawadds.com",
-    "title": "Chris Igawa D.D.S., Inc.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2025-12-01T20:00:46.377723658Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "GZIP Module",
-      "Google My Business",
-      "Subversion",
-      "University or College",
-      "Yelp Badge"
-    ]
-  },
-  {
-    "domain": "nrhqqms.com",
-    "title": "NRHQ QMS- Housing Management",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 607,
-    "crawled_at": "2025-12-01T14:45:46.368867883Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
       "jQuery"
     ]
   }

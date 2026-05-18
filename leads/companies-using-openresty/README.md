@@ -1,6 +1,6 @@
 # Companies Using OpenResty (Live Dataset 2026)
 
-This folder contains an active list of 296,148 companies using **OpenResty**. 
+This folder contains an active list of 295,180 companies using **OpenResty**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 296,148
+- **Total Leads:** 295,180
 - **Verified:** Yes
-- **Last Updated:** 2026-05-17 23:30 UTC
+- **Last Updated:** 2026-05-18 23:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **296,148+** companies using OpenResty.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **295,180+** companies using OpenResty.
 
 [**⚡ Unlock the Full OpenResty List with Contact Details**](https://leadita.com/leads/companies-using-openresty)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-05-17 23:30 UTC*
+*Last updated: 2026-05-18 23:30 UTC*
 *Data source: Leadita Technographic Intelligence*
