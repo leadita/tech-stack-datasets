@@ -1,5 +1,33 @@
 [
   {
+    "domain": "wallersupply.com",
+    "title": "Waller Supply Chain Consulting — We Source It. We Ship It. We Stand Behind It.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 3469,
+    "crawled_at": "2026-05-18T09:14:20.0398661Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Formspree",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Netlify Forms",
+      "QUIC",
+      "Thank You",
+      "UTF-8",
+      "Unsplash",
+      "WordPress",
+      "Zoho Books"
+    ]
+  },
+  {
     "domain": "corevassist.com",
     "title": "Home",
     "business_name": "",
