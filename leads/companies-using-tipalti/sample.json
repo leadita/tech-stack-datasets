@@ -1,5 +1,39 @@
 [
   {
+    "domain": "moxie.vc",
+    "title": "Moxxie | Build with Moxxie",
+    "business_name": "Moxxie Ventures",
+    "country": "NZL",
+    "seo_score": 77,
+    "tech_spend": 29276,
+    "crawled_at": "2026-05-18T02:11:19.981785056Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "Carta",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "DAV",
+      "GZIP Module",
+      "Homes.com CMS",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "Tipalti",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "WF Cookie Consent",
+      "Webflow",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "tipalti.kz",
     "title": "Tipalti | Finance Automation that puts you in charge",
     "business_name": "Tipalti",
@@ -973,40 +1007,6 @@
       "UTF-8",
       "Vector Internet Services",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "moxxie.vc",
-    "title": "Moxxie | Build with Moxxie",
-    "business_name": "Moxxie Ventures",
-    "country": "NZL",
-    "seo_score": 77,
-    "tech_spend": 30776,
-    "crawled_at": "2025-12-24T17:22:38.328785703Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "Carta",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "DAV",
-      "GZIP Module",
-      "Homes.com CMS",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
-      "Tipalti",
-      "Twitter Ads",
-      "Vector Internet Services",
-      "WF Cookie Consent",
-      "Webflow",
-      "jsDelivr"
     ]
   }
 ]
