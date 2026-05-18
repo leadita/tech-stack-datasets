@@ -1,5 +1,60 @@
 [
   {
+    "domain": "shiv-yogi.com",
+    "title": "Shiv Yogi Dhruvaji",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 60,
+    "crawled_at": "2026-05-17T23:25:35.549370045Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Alternate Protocol",
+      "Express",
+      "Hugo",
+      "Instagram Follow Button",
+      "Micro.blog",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "parachuterentals.com",
+    "title": "SkydiveStore.com | Skydiving Gear, Parachutes & Equipment Online",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 23856,
+    "crawled_at": "2026-05-17T22:50:19.971324474Z",
+    "technologies": [
+      "Alternate Protocol",
+      "BigCommerce",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Fireblade",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Micro.blog",
+      "Olark",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services"
+    ]
+  },
+  {
     "domain": "pauljacobson.me",
     "title": "Paul Jacobson - Life and its many opportunities",
     "business_name": "",
@@ -2630,42 +2685,6 @@
       "Micro.blog",
       "Microdata for Google Shopping",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "arthursherry.com",
-    "title": "SkydiveStore.com | Skydiving Gear, Parachutes & Equipment Online",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 23856,
-    "crawled_at": "2026-04-25T19:23:20.013930619Z",
-    "technologies": [
-      "Alternate Protocol",
-      "BigCommerce",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Fireblade",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Micro.blog",
-      "Olark",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services"
     ]
   },
   {
@@ -8420,24 +8439,6 @@
       "University or College",
       "Vector Internet Services",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "shiv-yogi.com",
-    "title": "Shiv Yogi Dhruvaji",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 60,
-    "crawled_at": "2025-12-01T02:16:06.52910948Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Alternate Protocol",
-      "Express",
-      "Instagram Follow Button",
-      "Micro.blog",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]

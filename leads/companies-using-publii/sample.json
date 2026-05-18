@@ -1,5 +1,147 @@
 [
   {
+    "domain": "ai-readiness.ch",
+    "title": "AI Readiness",
+    "business_name": "AI Readiness",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 148,
+    "crawled_at": "2026-05-18T11:50:19.970585186Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "CoreUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "aparajitharadhya.com",
+    "title": "Aparajith Aradhya",
+    "business_name": "Aparajith Aradhya",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 748,
+    "crawled_at": "2026-05-18T11:35:19.981574141Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "CoreUI",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "buzzbox.cc",
+    "title": "buzzbox Telecom VoIP Cloud Phone Systems",
+    "business_name": "buzzbox Telecom",
+    "country": "",
+    "seo_score": 82,
+    "tech_spend": 6237,
+    "crawled_at": "2026-05-18T09:29:11.274655793Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Endorsal",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Publii",
+      "Twitter Ads",
+      "Visual Studio",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "freddymuffins.com",
+    "title": "freddymuffins",
+    "business_name": "freddymuffins",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 49,
+    "crawled_at": "2026-05-18T07:50:20.006095484Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "egard.ax",
+    "title": "Egard",
+    "business_name": "Egard",
+    "country": "FIN",
+    "seo_score": 50,
+    "tech_spend": 49,
+    "crawled_at": "2026-05-18T04:41:20.007293518Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Nginx",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "bournehealthy.com",
+    "title": "Chiropractor in Farnham, Surrey - Farnham Chiropractic and Wellness",
+    "business_name": "Farnham Chiropractic Wellness Centre",
+    "country": "SYC",
+    "seo_score": 77,
+    "tech_spend": 3309,
+    "crawled_at": "2026-05-18T01:05:20.001876568Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "Publii",
+      "QUIC",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "mimi-mortmain.com",
     "title": "Mimi Mortmain",
     "business_name": "Mimi Mortmain",
@@ -3100,24 +3242,6 @@
     ]
   },
   {
-    "domain": "ai-readiness.ch",
-    "title": "AI Readiness",
-    "business_name": "AI Readiness",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 148,
-    "crawled_at": "2026-04-17T10:45:16.203993424Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "CoreUI",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
     "domain": "globalwebify.com",
     "title": "Global Webify | Digital Marketing & IT Services Company in India",
     "business_name": "",
@@ -5272,27 +5396,6 @@
     ]
   },
   {
-    "domain": "aparajitharadhya.com",
-    "title": "Aparajith Aradhya",
-    "business_name": "Aparajith Aradhya",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 748,
-    "crawled_at": "2026-03-11T21:45:03.941555954Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "CoreUI",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
     "domain": "ar-philipot.fr",
     "title": "ar-philipot.fr",
     "business_name": "ar-philipot.fr",
@@ -5406,38 +5509,6 @@
       "Publii",
       "Ubuntu",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "bournehealthy.com",
-    "title": "Chiropractor in Farnham, Surrey - Farnham Chiropractic and Wellness",
-    "business_name": "Farnham Chiropractic Wellness Centre",
-    "country": "SYC",
-    "seo_score": 77,
-    "tech_spend": 3309,
-    "crawled_at": "2026-02-27T23:07:32.650720246Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "Publii",
-      "QUIC",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
     ]
   },
   {
@@ -8447,56 +8518,6 @@
       "Microsoft Clarity",
       "Publii",
       "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "buzzbox.cc",
-    "title": "buzzbox Telecom VoIP Cloud Phone Systems",
-    "business_name": "buzzbox Telecom",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 6237,
-    "crawled_at": "2025-12-01T15:00:46.368705712Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Endorsal",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Azure",
-      "Publii",
-      "Twitter Ads",
-      "Visual Studio",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "imhotek.com.au",
-    "title": "About - Archery GB 3D squad",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 149,
-    "crawled_at": "2025-11-30T16:53:29.718034537Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GoFundMe",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Publii",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   }
