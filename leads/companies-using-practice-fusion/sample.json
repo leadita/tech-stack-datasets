@@ -1,5 +1,32 @@
 [
   {
+    "domain": "clinicfront.ai",
+    "title": "ClinicFront — AI Front Desk for Private Clinics",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 41192,
+    "crawled_at": "2026-05-17T18:56:19.980061601Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Clearbit",
+      "Content Delivery Network",
+      "Curve Dental",
+      "DAV",
+      "ElementUI",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Open Dental",
+      "Practice Fusion",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "acefidentialhealth.com",
     "title": "AceFidential Health | Medical Billing & Healthcare",
     "business_name": "",
