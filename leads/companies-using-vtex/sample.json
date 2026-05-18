@@ -1,5 +1,33 @@
 [
   {
+    "domain": "vivezulka.com",
+    "title": "Vive Zulka | Zucarmex",
+    "business_name": "",
+    "country": "MEX",
+    "seo_score": 77,
+    "tech_spend": 79800,
+    "crawled_at": "2026-05-18T12:37:05.304495702Z",
+    "technologies": [
+      "Builder",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "KVH",
+      "Next.js",
+      "PWA",
+      "Perl",
+      "Pleroma",
+      "UTF-8",
+      "VTEX Personalization",
+      "Vector Internet Services",
+      "WhatsApp Sharing",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "marketplacesuitespot.com",
     "title": "The Marketplace Suite Spot Report | A Comparison of Top Marketplace Development Platforms",
     "business_name": "McFadyen Digital",
