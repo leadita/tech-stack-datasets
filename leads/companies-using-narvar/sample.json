@@ -1,5 +1,35 @@
 [
   {
+    "domain": "justchan.co",
+    "title": "Nikki Chan",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 55,
+    "tech_spend": 50804,
+    "crawled_at": "2026-05-18T10:08:19.979458099Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Narvar",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "sneakersvilla.com",
     "title": "DTLR | Your Fashion. Your Lifestyle | Free Shipping",
     "business_name": "DTLR",
@@ -1348,36 +1378,6 @@
       "Turn",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "justchan.co",
-    "title": "Nikki Chan",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 50804,
-    "crawled_at": "2026-03-05T08:38:09.904897953Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Narvar",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   },
   {
