@@ -1,5 +1,26 @@
 [
   {
+    "domain": "dentulupay.com",
+    "title": "Dentulu Pay | Smart Dental Patient Financing Solutions for Dental Practices",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 1348,
+    "crawled_at": "2026-05-19T07:44:58.149955786Z",
+    "technologies": [
+      "Apache",
+      "Bulma",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "PandaDoc",
+      "Tailwind CSS",
+      "Ubuntu",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "tylergraceauctions.com",
     "title": "Grace Auction - Tyler Grace Auctions | Your Premier Tyler Auction House",
     "business_name": "",
@@ -2756,27 +2777,6 @@
       "WordPress Multisite",
       "Zoom Video Conferencing",
       "jQuery",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "dentulupay.com",
-    "title": "Dentulu Pay | Smart Dental Patient Financing Solutions for Dental Practices",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 1348,
-    "crawled_at": "2025-12-02T17:57:46.371307357Z",
-    "technologies": [
-      "Apache",
-      "Bulma",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "PandaDoc",
-      "Tailwind CSS",
-      "Ubuntu",
       "jsDelivr"
     ]
   }

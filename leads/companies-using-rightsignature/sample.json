@@ -1,5 +1,27 @@
 [
   {
+    "domain": "mpcshippinginsurance.com",
+    "title": "MPC Shipping Insurance from Shipsurance - Mail & Parcel Centers Shipping Insurance",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 18208,
+    "crawled_at": "2026-05-19T11:22:05.913162441Z",
+    "technologies": [
+      "Fireblade",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Parcel",
+      "Perl",
+      "QUIC",
+      "RightSignature",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "housing.cloud",
     "title": "Housing.Cloud - Exceptional Student Housing Experiences",
     "business_name": "",
@@ -2175,28 +2197,6 @@
       "WordPress Multisite",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "mpcshippinginsurance.com",
-    "title": "MPC Shipping Insurance from Shipsurance - Mail & Parcel Centers Shipping Insurance",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 18208,
-    "crawled_at": "2025-12-02T22:15:46.37144328Z",
-    "technologies": [
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Parcel",
-      "Perl",
-      "QUIC",
-      "RightSignature",
-      "Tailwind CSS"
     ]
   }
 ]
