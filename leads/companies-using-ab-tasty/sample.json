@@ -1,5 +1,65 @@
 [
   {
+    "domain": "kjellman.se",
+    "title": "Håkan Kjellman's SmugMug",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 23286,
+    "crawled_at": "2026-05-19T07:29:19.989817625Z",
+    "technologies": [
+      "AB Tasty",
+      "Adult Content",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "Fastly",
+      "Fireblade",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "Help.com",
+      "Nginx",
+      "Ntent",
+      "QUIC",
+      "SmartyStreets",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "emma-mattress.com.au",
+    "title": "Emma® Sleep Mattresses & Beds | On Sale",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 234764,
+    "crawled_at": "2026-05-19T05:59:19.993214668Z",
+    "technologies": [
+      "AB Tasty",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Contentstack",
+      "ElementUI",
+      "Express",
+      "Freshworks Bot",
+      "Instagram Follow Button",
+      "Klarna",
+      "Mention Me",
+      "Nuxt.js",
+      "Parcel",
+      "Product Review",
+      "QUIC",
+      "RM Education",
+      "SpeedCurve",
+      "Swell Rewards",
+      "Typeform",
+      "Yotpo",
+      "commercetools"
+    ]
+  },
+  {
     "domain": "oxfamapps.org.uk",
     "title": "Campaign with us to bring about change | Oxfam GB",
     "business_name": "",
@@ -25,32 +85,6 @@
       "Pleroma",
       "UTF-8",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "annajanson.com",
-    "title": "crazyjansons",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 23286,
-    "crawled_at": "2026-05-18T05:44:19.969504991Z",
-    "technologies": [
-      "AB Tasty",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CloudFront",
-      "Content Delivery Network",
-      "Fastly",
-      "Fireblade",
-      "GZIP Module",
-      "Help.com",
-      "Nginx",
-      "Ntent",
-      "QUIC",
-      "SmartyStreets",
-      "UTF-8"
     ]
   },
   {
@@ -3679,38 +3713,6 @@
       "Subversion",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "emma.sale",
-    "title": "Emma® Sleep Mattresses & Beds | On Sale",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 234764,
-    "crawled_at": "2026-04-16T20:38:16.750356763Z",
-    "technologies": [
-      "AB Tasty",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Contentstack",
-      "ElementUI",
-      "Express",
-      "Freshworks Bot",
-      "Instagram Follow Button",
-      "Klarna",
-      "Mention Me",
-      "Nuxt.js",
-      "Parcel",
-      "Product Review",
-      "QUIC",
-      "RM Education",
-      "SpeedCurve",
-      "Swell Rewards",
-      "Typeform",
-      "UTF-8",
-      "Yotpo",
-      "commercetools"
     ]
   },
   {
