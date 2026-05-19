@@ -1,5 +1,105 @@
 [
   {
+    "domain": "arabwar.com",
+    "title": "Build Your Brand",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 135,
+    "crawled_at": "2026-05-19T14:26:20.014407232Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "ygadgets.com",
+    "title": "An EMDN - y Gadgets, Tech Devices Innovative Electronics Smart Gadgets Consumer Technology Wearable Devices Mobile Accessories Home Automation Latest Tech",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 135,
+    "crawled_at": "2026-05-19T10:53:29.943058134Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "restaurantkibe.com",
+    "title": "Restaurant Kibe Mahala - Welcome!",
+    "business_name": "",
+    "country": "BIH",
+    "seo_score": 77,
+    "tech_spend": 160,
+    "crawled_at": "2026-05-19T02:38:19.974523745Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Book Direct",
+      "Column Shortcodes",
+      "Dynadot",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Subversion",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "repanationnetwork.com",
+    "title": "RepaNation Network",
+    "business_name": "",
+    "country": "CUB",
+    "seo_score": 57,
+    "tech_spend": 135,
+    "crawled_at": "2026-05-19T01:02:19.972338693Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "mamba24.net",
+    "title": "Welcome to Mamba24.com",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 55,
+    "tech_spend": 135,
+    "crawled_at": "2026-05-18T19:29:19.972552822Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "legazpivillage.com",
     "title": "Welcome to PhilippineProperties.com",
     "business_name": "",
@@ -87,46 +187,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "archivecar.com",
-    "title": "An EMDN - Archive Car, Vehicle Storage Classic Cars Automobile Collection Car Preservation Automotive Archives Car History Rare Vehicles Restoration Showcase",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 135,
-    "crawled_at": "2026-05-18T04:38:19.988616383Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microsoft Clarity",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "commercialkitchen.net",
-    "title": "Build Your Brand",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 135,
-    "crawled_at": "2026-05-18T03:20:19.980167176Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8"
     ]
   },
   {
@@ -1411,25 +1471,6 @@
       "Tumblr",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "mamba24.com",
-    "title": "Welcome to Mamba24.com",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 55,
-    "tech_spend": 135,
-    "crawled_at": "2026-05-03T01:59:20.007975207Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
@@ -3210,26 +3251,6 @@
     ]
   },
   {
-    "domain": "repanationnetwork.com",
-    "title": "RepaNation Network",
-    "business_name": "",
-    "country": "CUB",
-    "seo_score": 57,
-    "tech_spend": 135,
-    "crawled_at": "2026-03-13T02:26:37.078022513Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "pr-typo3.com",
     "title": "WEB Studio: multi-functional solutions for websites | PR-TYPO3.com",
     "business_name": "",
@@ -3322,27 +3343,6 @@
       "Font Awesome",
       "GZIP Module",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "restaurantkibe.com",
-    "title": "Restaurant Kibe Mahala - Welcome!",
-    "business_name": "",
-    "country": "BIH",
-    "seo_score": 77,
-    "tech_spend": 160,
-    "crawled_at": "2026-02-15T21:07:19.688227741Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Book Direct",
-      "Column Shortcodes",
-      "Dynadot",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Subversion",
-      "Tailwind CSS"
     ]
   },
   {
