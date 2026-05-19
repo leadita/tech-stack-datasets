@@ -1,5 +1,34 @@
 [
   {
+    "domain": "serverbright.co.uk",
+    "title": "ServerBright - DevOps, AI/ML and Linux/Unix Optimisation.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 9779,
+    "crawled_at": "2026-05-18T15:34:17.020851222Z",
+    "technologies": [
+      "CapsuleCRM",
+      "Coming Soon Page",
+      "Express",
+      "FreeBSD",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Python",
+      "RM Education",
+      "Tailwind CSS",
+      "TermsFeed",
+      "UTF-8",
+      "Unix",
+      "reCAPTCHA",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "grofar.com",
     "title": "Grofar - Careers Service, Work Placement, and Work Experience Software",
     "business_name": "",
@@ -1442,43 +1471,6 @@
       "jsDelivr",
       "shadcn ui",
       "xCharts"
-    ]
-  },
-  {
-    "domain": "finnbiogas.com",
-    "title": "Finn Biogas - Australian Biogas Plant Engineering & Construction",
-    "business_name": "Finn Biogas Pty Ltd",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 8965,
-    "crawled_at": "2025-12-02T05:30:46.381986682Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Calendly",
-      "CapsuleCRM",
-      "Column Shortcodes",
-      "EmbedPress",
-      "Express",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Kriesi.at",
-      "Max Mega Menu",
-      "Max Mega Menu Pro",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Popup Maker for Wordpress",
-      "RM Education",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WP Fastest Cache",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
