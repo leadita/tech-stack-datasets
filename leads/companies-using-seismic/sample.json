@@ -1,5 +1,56 @@
 [
   {
+    "domain": "ctxdc.com",
+    "title": "Context Dev Camp — Master Context Engineering for Production AI",
+    "business_name": "Context Dev Camp",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 45279,
+    "crawled_at": "2026-05-19T20:23:20.004418361Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Seismic",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "myseismic.com",
+    "title": "Seismic Powered Clothing",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 118833,
+    "crawled_at": "2026-05-19T10:11:19.997782736Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "JIRA",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Seismic",
+      "SiteW",
+      "Squarespace",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "parkseismic.com",
     "title": "MASW-Park Seismic",
     "business_name": "Park Seismic LLC",
