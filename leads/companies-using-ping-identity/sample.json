@@ -1,5 +1,39 @@
 [
   {
+    "domain": "7hillsts.com",
+    "title": "7hillsTS",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 200139,
+    "crawled_at": "2026-05-18T23:37:18.048432438Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Apache",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "ElementUI",
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Ping Identity",
+      "Python",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "WhatsApp Sharing",
+      "YouTube",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "emeraldit.ca",
     "title": "Emerald IT Consulting Inc. - Elite Technology Solutions",
     "business_name": "",
@@ -1680,40 +1714,6 @@
       "QUIC",
       "Twitter Ads",
       "University or College"
-    ]
-  },
-  {
-    "domain": "7hillsts.com",
-    "title": "7hillsTS",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 200139,
-    "crawled_at": "2025-12-02T07:39:46.369355954Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ElementUI",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Ping Identity",
-      "Python",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "WhatsApp Sharing",
-      "YouTube",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
