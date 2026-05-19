@@ -1,5 +1,32 @@
 [
   {
+    "domain": "ethoshealthpractices.com",
+    "title": "Ethos Health Practices",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 19236,
+    "crawled_at": "2026-05-19T08:53:19.995604518Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Express",
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Line2",
+      "PWA",
+      "SMC",
+      "TherapyNotes",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "neffhw.com",
     "title": "Neff Health & Wellness | In-Person & Virtual Therapy",
     "business_name": "Neff Health &amp; Wellness",
