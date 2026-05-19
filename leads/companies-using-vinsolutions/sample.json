@@ -1,5 +1,61 @@
 [
   {
+    "domain": "realestatepromptpack.com",
+    "title": "Phil Stringer - CEO - A.I. Academy | Popl",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 20603,
+    "crawled_at": "2026-05-19T05:14:20.016524478Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Fireblade",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Material-UI",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Salesforce Hosted",
+      "Twitter Ads",
+      "UTF-8",
+      "VinSolutions",
+      "WhatsApp Sharing",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "dealergo.ai",
+    "title": "DealerGo",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 187450,
+    "crawled_at": "2026-05-18T15:34:17.025248443Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "DriveCentric",
+      "GZIP Module",
+      "Next.js",
+      "Pleroma",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "VinSolutions",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "jimtumolo.com",
     "title": "Jim Tumolo - Mortgage Banker - Success Mortgage Partners | Popl",
     "business_name": "",
@@ -3471,31 +3527,6 @@
       "WordPress Multisite",
       "WordPress Stats",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "dealergo.ai",
-    "title": "DealerGo",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 19066,
-    "crawled_at": "2025-12-01T22:00:46.367367656Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "DriveCentric",
-      "GZIP Module",
-      "Next.js",
-      "Pleroma",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "VinSolutions",
-      "shadcn ui"
     ]
   }
 ]
