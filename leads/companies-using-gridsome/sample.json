@@ -1,5 +1,203 @@
 [
   {
+    "domain": "waldmet.com",
+    "title": "Waldmet Cellars - Meads, Ciders & Wines | Taproom in Jasper, GA - Waldmet Cellars",
+    "business_name": "",
+    "country": "VUT",
+    "seo_score": 72,
+    "tech_spend": 75280,
+    "crawled_at": "2026-05-19T22:41:38.405706931Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "DAV",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Gridsome",
+      "Idaq",
+      "Instagram Follow Button",
+      "KVH",
+      "No-Q",
+      "SMC",
+      "Tailwind CSS",
+      "Twitter Ads"
+    ]
+  },
+  {
+    "domain": "ortigan.in",
+    "title": "Ortigan",
+    "business_name": "Ortigan Technologies",
+    "country": "IND",
+    "seo_score": 87,
+    "tech_spend": 4228,
+    "crawled_at": "2026-05-19T22:41:38.380192996Z",
+    "technologies": [
+      "Cloudinary",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "PWA",
+      "Python",
+      "SveltKit",
+      "Svelte",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "davidbenko.xyz",
+    "title": "Dávid Benko - Dávid Benko",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 15000,
+    "crawled_at": "2026-05-19T19:29:19.970713715Z",
+    "technologies": [
+      "DAV",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Gridsome",
+      "Nginx",
+      "SMC",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "merlin-syrup.ch",
+    "title": "Merlin Syrup - Merlin Manufaktur Syrup",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 73338,
+    "crawled_at": "2026-05-19T17:32:20.007089949Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Federal Deposit Insurance Corporation",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "IPFS",
+      "Idaq",
+      "Instagram Follow Button",
+      "KVH",
+      "Netlify",
+      "No-Q",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "Unix"
+    ]
+  },
+  {
+    "domain": "bransjen.no",
+    "title": "Forside - Bransjen",
+    "business_name": "",
+    "country": "",
+    "seo_score": 32,
+    "tech_spend": "",
+    "crawled_at": "2026-05-19T12:38:19.988582059Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "Sanity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "bookingbro.ru",
+    "title": "Bookingbro",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": "",
+    "crawled_at": "2026-05-19T05:10:48.006442039Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Gridsome",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "talchaim.com",
+    "title": "Tal Chaim - Tal Chaim",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 60,
+    "crawled_at": "2026-05-19T04:41:19.976949211Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Express",
+      "FormSubmit",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gridsome",
+      "PayPal Adaptive Payments",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "mcgilvraylaw.com.au",
+    "title": "McGilvray Law | Canberra",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 65,
+    "tech_spend": 3008,
+    "crawled_at": "2026-05-19T04:35:19.980769411Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Idaq",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vimeo"
+    ]
+  },
+  {
+    "domain": "thepearlhotel.com.au",
+    "title": "The Pearl - The Pearl",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 50,
+    "tech_spend": 471,
+    "crawled_at": "2026-05-19T02:46:49.644961906Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Netlify",
+      "OpenTable",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "sqliteviz.com",
     "title": "Home - sqliteviz",
     "business_name": "",
@@ -8323,23 +8521,6 @@
     ]
   },
   {
-    "domain": "bransjen.no",
-    "title": "Forside - Bransjen",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2026-03-17T18:01:58.577367128Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Sanity",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "kodius.com",
     "title": "Kodius | Expert custom software development",
     "business_name": "",
@@ -9443,23 +9624,6 @@
       "SMC",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "harvac.com.au",
-    "title": "Delivering extraordinary experiences | HARVAC group",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 60,
-    "tech_spend": "",
-    "crawled_at": "2026-02-14T02:46:37.049469987Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google My Business",
-      "Gridsome",
-      "Netlify",
-      "UTF-8",
-      "reCAPTCHA"
     ]
   },
   {
@@ -11753,161 +11917,6 @@
       "UTF-8",
       "University or College",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "deleiderkomt.be",
-    "title": "THE LEADER WILL COME",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 65,
-    "tech_spend": 2755,
-    "crawled_at": "2025-12-28T15:32:03.315031016Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apache",
-      "Band Camp",
-      "Camp",
-      "Complianz",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Instagram Follow Button",
-      "PHP",
-      "Shopify",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "Vimeo",
-      "WordPress",
-      "WordPress Multisite"
-    ]
-  },
-  {
-    "domain": "suedspace.de",
-    "title": "Südspace - Südspace",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": "",
-    "crawled_at": "2025-12-28T12:19:38.378152606Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Gridsome",
-      "Usercentrics"
-    ]
-  },
-  {
-    "domain": "pacificportableservices.com",
-    "title": "Temporary Fence Rental, Portable Restroom Rental, Temporary Storage Rental - Pacific Portable Services",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 57,
-    "tech_spend": 1188,
-    "crawled_at": "2025-12-28T01:01:38.340765421Z",
-    "technologies": [
-      "Cloudinary",
-      "Content Delivery Network",
-      "Gridsome",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "madbranch.studio",
-    "title": "Mad Branch: Perfection is beautiful but stupid. | Atlanta, GA - Mad Branch Studio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2025-12-27T21:43:38.329962153Z",
-    "technologies": [
-      "Chord Connect",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gridsome",
-      "Netlify",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "slickrocksolutions.com",
-    "title": "Home - Slickrock Solutions",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 26386,
-    "crawled_at": "2025-12-27T21:22:38.318321792Z",
-    "technologies": [
-      "CakePHP",
-      "Cloudinary",
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gridsome",
-      "K2F",
-      "KVH",
-      "Netlify",
-      "No-Q",
-      "PHP",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "vobt.co.uk",
-    "title": "- VOBT Properties",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 50,
-    "tech_spend": 5099,
-    "crawled_at": "2025-12-27T08:10:38.318641309Z",
-    "technologies": [
-      "Content Delivery Network",
-      "CoreUI",
-      "DAV",
-      "Gridsome",
-      "Instagram Follow Button",
-      "M247",
-      "Netlify",
-      "Sanity",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "bricklineconstructions.com.au",
-    "title": "Home - You Dream it, we build it - Brickline Constructions",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 45,
-    "tech_spend": 5000,
-    "crawled_at": "2025-12-27T01:43:38.320518369Z",
-    "technologies": [
-      "AlmaLinux",
-      "Apache",
-      "GZIP Module",
-      "Gridsome",
-      "KVH",
-      "OpenSSL",
-      "PHP",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
