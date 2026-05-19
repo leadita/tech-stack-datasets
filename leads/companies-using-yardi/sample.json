@@ -1,5 +1,24 @@
 [
   {
+    "domain": "kartnex.com",
+    "title": "KartNex - IT Services & E-commerce Solutions",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 62,
+    "tech_spend": 55084,
+    "crawled_at": "2026-05-19T03:02:20.004310728Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "LiteSpeed",
+      "Next.js",
+      "QUIC",
+      "Tailwind CSS",
+      "Unsplash",
+      "Yardi Systems",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "1-to-many.eu",
     "title": "Yardi Consulting & Real Estate Implementation | 1-to-Many",
     "business_name": "",
