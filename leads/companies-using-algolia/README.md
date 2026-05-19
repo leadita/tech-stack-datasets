@@ -1,6 +1,6 @@
 # Companies Using Algolia (Live Dataset 2026)
 
-This folder contains an active list of 2,638 companies using **Algolia**. 
+This folder contains an active list of 2,643 companies using **Algolia**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 2,638
+- **Total Leads:** 2,643
 - **Verified:** Yes
-- **Last Updated:** 2026-05-18 22:00 UTC
+- **Last Updated:** 2026-05-19 11:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **2,638+** companies using Algolia.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **2,643+** companies using Algolia.
 
 [**⚡ Unlock the Full Algolia List with Contact Details**](https://leadita.com/leads/companies-using-algolia)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-05-18 22:00 UTC*
+*Last updated: 2026-05-19 11:45 UTC*
 *Data source: Leadita Technographic Intelligence*
