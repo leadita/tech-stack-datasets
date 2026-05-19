@@ -1,5 +1,27 @@
 [
   {
+    "domain": "magi-k.com",
+    "title": "Magi-K",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 4111,
+    "crawled_at": "2026-05-19T09:51:28.68081657Z",
+    "technologies": [
+      "Freshteam",
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "PWA",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "jobjapan.app",
     "title": "Job4Foreigner - Jobs in Japan with Visa Sponsorship",
     "business_name": "Job4Foreigner",
@@ -3369,28 +3391,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "magi-k.com",
-    "title": "Magi-K",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 4111,
-    "crawled_at": "2025-12-02T20:18:46.369091252Z",
-    "technologies": [
-      "Freshteam",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "PWA",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
     ]
   }
 ]
