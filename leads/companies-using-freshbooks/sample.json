@@ -1,5 +1,36 @@
 [
   {
+    "domain": "919bookkeeper.com",
+    "title": "HOME | 919 Bookkeeper",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 87468,
+    "crawled_at": "2026-05-18T19:29:19.980884686Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Fastly",
+      "Fastly CDN",
+      "FreshBooks",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PWA",
+      "QUIC",
+      "SMC",
+      "Sentry",
+      "SiteW",
+      "UTF-8",
+      "Vector Internet Services",
+      "Wix",
+      "Wix Media",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "cpatechblog.com",
     "title": "CPA Technology Blog – Accounting Tech News and Commentary for Trusted Advisors",
     "business_name": "",
@@ -3425,27 +3456,6 @@
       "UTF-8",
       "University or College",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "taxguardaccountingsolutions.com",
-    "title": "Startup Bookkeeping Setup (Collaborative Accounting), Tax Prep & Payroll | TaxGuard",
-    "business_name": "TaxGuard Accounting Solutions",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 30360,
-    "crawled_at": "2025-12-01T22:42:46.373286724Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "FreshBooks",
-      "Google Calendar",
-      "Google My Business",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "The Fresh"
     ]
   }
 ]
