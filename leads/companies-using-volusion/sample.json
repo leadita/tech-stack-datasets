@@ -1,5 +1,33 @@
 [
   {
+    "domain": "21thirteen.com",
+    "title": "21Thirteen Design | Web Design | Visual Branding",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 18557,
+    "crawled_at": "2026-05-19T13:17:20.010293655Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Angular",
+      "Apache",
+      "EmbedPress",
+      "Fireblade",
+      "Google Cloud DNS",
+      "Google Font API",
+      "MaxCDN",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Responsive Lightbox",
+      "Theme In WP",
+      "UTF-8",
+      "Volusion Live Chat",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "taya.ca",
     "title": "Taya - Fashion Style Apparel Accessories Jewelry",
     "business_name": "",
@@ -3622,34 +3650,6 @@
       "Volusion",
       "Volusion Live Chat",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "21thirteen.com",
-    "title": "21Thirteen Design | Web Design | Visual Branding",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 18557,
-    "crawled_at": "2025-12-12T23:01:56.029940981Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Angular",
-      "Apache",
-      "EmbedPress",
-      "Fireblade",
-      "Google Cloud DNS",
-      "Google Font API",
-      "MaxCDN",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Responsive Lightbox",
-      "Theme In WP",
-      "UTF-8",
-      "Volusion Live Chat",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
