@@ -1,5 +1,30 @@
 [
   {
+    "domain": "nextstepbrandstrategy.com",
+    "title": "Expert Leadership Coaching for Business Growth",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 82,
+    "tech_spend": 108312,
+    "crawled_at": "2026-05-19T15:35:36.389124867Z",
+    "technologies": [
+      "Alternate Protocol",
+      "D2L",
+      "Docebo",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "InitiativeS",
+      "Line2",
+      "PWA",
+      "UTF-8",
+      "University or College",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "dxday.it",
     "title": "home | dxday 2025 - the developer experience conference",
     "business_name": "",
@@ -384,29 +409,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "nextstepbrandstrategy.com",
-    "title": "Expert Leadership Coaching for Business Growth",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 108312,
-    "crawled_at": "2025-12-03T01:55:51.280079893Z",
-    "technologies": [
-      "D2L",
-      "Docebo",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "InitiativeS",
-      "Line2",
-      "PWA",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
     ]
   }
 ]
