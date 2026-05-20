@@ -1,5 +1,24 @@
 [
   {
+    "domain": "procodesolutions.in",
+    "title": "Procode Solutions - Online Courses & Education",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 55,
+    "tech_spend": 20000,
+    "crawled_at": "2026-05-19T15:50:05.439635652Z",
+    "technologies": [
+      "Bulma",
+      "Coming Soon Page",
+      "InitiativeS",
+      "LiteSpeed",
+      "Ping Identity",
+      "QUIC",
+      "Twitter Ads",
+      "University or College"
+    ]
+  },
+  {
     "domain": "7hillsts.com",
     "title": "7hillsTS",
     "business_name": "",
@@ -1695,25 +1714,6 @@
       "Storyblocks",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "procodesolutions.in",
-    "title": "Procode Solutions - Online Courses & Education",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 55,
-    "tech_spend": 20000,
-    "crawled_at": "2025-12-03T02:13:41.974315878Z",
-    "technologies": [
-      "Bulma",
-      "Coming Soon Page",
-      "InitiativeS",
-      "LiteSpeed",
-      "Ping Identity",
-      "QUIC",
-      "Twitter Ads",
-      "University or College"
     ]
   }
 ]
