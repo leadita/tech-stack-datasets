@@ -1,5 +1,40 @@
 [
   {
+    "domain": "vancouverislandusedcars.com",
+    "title": "Vancouver Island Used Cars | Dealership in Courtenay",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 60783,
+    "crawled_at": "2026-05-20T07:26:21.372528596Z",
+    "technologies": [
+      "Alternate Protocol",
+      "AutoTrader CA",
+      "DealerInspire",
+      "DealerSites",
+      "Express",
+      "Fastly",
+      "Financial Services Guide",
+      "Font Awesome",
+      "FormSubmit",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "ISO/IEC 8859",
+      "IcoMoon",
+      "KVH",
+      "Microdata for Google Shopping",
+      "Prospective",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "landroverthornhill.ca",
     "title": "LAND ROVER THORNHILL | Land Rover Dealership in Thornhill",
     "business_name": "",
@@ -2678,41 +2713,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "vancouverislandusedcars.com",
-    "title": "Vancouver Island Used Cars | Dealership in Courtenay",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 55783,
-    "crawled_at": "2025-12-03T20:48:46.366825995Z",
-    "technologies": [
-      "Alternate Protocol",
-      "AutoTrader CA",
-      "DealerInspire",
-      "DealerSites",
-      "Express",
-      "Fastly",
-      "Financial Services Guide",
-      "Font Awesome",
-      "FormSubmit",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "ISO/IEC 8859",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Prospective",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8"
     ]
   }
 ]
