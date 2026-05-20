@@ -1271,26 +1271,5 @@
       "Wistia",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "plataformacooproban.online",
-    "title": "Home | Cooproban",
-    "business_name": "",
-    "country": "CHL",
-    "seo_score": 67,
-    "tech_spend": 29000,
-    "crawled_at": "2025-12-03T20:18:25.282668884Z",
-    "technologies": [
-      "Apache",
-      "Debian",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "Totara",
-      "UTF-8",
-      "jsDelivr"
-    ]
   }
 ]
