@@ -5550,43 +5550,5 @@
       "YouTube",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "gainbridge.com",
-    "title": "Gainbridge: Buy Annuities Online | No Hidden Fees",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 174368,
-    "crawled_at": "2025-12-03T14:21:46.374059115Z",
-    "technologies": [
-      "Ada Support",
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon WAF Blocked",
-      "Bankrate",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "DAV",
-      "Federal Deposit Insurance Corporation",
-      "Fireblade",
-      "Flow",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Intellimize",
-      "KVH",
-      "LaunchDarkly",
-      "Tailwind CSS",
-      "Vector Internet Services",
-      "WF Cookie Consent",
-      "Webflow",
-      "jsDelivr"
-    ]
   }
 ]
