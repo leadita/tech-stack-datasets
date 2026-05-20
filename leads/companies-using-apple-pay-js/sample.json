@@ -1,5 +1,35 @@
 [
   {
+    "domain": "montessorieshop.com",
+    "title": "Official Montessori shop of the Montessori Institute Prague. - Montessori eshop s.r.o.",
+    "business_name": "Montessori eshop s.r.o.",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 1768,
+    "crawled_at": "2026-05-19T16:50:20.011727207Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Apple Pay JS",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google My Business",
+      "Google Pay",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Oddle",
+      "OpenResty",
+      "Parcel",
+      "Shoptet",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "lemanrobotics.org",
     "title": "porkbun.com | An oddly satisfying experience.",
     "business_name": "",
