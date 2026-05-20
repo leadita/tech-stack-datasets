@@ -1,5 +1,34 @@
 [
   {
+    "domain": "adplexityadult.com",
+    "title": "#1 Ad Spy Tool for Adult Ads: AdPlexity",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 33180,
+    "crawled_at": "2026-05-20T08:51:14.041040284Z",
+    "technologies": [
+      "Bing Cashback",
+      "Bing Conversion Tracking",
+      "Calendly",
+      "Click Dealer",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Convert",
+      "DAV",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Intercom",
+      "LinkedIn Insights",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "urinarysecret.com",
     "title": "Prostate Discovery",
     "business_name": "",
@@ -4419,36 +4448,6 @@
       "eLand",
       "jQuery",
       "onWebChat"
-    ]
-  },
-  {
-    "domain": "adplexityadult.com",
-    "title": "#1 Ad Spy Tool for Adult Ads: AdPlexity",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 33180,
-    "crawled_at": "2025-12-03T22:49:09.364546116Z",
-    "technologies": [
-      "Bing Cashback",
-      "Bing Conversion Tracking",
-      "Calendly",
-      "Click Dealer",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Convert",
-      "DAV",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Intercom",
-      "LinkedIn Insights",
-      "Microsoft Clarity",
-      "UTF-8"
     ]
   }
 ]
