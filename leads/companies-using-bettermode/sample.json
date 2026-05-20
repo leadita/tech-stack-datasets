@@ -2201,32 +2201,5 @@
       "Vector Internet Services",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "theqkn.com",
-    "title": "The Quiet Kin Network",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 7983,
-    "crawled_at": "2025-12-04T08:12:46.370693212Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "BetterMode",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "ElementUI",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Imgix",
-      "PWA",
-      "QUIC",
-      "Subversion",
-      "Tailwind CSS",
-      "Tribe.so",
-      "Vector Internet Services",
-      "shadcn ui"
-    ]
   }
 ]
