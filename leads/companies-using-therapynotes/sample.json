@@ -1,5 +1,65 @@
 [
   {
+    "domain": "therapypeace.com",
+    "title": "Therapy Peace, PLLC",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 22351,
+    "crawled_at": "2026-05-20T06:56:19.974787014Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Apture Linking Platform",
+      "ClickOn",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Related Website Sites",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Ntent",
+      "SMC",
+      "Sapper",
+      "Schema Plugin",
+      "Subversion",
+      "TherapyNotes",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "veldenhealth.com",
+    "title": "Velden Health | Illinois Behavioral Health A/R Recovery Specialist",
+    "business_name": "Velden Health",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 19540,
+    "crawled_at": "2026-05-20T03:59:19.979379042Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Calendly",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Tailwind CSS",
+      "TherapyNotes",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "ethoshealthpractices.com",
     "title": "Ethos Health Practices",
     "business_name": "",
@@ -5400,37 +5460,6 @@
     ]
   },
   {
-    "domain": "therapypeace.com",
-    "title": "Therapy Peace, PLLC",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 22351,
-    "crawled_at": "2025-12-13T04:10:56.047276939Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "ClickOn",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Ntent",
-      "SMC",
-      "Sapper",
-      "Schema Plugin",
-      "Subversion",
-      "TherapyNotes",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "betterbeingcounseling.com",
     "title": "Better Being Counseling",
     "business_name": "",
@@ -5514,29 +5543,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "veldenhealth.com",
-    "title": "Velden Health | Behavioral Health Medical Billing & AR Recovery",
-    "business_name": "Velden Health",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 4597,
-    "crawled_at": "2025-12-11T20:28:56.031751108Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Formspree",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Tailwind CSS",
-      "TherapyNotes",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {
