@@ -1,5 +1,123 @@
 [
   {
+    "domain": "pariscoach.fr",
+    "title": "Paris Coach, coaching sportif - ParisCoach",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 29750,
+    "crawled_at": "2026-05-20T19:26:20.016139498Z",
+    "technologies": [
+      "Cognito Forms",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Gridsome",
+      "Idaq",
+      "Instagram Follow Button",
+      "K2F",
+      "NFOrce Internet",
+      "Nginx",
+      "No-Q",
+      "Subversion",
+      "Tailwind CSS",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "ifadep.com",
+    "title": "Orientation par la motivation - IFADEP",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 60,
+    "tech_spend": "",
+    "crawled_at": "2026-05-20T16:53:19.986352243Z",
+    "technologies": [
+      "Bulma",
+      "GZIP Module",
+      "Gridsome",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "angelosemeraro.info",
+    "title": "Home - Angelo Semeraro",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 6050,
+    "crawled_at": "2026-05-20T11:47:19.981297156Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Gridsome",
+      "Idaq",
+      "KVH",
+      "Medium",
+      "Netlify",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "factoring.mx",
+    "title": "Inicio - Factoring",
+    "business_name": "",
+    "country": "BRA",
+    "seo_score": 60,
+    "tech_spend": 31454,
+    "crawled_at": "2026-05-20T10:48:57.463665259Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "DAV",
+      "Expedient",
+      "Financial Services Guide",
+      "Gridsome",
+      "IcoMoon",
+      "Jublo",
+      "K2F",
+      "KVH",
+      "No-Q",
+      "SMC",
+      "Silicon Valley Web Hosting",
+      "Smartsheet",
+      "Subversion",
+      "Tailwind CSS",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "vstollen.me",
+    "title": "Vincent Stollenwerk",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 72,
+    "tech_spend": 240,
+    "crawled_at": "2026-05-20T10:23:19.994168573Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "waldmet.com",
     "title": "Waldmet Cellars - Meads, Ciders & Wines | Taproom in Jasper, GA - Waldmet Cellars",
     "business_name": "",
@@ -8501,26 +8619,6 @@
     ]
   },
   {
-    "domain": "angelosemeraro.info",
-    "title": "Home - Angelo Semeraro",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 6050,
-    "crawled_at": "2026-03-19T03:25:01.55163352Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Gridsome",
-      "Idaq",
-      "KVH",
-      "Medium",
-      "Netlify",
-      "UTF-8",
-      "University or College"
-    ]
-  },
-  {
     "domain": "kodius.com",
     "title": "Kodius | Expert custom software development",
     "business_name": "",
@@ -10965,33 +11063,6 @@
     ]
   },
   {
-    "domain": "pariscoach.fr",
-    "title": "Paris Coach, coaching sportif - ParisCoach",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 29750,
-    "crawled_at": "2026-01-22T19:55:50.50620005Z",
-    "technologies": [
-      "Cognito Forms",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Gridsome",
-      "Idaq",
-      "Instagram Follow Button",
-      "K2F",
-      "NFOrce Internet",
-      "Nginx",
-      "No-Q",
-      "Subversion",
-      "Tailwind CSS",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "brikasih.org",
     "title": "Berbagi Kasih dan Harapan - BRIKasih",
     "business_name": "",
@@ -11851,72 +11922,6 @@
       "QUIC",
       "Subversion",
       "WordPress"
-    ]
-  },
-  {
-    "domain": "forwardingplus.nl",
-    "title": "Transport naar Centraal-Europa | Bereken eenvoudig en snel online je transportkosten",
-    "business_name": "forwardingplus.nl",
-    "country": "NLD",
-    "seo_score": 77,
-    "tech_spend": 228,
-    "crawled_at": "2025-12-31T03:29:59.576306446Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Google My Business",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "sobae.co.za",
-    "title": "Home | SOBAE",
-    "business_name": "",
-    "country": "SYC",
-    "seo_score": 72,
-    "tech_spend": 988,
-    "crawled_at": "2025-12-30T21:31:38.319119996Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "laytxt.com",
-    "title": "Expert design, typesetting and formatting for print and ebooks",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 10060,
-    "crawled_at": "2025-12-29T11:28:27.443908477Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "Gridsome",
-      "K2F",
-      "KVH",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "shadcn ui"
     ]
   }
 ]
