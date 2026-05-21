@@ -1393,47 +1393,5 @@
       "jQuery",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "healthicare.com",
-    "title": "HealthiCare - Healthi + GLP-1",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 16560,
-    "crawled_at": "2025-12-05T11:54:46.373606408Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "Animate It",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "GrowSurf",
-      "Instagram Follow Button",
-      "LegitScript",
-      "Optibase",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "WF Cookie Consent",
-      "YouTube",
-      "jsDelivr",
-      "shadcn ui"
-    ]
   }
 ]
