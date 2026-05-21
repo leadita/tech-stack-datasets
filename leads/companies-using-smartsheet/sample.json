@@ -1,5 +1,36 @@
 [
   {
+    "domain": "dbqsuper.info",
+    "title": "DBQ Super",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 4392,
+    "crawled_at": "2026-05-21T03:05:19.9859223Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "DAV",
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Line2",
+      "NFOrce Internet",
+      "PWA",
+      "Smartsheet",
+      "UTF-8",
+      "University or College",
+      "Wangsu",
+      "Website Tonight",
+      "YouTube",
+      "Zoom Video Conferencing"
+    ]
+  },
+  {
     "domain": "24hourpositioning.com.au",
     "title": "An Important Update on 24 Hour Positioning and the Future of Complex S – Astris PME",
     "business_name": "Astris PME",
@@ -9893,38 +9924,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "dbqsuper.com",
-    "title": "DBQ Super",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 4392,
-    "crawled_at": "2026-04-02T11:11:20.028822359Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "DAV",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Line2",
-      "NFOrce Internet",
-      "PWA",
-      "Share Link",
-      "Smartsheet",
-      "UTF-8",
-      "University or College",
-      "Wangsu",
-      "Website Tonight",
-      "YouTube",
-      "Zoom Video Conferencing"
     ]
   },
   {

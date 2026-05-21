@@ -1,5 +1,24 @@
 [
   {
+    "domain": "bykirich.ru",
+    "title": "Кирилл Демидов | Сверстанные проекты",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 648,
+    "crawled_at": "2026-05-21T17:20:19.988856288Z",
+    "technologies": [
+      "ADFOX",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Nginx",
+      "Telegram",
+      "Wrike",
+      "Yandex Hosting",
+      "Yandex Metrika"
+    ]
+  },
+  {
     "domain": "nashobawinery.com",
     "title": "Home - Nashoba Valley Winery, Distillery, Brewery and Restaurant",
     "business_name": "Nashoba Valley Winery, Distillery, Brewery and Restaurant",
@@ -2581,25 +2600,6 @@
       "Wrike",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "bykirich.ru",
-    "title": "Кирилл Демидов | Сверстанные проекты",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 648,
-    "crawled_at": "2026-01-06T18:06:42.241815125Z",
-    "technologies": [
-      "ADFOX",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Nginx",
-      "Telegram",
-      "Wrike",
-      "Yandex Hosting",
-      "Yandex Metrika"
     ]
   },
   {
