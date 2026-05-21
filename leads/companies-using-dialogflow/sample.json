@@ -1,5 +1,32 @@
 [
   {
+    "domain": "afslankingsconsulente.be",
+    "title": "Welkom bij De Gezondheidsschool",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 72,
+    "tech_spend": 2979,
+    "crawled_at": "2026-05-20T17:32:19.969693897Z",
+    "technologies": [
+      "Angular",
+      "Angular Material",
+      "App Store",
+      "Content Delivery Network",
+      "Dialogflow",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vimeo"
+    ]
+  },
+  {
     "domain": "g11n.com",
     "title": "G11n Provides Professional Translation and Localization Services",
     "business_name": "G11n",
@@ -5349,33 +5376,6 @@
     ]
   },
   {
-    "domain": "gezondheidsschool.be",
-    "title": "Welkom bij De Gezondheidsschool",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 72,
-    "tech_spend": 2979,
-    "crawled_at": "2026-04-02T05:50:20.011580146Z",
-    "technologies": [
-      "Angular",
-      "Angular Material",
-      "App Store",
-      "Content Delivery Network",
-      "Dialogflow",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vimeo"
-    ]
-  },
-  {
     "domain": "flatironsarborcare.com",
     "title": "Flatirons Arbor Care",
     "business_name": "",
@@ -9294,37 +9294,6 @@
       "WordPress",
       "WordPress Multisite",
       "WordPress Stats"
-    ]
-  },
-  {
-    "domain": "bmtechnovations.com",
-    "title": "BM Technovations",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 2680,
-    "crawled_at": "2025-12-12T23:55:56.031871478Z",
-    "technologies": [
-      "Dialogflow",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "Nginx",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "University or College",
-      "jQuery"
     ]
   },
   {
