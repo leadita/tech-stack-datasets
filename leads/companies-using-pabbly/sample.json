@@ -6431,37 +6431,5 @@
       "YouTube",
       "eLand"
     ]
-  },
-  {
-    "domain": "vserve-ecom.com",
-    "title": "Op-Jindal",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 62,
-    "tech_spend": 50916,
-    "crawled_at": "2025-12-05T10:03:44.69767087Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DAV",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Nginx",
-      "PHP",
-      "Pabbly",
-      "QUIC",
-      "SMC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "University or College",
-      "WhatsApp Sharing",
-      "jQuery"
-    ]
   }
 ]
