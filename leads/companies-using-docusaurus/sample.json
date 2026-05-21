@@ -1,5 +1,91 @@
 [
   {
+    "domain": "moelsgroup.com",
+    "title": "Moels Group",
+    "business_name": "",
+    "country": "UGA",
+    "seo_score": 62,
+    "tech_spend": 240,
+    "crawled_at": "2026-05-21T21:32:19.980632463Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Docusaurus",
+      "Next.js",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "israelrodriguez.xyz",
+    "title": "🟠 Inicio | My Site",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 9800,
+    "crawled_at": "2026-05-21T13:57:26.774681621Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Oracle Cloud",
+      "Perl",
+      "To Top",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "arhun.fr",
+    "title": "Home | Arhun Saday",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 240,
+    "crawled_at": "2026-05-21T09:23:19.981143234Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Express",
+      "GitHub Hosting",
+      "Perl",
+      "Python",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "kazlauskas.dev",
+    "title": "Mangirdas Kazlauskas, Expert Flutter Developer",
+    "business_name": "",
+    "country": "LTU",
+    "seo_score": 82,
+    "tech_spend": 15000,
+    "crawled_at": "2026-05-21T05:38:19.970267635Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apache",
+      "Docusaurus",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Perl",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "doccupine.org",
     "title": "Doccupine - Open source documentation platform with AI built in",
     "business_name": "Doccupine",
@@ -12743,99 +12829,6 @@
       "UTF-8",
       "University or College",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "sudocu.dev",
-    "title": "SUDOCU - Sistema Único Documental | SUDOCU",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 5000,
-    "crawled_at": "2026-01-30T20:19:48.862799986Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Docusaurus",
-      "Expedient",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "cadenzachallenge.org",
-    "title": "Hello from The Cadenza Project | The Cadenza Project",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 77,
-    "tech_spend": 18100,
-    "crawled_at": "2026-01-30T15:01:48.875750324Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "ArvanCloud",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "KaTeX",
-      "Perl",
-      "QUIC",
-      "UTF-8",
-      "University or College",
-      "jQuery",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "help.d2p.ch",
-    "title": "D2P Help Center | D2P Help Center",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": "",
-    "crawled_at": "2026-01-30T06:49:48.874592144Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Docusaurus",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Perl",
-      "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "marriedbygen.co.nz",
-    "title": "Marriedbygen | Wedding Celebrant",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 600,
-    "crawled_at": "2026-01-30T05:04:48.873048178Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Perl",
-      "QUIC",
-      "UTF-8"
     ]
   }
 ]

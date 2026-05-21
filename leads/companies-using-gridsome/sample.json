@@ -1,5 +1,93 @@
 [
   {
+    "domain": "bildbewegt.ch",
+    "title": "Dihei - bildbewegt",
+    "business_name": "",
+    "country": "CHE",
+    "seo_score": 50,
+    "tech_spend": 20201,
+    "crawled_at": "2026-05-21T20:26:19.989492412Z",
+    "technologies": [
+      "DAV",
+      "Financial Services Guide",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Instagram Follow Button",
+      "KVH",
+      "Nginx",
+      "No-Q",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "bank.tech",
+    "title": "Grow your business with banking technology | BankTech",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 77,
+    "tech_spend": 7055,
+    "crawled_at": "2026-05-21T14:37:57.860174301Z",
+    "technologies": [
+      "Azure Edge",
+      "Bulma",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Freshmarketer",
+      "Google Related Website Sites",
+      "Gridsome",
+      "IcoMoon",
+      "Twitter Ads"
+    ]
+  },
+  {
+    "domain": "bankshield.io",
+    "title": "Home - BankShield",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 15000,
+    "crawled_at": "2026-05-21T11:59:19.987387696Z",
+    "technologies": [
+      "Fireblade",
+      "GZIP Module",
+      "Gridsome",
+      "Nginx",
+      "PWA",
+      "QUIC",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "bombsightgames.com",
+    "title": "Home - Bombsight Games",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 20264,
+    "crawled_at": "2026-05-21T02:47:19.982493773Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "DAV",
+      "Google My Business",
+      "Google Play",
+      "Gridsome",
+      "KVH",
+      "No-Q",
+      "SMC",
+      "Twitter Ads"
+    ]
+  },
+  {
     "domain": "pariscoach.fr",
     "title": "Paris Coach, coaching sportif - ParisCoach",
     "business_name": "",
@@ -2846,25 +2934,6 @@
       "Gridsome",
       "Netlify",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "etherlink.one",
-    "title": "Home - EtherLink",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 57,
-    "tech_spend": 12500,
-    "crawled_at": "2026-05-06T07:50:19.981997038Z",
-    "technologies": [
-      "Financial Services Guide",
-      "Fireblade",
-      "GZIP Module",
-      "Gridsome",
-      "KVH",
-      "Nginx",
-      "PWA",
-      "Tailwind CSS"
     ]
   },
   {
@@ -11844,84 +11913,6 @@
       "UTF-8",
       "itch.io",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "complexcivil.com.au",
-    "title": "Complex Construction - Complex Construction",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 65,
-    "tech_spend": 25508,
-    "crawled_at": "2026-01-02T01:47:32.153906345Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Express",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Rally",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vimeo",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "modusceilings.com.au",
-    "title": "Ceilings Repairs and Replacements - Perth - Modus Ceilings",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 82,
-    "tech_spend": 73980,
-    "crawled_at": "2026-01-01T09:12:58.327313757Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "DAV",
-      "Google My Business",
-      "Gridsome",
-      "Instagram Follow Button",
-      "KVH",
-      "No-Q",
-      "QUIC",
-      "SMC",
-      "Twitter Ads",
-      "Yelp Badge",
-      "YouTube",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "industrie40award.com",
-    "title": "Industrie 4.0 Award | The Benchmark for Industrial - Industrie 4.0 Award | The Benchmark for Industrial",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 72,
-    "tech_spend": 77692,
-    "crawled_at": "2025-12-31T10:43:04.755598436Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "DAV",
-      "Financial Services Guide",
-      "Fireblade",
-      "GZIP Module",
-      "Gridsome",
-      "Idaq",
-      "K2F",
-      "KVH",
-      "Line2",
-      "QUIC",
-      "Subversion",
-      "WordPress"
     ]
   }
 ]
