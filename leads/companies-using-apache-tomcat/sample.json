@@ -1,5 +1,119 @@
 [
   {
+    "domain": "murali.me",
+    "title": "Murali Krishna Mallela | Software Engineer | Portfolio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 15240,
+    "crawled_at": "2026-05-21T20:23:07.490525044Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Content Delivery Network",
+      "Fireblade",
+      "GitHub Hosting",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "aswinbalachandran.live",
+    "title": "Aswin Balachandran | SOC Analyst",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 60,
+    "tech_spend": 563,
+    "crawled_at": "2026-05-21T15:20:19.998062778Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "NFOrce Internet",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "dipakraut.com.np",
+    "title": "HARATI is an ISO 9001:2000 certified company",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 70,
+    "tech_spend": 16327,
+    "crawled_at": "2026-05-21T10:29:19.971548883Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Apache",
+      "Apache Tomcat JK",
+      "AutoComplete",
+      "Bulma",
+      "DAV",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Maps",
+      "Google My Business",
+      "Google Related Website Sites",
+      "IcoMoon",
+      "SKWID",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "archimedes.ca",
+    "title": "Archimedes Systems Consulting, Inc.",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 70,
+    "tech_spend": 10380,
+    "crawled_at": "2026-05-21T01:56:20.019117512Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "OpenSSL",
+      "Oracle Cloud",
+      "Python",
+      "UTF-8",
+      "University or College",
+      "Visual Studio"
+    ]
+  },
+  {
+    "domain": "yaseenins.com",
+    "title": "Yaseen | Resume",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 50,
+    "tech_spend": "",
+    "crawled_at": "2026-05-21T00:14:19.97963623Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Apache Tomcat JK",
+      "GitHub Hosting",
+      "Nginx",
+      "Python",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "mc-store.com",
     "title": "MC Press Bookstore",
     "business_name": "",
@@ -162,34 +276,6 @@
       "Oracle Cloud",
       "Pico CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "harati.com.np",
-    "title": "HARATI is an ISO 9001:2000 certified company",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 70,
-    "tech_spend": 16327,
-    "crawled_at": "2026-05-19T22:48:48.458748337Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Apache",
-      "Apache Tomcat JK",
-      "AutoComplete",
-      "Bulma",
-      "DAV",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google My Business",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "SKWID",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   },
   {
@@ -11293,25 +11379,6 @@
     ]
   },
   {
-    "domain": "yaseenins.com",
-    "title": "Yaseen | Resume",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 50,
-    "tech_spend": "",
-    "crawled_at": "2026-01-25T16:58:42.851000231Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Apache Tomcat JK",
-      "GitHub Hosting",
-      "Nginx",
-      "Python",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "albatros-yachting.com",
     "title": "Home - Albatros Yachting",
     "business_name": "",
@@ -13249,33 +13316,6 @@
     ]
   },
   {
-    "domain": "menfig.com",
-    "title": "Web-Douglas M.",
-    "business_name": "",
-    "country": "ARG",
-    "seo_score": 65,
-    "tech_spend": 31259,
-    "crawled_at": "2025-12-16T13:16:32.760838688Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "BootstrapMade",
-      "Citrix",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "Oracle Cloud",
-      "PHP",
-      "Python",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "surveyamongus.com",
     "title": "Survey AmongUs",
     "business_name": "",
@@ -14527,82 +14567,6 @@
       "Unix",
       "Visual Studio",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "murali.me",
-    "title": "Murali Krishna Mallela | Software Engineer | Portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 7500,
-    "crawled_at": "2025-12-05T19:03:46.365843029Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Content Delivery Network",
-      "Fireblade",
-      "GitHub Hosting",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "speedfind.com",
-    "title": "Speedfind® - the fastest way to find answers, not ads®",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 14475,
-    "crawled_at": "2025-12-05T14:39:46.383845134Z",
-    "technologies": [
-      "Amazon",
-      "Amazon S3 CDN",
-      "Apache",
-      "Apache Tomcat JK",
-      "Bulma",
-      "ElementUI",
-      "Font Awesome",
-      "IcoMoon",
-      "Pure Chat",
-      "QUIC",
-      "Rechat",
-      "Storyblocks",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "simplifyor.com",
-    "title": "SimplifyOR :: Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 359,
-    "crawled_at": "2025-12-04T19:27:46.374877959Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Apache Tomcat JK",
-      "Apture Linking Platform",
-      "Bulma",
-      "GetResponse",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "reCAPTCHA"
     ]
   }
 ]
