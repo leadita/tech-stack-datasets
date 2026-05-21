@@ -1,5 +1,29 @@
 [
   {
+    "domain": "dmsos.ai",
+    "title": "DMSOS.AI",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 22719,
+    "crawled_at": "2026-05-21T01:02:19.983099938Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "VinSolutions",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "lccustomlandscaping.info",
     "title": "Luis Cruz - Landscape Design & Implementation - LC Custom Landscaping | Popl",
     "business_name": "",

@@ -1,5 +1,29 @@
 [
   {
+    "domain": "reyreymotors.com",
+    "title": "Reynolds Auto Group - Specialist Site",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 27096,
+    "crawled_at": "2026-05-20T20:24:57.726148536Z",
+    "technologies": [
+      "Alternate Protocol",
+      "AutoLeadStar",
+      "Bing Cashback",
+      "Endis",
+      "FormSubmit",
+      "GZIP Module",
+      "Google Maps",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Schema Plugin",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "romanochryslerjeep.com",
     "title": "Fayetteville Chrysler, Jeep Dealer in Fayetteville NY | Syracuse Oneida Auburn Chrysler, Jeep Dealership New York",
     "business_name": "",
@@ -845,30 +869,6 @@
       "WordPress Multisite",
       "WordPress Related Posts",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "reyreymotors.com",
-    "title": "Reynolds Auto Group - Specialist Site",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 27096,
-    "crawled_at": "2025-12-04T13:54:51.813270413Z",
-    "technologies": [
-      "Alternate Protocol",
-      "AutoLeadStar",
-      "Bing Cashback",
-      "Endis",
-      "FormSubmit",
-      "GZIP Module",
-      "Google Maps",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Schema Plugin",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
