@@ -1,5 +1,61 @@
 [
   {
+    "domain": "mycodemetrics.com",
+    "title": "Git Analytics and Reporting Tools for Development Teams | Codemetrics",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 10869,
+    "crawled_at": "2026-05-20T19:44:20.005187128Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Apture Linking Platform",
+      "Canny",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Tag Manager",
+      "Hasnode",
+      "Next.js",
+      "Pleroma",
+      "Stripe",
+      "Styled Components",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "praveshsudha.com",
+    "title": "Pravesh Sudha",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2748,
+    "crawled_at": "2026-05-20T17:59:19.971642615Z",
+    "technologies": [
+      "Apache",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Hasnode",
+      "Instagram Follow Button",
+      "Medium",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "coolhead.in",
     "title": "Pratik Sharma - Web Developer from New Delhi",
     "business_name": "",
@@ -8095,31 +8151,6 @@
     ]
   },
   {
-    "domain": "praveshsudha.com",
-    "title": "Pravesh Sudha",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2748,
-    "crawled_at": "2026-03-21T17:57:54.35585638Z",
-    "technologies": [
-      "Apache",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Hasnode",
-      "Instagram Follow Button",
-      "Medium",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
     "domain": "akashjavali.com",
     "title": "Akash Javali — Senior Full Stack Engineer | MERN & System Architecture",
     "business_name": "",
@@ -8380,33 +8411,6 @@
       "Vercel",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "codemetrics.ai",
-    "title": "Git Analytics and Reporting Tools for Development Teams | Codemetrics",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 20428,
-    "crawled_at": "2026-03-11T04:54:38.127963533Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Canny",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Tag Manager",
-      "Hasnode",
-      "Next.js",
-      "Pleroma",
-      "Stripe",
-      "Styled Components",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {
@@ -13012,34 +13016,6 @@
       "about.me",
       "jQuery",
       "mssg.me"
-    ]
-  },
-  {
-    "domain": "gusanchefullstack.dev",
-    "title": "Gustavo Sanchez - Fullstack Developer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 70,
-    "tech_spend": 16742,
-    "crawled_at": "2025-12-05T10:03:44.712669555Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Aruba",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Express",
-      "Font Awesome",
-      "Formspree",
-      "GitHub Hosting",
-      "Hasnode",
-      "Lineicons",
-      "Netlify",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Visual Studio",
-      "eLand"
     ]
   }
 ]

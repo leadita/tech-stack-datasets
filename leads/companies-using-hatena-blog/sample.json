@@ -282,43 +282,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "sado-geopark.com",
-    "title": "Official Sado Geopark Website | For sustainable development of Sado's society, economy and culture",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 62,
-    "tech_spend": 16321,
-    "crawled_at": "2025-12-04T07:59:38.331360776Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "CentOS",
-      "EmbedPress",
-      "Facebook Like",
-      "Facebook Login",
-      "Facebook Reseller",
-      "Google Analytics",
-      "Google Custom Search",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Tag Manager",
-      "Hatena Blog",
-      "Instagram Follow Button",
-      "OpenSSL",
-      "PHP",
-      "PWA",
-      "Pocket",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery",
-      "qTranslate",
-      "reCAPTCHA"
-    ]
   }
 ]

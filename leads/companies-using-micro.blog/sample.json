@@ -1,5 +1,98 @@
 [
   {
+    "domain": "ads-on-bikes.com",
+    "title": "Ads-on-Bikes • George Mandis",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 15936,
+    "crawled_at": "2026-05-21T05:20:19.978323033Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon S3 CDN",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Express",
+      "GitHub Hosting",
+      "Micro.blog",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "PWA",
+      "Plausible Analytics",
+      "QUIC",
+      "Storyblocks",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "stefanlaser.net",
+    "title": "Stefan Laser",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 62,
+    "tech_spend": 50120,
+    "crawled_at": "2026-05-20T21:47:19.96970952Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Hugo",
+      "License Buttons",
+      "Micro.blog",
+      "SMC",
+      "UTF-8",
+      "University or College",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "applefreakz.de",
+    "title": "csh's toolbox",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 859,
+    "crawled_at": "2026-05-20T16:59:19.980571974Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Font Awesome",
+      "Giphy",
+      "GitHub Hosting",
+      "Hugo",
+      "Micro.blog",
+      "NFOrce Internet",
+      "Slack",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "gluon.app",
+    "title": "Thank you | Gluon Updates",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 60,
+    "crawled_at": "2026-05-20T13:47:19.988927248Z",
+    "technologies": [
+      "Alternate Protocol",
+      "App Store",
+      "GZIP Module",
+      "Micro.blog",
+      "Microdata for Google Shopping",
+      "Thank You",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "smitho.link",
     "title": "Smithographics | Seaford, England. | Smithographic ...",
     "business_name": "",
@@ -3811,33 +3904,6 @@
     ]
   },
   {
-    "domain": "applefreakz.de",
-    "title": "csh's toolbox",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 859,
-    "crawled_at": "2026-04-19T00:38:31.99179928Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Font Awesome",
-      "Giphy",
-      "GitHub Hosting",
-      "Hugo",
-      "Micro.blog",
-      "NFOrce Internet",
-      "Slack",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "darch.dk",
     "title": "søren peter mørch",
     "business_name": "",
@@ -7438,37 +7504,6 @@
       "WordPress Stats",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "ads-on-bikes.com",
-    "title": "Ads-on-Bikes • George Mandis",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 15936,
-    "crawled_at": "2025-12-26T12:32:47.579056773Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon S3 CDN",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Medium",
-      "Micro.blog",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "PWA",
-      "Plausible Analytics",
-      "QUIC",
-      "Storyblocks",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   },
   {
