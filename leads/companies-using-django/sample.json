@@ -1,5 +1,32 @@
 [
   {
+    "domain": "igorsimb.ru",
+    "title": "Igor Simbirtsev's Personal Portfolio Page",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 1251,
+    "crawled_at": "2026-05-21T08:42:44.095527351Z",
+    "technologies": [
+      "ADFOX",
+      "Django",
+      "ElementUI",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Mastodon",
+      "Nginx",
+      "Phusion Passenger Enterprise",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "Yandex Hosting",
+      "Yandex Metrika"
+    ]
+  },
+  {
     "domain": "arthubstore.com",
     "title": "ArtHub Store",
     "business_name": "",
@@ -9876,33 +9903,6 @@
       "UTF-8",
       "Unsplash",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "igorsimb.ru",
-    "title": "Igor Simbirtsev's Personal Portfolio Page",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 1251,
-    "crawled_at": "2025-12-05T05:54:46.373590351Z",
-    "technologies": [
-      "ADFOX",
-      "Django",
-      "ElementUI",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Mastodon",
-      "Nginx",
-      "Phusion Passenger Enterprise",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "Yandex Hosting",
-      "Yandex Metrika"
     ]
   }
 ]
