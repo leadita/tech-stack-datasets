@@ -1,5 +1,25 @@
 [
   {
+    "domain": "enerdata.com",
+    "title": "Enerdata: Migrating to Platts Dimensions Pro",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 50,
+    "tech_spend": 14666,
+    "crawled_at": "2026-05-21T00:10:18.383719096Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Highspot"
+    ]
+  },
+  {
     "domain": "chiefrevenueofficersummit.com",
     "title": "Chief Revenue Officer Summit",
     "business_name": "",
@@ -1783,26 +1803,6 @@
       "UTF-8",
       "Zoom",
       "Zoom Video Conferencing"
-    ]
-  },
-  {
-    "domain": "enerdata.com",
-    "title": "Enerdata: Migrating to Platts Dimensions Pro",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 50,
-    "tech_spend": 14666,
-    "crawled_at": "2025-12-04T19:24:46.373140781Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Highspot"
     ]
   }
 ]

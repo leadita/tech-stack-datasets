@@ -1,5 +1,38 @@
 [
   {
+    "domain": "transnetyx.com",
+    "title": "Transnetyx",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 399824,
+    "crawled_at": "2026-05-21T13:26:20.022151411Z",
+    "technologies": [
+      "Adobe Analytics",
+      "Adobe Marketing Cloud",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Cybot",
+      "Happy Fox Chat",
+      "Mixpanel",
+      "Next.js",
+      "Pico CSS",
+      "Pleroma",
+      "QUIC",
+      "Radix UI",
+      "Salesforce Hosted",
+      "Seismic",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vercel",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "ctxdc.com",
     "title": "Context Dev Camp — Master Context Engineering for Production AI",
     "business_name": "Context Dev Camp",
