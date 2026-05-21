@@ -1,5 +1,54 @@
 [
   {
+    "domain": "officenet.uk",
+    "title": "OfficeNet Systems",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 50,
+    "tech_spend": 63,
+    "crawled_at": "2026-05-20T23:05:20.000564231Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Tailwind CSS",
+      "UTF-8",
+      "Workplace from Meta"
+    ]
+  },
+  {
+    "domain": "eproc.online",
+    "title": "Efficiency and Cost Savings through eProcurement Solutions",
+    "business_name": "Meninx Group",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 23648,
+    "crawled_at": "2026-05-20T16:50:09.539320363Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Column Shortcodes",
+      "Fireblade",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "Microsoft Azure",
+      "Twitter Ads",
+      "UTF-8",
+      "Visual Studio",
+      "Workplace from Meta",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "soluxworkplace.com",
     "title": "Login – SoluxWorkPlace",
     "business_name": "",
@@ -9402,64 +9451,6 @@
       "Workplace from Meta",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "remote246.com",
-    "title": "Home - Workplace - Webflow Ecommerce website template",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 8840,
-    "crawled_at": "2025-12-04T15:04:52.554093318Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "WF Cookie Consent",
-      "Workplace from Meta",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "eproc.online",
-    "title": "Efficiency and Cost Savings through eProcurement Solutions",
-    "business_name": "Meninx Group",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 23648,
-    "crawled_at": "2025-12-04T08:39:08.797584598Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Column Shortcodes",
-      "Fireblade",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Microsoft Azure",
-      "Twitter Ads",
-      "UTF-8",
-      "Visual Studio",
-      "Workplace from Meta",
-      "YouTube",
-      "reCAPTCHA"
     ]
   }
 ]
