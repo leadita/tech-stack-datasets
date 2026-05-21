@@ -1,5 +1,25 @@
 [
   {
+    "domain": "psdr.me",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 1200,
+    "crawled_at": "2026-05-21T19:41:19.991838784Z",
+    "technologies": [
+      "Apache",
+      "Barchart",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Grafana",
+      "Nginx",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "biogas-exe-engineering.cloud",
     "title": "Grafana",
     "business_name": "",
@@ -9,21 +29,6 @@
     "crawled_at": "2026-05-19T17:26:20.000980429Z",
     "technologies": [
       "Barchart",
-      "Express",
-      "GitHub Hosting",
-      "Grafana",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "jambonz.one",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": "",
-    "crawled_at": "2026-05-19T10:02:19.970449093Z",
-    "technologies": [
       "Express",
       "GitHub Hosting",
       "Grafana",
