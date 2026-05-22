@@ -1,5 +1,34 @@
 [
   {
+    "domain": "findhaven.org",
+    "title": "Haven | Refugee Resettlement Canada",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 6240,
+    "crawled_at": "2026-05-22T08:59:20.005593867Z",
+    "technologies": [
+      "Canada Helps",
+      "Content Delivery Network",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Google Analytics",
+      "Google Tag Manager",
+      "GrowSurf",
+      "Instagram Follow Button",
+      "Next.js",
+      "Radix UI",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "Verified Profile"
+    ]
+  },
+  {
     "domain": "fractory.com",
     "title": "Metal Fabrication in the UK | Scale Your Production with Fractory",
     "business_name": "Fractory",
