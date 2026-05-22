@@ -1,5 +1,26 @@
 [
   {
+    "domain": "indrajewellers.com",
+    "title": "Indra Jewellers Jabalpur | Trusted Gold & Silver Jewellery Store",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 500240,
+    "crawled_at": "2026-05-22T15:05:19.977328158Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pixabay",
+      "QUIC",
+      "Salesforce Commerce Cloud",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "eatatwiregrass.com",
     "title": "The Shops at Wiregrass ::: Directory",
     "business_name": "",
@@ -17949,36 +17970,6 @@
       "Salesforce Commerce Cloud",
       "Unsplash",
       "Zyro"
-    ]
-  },
-  {
-    "domain": "weddingvenuefinder.site",
-    "title": "Wedding Venue Finder | The first step to your perfect day",
-    "business_name": "Wedding Venue Finder",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 508132,
-    "crawled_at": "2025-12-05T16:03:46.373184576Z",
-    "technologies": [
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Next.js",
-      "Ntent",
-      "Pixieset",
-      "Pleroma",
-      "QUIC",
-      "Salesforce Commerce Cloud",
-      "Squarespace",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress",
-      "shadcn ui"
     ]
   }
 ]
