@@ -1,12 +1,12 @@
 [
   {
-    "domain": "mathurinmalby.com",
-    "title": "Mathurin Malby Photography",
+    "domain": "schwarzvoraugen.com",
+    "title": "schwarzvoraugen.at - by alex schwarz",
     "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 23286,
-    "crawled_at": "2026-05-21T07:23:19.980906305Z",
+    "country": "AUT",
+    "seo_score": 62,
+    "tech_spend": 60450,
+    "crawled_at": "2026-05-22T09:02:19.974359513Z",
     "technologies": [
       "AB Tasty",
       "Amazon",
@@ -17,10 +17,11 @@
       "Fastly",
       "Fireblade",
       "GZIP Module",
-      "Google Related Website Sites",
       "Help.com",
+      "Instagram Follow Button",
       "Nginx",
       "Ntent",
+      "QUIC",
       "SmartyStreets",
       "UTF-8"
     ]
