@@ -1,5 +1,98 @@
 [
   {
+    "domain": "runiversalis.ru",
+    "title": "Encyclopedia Runiversalis",
+    "business_name": "Encyclopedia Runiversalis",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 208,
+    "crawled_at": "2026-05-22T11:35:20.006139391Z",
+    "technologies": [
+      "ADFOX",
+      "CoreUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Publii",
+      "Twitter Ads",
+      "WordPress SEO Structured Data Schema Plugin",
+      "Yandex Hosting",
+      "Yandex Metrika"
+    ]
+  },
+  {
+    "domain": "marketing-extrem.ro",
+    "title": "Marketing Extrem MKx",
+    "business_name": "Marketing Extrem MKx",
+    "country": "ROU",
+    "seo_score": 72,
+    "tech_spend": 3077,
+    "crawled_at": "2026-05-22T02:53:19.989021786Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Apache",
+      "ETranslate",
+      "GTranslate",
+      "Google Custom Search",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Plausible Analytics",
+      "Publii",
+      "QUIC",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "jabtechsewer.com",
+    "title": "JABTech Sewer Line Inspections - JABTech Sewer Line Inspections",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 49,
+    "crawled_at": "2026-05-21T13:11:19.988050958Z",
+    "technologies": [
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "zurcher.digital",
+    "title": "Custom websites and web applications made in Switzerland | zurcher.digital",
+    "business_name": "",
+    "country": "CHE",
+    "seo_score": 77,
+    "tech_spend": 71530,
+    "crawled_at": "2026-05-21T12:38:20.004420498Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apache",
+      "Astro",
+      "DAV",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google My Business",
+      "Hexo",
+      "Microdata for Google Shopping",
+      "No-Q",
+      "PHP",
+      "Publii",
+      "Python",
+      "SMC",
+      "Subversion",
+      "Svelte",
+      "Thank You",
+      "Vector Internet Services",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "eroticgrandpa.moe",
     "title": "EROTIC GRANDPA DOT MOE",
     "business_name": "",
@@ -6355,31 +6448,6 @@
     ]
   },
   {
-    "domain": "marketingextrem.ro",
-    "title": "Marketing Extrem MKx",
-    "business_name": "Marketing Extrem MKx",
-    "country": "ROU",
-    "seo_score": 77,
-    "tech_spend": 3077,
-    "crawled_at": "2026-01-26T04:53:42.566392071Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Apache",
-      "ETranslate",
-      "GTranslate",
-      "Google Custom Search",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Plausible Analytics",
-      "Publii",
-      "QUIC",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
-    ]
-  },
-  {
     "domain": "algobalta.lt",
     "title": "Algobalta",
     "business_name": "Algobalta",
@@ -6836,29 +6904,6 @@
       "Publii",
       "Python",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "zurcher.digital",
-    "title": "Alexandre Zürcher",
-    "business_name": "",
-    "country": "CHE",
-    "seo_score": 72,
-    "tech_spend": 16200,
-    "crawled_at": "2026-01-20T12:35:52.812236453Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apache",
-      "Astro",
-      "GZIP Module",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Publii",
-      "Python",
-      "Thank You",
-      "reCAPTCHA"
     ]
   },
   {
@@ -8557,28 +8602,6 @@
       "Microdata for Google Shopping",
       "Publii",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "goodtimestravelandtours.com",
-    "title": "GOOD TIMES TRAVEL & TOURS - Goodtimes Travel And Tours Agency",
-    "business_name": "",
-    "country": "BWA",
-    "seo_score": 77,
-    "tech_spend": 2599,
-    "crawled_at": "2025-12-05T20:51:46.377632606Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]

@@ -1,5 +1,53 @@
 [
   {
+    "domain": "gaelicwizard.me",
+    "title": "John's Jottings",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 65,
+    "tech_spend": 120,
+    "crawled_at": "2026-05-22T11:02:01.329316511Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GitHub Hosting",
+      "Hugo",
+      "Instagram Follow Button",
+      "Mastodon",
+      "Micro.blog",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "steveanderson.digital",
+    "title": "steveanderson.digital",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 2640,
+    "crawled_at": "2026-05-22T05:48:58.846860378Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "GitHub Hosting",
+      "GoatCounter",
+      "HotSchedules",
+      "Hugo",
+      "Instagram Follow Button",
+      "Mastodon",
+      "Micro.blog",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "ads-on-bikes.com",
     "title": "Ads-on-Bikes • George Mandis",
     "business_name": "",
@@ -4424,32 +4472,6 @@
     ]
   },
   {
-    "domain": "sa.digital",
-    "title": "steveanderson.digital",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 2640,
-    "crawled_at": "2026-04-12T21:02:19.983186656Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Express",
-      "GitHub Hosting",
-      "GoatCounter",
-      "HotSchedules",
-      "Hugo",
-      "Instagram Follow Button",
-      "Mastodon",
-      "Micro.blog",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
     "domain": "colorpointpromo.com",
     "title": "Embroidery Utah | T-Shirt Printing | Heat Transfer | Colorpoint",
     "business_name": "",
@@ -8522,28 +8544,6 @@
       "Nginx",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "gaelicwizard.me",
-    "title": "John's Jottings",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 65,
-    "tech_spend": 120,
-    "crawled_at": "2025-12-06T07:21:37.315822815Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Mastodon",
-      "Micro.blog",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]
