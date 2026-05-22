@@ -6753,38 +6753,5 @@
       "reCAPTCHA",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "uponly.media",
-    "title": "Up Only Media I Affiliate Marketing Agency I Fintech I Crypto I Sports Betting",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 152588,
-    "crawled_at": "2026-01-11T18:36:33.948846127Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Everflow",
-      "Fastly",
-      "Fastly CDN",
-      "Flow",
-      "GZIP Module",
-      "Gambling Content",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PWA",
-      "QUIC",
-      "SMC",
-      "SiteW",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "mlcom"
-    ]
   }
 ]
