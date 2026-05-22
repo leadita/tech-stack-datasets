@@ -1,5 +1,154 @@
 [
   {
+    "domain": "opendc.ong",
+    "title": "Connected Sites | P Foundation",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 2400,
+    "crawled_at": "2026-05-22T19:50:19.968994143Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "InitiativeS",
+      "To Top",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "eccms.pl",
+    "title": "Kontakt | Adrian's Homepage",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 600,
+    "crawled_at": "2026-05-22T16:08:20.017954728Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Forms",
+      "Google My Business",
+      "Google Tag Manager",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "ampedhorizon.com",
+    "title": "Amped Horizon",
+    "business_name": "Meta Open Source",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 200,
+    "crawled_at": "2026-05-22T11:41:19.986696901Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Netlify",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "xls-server.com",
+    "title": "Hello from XLSERVER | XLSERVER",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 57,
+    "tech_spend": 7500,
+    "crawled_at": "2026-05-22T11:14:19.969337895Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fireblade",
+      "Perl",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "30daygmatsuccess.com",
+    "title": "30 Day GMAT Success - Score 780 in 30 Days | Free GMAT Study Guide",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 18256,
+    "crawled_at": "2026-05-22T07:02:17.523537888Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Bookform",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Netlify",
+      "Perl",
+      "QUIC",
+      "Sitelinks Search Box",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "openadserve.com",
+    "title": "Introduction | OpenAdServe",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": "",
+    "crawled_at": "2026-05-22T03:02:19.99217751Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Nginx",
+      "Perl",
+      "Prebid",
+      "QUIC",
+      "To Top",
+      "Ubuntu"
+    ]
+  },
+  {
+    "domain": "odran.cc",
+    "title": "Odran HUSSON | Odran HUSSON",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 84,
+    "crawled_at": "2026-05-22T02:11:19.985115918Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Perl",
+      "UTF-8",
+      "Unsplash",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "moelsgroup.com",
     "title": "Moels Group",
     "business_name": "",
@@ -848,23 +997,6 @@
       "Twitter Ads",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "xls-server.com",
-    "title": "Hello from XLSERVER | XLSERVER",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 67,
-    "tech_spend": 15000,
-    "crawled_at": "2026-05-16T18:31:33.369998473Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fireblade",
-      "Perl",
-      "Tailwind CSS"
     ]
   },
   {
@@ -2220,32 +2352,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "pfoundation.ong",
-    "title": "Home | P Foundation",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 17400,
-    "crawled_at": "2026-05-08T04:32:06.184024107Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Corporate Governance and Regulatory Compliance",
-      "Docusaurus",
-      "Express",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "InitiativeS",
-      "Perl",
-      "UTF-8"
     ]
   },
   {
@@ -8787,26 +8893,6 @@
     ]
   },
   {
-    "domain": "odran-husson.fr",
-    "title": "Odran HUSSON | Odran HUSSON",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 84,
-    "crawled_at": "2026-04-11T22:14:20.00409614Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Perl",
-      "UTF-8",
-      "Unsplash",
-      "Vercel"
-    ]
-  },
-  {
     "domain": "damia.ai",
     "title": "AuxoAI - Build Your Next AI Solutions | AuxoAI",
     "business_name": "AuxoAI",
@@ -10938,28 +11024,6 @@
     ]
   },
   {
-    "domain": "eccms.pl",
-    "title": "Kontakt | Adrian's Homepage",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 600,
-    "crawled_at": "2026-03-25T07:11:06.759192587Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Forms",
-      "Google My Business",
-      "Google Tag Manager",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "puzzlegarden.app",
     "title": "Hello from Puzzle Garden | Puzzle Garden",
     "business_name": "",
@@ -12732,103 +12796,6 @@
       "QUIC",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "ai-technical-writing.com",
-    "title": "Technical Writing, AI Writing, Editing, Online help, API Documentation – Technical Writing, Editing, AI Writing, Online help, API Documentation",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 18047,
-    "crawled_at": "2026-02-01T20:22:48.861831784Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon Associates Affiliate Shop",
-      "Amazon Widgets",
-      "AppNexus Direct",
-      "Automattic",
-      "BatCache",
-      "BidSwitch Direct",
-      "Content Delivery Network",
-      "Criteo",
-      "Criteo Reseller",
-      "Docusaurus",
-      "DoubleClick Bid Manager",
-      "EmbedPress",
-      "Fastly",
-      "GDPR Consent Management Platform",
-      "Google Reseller",
-      "Gutenberg",
-      "IponWeb BidSwitch",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Nginx",
-      "Perl",
-      "PubMatic Direct",
-      "Pubmatic",
-      "Python",
-      "QUIC",
-      "UTF-8",
-      "Varia",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "husarion.com",
-    "title": "Husarion | Autonomous Mobile Robots Made Simple",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 77,
-    "tech_spend": 15960,
-    "crawled_at": "2026-01-31T13:55:48.877314808Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Bulma",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Investor Relations",
-      "KaTeX",
-      "MailChimp",
-      "Nginx",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "University or College",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "1ms.ai",
-    "title": "1ms.ai | Making Open Source AI Just Work",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 3600,
-    "crawled_at": "2026-01-30T22:04:48.897766563Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Hugging Face Space",
-      "Perl",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "YouTube"
     ]
   }
 ]
