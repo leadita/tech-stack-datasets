@@ -1,5 +1,116 @@
 [
   {
+    "domain": "foxtri.com",
+    "title": "An EMDN - Fox tri, Technology Innovation AI Solutions Smart Systems Digital Platforms Automation Robotics Emerging Tech",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 36,
+    "crawled_at": "2026-05-22T14:32:19.987952063Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "sphygmomanometers.net",
+    "title": "Build Your Brand",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 36,
+    "crawled_at": "2026-05-22T08:53:19.987483958Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "plinko-uk.co.uk",
+    "title": "12BET - Nhà cái cá cược thể thao và sòng bạc trực tuyến",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 10120,
+    "crawled_at": "2026-05-22T07:02:20.000184913Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "BLR",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Gambling Content",
+      "Microdata for Google Shopping",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "webdomaingroup.com",
+    "title": "Web Domain Group",
+    "business_name": "",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 18432,
+    "crawled_at": "2026-05-22T04:52:45.956040996Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Dynadot",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Line2",
+      "PWA",
+      "PayPal Adaptive Payments",
+      "PayPal Button",
+      "PayPal Form",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
+    "domain": "radiantnails.co.uk",
+    "title": "Custom Nail Designs",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 35120,
+    "crawled_at": "2026-05-21T18:32:19.988215149Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "BLR",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Express",
+      "GZIP Module",
+      "K2F",
+      "Microdata for Google Shopping",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "stageintegration.com",
     "title": "Professional Audio, Video & Lighting Installation | AV Systems",
     "business_name": "",
@@ -18,28 +129,6 @@
       "NFOrce Internet",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "trafficmonitoringsystem.com",
-    "title": "An EMDN - Traffic Monitoring System, Vehicle Detection Road Safety Traffic Flow Analysis Intelligent Transportation Automated Surveillance Smart Traffic Management Congestion Monitoring Real-Time Data Highway Safety",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 120,
-    "crawled_at": "2026-05-21T13:08:59.050334233Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "UTF-8"
     ]
   },
   {
@@ -113,24 +202,6 @@
       "ElementUI",
       "GZIP Module",
       "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "pet-shirt.com",
-    "title": "Build Your Brand",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 36,
-    "crawled_at": "2026-05-20T18:17:19.97630368Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
       "Microdata for Google Shopping",
       "UTF-8"
     ]
@@ -3351,32 +3422,6 @@
       "QUIC",
       "UTF-8",
       "Unix",
-      "Website Tonight"
-    ]
-  },
-  {
-    "domain": "topgreenenergy.com",
-    "title": "Web Domain Group",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 3484,
-    "crawled_at": "2026-03-25T00:12:00.476951189Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Dynadot",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Line2",
-      "PWA",
-      "PayPal Adaptive Payments",
-      "PayPal Button",
-      "PayPal Form",
-      "UTF-8",
-      "Wangsu",
       "Website Tonight"
     ]
   },
