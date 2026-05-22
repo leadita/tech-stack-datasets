@@ -3055,38 +3055,6 @@
     ]
   },
   {
-    "domain": "spaceairship.com",
-    "title": "SpaceAirShip.com is for sale",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 104320,
-    "crawled_at": "2025-12-26T08:16:38.315524168Z",
-    "technologies": [
-      "AI Log",
-      "Airship CRM",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Fastly",
-      "Fireblade",
-      "GZIP Module",
-      "GetResponse",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "Gravity",
-      "Intercom",
-      "Microdata for Google Shopping",
-      "New Relic",
-      "OpenResty",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "aerosairship.com",
     "title": "Aeros' 40E 'Sky Dragon' Airship | The 40E is a mobile aerial sensory platform with capabilities well beyond advertising and event broadcast support. The airship features expanded useful payload and supports ISR mission success and efficiency with multi‐payload mounting systems for radar, EO/IR HD cameras, signals intercept/ communications relay equipment, and/or remote sensing technologies.",
     "business_name": "Aeros&#039; 40E &#039;Sky Dragon&#039; Airship",
