@@ -1,5 +1,38 @@
 [
   {
+    "domain": "phoenixrealty.org",
+    "title": "Boston Homes for Sale | Boston Apartments for Rent | Phoenix Realty",
+    "business_name": "Phoenix Realty Group, LLC",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 19228,
+    "crawled_at": "2026-05-22T05:41:19.977366352Z",
+    "technologies": [
+      "BLR",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Neighborhoods",
+      "PropertyBase",
+      "QUIC",
+      "ReadyChat",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8",
+      "Webcall"
+    ]
+  },
+  {
     "domain": "guernevillemanor.com",
     "title": "New Listings",
     "business_name": "The City Country Group @ Vanguard Properties",
