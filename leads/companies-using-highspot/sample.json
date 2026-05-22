@@ -1771,38 +1771,5 @@
       "Wysija",
       "jQuery"
     ]
-  },
-  {
-    "domain": "raymondk12.org",
-    "title": "Home - Raymond School District",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 22739,
-    "crawled_at": "2025-12-06T00:59:27.079607435Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Clever",
-      "ETranslate",
-      "ElementUI",
-      "Express",
-      "Font Awesome",
-      "GTranslate",
-      "GZIP Module",
-      "Google Calendar",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Highspot",
-      "Next.js",
-      "Nginx",
-      "No-Q",
-      "Pleroma",
-      "QUIC",
-      "UTF-8",
-      "Zoom",
-      "Zoom Video Conferencing"
-    ]
   }
 ]
