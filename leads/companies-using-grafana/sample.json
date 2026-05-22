@@ -1,5 +1,43 @@
 [
   {
+    "domain": "ausdemgarten.at",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 1260,
+    "crawled_at": "2026-05-22T13:53:43.939202614Z",
+    "technologies": [
+      "Apache",
+      "Barchart",
+      "CentOS",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Grafana",
+      "UTF-8",
+      "Yandex Hosting"
+    ]
+  },
+  {
+    "domain": "grafana-oke.01s.it",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 1200,
+    "crawled_at": "2026-05-22T13:16:09.616297572Z",
+    "technologies": [
+      "Apache",
+      "Barchart",
+      "DAV",
+      "Express",
+      "GitHub Hosting",
+      "Grafana",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "psdr.me",
     "title": "Grafana",
     "business_name": "",
@@ -12,41 +50,6 @@
       "Barchart",
       "Express",
       "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Grafana",
-      "Nginx",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "biogas-exe-engineering.cloud",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 1200,
-    "crawled_at": "2026-05-19T17:26:20.000980429Z",
-    "technologies": [
-      "Barchart",
-      "Express",
-      "GitHub Hosting",
-      "Grafana",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "wmate.fi",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 11200,
-    "crawled_at": "2026-05-13T23:02:19.999501985Z",
-    "technologies": [
-      "Barchart",
-      "Contento",
-      "Express",
       "GitHub Hosting",
       "Google My Business",
       "Grafana",
