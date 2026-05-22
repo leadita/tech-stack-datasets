@@ -1,5 +1,38 @@
 [
   {
+    "domain": "spinzawin.com",
+    "title": "Spinz a Win",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 65,
+    "tech_spend": 9463,
+    "crawled_at": "2026-05-22T04:29:19.982787189Z",
+    "technologies": [
+      "AWIN",
+      "Alternate Protocol",
+      "Contact Form Plugin",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "Gambling Content",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Harbor",
+      "Header, Footer and Blocks for Elementor",
+      "LiteSpeed",
+      "Mercury",
+      "NFOrce Internet",
+      "PHP",
+      "QUIC",
+      "RM Education",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "callaway200.com",
     "title": "Free Bets & Bonuses for Gamblers | Top Sites, Apps, Tips (2026)",
     "business_name": "Biliza IN Gaming LLP",
