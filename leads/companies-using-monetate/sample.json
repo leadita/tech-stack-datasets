@@ -1,5 +1,36 @@
 [
   {
+    "domain": "ayacucho-outdoor.com",
+    "title": "Designed for generations | Ayacucho",
+    "business_name": "Ayacucho",
+    "country": "PER",
+    "seo_score": 77,
+    "tech_spend": 337450,
+    "crawled_at": "2026-05-23T05:08:19.979241773Z",
+    "technologies": [
+      "Adobe Analytics",
+      "Adobe Marketing Cloud",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "BloomReach",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Klarna",
+      "Klarna On Site Messaging",
+      "Microdata for Google Shopping",
+      "Monetate",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "onmodus.nl",
     "title": "OnModus - Strategy | Technology | Data",
     "business_name": "OnModus B.V.",
@@ -4702,37 +4733,6 @@
       "Tailwind CSS",
       "Visual Studio",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "ayacucho-outdoor.fr",
-    "title": "Designed for generations | Ayacucho",
-    "business_name": "Ayacucho",
-    "country": "PER",
-    "seo_score": 92,
-    "tech_spend": 337450,
-    "crawled_at": "2026-05-04T01:10:02.843780844Z",
-    "technologies": [
-      "Adobe Analytics",
-      "Adobe Marketing Cloud",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "BloomReach",
-      "CloudFront",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Klarna",
-      "Klarna On Site Messaging",
-      "Microdata for Google Shopping",
-      "Monetate",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   },
   {
