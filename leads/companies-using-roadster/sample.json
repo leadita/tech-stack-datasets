@@ -1,12 +1,12 @@
 [
   {
-    "domain": "landroverlaval.ca",
-    "title": "LAND ROVER LAVAL | Land Rover Dealership in Laval, near Montreal",
+    "domain": "jaguarlaval.ca",
+    "title": "JAGUAR LAVAL | Jaguar Dealership in Laval, near Montreal",
     "business_name": "",
     "country": "CAN",
     "seo_score": 77,
-    "tech_spend": 75379,
-    "crawled_at": "2026-05-22T06:50:19.973482644Z",
+    "tech_spend": 90379,
+    "crawled_at": "2026-05-23T10:44:30.556728867Z",
     "technologies": [
       "Alternate Protocol",
       "AutoTrader CA",
@@ -24,6 +24,8 @@
       "Facebook Reseller",
       "Facebook Tag API",
       "Fastly",
+      "Financial Services Guide",
+      "Fireblade",
       "Font Awesome",
       "GZIP Module",
       "Google Analytics",

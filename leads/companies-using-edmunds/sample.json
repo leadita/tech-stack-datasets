@@ -1,5 +1,33 @@
 [
   {
+    "domain": "autoboutiqueohio.com",
+    "title": "Used car dealer in Columbus, OH | Auto Boutique Ohio",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 27500,
+    "crawled_at": "2026-05-22T13:28:29.619955731Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "DAV",
+      "ETranslate",
+      "Edmunds",
+      "GZIP Module",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Onyx Internet",
+      "Pleroma",
+      "QUIC",
+      "Styled Components",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "gravityautoschicago.com",
     "title": "Gravity Autos Chicago | Used Car Dealer in Highland Park, IL",
     "business_name": "",
@@ -6285,36 +6313,6 @@
       "Vercel",
       "Website Tonight",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "autoboutiqueohio.com",
-    "title": "Used car dealer in Columbus, OH | Auto Boutique Ohio",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 20500,
-    "crawled_at": "2025-12-06T10:00:46.3779068Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "ComplyAuto",
-      "Content Delivery Network",
-      "DAV",
-      "ETranslate",
-      "Edmunds",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Styled Components",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
