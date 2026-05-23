@@ -1,5 +1,146 @@
 [
   {
+    "domain": "spencergreenhalgh.com",
+    "title": "Spencer Greenhalgh (he/him) | Spencer Greenhalgh",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 348,
+    "crawled_at": "2026-05-23T02:22:23.781560983Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Google My Business",
+      "Hugo",
+      "License Buttons",
+      "Micro.blog",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "echofeed.app",
+    "title": "EchoFeed - Cross post your RSS feed to Mastodon, Bluesky, Micro.blog, Discord, and more!",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 55,
+    "tech_spend": 60,
+    "crawled_at": "2026-05-23T00:00:53.291907757Z",
+    "technologies": [
+      "Bunny Fonts",
+      "Forgejo",
+      "GZIP Module",
+      "Micro.blog",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "snarfed.org",
+    "title": "Ryan Barrett",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 1860,
+    "crawled_at": "2026-05-22T18:23:20.004034593Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Automattic",
+      "BatCache",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Fastly",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "Micro.blog",
+      "Nginx",
+      "PHP",
+      "Perl",
+      "Tailwind CSS",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "jQuery",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "benandpanna.com",
+    "title": "@bened",
+    "business_name": "",
+    "country": "",
+    "seo_score": 27,
+    "tech_spend": 159,
+    "crawled_at": "2026-05-22T17:50:19.977358711Z",
+    "technologies": [
+      "Font Awesome",
+      "GZIP Module",
+      "Mastodon",
+      "Micro.blog",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "scribomatic.com",
+    "title": "Scribomatic App - App Store",
+    "business_name": "App Store",
+    "country": "BRA",
+    "seo_score": 77,
+    "tech_spend": 197088,
+    "crawled_at": "2026-05-22T15:56:20.000823659Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Akamai EdgeConnect",
+      "Alternate Protocol",
+      "Angular",
+      "App Store",
+      "Apture Linking Platform",
+      "Azure Edge",
+      "Content Delivery Network",
+      "DAV",
+      "Fireblade",
+      "GRIN",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "MediaPlatform",
+      "Micro.blog",
+      "NFOrce Internet",
+      "PWA",
+      "Perl",
+      "QUIC",
+      "SMC",
+      "Svelte",
+      "Twitter Ads",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "matthewcanderson.com",
+    "title": "Matt Anderson",
+    "business_name": "",
+    "country": "",
+    "seo_score": 27,
+    "tech_spend": 60,
+    "crawled_at": "2026-05-22T12:35:19.990784575Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Micro.blog",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "gaelicwizard.me",
     "title": "John's Jottings",
     "business_name": "",
@@ -3007,42 +3148,6 @@
       "Micro.blog",
       "Microdata for Google Shopping",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "ryanb.org",
-    "title": "Ryan Barrett",
-    "business_name": "",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 23167,
-    "crawled_at": "2026-04-25T16:39:31.936907843Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Automattic",
-      "BatCache",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Fastly",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Micro.blog",
-      "Nginx",
-      "PHP",
-      "Perl",
-      "Tailwind CSS",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "jQuery",
-      "shadcn ui"
     ]
   },
   {
@@ -7124,24 +7229,6 @@
     ]
   },
   {
-    "domain": "benedwards.me",
-    "title": "@bened",
-    "business_name": "",
-    "country": "",
-    "seo_score": 20,
-    "tech_spend": 159,
-    "crawled_at": "2026-01-13T20:43:43.432160565Z",
-    "technologies": [
-      "Font Awesome",
-      "GZIP Module",
-      "Mastodon",
-      "Micro.blog",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "donedealac.com",
     "title": "AC Repair Katy TX | Same Day AC Fix & Emergency AC Repair Service | Best AC Replacement Company | Quick Air Conditioner Installation Cinco Ranch, Fulshear, Grand Lakes, Firethorne | HVAC Services 24/7 Near Katy TX | AC Replacement | Licensed HVAC Technicians | Emergency AC Repair | Affordable AC Installation | Schedule Affordable AC repair | Local AC Service | AC Not Cooling Repair Katy TX | Fast & Reliable Air Conditioning Repair | Top-Rated HVAC Repair Katy TX | New AC Unit Installation & Local AC Service | AC Repair With Financing | Free Service Call, Free Quote & Free Estimates | Fast Air Conditioner Repair Near Katy TX 77449, 77450, 77493, 77494, 77446, 77441 | HVAC Repair Katy, Richmond, Brookshire TX",
     "business_name": "Done Deal AC Heating",
@@ -8056,38 +8143,6 @@
     ]
   },
   {
-    "domain": "scribomatic.com",
-    "title": "Scribomatic App - App Store",
-    "business_name": "App Store",
-    "country": "BRA",
-    "seo_score": 77,
-    "tech_spend": 140888,
-    "crawled_at": "2025-12-16T11:10:32.747974497Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Akamai EdgeConnect",
-      "Alternate Protocol",
-      "Angular",
-      "App Store",
-      "Azure Edge",
-      "Content Delivery Network",
-      "DAV",
-      "Fireblade",
-      "GRIN",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Micro.blog",
-      "PWA",
-      "Parallels Plesk Panel",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "Twitter Ads",
-      "Vector Internet Services",
-      "eLand"
-    ]
-  },
-  {
     "domain": "i.gez.bz",
     "title": "~ – Just another open source micro blog",
     "business_name": "",
@@ -8488,62 +8543,6 @@
       "Perl",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "spencergreenhalgh.com",
-    "title": "Spencer Greenhalgh (he/him) | Spencer Greenhalgh",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 60,
-    "crawled_at": "2025-12-06T22:57:13.450511672Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Google My Business",
-      "License Buttons",
-      "Micro.blog",
-      "Netlify",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "combatdavey.com",
-    "title": "combatdavey.com",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 42,
-    "tech_spend": 2063,
-    "crawled_at": "2025-12-06T22:15:46.712462353Z",
-    "technologies": [
-      "Apache",
-      "BLR",
-      "DAV",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Micro.blog",
-      "Tumblr"
-    ]
-  },
-  {
-    "domain": "echofeed.app",
-    "title": "EchoFeed - Cross post your RSS feed to Mastodon, Bluesky, Micro.blog, Discord, and more!",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 70,
-    "tech_spend": 2520,
-    "crawled_at": "2025-12-06T21:45:29.184505155Z",
-    "technologies": [
-      "Amazon",
-      "Bunny Fonts",
-      "GZIP Module",
-      "Micro.blog",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
