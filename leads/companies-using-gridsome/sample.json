@@ -1,5 +1,81 @@
 [
   {
+    "domain": "lepineelectric.com",
+    "title": "Lepine Electric",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 60,
+    "crawled_at": "2026-05-23T17:12:20.177148676Z",
+    "technologies": [
+      "Amazon",
+      "Content Delivery Network",
+      "DAV",
+      "Gridsome",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "definingthelight.com",
+    "title": "Defining The Light - Defining The Light",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 66,
+    "crawled_at": "2026-05-23T16:53:20.008552694Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "kostaschikis.com",
+    "title": "Home - Kostas Chikimtzis",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 166284,
+    "crawled_at": "2026-05-23T05:13:45.892847034Z",
+    "technologies": [
+      "CCSI",
+      "CM Commerce",
+      "Content Delivery Network",
+      "DAV",
+      "Financial Services Guide",
+      "Form.IO",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "HMDG",
+      "Idaq",
+      "Instagram Follow Button",
+      "K2F",
+      "KVH",
+      "M247",
+      "Netlify",
+      "No-Q",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "symfony PHP Framework"
+    ]
+  },
+  {
     "domain": "laurapiquet.fr",
     "title": "Portfolio - Laura P.",
     "business_name": "",
@@ -11828,68 +11904,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "bigskysolar-mt.com",
-    "title": "Solar Power Missoula, Montana - Big Sky Solar Montana",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 3058,
-    "crawled_at": "2026-01-09T21:29:16.361179784Z",
-    "technologies": [
-      "Bulma",
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gridsome",
-      "Idaq",
-      "Netlify",
-      "No-Q",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "telebyte.mx",
-    "title": "Inicio - Telebyte S.A. de C.V.",
-    "business_name": "",
-    "country": "MEX",
-    "seo_score": 87,
-    "tech_spend": 2007,
-    "crawled_at": "2026-01-09T03:04:11.014618964Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Formspree",
-      "Google My Business",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "No-Q",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "philqandah.ca",
-    "title": "Hello, world! - Gridsome Blog Starter",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-01-08T23:46:27.155965159Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Gridsome",
-      "Netlify",
-      "Sanity",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]
