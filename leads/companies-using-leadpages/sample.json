@@ -1,5 +1,29 @@
 [
   {
+    "domain": "learningtorideagain.com",
+    "title": "Learning to Ride Again",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 546,
+    "crawled_at": "2026-05-23T10:59:08.143667146Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon Widgets",
+      "Apache",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "LeadPages",
+      "Ntent",
+      "Tailwind CSS",
+      "Twitter Ads"
+    ]
+  },
+  {
     "domain": "psychiatry.live",
     "title": "Convenient, Professional Psychiatric Help From The Comfort Of Your Own Phone",
     "business_name": "Psychiatry.Live | Online Mental Health and Psychiatric Services",
@@ -3141,30 +3165,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "learningtorideagain.com",
-    "title": "Learning to Ride Again",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 546,
-    "crawled_at": "2025-12-07T07:13:09.047780424Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon Widgets",
-      "Apache",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "LeadPages",
-      "Ntent",
-      "Tailwind CSS",
-      "Twitter Ads"
     ]
   }
 ]
