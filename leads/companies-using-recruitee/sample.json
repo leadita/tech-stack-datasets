@@ -1,5 +1,31 @@
 [
   {
+    "domain": "amsterdamidaparthotel.com",
+    "title": "ID APARTHOTEL | Amsterdam apartments | Official Website",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 15335,
+    "crawled_at": "2026-05-23T05:20:19.980317794Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Bookform",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Hotjar",
+      "Instagram Follow Button",
+      "Mews Commander",
+      "Nginx",
+      "QUIC",
+      "Recruitee",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "seafar.ai",
     "title": "Home - Seafar",
     "business_name": "",
