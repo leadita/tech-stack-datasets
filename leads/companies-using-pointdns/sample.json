@@ -1,21 +1,21 @@
 [
   {
-    "domain": "publishware.com",
+    "domain": "kolache.cz",
     "title": "This website or DOMAIN NAME may be for sale.",
     "business_name": "",
     "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 76599,
-    "crawled_at": "2026-05-17T09:02:19.972973933Z",
+    "seo_score": 72,
+    "tech_spend": 76500,
+    "crawled_at": "2026-05-23T02:08:19.992929226Z",
     "technologies": [
       "Camp",
       "Cart.com",
       "Dynadot",
       "ElementUI",
       "Fast",
-      "Font Awesome",
       "GZIP Module",
       "Google My Business",
+      "Microdata for Google Shopping",
       "PointDNS",
       "UTF-8"
     ]
