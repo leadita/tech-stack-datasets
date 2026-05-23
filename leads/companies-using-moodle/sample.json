@@ -1,5 +1,29 @@
 [
   {
+    "domain": "talentpopacademy.com",
+    "title": "TalentPop Academy",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 10563,
+    "crawled_at": "2026-05-23T09:25:13.614697875Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Moodle",
+      "NFOrce Internet",
+      "PHP",
+      "Totara",
+      "UTF-8",
+      "Ubuntu",
+      "Wistia",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "acemsebastianos.cl",
     "title": "Home | ACEMUSS",
     "business_name": "",
@@ -1245,30 +1269,6 @@
       "Totara",
       "UTF-8",
       "Ubuntu",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "talentpopacademy.com",
-    "title": "TalentPop Academy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 10563,
-    "crawled_at": "2025-12-07T05:35:41.333551936Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "Totara",
-      "UTF-8",
-      "Ubuntu",
-      "Wistia",
       "jsDelivr"
     ]
   }

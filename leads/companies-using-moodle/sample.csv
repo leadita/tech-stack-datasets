@@ -1,4 +1,5 @@
 domain,title,business_name,country,seo_score,tech_spend,crawled_at,technologies
+talentpopacademy.com,TalentPop Academy,,,30,10563,2026-05-23T09:25:13.614697875Z,"['Apache', 'GZIP Module', 'Google', 'Google Cloud DNS', 'Google Font API', 'Moodle', 'NFOrce Internet', 'PHP', 'Totara', 'UTF-8', 'Ubuntu', 'Wistia', 'jsDelivr']"
 acemsebastianos.cl,Home | ACEMUSS,,CHL,60,10500,2026-05-14T19:26:19.994629365Z,"['GZIP Module', 'Instagram Follow Button', 'Moodle', 'NFOrce Internet', 'Nginx', 'PHP', 'Totara', 'UTF-8', 'Ubuntu', 'jsDelivr']"
 e-somatos.it,Home | e-somatos,,GBR,60,10700,2026-05-14T18:43:11.523570117Z,"['Apache', 'GZIP Module', 'LMS Ace', 'Moodle', 'NFOrce Internet', 'PHP', 'Tailwind CSS', 'Totara', 'UTF-8', 'Ubuntu', 'jsDelivr']"
 openiwt.org,Home | OpenIWT,,FRA,67,29000,2026-05-12T13:02:20.008756839Z,"['Apache', 'Apture Linking Platform', 'GZIP Module', 'Moodle', 'NFOrce Internet', 'PHP', 'QUIC', 'Tailwind CSS', 'Totara', 'UTF-8', 'Ubuntu', 'YouTube', 'jsDelivr']"
@@ -51,4 +52,3 @@ formation-isfad-gn.org,Institut Supérieur de Formation A Distance,,,62,31400,20
 elizabethschooloflondon.uk,Elizabeth School of London,,GBR,67,31400,2025-12-09T12:34:52.832978373Z,"['Apache', 'Fastly', 'GZIP Module', 'Moodle', 'NFOrce Internet', 'PHP', 'QUIC', 'Totara', 'UTF-8', 'Ubuntu', 'University or College', 'jsDelivr']"
 modaoxfordacademy.com,Home |,,GBR,55,10656,2025-12-08T22:30:51.561698225Z,"['Apache', 'CDN JS', 'Cloudflare', 'Cloudflare CDN', 'Google My Business', 'IcoMoon', 'Instagram Follow Button', 'Moodle', 'NFOrce Internet', 'PHP', 'PWA', 'Tailwind CSS', 'Totara', 'UTF-8', 'YouTube', 'jsDelivr']"
 wordworkscourses.org.za,Wordworks' learning portal,,ZAF,67,31900,2025-12-07T22:00:37.743097506Z,"['Apache', 'Bulma', 'Fastly', 'GZIP Module', 'LMS Ace', 'Moodle', 'NFOrce Internet', 'PHP', 'QUIC', 'Tailwind CSS', 'Totara', 'UTF-8', 'Ubuntu', 'jsDelivr']"
-talentpopacademy.com,TalentPop Academy,,,30,10563,2025-12-07T05:35:41.333551936Z,"['Apache', 'GZIP Module', 'Google', 'Google Cloud DNS', 'Google Font API', 'Moodle', 'NFOrce Internet', 'PHP', 'Totara', 'UTF-8', 'Ubuntu', 'Wistia', 'jsDelivr']"
