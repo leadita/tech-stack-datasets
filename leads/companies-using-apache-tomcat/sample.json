@@ -1,5 +1,138 @@
 [
   {
+    "domain": "tiandaranqi.com",
+    "title": "Apache Tomcat/7.0.47",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 45,
+    "tech_spend": "",
+    "crawled_at": "2026-05-23T22:36:16.531680595Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "ISO/IEC 8859",
+      "QUIC",
+      "Subversion"
+    ]
+  },
+  {
+    "domain": "harisma-sms.com",
+    "title": "Harisma - Communication platform",
+    "business_name": "Harisma Communications Limited",
+    "country": "GBR",
+    "seo_score": 85,
+    "tech_spend": "",
+    "crawled_at": "2026-05-23T21:09:49.197378818Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Apache Tomcat JK",
+      "DAV",
+      "Express",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Tailwind CSS",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "metaldatabank.com",
+    "title": "河南省城产再生资源供应链管理有限责任公司",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-05-23T15:48:09.373315344Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Fancybox for WordPress",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "tsmyn.com",
+    "title": "Abraham Tedla — Data Scientist",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 5308,
+    "crawled_at": "2026-05-23T07:12:07.249864289Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Nginx",
+      "Oracle Cloud",
+      "Python",
+      "UTF-8",
+      "Ubuntu",
+      "University or College",
+      "Unix"
+    ]
+  },
+  {
+    "domain": "process-tech.com",
+    "title": "Process Technology, Inc. - Process Instrumentation and Automation Control",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 55840,
+    "crawled_at": "2026-05-23T06:35:40.690526622Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Clicky",
+      "FreeCSSTemplates",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Lead Forensics",
+      "SMC",
+      "Tawk",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "banquetrecords.com",
+    "title": "Banquet Records",
+    "business_name": "",
+    "country": "JAM",
+    "seo_score": 60,
+    "tech_spend": 102,
+    "crawled_at": "2026-05-23T06:10:13.954249015Z",
+    "technologies": [
+      "Adult Content",
+      "Apache",
+      "Apache Tomcat JK",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "CookieConsent",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "aimtechnolabs.com",
     "title": "Advance Idea Modules",
     "business_name": "",
@@ -412,22 +545,6 @@
       "Python",
       "Tailwind CSS",
       "University or College"
-    ]
-  },
-  {
-    "domain": "k-linkmlm.co.id",
-    "title": "Apache Tomcat/7.0.41",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 50,
-    "tech_spend": "",
-    "crawled_at": "2026-05-20T19:05:19.99928197Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "ISO/IEC 8859",
-      "QUIC",
-      "Subversion"
     ]
   },
   {
@@ -14464,132 +14581,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "fistscore.com",
-    "title": "FIST® Score - Financial Stability and Wellness Score.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 30508,
-    "crawled_at": "2025-12-08T10:57:23.035849913Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AWS WAF Challenge",
-      "Apache",
-      "Apache Tomcat JK",
-      "AutoComplete",
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Tag Manager",
-      "ISO/IEC 8859",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "PHP",
-      "Perl",
-      "Pure.css",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "University or College"
-    ]
-  },
-  {
-    "domain": "harisma-sms.com",
-    "title": "Harisma - Communication platform",
-    "business_name": "Harisma Communications Limited",
-    "country": "GBR",
-    "seo_score": 70,
-    "tech_spend": "",
-    "crawled_at": "2025-12-08T00:47:59.944398837Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Apache Tomcat JK",
-      "DAV",
-      "Express",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Tailwind CSS",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "metaldatabank.com",
-    "title": "河南省城产科技有限公司",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2025-12-07T13:23:47.367906254Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Fancybox for WordPress",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "tsmyn.com",
-    "title": "Abraham Tedla - Professional Portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 63,
-    "crawled_at": "2025-12-07T03:03:46.368656759Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Express",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "Oracle Cloud",
-      "Python",
-      "UTF-8",
-      "Ubuntu",
-      "University or College",
-      "Unix"
-    ]
-  },
-  {
-    "domain": "banquetrecords.com",
-    "title": "Banquet Records",
-    "business_name": "",
-    "country": "JAM",
-    "seo_score": 60,
-    "tech_spend": 102,
-    "crawled_at": "2025-12-07T02:06:46.37103607Z",
-    "technologies": [
-      "Adult Content",
-      "Apache",
-      "Apache Tomcat JK",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "CookieConsent",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "UTF-8",
-      "University or College",
-      "jQuery"
     ]
   }
 ]
