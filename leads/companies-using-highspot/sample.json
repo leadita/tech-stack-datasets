@@ -1,5 +1,57 @@
 [
   {
+    "domain": "afinawalton.com",
+    "title": "Afina Walton | Front-End Developer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 14562,
+    "crawled_at": "2026-05-23T01:38:19.983568653Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Express",
+      "Font Awesome",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Highspot",
+      "Netlify",
+      "Python",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "codacbenefits.com",
+    "title": "Open Enrollment Resource Center",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 35196,
+    "crawled_at": "2026-05-22T21:56:19.973352563Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Brainshark",
+      "Content Delivery Network",
+      "Express",
+      "Fastly",
+      "Fastly CDN",
+      "Highspot",
+      "Microdata for Google Shopping",
+      "PWA",
+      "QUIC",
+      "Sentry",
+      "UTF-8",
+      "Vector Internet Services",
+      "Wix",
+      "Wix Media",
+      "YouTube",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "enerdata.com",
     "title": "Enerdata: Migrating to Platts Dimensions Pro",
     "business_name": "",
@@ -1680,36 +1732,6 @@
       "Wangsu",
       "Website Tonight",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "codacbenefits.com",
-    "title": "Open Enrollment Resource Center",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 40396,
-    "crawled_at": "2025-12-19T11:07:32.761550197Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Brainshark",
-      "Content Delivery Network",
-      "Endis",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "Highspot",
-      "Microdata for Google Shopping",
-      "PWA",
-      "QUIC",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "YouTube",
-      "mlcom"
     ]
   },
   {
