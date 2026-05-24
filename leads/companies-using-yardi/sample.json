@@ -1,14 +1,15 @@
 [
   {
-    "domain": "realpagefacilities.com",
+    "domain": "appworkco.com",
     "title": "AppWork: Redefining Multifamily Maintenance Management",
     "business_name": "",
     "country": "USA",
     "seo_score": 72,
     "tech_spend": 157970,
-    "crawled_at": "2026-05-23T15:59:19.973066254Z",
+    "crawled_at": "2026-05-24T17:35:52.856303205Z",
     "technologies": [
       "34SP.com",
+      "AI Log",
       "AWS WAF Challenge",
       "Amazon",
       "Amazon CloudFront",
