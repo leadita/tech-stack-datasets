@@ -1,5 +1,49 @@
 [
   {
+    "domain": "ocabr.org",
+    "title": "OCABR",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 159,
+    "crawled_at": "2026-05-23T16:53:19.972868342Z",
+    "technologies": [
+      "Django",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Nginx",
+      "Pleroma",
+      "QUIC",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "mubakulifestyle.com",
+    "title": "Mubaku - Book Trusted Local Services",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 7500,
+    "crawled_at": "2026-05-23T14:11:20.014644475Z",
+    "technologies": [
+      "Adult Content",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Django",
+      "Envoy",
+      "Fireblade",
+      "Google My Business",
+      "Google Play",
+      "Nginx",
+      "Thank You",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "nattazxin.com",
     "title": "Nattapat Phungphugdee (ณัฐภัทร พึ่งภักดี) | Full Stack Developer Portfolio",
     "business_name": "",
@@ -6227,27 +6271,6 @@
     ]
   },
   {
-    "domain": "ocabr.org",
-    "title": "OCABR",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 159,
-    "crawled_at": "2026-03-11T10:12:24.093800072Z",
-    "technologies": [
-      "Django",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Nginx",
-      "Pleroma",
-      "QUIC",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "ties.co.tz",
     "title": "Tanzania Integrated Engineering Solutions | TIES | Mining Consultancy",
     "business_name": "TIES - Tanzania Integrated Engineering Solutions",
@@ -9895,34 +9918,6 @@
       "Python",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "creativelylocal.com",
-    "title": "Creatively Local - Online Reputation Management for Hotels",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 8028,
-    "crawled_at": "2025-12-08T19:16:55.254010201Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Perl",
-      "QUIC",
-      "Twitter Ads",
-      "University or College",
-      "Vector Internet Services",
-      "reCAPTCHA"
     ]
   }
 ]
