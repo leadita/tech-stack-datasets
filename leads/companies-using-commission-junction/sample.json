@@ -14085,28 +14085,5 @@
       "TradeDoubler",
       "TradeTracker"
     ]
-  },
-  {
-    "domain": "bestlifeboosters.com",
-    "title": "Age gracefully, live zestfully!",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 66240,
-    "crawled_at": "2025-12-07T22:47:44.674663968Z",
-    "technologies": [
-      "Apache",
-      "Commission Junction",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "SMC",
-      "Twitter Ads",
-      "YouTube",
-      "reCAPTCHA"
-    ]
   }
 ]
