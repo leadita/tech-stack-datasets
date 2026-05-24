@@ -1,5 +1,64 @@
 [
   {
+    "domain": "weidok.al",
+    "title": "Jake Weidokal",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 65,
+    "tech_spend": 360,
+    "crawled_at": "2026-05-24T08:06:47.049896465Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "GitHub Hosting",
+      "Mastodon",
+      "Micro.blog",
+      "PWA",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "holgerfrohloff.de",
+    "title": "Holger's Blog",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 62,
+    "tech_spend": 1620,
+    "crawled_at": "2026-05-24T04:01:15.624705493Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Hugo",
+      "License Buttons",
+      "Micro.blog",
+      "NFOrce Internet",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "rohdesign.net",
+    "title": "Mike Rohde - Mike Rohde",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 60,
+    "crawled_at": "2026-05-23T23:55:01.19795872Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Hugo",
+      "Micro.blog",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "spencergreenhalgh.com",
     "title": "Spencer Greenhalgh (he/him) | Spencer Greenhalgh",
     "business_name": "",
@@ -646,24 +705,6 @@
       "WordPress Multisite",
       "WordPress Stats",
       "jQuery",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "www.www.rohdesign.net",
-    "title": "Mike Rohde - Mike Rohde",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 60,
-    "crawled_at": "2026-05-16T19:26:19.972830005Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Hugo",
-      "Micro.blog",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
       "shadcn ui"
     ]
   },
@@ -8503,46 +8544,6 @@
       "PWA",
       "QUIC",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "weidok.al",
-    "title": "Jake Weidokal",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 60,
-    "crawled_at": "2025-12-08T23:57:17.687247024Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Interchange",
-      "Mastodon",
-      "Micro.blog",
-      "PWA",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "holgerfrohloff.de",
-    "title": "Holger's Blog",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 62,
-    "tech_spend": 120,
-    "crawled_at": "2025-12-08T15:21:45.727672541Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Instagram Follow Button",
-      "License Buttons",
-      "Micro.blog",
-      "Perl",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
