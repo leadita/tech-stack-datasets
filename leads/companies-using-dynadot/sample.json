@@ -1,5 +1,44 @@
 [
   {
+    "domain": "onlypans.us",
+    "title": "Build Your Brand",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 36,
+    "crawled_at": "2026-05-24T08:20:19.969275901Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "www.magicjujusauce.com",
+    "title": "This website or DOMAIN NAME may be for sale.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 76500,
+    "crawled_at": "2026-05-23T17:29:21.425858519Z",
+    "technologies": [
+      "Camp",
+      "Cart.com",
+      "Dynadot",
+      "ElementUI",
+      "Fast",
+      "GZIP Module",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "PointDNS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "institutenews.com",
     "title": "An EMDN - Institute News, Education Research Updates Academic Community Science Discoveries Innovation Reports University Insights Knowledge Sharing Scholarly Articles",
     "business_name": "",
@@ -43,45 +82,6 @@
       "NFOrce Internet",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "borningermany.com",
-    "title": "Build Your Brand",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 36,
-    "crawled_at": "2026-05-23T02:41:19.992064776Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "kolache.cz",
-    "title": "This website or DOMAIN NAME may be for sale.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 76500,
-    "crawled_at": "2026-05-23T02:08:19.992929226Z",
-    "technologies": [
-      "Camp",
-      "Cart.com",
-      "Dynadot",
-      "ElementUI",
-      "Fast",
-      "GZIP Module",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "PointDNS",
-      "UTF-8"
     ]
   },
   {
