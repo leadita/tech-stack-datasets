@@ -1,5 +1,25 @@
 [
   {
+    "domain": "credability.co.uk",
+    "title": "CredAbility - Your Credit Score & Report",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 228,
+    "crawled_at": "2026-05-24T13:35:55.832699553Z",
+    "technologies": [
+      "ButterCMS",
+      "Cloudflare",
+      "FrontApp",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Next.js",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "boholflora.com",
     "title": "168体彩网-澳洲5幸运结果官网168预测记录查询-最新幸运澳洲5彩票现场直播号码-168澳洲五分钟彩历史走势数据-FromYouFlowers",
     "business_name": "From You Flowers",
@@ -2121,27 +2141,6 @@
       "Google Font API",
       "PHP",
       "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "credability.co.uk",
-    "title": "CredAbility - Your Credit Score & Report",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": "",
-    "crawled_at": "2025-12-09T10:57:50.61420009Z",
-    "technologies": [
-      "ButterCMS",
-      "Cloudflare",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Styled Components",
       "UTF-8"
     ]
   }
