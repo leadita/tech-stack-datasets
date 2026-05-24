@@ -1,5 +1,34 @@
 [
   {
+    "domain": "cancer.ca",
+    "title": "Canadian Cancer Society | Canadian Cancer Society",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 192492,
+    "crawled_at": "2026-05-24T12:06:56.841440427Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Coveo",
+      "Express",
+      "Fundraise Up",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LiveChat",
+      "LiveChat Monitoring",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Rocket Chat",
+      "Sitecore CMS",
+      "Tailwind CSS",
+      "UTF-8",
+      "Visual Studio",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "athletics.dal.ca",
     "title": "Athletics & Recreation - Dalhousie University",
     "business_name": "",
@@ -795,36 +824,6 @@
       "YouTube",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "prostatecancer.ca",
-    "title": "Transform the future of prostate cancer | Canadian Cancer Society",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 192592,
-    "crawled_at": "2026-05-05T20:47:20.019104088Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Coveo",
-      "Express",
-      "Fundraise Up",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LiveChat",
-      "LiveChat Monitoring",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Mondial Relay",
-      "Rocket Chat",
-      "Sitecore CMS",
-      "Tailwind CSS",
-      "UTF-8",
-      "Visual Studio",
-      "YouTube"
     ]
   },
   {
