@@ -1,5 +1,49 @@
 [
   {
+    "domain": "uncjazzfestival.com",
+    "title": "UNC•Greeley Jazz Festival - University of Northern Colorado",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 56039,
+    "crawled_at": "2026-05-23T20:11:38.66850407Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Cludo",
+      "Content Delivery Network",
+      "Cornerstone Platform",
+      "DAV",
+      "Fastly",
+      "Font Awesome",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Monsido",
+      "New Relic",
+      "Nginx",
+      "PHP",
+      "Tailwind CSS",
+      "The SEO Framework",
+      "UTF-8",
+      "University or College",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "eicc.edu",
     "title": "Eastern Iowa Community Colleges | EICC",
     "business_name": "",
@@ -19207,32 +19251,6 @@
       "YouTube",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "uncjazzfestival.com",
-    "title": "UNC•Greeley Jazz Festival",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 38128,
-    "crawled_at": "2025-12-07T22:35:54.862635862Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cludo",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microsoft Azure",
-      "Monsido",
-      "OmniUpdate",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Visual Studio",
-      "YouTube"
     ]
   }
 ]
