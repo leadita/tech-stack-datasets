@@ -1,5 +1,30 @@
 [
   {
+    "domain": "kofc1214.org",
+    "title": "Knights of Columbus: Council 1214, Fort Collins, CO",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 1548,
+    "crawled_at": "2026-05-24T11:12:37.423159271Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Coming Soon Page",
+      "Eventbrite",
+      "Facebook Embedded Posts",
+      "Foxit",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "SignUpGenius",
+      "UTF-8",
+      "University or College",
+      "Yahoo Image CDN",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "foxitsoftware.com",
     "title": "PDF Software & Tools Tailored to Your Business | Foxit",
     "business_name": "Foxit Software",
@@ -843,31 +868,6 @@
       "UTF-8",
       "Verified Profile",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "kofc1214.org",
-    "title": "Knights of Columbus: Council 1214, Fort Collins, CO",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 75,
-    "tech_spend": 1548,
-    "crawled_at": "2025-12-09T06:59:15.85380665Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Coming Soon Page",
-      "Eventbrite",
-      "Facebook Embedded Posts",
-      "Foxit",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "SignUpGenius",
-      "UTF-8",
-      "University or College",
-      "Yahoo Image CDN",
-      "jQuery"
     ]
   }
 ]
