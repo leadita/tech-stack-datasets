@@ -11232,40 +11232,5 @@
       "WordPress Multisite",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "racheel.com",
-    "title": "Ravensburger",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 5731,
-    "crawled_at": "2025-12-08T18:27:52.374049174Z",
-    "technologies": [
-      "ByteDance",
-      "ETranslate",
-      "Express",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GZIP Module",
-      "IcoMoon",
-      "M247",
-      "Mercury",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "PHP",
-      "PayPal Adaptive Payments",
-      "QUIC",
-      "Schema Plugin",
-      "Taboola Direct",
-      "Tailwind CSS",
-      "TikTok Conversion Tracking Pixel",
-      "UTF-8",
-      "jQuery"
-    ]
   }
 ]
