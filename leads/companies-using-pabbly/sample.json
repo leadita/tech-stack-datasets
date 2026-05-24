@@ -1,5 +1,37 @@
 [
   {
+    "domain": "simpletapreviews.com",
+    "title": "SimpleTap - The Growth Engine for Local Businesses",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 19478,
+    "crawled_at": "2026-05-24T05:33:54.52689598Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Alternate Protocol",
+      "Authorize.net",
+      "Better Lead Generation Services",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Fireblade",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Customer Reviews",
+      "Google Font API",
+      "Google Maps",
+      "No-Q",
+      "Nuxt.js",
+      "Pabbly",
+      "Subversion",
+      "Thank You",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "krypton.is",
     "title": "Krypton | Secure File Delivery Made Simple",
     "business_name": "",
@@ -2662,38 +2694,6 @@
       "UTF-8",
       "Unsplash",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "simplytapreview.com",
-    "title": "SimpleTap - The Growth Engine for Local Businesses",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 19478,
-    "crawled_at": "2026-04-15T11:05:19.999386067Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Alternate Protocol",
-      "Authorize.net",
-      "Better Lead Generation Services",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Customer Reviews",
-      "Google Font API",
-      "Google Maps",
-      "No-Q",
-      "Nuxt.js",
-      "Pabbly",
-      "Subversion",
-      "Thank You",
-      "UTF-8"
     ]
   },
   {
@@ -5822,6 +5822,38 @@
       "Pabbly",
       "Twitter Ads",
       "YouTube"
+    ]
+  },
+  {
+    "domain": "simplytapreviews.com",
+    "title": "SimpleTap - The Growth Engine for Local Businesses",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 19478,
+    "crawled_at": "2025-12-28T17:04:38.346883209Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Apture Linking Platform",
+      "Authorize.net",
+      "Better Lead Generation Services",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Fireblade",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Customer Reviews",
+      "Google Font API",
+      "Google Maps",
+      "No-Q",
+      "Nuxt.js",
+      "Pabbly",
+      "Subversion",
+      "Thank You",
+      "UTF-8"
     ]
   },
   {
