@@ -1,5 +1,77 @@
 [
   {
+    "domain": "plugnotas.com.br",
+    "title": "Plugou. Tá emitindo. | PlugNotas, TecnoSpeed",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 8404,
+    "crawled_at": "2026-05-24T13:51:44.123145501Z",
+    "technologies": [
+      "CDN JS",
+      "CallPage",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gridsome",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Kenoby",
+      "LinkedIn Insights",
+      "Netlify",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "emsgen.com",
+    "title": "EMSGEN Interactive - EMSGEN Interactive",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 603,
+    "crawled_at": "2026-05-24T02:43:17.25310423Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "chongpuu.com",
+    "title": "ChongPuu Site - ChongPuu",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 10798,
+    "crawled_at": "2026-05-23T23:55:01.231594853Z",
+    "technologies": [
+      "App Store",
+      "Bulma",
+      "Content Delivery Network",
+      "Fastly",
+      "Google My Business",
+      "Google Play",
+      "Gridsome",
+      "K2F",
+      "KVH",
+      "No-Q",
+      "UTF-8",
+      "Zope"
+    ]
+  },
+  {
     "domain": "lepineelectric.com",
     "title": "Lepine Electric",
     "business_name": "",
@@ -11827,83 +11899,6 @@
       "Visual Studio",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "messco.in",
-    "title": "HomePage - MESSCO",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 60,
-    "tech_spend": 3,
-    "crawled_at": "2026-01-10T23:37:52.021905693Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Netlify",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "gemma.dev",
-    "title": "Gemma Vincent - Web developer - Gemma Vincent - Fullstack Developer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-01-10T22:57:34.88384635Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "GitHub Hosting",
-      "Gridsome",
-      "Medium",
-      "Netlify",
-      "Perl",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "apc-mail.com",
-    "title": "Home - Arab Platform Capital",
-    "business_name": "Arab Platform Capital",
-    "country": "GBR",
-    "seo_score": 87,
-    "tech_spend": 23968,
-    "crawled_at": "2026-01-09T22:27:26.389526202Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "Fireblade",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Lazy Load for WordPress",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "RM Education",
-      "Telegram",
-      "Twitter Ads",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
