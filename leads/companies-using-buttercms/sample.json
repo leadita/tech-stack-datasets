@@ -1,5 +1,26 @@
 [
   {
+    "domain": "kaapro.com",
+    "title": "Kaapro Consulting",
+    "business_name": "",
+    "country": "FIN",
+    "seo_score": 60,
+    "tech_spend": 123,
+    "crawled_at": "2026-05-25T10:52:07.735782937Z",
+    "technologies": [
+      "BootstrapMade",
+      "ButterCMS",
+      "GZIP Module",
+      "Google",
+      "Google Cloud",
+      "Google Cloud DNS",
+      "Google Font API",
+      "PHP",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "credability.co.uk",
     "title": "CredAbility - Your Credit Score & Report",
     "business_name": "",
@@ -2121,27 +2142,6 @@
       "Yelp Badge",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "kaapro.com",
-    "title": "Kaapro Consulting",
-    "business_name": "",
-    "country": "FIN",
-    "seo_score": 60,
-    "tech_spend": 123,
-    "crawled_at": "2025-12-10T01:25:56.026777568Z",
-    "technologies": [
-      "BootstrapMade",
-      "ButterCMS",
-      "GZIP Module",
-      "Google",
-      "Google Cloud",
-      "Google Cloud DNS",
-      "Google Font API",
-      "PHP",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
