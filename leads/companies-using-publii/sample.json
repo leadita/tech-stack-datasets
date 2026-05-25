@@ -1,5 +1,31 @@
 [
   {
+    "domain": "shardachemicals.in",
+    "title": "Welcome - Sharda Chemicals",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 87,
+    "tech_spend": 1708,
+    "crawled_at": "2026-05-25T10:05:18.36909863Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "LiteSpeed",
+      "PHP",
+      "Publii",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "punebef.com",
     "title": "Business Ethics Foundation",
     "business_name": "",
