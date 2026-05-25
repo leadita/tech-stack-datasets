@@ -1,5 +1,37 @@
 [
   {
+    "domain": "tandu.at",
+    "title": "IT verstehen – einfach erklärt | TanduWiki",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-05-25T21:09:53.606656273Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "GZIP Module",
+      "OpenResty",
+      "Perl"
+    ]
+  },
+  {
+    "domain": "writenrun.com",
+    "title": "Write 'n' Run",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-05-25T03:32:19.970998321Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Docusaurus",
+      "GZIP Module",
+      "Perl"
+    ]
+  },
+  {
     "domain": "icmp.ac.uk",
     "title": "ICMP Music Schools | London, Leeds, Liverpool",
     "business_name": "",
@@ -12768,49 +12800,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "teamtoobig.com",
-    "title": "Team Toobig",
-    "business_name": "",
-    "country": "",
-    "seo_score": 32,
-    "tech_spend": 600,
-    "crawled_at": "2026-02-03T10:28:48.866101123Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Perl",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "codehints.io",
-    "title": "Programming Cheat Sheets | CodeHints",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 228,
-    "crawled_at": "2026-02-03T10:28:48.861506911Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "KaTeX",
-      "Netlify",
-      "Perl",
-      "Python",
-      "Svelte",
-      "To Top",
-      "UTF-8",
-      "WebAssembly",
-      "jsDelivr"
     ]
   }
 ]
