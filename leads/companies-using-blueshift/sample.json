@@ -960,44 +960,5 @@
       "WF Cookie Consent",
       "WordPress"
     ]
-  },
-  {
-    "domain": "philadelphiarunner.com",
-    "title": "Philadelphia Runner",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 85868,
-    "crawled_at": "2025-12-09T14:31:26.962614478Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Apture Linking Platform",
-      "Blueshift",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Elfsight",
-      "Facebook Conversion Tracking",
-      "Facebook Customer Chat SDK",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microsoft Azure",
-      "RM Education",
-      "UTF-8",
-      "University or College",
-      "jQuery",
-      "jsDelivr"
-    ]
   }
 ]
