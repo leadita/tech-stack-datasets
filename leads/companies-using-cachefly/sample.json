@@ -1,5 +1,43 @@
 [
   {
+    "domain": "alfalfahaus.com",
+    "title": "Home Page - Alfalfa Haus",
+    "business_name": "Alfalfa Haus",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 32603,
+    "crawled_at": "2026-05-25T12:09:37.895870728Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apache",
+      "CacheFly",
+      "CacheFly CDN",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Contact Form Plugin",
+      "EmbedPress",
+      "GZIP Module",
+      "GeneratePress Company",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "University or College",
+      "Unsplash",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "windsorpembrokepines.com",
     "title": "Windsor Pembroke Pines | Apartments near Miramar and Miami",
     "business_name": "Windsor Pembroke Pines",
@@ -2477,36 +2515,6 @@
       "Tally",
       "To Top",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "choreo.dev",
-    "title": "Choreo | AI-Native Internal Developer Platform as a Service",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 47240,
-    "crawled_at": "2025-12-09T14:31:26.960667175Z",
-    "technologies": [
-      "Bulma",
-      "CacheFly",
-      "CacheFly CDN",
-      "Cisco/Arrowpoint Content Service Switch",
-      "DAV",
-      "Discord",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Heroku",
-      "INETu",
-      "Medium",
-      "NFOrce Internet",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "Vercel"
     ]
   }
 ]
