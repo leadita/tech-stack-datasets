@@ -1,5 +1,36 @@
 [
   {
+    "domain": "fv-financialsolutions.com",
+    "title": "FV Financial Solutions - Small Business Accounting and Setup",
+    "business_name": "FV Financial Solutions",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 2307,
+    "crawled_at": "2026-05-24T22:51:12.307426828Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "Formidable Pro Form",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Hello Elementor",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PHP",
+      "QUIC",
+      "QuickBooks Online",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "mc.cpa",
     "title": "Home - Montgomery and Company, CPAs",
     "business_name": "",
@@ -6620,37 +6651,6 @@
       "Vector Internet Services",
       "Zoom Video Conferencing",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "fvfamilyservices.com",
-    "title": "FV Financial Solutions - Small Business Accounting and Setup",
-    "business_name": "FV Financial Solutions",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2307,
-    "crawled_at": "2026-04-03T20:23:19.990433478Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Formidable Pro Form",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hello Elementor",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "QuickBooks Online",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   },
   {
