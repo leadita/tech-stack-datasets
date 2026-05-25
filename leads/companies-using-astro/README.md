@@ -1,6 +1,6 @@
 # Companies Using Astro (Live Dataset 2026)
 
-This folder contains an active list of 38,165 companies using **Astro**. 
+This folder contains an active list of 38,167 companies using **Astro**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 38,165
+- **Total Leads:** 38,167
 - **Verified:** Yes
-- **Last Updated:** 2026-05-24 19:15 UTC
+- **Last Updated:** 2026-05-25 19:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **38,165+** companies using Astro.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **38,167+** companies using Astro.
 
 [**⚡ Unlock the Full Astro List with Contact Details**](https://leadita.com/leads/companies-using-astro)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-05-24 19:15 UTC*
+*Last updated: 2026-05-25 19:15 UTC*
 *Data source: Leadita Technographic Intelligence*
