@@ -5715,30 +5715,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "paradigmdirection.com",
-    "title": "Paradigm, Inc. | Family Services & Behavioral Health in Nebraska",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 22476,
-    "crawled_at": "2025-12-10T02:34:56.027347447Z",
-    "technologies": [
-      "Apache",
-      "Baidu Cloud",
-      "CaptainForm",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Python",
-      "QUIC",
-      "Site Search 360",
-      "TherapyNotes",
-      "UTF-8",
-      "Yandex Hosting"
-    ]
   }
 ]
