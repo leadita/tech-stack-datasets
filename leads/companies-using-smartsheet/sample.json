@@ -1,5 +1,40 @@
 [
   {
+    "domain": "goldenstatefire.com",
+    "title": "Golden State Fire Apparatus – Fire Aparatus",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 2167,
+    "crawled_at": "2026-05-25T16:39:40.214833513Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Hello Elementor",
+      "LiteSpeed",
+      "NFOrce Internet",
+      "PHP",
+      "QUIC",
+      "Smartsheet",
+      "Table Addons for Elementor",
+      "Tailwind CSS",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WooCommerce",
+      "WooCommerce Checkout",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "smartzip.com",
     "title": "Buy Qualified Seller Leads for Real Estate Agents | #1 Farming Tool With Automated Leads: Smartzip",
     "business_name": "",
@@ -17895,39 +17930,6 @@
       "UTF-8",
       "Vector Internet Services",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "goldenstatefire.com",
-    "title": "Golden State Fire Apparatus – Fire Aparatus",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 3207,
-    "crawled_at": "2025-12-10T04:34:56.033627467Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Constant Contact",
-      "Constant Contact Wordpress Forms",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Hello Elementor",
-      "LiteSpeed",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "Smartsheet",
-      "Table Addons for Elementor",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
