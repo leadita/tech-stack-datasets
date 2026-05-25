@@ -1,5 +1,31 @@
 [
   {
+    "domain": "aknin.net",
+    "title": "Itai Aknin - Product Designer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 37020,
+    "crawled_at": "2026-05-24T22:32:17.781994509Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Framer Sites",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "KVH",
+      "Microsoft Clarity",
+      "Ntent",
+      "Tipalti",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
     "domain": "moxie.vc",
     "title": "Moxxie | Build with Moxxie",
     "business_name": "Moxxie Ventures",

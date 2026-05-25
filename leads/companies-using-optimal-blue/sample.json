@@ -1,5 +1,38 @@
 [
   {
+    "domain": "gorealo.info",
+    "title": "Florida Mortgage Rates 1% Lower | Save More with GoRealo",
+    "business_name": "GoRealo",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 33248,
+    "crawled_at": "2026-05-24T18:14:19.970781004Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "GZIP Module",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Nationwide Mortgage Licensing System and Registry",
+      "No-Q",
+      "Optimal Blue",
+      "PWA",
+      "QUIC",
+      "Sitelinks Search Box",
+      "UTF-8",
+      "University or College",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "houseloanswithanna.com",
     "title": "Anna DeLaCruz | Velocio Mortgage",
     "business_name": "",
@@ -50,39 +83,6 @@
       "jsDelivr",
       "localendar",
       "monday.com"
-    ]
-  },
-  {
-    "domain": "goreallow.net",
-    "title": "Florida Mortgage Rates 1% Lower | Save More with GoRealo",
-    "business_name": "GoRealo",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 33248,
-    "crawled_at": "2026-05-22T11:17:19.976724721Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "GZIP Module",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Nationwide Mortgage Licensing System and Registry",
-      "No-Q",
-      "Optimal Blue",
-      "PWA",
-      "QUIC",
-      "Sitelinks Search Box",
-      "UTF-8",
-      "University or College",
-      "YouTube",
-      "jQuery"
     ]
   },
   {
