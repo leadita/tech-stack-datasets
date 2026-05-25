@@ -1,5 +1,32 @@
 [
   {
+    "domain": "kcsp.org.uk",
+    "title": "Kent Catholic Schools' Partnership - Home",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 18230,
+    "crawled_at": "2026-05-25T04:49:46.227964878Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Apture Linking Platform",
+      "Corporate Governance and Regulatory Compliance",
+      "ETranslate",
+      "Edmunds",
+      "Fireblade",
+      "GTranslate",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "University or College",
+      "UserWay",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "autoboutiqueohio.com",
     "title": "Used car dealer in Columbus, OH | Auto Boutique Ohio",
     "business_name": "",
@@ -6251,68 +6278,6 @@
       "University or College",
       "Visual Studio",
       "eLand"
-    ]
-  },
-  {
-    "domain": "kcsp.org.uk",
-    "title": "Kent Catholic Schools' Partnership - Home",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 17740,
-    "crawled_at": "2025-12-09T21:52:56.012876452Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Corporate Governance and Regulatory Compliance",
-      "ETranslate",
-      "Edmunds",
-      "Fireblade",
-      "GTranslate",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "University or College",
-      "jQuery",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "anythingtech.ca",
-    "title": "AnythingTech - Your Source for Tech News, Reviews & Guides",
-    "business_name": "AnythingTech",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 18360,
-    "crawled_at": "2025-12-09T15:40:56.04712243Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Edmunds",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Adsense",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google Reseller",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Perl",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "Website Tonight",
-      "shadcn ui"
     ]
   }
 ]
