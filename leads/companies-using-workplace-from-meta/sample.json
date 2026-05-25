@@ -1,5 +1,36 @@
 [
   {
+    "domain": "destinationworkplace.com",
+    "title": "Company Culture & Leadership Development To Attract & Retain Talent",
+    "business_name": "",
+    "country": "IMN",
+    "seo_score": 77,
+    "tech_spend": 27358,
+    "crawled_at": "2026-05-25T13:26:19.973120725Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "DAV",
+      "Duda",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Perl",
+      "QUIC",
+      "Styled Components",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "UserWay",
+      "Vector Internet Services",
+      "Workplace from Meta"
+    ]
+  },
+  {
     "domain": "flybowshop.com",
     "title": "Flybow Shop - Traditional Archery Website",
     "business_name": "Traditional Archery Website",
@@ -1111,36 +1142,6 @@
       "Workplace from Meta",
       "accessiBe",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "thedestinationworkplace.com",
-    "title": "Company Culture & Leadership Development To Attract & Retain Talent",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 24958,
-    "crawled_at": "2026-05-13T21:23:19.997345868Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "DAV",
-      "Duda",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Perl",
-      "QUIC",
-      "Styled Components",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "UserWay",
-      "Vector Internet Services",
-      "Workplace from Meta"
     ]
   },
   {
@@ -9457,39 +9458,6 @@
       "Workplace from Meta",
       "YouTube",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "elev8workplace.com",
-    "title": "Elev8 Workplace – Business Updates",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 802,
-    "crawled_at": "2025-12-10T00:40:56.00693459Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hello Elementor",
-      "NFOrce Internet",
-      "PHP",
-      "Slider Revolution",
-      "Table Addons for Elementor",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "Workplace from Meta",
-      "jQuery"
     ]
   }
 ]
