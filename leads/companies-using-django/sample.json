@@ -1,5 +1,59 @@
 [
   {
+    "domain": "boldnesttrail.com",
+    "title": "Bold Nest Trail: Exploring Nature's Wonders and Outdoor Adventures",
+    "business_name": "",
+    "country": "PHL",
+    "seo_score": 87,
+    "tech_spend": 24452,
+    "crawled_at": "2026-05-25T11:45:51.740682972Z",
+    "technologies": [
+      "About Cookies",
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "DAV",
+      "Django",
+      "Gambling Content",
+      "IcoMoon",
+      "Krypt Technologies",
+      "Matomo",
+      "Matomo Tag Manager",
+      "QUIC",
+      "RegOnline",
+      "Research.net",
+      "Rush",
+      "Subversion",
+      "Tailwind CSS",
+      "UPS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "klsonconcrete.com",
+    "title": "KL & Son Concrete | Home | Concrete Specialist Services",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 2268,
+    "crawled_at": "2026-05-25T07:40:07.739726649Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Perl",
+      "QUIC",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "ocabr.org",
     "title": "OCABR",
     "business_name": "",
@@ -310,35 +364,6 @@
       "UTF-8",
       "WF Cookie Consent",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "luckyplanetgg360.com",
-    "title": "Lucky Planet GG 360: Gaming Tips, Reviews, and Community",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 77,
-    "tech_spend": 7948,
-    "crawled_at": "2026-05-19T18:59:19.991859723Z",
-    "technologies": [
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "DAV",
-      "Django",
-      "Gambling Content",
-      "IcoMoon",
-      "Krypt Technologies",
-      "Line2",
-      "Matomo",
-      "Matomo Tag Manager",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "eLand",
-      "jQuery"
     ]
   },
   {
@@ -1268,28 +1293,6 @@
       "GZIP Module",
       "GitHub Hosting",
       "Google My Business",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "klsonsconcrete.com",
-    "title": "KL & Son Concrete | Home | Concrete Specialist Services",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 2268,
-    "crawled_at": "2026-05-08T04:49:13.695488286Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Instagram Follow Button",
       "Perl",
       "QUIC",
       "reCAPTCHA"
@@ -9898,26 +9901,6 @@
       "UTF-8",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "fearnought.club",
-    "title": "Fearnought.club",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": "",
-    "crawled_at": "2025-12-09T22:22:46.896693346Z",
-    "technologies": [
-      "Bulma",
-      "Django",
-      "ElementUI",
-      "License Buttons",
-      "Nginx",
-      "Pleroma",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
