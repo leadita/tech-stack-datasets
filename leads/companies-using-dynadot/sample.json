@@ -1,5 +1,27 @@
 [
   {
+    "domain": "coralbay.homes",
+    "title": "CoralBay Holiday Homes",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 120,
+    "crawled_at": "2026-05-24T21:36:51.768444917Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Telegram",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "onlypans.us",
     "title": "Build Your Brand",
     "business_name": "",
@@ -4970,27 +4992,6 @@
       "Google Tag Manager",
       "Instagram Follow Button",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "coralbay.homes",
-    "title": "CoralBay Holiday Homes",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 219,
-    "crawled_at": "2025-12-09T17:31:56.118884213Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "QUIC",
-      "Telegram",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]

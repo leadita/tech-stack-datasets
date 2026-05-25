@@ -1,5 +1,29 @@
 [
   {
+    "domain": "inovatorius.tech",
+    "title": "inovatorius.tech",
+    "business_name": "",
+    "country": "LTU",
+    "seo_score": 60,
+    "tech_spend": 12463,
+    "crawled_at": "2026-05-25T06:44:01.474674671Z",
+    "technologies": [
+      "Apache",
+      "Ektron",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Retail Product Discovery",
+      "Joomla!",
+      "RokNavMenu",
+      "UTF-8",
+      "Yandex Hosting",
+      "Zonomi",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "paintplacesoothespace.com",
     "title": "Painting Places and Soothing Spaces – Painting Places and Soothing Spaces",
     "business_name": "",
@@ -1118,30 +1142,6 @@
       "WP Super Cache",
       "WordPress",
       "WordPress Multisite",
-      "Zonomi",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "inovatorius.tech",
-    "title": "inovatorius.tech",
-    "business_name": "",
-    "country": "LTU",
-    "seo_score": 60,
-    "tech_spend": 12463,
-    "crawled_at": "2025-12-09T23:01:56.037828099Z",
-    "technologies": [
-      "Apache",
-      "Ektron",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Retail Product Discovery",
-      "Joomla!",
-      "RokNavMenu",
-      "UTF-8",
-      "Yandex Hosting",
       "Zonomi",
       "jQuery"
     ]
