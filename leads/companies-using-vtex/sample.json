@@ -1523,48 +1523,5 @@
       "WhatsApp Sharing",
       "jQuery"
     ]
-  },
-  {
-    "domain": "voit.com",
-    "title": "Voit® Official: Soccer Balls, Volleyballs & Sports Gear",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 32726,
-    "crawled_at": "2025-12-10T04:25:56.038027871Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Content Delivery Network",
-      "Contento",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "FormSubmit",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "Onyx Internet",
-      "Perl",
-      "QUIC",
-      "Render",
-      "Shipping Rates Calculator",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "UTF-8",
-      "VTEX Personalization",
-      "WhatsApp Sharing",
-      "reCAPTCHA"
-    ]
   }
 ]
