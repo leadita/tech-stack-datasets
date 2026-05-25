@@ -3436,46 +3436,5 @@
       "UTF-8",
       "Unbounce"
     ]
-  },
-  {
-    "domain": "alphabetfunbounce.com",
-    "title": "Alphabetfunbounce - We.Spell.Fun",
-    "business_name": "Alphabetfunbounce",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 8260,
-    "crawled_at": "2025-12-10T00:05:46.620680331Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Astra Theme",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Elementor",
-      "EmbedPress",
-      "Express",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google My Business",
-      "Max Mega Menu Pro",
-      "Microdata for Google Shopping",
-      "Microsoft 365",
-      "NFOrce Internet",
-      "Perl",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Table Addons for Elementor",
-      "UTF-8",
-      "Unbounce",
-      "W3.CSS",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "jQuery",
-      "reCAPTCHA"
-    ]
   }
 ]
