@@ -1,5 +1,45 @@
 [
   {
+    "domain": "vilmasantos.com",
+    "title": "Build Your Brand",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 36,
+    "crawled_at": "2026-05-26T11:51:12.159404738Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "201212.com",
+    "title": "An EMDN - 201212, Date Reference Numeric Code Sequential Number Year Identifier Calendar Date Timestamp Milestone Event",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 36,
+    "crawled_at": "2026-05-26T04:53:19.97038389Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "coralbay.homes",
     "title": "CoralBay Holiday Homes",
     "business_name": "",
@@ -22,24 +62,6 @@
     ]
   },
   {
-    "domain": "onlypans.us",
-    "title": "Build Your Brand",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 36,
-    "crawled_at": "2026-05-24T08:20:19.969275901Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "www.magicjujusauce.com",
     "title": "This website or DOMAIN NAME may be for sale.",
     "business_name": "",
@@ -58,29 +80,6 @@
       "Microdata for Google Shopping",
       "PointDNS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "institutenews.com",
-    "title": "An EMDN - Institute News, Education Research Updates Academic Community Science Discoveries Innovation Reports University Insights Knowledge Sharing Scholarly Articles",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 36,
-    "crawled_at": "2026-05-23T13:14:40.384953378Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "UTF-8",
-      "University or College"
     ]
   },
   {
