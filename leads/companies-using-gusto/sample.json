@@ -1,5 +1,68 @@
 [
   {
+    "domain": "ianeuro.com",
+    "title": "Association for Clinical Neurology and Mental Health (ACNM)",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 65,
+    "tech_spend": 177812,
+    "crawled_at": "2026-05-26T13:36:18.031059478Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Bulma",
+      "CM Commerce",
+      "Cart.com",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Easy Pie Chart",
+      "Expedient",
+      "Fireblade",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Tag Manager",
+      "Gusto",
+      "IcoMoon",
+      "Linktree",
+      "LiteSpeed",
+      "QUIC",
+      "SMC",
+      "Subversion",
+      "SushiSwap",
+      "Tailwind CSS",
+      "Telegram",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "YouTube",
+      "about.me",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "wichitacoordination.com",
+    "title": "Jessica | A Radiantly Curated Life",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 5568,
+    "crawled_at": "2026-05-26T13:20:06.800269551Z",
+    "technologies": [
+      "Canva Websites",
+      "Cloudflare",
+      "Curated",
+      "Google My Business",
+      "Gusto",
+      "Instagram Follow Button",
+      "NFOrce Internet",
+      "UTF-8",
+      "University or College",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "isabelaugusto.com",
     "title": "ISABEL AUGUSTO",
     "business_name": "",
@@ -15392,27 +15455,6 @@
     ]
   },
   {
-    "domain": "radiantlycurated.com",
-    "title": "Jessica | A Radiantly Curated Life",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 5568,
-    "crawled_at": "2026-02-19T03:22:24.987546563Z",
-    "technologies": [
-      "Canva Websites",
-      "Cloudflare",
-      "Curated",
-      "Google My Business",
-      "Gusto",
-      "Instagram Follow Button",
-      "NFOrce Internet",
-      "UTF-8",
-      "University or College",
-      "reCAPTCHA"
-    ]
-  },
-  {
     "domain": "9thstreetfs.com",
     "title": "Get a professional bookkeeper at a price you can afford. We’ll Take Care of Everything So You Can Grow Your Business. – You run your business, we'll manage your finances!",
     "business_name": "",
@@ -18500,30 +18542,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "grangusto.com.br",
-    "title": "Biscoitos de Polvilho e Salgadinhos de Milho Grangusto | grangusto",
-    "business_name": "",
-    "country": "BRA",
-    "seo_score": 72,
-    "tech_spend": 4684,
-    "crawled_at": "2025-12-23T13:59:48.060766352Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gusto",
-      "Instagram Follow Button",
-      "No-Q",
-      "OpenResty",
-      "Pexels",
-      "Unsplash",
-      "Zyro"
     ]
   }
 ]
