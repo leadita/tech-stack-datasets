@@ -1,5 +1,39 @@
 [
   {
+    "domain": "sojaway.com",
+    "title": "Home - SOJAWAY",
+    "business_name": "",
+    "country": "BEL",
+    "seo_score": 65,
+    "tech_spend": 346,
+    "crawled_at": "2026-05-26T09:46:03.07888764Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Cookie Accept",
+      "Cookie Notice",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Mautic",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "Way",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "heldenkreis.net",
     "title": "Home | Heldenkreis",
     "business_name": "",
@@ -18987,34 +19021,6 @@
       "UTF-8",
       "WordPress",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "covnavalves.com",
-    "title": "Motorized Valve, Pneumatic Actuator Valve & Solenoid Valve Manufacturer",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 72,
-    "tech_spend": 139,
-    "crawled_at": "2026-02-16T13:32:01.362555331Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Mautic",
-      "Microsoft Clarity",
-      "Nginx",
-      "PHP",
-      "QUIC",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
