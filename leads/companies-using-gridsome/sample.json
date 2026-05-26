@@ -1,5 +1,69 @@
 [
   {
+    "domain": "cherryon.tech",
+    "title": "Cherry on Tech - Cherry On Tech",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": "",
+    "crawled_at": "2026-05-26T20:00:29.365923255Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Financial Services Guide",
+      "Gridsome",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "tts-transair.com",
+    "title": "TTS TransAir | Gespecialiseerd in luchtvracht | Luchttransport expediteur",
+    "business_name": "www.tts-transair.com",
+    "country": "NLD",
+    "seo_score": 67,
+    "tech_spend": 228,
+    "crawled_at": "2026-05-26T19:25:19.508034784Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Google My Business",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "tripsforcharities.com",
+    "title": "Trips for Charities - Consignment Vacations | Event Support - Trips for Charities",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2090,
+    "crawled_at": "2026-05-26T14:46:07.260001872Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Gridsome",
+      "Nginx",
+      "No-Q",
+      "QUIC",
+      "Ubuntu",
+      "eLand",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "fabritailabs.com",
     "title": "Transforming Companies Into Digital Leaders - Fabrit Global",
     "business_name": "",
@@ -11829,76 +11893,6 @@
       "Tailwind CSS",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "avocats-femmes-violences.org",
-    "title": "Accueil - Avocats Femmes Violences",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 258,
-    "crawled_at": "2026-01-12T22:26:22.859105068Z",
-    "technologies": [
-      "Algolia",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Content Delivery Network",
-      "Envoy",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gridsome",
-      "Netlify",
-      "No-Q",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "krig.agency",
-    "title": "Hello world! - KRIG.agency",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 100558,
-    "crawled_at": "2026-01-11T03:44:36.617787603Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Gridsome",
-      "Instagram Follow Button",
-      "K2F",
-      "Netlify",
-      "No-Q",
-      "Onyx Internet",
-      "SMC",
-      "Subversion",
-      "UTF-8",
-      "Zope"
-    ]
-  },
-  {
-    "domain": "estypendia.pl",
-    "title": "System stypendialny - e-Stypendia",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 72940,
-    "crawled_at": "2026-01-11T03:12:12.852114925Z",
-    "technologies": [
-      "GZIP Module",
-      "Gridsome",
-      "KVH",
-      "Microsoft Azure",
-      "SMC",
-      "Tailwind CSS",
-      "Visual Studio",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]
