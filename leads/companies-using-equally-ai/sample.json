@@ -1,5 +1,38 @@
 [
   {
+    "domain": "threeblockswine.com",
+    "title": "Three Blocks",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 65,
+    "tech_spend": 80791,
+    "crawled_at": "2026-05-25T12:21:00.947275887Z",
+    "technologies": [
+      "Aruba",
+      "Elfsight",
+      "Equally AI",
+      "Express",
+      "FormSubmit",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Newsletter for Wordpress",
+      "Pico CSS",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "blindvirast.com",
     "title": "Blind Assistive Technology for Balkan Countires – Blind Assistive Technology for Balkan Countires",
     "business_name": "",
@@ -8296,39 +8329,6 @@
       "YouTube",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "threeblockswine.com",
-    "title": "Three Blocks",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 80791,
-    "crawled_at": "2025-12-10T02:10:56.029856197Z",
-    "technologies": [
-      "Aruba",
-      "Elfsight",
-      "Equally AI",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "Pico CSS",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
