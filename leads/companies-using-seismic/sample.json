@@ -1,5 +1,54 @@
 [
   {
+    "domain": "nwseismic.com",
+    "title": "Seismic Retrofits for Portland Homes | NW Seismic",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 40838,
+    "crawled_at": "2026-05-26T05:20:19.969525293Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Investor Relations",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "No-Q",
+      "Seismic",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "staticacousticmonitoring.com",
+    "title": "Static Acoustic Monitoring | Ocean Science Consulting Ltd | Marine Science",
+    "business_name": "",
+    "country": "NZL",
+    "seo_score": 77,
+    "tech_spend": 42440,
+    "crawled_at": "2026-05-26T00:26:54.819970756Z",
+    "technologies": [
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "QUIC",
+      "Seismic",
+      "Twitter Ads",
+      "WordPress",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "transnetyx.com",
     "title": "Transnetyx",
     "business_name": "",
@@ -229,26 +278,6 @@
       "Nginx",
       "Seismic",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "porpoisedetector.org",
-    "title": "Porpoise Detector | Ocean Science Consulting Ltd | Marine Science",
-    "business_name": "",
-    "country": "NZL",
-    "seo_score": 67,
-    "tech_spend": 42440,
-    "crawled_at": "2026-05-14T23:32:19.980893737Z",
-    "technologies": [
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "QUIC",
-      "Seismic",
-      "Twitter Ads",
-      "WordPress",
-      "YouTube"
     ]
   },
   {
@@ -2344,29 +2373,6 @@
       "Wootric",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "cetaceanmonitoring.com",
-    "title": "Cetacean Monitoring | Ocean Science Consulting Ltd | Marine Science",
-    "business_name": "",
-    "country": "NZL",
-    "seo_score": 77,
-    "tech_spend": 58940,
-    "crawled_at": "2026-01-03T06:01:31.675585894Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "NFOrce Internet",
-      "QUIC",
-      "Seismic",
-      "Twitter Ads",
-      "University or College",
-      "WordPress",
-      "YouTube"
     ]
   },
   {
