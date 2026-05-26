@@ -1,6 +1,6 @@
 # Companies Using Mantine (Live Dataset 2026)
 
-This folder contains an active list of 3,149 companies using **Mantine**. 
+This folder contains an active list of 3,147 companies using **Mantine**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 3,149
+- **Total Leads:** 3,147
 - **Verified:** Yes
-- **Last Updated:** 2026-05-25 15:00 UTC
+- **Last Updated:** 2026-05-26 15:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **3,149+** companies using Mantine.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **3,147+** companies using Mantine.
 
 [**⚡ Unlock the Full Mantine List with Contact Details**](https://leadita.com/leads/companies-using-mantine)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-05-25 15:00 UTC*
+*Last updated: 2026-05-26 15:00 UTC*
 *Data source: Leadita Technographic Intelligence*

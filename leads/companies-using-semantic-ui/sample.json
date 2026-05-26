@@ -1,5 +1,60 @@
 [
   {
+    "domain": "localenergy.scot",
+    "title": "We are Local Energy Scotland · Local Energy Scotland",
+    "business_name": "Local Energy Scotland",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 1129,
+    "crawled_at": "2026-05-26T09:37:23.364589368Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "EmbedPress",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "PHP",
+      "QUIC",
+      "Semantic UI",
+      "Tailwind CSS",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "kansascitynorthlandhomes.com",
+    "title": "Kansas City Northland Homes",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 1083,
+    "crawled_at": "2026-05-25T15:41:41.855488502Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ExpRealty",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Nginx",
+      "Semantic UI",
+      "Ubuntu",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "srgexports.com",
     "title": "SRG Exports",
     "business_name": "",
@@ -14427,50 +14482,6 @@
       "Tailwind CSS",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "usedcraneindonesia.com",
-    "title": "Crane Indonesia",
-    "business_name": "",
-    "country": "IDN",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-04-07T19:47:19.980064497Z",
-    "technologies": [
-      "Instagram Follow Button",
-      "Nginx",
-      "Perl",
-      "Semantic UI",
-      "UTF-8",
-      "YouTube",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "gvpassociates.com",
-    "title": "GVP Associates",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 342,
-    "crawled_at": "2026-04-07T17:17:20.012016421Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Forms",
-      "Google My Business",
-      "HostGator",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Parallels Plesk Panel",
-      "Semantic UI",
-      "Visual Studio",
-      "WhatsApp Sharing"
     ]
   }
 ]
