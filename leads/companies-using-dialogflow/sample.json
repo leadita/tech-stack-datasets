@@ -9760,36 +9760,5 @@
       "Google My Business",
       "Google Tag Manager"
     ]
-  },
-  {
-    "domain": "nvsledwall.com",
-    "title": "Manufacturer of LED Video Processor & Outdoor LED Video Display by Newtech Video Systems Private Limited, Delhi",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 65,
-    "tech_spend": 2818,
-    "crawled_at": "2025-12-10T05:58:56.008991195Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Dialogflow",
-      "Font Awesome",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "Slider Revolution",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "jQuery"
-    ]
   }
 ]
