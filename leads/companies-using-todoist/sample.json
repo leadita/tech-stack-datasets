@@ -1,5 +1,25 @@
 [
   {
+    "domain": "benbreckler.lu",
+    "title": "Ben Breckler",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 6920,
+    "crawled_at": "2026-05-25T23:06:16.429657493Z",
+    "technologies": [
+      "Framer Sites",
+      "Google",
+      "Google Cloud CDN",
+      "K2F",
+      "Lemon Squeezy",
+      "Ntent",
+      "Todoist",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
     "domain": "curatedlists.site",
     "title": "CuratedLists - Discover the Best Tools for Every Need | 2025",
     "business_name": "",
@@ -2448,26 +2468,6 @@
       "Todoist",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "benbreckler.lu",
-    "title": "Ben Breckler",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 6920,
-    "crawled_at": "2025-12-10T07:55:56.059278729Z",
-    "technologies": [
-      "Framer Sites",
-      "Google",
-      "Google Cloud CDN",
-      "K2F",
-      "Lemon Squeezy",
-      "Ntent",
-      "Todoist",
-      "Yandex Hosting",
-      "Zeald"
     ]
   }
 ]
