@@ -1,5 +1,44 @@
 [
   {
+    "domain": "singaporearchitect.sg",
+    "title": "Singapore Architect",
+    "business_name": "",
+    "country": "SGP",
+    "seo_score": 72,
+    "tech_spend": 73420,
+    "crawled_at": "2026-05-26T15:27:33.054963764Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adult Content",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Clockwork",
+      "Content Delivery Network",
+      "DAV",
+      "ElementUI",
+      "Express",
+      "Fireblade",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gravity",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "NFOrce Internet",
+      "Next.js",
+      "Perl",
+      "Pleroma",
+      "Prismic",
+      "QUIC",
+      "The Deck",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "Vignette OpenText",
+      "Yellow Book",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "tropicalwaterandwell.com",
     "title": "Tropical Water Treatment and Well Service | Serving South Florida",
     "business_name": "",
@@ -13613,26 +13652,6 @@
       "Perl",
       "Pleroma",
       "Prismic",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "opsforestry.com.au",
-    "title": "OPS Forestry | Security and quality are the hallmarks of our business.",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 57,
-    "tech_spend": 120,
-    "crawled_at": "2026-04-06T01:02:19.992409413Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Content Delivery Network",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "Prismic",
-      "Tailwind CSS",
       "UTF-8",
       "Vercel"
     ]

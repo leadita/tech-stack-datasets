@@ -1,5 +1,72 @@
 [
   {
+    "domain": "geonproperty.com",
+    "title": "Shaping Extraordinary | Geon",
+    "business_name": "",
+    "country": "SYC",
+    "seo_score": 82,
+    "tech_spend": 2856,
+    "crawled_at": "2026-05-26T12:01:23.519740822Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DatoCMS",
+      "Gatsby JS",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vimeo",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "nordddb.com",
+    "title": "NORD",
+    "business_name": "",
+    "country": "FIN",
+    "seo_score": 50,
+    "tech_spend": 10000,
+    "crawled_at": "2026-05-26T10:58:16.673647606Z",
+    "technologies": [
+      "DatoCMS",
+      "Full Media",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma"
+    ]
+  },
+  {
+    "domain": "53w53.com",
+    "title": "53 West 53 | Iconic Manhattan Condominiums With a View",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 20529,
+    "crawled_at": "2026-05-26T08:56:35.140955773Z",
+    "technologies": [
+      "Content Delivery Network",
+      "CookieYes",
+      "DatoCMS",
+      "Express",
+      "Fireblade",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Netlify",
+      "Nuxt.js",
+      "Stackoverflow CDN",
+      "UTF-8",
+      "Vimeo"
+    ]
+  },
+  {
     "domain": "slice-telecom.com",
     "title": "Slice Mobile | A new mobile network",
     "business_name": "Slice Mobile",
@@ -9003,28 +9070,6 @@
     ]
   },
   {
-    "domain": "geon.au",
-    "title": "Shaping Extraordinary | Geon",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2856,
-    "crawled_at": "2026-04-29T13:32:19.990723657Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DatoCMS",
-      "Gatsby JS",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vimeo",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "milbankarchitects.co.uk",
     "title": "RIBA Chartered Architects in Newcastle Upon Tyne | Milbank Architects",
     "business_name": "",
@@ -12470,24 +12515,6 @@
     ]
   },
   {
-    "domain": "norddb.fi",
-    "title": "NORD",
-    "business_name": "",
-    "country": "FIN",
-    "seo_score": 45,
-    "tech_spend": 10000,
-    "crawled_at": "2026-04-18T11:02:19.987138085Z",
-    "technologies": [
-      "DatoCMS",
-      "Full Media",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "QUIC"
-    ]
-  },
-  {
     "domain": "ddbdesign.se",
     "title": "NORD ID",
     "business_name": "",
@@ -13987,34 +14014,6 @@
       "Twitter Ads",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "53west53.com",
-    "title": "53 West 53 | Iconic Manhattan Condominiums With a View",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 20529,
-    "crawled_at": "2026-04-13T02:11:20.014034996Z",
-    "technologies": [
-      "Content Delivery Network",
-      "CookieYes",
-      "DatoCMS",
-      "Express",
-      "Fireblade",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Netlify",
-      "Nuxt.js",
-      "Stackoverflow CDN",
-      "UTF-8",
-      "Vimeo"
     ]
   },
   {
