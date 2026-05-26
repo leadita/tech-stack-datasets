@@ -10734,32 +10734,5 @@
       "Zoom Video Conferencing",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "fisherteam.cpa",
-    "title": "Home | Fisher & Associates",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 32800,
-    "crawled_at": "2025-12-10T10:55:56.016574917Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "M247",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "Zoom Video Conferencing",
-      "jsDelivr"
-    ]
   }
 ]
