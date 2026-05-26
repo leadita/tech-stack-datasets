@@ -1,5 +1,23 @@
 [
   {
+    "domain": "twiles.com",
+    "title": "Tessa Wiles",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 57,
+    "tech_spend": 132,
+    "crawled_at": "2026-05-26T06:32:51.549519737Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Express",
+      "Ghost",
+      "Microdata for Google Shopping",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "sensorium.club",
     "title": "Illumination.NYC '25 – SENSORIUM",
     "business_name": "",
@@ -13308,27 +13326,6 @@
       "Twitter Ads",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "southwoodlincoln.com",
-    "title": "Southwood Neighborhood Association",
-    "business_name": "",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": "",
-    "crawled_at": "2026-03-06T17:44:12.37752209Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ElementUI",
-      "Express",
-      "GZIP Module",
-      "Ghost",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "UTF-8",
-      "Ubuntu"
     ]
   }
 ]
