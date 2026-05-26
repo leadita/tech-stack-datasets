@@ -1,5 +1,33 @@
 [
   {
+    "domain": "northerndynamic.de",
+    "title": "Northern Dynamic GmbH - Microsoft Dynamics 365 Business Central Apps & Consulting",
+    "business_name": "Northern Dynamic GmbH",
+    "country": "DEU",
+    "seo_score": 82,
+    "tech_spend": 20300,
+    "crawled_at": "2026-05-25T20:22:52.695025623Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Express",
+      "Financial Services Guide",
+      "Fireblade",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "fransramirez.com",
     "title": "Frans Ramirez Neyra - Software Engineer",
     "business_name": "",
@@ -14396,39 +14424,6 @@
       "UTF-8",
       "WebAssembly",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "anildewani.com",
-    "title": "Home - Anil Dewani",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 53988,
-    "crawled_at": "2026-04-16T21:23:20.005544702Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "Crisp",
-      "Disqus Comment System for WordPress",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hugo",
-      "Pleroma",
-      "Python",
-      "SMC",
-      "Telegram",
-      "UTF-8",
-      "Unix",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
