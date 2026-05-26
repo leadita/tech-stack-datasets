@@ -1,5 +1,30 @@
 [
   {
+    "domain": "optionsnet.gr",
+    "title": "Welcome - Optionsnet",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 16188,
+    "crawled_at": "2026-05-26T12:53:42.109888606Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apache",
+      "Apache Tomcat JK",
+      "GZIP Module",
+      "Google My Business",
+      "Google Related Website Sites",
+      "IcoMoon",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "jacopobernasconi.com",
     "title": "Jacopo Bernasconi - Senior Cloud Engineer",
     "business_name": "",
@@ -14585,37 +14610,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "swatikarni.com",
-    "title": "Portfolio | Swati Karni- Principal Cloud Engineer",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 2796,
-    "crawled_at": "2025-12-10T22:01:56.014664366Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud CDN",
-      "Icons8",
-      "Instagram Follow Button",
-      "Next.js",
-      "Ntent",
-      "Perl",
-      "Pleroma",
-      "Python",
-      "Twitter Ads",
-      "Twitter CDN",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "WordPress",
-      "shadcn ui"
     ]
   }
 ]
