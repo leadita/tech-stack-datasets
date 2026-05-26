@@ -2846,47 +2846,5 @@
       "Vector Internet Services",
       "Vercel"
     ]
-  },
-  {
-    "domain": "acceleratedlearningcenteraz.com",
-    "title": "Home - Accelerated Learning Center",
-    "business_name": "",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 34213,
-    "crawled_at": "2025-12-10T13:40:56.024147667Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Divi",
-      "Elegant Themes",
-      "EmbedPress",
-      "Fireblade",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Gravity",
-      "Gravity Forms",
-      "Microdata for Google Shopping",
-      "PHP",
-      "PandaDoc",
-      "Theme In WP",
-      "UTF-8",
-      "University or College",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
-    ]
   }
 ]
