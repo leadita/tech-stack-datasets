@@ -1,5 +1,31 @@
 [
   {
+    "domain": "ranisy.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "EGY",
+    "seo_score": 77,
+    "tech_spend": 50384,
+    "crawled_at": "2026-05-26T12:07:14.970194673Z",
+    "technologies": [
+      "Better Lead Generation Services",
+      "DHL Parcel",
+      "Express",
+      "FedEx",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Nginx",
+      "QUIC",
+      "SMC",
+      "Tailwind CSS",
+      "UPS",
+      "UTF-8",
+      "Unsplash",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "bhbai.com",
     "title": "BLUE HORIZON BEYOND AI™",
     "business_name": "",
@@ -18433,26 +18459,6 @@
       "WordPress Related Posts",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "sugariks.cc",
-    "title": "Contact - sugariks.cc",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 18217,
-    "crawled_at": "2026-02-01T20:11:54.306130668Z",
-    "technologies": [
-      "DHL",
-      "Fastly",
-      "Fireblade",
-      "Formspree",
-      "GZIP Module",
-      "IcoMoon",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
