@@ -1,18 +1,16 @@
 [
   {
-    "domain": "casinoreelinsider.co.uk",
-    "title": "Casino Reel Insider: UK's Top Slot and Gaming Reviews",
+    "domain": "meganation.us",
+    "title": "MegaNation: Exploring Tech, Lifestyle, and Innovation Insights",
     "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
+    "country": "GBR",
+    "seo_score": 87,
     "tech_spend": 2756,
-    "crawled_at": "2026-05-26T12:11:55.203675128Z",
+    "crawled_at": "2026-05-27T02:40:51.46801561Z",
     "technologies": [
-      "About Cookies",
       "Bulma",
       "Cloudflare",
       "Cloudflare CDN",
-      "Cloudflare Web Analytics",
       "Content Delivery Network",
       "DAV",
       "Django",
@@ -23,8 +21,37 @@
       "QUIC",
       "Tailwind CSS",
       "UTF-8",
-      "eLand",
+      "University or College",
       "jQuery"
+    ]
+  },
+  {
+    "domain": "ladiescirclenepal.org.np",
+    "title": "Ladies Circle Nepal",
+    "business_name": "",
+    "country": "NPL",
+    "seo_score": 67,
+    "tech_spend": 19828,
+    "crawled_at": "2026-05-26T12:26:19.970508223Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apache",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Django",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Phusion Passenger Enterprise",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr"
     ]
   },
   {
@@ -9845,32 +9872,6 @@
       "QUIC",
       "University or College",
       "YouTube",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "findyourselfinfashion.com",
-    "title": "Find Yourself In Fashion | Home | Virtual Fashion Consultant",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2268,
-    "crawled_at": "2025-12-10T21:58:56.024659087Z",
-    "technologies": [
-      "B12",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Perl",
-      "QUIC",
-      "Twitter Ads",
-      "University or College",
       "reCAPTCHA"
     ]
   }
