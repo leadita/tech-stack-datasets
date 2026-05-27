@@ -1,5 +1,29 @@
 [
   {
+    "domain": "freshtracks.music",
+    "title": "Freshtracks | Production music for TV, film and commercials",
+    "business_name": "",
+    "country": "CZE",
+    "seo_score": 67,
+    "tech_spend": 53958,
+    "crawled_at": "2026-05-26T15:38:19.969400838Z",
+    "technologies": [
+      "Bunny Fonts",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Tag Manager",
+      "Intercom",
+      "Power BI",
+      "Tally",
+      "The Fresh",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "chrislyman.me",
     "title": "Chris Lyman – Data Engineer, Power BI and Power Automate Developer",
     "business_name": "",
@@ -19220,34 +19244,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "transportadoraprint.com.br",
-    "title": "Print - Entregando Soluções",
-    "business_name": "",
-    "country": "BRA",
-    "seo_score": 65,
-    "tech_spend": 1987,
-    "crawled_at": "2026-02-23T11:01:53.682335502Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "PHP",
-      "Parcel",
-      "Power BI",
-      "QUIC",
-      "Slider Revolution",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "reCAPTCHA"
     ]
   }
 ]

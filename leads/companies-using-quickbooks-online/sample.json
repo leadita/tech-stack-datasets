@@ -1,5 +1,35 @@
 [
   {
+    "domain": "jarcpa.com",
+    "title": "Home | J.A. Rodriguez CPA, LLC",
+    "business_name": "",
+    "country": "PHL",
+    "seo_score": 77,
+    "tech_spend": 33520,
+    "crawled_at": "2026-05-26T19:35:07.408322099Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "ArvanCloud",
+      "Cloudinary",
+      "Dext",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "M247",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Zoom Video Conferencing",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "fv-financialsolutions.com",
     "title": "FV Financial Solutions - Small Business Accounting and Setup",
     "business_name": "FV Financial Solutions",
@@ -10703,36 +10733,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "jarcpa.com",
-    "title": "Home | J.A. Rodriguez CPA, LLC",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 77,
-    "tech_spend": 33520,
-    "crawled_at": "2025-12-10T18:28:56.039721842Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "Dext",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "M247",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Zoom Video Conferencing",
-      "jsDelivr"
     ]
   }
 ]
