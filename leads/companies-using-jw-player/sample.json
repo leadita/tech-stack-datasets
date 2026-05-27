@@ -1,5 +1,41 @@
 [
   {
+    "domain": "pluc.tv",
+    "title": "Your Storytelling Engine | Creator Economy and Storytelling Platform",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 51220,
+    "crawled_at": "2026-05-27T20:26:36.388937741Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "DAV",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "JW Player Platform",
+      "K2F",
+      "Next.js",
+      "Nginx",
+      "No-Q",
+      "Ntent",
+      "Perl",
+      "Pleroma",
+      "QUIC",
+      "RM Education",
+      "UTF-8",
+      "Ubuntu",
+      "Vello"
+    ]
+  },
+  {
     "domain": "thesportsbible.com",
     "title": "SPORTbible - The Latest Sports News, Videos, Rumours & Pictures",
     "business_name": "",
@@ -40172,33 +40208,6 @@
       "WordPress Multisite",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "brownee.com",
-    "title": "Home - Browne Engineering & Construction",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 3049,
-    "crawled_at": "2026-01-29T15:49:48.864577047Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Google My Business",
-      "JW Player Platform",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "UTF-8",
-      "University or College",
-      "WP Engine",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
