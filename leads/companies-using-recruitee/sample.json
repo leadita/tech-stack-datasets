@@ -1,5 +1,39 @@
 [
   {
+    "domain": "knewplay.ca",
+    "title": "Home | KNEWPLAY",
+    "business_name": "Knew Play Inc.",
+    "country": "CAN",
+    "seo_score": 70,
+    "tech_spend": 112775,
+    "crawled_at": "2026-05-26T19:03:28.815063379Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "DC74",
+      "Express",
+      "Fastly",
+      "Fastly CDN",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PWA",
+      "QUIC",
+      "Recruitee",
+      "SMC",
+      "Sentry",
+      "SiteW",
+      "UTF-8",
+      "Vector Internet Services",
+      "Wix",
+      "Wix Media",
+      "eLand",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "walibi.co.uk",
     "title": "Walibi Holland | The ultimate amusement park",
     "business_name": "",
@@ -9683,40 +9717,6 @@
       "WordPress Multisite",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "knewplay.ca",
-    "title": "Home | KNEWPLAY",
-    "business_name": "Knew Play Inc.",
-    "country": "CAN",
-    "seo_score": 65,
-    "tech_spend": 127574,
-    "crawled_at": "2025-12-10T18:10:56.030936148Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "DC74",
-      "Endis",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PWA",
-      "QUIC",
-      "Recruitee",
-      "SMC",
-      "SiteW",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "mlcom"
     ]
   }
 ]
