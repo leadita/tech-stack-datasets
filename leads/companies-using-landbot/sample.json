@@ -1,5 +1,28 @@
 [
   {
+    "domain": "lehidumpsterrental.com",
+    "title": "Lehi Dumpster Rental",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 77,
+    "tech_spend": 17099,
+    "crawled_at": "2026-05-26T18:12:23.904372928Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fireblade",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google My Business",
+      "LandBot",
+      "Microdata for Google Shopping",
+      "Schema Plugin",
+      "UTF-8",
+      "Yet Another Related Posts Plugin"
+    ]
+  },
+  {
     "domain": "cumberland-pt.com",
     "title": "Cumberland Physical Therapy - Lewisburg and Sparta TN",
     "business_name": "Cumberland Physical Therapy",
@@ -16770,30 +16793,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "lehidumpsterrental.com",
-    "title": "Lehi Dumpster Rental",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 77,
-    "tech_spend": 17099,
-    "crawled_at": "2025-12-10T17:43:56.007735803Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Fireblade",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google My Business",
-      "LandBot",
-      "Microdata for Google Shopping",
-      "Schema Plugin",
-      "UTF-8",
-      "Yet Another Related Posts Plugin"
     ]
   }
 ]
