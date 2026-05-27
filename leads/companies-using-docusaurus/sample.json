@@ -1,5 +1,84 @@
 [
   {
+    "domain": "cloudstack.cloud",
+    "title": "Apache CloudStack | Apache CloudStack",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 42800,
+    "crawled_at": "2026-05-27T09:22:38.632929043Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apache",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Eventbrite",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Forms",
+      "Google My Business",
+      "LeaseWeb",
+      "M247",
+      "Perl",
+      "QUIC",
+      "Slack",
+      "Twitter Ads",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "upcx.io",
+    "title": "UPCX - Welcome to the Binancial World | UPCX - BEYOND PAYMENTS",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 8850,
+    "crawled_at": "2026-05-27T08:35:19.970584722Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Cloudinary",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Google Tag Manager",
+      "Medium",
+      "Oracle Cloud",
+      "Perl",
+      "Telegram",
+      "Twitter Ads"
+    ]
+  },
+  {
+    "domain": "ethanppl.com",
+    "title": "Ethan Pang",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 72,
+    "tech_spend": 5068,
+    "crawled_at": "2026-05-27T03:45:04.212425111Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Medium",
+      "Nginx",
+      "Plausible Analytics",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "tandu.at",
     "title": "IT verstehen – einfach erklärt | TanduWiki",
     "business_name": "",
@@ -6007,35 +6086,6 @@
     ]
   },
   {
-    "domain": "cloudstack.org",
-    "title": "Apache CloudStack | Apache CloudStack",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 42800,
-    "crawled_at": "2026-04-26T02:11:19.999479486Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apache",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Eventbrite",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Forms",
-      "Google My Business",
-      "LeaseWeb",
-      "M247",
-      "Perl",
-      "QUIC",
-      "Slack",
-      "Twitter Ads",
-      "YouTube"
-    ]
-  },
-  {
     "domain": "manifoldapp.org",
     "title": "Manifold<!-- --> <!-- -->| Manifold Possibilities",
     "business_name": "",
@@ -11107,34 +11157,6 @@
     ]
   },
   {
-    "domain": "upcx.io",
-    "title": "UPCX - Welcome to the Binancial World | UPCX - BEYOND PAYMENTS",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 8850,
-    "crawled_at": "2026-03-27T08:35:48.081537375Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Cloudinary",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Tag Manager",
-      "Medium",
-      "Oracle Cloud",
-      "Perl",
-      "Telegram",
-      "Twitter Ads"
-    ]
-  },
-  {
     "domain": "deploy-now.ca",
     "title": "Deploy Now » Build and Deploy via GitHub | IONOS",
     "business_name": "",
@@ -12778,28 +12800,6 @@
       "Twitter Ads",
       "Wangsu",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "darka.io",
-    "title": "Darka Software | Automation Made Easy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 5000,
-    "crawled_at": "2026-02-03T13:16:48.890762053Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Better Lead Generation Services",
-      "Calendly",
-      "Docusaurus",
-      "Nginx",
-      "Perl",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]

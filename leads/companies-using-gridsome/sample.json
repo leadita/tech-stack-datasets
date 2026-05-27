@@ -1,5 +1,77 @@
 [
   {
+    "domain": "commoswiss.ch",
+    "title": "commoswiss - commoswiss",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 112500,
+    "crawled_at": "2026-05-27T15:05:00.214873157Z",
+    "technologies": [
+      "AAPT",
+      "Apache",
+      "DAV",
+      "Express",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Gridsome",
+      "HMDG",
+      "Idaq",
+      "KVH",
+      "SMC",
+      "Subversion",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "ma-little-agence.com",
+    "title": "Ma Little Agence - Ma Little Agence",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 42500,
+    "crawled_at": "2026-05-27T08:50:42.387833353Z",
+    "technologies": [
+      "DAV",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gridsome",
+      "Idaq",
+      "Instagram Follow Button",
+      "Nginx",
+      "UTF-8",
+      "Vignette OpenText",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "ownbit.agency",
+    "title": "Individuelle Websites und Webapps — OWNBIT Webagentur Schaffhausen",
+    "business_name": "",
+    "country": "CHE",
+    "seo_score": 72,
+    "tech_spend": 117830,
+    "crawled_at": "2026-05-27T06:12:32.441363601Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Federal Deposit Insurance Corporation",
+      "Gridsome",
+      "HMDG",
+      "Idaq",
+      "Instagram Follow Button",
+      "K2F",
+      "KVH",
+      "Nginx",
+      "No-Q",
+      "PHP",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "cherryon.tech",
     "title": "Cherry on Tech - Cherry On Tech",
     "business_name": "",
@@ -1225,32 +1297,6 @@
     ]
   },
   {
-    "domain": "ownbit.net",
-    "title": "Individuelle Websites und Webapps — OWNBIT Webagentur Schaffhausen",
-    "business_name": "",
-    "country": "CHE",
-    "seo_score": 72,
-    "tech_spend": 117830,
-    "crawled_at": "2026-05-16T02:02:19.980539048Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Federal Deposit Insurance Corporation",
-      "Gridsome",
-      "HMDG",
-      "Idaq",
-      "Instagram Follow Button",
-      "K2F",
-      "KVH",
-      "Nginx",
-      "No-Q",
-      "PHP",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "garemaplacesurgery.com.au",
     "title": "Garema Place Surgery",
     "business_name": "",
@@ -2192,30 +2238,6 @@
       "Vercel",
       "VitePress",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "commoswiss.com",
-    "title": "commoswiss - commoswiss",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 112500,
-    "crawled_at": "2026-05-11T17:32:19.97977934Z",
-    "technologies": [
-      "AAPT",
-      "Apache",
-      "DAV",
-      "Express",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Gridsome",
-      "HMDG",
-      "Idaq",
-      "KVH",
-      "SMC",
-      "Subversion",
-      "University or College"
     ]
   },
   {
@@ -11872,27 +11894,6 @@
       "UTF-8",
       "University or College",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "salvatorecriscione.com",
-    "title": "Salvatore Criscione - Salvatore Criscione",
-    "business_name": "",
-    "country": "EST",
-    "seo_score": 67,
-    "tech_spend": 20558,
-    "crawled_at": "2026-01-13T15:14:21.547640856Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Gridsome",
-      "Instagram Follow Button",
-      "KVH",
-      "Netlify",
-      "No-Q",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]
