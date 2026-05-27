@@ -1,5 +1,32 @@
 [
   {
+    "domain": "kingoropelletmill.com",
+    "title": "Rice Husk Pellet Machine, Biomass Pellet Machine, Wood Pellet Machine, Pellet Production Line Manufacturing Service Provider - Kingoro",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 77,
+    "tech_spend": 2400,
+    "crawled_at": "2026-05-27T14:29:02.406669923Z",
+    "technologies": [
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Mautic",
+      "Nginx",
+      "PHP",
+      "Tawk",
+      "Twitter Ads",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "Yandex Hosting",
+      "YouTube",
+      "eLand",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "sojaway.com",
     "title": "Home - SOJAWAY",
     "business_name": "",
@@ -18978,49 +19005,6 @@
       "WordPress Multisite",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "mremergency.com.au",
-    "title": "Mr Emergency - Plumbing, Electrical & Air Conditioning Services",
-    "business_name": "Mr Emergency",
-    "country": "AUS",
-    "seo_score": 87,
-    "tech_spend": 8628,
-    "crawled_at": "2026-02-16T19:58:20.087128563Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "DAV",
-      "EmbedPress",
-      "Facebook Conversion Tracking",
-      "Facebook Pixel",
-      "Facebook Tag API",
-      "Fastly",
-      "GetResponse",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Feed for WordPress",
-      "Instagram Follow Button",
-      "Matomo Tag Manager",
-      "Mautic",
-      "Microdata for Google Shopping",
-      "New Relic",
-      "PHP",
-      "Product Review",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "YouTube"
     ]
   }
 ]
