@@ -1,5 +1,37 @@
 [
   {
+    "domain": "choicehealthlawsuit.com",
+    "title": "Court Authorized Notice - Choice Health Lawsuit",
+    "business_name": "Choice Health Lawsuit",
+    "country": "USA",
+    "seo_score": 75,
+    "tech_spend": 28382,
+    "crawled_at": "2026-05-26T16:26:20.664867423Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon",
+      "Apache",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "EmbedPress",
+      "GZIP Module",
+      "Google",
+      "Google My Business",
+      "HostGator",
+      "Jetpack",
+      "Lazy Load for WordPress",
+      "Microdata for Google Shopping",
+      "RM Education",
+      "RightSignature",
+      "Twenty Twenty-Four",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "lerrosarbey.com",
     "title": "LerroSarbey Accounting & Advisory Services | Boca Raton & Fort Lauderdale CPA Firm",
     "business_name": "",
@@ -2165,39 +2197,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "choicehealthlawsuit.com",
-    "title": "Court Authorized Notice - Choice Health Lawsuit",
-    "business_name": "Choice Health Lawsuit",
-    "country": "USA",
-    "seo_score": 75,
-    "tech_spend": 28382,
-    "crawled_at": "2025-12-10T16:40:53.574238876Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "EmbedPress",
-      "GZIP Module",
-      "Google",
-      "Google My Business",
-      "HostGator",
-      "Jetpack",
-      "Lazy Load for WordPress",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "RM Education",
-      "RightSignature",
-      "Twenty Twenty-Four",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite"
     ]
   }
 ]
