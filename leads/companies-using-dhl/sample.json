@@ -1,5 +1,32 @@
 [
   {
+    "domain": "oceancoastelectric.com",
+    "title": "Ocean Coast Electric | Commercial & Industrial Electrical Contractor in New Jersey",
+    "business_name": "Ocean Coast Electric",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 15340,
+    "crawled_at": "2026-05-26T23:42:32.547126332Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "DHL Parcel",
+      "Google Maps",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "PWA",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "Walmart",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "ranisy.com",
     "title": "Home",
     "business_name": "",
@@ -18426,39 +18453,6 @@
       "Tailwind CSS",
       "UTF-8",
       "University or College"
-    ]
-  },
-  {
-    "domain": "creativewriting-bg.com",
-    "title": "Spill some ink!",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 503,
-    "crawled_at": "2026-02-02T10:36:28.589258869Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Astra Theme",
-      "DHL Parcel",
-      "Elementor",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "NFOrce Internet",
-      "PHP",
-      "Premium Addons for Elementor",
-      "Royal Elementor Addons",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
