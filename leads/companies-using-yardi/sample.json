@@ -1659,39 +1659,5 @@
       "University or College",
       "Yardi Systems"
     ]
-  },
-  {
-    "domain": "nbaoa.ca",
-    "title": "NBAOA",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 35544,
-    "crawled_at": "2025-12-10T22:19:56.011644707Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Aruba",
-      "Corporate Governance and Regulatory Compliance",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "Pico CSS",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "Yardi Systems",
-      "eLand",
-      "jQuery"
-    ]
   }
 ]
