@@ -1,6 +1,6 @@
 # Companies Using LinkedIn Insights (Live Dataset 2026)
 
-This folder contains an active list of 46,676 companies using **LinkedIn Insights**. 
+This folder contains an active list of 46,679 companies using **LinkedIn Insights**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 46,676
+- **Total Leads:** 46,679
 - **Verified:** Yes
-- **Last Updated:** 2026-05-26 14:30 UTC
+- **Last Updated:** 2026-05-27 14:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **46,676+** companies using LinkedIn Insights.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **46,679+** companies using LinkedIn Insights.
 
 [**⚡ Unlock the Full LinkedIn Insights List with Contact Details**](https://leadita.com/leads/companies-using-linkedin-insights)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-05-26 14:30 UTC*
+*Last updated: 2026-05-27 14:30 UTC*
 *Data source: Leadita Technographic Intelligence*
