@@ -1,5 +1,38 @@
 [
   {
+    "domain": "jaimamart.com",
+    "title": "Jaimamart Grocery And Fashion Supermarket",
+    "business_name": "Jaimamart - Daily Needs Supermarket",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 21775,
+    "crawled_at": "2026-05-27T03:05:36.715168653Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Botble",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Flat Icon",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "IcoMoon",
+      "KVH",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Pabbly",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "simpletapreviews.com",
     "title": "SimpleTap - The Growth Engine for Local Businesses",
     "business_name": "",
@@ -6439,38 +6472,6 @@
       "Pabbly",
       "QUIC",
       "SMC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "jaimamart.com",
-    "title": "Jaimamart Grocery And Fashion Supermarket",
-    "business_name": "Jaimamart - Daily Needs Supermarket",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 1775,
-    "crawled_at": "2025-12-10T22:37:56.108783287Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Botble",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Flat Icon",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Pabbly",
-      "QUIC",
-      "Tailwind CSS",
       "UTF-8"
     ]
   }
