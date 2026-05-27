@@ -7029,44 +7029,5 @@
       "taggbox",
       "ucfunnel Direct"
     ]
-  },
-  {
-    "domain": "primary.com",
-    "title": "Primary Clothing - Brilliant Basics for Baby & Kids",
-    "business_name": "Primary.com",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 201680,
-    "crawled_at": "2025-12-10T22:46:56.031651407Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "Attentive",
-      "Back in Stock",
-      "Bazaarvoice",
-      "Bazaarvoice Curations",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Dynamic Yield",
-      "Express",
-      "Fastly",
-      "Fireblade",
-      "Google Related Website Sites",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "Microdata for Google Shopping",
-      "Mixpanel",
-      "NFOrce Internet",
-      "Oddle",
-      "Olark",
-      "Shopify",
-      "Shopify Collabs",
-      "SiteW",
-      "UTF-8",
-      "hCaptcha",
-      "jsDelivr",
-      "reCAPTCHA"
-    ]
   }
 ]
