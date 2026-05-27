@@ -2173,33 +2173,5 @@
       "Vector Internet Services",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "u-community.io",
-    "title": "Welcome - Ubiquity Community",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 7983,
-    "crawled_at": "2025-12-10T22:43:56.010142522Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "BetterMode",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "ElementUI",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Headless UI",
-      "Imgix",
-      "JIRA",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "Tribe.so",
-      "Vector Internet Services",
-      "shadcn ui"
-    ]
   }
 ]
