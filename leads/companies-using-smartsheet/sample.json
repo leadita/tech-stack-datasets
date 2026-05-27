@@ -1,5 +1,63 @@
 [
   {
+    "domain": "doodleshack.org",
+    "title": "Doodle Shack - Exploring Creativity",
+    "business_name": "Doodle Shack",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 59642,
+    "crawled_at": "2026-05-27T15:57:09.224054931Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Contento",
+      "EmbedPress",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Jetpack",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PHP",
+      "SiteW",
+      "Smartsheet",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "maacoconvention-sponsorship.com",
+    "title": "MAACO CONVENTION SPONSORSHIP",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 18100,
+    "crawled_at": "2026-05-27T05:26:19.972855327Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Book Direct",
+      "Elfsight",
+      "GZIP Module",
+      "Gambling Content",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Smartsheet",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "westernreservehospital.com",
     "title": "Western Reserve Hospital",
     "business_name": "",
@@ -4481,27 +4539,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "maacoconvention-sponsorship.com",
-    "title": "MAACO CONVENTION SPONSORSHIP",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 18100,
-    "crawled_at": "2026-05-04T06:01:12.006130797Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Book Direct",
-      "Elfsight",
-      "Gambling Content",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Smartsheet",
-      "Tailwind CSS"
     ]
   },
   {
@@ -16662,24 +16699,6 @@
     ]
   },
   {
-    "domain": "1-800radiator-convention-sponsorship.com",
-    "title": "1-800 RADIATOR & A/C CONVENTION",
-    "business_name": "",
-    "country": "FLK",
-    "seo_score": 60,
-    "tech_spend": 147,
-    "crawled_at": "2025-12-21T09:52:44.350937136Z",
-    "technologies": [
-      "Apache",
-      "Book Direct",
-      "Elfsight",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Smartsheet"
-    ]
-  },
-  {
     "domain": "archerconsultingteam.com",
     "title": "Home - archerconsultingteam.com",
     "business_name": "Archer Consulting Team - Your Smartsheet Experts! archerconsultingteam.com",
@@ -17893,43 +17912,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "doodleshack.org",
-    "title": "Doodle Shack - Exploring Creativity",
-    "business_name": "Doodle Shack",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 59642,
-    "crawled_at": "2025-12-11T05:53:20.939693721Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Contento",
-      "EmbedPress",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Jetpack",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PHP",
-      "SiteW",
-      "Smartsheet",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
