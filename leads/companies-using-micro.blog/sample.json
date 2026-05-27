@@ -1,5 +1,59 @@
 [
   {
+    "domain": "lioncourt.me",
+    "title": "Josh de Lioncourt",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 63,
+    "crawled_at": "2026-05-26T22:17:27.939865188Z",
+    "technologies": [
+      "Amazon Widgets",
+      "Apache",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Micro.blog",
+      "Twitter Ads",
+      "Ubuntu"
+    ]
+  },
+  {
+    "domain": "reading.lol",
+    "title": "Books | Harper Reed's Blog",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 10348,
+    "crawled_at": "2026-05-26T17:00:51.097354141Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon Widgets",
+      "Apture Linking Platform",
+      "CDN JS",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "DAV",
+      "ElementUI",
+      "Financial Services Guide",
+      "GitHub Hosting",
+      "Gravity",
+      "Harbor",
+      "Micro.blog",
+      "Netlify",
+      "Parcel",
+      "Perl",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "scrooks.net",
     "title": "scrooks stuff – A blog by Steve Crooks",
     "business_name": "",
@@ -55,32 +109,6 @@
       "Tumblr",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "harper.blog",
-    "title": "Home | Harper Reed's Blog",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 348,
-    "crawled_at": "2026-05-24T16:48:17.609365932Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "ElementUI",
-      "GitHub Hosting",
-      "Hugo",
-      "Micro.blog",
-      "Netlify",
-      "Perl",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
@@ -8551,25 +8579,6 @@
       "UTF-8",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "lioncourt.me",
-    "title": "Josh de Lioncourt",
-    "business_name": "",
-    "country": "",
-    "seo_score": 25,
-    "tech_spend": 63,
-    "crawled_at": "2025-12-10T20:01:01.084637665Z",
-    "technologies": [
-      "Amazon Widgets",
-      "Apache",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Micro.blog",
-      "Twitter Ads",
-      "Ubuntu"
     ]
   }
 ]

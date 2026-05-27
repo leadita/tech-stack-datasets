@@ -1,5 +1,27 @@
 [
   {
+    "domain": "parambirje.com",
+    "title": "Param Birje — Timeline Portfolio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 576,
+    "crawled_at": "2026-05-27T01:04:46.039170347Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Hasnode",
+      "Netlify",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "Tailwind CSS",
+      "Twitter CDN",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "trydrobe.com",
     "title": "TryDrobe - AI Virtual Try-On for Fashion & Clothing",
     "business_name": "TryDrobe",
@@ -12660,28 +12682,6 @@
       "Shifter",
       "UTF-8",
       "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "parambirje.com",
-    "title": "Param Birje — Timeline Portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 576,
-    "crawled_at": "2025-12-10T21:34:56.015003296Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Hasnode",
-      "Netlify",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "Tailwind CSS",
-      "Twitter CDN",
-      "UTF-8",
       "shadcn ui"
     ]
   }
