@@ -1113,37 +1113,5 @@
       "jsDelivr",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "marioautoservisas.lt",
-    "title": "Mario Autoservisas - Mario Autoservisas",
-    "business_name": "Mario Autoservisas MB",
-    "country": "IDN",
-    "seo_score": 70,
-    "tech_spend": 3038,
-    "crawled_at": "2025-12-10T23:34:56.053276612Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Elementor",
-      "EmbedPress",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Parallels Plesk Panel",
-      "Theme In WP",
-      "UTF-8",
-      "WP Super Cache",
-      "WordPress",
-      "WordPress Multisite",
-      "Zonomi",
-      "jQuery"
-    ]
   }
 ]

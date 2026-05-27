@@ -504,46 +504,5 @@
       "University or College",
       "jQuery"
     ]
-  },
-  {
-    "domain": "fix-web.site",
-    "title": "FIX-WEB.site can help with almost anything for your website!",
-    "business_name": "FIX-WEB.SITE",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 17034,
-    "crawled_at": "2025-12-10T23:55:56.042802952Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Content Delivery Network",
-      "Content ad",
-      "Drupal",
-      "Elementor",
-      "EmbedPress",
-      "Facebook Embedded Posts",
-      "Fireblade",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Namecheap",
-      "QUIC",
-      "Responsive",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery",
-      "shadcn ui"
-    ]
   }
 ]
