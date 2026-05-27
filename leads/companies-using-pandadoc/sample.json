@@ -1,5 +1,37 @@
 [
   {
+    "domain": "rossesports.com",
+    "title": "Rosse Sports",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 26900,
+    "crawled_at": "2026-05-27T16:19:56.872253973Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon S3 CDN",
+      "Apture Linking Platform",
+      "Calendly",
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Next.js",
+      "PandaDoc",
+      "Phew",
+      "Pixieset",
+      "QUIC",
+      "RM Education",
+      "Storyblocks",
+      "Super",
+      "Twitter Ads",
+      "UTF-8",
+      "Unsplash",
+      "Vector Internet Services",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "saasopen.com",
     "title": "SaaSOpen - 1,000 SaaS Founders in NYC September 5th, 2024",
     "business_name": "",
@@ -2813,38 +2845,6 @@
       "Vector Internet Services",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "rossesports.com",
-    "title": "Rosse Sports",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 26900,
-    "crawled_at": "2025-12-11T06:04:56.047592773Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon S3 CDN",
-      "Apture Linking Platform",
-      "Calendly",
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Next.js",
-      "PandaDoc",
-      "Phew",
-      "Pixieset",
-      "QUIC",
-      "RM Education",
-      "Storyblocks",
-      "Super",
-      "Twitter Ads",
-      "UTF-8",
-      "Unsplash",
-      "Vector Internet Services",
-      "Vercel"
     ]
   }
 ]
