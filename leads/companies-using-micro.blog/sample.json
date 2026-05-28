@@ -1,5 +1,29 @@
 [
   {
+    "domain": "drinkcontrolapp.com",
+    "title": "DrinkControl : Best alcohol tracker app for moderate drinking",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 15880,
+    "crawled_at": "2026-05-28T03:46:32.135806378Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "App Store",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "Google Related Website Sites",
+      "Micro.blog",
+      "Nginx",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "lioncourt.me",
     "title": "Josh de Lioncourt",
     "business_name": "",
@@ -3092,30 +3116,6 @@
       "Jekyll",
       "Micro.blog",
       "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "drinkcontrol.app",
-    "title": "DrinkControl : Best alcohol tracker app for moderate drinking",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 263,
-    "crawled_at": "2026-04-29T01:26:19.988132346Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "App Store",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "Google Related Website Sites",
-      "Micro.blog",
-      "Nginx",
-      "QUIC",
-      "Twitter Ads",
       "UTF-8"
     ]
   },

@@ -1,5 +1,70 @@
 [
   {
+    "domain": "ishaqhassan.dev",
+    "title": "Ishaq Hassan | Senior Engineer & Flutter Framework Contributor",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 82,
+    "tech_spend": 5714,
+    "crawled_at": "2026-05-27T23:14:19.969236605Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CM Commerce",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Firebase",
+      "GitHub Hosting",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Hasnode",
+      "Jetpack",
+      "Medium",
+      "Microdata for Google Shopping",
+      "PHP",
+      "PWA",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Unsplash",
+      "Visual Studio",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "iamhaiderkhan.com",
+    "title": "Haider Khan | Software Development Engineer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 1963,
+    "crawled_at": "2026-05-27T15:35:34.44579315Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google My Business",
+      "Hasnode",
+      "Heroku",
+      "Material-UI",
+      "Netlify",
+      "Next.js",
+      "Ntent",
+      "Pleroma",
+      "RM Education",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "parambirje.com",
     "title": "Param Birje — Timeline Portfolio",
     "business_name": "",
@@ -1814,33 +1879,6 @@
       "Twitter Ads",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "haiderkhan.dev",
-    "title": "Haider Khan | Software Development Engineer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 1963,
-    "crawled_at": "2026-05-10T05:05:19.981676604Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google My Business",
-      "Hasnode",
-      "Heroku",
-      "Material-UI",
-      "Netlify",
-      "Next.js",
-      "Ntent",
-      "Pleroma",
-      "RM Education",
-      "UTF-8",
-      "Vercel",
-      "YouTube"
     ]
   },
   {
@@ -12659,30 +12697,6 @@
       "Yelp Badge",
       "YouTube",
       "about.me"
-    ]
-  },
-  {
-    "domain": "iotnhanh.com",
-    "title": "IoT nhanh và dễ",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 1088,
-    "crawled_at": "2025-12-11T09:04:56.025803902Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Tag Manager",
-      "Hasnode",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pico CSS",
-      "Pleroma",
-      "Shifter",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
