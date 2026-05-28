@@ -1,5 +1,34 @@
 [
   {
+    "domain": "janam.pk",
+    "title": "Janam.pk",
+    "business_name": "Janam.pk",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 504,
+    "crawled_at": "2026-05-28T02:29:14.814154231Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google Related Website Sites",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "LogRocket",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "Shopify Payments",
+      "UTF-8",
+      "hCaptcha",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "puntagordanewhomebuilder.com",
     "title": "Southwest Florida - Christopher Alan Homes",
     "business_name": "",
