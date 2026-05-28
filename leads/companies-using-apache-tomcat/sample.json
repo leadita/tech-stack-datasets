@@ -1,5 +1,46 @@
 [
   {
+    "domain": "entechconsultancy.com",
+    "title": "Home | Entech consultancy",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 342,
+    "crawled_at": "2026-05-28T12:44:23.682179688Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Apache",
+      "Apache Tomcat JK",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Material Design Icons",
+      "QUIC",
+      "StackPath",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "livec.in",
+    "title": "Apache Tomcat",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": "",
+    "crawled_at": "2026-05-28T01:13:02.934390139Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Express"
+    ]
+  },
+  {
     "domain": "northshowroom.com",
     "title": "Northern Casket Digital Showroom.",
     "business_name": "",
@@ -14564,54 +14605,6 @@
       "Nginx",
       "Python",
       "Telegram",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "gandolfie-resume.net",
-    "title": "Resume",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 66,
-    "crawled_at": "2025-12-12T05:43:56.006932745Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Apache",
-      "Apache Tomcat JK",
-      "CloudFront",
-      "Content Delivery Network",
-      "Python",
-      "University or College"
-    ]
-  },
-  {
-    "domain": "entechconsultancy.com",
-    "title": "Home | Entech consultancy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 342,
-    "crawled_at": "2025-12-11T16:34:56.019894527Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Apache",
-      "Apache Tomcat JK",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Material Design Icons",
-      "QUIC",
-      "StackPath",
       "UTF-8",
       "jQuery"
     ]
