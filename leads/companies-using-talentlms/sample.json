@@ -1,5 +1,35 @@
 [
   {
+    "domain": "legacyministerialnetwork.com",
+    "title": "Legacy Ministerial Network",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 5951,
+    "crawled_at": "2026-05-28T09:02:06.438909246Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "KVH",
+      "Mastodon",
+      "OpenResty",
+      "Ruby on Rails",
+      "Tailwind CSS",
+      "TalentLMS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "nrcmetraininginstitute.com",
     "title": "Pass the DOT Medical Examiner Exam Guaranteed – NRCME Training Institute",
     "business_name": "NRCME Training Institute",
@@ -9908,35 +9938,6 @@
       "eLand",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "legacyministerialnetwork.com",
-    "title": "Legacy Ministerial Network",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 951,
-    "crawled_at": "2025-12-11T14:28:56.008569792Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Mastodon",
-      "OpenResty",
-      "Ruby on Rails",
-      "Tailwind CSS",
-      "TalentLMS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
