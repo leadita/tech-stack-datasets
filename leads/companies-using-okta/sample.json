@@ -1,5 +1,32 @@
 [
   {
+    "domain": "careflite.org",
+    "title": "CareFlite",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 17220,
+    "crawled_at": "2026-05-28T11:23:38.758943289Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Apache",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "ElementUI",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Okta",
+      "UTF-8",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "bestlenderinmaine.com",
     "title": "Jariah Caissie - Loan Officer in Rock Hill, SC",
     "business_name": "",
@@ -21057,34 +21084,6 @@
       "SignUpGenius",
       "UTF-8",
       "University or College",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "careflite.org",
-    "title": "CareFlite",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 18168,
-    "crawled_at": "2025-12-11T15:51:14.684991496Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ElementUI",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Okta",
-      "Shopify",
-      "UTF-8",
-      "YouTube",
       "jQuery"
     ]
   }
