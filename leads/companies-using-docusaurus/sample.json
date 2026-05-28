@@ -1,5 +1,68 @@
 [
   {
+    "domain": "lenoapps.com",
+    "title": "Leno Apps",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 600,
+    "crawled_at": "2026-05-28T21:53:05.22740106Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Perl",
+      "UTF-8",
+      "monday.com"
+    ]
+  },
+  {
+    "domain": "anthowise.com",
+    "title": "Anthowise | AI-Powered LMS for Smarter Training for All",
+    "business_name": "Anthowise",
+    "country": "GBR",
+    "seo_score": 67,
+    "tech_spend": 5913,
+    "crawled_at": "2026-05-28T10:49:06.962681148Z",
+    "technologies": [
+      "Alternate Protocol",
+      "BunnyCDN Header",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GZIP Module",
+      "Klaro",
+      "Perl",
+      "UTF-8",
+      "Vector Internet Services"
+    ]
+  },
+  {
+    "domain": "origins.dev",
+    "title": "Home | Equinix Product Documentation",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": "",
+    "crawled_at": "2026-05-28T10:05:14.815900256Z",
+    "technologies": [
+      "Akamai Global Host",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "FreeBSD",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "QUIC",
+      "To Top",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "cloudstack.cloud",
     "title": "Apache CloudStack | Apache CloudStack",
     "business_name": "",
@@ -12730,76 +12793,6 @@
       "University or College",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "contentbytes.pl",
-    "title": "Content community meetups in Kraków, Poland | Content Bytes",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 600,
-    "crawled_at": "2026-02-04T17:13:48.86568397Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Perl",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "docs.dev.to",
-    "title": "Introduction 👋 | Forem Docs",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2026-02-04T00:34:48.8817751Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Netlify",
-      "Perl",
-      "To Top",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "cardinalkit.org",
-    "title": "CardinalKit",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 3099,
-    "crawled_at": "2026-02-03T18:46:48.894236566Z",
-    "technologies": [
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Docusaurus",
-      "ElementUI",
-      "Font Awesome",
-      "GitHub Buttons Official",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Ntent",
-      "Pure.css",
-      "RawGit",
-      "Slack",
-      "Twitter Ads",
-      "Wangsu",
-      "YouTube"
     ]
   }
 ]

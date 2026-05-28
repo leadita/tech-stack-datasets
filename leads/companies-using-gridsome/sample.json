@@ -1,5 +1,94 @@
 [
   {
+    "domain": "complexco.com.au",
+    "title": "Complex Construction - Complex Construction",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 80,
+    "tech_spend": 25508,
+    "crawled_at": "2026-05-28T21:04:48.468590836Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Express",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "Rally",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vimeo",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "interactiveo.net",
+    "title": "Interactiveo - Interactiveo",
+    "business_name": "",
+    "country": "DZA",
+    "seo_score": 77,
+    "tech_spend": 268,
+    "crawled_at": "2026-05-28T16:37:13.012037257Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Gridsome",
+      "Netlify",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "jeremytjackson.com",
+    "title": "Home - Jeremy Jackson",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 696,
+    "crawled_at": "2026-05-28T07:56:32.339622843Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Gambling Content",
+      "GitHub Hosting",
+      "Gridsome",
+      "IcoMoon",
+      "Mastodon",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8",
+      "itch.io"
+    ]
+  },
+  {
+    "domain": "canberraconvention.com.au",
+    "title": "Homepage - CANBERRA CONVENTION BUREAU",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 65,
+    "tech_spend": 13200,
+    "crawled_at": "2026-05-28T03:50:19.969638864Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Azure Edge",
+      "Content Delivery Network",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Microsoft Azure Verified CDN",
+      "QUIC",
+      "RM Education",
+      "Tailwind CSS",
+      "Vimeo",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "commoswiss.ch",
     "title": "commoswiss - commoswiss",
     "business_name": "",
@@ -11812,88 +11901,6 @@
       "Instagram Follow Button",
       "Netlify",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "transmito.mx",
-    "title": "Inicio - Transmito.mx",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 5000,
-    "crawled_at": "2026-01-15T16:20:55.319195081Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "KVH",
-      "Netlify",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "aaron-jackson.com",
-    "title": "Home - Aaron Jackson Portfolio | Front End Developer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 11281,
-    "crawled_at": "2026-01-15T09:58:17.99621768Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Gridsome",
-      "Idaq",
-      "Instagram Follow Button",
-      "K2F",
-      "KVH",
-      "Netlify",
-      "Netlify Forms",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "yalozhkin.com",
-    "title": "Yaroslav Lozhkin • Digital product designer - Yaroslav Lozhkin • Digital product designer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 99,
-    "crawled_at": "2026-01-14T19:31:43.450209049Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Font Awesome",
-      "Google Related Website Sites",
-      "Gridsome",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "cathzchen.now.sh",
-    "title": "Home - Catherine Chen",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 156,
-    "crawled_at": "2026-01-14T09:29:49.85872334Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Gridsome",
-      "IcoMoon",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vercel"
     ]
   }
 ]
