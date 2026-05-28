@@ -1,5 +1,44 @@
 [
   {
+    "domain": "peakhealthdentistry.com",
+    "title": "Peak Health Dentistry | Anchorage Dentist Office",
+    "business_name": "Peak Health Dentistry",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 14301,
+    "crawled_at": "2026-05-28T16:12:18.163521673Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "Express",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "NexHealth",
+      "QUIC",
+      "ReviewsOnMyWebsite",
+      "Squarespace",
+      "UTF-8",
+      "Vimeo",
+      "Vimeo CDN",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "chtrailersga.com",
     "title": "C & H Trailers LTD | Services in Douglas",
     "business_name": "",
@@ -20200,37 +20239,6 @@
       "Wix Media",
       "Yelp Badge",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "pelicanpediatricsfl.com",
-    "title": "Pediatric Care In Sebastian, FL • Pelican Pediatrics",
-    "business_name": "",
-    "country": "PRI",
-    "seo_score": 77,
-    "tech_spend": 38337,
-    "crawled_at": "2026-02-04T22:28:48.883435586Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "EqualWeb",
-      "Font Awesome",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Hello Elementor",
-      "NFOrce Internet",
-      "NexHealth",
-      "O360",
-      "Snowplow",
-      "Table Addons for Elementor",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]

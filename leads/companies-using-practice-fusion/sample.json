@@ -1,5 +1,29 @@
 [
   {
+    "domain": "medfindit.com",
+    "title": "MedFindit Solutions - Business Proposal",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 16679,
+    "crawled_at": "2026-05-28T16:18:48.648116973Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "AthenaHealth",
+      "Fireblade",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "Oracle Cloud",
+      "Practice Fusion",
+      "QUIC",
+      "Tailwind CSS",
+      "University or College",
+      "eClinicalWorks"
+    ]
+  },
+  {
     "domain": "brooke-cc.com",
     "title": "Brooke | Credentialing, Claims, and Coding",
     "business_name": "Brooke Credentialing &amp; Consulting, LLC",
@@ -1989,30 +2013,6 @@
       "Ubuntu",
       "WordPress",
       "WordPress Multisite"
-    ]
-  },
-  {
-    "domain": "medfindit.com",
-    "title": "MedFindit Solutions - Business Proposal",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 16679,
-    "crawled_at": "2025-12-11T18:03:33.683108608Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "AthenaHealth",
-      "Fireblade",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "Oracle Cloud",
-      "Practice Fusion",
-      "QUIC",
-      "Tailwind CSS",
-      "University or College",
-      "eClinicalWorks"
     ]
   }
 ]
