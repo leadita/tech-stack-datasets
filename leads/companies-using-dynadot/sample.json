@@ -1,12 +1,12 @@
 [
   {
-    "domain": "expiringwebaddress.com",
+    "domain": "bora.biz",
     "title": "Build Your Brand",
     "business_name": "",
     "country": "",
     "seo_score": 42,
     "tech_spend": 36,
-    "crawled_at": "2026-05-27T14:29:02.419158784Z",
+    "crawled_at": "2026-05-28T03:46:32.111622973Z",
     "technologies": [
       "Amazon CloudFront",
       "CloudFront",
@@ -15,6 +15,31 @@
       "GZIP Module",
       "Microdata for Google Shopping",
       "UTF-8"
+    ]
+  },
+  {
+    "domain": "punto.bar",
+    "title": "Punto 2012 .BAR .REST | .rest and .bar domain names",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 1268,
+    "crawled_at": "2026-05-27T23:35:19.969731503Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "Dynadot",
+      "GZIP Module",
+      "GoDaddy",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8",
+      "Website Tonight"
     ]
   },
   {
@@ -2736,31 +2761,6 @@
       "Tumblr",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "punto2012.com",
-    "title": "Punto 2012 .BAR .REST | .rest and .bar domain names",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 1268,
-    "crawled_at": "2026-04-17T08:17:20.012478963Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Duda",
-      "Dynadot",
-      "GZIP Module",
-      "GoDaddy",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "Website Tonight"
     ]
   },
   {
