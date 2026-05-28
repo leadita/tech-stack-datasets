@@ -1,5 +1,33 @@
 [
   {
+    "domain": "cajtaxsolutions.com",
+    "title": "CAJ Tax Solutions",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 78773,
+    "crawled_at": "2026-05-27T19:26:03.010043081Z",
+    "technologies": [
+      "Aruba",
+      "Express",
+      "FreshBooks",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "University or College",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "graphikcreative.com",
     "title": "Graphik Creative | Denver Graphik/Web Design & Consulting Agency",
     "business_name": "",
@@ -3658,34 +3686,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "cajtaxsolutions.com",
-    "title": "CAJ Tax Solutions",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 78773,
-    "crawled_at": "2025-12-11T07:46:56.013410767Z",
-    "technologies": [
-      "Aruba",
-      "Express",
-      "FreshBooks",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "University or College",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]

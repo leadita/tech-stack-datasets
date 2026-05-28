@@ -1,5 +1,34 @@
 [
   {
+    "domain": "crrepropertiesllc.com",
+    "title": "CRRE Properties LLC",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 23648,
+    "crawled_at": "2026-05-27T10:34:51.612214135Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Coming Soon Page",
+      "Contento",
+      "Express",
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Line2",
+      "PWA",
+      "Sage Intacct",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "getkroo.com",
     "title": "Kroo | Unified knowledge platform for construction",
     "business_name": "Kroo",
@@ -14638,35 +14667,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "crrepropertiesllc.com",
-    "title": "CRRE Properties LLC",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 23648,
-    "crawled_at": "2025-12-11T02:40:56.020539084Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Coming Soon Page",
-      "Contento",
-      "Express",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Line2",
-      "PWA",
-      "Sage Intacct",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
     ]
   }
 ]
