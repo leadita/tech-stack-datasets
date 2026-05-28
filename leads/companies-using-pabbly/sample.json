@@ -1,5 +1,30 @@
 [
   {
+    "domain": "twiglet.ai",
+    "title": "Twiglet | AI Automations & Chatbots for Small Businesses",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 72,
+    "tech_spend": 71420,
+    "crawled_at": "2026-05-28T04:02:08.875933171Z",
+    "technologies": [
+      "Bunny Fonts",
+      "Calendly",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "KVH",
+      "Nginx",
+      "No-Q",
+      "Pabbly",
+      "QUIC",
+      "SMC",
+      "UTF-8",
+      "UserWay"
+    ]
+  },
+  {
     "domain": "jaimamart.com",
     "title": "Jaimamart Grocery And Fashion Supermarket",
     "business_name": "Jaimamart - Daily Needs Supermarket",
@@ -6447,32 +6472,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "twiglet.ai",
-    "title": "Twiglet | AI Automations & Chatbots for Small Businesses",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 72,
-    "tech_spend": 74530,
-    "crawled_at": "2025-12-11T11:40:56.035060904Z",
-    "technologies": [
-      "Bunny Fonts",
-      "BunnyCDN",
-      "BunnyCDN General",
-      "Calendly",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "KVH",
-      "Nginx",
-      "No-Q",
-      "Pabbly",
-      "QUIC",
-      "SMC",
-      "UTF-8"
     ]
   }
 ]
