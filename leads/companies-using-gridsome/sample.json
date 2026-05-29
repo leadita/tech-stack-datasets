@@ -1,5 +1,61 @@
 [
   {
+    "domain": "undercoverroofing.org",
+    "title": "Home - Under Cover Roofing",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 21053,
+    "crawled_at": "2026-05-29T21:18:01.174105236Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Idaq",
+      "KVH",
+      "Netlify",
+      "QUIC",
+      "SMC",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "freddiefallsinlove.com",
+    "title": "Home - Freddie Falls In Love",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": "",
+    "crawled_at": "2026-05-29T16:29:35.16583733Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "40ba.com.au",
+    "title": "Forty Brisbane Avenue | Chase Developments - Forty Brisbane Avenue | Chase Developments",
+    "business_name": "",
+    "country": "JAM",
+    "seo_score": 72,
+    "tech_spend": 588,
+    "crawled_at": "2026-05-29T04:32:41.07270693Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Content Delivery Network",
+      "Gridsome",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "complexco.com.au",
     "title": "Complex Construction - Complex Construction",
     "business_name": "",
@@ -11850,57 +11906,6 @@
       "Google Font API",
       "Gridsome",
       "Stripe"
-    ]
-  },
-  {
-    "domain": "printing-lebanon.com",
-    "title": "Welcome! - Imprimerie du Palais de Justice",
-    "business_name": "",
-    "country": "LBN",
-    "seo_score": 62,
-    "tech_spend": 25228,
-    "crawled_at": "2026-01-17T03:39:29.316518193Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google My Business",
-      "Gridsome",
-      "K2F",
-      "Netlify",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "gracesnowdesign.co.uk",
-    "title": "Home | Grace Snow Design",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 156,
-    "crawled_at": "2026-01-16T20:52:56.009467308Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Gridsome",
-      "IcoMoon",
-      "Netlify",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "rainbirdwilliams.fm",
-    "title": "Rainbird Williams",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2026-01-15T19:37:43.433696837Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "UTF-8"
     ]
   }
 ]
