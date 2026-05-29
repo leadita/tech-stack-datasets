@@ -1,5 +1,22 @@
 [
   {
+    "domain": "theleadlasso.com",
+    "title": "LeadLasso — Solutions that Convert",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 21000,
+    "crawled_at": "2026-05-29T07:07:32.635940048Z",
+    "technologies": [
+      "Apache",
+      "Dealer.com",
+      "DealerInspire",
+      "GZIP Module",
+      "Pico CSS",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "dickhannahinsurance.com",
     "title": "Dick Hannah Insurance | Full-Service Insurance | Portland & Vancouver",
     "business_name": "",
@@ -6677,23 +6694,6 @@
       "Thank You",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "cronicautogroup.com",
-    "title": "LeadLasso — Solutions that Convert",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 21000,
-    "crawled_at": "2026-04-15T18:17:20.000744899Z",
-    "technologies": [
-      "Apache",
-      "Dealer.com",
-      "DealerInspire",
-      "GZIP Module",
-      "Pico CSS",
-      "Tailwind CSS"
     ]
   },
   {
