@@ -1,5 +1,35 @@
 [
   {
+    "domain": "ateamhq.com",
+    "title": "- ATeam HQ®",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 3218,
+    "crawled_at": "2026-05-29T06:22:33.032864886Z",
+    "technologies": [
+      "AccessPress Themes",
+      "Accesspress Lite",
+      "Alternate Protocol",
+      "Citrix",
+      "Cloudflare",
+      "Contact Form Plugin",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Expensify",
+      "GoDaddy",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "meritoriousconsultants.com",
     "title": "Meritorious Consultants LLC - Home",
     "business_name": "",
@@ -1460,37 +1490,6 @@
       "University or College",
       "Yelp Badge",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "ateamhq.com",
-    "title": "- ATeam HQ®",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 3218,
-    "crawled_at": "2025-12-12T00:51:06.662017984Z",
-    "technologies": [
-      "AccessPress Themes",
-      "Accesspress Lite",
-      "Alternate Protocol",
-      "Citrix",
-      "Cloudflare",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Expensify",
-      "GoDaddy",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
