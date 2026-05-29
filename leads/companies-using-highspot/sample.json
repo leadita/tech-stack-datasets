@@ -1,5 +1,36 @@
 [
   {
+    "domain": "iagentnetwork.com",
+    "title": "iAgentNetwork | The Channel Magnified",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 20392,
+    "crawled_at": "2026-05-29T10:47:30.66373783Z",
+    "technologies": [
+      "Contact Form Plugin",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Event Organiser for WordPress",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Highspot",
+      "Meta Slider for WordPress",
+      "PHP",
+      "Sucuri Cloudproxy",
+      "Theme In WP",
+      "UTF-8",
+      "WP PageNavi",
+      "WoWonder",
+      "WordPress",
+      "WordPress Multisite",
+      "Wysija",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "afinawalton.com",
     "title": "Afina Walton | Front-End Developer",
     "business_name": "",
@@ -1761,37 +1792,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "iagentnetwork.com",
-    "title": "iAgentNetwork | The Channel Magnified",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 20392,
-    "crawled_at": "2025-12-12T03:10:56.046558032Z",
-    "technologies": [
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Event Organiser for WordPress",
-      "Express",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Highspot",
-      "Meta Slider for WordPress",
-      "PHP",
-      "Sucuri Cloudproxy",
-      "Theme In WP",
-      "UTF-8",
-      "WP PageNavi",
-      "WoWonder",
-      "WordPress",
-      "WordPress Multisite",
-      "Wysija",
-      "jQuery"
     ]
   }
 ]
