@@ -1,5 +1,54 @@
 [
   {
+    "domain": "dlbc.net",
+    "title": "Deeper Life Bible Church - Bronx, NY",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 4816,
+    "crawled_at": "2026-05-29T13:14:05.410629976Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DatoCMS",
+      "Google Analytics",
+      "Google Calendar",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Material-UI",
+      "Next.js",
+      "OneSignal",
+      "Pleroma",
+      "Styled Components",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "YouTube",
+      "Zoom Video Conferencing"
+    ]
+  },
+  {
+    "domain": "maxsaunders.design",
+    "title": "Freelance Graphic Designer | Max Saunders",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 67,
+    "tech_spend": 2628,
+    "crawled_at": "2026-05-28T23:14:36.083284023Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DatoCMS",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "soussfurniture.com",
     "title": "Souss Furniture — Souss Furniture",
     "business_name": "",
@@ -14339,50 +14388,6 @@
       "Pleroma",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "dospolov.com",
-    "title": "Blog | Marat Dospolov",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2628,
-    "crawled_at": "2026-04-12T13:53:19.990353684Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DatoCMS",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Medium",
-      "Next.js",
-      "Notion",
-      "Telegram",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "webflite.com",
-    "title": "WebFlite - An Aviation and Travel Blog",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 12000,
-    "crawled_at": "2026-04-12T12:05:20.018405516Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DatoCMS",
-      "Flite",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]

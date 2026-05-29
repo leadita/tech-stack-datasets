@@ -1,5 +1,79 @@
 [
   {
+    "domain": "breweryinsurance.co.nz",
+    "title": "ICIB",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 12856,
+    "crawled_at": "2026-05-29T07:54:13.456975409Z",
+    "technologies": [
+      "AAPT",
+      "AWS WAF Challenge",
+      "Adult Content",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "DAV",
+      "Fireblade",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Next.js",
+      "Perl",
+      "Pleroma",
+      "Prismic",
+      "QUIC",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "halfspace.dk",
+    "title": "Halfspace - Moving Organisations Forward Through Artificial Intelligence and Advanced Analytics",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 25348,
+    "crawled_at": "2026-05-29T03:08:19.968446975Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "InitiativeS",
+      "OneTrust Domain Verification",
+      "Plausible Analytics",
+      "Prismic",
+      "RM Education",
+      "Svelte",
+      "Tailwind CSS",
+      "Typeform",
+      "Vimeo",
+      "Vimeo CDN",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "yvonnelorang.nl",
+    "title": "Yvonne Lorang",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 408,
+    "crawled_at": "2026-05-29T00:50:15.011702065Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Netlify",
+      "Nuxt.js",
+      "PWA",
+      "Prismic",
+      "UTF-8",
+      "eLand"
+    ]
+  },
+  {
     "domain": "techliveonlinelessons.com",
     "title": "One-To-One Online Music Lessons | Live Online Music Lessons",
     "business_name": "",
@@ -152,36 +226,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "brewersgold.co.nz",
-    "title": "ICIB",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 50888,
-    "crawled_at": "2026-05-27T17:12:59.766656238Z",
-    "technologies": [
-      "AAPT",
-      "AWS WAF Challenge",
-      "Adult Content",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DAV",
-      "Fireblade",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "Prismic",
-      "QUIC",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {
@@ -13612,49 +13656,6 @@
       "Vercel",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "stepsy.io",
-    "title": "Stepsy - Leading Club Management Software",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 420,
-    "crawled_at": "2026-04-07T07:23:20.021899983Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Next.js",
-      "Prismic",
-      "Smart App Banner",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "divyanshusachan.in",
-    "title": "Divyanshu Sachan",
-    "business_name": "",
-    "country": "",
-    "seo_score": 27,
-    "tech_spend": "",
-    "crawled_at": "2026-04-07T05:11:19.986807266Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Prismic",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
