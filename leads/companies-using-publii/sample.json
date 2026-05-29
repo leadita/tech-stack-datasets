@@ -1,5 +1,26 @@
 [
   {
+    "domain": "mirtos-berlin.eu",
+    "title": "Mirtos Berlin",
+    "business_name": "Mirtos Berlin",
+    "country": "DEU",
+    "seo_score": 77,
+    "tech_spend": 877,
+    "crawled_at": "2026-05-28T21:04:48.484046357Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Netlify",
+      "Publii",
+      "Shifter",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "pawlux.fun",
     "title": "Pomodoro: Digital Marketing for Food Businesses | Crimson Grove",
     "business_name": "",
@@ -8722,27 +8743,6 @@
       "Publii",
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "mirtos-berlin.eu",
-    "title": "Mirtos Berlin",
-    "business_name": "Mirtos Berlin",
-    "country": "DEU",
-    "seo_score": 67,
-    "tech_spend": 877,
-    "crawled_at": "2025-12-11T20:43:56.032743452Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Netlify",
-      "Publii",
-      "Shifter",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
     ]
   }
 ]
