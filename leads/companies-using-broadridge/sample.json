@@ -1,5 +1,38 @@
 [
   {
+    "domain": "huddledesantisbreindel.com",
+    "title": "Huddle",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 75,
+    "tech_spend": 523953,
+    "crawled_at": "2026-05-29T09:32:58.026454177Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "Broadridge",
+      "DAV",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "InitiativeS",
+      "KVH",
+      "Keller Williams Realty",
+      "Line2",
+      "Medium",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "findoutfitchink.com",
     "title": "Thought Leadership - Editorial Consulting | Fitch Ink",
     "business_name": "",
@@ -3408,39 +3441,6 @@
       "Twitter Ads",
       "Urchin 5",
       "Zoom Video Conferencing"
-    ]
-  },
-  {
-    "domain": "huddledesantisbreindel.com",
-    "title": "Huddle",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 523953,
-    "crawled_at": "2025-12-12T02:31:56.014192605Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "Broadridge",
-      "DAV",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "InitiativeS",
-      "KVH",
-      "Keller Williams Realty",
-      "Line2",
-      "Medium",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
