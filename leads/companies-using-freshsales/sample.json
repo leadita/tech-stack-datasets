@@ -1,5 +1,27 @@
 [
   {
+    "domain": "brandup.vn",
+    "title": "BrandUp - A Marketing and Brand Creation Company",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 156,
+    "crawled_at": "2026-05-29T01:51:46.085827123Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Freshsales",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "OpenResty",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "lifetimeheritagefilms.com",
     "title": "Digitizing Film | Transfer to Digital Services | Lifetime Heritage Films",
     "business_name": "Lifetime Heritage Films Inc",
@@ -3929,28 +3951,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "brandup.vn",
-    "title": "BrandUp - A Marketing and Brand Creation Company",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 156,
-    "crawled_at": "2025-12-11T22:45:08.673982486Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Freshsales",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "OpenResty",
-      "Tailwind CSS"
     ]
   }
 ]
