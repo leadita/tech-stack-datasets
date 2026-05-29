@@ -1,5 +1,39 @@
 [
   {
+    "domain": "alexennis.com",
+    "title": "Alex Ennis – Award-Winning Digital Marketer",
+    "business_name": "",
+    "country": "PHL",
+    "seo_score": 82,
+    "tech_spend": 995,
+    "crawled_at": "2026-05-29T05:14:50.694720821Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Automattic",
+      "Automattic Direct",
+      "Campaign Monitor Widget",
+      "CoBlocks",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Financial Services Guide",
+      "GDPR Consent Management Platform",
+      "Global Privacy Control",
+      "Google Analytics",
+      "Instagram Follow Button",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "Nginx",
+      "Perl",
+      "Subversion",
+      "US Privacy User Signal Mechanism",
+      "UTF-8",
+      "University or College",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats"
+    ]
+  },
+  {
     "domain": "joeldobbinsdesigns.com",
     "title": "Joel Dobbins | Senior Developer / Designer",
     "business_name": "",
@@ -2119,37 +2153,6 @@
       "WordStream",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "alexennis.com",
-    "title": "Alex Ennis – Award-Winning Digital Marketer",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 72,
-    "tech_spend": 995,
-    "crawled_at": "2025-12-12T00:22:56.12024015Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Automattic",
-      "Automattic Direct",
-      "Campaign Monitor Widget",
-      "CoBlocks",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Global Privacy Control",
-      "Google Analytics",
-      "Instagram Follow Button",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Nginx",
-      "Perl",
-      "US Privacy User Signal Mechanism",
-      "UTF-8",
-      "University or College",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats"
     ]
   }
 ]
