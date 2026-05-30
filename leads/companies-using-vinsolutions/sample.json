@@ -1,5 +1,37 @@
 [
   {
+    "domain": "hableconeddie.com",
+    "title": "Eddie W de León - Real Estate & Home Loan Advisor | Popl",
+    "business_name": "",
+    "country": "MEX",
+    "seo_score": 67,
+    "tech_spend": 187840,
+    "crawled_at": "2026-05-30T01:35:19.970719466Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Cloud CMA",
+      "Cloudflare",
+      "Fireblade",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Google My Business",
+      "Material-UI",
+      "Microdata for Google Shopping",
+      "Nationwide Mortgage Licensing System and Registry",
+      "Next.js",
+      "Pleroma",
+      "Salesforce Hosted",
+      "Twitter Ads",
+      "UTF-8",
+      "VinSolutions",
+      "WhatsApp Sharing",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "purplauto.ai",
     "title": "Purplauto AI",
     "business_name": "purplauto.ai",
