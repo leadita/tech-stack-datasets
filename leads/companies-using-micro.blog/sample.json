@@ -1,5 +1,61 @@
 [
   {
+    "domain": "thomashospitality.com",
+    "title": "THG – Thomas Hospitality Group",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 25637,
+    "crawled_at": "2026-05-30T01:08:01.800593776Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon S3 CDN",
+      "Apache",
+      "DAV",
+      "EmbedPress",
+      "GZIP Module",
+      "Gambling Content",
+      "Micro.blog",
+      "Onyx Internet",
+      "PHP",
+      "Parcel",
+      "QUIC",
+      "Storyblocks",
+      "Twenty Twenty-Four",
+      "UTF-8",
+      "Univer.se",
+      "Wakelet",
+      "Wangsu",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "kvangork.com",
+    "title": "Kirk van Gorkom",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 60,
+    "tech_spend": 260,
+    "crawled_at": "2026-05-29T21:03:37.718855603Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "DAV",
+      "GitHub Hosting",
+      "Hugo",
+      "Mastodon",
+      "Micro.blog",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "drinkcontrolapp.com",
     "title": "DrinkControl : Best alcohol tracker app for moderate drinking",
     "business_name": "",
@@ -8538,29 +8594,6 @@
       "YouTube",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "kvangork.com",
-    "title": "Kirk van Gorkom",
-    "business_name": "",
-    "country": "ITA",
-    "seo_score": 60,
-    "tech_spend": 260,
-    "crawled_at": "2025-12-12T08:37:56.019486276Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "DAV",
-      "GitHub Hosting",
-      "Mastodon",
-      "Micro.blog",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]

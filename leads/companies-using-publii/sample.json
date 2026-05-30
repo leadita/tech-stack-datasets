@@ -1,5 +1,27 @@
 [
   {
+    "domain": "graemebunton.com",
+    "title": "Graeme Bunton",
+    "business_name": "Graeme Bunton",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 49,
+    "crawled_at": "2026-05-30T05:18:51.349389997Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Publii",
+      "Twitter Ads",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "mirtos-berlin.eu",
     "title": "Mirtos Berlin",
     "business_name": "Mirtos Berlin",
@@ -8335,28 +8357,6 @@
     ]
   },
   {
-    "domain": "graeme.online",
-    "title": "Graeme Bunton",
-    "business_name": "Graeme Bunton",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 49,
-    "crawled_at": "2025-12-16T06:17:44.875343459Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Publii",
-      "Twitter Ads",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "mt.s4m.ca",
     "title": "Home",
     "business_name": "",
@@ -8682,64 +8682,6 @@
       "Google Tag Manager",
       "Microdata for Google Shopping",
       "Netlify",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "fromedencreations.com",
-    "title": "From Eden Creations",
-    "business_name": "From Eden Creations",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 49,
-    "crawled_at": "2025-12-12T12:43:56.025286927Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Publii",
-      "QUIC",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "winehiking.it",
-    "title": "Wine Hiking.it",
-    "business_name": "Wine Hiking.it",
-    "country": "",
-    "seo_score": 25,
-    "tech_spend": 49,
-    "crawled_at": "2025-12-12T09:43:56.045218348Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "findyourpaths.com",
-    "title": "Paths",
-    "business_name": "Paths",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 739,
-    "crawled_at": "2025-12-12T04:48:33.707179021Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Fastly",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Plausible Analytics",
       "Publii",
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
