@@ -1,5 +1,33 @@
 [
   {
+    "domain": "stengerandcompany.com",
+    "title": "Home | Stenger & Company, LLC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 37340,
+    "crawled_at": "2026-05-29T17:18:56.785244485Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Citrix",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "Zoom Video Conferencing",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "barzillai.co.uk",
     "title": "Barzillai Limited | England| Accounting",
     "business_name": "",
@@ -10678,61 +10706,6 @@
       "Twitter Ads",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "raineycpafirm.com",
-    "title": "Home | The Rainey Accounting Firm, LLC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 20400,
-    "crawled_at": "2025-12-12T13:31:56.028402657Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudinary",
-      "Fastly CDN",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "QuickBooks Online",
-      "RM Education",
-      "Tailwind CSS",
-      "UTF-8",
-      "Zoom Video Conferencing",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "stengerandcompany.com",
-    "title": "Home | Stenger & Company, LLC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 36800,
-    "crawled_at": "2025-12-12T06:40:56.0224465Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Citrix",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "Zoom Video Conferencing",
-      "jsDelivr"
     ]
   }
 ]
