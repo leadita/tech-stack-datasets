@@ -1,5 +1,70 @@
 [
   {
+    "domain": "teenytinytrailers.com",
+    "title": "This website or DOMAIN NAME may be for sale.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 76500,
+    "crawled_at": "2026-05-30T06:23:19.969470592Z",
+    "technologies": [
+      "Camp",
+      "Cart.com",
+      "Dynadot",
+      "ElementUI",
+      "Fast",
+      "GZIP Module",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "PointDNS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "businessmixes.com",
+    "title": "Business Mixes",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 50,
+    "tech_spend": 8653,
+    "crawled_at": "2026-05-30T03:02:19.969754901Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apache",
+      "Apture Linking Platform",
+      "Cornerstone",
+      "Corporate Governance and Regulatory Compliance",
+      "Dynadot",
+      "EmbedPress",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "Financial Industry Regulatory Authority",
+      "Fireblade",
+      "Font Awesome",
+      "GZIP Module",
+      "Gambling Content",
+      "GoDaddy",
+      "Google Cloud DNS",
+      "Google Customer Reviews",
+      "Google Font API",
+      "IcoMoon",
+      "NFOrce Internet",
+      "PHP",
+      "QUIC",
+      "Share Link",
+      "Telegram",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "Underscores",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "jeremymartinez.org",
     "title": "Build Your Brand",
     "business_name": "",
@@ -84,27 +149,6 @@
       "Telegram",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "www.magicjujusauce.com",
-    "title": "This website or DOMAIN NAME may be for sale.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 76500,
-    "crawled_at": "2026-05-23T17:29:21.425858519Z",
-    "technologies": [
-      "Camp",
-      "Cart.com",
-      "Dynadot",
-      "ElementUI",
-      "Fast",
-      "GZIP Module",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "PointDNS",
-      "UTF-8"
     ]
   },
   {
