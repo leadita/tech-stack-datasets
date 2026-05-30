@@ -1,5 +1,34 @@
 [
   {
+    "domain": "deanrussell.info",
+    "title": "Dean Russell Resume",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 7088,
+    "crawled_at": "2026-05-30T19:35:50.52863957Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Elementor",
+      "EmbedPress",
+      "GZIP Module",
+      "Google My Business",
+      "NFOrce Internet",
+      "PHP",
+      "Perl",
+      "Prospective",
+      "Twenty Twenty-Two",
+      "UTF-8",
+      "University or College",
+      "Wangsu",
+      "WordPress",
+      "WordPress Multisite",
+      "Wrike",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "hollywoodgoumba.com",
     "title": "103.5 KTU - Top Music & News from The Beat of NY",
     "business_name": "",
@@ -3368,34 +3397,6 @@
       "eLand",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "deanrussell.info",
-    "title": "Dean Russell Resume",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 7088,
-    "crawled_at": "2025-12-12T20:23:43.614260606Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Elementor",
-      "EmbedPress",
-      "Google My Business",
-      "NFOrce Internet",
-      "PHP",
-      "Perl",
-      "Prospective",
-      "Twenty Twenty-Two",
-      "UTF-8",
-      "University or College",
-      "Wangsu",
-      "WordPress",
-      "WordPress Multisite",
-      "Wrike",
-      "jQuery"
     ]
   }
 ]
