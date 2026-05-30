@@ -1,5 +1,89 @@
 [
   {
+    "domain": "nine.ch",
+    "title": "Nine",
+    "business_name": "Nine Internet Solutions AG",
+    "country": "CHE",
+    "seo_score": 72,
+    "tech_spend": 41503,
+    "crawled_at": "2026-05-30T13:59:04.739180254Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cornerstone",
+      "DC74",
+      "Docusaurus",
+      "DoubleClick Bid Manager",
+      "Fireblade",
+      "Font Awesome",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Forms",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Heroku",
+      "Hugo",
+      "IcoMoon",
+      "Matomo",
+      "Matomo Tag Manager",
+      "Newsletter for Wordpress",
+      "Nginx",
+      "Python",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Swiss Made Software",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "swiftwave.org",
+    "title": "SwiftWave",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 228,
+    "crawled_at": "2026-05-30T10:45:39.907197709Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Netlify",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "cohenlabs.dev",
+    "title": "Pierce Cohen | AI Engineer",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-05-30T03:09:52.39562724Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Netlify",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "lenoapps.com",
     "title": "Leno Apps",
     "business_name": "",
@@ -9494,24 +9578,6 @@
     ]
   },
   {
-    "domain": "pearsoncohen.com",
-    "title": "Pierce Cohen | AI Engineer",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-04-10T07:02:19.983088241Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Netlify",
-      "Perl",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "vidsy.ai",
     "title": "Vidsy AI — Offline AI Pipe Inspection Software",
     "business_name": "",
@@ -12742,57 +12808,6 @@
       "Plausible Analytics",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "genwritesdocs.com",
-    "title": "Hello from Genesis Sorto | Genesis Sorto",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2026-02-05T15:37:48.878814278Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Netlify",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "jobsconnected.io",
-    "title": "Jobs Connected | Host your in-person, hybrid, and virtual job fairs with us",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 5250,
-    "crawled_at": "2026-02-05T04:37:58.389019778Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Perl",
-      "Storyblocks",
-      "Stripe",
-      "Tailwind CSS",
-      "University or College",
-      "YouTube",
-      "jsDelivr"
     ]
   }
 ]
