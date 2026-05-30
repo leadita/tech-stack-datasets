@@ -1,5 +1,31 @@
 [
   {
+    "domain": "fidentialhealth.com",
+    "title": "AceFidential Health | Medical Billing & Healthcare",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 76504,
+    "crawled_at": "2026-05-30T05:29:19.968152746Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "AthenaHealth",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Practice Fusion",
+      "TherapyNotes",
+      "UTF-8",
+      "Wangsu",
+      "eClinicalWorks"
+    ]
+  },
+  {
     "domain": "medfindit.com",
     "title": "MedFindit Solutions - Business Proposal",
     "business_name": "",
@@ -221,32 +247,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "acefidentialhealth.com",
-    "title": "AceFidential Health | Medical Billing & Healthcare",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 76504,
-    "crawled_at": "2026-05-17T11:26:19.984560727Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "AthenaHealth",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Practice Fusion",
-      "TherapyNotes",
-      "UTF-8",
-      "Wangsu",
-      "eClinicalWorks"
     ]
   },
   {
