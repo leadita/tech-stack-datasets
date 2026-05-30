@@ -9853,58 +9853,5 @@
       "QUIC",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "clovermirth.com",
-    "title": "Cheshire.biz – Discover Cheshire's Best Local Businesses",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2908,
-    "crawled_at": "2025-12-12T11:37:56.018885762Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Django",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Nginx",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "Verified Profile"
-    ]
-  },
-  {
-    "domain": "tracylwalters.com",
-    "title": "Pittsburgh Life Insurance | Tracy L. Walters",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 17460,
-    "crawled_at": "2025-12-12T04:07:56.043361432Z",
-    "technologies": [
-      "B12",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "Fireblade",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Line2",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
-    ]
   }
 ]
