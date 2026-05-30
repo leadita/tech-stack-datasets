@@ -1,5 +1,28 @@
 [
   {
+    "domain": "fintech-proxy.ro",
+    "title": "Fintech-Proxy",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 4908,
+    "crawled_at": "2026-05-30T06:56:44.025075096Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google My Business",
+      "Google Workspace",
+      "Instagram Follow Button",
+      "Netlify",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "eMoney",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "ahmedhoosen.co.za",
     "title": "Ahmed Sayed Hoosen | attooh! Your Wealth Solution",
     "business_name": "",
@@ -2330,61 +2353,6 @@
       "University or College",
       "eMoney",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "wianbotha.co.za",
-    "title": "Wian Botha | attooh! Your Wealth Solution",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 24019,
-    "crawled_at": "2025-12-12T14:34:56.059712732Z",
-    "technologies": [
-      "Amazon S3 CDN",
-      "Apture Linking Platform",
-      "Authorize.net",
-      "Content Delivery Network",
-      "Cornerstone",
-      "DAV",
-      "Financial Services Guide",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Nuxt.js",
-      "QUIC",
-      "Storyblocks",
-      "UTF-8",
-      "Vimeo",
-      "Vimeo CDN",
-      "eMoney"
-    ]
-  },
-  {
-    "domain": "fintech-proxy.ro",
-    "title": "Fintech-Proxy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 4908,
-    "crawled_at": "2025-12-12T14:04:56.047355115Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google My Business",
-      "Google Workspace",
-      "Instagram Follow Button",
-      "Netlify",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "eMoney",
-      "shadcn ui"
     ]
   }
 ]
