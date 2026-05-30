@@ -1,5 +1,34 @@
 [
   {
+    "domain": "twstewart.me",
+    "title": "T.W.Stewart - My Digital Resume",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 43578,
+    "crawled_at": "2026-05-30T12:32:19.96974029Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "AWS WAF Challenge",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Blackboard Open LMS",
+      "Bulma",
+      "CloudFront",
+      "Content Delivery Network",
+      "EasyMe",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Telegram",
+      "University or College",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "marylandathletics.com",
     "title": "Outsourced Finance and Accounting Services | ROSE",
     "business_name": "",
@@ -3429,36 +3458,6 @@
       "jsDelivr",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "eternalv.org",
-    "title": "ETERNAL",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 10180,
-    "crawled_at": "2025-12-12T18:13:23.83744347Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Bing Cashback",
-      "Blackboard Open LMS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coming Soon Page",
-      "DAV",
-      "GetResponse",
-      "Google",
-      "Google Cloud CDN",
-      "Google My Business",
-      "JSONBin",
-      "Lazy Load for WordPress",
-      "Perl",
-      "Placehold IT",
-      "QUIC",
-      "Thank You",
-      "YouTube"
     ]
   }
 ]
