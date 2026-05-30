@@ -1,5 +1,36 @@
 [
   {
+    "domain": "consumerspower.org",
+    "title": "Home | Consumers Power Inc.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 6433,
+    "crawled_at": "2026-05-29T14:03:43.525967122Z",
+    "technologies": [
+      "Alternate Protocol",
+      "BatCache",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Fastly",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Jetpack",
+      "Microdata for Google Shopping",
+      "Monsido",
+      "Nginx",
+      "Twitter Ads",
+      "UTF-8",
+      "WP Data Access",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "texasstudentsunited.com",
     "title": "TDECU | Your Texas Credit Union With Digital Banking",
     "business_name": "",
@@ -5621,33 +5652,6 @@
       "Share Link",
       "Twitter Ads",
       "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "cpi.coop",
-    "title": "Home | Consumers Power Inc.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 4033,
-    "crawled_at": "2026-05-04T10:02:19.984605038Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "EmbedPress",
-      "GitHub Hosting",
-      "Jetpack",
-      "Microdata for Google Shopping",
-      "Monsido",
-      "Nginx",
-      "Twitter Ads",
-      "UTF-8",
-      "WP Data Access",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "YouTube",
       "jQuery"
     ]
   },
