@@ -1,5 +1,36 @@
 [
   {
+    "domain": "doow.co",
+    "title": "SaaS Spend Visibility | Doow",
+    "business_name": "Doow",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 127060,
+    "crawled_at": "2026-05-30T15:23:19.968898996Z",
+    "technologies": [
+      "Adult Content",
+      "Amazon WAF Blocked",
+      "Angular",
+      "BambooHR",
+      "Content Delivery Network",
+      "Fireblade",
+      "GZIP Module",
+      "Google My Business",
+      "Gusto",
+      "Microdata for Google Shopping",
+      "Microsoft Azure Blob Storage",
+      "Netsuite Site Builder",
+      "Next.js",
+      "Notion",
+      "Okta",
+      "OneLogin",
+      "Python",
+      "QUIC",
+      "Slack",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "cosmistack.com",
     "title": "Expert IT Services for Clinics That Care | Cosmistack",
     "business_name": "Cosmistack",
@@ -18565,40 +18596,6 @@
       "Schema Plugin",
       "Subversion",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "fafc.com",
-    "title": "Friends & Family Capital | F&FC",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 60704,
-    "crawled_at": "2025-12-24T19:13:38.323812765Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Content Delivery Network",
-      "ElementUI",
-      "Flow",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Gusto",
-      "IcoMoon",
-      "RM Education",
-      "Share Link",
-      "Tailwind CSS",
-      "WF Cookie Consent",
-      "Webflow",
-      "YouTube",
-      "jsDelivr"
     ]
   }
 ]
