@@ -1,5 +1,37 @@
 [
   {
+    "domain": "casinoreviewcentral.com",
+    "title": "Casino Review Central",
+    "business_name": "",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 24794,
+    "crawled_at": "2026-05-30T18:46:03.630160803Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Elementor",
+      "EmbedPress",
+      "Essential Addons for Elementor",
+      "Fireblade",
+      "Font Awesome",
+      "Gambling Content",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Mercury",
+      "NFOrce Internet",
+      "PHP",
+      "QUIC",
+      "RM Education",
+      "Theme In WP",
+      "TranslatePress",
+      "UTF-8",
+      "Way",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "rabbitroads.org",
     "title": "Rabbit Road Game - Play for Real Money or Try Demo for Free",
     "business_name": "",
@@ -11098,38 +11130,6 @@
       "Taboola Direct",
       "Tailwind CSS",
       "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "casinoreviewcentral.com",
-    "title": "Casino Review Central",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 10077,
-    "crawled_at": "2025-12-12T19:55:56.012242301Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Elementor",
-      "EmbedPress",
-      "Essential Addons for Elementor",
-      "Fireblade",
-      "Font Awesome",
-      "Gambling Content",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Mercury",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "RM Education",
-      "Theme In WP",
-      "TranslatePress",
-      "UTF-8",
-      "Way",
-      "WordPress",
-      "WordPress Multisite",
       "jQuery"
     ]
   }
