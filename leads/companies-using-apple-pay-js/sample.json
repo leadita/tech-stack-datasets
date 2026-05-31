@@ -10996,30 +10996,5 @@
       "eLand",
       "jQuery"
     ]
-  },
-  {
-    "domain": "mayquin.com",
-    "title": "www.mayquin.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 76668,
-    "crawled_at": "2025-12-12T16:34:56.012376761Z",
-    "technologies": [
-      "17TRACK",
-      "Alternate Protocol",
-      "Apple Pay JS",
-      "Aruba",
-      "Cart.com",
-      "Cloudflare",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Subversion",
-      "UTF-8",
-      "eLand",
-      "jQuery"
-    ]
   }
 ]
