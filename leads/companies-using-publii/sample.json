@@ -1,5 +1,72 @@
 [
   {
+    "domain": "marijasmudaduric.com",
+    "title": "Marija Smuda Duric",
+    "business_name": "Marija Smuda Duric",
+    "country": "GBR",
+    "seo_score": 55,
+    "tech_spend": 49,
+    "crawled_at": "2026-05-31T12:17:15.124376944Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "jambulatv.com",
+    "title": "Jambula Smart Home Hub",
+    "business_name": "Jambula Smart Home Hub",
+    "country": "",
+    "seo_score": 75,
+    "tech_spend": 16337,
+    "crawled_at": "2026-05-31T05:36:57.257580503Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Apture Linking Platform",
+      "Debian",
+      "Fireblade",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Oddle",
+      "Publii",
+      "QUIC",
+      "Twitter Ads",
+      "WhatsApp Sharing",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "georgekovacs.hu",
+    "title": "George Kovacs",
+    "business_name": "George Kovacs",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 676,
+    "crawled_at": "2026-05-30T23:58:50.9110943Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "CoreUI",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "graemebunton.com",
     "title": "Graeme Bunton",
     "business_name": "Graeme Bunton",
@@ -8618,73 +8685,6 @@
       "Zeta Marketing Platform",
       "eLand",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "marijasmudaduric.com",
-    "title": "Marija Smuda Duric",
-    "business_name": "Marija Smuda Duric",
-    "country": "GBR",
-    "seo_score": 55,
-    "tech_spend": 49,
-    "crawled_at": "2025-12-13T04:55:56.012936152Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "jambulatv.com",
-    "title": "Jambula Smart Home Hub",
-    "business_name": "Jambula Smart Home Hub",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 8137,
-    "crawled_at": "2025-12-13T01:29:28.324201487Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Apture Linking Platform",
-      "Debian",
-      "Fireblade",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Oddle",
-      "Publii",
-      "QUIC",
-      "Twitter Ads",
-      "WhatsApp Sharing",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "georgekovacs.hu",
-    "title": "George Kovacs",
-    "business_name": "George Kovacs",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 676,
-    "crawled_at": "2025-12-12T22:52:56.008151211Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "CoreUI",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   }
 ]
