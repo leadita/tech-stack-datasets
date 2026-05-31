@@ -1,5 +1,30 @@
 [
   {
+    "domain": "marcroberts.info",
+    "title": "Marc Roberts",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 60,
+    "crawled_at": "2026-05-31T11:35:06.542273899Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "DAV",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Jekyll",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Schema Plugin",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "anuragd.me",
     "title": "ML Engineer and Builder - Anurag Dhungana",
     "business_name": "",
@@ -14468,34 +14493,6 @@
       "Python",
       "UTF-8",
       "University or College"
-    ]
-  },
-  {
-    "domain": "katkar.in",
-    "title": "Nikhil Katkar",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 67,
-    "tech_spend": 3300,
-    "crawled_at": "2026-04-18T02:08:20.023081214Z",
-    "technologies": [
-      "Amazon S3 CDN",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Next.js",
-      "Oracle Cloud",
-      "Pleroma",
-      "Python",
-      "QUIC",
-      "Storyblocks",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
