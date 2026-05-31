@@ -1,5 +1,27 @@
 [
   {
+    "domain": "jcmcreative.ca",
+    "title": "JCM Creative",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 3113,
+    "crawled_at": "2026-05-31T07:14:19.968933733Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "GZIP Module",
+      "PHP",
+      "SiteOrigin",
+      "Smartsheet",
+      "UTF-8",
+      "Vantage",
+      "Wangsu",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "winwithshant.com",
     "title": "Shant Banosian, President & Senior Loan Officer | Guaranteed Rate",
     "business_name": "",
@@ -17773,42 +17795,6 @@
       "hCaptcha",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "ccg-contractors.com",
-    "title": "Residential Construction in Austin | Compass Construction Group",
-    "business_name": "Compass Constuction Group LLC",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 2143,
-    "crawled_at": "2025-12-13T01:52:56.013516018Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Apture Linking Platform",
-      "Astra Theme",
-      "CookieYes",
-      "DAV",
-      "Elementor",
-      "EmbedPress",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Header, Footer and Blocks for Elementor",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "OptiMole",
-      "PHP",
-      "QUIC",
-      "Smartsheet",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "jQuery"
     ]
   }
 ]
