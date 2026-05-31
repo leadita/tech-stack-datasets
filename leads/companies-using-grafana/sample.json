@@ -1,41 +1,35 @@
 [
   {
-    "domain": "tonmon.xyz",
+    "domain": "gatewaypavingca.net",
     "title": "Grafana",
     "business_name": "",
     "country": "",
-    "seo_score": 45,
-    "tech_spend": 1200,
-    "crawled_at": "2026-05-24T10:31:42.21773727Z",
+    "seo_score": 30,
+    "tech_spend": "",
+    "crawled_at": "2026-05-31T16:26:19.969149886Z",
     "technologies": [
-      "Barchart",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Express",
+      "Apache",
       "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
       "Grafana",
+      "Nginx",
       "UTF-8"
     ]
   },
   {
-    "domain": "tech-mot-test.vm.pl",
+    "domain": "grafana.sgx.fr",
     "title": "Grafana",
     "business_name": "",
     "country": "",
     "seo_score": 30,
     "tech_spend": 1260,
-    "crawled_at": "2026-05-24T10:14:19.970745667Z",
+    "crawled_at": "2026-05-31T09:00:40.983422321Z",
     "technologies": [
       "Apache",
       "Barchart",
+      "Debian",
       "Express",
+      "GZIP Module",
       "GitHub Hosting",
-      "Google Forms",
-      "Google My Business",
       "Grafana",
       "UTF-8",
       "Yandex Hosting"
@@ -56,26 +50,6 @@
       "Express",
       "GitHub Hosting",
       "Grafana",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "psdr.me",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 1200,
-    "crawled_at": "2026-05-21T19:41:19.991838784Z",
-    "technologies": [
-      "Apache",
-      "Barchart",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Grafana",
-      "Nginx",
       "UTF-8"
     ]
   },
