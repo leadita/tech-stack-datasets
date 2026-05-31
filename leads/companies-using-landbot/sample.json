@@ -1,5 +1,37 @@
 [
   {
+    "domain": "avisdentallab.com",
+    "title": "Avis Dental Lab",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 75,
+    "tech_spend": 110485,
+    "crawled_at": "2026-05-31T11:41:14.589711377Z",
+    "technologies": [
+      "Accordion Blocks",
+      "Accordion FAQ",
+      "Aruba",
+      "Contento",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "LandBot",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "mankatodumpsterrental.com",
     "title": "Mankato Dumpster Rental",
     "business_name": "",
@@ -16653,37 +16685,6 @@
       "Vercel",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "avisdentallab.com",
-    "title": "Avis Dental Lab",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 110373,
-    "crawled_at": "2025-12-13T04:34:56.014598134Z",
-    "technologies": [
-      "Accordion Blocks",
-      "Aruba",
-      "Contento",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "LandBot",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
