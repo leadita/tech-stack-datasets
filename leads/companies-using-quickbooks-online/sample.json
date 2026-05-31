@@ -1,5 +1,32 @@
 [
   {
+    "domain": "myaccountant.llc",
+    "title": "My Accountant LLC | Home Page",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 3255,
+    "crawled_at": "2026-05-31T05:34:36.50349205Z",
+    "technologies": [
+      "Bulma",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "IcoMoon",
+      "Matomo",
+      "Matomo Tag Manager",
+      "QUIC",
+      "QuickBooks Online",
+      "Subversion",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "stengerandcompany.com",
     "title": "Home | Stenger & Company, LLC",
     "business_name": "",
@@ -10653,58 +10680,6 @@
       "WordPress",
       "WordPress Multisite",
       "Xero",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "fjrcpapc.com",
-    "title": "White Plains, NY CPA Firm | Home Page | SYNERGY Group Solutions",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 6747,
-    "crawled_at": "2025-12-13T01:46:56.010240306Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google My Business",
-      "Matomo",
-      "Matomo Tag Manager",
-      "Microsoft 365",
-      "QUIC",
-      "QuickBooks Online",
-      "Twitter Ads",
-      "UTF-8",
-      "Xero",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "myaccountant.llc",
-    "title": "My Accountant LLC | Home Page",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 3255,
-    "crawled_at": "2025-12-13T01:25:56.031890643Z",
-    "technologies": [
-      "Bulma",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "IcoMoon",
-      "Matomo",
-      "Matomo Tag Manager",
-      "QUIC",
-      "QuickBooks Online",
-      "Subversion",
-      "Twitter Ads",
-      "UTF-8",
       "jQuery"
     ]
   }

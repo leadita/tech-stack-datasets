@@ -1,5 +1,27 @@
 [
   {
+    "domain": "dataglancer.com",
+    "title": "John | Security Analytics",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 42860,
+    "crawled_at": "2026-05-31T06:27:22.236744884Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Python",
+      "Tableau",
+      "UTF-8",
+      "University or College",
+      "Vignette OpenText"
+    ]
+  },
+  {
     "domain": "miracle-education.com",
     "title": "Miracle Education",
     "business_name": "",
@@ -18272,45 +18294,6 @@
       "University or College",
       "Vector Internet Services",
       "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "giftban.org",
-    "title": "Gift Ban — MarchOnHarrisburg",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 105888,
-    "crawled_at": "2026-04-07T12:47:19.980182465Z",
-    "technologies": [
-      "Accordion Blocks",
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Contento",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Newsletter for Wordpress",
-      "Pico CSS",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "Tableau",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
       "eLand"
     ]
   }
