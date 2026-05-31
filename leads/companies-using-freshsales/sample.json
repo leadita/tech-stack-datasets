@@ -1,5 +1,39 @@
 [
   {
+    "domain": "adeptogeoit.com",
+    "title": "Adepto Geoinformatics Pvt Ltd – Decisions Simplified",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 65,
+    "tech_spend": 39712,
+    "crawled_at": "2026-05-31T09:46:41.814621603Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "Apache",
+      "Apture Linking Platform",
+      "Cisco/Arrowpoint Content Service Switch",
+      "CloudFront",
+      "Column Shortcodes",
+      "Contento",
+      "EmbedPress",
+      "Formidable Pro Form",
+      "Freshsales",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Kriesi.at",
+      "LayerSlider Responsive",
+      "PHP",
+      "Prospective",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "colourmeorganic.net",
     "title": "Buy Organic Hair Colour & Treatment Herbs In India | Radico Mall",
     "business_name": "",
@@ -3960,40 +3994,6 @@
       "WhatsApp Sharing",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "adeptogeoit.com",
-    "title": "Adepto Geoinformatics Pvt Ltd – Decisions Simplified",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 65,
-    "tech_spend": 39712,
-    "crawled_at": "2025-12-13T03:28:56.014795492Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Apache",
-      "Apture Linking Platform",
-      "Cisco/Arrowpoint Content Service Switch",
-      "CloudFront",
-      "Column Shortcodes",
-      "Contento",
-      "EmbedPress",
-      "Formidable Pro Form",
-      "Freshsales",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Kriesi.at",
-      "LayerSlider Responsive",
-      "PHP",
-      "Prospective",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
