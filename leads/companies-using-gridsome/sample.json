@@ -1,5 +1,54 @@
 [
   {
+    "domain": "claudsonmartins.com",
+    "title": "Home - Claudson Martins",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 45598,
+    "crawled_at": "2026-05-31T10:58:34.874481105Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "K2F",
+      "KVH",
+      "Netlify",
+      "No-Q",
+      "PHP",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "newknowledge.org",
+    "title": "Knology - Practical social science for a better world",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 47656,
+    "crawled_at": "2026-05-31T04:03:36.053217218Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "DatoCMS",
+      "Financial Services Guide",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "K2F",
+      "KVH",
+      "Netlify",
+      "Subversion",
+      "Twitter Ads",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "timh.au",
     "title": "Tim Hurley | Designer + Engineer",
     "business_name": "",
@@ -1896,31 +1945,6 @@
       "Twitter Ads",
       "Woo Themes",
       "WordPress"
-    ]
-  },
-  {
-    "domain": "knology.org",
-    "title": "Knology - Practical social science for a better world",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 47656,
-    "crawled_at": "2026-05-13T19:32:19.992577369Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "DatoCMS",
-      "Financial Services Guide",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "K2F",
-      "KVH",
-      "Netlify",
-      "Subversion",
-      "Twitter Ads",
-      "UTF-8",
-      "jsDelivr"
     ]
   },
   {
@@ -11888,23 +11912,6 @@
       "Netlify",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "sodecc-cfp.fr",
-    "title": "SODECC CFP - Conseil • Fiscalité • Patrimoine - SODECC CFP",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 102,
-    "crawled_at": "2026-01-17T10:19:43.427053582Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Stripe"
     ]
   }
 ]
