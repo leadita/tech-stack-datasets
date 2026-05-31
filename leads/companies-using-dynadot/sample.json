@@ -1,5 +1,69 @@
 [
   {
+    "domain": "zqup.com",
+    "title": "An EMDN - ZQUP, Innovation Technology Digital Solutions Smart Systems AI Integration Data Analytics Emerging Platforms Tech Startup",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 120,
+    "crawled_at": "2026-05-31T03:38:10.244910222Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "kelphotography.be",
+    "title": "Kel Photography",
+    "business_name": "",
+    "country": "BEL",
+    "seo_score": 72,
+    "tech_spend": 840,
+    "crawled_at": "2026-05-30T18:46:03.65565879Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "talesfromthedarkside.com",
+    "title": "Build Your Brand",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 36,
+    "crawled_at": "2026-05-30T16:53:03.653809594Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "teenytinytrailers.com",
     "title": "This website or DOMAIN NAME may be for sale.",
     "business_name": "",
@@ -65,24 +129,6 @@
     ]
   },
   {
-    "domain": "jeremymartinez.org",
-    "title": "Build Your Brand",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 36,
-    "crawled_at": "2026-05-29T07:40:25.009201292Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "punto.bar",
     "title": "Punto 2012 .BAR .REST | .rest and .bar domain names",
     "business_name": "",
@@ -105,28 +151,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Website Tonight"
-    ]
-  },
-  {
-    "domain": "24first.com",
-    "title": "An EMDN - 24 First, Numbers Digits Sports Team Tournament Series Championship League Competition Performance Ranking Match Highlights Victory",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 36,
-    "crawled_at": "2026-05-26T20:29:11.422440072Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "UTF-8"
     ]
   },
   {
@@ -5013,27 +5037,6 @@
       "GZIP Module",
       "Tumblr",
       "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "kelphotography.be",
-    "title": "Kel Photography",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 135,
-    "crawled_at": "2025-12-12T19:58:56.020716003Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
       "UTF-8"
     ]
   }

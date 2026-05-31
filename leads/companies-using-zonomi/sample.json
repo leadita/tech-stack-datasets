@@ -1072,46 +1072,5 @@
       "Zonomi",
       "jQuery"
     ]
-  },
-  {
-    "domain": "ritmai.lt",
-    "title": "RITMAI | butai Palangoje | Kunigiškiai, Palanga, Palanga City Municipality, Lithuania",
-    "business_name": "",
-    "country": "LTU",
-    "seo_score": 77,
-    "tech_spend": 132214,
-    "crawled_at": "2025-12-12T20:07:21.674877825Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Aruba",
-      "Content Delivery Network",
-      "DAV",
-      "Endis",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "Fireblade",
-      "FormSubmit",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PWA",
-      "Pico CSS",
-      "QUIC",
-      "SMC",
-      "SiteW",
-      "Subversion",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "Zonomi",
-      "eLand",
-      "mlcom"
-    ]
   }
 ]
