@@ -1,5 +1,31 @@
 [
   {
+    "domain": "motorullc.com",
+    "title": "MotorU LLC",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 1263,
+    "crawled_at": "2026-05-31T04:39:08.674377039Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon WAF Blocked",
+      "Apache",
+      "CloudFront",
+      "Constant Contact",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Tailwind CSS",
+      "TalentLMS",
+      "UTF-8",
+      "WoWonder",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "infertilitytoadoption.com",
     "title": "Adopting After Infertility | Lifetime Adoption",
     "business_name": "Lifetime Adoption",
@@ -9911,32 +9937,6 @@
       "UTF-8",
       "Visual Studio",
       "jQuery",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "motorullc.com",
-    "title": "MotorU LLC",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 1263,
-    "crawled_at": "2025-12-13T00:58:57.948326841Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon WAF Blocked",
-      "Apache",
-      "CloudFront",
-      "Constant Contact",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Tailwind CSS",
-      "TalentLMS",
-      "UTF-8",
-      "WoWonder",
       "reCAPTCHA"
     ]
   }
