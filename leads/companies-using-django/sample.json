@@ -1,5 +1,57 @@
 [
   {
+    "domain": "ibmcmc.com",
+    "title": "IBM Construction Management & General Contractor | Philadelphia, PA",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 2460,
+    "crawled_at": "2026-05-31T00:16:02.766703826Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Line2",
+      "Perl",
+      "QUIC",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "tktest.co.uk",
+    "title": "TKTest UK: Expert Insights on Technology and Digital Innovation",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 122756,
+    "crawled_at": "2026-05-30T19:44:57.749401141Z",
+    "technologies": [
+      "About Cookies",
+      "Adult Content",
+      "Amazon WAF Blocked",
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "DAV",
+      "Django",
+      "Gambling Content",
+      "IcoMoon",
+      "Matomo",
+      "Matomo Tag Manager",
+      "Ntent",
+      "QUIC",
+      "Salesforce Experience Cloud",
+      "Tailwind CSS",
+      "UTF-8",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "brooksideseniorapts.com",
     "title": "Home - Columbia Brookside Senior",
     "business_name": "",
@@ -29,31 +81,6 @@
       "QUIC",
       "UTF-8",
       "Zope",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "casinonovarush.us",
-    "title": "Casino Nova Rush: Top Online Gaming & Slot Reviews",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 4256,
-    "crawled_at": "2026-05-29T06:08:14.203982055Z",
-    "technologies": [
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Django",
-      "Gambling Content",
-      "IcoMoon",
-      "Matomo",
-      "Matomo Tag Manager",
-      "NFOrce Internet",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
       "jQuery"
     ]
   },
@@ -9805,53 +9832,6 @@
       "Telegram",
       "UTF-8",
       "Ubuntu"
-    ]
-  },
-  {
-    "domain": "higherupphotography.com",
-    "title": "Higher Up Photography - Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 2268,
-    "crawled_at": "2025-12-13T01:49:56.034990425Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "B12",
-      "DAV",
-      "Django",
-      "Express",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Perl",
-      "QUIC",
-      "Twitter Ads",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "ibmcmc.com",
-    "title": "IBM Construction Management & General Contractor | Philadelphia, PA",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 2460,
-    "crawled_at": "2025-12-12T22:58:56.021521217Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Line2",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
     ]
   }
 ]
