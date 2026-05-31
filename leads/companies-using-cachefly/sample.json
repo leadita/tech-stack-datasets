@@ -1,5 +1,64 @@
 [
   {
+    "domain": "windowfx5.com",
+    "title": "Stardock WindowFX: Animate & supercharge your windows",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 26980,
+    "crawled_at": "2026-05-31T13:49:35.841467778Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon WAF Blocked",
+      "Amplitude",
+      "CacheFly",
+      "CacheFly CDN",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "ElementUI",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "JIRA",
+      "Microdata for Google Shopping",
+      "Microsoft Azure",
+      "Microsoft Clarity",
+      "NFOrce Internet",
+      "QUIC",
+      "Schema Plugin",
+      "Twitter Ads",
+      "UTF-8",
+      "Visual Studio",
+      "WP Featherlight",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "ws-supplies.co.uk",
+    "title": "WS Supplies",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 5979,
+    "crawled_at": "2026-05-30T20:20:48.729386451Z",
+    "technologies": [
+      "Apache",
+      "CacheFly",
+      "CacheFly CDN",
+      "Font Awesome",
+      "GZIP Module",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "63wallstreet.com",
     "title": "Financial District, NY Apartments | 63 Wall Street | Home",
     "business_name": "",
@@ -605,53 +664,6 @@
       "Vignette OpenText",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "desktopfences.com",
-    "title": "Stardock Fences 6: Automatically organize your desktop apps, files, and folders on Windows 10 and 11",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 46980,
-    "crawled_at": "2026-05-09T10:17:19.996693861Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AWS WAF Challenge",
-      "Amazon WAF Blocked",
-      "Amplitude",
-      "Apture Linking Platform",
-      "CDN JS",
-      "CacheFly",
-      "CacheFly CDN",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ElementUI",
-      "Express",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "JIRA",
-      "Microdata for Google Shopping",
-      "Microsoft Azure",
-      "Microsoft Clarity",
-      "Microsoft IIS",
-      "NFOrce Internet",
-      "QUIC",
-      "Schema Plugin",
-      "Twitter Ads",
-      "UTF-8",
-      "Visual Studio",
-      "YouTube"
     ]
   },
   {
@@ -2527,24 +2539,6 @@
       "Vimeo",
       "Visual Studio",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "ws-supplies.co.uk",
-    "title": "WS Supplies",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 5979,
-    "crawled_at": "2025-12-12T20:49:20.727013859Z",
-    "technologies": [
-      "Apache",
-      "CacheFly",
-      "CacheFly CDN",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
