@@ -1,5 +1,35 @@
 [
   {
+    "domain": "morganguyton.us",
+    "title": "Mercy Not Sacrifice | The Blog of Morgan Guyton",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 70,
+    "tech_spend": 15626,
+    "crawled_at": "2026-05-31T17:11:19.969001017Z",
+    "technologies": [
+      "Buffer",
+      "Disqus Comment System for WordPress",
+      "EmbedPress",
+      "Express",
+      "Facebook Embedded Posts",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "LiteSpeed",
+      "PHP",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery Pin It Button for Images"
+    ]
+  },
+  {
     "domain": "sleepinggiantappraisals.com",
     "title": "Sleeping Giant Appraisals - Montana Real Estate Appraisal Co.",
     "business_name": "Sleeping Giant Appraisals",
