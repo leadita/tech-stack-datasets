@@ -1,17 +1,16 @@
 [
   {
-    "domain": "benefitspaceship.com",
-    "title": "Benefit Airship Affordable Health & Wellness Plans Nationwide",
+    "domain": "vipmedicalbenefits.com",
+    "title": "Affordable Employee Benefits for Business | Benefit Airship",
     "business_name": "Benefit Airship",
     "country": "",
-    "seo_score": 72,
-    "tech_spend": 109264,
-    "crawled_at": "2026-05-30T20:29:21.896546382Z",
+    "seo_score": 67,
+    "tech_spend": 106396,
+    "crawled_at": "2026-05-31T14:02:19.969811234Z",
     "technologies": [
       "AWS WAF Challenge",
       "Airship CRM",
       "Alternate Protocol",
-      "Amazon",
       "Amazon CloudFront",
       "Amazon WAF Blocked",
       "Apture Linking Platform",
@@ -26,7 +25,6 @@
       "Google My Business",
       "Google Related Website Sites",
       "Google Tag Manager",
-      "JotForm",
       "Klaviyo",
       "Microdata for Google Shopping",
       "PageFly",
@@ -38,7 +36,6 @@
       "TinyIMG",
       "TrackingMore",
       "UTF-8",
-      "University or College",
       "hCaptcha",
       "reCAPTCHA"
     ]
