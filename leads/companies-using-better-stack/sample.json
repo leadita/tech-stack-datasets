@@ -5350,48 +5350,5 @@
       "Twitter Analytics",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "threatgrid.tech",
-    "title": "ThreatGrid | Advanced Cyber Threat Intelligence & Managed Services",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 27831,
-    "crawled_at": "2025-12-13T14:52:56.036310943Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Better Stack",
-      "DAV",
-      "Elementor",
-      "EmbedPress",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Matomo",
-      "Matomo Tag Manager",
-      "Max Mega Menu Pro",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "QUIC",
-      "Sitelinks Search Box",
-      "UTF-8",
-      "Ubuntu",
-      "Vector Internet Services",
-      "WPForms",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WooCommerce Payments",
-      "WordPress",
-      "WordPress Multisite",
-      "eLand"
-    ]
   }
 ]
