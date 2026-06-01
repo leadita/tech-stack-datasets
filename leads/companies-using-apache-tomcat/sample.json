@@ -1,5 +1,53 @@
 [
   {
+    "domain": "fairdigitalobjectframework.com",
+    "title": "FAIR Digital Object Framework Documentation",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 65,
+    "tech_spend": 22400,
+    "crawled_at": "2026-06-01T23:11:19.971462672Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apache",
+      "Apache Tomcat JK",
+      "Content Delivery Network",
+      "DAV",
+      "Express",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Nginx",
+      "Perl",
+      "QUIC",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "myjumpcart.com",
+    "title": "JumpCart and JumpStock Login",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": "",
+    "crawled_at": "2026-06-01T14:56:32.475887261Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Apache Tomcat JK",
+      "Google My Business",
+      "ISO/IEC 8859",
+      "Java EE",
+      "vis.js"
+    ]
+  },
+  {
     "domain": "aboutcode.org",
     "title": "Home | AboutCode.org",
     "business_name": "",
@@ -3858,36 +3906,6 @@
       "University or College",
       "Way",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "fairdigitalobjectframework.org",
-    "title": "FAIR Digital Object Framework Documentation",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 70,
-    "tech_spend": 22400,
-    "crawled_at": "2026-05-05T02:14:19.986562812Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apache",
-      "Apache Tomcat JK",
-      "Content Delivery Network",
-      "DAV",
-      "Express",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Nginx",
-      "Perl",
-      "QUIC",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "shadcn ui"
     ]
   },
   {
@@ -9725,24 +9743,6 @@
     ]
   },
   {
-    "domain": "myjumptech.com",
-    "title": "JumpCart and JumpStock Login",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": "",
-    "crawled_at": "2026-03-22T15:14:58.128659512Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Apache Tomcat JK",
-      "Google My Business",
-      "ISO/IEC 8859",
-      "Java EE",
-      "vis.js"
-    ]
-  },
-  {
     "domain": "bloodstiller.com",
     "title": "Bloodstiller: Ethical Hacking & Active Directory Security Blog",
     "business_name": "",
@@ -14406,52 +14406,6 @@
       "IcoMoon",
       "QUIC",
       "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "bellgigs.com",
-    "title": "Bellgigs",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 184148,
-    "crawled_at": "2025-12-13T22:22:56.037110197Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "CDN JS",
-      "ClickOn",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coming Soon Page",
-      "DAV",
-      "Express",
-      "Fastly",
-      "Financial Services Guide",
-      "Fireblade",
-      "Font Awesome",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Harbor",
-      "Microsoft Azure",
-      "NFOrce Internet",
-      "No-Q",
-      "Oracle Cloud",
-      "Perl",
-      "Prospective",
-      "Python",
-      "QUIC",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "UTF-8",
-      "Unix",
-      "Visual Studio",
-      "eLand",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
