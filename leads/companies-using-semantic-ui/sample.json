@@ -1,5 +1,96 @@
 [
   {
+    "domain": "leibao.org",
+    "title": "Lei Bao | Professor of STEM Education, Southeast University - Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 45,
+    "tech_spend": "",
+    "crawled_at": "2026-06-01T12:48:07.566407224Z",
+    "technologies": [
+      "Express",
+      "GZIP Module",
+      "Nginx",
+      "Semantic UI",
+      "UTF-8",
+      "University or College",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "freedelity.be",
+    "title": "Consumer Data Platform - Data Quality - Consent Management",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 15040,
+    "crawled_at": "2026-06-01T04:16:07.560560195Z",
+    "technologies": [
+      "DAV",
+      "Fireblade",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "Instagram Follow Button",
+      "Nginx",
+      "Semantic UI",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "astinian.com",
+    "title": "Astinian - apartments Jadranka | Home",
+    "business_name": "",
+    "country": "HRV",
+    "seo_score": 77,
+    "tech_spend": 4100,
+    "crawled_at": "2026-05-31T22:02:54.717461382Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "ArvanCloud",
+      "Booking Affiliate",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "ElementUI",
+      "GZIP Module",
+      "Metricool",
+      "Microdata for Google Shopping",
+      "Microsoft Azure",
+      "Semantic UI",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8",
+      "Visual Studio",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "vvgrand.com",
+    "title": "VV GRAND HOTEL",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-05-31T17:14:19.971257665Z",
+    "technologies": [
+      "Apache",
+      "Bulma",
+      "GZIP Module",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Semantic UI",
+      "Twitter Ads",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "christianchungdds.com",
     "title": "Dental Expert Care | Dr. Christian Chung, D.D.S.",
     "business_name": "Dr. Christian Chung, D.D.S.",
@@ -1104,23 +1195,6 @@
       "Ubuntu",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "istartest.com",
-    "title": "iStarTest - Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": "",
-    "crawled_at": "2026-05-23T09:32:20.013321633Z",
-    "technologies": [
-      "Express",
-      "GZIP Module",
-      "Nginx",
-      "Semantic UI",
-      "UTF-8",
-      "jQuery"
     ]
   },
   {
@@ -8593,26 +8667,6 @@
     ]
   },
   {
-    "domain": "vvgrand.com",
-    "title": "VV GRAND HOTEL",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-04-27T14:00:05.223398764Z",
-    "technologies": [
-      "Apache",
-      "Bulma",
-      "GZIP Module",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Semantic UI",
-      "Twitter Ads",
-      "jQuery",
-      "jsDelivr"
-    ]
-  },
-  {
     "domain": "thujas.net",
     "title": "thujas: official band website",
     "business_name": "",
@@ -14398,83 +14452,6 @@
       "UTF-8",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "b2bea.org",
-    "title": "B2B eCommerce Network & Resource | B2B eCommerce Association",
-    "business_name": "B2B eCommerce Association",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 384938,
-    "crawled_at": "2026-04-10T01:02:19.986276914Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Beaver Builder Lite",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Contento",
-      "DuracellTomi Google Tag Manager for WordPress",
-      "GetResponse",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Intershop",
-      "Kibo",
-      "Lazy Load for WordPress",
-      "Max Mega Menu Pro",
-      "Microdata for Google Shopping",
-      "New Relic",
-      "PHP",
-      "Schema Plugin",
-      "SearchWP",
-      "Semantic UI",
-      "Shopware",
-      "Sitelinks Search Box",
-      "UTF-8",
-      "WP Rocket",
-      "WoWonder",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "YouTube",
-      "eLand",
-      "jQuery",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "appsupport.team",
-    "title": "Your mobile app",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 62,
-    "tech_spend": 11850,
-    "crawled_at": "2026-04-10T00:34:06.38757525Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "Covery",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Semantic UI",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
