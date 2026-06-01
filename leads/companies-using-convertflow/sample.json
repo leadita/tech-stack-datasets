@@ -1,5 +1,39 @@
 [
   {
+    "domain": "magnussp.com",
+    "title": "MAGNUS - Sports Performance | Where Science Meets Fitness",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 70,
+    "tech_spend": 27706,
+    "crawled_at": "2026-06-01T07:16:57.626040886Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Content Delivery Network",
+      "ConvertFlow",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "Genesis Blocks",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "PHP",
+      "Rackspace CDN",
+      "Theme In WP",
+      "UTF-8",
+      "University or College",
+      "WP Engine",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "trynewman.com",
     "title": "Newman™",
     "business_name": "Newman™ ",
@@ -16753,41 +16787,6 @@
       "UTF-8",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "viphomerealty.com",
-    "title": "Home Search",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 11803,
-    "crawled_at": "2025-12-13T12:16:56.018437966Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon S3 CDN",
-      "Apture Linking Platform",
-      "Cisco/Arrowpoint Content Service Switch",
-      "CloudFront",
-      "Coming Soon Page",
-      "ConvertFlow",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google Tag Manager",
-      "Homes.com CMS",
-      "ListTrac",
-      "Material-UI",
-      "Nationwide Mortgage Licensing System and Registry",
-      "Prospective",
-      "QUIC",
-      "Storyblocks",
-      "Thank You",
-      "UTF-8",
-      "Ylopo"
     ]
   }
 ]
