@@ -1,5 +1,35 @@
 [
   {
+    "domain": "willowshoregroup.ca",
+    "title": "Your dream barn Ontario wedding reception that will create memories that will last a lifetime. From DJ to event planning to food, our wedding reception service can do it all.",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 87,
+    "tech_spend": 34691,
+    "crawled_at": "2026-05-31T12:43:26.169472088Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Amazon",
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Equally AI",
+      "Flow",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "WF Cookie Consent",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "stravionconsulting.com",
     "title": "Home | Stravion",
     "business_name": "",
@@ -8409,39 +8439,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "willowshoregroup.ca",
-    "title": "Your dream barn Ontario wedding reception that will create memories that will last a lifetime. From DJ to event planning to food, our wedding reception service can do it all.",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 77,
-    "tech_spend": 37131,
-    "crawled_at": "2025-12-13T05:10:56.033999971Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Equally AI",
-      "Flow",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "QUIC",
-      "Tailwind CSS",
-      "WF Cookie Consent",
-      "jsDelivr"
     ]
   }
 ]
