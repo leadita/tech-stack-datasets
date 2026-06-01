@@ -1,5 +1,36 @@
 [
   {
+    "domain": "caneicorp.com",
+    "title": "Canei | Experts in rPET, rPP, rPE Recycling",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 6824,
+    "crawled_at": "2026-06-01T00:20:19.973218017Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "ETranslate",
+      "FormSubmit",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Hotjar",
+      "LandBot",
+      "Nginx",
+      "QUIC",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "avisdentallab.com",
     "title": "Avis Dental Lab",
     "business_name": "",
