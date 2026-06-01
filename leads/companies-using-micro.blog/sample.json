@@ -1,5 +1,24 @@
 [
   {
+    "domain": "brianchristiansen.com",
+    "title": "Clarity & Hypertext · Brian Christiansen · Product Leader & UX Generalist",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 388,
+    "crawled_at": "2026-05-31T18:15:34.630822516Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Micro.blog",
+      "Netlify",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "www.www.www.www.frankmcpherson.blog",
     "title": "Routine Revelations",
     "business_name": "",
@@ -8474,25 +8493,6 @@
       "GitHub Hosting",
       "Micro.blog",
       "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "brianchristiansen.com",
-    "title": "Clarity & Hypertext · Brian Christiansen · Product Leader & UX Generalist",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 63,
-    "crawled_at": "2025-12-13T07:25:56.023838329Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Micro.blog",
-      "Netlify",
-      "QUIC",
       "UTF-8"
     ]
   }
