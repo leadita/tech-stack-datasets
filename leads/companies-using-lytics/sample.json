@@ -1348,37 +1348,5 @@
       "UTF-8",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "thewicklesshomestead.com",
-    "title": "WICKLESS HOMESTEAD SHOPPERS",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 201731,
-    "crawled_at": "2025-12-13T14:55:56.008626141Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Adobe Marketing Cloud",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Contentstack",
-      "Fireblade",
-      "Font Awesome",
-      "GZIP Module",
-      "GetResponse",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Hotjar",
-      "Imperva Bot Detection and Mitigation",
-      "Incapsula CDN",
-      "Lytics",
-      "New Relic",
-      "Tailwind CSS",
-      "UTF-8",
-      "reCAPTCHA"
-    ]
   }
 ]
