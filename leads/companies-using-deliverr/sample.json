@@ -6063,38 +6063,5 @@
       "hCaptcha",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "bencaldwelllabs.com",
-    "title": "High Pass Education",
-    "business_name": "High Pass Education",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 51264,
-    "crawled_at": "2025-12-13T09:58:56.035857886Z",
-    "technologies": [
-      "Adult Content",
-      "Apture Linking Platform",
-      "Bing Cashback",
-      "Bing Conversion Tracking",
-      "Brevo",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Deliverr",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "GraphQL",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Shopify Payments",
-      "TherapyNotes",
-      "UTF-8",
-      "Vignette OpenText",
-      "hCaptcha",
-      "reCAPTCHA"
-    ]
   }
 ]
