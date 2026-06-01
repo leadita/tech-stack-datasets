@@ -1,5 +1,33 @@
 [
   {
+    "domain": "karinreiter.com.br",
+    "title": "Karin Reiter",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 20222,
+    "crawled_at": "2026-05-31T21:16:07.559647769Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "UTF-8",
+      "VTEX Personalization",
+      "WhatsApp Sharing",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "golfdomgolf.co",
     "title": "Golfdom | A Worldwide Golf Shops Company",
     "business_name": "",
@@ -1493,34 +1521,6 @@
       "UTF-8",
       "VTEX Personalization",
       "Vector Internet Services",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "karinreiter.com.br",
-    "title": "Karin Reiter",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 20222,
-    "crawled_at": "2025-12-13T09:04:56.05537096Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "UTF-8",
-      "VTEX Personalization",
-      "WhatsApp Sharing",
       "jQuery"
     ]
   }
