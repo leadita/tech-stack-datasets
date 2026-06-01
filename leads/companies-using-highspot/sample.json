@@ -1,12 +1,12 @@
 [
   {
-    "domain": "introwloop.com",
+    "domain": "introwconsulting.com",
     "title": "Introw PRM - The #1 Partner Portal on top of your CRM",
     "business_name": "Introw",
     "country": "USA",
-    "seo_score": 82,
+    "seo_score": 77,
     "tech_spend": 338716,
-    "crawled_at": "2026-05-31T05:56:08.019335881Z",
+    "crawled_at": "2026-06-01T00:39:34.352954642Z",
     "technologies": [
       "AWS WAF Challenge",
       "Alternate Protocol",
@@ -41,6 +41,36 @@
       "WF Cookie Consent",
       "Weglot",
       "jsDelivr"
+    ]
+  },
+  {
+    "domain": "intermountaincentersbenefits.com",
+    "title": "Open Enrollment Resource Center",
+    "business_name": "",
+    "country": "",
+    "seo_score": 70,
+    "tech_spend": 81688,
+    "crawled_at": "2026-05-31T22:29:10.32157461Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Brainshark",
+      "Content Delivery Network",
+      "Express",
+      "Fastly",
+      "Fastly CDN",
+      "Highspot",
+      "Microdata for Google Shopping",
+      "PWA",
+      "QUIC",
+      "Seflow Italy",
+      "Sentry",
+      "UTF-8",
+      "Vector Internet Services",
+      "Wix",
+      "Wix Media",
+      "eLand",
+      "mlcom"
     ]
   },
   {
@@ -1807,35 +1837,6 @@
       "Wangsu",
       "Website Tonight",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "intermountaincentersbenefits.com",
-    "title": "Open Enrollment Resource Center",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 40396,
-    "crawled_at": "2025-12-13T09:46:56.036306547Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Brainshark",
-      "Content Delivery Network",
-      "Endis",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "Highspot",
-      "Microdata for Google Shopping",
-      "PWA",
-      "QUIC",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "mlcom"
     ]
   }
 ]

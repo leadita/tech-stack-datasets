@@ -1,12 +1,12 @@
 [
   {
-    "domain": "introwloop.com",
+    "domain": "introwconsulting.com",
     "title": "Introw PRM - The #1 Partner Portal on top of your CRM",
     "business_name": "Introw",
     "country": "USA",
-    "seo_score": 82,
+    "seo_score": 77,
     "tech_spend": 338716,
-    "crawled_at": "2026-05-31T05:56:08.019335881Z",
+    "crawled_at": "2026-06-01T00:39:34.352954642Z",
     "technologies": [
       "AWS WAF Challenge",
       "Alternate Protocol",
