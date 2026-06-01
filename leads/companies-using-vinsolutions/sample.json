@@ -3988,30 +3988,5 @@
       "dc.js",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "mindfultech.services",
-    "title": "Mindful Tech | Build the Minds That Work for You",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 35574,
-    "crawled_at": "2025-12-13T09:46:56.042588613Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Calendly",
-      "Content Delivery Network",
-      "DriveCentric",
-      "Instagram Follow Button",
-      "Jetpack",
-      "Netlify",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "VinSolutions"
-    ]
   }
 ]
