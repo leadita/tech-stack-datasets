@@ -1,12 +1,12 @@
 [
   {
-    "domain": "startselect.mobi",
+    "domain": "startselect.video",
     "title": "Buy Gift Cards Online | Fast & Secure at Startselect",
     "business_name": "",
     "country": "",
-    "seo_score": 72,
+    "seo_score": 67,
     "tech_spend": 37809,
-    "crawled_at": "2026-05-31T09:18:55.923898587Z",
+    "crawled_at": "2026-06-01T04:26:38.882136628Z",
     "technologies": [
       "AWS WAF Challenge",
       "Adobe Creative Cloud WebFonts",
@@ -41,6 +41,40 @@
       "YouTube",
       "eLand",
       "shadcn ui"
+    ]
+  },
+  {
+    "domain": "istandwithcivilians.com",
+    "title": "VPP Stand with Civilians Pledge for Supporters",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 36800,
+    "crawled_at": "2026-06-01T00:29:19.974162132Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "AWS WAF Challenge",
+      "Adyen",
+      "Amazon S3 CDN",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Express",
+      "Fireblade",
+      "GivingFuel",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Idaq",
+      "MaxCDN",
+      "Storyblocks",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Webconnex",
+      "YouTube",
+      "reCAPTCHA"
     ]
   },
   {
