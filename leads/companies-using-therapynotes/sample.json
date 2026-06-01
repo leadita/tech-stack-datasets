@@ -1,5 +1,36 @@
 [
   {
+    "domain": "bencaldwelllabs.com",
+    "title": "High Pass Education",
+    "business_name": "High Pass Education",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 46264,
+    "crawled_at": "2026-05-31T22:51:48.197646479Z",
+    "technologies": [
+      "Adult Content",
+      "Apture Linking Platform",
+      "Bing Cashback",
+      "Bing Conversion Tracking",
+      "Brevo",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google Related Website Sites",
+      "GraphQL",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "Shopify Payments",
+      "Subversion",
+      "TherapyNotes",
+      "UTF-8",
+      "Vignette OpenText",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "headintherightdirection.com",
     "title": "Home | Therapy | Head In The Right Direction",
     "business_name": "",
@@ -4479,38 +4510,6 @@
       "WordPress Multisite",
       "Yelp Badge",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "highpass.com",
-    "title": "High Pass Education",
-    "business_name": "High Pass Education",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 46264,
-    "crawled_at": "2026-02-24T14:33:26.236784551Z",
-    "technologies": [
-      "Adult Content",
-      "Apture Linking Platform",
-      "Bing Cashback",
-      "Bing Conversion Tracking",
-      "Brevo",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "GraphQL",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Shopify Payments",
-      "TherapyNotes",
-      "UTF-8",
-      "Vignette OpenText",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   },
   {
