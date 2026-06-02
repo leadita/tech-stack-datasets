@@ -41513,43 +41513,5 @@
       "vi",
       "vidoomy Direct"
     ]
-  },
-  {
-    "domain": "louisvillehotbites.com",
-    "title": "LouisvilleHotBytes.com | Louisville's top spot for talk and reviews from the food and restaurant scene",
-    "business_name": "LouisvilleHotBytes.com",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 20049,
-    "crawled_at": "2025-12-13T19:41:00.462180803Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon Associates Affiliate Shop",
-      "Apache",
-      "Apture Linking Platform",
-      "EmbedPress",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "Google Adsense",
-      "Google Analytics",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google Reseller",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Theme In WP",
-      "Twenty Fourteen",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "Zemanta",
-      "jQuery"
-    ]
   }
 ]
