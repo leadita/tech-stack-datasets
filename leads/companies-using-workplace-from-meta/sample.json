@@ -1,5 +1,25 @@
 [
   {
+    "domain": "karniworkplace.com",
+    "title": "Karni - Your Partner in Employment & Discrimination Law Support",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 7920,
+    "crawled_at": "2026-06-01T17:36:44.907930398Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Fireblade",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Workplace from Meta",
+      "ashop"
+    ]
+  },
+  {
     "domain": "stoblecoffee.com",
     "title": "Stoble Coffee Roasters",
     "business_name": "",
@@ -9340,57 +9360,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "Workplace from Meta",
       "eLand"
-    ]
-  },
-  {
-    "domain": "themessymentor.com",
-    "title": "Who is The Messy Mentor? | The Messy Mentor",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 30996,
-    "crawled_at": "2025-12-14T01:22:56.086571321Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "AWS WAF Challenge",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Endis",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "PWA",
-      "QUIC",
-      "SMC",
-      "SiteW",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "Workplace from Meta",
-      "mlcom"
-    ]
-  },
-  {
-    "domain": "karniworkplace.com",
-    "title": "Karni - Your Partner in Employment & Discrimination Law Support",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 7920,
-    "crawled_at": "2025-12-13T20:40:03.856409248Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Fireblade",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Workplace from Meta",
-      "ashop"
     ]
   }
 ]
