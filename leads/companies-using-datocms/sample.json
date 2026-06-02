@@ -1,5 +1,30 @@
 [
   {
+    "domain": "goldenstallioncargo.com",
+    "title": "Custom Cargo Trailers Built To Last | Golden Stallion Cargo",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 6628,
+    "crawled_at": "2026-06-02T17:09:14.17123658Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "DatoCMS",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Idaq",
+      "Instagram Follow Button",
+      "Mantine",
+      "NFOrce Internet",
+      "Next.js",
+      "PWA",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "coforma.org",
     "title": "Coforma",
     "business_name": "",
@@ -14360,35 +14385,6 @@
       "UTF-8",
       "University or College",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "ministryofeco.org",
-    "title": "Home | Ministry of Eco Education",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 87,
-    "tech_spend": 110116,
-    "crawled_at": "2026-04-13T15:27:43.814796662Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Contento",
-      "DatoCMS",
-      "Financial Services Guide",
-      "Gatsby JS",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Idaq",
-      "Instagram Follow Button",
-      "K2F",
-      "Netlify",
-      "SMC",
-      "Styled Components",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "YouTube",
-      "eLand"
     ]
   }
 ]
