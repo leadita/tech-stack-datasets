@@ -1,5 +1,64 @@
 [
   {
+    "domain": "livehollywoodeast.com",
+    "title": "Home | Hollywood East",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 25312,
+    "crawled_at": "2026-06-02T10:52:23.393411015Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Cloudflare",
+      "DAV",
+      "Follow Up Boss",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Heroku",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "ResMan",
+      "Silicon Valley Web Hosting",
+      "Subversion",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "Zeki"
+    ]
+  },
+  {
+    "domain": "oakcreekswfl.com",
+    "title": "Oak Creek - Southwest Florida",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 10231,
+    "crawled_at": "2026-06-02T08:36:04.386434015Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Follow Up Boss",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "OSS CDN",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "WPForms",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "aogliving.net",
     "title": "Home | AOG Living",
     "business_name": "AOG Living",
@@ -429,34 +488,6 @@
       "jQuery",
       "jQuery Pin It Button for Images",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "ibislandinghomesfl.com",
-    "title": "Ibis Landing - Southwest Florida",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 25771,
-    "crawled_at": "2026-05-24T07:05:18.948362951Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Follow Up Boss",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "OSS CDN",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Visual Studio",
-      "WPForms",
-      "YouTube",
-      "jQuery"
     ]
   },
   {
@@ -14371,39 +14402,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "livehollywoodeast.com",
-    "title": "Home | Hollywood East",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 25312,
-    "crawled_at": "2025-12-14T05:22:56.023455338Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Cloudflare",
-      "DAV",
-      "Follow Up Boss",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Heroku",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "ResMan",
-      "Silicon Valley Web Hosting",
-      "Subversion",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "Zeki"
     ]
   }
 ]
