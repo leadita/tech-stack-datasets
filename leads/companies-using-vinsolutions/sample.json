@@ -1,5 +1,36 @@
 [
   {
+    "domain": "jonica.me",
+    "title": "Jonica Champatiray-Batson - Owner & Operator - Jonica | Barber | Popl",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 20603,
+    "crawled_at": "2026-06-02T02:55:29.326125395Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Fireblade",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Material-UI",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Salesforce Hosted",
+      "Twitter Ads",
+      "UTF-8",
+      "VinSolutions",
+      "WhatsApp Sharing",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "getmacclean.com",
     "title": "Mac - Head of the Herd - MacClean | Popl",
     "business_name": "",
