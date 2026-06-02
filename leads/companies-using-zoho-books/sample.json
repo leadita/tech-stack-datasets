@@ -2098,26 +2098,5 @@
       "eLand",
       "jQuery"
     ]
-  },
-  {
-    "domain": "skywavetech.co.zm",
-    "title": "Skywave Technologies | Home Page",
-    "business_name": "",
-    "country": "ZMB",
-    "seo_score": 65,
-    "tech_spend": 866,
-    "crawled_at": "2025-12-13T21:00:17.708890605Z",
-    "technologies": [
-      "Apache",
-      "BootstrapMade",
-      "ElementUI",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "PHP",
-      "Tailwind CSS",
-      "Zoho Books"
-    ]
   }
 ]
