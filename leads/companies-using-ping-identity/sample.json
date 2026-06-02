@@ -1,5 +1,34 @@
 [
   {
+    "domain": "levy24.com",
+    "title": "Levy",
+    "business_name": "",
+    "country": "",
+    "seo_score": 20,
+    "tech_spend": 33583,
+    "crawled_at": "2026-06-01T23:04:36.545246844Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon S3 CDN",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "Fireblade",
+      "Google Cloud DNS",
+      "MaxCDN",
+      "Nginx",
+      "PWA",
+      "Ping Identity",
+      "Ruby on Rails",
+      "Salesforce Hosted",
+      "Storyblocks",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "goodridgegroup.ca",
     "title": "Goodridge Group - Montreal, QC",
     "business_name": "Goodridge Group",
@@ -1832,35 +1861,6 @@
       "Twitter Ads",
       "Unix",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "levy24.com",
-    "title": "Levy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 20,
-    "tech_spend": 33583,
-    "crawled_at": "2025-12-13T23:32:52.217643968Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon S3 CDN",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "Fireblade",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "MaxCDN",
-      "PWA",
-      "Ping Identity",
-      "Ruby on Rails",
-      "Salesforce Hosted",
-      "Storyblocks",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
