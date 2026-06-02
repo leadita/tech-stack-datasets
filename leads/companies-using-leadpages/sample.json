@@ -1,5 +1,37 @@
 [
   {
+    "domain": "grouphorsedaily.com",
+    "title": "GROUP HORSE DAILY (2YO)",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 39788,
+    "crawled_at": "2026-06-02T14:16:58.567246873Z",
+    "technologies": [
+      "AddThis",
+      "AddThis for Wordpress",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Blogger",
+      "DAV",
+      "Express",
+      "GZIP Module",
+      "Gambling Content",
+      "Google",
+      "Google Cloud CDN",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Reseller",
+      "KVH",
+      "LeadPages",
+      "NFOrce Internet",
+      "Ntent",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "whatifpodcast.com",
     "title": "The What If? Podcast",
     "business_name": "The What If? Podcast",
@@ -3051,38 +3083,6 @@
       "QUIC",
       "Tailwind CSS",
       "University or College"
-    ]
-  },
-  {
-    "domain": "grouphorsedaily.com",
-    "title": "GROUP HORSE DAILY (2YO)",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 39788,
-    "crawled_at": "2025-12-14T07:01:56.050791035Z",
-    "technologies": [
-      "AddThis",
-      "AddThis for Wordpress",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Blogger",
-      "DAV",
-      "Express",
-      "GZIP Module",
-      "Gambling Content",
-      "Google",
-      "Google Cloud CDN",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Reseller",
-      "KVH",
-      "LeadPages",
-      "NFOrce Internet",
-      "Ntent",
-      "UTF-8"
     ]
   }
 ]
