@@ -1,5 +1,32 @@
 [
   {
+    "domain": "megasports.com.ar",
+    "title": "Mega Sports - Calzado, Indumentaria y Accesorios para Deportistas",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 56269,
+    "crawled_at": "2026-06-02T15:11:18.336081324Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "Envoy",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "UTF-8",
+      "VTEX Personalization",
+      "jsDelivr",
+      "monday.com"
+    ]
+  },
+  {
     "domain": "karinreiter.com.br",
     "title": "Karin Reiter",
     "business_name": "",
