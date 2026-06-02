@@ -1,5 +1,36 @@
 [
   {
+    "domain": "nycracquetsports.com",
+    "title": "NYC's Top Tennis Store - Racquet Stringing Services — NYC RACQUET SPORTS",
+    "business_name": "NYC Racquet Sports",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 104933,
+    "crawled_at": "2026-06-01T19:59:18.478615624Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Contento",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Monsido",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "Yelp Badge",
+      "eLand"
+    ]
+  },
+  {
     "domain": "souvenir-realty.net",
     "title": "Real Estate Agents & Homes for Sale in Galena, MO",
     "business_name": "Souvenir Realty Inc",
@@ -6581,37 +6612,6 @@
       "Visual Studio",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "grandcentralracquet.com",
-    "title": "NYC's Top Tennis Store - Racquet Stringing Services — NYC RACQUET SPORTS",
-    "business_name": "NYC Racquet Sports",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 104933,
-    "crawled_at": "2026-05-01T07:59:20.000778724Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Contento",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Monsido",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "Yelp Badge",
-      "eLand"
     ]
   },
   {
