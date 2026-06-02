@@ -1,5 +1,25 @@
 [
   {
+    "domain": "efatura.cv",
+    "title": "Inicio | e-Fatura",
+    "business_name": "",
+    "country": "PHL",
+    "seo_score": 57,
+    "tech_spend": 5003,
+    "crawled_at": "2026-06-02T07:37:37.484942522Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Docusaurus",
+      "Google Cloud DNS",
+      "Google Font API",
+      "K2F",
+      "Nginx",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "aboutcode.org",
     "title": "Home | AboutCode.org",
     "business_name": "",
@@ -12803,25 +12823,6 @@
       "Perl",
       "Python",
       "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "frugally.app",
-    "title": "Frugally for Slack",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 62,
-    "tech_spend": 2400,
-    "crawled_at": "2026-02-07T19:26:21.351900377Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Perl",
       "UTF-8"
     ]
   }

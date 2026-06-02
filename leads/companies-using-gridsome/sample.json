@@ -1,5 +1,65 @@
 [
   {
+    "domain": "plugnotas.com",
+    "title": "Plugou. Tá emitindo. | PlugNotas, TecnoSpeed",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 8404,
+    "crawled_at": "2026-06-02T09:28:19.08785839Z",
+    "technologies": [
+      "CDN JS",
+      "CallPage",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gridsome",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Kenoby",
+      "LinkedIn Insights",
+      "Netlify",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "crowdconnect.solutions",
+    "title": "CrowdConnect | Essential Event Management - CrowdConnect",
+    "business_name": "",
+    "country": "",
+    "seo_score": 70,
+    "tech_spend": 67690,
+    "crawled_at": "2026-06-02T02:20:21.812138438Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "DAV",
+      "Financial Services Guide",
+      "Fireblade",
+      "GZIP Module",
+      "Gridsome",
+      "PHP",
+      "Perl",
+      "SMC",
+      "Subversion",
+      "Vimeo",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "sbaexpress.loans",
     "title": "SBA Express Loans",
     "business_name": "",
@@ -514,38 +574,6 @@
       "Silicon Valley Web Hosting",
       "Subversion",
       "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "plugnotas.com.br",
-    "title": "Plugou. Tá emitindo. | PlugNotas, TecnoSpeed",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 8404,
-    "crawled_at": "2026-05-24T13:51:44.123145501Z",
-    "technologies": [
-      "CDN JS",
-      "CallPage",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gridsome",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Kenoby",
-      "LinkedIn Insights",
-      "Netlify",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
@@ -11954,38 +11982,6 @@
       "SMC",
       "Unix",
       "eLand"
-    ]
-  },
-  {
-    "domain": "divinehycenth.now.sh",
-    "title": "Software Engineer / UIX Designer - Divine Hycenth",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 1251,
-    "crawled_at": "2026-01-18T19:11:01.675996185Z",
-    "technologies": [
-      "ADFOX",
-      "Angular",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Cloudinary",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Netlify",
-      "Next.js",
-      "Nginx",
-      "Ntent",
-      "Pleroma",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "Yandex Hosting",
-      "Yandex Metrika"
     ]
   }
 ]
