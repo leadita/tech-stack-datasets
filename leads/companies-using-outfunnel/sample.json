@@ -1,5 +1,35 @@
 [
   {
+    "domain": "portfoliovaluations.com",
+    "title": "M&A Advisory Firm for Fintech, Payments, SaaS & AI",
+    "business_name": "733Park",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 2326,
+    "crawled_at": "2026-06-02T15:38:19.969974977Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Outfunnel",
+      "Perl",
+      "Pipedrive",
+      "QUIC",
+      "Styled Components",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "startmagicpitch.com",
     "title": "PodPitch ✨ Instant Media Lists & Pitch Drafts for PR Pros",
     "business_name": "PodPitch",
@@ -278,36 +308,6 @@
       "YouTube",
       "qTranslate",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "isvcertified.com",
-    "title": "M&A Advisory Firm for Fintech, Payments, SaaS & AI",
-    "business_name": "733Park",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 2326,
-    "crawled_at": "2026-05-27T03:05:19.973640744Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Duda",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Outfunnel",
-      "Perl",
-      "Pipedrive",
-      "QUIC",
-      "Styled Components",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
