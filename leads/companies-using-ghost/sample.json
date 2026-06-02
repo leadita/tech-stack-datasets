@@ -1,5 +1,34 @@
 [
   {
+    "domain": "bwresearch.com",
+    "title": "Home - BW Research",
+    "business_name": "BW Research",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 16468,
+    "crawled_at": "2026-06-01T23:10:34.65382401Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Font Awesome",
+      "Ghost",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gutenberg",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Termly",
+      "Theme In WP",
+      "UTF-8",
+      "WP Engine",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "oxfreepress.com",
     "title": "Oxford Free Press",
     "business_name": "",
@@ -13287,41 +13316,6 @@
       "QUIC",
       "UTF-8",
       "Unsplash",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "transang.me",
-    "title": "Tran Sang Dev Blog",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 15900,
-    "crawled_at": "2026-03-16T02:01:09.730071949Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "ArvanCloud",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Ghost",
-      "GitHub Hosting",
-      "Google Adsense",
-      "Google Analytics",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google My Business",
-      "Google Reseller",
-      "Google Retail Product Discovery",
-      "Google Tag Manager",
-      "IPFS",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Python",
-      "Stripe",
-      "UTF-8",
       "jsDelivr"
     ]
   }

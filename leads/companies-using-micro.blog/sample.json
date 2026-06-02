@@ -8445,55 +8445,5 @@
       "Micro.blog",
       "Microdata for Google Shopping"
     ]
-  },
-  {
-    "domain": "toot.to",
-    "title": "Toot! for Mastodon App - App Store",
-    "business_name": "App Store",
-    "country": "BRA",
-    "seo_score": 87,
-    "tech_spend": 627,
-    "crawled_at": "2025-12-14T01:15:46.10333901Z",
-    "technologies": [
-      "Akamai EdgeConnect",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "App Store",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Mastodon",
-      "Micro.blog",
-      "PWA",
-      "Perl",
-      "QUIC",
-      "Say what",
-      "Twitter Ads",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "paulrodenjr.org",
-    "title": "Paul Roden Jr, Indie iOS Developer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 660,
-    "crawled_at": "2025-12-14T00:01:56.016072656Z",
-    "technologies": [
-      "App Store",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Micro.blog",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
   }
 ]
