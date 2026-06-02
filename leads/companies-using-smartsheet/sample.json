@@ -1,5 +1,36 @@
 [
   {
+    "domain": "cometcollab.org",
+    "title": "COMPADRE > COMET",
+    "business_name": "",
+    "country": "PHL",
+    "seo_score": 65,
+    "tech_spend": 93713,
+    "crawled_at": "2026-06-02T09:56:02.445645955Z",
+    "technologies": [
+      "Aruba",
+      "DAV",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Qualtrics Site Intercept",
+      "SiteW",
+      "Smartsheet",
+      "Squarespace",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "dragchallenge.com.au",
     "title": "Home - Drag Challenge",
     "business_name": "MEGUIAR'S MOTOREX",
@@ -17698,63 +17729,6 @@
       "UTF-8",
       "Visual Studio",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "cometcollab.org",
-    "title": "COMPADRE > COMET",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 65,
-    "tech_spend": 123713,
-    "crawled_at": "2025-12-14T04:50:59.145287137Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Aruba",
-      "DAV",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gravity",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Qualtrics Site Intercept",
-      "SiteW",
-      "Smartsheet",
-      "Squarespace",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "globalvibestrucking.com",
-    "title": "Globalvibestrucking.com",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 4807,
-    "crawled_at": "2025-12-14T00:33:12.895680327Z",
-    "technologies": [
-      "Apache",
-      "Cloudinary",
-      "GZIP Module",
-      "Google Maps",
-      "Google My Business",
-      "IcoMoon",
-      "QUIC",
-      "Slider Revolution",
-      "Smartsheet",
-      "Tailwind CSS",
-      "Thank You"
     ]
   }
 ]
