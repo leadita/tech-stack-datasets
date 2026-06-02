@@ -1,17 +1,18 @@
 [
   {
-    "domain": "gatewaypavingca.net",
+    "domain": "newtility-ops.com",
     "title": "Grafana",
     "business_name": "",
     "country": "",
-    "seo_score": 30,
-    "tech_spend": "",
-    "crawled_at": "2026-05-31T16:26:19.969149886Z",
+    "seo_score": 35,
+    "tech_spend": 1200,
+    "crawled_at": "2026-06-02T05:00:08.630876439Z",
     "technologies": [
       "Apache",
+      "Barchart",
+      "Express",
       "GitHub Hosting",
       "Grafana",
-      "Nginx",
       "UTF-8"
     ]
   },
