@@ -1,5 +1,38 @@
 [
   {
+    "domain": "tavolachar.com",
+    "title": "tavola",
+    "business_name": "Tavola",
+    "country": "USA",
+    "seo_score": 75,
+    "tech_spend": 7725,
+    "crawled_at": "2026-06-02T09:28:19.113512821Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Amazon",
+      "Aruba",
+      "Better Lead Generation Services",
+      "Express",
+      "FormSubmit",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Newsletter for Wordpress",
+      "Pico CSS",
+      "QUIC",
+      "Sleeknote",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "hoyermotors.com",
     "title": "Motors and automation solutions – find the motor solution for your industry needs here",
     "business_name": "",
@@ -18406,38 +18439,6 @@
       "WooFramework",
       "WordPress",
       "WordPress Multisite",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "tavolachar.com",
-    "title": "tavola",
-    "business_name": "Tavola",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 1299,
-    "crawled_at": "2025-12-14T04:37:56.031814847Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "Better Lead Generation Services",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "Pico CSS",
-      "QUIC",
-      "Sleeknote",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
       "eLand"
     ]
   }
