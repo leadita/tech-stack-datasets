@@ -1,5 +1,33 @@
 [
   {
+    "domain": "casinocentreforums.co.uk",
+    "title": "Casino Centre Forums: UK Gambling Discussions & Tips",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 5156,
+    "crawled_at": "2026-06-03T11:36:20.551314822Z",
+    "technologies": [
+      "About Cookies",
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Django",
+      "Envoy",
+      "Gambling Content",
+      "IcoMoon",
+      "Matomo",
+      "Matomo Tag Manager",
+      "Oracle Cloud",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "quickwavetech.com",
     "title": "Custom Web Development & Travel Tech Solutions | Quick Wave Tech",
     "business_name": "Quick Wave Tech",
@@ -30,38 +58,6 @@
       "UTF-8",
       "Ubuntu",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "silverpokerzone.com",
-    "title": "Silver Poker Zone: Expert Tips and Strategies for Poker Players",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 9356,
-    "crawled_at": "2026-06-01T20:58:20.115717583Z",
-    "technologies": [
-      "About Cookies",
-      "Adult Content",
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "DAV",
-      "Django",
-      "Gambling Content",
-      "Help.com",
-      "IcoMoon",
-      "Krypt Technologies",
-      "Matomo",
-      "Matomo Tag Manager",
-      "NFOrce Internet",
-      "Tailwind CSS",
-      "UPS",
-      "UTF-8",
-      "University or College",
-      "jQuery"
     ]
   },
   {
