@@ -1,5 +1,31 @@
 [
   {
+    "domain": "dumas.io",
+    "title": "Emily Dumas",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 10069,
+    "crawled_at": "2026-06-03T00:20:19.970131882Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Blackboard Open LMS",
+      "CloudFront",
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Python",
+      "UTF-8",
+      "University or College",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "youngdementiauk.org",
     "title": "Young onset dementia - Dementia UK",
     "business_name": "Dementia UK",
@@ -3016,32 +3042,6 @@
     ]
   },
   {
-    "domain": "dumas.io",
-    "title": "Emily Dumas",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 10069,
-    "crawled_at": "2026-01-22T14:04:43.45394081Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Blackboard Open LMS",
-      "CloudFront",
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Python",
-      "UTF-8",
-      "University or College",
-      "YouTube"
-    ]
-  },
-  {
     "domain": "alanjal.com",
     "title": "AlAnjal",
     "business_name": "",
@@ -3457,52 +3457,6 @@
       "jQuery",
       "wpDataTables",
       "xCharts"
-    ]
-  },
-  {
-    "domain": "codeit.com.np",
-    "title": "Code IT | Nepal’s Largest IT Platform",
-    "business_name": "",
-    "country": "NPL",
-    "seo_score": 77,
-    "tech_spend": 106339,
-    "crawled_at": "2025-12-14T12:46:56.020050294Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "App Store",
-      "Blackboard Open LMS",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "K2F",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Python",
-      "QUIC",
-      "SMC",
-      "ShareThis",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "YouTube",
-      "jQuery",
-      "jsDelivr",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   }
 ]
