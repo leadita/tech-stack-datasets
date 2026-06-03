@@ -1,5 +1,32 @@
 [
   {
+    "domain": "randolphbeers.com",
+    "title": "Randolph Beers Fine Art",
+    "business_name": "Studio",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 724,
+    "crawled_at": "2026-06-03T07:09:18.692068427Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "RightSignature",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "choicehealthlawsuit.com",
     "title": "Court Authorized Notice - Choice Health Lawsuit",
     "business_name": "Choice Health Lawsuit",
@@ -2170,33 +2197,6 @@
       "Zopim",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "randolphbeers.com",
-    "title": "Randolph Beers Fine Art",
-    "business_name": "Studio",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 724,
-    "crawled_at": "2025-12-14T16:22:56.006734851Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "RightSignature",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
