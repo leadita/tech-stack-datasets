@@ -14318,59 +14318,5 @@
       "jsDelivr",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "affinityiq.com",
-    "title": "Affinity Systems",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 65,
-    "tech_spend": 8997,
-    "crawled_at": "2025-12-14T18:46:56.028689916Z",
-    "technologies": [
-      "Amazon",
-      "Apache",
-      "Apache Tomcat JK",
-      "Bulma",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Coming Soon Page",
-      "FreeCSSTemplates",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "ISO/IEC 8859",
-      "IcoMoon",
-      "No-Q",
-      "QUIC",
-      "Twitter Ads",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "mariposawoolenmill.ca",
-    "title": "Marisposa Woolen Mill",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 139,
-    "crawled_at": "2025-12-14T17:31:56.019477916Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "DAV",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
   }
 ]
