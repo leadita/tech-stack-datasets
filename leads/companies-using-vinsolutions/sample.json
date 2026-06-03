@@ -1,5 +1,38 @@
 [
   {
+    "domain": "torianowhite.com",
+    "title": "Toriano E. White - Serial Entrepreneur, Motivational Speaker,Author, Consultant,Certified Badminton and Pickleball Coach - TEW One Nest | Popl",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 20651,
+    "crawled_at": "2026-06-03T08:53:22.121395483Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Linktree",
+      "Material-UI",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Salesforce Hosted",
+      "Twitter Ads",
+      "UTF-8",
+      "VinSolutions",
+      "WhatsApp Sharing",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "jonica.me",
     "title": "Jonica Champatiray-Batson - Owner & Operator - Jonica | Barber | Popl",
     "business_name": "",
