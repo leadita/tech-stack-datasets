@@ -6408,26 +6408,5 @@
       "YouTube",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "vegfest.hk",
-    "title": "Vegfest Hong Kong | 香港素食嘉年華",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 72,
-    "tech_spend": 30408,
-    "crawled_at": "2025-12-14T18:22:56.011721933Z",
-    "technologies": [
-      "Endis",
-      "Fireblade",
-      "GZIP Module",
-      "Nginx",
-      "PHP",
-      "Pabbly",
-      "Perl",
-      "UTF-8",
-      "YouTube",
-      "jsDelivr"
-    ]
   }
 ]

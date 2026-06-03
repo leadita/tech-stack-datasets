@@ -1,5 +1,25 @@
 [
   {
+    "domain": "dylangattey.com",
+    "title": "Engineer. Problem Solver.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-06-03T12:11:46.955441202Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Material-UI",
+      "Merge",
+      "Next.js",
+      "Pico CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "covver.io",
     "title": "Covver | branded corporate gifts",
     "business_name": "",
@@ -1195,29 +1215,6 @@
       "commercetools",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "dylangattey.com",
-    "title": "Engineer. Problem Solver. | Dylan Gattey",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 15198,
-    "crawled_at": "2025-12-14T19:01:56.048808189Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Material-UI",
-      "Merge",
-      "Next.js",
-      "No-Q",
-      "Pico CSS",
-      "SMC",
-      "Subversion",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
