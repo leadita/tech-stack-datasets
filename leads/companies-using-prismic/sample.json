@@ -1,5 +1,85 @@
 [
   {
+    "domain": "newyorkblockchainweek.org",
+    "title": "New York Blockchain Week | Nov 3-7 2025",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 420,
+    "crawled_at": "2026-06-03T17:02:01.679492173Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "DAV",
+      "Nuxt.js",
+      "Perl",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "reveal-interiors.com",
+    "title": "Reveal Interiors | Chicago’s Custom Closet and Cabinet Design Experts",
+    "business_name": "Reveal Interiors",
+    "country": "USA",
+    "seo_score": 92,
+    "tech_spend": 7148,
+    "crawled_at": "2026-06-03T06:25:39.107699104Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Automattic",
+      "Content Delivery Network",
+      "DAV",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "Netlify",
+      "Next.js",
+      "Pleroma",
+      "Prismic",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vimeo",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "granitebwrs.co.nz",
+    "title": "ICIB",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 12856,
+    "crawled_at": "2026-06-03T00:57:13.772204995Z",
+    "technologies": [
+      "AAPT",
+      "AWS WAF Challenge",
+      "Adult Content",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "DAV",
+      "Fireblade",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Next.js",
+      "Perl",
+      "Pleroma",
+      "Prismic",
+      "QUIC",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "nanovery.co.uk",
     "title": "Nanovery",
     "business_name": "",
@@ -20,36 +100,6 @@
       "Prismic",
       "QUIC",
       "Styled Components",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "envirosurenz.co.nz",
-    "title": "ICIB",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 50888,
-    "crawled_at": "2026-06-02T06:39:49.082689356Z",
-    "technologies": [
-      "AAPT",
-      "AWS WAF Challenge",
-      "Adult Content",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DAV",
-      "Fireblade",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "Prismic",
-      "QUIC",
       "UTF-8",
       "Vercel"
     ]
@@ -11024,35 +11074,6 @@
     ]
   },
   {
-    "domain": "crookedoak.com",
-    "title": "Reveal Interiors | Chicago’s Custom Closet and Cabinet Design Experts",
-    "business_name": "Reveal Interiors",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 7148,
-    "crawled_at": "2026-04-17T20:32:19.985782189Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Automattic",
-      "Content Delivery Network",
-      "DAV",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "Netlify",
-      "Next.js",
-      "Pleroma",
-      "Prismic",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vimeo",
-      "reCAPTCHA"
-    ]
-  },
-  {
     "domain": "theflatironbuilding.com",
     "title": "The Flatiron Building: Private Residences in a Historic Landmark",
     "business_name": "",
@@ -13600,32 +13621,6 @@
       "Vercel",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "csilva23.com",
-    "title": "Christopher Silva | Graphic Designer & Visual Artist",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 2848,
-    "crawled_at": "2026-04-09T01:59:19.984506374Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Prismic",
-      "Svelte",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
