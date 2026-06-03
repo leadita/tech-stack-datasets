@@ -1,12 +1,12 @@
 [
   {
-    "domain": "digitalmarketingresorts.com",
+    "domain": "gomarketingevents.com",
     "title": "Well Mommas | maternal nutrition",
     "business_name": "",
     "country": "",
-    "seo_score": 82,
+    "seo_score": 67,
     "tech_spend": 112468,
-    "crawled_at": "2026-06-01T21:24:41.316996093Z",
+    "crawled_at": "2026-06-03T06:25:39.118997905Z",
     "technologies": [
       "Alternate Protocol",
       "Amazon WAF Blocked",
@@ -37,7 +37,6 @@
       "Vector Internet Services",
       "Wix",
       "Wix Media",
-      "eLand",
       "mlcom"
     ]
   },
