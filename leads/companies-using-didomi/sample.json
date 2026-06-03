@@ -1,5 +1,31 @@
 [
   {
+    "domain": "dorotunisia.com",
+    "title": "Home page",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 5616,
+    "crawled_at": "2026-06-03T08:08:56.995685577Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Didomi",
+      "GDPR Consent Management Platform",
+      "GZIP Module",
+      "MailChimp",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "PWA",
+      "Pleroma",
+      "QUIC",
+      "Trustpilot Reviews for WordPress",
+      "UTF-8",
+      "Visual Studio",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "veloconversio.com",
     "title": "Transformer votre vélo en vélo électrique",
     "business_name": "",
@@ -4701,32 +4727,6 @@
       "jsDelivr",
       "morris.js",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "primobydoro.cz",
-    "title": "Home page",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 5616,
-    "crawled_at": "2026-05-17T14:17:19.96885327Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Didomi",
-      "GDPR Consent Management Platform",
-      "GZIP Module",
-      "MailChimp",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "PWA",
-      "Pleroma",
-      "QUIC",
-      "Trustpilot Reviews for WordPress",
-      "UTF-8",
-      "Visual Studio",
-      "YouTube",
-      "eLand"
     ]
   },
   {
