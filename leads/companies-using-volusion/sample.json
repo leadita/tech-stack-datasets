@@ -1,5 +1,27 @@
 [
   {
+    "domain": "free-house-design-software.com",
+    "title": "Easy To Use House Design Software",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2136,
+    "crawled_at": "2026-06-02T20:50:09.439017162Z",
+    "technologies": [
+      "Apache",
+      "DAV",
+      "Eber",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "ISO/IEC 8859",
+      "QUIC",
+      "Shockwave Flash Embed",
+      "Urchin 5",
+      "Volusion Live Chat"
+    ]
+  },
+  {
     "domain": "rare-planedetective.com",
     "title": "Affordable Model Kits | Rare-Plane Detective",
     "business_name": "",
@@ -1801,28 +1823,6 @@
     ]
   },
   {
-    "domain": "free-house-floor-plan-software.com",
-    "title": "Easy To Use House Floor Plan Drawing Software",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2136,
-    "crawled_at": "2026-04-07T00:38:19.991311336Z",
-    "technologies": [
-      "Apache",
-      "DAV",
-      "Eber",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "ISO/IEC 8859",
-      "QUIC",
-      "Shockwave Flash Embed",
-      "Urchin 5",
-      "Volusion Live Chat"
-    ]
-  },
-  {
     "domain": "barkobooties.com",
     "title": "Dog Boots That Stay On | Hot Pavement, Snow & Traction | AllDogBoots",
     "business_name": "AllDogBoots",
@@ -3572,46 +3572,6 @@
       "Tumblr",
       "Twitter Ads",
       "Volusion",
-      "Volusion Live Chat",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "wendymignot.com",
-    "title": "Official Jewelry by Wendy Mignot | Handcrafted Pearl & Leather Â® Jewelry by Wendy Mignot",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 39668,
-    "crawled_at": "2025-12-14T08:52:56.02735536Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Aruba",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudinary",
-      "Daily Deals",
-      "ElementUI",
-      "Elfsight",
-      "Fireblade",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google My Business",
-      "Google Tag Manager",
-      "Gravity",
-      "Instagram Follow Button",
-      "Perl",
-      "Privy",
-      "QUIC",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "Vimeo CDN",
       "Volusion Live Chat",
       "YouTube"
     ]
