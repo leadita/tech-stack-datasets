@@ -3590,41 +3590,5 @@
       "shadcn ui",
       "symfony PHP Framework"
     ]
-  },
-  {
-    "domain": "jerryhjr.space",
-    "title": "Jerry H.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 40600,
-    "crawled_at": "2025-12-14T06:40:56.028888542Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "DAV",
-      "Express",
-      "Financial Services Guide",
-      "FreshBooks",
-      "GitHub Hosting",
-      "Google My Business",
-      "Instagram Follow Button",
-      "KVH",
-      "Next.js",
-      "Notion",
-      "PHP",
-      "PWA",
-      "Pleroma",
-      "Python",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "Vercel",
-      "WordPress",
-      "YouTube"
-    ]
   }
 ]

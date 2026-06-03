@@ -10656,25 +10656,5 @@
       "UTF-8",
       "jQuery"
     ]
-  },
-  {
-    "domain": "revenuebuildersllc.com",
-    "title": "Aberdeen, OH Accounting & Tax Firm | Home Page | Revenue Builders LLC",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 55,
-    "tech_spend": 533,
-    "crawled_at": "2025-12-14T16:46:56.03520764Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Matomo",
-      "Matomo Tag Manager",
-      "QUIC",
-      "QuickBooks Online",
-      "UTF-8",
-      "jQuery"
-    ]
   }
 ]
