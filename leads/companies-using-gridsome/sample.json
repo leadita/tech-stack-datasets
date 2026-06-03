@@ -1,5 +1,100 @@
 [
   {
+    "domain": "marcell-lanczos.com",
+    "title": "MARCELL LANCZOS - Portfolio Website",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 315903,
+    "crawled_at": "2026-06-03T21:24:01.260058035Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Experience Manager",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Craft",
+      "Episerver Search Navigation",
+      "GitHub Hosting",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "Next.js",
+      "PHP",
+      "Pleroma",
+      "Python",
+      "Svelte",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "Webflow"
+    ]
+  },
+  {
+    "domain": "outlet-spa.de",
+    "title": "Raffaello Rossi Outlet & Spa - Raffaello Rossi Outlet & Spa",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 50,
+    "tech_spend": 1170,
+    "crawled_at": "2026-06-03T21:13:55.375507333Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Gridsome",
+      "Idaq",
+      "Instagram Follow Button",
+      "Nginx",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "frozenfoodpac.org",
+    "title": "Frozen Food PAC",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 1310,
+    "crawled_at": "2026-06-03T19:10:16.883821679Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Financial Services Guide",
+      "FormSubmit",
+      "Gridsome",
+      "Idaq",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "indiehackerspr.com",
+    "title": "Indie Hackers Puerto Rico - Indie Hackers Puerto Rico",
+    "business_name": "",
+    "country": "ARG",
+    "seo_score": 72,
+    "tech_spend": 55540,
+    "crawled_at": "2026-06-03T07:24:47.59482171Z",
+    "technologies": [
+      "Bulma",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "DAV",
+      "GitHub Hosting",
+      "Gridsome",
+      "License Buttons",
+      "Linktree",
+      "Medium",
+      "Plausible Analytics",
+      "SMC",
+      "Subversion",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "plugnotas.com",
     "title": "Plugou. Tá emitindo. | PlugNotas, TecnoSpeed",
     "business_name": "",
@@ -3527,24 +3622,6 @@
       "Tailwind CSS",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "seductive-beauty-spa.de",
-    "title": "Raffaello Rossi Outlet & Spa - Raffaello Rossi Outlet & Spa",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 45,
-    "tech_spend": 1170,
-    "crawled_at": "2026-05-07T03:29:20.010599754Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "DAV",
-      "Gridsome",
-      "Idaq",
-      "Instagram Follow Button",
-      "Nginx",
-      "Tailwind CSS"
     ]
   },
   {
@@ -11925,63 +12002,6 @@
       "QUIC",
       "SMC",
       "Subversion"
-    ]
-  },
-  {
-    "domain": "fiechter-architektur.ch",
-    "title": "Home - Architektur Fiechter",
-    "business_name": "Architektur Fiechter",
-    "country": "CHE",
-    "seo_score": 82,
-    "tech_spend": 2768,
-    "crawled_at": "2026-01-19T21:16:43.436449744Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Idaq",
-      "Instagram Follow Button",
-      "Netlify",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "beakerdigital.com",
-    "title": "Beaker",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-01-19T10:15:36.822006389Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "Netlify",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "kommunikation.plus",
-    "title": "KommunikationPlus - KommunikationPlus",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 70,
-    "tech_spend": 50040,
-    "crawled_at": "2026-01-19T09:24:09.429708063Z",
-    "technologies": [
-      "Apache",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "SMC",
-      "Unix",
-      "eLand"
     ]
   }
 ]
