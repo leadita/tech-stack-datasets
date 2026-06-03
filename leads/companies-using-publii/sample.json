@@ -1,5 +1,24 @@
 [
   {
+    "domain": "embrace-the-grind-song.com",
+    "title": "embrace-the-grind-song.com",
+    "business_name": "embrace-the-grind-song.com",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 249,
+    "crawled_at": "2026-06-03T09:56:37.351432151Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "wyomingitc.org",
     "title": "Wyoming Integrated Test Center",
     "business_name": "",
@@ -8640,25 +8659,6 @@
       "QUIC",
       "WordPress SEO Structured Data Schema Plugin",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "embrace-the-grind-song.com",
-    "title": "embrace-the-grind-song.com",
-    "business_name": "embrace-the-grind-song.com",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 249,
-    "crawled_at": "2025-12-14T17:50:41.970990335Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   }
 ]
