@@ -6374,39 +6374,5 @@
       "YouTube",
       "jQuery"
     ]
-  },
-  {
-    "domain": "binnotech.co",
-    "title": "Sales & Marketing Tool",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 54636,
-    "crawled_at": "2025-12-15T03:28:56.014770455Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Better Lead Generation Services",
-      "BunnyCDN Header",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "ElementUI",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Pabbly",
-      "QUIC",
-      "SMC",
-      "WhatsApp Sharing",
-      "YouTube",
-      "jsDelivr"
-    ]
   }
 ]
