@@ -1,5 +1,37 @@
 [
   {
+    "domain": "silicontalent.com",
+    "title": "Hire Senior Remote Developers — Hiretop",
+    "business_name": "Hiretop",
+    "country": "UKR",
+    "seo_score": 77,
+    "tech_spend": 22549,
+    "crawled_at": "2026-06-03T22:59:11.256278074Z",
+    "technologies": [
+      "ADFOX",
+      "AI Log",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Clutch",
+      "Content Delivery Network",
+      "Fastly",
+      "Formspree",
+      "Ghost",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Python",
+      "QUIC",
+      "SweepBright",
+      "UTF-8",
+      "Yandex Hosting"
+    ]
+  },
+  {
     "domain": "infoexchange.nz",
     "title": "Information Exchange",
     "business_name": "",
@@ -282,38 +314,6 @@
       "YouTube",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "hiretop-de.com",
-    "title": "Hire Senior Remote Developers — Hiretop",
-    "business_name": "Hiretop",
-    "country": "UKR",
-    "seo_score": 77,
-    "tech_spend": 22549,
-    "crawled_at": "2026-05-30T05:04:58.781307843Z",
-    "technologies": [
-      "ADFOX",
-      "AI Log",
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Clutch",
-      "Content Delivery Network",
-      "Fastly",
-      "Formspree",
-      "Ghost",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Python",
-      "QUIC",
-      "SweepBright",
-      "UTF-8",
-      "Yandex Hosting"
     ]
   },
   {
