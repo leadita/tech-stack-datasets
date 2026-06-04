@@ -7792,36 +7792,5 @@
       "jsDelivr",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "rockwellmtg.com",
-    "title": "Rockwell Mortgage | Josh Graves | NMLS #2413381",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 65200,
-    "crawled_at": "2025-12-15T03:31:56.015229579Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "Animate It",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Elfsight",
-      "Flow",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Nationwide Mortgage Licensing System and Registry",
-      "Optimal Blue",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "WF Cookie Consent"
-    ]
   }
 ]
