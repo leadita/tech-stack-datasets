@@ -1,12 +1,43 @@
 [
   {
-    "domain": "inclusivechristianity.com",
+    "domain": "tryoperationoutbox.com",
+    "title": "The Cold Email Agency – Personalization That Drives Real Engagement",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 151947,
+    "crawled_at": "2026-06-04T11:30:19.071996126Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Better Lead Generation Services",
+      "Content Delivery Network",
+      "Dynadot",
+      "Elementor",
+      "EmbedPress",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PHP",
+      "QUIC",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "UTF-8",
+      "Woo Themes",
+      "WooCommerce",
+      "WooCommerce Checkout",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "penlite.com",
     "title": "Build Your Brand",
     "business_name": "",
     "country": "",
     "seo_score": 42,
     "tech_spend": 36,
-    "crawled_at": "2026-06-03T13:11:14.184129679Z",
+    "crawled_at": "2026-06-03T16:41:28.992607947Z",
     "technologies": [
       "Amazon CloudFront",
       "CloudFront",
@@ -37,37 +68,6 @@
       "QUIC",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "outboundforgehq.com",
-    "title": "The Cold Email Agency – Personalization That Drives Real Engagement",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 151947,
-    "crawled_at": "2026-06-02T23:20:06.817838478Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Better Lead Generation Services",
-      "Content Delivery Network",
-      "Dynadot",
-      "Elementor",
-      "EmbedPress",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "UTF-8",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   },
   {
