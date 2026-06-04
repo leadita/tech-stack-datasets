@@ -1,5 +1,62 @@
 [
   {
+    "domain": "medtech-mastermind.com",
+    "title": "MIX: MedTech Innovation Community & Resources",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 10892,
+    "crawled_at": "2026-06-04T04:10:07.067042189Z",
+    "technologies": [
+      "1Password",
+      "Alternate Protocol",
+      "Framer Sites",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Tag Manager",
+      "Gusto",
+      "Instagram Follow Button",
+      "Lemon Squeezy",
+      "Microsoft Clarity",
+      "Ntent",
+      "QUIC",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
+    "domain": "tello.io",
+    "title": "Daniel Tello — Senior Software Developer & Engineering Manager",
+    "business_name": "",
+    "country": "MEX",
+    "seo_score": 82,
+    "tech_spend": 24240,
+    "crawled_at": "2026-06-04T01:22:12.360268921Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "App Store",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Gusto",
+      "Microdata for Google Shopping",
+      "Python",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "eatatgusto.com",
     "title": "Must-Visit Italian Restaurant in East Rutherford | Gusto",
     "business_name": "",
@@ -16259,32 +16316,6 @@
     ]
   },
   {
-    "domain": "medicalinnovation.io",
-    "title": "MIX: MedTech Innovation Community & Resources",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 10892,
-    "crawled_at": "2026-02-12T12:13:31.60712706Z",
-    "technologies": [
-      "1Password",
-      "Alternate Protocol",
-      "Framer Sites",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "Gusto",
-      "Instagram Follow Button",
-      "Lemon Squeezy",
-      "Microsoft Clarity",
-      "Ntent",
-      "QUIC",
-      "Yandex Hosting",
-      "Zeald"
-    ]
-  },
-  {
     "domain": "sdrconsultinginc.com",
     "title": "SDR Consulting Inc. - Expert Accounting and Tax Services | SDR Consulting Inc.",
     "business_name": "",
@@ -18554,37 +18585,6 @@
       "YouTube",
       "eLand",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "dadshandymancos.com",
-    "title": "Handyman Services in Colorado Springs | Dads Handyman CoS",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 72,
-    "tech_spend": 30579,
-    "crawled_at": "2025-12-26T12:49:38.330809593Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Font Awesome",
-      "Google",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Gusto",
-      "Headless UI",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Snowplow",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vercel",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]
