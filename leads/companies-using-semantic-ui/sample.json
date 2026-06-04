@@ -1,5 +1,32 @@
 [
   {
+    "domain": "drarpitadas.com",
+    "title": "Women's Health Care Specialist in Salt Lake, Bidhannagar and Dum Dum | Dr. Arpita Das",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 2440,
+    "crawled_at": "2026-06-04T09:15:39.153332069Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Customer Reviews",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Semantic UI",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "bitbox.ng",
     "title": "Bitbox Stream Technologies",
     "business_name": "",
@@ -14407,35 +14434,6 @@
       "Thank You",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "itmrecruitment.com",
-    "title": "ITM Recruitment services - Search for Jobs Online & Apply for Free",
-    "business_name": "ITM Recruitment Services",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 760,
-    "crawled_at": "2026-04-10T20:56:19.984294992Z",
-    "technologies": [
-      "Bulma",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google My Business",
-      "Google Play",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Semantic UI",
-      "Tailwind CSS",
-      "UTF-8",
-      "Verified Profile",
-      "YouTube",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
