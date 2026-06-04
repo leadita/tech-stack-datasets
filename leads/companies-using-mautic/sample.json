@@ -1,5 +1,23 @@
 [
   {
+    "domain": "1being.org",
+    "title": "We all are One Being",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 55,
+    "tech_spend": "",
+    "crawled_at": "2026-06-04T01:15:27.542599167Z",
+    "technologies": [
+      "Express",
+      "KaTeX",
+      "Mautic",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "clip-loyalty.com",
     "title": "Loyalty Solutions - Smart octopus solutions",
     "business_name": "Smart Octopus Solutions, d.o.o.",
@@ -18975,46 +18993,6 @@
       "Yelp Badge",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "cyberairconditioning.com.au",
-    "title": "Cyber Air Conditioning | Local Air Con Technicians | 24/7 Available",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 77,
-    "tech_spend": 5465,
-    "crawled_at": "2026-02-21T00:52:57.385271221Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Fastly",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Heyflow",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Matomo Tag Manager",
-      "Mautic",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]
