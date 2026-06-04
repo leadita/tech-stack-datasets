@@ -1,5 +1,58 @@
 [
   {
+    "domain": "friersoncfo.com",
+    "title": "Liberty Healthcare Financial Strategy & Leadership",
+    "business_name": "Melissa Frierson MBA - Liberty Healthcare Financial Strategist & Tax Advisor - Leadership Academy",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 125341,
+    "crawled_at": "2026-06-03T20:11:19.969554041Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Ametys",
+      "Apture Linking Platform",
+      "Calendly",
+      "Corporate Governance and Regulatory Compliance",
+      "ETranslate",
+      "EmbedPress",
+      "Fireblade",
+      "GTranslate",
+      "Google My Business",
+      "Gutenberg",
+      "Microdata for Google Shopping",
+      "Oracle Cloud",
+      "SMC",
+      "Sage Intacct",
+      "UTF-8",
+      "University or College",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "nevari-outreach.co",
+    "title": "Nevari — Where Vision Powers Performance",
+    "business_name": "Nevari",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 190660,
+    "crawled_at": "2026-06-03T14:25:25.212209907Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Astro",
+      "Calendly",
+      "Content Delivery Network",
+      "Microdata for Google Shopping",
+      "Plausible Analytics",
+      "Sage Intacct",
+      "Salesforce Hosted",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "tc2solutions.com",
     "title": "Fractional & Interim CFO for $10M-$40M Companies | NJ / NY Tri-State | Catalyst CFO Advisors",
     "business_name": "Catalyst CFO Advisors",
@@ -441,27 +494,6 @@
       "WF Cookie Consent",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "nevarioutreach.co",
-    "title": "Nevari — Where Vision Powers Performance",
-    "business_name": "Nevari",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 190660,
-    "crawled_at": "2026-05-30T10:23:43.942587021Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Astro",
-      "Calendly",
-      "Content Delivery Network",
-      "Microdata for Google Shopping",
-      "Plausible Analytics",
-      "Sage Intacct",
-      "Salesforce Hosted",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {

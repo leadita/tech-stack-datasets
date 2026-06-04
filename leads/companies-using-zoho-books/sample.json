@@ -1,5 +1,31 @@
 [
   {
+    "domain": "nvoyy.uk",
+    "title": "NVOYY | NVOYY | Business IT Support Suffolk & Bury St Edmunds",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 56303,
+    "crawled_at": "2026-06-03T19:59:34.180596826Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Fastly",
+      "Financial Services Guide",
+      "Gatsby JS",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Idaq",
+      "Netlify",
+      "SMC",
+      "Styled Components",
+      "TeamViewer",
+      "UTF-8",
+      "Zoho Books"
+    ]
+  },
+  {
     "domain": "cal-brokerage.com",
     "title": "CAL Brokerage",
     "business_name": "",
@@ -846,32 +872,6 @@
       "University or College",
       "Vercel",
       "Yelp Badge",
-      "Zoho Books"
-    ]
-  },
-  {
-    "domain": "nvoyy.co.uk",
-    "title": "NVOYY | NVOYY | Business IT Support Suffolk & Bury St Edmunds",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 56303,
-    "crawled_at": "2026-04-16T08:35:19.977938233Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "Fastly",
-      "Financial Services Guide",
-      "Gatsby JS",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Idaq",
-      "Netlify",
-      "SMC",
-      "Styled Components",
-      "TeamViewer",
-      "UTF-8",
       "Zoho Books"
     ]
   },

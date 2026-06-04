@@ -1,5 +1,33 @@
 [
   {
+    "domain": "zionco.com",
+    "title": "Home | Zion & Company, Inc.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 18840,
+    "crawled_at": "2026-06-04T02:27:39.635872976Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Dext",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "bjas.co.uk",
     "title": "Home - Bob Jones & Associates Ltd - Accountants in Manchester",
     "business_name": "",
@@ -10602,59 +10630,6 @@
       "UTF-8",
       "Zoom Video Conferencing",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "zionco.com",
-    "title": "Home | Zion & Company, Inc.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 13300,
-    "crawled_at": "2025-12-15T02:07:56.053306569Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "Dext",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "nourainmuhagirbookkeeping.com",
-    "title": "Albany Accounting Firm | Nommu & Sons LLC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 18813,
-    "crawled_at": "2025-12-14T18:55:56.038579249Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AWS WAF Challenge",
-      "CallRail",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Matomo",
-      "Matomo Tag Manager",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
