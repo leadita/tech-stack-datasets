@@ -1,5 +1,49 @@
 [
   {
+    "domain": "emil.cx",
+    "title": "Emil Lienemann",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 15540,
+    "crawled_at": "2026-06-04T07:21:29.853841107Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "Headless UI",
+      "Next.js",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "throwaway.cloud",
+    "title": "throwaway.cloud - Disposable Email Detection API",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 340,
+    "crawled_at": "2026-06-03T21:25:41.519295583Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "ElementUI",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API"
+    ]
+  },
+  {
     "domain": "brendenwing.com",
     "title": "Brenden Wing — Full Stack Engineer · AI Infrastructure · Platform Engineering",
     "business_name": "",
@@ -2258,43 +2302,6 @@
       "Cloudflare Workers",
       "UTF-8",
       "Unsplash"
-    ]
-  },
-  {
-    "domain": "iocium.com",
-    "title": "Iocium · GitHub",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 9958,
-    "crawled_at": "2026-05-18T10:26:20.033822406Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "BlankSlate",
-      "Cloudflare",
-      "Cloudflare Workers",
-      "Fastly",
-      "Fireblade",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "Microsoft Azure Blob Storage",
-      "No-Q",
-      "Ntent",
-      "PWA",
-      "Perl",
-      "Python",
-      "QUIC",
-      "RawGit",
-      "Schema Plugin",
-      "Smart App Banner",
-      "Storyblocks",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services"
     ]
   },
   {
@@ -14469,40 +14476,6 @@
       "Google Cloud DNS",
       "Google Font API",
       "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "bhupeshkumar.blog",
-    "title": "Bhupesh - Backend Engineer",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 6920,
-    "crawled_at": "2026-04-18T21:32:20.007226094Z",
-    "technologies": [
-      "Apache",
-      "ArvanCloud",
-      "Cloudflare",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "Express",
-      "Free Call",
-      "GitHub Hosting",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Nginx",
-      "PWA",
-      "Pleroma",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vercel",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]
