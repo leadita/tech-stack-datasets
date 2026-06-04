@@ -1,5 +1,23 @@
 [
   {
+    "domain": "forgetheweb.eu",
+    "title": "Samuel JOSET - Back-End Software Engineer | Samuel JOSET",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-06-04T18:11:36.350904785Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Debian",
+      "Docusaurus",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Perl"
+    ]
+  },
+  {
     "domain": "efatura.cv",
     "title": "Inicio | e-Fatura",
     "business_name": "",
@@ -12803,27 +12821,6 @@
       "Perl",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "datoria.no",
-    "title": "Home | Datoria",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 17400,
-    "crawled_at": "2026-02-08T15:50:06.324530656Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "Perl",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]

@@ -1,5 +1,170 @@
 [
   {
+    "domain": "kirklanduk.com",
+    "title": "Fruit Growing Equipment - Kirkland",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 1884,
+    "crawled_at": "2026-06-04T22:41:55.903590402Z",
+    "technologies": [
+      "Bulma",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gridsome",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Netlify",
+      "PWA",
+      "Sanity",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "xavier.co",
+    "title": "The Xavier Co",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2589,
+    "crawled_at": "2026-06-04T20:50:09.814198604Z",
+    "technologies": [
+      "Cloudflare",
+      "Content Delivery Network",
+      "DAV",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Idaq",
+      "Instagram Follow Button",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vvveb"
+    ]
+  },
+  {
+    "domain": "libertycloud.io",
+    "title": "Home - LibertyCloud",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": "",
+    "crawled_at": "2026-06-04T14:01:12.793993038Z",
+    "technologies": [
+      "GZIP Module",
+      "Gridsome",
+      "Nginx",
+      "PWA",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "robmaes.com",
+    "title": "Home - Rob Maes",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 29940,
+    "crawled_at": "2026-06-04T09:39:55.218342616Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "Financial Services Guide",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Idaq",
+      "K2F",
+      "Python",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "axlhazarika.in",
+    "title": "Musician, Computer Engineer & A Digital Pagan. - Axl Hazarika",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 67,
+    "tech_spend": 240,
+    "crawled_at": "2026-06-04T07:03:57.340221979Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Gridsome",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "iamscottmatthews.com",
+    "title": "Scott Matthews",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 45,
+    "tech_spend": 3,
+    "crawled_at": "2026-06-04T02:27:39.638931992Z",
+    "technologies": [
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "metrocityroofing.com",
+    "title": "Best Denver Roofing Company | Metro City Roofing Contractors",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 72857,
+    "crawled_at": "2026-06-04T00:21:33.844682698Z",
+    "technologies": [
+      "Clicky",
+      "DAV",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Financial Services Guide",
+      "Fireblade",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Gridsome",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Investor Relations",
+      "Nginx",
+      "No-Q",
+      "Paessler",
+      "Perl",
+      "QUIC",
+      "SMC",
+      "Subversion",
+      "Twitter Ads",
+      "WordPress",
+      "Yelp Badge",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "marcell-lanczos.com",
     "title": "MARCELL LANCZOS - Portfolio Website",
     "business_name": "",
@@ -5055,31 +5220,6 @@
     ]
   },
   {
-    "domain": "maes.to",
-    "title": "Home - Rob Maes",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 6653,
-    "crawled_at": "2026-04-29T21:11:19.982221024Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "Financial Services Guide",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Idaq",
-      "K2F",
-      "Python",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "portfolio.vka.ee",
     "title": "Viljandi Kultuuriakadeemia - Portfolio - Viljandi Kultuuriakadeemia",
     "business_name": "",
@@ -8606,22 +8746,6 @@
     ]
   },
   {
-    "domain": "ethercdn.com",
-    "title": "Home - EtherCDN",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-04-05T12:41:20.030989848Z",
-    "technologies": [
-      "GZIP Module",
-      "Gridsome",
-      "Nginx",
-      "PWA",
-      "Tailwind CSS"
-    ]
-  },
-  {
     "domain": "shipblu.com",
     "title": "ShipBlu - ShipBlu",
     "business_name": "",
@@ -11885,123 +12009,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "webdevio.us",
-    "title": "Dylan Krepps | Web Developer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 50228,
-    "crawled_at": "2026-01-22T20:46:43.459449741Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "Gatsby JS",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Gridsome",
-      "Netlify",
-      "SMC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "bitsector.no",
-    "title": "BitSector - BitSector",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 21251,
-    "crawled_at": "2026-01-22T20:04:43.432592617Z",
-    "technologies": [
-      "DAV",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Idaq",
-      "KVH",
-      "No-Q",
-      "OpenResty",
-      "SMC",
-      "Tailwind CSS",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "brikasih.org",
-    "title": "Berbagi Kasih dan Harapan - BRIKasih",
-    "business_name": "",
-    "country": "IDN",
-    "seo_score": 82,
-    "tech_spend": 280,
-    "crawled_at": "2026-01-22T11:58:47.139288771Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Instagram Follow Button",
-      "PWA",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "signalfox.org",
-    "title": "Home - SignalFox | Sherrie Gossett",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 11446,
-    "crawled_at": "2026-01-21T22:01:43.442019166Z",
-    "technologies": [
-      "Cloudinary",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Gridsome",
-      "K2F",
-      "KVH",
-      "Netlify",
-      "No-Q",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Yandex Hosting"
-    ]
-  },
-  {
-    "domain": "greenparkdeweloper.pl",
-    "title": "Green Park KTC Development - Green Park Deweloper",
-    "business_name": "",
-    "country": "POL",
-    "seo_score": 80,
-    "tech_spend": 97830,
-    "crawled_at": "2026-01-21T17:05:24.674319064Z",
-    "technologies": [
-      "DAV",
-      "Financial Services Guide",
-      "Gridsome",
-      "Idaq",
-      "K2F",
-      "KVH",
-      "LiteSpeed",
-      "No-Q",
-      "PWA",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "Subversion"
     ]
   }
 ]
