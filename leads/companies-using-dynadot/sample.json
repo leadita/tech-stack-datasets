@@ -1,5 +1,68 @@
 [
   {
+    "domain": "ivpoles.com",
+    "title": "Build Your Brand",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 36,
+    "crawled_at": "2026-06-05T11:34:26.072895752Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "manilacity.com",
+    "title": "Welcome to PhilippineProperties.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 7120,
+    "crawled_at": "2026-06-05T10:43:01.025753818Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Neighborhoods",
+      "Prospective",
+      "QUIC",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "securitytechnologyconsultants.com",
+    "title": "An EMDN - Security Technology Consultants, Cybersecurity Solutions IT Security Risk Assessment Network Protection Data Privacy Security Audits Threat Detection Vulnerability Management Compliance Advisory",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 15120,
+    "crawled_at": "2026-06-05T01:38:01.612615636Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "tryoperationoutbox.com",
     "title": "The Cold Email Agency – Personalization That Drives Real Engagement",
     "business_name": "",
@@ -28,68 +91,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "penlite.com",
-    "title": "Build Your Brand",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 36,
-    "crawled_at": "2026-06-03T16:41:28.992607947Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "philippinerental.com",
-    "title": "Welcome to PhilippineProperties.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 7120,
-    "crawled_at": "2026-06-03T08:44:19.975716051Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Neighborhoods",
-      "Prospective",
-      "QUIC",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "zqup.com",
-    "title": "An EMDN - ZQUP, Innovation Technology Digital Solutions Smart Systems AI Integration Data Analytics Emerging Platforms Tech Startup",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 120,
-    "crawled_at": "2026-05-31T03:38:10.244910222Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "UTF-8"
     ]
   },
   {
