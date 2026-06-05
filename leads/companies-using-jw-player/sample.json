@@ -1,5 +1,47 @@
 [
   {
+    "domain": "drabdental.com",
+    "title": "Family and General Dentist in Bergenfield NJ 07621",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 145189,
+    "crawled_at": "2026-06-05T03:02:14.058021559Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Column Shortcodes",
+      "Contact Form Plugin",
+      "Demandforce",
+      "EmbedPress",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Customer Reviews",
+      "Google Font API",
+      "Google Maps",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "JW Player Platform",
+      "Kriesi.at",
+      "Lightbox Plus",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Salesforce Experience Cloud",
+      "Sitelinks Search Box",
+      "Theme In WP",
+      "UTF-8",
+      "User Submitted Posts",
+      "WordPress",
+      "WordPress Multisite",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "turbovirtual.com",
     "title": "TurboVirtual DAO | Web3 Design & Development | NFT Collections",
     "business_name": "",
@@ -40351,20 +40393,6 @@
       "Twitter Ads",
       "UTF-8",
       "Way"
-    ]
-  },
-  {
-    "domain": "ararat.am",
-    "title": "Ararat.am",
-    "business_name": "",
-    "country": "COL",
-    "seo_score": 40,
-    "tech_spend": 120,
-    "crawled_at": "2026-02-04T03:16:48.879587785Z",
-    "technologies": [
-      "Apache",
-      "JW Player Platform",
-      "UTF-8"
     ]
   }
 ]

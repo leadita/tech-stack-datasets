@@ -1,5 +1,80 @@
 [
   {
+    "domain": "elixirmixerevents.com",
+    "title": "@elixirmixerevents | snapchat, Make your own Beacons page",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 244,
+    "crawled_at": "2026-06-05T22:47:26.988578722Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Beacons",
+      "GZIP Module",
+      "Google Cloud",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "PWA",
+      "Subversion",
+      "Twitch",
+      "UTF-8",
+      "Unix",
+      "Unsplash"
+    ]
+  },
+  {
+    "domain": "seikaverse.com",
+    "title": "@seikaverse | twitch.tv, Twitch | Beacons",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2610,
+    "crawled_at": "2026-06-05T13:17:51.358193591Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Beacons",
+      "GZIP Module",
+      "Google Cloud",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nationwide Mortgage Licensing System and Registry",
+      "Next.js",
+      "PWA",
+      "Subversion",
+      "Twitch",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "brycemckenzie.me",
+    "title": "@brycemckenzie | 😈🌶️, rdbl.co | Beacons",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 244,
+    "crawled_at": "2026-06-04T23:12:01.941191446Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Beacons",
+      "GZIP Module",
+      "Google Cloud",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "OnlyFans",
+      "PWA",
+      "Subversion",
+      "Twitch",
+      "Twitter Ads",
+      "UTF-8",
+      "Unsplash",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "movetoinspirechallenge.org",
     "title": "Move to Inspire Challenge",
     "business_name": "",
@@ -17315,82 +17390,6 @@
       "Twitch",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "cultofarcane.com",
-    "title": "@helena.arcane | Join the Cult of Arcane Discord Server!,",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 160,
-    "crawled_at": "2026-04-26T12:20:20.009198724Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Beacons",
-      "Chaturbate",
-      "GZIP Module",
-      "Giphy",
-      "Google Cloud",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "PWA",
-      "Subversion",
-      "Twitch",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "lexkuma.com",
-    "title": "@lexkuma | Patreon for HD Sets (Spicy, Cosplay & | Beacons",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 244,
-    "crawled_at": "2026-04-26T10:02:19.985372047Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Beacons",
-      "GZIP Module",
-      "Google Cloud",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nationwide Mortgage Licensing System and Registry",
-      "Next.js",
-      "OnlyFans",
-      "PWA",
-      "Subversion",
-      "Twitch",
-      "Twitter Ads",
-      "UTF-8",
-      "Unsplash",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "upennesports.org",
-    "title": "Penn Esports",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2026-04-26T09:32:19.994206611Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "Twitch",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
