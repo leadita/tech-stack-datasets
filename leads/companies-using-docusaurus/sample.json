@@ -1,5 +1,66 @@
 [
   {
+    "domain": "rbih.tech",
+    "title": "RBIH Developer Portal - Frictionless Finance for a Billion Indians™ | RBIH Developer Portal",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 600,
+    "crawled_at": "2026-06-05T11:06:03.287455757Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Perl",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "agenix.sh",
+    "title": "Local-First Agentic Execution Platform | AGEniX",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2400,
+    "crawled_at": "2026-06-05T07:56:32.402432415Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8",
+      "Unix"
+    ]
+  },
+  {
+    "domain": "tinygiants.tech",
+    "title": "Home | TinyGiants",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-06-04T23:44:19.968018476Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Perl",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "forgetheweb.eu",
     "title": "Samuel JOSET - Back-End Software Engineer | Samuel JOSET",
     "business_name": "",
@@ -12745,82 +12806,6 @@
       "Docusaurus",
       "GitHub Hosting",
       "Perl"
-    ]
-  },
-  {
-    "domain": "nowarp.io",
-    "title": "nowarp - Web3 Security",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 732,
-    "crawled_at": "2026-02-13T07:12:55.405195881Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Perl",
-      "Telegram",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "lincsproject.ca",
-    "title": "Home | LINCS",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 21387,
-    "crawled_at": "2026-02-10T19:45:19.107220136Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "Express",
-      "Financial Services Guide",
-      "Font Awesome",
-      "KVH",
-      "License Buttons",
-      "Matomo",
-      "Perl",
-      "QUIC",
-      "Subversion",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "firstslo.si",
-    "title": "𝐹𝐼𝑅𝑆𝑇 Slovenia",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 72,
-    "tech_spend": 17400,
-    "crawled_at": "2026-02-10T10:58:32.303992972Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Perl",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
