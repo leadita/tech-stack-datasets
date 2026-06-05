@@ -1,5 +1,63 @@
 [
   {
+    "domain": "centralcoastwinesnob.com",
+    "title": "Home | Five Cities CPAs, Inc.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 21720,
+    "crawled_at": "2026-06-04T12:53:19.971012391Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Teams",
+      "Nginx",
+      "PrivacyPolicies",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "paulzobercpa.com",
+    "title": "Home | Paul Zober Professional Corp., CPA",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 18340,
+    "crawled_at": "2026-06-04T12:50:33.234764664Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "Zoom Video Conferencing",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "zionco.com",
     "title": "Home | Zion & Company, Inc.",
     "business_name": "",
@@ -3118,34 +3176,6 @@
       "Twitter Ads",
       "UTF-8",
       "Zoom Video Conferencing",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "5citiescpa.com",
-    "title": "Home | Five Cities CPAs, Inc.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 16720,
-    "crawled_at": "2026-05-04T11:26:19.983914486Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Teams",
-      "Nginx",
-      "PrivacyPolicies",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
       "reCAPTCHA"
     ]
   },
@@ -10603,32 +10633,6 @@
       "QuickBooks Online",
       "Tailwind CSS",
       "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "paulzobercpa.com",
-    "title": "Home | Paul Zober Professional Corp., CPA",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 12800,
-    "crawled_at": "2025-12-15T06:49:56.042341227Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "Zoom Video Conferencing",
       "jsDelivr"
     ]
   }
