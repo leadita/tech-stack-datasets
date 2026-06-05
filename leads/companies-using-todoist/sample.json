@@ -2448,26 +2448,5 @@
       "about.me",
       "jQuery"
     ]
-  },
-  {
-    "domain": "flowmodor.com",
-    "title": "Flowmo | Flowmodoro App Helping You Enter Flow State",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 67,
-    "tech_spend": 740,
-    "crawled_at": "2025-12-15T13:43:56.068167464Z",
-    "technologies": [
-      "App Store",
-      "Apture Linking Platform",
-      "Astro",
-      "Content Delivery Network",
-      "Google My Business",
-      "Google Play",
-      "Tailwind CSS",
-      "Todoist",
-      "UTF-8",
-      "Vercel"
-    ]
   }
 ]
