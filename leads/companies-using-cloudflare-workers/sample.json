@@ -1,5 +1,78 @@
 [
   {
+    "domain": "sachindas246.com",
+    "title": "SachinDas246 | Developer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 60,
+    "crawled_at": "2026-06-05T01:24:21.99146893Z",
+    "technologies": [
+      "Alpine.js",
+      "Cloudflare",
+      "Cloudflare Workers",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "rtfoy.co.uk",
+    "title": "Stuart Foy's Homepage",
+    "business_name": "",
+    "country": "JPN",
+    "seo_score": 65,
+    "tech_spend": 5838,
+    "crawled_at": "2026-06-05T01:00:11.900707197Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Workers",
+      "Coming Soon Page",
+      "Community",
+      "Content Delivery Network",
+      "Fastly",
+      "Font Awesome",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Jekyll",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "flowbytedigital.com",
+    "title": "Jasa Pembuatan Website Modern & Premium — Flowbytedigital Studio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 492,
+    "crawled_at": "2026-06-04T22:56:19.967997038Z",
+    "technologies": [
+      "Better Lead Generation Services",
+      "Calendly",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "emil.cx",
     "title": "Emil Lienemann",
     "business_name": "",
@@ -14409,73 +14482,6 @@
       "Vector Internet Services",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "travanixlabs.com",
-    "title": "Travanix Labs — Freelance Website Development",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 5140,
-    "crawled_at": "2026-04-19T01:11:19.988220545Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "days.ohn.sh",
-    "title": "Latest 🗞️ | days.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 300,
-    "crawled_at": "2026-04-19T00:11:19.97885806Z",
-    "technologies": [
-      "Astro",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "DoubleClick Bid Manager",
-      "GitHub Hosting",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Pico CSS",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "soest.in",
-    "title": "Justin 👋",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 123,
-    "crawled_at": "2026-04-18T22:20:19.988298534Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Discord",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Tailwind CSS"
     ]
   }
 ]
