@@ -6344,35 +6344,5 @@
       "Pabbly",
       "QUIC"
     ]
-  },
-  {
-    "domain": "bhagavadgitaforlife.in",
-    "title": "Bhagavadgitaforlife",
-    "business_name": "",
-    "country": "SGP",
-    "seo_score": 65,
-    "tech_spend": 2389,
-    "crawled_at": "2025-12-15T11:55:56.014708583Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Elementor",
-      "EmbedPress",
-      "GZIP Module",
-      "Jetpack",
-      "Lazy Load for WordPress",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "Pabbly",
-      "Theme In WP",
-      "Twenty Twenty-One",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
-    ]
   }
 ]
