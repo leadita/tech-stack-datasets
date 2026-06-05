@@ -1,12 +1,12 @@
 [
   {
-    "domain": "rewindit.io",
+    "domain": "thirdblink.com",
     "title": "Rewind Backups for SaaS Apps",
     "business_name": "Rewind Backups",
     "country": "CAN",
     "seo_score": 77,
     "tech_spend": 109893,
-    "crawled_at": "2026-06-03T01:49:03.008639794Z",
+    "crawled_at": "2026-06-04T22:12:13.75119852Z",
     "technologies": [
       "AWS WAF Challenge",
       "Ada Support",
