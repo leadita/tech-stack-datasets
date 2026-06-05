@@ -1,5 +1,37 @@
 [
   {
+    "domain": "tres60hipodromo.mx",
+    "title": "A new beginning – 360 Hipódromo",
+    "business_name": "",
+    "country": "MEX",
+    "seo_score": 72,
+    "tech_spend": 23208,
+    "crawled_at": "2026-06-04T22:12:13.760161593Z",
+    "technologies": [
+      "AAPT",
+      "Adobe Creative Cloud WebFonts",
+      "Adult Content",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Netlify",
+      "Nuxt.js",
+      "Perl",
+      "Pico CSS",
+      "Prismic",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "toyfight.com",
     "title": "ToyFight",
     "business_name": "",
@@ -13618,25 +13650,6 @@
       "Vimeo",
       "Vimeo CDN",
       "eLand"
-    ]
-  },
-  {
-    "domain": "raweditions.com",
-    "title": "RAW Editions",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 42,
-    "tech_spend": 156,
-    "crawled_at": "2026-04-09T19:35:20.008708521Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "Gatsby JS",
-      "IcoMoon",
-      "Netlify",
-      "Prismic",
-      "Styled Components",
-      "UTF-8"
     ]
   }
 ]

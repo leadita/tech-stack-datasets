@@ -1,5 +1,27 @@
 [
   {
+    "domain": "evenclick.com.br",
+    "title": "Criação de Sites Interativos em SP | Evenclick",
+    "business_name": "",
+    "country": "BRA",
+    "seo_score": 82,
+    "tech_spend": 28580,
+    "crawled_at": "2026-06-05T17:53:19.968765705Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Contentstack",
+      "GoDaddy",
+      "Google",
+      "Google Cloud CDN",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "familypethospital.vet",
     "title": "Veterinary Care in Edmond, OK | Family Pet Hospital",
     "business_name": "",
@@ -16682,28 +16704,6 @@
       "UTF-8",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "evenclick.com.br",
-    "title": "Criação de Sites Interativos em SP | Evenclick",
-    "business_name": "",
-    "country": "BRA",
-    "seo_score": 82,
-    "tech_spend": 28580,
-    "crawled_at": "2026-05-05T00:25:07.509124963Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Contentstack",
-      "GoDaddy",
-      "Google",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
     ]
   },
   {

@@ -1,5 +1,33 @@
 [
   {
+    "domain": "joeysikes.com",
+    "title": "Joey Sikes - Senior UI Engineer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 162,
+    "crawled_at": "2026-06-05T17:56:19.095686962Z",
+    "technologies": [
+      "1Password",
+      "Alternate Protocol",
+      "ButterCMS",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Next.js",
+      "NordPass",
+      "Notion",
+      "Ntent",
+      "Plausible Analytics",
+      "Pleroma",
+      "QUIC",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "Visual Studio"
+    ]
+  },
+  {
     "domain": "nonisolutions.com",
     "title": "OUR WELLBEING PRODUCTS",
     "business_name": "",
@@ -2127,34 +2155,6 @@
       "QUIC",
       "WordPress",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "joeysikes.com",
-    "title": "Joey Sikes - Senior UI Engineer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 162,
-    "crawled_at": "2025-12-15T23:43:56.022602835Z",
-    "technologies": [
-      "1Password",
-      "Alternate Protocol",
-      "ButterCMS",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Next.js",
-      "NordPass",
-      "Notion",
-      "Ntent",
-      "Plausible Analytics",
-      "Pleroma",
-      "QUIC",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "Visual Studio"
     ]
   }
 ]
