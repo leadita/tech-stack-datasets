@@ -1,5 +1,34 @@
 [
   {
+    "domain": "profitablelifestyleacademy.com",
+    "title": "Discover your Business Lifestyle Formula!",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 28775,
+    "crawled_at": "2026-06-05T11:53:26.920681699Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Infusionsoft",
+      "K2F",
+      "LeadPages",
+      "Ntent",
+      "QUIC",
+      "Tailwind CSS",
+      "University or College"
+    ]
+  },
+  {
     "domain": "grouphorsedaily.com",
     "title": "GROUP HORSE DAILY (2YO)",
     "business_name": "",
@@ -3054,35 +3083,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "profitablelifestyleacademy.com",
-    "title": "Discover your Business Lifestyle Formula!",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 28775,
-    "crawled_at": "2025-12-15T19:46:13.756845369Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Infusionsoft",
-      "K2F",
-      "LeadPages",
-      "Ntent",
-      "QUIC",
-      "Tailwind CSS",
-      "University or College"
     ]
   }
 ]
