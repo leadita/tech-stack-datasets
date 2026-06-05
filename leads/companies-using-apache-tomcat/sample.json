@@ -1,5 +1,37 @@
 [
   {
+    "domain": "fixtelligent.com",
+    "title": "FIXtelligent - Do FIX Protocol Intelligently",
+    "business_name": "",
+    "country": "PAK",
+    "seo_score": 72,
+    "tech_spend": 65457,
+    "crawled_at": "2026-06-05T08:54:01.216250821Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Apache",
+      "Apache Tomcat JK",
+      "Bulma",
+      "CloudFront",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Nginx",
+      "Tailwind CSS",
+      "Telligent",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "guochenliao.com",
     "title": "Guochen Liao | Developer & Researcher",
     "business_name": "",
@@ -14262,60 +14294,6 @@
       "GZIP Module",
       "ISO/IEC 8859",
       "University or College"
-    ]
-  },
-  {
-    "domain": "paketodesign.com",
-    "title": "Home | Paketo Design",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 50,
-    "tech_spend": 3,
-    "crawled_at": "2025-12-16T01:51:38.436001832Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Twitter Ads",
-      "UTF-8",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "fixtelligent.com",
-    "title": "FIXtelligent - Do FIX Protocol Intelligently",
-    "business_name": "",
-    "country": "PAK",
-    "seo_score": 72,
-    "tech_spend": 65457,
-    "crawled_at": "2025-12-15T17:52:56.01117153Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Apache",
-      "Apache Tomcat JK",
-      "Bulma",
-      "CloudFront",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Nginx",
-      "Tailwind CSS",
-      "Telligent",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]
