@@ -1,5 +1,38 @@
 [
   {
+    "domain": "alexandriacentral.org",
+    "title": "Welcome to Alexandria Central School District | Alexandria Central",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 47060,
+    "crawled_at": "2026-06-05T13:08:22.998547216Z",
+    "technologies": [
+      "Amazon S3 CDN",
+      "ClassLink",
+      "DocuSign",
+      "Facebook Embedded Posts",
+      "Frontline Education",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Forms",
+      "Google My Business",
+      "Google Tag Manager",
+      "Google Workspace",
+      "Nginx",
+      "PHP",
+      "ParentSquare",
+      "QUIC",
+      "Storyblocks",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "studiotpilates.com",
     "title": "Studio T Pilates",
     "business_name": "Studio T Pilates",
@@ -12056,39 +12089,6 @@
       "eLand",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "alexandriacentral.org",
-    "title": "Welcome to Alexandria Central School District | Alexandria Central",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 47060,
-    "crawled_at": "2025-12-15T20:34:56.037335476Z",
-    "technologies": [
-      "Amazon S3 CDN",
-      "ClassLink",
-      "DocuSign",
-      "Facebook Embedded Posts",
-      "Frontline Education",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Forms",
-      "Google My Business",
-      "Google Tag Manager",
-      "Google Workspace",
-      "Nginx",
-      "PHP",
-      "ParentSquare",
-      "QUIC",
-      "Storyblocks",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
