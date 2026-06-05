@@ -1,5 +1,26 @@
 [
   {
+    "domain": "colinseymour.co.uk",
+    "title": "Colin Seymour | You Know This Boogie Is For Real",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 848,
+    "crawled_at": "2026-06-04T13:00:09.363527144Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Content Delivery Network",
+      "Heroku",
+      "Jekyll",
+      "Mastodon",
+      "Micro.blog",
+      "Netlify",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "brianchristiansen.com",
     "title": "Clarity & Hypertext · Brian Christiansen · Product Leader & UX Generalist",
     "business_name": "",
@@ -1634,33 +1655,6 @@
       "WordPress",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "lildude.co.uk",
-    "title": "@lildude | But what is it good for?",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 6448,
-    "crawled_at": "2026-05-11T22:05:20.004653272Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CM Commerce",
-      "Cisco/Arrowpoint Content Service Switch",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Heroku",
-      "Jekyll",
-      "Mastodon",
-      "Micro.blog",
-      "Netlify",
-      "PagerDuty",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8"
     ]
   },
   {
@@ -8363,20 +8357,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "ranvel.com",
-    "title": "ranvel.com",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 55,
-    "tech_spend": 60,
-    "crawled_at": "2025-12-15T15:10:56.027535083Z",
-    "technologies": [
-      "Micro.blog",
-      "Nginx",
-      "eLand"
     ]
   }
 ]

@@ -1,5 +1,28 @@
 [
   {
+    "domain": "e27.services",
+    "title": "Mandatory Cyber Resilience Standards for Computer Based Systems - IACS UR E27",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 17549,
+    "crawled_at": "2026-06-05T04:29:19.973571731Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "milleniaprint.com",
     "title": "Millenia Print Enterprise",
     "business_name": "Millenia Print Enterprise",
@@ -7172,29 +7195,6 @@
       "Ubuntu",
       "University or College",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "ure27.com",
-    "title": "Mandatory Cyber Resilience Standards for Computer Based Systems - IACS UR E27",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 17549,
-    "crawled_at": "2026-01-24T13:28:43.437762878Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   },
   {
