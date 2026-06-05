@@ -1,5 +1,31 @@
 [
   {
+    "domain": "hinessite.com",
+    "title": "The Hines Family Photo Library",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 23286,
+    "crawled_at": "2026-06-05T07:10:57.919594002Z",
+    "technologies": [
+      "AB Tasty",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "Fastly",
+      "Fireblade",
+      "GZIP Module",
+      "Help.com",
+      "Nginx",
+      "Ntent",
+      "QUIC",
+      "SmartyStreets",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "defendercanada.ca",
     "title": "Canada's Marine and Boat Supplies - Marine Outfitters Of Choice",
     "business_name": "",
@@ -67,30 +93,6 @@
       "YouTube",
       "iovation",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "hanafoto.com",
-    "title": "hanafoto",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 15786,
-    "crawled_at": "2026-06-03T20:11:19.969364215Z",
-    "technologies": [
-      "AB Tasty",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CloudFront",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Help.com",
-      "Nginx",
-      "Ntent",
-      "SmartyStreets",
-      "UTF-8"
     ]
   },
   {
