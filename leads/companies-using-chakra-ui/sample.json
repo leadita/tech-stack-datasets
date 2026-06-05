@@ -1,5 +1,98 @@
 [
   {
+    "domain": "egyscores.com",
+    "title": "EgyScores | Live Scores, Egyptian Football News, Al Ahly & Zamalek",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-06-05T13:57:43.291823335Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Chakra UI",
+      "GZIP Module",
+      "Google Adsense",
+      "Google Analytics",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google Reseller",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Next.js",
+      "Nginx",
+      "Pleroma",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "pantanelloboat.com",
+    "title": "Home - Pantanello Boat",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 82,
+    "tech_spend": 1479,
+    "crawled_at": "2026-06-05T02:51:38.233852118Z",
+    "technologies": [
+      "Adult Content",
+      "Azion",
+      "Chakra UI",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel",
+      "WhatsApp Sharing",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "idea-fintech.com",
+    "title": "數位金融新藍圖：Web3 創新創業競賽",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-06-04T21:31:58.57923942Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Netlify",
+      "Next.js",
+      "Pleroma",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "netalabs.com",
+    "title": "Neta Labs",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-06-04T20:03:21.840689566Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "honeyhouseproperties.com",
     "title": "Discover your next favorite vacation",
     "business_name": "",
@@ -12598,97 +12691,6 @@
       "Pleroma",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "konstantinagianni.com",
-    "title": "K.GIANNI",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 3,
-    "crawled_at": "2026-05-03T10:02:19.991429838Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Express",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Microsoft Clarity",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "fcalso.ca",
-    "title": "Festival City Adult Living Support Organization",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 240,
-    "crawled_at": "2026-05-03T10:01:16.583411232Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "neosatoshi.com",
-    "title": "NeoSatoshi - List Pokémon cards faster | NeoSatoshi",
-    "business_name": "NeoSatoshi",
-    "country": "",
-    "seo_score": 92,
-    "tech_spend": 20079,
-    "crawled_at": "2026-05-03T08:24:20.377773465Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Chakra UI",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Fastly",
-      "Fireblade",
-      "Line2",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Next.js",
-      "PWA",
-      "Pleroma",
-      "QUIC",
-      "Shopify",
-      "UTF-8",
-      "YouTube",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "d1vshar.dev",
-    "title": "Divyanshu Sharma - Portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 60,
-    "crawled_at": "2026-05-03T07:20:19.982266469Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Next.js",
-      "Pleroma",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "Web3Forms"
     ]
   }
 ]
