@@ -3542,41 +3542,5 @@
       "Volusion",
       "Volusion Live Chat"
     ]
-  },
-  {
-    "domain": "tradeshowdisplaysus.com",
-    "title": "TSD - Fast & Affordable Trade Show Displays",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 30184,
-    "crawled_at": "2025-12-15T16:10:56.041005267Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AWS WAF Challenge",
-      "AutoComplete",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "FreeCSSTemplates",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "HubSpot Conversations",
-      "Hubspot",
-      "Instagram Follow Button",
-      "LiveChat",
-      "LiveChat Monitoring",
-      "Subscribers",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Volusion",
-      "Volusion Live Chat",
-      "YouTube"
-    ]
   }
 ]

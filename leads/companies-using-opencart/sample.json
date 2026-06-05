@@ -1,5 +1,63 @@
 [
   {
+    "domain": "athleticshoes.se",
+    "title": "Maintenance",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 30000,
+    "crawled_at": "2026-06-05T13:27:27.317302182Z",
+    "technologies": [
+      "Cart.com",
+      "OpenCart",
+      "OpenResty",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "cablegeeker.net",
+    "title": "CableGeeker",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 30156,
+    "crawled_at": "2026-06-05T08:24:40.160369547Z",
+    "technologies": [
+      "AutoComplete",
+      "Cart.com",
+      "GZIP Module",
+      "IcoMoon",
+      "Nginx",
+      "OpenCart",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "healthyproductsshop.com",
+    "title": "Healthy Products Shop",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 75040,
+    "crawled_at": "2026-06-05T07:44:41.611583535Z",
+    "technologies": [
+      "Cart.com",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Nginx",
+      "OpenCart",
+      "QUIC",
+      "Tailwind CSS",
+      "Tawk",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "gzlv168.com",
     "title": "Girls' Pants & Leggings , Mini Dresses,Off The Shoulders ,Winter Coats",
     "business_name": "",
@@ -12279,95 +12337,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "homestix.com",
-    "title": "Homestix",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 30156,
-    "crawled_at": "2026-04-30T22:11:19.996923957Z",
-    "technologies": [
-      "AutoComplete",
-      "Cart.com",
-      "GZIP Module",
-      "IcoMoon",
-      "Nginx",
-      "OpenCart",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "banglehouse.com",
-    "title": "Buy Wedding Chura | Punjabi Chuda |Bridal Chura India | AD Diamond Chura | Designer Chooda Online | Suhag Chura| Wedding Bangles",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 75403,
-    "crawled_at": "2026-04-30T19:51:27.145462267Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "Arastta",
-      "Cart.com",
-      "Express",
-      "GZIP Module",
-      "Gambling Content",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "OpenCart",
-      "Parcel",
-      "QUIC",
-      "Slider Revolution",
-      "Slotti",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "noyesjewellers.com",
-    "title": "Stunning Jewellery, Affordable Prices | Welland, Niagara | Noyes Jewellers",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 91508,
-    "crawled_at": "2026-04-30T17:32:19.996892828Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "Apache",
-      "Cart.com",
-      "CloudFront",
-      "DAV",
-      "Ethy",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "MaxCDN",
-      "Microdata for Google Shopping",
-      "Onyx Internet",
-      "OpenCart",
-      "QUIC",
-      "Schema Plugin",
-      "UTF-8",
-      "jQuery",
-      "shadcn ui"
     ]
   }
 ]
