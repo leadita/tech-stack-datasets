@@ -1,5 +1,38 @@
 [
   {
+    "domain": "strensallvillagehall.co.uk",
+    "title": "Strensall and Towthorpe Village Hall - Yorkshire",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 10858,
+    "crawled_at": "2026-06-05T21:42:14.023364163Z",
+    "technologies": [
+      "Alternate Protocol",
+      "BLR",
+      "Buffer",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Jetpack",
+      "Meta Slider for WordPress",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Parallels Plesk Panel",
+      "Theme In WP",
+      "Tumblr",
+      "Twenty Thirteen",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "dailysharebazarprotidin.com",
     "title": "Daily Share Bazar Protidin – Daily ShareBazar Protidin",
     "business_name": "",
@@ -8504,39 +8537,6 @@
       "WordPress Stats",
       "YouTube",
       "Yummly",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "strensallvillagehall.co.uk",
-    "title": "Strensall and Towthorpe Village Hall - Yorkshire",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 10858,
-    "crawled_at": "2025-12-16T02:07:56.016786445Z",
-    "technologies": [
-      "Alternate Protocol",
-      "BLR",
-      "Buffer",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Jetpack",
-      "Meta Slider for WordPress",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Parallels Plesk Panel",
-      "Theme In WP",
-      "Tumblr",
-      "Twenty Thirteen",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
       "jQuery"
     ]
   }
