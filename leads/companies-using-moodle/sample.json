@@ -1,5 +1,29 @@
 [
   {
+    "domain": "gisicisituition.online",
+    "title": "Ghana Investment and Securities Institute",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 26163,
+    "crawled_at": "2026-06-05T12:26:08.59530547Z",
+    "technologies": [
+      "Fastly",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Moodle",
+      "NFOrce Internet",
+      "Nginx",
+      "PHP",
+      "SMC",
+      "Totara",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "gpku.ru",
     "title": "Модуль практических занятий",
     "business_name": "",
@@ -1223,30 +1247,6 @@
       "University or College",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "gisicisituition.online",
-    "title": "Ghana Investment and Securities Institute",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 26163,
-    "crawled_at": "2025-12-15T20:05:07.860126106Z",
-    "technologies": [
-      "Apache",
-      "Fastly",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "SMC",
-      "Totara",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
