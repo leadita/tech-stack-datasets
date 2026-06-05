@@ -1,5 +1,37 @@
 [
   {
+    "domain": "letsfocusandgrow.com",
+    "title": "LFG: Let's Focus & Grow",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 36340,
+    "crawled_at": "2026-06-04T12:14:19.970394121Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adyen",
+      "Aruba",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Express",
+      "Fireblade",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Idaq",
+      "MaxCDN",
+      "Tailwind CSS",
+      "TicketSpice",
+      "Twitter Ads",
+      "UTF-8",
+      "Webconnex",
+      "eLand",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "candncycles.co.uk",
     "title": "C&N Cycles | Bike shop Redhill, Reigate, Surrey",
     "business_name": "",

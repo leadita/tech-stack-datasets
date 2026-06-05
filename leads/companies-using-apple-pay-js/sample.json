@@ -1,5 +1,57 @@
 [
   {
+    "domain": "axunworkshop.com",
+    "title": "www.axunworks.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 90668,
+    "crawled_at": "2026-06-05T03:12:40.694483126Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apple Pay JS",
+      "Aruba",
+      "Cart.com",
+      "Cloudflare",
+      "Fireblade",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Subversion",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "nkheaven.me",
+    "title": "www.nkheaven.me",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 77,
+    "tech_spend": 75668,
+    "crawled_at": "2026-06-05T00:00:04.188656894Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apple Pay JS",
+      "Aruba",
+      "Cart.com",
+      "Cloudflare",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "coverfrot.com",
     "title": "coverfrot",
     "business_name": "",
@@ -10307,33 +10359,6 @@
     ]
   },
   {
-    "domain": "axunworks.com",
-    "title": "www.axunworks.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 90668,
-    "crawled_at": "2025-12-24T09:10:38.352136898Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apple Pay JS",
-      "Aruba",
-      "Cart.com",
-      "Cloudflare",
-      "Fireblade",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Subversion",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "eLand",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "trustdesk.ai",
     "title": "TrustDesk — Enterprise AI Receptionist Solutions",
     "business_name": "",
@@ -10987,31 +11012,6 @@
       "Tailwind CSS",
       "Thank You",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "nkheaven.me",
-    "title": "www.nkheaven.me",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 72,
-    "tech_spend": 75668,
-    "crawled_at": "2025-12-15T13:10:56.013189008Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apple Pay JS",
-      "Aruba",
-      "Cart.com",
-      "Cloudflare",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
