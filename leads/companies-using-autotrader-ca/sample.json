@@ -1,5 +1,31 @@
 [
   {
+    "domain": "maximizeagile.com",
+    "title": "Maximize Agile - Delivery Transformation Consultants in Toronto | Agile Delivery Transformation Agency",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 381,
+    "crawled_at": "2026-06-05T06:59:56.103474663Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "AutoTrader CA",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "Google Cloud DNS",
+      "Google Font API",
+      "PHP",
+      "QUIC",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "audiottawa.ca",
     "title": "Audi Ottawa - New Audi & Used Cars Dealer in Ottawa",
     "business_name": "",
@@ -2605,32 +2631,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "maximizeagile.com",
-    "title": "Maximize Agile - Delivery Transformation Consultants in Toronto | Agile Delivery Transformation Agency",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 381,
-    "crawled_at": "2025-12-15T16:49:56.06595289Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "AutoTrader CA",
-      "Divi",
-      "Elegant Themes",
-      "EmbedPress",
-      "Google Cloud DNS",
-      "Google Font API",
-      "PHP",
-      "QUIC",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
