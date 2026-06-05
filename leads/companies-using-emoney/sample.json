@@ -1,5 +1,58 @@
 [
   {
+    "domain": "eaglemoneyadvisers.com",
+    "title": "Investment Advisor / Wealth Manager / Financial Advisor",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 105749,
+    "crawled_at": "2026-06-05T03:54:44.65247769Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Contento",
+      "Express",
+      "FormSubmit",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand",
+      "eMoney"
+    ]
+  },
+  {
+    "domain": "carnegiewealth.com",
+    "title": "Carnegie Wealth Management — Carnegie Wealth Management",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 78659,
+    "crawled_at": "2026-06-04T23:12:01.93120616Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Evestnet Tamarac",
+      "Express",
+      "Financial Industry Regulatory Authority",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "PHP",
+      "Twenty Over Ten",
+      "UTF-8",
+      "eMoney",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "droms-strauss.com",
     "title": "Droms Strauss Wealth Management",
     "business_name": "",
@@ -798,34 +851,6 @@
       "Tailwind CSS",
       "UTF-8",
       "YouTube",
-      "eMoney"
-    ]
-  },
-  {
-    "domain": "eaglemoneyadvisors.com",
-    "title": "Investment Advisor / Wealth Manager / Financial Advisor",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 105749,
-    "crawled_at": "2026-04-10T06:20:19.980596163Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Contento",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand",
       "eMoney"
     ]
   },
@@ -2328,31 +2353,6 @@
       "Vimeo",
       "Vimeo CDN",
       "eMoney"
-    ]
-  },
-  {
-    "domain": "carnegiewealth.com",
-    "title": "Carnegie Wealth Management — Carnegie Wealth Management",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 78659,
-    "crawled_at": "2025-12-15T12:43:56.040148482Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Evestnet Tamarac",
-      "Express",
-      "Financial Industry Regulatory Authority",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "PHP",
-      "Twenty Over Ten",
-      "UTF-8",
-      "eMoney",
-      "jQuery"
     ]
   }
 ]
