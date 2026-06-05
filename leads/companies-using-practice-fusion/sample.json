@@ -1,5 +1,30 @@
 [
   {
+    "domain": "globalmedicalbillingservices.net",
+    "title": "Global Medical Billing Services",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 5911,
+    "crawled_at": "2026-06-05T16:41:27.485787061Z",
+    "technologies": [
+      "Apache",
+      "Coming Soon Page",
+      "Fontello",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "IcoMoon",
+      "Practice Fusion",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "novaallergy.com",
     "title": "Allergy and Asthma Center | Personalized Allergy & Immunology Care – Sterling, VA",
     "business_name": "",
@@ -2030,30 +2055,6 @@
       "WordPress Multisite",
       "WordPress Related Posts",
       "eClinicalWorks",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "globalmedicalbillingservices.net",
-    "title": "Global Medical Billing Services",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 5911,
-    "crawled_at": "2025-12-15T22:52:56.020468446Z",
-    "technologies": [
-      "Apache",
-      "Coming Soon Page",
-      "Fontello",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "IcoMoon",
-      "Practice Fusion",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "YouTube",
       "jQuery"
     ]
   }

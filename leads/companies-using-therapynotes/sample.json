@@ -1,5 +1,39 @@
 [
   {
+    "domain": "growingforwardcounseling.com",
+    "title": "GrowingForwardCounseling.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 22351,
+    "crawled_at": "2026-06-05T08:49:05.644993577Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Apture Linking Platform",
+      "ClickOn",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Related Website Sites",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Ntent",
+      "SMC",
+      "Sapper",
+      "Schema Plugin",
+      "Subversion",
+      "TherapyNotes",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "granitebilling.com",
     "title": "Granite Billing NH - Medical Billing Specialist",
     "business_name": "Granite Billing LLC",
@@ -5736,37 +5770,6 @@
       "YouTube",
       "eClinicalWorks",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "growingforwardcounseling.com",
-    "title": "GrowingForwardCounseling.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 22351,
-    "crawled_at": "2025-12-15T17:49:56.031594493Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "ClickOn",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Ntent",
-      "SMC",
-      "Sapper",
-      "Schema Plugin",
-      "Subversion",
-      "TherapyNotes",
-      "UTF-8"
     ]
   }
 ]
