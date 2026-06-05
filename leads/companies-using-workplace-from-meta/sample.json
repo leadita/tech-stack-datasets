@@ -1,5 +1,36 @@
 [
   {
+    "domain": "renewyourworkplace.com",
+    "title": "Renew Your Workplace",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 484,
+    "crawled_at": "2026-06-05T09:53:54.421191642Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Alternate Protocol",
+      "Aruba",
+      "DAV",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "UTF-8",
+      "University or College",
+      "WordPress SEO Structured Data Schema Plugin",
+      "Workplace from Meta",
+      "eLand"
+    ]
+  },
+  {
     "domain": "karniworkplace.com",
     "title": "Karni - Your Partner in Employment & Discrimination Law Support",
     "business_name": "",
@@ -9329,37 +9360,6 @@
       "eLand",
       "jsDelivr",
       "uScreen"
-    ]
-  },
-  {
-    "domain": "renewyourworkplace.com",
-    "title": "Renew Your Workplace",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 484,
-    "crawled_at": "2025-12-15T18:28:56.038348619Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Alternate Protocol",
-      "Aruba",
-      "DAV",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "UTF-8",
-      "University or College",
-      "WordPress SEO Structured Data Schema Plugin",
-      "Workplace from Meta",
-      "eLand"
     ]
   }
 ]
