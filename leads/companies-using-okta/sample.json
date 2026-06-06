@@ -1,5 +1,25 @@
 [
   {
+    "domain": "scim.org",
+    "title": "SCIM.org | A Guide to System for Cross-domain Identity Management",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 299,
+    "crawled_at": "2026-06-06T15:41:43.995493518Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Font Awesome",
+      "LiteSpeed",
+      "Okta",
+      "QUIC"
+    ]
+  },
+  {
     "domain": "mendingmh.com",
     "title": "Mending Mental Health | A Minneapolis based Mental Health Clinic offering telehealth services to the entire state of Minnesota, providing Therapy Driven Medication Management, Psychiatry, Holistic Care, ADHD Testing, Genetic Testing, and more.",
     "business_name": "Mending Mental Health",
@@ -20946,26 +20966,6 @@
       "eLand",
       "jQuery",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "scim.org",
-    "title": "SCIM.org | A Guide to System for Cross-domain Identity Management",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 299,
-    "crawled_at": "2025-12-16T13:45:00.481350531Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Font Awesome",
-      "LiteSpeed",
-      "Okta",
-      "QUIC"
     ]
   }
 ]
