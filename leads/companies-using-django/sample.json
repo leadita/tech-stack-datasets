@@ -1,5 +1,34 @@
 [
   {
+    "domain": "thegreattopicsblog.co.uk",
+    "title": "The Great Topics Blog: Exploring Ideas and Insights",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 87,
+    "tech_spend": 122756,
+    "crawled_at": "2026-06-06T01:47:17.941326794Z",
+    "technologies": [
+      "About Cookies",
+      "Apture Linking Platform",
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "DAV",
+      "Django",
+      "Envoy",
+      "Gambling Content",
+      "IcoMoon",
+      "Matomo",
+      "Matomo Tag Manager",
+      "QUIC",
+      "Salesforce Experience Cloud",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "stephens-portfolio.com",
     "title": "Stephens Portfolio",
     "business_name": "",
@@ -31,33 +60,6 @@
       "University or College",
       "eLand",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "webinnovatorblog.co.uk",
-    "title": "Web Innovator Blog | Insights on Digital Trends and Technology",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 2756,
-    "crawled_at": "2026-06-05T08:54:01.226633776Z",
-    "technologies": [
-      "About Cookies",
-      "Amazon WAF Blocked",
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "DAV",
-      "Django",
-      "Gambling Content",
-      "IcoMoon",
-      "Matomo",
-      "Matomo Tag Manager",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   },
   {
@@ -9744,33 +9746,6 @@
       "Ubuntu",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "agilekpis.com",
-    "title": "AgileKPIs - The Agile Metrics Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 3039,
-    "crawled_at": "2025-12-16T07:32:17.65591441Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "CookieConsent",
-      "Create React App",
-      "Django",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Heroku",
-      "Pleroma",
-      "StackPath",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
