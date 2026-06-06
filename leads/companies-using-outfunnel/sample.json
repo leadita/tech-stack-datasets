@@ -1,5 +1,35 @@
 [
   {
+    "domain": "733isv.com",
+    "title": "M&A Advisory Firm for Fintech, Payments, SaaS & AI",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 2326,
+    "crawled_at": "2026-06-06T05:26:19.969284535Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Outfunnel",
+      "Perl",
+      "Pipedrive",
+      "QUIC",
+      "Styled Components",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "deprom.co.uk",
     "title": "Deprom |",
     "business_name": "Deprom",
@@ -180,36 +210,6 @@
       "WordPress Multisite",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "portfoliovaluations.com",
-    "title": "M&A Advisory Firm for Fintech, Payments, SaaS & AI",
-    "business_name": "733Park",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 2326,
-    "crawled_at": "2026-06-02T15:38:19.969974977Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Duda",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Outfunnel",
-      "Perl",
-      "Pipedrive",
-      "QUIC",
-      "Styled Components",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
