@@ -3331,37 +3331,5 @@
       "Vercel",
       "Wrike"
     ]
-  },
-  {
-    "domain": "aspireportal.ca",
-    "title": "Aspire Portal",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 9095,
-    "crawled_at": "2025-12-16T03:19:56.032791462Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "AutoComplete",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Fireblade",
-      "FreeCSSTemplates",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Volusion",
-      "Volusion Live Chat",
-      "Wrike",
-      "YouTube"
-    ]
   }
 ]
