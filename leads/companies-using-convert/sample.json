@@ -1,5 +1,33 @@
 [
   {
+    "domain": "citymeals-text.org",
+    "title": "Home | Citymeals on Wheels",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 58240,
+    "crawled_at": "2026-06-06T03:12:55.572444995Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Charity Navigator",
+      "Convert",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nginx",
+      "Salesforce Social Studio",
+      "UTF-8",
+      "University or College",
+      "YouTube",
+      "jQuery",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "vitamindsupport.com",
     "title": "CytoD+K2",
     "business_name": "",
@@ -497,34 +525,6 @@
       "Wicked Reports",
       "YouTube",
       "hCaptcha",
-      "jsDelivr",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "citymeals.org",
-    "title": "Home | Citymeals on Wheels",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 58240,
-    "crawled_at": "2026-05-24T14:02:33.248189909Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Charity Navigator",
-      "Convert",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "Salesforce Social Studio",
-      "UTF-8",
-      "University or College",
-      "YouTube",
-      "jQuery",
       "jsDelivr",
       "reCAPTCHA"
     ]
