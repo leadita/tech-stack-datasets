@@ -1,5 +1,27 @@
 [
   {
+    "domain": "sangitmanandhar.com.np",
+    "title": "Sangit Manandhar",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 1260,
+    "crawled_at": "2026-06-05T18:33:20.324337184Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Python",
+      "Svelte",
+      "University or College",
+      "Vector Internet Services",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "sachindas246.com",
     "title": "SachinDas246 | Developer",
     "business_name": "",
@@ -14452,36 +14474,6 @@
       "Radix UI",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "whatsdown.ai",
-    "title": "WhatsDownAI - AI Agent Status Monitor",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 4020,
-    "crawled_at": "2026-04-19T01:53:19.977235255Z",
-    "technologies": [
-      "AI Log",
-      "Amazon Link Enchancer",
-      "Amazon Widgets",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google My Business",
-      "Google Retail Product Discovery",
-      "Hugging Face Space",
-      "Next.js",
-      "OpenAI",
-      "Slack",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
