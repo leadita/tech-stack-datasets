@@ -1,5 +1,38 @@
 [
   {
+    "domain": "272-majuterus.store",
+    "title": "Free Online Games on CrazyGames | Play Now!",
+    "business_name": "",
+    "country": "BEL",
+    "seo_score": 77,
+    "tech_spend": 35971,
+    "crawled_at": "2026-06-06T03:52:59.165920398Z",
+    "technologies": [
+      "1Password",
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "App Store",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Endis",
+      "Google My Business",
+      "Google Play",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Prebid",
+      "QUIC",
+      "Recruitee",
+      "Share Link",
+      "Thank You",
+      "UTF-8",
+      "Underscores",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "dott.company",
     "title": "Superellipse - Innovation Agency - Formerly Studio Dott & Achilles Design",
     "business_name": "Superellipse",
@@ -375,39 +408,6 @@
       "Wisepops",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "wegoogleappv.com",
-    "title": "Free Online Games on CrazyGames | Play Now!",
-    "business_name": "",
-    "country": "BEL",
-    "seo_score": 77,
-    "tech_spend": 35971,
-    "crawled_at": "2026-06-01T13:45:12.509622619Z",
-    "technologies": [
-      "1Password",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "App Store",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Endis",
-      "Google My Business",
-      "Google Play",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "Prebid",
-      "QUIC",
-      "Recruitee",
-      "Share Link",
-      "Thank You",
-      "UTF-8",
-      "Underscores",
-      "YouTube"
     ]
   },
   {
