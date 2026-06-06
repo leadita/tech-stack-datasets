@@ -1401,28 +1401,5 @@
       "Wix Media",
       "mlcom"
     ]
-  },
-  {
-    "domain": "sceno.ai",
-    "title": "Sceno",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 15211,
-    "crawled_at": "2025-12-16T13:42:20.670622895Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Calendly",
-      "Coming Soon Page",
-      "DAV",
-      "Framer Sites",
-      "Google",
-      "Google Cloud CDN",
-      "GrowSurf",
-      "Ntent",
-      "Yandex Hosting",
-      "YouTube",
-      "Zeald"
-    ]
   }
 ]
