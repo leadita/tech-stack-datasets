@@ -1,5 +1,35 @@
 [
   {
+    "domain": "spti.fi",
+    "title": "Spti.fi – Free Spotify Link Shortener | Dub",
+    "business_name": "Dub",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 23480,
+    "crawled_at": "2026-06-05T22:00:37.218639156Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "FirstPromoter",
+      "GitHub Hosting",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "PartnerStack",
+      "Pleroma",
+      "Product Hunt",
+      "Radix UI",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vercel",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "ask.iso.fr",
     "title": "VideoAsk by Typeform Official | Interactive Video Platform",
     "business_name": "",
@@ -380,37 +410,6 @@
       "WordPress",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "amzn.id",
-    "title": "Amzn.id – Free Amazon Link Shortener | Dub",
-    "business_name": "Dub",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 23480,
-    "crawled_at": "2026-06-03T06:37:12.168549773Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon Widgets",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "FirstPromoter",
-      "GitHub Hosting",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "PartnerStack",
-      "Pleroma",
-      "Product Hunt",
-      "Radix UI",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vercel",
-      "YouTube",
-      "shadcn ui"
     ]
   },
   {

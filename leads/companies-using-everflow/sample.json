@@ -1,5 +1,33 @@
 [
   {
+    "domain": "bragi.mx",
+    "title": "Homepage",
+    "business_name": "",
+    "country": "PHL",
+    "seo_score": 65,
+    "tech_spend": 35547,
+    "crawled_at": "2026-06-06T03:12:55.574442482Z",
+    "technologies": [
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "Everflow",
+      "Financial Services Guide",
+      "Fireblade",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Schema Plugin",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "sheerquote.com",
     "title": "Get Insurance Quotes Online For Free - SheerQuote",
     "business_name": "SheerQuote",
