@@ -1220,33 +1220,5 @@
       "Totara",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "pmcfscclms.site",
-    "title": "Home | pmcfscclms",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 60,
-    "tech_spend": 10919,
-    "crawled_at": "2025-12-16T08:40:24.230469723Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "AutoComplete",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "InitiativeS",
-      "LiteSpeed",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "Totara",
-      "UTF-8",
-      "University or College",
-      "jsDelivr",
-      "shadcn ui"
-    ]
   }
 ]
