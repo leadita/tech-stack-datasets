@@ -12618,29 +12618,5 @@
       "UTF-8",
       "Vercel"
     ]
-  },
-  {
-    "domain": "ductrinh.dev",
-    "title": "Simple but often overlooked tech nuggets",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 588,
-    "crawled_at": "2025-12-15T22:25:56.016550563Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Tag Manager",
-      "Hasnode",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pico CSS",
-      "Pleroma",
-      "Python",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
   }
 ]

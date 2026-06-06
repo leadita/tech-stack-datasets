@@ -1,5 +1,77 @@
 [
   {
+    "domain": "nicolediekerfinley.com",
+    "title": "Nicole Dieker Finley",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 732,
+    "crawled_at": "2026-06-06T11:38:27.898807492Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "Ghost",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "cryptopakistan.com",
+    "title": "Latest about bitcoin & crypto in Pakistan",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 82,
+    "tech_spend": 2855,
+    "crawled_at": "2026-06-06T06:16:05.533006748Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "ArvanCloud",
+      "CoinGecko",
+      "Content Delivery Network",
+      "CryptoCompare",
+      "GZIP Module",
+      "Ghost",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Ntent",
+      "QUIC",
+      "RawGit",
+      "Telegram",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "ghost.computer",
+    "title": "a pale slim ghost",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 13160,
+    "crawled_at": "2026-06-05T22:22:55.336105281Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Express",
+      "Gambling Content",
+      "Ghost",
+      "Microdata for Google Shopping",
+      "Phew",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "silicontalent.com",
     "title": "Hire Senior Remote Developers — Hiretop",
     "business_name": "Hiretop",
@@ -13264,78 +13336,6 @@
       "Microdata for Google Shopping",
       "UTF-8",
       "University or College",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "cyberscope360.com",
-    "title": "CyberScope: IT & Cybersecurity Insights, and Solutions",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 16580,
-    "crawled_at": "2026-03-19T17:59:36.429596791Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "ArvanCloud",
-      "Bunny Fonts",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Express",
-      "Fireblade",
-      "GTranslate",
-      "Ghost",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "ciclaminoart.com",
-    "title": "Ciclaminoart",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 4260,
-    "crawled_at": "2026-03-18T13:48:51.969452222Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Azion",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Ghost",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "wylfings.com",
-    "title": "Wylfings",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 62,
-    "tech_spend": 1660,
-    "crawled_at": "2026-03-18T09:20:24.353654957Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Envoy",
-      "Express",
-      "Ghost",
-      "Matomo Tag Manager",
-      "Microdata for Google Shopping",
-      "UTF-8",
       "jsDelivr"
     ]
   }
