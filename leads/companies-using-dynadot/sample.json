@@ -1,5 +1,27 @@
 [
   {
+    "domain": "megaable.com",
+    "title": "An EMDN - Mega Able, Powerful Solutions Strong Performance Innovative Technology High Capacity Exceptional Capability Advanced Systems Reliability",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 36,
+    "crawled_at": "2026-06-06T12:09:30.827263335Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "ivpoles.com",
     "title": "Build Your Brand",
     "business_name": "",
@@ -37,29 +59,6 @@
       "QUIC",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "securitytechnologyconsultants.com",
-    "title": "An EMDN - Security Technology Consultants, Cybersecurity Solutions IT Security Risk Assessment Network Protection Data Privacy Security Audits Threat Detection Vulnerability Management Compliance Advisory",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 15120,
-    "crawled_at": "2026-06-05T01:38:01.612615636Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "UTF-8"
     ]
   },
   {
@@ -4995,23 +4994,6 @@
     "seo_score": 47,
     "tech_spend": 135,
     "crawled_at": "2025-12-16T21:38:10.764222198Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "refinapp.com",
-    "title": "Refinapp: Tú Salvavidas Hipotecario",
-    "business_name": "",
-    "country": "COL",
-    "seo_score": 62,
-    "tech_spend": 219,
-    "crawled_at": "2025-12-16T00:28:56.013135479Z",
     "technologies": [
       "Amazon CloudFront",
       "CloudFront",
