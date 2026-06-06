@@ -1,5 +1,34 @@
 [
   {
+    "domain": "trymendable.com",
+    "title": "Mendable",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 12500,
+    "crawled_at": "2026-06-06T06:01:10.292578023Z",
+    "technologies": [
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Discord",
+      "Docusaurus",
+      "Fireblade",
+      "GitHub Hosting",
+      "Headless UI",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "Radix UI",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "rbih.tech",
     "title": "RBIH Developer Portal - Frictionless Finance for a Billion Indians™ | RBIH Developer Portal",
     "business_name": "",
@@ -2926,35 +2955,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "mendable.ai",
-    "title": "Mendable",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 12500,
-    "crawled_at": "2026-05-08T01:17:19.998772559Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Discord",
-      "Docusaurus",
-      "Fireblade",
-      "GitHub Hosting",
-      "Headless UI",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "Radix UI",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   },
   {
