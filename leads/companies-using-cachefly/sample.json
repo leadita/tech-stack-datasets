@@ -2478,26 +2478,5 @@
       "Wurl",
       "eLand"
     ]
-  },
-  {
-    "domain": "afrilogic.co.za",
-    "title": "Home | Afrilogic",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 6279,
-    "crawled_at": "2025-12-16T00:25:56.005732523Z",
-    "technologies": [
-      "Bulma",
-      "CacheFly",
-      "CacheFly CDN",
-      "Font Awesome",
-      "Google Analytics",
-      "IcoMoon",
-      "Nginx",
-      "PWA",
-      "Parallels Plesk Panel",
-      "jQuery"
-    ]
   }
 ]
