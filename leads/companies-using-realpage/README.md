@@ -1,6 +1,6 @@
 # Companies Using RealPage (Live Dataset 2026)
 
-This folder contains an active list of 4,585 companies using **RealPage**. 
+This folder contains an active list of 4,579 companies using **RealPage**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 4,585
+- **Total Leads:** 4,579
 - **Verified:** Yes
-- **Last Updated:** 2026-06-05 21:30 UTC
+- **Last Updated:** 2026-06-06 21:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **4,585+** companies using RealPage.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **4,579+** companies using RealPage.
 
 [**⚡ Unlock the Full RealPage List with Contact Details**](https://leadita.com/leads/companies-using-realpage)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-06-05 21:30 UTC*
+*Last updated: 2026-06-06 21:30 UTC*
 *Data source: Leadita Technographic Intelligence*
