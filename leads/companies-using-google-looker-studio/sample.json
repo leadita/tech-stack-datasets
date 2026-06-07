@@ -6300,36 +6300,5 @@
       "WordPress",
       "WordPress Multisite"
     ]
-  },
-  {
-    "domain": "victorygreenlife.com",
-    "title": "Victory Green Life s.r.o",
-    "business_name": "",
-    "country": "SVK",
-    "seo_score": 60,
-    "tech_spend": 21563,
-    "crawled_at": "2025-12-16T14:34:32.743095997Z",
-    "technologies": [
-      "ClickOn",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Looker Studio",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Nginx",
-      "Ntent",
-      "SMC",
-      "Sapper",
-      "Schema Plugin",
-      "Subversion",
-      "UTF-8"
-    ]
   }
 ]
