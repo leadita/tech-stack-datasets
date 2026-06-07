@@ -1,5 +1,88 @@
 [
   {
+    "domain": "premiovin.com",
+    "title": "Premiovin Solutions Nigeria Limited",
+    "business_name": "",
+    "country": "NGA",
+    "seo_score": 70,
+    "tech_spend": 20508,
+    "crawled_at": "2026-06-06T21:35:19.968674584Z",
+    "technologies": [
+      "Apache",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "VinSolutions"
+    ]
+  },
+  {
+    "domain": "djsprunk.com",
+    "title": "DJ Sprunk - Owner: - Sprunk Entertainment | Popl",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 20603,
+    "crawled_at": "2026-06-06T21:26:19.973997884Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Fireblade",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Material-UI",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Salesforce Hosted",
+      "Twitter Ads",
+      "UTF-8",
+      "VinSolutions",
+      "WhatsApp Sharing",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "schottenstein.group",
+    "title": "The Schottenstein Group - REALTORS® - The Agency Orlando | Popl",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 187420,
+    "crawled_at": "2026-06-06T21:16:21.964226349Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Fireblade",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Material-UI",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Salesforce Hosted",
+      "Twitter Ads",
+      "UTF-8",
+      "VinSolutions",
+      "WhatsApp Sharing",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "torianowhite.com",
     "title": "Toriano E. White - Serial Entrepreneur, Motivational Speaker,Author, Consultant,Certified Badminton and Pickleball Coach - TEW One Nest | Popl",
     "business_name": "",
@@ -2170,27 +2253,6 @@
       "VinSolutions",
       "Yandex Hosting",
       "Zeald"
-    ]
-  },
-  {
-    "domain": "premiovin.com",
-    "title": "Premiovin Solutions Nigeria Limited",
-    "business_name": "",
-    "country": "NGA",
-    "seo_score": 65,
-    "tech_spend": 20508,
-    "crawled_at": "2026-04-23T03:47:30.009116472Z",
-    "technologies": [
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "VinSolutions"
     ]
   },
   {
