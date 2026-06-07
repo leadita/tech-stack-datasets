@@ -382,44 +382,5 @@
       "UTF-8",
       "jQuery"
     ]
-  },
-  {
-    "domain": "maxgrebennikov.com",
-    "title": "Max «Tusken» ⚓️ Grebennikov — Jedi-Master designer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 34877,
-    "crawled_at": "2025-12-17T04:55:32.747573387Z",
-    "technologies": [
-      "ADFOX",
-      "AJAX Libraries API",
-      "Apache",
-      "BLR",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Express",
-      "Fireblade",
-      "Flat Icon",
-      "Font Awesome",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Iconfinder",
-      "Invision Power Board",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Schema Plugin",
-      "Tailwind CSS",
-      "Tumblr",
-      "Twitter Ads",
-      "Twitter CDN",
-      "UTF-8",
-      "University or College",
-      "Yandex Hosting",
-      "Yandex Metrika",
-      "jQuery"
-    ]
   }
 ]
