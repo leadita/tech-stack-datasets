@@ -1,5 +1,69 @@
 [
   {
+    "domain": "indiepa.ge",
+    "title": "Showcase All Your Startups on a Single Page | Indie Page",
+    "business_name": "",
+    "country": "",
+    "seo_score": 82,
+    "tech_spend": 85438,
+    "crawled_at": "2026-06-07T03:46:55.05816727Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Fast",
+      "Figma",
+      "Flow",
+      "GitHub Hosting",
+      "Google My Business",
+      "Hasnode",
+      "Listly",
+      "Medium",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Ntent",
+      "POPio",
+      "Pico CSS",
+      "Plausible Analytics",
+      "Pleroma",
+      "Product Hunt",
+      "QUIC",
+      "Tailwind CSS",
+      "Telegram",
+      "Testimonial",
+      "Twitter Ads",
+      "Twitter CDN",
+      "UCloud",
+      "UTF-8",
+      "Vercel",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "shanejennings.co.uk",
+    "title": "Shane Jennings",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": "",
+    "crawled_at": "2026-06-06T20:20:50.061246376Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Hasnode",
+      "Material-UI",
+      "Next.js",
+      "Pleroma",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "ceruleancloud.ca",
     "title": "Cerulean Cloud",
     "business_name": "",
@@ -12597,26 +12661,6 @@
       "UPS",
       "UTF-8",
       "University or College"
-    ]
-  },
-  {
-    "domain": "shanejennings.co.uk",
-    "title": "Shane Jennings",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": "",
-    "crawled_at": "2025-12-16T16:49:32.767806183Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Hasnode",
-      "Material-UI",
-      "Next.js",
-      "Pleroma",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
