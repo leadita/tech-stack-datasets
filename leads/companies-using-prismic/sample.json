@@ -1,5 +1,88 @@
 [
   {
+    "domain": "goldmedalinsurance.nz",
+    "title": "ICIB",
+    "business_name": "",
+    "country": "NZL",
+    "seo_score": 72,
+    "tech_spend": 50888,
+    "crawled_at": "2026-06-07T13:59:38.233234824Z",
+    "technologies": [
+      "AAPT",
+      "AWS WAF Challenge",
+      "Adult Content",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "DAV",
+      "Fireblade",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Next.js",
+      "Perl",
+      "Pleroma",
+      "Prismic",
+      "QUIC",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "nnppd.org",
+    "title": "Newport News Police Pipes & Drums",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 1920,
+    "crawled_at": "2026-06-07T11:33:50.245943255Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Google Calendar",
+      "Google My Business",
+      "Instagram Follow Button",
+      "NFOrce Internet",
+      "Next.js",
+      "Pleroma",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "successfulwriter.net",
+    "title": "Sharetribe - Marketplace Software for Founders",
+    "business_name": "Sharetribe",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 2528,
+    "crawled_at": "2026-06-07T03:17:19.970863135Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Adult Content",
+      "Alternate Protocol",
+      "Amazon Widgets",
+      "Content Delivery Network",
+      "Investor Relations",
+      "Medium",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "PHP",
+      "Perl",
+      "Prismic",
+      "QUIC",
+      "Sharetribe",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "tres60hipodromo.mx",
     "title": "A new beginning – 360 Hipódromo",
     "business_name": "",
@@ -232,36 +315,6 @@
       "Vector Internet Services",
       "Vimeo",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "granitebwrs.co.nz",
-    "title": "ICIB",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 12856,
-    "crawled_at": "2026-06-03T00:57:13.772204995Z",
-    "technologies": [
-      "AAPT",
-      "AWS WAF Challenge",
-      "Adult Content",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DAV",
-      "Fireblade",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "Prismic",
-      "QUIC",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {
@@ -574,36 +627,6 @@
       "Vercel",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "goldmedalinsurance.co.nz",
-    "title": "ICIB",
-    "business_name": "",
-    "country": "NZL",
-    "seo_score": 72,
-    "tech_spend": 50888,
-    "crawled_at": "2026-05-31T02:35:05.28847456Z",
-    "technologies": [
-      "AAPT",
-      "AWS WAF Challenge",
-      "Adult Content",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DAV",
-      "Fireblade",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "Prismic",
-      "QUIC",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {
@@ -2682,35 +2705,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "stagetraders.com",
-    "title": "Sharetribe - Marketplace Software for Founders",
-    "business_name": "Sharetribe",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 2528,
-    "crawled_at": "2026-05-18T23:08:20.000980068Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Adult Content",
-      "Alternate Protocol",
-      "Amazon Widgets",
-      "Content Delivery Network",
-      "Investor Relations",
-      "Medium",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "PHP",
-      "Perl",
-      "Prismic",
-      "QUIC",
-      "Sharetribe",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "YouTube"
     ]
   },
   {
