@@ -1,5 +1,22 @@
 [
   {
+    "domain": "peterkocur.com",
+    "title": "Peter Kocur Portfolio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 588,
+    "crawled_at": "2026-06-07T13:49:33.67356762Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel",
+      "Wrike"
+    ]
+  },
+  {
     "domain": "deanrussell.info",
     "title": "Dean Russell Resume",
     "business_name": "",
@@ -3313,23 +3330,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "Wrike",
       "eLand"
-    ]
-  },
-  {
-    "domain": "peterkocur.com",
-    "title": "Peter Kocur Portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 588,
-    "crawled_at": "2025-12-17T04:22:32.732942838Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel",
-      "Wrike"
     ]
   }
 ]
