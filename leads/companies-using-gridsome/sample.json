@@ -1,5 +1,29 @@
 [
   {
+    "domain": "phuket-lighting.com",
+    "title": "Lighting Design - Lighting Design by AVC Engineering",
+    "business_name": "",
+    "country": "THA",
+    "seo_score": 77,
+    "tech_spend": 22908,
+    "crawled_at": "2026-06-07T14:32:19.969523595Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Content Delivery Network",
+      "DAV",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gridsome",
+      "Idaq",
+      "KVH",
+      "Material-UI",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "epesa.network",
     "title": "Grow your business with banking technology | BankTech",
     "business_name": "",
@@ -2002,31 +2026,6 @@
       "UTF-8",
       "Unsplash",
       "WordPress"
-    ]
-  },
-  {
-    "domain": "phuket-lighting.com",
-    "title": "Lighting Design - Lighting Design by AVC Engineering",
-    "business_name": "",
-    "country": "THA",
-    "seo_score": 77,
-    "tech_spend": 25308,
-    "crawled_at": "2026-05-15T10:03:39.225426002Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Content Delivery Network",
-      "DAV",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gridsome",
-      "Idaq",
-      "KVH",
-      "Material-UI",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   },
   {
