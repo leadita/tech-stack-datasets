@@ -1,5 +1,55 @@
 [
   {
+    "domain": "babyganics.com.co",
+    "title": "Contact Us | SC Johnson",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 50165,
+    "crawled_at": "2026-06-07T10:47:40.451987536Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Commission Junction",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Line2",
+      "Next.js",
+      "Perl",
+      "Pleroma",
+      "Sitecore CMS",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "pgcjhang.com",
+    "title": "PGC Jhang - Excellence in Education Since 1958",
+    "business_name": "",
+    "country": "PAK",
+    "seo_score": 72,
+    "tech_spend": 15240,
+    "crawled_at": "2026-06-07T02:10:39.780181965Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Commission Junction",
+      "Content Delivery Network",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "austinairapp.com",
     "title": "Austin Air",
     "business_name": "",
@@ -123,33 +173,6 @@
       "hCaptcha",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "babyganics.cl",
-    "title": "Contact Us | SC Johnson",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 50165,
-    "crawled_at": "2026-06-04T18:11:36.319696855Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Commission Junction",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Line2",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "Sitecore CMS",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "eLand",
-      "shadcn ui"
     ]
   },
   {
@@ -13825,52 +13848,6 @@
       "UTF-8",
       "eLand",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "klcj.com",
-    "title": "Aftermarket.com | klcj.com is for sale!",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 198,
-    "crawled_at": "2025-12-17T01:10:32.740895232Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Commission Junction",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Tailwind CSS",
-      "UTF-8",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "pgcjhang.com",
-    "title": "PGC Jhang - Excellence in Education Since 1958",
-    "business_name": "",
-    "country": "PAK",
-    "seo_score": 87,
-    "tech_spend": 15240,
-    "crawled_at": "2025-12-16T20:41:06.632383889Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Commission Junction",
-      "Content Delivery Network",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
