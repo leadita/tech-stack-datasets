@@ -1,5 +1,28 @@
 [
   {
+    "domain": "supanoteai.com",
+    "title": "Supa — Ambient Agents for Behavioral Health Operations",
+    "business_name": "Supa",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 2100,
+    "crawled_at": "2026-06-07T12:38:03.853609825Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Calendly",
+      "Content Delivery Network",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "TherapyNotes",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "growingforwardcounseling.com",
     "title": "GrowingForwardCounseling.com",
     "business_name": "",
@@ -98,29 +121,6 @@
       "Radix UI",
       "Tailwind CSS",
       "TherapyNotes"
-    ]
-  },
-  {
-    "domain": "supanotetherapist.com",
-    "title": "Supa — Ambient Agents for Behavioral Health Operations",
-    "business_name": "Supa",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 2100,
-    "crawled_at": "2026-06-02T04:43:05.901651032Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Calendly",
-      "Content Delivery Network",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "TherapyNotes",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   },
   {
