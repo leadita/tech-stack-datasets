@@ -1,5 +1,26 @@
 [
   {
+    "domain": "wknox.net",
+    "title": "wknox.net",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 460,
+    "crawled_at": "2026-06-07T08:53:26.115966657Z",
+    "technologies": [
+      "Angular",
+      "Apture Linking Platform",
+      "Bing Cashback",
+      "DAV",
+      "FreeStockCharts",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "USPS",
+      "Yahoo Finance Widget"
+    ]
+  },
+  {
     "domain": "shop-prim.com",
     "title": "PRIM – Prim Clothing Store",
     "business_name": "",
@@ -18319,43 +18340,6 @@
       "USPS",
       "UTF-8",
       "eLand",
-      "hCaptcha",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "aquaheadwear.com",
-    "title": "AQUA Waterproof Headwear",
-    "business_name": "AQUA Waterproof Headwear",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 24880,
-    "crawled_at": "2026-04-13T11:08:19.978436853Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fastly",
-      "Fireblade",
-      "GoAffPro",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "MailChimp",
-      "Microdata for Google Shopping",
-      "Oddle",
-      "PayPal",
-      "Privy",
-      "QUIC",
-      "ReviewWidget",
-      "Shipping Rates Calculator",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "USPS",
-      "UTF-8",
-      "YouTube",
       "hCaptcha",
       "reCAPTCHA"
     ]
