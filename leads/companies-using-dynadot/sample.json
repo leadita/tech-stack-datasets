@@ -1,5 +1,23 @@
 [
   {
+    "domain": "cleancutpainters.com",
+    "title": "CLEAN CUT PAINTERS - Painting WNC",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 36,
+    "crawled_at": "2026-06-07T03:34:47.914844309Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "megaable.com",
     "title": "An EMDN - Mega Able, Powerful Solutions Strong Performance Innovative Technology High Capacity Exceptional Capability Advanced Systems Reliability",
     "business_name": "",
@@ -4983,23 +5001,6 @@
       "Linktree",
       "Tumblr",
       "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "cleancutpainters.com",
-    "title": "CLEAN CUT PAINTERS",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 135,
-    "crawled_at": "2025-12-16T21:38:10.764222198Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
       "UTF-8"
     ]
   }
