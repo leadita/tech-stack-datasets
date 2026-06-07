@@ -1,5 +1,126 @@
 [
   {
+    "domain": "palace-studios.com",
+    "title": "Fitness Studio Hong Kong | Private Personal Training Center",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 20600,
+    "crawled_at": "2026-06-07T14:56:19.969227462Z",
+    "technologies": [
+      "App Store",
+      "Apture Linking Platform",
+      "Chakra UI",
+      "Checkout.com",
+      "Content Delivery Network",
+      "DAV",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google My Business",
+      "Google Play",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Lapentor",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "SKWID",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "klimatanalys.se",
+    "title": "Datastory",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 600,
+    "crawled_at": "2026-06-07T12:32:49.500872348Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Fastly",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "remoteskillsnetwork.com",
+    "title": "Home • Remote Skills Network",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 5000,
+    "crawled_at": "2026-06-06T23:04:54.599200252Z",
+    "technologies": [
+      "Chakra UI",
+      "Cloudinary",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "teaparty.fyi",
+    "title": "Tea Party",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-06-06T22:16:34.11664061Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "fleki.co",
+    "title": "Fleki - Recieve gifts from your followers",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 1040,
+    "crawled_at": "2026-06-06T17:53:45.888056991Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "App Store",
+      "Chakra UI",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "Hotjar",
+      "Next.js",
+      "Nginx",
+      "Pleroma",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "moumni.systems",
     "title": "Zaiid Moumni | Software Engineer & Full-Stack Developer",
     "business_name": "Zaiid Moumni - Software Engineer Portfolio",
@@ -12594,111 +12715,6 @@
       "University or College",
       "Vercel",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "thetecheverest.com",
-    "title": "Tech Everest Website",
-    "business_name": "",
-    "country": "NPL",
-    "seo_score": 72,
-    "tech_spend": 15228,
-    "crawled_at": "2026-05-03T16:53:20.013249175Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "Chakra UI",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fireblade",
-      "Netlify",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "University or College",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "boshkuo.com",
-    "title": "Bosh Kuo - Portfolio",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 62,
-    "tech_spend": 280,
-    "crawled_at": "2026-05-03T16:29:19.989087464Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Next.js",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "lumeo.me",
-    "title": "Lumeo - Create AI carousels on LinkedIn in 1 click",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 1747,
-    "crawled_at": "2026-05-03T14:35:19.98598808Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Chakra UI",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "FirstPromoter",
-      "Next.js",
-      "Plausible Analytics",
-      "Pleroma",
-      "QUIC",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "develrx.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 200,
-    "crawled_at": "2026-05-03T13:46:20.788766609Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Chakra UI",
-      "Content Delivery Network",
-      "CookieYes",
-      "Next.js",
-      "Sanity",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "timlangner.dev",
-    "title": "Tim Langner - Homepage",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 3,
-    "crawled_at": "2026-05-03T13:14:19.980739757Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Next.js",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
