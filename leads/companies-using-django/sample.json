@@ -1,27 +1,26 @@
 [
   {
-    "domain": "slotslifestyle.co.uk",
-    "title": "Slots Lifestyle UK | Casino Reviews and Gambling Tips",
+    "domain": "casinotalkdaily.co.uk",
+    "title": "Casino Talk Daily: UK Gambling News, Tips, and Reviews",
     "business_name": "",
-    "country": "RUS",
+    "country": "GBR",
     "seo_score": 87,
-    "tech_spend": 17756,
-    "crawled_at": "2026-06-07T08:44:01.776258956Z",
+    "tech_spend": 125156,
+    "crawled_at": "2026-06-07T16:08:10.225261922Z",
     "technologies": [
       "About Cookies",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
       "Bulma",
       "Cloudflare",
       "Cloudflare CDN",
       "Content Delivery Network",
       "Django",
-      "Fireblade",
       "Gambling Content",
       "IcoMoon",
       "Matomo",
       "Matomo Tag Manager",
+      "Oracle Cloud",
       "QUIC",
+      "Salesforce Experience Cloud",
       "Tailwind CSS",
       "UTF-8",
       "jQuery"
@@ -9717,35 +9716,6 @@
       "Line2",
       "Perl",
       "QUIC"
-    ]
-  },
-  {
-    "domain": "djangoledger.com",
-    "title": "Miguel Sanda | Python Developer & Data Scientist",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 65,
-    "tech_spend": 6076,
-    "crawled_at": "2025-12-17T15:31:32.757805567Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Digital Ocean Spaces",
-      "Django",
-      "FormSubmit",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "NFOrce Internet",
-      "Python",
-      "SiteW",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "reCAPTCHA"
     ]
   }
 ]
