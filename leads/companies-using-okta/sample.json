@@ -21004,26 +21004,5 @@
       "jsDelivr",
       "vFairs"
     ]
-  },
-  {
-    "domain": "wasimakhtar.online",
-    "title": "Wasim Akhtar | IT Manager",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 70,
-    "tech_spend": 2128,
-    "crawled_at": "2025-12-17T16:56:15.780651543Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "InitiativeS",
-      "Netlify",
-      "Okta",
-      "Python",
-      "UTF-8",
-      "University or College"
-    ]
   }
 ]
