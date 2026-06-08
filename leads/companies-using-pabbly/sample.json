@@ -1,5 +1,37 @@
 [
   {
+    "domain": "hr40under40.com",
+    "title": "Jombay | Talent Assessment & HR Solutions Platform",
+    "business_name": "Jombay",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 15648,
+    "crawled_at": "2026-06-08T14:17:19.968987732Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "LinkedIn Insights",
+      "LinkedIn Pixel",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pabbly",
+      "Pleroma",
+      "Sitelinks Search Box",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "govindpatel.com",
     "title": "Govind Patel | Automation Architect & Systems Designer",
     "business_name": "",
@@ -6314,35 +6346,6 @@
       "WordPress Multisite",
       "WordPress Related Posts",
       "eLand"
-    ]
-  },
-  {
-    "domain": "thewebdesigners.ca",
-    "title": "The Web Designers │ Serving Small Businesses",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 16780,
-    "crawled_at": "2025-12-17T21:01:32.735087452Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Calendly",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Crisp",
-      "Fireblade",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Next.js",
-      "Pabbly",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
