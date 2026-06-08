@@ -10608,32 +10608,5 @@
       "Zoom Video Conferencing",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "colemancpas.com",
-    "title": "Home | Coleman & Associates CPAs, Ltd.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 12880,
-    "crawled_at": "2025-12-17T07:37:32.753638865Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Authorize.net",
-      "Cloudinary",
-      "Fastly CDN",
-      "Financial Industry Regulatory Authority",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr"
-    ]
   }
 ]
