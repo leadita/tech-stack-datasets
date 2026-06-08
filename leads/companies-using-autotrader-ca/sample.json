@@ -1,5 +1,37 @@
 [
   {
+    "domain": "elizabethyeung.ca",
+    "title": "PROJECTS | personal-resume",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 70,
+    "tech_spend": 88308,
+    "crawled_at": "2026-06-07T23:11:19.969630994Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "AutoTrader CA",
+      "Content Delivery Network",
+      "Ethy",
+      "Fastly",
+      "Fastly CDN",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PWA",
+      "QUIC",
+      "SMC",
+      "Sentry",
+      "SiteW",
+      "UTF-8",
+      "Vector Internet Services",
+      "Wix",
+      "Wix Media",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "maximizeagile.com",
     "title": "Maximize Agile - Delivery Transformation Consultants in Toronto | Agile Delivery Transformation Agency",
     "business_name": "",
@@ -2151,38 +2183,6 @@
       "YouTube",
       "eLand",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "elizabethyeung.ca",
-    "title": "PROJECTS | personal-resume",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 70,
-    "tech_spend": 103068,
-    "crawled_at": "2026-01-27T16:49:43.427837612Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "AutoTrader CA",
-      "Content Delivery Network",
-      "Ethy",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PWA",
-      "QUIC",
-      "SMC",
-      "SiteW",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "mlcom"
     ]
   },
   {
