@@ -1,5 +1,111 @@
 [
   {
+    "domain": "creaturepost.co.nz",
+    "title": "Creature Post | Hello.",
+    "business_name": "",
+    "country": "NZL",
+    "seo_score": 72,
+    "tech_spend": 15720,
+    "crawled_at": "2026-06-08T12:40:31.786719442Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "DAV",
+      "Fireblade",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Perl",
+      "Prismic",
+      "QUIC",
+      "Svelte",
+      "UTF-8",
+      "Vimeo",
+      "Vimeo CDN"
+    ]
+  },
+  {
+    "domain": "smartpricingflow.com",
+    "title": "Smartness | Revolutionize your hotel and vacation rental management",
+    "business_name": "Smartness",
+    "country": "ITA",
+    "seo_score": 77,
+    "tech_spend": 1956,
+    "crawled_at": "2026-06-08T11:17:19.971959482Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Booking Affiliate",
+      "Content Delivery Network",
+      "Instagram Follow Button",
+      "Little Hotelier",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Nuxt.js",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "lloydeast.co.nz",
+    "title": "ICIB",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 12856,
+    "crawled_at": "2026-06-08T10:52:18.304830796Z",
+    "technologies": [
+      "AAPT",
+      "AWS WAF Challenge",
+      "Adult Content",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "DAV",
+      "Fireblade",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Next.js",
+      "Perl",
+      "Pleroma",
+      "Prismic",
+      "QUIC",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "joyctc.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 284,
+    "crawled_at": "2026-06-08T05:22:35.595461975Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Perl",
+      "Pico CSS",
+      "Prismic",
+      "QUIC",
+      "Svelte",
+      "Tailwind CSS",
+      "Unsplash",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "goldmedalinsurance.nz",
     "title": "ICIB",
     "business_name": "",
@@ -6247,31 +6353,6 @@
       "YouTube",
       "ZoomInfo",
       "mParticle"
-    ]
-  },
-  {
-    "domain": "smartpricingpro.com",
-    "title": "Smartness | Revolutionize your hotel and vacation rental management",
-    "business_name": "Smartness",
-    "country": "ITA",
-    "seo_score": 77,
-    "tech_spend": 1956,
-    "crawled_at": "2026-05-07T05:23:19.983678893Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Booking Affiliate",
-      "Content Delivery Network",
-      "DAV",
-      "Instagram Follow Button",
-      "Little Hotelier",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Nuxt.js",
-      "Prismic",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "shadcn ui"
     ]
   },
   {
@@ -13577,73 +13658,6 @@
       "Vector Internet Services",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "foodscapepages.org",
-    "title": "Foodscape Pages",
-    "business_name": "",
-    "country": "SGP",
-    "seo_score": 72,
-    "tech_spend": 2948,
-    "crawled_at": "2026-04-09T22:02:19.983406425Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Gatsby JS",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Idaq",
-      "Instagram Follow Button",
-      "Netlify",
-      "Prismic",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "ruisnijmegen.nl",
-    "title": "RUIS",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-04-09T20:05:20.000976422Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Next.js",
-      "Perl",
-      "Prismic",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "fjallasyn.is",
-    "title": "Shuttle services to one-day or multi-day tours in Northeastern Iceland | Fjallasýn",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 960,
-    "crawled_at": "2026-04-09T20:05:19.989340203Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Prismic",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "Vimeo",
-      "Vimeo CDN",
-      "eLand"
     ]
   }
 ]
