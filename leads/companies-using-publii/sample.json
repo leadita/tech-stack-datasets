@@ -8566,21 +8566,5 @@
       "UTF-8",
       "jQuery"
     ]
-  },
-  {
-    "domain": "worthwhileinvestments.com",
-    "title": "WorthWhileInvestments.com - WorthwhileInvestments.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 49,
-    "crawled_at": "2025-12-17T06:26:42.535134346Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
   }
 ]
