@@ -1,5 +1,40 @@
 [
   {
+    "domain": "hatzalahcj.com",
+    "title": "Donate : Hatzolah of Central Jersey",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 398,
+    "crawled_at": "2026-06-07T13:37:26.914113146Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "AWS WAF Challenge",
+      "Adobe Creative Cloud WebFonts",
+      "Adult Content",
+      "Aruba",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Turnstile",
+      "Commission Junction",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Nginx",
+      "PHP",
+      "UTF-8",
+      "eLand",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "babyganics.com.co",
     "title": "Contact Us | SC Johnson",
     "business_name": "",
@@ -13812,42 +13847,6 @@
       "Vercel",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "hatzalahcj.com",
-    "title": "Donate : Hatzolah of Central Jersey",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 398,
-    "crawled_at": "2025-12-17T04:13:32.731589284Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Adult Content",
-      "Aruba",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Turnstile",
-      "Commission Junction",
-      "Express",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Nginx",
-      "PHP",
-      "UTF-8",
-      "eLand",
-      "reCAPTCHA"
     ]
   }
 ]
