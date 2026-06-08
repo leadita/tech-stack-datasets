@@ -1,5 +1,49 @@
 [
   {
+    "domain": "detectivequick.com",
+    "title": "DETECTIVE DICK QUICK - a new series from ATIQ by ATIQ",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 18699,
+    "crawled_at": "2026-06-08T11:08:19.969765078Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon",
+      "Apache",
+      "Apache Tomcat JK",
+      "Content Delivery Network",
+      "Express",
+      "Font Awesome",
+      "Fundrazr",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Perl",
+      "QUIC",
+      "Share Link",
+      "Tailwind CSS",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "zkmicropet.com",
+    "title": "中科微宠生物科技（南京）有限公司 | 宠物微生态健康解决方案专家",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-06-08T00:37:11.225081467Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Content Delivery Network"
+    ]
+  },
+  {
     "domain": "sherlock.3cx.ca",
     "title": "Apache Tomcat/5.5.32",
     "business_name": "",
@@ -14276,20 +14320,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "zkmicropet.com",
-    "title": "中科微宠生物科技（南京）有限公司 | 宠物微生态健康解决方案专家",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2025-12-17T11:40:38.017866767Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Content Delivery Network"
     ]
   }
 ]
