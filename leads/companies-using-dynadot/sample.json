@@ -1,5 +1,46 @@
 [
   {
+    "domain": "medicalsupply.net",
+    "title": "Build Your Brand",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 36,
+    "crawled_at": "2026-06-08T10:38:19.96944868Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "moodnoteperfume.com",
+    "title": "Mood Note | Perfume Industry Solutions",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 10192,
+    "crawled_at": "2026-06-08T09:24:44.686275278Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "BLR",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Express",
+      "GZIP Module",
+      "Linktree",
+      "Microdata for Google Shopping",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "cleancutpainters.com",
     "title": "CLEAN CUT PAINTERS - Painting WNC",
     "business_name": "",
@@ -36,24 +77,6 @@
       "Google Tag Manager",
       "Microdata for Google Shopping",
       "Microsoft Clarity",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "ivpoles.com",
-    "title": "Build Your Brand",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 36,
-    "crawled_at": "2026-06-05T11:34:26.072895752Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Microdata for Google Shopping",
       "UTF-8"
     ]
   },
@@ -4979,28 +5002,6 @@
       "Dynadot",
       "Font Awesome",
       "GZIP Module",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "moodnoteperfume.com",
-    "title": "Mood Note | Perfume Industry Solutions",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 10291,
-    "crawled_at": "2025-12-17T17:10:33.473264166Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "BLR",
-      "CloudFront",
-      "Dynadot",
-      "Express",
-      "Font Awesome",
-      "GZIP Module",
-      "Linktree",
-      "Tumblr",
-      "Twitter Ads",
       "UTF-8"
     ]
   }
