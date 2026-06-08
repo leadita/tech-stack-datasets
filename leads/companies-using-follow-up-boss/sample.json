@@ -1,5 +1,63 @@
 [
   {
+    "domain": "willowpuntagordahomes.com",
+    "title": "Willow - Southwest Florida",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 13831,
+    "crawled_at": "2026-06-08T18:47:34.048163687Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Follow Up Boss",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Harbor",
+      "Homes.com CMS",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "OSS CDN",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "WPForms",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "riverstonecrossingnc.com",
+    "title": "Home | Riverstone Crossing",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 71192,
+    "crawled_at": "2026-06-08T11:32:26.890518954Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Amazon",
+      "DAV",
+      "Follow Up Boss",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "HMDG",
+      "Heroku",
+      "Instagram Follow Button",
+      "K2F",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Negate",
+      "ResMan",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "liveaog.com",
     "title": "Home | AOG Living",
     "business_name": "AOG Living",
@@ -272,32 +330,6 @@
       "UTF-8",
       "Vector Internet Services",
       "Zeki"
-    ]
-  },
-  {
-    "domain": "oakcreekswfl.com",
-    "title": "Oak Creek - Southwest Florida",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 10231,
-    "crawled_at": "2026-06-02T08:36:04.386434015Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Follow Up Boss",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "OSS CDN",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "WPForms",
-      "YouTube",
-      "jQuery"
     ]
   },
   {
@@ -14411,35 +14443,6 @@
       "Twitter Ads",
       "UTF-8",
       "Zeki"
-    ]
-  },
-  {
-    "domain": "riverstonecrossingnc.com",
-    "title": "Home | Riverstone Crossing",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 68792,
-    "crawled_at": "2025-12-17T18:31:32.763927115Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "DAV",
-      "Follow Up Boss",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "HMDG",
-      "Heroku",
-      "Instagram Follow Button",
-      "K2F",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Negate",
-      "ResMan",
-      "UTF-8"
     ]
   }
 ]
