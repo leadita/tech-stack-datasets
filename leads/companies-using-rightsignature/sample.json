@@ -1,5 +1,43 @@
 [
   {
+    "domain": "bluepenfunding.com",
+    "title": "Home | Blue Pen Funding",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 134570,
+    "crawled_at": "2026-06-08T09:46:39.381105056Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "DAV",
+      "Express",
+      "Fastly",
+      "Fastly CDN",
+      "GZIP Module",
+      "K2F",
+      "KVH",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "POWr",
+      "PWA",
+      "QUIC",
+      "RightSignature",
+      "SMC",
+      "Seflow Italy",
+      "Sentry",
+      "SiteW",
+      "Subversion",
+      "UTF-8",
+      "Vector Internet Services",
+      "Wix",
+      "Wix Media",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "dailytracker.org",
     "title": "幸运5官网开奖结果-Tracker®澳洲五168官方正规网站-体彩号码预测计划-澳洲的幸运5直播-查询澳洲幸运5历史记录",
     "business_name": "",
@@ -2164,39 +2202,6 @@
       "WordPress Multisite",
       "WordPress Stats",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "bluepenfunding.com",
-    "title": "Home | Blue Pen Funding",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 31682,
-    "crawled_at": "2025-12-17T17:22:32.744988911Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Endis",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "POWr",
-      "PWA",
-      "QUIC",
-      "RightSignature",
-      "SMC",
-      "SiteW",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "mlcom"
     ]
   }
 ]
