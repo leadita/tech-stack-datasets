@@ -1,5 +1,71 @@
 [
   {
+    "domain": "thejonescandetrust.co.uk",
+    "title": "Home - Community & Education Trust",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 95670,
+    "crawled_at": "2026-06-08T22:41:26.507358037Z",
+    "technologies": [
+      "AAPT",
+      "Financial Services Guide",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "InitiativeS",
+      "K2F",
+      "Nginx",
+      "No-Q",
+      "Parallels Plesk Panel",
+      "SMC",
+      "Tailwind CSS",
+      "WordPress"
+    ]
+  },
+  {
+    "domain": "covidprotocols.org",
+    "title": "Homepage - COVID-19 Protocols",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 5000,
+    "crawled_at": "2026-06-08T07:06:54.074490559Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Google My Business",
+      "Google Play",
+      "Gridsome",
+      "Netlify",
+      "Ntent",
+      "PWA",
+      "QUIC",
+      "Qualtrics Site Intercept",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "mikkodc.com",
+    "title": "Welcome to my Portfolio Site! - Gridsome",
+    "business_name": "",
+    "country": "PHL",
+    "seo_score": 65,
+    "tech_spend": 15228,
+    "crawled_at": "2026-06-07T23:30:15.039048997Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "phuket-lighting.com",
     "title": "Lighting Design - Lighting Design by AVC Engineering",
     "business_name": "",
@@ -11937,74 +12003,6 @@
       "Content Delivery Network",
       "Gridsome",
       "Netlify",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "thesojournerproject.org",
-    "title": "The Sojourner Project - The Sojourner Project",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 50,
-    "tech_spend": "",
-    "crawled_at": "2026-01-23T14:19:43.440483328Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "shubhamzanwar.com",
-    "title": "Shubham Zanwar's Portfolio - Shubham Zanwar",
-    "business_name": "",
-    "country": "SWE",
-    "seo_score": 72,
-    "tech_spend": 2440,
-    "crawled_at": "2026-01-23T00:13:43.441641306Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Medium",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "roosvangreevenbroek.com",
-    "title": "Roos van Greevenbroek - Roosvangreevenbroek",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 25603,
-    "crawled_at": "2026-01-22T22:34:43.429663683Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "DAV",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "IPFS",
-      "K2F",
-      "KVH",
-      "SMC",
-      "Subversion",
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
