@@ -1,5 +1,41 @@
 [
   {
+    "domain": "dolezych.com",
+    "title": "Load Securing & Lifting Technology | Dolezych",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 52401,
+    "crawled_at": "2026-06-08T03:07:35.070523901Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Angular",
+      "Apache",
+      "Apture Linking Platform",
+      "BunnyCDN",
+      "BunnyCDN General",
+      "Doofinder",
+      "ElementUI",
+      "Express",
+      "Fastly",
+      "Fireblade",
+      "Font Awesome",
+      "Friendly Captcha",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Newsletter for Wordpress",
+      "QUIC",
+      "Recruitee",
+      "Shopware",
+      "UTF-8",
+      "University or College",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "272-majuterus.store",
     "title": "Free Online Games on CrazyGames | Play Now!",
     "business_name": "",
@@ -9647,38 +9683,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "dolezych.com",
-    "title": "Load Securing & Lifting Technology | Dolezych",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 49803,
-    "crawled_at": "2025-12-17T13:10:32.761269565Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Angular",
-      "Apache",
-      "BunnyCDN",
-      "BunnyCDN General",
-      "Doofinder",
-      "ElementUI",
-      "Express",
-      "Fireblade",
-      "Friendly Captcha",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "PHP",
-      "QUIC",
-      "Recruitee",
-      "Shopware",
-      "UTF-8",
-      "University or College",
-      "reCAPTCHA"
     ]
   }
 ]
