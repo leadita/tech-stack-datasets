@@ -1,5 +1,56 @@
 [
   {
+    "domain": "sansoucy-immobilier.com",
+    "title": "Sansoucy équipe immobilière | Real Estate Brokers at RE/MAX Élite",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 27050,
+    "crawled_at": "2026-06-08T12:30:13.897985115Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Didomi",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nginx",
+      "No-Q",
+      "Nuxt.js",
+      "UTF-8",
+      "Vector Internet Services"
+    ]
+  },
+  {
+    "domain": "danielpilon-immo.com",
+    "title": "Daniel Pilon | Residential Real Estate Broker at RE/MAX Platine",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 27050,
+    "crawled_at": "2026-06-07T20:27:54.088086435Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Didomi",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Nginx",
+      "No-Q",
+      "Nuxt.js",
+      "UTF-8",
+      "Vector Internet Services"
+    ]
+  },
+  {
     "domain": "eurostarinternational.nl",
     "title": "Eurostar.com: Book Europe Train Tickets and Holidays",
     "business_name": "Eurostar",
@@ -15595,54 +15646,6 @@
       "Nginx",
       "Nuxt.js",
       "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "alissabeaulieu.com",
-    "title": "Alissa Beaulieu | Residential Real Estate Broker at RE/MAX D'abord",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 21000,
-    "crawled_at": "2026-02-19T03:10:29.517760504Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "DAV",
-      "Didomi",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "Nuxt.js",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "marieclaudelebel.com",
-    "title": "Marie-Claude Lebel | Residential Real Estate Broker at RE/MAX Futur",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 21000,
-    "crawled_at": "2026-02-19T03:04:02.628501812Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Didomi",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "Nuxt.js",
-      "Perl",
       "UTF-8"
     ]
   }
