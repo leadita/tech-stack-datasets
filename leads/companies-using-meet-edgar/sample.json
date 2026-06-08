@@ -755,33 +755,5 @@
       "Yummly",
       "jQuery"
     ]
-  },
-  {
-    "domain": "saascompare.com",
-    "title": "SaaS Compare - Find the Best SaaS Solutions for Your Business",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 24071,
-    "crawled_at": "2025-12-17T14:13:32.768097149Z",
-    "technologies": [
-      "Bulma",
-      "FormSubmit",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Tag Manager",
-      "Hootsuite Badge",
-      "IcoMoon",
-      "Meet Edgar",
-      "PartnerStack",
-      "Rush",
-      "Semrush",
-      "Sendible",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
   }
 ]
