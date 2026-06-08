@@ -1,5 +1,37 @@
 [
   {
+    "domain": "intentionalwellnessnonforcechiropractic.com",
+    "title": "Intentional Wellness Chiropractic | Breath. Mobility. Connection",
+    "business_name": "Intentional Wellness",
+    "country": "FRA",
+    "seo_score": 77,
+    "tech_spend": 81908,
+    "crawled_at": "2026-06-07T23:38:56.54446575Z",
+    "technologies": [
+      "Aruba",
+      "Express",
+      "FormSubmit",
+      "Fullscript",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Jane App",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Newsletter for Wordpress",
+      "Pico CSS",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "jacquelineaesthetics.studio",
     "title": "Book Online | Áine Healthcare",
     "business_name": "",
@@ -1888,38 +1920,6 @@
       "Vimeo",
       "Visx",
       "WP Booking Calendar"
-    ]
-  },
-  {
-    "domain": "intentionalwellnesschiro.com",
-    "title": "Intentional Wellness Chiropractic | Experience Gentle Healing Today",
-    "business_name": "Intentional Wellness",
-    "country": "FRA",
-    "seo_score": 77,
-    "tech_spend": 81908,
-    "crawled_at": "2026-04-23T03:47:20.02057246Z",
-    "technologies": [
-      "Aruba",
-      "Express",
-      "FormSubmit",
-      "Fullscript",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Jane App",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "Pico CSS",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   },
   {
