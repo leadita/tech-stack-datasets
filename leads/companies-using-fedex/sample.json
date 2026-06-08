@@ -1,5 +1,71 @@
 [
   {
+    "domain": "nxtwifi.us",
+    "title": "NXT WiFi | Portable Hotspot Rental – NXT Square",
+    "business_name": "NXT Square",
+    "country": "PHL",
+    "seo_score": 75,
+    "tech_spend": 20844,
+    "crawled_at": "2026-06-08T17:00:48.659166967Z",
+    "technologies": [
+      "Angular",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "FedEx",
+      "Fireblade",
+      "Google Related Website Sites",
+      "Microdata for Google Shopping",
+      "PageFly",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "Shopify Payments",
+      "TrackingMore",
+      "UTF-8",
+      "eLand",
+      "hCaptcha",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "powerexfire.co.in",
+    "title": "Powerex Fire Protection System in Mumbai",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 19008,
+    "crawled_at": "2026-06-08T11:29:11.069925078Z",
+    "technologies": [
+      "AutoComplete",
+      "Bulma",
+      "BunnyCDN Header",
+      "Content Delivery Network",
+      "Express",
+      "Facebook Login",
+      "Facebook Reseller",
+      "FedEx",
+      "Fireblade",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Hotjar",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "NowFloats",
+      "Perl",
+      "Schema Plugin",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "WhatsApp Sharing",
+      "jQuery",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "sttnyc.com",
     "title": "星聚物流",
     "business_name": "",
@@ -9329,30 +9395,6 @@
       "Visual Studio",
       "Yelp Badge",
       "aWeber"
-    ]
-  },
-  {
-    "domain": "wifidash.us",
-    "title": "Portable Hotspot Rentals ｜ WiFiDASH",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 72,
-    "tech_spend": 15568,
-    "crawled_at": "2026-04-30T14:44:19.980597312Z",
-    "technologies": [
-      "Bulma",
-      "Concrete CMS",
-      "FedEx",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Nginx",
-      "PHP",
-      "UTF-8",
-      "jQuery"
     ]
   },
   {
@@ -19333,40 +19375,6 @@
       "Zendesk Embeddables",
       "eLand",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "longevitypeptides.net",
-    "title": "Longevity Peptides™ | Advanced Wellness, Topicals & Supplements for Him & Her",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 24247,
-    "crawled_at": "2026-03-31T02:59:31.182623887Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "ETranslate",
-      "Ecwid Ecommerce Shopping Cart",
-      "Ethy",
-      "Express",
-      "FedEx",
-      "Fireblade",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google My Business",
-      "Google Related Website Sites",
-      "NFOrce Internet",
-      "Nginx",
-      "PWA",
-      "UPS",
-      "USPS",
-      "UTF-8",
-      "Unsplash",
-      "eLand"
     ]
   }
 ]
