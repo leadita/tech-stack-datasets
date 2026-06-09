@@ -1,5 +1,33 @@
 [
   {
+    "domain": "imaginarydesign.co.uk",
+    "title": "Adam Koniuszewski | Product Designer",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 47440,
+    "crawled_at": "2026-06-08T23:27:13.382204703Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Atlassian Bitbucket",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Drift",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Hotjar",
+      "Instagram Follow Button",
+      "Medium",
+      "Todoist",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "gtdvsg.com",
     "title": "GTD® Virtual Study Group",
     "business_name": "The GTD Virtual Study Group",
@@ -2418,34 +2446,6 @@
       "UTF-8",
       "University or College",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "imaginarydesign.co.uk",
-    "title": "Adam Koniuszewski | Product Designer",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 47440,
-    "crawled_at": "2025-12-18T03:01:32.735725741Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Atlassian Bitbucket",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Drift",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hotjar",
-      "Instagram Follow Button",
-      "Medium",
-      "Todoist",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]
