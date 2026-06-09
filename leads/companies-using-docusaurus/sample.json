@@ -1,5 +1,56 @@
 [
   {
+    "domain": "opendata.cam",
+    "title": "OpenDataCam",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 72,
+    "tech_spend": 2868,
+    "crawled_at": "2026-06-09T20:30:58.186535513Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "License Buttons",
+      "Mastodon",
+      "Ntent",
+      "Perl",
+      "Plausible Analytics",
+      "QUIC",
+      "UTF-8",
+      "Vimeo",
+      "WordPress"
+    ]
+  },
+  {
+    "domain": "nvk.tools",
+    "title": "nvk.tools | nvk.tools",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 647,
+    "crawled_at": "2026-06-09T10:50:28.928947937Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Cornerstone",
+      "Docusaurus",
+      "Netlify",
+      "Perl",
+      "Pico CSS",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "rezar.dev.br",
     "title": "Network Automation & Security Consulting | Rezar",
     "business_name": "",
@@ -12757,55 +12808,6 @@
       "UTF-8",
       "Vercel",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "knapsacky.com",
-    "title": "Knapsacky.com | Knapsacky.com",
-    "business_name": "",
-    "country": "MEX",
-    "seo_score": 82,
-    "tech_spend": 7868,
-    "crawled_at": "2026-02-21T07:19:33.709913451Z",
-    "technologies": [
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "WhatsApp Sharing"
-    ]
-  },
-  {
-    "domain": "ask-ai-button.io",
-    "title": "Ask AI Button - Add AI chatbot to your docs",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 15000,
-    "crawled_at": "2026-02-19T22:52:45.333505962Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fireblade",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
