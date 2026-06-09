@@ -1,5 +1,57 @@
 [
   {
+    "domain": "econetic.online",
+    "title": "econetic",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 10577,
+    "crawled_at": "2026-06-09T09:17:19.970172652Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Contento",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google My Business",
+      "Google Tag Manager",
+      "LandBot",
+      "Nginx",
+      "Plausible Analytics",
+      "UTF-8",
+      "Webador",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "bellinghamdumpsterrental.com",
+    "title": "Bellingham Dumpster Rental",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 17099,
+    "crawled_at": "2026-06-09T07:43:03.835376063Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fireblade",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google My Business",
+      "Investor Relations",
+      "LandBot",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "Perl",
+      "QUIC",
+      "Schema Plugin",
+      "UTF-8",
+      "Yet Another Related Posts Plugin"
+    ]
+  },
+  {
     "domain": "24lively.com",
     "title": "24LIVELY - 24/7 Live Streaming Servers",
     "business_name": "",
@@ -16662,33 +16714,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Visual Studio"
-    ]
-  },
-  {
-    "domain": "bellinghamdumpsterrental.com",
-    "title": "Bellingham Dumpster Rental",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 17099,
-    "crawled_at": "2025-12-18T09:00:34.304569592Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Fireblade",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google My Business",
-      "Investor Relations",
-      "LandBot",
-      "Microdata for Google Shopping",
-      "Perl",
-      "QUIC",
-      "Schema Plugin",
-      "UTF-8",
-      "Yet Another Related Posts Plugin"
     ]
   }
 ]
