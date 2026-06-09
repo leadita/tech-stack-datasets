@@ -1,5 +1,55 @@
 [
   {
+    "domain": "papineaudanis.com",
+    "title": "Team Papineau Danis | Real Estate Brokers at RE/MAX du Cartier",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 7050,
+    "crawled_at": "2026-06-09T04:28:03.032081115Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Didomi",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nginx",
+      "No-Q",
+      "Nuxt.js",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "danieldube.ca",
+    "title": "Daniel Dubé | Residential Real Estate Broker at RE/MAX VISION",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 27050,
+    "crawled_at": "2026-06-09T04:28:03.03219056Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Didomi",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Nginx",
+      "No-Q",
+      "Nuxt.js",
+      "UTF-8",
+      "Vector Internet Services"
+    ]
+  },
+  {
     "domain": "sansoucy-immobilier.com",
     "title": "Sansoucy équipe immobilière | Real Estate Brokers at RE/MAX Élite",
     "business_name": "",
@@ -15592,61 +15642,6 @@
       "Nuxt.js",
       "UTF-8",
       "Vector Internet Services"
-    ]
-  },
-  {
-    "domain": "joffreyleveille.com",
-    "title": "Joffrey Léveillé | Residential Real Estate Broker at RE/MAX ROYAL JORDAN",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 22040,
-    "crawled_at": "2026-02-19T03:10:29.520585224Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Didomi",
-      "Envoy",
-      "Facebook Conversion Tracking",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hotjar",
-      "Instagram Follow Button",
-      "Nginx",
-      "Nuxt.js",
-      "QUIC",
-      "Thank You",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "allanbonilla.com",
-    "title": "Allan Bonilla | Residential Real Estate Broker at RE/MAX CRYSTAL",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 6720,
-    "crawled_at": "2026-02-19T03:10:29.518590142Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Didomi",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "Nuxt.js",
-      "QUIC",
-      "UTF-8"
     ]
   }
 ]
