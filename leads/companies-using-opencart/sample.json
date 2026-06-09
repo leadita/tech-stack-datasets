@@ -1,5 +1,126 @@
 [
   {
+    "domain": "tegusgear.com",
+    "title": "Tegus Gear",
+    "business_name": "",
+    "country": "SAU",
+    "seo_score": 72,
+    "tech_spend": 75209,
+    "crawled_at": "2026-06-09T11:23:19.969090215Z",
+    "technologies": [
+      "Apache",
+      "Cart.com",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "OpenCart",
+      "PHP",
+      "TemplateMela",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "alrawdan-furniture.com",
+    "title": "مؤسسة محمد عبد الله محمد الروضان للأثاث",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 30003,
+    "crawled_at": "2026-06-09T07:43:03.819271192Z",
+    "technologies": [
+      "Apache",
+      "Cart.com",
+      "Google Cloud DNS",
+      "Google Font API",
+      "OpenCart",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "sg-sportswear.com",
+    "title": "Sialkot Global Sports",
+    "business_name": "",
+    "country": "PAK",
+    "seo_score": 77,
+    "tech_spend": 75040,
+    "crawled_at": "2026-06-08T23:05:19.970932806Z",
+    "technologies": [
+      "AutoComplete",
+      "Cart.com",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "OpenCart",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "mideaarmenia.am",
+    "title": "Midea Armenia",
+    "business_name": "",
+    "country": "COL",
+    "seo_score": 72,
+    "tech_spend": 75268,
+    "crawled_at": "2026-06-08T22:29:12.382978461Z",
+    "technologies": [
+      "Cart.com",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "JivoSite",
+      "Nginx",
+      "OpenCart",
+      "QUIC",
+      "Tailwind CSS",
+      "Tawk",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "cepmu.com",
+    "title": "cepmu",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 30003,
+    "crawled_at": "2026-06-08T18:14:42.698519693Z",
+    "technologies": [
+      "Cart.com",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "OpenCart",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "dancake.ca",
     "title": "dancake",
     "business_name": "",
@@ -3735,32 +3856,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "el-wafaa.com",
-    "title": "El-Wafaa for trading and contracting",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 75079,
-    "crawled_at": "2026-05-22T01:56:19.99572551Z",
-    "technologies": [
-      "Apache",
-      "Cart.com",
-      "Coming Soon Page",
-      "CookieConsent",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "OpenCart",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   },
   {
@@ -11733,31 +11828,6 @@
     ]
   },
   {
-    "domain": "esoleszone.com",
-    "title": "cepmu",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 30003,
-    "crawled_at": "2026-05-03T20:42:53.299640932Z",
-    "technologies": [
-      "Cart.com",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Nginx",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "mahayukti.in",
     "title": "mahayukti",
     "business_name": "",
@@ -12213,77 +12283,6 @@
       "QUIC",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "firstshoeshop.com",
-    "title": "Firstshoeshop.com | Best Online Shopping Website for Discounted Deals",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 30003,
-    "crawled_at": "2026-05-03T02:17:19.996957611Z",
-    "technologies": [
-      "Cart.com",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "paulsindustries.com",
-    "title": "Paulsindustries",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 135040,
-    "crawled_at": "2026-05-02T23:47:12.515786228Z",
-    "technologies": [
-      "Apache",
-      "Cart.com",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "M247",
-      "ON24",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "W3.CSS",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "linensstudio.com",
-    "title": "The Fine Curtain shop in Bangalore - Linensstudio",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 82,
-    "tech_spend": 75070,
-    "crawled_at": "2026-05-02T23:37:33.746518629Z",
-    "technologies": [
-      "Apache",
-      "Cart.com",
-      "GZIP Module",
-      "GetButton.io",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "OpenCart",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "Tawk",
-      "UTF-8",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]

@@ -1,5 +1,39 @@
 [
   {
+    "domain": "dinubapaint.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 9925,
+    "crawled_at": "2026-06-09T12:06:11.128602686Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudinary",
+      "Content Delivery Network",
+      "Daily Deals",
+      "Fireblade",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Gravity",
+      "Instagram Follow Button",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "Volusion Live Chat",
+      "Yelp Badge",
+      "accessiBe"
+    ]
+  },
+  {
     "domain": "woodenswords.com",
     "title": "Purpleheart Armoury",
     "business_name": "",
@@ -3483,40 +3517,6 @@
       "UTF-8",
       "Volusion Live Chat",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "dinubapaint.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 9925,
-    "crawled_at": "2025-12-18T12:10:32.75557897Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudinary",
-      "Daily Deals",
-      "ElementUI",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Gravity",
-      "Instagram Follow Button",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "Volusion Live Chat",
-      "Yelp Badge",
-      "accessiBe"
     ]
   }
 ]
