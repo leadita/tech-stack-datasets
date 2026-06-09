@@ -1,5 +1,37 @@
 [
   {
+    "domain": "funnelprofitsmastery.com",
+    "title": "Funnel Profits Bootcamp: Become A Webinar Genius",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 22989,
+    "crawled_at": "2026-06-09T06:01:05.609852091Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon CloudFront",
+      "Aruba",
+      "CDN JS",
+      "Camp",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Font API",
+      "QUIC",
+      "UTF-8",
+      "Unbounce",
+      "Vector Internet Services",
+      "eLand"
+    ]
+  },
+  {
     "domain": "interaktivnayadoska.uz",
     "title": "interaktivnayadoska – Большие идеи заслуживают больших экранов.",
     "business_name": "",
@@ -3407,38 +3439,6 @@
       "eLand",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "funnelprofitsmastery.com",
-    "title": "Funnel Profits Bootcamp: Become A Webinar Genius",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 22989,
-    "crawled_at": "2025-12-18T07:37:32.733836312Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "Aruba",
-      "CDN JS",
-      "Camp",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "QUIC",
-      "UTF-8",
-      "Unbounce",
-      "Vector Internet Services",
-      "eLand"
     ]
   }
 ]
