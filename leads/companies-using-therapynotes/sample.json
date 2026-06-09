@@ -1,5 +1,35 @@
 [
   {
+    "domain": "fundboxinc.com",
+    "title": "Capital Products for Small Businesses | Fundbox",
+    "business_name": "Fundbox",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 24025,
+    "crawled_at": "2026-06-09T06:17:19.969635536Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Google Customer Reviews",
+      "Google My Business",
+      "Housecall Pro",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Nuxt.js",
+      "QUIC",
+      "Tailwind CSS",
+      "TherapyNotes",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "supanoteai.com",
     "title": "Supa — Ambient Agents for Behavioral Health Operations",
     "business_name": "Supa",
@@ -2366,35 +2396,6 @@
       "Wangsu",
       "Website Tonight",
       "intakeQ"
-    ]
-  },
-  {
-    "domain": "fundbox.au",
-    "title": "Capital Products for Small Businesses | Fundbox",
-    "business_name": "Fundbox",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 26425,
-    "crawled_at": "2026-04-30T05:14:19.989226429Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud CDN",
-      "Google Customer Reviews",
-      "Housecall Pro",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Nuxt.js",
-      "Tailwind CSS",
-      "TherapyNotes",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "shadcn ui"
     ]
   },
   {
