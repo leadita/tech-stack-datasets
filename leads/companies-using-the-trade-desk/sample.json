@@ -1,5 +1,33 @@
 [
   {
+    "domain": "adbanner.com.ua",
+    "title": "AdBanner | HTML5 banner development",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 219,
+    "crawled_at": "2026-06-08T13:47:19.701509811Z",
+    "technologies": [
+      "Amazon Widgets",
+      "Apture Linking Platform",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Nginx",
+      "Tailwind CSS",
+      "Telegram",
+      "The Trade Desk",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "crowsnestranch.org",
     "title": "Crow’s Nest Ranch | Holistic Addiction Treatment & Sober Living in Truckee, CA",
     "business_name": "",
@@ -32806,32 +32834,6 @@
       "reCAPTCHA",
       "vi",
       "vidoomy Direct"
-    ]
-  },
-  {
-    "domain": "adbanner.com.ua",
-    "title": "AdBanner | HTML5 banner development",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 219,
-    "crawled_at": "2025-12-17T20:07:14.074578596Z",
-    "technologies": [
-      "Amazon Widgets",
-      "Apture Linking Platform",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Nginx",
-      "Tailwind CSS",
-      "The Trade Desk"
     ]
   }
 ]
