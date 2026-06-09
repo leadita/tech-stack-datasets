@@ -1,5 +1,61 @@
 [
   {
+    "domain": "bblcpa.com",
+    "title": "Home | Brammer, Begnaud, & Lattimore CPAs & Consultants",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 38340,
+    "crawled_at": "2026-06-08T20:41:27.708534586Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "M247",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "Zoom Video Conferencing",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "wilshirecp.com",
+    "title": "Home | Wilshire Consulting Partners, LLC.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 13340,
+    "crawled_at": "2026-06-08T10:48:10.835035479Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "Zoom Video Conferencing",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "myodie.cloud",
     "title": "myODIE.com – We can plug in your potential!",
     "business_name": "",
@@ -10554,59 +10610,6 @@
       "Xero",
       "Zerif Lite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "bblcpa.com",
-    "title": "Home | Brammer, Begnaud, & Lattimore CPAs & Consultants",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 32800,
-    "crawled_at": "2025-12-18T00:58:32.738451576Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "M247",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "Zoom Video Conferencing",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "wilshirecp.com",
-    "title": "Home | Wilshire Consulting Partners, LLC.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 12800,
-    "crawled_at": "2025-12-17T18:00:31.686860144Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "Zoom Video Conferencing",
-      "jsDelivr"
     ]
   }
 ]
