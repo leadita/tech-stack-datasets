@@ -1,5 +1,20 @@
 [
   {
+    "domain": "bladifqalbi.ma",
+    "title": "bladifqalbi.ma",
+    "business_name": "bladifqalbi.ma",
+    "country": "GBR",
+    "seo_score": 60,
+    "tech_spend": 49,
+    "crawled_at": "2026-06-09T01:09:45.365843855Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "thinkwritedesign.co.uk",
     "title": "Homepage - Think Write Design",
     "business_name": "",
@@ -6787,21 +6802,6 @@
       "GZIP Module",
       "Google Analytics",
       "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "alisca.ma",
-    "title": "alisca.ma",
-    "business_name": "alisca.ma",
-    "country": "GBR",
-    "seo_score": 50,
-    "tech_spend": 49,
-    "crawled_at": "2026-02-05T19:58:48.880803404Z",
-    "technologies": [
-      "Alternate Protocol",
       "Microdata for Google Shopping",
       "Publii",
       "WordPress SEO Structured Data Schema Plugin"

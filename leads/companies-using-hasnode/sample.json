@@ -1,5 +1,33 @@
 [
   {
+    "domain": "mohdshadab.com",
+    "title": "Md Shadab Alam | Full Stack Developer",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 607,
+    "crawled_at": "2026-06-09T09:19:56.652603234Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Carrd",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google My Business",
+      "Hasnode",
+      "InitiativeS",
+      "Medium",
+      "Next.js",
+      "Perl",
+      "Pleroma",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "thesiddique.com",
     "title": "AI in Smart Cities & Urban Mobility | TheSiddique",
     "business_name": "TheSiddique.com",
@@ -12611,83 +12639,6 @@
       "Twitter Ads",
       "UTF-8",
       "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "mohdshadab.com",
-    "title": "Md Shadab Alam | Full Stack Developer",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 607,
-    "crawled_at": "2025-12-18T10:16:32.743440138Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Carrd",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google My Business",
-      "Hasnode",
-      "InitiativeS",
-      "Medium",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "techie.cn",
-    "title": "Techie.cn",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2025-12-18T07:07:32.73775787Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Google Tag Manager",
-      "Hasnode",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pico CSS",
-      "Pleroma",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "adityatrivedi.in",
-    "title": "Aditya Trivedi",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 64676,
-    "crawled_at": "2025-12-17T23:19:32.732666798Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Contentstack",
-      "Express",
-      "GitHub Hosting",
-      "Hasnode",
-      "Next.js",
-      "OpenAI",
-      "Python",
-      "SMC",
-      "Sanity",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "YouTube",
       "shadcn ui"
     ]
   }
