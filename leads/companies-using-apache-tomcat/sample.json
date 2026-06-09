@@ -1,5 +1,32 @@
 [
   {
+    "domain": "diegobloise.com",
+    "title": "Diego Bloise - Full Stack Software Engineer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 2640,
+    "crawled_at": "2026-06-09T22:12:00.734985856Z",
+    "technologies": [
+      "Amazon",
+      "Apache",
+      "Apache Tomcat JK",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "Next.js",
+      "Nginx",
+      "Ntent",
+      "Pleroma",
+      "Python",
+      "RawGit",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "detectivequick.com",
     "title": "DETECTIVE DICK QUICK - a new series from ATIQ by ATIQ",
     "business_name": "",
@@ -14294,32 +14321,6 @@
       "Twitter Ads",
       "Unix",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "diegobloise.com",
-    "title": "Diego Bloise - Full Stack Software Engineer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 240,
-    "crawled_at": "2025-12-18T20:07:32.742448563Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Next.js",
-      "Nginx",
-      "Ntent",
-      "Pleroma",
-      "Python",
-      "RawGit",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
