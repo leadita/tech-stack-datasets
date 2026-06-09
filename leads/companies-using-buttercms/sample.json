@@ -1,5 +1,30 @@
 [
   {
+    "domain": "fanakagrowers.com",
+    "title": "Fanaka Growers & Produce Ltd | Climate-Smart Agroforestry Solutions",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 374,
+    "crawled_at": "2026-06-09T10:03:37.186960617Z",
+    "technologies": [
+      "ButterCMS",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cornerstone",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "Icons8",
+      "InitiativeS",
+      "QUIC",
+      "WordPress",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "joeysikes.com",
     "title": "Joey Sikes - Senior UI Engineer",
     "business_name": "",
@@ -2130,31 +2155,6 @@
       "UTF-8",
       "University or College",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "fanakagrowers.com",
-    "title": "Fanaka Growers & Produce Ltd | Climate-Smart Agroforestry Solutions",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 374,
-    "crawled_at": "2025-12-18T10:46:32.750479953Z",
-    "technologies": [
-      "ButterCMS",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cornerstone",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Icons8",
-      "InitiativeS",
-      "QUIC",
-      "WordPress",
-      "jsDelivr"
     ]
   }
 ]
