@@ -1,29 +1,76 @@
 [
   {
-    "domain": "casinotalkdaily.co.uk",
-    "title": "Casino Talk Daily: UK Gambling News, Tips, and Reviews",
+    "domain": "localnest.au",
+    "title": "LocalNest AU: Discover Local Gems and Community Insights",
     "business_name": "",
-    "country": "GBR",
-    "seo_score": 87,
-    "tech_spend": 125156,
-    "crawled_at": "2026-06-07T16:08:10.225261922Z",
+    "country": "SGP",
+    "seo_score": 77,
+    "tech_spend": 32756,
+    "crawled_at": "2026-06-08T18:24:28.182365765Z",
     "technologies": [
-      "About Cookies",
+      "Amazon WAF Blocked",
+      "Angular",
       "Bulma",
       "Cloudflare",
       "Cloudflare CDN",
+      "Cloudflare Web Analytics",
       "Content Delivery Network",
       "Django",
+      "Fireblade",
       "Gambling Content",
+      "Help.com",
       "IcoMoon",
       "Matomo",
       "Matomo Tag Manager",
-      "Oracle Cloud",
-      "QUIC",
-      "Salesforce Experience Cloud",
+      "RegOnline",
       "Tailwind CSS",
       "UTF-8",
+      "Way",
       "jQuery"
+    ]
+  },
+  {
+    "domain": "irisheupassport.com",
+    "title": "Irish/ EU passport",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2268,
+    "crawled_at": "2026-06-08T18:17:21.466201954Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "Perl",
+      "QUIC",
+      "eLand",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "culturenetics.de",
+    "title": "INQA-Coaching | Home",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 82,
+    "tech_spend": 31260,
+    "crawled_at": "2026-06-08T17:04:35.1964115Z",
+    "technologies": [
+      "Apache",
+      "B12",
+      "DAV",
+      "Django",
+      "Drift",
+      "GitHub Hosting",
+      "Google My Business",
+      "Line2",
+      "Perl",
+      "QUIC"
     ]
   },
   {
@@ -9672,50 +9719,6 @@
       "UTF-8",
       "Ubuntu",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "irisheupassport.com",
-    "title": "Irish/ EU passport",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2268,
-    "crawled_at": "2025-12-17T23:19:32.753072237Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "eLand",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "culturenetics.de",
-    "title": "INQA-Coaching | Home",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 72,
-    "tech_spend": 31260,
-    "crawled_at": "2025-12-17T22:28:32.756544131Z",
-    "technologies": [
-      "Apache",
-      "B12",
-      "DAV",
-      "Django",
-      "Drift",
-      "GitHub Hosting",
-      "Google My Business",
-      "Line2",
-      "Perl",
-      "QUIC"
     ]
   }
 ]

@@ -1,5 +1,43 @@
 [
   {
+    "domain": "fishinallthetimeguideservice.com",
+    "title": "Rockport Fishing Charters | Fishin' All The Time Guide Service",
+    "business_name": "Fishin&apos; All The Time Guide Service",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 20322,
+    "crawled_at": "2026-06-08T23:56:19.970077777Z",
+    "technologies": [
+      "Adult Content",
+      "Amazon",
+      "Amazon API Gateway",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "DoubleClick Bid Manager",
+      "Fastly",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Maps",
+      "Harbor",
+      "Heap",
+      "Hubspot",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Stripe",
+      "Tailwind CSS",
+      "The Deck",
+      "UTF-8",
+      "Vimeo",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "onemorecastwithjp.com",
     "title": "Lake of the Ozarks Fishing Guide | Expert Fishing Charters",
     "business_name": "One More Cast with Jp&apos;s Guide Services",
@@ -17260,31 +17298,6 @@
       "Tailwind CSS",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "nziswano.co.za",
-    "title": "index | Nziswano Digital Agency",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 1788,
-    "crawled_at": "2026-04-08T10:26:20.035826122Z",
-    "technologies": [
-      "Amazon API Gateway",
-      "Automattic",
-      "Better Lead Generation Services",
-      "Cloudinary",
-      "Content Delivery Network",
-      "Express",
-      "Fastly",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Tailwind CSS",
-      "UTF-8",
-      "reCAPTCHA"
     ]
   }
 ]
