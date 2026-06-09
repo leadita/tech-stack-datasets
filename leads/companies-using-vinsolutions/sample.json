@@ -1,5 +1,36 @@
 [
   {
+    "domain": "nickstarr.com",
+    "title": "Nick Starr | Popl",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 20603,
+    "crawled_at": "2026-06-08T22:41:26.490151018Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Fireblade",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Material-UI",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Salesforce Hosted",
+      "Twitter Ads",
+      "UTF-8",
+      "VinSolutions",
+      "WhatsApp Sharing",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "premiovin.com",
     "title": "Premiovin Solutions Nigeria Limited",
     "business_name": "",
