@@ -1,5 +1,34 @@
 [
   {
+    "domain": "aspirejobszone.com",
+    "title": "Aspire HR Services | Recruitment Agency | Best Manpower Company in Nepal",
+    "business_name": "",
+    "country": "NPL",
+    "seo_score": 72,
+    "tech_spend": 2440,
+    "crawled_at": "2026-06-09T11:21:44.266811031Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "Fastly",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Nginx",
+      "QUIC",
+      "Semantic UI",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "abamagolf.com",
     "title": "Abama Golf, enjoy the best golf course in Tenerife, Canary Islands",
     "business_name": "",
@@ -14535,40 +14564,6 @@
       "Ubuntu",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "clubsolarisvip.com",
-    "title": "Club Solaris VIP — Members Login",
-    "business_name": "Royal Solaris",
-    "country": "PHL",
-    "seo_score": 77,
-    "tech_spend": 19469,
-    "crawled_at": "2026-04-11T20:44:19.995483171Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fireblade",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Kommunicate",
-      "Microdata for Google Shopping",
-      "PWA",
-      "Semantic UI",
-      "Tawk",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "Yandex Hosting",
-      "Yelp Badge",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
