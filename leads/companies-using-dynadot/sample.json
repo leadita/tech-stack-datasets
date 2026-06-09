@@ -1,5 +1,27 @@
 [
   {
+    "domain": "2dmap.com",
+    "title": "An EMDN - 2D map, Numbers Digits Cartography Geographic Information System Spatial Data Topographic Mapping Visualization Navigation Location Analysis Mapping Software",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 36,
+    "crawled_at": "2026-06-09T00:14:01.358678387Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "medicalsupply.net",
     "title": "Build Your Brand",
     "business_name": "",
@@ -55,28 +77,6 @@
       "ElementUI",
       "GZIP Module",
       "Microdata for Google Shopping",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "megaable.com",
-    "title": "An EMDN - Mega Able, Powerful Solutions Strong Performance Innovative Technology High Capacity Exceptional Capability Advanced Systems Reliability",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 36,
-    "crawled_at": "2026-06-06T12:09:30.827263335Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
       "UTF-8"
     ]
   },
