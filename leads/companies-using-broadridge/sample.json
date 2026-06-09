@@ -3499,36 +3499,5 @@
       "reCAPTCHA",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "singletrackfinancial.com",
-    "title": "Investment Management Services | Single Track Financial",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 15160,
-    "crawled_at": "2025-12-18T05:59:32.547359289Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "AJAX Libraries API",
-      "Add to Any",
-      "Backdrop",
-      "Broadridge Advisor Solutions",
-      "Content Delivery Network",
-      "Drupal",
-      "Financial Industry Regulatory Authority",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Tag Manager",
-      "Nginx",
-      "PHP",
-      "QUIC",
-      "SiteW",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "jQuery",
-      "jsDelivr"
-    ]
   }
 ]
