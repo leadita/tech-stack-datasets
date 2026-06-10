@@ -1,5 +1,94 @@
 [
   {
+    "domain": "qubixproductions.com",
+    "title": "Qubix Productions",
+    "business_name": "",
+    "country": "VEN",
+    "seo_score": 62,
+    "tech_spend": 2668,
+    "crawled_at": "2026-06-10T12:17:19.968476299Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "PWA",
+      "Tailwind CSS",
+      "UTF-8",
+      "WhatsApp Sharing"
+    ]
+  },
+  {
+    "domain": "lab07.nl",
+    "title": "LAB07.nl - LAB07.nl",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 65,
+    "tech_spend": 1268,
+    "crawled_at": "2026-06-10T04:36:05.121511604Z",
+    "technologies": [
+      "Bulma",
+      "Content Delivery Network",
+      "Directus",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "UTF-8",
+      "eLand",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "jamstacky.com",
+    "title": "#1 White Label Jamstack Development Agency USA | Hire Jamstack Developer",
+    "business_name": "#1 White Label Jamstack Development Agency USA | Hire Jamstack Developer",
+    "country": "IND",
+    "seo_score": 82,
+    "tech_spend": 72545,
+    "crawled_at": "2026-06-10T03:59:56.650914166Z",
+    "technologies": [
+      "Agility CMS",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Contentstack",
+      "Craft",
+      "DAV",
+      "Directus",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gridsome",
+      "Heroku",
+      "Hexo",
+      "Idaq",
+      "Jekyll",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Next.js",
+      "No-Q",
+      "Payload CMS",
+      "Pleroma",
+      "QUIC",
+      "SMC",
+      "Sanity",
+      "Scully",
+      "Subversion",
+      "Tailwind CSS",
+      "Telegram",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "akduba.cz",
     "title": "DUBA LEGAL | advokátní kancelář",
     "business_name": "",
@@ -2767,30 +2856,6 @@
       "WordPress",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "qubixproductions.com",
-    "title": "Qubix Productions",
-    "business_name": "",
-    "country": "VEN",
-    "seo_score": 62,
-    "tech_spend": 2668,
-    "crawled_at": "2026-05-12T08:51:24.275943896Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "PWA",
-      "Tailwind CSS",
-      "UTF-8",
-      "WhatsApp Sharing"
     ]
   },
   {
@@ -11960,55 +12025,6 @@
       "Nginx",
       "Tailwind CSS",
       "Twitter Ads"
-    ]
-  },
-  {
-    "domain": "beambop.com",
-    "title": "BeamBop",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-01-24T12:33:17.151215536Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Gridsome",
-      "Netlify",
-      "QUIC",
-      "SiteW",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress"
-    ]
-  },
-  {
-    "domain": "crediva.bg",
-    "title": "Crediva.bg 🏡 Кредит с ипотека за Потребителски и Бизнес цели - Crediva",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 100270,
-    "crawled_at": "2026-01-24T08:22:08.860612937Z",
-    "technologies": [
-      "Apache",
-      "DAV",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Gridsome",
-      "Idaq",
-      "K2F",
-      "KVH",
-      "No-Q",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "shadcn ui"
     ]
   }
 ]

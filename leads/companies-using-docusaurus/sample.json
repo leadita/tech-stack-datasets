@@ -1,5 +1,74 @@
 [
   {
+    "domain": "piercecohen.com",
+    "title": "Pierce Cohen | AI Engineer",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 228,
+    "crawled_at": "2026-06-10T07:46:57.665172626Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Netlify",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "blikvm.com",
+    "title": "Welcome to BliKVM | BliKVM",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": "",
+    "crawled_at": "2026-06-10T03:51:10.116327836Z",
+    "technologies": [
+      "AliExpress",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Discord",
+      "Docusaurus",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Nginx",
+      "Perl",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "fdc3.org",
+    "title": "FDC3",
+    "business_name": "",
+    "country": "FLK",
+    "seo_score": 60,
+    "tech_spend": 15108,
+    "crawled_at": "2026-06-10T01:21:19.142933317Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CM Commerce",
+      "ChartIQ",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "Docusaurus",
+      "Express",
+      "GitHub Buttons Official",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Calendar",
+      "Google My Business",
+      "Google Tag Manager",
+      "Netlify",
+      "Perl",
+      "Slack",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "opendata.cam",
     "title": "OpenDataCam",
     "business_name": "",
@@ -337,24 +406,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "cohenlabs.dev",
-    "title": "Pierce Cohen | AI Engineer",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-05-30T03:09:52.39562724Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Netlify",
-      "Perl",
-      "UTF-8"
     ]
   },
   {
@@ -12761,53 +12812,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vector Internet Services"
-    ]
-  },
-  {
-    "domain": "bsql.org",
-    "title": "bSQL | bSQL",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-02-23T06:14:44.724859424Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Perl",
-      "Python",
-      "QUIC",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "amantel.de",
-    "title": "Alexander Mantel's Homepage",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 3868,
-    "crawled_at": "2026-02-22T12:42:06.832745416Z",
-    "technologies": [
-      "ArvanCloud",
-      "CM Commerce",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Material-UI",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "UTF-8",
-      "Vercel",
-      "jsDelivr"
     ]
   }
 ]
