@@ -1,5 +1,27 @@
 [
   {
+    "domain": "movemate.ng",
+    "title": "MoveMate – Fast, Reliable Delivery in Nigeria",
+    "business_name": "",
+    "country": "NGA",
+    "seo_score": 52,
+    "tech_spend": 10783,
+    "crawled_at": "2026-06-10T09:09:11.360420415Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Contento",
+      "Fastly",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "OpenResty",
+      "QUIC",
+      "UTF-8",
+      "Zoho Books"
+    ]
+  },
+  {
     "domain": "runitsoftwaresolutions.com",
     "title": "Home – Packing Equipment & Parts",
     "business_name": "Packing Equipment &amp; Parts",
@@ -1650,28 +1672,6 @@
       "Subversion",
       "UTF-8",
       "University or College",
-      "Zoho Books"
-    ]
-  },
-  {
-    "domain": "movemate.com.ng",
-    "title": "MoveMate – Fast, Reliable Delivery in Nigeria",
-    "business_name": "",
-    "country": "NGA",
-    "seo_score": 52,
-    "tech_spend": 10783,
-    "crawled_at": "2026-01-23T09:01:50.641049088Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Contento",
-      "Fastly",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "OpenResty",
-      "QUIC",
-      "UTF-8",
       "Zoho Books"
     ]
   },
