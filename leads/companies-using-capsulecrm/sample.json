@@ -1,5 +1,37 @@
 [
   {
+    "domain": "jdadigital.co.uk",
+    "title": "Home-New – JDA Digital Ltd",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 79387,
+    "crawled_at": "2026-06-09T15:32:19.969697748Z",
+    "technologies": [
+      "CapsuleCRM",
+      "DAV",
+      "EmbedPress",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google No Site Links Search",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "KVH",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "No-Q",
+      "Perl",
+      "QUIC",
+      "RM Education",
+      "SMC",
+      "Subversion",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "reviewsmaker.com",
     "title": "Reviewsmaker: Tools for Small Businesses",
     "business_name": "",
