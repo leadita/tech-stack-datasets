@@ -1,5 +1,35 @@
 [
   {
+    "domain": "3dcork.com",
+    "title": "3DCORK - Cork products for daily life. Made in Portugal.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 20660,
+    "crawled_at": "2026-06-10T03:59:56.646406182Z",
+    "technologies": [
+      "Bing Cashback",
+      "Bing Conversion Tracking",
+      "Financial Services Guide",
+      "Fireblade",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LandBot",
+      "LinkedIn Insights",
+      "LinkedIn Pixel",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Tailwind CSS",
+      "UTF-8",
+      "Visual Studio"
+    ]
+  },
+  {
     "domain": "econetic.online",
     "title": "econetic",
     "business_name": "",
@@ -16685,35 +16715,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "3dcork.com",
-    "title": "3DCORK - Cork products for daily life. Made in Portugal.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 20660,
-    "crawled_at": "2025-12-19T00:35:56.391348292Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "Bing Cashback",
-      "Bing Conversion Tracking",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LandBot",
-      "LinkedIn Insights",
-      "LinkedIn Pixel",
-      "Microsoft Azure",
-      "Tailwind CSS",
-      "UTF-8",
-      "Visual Studio"
     ]
   }
 ]
