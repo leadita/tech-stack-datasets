@@ -1,5 +1,36 @@
 [
   {
+    "domain": "mybellin.org",
+    "title": "MyChart - Login Page",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 32654,
+    "crawled_at": "2026-06-10T00:02:19.97368614Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "DAV",
+      "Financial Services Guide",
+      "GZIP Module",
+      "IPFS",
+      "IcoMoon",
+      "K2F",
+      "Kaltura",
+      "No-Q",
+      "Perl",
+      "QUIC",
+      "SMC",
+      "Smart App Banner",
+      "Storyblocks",
+      "Subversion",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "ssas-yearbook.com",
     "title": "Yearbook of Swiss Administrative Sciences",
     "business_name": "",
