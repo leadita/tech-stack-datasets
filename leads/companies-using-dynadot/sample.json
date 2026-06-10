@@ -1,12 +1,12 @@
 [
   {
-    "domain": "2dmap.com",
-    "title": "An EMDN - 2D map, Numbers Digits Cartography Geographic Information System Spatial Data Topographic Mapping Visualization Navigation Location Analysis Mapping Software",
+    "domain": "pivotalcentre.com",
+    "title": "An EMDN - Pivotal Centre, Innovation Hub Strategic Leadership Business Solutions Collaborative Workspace Technology Focused Development Growth Accelerator",
     "business_name": "",
     "country": "",
-    "seo_score": 57,
-    "tech_spend": 36,
-    "crawled_at": "2026-06-09T00:14:01.358678387Z",
+    "seo_score": 62,
+    "tech_spend": 120,
+    "crawled_at": "2026-06-10T14:52:09.554440609Z",
     "technologies": [
       "Amazon CloudFront",
       "Apture Linking Platform",
@@ -19,6 +19,48 @@
       "Microdata for Google Shopping",
       "Microsoft Clarity",
       "UTF-8"
+    ]
+  },
+  {
+    "domain": "zakara.art",
+    "title": "Zakara Galería",
+    "business_name": "",
+    "country": "CHL",
+    "seo_score": 72,
+    "tech_spend": 10120,
+    "crawled_at": "2026-06-10T08:44:19.971051539Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "BLR",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "blumass.com",
+    "title": "Domains For Sale All Offers to leo@dc.vc",
+    "business_name": "",
+    "country": "",
+    "seo_score": 25,
+    "tech_spend": 72,
+    "crawled_at": "2026-06-09T22:26:19.968418349Z",
+    "technologies": [
+      "DAV",
+      "DreamHost Hosting",
+      "Dynadot",
+      "Express",
+      "Gambling Content",
+      "LiteSpeed",
+      "QUIC",
+      "University or College"
     ]
   },
   {
@@ -2379,25 +2421,6 @@
       "Tumblr",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "biorada.com",
-    "title": "Domains For Sale All Offers to leo@dc.vc",
-    "business_name": "",
-    "country": "",
-    "seo_score": 25,
-    "tech_spend": 72,
-    "crawled_at": "2026-04-26T14:26:20.01460348Z",
-    "technologies": [
-      "DAV",
-      "DreamHost Hosting",
-      "Dynadot",
-      "Express",
-      "Gambling Content",
-      "LiteSpeed",
-      "QUIC",
-      "University or College"
     ]
   },
   {
