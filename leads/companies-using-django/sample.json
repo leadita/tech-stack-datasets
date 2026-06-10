@@ -1,5 +1,31 @@
 [
   {
+    "domain": "taxalternativegroup.com",
+    "title": "Tax Alternative Group | Poughkeepsie, NY Tax Professionals",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 77,
+    "tech_spend": 22460,
+    "crawled_at": "2026-06-09T14:15:01.196624298Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "B12",
+      "Calendly",
+      "DAV",
+      "DC74",
+      "Django",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Perl",
+      "QUIC",
+      "Twitter Ads",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "localnest.au",
     "title": "LocalNest AU: Discover Local Gems and Community Insights",
     "business_name": "",
@@ -9516,32 +9542,6 @@
       "Google My Business",
       "QUIC",
       "University or College"
-    ]
-  },
-  {
-    "domain": "tag.tax",
-    "title": "Tax Alternative Group | Poughkeepsie, NY Tax Professionals",
-    "business_name": "",
-    "country": "ITA",
-    "seo_score": 77,
-    "tech_spend": 22460,
-    "crawled_at": "2025-12-25T06:43:38.355473Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "B12",
-      "Calendly",
-      "DAV",
-      "DC74",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "Twitter Ads",
-      "YouTube",
-      "reCAPTCHA"
     ]
   },
   {
