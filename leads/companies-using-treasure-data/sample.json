@@ -2229,36 +2229,5 @@
       "Wufoo",
       "YouTube"
     ]
-  },
-  {
-    "domain": "trygroceryshop.com",
-    "title": "Where grocery, CPG, technology & innovation intersect – Groceryshop 2025: The Leading Event for Grocery & CPG",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 112639,
-    "crawled_at": "2025-12-19T03:46:32.766895587Z",
-    "technologies": [
-      "Bazaarvoice",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Tag Manager",
-      "HubSpot Conversations",
-      "Hubspot",
-      "Instagram Follow Button",
-      "Microsoft Azure",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "Treasure Data",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "jsDelivr",
-      "shadcn ui"
-    ]
   }
 ]
