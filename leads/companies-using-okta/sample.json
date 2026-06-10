@@ -1,5 +1,50 @@
 [
   {
+    "domain": "bridgeschool.io",
+    "title": "Bridge",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 21528,
+    "crawled_at": "2026-06-10T00:15:02.396165944Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Crowdriff",
+      "DAV",
+      "Figma",
+      "Gatsby JS",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Hootsuite Badge",
+      "Instagram Follow Button",
+      "Medium",
+      "Netlify",
+      "Okta",
+      "PagerDuty",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "mythic.nz",
+    "title": "Mythic - Free online tool for tabletop RPG content",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 67,
+    "tech_spend": 2556,
+    "crawled_at": "2026-06-09T16:15:22.373822258Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "IcoMoon",
+      "Netlify",
+      "Okta",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "oaklandbbf.org",
     "title": "Oakland Black Business Fund – Empowering Black businesses with capital, technical assistance, and strategy.",
     "business_name": "",
@@ -20884,50 +20929,6 @@
       "Visual Website Optimizer",
       "Wrike",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "bridgeschool.io",
-    "title": "Bridge",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 21276,
-    "crawled_at": "2025-12-18T21:46:32.733746553Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Crowdriff",
-      "DAV",
-      "Figma",
-      "Gatsby JS",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hootsuite Badge",
-      "Instagram Follow Button",
-      "Medium",
-      "Netlify",
-      "Okta",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "mythic.nz",
-    "title": "Mythic - Free online tool for tabletop RPG content",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 67,
-    "tech_spend": 2556,
-    "crawled_at": "2025-12-18T15:19:32.755976742Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Corporate Governance and Regulatory Compliance",
-      "IcoMoon",
-      "Netlify",
-      "Okta",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
