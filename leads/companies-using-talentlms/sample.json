@@ -1,5 +1,32 @@
 [
   {
+    "domain": "lwchristian.com",
+    "title": "Lake Wylie Christian | Experience God’s Love",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 26150,
+    "crawled_at": "2026-06-10T07:15:41.177682111Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "Create React App",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "KVH",
+      "Line2",
+      "Pleroma",
+      "Styled Components",
+      "TalentLMS",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "alphabetadisability.com.au",
     "title": "Home - Alpha Beta Disability",
     "business_name": "Alpha Beta Disability",
@@ -9877,34 +9904,6 @@
       "UTF-8",
       "University or College",
       "eLand"
-    ]
-  },
-  {
-    "domain": "lwchristian.com",
-    "title": "Lake Wylie Christian | Experience God’s Love",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 51150,
-    "crawled_at": "2025-12-19T03:04:32.753023719Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CloudFront",
-      "Content Delivery Network",
-      "Create React App",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "K2F",
-      "KVH",
-      "Line2",
-      "Pleroma",
-      "Styled Components",
-      "TalentLMS",
-      "YouTube"
     ]
   }
 ]
