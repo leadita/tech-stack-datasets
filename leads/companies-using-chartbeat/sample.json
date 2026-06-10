@@ -17947,40 +17947,5 @@
       "YouTube",
       "jQuery"
     ]
-  },
-  {
-    "domain": "aishealth.com",
-    "title": "AIS Health - MMIT",
-    "business_name": "AIS Health",
-    "country": "VAT",
-    "seo_score": 72,
-    "tech_spend": 50412,
-    "crawled_at": "2025-12-18T20:19:32.733908264Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "Aruba",
-      "CDN JS",
-      "Chartbeat",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GetResponse",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "ShareThis",
-      "Shopify",
-      "Shopify Collabs",
-      "Twitter Ads",
-      "UTF-8",
-      "VWO Engage",
-      "Visual Website Optimizer",
-      "Weglot",
-      "eLand",
-      "hCaptcha",
-      "jQuery",
-      "reCAPTCHA"
-    ]
   }
 ]
