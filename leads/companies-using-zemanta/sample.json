@@ -1,5 +1,34 @@
 [
   {
+    "domain": "jinyufastener.com",
+    "title": "Fastener Manufacturer, Custom Fasteners Supplier, Industrial Fasteners - Haiyanbolt.com",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 77,
+    "tech_spend": 5207,
+    "crawled_at": "2026-06-10T12:02:19.969900835Z",
+    "technologies": [
+      "ContentViews",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "LiteSpeed",
+      "PHP",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "Zemanta",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "olandijoslietuviai.lt",
     "title": "Olandijos Lietuviai | Populiariausias portalas Olandijos lietuviams",
     "business_name": "",
