@@ -1,5 +1,37 @@
 [
   {
+    "domain": "lmgeventco.com",
+    "title": "LMG Event Co. - Luxe Children's Events in the Greater Toronto Area",
+    "business_name": "LMG Event Co.",
+    "country": "CAN",
+    "seo_score": 67,
+    "tech_spend": 2134,
+    "crawled_at": "2026-06-10T19:24:21.461799378Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Drip",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LeadPages",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Sitelinks Search Box",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "Ultra",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "happyhighachiever.com",
     "title": "Happy High Achiever | Career Coach",
     "business_name": "",
@@ -3050,38 +3082,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "lmgeventco.com",
-    "title": "LMG Event Co. - Luxe Children's Events in the Greater Toronto Area",
-    "business_name": "LMG Event Co.",
-    "country": "CAN",
-    "seo_score": 67,
-    "tech_spend": 2134,
-    "crawled_at": "2025-12-19T11:25:32.766435072Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Drip",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LeadPages",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Sitelinks Search Box",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "Ultra",
-      "WordPress",
-      "WordPress Multisite",
       "jQuery"
     ]
   }
