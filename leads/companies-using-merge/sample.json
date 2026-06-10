@@ -1182,39 +1182,5 @@
       "Tailwind CSS",
       "Twitter Ads"
     ]
-  },
-  {
-    "domain": "theanshuman.dev",
-    "title": "Anshuman Bhardwaj | Software Engineer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 164952,
-    "crawled_at": "2025-12-19T07:01:32.754397768Z",
-    "technologies": [
-      "Auth0",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "LogRocket",
-      "Medium",
-      "Merge",
-      "Next.js",
-      "Notion",
-      "Pleroma",
-      "QUIC",
-      "Sanity",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "Way",
-      "Webflow",
-      "WordPress",
-      "YouTube",
-      "commercetools",
-      "reCAPTCHA",
-      "shadcn ui"
-    ]
   }
 ]
