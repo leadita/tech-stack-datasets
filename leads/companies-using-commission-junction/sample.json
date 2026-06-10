@@ -1,5 +1,32 @@
 [
   {
+    "domain": "ziplocarabia.com",
+    "title": "Contact Us | SC Johnson",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 50165,
+    "crawled_at": "2026-06-10T03:51:10.117385127Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Commission Junction",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Line2",
+      "Next.js",
+      "Perl",
+      "Pleroma",
+      "Sitecore CMS",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "fitslabs.com",
     "title": "FitsLabs - Find Pants That Actually Fit | Size Comparison Tool",
     "business_name": "",
@@ -166,33 +193,6 @@
       "UTF-8",
       "eLand",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "babyganics.com.co",
-    "title": "Contact Us | SC Johnson",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 50165,
-    "crawled_at": "2026-06-07T10:47:40.451987536Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Commission Junction",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Line2",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "Sitecore CMS",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "eLand",
-      "shadcn ui"
     ]
   },
   {

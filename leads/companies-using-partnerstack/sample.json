@@ -12337,35 +12337,5 @@
       "YouTube",
       "jQuery"
     ]
-  },
-  {
-    "domain": "vertumedic.com",
-    "title": "Vertu Medic",
-    "business_name": "",
-    "country": "IMN",
-    "seo_score": 67,
-    "tech_spend": 32308,
-    "crawled_at": "2025-12-18T23:28:32.731401708Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "AthenaHealth",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "PartnerStack",
-      "QUIC",
-      "Tailwind CSS",
-      "WF Cookie Consent",
-      "eLand"
-    ]
   }
 ]
