@@ -1,5 +1,46 @@
 [
   {
+    "domain": "tpvsnportal.eu",
+    "title": "TPVsnportal",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 840,
+    "crawled_at": "2026-06-10T08:38:13.727521147Z",
+    "technologies": [
+      "Apache",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fastly",
+      "Semantic UI",
+      "StackPath",
+      "UTF-8",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "electricistajavea.com",
+    "title": "Electricista Javea - Servicios Eléctricos Profesionales en Javea",
+    "business_name": "Electricista Javea",
+    "country": "ESP",
+    "seo_score": 72,
+    "tech_spend": 26200,
+    "crawled_at": "2026-06-09T17:06:52.913978484Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Express",
+      "Google My Business",
+      "K2F",
+      "Microdata for Google Shopping",
+      "Semantic UI",
+      "TermsFeed",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "aspirejobszone.com",
     "title": "Aspire HR Services | Recruitment Agency | Best Manpower Company in Nepal",
     "business_name": "",
@@ -646,34 +687,6 @@
       "UTF-8",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "lorfm.com",
-    "title": "LORFM - la radio Lorraine | Actualités en Lorraine",
-    "business_name": "LORFM - La radio Lorraine",
-    "country": "ECU",
-    "seo_score": 77,
-    "tech_spend": 26200,
-    "crawled_at": "2026-06-02T18:22:19.30335177Z",
-    "technologies": [
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DAV",
-      "Express",
-      "GZIP Module",
-      "Gambling Content",
-      "Google My Business",
-      "K2F",
-      "Microdata for Google Shopping",
-      "Semantic UI",
-      "TermsFeed",
-      "UTF-8",
-      "YouTube",
-      "jQuery",
-      "reCAPTCHA"
     ]
   },
   {
@@ -14537,33 +14550,6 @@
       "UTF-8",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "stikcredit.eu",
-    "title": "stikcredit | A safe marketplace for investing in loans.",
-    "business_name": "",
-    "country": "BGR",
-    "seo_score": 77,
-    "tech_spend": 2440,
-    "crawled_at": "2026-04-12T00:02:20.027679475Z",
-    "technologies": [
-      "DoubleClick Bid Manager",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Nginx",
-      "Semantic UI",
-      "Subversion",
-      "Twitter Ads",
-      "UTF-8",
-      "Ubuntu",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
