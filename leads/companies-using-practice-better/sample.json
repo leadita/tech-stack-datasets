@@ -1,5 +1,23 @@
 [
   {
+    "domain": "sweatequitywellness.com",
+    "title": "Holistic Health Coaching | Sweat Equity Wellness",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 684,
+    "crawled_at": "2026-06-10T23:23:04.66104829Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "FormSubmit",
+      "Instagram Follow Button",
+      "Practice Better",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "lifepursuitsnutrition.com",
     "title": "Life Pursuits Nutrition – Pursuing a LIFETIME of Wellness",
     "business_name": "",
@@ -17354,37 +17372,6 @@
       "Squarespace",
       "UTF-8",
       "University or College",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "organicauranutrition.com",
-    "title": "Organic Aura",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 952,
-    "crawled_at": "2026-05-04T08:05:20.00863657Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "Linktree",
-      "Microdata for Google Shopping",
-      "Practice Better",
-      "QUIC",
-      "Squarespace",
-      "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
     ]
