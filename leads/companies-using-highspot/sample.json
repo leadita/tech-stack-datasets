@@ -1,5 +1,35 @@
 [
   {
+    "domain": "theguidancecenterbenefits.com",
+    "title": "Open Enrollment Resource Center",
+    "business_name": "",
+    "country": "",
+    "seo_score": 70,
+    "tech_spend": 81688,
+    "crawled_at": "2026-06-10T22:44:59.742717535Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Brainshark",
+      "Content Delivery Network",
+      "Express",
+      "Fastly",
+      "Fastly CDN",
+      "Highspot",
+      "Microdata for Google Shopping",
+      "PWA",
+      "QUIC",
+      "Seflow Italy",
+      "Sentry",
+      "UTF-8",
+      "Vector Internet Services",
+      "Wix",
+      "Wix Media",
+      "eLand",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "introwconsulting.com",
     "title": "Introw PRM - The #1 Partner Portal on top of your CRM",
     "business_name": "Introw",
