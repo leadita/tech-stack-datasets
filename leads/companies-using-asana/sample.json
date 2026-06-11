@@ -1,5 +1,37 @@
 [
   {
+    "domain": "buy2greece.com",
+    "title": "Promotion and Advertising of Properties Abroad :: Property For Sales :: - Buy2greece International",
+    "business_name": "Buy2greece International",
+    "country": "GRC",
+    "seo_score": 77,
+    "tech_spend": 7457,
+    "crawled_at": "2026-06-11T05:47:58.824351549Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Asana",
+      "Botble",
+      "DAV",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Parallels Plesk Panel",
+      "Parcel",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "hardlandenterprise.com",
     "title": "Hardland Enterprise",
     "business_name": "",
@@ -5467,37 +5499,6 @@
       "Tailwind CSS",
       "Trello",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "findingestate.com",
-    "title": "Promotion and Advertising of Properties Abroad :: Property For Sales :: - Buy2greece International",
-    "business_name": "Buy2greece International",
-    "country": "GRC",
-    "seo_score": 77,
-    "tech_spend": 7457,
-    "crawled_at": "2026-05-12T01:56:19.982483919Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Asana",
-      "Botble",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Parallels Plesk Panel",
-      "Parcel",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "jQuery",
-      "reCAPTCHA"
     ]
   },
   {
