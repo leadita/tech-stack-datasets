@@ -1,12 +1,12 @@
 [
   {
-    "domain": "santadigitalfiles.com",
-    "title": "Santa Photos - Snaptastic",
+    "domain": "lexcathpics.com",
+    "title": "password - Scott Vish",
     "business_name": "",
     "country": "",
-    "seo_score": 42,
+    "seo_score": 35,
     "tech_spend": 23286,
-    "crawled_at": "2026-06-09T05:05:44.857397586Z",
+    "crawled_at": "2026-06-10T19:06:25.502951582Z",
     "technologies": [
       "AB Tasty",
       "Amazon",
@@ -14,7 +14,6 @@
       "Amazon Route 53",
       "CloudFront",
       "Content Delivery Network",
-      "DAV",
       "Fastly",
       "Fireblade",
       "GZIP Module",
