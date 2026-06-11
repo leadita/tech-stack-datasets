@@ -9761,40 +9761,5 @@
       "YouTube",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "sealandaire.com",
-    "title": "SeaLandAire Technologies Inc | Sonobuoy Research and Development | Jackson, Michigan, USA",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 123255,
-    "crawled_at": "2025-12-19T18:11:30.665410254Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Endis",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PWA",
-      "QUIC",
-      "Recruitee",
-      "SMC",
-      "SiteW",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "eLand",
-      "mlcom"
-    ]
   }
 ]

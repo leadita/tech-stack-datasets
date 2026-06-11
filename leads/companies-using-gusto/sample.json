@@ -1,5 +1,26 @@
 [
   {
+    "domain": "devranca.net",
+    "title": "Devran Ocakdan Online Portfolio",
+    "business_name": "",
+    "country": "TUR",
+    "seo_score": 65,
+    "tech_spend": 1859,
+    "crawled_at": "2026-06-11T08:17:10.731486874Z",
+    "technologies": [
+      "BootstrapMade",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Gusto",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "project51o.com",
     "title": "Project 51O - Oakland Roots SC",
     "business_name": "Oakland Roots SC",
@@ -18622,37 +18643,6 @@
       "Xero",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "batadvs.com",
-    "title": "B.A.T.A. Developmental Services LLC | Enhance Skills Today",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 125573,
-    "crawled_at": "2026-01-05T08:37:08.387981454Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Contento",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gusto",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
