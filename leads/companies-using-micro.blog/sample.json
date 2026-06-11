@@ -1,5 +1,24 @@
 [
   {
+    "domain": "stoneman.page",
+    "title": "Stoneman's Corner",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 60,
+    "crawled_at": "2026-06-11T04:52:34.377105142Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Micro.blog",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "liquidglass.fail",
     "title": "LiquidGlass.Fail 💩",
     "business_name": "",
@@ -7842,25 +7861,6 @@
     ]
   },
   {
-    "domain": "stoneman.blog",
-    "title": "short links for markstoneman.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 60,
-    "crawled_at": "2025-12-27T01:04:38.315268537Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Micro.blog",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "redrockmicro.com",
     "title": "Redrock Micro | Cinema Gear – Filmmaking Solutions – Redrock Micro – Camera rigs, camera accessories, and filmmaking equipment for modern video production",
     "business_name": "",
@@ -8286,58 +8286,6 @@
       "Micro.blog",
       "Tailwind CSS",
       "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "chrismania.au",
-    "title": "An idea: Chrismania, aka Christmas in July in Tasmania | With ers Without You",
-    "business_name": "",
-    "country": "NZL",
-    "seo_score": 72,
-    "tech_spend": 120,
-    "crawled_at": "2025-12-19T21:01:32.751238693Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Micro.blog",
-      "Perl",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "mysticmikester.com",
-    "title": "Mystic Mikester – The world we are building is already inside us",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 404,
-    "crawled_at": "2025-12-19T12:13:32.734461353Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "EmbedPress",
-      "Facebook CDN",
-      "GZIP Module",
-      "Jetpack",
-      "Micro.blog",
-      "Nginx",
-      "PHP",
-      "Parallels Plesk Panel",
-      "QUIC",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
       "shadcn ui"
     ]
   }
