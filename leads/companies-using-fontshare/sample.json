@@ -1,5 +1,51 @@
 [
   {
+    "domain": "ddsantos.com",
+    "title": "David dos Santos — Brand & Product Designer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-06-11T02:46:21.053889007Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Fontshare",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Netlify",
+      "Next.js",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "possible.works",
+    "title": "PossibleWorks | AI Powered Performance Intelligence Platform",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 3160,
+    "crawled_at": "2026-06-11T00:35:19.969615519Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Fontshare",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "InitiativeS",
+      "Microsoft Clarity",
+      "Next.js",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "debo.dev",
     "title": "Debo",
     "business_name": "",
@@ -13277,63 +13323,6 @@
       "UTF-8",
       "Vercel",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "starrrg.com",
-    "title": "Commercial Auto and Truck Insurance | STAR Mutual RRG",
-    "business_name": "STAR Mutual RRG",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 48980,
-    "crawled_at": "2026-05-10T14:23:19.98036268Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Better Lead Generation Services",
-      "D3 JS",
-      "ElementUI",
-      "Fireblade",
-      "Fontshare",
-      "Framer Sites",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Google Tag Manager",
-      "KVH",
-      "Microdata for Google Shopping",
-      "Ntent",
-      "QUIC",
-      "Vector Internet Services",
-      "Yandex Hosting",
-      "Zeald",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "agenticcore.tech",
-    "title": "AgenticCore | Next-Gen AI Automation & Agentic Solutions",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 15489,
-    "crawled_at": "2026-05-10T14:11:19.978892212Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Fireblade",
-      "Fontshare",
-      "Formspree",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Pico CSS",
-      "Python",
-      "QUIC",
-      "Twitter Ads",
-      "Vercel",
-      "jsDelivr"
     ]
   }
 ]
