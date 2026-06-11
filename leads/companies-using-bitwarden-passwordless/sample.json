@@ -1,5 +1,27 @@
 [
   {
+    "domain": "joustsec.com",
+    "title": "Joust Security",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 2805,
+    "crawled_at": "2026-06-10T16:26:33.86383675Z",
+    "technologies": [
+      "Bitwarden Passwordless",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "LottieFiles",
+      "Nginx",
+      "QUIC",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "runtimeterror.dev",
     "title": "runtimeterror",
     "business_name": "",
@@ -10890,28 +10912,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "joustsec.ca",
-    "title": "Joust Security",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 67,
-    "tech_spend": 2805,
-    "crawled_at": "2026-04-18T16:41:20.019672948Z",
-    "technologies": [
-      "Bitwarden Passwordless",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "LottieFiles",
-      "Nginx",
-      "QUIC",
-      "Tailwind CSS"
     ]
   },
   {

@@ -1,12 +1,12 @@
 [
   {
-    "domain": "pivotalcentre.com",
-    "title": "An EMDN - Pivotal Centre, Innovation Hub Strategic Leadership Business Solutions Collaborative Workspace Technology Focused Development Growth Accelerator",
+    "domain": "pivotalpivot.com",
+    "title": "An EMDN - Pivotal Pivot, Strategic Shift Business Change Agile Transformation Key Decision Critical Move Adaptive Strategy Turning Point",
     "business_name": "",
     "country": "",
-    "seo_score": 62,
-    "tech_spend": 120,
-    "crawled_at": "2026-06-10T14:52:09.554440609Z",
+    "seo_score": 57,
+    "tech_spend": 36,
+    "crawled_at": "2026-06-10T16:58:32.353791413Z",
     "technologies": [
       "Amazon CloudFront",
       "Apture Linking Platform",
@@ -5009,23 +5009,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "anapaulavicente.com",
-    "title": "Ana Paula Vicente",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 135,
-    "crawled_at": "2025-12-19T17:52:32.755140304Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8"
     ]
   }
 ]

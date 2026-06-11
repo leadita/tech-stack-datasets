@@ -1,5 +1,28 @@
 [
   {
+    "domain": "jaisbd.com",
+    "title": "J A IT Solution",
+    "business_name": "",
+    "country": "BGD",
+    "seo_score": 72,
+    "tech_spend": 627,
+    "crawled_at": "2026-06-10T17:45:31.186014603Z",
+    "technologies": [
+      "Alternate Protocol",
+      "BootstrapMade",
+      "FreeCSSTemplates",
+      "Google Cloud DNS",
+      "Google Code Prettify",
+      "Google Font API",
+      "IcoMoon",
+      "LiteSpeed",
+      "Namecheap",
+      "QUIC",
+      "University or College",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "droppedhub.com",
     "title": "Find Expired Domains Names | DroppedHub",
     "business_name": "",
@@ -480,29 +503,6 @@
       "Netlify",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "jaisbd.com",
-    "title": "J A IT Solution",
-    "business_name": "",
-    "country": "BGD",
-    "seo_score": 77,
-    "tech_spend": 627,
-    "crawled_at": "2025-12-19T10:11:35.627787523Z",
-    "technologies": [
-      "Alternate Protocol",
-      "BootstrapMade",
-      "FreeCSSTemplates",
-      "Google Cloud DNS",
-      "Google Code Prettify",
-      "Google Font API",
-      "IcoMoon",
-      "LiteSpeed",
-      "Namecheap",
-      "QUIC",
-      "University or College",
-      "jQuery"
     ]
   }
 ]

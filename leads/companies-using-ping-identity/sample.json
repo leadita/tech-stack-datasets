@@ -1,5 +1,32 @@
 [
   {
+    "domain": "itsecurelabs.com",
+    "title": "ITSecureLabs - India's Leading IAM Specialists | Consulting, Staffing & Training",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 47450,
+    "crawled_at": "2026-06-10T16:06:52.200609171Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Bulma",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "ElementUI",
+      "Ping Identity",
+      "QUIC",
+      "Tailwind CSS",
+      "eLand",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "homebuyer.com",
     "title": "Homebuyer.com - Happy Homebuying | Homebuyer.com",
     "business_name": "",
