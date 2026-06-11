@@ -1,5 +1,38 @@
 [
   {
+    "domain": "ncier.org",
+    "title": "Public Safety Training & Exercises | NCIER",
+    "business_name": "",
+    "country": "ESP",
+    "seo_score": 82,
+    "tech_spend": 21970,
+    "crawled_at": "2026-06-10T20:09:05.854343993Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Enjoi",
+      "Fancybox for WordPress",
+      "Google Analytics",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Gumlet",
+      "HMDG",
+      "Mautic",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Nginx",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "YouTube",
+      "eLand",
+      "jQuery",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "minicabbids.com",
     "title": "Minicabbids: Premium PCO Cars, Minicab Hire, Car Sales & Taxi Insurance",
     "business_name": "",
@@ -19096,34 +19129,6 @@
       "WordPress Multisite",
       "WordPress Related Posts",
       "jQuery",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "kavas.com",
-    "title": "Best Charter Yachts for the Greek Islands | KAVAS YACHTING",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 2600,
-    "crawled_at": "2026-03-01T03:17:01.317415259Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Apache",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Hotjar",
-      "Instagram Follow Button",
-      "Mautic",
-      "Microdata for Google Shopping",
-      "PHP",
-      "PWA",
-      "Schema Plugin",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
       "reCAPTCHA"
     ]
   }
