@@ -1,5 +1,59 @@
 [
   {
+    "domain": "ccdds.com",
+    "title": "Dental Expert Care | Dr. Christian Chung, D.D.S.",
+    "business_name": "Dr. Christian Chung, D.D.S.",
+    "country": "USA",
+    "seo_score": 75,
+    "tech_spend": 4088,
+    "crawled_at": "2026-06-11T07:27:28.725621738Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Alternate Protocol",
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Font Awesome",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Kinsta",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Semantic UI",
+      "Tailwind CSS",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "lexican.ru",
+    "title": "Lexican Terms and Conditions",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": "",
+    "crawled_at": "2026-06-11T07:17:19.971789893Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "Nginx",
+      "Perl",
+      "Semantic UI",
+      "Ubuntu"
+    ]
+  },
+  {
     "domain": "tpvsnportal.eu",
     "title": "TPVsnportal",
     "business_name": "",
@@ -889,41 +943,6 @@
       "Instagram Follow Button",
       "Semantic UI",
       "Twitter Ads",
-      "jQuery",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "christianchungdds.com",
-    "title": "Dental Expert Care | Dr. Christian Chung, D.D.S.",
-    "business_name": "Dr. Christian Chung, D.D.S.",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 4088,
-    "crawled_at": "2026-05-31T13:58:30.163551341Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Alternate Protocol",
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Font Awesome",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Kinsta",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Semantic UI",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
       "jQuery",
       "jsDelivr"
     ]
@@ -14526,30 +14545,6 @@
       "University or College",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "hesyapi.com.tr",
-    "title": "Trakya Sandviç Panel Kurulumu ve Satışı - HES Yapı",
-    "business_name": "",
-    "country": "TUR",
-    "seo_score": 72,
-    "tech_spend": 15300,
-    "crawled_at": "2026-04-12T02:38:20.016684318Z",
-    "technologies": [
-      "Endis",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Nginx",
-      "PHP",
-      "Parallels Plesk Panel",
-      "Semantic UI",
-      "Tailwind CSS",
-      "Tawk",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
