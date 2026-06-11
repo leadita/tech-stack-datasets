@@ -1,5 +1,26 @@
 [
   {
+    "domain": "contactter.com",
+    "title": "AI Platform for Car Dealerships | Contactter.ai | Contactter.ai",
+    "business_name": "Silent Partner AI",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 20432,
+    "crawled_at": "2026-06-11T05:42:01.401558982Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Calendly",
+      "Content Delivery Network",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel",
+      "VinSolutions",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "nickstarr.com",
     "title": "Nick Starr | Popl",
     "business_name": "",
@@ -1147,27 +1168,6 @@
       "WhatsApp Sharing",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "silentpartner.ai",
-    "title": "AI Platform for Car Dealerships | Contactter.ai | Contactter.ai",
-    "business_name": "Silent Partner AI",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 20432,
-    "crawled_at": "2026-05-12T01:08:19.981843Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Calendly",
-      "Content Delivery Network",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel",
-      "VinSolutions",
-      "YouTube"
     ]
   },
   {

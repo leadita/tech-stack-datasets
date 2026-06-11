@@ -1,5 +1,39 @@
 [
   {
+    "domain": "notyourchinadoll.com",
+    "title": "Not Your China Doll",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 96333,
+    "crawled_at": "2026-06-11T00:23:01.000684492Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Creative Cloud WebFonts",
+      "Apture Linking Platform",
+      "Aruba",
+      "Edmunds",
+      "Express",
+      "GZIP Module",
+      "Giphy",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "beachautobrokers.com",
     "title": "Used Vehicle Dealership Norfolk VA | Beach Auto Brokers",
     "business_name": "",
@@ -5997,40 +6031,6 @@
       "Tailwind CSS",
       "Thank You",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "notyourchinadoll.com",
-    "title": "Not Your China Doll",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 96333,
-    "crawled_at": "2025-12-19T14:58:32.748824022Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Apture Linking Platform",
-      "Aruba",
-      "Edmunds",
-      "Express",
-      "GZIP Module",
-      "Giphy",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "eLand"
     ]
   }
 ]
