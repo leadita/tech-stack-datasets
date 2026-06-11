@@ -1,5 +1,33 @@
 [
   {
+    "domain": "flushingpatientcare.org",
+    "title": "Schedule a Primary Care Visit in Flushing | Catholic Health",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 57,
+    "tech_spend": 32198,
+    "crawled_at": "2026-06-11T00:44:19.970221549Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "DAV",
+      "Financial Services Guide",
+      "GZIP Module",
+      "IPFS",
+      "K2F",
+      "Kaltura",
+      "No-Q",
+      "Perl",
+      "QUIC",
+      "SMC",
+      "Subversion",
+      "UTF-8",
+      "hCaptcha",
+      "hCaptcha for WordPress",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "mybellin.org",
     "title": "MyChart - Login Page",
     "business_name": "",
@@ -882,38 +910,6 @@
       "Wufoo",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "essentiamychart.org",
-    "title": "MyChart - Login Page",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 42258,
-    "crawled_at": "2026-05-30T14:31:32.298441784Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "DAV",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Geonetric",
-      "Google",
-      "Google My Business",
-      "IPFS",
-      "K2F",
-      "Kaltura",
-      "No-Q",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "Smart App Banner",
-      "Subversion",
-      "UTF-8",
-      "jQuery",
-      "reCAPTCHA"
     ]
   },
   {
