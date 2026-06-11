@@ -1,5 +1,38 @@
 [
   {
+    "domain": "jmjmotos.com.br",
+    "title": "JMJ Motos | Peças e Serviços para Motos",
+    "business_name": "",
+    "country": "BRA",
+    "seo_score": 72,
+    "tech_spend": 121078,
+    "crawled_at": "2026-06-10T20:57:28.492234455Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Bulma",
+      "Cisco/Arrowpoint Content Service Switch",
+      "CloudFront",
+      "Content Delivery Network",
+      "Drata",
+      "Ebit",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "IcoMoon",
+      "K2F",
+      "MaxCDN",
+      "UTF-8",
+      "VTEX Personalization",
+      "Vector Internet Services",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "megasports.com.ar",
     "title": "Mega Sports - Calzado, Indumentaria y Accesorios para Deportistas",
     "business_name": "",
@@ -1517,38 +1550,6 @@
       "UTF-8",
       "VTEX Personalization",
       "WhatsApp Sharing"
-    ]
-  },
-  {
-    "domain": "jmjmotos.com.br",
-    "title": "JMJ Motos | Peças e Serviços para Motos",
-    "business_name": "",
-    "country": "BRA",
-    "seo_score": 72,
-    "tech_spend": 96078,
-    "crawled_at": "2025-12-19T12:28:32.731114374Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Bulma",
-      "Cisco/Arrowpoint Content Service Switch",
-      "CloudFront",
-      "Content Delivery Network",
-      "Drata",
-      "Ebit",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "MaxCDN",
-      "UTF-8",
-      "VTEX Personalization",
-      "Vector Internet Services",
-      "jQuery"
     ]
   }
 ]

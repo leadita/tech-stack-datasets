@@ -1,5 +1,26 @@
 [
   {
+    "domain": "mipccr.com",
+    "title": "MIPCcr.com",
+    "business_name": "",
+    "country": "HND",
+    "seo_score": 72,
+    "tech_spend": 6068,
+    "crawled_at": "2026-06-10T17:03:26.037182845Z",
+    "technologies": [
+      "Apache",
+      "Cisco/Arrowpoint Content Service Switch",
+      "GZIP Module",
+      "Gambling Content",
+      "Google Analytics",
+      "Google My Business",
+      "Tailwind CSS",
+      "UTF-8",
+      "Volusion Live Chat",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "abdentalsupply.com",
     "title": "Home",
     "business_name": "",
@@ -3534,27 +3555,6 @@
       "Volusion",
       "WordPress",
       "uPress"
-    ]
-  },
-  {
-    "domain": "mipccr.com",
-    "title": "MIPCcr.com",
-    "business_name": "",
-    "country": "HND",
-    "seo_score": 67,
-    "tech_spend": 6068,
-    "crawled_at": "2025-12-19T09:43:32.752752237Z",
-    "technologies": [
-      "Apache",
-      "Cisco/Arrowpoint Content Service Switch",
-      "GZIP Module",
-      "Gambling Content",
-      "Google Analytics",
-      "Google My Business",
-      "Tailwind CSS",
-      "UTF-8",
-      "Volusion Live Chat",
-      "jQuery"
     ]
   }
 ]
