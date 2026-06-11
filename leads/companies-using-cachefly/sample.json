@@ -1,5 +1,37 @@
 [
   {
+    "domain": "ubuilditcommercial.info",
+    "title": "Start a UBuildIt Franchise",
+    "business_name": "Corporate",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 92299,
+    "crawled_at": "2026-06-10T23:10:47.323206177Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Better Lead Generation Services",
+      "CacheFly",
+      "CacheFly CDN",
+      "Cornerstone",
+      "Express",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Investor Relations",
+      "Microdata for Google Shopping",
+      "Perl",
+      "Spherexx",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Vignette OpenText",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "tabletcommander.com",
     "title": "Stardock",
     "business_name": "",
@@ -25,39 +57,6 @@
       "UTF-8",
       "Visual Studio",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "ubuilditask.info",
-    "title": "Start a UBuildIt Franchise",
-    "business_name": "Corporate",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 92299,
-    "crawled_at": "2026-06-08T23:22:52.70331302Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Better Lead Generation Services",
-      "CacheFly",
-      "CacheFly CDN",
-      "Cornerstone",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Investor Relations",
-      "Microdata for Google Shopping",
-      "Perl",
-      "Spherexx",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vignette OpenText",
-      "reCAPTCHA"
     ]
   },
   {
