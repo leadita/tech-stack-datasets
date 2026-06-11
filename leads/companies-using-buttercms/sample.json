@@ -1,5 +1,33 @@
 [
   {
+    "domain": "scribewire.ca",
+    "title": "ScribeWire – Making media accessible, one line at a time.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 13728,
+    "crawled_at": "2026-06-10T20:57:28.451956274Z",
+    "technologies": [
+      "ButterCMS",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud",
+      "Google Tag Manager",
+      "HubSpot Conversations",
+      "Hubspot",
+      "Instagram Follow Button",
+      "LinkedIn Insights",
+      "Next.js",
+      "Pleroma",
+      "Styled Components",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "fanakagrowers.com",
     "title": "Fanaka Growers & Produce Ltd | Climate-Smart Agroforestry Solutions",
     "business_name": "",
@@ -2098,63 +2126,6 @@
       "Visual Studio",
       "WebAssembly",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "grid-club.com",
-    "title": "Grid Dynamics University",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 63,
-    "crawled_at": "2025-12-19T14:07:32.732812153Z",
-    "technologies": [
-      "ButterCMS",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "CookieConsent",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Nginx",
-      "PHP",
-      "Python",
-      "Telegram",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "scribewire.ca",
-    "title": "ScribeWire – Making media accessible, one line at a time.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 13728,
-    "crawled_at": "2025-12-19T12:25:21.356123505Z",
-    "technologies": [
-      "ButterCMS",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud",
-      "Google Tag Manager",
-      "HubSpot Conversations",
-      "Hubspot",
-      "Instagram Follow Button",
-      "LinkedIn Insights",
-      "Next.js",
-      "Pleroma",
-      "Styled Components",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "shadcn ui"
     ]
   }
 ]
