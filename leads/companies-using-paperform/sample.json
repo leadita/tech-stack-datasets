@@ -1,5 +1,36 @@
 [
   {
+    "domain": "compasstechtutors.co.uk",
+    "title": "Compass Tech Tutors | learn technology | Old Town, Hebden Bridge, UK",
+    "business_name": "Compass Tech Tutors",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 87588,
+    "crawled_at": "2026-06-11T00:15:21.893797492Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Express",
+      "Fastly",
+      "Fastly CDN",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PWA",
+      "Paperform",
+      "QUIC",
+      "SMC",
+      "Sentry",
+      "SiteW",
+      "UTF-8",
+      "Vector Internet Services",
+      "Wix",
+      "Wix Media",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "vivir.com.au",
     "title": "Australian Allied Health Services | Vivir Healthcare",
     "business_name": "",
@@ -16729,44 +16760,6 @@
       "Webflow",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "mariahfreya.com",
-    "title": "Beducated – Sex Is a Skill.",
-    "business_name": "Beducated",
-    "country": "SYC",
-    "seo_score": 77,
-    "tech_spend": 24180,
-    "crawled_at": "2026-04-11T10:29:20.013723163Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Bunny Fonts",
-      "BunnyCDN",
-      "BunnyCDN General",
-      "BunnyCDN Header",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Help Scout",
-      "Matomo Tag Manager",
-      "Microdata for Google Shopping",
-      "Paperform",
-      "Perl",
-      "Pico CSS",
-      "Statamic",
-      "Tailwind CSS",
-      "Trustpilot Reviews for WordPress",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
