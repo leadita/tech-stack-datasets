@@ -1,5 +1,28 @@
 [
   {
+    "domain": "stacjameteommz.pl",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 1260,
+    "crawled_at": "2026-06-11T02:23:19.969220081Z",
+    "technologies": [
+      "Barchart",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Forms",
+      "Google My Business",
+      "Google Tag Manager",
+      "Grafana",
+      "Nginx",
+      "UTF-8",
+      "Yandex Hosting"
+    ]
+  },
+  {
     "domain": "darcianderic.com",
     "title": "Grafana",
     "business_name": "",
@@ -20,26 +43,6 @@
     ]
   },
   {
-    "domain": "datamonitors.info",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 1200,
-    "crawled_at": "2026-06-02T21:41:22.61499994Z",
-    "technologies": [
-      "Barchart",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Grafana",
-      "Nginx",
-      "UTF-8",
-      "Ubuntu"
-    ]
-  },
-  {
     "domain": "gatewaypavingca.net",
     "title": "Grafana",
     "business_name": "",
@@ -53,26 +56,6 @@
       "Grafana",
       "Nginx",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "grafana.sgx.fr",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 1260,
-    "crawled_at": "2026-05-31T09:00:40.983422321Z",
-    "technologies": [
-      "Apache",
-      "Barchart",
-      "Debian",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Grafana",
-      "UTF-8",
-      "Yandex Hosting"
     ]
   },
   {
