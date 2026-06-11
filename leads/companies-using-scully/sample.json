@@ -1,5 +1,41 @@
 [
   {
+    "domain": "madeleinescully.com",
+    "title": "www.madeleinescully.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 26563,
+    "crawled_at": "2026-06-10T23:07:41.104390538Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "ClickOn",
+      "DAV",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Related Website Sites",
+      "KVH",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Ntent",
+      "QUIC",
+      "SMC",
+      "Sapper",
+      "Schema Plugin",
+      "Scully",
+      "Subversion",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "pacificspecialists.com",
     "title": "ENT Doctors Los Angeles - Ear, Nose, Throat Doctors Los Angeles",
     "business_name": "",
@@ -17474,30 +17510,6 @@
       "UTF-8",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "justintexashistory.com",
-    "title": "Justin Texas Area Historical Society Home page",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 7227,
-    "crawled_at": "2026-04-25T16:38:19.982066941Z",
-    "technologies": [
-      "Amazon Widgets",
-      "Angies List",
-      "Apache",
-      "Coming Soon Page",
-      "GZIP Module",
-      "Google Customer Reviews",
-      "Google My Business",
-      "ISO/IEC 8859",
-      "PHP",
-      "Perl",
-      "Scully",
-      "Show.co",
-      "University or College"
     ]
   }
 ]

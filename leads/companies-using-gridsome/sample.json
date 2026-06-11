@@ -1,5 +1,24 @@
 [
   {
+    "domain": "coreillustrio.com",
+    "title": "Core Illustrio",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 65,
+    "tech_spend": 2400,
+    "crawled_at": "2026-06-11T01:12:32.726750385Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "Gridsome",
+      "Investor Relations",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "qubixproductions.com",
     "title": "Qubix Productions",
     "business_name": "",
@@ -12004,27 +12023,6 @@
       "Silicon Valley Web Hosting",
       "UTF-8",
       "Ubuntu"
-    ]
-  },
-  {
-    "domain": "tcit.fr",
-    "title": "Thomas Citharel",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 63,
-    "crawled_at": "2026-01-24T12:43:28.862893727Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "License Buttons",
-      "Nginx",
-      "Tailwind CSS",
-      "Twitter Ads"
     ]
   }
 ]
