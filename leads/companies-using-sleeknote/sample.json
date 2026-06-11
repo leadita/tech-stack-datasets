@@ -1,5 +1,28 @@
 [
   {
+    "domain": "findmycoupling.fi",
+    "title": "Fernco työkalupakki",
+    "business_name": "",
+    "country": "FIN",
+    "seo_score": 57,
+    "tech_spend": 635,
+    "crawled_at": "2026-06-11T05:53:00.806991252Z",
+    "technologies": [
+      "Apache",
+      "Better Lead Generation Services",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Sleeknote",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Ubuntu",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "percycutz.ca",
     "title": "PercyCutz Studio. | Windsor [ Book now ]",
     "business_name": "PercyCutz Studio.",
@@ -18468,29 +18491,6 @@
       "eLand",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "findmycoupling.fi",
-    "title": "Fernco työkalupakki",
-    "business_name": "",
-    "country": "FIN",
-    "seo_score": 62,
-    "tech_spend": 1477,
-    "crawled_at": "2025-12-19T19:01:32.737315093Z",
-    "technologies": [
-      "Apache",
-      "Better Lead Generation Services",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Sleeknote",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Ubuntu",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
