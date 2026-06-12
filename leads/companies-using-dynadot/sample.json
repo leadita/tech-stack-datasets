@@ -1,5 +1,26 @@
 [
   {
+    "domain": "fluxglobaltradingllc.com",
+    "title": "Flux Global Trading Inc",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 10120,
+    "crawled_at": "2026-06-12T00:29:19.970731848Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "BLR",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "pivotalpivot.com",
     "title": "An EMDN - Pivotal Pivot, Strategic Shift Business Change Agile Transformation Key Decision Critical Move Adaptive Strategy Turning Point",
     "business_name": "",
