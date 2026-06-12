@@ -1,5 +1,39 @@
 [
   {
+    "domain": "jennanelsonagency.com",
+    "title": "Jenna Nelson Agency, LLC Insurance Agency in KEARNEY, Missouri",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 236170,
+    "crawled_at": "2026-06-11T19:29:19.969253487Z",
+    "technologies": [
+      "Better Lead Generation Services",
+      "Content Delivery Network",
+      "Fireblade",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Line2",
+      "Microsoft 365",
+      "Next.js",
+      "Nginx",
+      "No-Q",
+      "OneTrust Domain Verification",
+      "Optimizely Recommendations",
+      "Pleroma",
+      "Sitecore CMS",
+      "Trustpilot Reviews for WordPress",
+      "UTF-8",
+      "University or College",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "dudemortgage.com",
     "title": "Stacey Duderstadt | Bell Bank Mortgage",
     "business_name": "",
@@ -17295,28 +17329,6 @@
       "Vector Internet Services",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "accesspretomanid.com",
-    "title": "Viatris Pretomanid Named Patient Access Program for MDR TB",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 65,
-    "tech_spend": 155976,
-    "crawled_at": "2026-05-20T21:11:19.970747828Z",
-    "technologies": [
-      "Amazon",
-      "Crowdsignal",
-      "Express",
-      "FormSubmit",
-      "Microsoft Azure",
-      "PHP",
-      "Perl",
-      "Sitecore CMS",
-      "Tailwind CSS",
-      "UTF-8",
-      "Visual Studio"
     ]
   }
 ]
