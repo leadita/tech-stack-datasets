@@ -1,5 +1,26 @@
 [
   {
+    "domain": "extendiq.io",
+    "title": "ExtendIQ · Stay extensions, guest communication, housekeeping — for extended stay hotels",
+    "business_name": "",
+    "country": "BRA",
+    "seo_score": 82,
+    "tech_spend": 42668,
+    "crawled_at": "2026-06-11T12:47:19.968420347Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "QUIC",
+      "Sage Intacct",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "purplepr.com",
     "title": "Purple PR",
     "business_name": "",

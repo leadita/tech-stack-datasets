@@ -1,5 +1,38 @@
 [
   {
+    "domain": "oladotunsolomon.com",
+    "title": "Oladotun Solomon – Data Analytics and Business Innovation Expert",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 22220,
+    "crawled_at": "2026-06-12T01:56:19.972124362Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "GitHub Hosting",
+      "InitiativeS",
+      "LiteSpeed",
+      "M247",
+      "NFOrce Internet",
+      "PHP",
+      "Phlox",
+      "Python",
+      "Tableau",
+      "Theme In WP",
+      "UTF-8",
+      "University or College",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "vlab.space",
     "title": "Ventures Lab – creative work spaces",
     "business_name": "",
@@ -18017,31 +18050,6 @@
       "University or College",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "ankitchauhan.me",
-    "title": "Ankit Chauhan — Senior Data Analyst",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 70,
-    "tech_spend": 185260,
-    "crawled_at": "2026-04-10T00:29:20.023424623Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Fastly",
-      "Fireblade",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Medium",
-      "Python",
-      "Salesforce Hosted",
-      "Tableau",
-      "UTF-8"
     ]
   }
 ]
