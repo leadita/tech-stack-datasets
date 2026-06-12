@@ -1,5 +1,39 @@
 [
   {
+    "domain": "go55plus.house",
+    "title": "Bill Eaves Pennsylvania Real Estate Expert | Home Search | Home Search",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 22428,
+    "crawled_at": "2026-06-12T10:02:19.970408043Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon API Gateway",
+      "Amazon S3 CDN",
+      "Amazon WAF Blocked",
+      "Cloudflare",
+      "Cloudflare Insights",
+      "Cloudflare Web Analytics",
+      "Cloudinary",
+      "Express",
+      "Fastly",
+      "Fireblade",
+      "GZIP Module",
+      "Homes.com CMS",
+      "LaunchDarkly",
+      "Luxury Presence",
+      "NFOrce Internet",
+      "Neighborhoods",
+      "Next.js",
+      "Pico CSS",
+      "Pleroma",
+      "Salesforce Hosted",
+      "Storyblocks",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "catch512.com",
     "title": "Reel in the Adventure: Dive into Austin's Best Fishing Trips!",
     "business_name": "Catch 512",
@@ -17275,40 +17309,6 @@
       "Storyblocks",
       "UTF-8",
       "Wolfnet"
-    ]
-  },
-  {
-    "domain": "russvezzaliflyfishing.com",
-    "title": "Lake Tahoe Fishing Charters for Rainbow & Brown Trout",
-    "business_name": "Russell Vezzali Fly Fishing Guide Service",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 35042,
-    "crawled_at": "2026-04-08T23:14:19.980942418Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon",
-      "Amazon API Gateway",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Content Delivery Network",
-      "DoubleClick Bid Manager",
-      "Fastly",
-      "GZIP Module",
-      "Heap",
-      "Hubspot",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Stripe",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]

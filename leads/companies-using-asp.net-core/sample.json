@@ -1,5 +1,29 @@
 [
   {
+    "domain": "merixdata.com",
+    "title": "SahelDashboard",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 15563,
+    "crawled_at": "2026-06-12T02:41:19.971503851Z",
+    "technologies": [
+      "ASP.NET Core",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "ElementUI",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microsoft Azure",
+      "NFOrce Internet",
+      "SMC",
+      "UTF-8",
+      "Visual Studio",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "terryallenmarine.com",
     "title": "M.E.C.S. - Marine Engineering Consultancy Services – Terry Allen Marine - Yacht Design & Build – Vessel Conversions & New Build Super Yachts",
     "business_name": "",
@@ -15982,38 +16006,6 @@
       "Tailwind CSS",
       "Unsplash",
       "Vagaro"
-    ]
-  },
-  {
-    "domain": "bsellshomes.ca",
-    "title": "Bianca Scaletta | Luxury & Residential Realtor in Southwestern Ontario",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 87,
-    "tech_spend": 33740,
-    "crawled_at": "2026-05-27T22:14:07.136969071Z",
-    "technologies": [
-      "ASP.NET Core",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Authorize.net",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Investor Relations",
-      "Nuxt.js",
-      "QUIC",
-      "Subversion",
-      "UTF-8",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]
