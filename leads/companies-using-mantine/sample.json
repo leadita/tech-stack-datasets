@@ -1,5 +1,31 @@
 [
   {
+    "domain": "blyssbeautylb.com",
+    "title": "Blyss Beauty Lebanon | Authentic Makeup & Skincare Online – Top Brands",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 4919,
+    "crawled_at": "2026-06-12T12:32:19.971719131Z",
+    "technologies": [
+      "Alternate Protocol",
+      "BunnyCDN",
+      "BunnyCDN General",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "ElementUI",
+      "Express",
+      "Financial Services Guide",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Instagram Follow Button",
+      "Mantine",
+      "Next.js",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "vanillacakesweetandservice.com",
     "title": "We Bake with Love",
     "business_name": "",
@@ -13027,29 +13053,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Ubuntu",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "breezelanguage.com",
-    "title": "そよ風 - 語学センター・留学サポート",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 7500,
-    "crawled_at": "2026-05-12T06:14:20.004337894Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Fireblade",
-      "Google My Business",
-      "Mantine",
-      "Next.js",
-      "Pleroma",
-      "Sanity",
-      "Tailwind CSS",
-      "UTF-8",
       "shadcn ui"
     ]
   }
