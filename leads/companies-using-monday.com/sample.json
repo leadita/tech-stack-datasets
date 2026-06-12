@@ -1,5 +1,31 @@
 [
   {
+    "domain": "cemantica.com",
+    "title": "Leading Customer Experience Management software | Cemantica",
+    "business_name": "Cemantica",
+    "country": "FRA",
+    "seo_score": 77,
+    "tech_spend": 39108,
+    "crawled_at": "2026-06-12T17:29:19.968409535Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ClickDimensions",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Oktopost",
+      "Qualtrics Site Intercept",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "monday.com",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "xivg.net",
     "title": "XIVG - AI Employees That Run Your Business Operations",
     "business_name": "",
@@ -18602,46 +18628,6 @@
       "WordPress Stats",
       "Zoom Video Conferencing",
       "monday.com"
-    ]
-  },
-  {
-    "domain": "waterpolo.ca",
-    "title": "Water Polo Canada",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 78768,
-    "crawled_at": "2026-05-17T21:02:19.98628386Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "DC74",
-      "DoubleClick Bid Manager",
-      "ElementUI",
-      "Facebook Reseller",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google Matched Content",
-      "Google My Business",
-      "Google Reseller",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "OLO",
-      "QUIC",
-      "RAMP InterActive",
-      "SMC",
-      "Square",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "jsDelivr",
-      "monday.com",
-      "shadcn ui"
     ]
   }
 ]
