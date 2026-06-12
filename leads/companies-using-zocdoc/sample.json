@@ -1,5 +1,30 @@
 [
   {
+    "domain": "innerbloomfamilytherapy.com",
+    "title": "Counseling for Children, Teens, Adults and Couples at Innerbloom Family Therapy",
+    "business_name": "Innerbloom Family Therapy",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 21900,
+    "crawled_at": "2026-06-12T16:53:19.969715222Z",
+    "technologies": [
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Line2",
+      "Microdata for Google Shopping",
+      "PWA",
+      "UTF-8",
+      "University or College",
+      "Wangsu",
+      "Website Tonight",
+      "ZocDoc"
+    ]
+  },
+  {
     "domain": "thembrcenter.com",
     "title": "Mindful Therapy Services",
     "business_name": "",
@@ -18174,39 +18199,6 @@
       "WordPress Multisite",
       "WordPress PopUp",
       "WordPress Related Posts",
-      "ZocDoc",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "mindmatterspllc.org",
-    "title": "Mind Matters Integrative Psychiatry",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 28047,
-    "crawled_at": "2026-05-14T09:08:19.985567657Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Elementor",
-      "ElementsKit Elementor",
-      "EmbedPress",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hello Elementor",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Jeg Elementor Kit",
-      "Metform Elemento",
-      "NFOrce Internet",
-      "PHP",
-      "Prospective",
-      "QUIC",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
       "ZocDoc",
       "jQuery"
     ]
