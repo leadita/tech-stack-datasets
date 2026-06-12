@@ -1,5 +1,27 @@
 [
   {
+    "domain": "donnydavis.us",
+    "title": "Donny Davis",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 120,
+    "crawled_at": "2026-06-12T08:08:19.968798904Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "GitHub Hosting",
+      "Micro.blog",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "stoneman.page",
     "title": "Stoneman's Corner",
     "business_name": "",

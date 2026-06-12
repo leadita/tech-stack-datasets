@@ -1,5 +1,48 @@
 [
   {
+    "domain": "simonlassam.co.uk",
+    "title": "Homepage - Think Write Design",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 52,
+    "crawled_at": "2026-06-12T10:56:19.969694683Z",
+    "technologies": [
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "chris.qa",
+    "title": "chris.qa",
+    "business_name": "chris.qa",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 115,
+    "crawled_at": "2026-06-12T10:08:19.969457285Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "mscw.org.in",
     "title": ":: Welcome ::",
     "business_name": "",
@@ -121,23 +164,6 @@
     "crawled_at": "2026-06-09T01:09:45.365843855Z",
     "technologies": [
       "Alternate Protocol",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "thinkwritedesign.co.uk",
-    "title": "Homepage - Think Write Design",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 52,
-    "crawled_at": "2026-06-07T07:52:26.223218693Z",
-    "technologies": [
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
       "Microdata for Google Shopping",
       "Publii",
       "WordPress SEO Structured Data Schema Plugin"
@@ -6969,31 +6995,6 @@
       "Publii",
       "QUIC",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "chris.qa",
-    "title": "chris.qa",
-    "business_name": "chris.qa",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 115,
-    "crawled_at": "2026-02-01T04:52:48.880913556Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
     ]
   },
   {
