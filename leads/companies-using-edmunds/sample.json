@@ -1,5 +1,37 @@
 [
   {
+    "domain": "syrtrucks.com",
+    "title": "Candy Cars | Used cars, trucks, & SUVs in Syracuse, NY",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 18220,
+    "crawled_at": "2026-06-12T06:41:19.969731285Z",
+    "technologies": [
+      "Content Delivery Network",
+      "ETranslate",
+      "Edmunds",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Google Customer Reviews",
+      "Google Maps",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Styled Components",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "notyourchinadoll.com",
     "title": "Not Your China Doll",
     "business_name": "",
