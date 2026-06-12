@@ -1,5 +1,34 @@
 [
   {
+    "domain": "chakbam.com",
+    "title": "Sharetribe - Marketplace Software for Founders",
+    "business_name": "Sharetribe",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 2528,
+    "crawled_at": "2026-06-12T13:59:19.969060237Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Adult Content",
+      "Alternate Protocol",
+      "Amazon Widgets",
+      "Content Delivery Network",
+      "Investor Relations",
+      "Medium",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "PHP",
+      "Perl",
+      "Prismic",
+      "QUIC",
+      "Sharetribe",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "foodandfusion.in",
     "title": "Food & Fusion | Prem's Cafe & Lounge | Best Restaurant in Birati Kolkata",
     "business_name": "",
@@ -490,35 +519,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "successfulwriter.net",
-    "title": "Sharetribe - Marketplace Software for Founders",
-    "business_name": "Sharetribe",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 2528,
-    "crawled_at": "2026-06-07T03:17:19.970863135Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Adult Content",
-      "Alternate Protocol",
-      "Amazon Widgets",
-      "Content Delivery Network",
-      "Investor Relations",
-      "Medium",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "PHP",
-      "Perl",
-      "Prismic",
-      "QUIC",
-      "Sharetribe",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "YouTube"
     ]
   },
   {
