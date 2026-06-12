@@ -1,5 +1,38 @@
 [
   {
+    "domain": "gokulkannanr.com",
+    "title": "Gokul Kannan",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 7898,
+    "crawled_at": "2026-06-11T15:05:19.969251111Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Link Enchancer",
+      "Amazon Route 53",
+      "Amazon Widgets",
+      "CM Commerce",
+      "CloudFront",
+      "Content Delivery Network",
+      "Figma",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Instagram Follow Button",
+      "NFOrce Internet",
+      "Next.js",
+      "Nginx",
+      "Oracle Cloud",
+      "Pleroma",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "shadowguard.in",
     "title": "ShadowGuard — Shadow IT Discovery & Migration",
     "business_name": "ShadowGuard",
@@ -13451,30 +13484,6 @@
       "Instagram Follow Button",
       "Matomo",
       "Matomo Tag Manager",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "humboldthomebuilders.com",
-    "title": "HUMBOLDT",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 156,
-    "crawled_at": "2026-05-22T20:39:41.135781961Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Figma",
-      "GZIP Module",
-      "Google My Business",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Nginx",
-      "Perl",
-      "Pleroma",
-      "Schema Plugin",
       "UTF-8"
     ]
   }
