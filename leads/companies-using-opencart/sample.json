@@ -1,5 +1,30 @@
 [
   {
+    "domain": "gardeniaperfumery.com",
+    "title": "Gardenia Parfumerie",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 30243,
+    "crawled_at": "2026-06-12T05:29:19.968219819Z",
+    "technologies": [
+      "Cart.com",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Nginx",
+      "OpenCart",
+      "QUIC",
+      "StackPath",
+      "Tailwind CSS",
+      "Tawk",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "brdsport.com",
     "title": "BRD Sport Orthopedic Braces",
     "business_name": "",
@@ -12225,29 +12250,6 @@
       "SKWID",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "futurelinkmall.com",
-    "title": "Women's T SHIRTS WOMEN BOTTOMS WOMEN DRESSES",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 72,
-    "tech_spend": 75708,
-    "crawled_at": "2026-05-03T22:29:19.991903622Z",
-    "technologies": [
-      "Aruba",
-      "Cart.com",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Nginx",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "eLand"
     ]
   }
 ]
