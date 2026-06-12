@@ -1,5 +1,38 @@
 [
   {
+    "domain": "vibrixplus.com",
+    "title": "Vibrix: Your Personalized Mail-Order Pharmacy in Lindon, Utah",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 15593,
+    "crawled_at": "2026-06-12T20:32:19.971448651Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "BunnyCDN",
+      "BunnyCDN General",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "ConvertBox",
+      "ElementUI",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "LegitScript",
+      "Microsoft 365",
+      "Microsoft Clarity",
+      "Tailwind CSS",
+      "UTF-8",
+      "WF Cookie Consent",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "tile-gallery.co.uk",
     "title": "Coming Soon! – Tile Gallery",
     "business_name": "",
@@ -517,39 +550,6 @@
       "YouTube",
       "accessiBe",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "vibrixutah.com",
-    "title": "Vibrix: Your Personalized Mail-Order Pharmacy in Lindon, Utah",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 15593,
-    "crawled_at": "2026-06-08T17:14:19.974271686Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "BunnyCDN",
-      "BunnyCDN General",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "ConvertBox",
-      "ElementUI",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "LegitScript",
-      "Microsoft 365",
-      "Microsoft Clarity",
-      "Tailwind CSS",
-      "UTF-8",
-      "WF Cookie Consent",
-      "jsDelivr"
     ]
   },
   {
