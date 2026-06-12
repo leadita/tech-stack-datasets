@@ -1,5 +1,27 @@
 [
   {
+    "domain": "thembrcenter.com",
+    "title": "Mindful Therapy Services",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 13878,
+    "crawled_at": "2026-06-11T19:02:19.968577977Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Contento",
+      "GZIP Module",
+      "Google My Business",
+      "Nginx",
+      "Plausible Analytics",
+      "UTF-8",
+      "Webador",
+      "ZocDoc",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "riverdaledentistryspa.com",
     "title": "Family Dentist The Bronx, NYC | Home | Riverdale Comprehensive Dentistry",
     "business_name": "",
@@ -18187,34 +18209,6 @@
       "WordPress Multisite",
       "ZocDoc",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "thesmilesuiteofunion.com",
-    "title": "The Smile Suite",
-    "business_name": "The Smile SUite",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 4192,
-    "crawled_at": "2026-05-14T08:53:19.986481895Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "ZocDoc",
-      "eLand"
     ]
   }
 ]

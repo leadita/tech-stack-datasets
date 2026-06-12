@@ -1,5 +1,41 @@
 [
   {
+    "domain": "delilahdallas.com",
+    "title": "Hours & Location | Delilah in CA, TX, NV & FL",
+    "business_name": "",
+    "country": "RUS",
+    "seo_score": 77,
+    "tech_spend": 19740,
+    "crawled_at": "2026-06-12T05:32:19.968532918Z",
+    "technologies": [
+      "AudioEye",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Fastly",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Resy",
+      "SEVENROOMS",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "sushiboca.com",
     "title": "Wedding & Events Catering in Boca Raton | Potions in Motion",
     "business_name": "Potions in Motion",
@@ -16482,37 +16518,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "bbakes603.com",
-    "title": "B. Bakes Deli & Cakes | Deli & Bakery in Keene, NH",
-    "business_name": "B. Bakes Deli & Cakes",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 12240,
-    "crawled_at": "2026-05-17T04:20:19.991859966Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Resy",
-      "UTF-8",
-      "Yelp Badge",
-      "reCAPTCHA"
     ]
   }
 ]
