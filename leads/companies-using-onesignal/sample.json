@@ -1,5 +1,33 @@
 [
   {
+    "domain": "workoutflyfusion.in",
+    "title": "workoutflyfusion.in",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 790,
+    "crawled_at": "2026-06-12T13:32:19.971310112Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "ElasticPress",
+      "EmbedPress",
+      "GenerateBlocks",
+      "GeneratePress Company",
+      "Google Analytics",
+      "Google Tag Manager",
+      "LiteSpeed",
+      "OneSignal",
+      "PHP",
+      "Perl",
+      "QUIC",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "sriaishwaryasarees.com",
     "title": "Give Life to Handloom - Sri Aishwarya Sarees \"SILK SARI\" \"SILK COTTON SARI\" \"",
     "business_name": "Sri Aishwarya Sarees",
@@ -20814,43 +20842,6 @@
       "Vector Internet Services",
       "WordPress",
       "WordPress Multisite",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "romokamajaya.com",
-    "title": "RomoKamajaya.com - Romo Kamajaya",
-    "business_name": "",
-    "country": "ERI",
-    "seo_score": 70,
-    "tech_spend": 18012,
-    "crawled_at": "2026-05-19T18:38:19.992214187Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "EmbedPress",
-      "Fireblade",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "OneSignal",
-      "PHP",
-      "PWA",
-      "Perl",
-      "Photo Gallery for WordPress",
-      "Related Posts Thumbnails",
-      "SuperPWA",
-      "Theme In WP",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
       "jQuery"
     ]
   }
