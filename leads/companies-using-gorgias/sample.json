@@ -1,5 +1,40 @@
 [
   {
+    "domain": "cell4less.com",
+    "title": "CELL4LESS Back Glass, LCDs, Housings",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 19292,
+    "crawled_at": "2026-06-12T03:56:19.972161393Z",
+    "technologies": [
+      "Affiliatly",
+      "Apture Linking Platform",
+      "Bing Cashback",
+      "Bing Conversion Tracking",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fastly CDN",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Maps",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Gorgias",
+      "IcoMoon",
+      "MailChimp",
+      "Microdata for Google Shopping",
+      "PageFly",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "UTF-8",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "revolutia.org",
     "title": "Revo®澳洲体彩幸运5-168官方网站；彩票澳洲5五预测结果查询，最新直播号码记录数据",
     "business_name": "",
@@ -23630,37 +23665,6 @@
       "jsDelivr",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "truzenic.com",
-    "title": "TRUZENIC – TRUZENIC",
-    "business_name": "TRUZENIC ",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 24156,
-    "crawled_at": "2026-05-21T17:01:00.136696646Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Fireblade",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Gorgias",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Perl",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   }
 ]

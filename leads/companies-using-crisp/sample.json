@@ -1,5 +1,25 @@
 [
   {
+    "domain": "skillclick.in",
+    "title": "SkillClick Technologies | App Development & Technical Consulting",
+    "business_name": "SkillClick Technologies Pvt. Ltd.",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 3580,
+    "crawled_at": "2026-06-11T22:44:19.968863533Z",
+    "technologies": [
+      "Crisp",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "InitiativeS",
+      "LiteSpeed",
+      "Microdata for Google Shopping"
+    ]
+  },
+  {
     "domain": "fieldservicely.com",
     "title": "Field Service Management Software",
     "business_name": "FieldServicely",
@@ -18798,33 +18818,6 @@
       "Vector Internet Services",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "ulster-welsh.com",
-    "title": "Home - Independent Bank",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 18880,
-    "crawled_at": "2026-05-21T10:00:30.129733869Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "Crisp",
-      "ETranslate",
-      "GTranslate",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Help.com",
-      "LiteSpeed",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "eLand"
     ]
   }
 ]
