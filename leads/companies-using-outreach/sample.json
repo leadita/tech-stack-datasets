@@ -1,5 +1,41 @@
 [
   {
+    "domain": "nativewomenscentre.org",
+    "title": "168赛车官方直播入口-体彩168网历史数据|幸运赛车赛果记录、赛车一分钟开奖结果体彩查询 The Native Women's Shelter of Montreal",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 49007,
+    "crawled_at": "2026-06-12T16:14:19.96891341Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Aruba",
+      "Coming Soon Page",
+      "Contento",
+      "Express",
+      "FormSubmit",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Newsletter for Wordpress",
+      "Nginx",
+      "Outreach Pro",
+      "Pico CSS",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "mountkiscorotary.org",
     "title": "Home Page | Rotary Club of Mount Kisco",
     "business_name": "",
@@ -18715,36 +18751,6 @@
       "University or College",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "33rdandmemphis.com",
-    "title": "33rd And Memphis",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 25961,
-    "crawled_at": "2026-05-03T13:59:20.011253174Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Eventbrite",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Outreach Pro",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "Vimeo",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "eLand"
     ]
   }
 ]
