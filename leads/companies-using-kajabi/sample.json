@@ -1,5 +1,31 @@
 [
   {
+    "domain": "macro-leadership.com",
+    "title": "Macro Leadership Book",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 4936,
+    "crawled_at": "2026-06-12T03:41:19.970672139Z",
+    "technologies": [
+      "Amazon",
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "InitiativeS",
+      "Kajabi",
+      "Line2",
+      "PWA",
+      "UTF-8",
+      "University or College",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "aashishacademy.com",
     "title": "Home - Aashish academy",
     "business_name": "",
@@ -18147,39 +18173,6 @@
       "eLand",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "soulfulempowerment.online",
-    "title": "Soulful Empowerment | EFT Tapping, Counselling and Life Coaching in BC",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 70,
-    "tech_spend": 100996,
-    "crawled_at": "2026-05-06T20:29:20.004727972Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Aruba",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Kajabi",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "Pico CSS",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
