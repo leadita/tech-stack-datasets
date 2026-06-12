@@ -1,5 +1,30 @@
 [
   {
+    "domain": "meriembabbou.com",
+    "title": "Meriem Babbou | Residential Real Estate Broker at RE/MAX L'Espace",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 27050,
+    "crawled_at": "2026-06-12T12:50:19.968772918Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Didomi",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Nginx",
+      "No-Q",
+      "Nuxt.js",
+      "UTF-8",
+      "Vector Internet Services"
+    ]
+  },
+  {
     "domain": "christine-lebrun.com",
     "title": "Christine Lebrun | Real estate broker at RE/MAX Platine",
     "business_name": "",
@@ -15655,31 +15680,6 @@
       "Perl",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "lucieparadis.ca",
-    "title": "Félix & Lucie Real Estate | Real Estate Brokers at RE/MAX Imagine & Privilège",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 6720,
-    "crawled_at": "2026-02-19T06:50:50.458080111Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Didomi",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Neighborhoods",
-      "Nginx",
-      "Nuxt.js",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]
