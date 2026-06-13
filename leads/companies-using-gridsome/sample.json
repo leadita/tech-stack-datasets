@@ -1,5 +1,27 @@
 [
   {
+    "domain": "14dconstruction.com",
+    "title": "14D Construction Ltd.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 3157,
+    "crawled_at": "2026-06-13T03:44:19.968577954Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Financial Services Guide",
+      "Font Awesome",
+      "Gridsome",
+      "Idaq",
+      "Netlify",
+      "No-Q",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "coreillustrio.com",
     "title": "Core Illustrio",
     "business_name": "",
@@ -12000,29 +12022,6 @@
       "Gridsome",
       "Nginx",
       "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "robdekruijf.nl",
-    "title": "Rob de Kruijf - Gestalttherapie in Krimpen aan den IJsel, Rotterdam en Den Hoorn",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 72,
-    "tech_spend": 78899,
-    "crawled_at": "2026-01-24T17:36:08.047051451Z",
-    "technologies": [
-      "DAV",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Gridsome",
-      "M247",
-      "Nginx",
-      "Paessler",
-      "QUIC",
-      "SMC",
-      "Silicon Valley Web Hosting",
-      "UTF-8",
-      "Ubuntu"
     ]
   }
 ]
