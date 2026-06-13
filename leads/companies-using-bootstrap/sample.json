@@ -1,5 +1,35 @@
 [
   {
+    "domain": "360align.com",
+    "title": "360ALIGN – Advanced Auto Calibration Solutions",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 63,
+    "crawled_at": "2026-06-12T22:02:19.968316911Z",
+    "technologies": [
+      "Alternate Protocol",
+      "EmbedPress",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "LiteSpeed",
+      "PHP",
+      "Perl",
+      "QUIC",
+      "SiteOrigin",
+      "SiteOrigin Panels",
+      "Theme In WP",
+      "UTF-8",
+      "WP Bootstrap Starter",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "travarc.com",
     "title": "Cheap Flights USA | Book Cheap Flight Tickets USA |Travarc",
     "business_name": "",
@@ -15323,32 +15353,6 @@
       "WhatsApp Sharing",
       "WordPress",
       "WordPress Multisite",
-      "jQuery",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "couyontrailers.com",
-    "title": "Couyon Trailers - Online Booking",
-    "business_name": "Couyon Trailers",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 138,
-    "crawled_at": "2026-05-20T02:47:19.991216271Z",
-    "technologies": [
-      "Adult Content",
-      "Apache",
-      "Bludit",
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Font Awesome",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Start Bootstrap",
-      "Tailwind CSS",
-      "UTF-8",
       "jQuery",
       "jsDelivr"
     ]
