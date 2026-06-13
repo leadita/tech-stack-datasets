@@ -1,5 +1,38 @@
 [
   {
+    "domain": "myhomevaluenm.com",
+    "title": "Get your Free Home Analysis",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 10603,
+    "crawled_at": "2026-06-13T12:59:19.970499525Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon S3 CDN",
+      "Apture Linking Platform",
+      "Cisco/Arrowpoint Content Service Switch",
+      "CloudFront",
+      "Coming Soon Page",
+      "ConvertFlow",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Maps",
+      "Google Tag Manager",
+      "Keller Williams Realty",
+      "Material-UI",
+      "Prospective",
+      "QUIC",
+      "Storyblocks",
+      "Thank You",
+      "UTF-8",
+      "Ylopo"
+    ]
+  },
+  {
     "domain": "askshant.com",
     "title": "Home Search",
     "business_name": "",
