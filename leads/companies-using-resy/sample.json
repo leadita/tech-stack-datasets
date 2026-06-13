@@ -1,5 +1,36 @@
 [
   {
+    "domain": "kanopitherestaurant.com",
+    "title": "Kanopi The Restaurant - About",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 156998,
+    "crawled_at": "2026-06-13T07:08:19.969752397Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Cart.com",
+      "CloudFront",
+      "DAV",
+      "Duda",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "K2F",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "No-Q",
+      "Perl",
+      "Resy",
+      "SMC",
+      "Styled Components",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "delilahdallas.com",
     "title": "Hours & Location | Delilah in CA, TX, NV & FL",
     "business_name": "",
@@ -4108,37 +4139,6 @@
       "UTF-8",
       "WP Job Manager",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "kanopitherestaurant.com",
-    "title": "Kanopi The Restaurant - About",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 156998,
-    "crawled_at": "2026-06-03T22:18:48.365763115Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Cart.com",
-      "CloudFront",
-      "DAV",
-      "Duda",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "K2F",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "No-Q",
-      "Perl",
-      "Resy",
-      "SMC",
-      "Styled Components",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   },
   {

@@ -1,5 +1,41 @@
 [
   {
+    "domain": "krilldurham.com",
+    "title": "Krill Restaurant | Authentic Filipino Cuisine Experience in Durham, NC",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 11693,
+    "crawled_at": "2026-06-12T23:05:19.973506674Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Cloudflare",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Elfsight",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "OpenTable",
+      "Storyblocks",
+      "Tailwind CSS",
+      "Toast POS",
+      "UTF-8",
+      "WF Cookie Consent",
+      "Webflow",
+      "Yelp Badge"
+    ]
+  },
+  {
     "domain": "sophies.ie",
     "title": "Sophie's Rooftop Restaurant | 360° Views of Dublin, Cork & Galway City",
     "business_name": "",
@@ -16985,34 +17021,6 @@
       "WooCommerce Stripe Payment Gateway",
       "WordPress",
       "WordPress Multisite",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "hc2b1.com",
-    "title": "Harmony Cuisine 2B1 - San Diego, CA",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 14977,
-    "crawled_at": "2026-05-23T06:14:19.994895713Z",
-    "technologies": [
-      "Cloudinary",
-      "DC74",
-      "ElementUI",
-      "Fastly",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microsoft Authentication Library for JavaScript",
-      "OpenTable",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "WP Job Manager",
       "jQuery"
     ]
   }
