@@ -1,5 +1,29 @@
 [
   {
+    "domain": "finnrick.co.uk",
+    "title": "Finnrick - Independent Peptide Testing | 8,026 Tests, 225 Vendors",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 77,
+    "tech_spend": 4820,
+    "crawled_at": "2026-06-13T05:59:19.969278269Z",
+    "technologies": [
+      "Breezy HR",
+      "Content Delivery Network",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Plausible Analytics",
+      "Sanity",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "Twitter Analytics",
+      "UTF-8",
+      "Vercel",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "corporatetraffic.com",
     "title": "Corporate Traffic",
     "business_name": "Corporate Traffic",
@@ -14905,28 +14929,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "finnrick.co.uk",
-    "title": "Finnrick - Product Testing & Supply Chain Transparency",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 72,
-    "tech_spend": 3632,
-    "crawled_at": "2026-02-02T00:55:48.863951343Z",
-    "technologies": [
-      "Breezy HR",
-      "Content Delivery Network",
-      "Next.js",
-      "Plausible Analytics",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "Twitter Analytics",
-      "UTF-8",
-      "Vercel",
-      "YouTube",
-      "shadcn ui"
     ]
   },
   {
