@@ -1,5 +1,37 @@
 [
   {
+    "domain": "islandcareer.ca",
+    "title": "Career Training Programs | Island Career Academy",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 82,
+    "tech_spend": 12908,
+    "crawled_at": "2026-06-13T00:23:19.96882797Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DoubleClick Bid Manager",
+      "Facebook Reseller",
+      "Google",
+      "Google Analytics",
+      "Google Cloud",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Reseller",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "JotForm",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "RM Education",
+      "Stripe",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "advancedplumbingteam.com",
     "title": "Advanced Plumbing Team",
     "business_name": "",
@@ -19723,31 +19755,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "the-vibecurator.com",
-    "title": "The Vibe Curator",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 3856,
-    "crawled_at": "2026-05-16T14:26:35.343698008Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Express",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "JotForm",
-      "Line2",
-      "PWA",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
     ]
   }
 ]
