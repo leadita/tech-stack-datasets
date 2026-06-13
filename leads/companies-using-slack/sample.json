@@ -1,5 +1,39 @@
 [
   {
+    "domain": "semgrep.com",
+    "title": "Semgrep App Security Platform | AI-assisted SAST, SCA and Secrets Detection",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 66342,
+    "crawled_at": "2026-06-13T02:59:19.970803943Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "Fireblade",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Marketo",
+      "NFOrce Internet",
+      "Netlify",
+      "OneTrust Domain Verification",
+      "Pico CSS",
+      "QUIC",
+      "Slack",
+      "Tailwind CSS",
+      "UTF-8",
+      "VWO Engage",
+      "Visual Website Optimizer",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "josedelfino.com",
     "title": "http",
     "business_name": "",
@@ -19524,34 +19558,6 @@
       "Slack",
       "Subversion",
       "Tailwind CSS",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "dcase.community",
-    "title": "DCASE",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 20407,
-    "crawled_at": "2026-05-17T04:11:38.374987383Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Fastly",
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Slack",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
       "jQuery"
     ]
   }

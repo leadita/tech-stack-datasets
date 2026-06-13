@@ -1,5 +1,35 @@
 [
   {
+    "domain": "epsdigitalexpertpanel.com",
+    "title": "EPS Digital Expert Panel 2026",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 65,
+    "tech_spend": 20076,
+    "crawled_at": "2026-06-13T07:11:19.969152304Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Apache",
+      "Azion",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "InitiativeS",
+      "Microsoft Teams",
+      "Perl",
+      "QUIC",
+      "University or College",
+      "eRech24 Safe Sharing"
+    ]
+  },
+  {
     "domain": "lpga-la.com",
     "title": "JM Eagle LA Championship | El Caballero Country Club",
     "business_name": "",
@@ -18027,35 +18057,6 @@
       "UTF-8",
       "UptimeRobot",
       "Visual Studio"
-    ]
-  },
-  {
-    "domain": "starkaffiliates.com",
-    "title": "Stark Affiliates",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 18831,
-    "crawled_at": "2026-04-29T01:56:20.015877847Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "Fireblade",
-      "Gambling Content",
-      "Microsoft Teams",
-      "PHP",
-      "QUIC",
-      "Telegram",
-      "Theme In WP",
-      "TranslatePress",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
