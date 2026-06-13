@@ -1,5 +1,102 @@
 [
   {
+    "domain": "pole-gerontologie.fr",
+    "title": "Home - PGI",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 50,
+    "tech_spend": 631,
+    "crawled_at": "2026-06-13T09:53:19.96933921Z",
+    "technologies": [
+      "ASP.NET Core",
+      "AWS WAF Challenge",
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "GZIP Module",
+      "Matomo Tag Manager",
+      "Microsoft Ajax Content Delivery Network",
+      "Microsoft Application Insights",
+      "Microsoft Azure",
+      "UTF-8",
+      "Visual Studio"
+    ]
+  },
+  {
+    "domain": "phxstripes.com",
+    "title": "Phoenix Striping | Phoenix Parking-Lot Striping & Line Marking",
+    "business_name": "Phoenix Striping",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 4861,
+    "crawled_at": "2026-06-13T01:38:19.968819836Z",
+    "technologies": [
+      "ASP.NET Core",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apache",
+      "Apture Linking Platform",
+      "Astra Theme",
+      "CoBlocks",
+      "Elementor",
+      "EmbedPress",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Gravity",
+      "Gravity Forms",
+      "HT Mega",
+      "Instagram Follow Button",
+      "Lazy Load for WordPress",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PHP",
+      "PixelYourSite",
+      "QUIC",
+      "Thank You",
+      "UTF-8",
+      "WP Rocket",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "micksjym.co.uk",
+    "title": "Home - Mick's Jym",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 45,
+    "tech_spend": 63,
+    "crawled_at": "2026-06-13T00:41:19.970675656Z",
+    "technologies": [
+      "ASP.NET Core",
+      "DAV",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "gamedevsols.com",
+    "title": "GameDevSols",
+    "business_name": "",
+    "country": "",
+    "seo_score": 20,
+    "tech_spend": "",
+    "crawled_at": "2026-06-12T17:56:19.984328293Z",
+    "technologies": [
+      "ASP.NET Core",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "merixdata.com",
     "title": "SahelDashboard",
     "business_name": "",
@@ -15921,91 +16018,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "mientay.co.uk",
-    "title": "Home Mien Tay restaurant",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 63,
-    "crawled_at": "2026-05-28T00:21:11.694164053Z",
-    "technologies": [
-      "ASP.NET Core",
-      "Blazor",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microsoft Azure",
-      "Squid",
-      "Tailwind CSS",
-      "UTF-8",
-      "Visual Studio"
-    ]
-  },
-  {
-    "domain": "xn----9sbsd1af.xn--p1ai",
-    "title": "Вход в систему - Биз-он",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 243,
-    "crawled_at": "2026-05-27T23:14:19.970340285Z",
-    "technologies": [
-      "ASP.NET Core",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "MaxCDN",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "blackbirdcottagenorfolk.com",
-    "title": "Blackbird Cottage | Book Your Retreat Today",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 101333,
-    "crawled_at": "2026-05-27T22:55:39.766102226Z",
-    "technologies": [
-      "ASP.NET Core",
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Contento",
-      "Express",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "inbalancelifeandparentcoaching.com",
-    "title": "In Balance Life and Parent Coaching",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 1326,
-    "crawled_at": "2026-05-27T22:14:19.968821227Z",
-    "technologies": [
-      "ASP.NET Core",
-      "Adobe Creative Cloud WebFonts",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Rackspace CDN",
-      "Tailwind CSS",
-      "Unsplash",
-      "Vagaro"
     ]
   }
 ]
