@@ -1,5 +1,35 @@
 [
   {
+    "domain": "magpiesnews.com",
+    "title": "NewcastleUnitedNews.org | Latest Newcastle News and Transfers",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 72,
+    "tech_spend": 39359,
+    "crawled_at": "2026-06-13T10:50:19.967786786Z",
+    "technologies": [
+      "BunnyCDN",
+      "BunnyCDN General",
+      "Chartbeat",
+      "CoreUI",
+      "DAV",
+      "Exit Bee",
+      "Express",
+      "GDPR Consent Management Platform",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Nginx",
+      "Parse.ly",
+      "Pico CSS",
+      "PollDaddy",
+      "Twitter Ads",
+      "WordPress",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "utaheats.com",
     "title": "Food - The Salt Lake Tribune",
     "business_name": "",
@@ -756,28 +786,6 @@
       "UTF-8",
       "University or College",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "rugbyleaguenews.net",
-    "title": "Rugby League News | Latest Rugby League News And Results",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 50339,
-    "crawled_at": "2026-05-31T22:39:57.040044697Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Chartbeat",
-      "CoreUI",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "NFOrce Internet",
-      "Nginx",
-      "Parse.ly",
-      "PollDaddy",
-      "Twitter Ads"
     ]
   },
   {
