@@ -1,5 +1,27 @@
 [
   {
+    "domain": "snout.ie",
+    "title": "Snout quirky gifts and homeware online and in Cork",
+    "business_name": "Snout quirky gifts and homeware online and in Cork",
+    "country": "IRL",
+    "seo_score": 70,
+    "tech_spend": 5547,
+    "crawled_at": "2026-06-12T22:32:19.969090479Z",
+    "technologies": [
+      "Copy Anything to Clipboard",
+      "IcoMoon",
+      "Material Design Icons",
+      "Microdata for Google Shopping",
+      "PHP",
+      "PrestaShop",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "eLand"
+    ]
+  },
+  {
     "domain": "parisnumerique.fr",
     "title": "Accueil | Paris Numerique",
     "business_name": "",
@@ -15303,35 +15325,6 @@
       "Squid",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "viinarannasta.eu",
-    "title": "Super Alko Viinarannasta International",
-    "business_name": "",
-    "country": "EST",
-    "seo_score": 65,
-    "tech_spend": 660,
-    "crawled_at": "2026-05-24T15:47:33.158186961Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Alternate Protocol",
-      "Apache",
-      "Content ad",
-      "EasyMe",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "LiveValidation",
-      "PHP",
-      "Perl",
-      "PrestaShop",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
