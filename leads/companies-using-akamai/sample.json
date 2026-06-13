@@ -1,5 +1,33 @@
 [
   {
+    "domain": "womenrawc.com",
+    "title": "Women RAWC - Podcast - Apple Podcasts",
+    "business_name": "",
+    "country": "BRA",
+    "seo_score": 77,
+    "tech_spend": 15809,
+    "crawled_at": "2026-06-13T11:50:19.96922829Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Akamai EdgeConnect",
+      "Alternate Protocol",
+      "Amazon Widgets",
+      "Content Delivery Network",
+      "Express",
+      "Google My Business",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Linktree",
+      "PWA",
+      "Perl",
+      "ScheduleOnce",
+      "Svelte",
+      "Twitter Ads",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "lotso.au",
     "title": "Australian Breaking News Headlines & World News Online | SMH.com.au",
     "business_name": "",
@@ -15804,39 +15832,6 @@
       "QUIC",
       "Svelte",
       "Twitter Ads",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "layol.co",
-    "title": "LAYOL",
-    "business_name": "LAYOL INC",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 78848,
-    "crawled_at": "2026-05-25T13:44:29.205706476Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Akamai Edge",
-      "Akamai Global Host",
-      "Alternate Protocol",
-      "Aruba",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "Pico CSS",
-      "QUIC",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
       "eLand"
     ]
   }
