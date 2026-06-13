@@ -1,5 +1,29 @@
 [
   {
+    "domain": "surfdeli.com",
+    "title": "Yorkie's | Modern Deli",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 448,
+    "crawled_at": "2026-06-13T12:41:19.977169389Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Financial Services Guide",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Maps",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Netlify",
+      "Nuxt.js",
+      "Prismic",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "chakbam.com",
     "title": "Sharetribe - Marketplace Software for Founders",
     "business_name": "Sharetribe",
@@ -13671,33 +13695,6 @@
       "UTF-8",
       "Vercel",
       "eLand"
-    ]
-  },
-  {
-    "domain": "lovesustainedbridal.co.uk",
-    "title": "Homepage",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 780,
-    "crawled_at": "2026-04-11T05:35:42.103117725Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Content Delivery Network",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Prismic",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]

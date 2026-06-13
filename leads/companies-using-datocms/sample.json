@@ -1,5 +1,30 @@
 [
   {
+    "domain": "prodigaldaughterproductions.com",
+    "title": "Prodigal Daughter Productions | Prodigal Daughter",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 5396,
+    "crawled_at": "2026-06-13T05:47:19.969946334Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "DatoCMS",
+      "Gatsby JS",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Idaq",
+      "Instagram Follow Button",
+      "Netlify",
+      "UTF-8",
+      "Vimeo",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "fintechpledge2025.org",
     "title": "The 2025 Fintech Pledge",
     "business_name": "",
@@ -6779,31 +6804,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "prodigaldaughterproductions.com",
-    "title": "Prodigal Daughter Productions | Prodigal Daughter",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 5396,
-    "crawled_at": "2026-05-08T13:09:13.262509086Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "DatoCMS",
-      "Gatsby JS",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Idaq",
-      "Instagram Follow Button",
-      "Netlify",
-      "UTF-8",
-      "Vimeo",
-      "shadcn ui"
     ]
   },
   {
