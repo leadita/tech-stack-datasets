@@ -1,5 +1,44 @@
 [
   {
+    "domain": "safadmc.com",
+    "title": "Safa Travel",
+    "business_name": "Safa Travel",
+    "country": "EGY",
+    "seo_score": 72,
+    "tech_spend": 6967,
+    "crawled_at": "2026-06-12T16:47:19.971496028Z",
+    "technologies": [
+      "App Store",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Engage",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Freshworks Bot",
+      "GZIP Module",
+      "GetButton.io",
+      "Google Analytics",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "Hotjar",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "Microsoft Azure",
+      "Perl",
+      "QUIC",
+      "SearchLinks",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Visual Studio",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "forexvps.shop",
     "title": "ForexVPS™ - London, NY - MT4, cTrader - 24h Support",
     "business_name": "",
@@ -22516,33 +22555,6 @@
       "IcoMoon",
       "QUIC",
       "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "bettoday.com",
-    "title": "Casino and Live Casino at Bettoday",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 8279,
-    "crawled_at": "2026-04-10T10:29:19.993121805Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Create React App",
-      "Fastly",
-      "Font Awesome",
-      "Freshworks Bot",
-      "GZIP Module",
-      "Gambling Content",
-      "Google",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Pleroma",
-      "Twitter Ads",
       "UTF-8"
     ]
   }
