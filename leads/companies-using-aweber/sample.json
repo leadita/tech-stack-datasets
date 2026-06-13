@@ -1,5 +1,29 @@
 [
   {
+    "domain": "implantdentist.com.au",
+    "title": "Home",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 67,
+    "tech_spend": 19908,
+    "crawled_at": "2026-06-12T21:26:19.975187768Z",
+    "technologies": [
+      "Blue Box Group",
+      "Eber",
+      "GoDaddy",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight",
+      "aWeber"
+    ]
+  },
+  {
     "domain": "robynmontgomery.com",
     "title": "Home - Robyn Montgomery",
     "business_name": "",
@@ -18612,36 +18636,6 @@
       "WordPress Related Posts",
       "aWeber",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "jennifermedley.com",
-    "title": "j e n n i f e r . m e d l e y",
-    "business_name": "",
-    "country": "NZL",
-    "seo_score": 67,
-    "tech_spend": 5537,
-    "crawled_at": "2026-04-21T05:44:19.995302392Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Eber",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "aWeber",
-      "eLand"
     ]
   }
 ]
