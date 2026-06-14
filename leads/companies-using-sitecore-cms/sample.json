@@ -1,5 +1,40 @@
 [
   {
+    "domain": "franksredhot.store",
+    "title": "Frank's RedHot Merch Store Closed | Frank’s® RedHot®",
+    "business_name": "",
+    "country": "GUF",
+    "seo_score": 60,
+    "tech_spend": 51201,
+    "crawled_at": "2026-06-13T23:14:19.969684546Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "ElementUI",
+      "Fonts.com",
+      "GetResponse",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "New Relic",
+      "OneTrust Domain Verification",
+      "Sitecore CMS",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "edwardliving.com",
     "title": "The Edward Boutique Living by Chartwell",
     "business_name": "",
@@ -17308,37 +17343,6 @@
       "YouTube",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "greeleymuseums.com",
-    "title": "Museums | City of Greeley",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 166500,
-    "crawled_at": "2026-05-21T07:08:19.999226885Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Express",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Microsoft 365",
-      "Next.js",
-      "Pleroma",
-      "Sitecore CMS",
-      "Trumba",
-      "UTF-8",
-      "Vercel",
-      "eLand",
-      "jsDelivr"
     ]
   }
 ]
