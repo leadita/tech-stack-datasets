@@ -1,5 +1,34 @@
 [
   {
+    "domain": "capstacker.cc",
+    "title": "Hire fractional talent. Pay on delivery. | Capstacker",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 3653,
+    "crawled_at": "2026-06-14T09:26:19.968821347Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Amazon WAF Blocked",
+      "Apollo IO",
+      "CloudFront",
+      "Cybot",
+      "Django",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Nginx",
+      "Notion",
+      "QUIC",
+      "UTF-8",
+      "Ubuntu",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "taxalternativegroup.com",
     "title": "Tax Alternative Group | Poughkeepsie, NY Tax Professionals",
     "business_name": "",
@@ -5480,35 +5509,6 @@
       "Perl",
       "QUIC",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "capstacker.io",
-    "title": "Hire fractional talent. Pay on delivery. | Capstacker",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 3653,
-    "crawled_at": "2026-04-12T11:56:20.011770021Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Amazon WAF Blocked",
-      "Apollo IO",
-      "CloudFront",
-      "Cybot",
-      "Django",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Nginx",
-      "Notion",
-      "QUIC",
-      "UTF-8",
-      "Ubuntu",
-      "jsDelivr"
     ]
   },
   {

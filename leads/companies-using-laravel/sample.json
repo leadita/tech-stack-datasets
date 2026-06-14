@@ -1,5 +1,35 @@
 [
   {
+    "domain": "biogenes.eu",
+    "title": "BioGenes - Custom Antibody & Immunoassay Services",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 72,
+    "tech_spend": 23476,
+    "crawled_at": "2026-06-14T11:05:19.969403284Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Contao Cookie Consent",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Kitco",
+      "Laravel Cookie Consent",
+      "LinkedIn Insights",
+      "Matomo",
+      "Matomo Tag Manager",
+      "PWA",
+      "TYPO3",
+      "Tailwind CSS",
+      "UTF-8",
+      "eLand"
+    ]
+  },
+  {
     "domain": "nationaleducation.college",
     "title": "National College of Education",
     "business_name": "",
@@ -9734,36 +9764,6 @@
       "Prospective",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "biogenes.de",
-    "title": "BioGenes - Custom Antibody & Immunoassay Services",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 72,
-    "tech_spend": 23476,
-    "crawled_at": "2026-05-21T18:44:19.972158009Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Contao Cookie Consent",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Kitco",
-      "Laravel Cookie Consent",
-      "LinkedIn Insights",
-      "Matomo",
-      "Matomo Tag Manager",
-      "PWA",
-      "TYPO3",
-      "Tailwind CSS",
-      "UTF-8",
-      "eLand"
     ]
   },
   {
