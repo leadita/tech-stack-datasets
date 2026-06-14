@@ -1,5 +1,38 @@
 [
   {
+    "domain": "texasbillingservices.com",
+    "title": "Texas Hill Country Consultants LLC | Medical Billing Company",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 9896,
+    "crawled_at": "2026-06-14T00:23:19.968660179Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Adobe Creative Cloud WebFonts",
+      "Amazon",
+      "Amazon CloudFront",
+      "Better Lead Generation Services",
+      "CloudFront",
+      "Elfsight",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Nginx",
+      "Tawk",
+      "TherapyNotes",
+      "WF Cookie Consent",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "visioncrestglobalservices.com",
     "title": "Outsourced Medical Billing Services in USA | VisionCrest",
     "business_name": "Visioncrest Global Services",
@@ -2755,39 +2788,6 @@
       "YouTube",
       "eClinicalWorks",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "texashillcountryconsultants.com",
-    "title": "Texas Hill Country Consultants LLC | Medical Billing Company",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 9896,
-    "crawled_at": "2026-04-22T23:59:20.021286925Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Adobe Creative Cloud WebFonts",
-      "Amazon",
-      "Amazon CloudFront",
-      "Better Lead Generation Services",
-      "CloudFront",
-      "Elfsight",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Nginx",
-      "Tawk",
-      "TherapyNotes",
-      "WF Cookie Consent",
-      "reCAPTCHA"
     ]
   },
   {
