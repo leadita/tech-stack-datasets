@@ -1,5 +1,37 @@
 [
   {
+    "domain": "joinmidi.com",
+    "title": "Meet Midi: Insurance-Covered Care from Women's Health Specialists | Midi Health",
+    "business_name": "",
+    "country": "SYC",
+    "seo_score": 82,
+    "tech_spend": 29238,
+    "crawled_at": "2026-06-13T22:02:19.968062485Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon WAF Blocked",
+      "AthenaHealth",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Prismic",
+      "Python",
+      "UTF-8",
+      "Vimeo",
+      "Vimeo CDN",
+      "Visual Website Optimizer",
+      "YouTube",
+      "Zendesk Embeddables"
+    ]
+  },
+  {
     "domain": "surfdeli.com",
     "title": "Yorkie's | Modern Deli",
     "business_name": "",
@@ -13668,33 +13700,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "ndstyres.com",
-    "title": "NDS Tyres | Mobile Tyre Fitting",
-    "business_name": "NDS Tyres | Mobile Tyre Fitting",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 17860,
-    "crawled_at": "2026-04-11T06:29:32.62264206Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Express",
-      "Fireblade",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "Prismic",
-      "Thank You",
-      "UTF-8",
-      "Vercel",
-      "eLand"
     ]
   }
 ]
