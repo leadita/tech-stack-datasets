@@ -1,5 +1,35 @@
 [
   {
+    "domain": "switchmobility.co.in",
+    "title": "Switch",
+    "business_name": "Switch Mobility (PowerPedal)",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 20130,
+    "crawled_at": "2026-06-13T23:38:19.974740674Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Apture Linking Platform",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Dialogflow",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "University or College"
+    ]
+  },
+  {
     "domain": "conrep.com",
     "title": "CONREP - Fully Featured PSA Software",
     "business_name": "",
