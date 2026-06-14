@@ -1,5 +1,25 @@
 [
   {
+    "domain": "visactor.io",
+    "title": "VisActor ——Narrative-Oriented Intelligent Visualization Solutions",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 500,
+    "crawled_at": "2026-06-14T03:35:19.967884934Z",
+    "technologies": [
+      "Akamai EdgeConnect",
+      "Azure Edge",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Medium",
+      "Observable",
+      "UPS"
+    ]
+  },
+  {
     "domain": "womenrawc.com",
     "title": "Women RAWC - Podcast - Apple Podcasts",
     "business_name": "",
@@ -15803,36 +15823,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "superchat.gg",
-    "title": "Superchat - Delightful AI Chat App - App Store",
-    "business_name": "App Store",
-    "country": "BRA",
-    "seo_score": 77,
-    "tech_spend": 100507,
-    "crawled_at": "2026-05-25T13:44:29.216030173Z",
-    "technologies": [
-      "Akamai EdgeConnect",
-      "Alternate Protocol",
-      "App Store",
-      "Apture Linking Platform",
-      "Azure Edge",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "DAV",
-      "Fireblade",
-      "INETu",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "MediaPlatform",
-      "PWA",
-      "Perl",
-      "QUIC",
-      "Svelte",
-      "Twitter Ads",
-      "eLand"
     ]
   }
 ]
