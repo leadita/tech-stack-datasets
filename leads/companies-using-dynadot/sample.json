@@ -1,5 +1,25 @@
 [
   {
+    "domain": "indiansjobs.com",
+    "title": "Suresh.co.in - Business of Words - IndiaJob.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 36,
+    "crawled_at": "2026-06-13T16:14:19.9739515Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "UTF-8",
+      "Vello",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "fluxglobaltradingllc.com",
     "title": "Flux Global Trading Inc",
     "business_name": "",
@@ -1508,26 +1528,6 @@
       "Font Awesome",
       "GZIP Module",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "telanganajob.com",
-    "title": "Suresh.co.in - Business of Words - IndiaJob.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 135,
-    "crawled_at": "2026-05-06T07:41:19.989072864Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8",
-      "Vello",
-      "YouTube"
     ]
   },
   {
