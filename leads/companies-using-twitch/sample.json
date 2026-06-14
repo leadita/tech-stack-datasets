@@ -1,5 +1,30 @@
 [
   {
+    "domain": "atomikgamez.com",
+    "title": "@atomikgamez | Twitch Official Partner, Kick Official | Beacons",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 160,
+    "crawled_at": "2026-06-14T02:47:19.971315546Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Beacons",
+      "GZIP Module",
+      "Google Cloud",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nationwide Mortgage Licensing System and Registry",
+      "Next.js",
+      "PWA",
+      "Subversion",
+      "Twitch",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "evolutionphoenix.com",
     "title": "Personal Portfolio",
     "business_name": "",
@@ -17332,44 +17357,6 @@
       "YouTube",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "trentarthur.ca",
-    "title": "Arthur Newspaper",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 459,
-    "crawled_at": "2026-04-28T13:53:08.556897773Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Adobe Creative Cloud WebFonts",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Corporate Governance and Regulatory Compliance",
-      "DAV",
-      "Donorbox",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Oracle Cloud",
-      "Tailwind CSS",
-      "Twitch",
-      "Twitter Ads",
-      "UTF-8",
-      "WF Cookie Consent",
-      "jsDelivr"
     ]
   }
 ]
