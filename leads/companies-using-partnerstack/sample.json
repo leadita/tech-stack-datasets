@@ -1,39 +1,12 @@
 [
   {
-    "domain": "wfh.lat",
-    "title": "WFH — Verified Remote Jobs Worldwide",
+    "domain": "2for2challenge.org",
+    "title": "$2 for 2 Challenge",
     "business_name": "",
     "country": "",
-    "seo_score": 67,
-    "tech_spend": 56708,
-    "crawled_at": "2026-06-12T20:56:19.969004973Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Commission Junction",
-      "Content Delivery Network",
-      "Fireblade",
-      "Framer Sites",
-      "Google",
-      "Google Cloud CDN",
-      "Instagram Follow Button",
-      "KVH",
-      "Netlify",
-      "Ntent",
-      "PartnerStack",
-      "Shifter",
-      "UTF-8",
-      "Yandex Hosting",
-      "Zeald"
-    ]
-  },
-  {
-    "domain": "pfolmovement.com",
-    "title": "Pray For Our Leaders VIII, Presented by Christian Tech Center",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 111070,
-    "crawled_at": "2026-06-12T11:08:19.969600235Z",
+    "seo_score": 42,
+    "tech_spend": 29347,
+    "crawled_at": "2026-06-13T14:05:19.968890657Z",
     "technologies": [
       "501c3 Status Nonprofit",
       "AWS WAF Challenge",
@@ -71,7 +44,6 @@
       "Google My Business",
       "Google Tag Manager",
       "Heroku",
-      "InitiativeS",
       "LinkedIn Pixel",
       "Material-UI",
       "Microdata for Google Shopping",
@@ -96,6 +68,33 @@
       "Zeffy",
       "jsDelivr",
       "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "wfh.lat",
+    "title": "WFH — Verified Remote Jobs Worldwide",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 56708,
+    "crawled_at": "2026-06-12T20:56:19.969004973Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Commission Junction",
+      "Content Delivery Network",
+      "Fireblade",
+      "Framer Sites",
+      "Google",
+      "Google Cloud CDN",
+      "Instagram Follow Button",
+      "KVH",
+      "Netlify",
+      "Ntent",
+      "PartnerStack",
+      "Shifter",
+      "UTF-8",
+      "Yandex Hosting",
+      "Zeald"
     ]
   },
   {

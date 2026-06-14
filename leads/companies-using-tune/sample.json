@@ -1,5 +1,36 @@
 [
   {
+    "domain": "selfiecookie.co.uk",
+    "title": "Selffee",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 12596,
+    "crawled_at": "2026-06-14T02:11:19.968385619Z",
+    "technologies": [
+      "AdRoll",
+      "Amazon",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Salesforce Hosted",
+      "Shopify",
+      "Shopify Collabs",
+      "Squid",
+      "TUNE",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "josedelfino.com",
     "title": "http",
     "business_name": "",
@@ -18563,34 +18594,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "appliancerepair-kansascityks.com",
-    "title": "ASAP Appliance Repair Experts - (913) 357-6231",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 17882,
-    "crawled_at": "2026-05-08T12:47:19.977196976Z",
-    "technologies": [
-      "AMP for WordPress",
-      "Accelerated Mobile Pages",
-      "Apache",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "PHP",
-      "Perl",
-      "QUIC",
-      "TUNE",
-      "UTF-8",
-      "Umbler",
-      "Web Stories",
-      "Yellow Pages Canada"
     ]
   }
 ]
