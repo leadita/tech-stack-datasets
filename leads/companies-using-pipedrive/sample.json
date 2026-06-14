@@ -1,5 +1,44 @@
 [
   {
+    "domain": "executive-impact.com",
+    "title": "EO Executives – Results through people (EN)",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 72,
+    "tech_spend": 12435,
+    "crawled_at": "2026-06-13T16:26:19.968886811Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cybot",
+      "Digital Ocean Spaces",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Herefish",
+      "LinkedIn Insights",
+      "LinkedIn Pixel",
+      "Pipedrive",
+      "Pleroma",
+      "UTF-8",
+      "Vimeo",
+      "Weglot",
+      "YouTube",
+      "jQuery",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "broadbentsurveyors.com",
     "title": "Welcome to Broadbent & Co Chartered Surveyors - Broadbent Surveyors",
     "business_name": "Broadbent Surveyors",
@@ -19776,28 +19815,6 @@
       "jQuery",
       "shadcn ui",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "runwayfbu.com",
-    "title": "RunwayFBU — Where Industrial Tech Gets Built",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 1354,
-    "crawled_at": "2026-05-03T22:21:19.601479344Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pipedrive",
-      "Pleroma",
-      "UTF-8"
     ]
   }
 ]

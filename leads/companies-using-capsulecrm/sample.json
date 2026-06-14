@@ -1,12 +1,12 @@
 [
   {
-    "domain": "grofar.info",
+    "domain": "grofar.careers",
     "title": "Grofar - Careers Service, Work Placement, and Work Experience Software",
     "business_name": "",
     "country": "GBR",
     "seo_score": 67,
     "tech_spend": 45515,
-    "crawled_at": "2026-06-12T05:20:19.967900388Z",
+    "crawled_at": "2026-06-14T11:26:19.968681662Z",
     "technologies": [
       "AWS WAF Challenge",
       "Bulma",
