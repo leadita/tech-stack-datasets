@@ -1,5 +1,27 @@
 [
   {
+    "domain": "whistlevalleyboergoats.com",
+    "title": "Whistle Valley Boer Goats — Fullblood Boer Genetics, PA",
+    "business_name": "Whistle Valley Boer Goats",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 3160,
+    "crawled_at": "2026-06-14T00:35:19.96916797Z",
+    "technologies": [
+      "Cloudflare",
+      "Fontshare",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Microdata for Google Shopping",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "westernghats.shop",
     "title": "Western Ghats Solar — Rooftop solar built for Tamil Nadu.",
     "business_name": "",
@@ -13302,26 +13324,6 @@
       "YouTube",
       "hCaptcha",
       "reCAPTCHA",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "dankies.co.za",
-    "title": "Dankies — Corporate & Personal Gifting Made Simple",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 62,
-    "tech_spend": 2640,
-    "crawled_at": "2026-05-10T19:56:20.009973461Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fontshare",
-      "Google",
-      "Instagram Follow Button",
-      "Next.js",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
       "shadcn ui"
     ]
   }
