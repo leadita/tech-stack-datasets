@@ -1,5 +1,32 @@
 [
   {
+    "domain": "tranquilitycyber.ky",
+    "title": "Tranquility AI",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 32392,
+    "crawled_at": "2026-06-14T03:32:19.970061631Z",
+    "technologies": [
+      "1Password",
+      "Alternate Protocol",
+      "Financial Services Guide",
+      "Framer Sites",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Tag Manager",
+      "Gusto",
+      "Harbor",
+      "KVH",
+      "NFOrce Internet",
+      "Ntent",
+      "QUIC",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
     "domain": "devranca.net",
     "title": "Devran Ocakdan Online Portfolio",
     "business_name": "",
@@ -3518,33 +3545,6 @@
       "WordPress Multisite",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "codetective.ai",
-    "title": "Tranquility AI",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 32392,
-    "crawled_at": "2026-05-15T13:56:19.991942924Z",
-    "technologies": [
-      "1Password",
-      "Alternate Protocol",
-      "Financial Services Guide",
-      "Framer Sites",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "Gusto",
-      "Harbor",
-      "KVH",
-      "NFOrce Internet",
-      "Ntent",
-      "QUIC",
-      "Yandex Hosting",
-      "Zeald"
     ]
   },
   {
