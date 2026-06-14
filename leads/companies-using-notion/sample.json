@@ -1,5 +1,34 @@
 [
   {
+    "domain": "capstacker.cc",
+    "title": "Hire fractional talent. Pay on delivery. | Capstacker",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 3653,
+    "crawled_at": "2026-06-14T09:26:19.968821347Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Amazon WAF Blocked",
+      "Apollo IO",
+      "CloudFront",
+      "Cybot",
+      "Django",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Nginx",
+      "Notion",
+      "QUIC",
+      "UTF-8",
+      "Ubuntu",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "collbox.ai",
     "title": "CollBox – Get Past-Due Invoices Paid – Connect Your Books",
     "business_name": "",
@@ -15798,41 +15827,6 @@
       "Shopify",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "navigate2ai.com",
-    "title": "Get your best AI Tools | Navigate2 AI Directory",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 289268,
-    "crawled_at": "2026-05-11T08:32:19.987905827Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "App Store",
-      "Content Delivery Network",
-      "Google Adsense",
-      "Google Analytics",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google My Business",
-      "Google Reseller",
-      "Google Tag Manager",
-      "Next.js",
-      "Notion",
-      "OpenAI",
-      "Pleroma",
-      "Salesforce",
-      "Salesforce Experience Cloud",
-      "Salesforce Hosted",
-      "Shutterstock",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]

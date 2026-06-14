@@ -1,5 +1,31 @@
 [
   {
+    "domain": "cognibloom.net",
+    "title": "Home - CogniBloom",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2488,
+    "crawled_at": "2026-06-13T14:26:19.970049595Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "DAV",
+      "EmbedPress",
+      "GZIP Module",
+      "GenerateBlocks",
+      "GoFundMe",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "Sitelinks Search Box",
+      "Slack",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "semgrep.com",
     "title": "Semgrep App Security Platform | AI-assisted SAST, SCA and Secrets Detection",
     "business_name": "",
@@ -19531,34 +19557,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "eLand",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "pingpilot.com",
-    "title": "PingPilot – Meet People Where They Are",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 156650,
-    "crawled_at": "2026-05-17T05:08:19.997886344Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google My Business",
-      "PWA",
-      "PingPilot",
-      "QUIC",
-      "Salesforce Hosted",
-      "Slack",
-      "Subversion",
-      "Tailwind CSS",
-      "jQuery"
     ]
   }
 ]
