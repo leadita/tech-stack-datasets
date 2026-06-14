@@ -1,5 +1,43 @@
 [
   {
+    "domain": "clickwisedesign.net",
+    "title": "Click Wise Design",
+    "business_name": "%%sitename%%",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 10914,
+    "crawled_at": "2026-06-14T02:59:19.971039497Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Astra Theme",
+      "Better Lead Generation Services",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "EmbedPress",
+      "Font Awesome",
+      "GenerateBlocks",
+      "Google",
+      "Google Cloud DNS",
+      "Google Customer Reviews",
+      "Google Font API",
+      "JotForm",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Post Grid",
+      "QUIC",
+      "RM Education",
+      "Theme In WP",
+      "UTF-8",
+      "Ultimate Addons for Gutenberg",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Related Posts",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "islandcareer.ca",
     "title": "Career Training Programs | Island Career Academy",
     "business_name": "",
@@ -19723,38 +19761,6 @@
       "RM Education",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "formhausatelier.com",
-    "title": "Formhaus atelier",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 45,
-    "tech_spend": 29100,
-    "crawled_at": "2026-05-16T14:44:20.024783922Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Cloudinary",
-      "Coming Soon Page",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "JotForm",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "RM Education",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]

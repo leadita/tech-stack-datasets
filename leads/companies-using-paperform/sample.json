@@ -1,5 +1,26 @@
 [
   {
+    "domain": "ceralunaconsulting.com",
+    "title": "Ceraluna Consulting | Strategic Advisory for Growth-Focused Founders",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 18148,
+    "crawled_at": "2026-06-14T10:47:19.970759568Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "ID Services",
+      "Instagram Follow Button",
+      "Netlify",
+      "Paperform",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "compasstechtutors.co.uk",
     "title": "Compass Tech Tutors | learn technology | Old Town, Hebden Bridge, UK",
     "business_name": "Compass Tech Tutors",
@@ -16725,41 +16746,6 @@
       "YouTube",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "fwbfm.com",
-    "title": "Free Will Baptist Family Ministries | Residential Group Homes, Adolescent Alcohol and Drug Programs, Substance Abuse, and Foster care in Tennessee",
-    "business_name": "",
-    "country": "FLK",
-    "seo_score": 72,
-    "tech_spend": 37984,
-    "crawled_at": "2026-04-11T10:32:20.008059192Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Facebook Pixel",
-      "Facebook Tag API",
-      "Flow",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Oddle",
-      "Paperform",
-      "Tailwind CSS",
-      "UTF-8",
-      "WF Cookie Consent",
-      "Webflow",
-      "YouTube",
-      "reCAPTCHA"
     ]
   }
 ]

@@ -1,5 +1,50 @@
 [
   {
+    "domain": "yindamachinery.com",
+    "title": "China Powder Handling Equipment Supplier & Manufacturer | Yinda Machinery",
+    "business_name": "Yinda",
+    "country": "CHN",
+    "seo_score": 82,
+    "tech_spend": 2053,
+    "crawled_at": "2026-06-14T08:41:19.968616186Z",
+    "technologies": [
+      "Add to Any",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Astra Theme",
+      "DAV",
+      "Easy Fancybox",
+      "Elementor",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Jetpack",
+      "Lazy Load for WordPress",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "PHP",
+      "QUIC",
+      "Smart Slider 3",
+      "Table of Contents Plus",
+      "Tailwind CSS",
+      "TranslatePress",
+      "Twitter Ads",
+      "UTF-8",
+      "WP Rocket",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Related Posts",
+      "Wufoo",
+      "YouTube",
+      "eLand",
+      "jQuery Pin It Button for Images"
+    ]
+  },
+  {
     "domain": "camdentonchamber.com",
     "title": "Camdenton Area Chamber of Commerce - Lake of the Ozarks",
     "business_name": "",
@@ -18155,32 +18200,6 @@
       "Wufoo",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "alehousephotography.com",
-    "title": "Alehouse Photography",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 15389,
-    "crawled_at": "2026-05-16T15:11:19.984764768Z",
-    "technologies": [
-      "Adult Content",
-      "BLR",
-      "Cloudflare",
-      "Fastly",
-      "Fireblade",
-      "GZIP Module",
-      "Help.com",
-      "KVH",
-      "Nginx",
-      "Ntent",
-      "QUIC",
-      "SmartyStreets",
-      "Tumblr",
-      "UTF-8",
-      "Wufoo"
     ]
   }
 ]
