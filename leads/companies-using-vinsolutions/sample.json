@@ -1,5 +1,36 @@
 [
   {
+    "domain": "applywithrev.com",
+    "title": "Carlos Kopszywa - ---Loan Officer--- NMLS #2681439 - Rev Mortgage | Popl",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 20603,
+    "crawled_at": "2026-06-13T16:32:19.968119572Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Fireblade",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Google My Business",
+      "Material-UI",
+      "Microdata for Google Shopping",
+      "Nationwide Mortgage Licensing System and Registry",
+      "Next.js",
+      "Pleroma",
+      "Salesforce Hosted",
+      "Twitter Ads",
+      "UTF-8",
+      "VinSolutions",
+      "WhatsApp Sharing",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "contactter.com",
     "title": "AI Platform for Car Dealerships | Contactter.ai | Contactter.ai",
     "business_name": "Silent Partner AI",
