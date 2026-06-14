@@ -1,5 +1,29 @@
 [
   {
+    "domain": "crescentcoaching.co.uk",
+    "title": "Crescent Coaching Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 2250,
+    "crawled_at": "2026-06-14T07:59:19.973381458Z",
+    "technologies": [
+      "Amazon",
+      "Cloudflare",
+      "Fastly CDN",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Kajabi",
+      "PHP",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "macro-leadership.com",
     "title": "Macro Leadership Book",
     "business_name": "",
@@ -18143,36 +18167,6 @@
       "UTF-8",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "healingfrominfidelitytraining.com",
-    "title": "Evolution 2017",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 1701,
-    "crawled_at": "2026-05-06T23:11:19.979719282Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Aruba",
-      "Baidu Cloud",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DAV",
-      "GZIP Module",
-      "Google Analytics",
-      "Kajabi",
-      "Microdata for Google Shopping",
-      "No-Q",
-      "OpenResty",
-      "Perl",
-      "UTF-8",
-      "eLand",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
