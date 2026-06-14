@@ -1,12 +1,12 @@
 [
   {
-    "domain": "cutlerbayinvisalign.com",
-    "title": "Invisalign Dentist Palmetto Bay | Clear Aligner Experts",
+    "domain": "cosmeticdentistcutlerbay.com",
+    "title": "Cosmetic Dentist Miami | Natural-Looking Smile Makeovers",
     "business_name": "",
     "country": "USA",
     "seo_score": 77,
     "tech_spend": 12023,
-    "crawled_at": "2026-06-13T05:11:19.973385374Z",
+    "crawled_at": "2026-06-14T10:17:19.970276306Z",
     "technologies": [
       "Alternate Protocol",
       "Bing Cashback",
@@ -27,9 +27,9 @@
       "OptinMonster",
       "PHP",
       "PWA",
-      "Perl",
       "QUIC",
       "Subversion",
+      "Thank You",
       "Theme In WP",
       "TrustIndex",
       "UTF-8",
@@ -37,6 +37,47 @@
       "WordPress",
       "WordPress Multisite",
       "YooTheme",
+      "YouTube",
+      "ZocDoc",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "neuroimenyc.com",
+    "title": "Top Neurology Care NYC | Medical Clinics Of NYC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 61956,
+    "crawled_at": "2026-06-14T02:38:19.969081375Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Contact Form Plugin",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "Emitrr",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Gtranslate for Wordpress",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Nginx",
+      "PHP",
+      "QUIC",
+      "SMC",
+      "Sitelinks Search Box",
+      "Slider Revolution",
+      "Theme In WP",
+      "UTF-8",
+      "WP Job Openings",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
       "YouTube",
       "ZocDoc",
       "jQuery"
@@ -18171,27 +18212,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "ZocDoc",
       "eLand"
-    ]
-  },
-  {
-    "domain": "doctorabramov.com",
-    "title": "Azul Medical | Vadim Abramov, MD | Brooklyn, NY",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 6496,
-    "crawled_at": "2026-05-14T10:44:13.007221664Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "QUIC",
-      "ZocDoc"
     ]
   }
 ]
