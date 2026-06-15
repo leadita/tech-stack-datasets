@@ -1,5 +1,38 @@
 [
   {
+    "domain": "abramsfreebook.com",
+    "title": "Genius Network Free Book Funnel",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 21495,
+    "crawled_at": "2026-06-14T19:44:19.973081918Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon CloudFront",
+      "Aruba",
+      "CDN JS",
+      "ClickFunnels",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Infusionsoft",
+      "UTF-8",
+      "Vimeo",
+      "eLand",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "thesharkacademy.com",
     "title": "Email Marketing Strategy Map | Daymond on Demand",
     "business_name": "",
@@ -1367,39 +1400,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "cristisfreebook.com",
-    "title": "Genius Network Free Book Funnel",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 21495,
-    "crawled_at": "2026-05-28T10:23:19.968864639Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "Aruba",
-      "CDN JS",
-      "ClickFunnels",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Infusionsoft",
-      "UTF-8",
-      "Vimeo",
-      "eLand",
-      "reCAPTCHA"
     ]
   },
   {
