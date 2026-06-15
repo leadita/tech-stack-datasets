@@ -1,5 +1,36 @@
 [
   {
+    "domain": "mkeirish.com",
+    "title": "Irish Music and Celtic Culture | CelticMKE",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 21279,
+    "crawled_at": "2026-06-15T21:32:19.971592881Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "MyFonts",
+      "Po.st",
+      "Titan CMS",
+      "Twitter Ads",
+      "UTF-8",
+      "Visual Studio",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "hkhic.org",
     "title": "HealthTech Innovation Center",
     "business_name": "",
@@ -17227,32 +17258,6 @@
       "WP jQuery Lightbox",
       "WordPress",
       "WordPress Multisite",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "dashdash.studio",
-    "title": "Dash Dash Studio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 113,
-    "crawled_at": "2026-05-12T12:23:19.989586719Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "MyFonts",
-      "Netlify",
-      "UTF-8",
       "jQuery"
     ]
   }
