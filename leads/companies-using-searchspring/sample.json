@@ -1,5 +1,37 @@
 [
   {
+    "domain": "observerbookshop.com",
+    "title": "The Observer Shop",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 14879,
+    "crawled_at": "2026-06-15T02:41:19.968669547Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Apps4BigCommerce",
+      "BigCommerce",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Coming Soon Page",
+      "Cornerstone",
+      "Express",
+      "Fireblade",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Microsoft Clarity",
+      "Oddle",
+      "Perl",
+      "QUIC",
+      "SearchSpring",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "keekaroo-peanutchanging-pad.com",
     "title": "Peanut Changer",
     "business_name": "",
@@ -5650,38 +5682,6 @@
       "hCaptcha",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "observershop.co.uk",
-    "title": "The Observer Shop",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 14819,
-    "crawled_at": "2026-02-19T04:05:03.972537635Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Apps4BigCommerce",
-      "BigCommerce",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coming Soon Page",
-      "Cornerstone",
-      "Express",
-      "Fireblade",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microsoft Clarity",
-      "Oddle",
-      "Perl",
-      "QUIC",
-      "SearchSpring",
-      "UTF-8"
     ]
   },
   {
