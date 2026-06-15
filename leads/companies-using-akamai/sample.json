@@ -1,5 +1,33 @@
 [
   {
+    "domain": "beakkeeper.com",
+    "title": "Beak Keeper App - App Store",
+    "business_name": "App Store",
+    "country": "BRA",
+    "seo_score": 77,
+    "tech_spend": 65468,
+    "crawled_at": "2026-06-14T15:26:19.969463061Z",
+    "technologies": [
+      "Akamai EdgeConnect",
+      "Alternate Protocol",
+      "App Store",
+      "Apture Linking Platform",
+      "Azure Edge",
+      "Content Delivery Network",
+      "Express",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "MediaPlatform",
+      "PWA",
+      "Perl",
+      "QUIC",
+      "Svelte",
+      "Twitter Ads",
+      "University or College",
+      "eLand"
+    ]
+  },
+  {
     "domain": "visactor.io",
     "title": "VisActor ——Narrative-Oriented Intelligent Visualization Solutions",
     "business_name": "",
@@ -15799,30 +15827,6 @@
       "Twitter Ads",
       "Vignette OpenText",
       "eLand"
-    ]
-  },
-  {
-    "domain": "hyperstacksgame.com",
-    "title": "Hyperstacks",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 75279,
-    "crawled_at": "2026-05-25T16:29:11.189556227Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Akamai Edge",
-      "Akamai Global Host",
-      "Coming Soon Page",
-      "Express",
-      "Facebook Like",
-      "GZIP Module",
-      "Material Design Icons",
-      "Nginx",
-      "Sentry",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
