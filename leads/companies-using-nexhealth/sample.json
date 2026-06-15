@@ -1,5 +1,35 @@
 [
   {
+    "domain": "titandental.com",
+    "title": "Titan Dental",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 14046,
+    "crawled_at": "2026-06-14T19:32:19.968357051Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "EmbedPress",
+      "Font Awesome",
+      "Form.IO",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Liine",
+      "Meta Slider for WordPress",
+      "NexHealth",
+      "PHP",
+      "QUIC",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "maryland-dental.com",
     "title": "Benavent Dental",
     "business_name": "Benavent Dental",
@@ -20419,36 +20449,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "ashlandelite.net",
-    "title": "Ashland Elite Dental | Dentist Ashland MA",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 22509,
-    "crawled_at": "2026-03-02T04:13:29.820860047Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Fastly",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "NexHealth",
-      "Sesame",
-      "UTF-8",
-      "YouTube",
-      "shadcn ui",
-      "symfony PHP Framework"
     ]
   }
 ]
