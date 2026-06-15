@@ -1,12 +1,12 @@
 [
   {
-    "domain": "jamesdickinsonfp.co.uk",
+    "domain": "jamesdickinsonfp.com",
     "title": "James Dickinson Financial Planning Limited | M&G Advice",
     "business_name": "",
     "country": "GBR",
     "seo_score": 60,
     "tech_spend": 257051,
-    "crawled_at": "2026-06-14T16:29:19.969326644Z",
+    "crawled_at": "2026-06-15T15:44:19.973475419Z",
     "technologies": [
       "Adobe Analytics",
       "Adobe Marketing Cloud",
@@ -48,6 +48,36 @@
       "UTF-8",
       "Yahoo Image CDN",
       "Yahoo Web Analytics"
+    ]
+  },
+  {
+    "domain": "cameroncompaniesrelieffund.com",
+    "title": "Cameron Companies Colleague Relief Fund",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 6253,
+    "crawled_at": "2026-06-15T11:53:19.968868396Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Bulma",
+      "Donorbox",
+      "ETranslate",
+      "GTranslate",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Microsoft Azure",
+      "Microsoft Azure Blob Storage",
+      "Qualtrics Site Intercept",
+      "Tailwind CSS",
+      "UTF-8",
+      "UserWay",
+      "Visual Studio",
+      "Way",
+      "jQuery",
+      "jsDelivr"
     ]
   },
   {
@@ -22702,53 +22732,6 @@
       "UTF-8",
       "Wistia",
       "Yahoo Web Analytics"
-    ]
-  },
-  {
-    "domain": "nextgen-estates.com",
-    "title": "NextGen Estate Solutions",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 226247,
-    "crawled_at": "2026-05-09T08:23:19.988917014Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Datadog",
-      "Facebook Reseller",
-      "Fireblade",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Tag Manager",
-      "Nginx",
-      "Qualtrics Site Intercept",
-      "Salesforce Hosted",
-      "Segment",
-      "Storyblocks",
-      "Stripe",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vimeo",
-      "Wistia",
-      "WordPress",
-      "Zendesk Embeddables",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   }
 ]
