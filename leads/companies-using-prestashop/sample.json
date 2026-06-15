@@ -1,5 +1,106 @@
 [
   {
+    "domain": "flywingschool.com",
+    "title": "FLOWSHOP.PL - BOARD SPORT POLSKA Sp. z o.o.",
+    "business_name": "FLOWSHOP.PL - BOARD SPORT POLSKA Sp. z o.o.",
+    "country": "POL",
+    "seo_score": 72,
+    "tech_spend": "",
+    "crawled_at": "2026-06-15T09:50:19.97178581Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "Apache",
+      "CloudFront",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "PHP",
+      "PrestaShop",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "platiniumspa.com",
+    "title": "platiniumspa.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": "",
+    "crawled_at": "2026-06-15T03:29:19.971910476Z",
+    "technologies": [
+      "LiteSpeed",
+      "PrestaShop",
+      "QUIC",
+      "WordPress"
+    ]
+  },
+  {
+    "domain": "flowysuite.com",
+    "title": "Flowysuite - Flowysuite",
+    "business_name": "FlowySuite",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 1322,
+    "crawled_at": "2026-06-15T02:38:19.967816624Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Coming Soon Page",
+      "Elementor",
+      "EmbedPress",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Hello Elementor",
+      "Instagram Follow Button",
+      "Klaviyo",
+      "Lazy Load for WordPress",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Premium Addons for Elementor",
+      "PrestaShop",
+      "QUIC",
+      "UTF-8",
+      "Vector Internet Services",
+      "WP Rocket",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
+    "domain": "holykidsgemilang.com",
+    "title": "This Website is Under Construction",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": "",
+    "crawled_at": "2026-06-15T01:23:19.974732908Z",
+    "technologies": [
+      "Apache",
+      "Coming Soon Page",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "PrestaShop",
+      "Twitter Ads",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "winbig.best",
     "title": "LuckySpin Galaxy",
     "business_name": "",
@@ -326,21 +427,6 @@
       "Schema Plugin",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "profiestate.pl",
-    "title": "profiestate.pl",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": "",
-    "crawled_at": "2026-06-11T06:01:55.187964752Z",
-    "technologies": [
-      "LiteSpeed",
-      "PrestaShop",
-      "QUIC",
-      "WordPress"
     ]
   },
   {
@@ -2724,25 +2810,6 @@
       "UTF-8",
       "WhatsApp Sharing",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "mahakamstudios.id",
-    "title": "This Website is Under Construction",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": "",
-    "crawled_at": "2026-06-08T20:26:02.40633Z",
-    "technologies": [
-      "Apache",
-      "Coming Soon Page",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "PrestaShop",
-      "Twitter Ads",
-      "YouTube",
-      "jQuery"
     ]
   },
   {
@@ -15267,71 +15334,6 @@
       "Twitter Analytics",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "fabricbike.com",
-    "title": "FabricBike Bicycle Shop. Buy Bikes and Components Online - FabricBike",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 26494,
-    "crawled_at": "2026-05-24T16:48:17.545604957Z",
-    "technologies": [
-      "Contento",
-      "Express",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "MyLiveChat",
-      "Nginx",
-      "PHP",
-      "PrestaShop",
-      "QUIC",
-      "Schema Plugin",
-      "Shifter",
-      "Slider Revolution",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "imfixies.com",
-    "title": "Fixie Bikes Online Store. Buy Bicycles and Fixed Gear Bicycle Frames.",
-    "business_name": "Imfixies",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 2400,
-    "crawled_at": "2026-05-24T15:56:48.252728881Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "AutoComplete",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Material Design Icons",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "PrestaShop",
-      "QUIC",
-      "Squid",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
