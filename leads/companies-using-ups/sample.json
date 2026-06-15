@@ -1,5 +1,81 @@
 [
   {
+    "domain": "meteorsportsmanagement.com",
+    "title": "Meteor Sports Management",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 65,
+    "tech_spend": 607,
+    "crawled_at": "2026-06-15T13:11:19.970001019Z",
+    "technologies": [
+      "Google Maps",
+      "Google My Business",
+      "IcoMoon",
+      "LiteSpeed",
+      "QUIC",
+      "Slider Revolution",
+      "Subversion",
+      "Tailwind CSS",
+      "UPS",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "autoglassservices.ca",
+    "title": "Windshield Repair and Replacement Brampton - Atlas Auto Glass",
+    "business_name": "",
+    "country": "GRC",
+    "seo_score": 77,
+    "tech_spend": 15220,
+    "crawled_at": "2026-06-15T00:08:19.968892241Z",
+    "technologies": [
+      "Apache",
+      "AutoComplete",
+      "Better Lead Generation Services",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "PHP",
+      "QUIC",
+      "SiteW",
+      "UPS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "idola.shop",
+    "title": "yes -",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 16085,
+    "crawled_at": "2026-06-14T22:41:19.969810679Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Google Related Website Sites",
+      "Kadence WP",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "OSS CDN",
+      "Oddle",
+      "PHP",
+      "Pantheon",
+      "SAS",
+      "Sitelinks Search Box",
+      "Theme In WP",
+      "UPS",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "acens Technologies"
+    ]
+  },
+  {
     "domain": "selectbts.com",
     "title": "Home | BTS",
     "business_name": "",
@@ -1346,36 +1422,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "bashi.shop",
-    "title": "bashi.shop -",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 16085,
-    "crawled_at": "2026-06-09T22:38:19.970472148Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Google Related Website Sites",
-      "Kadence WP",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "OSS CDN",
-      "Oddle",
-      "PHP",
-      "Pantheon",
-      "SAS",
-      "Sitelinks Search Box",
-      "Theme In WP",
-      "UPS",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "acens Technologies"
     ]
   },
   {
@@ -17695,62 +17741,6 @@
       "WordPress Multisite",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "dlmgroups.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 25,
-    "tech_spend": 500,
-    "crawled_at": "2026-05-23T12:11:19.990193725Z",
-    "technologies": [
-      "Canva Websites",
-      "Cloudflare",
-      "Google My Business",
-      "NFOrce Internet",
-      "UPS",
-      "UTF-8",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "htmcpgh.com",
-    "title": "Hometown Mail Center | Pittsburgh Professional Shipping Services",
-    "business_name": "Hometown Mail Center",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 87821,
-    "crawled_at": "2026-05-23T12:03:40.857226198Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "DAV",
-      "DHL Parcel",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "FedEx",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PWA",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "Sentry",
-      "SiteW",
-      "UPS",
-      "USPS",
-      "UTF-8",
-      "Vector Internet Services",
-      "WP Booking Calendar",
-      "Wix",
-      "Wix Media",
-      "mlcom"
     ]
   }
 ]
