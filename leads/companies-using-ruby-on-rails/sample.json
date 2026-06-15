@@ -1,5 +1,40 @@
 [
   {
+    "domain": "twsn.com",
+    "title": "twsn.com | Venture",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 1257,
+    "crawled_at": "2026-06-15T09:02:19.968631257Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Bulma",
+      "CloudFront",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Hotjar",
+      "LinkedIn Insights",
+      "LinkedIn Pixel",
+      "Nginx",
+      "Phusion Passenger Enterprise",
+      "Ruby on Rails",
+      "Stripe",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "sendoagil.com",
     "title": "Institutional Power Map — SendoAgil",
     "business_name": "",
@@ -15185,34 +15220,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "restorationtupelo.com",
-    "title": "Restoration Chapel of Tupelo",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 123,
-    "crawled_at": "2026-05-28T08:53:19.971447243Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Mastodon",
-      "OpenResty",
-      "Ruby on Rails",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
