@@ -1,5 +1,32 @@
 [
   {
+    "domain": "auto-educacao.com",
+    "title": "Instituto de Autoeducação",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 20640,
+    "crawled_at": "2026-06-14T19:41:19.97100036Z",
+    "technologies": [
+      "Apache",
+      "Botpress",
+      "Express",
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "PWA",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "halajeen.com",
     "title": "Do more in one app - Jeen",
     "business_name": "",
@@ -17718,43 +17745,6 @@
       "eLand",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "ecomxpert.co.uk",
-    "title": "EcomXpert",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 36007,
-    "crawled_at": "2026-04-16T01:53:32.927539255Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Botpress",
-      "Bulma",
-      "CDN JS",
-      "Clare.AI",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Ethy",
-      "Font Awesome",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "InitiativeS",
-      "Medium",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Wangsu",
-      "jQuery",
-      "shadcn ui"
     ]
   }
 ]
