@@ -1,5 +1,26 @@
 [
   {
+    "domain": "ye-coach.com",
+    "title": "Ye Sheng Coaching | Career Transformation",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 72,
+    "tech_spend": 15720,
+    "crawled_at": "2026-06-16T01:53:19.974161912Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Jekyll",
+      "Microdata for Google Shopping",
+      "Share Link",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "ryancompton.net",
     "title": "Ryan Compton | Ryan Compton personal blog.",
     "business_name": "",
@@ -13946,31 +13967,6 @@
       "UTF-8",
       "University or College",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "2stacks.net",
-    "title": "2stacks.net",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 600,
-    "crawled_at": "2026-05-31T03:17:23.369691795Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Jekyll",
-      "Microdata for Google Shopping",
-      "Twitter Ads",
-      "UTF-8",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]
