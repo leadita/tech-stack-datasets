@@ -1,5 +1,22 @@
 [
   {
+    "domain": "eytanfishman.com",
+    "title": "Eytan Fishman - איתן פישמן",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": "",
+    "crawled_at": "2026-06-16T20:17:19.968397228Z",
+    "technologies": [
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "OneSignal",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "ipforstartup.com",
     "title": "Trademark Registration | IP for startups @1499 | Delhi",
     "business_name": "IPforstartup.com",
@@ -20798,38 +20815,6 @@
       "WordPress",
       "WordPress Multisite",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "livowellness.com",
-    "title": "LIVO Wellness Marketplace – Book the best Longevity and Recovery Services",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 4888,
-    "crawled_at": "2026-05-19T23:47:19.969729361Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Line2",
-      "Nginx",
-      "OneSignal",
-      "Perl",
-      "Sign In With Google",
-      "Tailwind CSS",
-      "Ubuntu",
-      "jsDelivr"
     ]
   }
 ]
