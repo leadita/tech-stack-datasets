@@ -1,5 +1,32 @@
 [
   {
+    "domain": "dcbookkeepingservices.com",
+    "title": "Bookkeeping and Accounting Services by Debits & Credits",
+    "business_name": "Debits & Credits Accounting, LLC",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 20832,
+    "crawled_at": "2026-06-15T18:53:19.968250854Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Apture Linking Platform",
+      "Global Privacy Control",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Gusto",
+      "Line2",
+      "Microdata for Google Shopping",
+      "PWA",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight",
+      "Yelp Badge"
+    ]
+  },
+  {
     "domain": "tranquilitycyber.ky",
     "title": "Tranquility AI",
     "business_name": "",
@@ -18608,41 +18635,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "roofertaxsavings.com",
-    "title": "Accountants for roofing companies - RooferTaxSavings.com",
-    "business_name": "Roofer Tax Savings",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 7399,
-    "crawled_at": "2026-01-05T11:01:29.495914452Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Dext",
-      "Fastly",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Gravity",
-      "Gravity Forms",
-      "Gusto",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "Xero",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
