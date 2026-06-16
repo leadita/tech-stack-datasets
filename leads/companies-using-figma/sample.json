@@ -1,5 +1,22 @@
 [
   {
+    "domain": "frontlinetraining.de",
+    "title": "Frontline - Website",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 5060,
+    "crawled_at": "2026-06-16T05:05:19.968076437Z",
+    "technologies": [
+      "Amazon",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Figma",
+      "GZIP Module",
+      "K2F"
+    ]
+  },
+  {
     "domain": "nanciewoodinteriors.com",
     "title": "Nancie Wood Interiors",
     "business_name": "",
@@ -13485,38 +13502,6 @@
       "Vector Internet Services",
       "Yandex Hosting",
       "Zeald"
-    ]
-  },
-  {
-    "domain": "hometechconstruction.com",
-    "title": "HomeTech Construction & Design",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 2427,
-    "crawled_at": "2026-05-22T22:05:19.986852402Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Figma",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Forms",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Investor Relations",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Nginx",
-      "Perl",
-      "Pleroma",
-      "Schema Plugin",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]
