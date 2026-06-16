@@ -1,5 +1,39 @@
 [
   {
+    "domain": "beltrans.kbr.be",
+    "title": "Scrolling Nav - Start Bootstrap Template",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": "",
+    "crawled_at": "2026-06-15T22:02:19.970269771Z",
+    "technologies": [
+      "Apache",
+      "Bulma",
+      "GZIP Module",
+      "Start Bootstrap",
+      "Tailwind CSS",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "proincom.pl",
+    "title": "Proincom",
+    "business_name": "",
+    "country": "POL",
+    "seo_score": 35,
+    "tech_spend": 156,
+    "crawled_at": "2026-06-15T18:56:19.969824076Z",
+    "technologies": [
+      "Apache",
+      "Bulma",
+      "Content Delivery Network",
+      "IcoMoon",
+      "Start Bootstrap",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "creditkastle.com",
     "title": "Credit Kastle – Just another WordPress site",
     "business_name": "",
@@ -15285,75 +15319,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "aleksandr.codes",
-    "title": "Aleksandr 'Sasha' Lopashev",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 10028,
-    "crawled_at": "2026-05-20T05:13:40.867120415Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Apache",
-      "CDN JS",
-      "Cisco/Arrowpoint Content Service Switch",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Envoy",
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "InitiativeS",
-      "Perl",
-      "Python",
-      "Start Bootstrap",
-      "Tailwind CSS",
-      "University or College",
-      "Yandex Hosting"
-    ]
-  },
-  {
-    "domain": "oureternalinheritance.com",
-    "title": "Home - Our Eternal Inheritance",
-    "business_name": "Our Eternal Inheritance",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 2786,
-    "crawled_at": "2026-05-20T05:13:40.860228615Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "EmbedPress",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "PHP",
-      "Rate my Post",
-      "Theme In WP",
-      "UTF-8",
-      "WP Bootstrap Starter",
-      "WP Responsive Menu",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
