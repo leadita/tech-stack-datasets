@@ -1,5 +1,33 @@
 [
   {
+    "domain": "rowan-hill.com",
+    "title": "Rowan Hill Farm",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 237,
+    "crawled_at": "2026-06-15T19:32:19.969952016Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Amazon WAF Blocked",
+      "CloudFront",
+      "Content Delivery Network",
+      "ConvertKit",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Pico CSS",
+      "Tailwind CSS",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "youkhanhdoit.co",
     "title": "You Khanh Do It! – Follow your DREAMS",
     "business_name": "",
@@ -20716,47 +20744,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "globalinkjamaica.com",
-    "title": "Home - Global Ink",
-    "business_name": "Global Ink",
-    "country": "JAM",
-    "seo_score": 55,
-    "tech_spend": 900,
-    "crawled_at": "2026-05-21T22:20:19.993877842Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Click to Chat for WhatsApp",
-      "ConvertKit for Wordpress",
-      "Creative Mail by Constant Contact",
-      "Elementor",
-      "ElementsKit Elementor",
-      "EmbedPress",
-      "Essential Addons for Elementor",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Header, Footer and Blocks for Elementor",
-      "HostGator",
-      "Jetpack",
-      "Lazy Load for WordPress",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "OceanWP",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "WP Mobile Menu",
-      "WPForms",
-      "Woo Themes",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "jQuery"
     ]
   }
 ]
