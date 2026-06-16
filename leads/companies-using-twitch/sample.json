@@ -1,5 +1,35 @@
 [
   {
+    "domain": "jagkoleen.com",
+    "title": "Jagkoleen's Website",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 160,
+    "crawled_at": "2026-06-16T10:53:19.967694745Z",
+    "technologies": [
+      "Adult Content",
+      "Airbnb",
+      "Alternate Protocol",
+      "Amazon Widgets",
+      "Beacons",
+      "GZIP Module",
+      "Google Cloud",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nationwide Mortgage Licensing System and Registry",
+      "Next.js",
+      "OnlyFans",
+      "PWA",
+      "Perl",
+      "Subversion",
+      "Twitch",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "atomikgamez.com",
     "title": "@atomikgamez | Twitch Official Partner, Kick Official | Beacons",
     "business_name": "",
@@ -2951,36 +2981,6 @@
       "Twitter Ads",
       "UTF-8",
       "Unsplash",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "jagkoleen.com",
-    "title": "Jagkoleen's Website",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 160,
-    "crawled_at": "2026-05-28T02:48:11.096092514Z",
-    "technologies": [
-      "Adult Content",
-      "Airbnb",
-      "Alternate Protocol",
-      "Amazon Widgets",
-      "Beacons",
-      "GZIP Module",
-      "Google Cloud",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nationwide Mortgage Licensing System and Registry",
-      "Next.js",
-      "OnlyFans",
-      "PWA",
-      "Perl",
-      "Subversion",
-      "Twitch",
-      "Twitter Ads",
-      "UTF-8",
       "YouTube"
     ]
   },
