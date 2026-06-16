@@ -1,5 +1,63 @@
 [
   {
+    "domain": "webskrill.com",
+    "title": "WebSkrill Cloud | Best Web Hosting in Bangladesh",
+    "business_name": "WebSkrill Cloud",
+    "country": "BGD",
+    "seo_score": 77,
+    "tech_spend": 17544,
+    "crawled_at": "2026-06-15T21:17:19.969213442Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "CDN JS",
+      "CakePHP",
+      "Click to Chat for WhatsApp",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "CodeIgniter",
+      "Contact Form Plugin",
+      "EmbedPress",
+      "Fireblade",
+      "Flatsome",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "PHP",
+      "PrestaShop",
+      "Python",
+      "QUIC",
+      "Site Kit",
+      "Tailwind CSS",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery",
+      "symfony PHP Framework"
+    ]
+  },
+  {
+    "domain": "combatproof.online",
+    "title": "combatproof.com.pl",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": "",
+    "crawled_at": "2026-06-15T19:44:19.968461402Z",
+    "technologies": [
+      "LiteSpeed",
+      "PrestaShop",
+      "QUIC",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "flywingschool.com",
     "title": "FLOWSHOP.PL - BOARD SPORT POLSKA Sp. z o.o.",
     "business_name": "FLOWSHOP.PL - BOARD SPORT POLSKA Sp. z o.o.",
@@ -27,21 +85,6 @@
       "PrestaShop",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "platiniumspa.com",
-    "title": "platiniumspa.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": "",
-    "crawled_at": "2026-06-15T03:29:19.971910476Z",
-    "technologies": [
-      "LiteSpeed",
-      "PrestaShop",
-      "QUIC",
-      "WordPress"
     ]
   },
   {
@@ -15302,38 +15345,6 @@
       "PrestaShop",
       "Statamic",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "ohnostrojenamiru.cz",
-    "title": "Ohňostroje na míru",
-    "business_name": "Ohňostroje na míru",
-    "country": "CZE",
-    "seo_score": 72,
-    "tech_spend": 4927,
-    "crawled_at": "2026-05-24T16:48:17.609737511Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Elementor",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Matomo",
-      "Matomo Tag Manager",
-      "Microdata for Google Shopping",
-      "OpenSSL",
-      "PHP",
-      "PrestaShop",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "Twitter Analytics",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
