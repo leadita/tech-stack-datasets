@@ -1,5 +1,39 @@
 [
   {
+    "domain": "dawnware-renasant.com",
+    "title": "Dawn Ware | Renasant Mortgage Banker",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 22662,
+    "crawled_at": "2026-06-15T23:44:19.96927587Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "CookieConsent",
+      "Cybot",
+      "ElementUI",
+      "Federal Deposit Insurance Corporation",
+      "Fireblade",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microsoft Azure",
+      "Nationwide Mortgage Licensing System and Registry",
+      "Pardot",
+      "Twitter Ads",
+      "UTF-8",
+      "Visual Studio",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "havenlagarde-renasant.com",
     "title": "Haven Lagarde | Renasant Mortgage Banker",
     "business_name": "",
@@ -23451,35 +23485,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "medacuity.com",
-    "title": "Medical Device Consulting and Engineering Services - MedAcuity",
-    "business_name": "MedAcuity",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 49348,
-    "crawled_at": "2026-04-30T08:01:24.354458254Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Autoptimize",
-      "Cloudflare",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Ninja Forms",
-      "Pardot",
-      "Twitter Ads",
-      "UTF-8",
-      "WP Engine",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
