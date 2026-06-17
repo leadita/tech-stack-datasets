@@ -1,5 +1,53 @@
 [
   {
+    "domain": "touchandrevivechiropractic.com.au",
+    "title": "Chiropractor - Touch and Revive Chiropractic",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 3871,
+    "crawled_at": "2026-06-17T10:38:19.969052751Z",
+    "technologies": [
+      "Cliniko",
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "PWA",
+      "QUIC",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
+    "domain": "thatchamnaturaltherapy.co.uk",
+    "title": "Thatcham Natural Therapies - Osteopathy, Sports Massage",
+    "business_name": "",
+    "country": "POL",
+    "seo_score": 72,
+    "tech_spend": 19860,
+    "crawled_at": "2026-06-16T21:56:19.970224347Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cliniko",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Line2",
+      "PWA",
+      "UTF-8",
+      "University or College",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "connecthealthfit.net.au",
     "title": "Connect Health and Fitness | Ex. Physiology Fortitude Valley",
     "business_name": "Connect Health and Fitness",
@@ -9002,29 +9050,6 @@
     ]
   },
   {
-    "domain": "touchandrevivechiropractic.com.au",
-    "title": "Chiropractor - Touch and Revive Chiropractic",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 3871,
-    "crawled_at": "2026-05-24T20:38:01.06816355Z",
-    "technologies": [
-      "Cliniko",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "PWA",
-      "QUIC",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
-    ]
-  },
-  {
     "domain": "classicalnaturopathyandherbals.com.au",
     "title": "Holistic Healthcare & Massage Therapy in Nairne and Strathalbyn, SA",
     "business_name": "",
@@ -17709,37 +17734,6 @@
       "Squarespace",
       "UTF-8",
       "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "thereconnectedbody.co.uk",
-    "title": "The Reconnected Body | Empower Your Movement—Get Started Now",
-    "business_name": "The Reconnected Body",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 105321,
-    "crawled_at": "2026-05-17T11:23:19.985259133Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Cliniko",
-      "Contento",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "Twitter Ads",
-      "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
     ]
