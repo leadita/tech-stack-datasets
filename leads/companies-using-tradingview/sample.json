@@ -1,5 +1,31 @@
 [
   {
+    "domain": "ludofx.com",
+    "title": "Lud Official FX | Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 17939,
+    "crawled_at": "2026-06-17T01:29:19.968550218Z",
+    "technologies": [
+      "Cloudflare",
+      "DAV",
+      "Fireblade",
+      "GTranslate",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "TradingView",
+      "UTF-8",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "themarketmindset.com",
     "title": "The Market Mindset | Free Forex Trading Education, Signals & Market Analysis 2025",
     "business_name": "The Market Mindset",
@@ -15465,30 +15491,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "horizoncapitaltrade.com",
-    "title": "horizoncapitaltrade.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 1757,
-    "crawled_at": "2026-05-26T23:36:31.320977556Z",
-    "technologies": [
-      "Apache",
-      "Bulma",
-      "Crisp",
-      "Font Awesome",
-      "GZIP Module",
-      "Gambling Content",
-      "Google Cloud DNS",
-      "Google Font API",
-      "QUIC",
-      "Tailwind CSS",
-      "TradingView",
-      "UTF-8",
-      "Vector Internet Services"
     ]
   }
 ]
