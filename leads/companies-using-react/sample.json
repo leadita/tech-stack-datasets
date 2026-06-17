@@ -1,5 +1,49 @@
 [
   {
+    "domain": "headionroot.info",
+    "title": "Head Ion Root",
+    "business_name": "Head Ion Root",
+    "country": "CZE",
+    "seo_score": 72,
+    "tech_spend": 2440,
+    "crawled_at": "2026-06-17T14:41:19.968338619Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Create React App",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Pleroma",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "assperrgroup.com",
+    "title": "Acqua — Casetta Acqua by Assperr",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 7659,
+    "crawled_at": "2026-06-16T22:32:19.970807803Z",
+    "technologies": [
+      "Apache",
+      "Azion",
+      "Create React App",
+      "Drata",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vello"
+    ]
+  },
+  {
     "domain": "mczaykowski.com",
     "title": "MC",
     "business_name": "",
@@ -16092,58 +16136,6 @@
       "YouTube",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "bsjw-fp.com",
-    "title": "bsjw-fp.com",
-    "business_name": "",
-    "country": "UGA",
-    "seo_score": 75,
-    "tech_spend": 4939,
-    "crawled_at": "2026-05-30T00:54:06.276623292Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Bulma",
-      "Create React App",
-      "Font Awesome",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "Perl",
-      "Pleroma",
-      "QUIC",
-      "StackPath",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "YouTube",
-      "jQuery",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "ztgs.me",
-    "title": "ZTGS - Personal Brand & Digital Portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2440,
-    "crawled_at": "2026-05-29T23:43:47.392573977Z",
-    "technologies": [
-      "Create React App",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "Pleroma",
-      "Python",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]
