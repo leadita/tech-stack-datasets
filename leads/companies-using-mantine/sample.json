@@ -1,5 +1,43 @@
 [
   {
+    "domain": "urawarrior.com",
+    "title": "URAWARRIOR® | AI-Powered Mental Wellness, Community & Workplace Support",
+    "business_name": "URAWarrior",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 18170,
+    "crawled_at": "2026-06-16T15:59:19.974202457Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "App Store",
+      "CloudFront",
+      "Content Delivery Network",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Play",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Mantine",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "PWA",
+      "Pleroma",
+      "QUIC",
+      "Smart App Banner",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "blyssbeautylb.com",
     "title": "Blyss Beauty Lebanon | Authentic Makeup & Skincare Online – Top Brands",
     "business_name": "",
@@ -13033,27 +13071,6 @@
       "Next.js",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "easysign.kg",
-    "title": "EasySign - сервис онлайн-подписания документов в Кыргызстане",
-    "business_name": "",
-    "country": "KGZ",
-    "seo_score": 67,
-    "tech_spend": "",
-    "crawled_at": "2026-05-12T07:32:19.981603535Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GZIP Module",
-      "Mantine",
-      "Next.js",
-      "Nginx",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "shadcn ui"
     ]
   }
 ]
