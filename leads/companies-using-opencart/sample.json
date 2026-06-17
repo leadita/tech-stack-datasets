@@ -1,5 +1,30 @@
 [
   {
+    "domain": "mydachshundonline.com.au",
+    "title": "My Dachshund Online | Dachshund online shop. Dachshund harness, dachshund clothes, dachshund jumper, dachshund gifts",
+    "business_name": "",
+    "country": "SYC",
+    "seo_score": 72,
+    "tech_spend": 76080,
+    "crawled_at": "2026-06-17T03:05:19.969346233Z",
+    "technologies": [
+      "Cart.com",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Hotjar",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "OpenCart",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "gardeniaperfumery.com",
     "title": "Gardenia Parfumerie",
     "business_name": "",
@@ -12228,27 +12253,6 @@
       "Nginx",
       "OpenCart",
       "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "vanguardtechtrade.com",
-    "title": "Men's SOCKS SHORTS SHIRTS SETS",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 72,
-    "tech_spend": 90508,
-    "crawled_at": "2026-05-04T00:11:19.995673288Z",
-    "technologies": [
-      "Cart.com",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Nginx",
-      "OpenCart",
-      "SKWID",
-      "Tailwind CSS",
       "UTF-8"
     ]
   }

@@ -1,5 +1,20 @@
 [
   {
+    "domain": "glassanddesign.pl",
+    "title": "glassanddesign.pl",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": "",
+    "crawled_at": "2026-06-17T12:56:19.968474447Z",
+    "technologies": [
+      "LiteSpeed",
+      "PrestaShop",
+      "QUIC",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "webskrill.com",
     "title": "WebSkrill Cloud | Best Web Hosting in Bangladesh",
     "business_name": "WebSkrill Cloud",
@@ -40,21 +55,6 @@
       "WordPress Multisite",
       "jQuery",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "combatproof.online",
-    "title": "combatproof.com.pl",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": "",
-    "crawled_at": "2026-06-15T19:44:19.968461402Z",
-    "technologies": [
-      "LiteSpeed",
-      "PrestaShop",
-      "QUIC",
-      "WordPress"
     ]
   },
   {
