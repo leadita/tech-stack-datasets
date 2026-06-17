@@ -1,5 +1,24 @@
 [
   {
+    "domain": "blogtechi.com",
+    "title": "BlogTechi | Premium Tech Media",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 200,
+    "crawled_at": "2026-06-17T01:38:19.968794715Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Next.js",
+      "UTF-8",
+      "Vercel",
+      "WordPress",
+      "monday.com",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "hollandiacup.ca",
     "title": "Hollandia Soccer Club Tournaments",
     "business_name": "",
@@ -18568,48 +18587,6 @@
       "UTF-8",
       "Vercel",
       "monday.com"
-    ]
-  },
-  {
-    "domain": "eastcoastmuralpros.com",
-    "title": "Custom Wall Murals & Printing | East Coast Mural Pros",
-    "business_name": "East Coast Mural Pros",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 32416,
-    "crawled_at": "2026-05-17T22:24:49.868609917Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Authorize.net",
-      "Better Lead Generation Services",
-      "Calendly",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Express",
-      "Financial Services Guide",
-      "Fireblade",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "HighLevel",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nuxt.js",
-      "QUIC",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "monday.com",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   }
 ]
