@@ -1,5 +1,59 @@
 [
   {
+    "domain": "fanniker.com",
+    "title": "Jörn – Personal Contact",
+    "business_name": "",
+    "country": "DNK",
+    "seo_score": 70,
+    "tech_spend": 4688,
+    "crawled_at": "2026-06-16T16:35:19.968950212Z",
+    "technologies": [
+      "Apache",
+      "DAV",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Matomo",
+      "Matomo Tag Manager",
+      "QUIC",
+      "Slack",
+      "Tailwind CSS",
+      "TidyCal",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "davidandgoliathretail.info",
+    "title": "Intelligent Systems for Growing… | David & Goliath",
+    "business_name": "David & Goliath",
+    "country": "PHL",
+    "seo_score": 77,
+    "tech_spend": 3393,
+    "crawled_at": "2026-06-16T16:17:19.968268328Z",
+    "technologies": [
+      "Airtable",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Beehiiv",
+      "Content Delivery Network",
+      "DAV",
+      "Formspree",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Slack",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "humaniq.com",
     "title": "Humaniq",
     "business_name": "",
@@ -11031,38 +11085,6 @@
     ]
   },
   {
-    "domain": "davidandgoliathre.com",
-    "title": "David & Goliath | Intelligent Systems for Growing Organisations",
-    "business_name": "David & Goliath",
-    "country": "AUS",
-    "seo_score": 77,
-    "tech_spend": 3393,
-    "crawled_at": "2026-05-22T14:29:19.98381506Z",
-    "technologies": [
-      "Airtable",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Beehiiv",
-      "Cloudflare",
-      "Content Delivery Network",
-      "DAV",
-      "Formspree",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Slack",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "banghua.me",
     "title": "Banghua Zhu — Building Open AI Infra",
     "business_name": "",
@@ -19547,33 +19569,6 @@
       "cstate",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "noprojects.org",
-    "title": "#noprojects",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 102,
-    "crawled_at": "2026-05-17T05:50:19.99107137Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Automattic",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Corporate Governance and Regulatory Compliance",
-      "Formspree",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "PWA",
-      "Slack",
-      "Twitter Ads",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
