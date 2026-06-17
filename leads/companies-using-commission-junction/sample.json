@@ -1,5 +1,35 @@
 [
   {
+    "domain": "removeyourccj.com",
+    "title": "CCJ Removal Services | Removing CCJ in England and Wales",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 42232,
+    "crawled_at": "2026-06-17T09:08:19.970620944Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Commission Junction",
+      "GoDaddy",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Line2",
+      "Microsoft Clarity",
+      "PWA",
+      "RM Education",
+      "Typeform",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "wfh.lat",
     "title": "WFH — Verified Remote Jobs Worldwide",
     "business_name": "",
@@ -8495,36 +8525,6 @@
     ]
   },
   {
-    "domain": "remove-ccj.com",
-    "title": "CCJ Removal Services | Removing CCJ in England and Wales",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 42232,
-    "crawled_at": "2026-04-09T03:05:19.986083634Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Commission Junction",
-      "GoDaddy",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Line2",
-      "Microsoft Clarity",
-      "PWA",
-      "RM Education",
-      "Typeform",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
-    ]
-  },
-  {
     "domain": "mymagiccar.com",
     "title": "Ride On Cars & Trucks For Children With Remote Control - Magic Cars",
     "business_name": "Magic Cars",
@@ -13489,6 +13489,36 @@
       "jsDelivr",
       "reCAPTCHA",
       "xCharts"
+    ]
+  },
+  {
+    "domain": "removeyourccj.co.uk",
+    "title": "CCJ Removal Services | Removing CCJ in England and Wales",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 42232,
+    "crawled_at": "2025-12-29T07:10:38.345692513Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Commission Junction",
+      "GoDaddy",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Line2",
+      "Microsoft Clarity",
+      "PWA",
+      "RM Education",
+      "Typeform",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
     ]
   },
   {
