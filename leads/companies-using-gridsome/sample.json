@@ -1,5 +1,27 @@
 [
   {
+    "domain": "wildlandsfeestloterij.nl",
+    "title": "Loterij Wildlands Adventure Zoo",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 67,
+    "tech_spend": 7490,
+    "crawled_at": "2026-06-16T22:50:19.971712012Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "DC74",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "14dconstruction.com",
     "title": "14D Construction Ltd.",
     "business_name": "",
@@ -11128,28 +11150,6 @@
       "RD Station",
       "SMC",
       "Subversion",
-      "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "wildlandsfeestloterij.nl",
-    "title": "Loterij Wildlands Adventure Zoo",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 67,
-    "tech_spend": 7490,
-    "crawled_at": "2026-02-05T20:16:48.878166751Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "DC74",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
       "Tailwind CSS"
     ]
   },
