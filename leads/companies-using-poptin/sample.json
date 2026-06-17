@@ -1,5 +1,36 @@
 [
   {
+    "domain": "vogueon54.com",
+    "title": "Luxury Salon & Med Spa in Selbyville, DE | Vogue Salon & Med Spa",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 62948,
+    "crawled_at": "2026-06-17T06:08:19.969561242Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "AWS WAF Challenge",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "ON24",
+      "Phorest",
+      "Poptin",
+      "QUIC",
+      "UTF-8",
+      "WP Engine",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "panublix.com",
     "title": "Panublix",
     "business_name": "Panublix",
@@ -20648,41 +20679,6 @@
       "WordPress Multisite",
       "YooTheme",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "lawfirmcontentpros.com",
-    "title": "Law Firm Website Content | Law Firm Content Pros",
-    "business_name": "Law Firm Content Pros",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 2362,
-    "crawled_at": "2026-05-23T03:04:27.117732217Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Elementor",
-      "ElementsKit Elementor",
-      "EmbedPress",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Jeg Elementor Kit",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Poptin",
-      "Sitelinks Search Box",
-      "Thank You",
-      "ThemeFusion",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
