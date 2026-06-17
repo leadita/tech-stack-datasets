@@ -1,12 +1,32 @@
 [
   {
-    "domain": "nacadmin.com",
+    "domain": "medimogi.co.uk",
+    "title": "MediMogi - Hand-Sewn Veterinary Supplies",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 67,
+    "tech_spend": 23068,
+    "crawled_at": "2026-06-17T10:47:19.969199577Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon WAF Blocked",
+      "Cloudflare",
+      "JotForm",
+      "LiteSpeed",
+      "QUIC",
+      "RM Education",
+      "UTF-8",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "ccfslogistics.com",
     "title": "CrossCountry Freight Solutions | LTL Shipping",
     "business_name": "",
     "country": "USA",
     "seo_score": 72,
     "tech_spend": 263774,
-    "crawled_at": "2026-06-15T23:08:19.969513117Z",
+    "crawled_at": "2026-06-17T08:32:19.974505105Z",
     "technologies": [
       "AJAX Libraries API",
       "Amazon",
@@ -36,6 +56,39 @@
       "Webflow",
       "Workday",
       "YouTube"
+    ]
+  },
+  {
+    "domain": "airdrieoptometry.ca",
+    "title": "Concussion Clinic Calgary - Low Vision Treatment",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 8414,
+    "crawled_at": "2026-06-17T02:29:19.96917209Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "JotForm",
+      "PHP",
+      "RM Education",
+      "Theme In WP",
+      "UTF-8",
+      "University or College",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
     ]
   },
   {
@@ -19666,63 +19719,6 @@
       "UTF-8",
       "WF Cookie Consent",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "remipropainters.com",
-    "title": "RemiPro Painters | Residential & Commercial Painting in Georgia",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 2311,
-    "crawled_at": "2026-05-16T17:26:20.007505616Z",
-    "technologies": [
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "JotForm",
-      "Netlify",
-      "RM Education",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "attende.no",
-    "title": "Attende – Attende",
-    "business_name": "Attende AS",
-    "country": "NOR",
-    "seo_score": 70,
-    "tech_spend": 3718,
-    "crawled_at": "2026-05-16T17:26:19.985757459Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Animate It",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Fastly",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "JotForm",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Nectar Slide Plugin",
-      "PHP",
-      "QUIC",
-      "Salient",
-      "Theme In WP",
-      "UTF-8",
-      "WPBakery",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
