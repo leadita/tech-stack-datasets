@@ -1,5 +1,61 @@
 [
   {
+    "domain": "aframeowners.club",
+    "title": "Owners Club",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 67,
+    "tech_spend": 32238,
+    "crawled_at": "2026-06-17T08:29:19.968465376Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Content Delivery Network",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Google Analytics",
+      "Google Conversion Tracking",
+      "Google Tag Manager",
+      "Idaq",
+      "Instagram Follow Button",
+      "K2F",
+      "Next.js",
+      "OpenTable",
+      "Pleroma",
+      "Sanity",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "edelweissdining.com",
+    "title": "Edelweiss - German American Cuisine",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 687,
+    "crawled_at": "2026-06-17T06:41:19.969272196Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "HubSpot Conversations",
+      "Hubspot",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "OpenTable",
+      "PHP",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "windyhillfarmtn.com",
     "title": "East Tennessee Resort and Upland Preserve",
     "business_name": "",
@@ -17050,56 +17106,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "zafferanoristorante.com",
-    "title": "Zafferano Ristorante - Fitchburg, Fitchburg, WI",
-    "business_name": "",
-    "country": "SYC",
-    "seo_score": 77,
-    "tech_spend": 12377,
-    "crawled_at": "2026-05-23T10:26:19.987632636Z",
-    "technologies": [
-      "Cloudinary",
-      "ElementUI",
-      "Fastly",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microsoft Authentication Library for JavaScript",
-      "OpenTable",
-      "QUIC",
-      "Tailwind CSS",
-      "Toast POS",
-      "UTF-8",
-      "WP Job Manager",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "kozahollywood.com",
-    "title": "HOME",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 21790,
-    "crawled_at": "2026-05-23T09:26:19.97904951Z",
-    "technologies": [
-      "Express",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "OpenTable",
-      "PWA",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
     ]
   }
 ]
