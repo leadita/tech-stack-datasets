@@ -1,5 +1,25 @@
 [
   {
+    "domain": "geothermalectric.com",
+    "title": "MicroGeoThermal",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 6000,
+    "crawled_at": "2026-06-16T21:41:19.971142282Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Blogger",
+      "Express",
+      "GZIP Module",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Ntent",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "optionopedia.com",
     "title": "Pasi Technologies | Options Strategies, Training and Tools",
     "business_name": "",
@@ -15213,34 +15233,6 @@
       "Turn",
       "UTF-8",
       "Yandex Hosting"
-    ]
-  },
-  {
-    "domain": "photodrishti.com",
-    "title": "Photo Drishti",
-    "business_name": "",
-    "country": "BEL",
-    "seo_score": 60,
-    "tech_spend": 26702,
-    "crawled_at": "2026-05-18T09:41:19.998982932Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Blogger",
-      "ETranslate",
-      "Facebook Login",
-      "Facebook Reseller",
-      "Font Awesome",
-      "GTranslate",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Instagram Follow Button",
-      "Ntent",
-      "ON24",
-      "UTF-8"
     ]
   }
 ]
