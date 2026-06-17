@@ -1,5 +1,31 @@
 [
   {
+    "domain": "sahibkhurana.ca",
+    "title": "Sahib Khurana : Initia Real Estate : Home",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 75,
+    "tech_spend": 91591,
+    "crawled_at": "2026-06-17T19:02:19.969136449Z",
+    "technologies": [
+      "Apache",
+      "Coming Soon Page",
+      "Federal Deposit Insurance Corporation",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "RealPage",
+      "SMC",
+      "UTF-8",
+      "University or College",
+      "myRealPage"
+    ]
+  },
+  {
     "domain": "lissetterichards.com",
     "title": "Lissette Richards : Royal Heritage Realty : Home",
     "business_name": "",
@@ -15026,44 +15052,6 @@
       "RealPage",
       "UTF-8",
       "myRealPage"
-    ]
-  },
-  {
-    "domain": "arcadiaatprovidenceplace.com",
-    "title": "Arcadia Apartments at Providence Place | Fort Wayne, Indiana",
-    "business_name": "Arcadia Apartments at Providence Place",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 65648,
-    "crawled_at": "2026-05-18T06:02:20.013337106Z",
-    "technologies": [
-      "AAPT",
-      "Alternate Protocol",
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Investor Relations",
-      "Microdata for Google Shopping",
-      "PHP",
-      "RealPage",
-      "Schema Plugin",
-      "SightMap",
-      "Theme In WP",
-      "UTF-8",
-      "University or College",
-      "W3 Total Cache",
-      "WPBakery",
-      "WordPress",
-      "WordPress Multisite"
     ]
   }
 ]
