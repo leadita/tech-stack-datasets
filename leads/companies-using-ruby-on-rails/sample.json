@@ -1,5 +1,36 @@
 [
   {
+    "domain": "leadertoleaders.com",
+    "title": "Abel Project | Integrity & Resilience Coaching for Pastors and Leaders",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 123,
+    "crawled_at": "2026-06-17T04:02:19.969087732Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "CDN JS",
+      "Calendly",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Mastodon",
+      "OpenResty",
+      "Ruby on Rails",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "twsn.com",
     "title": "twsn.com | Venture",
     "business_name": "",
@@ -15188,36 +15219,6 @@
       "Ruby on Rails",
       "SignUpGenius",
       "Tailwind CSS",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "legacyministerialnetwork.com",
-    "title": "Legacy Ministerial Network",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 5951,
-    "crawled_at": "2026-05-28T09:02:06.438909246Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "KVH",
-      "Mastodon",
-      "OpenResty",
-      "Ruby on Rails",
-      "Tailwind CSS",
-      "TalentLMS",
-      "Twitter Ads",
       "UTF-8",
       "YouTube"
     ]

@@ -1,5 +1,30 @@
 [
   {
+    "domain": "allmaxuae.com",
+    "title": "Advanced Retina Care | Best Retina Treatment in Hyderabad | Dr. Anina Abraham",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 4240,
+    "crawled_at": "2026-06-17T11:05:19.968849762Z",
+    "technologies": [
+      "Apache",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Firebase",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "QUIC",
+      "Tailwind CSS",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "kidzadda.com",
     "title": "Kidzadda Online Shopping | Kidzadda Ecommerce",
     "business_name": "",
@@ -16170,45 +16195,6 @@
       "UTF-8",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "bethesdachapel.sg",
-    "title": "Bethesda Chapel – To be a worshipping and witnessing community to the glory of God!",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 5287,
-    "crawled_at": "2026-05-24T05:50:01.643421967Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Contact Form Plugin",
-      "Elementor",
-      "EmbedPress",
-      "Essential Addons for Elementor",
-      "Essential Blocks for Gutenberg",
-      "Firebase",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Gravity",
-      "LearnPress",
-      "LiteSpeed",
-      "Logos Reftagger",
-      "No-Q",
-      "PHP",
-      "Perl",
-      "QUIC",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "Zoom Video Conferencing",
-      "jQuery"
     ]
   }
 ]
