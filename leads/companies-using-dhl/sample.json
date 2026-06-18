@@ -1,5 +1,54 @@
 [
   {
+    "domain": "moovit.co.tz",
+    "title": "Moovit EAC Customs Suite | Tanzania Import Duty, HS Code & Landed Cost Calculator | moovit.co.tz",
+    "business_name": "",
+    "country": "TZA",
+    "seo_score": 82,
+    "tech_spend": 175993,
+    "crawled_at": "2026-06-18T03:32:19.973483934Z",
+    "technologies": [
+      "AAPT",
+      "AI Log",
+      "Adult Content",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Aruba",
+      "CDN JS",
+      "Cbeyond Communications",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "DHL Parcel",
+      "Ethy",
+      "Express",
+      "Financial Services Guide",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gravity",
+      "Interchange",
+      "K2F",
+      "KVH",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "No-Q",
+      "On The Map",
+      "Onyx Internet",
+      "Paessler",
+      "Perl",
+      "QUIC",
+      "SMC",
+      "Slotti",
+      "Squid",
+      "Subversion",
+      "Tailwind CSS",
+      "eLand",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "crovoiceover.com",
     "title": "Croatian voiceover | Mihael Ilic Croatian voice over talent",
     "business_name": "Mihael Ilić Croatian voiceover",
@@ -18706,25 +18755,6 @@
       "eLand",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "aivoicebridge.com",
-    "title": "AI Voice Bridge - Next-Gen Voice AI Solutions",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-02-21T04:44:05.072695516Z",
-    "technologies": [
-      "AI Log",
-      "Content Delivery Network",
-      "DHL",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
