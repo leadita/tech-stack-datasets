@@ -1,5 +1,31 @@
 [
   {
+    "domain": "eye2eyecontacts.com",
+    "title": "Eye2eyecontacts- Color eye accessories",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 75110,
+    "crawled_at": "2026-06-18T03:35:19.968625744Z",
+    "technologies": [
+      "Apache",
+      "Cart.com",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "OpenCart",
+      "PHP",
+      "Tailwind CSS",
+      "TemplateMela",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "mydachshundonline.com.au",
     "title": "My Dachshund Online | Dachshund online shop. Dachshund harness, dachshund clothes, dachshund jumper, dachshund gifts",
     "business_name": "",
@@ -12234,26 +12260,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "clothmallshop.com",
-    "title": "Fashion Shop",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 30103,
-    "crawled_at": "2026-05-04T02:13:24.423956177Z",
-    "technologies": [
-      "3 Products",
-      "Cart.com",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "OpenCart",
-      "QUIC",
-      "UTF-8"
     ]
   }
 ]
