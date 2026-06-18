@@ -1,5 +1,30 @@
 [
   {
+    "domain": "americanbookleague.com",
+    "title": "American Book League | Self-Publishing Partners in USA",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 16999,
+    "crawled_at": "2026-06-17T21:59:19.971323699Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Crisp",
+      "DAV",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "PHP",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "truffleboysdistribution.com",
     "title": "Wholesale Truffles, Caviar & Specialty Foods | TBGC",
     "business_name": "",
@@ -13241,31 +13266,6 @@
       "YouTube",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "americanbookleague.com",
-    "title": "American Book League | Self-Publishing Partners in USA",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 16999,
-    "crawled_at": "2026-05-25T20:57:23.120719409Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Crisp",
-      "DAV",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "UTF-8"
     ]
   },
   {
