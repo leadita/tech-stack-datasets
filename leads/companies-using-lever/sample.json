@@ -1,12 +1,12 @@
 [
   {
-    "domain": "anyroad.ai",
+    "domain": "anyroad.tech",
     "title": "The AI-Powered Consumer Engagement Platform Built for Events and Beyond",
     "business_name": "",
     "country": "",
     "seo_score": 62,
-    "tech_spend": 97284,
-    "crawled_at": "2026-06-11T07:57:20.489214999Z",
+    "tech_spend": 47284,
+    "crawled_at": "2026-06-18T12:38:19.968363686Z",
     "technologies": [
       "501c3 Status Nonprofit",
       "AJAX Libraries API",
@@ -33,7 +33,6 @@
       "Lever",
       "Nocodelytics",
       "QUIC",
-      "SMC",
       "Tailwind CSS",
       "UTF-8",
       "WF Cookie Consent",
@@ -43,13 +42,13 @@
     ]
   },
   {
-    "domain": "realworldone.center",
+    "domain": "realworld-one.eu",
     "title": "realworld one - PERFORMANCE STARTS WITH EXECUTION",
     "business_name": "",
     "country": "USA",
     "seo_score": 72,
     "tech_spend": 35092,
-    "crawled_at": "2026-06-11T07:04:15.032996387Z",
+    "crawled_at": "2026-06-18T01:50:19.972856928Z",
     "technologies": [
       "1Password",
       "Alternate Protocol",
