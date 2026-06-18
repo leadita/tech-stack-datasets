@@ -1,5 +1,26 @@
 [
   {
+    "domain": "centralhealthplan.com",
+    "title": "Welcome to Central Health Medicare Plan",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 302388,
+    "crawled_at": "2026-06-17T23:08:19.968494465Z",
+    "technologies": [
+      "GZIP Module",
+      "Salesforce Hosted",
+      "Sitecore CMS",
+      "Tailwind CSS",
+      "UTF-8",
+      "hCaptcha",
+      "hCaptcha for WordPress",
+      "jQuery",
+      "reCAPTCHA",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "layersgalleria.com",
     "title": "Sola Galleria in Farmers Branch, TX",
     "business_name": "",
@@ -2038,27 +2059,6 @@
       "YouTube",
       "Zoom Video Conferencing",
       "eLand"
-    ]
-  },
-  {
-    "domain": "centralhealthplan.com",
-    "title": "Welcome to Central Health Medicare Plan",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 302388,
-    "crawled_at": "2026-05-23T02:37:32.86455155Z",
-    "technologies": [
-      "GZIP Module",
-      "Salesforce Hosted",
-      "Sitecore CMS",
-      "Tailwind CSS",
-      "UTF-8",
-      "hCaptcha",
-      "hCaptcha for WordPress",
-      "jQuery",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   },
   {
