@@ -1,5 +1,32 @@
 [
   {
+    "domain": "evidence-staging.co.uk",
+    "title": "Sector Data | Audience Answers | The Audience Agency",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2740,
+    "crawled_at": "2026-06-17T22:41:19.969071114Z",
+    "technologies": [
+      "Apache",
+      "Backdrop",
+      "Content Delivery Network",
+      "Debian",
+      "Drupal",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "PHP",
+      "Smartsheet",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "strt-now.com",
     "title": "Uber Program Management - strt-now.com",
     "business_name": "",
@@ -13017,33 +13044,6 @@
       "WordPress Multisite",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "evidence-staging.co.uk",
-    "title": "Sector Data | Audience Answers | The Audience Agency",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2740,
-    "crawled_at": "2026-03-13T19:06:13.581130043Z",
-    "technologies": [
-      "Apache",
-      "Backdrop",
-      "Content Delivery Network",
-      "Debian",
-      "Drupal",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "PHP",
-      "Smartsheet",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
