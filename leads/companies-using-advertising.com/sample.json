@@ -1,5 +1,26 @@
 [
   {
+    "domain": "silvercrestadvertising.com",
+    "title": "Franchise Marketing Solutions - Local & National - Silvercrest",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 72,
+    "tech_spend": 739,
+    "crawled_at": "2026-06-17T11:50:19.96863248Z",
+    "technologies": [
+      "Advertising.com",
+      "Alternate Protocol",
+      "Apache",
+      "BootstrapMade",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "PHP",
+      "Tailwind CSS",
+      "Thank You",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "wmadvertising.agency",
     "title": "WebMax Advertising Services – Show the world you’re open for business.",
     "business_name": "",
@@ -22779,33 +22800,6 @@
       "Wix Media",
       "WordPress Related Posts",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "sanp-llc.com",
-    "title": "SanP - Business Consulting & Global Business Development",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 15564,
-    "crawled_at": "2026-05-18T23:32:20.007746242Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Advertising.com",
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Duda",
-      "FormSubmit",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "InitiativeS",
-      "Nginx",
-      "QUIC",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8"
     ]
   }
 ]
