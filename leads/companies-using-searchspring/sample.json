@@ -1,5 +1,38 @@
 [
   {
+    "domain": "thestaccatoranch.com",
+    "title": "Staccato Ranch - Staccato Ranch",
+    "business_name": "Staccato Ranch",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 247560,
+    "crawled_at": "2026-06-17T22:14:19.968656175Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Contentstack",
+      "Dynamic Yield",
+      "FareHarbor",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Harbor",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "RM Education",
+      "Salesforce Hosted",
+      "SearchSpring",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "Vimeo",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "observerbookshop.com",
     "title": "The Observer Shop",
     "business_name": "",
@@ -2438,35 +2471,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "staccatoranch.com",
-    "title": "Staccato Ranch - Staccato Ranch",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 239960,
-    "crawled_at": "2026-04-30T02:46:09.212908703Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Contentstack",
-      "Dynamic Yield",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "Next.js",
-      "Pleroma",
-      "Salesforce Hosted",
-      "SearchSpring",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "Vimeo",
-      "YouTube",
-      "shadcn ui"
     ]
   },
   {
