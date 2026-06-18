@@ -1,5 +1,33 @@
 [
   {
+    "domain": "ergotherapie-nijmegen.nl",
+    "title": "Ergotherapie in de wijk",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 72,
+    "tech_spend": 3141,
+    "crawled_at": "2026-06-17T22:23:19.972469182Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Bulma",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Fastly",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Line2",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "PHP",
+      "QUIC",
+      "QUIC.cloud",
+      "UTF-8",
+      "WP Bootstrap Starter",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "supksdpo.org",
     "title": "Shakhipur Upazila Protibandhi Kallyan Somiti | An DPO in Tangail district of Bangladesh",
     "business_name": "",
@@ -15294,43 +15322,6 @@
       "IcoMoon",
       "Start Bootstrap",
       "Tailwind CSS",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "oconnor-coaches.com",
-    "title": "Home - O'Connor Coaches",
-    "business_name": "",
-    "country": "IRL",
-    "seo_score": 75,
-    "tech_spend": 28037,
-    "crawled_at": "2026-05-20T07:53:19.989261174Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Beaver Builder Lite",
-      "Contento",
-      "EmbedPress",
-      "GDPR Cookie Compliance",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Lazy Load for WordPress",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "Ninja Forms",
-      "PHP",
-      "QUIC",
-      "Schema Plugin",
-      "Slider Revolution",
-      "Start Bootstrap",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WP Rocket",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
       "jQuery"
     ]
   }
