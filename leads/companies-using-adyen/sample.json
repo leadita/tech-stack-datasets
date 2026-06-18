@@ -1,5 +1,36 @@
 [
   {
+    "domain": "rorentry.com",
+    "title": "2025 RACE OF REMEMBRANCE",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 10193,
+    "crawled_at": "2026-06-17T22:23:19.972556233Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adyen",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "DC74",
+      "Express",
+      "Fireblade",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Idaq",
+      "MaxCDN",
+      "Tailwind CSS",
+      "TicketSpice",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "Webconnex"
+    ]
+  },
+  {
     "domain": "capsbicycleshop.ca",
     "title": "Specialized.com",
     "business_name": "",
