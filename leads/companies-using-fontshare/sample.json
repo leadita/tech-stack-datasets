@@ -1,5 +1,46 @@
 [
   {
+    "domain": "resonantgtm.ai",
+    "title": "Home - Resonant",
+    "business_name": "Resonant",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 1799,
+    "crawled_at": "2026-06-18T12:56:19.968708589Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "Automattic",
+      "CloudFront",
+      "Elementor",
+      "EmbedPress",
+      "Fontshare",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "HostGator",
+      "HubSpot WordPress Plugin",
+      "Jetpack",
+      "Lazy Load for WordPress",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "NFOrce Internet",
+      "Nginx",
+      "Pico CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "freshlimestudio.in",
     "title": "Fresh Lime Studios | Media & Content Production House, Delhi",
     "business_name": "",
@@ -13285,35 +13326,6 @@
       "University or College",
       "Zyro",
       "monday.com"
-    ]
-  },
-  {
-    "domain": "optimus.llc",
-    "title": "Optimus Cloud and AI Solutions (Optimus) | Partner Ecosystem & Channel Revenue Advisory",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 409128,
-    "crawled_at": "2026-05-10T21:29:20.011186611Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Book Direct",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "Fastly",
-      "Fontshare",
-      "Google Maps",
-      "Google My Business",
-      "InitiativeS",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Netlify",
-      "Pico CSS",
-      "QUIC",
-      "SAP",
-      "Salesforce Hosted",
-      "UTF-8"
     ]
   }
 ]
