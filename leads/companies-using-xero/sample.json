@@ -1,5 +1,39 @@
 [
   {
+    "domain": "oiio.com.au",
+    "title": "oiio | Custom Software, SaaS & Website Development Sydney",
+    "business_name": "oiio",
+    "country": "AUS",
+    "seo_score": 82,
+    "tech_spend": 21558,
+    "crawled_at": "2026-06-17T18:05:19.968043285Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Link Enchancer",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Amazon Widgets",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Workspace",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Radix UI",
+      "Shopify",
+      "Tailwind CSS",
+      "Way",
+      "Xero"
+    ]
+  },
+  {
     "domain": "cfbookkeeping.au",
     "title": "Bookkeeping & Business Support for Creative & Growing Businesses | CF Asset Group",
     "business_name": "",
@@ -18297,37 +18331,6 @@
       "WordPress",
       "WordPress Multisite",
       "Xero"
-    ]
-  },
-  {
-    "domain": "rossstanley.nz",
-    "title": "Ross Stanley 👋 - Product and technology leadership",
-    "business_name": "",
-    "country": "NZL",
-    "seo_score": 72,
-    "tech_spend": 79325,
-    "crawled_at": "2026-04-21T14:35:46.815926635Z",
-    "technologies": [
-      "Accordion Blocks",
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Calendly",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "Xero",
-      "eLand"
     ]
   }
 ]
