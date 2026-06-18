@@ -1,5 +1,54 @@
 [
   {
+    "domain": "transfer-training.ch",
+    "title": "home | transfer | training und coaching",
+    "business_name": "",
+    "country": "CHE",
+    "seo_score": 40,
+    "tech_spend": "",
+    "crawled_at": "2026-06-18T07:11:19.971360136Z",
+    "technologies": [
+      "Gridsome",
+      "Nginx",
+      "PWA",
+      "Subversion"
+    ]
+  },
+  {
+    "domain": "inchaos.ca",
+    "title": "Digital Chaos Inc.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 143630,
+    "crawled_at": "2026-06-18T00:38:19.974969004Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Creative Cloud WebFonts",
+      "DAV",
+      "Financial Services Guide",
+      "Gridsome",
+      "HubSpot Conversations",
+      "Hubspot",
+      "Idaq",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "K2F",
+      "KVH",
+      "M247",
+      "Nginx",
+      "No-Q",
+      "Parallels Plesk Panel",
+      "QUIC",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS",
+      "University or College",
+      "Visx",
+      "eLand"
+    ]
+  },
+  {
     "domain": "wildlandsfeestloterij.nl",
     "title": "Loterij Wildlands Adventure Zoo",
     "business_name": "",
@@ -9645,39 +9694,6 @@
     ]
   },
   {
-    "domain": "digitalchaos.ca",
-    "title": "Digital Chaos Inc.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 143630,
-    "crawled_at": "2026-03-22T10:57:01.8992757Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "DAV",
-      "Financial Services Guide",
-      "Gridsome",
-      "HubSpot Conversations",
-      "Hubspot",
-      "Idaq",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "K2F",
-      "KVH",
-      "M247",
-      "Nginx",
-      "No-Q",
-      "Parallels Plesk Panel",
-      "QUIC",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "University or College",
-      "eLand"
-    ]
-  },
-  {
     "domain": "jessamynphotography.com",
     "title": "Jessamyn Photography - Jessamyn Photography",
     "business_name": "",
@@ -12007,21 +12023,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "wordpress-notdienstkalender.de",
-    "title": "Der Notdienstkalender für WordPress // Apotheken-Notdienst, Praxis-Notdienst & Notdienstplan - wordpress-notdienstkalender.de",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": "",
-    "crawled_at": "2026-01-25T09:27:04.192671773Z",
-    "technologies": [
-      "GZIP Module",
-      "Gridsome",
-      "Nginx",
-      "Tailwind CSS"
     ]
   }
 ]

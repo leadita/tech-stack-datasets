@@ -1,5 +1,34 @@
 [
   {
+    "domain": "ckcarruthers.com",
+    "title": "Celeste K. Carruthers - Celeste K. Caruthers",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 2499,
+    "crawled_at": "2026-06-18T03:32:19.974505603Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "Font Awesome",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Jekyll",
+      "Microdata for Google Shopping",
+      "PWA",
+      "Schema Plugin",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "ye-coach.com",
     "title": "Ye Sheng Coaching | Career Transformation",
     "business_name": "",
@@ -13939,34 +13968,6 @@
       "UTF-8",
       "Ubuntu",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "pengchang.me",
-    "title": "Peng Chang - Dr. Peng Chang",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 699,
-    "crawled_at": "2026-05-31T03:50:10.803109081Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Jekyll",
-      "Microdata for Google Shopping",
-      "PWA",
-      "Schema Plugin",
-      "UTF-8",
-      "University or College",
-      "jsDelivr"
     ]
   }
 ]

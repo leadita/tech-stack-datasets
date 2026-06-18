@@ -1,5 +1,67 @@
 [
   {
+    "domain": "kalgendna.co.id",
+    "title": "Home | Kalgen-DNA",
+    "business_name": "",
+    "country": "IDN",
+    "seo_score": 72,
+    "tech_spend": 105961,
+    "crawled_at": "2026-06-18T14:47:19.968355153Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Financial Services Guide",
+      "Gatsby Image CDN",
+      "Gatsby JS",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "Icons8",
+      "Idaq",
+      "Instagram Follow Button",
+      "K2F",
+      "KVH",
+      "Netlify",
+      "No-Q",
+      "SMC",
+      "Slider Revolution",
+      "Subversion",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "Visx",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "galacticrex.com",
+    "title": "Galactic Rex",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 5066,
+    "crawled_at": "2026-06-18T01:17:19.969320721Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Apple Auto Link Maker",
+      "CloudFront",
+      "Content Delivery Network",
+      "Gatsby JS",
+      "Google Analytics",
+      "Instagram Follow Button",
+      "K2F",
+      "Twitter Ads",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "mortgagematchmakerke.com",
     "title": "Kaila Elam | Atlantic Bay Mortgage Group® | Roanoke, VA 24018",
     "business_name": "",
@@ -13264,30 +13326,6 @@
     ]
   },
   {
-    "domain": "galacticrex.com",
-    "title": "Galactic Rex",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 5066,
-    "crawled_at": "2026-05-26T04:07:06.716284005Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Apple Auto Link Maker",
-      "CloudFront",
-      "Content Delivery Network",
-      "Gatsby JS",
-      "Google Analytics",
-      "Instagram Follow Button",
-      "K2F",
-      "Twitter Ads",
-      "YouTube"
-    ]
-  },
-  {
     "domain": "shihair.com",
     "title": "Home | Shi Hairdressing",
     "business_name": "",
@@ -13537,33 +13575,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "nujob.com",
-    "title": "Nujob",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 15417,
-    "crawled_at": "2026-05-25T21:21:48.797342818Z",
-    "technologies": [
-      "Amazon",
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "Gatsby JS",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Netlify",
-      "No-Q",
-      "QUIC",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "W3 Total Cache"
     ]
   }
 ]
