@@ -1,5 +1,33 @@
 [
   {
+    "domain": "ensouae.com",
+    "title": "ENSO - Smart Homes for Modern Dubai",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 9092,
+    "crawled_at": "2026-06-18T21:56:19.975686277Z",
+    "technologies": [
+      "1Password",
+      "Alternate Protocol",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Framer Sites",
+      "Google",
+      "Google Cloud CDN",
+      "Instagram Follow Button",
+      "Neighborhoods",
+      "Notion",
+      "Ntent",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
     "domain": "caravela.capital",
     "title": "Caravela Capital",
     "business_name": "",
@@ -15822,32 +15850,6 @@
       "UTF-8",
       "Ubuntu",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "haileykim.design",
-    "title": "Hailey Design",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 16044,
-    "crawled_at": "2026-05-11T10:23:20.00057356Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Baidu Cloud",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Next.js",
-      "Notion",
-      "RM Education",
-      "Super",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vercel",
-      "jsDelivr"
     ]
   }
 ]
