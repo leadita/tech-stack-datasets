@@ -1,5 +1,32 @@
 [
   {
+    "domain": "robertcatterall.com",
+    "title": "Robert Catterall - email, graphic and front end web design portfolio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 44216,
+    "crawled_at": "2026-06-19T04:14:19.968507505Z",
+    "technologies": [
+      "Amazon S3 CDN",
+      "Campaign Monitor Widget",
+      "CheetahMail",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Nginx",
+      "QUIC",
+      "Storyblocks",
+      "University or College",
+      "YouTube",
+      "eLand",
+      "jQuery",
+      "monday.com"
+    ]
+  },
+  {
     "domain": "alexennis.com",
     "title": "Alex Ennis – Award-Winning Digital Marketer",
     "business_name": "",
