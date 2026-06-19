@@ -1,5 +1,62 @@
 [
   {
+    "domain": "testinolaw.com",
+    "title": "Divorce Law Firm Serving Matawan, NJ",
+    "business_name": "Edward Testino, LLC ATTORNEY AT LAW",
+    "country": "MYS",
+    "seo_score": 77,
+    "tech_spend": 86748,
+    "crawled_at": "2026-06-19T14:14:19.971711227Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Duda",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Smooch",
+      "Subversion",
+      "Tailwind CSS",
+      "Tealium",
+      "Thryv",
+      "UTF-8",
+      "University or College",
+      "Yelp Badge"
+    ]
+  },
+  {
+    "domain": "barossachiropractic.au",
+    "title": "Chiropractic Therapy Clinic | Tanunda, SA",
+    "business_name": "Barossa Chiropractic Clinic",
+    "country": "AUS",
+    "seo_score": 77,
+    "tech_spend": 101407,
+    "crawled_at": "2026-06-19T03:29:19.969986036Z",
+    "technologies": [
+      "AAPT",
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Cornerstone",
+      "Duda",
+      "GZIP Module",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "Smooch",
+      "Tailwind CSS",
+      "Tealium",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "aptaclub.com.au",
     "title": "Aptamil | Aptaclub I Feeding & Parenting | Baby Formula & Milk Drinks",
     "business_name": "",
@@ -15113,57 +15170,6 @@
       "UTF-8",
       "Ubuntu",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "goolwacranehire.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 22688,
-    "crawled_at": "2026-05-25T12:57:18.20578681Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Duda",
-      "FormSubmit",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "Tailwind CSS",
-      "Tealium",
-      "Thank You",
-      "Thryv",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "burtnerelectric.com",
-    "title": "Emergency Residential Electrician & Electrical Contractor Services Lawrence, Westfield, Carmel, Zionsville, Fishers IN - Burtner Electric",
-    "business_name": "Burtner Electric Inc.",
-    "country": "CAN",
-    "seo_score": 82,
-    "tech_spend": 136748,
-    "crawled_at": "2026-05-25T12:21:00.963681122Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Duda",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "SMC",
-      "Smooch",
-      "Tailwind CSS",
-      "Tealium",
-      "Thryv",
-      "UTF-8"
     ]
   }
 ]
