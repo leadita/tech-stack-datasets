@@ -1,5 +1,58 @@
 [
   {
+    "domain": "mapcelprocesos.com",
+    "title": "Mapcel - Tecnología",
+    "business_name": "",
+    "country": "MEX",
+    "seo_score": 67,
+    "tech_spend": 5943,
+    "crawled_at": "2026-06-18T19:05:19.97048102Z",
+    "technologies": [
+      "Apache",
+      "Fastly",
+      "Font Awesome",
+      "FormSubmit",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Perl",
+      "UTF-8",
+      "VisitorTracking",
+      "WhatsApp Sharing",
+      "YouTube",
+      "Zoho CRM",
+      "Zoho SalesIQ",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "juriseconomics.com",
+    "title": "Juris Economics",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 5216,
+    "crawled_at": "2026-06-18T15:44:19.970683909Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Conversion Tracking",
+      "Google Tag Manager",
+      "IcoMoon",
+      "LinkedIn Insights",
+      "LinkedIn Pixel",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Nomics",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "Zoho CRM"
+    ]
+  },
+  {
     "domain": "drayagespecialists.com",
     "title": "DRAYAGE SPECIALIST",
     "business_name": "Drayage Specialist",
@@ -3432,33 +3485,6 @@
       "Zoho CRM",
       "Zoho SalesIQ",
       "Zoho Sites"
-    ]
-  },
-  {
-    "domain": "juriseconomics.com",
-    "title": "Juris Economics",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 5216,
-    "crawled_at": "2026-05-23T14:13:44.355314205Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Conversion Tracking",
-      "Google Tag Manager",
-      "IcoMoon",
-      "LinkedIn Insights",
-      "LinkedIn Pixel",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Nomics",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "Zoho CRM"
     ]
   },
   {
@@ -16032,32 +16058,6 @@
       "University or College",
       "Zoho CRM",
       "jQuery",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "mapcel.com",
-    "title": "Mapcel - Tecnología",
-    "business_name": "",
-    "country": "MEX",
-    "seo_score": 72,
-    "tech_spend": 5943,
-    "crawled_at": "2026-04-20T21:26:19.980935084Z",
-    "technologies": [
-      "Apache",
-      "Fastly",
-      "Font Awesome",
-      "FormSubmit",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Perl",
-      "UTF-8",
-      "VisitorTracking",
-      "WhatsApp Sharing",
-      "YouTube",
-      "Zoho CRM",
-      "Zoho SalesIQ",
       "reCAPTCHA"
     ]
   },
