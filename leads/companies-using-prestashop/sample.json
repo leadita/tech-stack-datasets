@@ -1,5 +1,74 @@
 [
   {
+    "domain": "protastic.co.uk",
+    "title": "PROtastic Action Camera Accessories",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2400,
+    "crawled_at": "2026-06-19T15:26:19.969093846Z",
+    "technologies": [
+      "AutoComplete",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Material Design Icons",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Parallels Plesk Panel",
+      "Perfect Audience",
+      "Pico CSS",
+      "PrestaShop",
+      "QUIC",
+      "Schema Plugin",
+      "Tailwind CSS",
+      "UTF-8",
+      "ashop",
+      "reCAPTCHA",
+      "tarteaucitron.js"
+    ]
+  },
+  {
+    "domain": "aegis-hosting.co.uk",
+    "title": "aegis hosting",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 3,
+    "crawled_at": "2026-06-19T10:53:19.97211074Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "PHP",
+      "PrestaShop",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "evertek.pl",
+    "title": "evertek.pl",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": "",
+    "crawled_at": "2026-06-19T05:59:19.969345737Z",
+    "technologies": [
+      "LiteSpeed",
+      "PrestaShop",
+      "QUIC",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "queenieboutiques.gr",
     "title": "Queenie Boutiques",
     "business_name": "Queenie Boutiques",
@@ -27,21 +96,6 @@
       "Slider Revolution",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "hitersi.online",
-    "title": "hitersi.online",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": "",
-    "crawled_at": "2026-06-18T07:20:19.969374398Z",
-    "technologies": [
-      "LiteSpeed",
-      "PrestaShop",
-      "QUIC",
-      "WordPress"
     ]
   },
   {
@@ -11633,28 +11687,6 @@
     ]
   },
   {
-    "domain": "aegishosting.co.uk",
-    "title": "aegis hosting",
-    "business_name": "",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 40,
-    "crawled_at": "2026-05-29T01:38:10.486333379Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "PHP",
-      "PrestaShop",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "elettroutensilistore.com",
     "title": "ElettroutensiliStore.it by AS Elettromeccanica",
     "business_name": "",
@@ -15332,33 +15364,6 @@
       "SocialSignIn",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "weasport.fr",
-    "title": "Weasport",
-    "business_name": "",
-    "country": "BEL",
-    "seo_score": 67,
-    "tech_spend": 18768,
-    "crawled_at": "2026-05-24T19:18:23.339567046Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "AutoComplete",
-      "Fireblade",
-      "GZIP Module",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Material Design Icons",
-      "Microdata for Google Shopping",
-      "PHP",
-      "PrestaShop",
-      "QUIC",
-      "Schema Plugin",
-      "Tailwind CSS",
-      "UTF-8",
-      "ashop"
     ]
   }
 ]
