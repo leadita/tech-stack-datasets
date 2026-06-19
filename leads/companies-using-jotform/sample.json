@@ -1,5 +1,30 @@
 [
   {
+    "domain": "outreachmedicalstaffing.com",
+    "title": "Medical Staffing, CNA, LPN, RN, Healthcare Staffing, Healthcare",
+    "business_name": "Outreach Medical Staffing ",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 60768,
+    "crawled_at": "2026-06-19T02:56:19.971918977Z",
+    "technologies": [
+      "Content Delivery Network",
+      "ETranslate",
+      "GTranslate",
+      "GZIP Module",
+      "Google My Business",
+      "Instagram Follow Button",
+      "JotForm",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PWA",
+      "RM Education",
+      "SMC",
+      "Squid",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "tripsixdesign.co.uk",
     "title": "Website Design, Branding & UX/UI Agency | Fort Collins & Manchester",
     "business_name": "Tripsixdesign",
@@ -19697,38 +19722,6 @@
       "Timely",
       "Vimeo",
       "Weglot",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "protrainy.com",
-    "title": "Protrainy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 5501,
-    "crawled_at": "2026-05-16T19:17:20.002995711Z",
-    "technologies": [
-      "Apache",
-      "Content Delivery Network",
-      "Endis",
-      "Flat Icon",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "JotForm",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "Ubuntu",
-      "WhatsApp Sharing",
       "YouTube"
     ]
   }
