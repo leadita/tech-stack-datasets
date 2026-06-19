@@ -1,5 +1,29 @@
 [
   {
+    "domain": "livewellim.com",
+    "title": "Live Well Integrative Medicine",
+    "business_name": "Live Well Integrative Medicine",
+    "country": "GBR",
+    "seo_score": 70,
+    "tech_spend": 58312,
+    "crawled_at": "2026-06-19T03:35:19.969982112Z",
+    "technologies": [
+      "AthenaHealth",
+      "Contento",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Line2",
+      "Microdata for Google Shopping",
+      "PWA",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "cliniii.store",
     "title": "Pioneering AI in Chronic Care Management | CCM",
     "business_name": "",
@@ -4817,30 +4841,6 @@
       "YouTube",
       "ZocDoc",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "livewellim.com",
-    "title": "Live Well Integrative Medicine",
-    "business_name": "Live Well Integrative Medicine",
-    "country": "GBR",
-    "seo_score": 70,
-    "tech_spend": 58312,
-    "crawled_at": "2026-05-28T11:23:38.738676486Z",
-    "technologies": [
-      "AthenaHealth",
-      "Contento",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "Microdata for Google Shopping",
-      "PWA",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight",
-      "YouTube"
     ]
   },
   {
