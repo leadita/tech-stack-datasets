@@ -1,5 +1,62 @@
 [
   {
+    "domain": "tedxasbury.com",
+    "title": "TEDxAsburyPark Why We Drink & Party @ Triumph Brewing Stage, Red Bank May 6 2026",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 3924,
+    "crawled_at": "2026-06-19T06:32:19.968111132Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Content Delivery Network",
+      "DAV",
+      "Fastly",
+      "GZIP Module",
+      "Ghost",
+      "Hive.co",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "paliton.ai",
+    "title": "Managed IT, Cybersecurity & Compliance for SMBs | Paliton Networks",
+    "business_name": "Paliton Networks",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 48076,
+    "crawled_at": "2026-06-18T16:20:19.969277254Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Calendly",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Drata",
+      "Fastly",
+      "Fastly CDN",
+      "GZIP Module",
+      "Ghost",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Microsoft 365",
+      "NFOrce Internet",
+      "OpenResty",
+      "Pico CSS",
+      "Stripe",
+      "UTF-8",
+      "Unsplash",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "pendragon.foundation",
     "title": "Pendragon Foundation",
     "business_name": "",
@@ -13290,53 +13347,6 @@
       "Twitter Ads",
       "UTF-8",
       "Unsplash",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "openml.fyi",
-    "title": "Open+ML: Updates from Luis Villa",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 3528,
-    "crawled_at": "2026-04-01T08:53:19.98267406Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Bunny Fonts",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Ghost",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "legacynet.ca",
-    "title": "LCRA",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 699,
-    "crawled_at": "2026-03-31T21:13:59.568099912Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coming Soon Page",
-      "Express",
-      "Ghost",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "UTF-8",
       "jsDelivr"
     ]
   }
