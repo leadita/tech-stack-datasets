@@ -1,5 +1,23 @@
 [
   {
+    "domain": "aistudentchapter.lk",
+    "title": "C H A P T E R S | AI Portal - University of Moratuwa",
+    "business_name": "",
+    "country": "LKA",
+    "seo_score": 62,
+    "tech_spend": 240,
+    "crawled_at": "2026-06-18T20:47:19.971186259Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "University or College",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "my-passion.com",
     "title": "Read Romance Novels Online | My-Passion",
     "business_name": "",
@@ -12739,25 +12757,6 @@
       "PWA",
       "Pleroma",
       "Sanity",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "usetoolio.com",
-    "title": "Toolio - Custom Context Help",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-05-05T07:20:05.891888098Z",
-    "technologies": [
-      "Calendly",
-      "Chakra UI",
-      "Content Delivery Network",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
       "UTF-8",
       "Vercel"
     ]
