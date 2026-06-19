@@ -1,5 +1,27 @@
 [
   {
+    "domain": "sportslob.com",
+    "title": "SportSlob",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 703,
+    "crawled_at": "2026-06-19T11:14:19.968985915Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "AWS WAF Challenge",
+      "Apache",
+      "DAV",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "ISO/IEC 8859",
+      "NFOrce Internet",
+      "Pusher",
+      "Ubuntu",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "southernstatesrealestate.com",
     "title": "North Atlanta Real Estate Experts | Abbe Real Estate",
     "business_name": "Abbe Real Estate",
@@ -20358,52 +20380,6 @@
       "WordPress Multisite",
       "WordPress Stats",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "anthonypere.com",
-    "title": "Real Estate Agent | Auburn WA | Anthony Pere – Top Real Estate Agent in Auburn WA",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 19165,
-    "crawled_at": "2026-05-01T13:29:19.982738619Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Clixtell",
-      "CloudFront",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "DAV",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Homes.com CMS",
-      "Instagram Follow Button",
-      "Ntent",
-      "PHP",
-      "Prospective",
-      "Pusher",
-      "QUIC",
-      "Theme In WP",
-      "TrustIndex",
-      "UTF-8",
-      "University or College",
-      "Windermere Real Estate",
-      "WordPress",
-      "WordPress Multisite"
     ]
   }
 ]
