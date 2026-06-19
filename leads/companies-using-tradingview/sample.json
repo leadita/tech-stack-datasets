@@ -1,5 +1,57 @@
 [
   {
+    "domain": "investostocks.online",
+    "title": "Investo stock- Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 7955,
+    "crawled_at": "2026-06-19T06:14:19.969107678Z",
+    "technologies": [
+      "Brevo",
+      "Corporate Governance and Regulatory Compliance",
+      "Fireblade",
+      "Google My Business",
+      "LiteSpeed",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "Tawk",
+      "TradingView",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "tradeforever.net",
+    "title": "TradeForever",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 7152,
+    "crawled_at": "2026-06-18T23:50:19.972292881Z",
+    "technologies": [
+      "Elementor",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "HostGator",
+      "IcoMoon",
+      "Metform Elemento",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "PHP",
+      "Parallels Plesk Panel",
+      "QUIC",
+      "Table Addons for Elementor",
+      "Tawk",
+      "TradingView",
+      "Visual Studio"
+    ]
+  },
+  {
     "domain": "247cryptollc.com",
     "title": "247cryptollc | CFD Trading — Trading on Stocks, Gold, Oil, Indices",
     "business_name": "",
@@ -15431,58 +15483,6 @@
       "WordPress Multisite",
       "YouTube",
       "eLand",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "trustwavedigitalasset.org",
-    "title": "Trust Wave Digital Asset: the online trading and investment platform",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 383,
-    "crawled_at": "2026-05-27T04:40:24.862455845Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "DAV",
-      "Gatsby JS",
-      "LiteSpeed",
-      "Pico CSS",
-      "QUIC",
-      "SmartSupp",
-      "TradingView",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "hoovie.movie",
-    "title": "Hoovie - Movies | Together | Anywhere",
-    "business_name": "Hoovie",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 388,
-    "crawled_at": "2026-05-27T02:50:19.974388439Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Magazine Basic",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Simple Share Buttons Adder",
-      "Theme In WP",
-      "TradingView",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
       "jQuery"
     ]
   }
