@@ -1,5 +1,23 @@
 [
   {
+    "domain": "jeremymartinez.org",
+    "title": "Build Your Brand",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 36,
+    "crawled_at": "2026-06-19T13:56:19.971365786Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "montraders.com",
     "title": "Domains For Sale All Offers to leo@dc.vc",
     "business_name": "",
@@ -102,24 +120,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "medicalsupply.net",
-    "title": "Build Your Brand",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 36,
-    "crawled_at": "2026-06-08T10:38:19.96944868Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "UTF-8"
     ]
   },
   {
