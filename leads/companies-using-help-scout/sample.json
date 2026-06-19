@@ -1,5 +1,35 @@
 [
   {
+    "domain": "home-whisperers.com",
+    "title": "Home Whisperers",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 5483,
+    "crawled_at": "2026-06-18T19:29:19.968164539Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google My Business",
+      "Google Tag Manager",
+      "Help Scout",
+      "Nginx",
+      "Pixabay",
+      "Salesforce Hosted",
+      "SiteW",
+      "Twilio",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "deaniaholmes.com",
     "title": "Deania Rochelle Holmes's Memorial Website | Ever Loved",
     "business_name": "",
@@ -1213,37 +1243,6 @@
       "hCaptcha",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "ideaexchangehive.com",
-    "title": "Idea Exchange Hive",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 5483,
-    "crawled_at": "2026-06-07T07:52:26.216582552Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google My Business",
-      "Google Tag Manager",
-      "Help Scout",
-      "Hive.co",
-      "Nginx",
-      "Pixabay",
-      "Salesforce Hosted",
-      "SiteW",
-      "Twilio",
-      "UTF-8",
-      "YouTube",
-      "jsDelivr",
-      "reCAPTCHA"
     ]
   },
   {
