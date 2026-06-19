@@ -1,5 +1,24 @@
 [
   {
+    "domain": "joinmytech.com",
+    "title": "Remote Support Tech Service",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 180,
+    "crawled_at": "2026-06-19T02:17:19.968237876Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "UTF-8",
+      "Zoho Books",
+      "Zoho Sites"
+    ]
+  },
+  {
     "domain": "movemate.ng",
     "title": "MoveMate – Fast, Reliable Delivery in Nigeria",
     "business_name": "",
