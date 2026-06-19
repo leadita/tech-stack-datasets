@@ -1,5 +1,36 @@
 [
   {
+    "domain": "interscribe.io",
+    "title": "InterScribe",
+    "business_name": "InterScribe",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 5063,
+    "crawled_at": "2026-06-19T11:14:19.967941433Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Headless UI",
+      "Instagram Follow Button",
+      "K2F",
+      "Mautic",
+      "Microdata for Google Shopping",
+      "Radix UI",
+      "Sitelinks Search Box",
+      "Snowplow",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "papertarianiq.org",
     "title": "The Paper + Packaging Board Transitions Support to TSNA",
     "business_name": "",
@@ -2855,36 +2886,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "interscribe.io",
-    "title": "InterScribe",
-    "business_name": "InterScribe",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 63,
-    "crawled_at": "2026-05-20T06:10:12.353573952Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Headless UI",
-      "Instagram Follow Button",
-      "Mautic",
-      "Microdata for Google Shopping",
-      "Radix UI",
-      "Sitelinks Search Box",
-      "Snowplow",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "eLand",
-      "shadcn ui"
     ]
   },
   {

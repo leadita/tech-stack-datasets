@@ -1,5 +1,33 @@
 [
   {
+    "domain": "angellisthq.com",
+    "title": "Startups | AngelList",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 16680,
+    "crawled_at": "2026-06-19T11:50:19.972961723Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Investor Relations",
+      "LinkedIn Pixel",
+      "Marketo",
+      "Next.js",
+      "OneTrust Domain Verification",
+      "Pico CSS",
+      "Radix UI",
+      "Sanity",
+      "Tailwind CSS",
+      "UPS",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "shopfloor.com",
     "title": "Shop Floor Control MES Software for Apparel and Fashion",
     "business_name": "",
@@ -2305,35 +2333,6 @@
       "Unix",
       "UserZoom",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "angellistproducts.com",
-    "title": "Startups | AngelList",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 16680,
-    "crawled_at": "2026-05-29T02:41:16.476802359Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Investor Relations",
-      "LinkedIn Pixel",
-      "Marketo",
-      "Next.js",
-      "OneTrust Domain Verification",
-      "Pico CSS",
-      "Radix UI",
-      "Sanity",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UPS",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vercel"
     ]
   },
   {
