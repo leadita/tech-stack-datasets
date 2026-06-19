@@ -1,5 +1,34 @@
 [
   {
+    "domain": "nordicpremium.com",
+    "title": "Nordic Premium Group – NPG",
+    "business_name": "",
+    "country": "SWE",
+    "seo_score": 65,
+    "tech_spend": 267,
+    "crawled_at": "2026-06-19T17:17:19.969395736Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "PHP",
+      "QUIC",
+      "The Events Calendar",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WooCommerce Checkout",
+      "WordPress",
+      "WordPress Multisite",
+      "bbPress",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "dailyrangamati.com",
     "title": "dailyrangamati.com | দৈনিক রাঙামাটি",
     "business_name": "",
@@ -20424,45 +20453,6 @@
       "WordPress Multisite",
       "bbPress",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "khalsavox.com",
-    "title": "Khalsa Vox | Punjab Politics, History, Culture, Heritage and more.",
-    "business_name": "The Khalsa Vox",
-    "country": "IND",
-    "seo_score": 82,
-    "tech_spend": 4385,
-    "crawled_at": "2026-05-25T08:57:11.153742283Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cornerstone",
-      "Elementor",
-      "EmbedPress",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Graphy",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PHP",
-      "Soledad",
-      "Twitter Ads",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "bbPress"
     ]
   }
 ]
