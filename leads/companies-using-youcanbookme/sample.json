@@ -1,5 +1,37 @@
 [
   {
+    "domain": "bespoken.ai",
+    "title": "Bespoken AI - Fully Automated Testing for IVR, AI, Chatbots and More",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 1476,
+    "crawled_at": "2026-06-18T22:44:19.969281294Z",
+    "technologies": [
+      "Apollo IO",
+      "Apture Linking Platform",
+      "ElementUI",
+      "Express",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "LinkedIn Insights",
+      "LinkedIn Pixel",
+      "Pleroma",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8",
+      "YouCanBookMe",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "luciahrda.com",
     "title": "Lucia Hrdá Photography",
     "business_name": "",
@@ -2652,38 +2684,6 @@
       "Ubuntu",
       "YouCanBookMe",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "bespoken.ai",
-    "title": "Bespoken AI - Fully Automated Testing for IVR, AI, Chatbots and More",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 1476,
-    "crawled_at": "2026-05-28T01:24:53.551381021Z",
-    "technologies": [
-      "Apollo IO",
-      "Apture Linking Platform",
-      "ElementUI",
-      "Express",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "LinkedIn Insights",
-      "LinkedIn Pixel",
-      "Pleroma",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "YouCanBookMe",
-      "shadcn ui"
     ]
   },
   {
