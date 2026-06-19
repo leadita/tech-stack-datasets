@@ -1,5 +1,59 @@
 [
   {
+    "domain": "davidbeatty.ai",
+    "title": "David Beatty · Fractional AI Lead",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 15240,
+    "crawled_at": "2026-06-19T10:32:19.968223989Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Free Call",
+      "Google Calendar",
+      "Google My Business",
+      "Next.js",
+      "Python",
+      "Rackspace Cloud Servers",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "finestcostasilverina.com",
+    "title": "Best Luxury Caribbean Resorts | Finest Resorts",
+    "business_name": "Finest Resorts",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 12561,
+    "crawled_at": "2026-06-18T17:32:19.968922299Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Angular",
+      "CloudFront",
+      "Content Delivery Network",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Line2",
+      "Material-UI",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Rackspace CDN",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "lotuswellnessinstitute.com",
     "title": "COACH JENNIFER DIXON CRAVENS",
     "business_name": "",
@@ -3907,38 +3961,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "finestcostasilverinapuntacana.ca",
-    "title": "Best Luxury Caribbean Resorts | Finest Resorts",
-    "business_name": "Finest Resorts",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 12561,
-    "crawled_at": "2026-06-07T16:56:19.971098397Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Angular",
-      "CloudFront",
-      "Content Delivery Network",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Material-UI",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "Rackspace CDN",
-      "Twitter Ads",
-      "UTF-8"
     ]
   },
   {
@@ -18631,37 +18653,6 @@
       "University or College",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "echolshomeinspections.com",
-    "title": "Home Inspection Company Jackson, Madison & Surrounding Areas - Echols Home Inspections LLC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 93948,
-    "crawled_at": "2026-05-23T18:29:19.98259096Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "DAV",
-      "Duda",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "Rackspace CDN",
-      "Smooch",
-      "Tailwind CSS",
-      "Tealium",
-      "Thank You",
-      "Thryv",
-      "UTF-8"
     ]
   }
 ]
