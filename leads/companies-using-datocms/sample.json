@@ -1,5 +1,31 @@
 [
   {
+    "domain": "finc.it",
+    "title": "Real estate experts with a digital core.",
+    "business_name": "",
+    "country": "BEL",
+    "seo_score": 72,
+    "tech_spend": 46628,
+    "crawled_at": "2026-06-19T11:23:19.970137244Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "DAV",
+      "DatoCMS",
+      "Fireblade",
+      "Instagram Follow Button",
+      "NFOrce Internet",
+      "Next.js",
+      "Phew",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "prodigaldaughterproductions.com",
     "title": "Prodigal Daughter Productions | Prodigal Daughter",
     "business_name": "",
@@ -14162,27 +14188,6 @@
       "YouTube",
       "eLand",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "jkdwor.pl",
-    "title": "Strona główna",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-04-16T09:49:14.252952722Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DatoCMS",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
