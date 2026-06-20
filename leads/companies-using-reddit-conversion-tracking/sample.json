@@ -1,12 +1,12 @@
 [
   {
-    "domain": "canadabookevents.ca",
+    "domain": "childhoodbullyingbook.com",
     "title": "WordPress.com",
     "business_name": "",
     "country": "",
     "seo_score": 47,
     "tech_spend": 3,
-    "crawled_at": "2026-06-19T13:56:19.970615155Z",
+    "crawled_at": "2026-06-20T13:11:19.970734193Z",
     "technologies": [
       "Alternate Protocol",
       "App Store",
@@ -15,7 +15,6 @@
       "Bing Cashback",
       "Bing Conversion Tracking",
       "Content Delivery Network",
-      "EmbedPress",
       "Facebook Pixel",
       "Google Cloud DNS",
       "Google Font API",
@@ -32,7 +31,6 @@
       "Theme In WP",
       "UTF-8",
       "WordPress",
-      "WordPress Multisite",
       "WordPress Stats",
       "YouTube"
     ]
@@ -11850,82 +11848,6 @@
       "Twitter Ads",
       "UTF-8",
       "Vector Internet Services"
-    ]
-  },
-  {
-    "domain": "the-city-clock.com",
-    "title": "The City Clock",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 67,
-    "tech_spend": 2440,
-    "crawled_at": "2026-05-22T14:20:19.973698638Z",
-    "technologies": [
-      "ElementUI",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Nginx",
-      "Pleroma",
-      "Reddit Conversion Tracking",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "nychbrands.com",
-    "title": "Home | Nych Brands",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 2848,
-    "crawled_at": "2026-05-22T13:53:19.975882633Z",
-    "technologies": [
-      "Freshworks Bot",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Nginx",
-      "Reddit Conversion Tracking",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "watchsocial.co",
-    "title": "Watch Social Co - Watch news unfiltered. Straight to your inbox.",
-    "business_name": "Watch Social Co",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 3148,
-    "crawled_at": "2026-05-22T13:45:21.083606857Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "MonsterInsights",
-      "NFOrce Internet",
-      "Pico CSS",
-      "Reddit Conversion Tracking",
-      "Twenty Twenty-Three",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
