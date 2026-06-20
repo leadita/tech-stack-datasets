@@ -1,5 +1,34 @@
 [
   {
+    "domain": "directoryday.com",
+    "title": "Home - Day",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 40,
+    "tech_spend": 1360,
+    "crawled_at": "2026-06-19T22:29:19.972841705Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Endorsal",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Gravity",
+      "Nginx",
+      "Pico CSS",
+      "QUIC",
+      "Ruby on Rails",
+      "Simplero",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "leadertoleaders.com",
     "title": "Abel Project | Integrity & Resilience Coaching for Pastors and Leaders",
     "business_name": "",
@@ -15190,35 +15219,6 @@
       "OpenResty",
       "Ruby on Rails",
       "Twitter Ads",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "heartlandchurch.us",
-    "title": "Heartland Church of Christ",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 123,
-    "crawled_at": "2026-05-28T09:02:06.456995753Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Mastodon",
-      "OpenResty",
-      "Ruby on Rails",
-      "SignUpGenius",
-      "Tailwind CSS",
       "UTF-8",
       "YouTube"
     ]

@@ -1,5 +1,54 @@
 [
   {
+    "domain": "accesstofunders.co.za",
+    "title": "Access To Finance",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 63,
+    "crawled_at": "2026-06-20T06:50:19.969654362Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Laravel Livewire",
+      "Nginx",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "investinsomethinggood.com",
+    "title": "Invest Halal and Avoid Fraud - Shari'ah-Compliant Investment Education",
+    "business_name": "",
+    "country": "SGP",
+    "seo_score": 72,
+    "tech_spend": 19499,
+    "crawled_at": "2026-06-19T17:53:19.969968482Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Create React App",
+      "Fireblade",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Hotjar",
+      "Laravel Cookie Consent",
+      "Microsoft Clarity",
+      "Nginx",
+      "Pleroma",
+      "QUIC",
+      "TradingView",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "nubodyclinic.co.uk",
     "title": "nubodyclinic | Start your weight loss journey from £35 per week.",
     "business_name": "",
@@ -4243,25 +4292,6 @@
     ]
   },
   {
-    "domain": "accesstofinanceindaba.co.za",
-    "title": "Access To Finance",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 63,
-    "crawled_at": "2026-05-30T19:06:33.431724534Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Laravel Livewire",
-      "Nginx",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "executiveguide.ai",
     "title": "Generative AI: An Executive Guide",
     "business_name": "",
@@ -4495,35 +4525,6 @@
       "Twitter Ads",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "investinsomethinggood.com",
-    "title": "Invest Halal and Avoid Fraud - Shari'ah-Compliant Investment Education",
-    "business_name": "",
-    "country": "SGP",
-    "seo_score": 72,
-    "tech_spend": 19499,
-    "crawled_at": "2026-05-29T16:14:31.346331917Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Create React App",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Hotjar",
-      "Laravel Cookie Consent",
-      "Microsoft Clarity",
-      "Nginx",
-      "Pleroma",
-      "QUIC",
-      "TradingView",
-      "UTF-8"
     ]
   },
   {
