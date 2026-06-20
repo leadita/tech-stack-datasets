@@ -1,5 +1,26 @@
 [
   {
+    "domain": "federicocasadei.dev",
+    "title": "Federico Casadei",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 65,
+    "tech_spend": 15228,
+    "crawled_at": "2026-06-19T14:14:19.971504636Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Medium",
+      "Netlify",
+      "Notion",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "ensouae.com",
     "title": "ENSO - Smart Homes for Modern Dubai",
     "business_name": "",
@@ -15817,39 +15838,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "tapmate.io",
-    "title": "Premium NFC Tags, Cards & Smart Solutions",
-    "business_name": "TAPMATE.IO",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 4160,
-    "crawled_at": "2026-05-11T13:26:20.001280519Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Eventbrite",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Customer Reviews",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Nginx",
-      "Notion",
-      "Ntent",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Stripe",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Ubuntu",
-      "shadcn ui"
     ]
   }
 ]
