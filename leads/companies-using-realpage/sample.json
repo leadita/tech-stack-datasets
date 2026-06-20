@@ -1,5 +1,42 @@
 [
   {
+    "domain": "realestateredefined.ca",
+    "title": "Aleya Bhaloo : Buy, Sell & Invest with Vancouver’s Real Estate Expert",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 82,
+    "tech_spend": 60092,
+    "crawled_at": "2026-06-20T10:47:19.968629069Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Calendly",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Harbor",
+      "Hive.co",
+      "Instagram Follow Button",
+      "Investor Relations",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Pexels",
+      "QUIC",
+      "RealPage",
+      "Twitter Ads",
+      "UTF-8",
+      "Unsplash",
+      "YouTube",
+      "myRealPage"
+    ]
+  },
+  {
     "domain": "berkshirespecialist.com",
     "title": "Drew Steeves : HomeLife Benchmark Titus Realty : Home",
     "business_name": "",
@@ -15044,29 +15081,6 @@
       "UTF-8",
       "Unsplash",
       "YouTube",
-      "myRealPage"
-    ]
-  },
-  {
-    "domain": "jackiebeaudoin.com",
-    "title": "Jaclyn Beaudoin : Sutton Group Ottawa Realty : Home",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 70,
-    "tech_spend": 40916,
-    "crawled_at": "2026-05-18T08:56:19.997095183Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "RealPage",
-      "UTF-8",
-      "Unsplash",
       "myRealPage"
     ]
   }
