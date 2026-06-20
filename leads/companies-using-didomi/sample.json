@@ -1,5 +1,37 @@
 [
   {
+    "domain": "iud.quebec",
+    "title": "Institut universitaire sur les dépendances",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 65,
+    "tech_spend": 6748,
+    "crawled_at": "2026-06-19T22:38:19.969576509Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Backdrop",
+      "Content Delivery Network",
+      "DAV",
+      "Didomi",
+      "Drupal",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Nginx",
+      "PHP",
+      "Sentry",
+      "UTF-8",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "vidus.de",
     "title": "Qwant - The search engine that values you as a user, not as a product",
     "business_name": "",
@@ -15667,32 +15699,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "lpdaigle.com",
-    "title": "Louis-Philippe Daigle | Residential and Commercial Real Estate Broker at RE/MAX D'ICI",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 26720,
-    "crawled_at": "2026-02-22T17:39:16.153117656Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Didomi",
-      "Envoy",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Nginx",
-      "Nuxt.js",
-      "QUIC",
-      "UTF-8",
-      "Vector Internet Services"
     ]
   }
 ]
