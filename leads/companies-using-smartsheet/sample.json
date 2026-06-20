@@ -1,5 +1,33 @@
 [
   {
+    "domain": "colliershotels-sc.com",
+    "title": "Home - Colliers Hotels - SC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 88480,
+    "crawled_at": "2026-06-20T09:47:19.975180363Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "KVH",
+      "No-Q",
+      "SMC",
+      "Smartsheet",
+      "Storyblocks",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "evidence-staging.co.uk",
     "title": "Sector Data | Audience Answers | The Audience Agency",
     "business_name": "",
