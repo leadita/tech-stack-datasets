@@ -1,5 +1,27 @@
 [
   {
+    "domain": "frstpnglshd.com",
+    "title": "MedAI - Healthcare Automation Platform",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 41564,
+    "crawled_at": "2026-06-20T13:17:19.968401372Z",
+    "technologies": [
+      "AI Log",
+      "AthenaHealth",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Next.js",
+      "Nginx",
+      "QUIC",
+      "UTF-8",
+      "Ubuntu",
+      "eClinicalWorks"
+    ]
+  },
+  {
     "domain": "livewellim.com",
     "title": "Live Well Integrative Medicine",
     "business_name": "Live Well Integrative Medicine",
@@ -3000,28 +3022,6 @@
       "WordPress Related Posts",
       "Yelp Badge",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "morgenqzventr.com",
-    "title": "MedAI - Healthcare Automation Platform",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 41564,
-    "crawled_at": "2026-06-04T16:56:46.496835934Z",
-    "technologies": [
-      "AI Log",
-      "AthenaHealth",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Next.js",
-      "Nginx",
-      "QUIC",
-      "UTF-8",
-      "Ubuntu",
-      "eClinicalWorks"
     ]
   },
   {
