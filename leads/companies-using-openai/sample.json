@@ -1,5 +1,25 @@
 [
   {
+    "domain": "137studios.com",
+    "title": "137studios - Consciousness Art & Mystical Creations",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 300,
+    "crawled_at": "2026-06-20T08:20:19.967895999Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Express",
+      "Next.js",
+      "OpenAI",
+      "Oracle Cloud",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "gbcbcgive.com",
     "title": "Grace Baptist Church Battle Creek",
     "business_name": "",
@@ -11702,26 +11722,6 @@
       "UTF-8",
       "University or College",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "137studios.com",
-    "title": "137studios - Consciousness Art & Mystical Creations",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 5040,
-    "crawled_at": "2026-05-30T22:16:52.0529384Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Express",
-      "Next.js",
-      "OpenAI",
-      "Oracle Cloud",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {
