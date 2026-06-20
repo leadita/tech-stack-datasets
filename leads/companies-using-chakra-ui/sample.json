@@ -1,5 +1,23 @@
 [
   {
+    "domain": "dronealo.com.ar",
+    "title": "Dronealo",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-06-19T16:35:19.969325469Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Instagram Follow Button",
+      "Netlify",
+      "Next.js",
+      "Pleroma",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "aistudentchapter.lk",
     "title": "C H A P T E R S | AI Portal - University of Moratuwa",
     "business_name": "",
@@ -12739,26 +12757,6 @@
       "Sanity",
       "Sitelinks Search Box",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "orafinance.nl",
-    "title": "Home • Ora Finance",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-05-05T07:35:20.016752615Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "PWA",
-      "Pleroma",
-      "Sanity",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]

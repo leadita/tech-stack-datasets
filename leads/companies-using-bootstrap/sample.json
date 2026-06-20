@@ -1,5 +1,27 @@
 [
   {
+    "domain": "qbiohealth.com",
+    "title": "Coming Soon - Start Bootstrap Theme",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 222,
+    "crawled_at": "2026-06-20T11:38:19.969894893Z",
+    "technologies": [
+      "Coming Soon Page",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microsoft Azure",
+      "Nginx",
+      "Start Bootstrap",
+      "Visual Studio",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "famida.org",
     "title": "FaMiDa",
     "business_name": "",
@@ -15325,35 +15347,6 @@
       "Wangsu",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "johngaltinsurancemiami.com",
-    "title": "John Galt Insurance Agency - John Galt Insurance Agency",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 1348,
-    "crawled_at": "2026-05-20T10:02:20.002632201Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Better Lead Generation Services",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "Font Awesome",
-      "GZIP Module",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "WP Bootstrap Starter",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
