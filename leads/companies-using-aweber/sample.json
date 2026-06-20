@@ -1,5 +1,56 @@
 [
   {
+    "domain": "diegoramosauthor.com",
+    "title": "The Last Morisco - Diego Ramos",
+    "business_name": "Diego Ramos",
+    "country": "ESP",
+    "seo_score": 77,
+    "tech_spend": 22327,
+    "crawled_at": "2026-06-20T11:26:19.97108909Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Eber",
+      "EmbedPress",
+      "GZIP Module",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "ThemeFusion",
+      "UTF-8",
+      "WP Fastest Cache",
+      "WordPress",
+      "WordPress Multisite",
+      "aWeber",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "cheshireglazingspecialists.co.uk",
+    "title": "Honest and Reliable Double Glazing | Northwich Family Business",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2856,
+    "crawled_at": "2026-06-20T07:26:19.971379349Z",
+    "technologies": [
+      "Apache",
+      "Better Lead Generation Services",
+      "Eber",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Custom Search",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Olark",
+      "aWeber"
+    ]
+  },
+  {
     "domain": "wobofm.com",
     "title": "WOBO FM | Radio",
     "business_name": "",
@@ -2414,35 +2465,6 @@
     ]
   },
   {
-    "domain": "diegoramosauthor.com",
-    "title": "The Last Morisco - Diego Ramos",
-    "business_name": "Diego Ramos",
-    "country": "ESP",
-    "seo_score": 82,
-    "tech_spend": 22327,
-    "crawled_at": "2026-05-31T05:26:45.373065493Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apache",
-      "Apture Linking Platform",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Eber",
-      "EmbedPress",
-      "GZIP Module",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "PHP",
-      "ThemeFusion",
-      "UTF-8",
-      "WP Fastest Cache",
-      "WordPress",
-      "WordPress Multisite",
-      "aWeber",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "marknagelberg.com",
     "title": "Mark Nagelberg – Data science projects, tools, and research",
     "business_name": "",
@@ -2506,28 +2528,6 @@
       "WordPress Multisite",
       "aWeber",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "cheshireglazingspecialists.co.uk",
-    "title": "Honest and Reliable Double Glazing | Northwich Family Business",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2856,
-    "crawled_at": "2026-05-30T20:20:48.747505047Z",
-    "technologies": [
-      "Apache",
-      "Better Lead Generation Services",
-      "Eber",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Custom Search",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Olark",
-      "aWeber"
     ]
   },
   {
