@@ -1,5 +1,92 @@
 [
   {
+    "domain": "farmfreshduck.com",
+    "title": "Buy Fresh Duck - Duck Breast, Duck Fat, Duck Legs, Duck Recipes - Good Vittles",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 62,
+    "tech_spend": 25508,
+    "crawled_at": "2026-06-20T12:59:19.968658485Z",
+    "technologies": [
+      "Apache",
+      "Contento",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "PHP",
+      "PrestaShop",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "good-price.pl",
+    "title": "good-price.pl",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": "",
+    "crawled_at": "2026-06-20T08:44:19.9702582Z",
+    "technologies": [
+      "LiteSpeed",
+      "PrestaShop",
+      "QUIC",
+      "WordPress"
+    ]
+  },
+  {
+    "domain": "flapbeauty.com",
+    "title": "Buy Beauty Products and Cosmetics Product at best price online in India",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 15900,
+    "crawled_at": "2026-06-20T00:53:19.971429393Z",
+    "technologies": [
+      "AutoComplete",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "PHP",
+      "PrestaShop",
+      "QUIC",
+      "Schema Plugin",
+      "Tailwind CSS",
+      "UTF-8",
+      "ashop"
+    ]
+  },
+  {
+    "domain": "ferinox.ae",
+    "title": "Commercial Kitchen Equipment & Stainless Steel Fabrication in UAE | Ferinox",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 508,
+    "crawled_at": "2026-06-19T18:11:19.968542163Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Material Design Icons",
+      "PHP",
+      "PrestaShop",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu"
+    ]
+  },
+  {
     "domain": "protastic.co.uk",
     "title": "PROtastic Action Camera Accessories",
     "business_name": "",
@@ -51,21 +138,6 @@
       "Twitter Ads",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "evertek.pl",
-    "title": "evertek.pl",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": "",
-    "crawled_at": "2026-06-19T05:59:19.969345737Z",
-    "technologies": [
-      "LiteSpeed",
-      "PrestaShop",
-      "QUIC",
-      "WordPress"
     ]
   },
   {
@@ -9592,26 +9664,6 @@
     ]
   },
   {
-    "domain": "farmfreshduck.com",
-    "title": "Buy Fresh Duck - Duck Breast, Duck Fat, Duck Legs, Duck Recipes - Good Vittles",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 62,
-    "tech_spend": 25508,
-    "crawled_at": "2026-05-31T08:36:47.92245603Z",
-    "technologies": [
-      "Apache",
-      "Contento",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "PHP",
-      "PrestaShop",
-      "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "brockyseductiontoys.com",
     "title": "découvrez notre lingerie sexy et nos jouets érotiques",
     "business_name": "Brockyseductiontoys.com",
@@ -11125,31 +11177,6 @@
       "Schema Plugin",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "ferinox.ae",
-    "title": "Commercial Kitchen Equipment & Stainless Steel Fabrication in UAE | Ferinox",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 508,
-    "crawled_at": "2026-05-29T16:56:17.92584905Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Material Design Icons",
-      "PHP",
-      "PrestaShop",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu"
     ]
   },
   {
@@ -15330,40 +15357,6 @@
       "UTF-8",
       "WoWonder",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "alaseel.nl",
-    "title": "Alaseel BV",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 72,
-    "tech_spend": 19007,
-    "crawled_at": "2026-05-24T20:51:19.506165762Z",
-    "technologies": [
-      "Alternate Protocol",
-      "AutoComplete",
-      "Copy Anything to Clipboard",
-      "Fastly",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "GraphQL",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Material Design Icons",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Parallels Plesk Panel",
-      "PrestaShop",
-      "QUIC",
-      "Schema Plugin",
-      "SocialSignIn",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
