@@ -1,5 +1,37 @@
 [
   {
+    "domain": "btp.co.nz",
+    "title": "Home - Bishop Toomey & Pfeifer",
+    "business_name": "",
+    "country": "NZL",
+    "seo_score": 70,
+    "tech_spend": 4479,
+    "crawled_at": "2026-06-20T02:44:19.972199275Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Gravity",
+      "Gravity Forms",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "Xero",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "chooseconfiance.com",
     "title": "Top Bookkeeping and Accounting Service Provider in USA | UK | AU | CA",
     "business_name": "",
@@ -18297,39 +18329,6 @@
       "YouTube",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "gdagroup.com.au",
-    "title": "Trusted Advice & Strategic Investment Solutions - GDA Group",
-    "business_name": "GDA Group",
-    "country": "AUS",
-    "seo_score": 77,
-    "tech_spend": 53179,
-    "crawled_at": "2026-04-21T19:05:19.99359403Z",
-    "technologies": [
-      "Alternate Protocol",
-      "EmbedPress",
-      "Flying Pages by WP Speed Matters",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "No-Q",
-      "PHP",
-      "QUIC",
-      "SMC",
-      "Sitelinks Search Box",
-      "Theme In WP",
-      "UTF-8",
-      "WP Fastest Cache",
-      "WordPress",
-      "WordPress Multisite",
-      "Xero"
     ]
   }
 ]
