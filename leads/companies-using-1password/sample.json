@@ -1,5 +1,91 @@
 [
   {
+    "domain": "ambermemories.com",
+    "title": "Ambar Memories",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 21956,
+    "crawled_at": "2026-06-20T13:02:19.968674888Z",
+    "technologies": [
+      "1Password",
+      "Alternate Protocol",
+      "DAV",
+      "Financial Services Guide",
+      "Framer Sites",
+      "Google",
+      "Google Cloud CDN",
+      "Hexo",
+      "KVH",
+      "Ntent",
+      "SMC",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
+    "domain": "triadleisurescapes.com",
+    "title": "Triad Leisurescapes",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 65,
+    "tech_spend": 56692,
+    "crawled_at": "2026-06-20T11:29:19.968822185Z",
+    "technologies": [
+      "1Password",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Better Lead Generation Services",
+      "Framer Sites",
+      "Instagram Follow Button",
+      "Ntent",
+      "SMC",
+      "Yandex Hosting",
+      "Yelp Badge",
+      "Zeald"
+    ]
+  },
+  {
+    "domain": "elixusagencyoffice.com",
+    "title": "ELIXUS - AI that Turns Missed Opportunities into Revenue",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 29092,
+    "crawled_at": "2026-06-20T06:41:19.969972429Z",
+    "technologies": [
+      "1Password",
+      "Apture Linking Platform",
+      "Framer Sites",
+      "Google",
+      "Google Cloud CDN",
+      "Instagram Follow Button",
+      "KVH",
+      "Ntent",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
+    "domain": "levbaltimore.org",
+    "title": "Lev Hatorah Academy",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 1956,
+    "crawled_at": "2026-06-20T00:14:19.970607327Z",
+    "technologies": [
+      "1Password",
+      "Alternate Protocol",
+      "Framer Sites",
+      "Google",
+      "Google Cloud CDN",
+      "Ntent",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
     "domain": "parnikapassidesign.com",
     "title": "Portfolio",
     "business_name": "",
@@ -86,27 +172,6 @@
     ]
   },
   {
-    "domain": "elixusagencyai.com",
-    "title": "ELIXUS - AI that Turns Missed Opportunities into Revenue",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 29092,
-    "crawled_at": "2026-06-18T19:14:19.971679085Z",
-    "technologies": [
-      "1Password",
-      "Apture Linking Platform",
-      "Framer Sites",
-      "Google",
-      "Google Cloud CDN",
-      "Instagram Follow Button",
-      "KVH",
-      "Ntent",
-      "Yandex Hosting",
-      "Zeald"
-    ]
-  },
-  {
     "domain": "vetusdirect.com",
     "title": "Marine Engineering Service and Chandlery in Plymouth",
     "business_name": "",
@@ -162,25 +227,6 @@
       "Ntent",
       "Yandex Hosting",
       "YouTube",
-      "Zeald"
-    ]
-  },
-  {
-    "domain": "levbaltimore.com",
-    "title": "Lev Hatorah Academy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 1956,
-    "crawled_at": "2026-06-18T01:02:19.971399478Z",
-    "technologies": [
-      "1Password",
-      "Alternate Protocol",
-      "Framer Sites",
-      "Google",
-      "Google Cloud CDN",
-      "Ntent",
-      "Yandex Hosting",
       "Zeald"
     ]
   },
@@ -14167,57 +14213,6 @@
       "YouTube",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "bhtbronya.cz",
-    "title": "NANOIZOL",
-    "business_name": "",
-    "country": "CZE",
-    "seo_score": 67,
-    "tech_spend": 49892,
-    "crawled_at": "2026-05-31T11:25:32.986589859Z",
-    "technologies": [
-      "1Password",
-      "Alternate Protocol",
-      "Fireblade",
-      "Framer Sites",
-      "Google",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Gumlet",
-      "Instagram Follow Button",
-      "K2F",
-      "No-Q",
-      "Ntent",
-      "University or College",
-      "Yandex Hosting",
-      "Zeald"
-    ]
-  },
-  {
-    "domain": "drdubrovsky.com",
-    "title": "Dr. Alanna Dubrovsky | UCSF-Trained Pediatric Psychiatrist CA",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 47092,
-    "crawled_at": "2026-05-31T11:17:46.08914091Z",
-    "technologies": [
-      "1Password",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Community",
-      "Framer Sites",
-      "Google",
-      "Google Cloud CDN",
-      "Instagram Follow Button",
-      "KVH",
-      "Lemon Squeezy",
-      "Ntent",
-      "Twitter Ads",
-      "Yandex Hosting",
-      "Zeald"
     ]
   }
 ]
