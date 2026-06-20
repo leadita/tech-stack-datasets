@@ -1,5 +1,38 @@
 [
   {
+    "domain": "bahaiartistendowment.com",
+    "title": "ericDozier",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 65,
+    "tech_spend": 4478,
+    "crawled_at": "2026-06-20T16:47:19.967939833Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "Express",
+      "FormSubmit",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Line2",
+      "MailerLite",
+      "Microdata for Google Shopping",
+      "Newsletter for Wordpress",
+      "QUIC",
+      "Squarespace",
+      "Sumo",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "kondidoc.com",
     "title": "KondiDoc: сервис расчета рецептур кондитерских изделий",
     "business_name": "",
@@ -22221,37 +22254,6 @@
       "Ubuntu",
       "WhatsApp Sharing",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "clarawisner.com",
-    "title": "Clara Belize Wisner",
-    "business_name": "Clara Wisner",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 1252,
-    "crawled_at": "2026-04-03T16:41:19.993755115Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Practice Better",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "Sumo",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
