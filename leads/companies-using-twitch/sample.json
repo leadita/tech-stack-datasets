@@ -1,5 +1,29 @@
 [
   {
+    "domain": "badja.co.uk",
+    "title": "baDJa - Professional all format DJ specialising in Mixtapes and Mash Up's",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 65,
+    "tech_spend": 15040,
+    "crawled_at": "2026-06-20T21:59:19.975789777Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "PHP",
+      "QUIC",
+      "Twitch",
+      "Twitter Ads",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "germainevalentina.com",
     "title": "@germainevalentina | Facebook, youtu.be | Beacons",
     "business_name": "",
@@ -17340,36 +17364,6 @@
       "YouTube",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "conwaytitty.com",
-    "title": "Conway Titty",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 20160,
-    "crawled_at": "2026-04-28T15:23:19.998201488Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Beacons",
-      "GZIP Module",
-      "Giphy",
-      "Google Cloud",
-      "Instagram Follow Button",
-      "KVH",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "OnlyFans",
-      "PWA",
-      "SMC",
-      "Subversion",
-      "Twitch",
-      "Twitter Ads",
-      "UTF-8",
-      "Way",
-      "YouTube"
     ]
   }
 ]
