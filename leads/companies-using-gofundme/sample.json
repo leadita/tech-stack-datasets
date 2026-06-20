@@ -1,5 +1,67 @@
 [
   {
+    "domain": "fundacionsimnsa.org",
+    "title": "Inicio - Fundación SIMNSA - Ayudanos a Ayudar",
+    "business_name": "Fundación SIMNSA",
+    "country": "MEX",
+    "seo_score": 82,
+    "tech_spend": 2664,
+    "crawled_at": "2026-06-20T17:14:19.968520474Z",
+    "technologies": [
+      "Alternate Protocol",
+      "DuracellTomi Google Tag Manager for WordPress",
+      "EmbedPress",
+      "Federal Deposit Insurance Corporation",
+      "GZIP Module",
+      "GoFundMe",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Sitelinks Search Box",
+      "Slider Revolution",
+      "SmartCrawl",
+      "To Top",
+      "Twitter Ads",
+      "UTF-8",
+      "WPBakery",
+      "WhatsApp Sharing",
+      "Woo Themes",
+      "WooCommerce Checkout",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
+    "domain": "ballardclose.co.uk",
+    "title": "Ballard Close – For the Children of Twyford",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 647,
+    "crawled_at": "2026-06-20T16:41:19.972567874Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Automattic",
+      "Content Delivery Network",
+      "DAV",
+      "EmbedPress",
+      "GoFundMe",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "Nginx",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats"
+    ]
+  },
+  {
     "domain": "ruralanimalcare.com",
     "title": "Home | Rural Animal Care | Zimbabwe Animal Welfare",
     "business_name": "Rural Animal Care",
@@ -8220,32 +8282,6 @@
       "Schema Plugin",
       "Subversion",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "ballardclose.co.uk",
-    "title": "Ballard Close – For the Children of Twyford",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 647,
-    "crawled_at": "2026-05-31T15:13:35.441728827Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Automattic",
-      "DAV",
-      "EmbedPress",
-      "GDPR Consent Management Platform",
-      "GoFundMe",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Nginx",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats"
     ]
   },
   {
@@ -17003,39 +17039,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "foodforthebluegrass.com",
-    "title": "Food for the Bluegrass – Food for the Bluegrass",
-    "business_name": "",
-    "country": "MYS",
-    "seo_score": 77,
-    "tech_spend": 10288,
-    "crawled_at": "2026-05-21T09:11:19.99805657Z",
-    "technologies": [
-      "Akismet",
-      "Alternate Protocol",
-      "Automattic",
-      "Church Center",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Font Awesome",
-      "GoFundMe",
-      "Gutenberg",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Nginx",
-      "PHP",
-      "RM Education",
-      "Thank You",
-      "ThemeFusion",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "jQuery"
     ]
   }
 ]
