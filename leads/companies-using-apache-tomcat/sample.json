@@ -1,5 +1,33 @@
 [
   {
+    "domain": "12planesofchristmas.com",
+    "title": "Commemorative Air Force - 12 Planes of Christmas 2025 by Commemorative Air Force",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 3739,
+    "crawled_at": "2026-06-20T23:08:19.97150962Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Amazon",
+      "Apache",
+      "Apache Tomcat JK",
+      "Content Delivery Network",
+      "Font Awesome",
+      "Fundrazr",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Share Link",
+      "Tailwind CSS",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "swatikarni.com",
     "title": "Portfolio | Swati Karni- Principal Cloud Engineer",
     "business_name": "",
@@ -91,36 +119,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "detectivequick.com",
-    "title": "DETECTIVE DICK QUICK - a new series from ATIQ by ATIQ",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 18699,
-    "crawled_at": "2026-06-08T11:08:19.969765078Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon",
-      "Apache",
-      "Apache Tomcat JK",
-      "Content Delivery Network",
-      "Express",
-      "Font Awesome",
-      "Fundrazr",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Perl",
-      "QUIC",
-      "Share Link",
-      "Tailwind CSS",
-      "UTF-8",
-      "reCAPTCHA"
     ]
   },
   {
