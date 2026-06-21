@@ -1,5 +1,44 @@
 [
   {
+    "domain": "catholicmombundle.com",
+    "title": "Catholic Mom Bundle - Catholic Mom Bundle",
+    "business_name": "Catholic Mom Bundle",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2215,
+    "crawled_at": "2026-06-21T18:02:19.969059844Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Automattic",
+      "Content Delivery Network",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Jetpack",
+      "MailerLite",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Sumo",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "bahaiartistendowment.com",
     "title": "ericDozier",
     "business_name": "",
@@ -22227,33 +22266,6 @@
       "YouTube",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "mayapurlist.com",
-    "title": "MayapurList",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 57,
-    "tech_spend": 507,
-    "crawled_at": "2026-04-03T18:20:28.872112469Z",
-    "technologies": [
-      "Bulma",
-      "Clicky",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Lineicons",
-      "Nginx",
-      "QUIC",
-      "Sumo",
-      "Tailwind CSS",
-      "Telegram",
-      "UTF-8",
-      "Ubuntu",
-      "WhatsApp Sharing",
-      "reCAPTCHA"
     ]
   }
 ]
