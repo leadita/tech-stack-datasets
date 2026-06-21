@@ -1,5 +1,27 @@
 [
   {
+    "domain": "snatchedupbodysculpting.com",
+    "title": "Snatched Up Body Sculpting",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 3628,
+    "crawled_at": "2026-06-21T04:32:19.969253479Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "ETranslate",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vagaro"
+    ]
+  },
+  {
     "domain": "drkrushel.com",
     "title": "BOTOX & Dermal Fillers | Lethbridge, Fernie, Crowsnest, Yellowknife",
     "business_name": "",
@@ -10063,29 +10085,6 @@
       "Vagaro",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "snatchedupbodysculpting.com",
-    "title": "Snatched Up Body Sculpting",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 6028,
-    "crawled_at": "2026-06-01T13:20:33.733431183Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Duda",
-      "ETranslate",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vagaro"
     ]
   },
   {
