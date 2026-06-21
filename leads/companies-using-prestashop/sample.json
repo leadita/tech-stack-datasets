@@ -1,5 +1,20 @@
 [
   {
+    "domain": "mvoactive.com",
+    "title": "mvoactive.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": "",
+    "crawled_at": "2026-06-21T16:29:19.968742969Z",
+    "technologies": [
+      "LiteSpeed",
+      "PrestaShop",
+      "QUIC",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "farmfreshduck.com",
     "title": "Buy Fresh Duck - Duck Breast, Duck Fat, Duck Legs, Duck Recipes - Good Vittles",
     "business_name": "",
@@ -17,21 +32,6 @@
       "PrestaShop",
       "QUIC",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "good-price.pl",
-    "title": "good-price.pl",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": "",
-    "crawled_at": "2026-06-20T08:44:19.9702582Z",
-    "technologies": [
-      "LiteSpeed",
-      "PrestaShop",
-      "QUIC",
-      "WordPress"
     ]
   },
   {
