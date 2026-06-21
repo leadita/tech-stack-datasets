@@ -1,5 +1,23 @@
 [
   {
+    "domain": "rsjumps.com",
+    "title": "Publi Jumps",
+    "business_name": "",
+    "country": "",
+    "seo_score": 20,
+    "tech_spend": 699,
+    "crawled_at": "2026-06-21T01:50:19.968699697Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Material Design for Bootstrap",
+      "Nginx"
+    ]
+  },
+  {
     "domain": "qbiohealth.com",
     "title": "Coming Soon - Start Bootstrap Theme",
     "business_name": "",
@@ -15316,36 +15334,6 @@
       "Google Font API",
       "Google Tag Manager",
       "Start Bootstrap",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "climetz.in",
-    "title": "Climetz",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 60,
-    "tech_spend": 3353,
-    "crawled_at": "2026-05-20T10:04:03.847388421Z",
-    "technologies": [
-      "Apache",
-      "ArvanCloud",
-      "Better Lead Generation Services",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cornerstone",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microsoft Azure",
-      "PHP",
-      "QUIC",
-      "Start Bootstrap",
-      "UTF-8",
-      "Wangsu",
-      "jQuery",
       "jsDelivr"
     ]
   }
