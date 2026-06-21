@@ -1,5 +1,71 @@
 [
   {
+    "domain": "theos.dev",
+    "title": "Home · Theos",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": "",
+    "crawled_at": "2026-06-21T19:23:19.968878841Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Jekyll",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "newtpqc.com",
+    "title": "newtpqc · New Trends in Post-Quantum Cryptography",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 24840,
+    "crawled_at": "2026-06-21T16:20:19.970615536Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Jekyll",
+      "Oracle Cloud",
+      "QUIC",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "codexmutabilis.com",
+    "title": "Codex Mutabilis | A journal for publishing changes according to the ICZN code",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 600,
+    "crawled_at": "2026-06-21T03:35:19.968898841Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Jekyll",
+      "Microdata for Google Shopping",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "nyeggen.com",
     "title": "Bryce Nyeggen",
     "business_name": "",
@@ -11826,25 +11892,6 @@
     ]
   },
   {
-    "domain": "theos.dev",
-    "title": "Home · Theos",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": "",
-    "crawled_at": "2026-06-02T17:37:59.738536326Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Jekyll",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "stgbags.co.za",
     "title": "Saleys Travel Goods – Saleys Travel Goods",
     "business_name": "",
@@ -13915,50 +13962,6 @@
       "NFOrce Internet",
       "UTF-8",
       "University or College"
-    ]
-  },
-  {
-    "domain": "wenshanyu.com",
-    "title": "Wenshan Yu",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 75,
-    "tech_spend": 2640,
-    "crawled_at": "2026-05-31T09:46:41.799866167Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Jekyll",
-      "Microdata for Google Shopping",
-      "UTF-8",
-      "Vimeo",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "madgear.org",
-    "title": "MadGearFFM – Deine Fighting Game Location im Rhein-Main-Gebiet | MadGearFFM 魔奴義亜",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2400,
-    "crawled_at": "2026-05-31T09:24:25.606118361Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Calendar",
-      "Google My Business",
-      "Jekyll",
-      "Microdata for Google Shopping",
-      "Subversion",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]

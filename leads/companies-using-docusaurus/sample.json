@@ -1,5 +1,23 @@
 [
   {
+    "domain": "krayola.dev",
+    "title": "Home Portfolio Site | Kendall Kant",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": "",
+    "crawled_at": "2026-06-21T03:23:19.969150172Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Netlify",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "piercecohen.com",
     "title": "Pierce Cohen | AI Engineer",
     "business_name": "",
@@ -12170,24 +12188,6 @@
       "Instagram Follow Button",
       "Perl",
       "Telegram",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "krayola.dev",
-    "title": "Home Portfolio Site | Kendall Kant",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": "",
-    "crawled_at": "2026-03-14T22:58:52.912223273Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Netlify",
-      "Perl",
       "UTF-8"
     ]
   },
