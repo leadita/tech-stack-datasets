@@ -1,5 +1,30 @@
 [
   {
+    "domain": "columnmate.com",
+    "title": "File Compress for monday.com | ColumnMate",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 7890,
+    "crawled_at": "2026-06-21T08:11:19.969076805Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "YouTube",
+      "monday.com"
+    ]
+  },
+  {
     "domain": "malyitsolutions.co.uk",
     "title": "Bespoke Software Development Suffolk | Maly IT Solutions",
     "business_name": "Maly IT Solutions",
@@ -18547,40 +18572,6 @@
       "Yandex Hosting",
       "YouTube",
       "Zeald",
-      "monday.com"
-    ]
-  },
-  {
-    "domain": "brooklynreich.com",
-    "title": "Home | Portfolio",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 93096,
-    "crawled_at": "2026-05-18T01:17:19.998632634Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Hootsuite Badge",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PWA",
-      "QUIC",
-      "SMC",
-      "Sentry",
-      "SiteW",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "mlcom",
       "monday.com"
     ]
   }
