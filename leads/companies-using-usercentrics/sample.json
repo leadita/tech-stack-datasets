@@ -1,5 +1,65 @@
 [
   {
+    "domain": "xn--hallo-lbbecke-2ob.de",
+    "title": "Nachrichten für Lübbecke und Umgebung – Veranstaltungskalender – Service – Firmennetzwerk - HALLO LÜBBECKE",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 72,
+    "tech_spend": 1348,
+    "crawled_at": "2026-06-21T02:29:19.971950286Z",
+    "technologies": [
+      "Apache",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "FreeCSSTemplates",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Maps",
+      "Google My Business",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Line2",
+      "PHP",
+      "Subversion",
+      "Twitter Ads",
+      "UTF-8",
+      "Usercentrics",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "tekaath.de",
+    "title": "Tekaath GmbH | Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 40116,
+    "crawled_at": "2026-06-21T01:32:19.967970571Z",
+    "technologies": [
+      "Adform Direct",
+      "DealerSites",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "MailChimp",
+      "Salesforce",
+      "Salesforce Experience Cloud",
+      "Salesforce Hosted",
+      "UTF-8",
+      "Usercentrics",
+      "Vimeo",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "sportadvisory.com",
     "title": "The Sports Facilities Companies | SFC",
     "business_name": "Pronto Base Site",
@@ -5864,35 +5924,6 @@
       "UTF-8",
       "Usercentrics",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "tekaath.de",
-    "title": "Tekaath GmbH | Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 40116,
-    "crawled_at": "2026-06-01T07:12:36.369200753Z",
-    "technologies": [
-      "Adform Direct",
-      "DealerSites",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "MailChimp",
-      "Salesforce",
-      "Salesforce Experience Cloud",
-      "Salesforce Hosted",
-      "UTF-8",
-      "Usercentrics",
-      "Vimeo",
-      "YouTube",
-      "jQuery"
     ]
   },
   {
@@ -18237,28 +18268,6 @@
       "Slider Revolution",
       "UTF-8",
       "Usercentrics"
-    ]
-  },
-  {
-    "domain": "worldciderday.com",
-    "title": "Home - IT'S WORLD-CIDER-DAY ON JUNE 3rd",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 82,
-    "tech_spend": 688,
-    "crawled_at": "2026-05-17T08:03:53.481231061Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Joomla!",
-      "PHP",
-      "RokNavMenu",
-      "UTF-8",
-      "Usercentrics",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
