@@ -1,5 +1,35 @@
 [
   {
+    "domain": "academyip.co.uk",
+    "title": "Multi-Academy Trust Self-Evaluation Software",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 59239,
+    "crawled_at": "2026-06-20T12:44:19.970788138Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "IO Education",
+      "Impact",
+      "Microsoft Azure",
+      "Microsoft Clarity",
+      "Microsoft IIS",
+      "Tailwind CSS",
+      "Tawk",
+      "UTF-8",
+      "University or College",
+      "Visual Studio",
+      "YouTube",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "stuandamy.com",
     "title": "Amy Porterfield & Stu McLaren Mastermind - March 24th, 2025 - Google Docs",
     "business_name": "",
@@ -10884,38 +10914,6 @@
       "WordPress",
       "WordPress Multisite",
       "WordPress Stats"
-    ]
-  },
-  {
-    "domain": "hospitalip.co.uk",
-    "title": "HospitaliP",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 17859,
-    "crawled_at": "2026-05-22T04:41:19.972912683Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Fireblade",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "IO Education",
-      "Impact",
-      "Microsoft Azure",
-      "Microsoft Clarity",
-      "Microsoft IIS",
-      "QUIC",
-      "Tailwind CSS",
-      "Tawk",
-      "UTF-8",
-      "University or College",
-      "Visual Studio",
-      "YouTube",
-      "jsDelivr",
-      "reCAPTCHA"
     ]
   },
   {
