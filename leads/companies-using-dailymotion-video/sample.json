@@ -1,5 +1,31 @@
 [
   {
+    "domain": "metachroom.com",
+    "title": "Meta Croom On-site repair",
+    "business_name": "",
+    "country": "ESP",
+    "seo_score": 72,
+    "tech_spend": 2628,
+    "crawled_at": "2026-06-21T15:35:19.968751013Z",
+    "technologies": [
+      "DailyMotion Video",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nginx",
+      "Plausible Analytics",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "boxesofhouston.com",
     "title": "Home | Boxes of Houston",
     "business_name": "",
@@ -20101,48 +20127,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "chefcup.be",
-    "title": "Belgian Cup of Cuisine",
-    "business_name": "",
-    "country": "BEL",
-    "seo_score": 82,
-    "tech_spend": 12997,
-    "crawled_at": "2026-05-11T02:15:15.049621507Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Contact Form Plugin",
-      "Cookie Accept",
-      "Cookie Notice",
-      "DailyMotion Video",
-      "EmbedPress",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "HubSpot Conversations",
-      "Hubspot",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "LayerSlider Responsive",
-      "OneSignal",
-      "PHP",
-      "PixelYourSite",
-      "Polylang",
-      "Slider Revolution",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WPBakery",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
