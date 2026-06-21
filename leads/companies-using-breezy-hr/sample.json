@@ -1,5 +1,32 @@
 [
   {
+    "domain": "floathealth.com",
+    "title": "Float Health | On demand home infusion nurses",
+    "business_name": "",
+    "country": "VEN",
+    "seo_score": 77,
+    "tech_spend": 13093,
+    "crawled_at": "2026-06-21T17:29:19.974228642Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Astro",
+      "Breezy HR",
+      "Cisco/Arrowpoint Content Service Switch",
+      "CloudFront",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Investor Relations",
+      "Thank You"
+    ]
+  },
+  {
     "domain": "caravela.capital",
     "title": "Caravela Capital",
     "business_name": "",
@@ -2259,33 +2286,6 @@
       "Vercel",
       "Vignette OpenText",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "float.health",
-    "title": "Float Health | On demand home infusion nurses",
-    "business_name": "",
-    "country": "VEN",
-    "seo_score": 72,
-    "tech_spend": 13093,
-    "crawled_at": "2026-05-23T05:29:20.006827996Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Astro",
-      "Breezy HR",
-      "Cisco/Arrowpoint Content Service Switch",
-      "CloudFront",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Investor Relations",
-      "Thank You"
     ]
   },
   {
