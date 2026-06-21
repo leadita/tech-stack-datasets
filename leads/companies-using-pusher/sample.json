@@ -1,34 +1,12 @@
 [
   {
-    "domain": "sportslob.com",
-    "title": "SportSlob",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 703,
-    "crawled_at": "2026-06-19T11:14:19.968985915Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AWS WAF Challenge",
-      "Apache",
-      "DAV",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "ISO/IEC 8859",
-      "NFOrce Internet",
-      "Pusher",
-      "Ubuntu",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "southernstatesrealestate.com",
+    "domain": "ryanabbe.com",
     "title": "North Atlanta Real Estate Experts | Abbe Real Estate",
     "business_name": "Abbe Real Estate",
     "country": "GBR",
     "seo_score": 77,
     "tech_spend": 26651,
-    "crawled_at": "2026-06-17T20:11:19.971091839Z",
+    "crawled_at": "2026-06-21T07:26:19.968649269Z",
     "technologies": [
       "AgentFire",
       "Alternate Protocol",
@@ -66,6 +44,28 @@
       "YouTube",
       "jQuery",
       "shadcn ui"
+    ]
+  },
+  {
+    "domain": "sportslob.com",
+    "title": "SportSlob",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 703,
+    "crawled_at": "2026-06-19T11:14:19.968985915Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "AWS WAF Challenge",
+      "Apache",
+      "DAV",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "ISO/IEC 8859",
+      "NFOrce Internet",
+      "Pusher",
+      "Ubuntu",
+      "jQuery"
     ]
   },
   {
