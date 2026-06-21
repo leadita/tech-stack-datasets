@@ -1,5 +1,27 @@
 [
   {
+    "domain": "okie.digital",
+    "title": "okie | ecom agency",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 1956,
+    "crawled_at": "2026-06-21T03:56:19.968268415Z",
+    "technologies": [
+      "1Password",
+      "Alternate Protocol",
+      "Framer Sites",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Ntent",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
     "domain": "ambermemories.com",
     "title": "Ambar Memories",
     "business_name": "",
@@ -14170,49 +14192,6 @@
       "Vector Internet Services",
       "Yandex Hosting",
       "Zeald"
-    ]
-  },
-  {
-    "domain": "delhichestspecialist.com",
-    "title": "Best Chest Specialist in Delhi | Dr. Bharat Gopal",
-    "business_name": "Dr bharat gopal",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 68945,
-    "crawled_at": "2026-05-31T11:55:23.166089655Z",
-    "technologies": [
-      "1Password",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DAV",
-      "EmbedPress",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Gutenberg Blocks by Kadence Blocks",
-      "Instagram Follow Button",
-      "Kadence WP",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Popup Builder",
-      "QUIC",
-      "Robo Gallery",
-      "SMC",
-      "Smart Slider 3",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "W3 Total Cache",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
