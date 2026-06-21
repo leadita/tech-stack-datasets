@@ -1,5 +1,30 @@
 [
   {
+    "domain": "globalfpg.com",
+    "title": "Fire Protection Consulting – Nationwide – Global Fire Protection Group",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 116748,
+    "crawled_at": "2026-06-21T13:14:19.968614588Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Duda",
+      "Fireblade",
+      "GZIP Module",
+      "Nginx",
+      "Smooch",
+      "Tealium",
+      "Thryv",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "sesapp.io",
     "title": "SES Security Enhancement Systems. High Security Made Simple.",
     "business_name": "",
@@ -15170,32 +15195,6 @@
       "Google My Business",
       "Google Tag Manager",
       "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Smooch",
-      "Tailwind CSS",
-      "Tealium",
-      "Thryv",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "outdoorspecialtynursery.com",
-    "title": "Garden Center | Watkinsville, GA | Outdoor Specialty",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 86748,
-    "crawled_at": "2026-05-25T14:31:38.93854603Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Duda",
-      "Express",
-      "GZIP Module",
-      "Google My Business",
       "Microdata for Google Shopping",
       "Nginx",
       "Smooch",
