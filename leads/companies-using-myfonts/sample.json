@@ -1,5 +1,90 @@
 [
   {
+    "domain": "ccbsunesco.org",
+    "title": "CCBS – Colombo Children's Book Society",
+    "business_name": "",
+    "country": "LKA",
+    "seo_score": 70,
+    "tech_spend": 1332,
+    "crawled_at": "2026-06-21T19:44:19.968492797Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Astra Theme",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "Gandi",
+      "GiveWP",
+      "Google Analytics",
+      "Google Analytics Dashboard for WordPress",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Investor Relations",
+      "LiteSpeed",
+      "MyFonts",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "University or College",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "iriansmonaco.com",
+    "title": "Le Cube - Irians Monaco",
+    "business_name": "",
+    "country": "MCO",
+    "seo_score": 45,
+    "tech_spend": 65,
+    "crawled_at": "2026-06-21T16:11:19.968157557Z",
+    "technologies": [
+      "Aruba",
+      "Bulma",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "MyFonts"
+    ]
+  },
+  {
+    "domain": "richiesilva.com",
+    "title": "Richard Silva | Mortgage Loan Originator | Residential Mortgage, LLC",
+    "business_name": "Residential Mortgage, LLC",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 88949,
+    "crawled_at": "2026-06-21T03:08:19.973331184Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Facebook Pixel",
+      "Facebook Tag API",
+      "Fireblade",
+      "Font Awesome",
+      "GZIP Module",
+      "Global Privacy Control",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "M247",
+      "MyFonts",
+      "Nationwide Mortgage Licensing System and Registry",
+      "QUIC",
+      "SMC",
+      "Tailwind CSS",
+      "UTF-8",
+      "UserWay",
+      "Visx"
+    ]
+  },
+  {
     "domain": "gregorysgroves.com",
     "title": "Florida Oranges | Fresh Fruit Delivery | Gregory's Groves",
     "business_name": "",
@@ -3533,22 +3618,6 @@
       "University or College",
       "UserWay",
       "Visx"
-    ]
-  },
-  {
-    "domain": "iriansmonaco.com",
-    "title": "Le Cube - Irians Monaco",
-    "business_name": "",
-    "country": "MCO",
-    "seo_score": 55,
-    "tech_spend": 65,
-    "crawled_at": "2026-06-02T11:46:55.667116999Z",
-    "technologies": [
-      "Aruba",
-      "Bulma",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "MyFonts"
     ]
   },
   {
@@ -17286,54 +17355,6 @@
       "No-Q",
       "Subversion",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "inedehandschutter.be",
-    "title": "Freelance fotograaf in Gent & de wereld — Ine Dehandschutter | Portret en bedrijfsfotografie in Gent, Vlaanderen door Ine Dehandschutter",
-    "business_name": "",
-    "country": "BEL",
-    "seo_score": 77,
-    "tech_spend": 19028,
-    "crawled_at": "2026-05-12T21:16:07.347510016Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Adobe Creative Cloud WebFonts",
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fireblade",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Hotjar",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "MyFonts",
-      "PWA",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "jQuery",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "jerseygreys.org",
-    "title": "3rd New Jersey Regiment - Jersey Greys - Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 50,
-    "crawled_at": "2026-05-12T20:32:19.981274527Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Microsoft Authentication Library for JavaScript",
-      "MyFonts"
     ]
   }
 ]
