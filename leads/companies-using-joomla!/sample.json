@@ -1,5 +1,77 @@
 [
   {
+    "domain": "psaar.net",
+    "title": "Home",
+    "business_name": "",
+    "country": "PRT",
+    "seo_score": 67,
+    "tech_spend": 20095,
+    "crawled_at": "2026-06-21T09:44:19.972060426Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Joomla!",
+      "Nginx",
+      "Parallels Plesk Panel",
+      "Pico CSS",
+      "ReviewsOnMyWebsite",
+      "RokNavMenu",
+      "Subversion",
+      "UTF-8",
+      "University or College",
+      "WF Cookie Consent",
+      "WoWonder",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "green-finance.ca",
+    "title": "Home",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 57,
+    "tech_spend": 3,
+    "crawled_at": "2026-06-21T01:32:19.968933421Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Apache",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Joomla!",
+      "RokNavMenu",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "hollm-bau.de",
+    "title": "HOLLM BAU - Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 156,
+    "crawled_at": "2026-06-21T00:38:19.969448827Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apache",
+      "IcoMoon",
+      "Joomla!",
+      "RokNavMenu",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "stgeorgebuilding.com.au",
     "title": "St George Building",
     "business_name": "",
@@ -12743,72 +12815,6 @@
       "RokNavMenu",
       "UTF-8",
       "WoWonder",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "mgph.co.uk",
-    "title": "MG Plumbing & Heating - Plumbing & Heating Services",
-    "business_name": "MG Plumbing & Heating",
-    "country": "JAM",
-    "seo_score": 67,
-    "tech_spend": 300,
-    "crawled_at": "2026-06-08T11:47:19.969082335Z",
-    "technologies": [
-      "GZIP Module",
-      "Joomla!",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Parallels Plesk Panel",
-      "RokNavMenu",
-      "UTF-8",
-      "WhatsApp Sharing"
-    ]
-  },
-  {
-    "domain": "thepaigegroup.com.au",
-    "title": "Business Consulting, knowledge management and board director | The Paige Group | Advanced Knowledge Networks",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 15040,
-    "crawled_at": "2026-06-08T11:38:48.201386388Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Joomla!",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "RokNavMenu",
-      "Schema Plugin",
-      "Twitter Ads",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "phoenixcelebrant.com.au",
-    "title": "Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 3,
-    "crawled_at": "2026-06-08T11:35:56.953069061Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Joomla!",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "RokNavMenu",
-      "UTF-8",
       "jQuery"
     ]
   }
