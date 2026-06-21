@@ -1,5 +1,29 @@
 [
   {
+    "domain": "dotnotice.us",
+    "title": "US DOT Biennial Update Portal | DOT Updates | Federal Applications Processor - Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 5608,
+    "crawled_at": "2026-06-21T01:41:19.970196821Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Apache",
+      "ChatBot",
+      "Cognito Forms",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "LiveChat",
+      "LiveChat Monitoring",
+      "Paperform",
+      "QUIC",
+      "Rocket Chat"
+    ]
+  },
+  {
     "domain": "inspiritaied.org",
     "title": "Inspirit AI: AI High School Program taught by Stanford/MIT Alums",
     "business_name": "",
@@ -294,30 +318,6 @@
       "Nginx",
       "Paperform",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "federalfilingsassistance.com",
-    "title": "US DOT Biennial Update Portal | DOT Updates | Federal Applications Processor - Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 5608,
-    "crawled_at": "2026-06-10T01:13:28.239863712Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Apache",
-      "ChatBot",
-      "Cognito Forms",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "LiveChat",
-      "LiveChat Monitoring",
-      "Paperform",
-      "QUIC",
-      "Rocket Chat"
     ]
   },
   {
