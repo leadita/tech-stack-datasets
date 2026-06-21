@@ -1,5 +1,32 @@
 [
   {
+    "domain": "draxioncrestal.info",
+    "title": "Blackboard",
+    "business_name": "",
+    "country": "IRL",
+    "seo_score": 60,
+    "tech_spend": 10654,
+    "crawled_at": "2026-06-21T09:47:19.968265829Z",
+    "technologies": [
+      "Amazon",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Blackboard Open LMS",
+      "DAV",
+      "GZIP Module",
+      "GetResponse",
+      "GitHub Hosting",
+      "IcoMoon",
+      "New Relic",
+      "No-Q",
+      "Perl",
+      "QUIC",
+      "StackPath",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "thelandingatmarshall.com",
     "title": "The Landing at Marshall",
     "business_name": "",
