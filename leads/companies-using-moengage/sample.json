@@ -1,5 +1,43 @@
 [
   {
+    "domain": "cogentias.in",
+    "title": "COGENT IAS",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 12102,
+    "crawled_at": "2026-06-21T21:35:19.972553355Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Angular",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Engage",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "MoEngage",
+      "Nginx",
+      "Ntent",
+      "PWA",
+      "Perl",
+      "Pleroma",
+      "Sign In With Google",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "lurnprep.com",
     "title": "LurnPrep | Where Preparation Gets Results",
     "business_name": "",
@@ -16738,36 +16776,6 @@
       "UTF-8",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "ilearningguru.com",
-    "title": "iLearningGuru",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 67,
-    "tech_spend": 30139,
-    "crawled_at": "2026-05-05T07:58:39.967359995Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Angular",
-      "Engage",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "MoEngage",
-      "Nginx",
-      "PWA",
-      "Perl",
-      "Pleroma",
-      "Sign In With Google",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
