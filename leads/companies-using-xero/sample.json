@@ -1,5 +1,33 @@
 [
   {
+    "domain": "joelrichmond.co.uk",
+    "title": "Joel Richmond | UK Chartered Certified Accountants",
+    "business_name": "Joel Richmond",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 400,
+    "crawled_at": "2026-06-22T05:29:19.972772897Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "PHP",
+      "QUIC",
+      "Subversion",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "Xero",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "btp.co.nz",
     "title": "Home - Bishop Toomey & Pfeifer",
     "business_name": "",
@@ -18299,36 +18327,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "Xero",
       "eLand"
-    ]
-  },
-  {
-    "domain": "treaccountingteam.com",
-    "title": "TRE Accounting",
-    "business_name": "TRE ACCOUNTING",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 76733,
-    "crawled_at": "2026-04-21T20:32:34.8030759Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "DAV",
-      "Express",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "Xero",
-      "YouTube",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
