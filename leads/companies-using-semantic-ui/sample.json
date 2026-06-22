@@ -1,5 +1,31 @@
 [
   {
+    "domain": "yellowskyqatar.com",
+    "title": "Yellow Sky - Hotel Supplies",
+    "business_name": "",
+    "country": "SAU",
+    "seo_score": 77,
+    "tech_spend": 2499,
+    "crawled_at": "2026-06-22T10:17:19.969205452Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cornerstone",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Semantic UI",
+      "Tailwind CSS",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "digideals24.com",
     "title": "DigiDeals24",
     "business_name": "",
@@ -14531,30 +14557,6 @@
       "DAV",
       "Google Cloud DNS",
       "Google My Business",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "Semantic UI",
-      "Tawk",
-      "UTF-8",
-      "University or College",
-      "jQuery",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "satilik.com.tr",
-    "title": "Satilik.com.tr - Satılık Express",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 3,
-    "crawled_at": "2026-04-12T12:05:19.979687878Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "DAV",
-      "Express",
-      "Google Cloud DNS",
       "LiteSpeed",
       "PHP",
       "QUIC",

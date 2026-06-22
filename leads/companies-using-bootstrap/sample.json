@@ -1,5 +1,65 @@
 [
   {
+    "domain": "productodecalidad.com",
+    "title": "TrazaBit, Trazabilidad Blokchain; Blockchain based Traceability",
+    "business_name": "",
+    "country": "ESP",
+    "seo_score": 62,
+    "tech_spend": 10807,
+    "crawled_at": "2026-06-22T05:14:19.969219086Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "ArvanCloud",
+      "Blockchain",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "ElementUI",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Medium",
+      "PHP",
+      "QUIC",
+      "Start Bootstrap",
+      "UTF-8",
+      "jQuery",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "loisirsport.qc.ca",
+    "title": "RLSQ",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 67,
+    "tech_spend": 19246,
+    "crawled_at": "2026-06-22T05:02:19.969175517Z",
+    "technologies": [
+      "Bulma",
+      "Envoy",
+      "Fireblade",
+      "Font Awesome",
+      "GZIP Module",
+      "HostGator",
+      "IcoMoon",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Parallels Plesk Panel",
+      "Start Bootstrap",
+      "Tailwind CSS",
+      "UTF-8",
+      "Visual Studio",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "rsjumps.com",
     "title": "Publi Jumps",
     "business_name": "",
@@ -5182,32 +5242,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Woo Themes",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "loisirsport.qc.ca",
-    "title": "RLSQ",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 67,
-    "tech_spend": 19246,
-    "crawled_at": "2026-06-03T12:00:35.13801426Z",
-    "technologies": [
-      "Bulma",
-      "Envoy",
-      "Fireblade",
-      "Font Awesome",
-      "GZIP Module",
-      "HostGator",
-      "IcoMoon",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Parallels Plesk Panel",
-      "Start Bootstrap",
-      "Tailwind CSS",
-      "UTF-8",
-      "Visual Studio",
       "jQuery"
     ]
   },
@@ -15312,29 +15346,6 @@
       "Twitter Ads",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "edmorhospitality.com",
-    "title": "Edmor Hospitality - Bringing concepts to life",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 3,
-    "crawled_at": "2026-05-20T10:20:19.971071579Z",
-    "technologies": [
-      "Apache",
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Start Bootstrap",
-      "jsDelivr"
     ]
   }
 ]
