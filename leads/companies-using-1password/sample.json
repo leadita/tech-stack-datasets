@@ -1,5 +1,33 @@
 [
   {
+    "domain": "ycosmeticsurgery.com",
+    "title": "Your Cosmetic Surgery & SPA | Trusted Plastic Surgeons in Miami, FL | Your Cosmetic Surgery & SPA Miami",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 2839,
+    "crawled_at": "2026-06-21T20:08:19.968189434Z",
+    "technologies": [
+      "1Password",
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "FormSubmit",
+      "GZIP Module",
+      "Google Cloud",
+      "Google Customer Reviews",
+      "Google Maps",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "okie.digital",
     "title": "okie | ecom agency",
     "business_name": "",
@@ -14166,30 +14194,6 @@
       "Instagram Follow Button",
       "Ntent",
       "Shopify",
-      "Yandex Hosting",
-      "Zeald"
-    ]
-  },
-  {
-    "domain": "screentym.com",
-    "title": "ScreenTym - Digital Signage",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 34092,
-    "crawled_at": "2026-05-31T12:19:37.911963075Z",
-    "technologies": [
-      "1Password",
-      "Alternate Protocol",
-      "DAV",
-      "Framer Sites",
-      "Google",
-      "Google Cloud CDN",
-      "Instagram Follow Button",
-      "KVH",
-      "Ntent",
-      "QUIC",
-      "Vector Internet Services",
       "Yandex Hosting",
       "Zeald"
     ]
