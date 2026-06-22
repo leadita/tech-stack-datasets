@@ -1,5 +1,28 @@
 [
   {
+    "domain": "thenewyou.clinic",
+    "title": "The New You Clinic - Medical Weight Loss with GLP-1",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 3028,
+    "crawled_at": "2026-06-21T19:44:19.969418911Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "PHP",
+      "Pico CSS",
+      "Practice Better",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "sarahgnutrition.com",
     "title": "Sarah Geha Wellness & Nutrition",
     "business_name": "",
@@ -17342,25 +17365,6 @@
       "Vector Internet Services",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "mentivowellness.com",
-    "title": "Naturopathic Wellness Appointments in Texas & Wisconsin, MENTIVO Wellness",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 57,
-    "tech_spend": 459,
-    "crawled_at": "2026-05-04T11:51:11.179032336Z",
-    "technologies": [
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "LiteSpeed",
-      "PHP",
-      "Practice Better",
-      "QUIC",
-      "UTF-8"
     ]
   }
 ]
