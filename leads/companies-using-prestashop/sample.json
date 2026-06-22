@@ -1,12 +1,40 @@
 [
   {
-    "domain": "mvoactive.com",
-    "title": "mvoactive.com",
+    "domain": "www.ekomipartner.com",
+    "title": "eKomi Partnership Programme",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 77,
+    "tech_spend": 83244,
+    "crawled_at": "2026-06-22T16:17:19.970353596Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Fireblade",
+      "FormSubmit",
+      "GitHub Hosting",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Instapage",
+      "LiteSpeed",
+      "Ntent",
+      "PrestaShop",
+      "RawGit",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "YouCanBookMe",
+      "eKomi",
+      "iAPPS"
+    ]
+  },
+  {
+    "domain": "kubico.pl",
+    "title": "kubico.pl",
     "business_name": "",
     "country": "",
     "seo_score": 35,
     "tech_spend": "",
-    "crawled_at": "2026-06-21T16:29:19.968742969Z",
+    "crawled_at": "2026-06-22T16:11:19.970787935Z",
     "technologies": [
       "LiteSpeed",
       "PrestaShop",
@@ -15325,38 +15353,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "lovelymakeup.pl",
-    "title": "Lovely Makeup",
-    "business_name": "Lovely",
-    "country": "ZAF",
-    "seo_score": 62,
-    "tech_spend": 19527,
-    "crawled_at": "2026-05-24T21:13:59.626481199Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Amazon",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Fireblade",
-      "Gambling Content",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "PHP",
-      "PWA",
-      "PrestaShop",
-      "QUIC",
-      "Schema Plugin",
-      "UTF-8",
-      "WoWonder",
-      "reCAPTCHA"
     ]
   }
 ]
