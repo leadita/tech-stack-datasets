@@ -1,5 +1,27 @@
 [
   {
+    "domain": "mypetpantry.org",
+    "title": "The pet pantry org",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 240,
+    "crawled_at": "2026-06-22T05:29:19.97206396Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Coming Soon Page",
+      "Donorbox",
+      "Google Forms",
+      "Google My Business",
+      "LiteSpeed",
+      "Perl",
+      "QUIC",
+      "StackPath",
+      "Tailwind CSS",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "hopeforafricauganda.org",
     "title": "Homepage — Hope for Africa Uganda",
     "business_name": "Hope For Africa Uganda",
@@ -17875,52 +17897,6 @@
       "Vector Internet Services",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "calmba.org",
-    "title": "California Medical Billing Advocates - Free Help to Fight Medical Bill",
-    "business_name": "California Medical Billing Advocates",
-    "country": "VEN",
-    "seo_score": 77,
-    "tech_spend": 259030,
-    "crawled_at": "2026-05-20T19:56:19.972472533Z",
-    "technologies": [
-      "123FormBuilder",
-      "501c3 Status Nonprofit",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Bing Cashback",
-      "Bing Conversion Tracking",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "Donorbox",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Conversion Tracking",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "POWr",
-      "PWA",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "Salesforce Hosted",
-      "Sentry",
-      "SiteW",
-      "Thank You",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "mlcom"
     ]
   }
 ]
