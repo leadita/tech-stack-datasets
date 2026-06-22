@@ -1,5 +1,31 @@
 [
   {
+    "domain": "ravermz.com",
+    "title": "@ravermz | TikTok, Instagram | Beacons",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 15244,
+    "crawled_at": "2026-06-22T04:38:19.969496205Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Beacons",
+      "GZIP Module",
+      "Google Cloud",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nationwide Mortgage Licensing System and Registry",
+      "Next.js",
+      "PWA",
+      "SMC",
+      "Subversion",
+      "Twitch",
+      "UTF-8",
+      "Unsplash",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "badja.co.uk",
     "title": "baDJa - Professional all format DJ specialising in Mixtapes and Mash Up's",
     "business_name": "",
@@ -3493,32 +3519,6 @@
       "YouTube",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "ravermz.com",
-    "title": "@ravermz | TikTok, Instagram | Beacons",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 15244,
-    "crawled_at": "2026-05-26T07:57:59.96092469Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Beacons",
-      "GZIP Module",
-      "Google Cloud",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nationwide Mortgage Licensing System and Registry",
-      "Next.js",
-      "PWA",
-      "SMC",
-      "Subversion",
-      "Twitch",
-      "UTF-8",
-      "Unsplash",
-      "YouTube"
     ]
   },
   {
