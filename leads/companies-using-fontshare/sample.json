@@ -1,5 +1,62 @@
 [
   {
+    "domain": "itraccoons.co.uk",
+    "title": "IT Raccoons",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 7700,
+    "crawled_at": "2026-06-22T08:38:19.975893253Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Fireblade",
+      "Fontshare",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "kps-groups.com",
+    "title": "KPS – Ports & Marine Services – Shipping & Cargo Handling Co. Ltd",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 17685,
+    "crawled_at": "2026-06-22T06:17:19.969067928Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Contact Form Plugin",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "Font Awesome",
+      "Fontshare",
+      "GoDaddy",
+      "Google Cloud DNS",
+      "Google Font API",
+      "NFOrce Internet",
+      "PHP",
+      "Polylang",
+      "QUIC",
+      "Tailwind CSS",
+      "Theme In WP",
+      "UPS",
+      "UTF-8",
+      "Wangsu",
+      "Woo Themes",
+      "WooCommerce",
+      "WooCommerce Checkout",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "financeplusprogram.info",
     "title": "Finance Plus Program — Discover the Perfect Finance System for You",
     "business_name": "",
@@ -13256,54 +13313,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "navarroinfinite.com",
-    "title": "Navarro Infinite — Technology Consulting & Solutions",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 66,
-    "crawled_at": "2026-05-11T08:32:19.992620761Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "Fontshare",
-      "Microdata for Google Shopping"
-    ]
-  },
-  {
-    "domain": "sidracontact.com",
-    "title": "Custom Software Development Malaysia & Singapore | SIDRA CORE",
-    "business_name": "SIDRA CORE SDN BHD",
-    "country": "SGP",
-    "seo_score": 77,
-    "tech_spend": 15040,
-    "crawled_at": "2026-05-11T08:09:11.042284035Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Fontshare",
-      "Free Call",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
       "shadcn ui"
     ]
   }
