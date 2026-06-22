@@ -1,5 +1,44 @@
 [
   {
+    "domain": "catholicmombundle.com",
+    "title": "Catholic Mom Bundle - Catholic Mom Bundle",
+    "business_name": "Catholic Mom Bundle",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2215,
+    "crawled_at": "2026-06-21T18:02:19.969059844Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Automattic",
+      "Content Delivery Network",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Jetpack",
+      "MailerLite",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Sumo",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "deliciousanddiy.com",
     "title": "Delicious And DIY -",
     "business_name": "",
@@ -19068,32 +19107,6 @@
       "WordPress Multisite",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "hellobackgrounds.com",
-    "title": "Beautiful Backgrounds for Video Calls - Hello Backgrounds",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 10289,
-    "crawled_at": "2026-05-20T04:20:19.991312728Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Checkout.com",
-      "Cisco/Arrowpoint Content Service Switch",
-      "CloudFront",
-      "Content Delivery Network",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Tag Manager",
-      "MailerLite",
-      "Netlify",
-      "Paddle",
-      "ProfitWell",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]

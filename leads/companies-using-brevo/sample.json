@@ -1,5 +1,22 @@
 [
   {
+    "domain": "netfarer.com.au",
+    "title": "Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 444,
+    "crawled_at": "2026-06-22T15:17:19.970810102Z",
+    "technologies": [
+      "Brevo",
+      "Nginx",
+      "PHP",
+      "Parallels Plesk Panel",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "hotelinfoapp.com",
     "title": "Hotel Info App I Pre-Check-in, Services, Review filtering",
     "business_name": "Hotel Info App",
@@ -7629,23 +7646,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "netfarer.com.au",
-    "title": "Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 444,
-    "crawled_at": "2026-06-04T08:20:48.361912293Z",
-    "technologies": [
-      "Brevo",
-      "Nginx",
-      "PHP",
-      "Parallels Plesk Panel",
-      "UTF-8",
-      "University or College"
     ]
   },
   {
