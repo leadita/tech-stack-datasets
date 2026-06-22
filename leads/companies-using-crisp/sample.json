@@ -1,5 +1,72 @@
 [
   {
+    "domain": "aeroleadsmail.com",
+    "title": "AeroLeads - Find Verified B2B Contacts & Emails | AeroLeads",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 192016,
+    "crawled_at": "2026-06-22T03:23:19.970732055Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "AWS WAF Challenge",
+      "Amazon WAF Blocked",
+      "Apollo IO",
+      "Apture Linking Platform",
+      "Calendly",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Crisp",
+      "Fireblade",
+      "GZIP Module",
+      "GetResponse",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "GrubHub",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Ntent",
+      "Perl",
+      "QUIC",
+      "Salesforce Hosted",
+      "Sign In With Google",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Ubuntu",
+      "Unsplash",
+      "Verified Profile",
+      "YouTube",
+      "reCAPTCHA",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "cw4ever.eu",
+    "title": "#CW4EVER - 3D Printed CW keys",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 399,
+    "crawled_at": "2026-06-21T20:05:19.971694902Z",
+    "technologies": [
+      "Apache",
+      "Bulma",
+      "Crisp",
+      "Express",
+      "Flag Counter",
+      "Font Awesome",
+      "GZIP Module",
+      "Google My Business",
+      "YouTube",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "totalfreecall.ca",
     "title": "Worldline - Unlimited Internet, TV Services, Home Phone and Long Distance Calling",
     "business_name": "Worldline",
@@ -7539,28 +7606,6 @@
       "Vercel",
       "monday.com",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "cw4ever.eu",
-    "title": "#CW4EVER - 3D Printed CW keys",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 399,
-    "crawled_at": "2026-06-02T18:59:46.743690648Z",
-    "technologies": [
-      "Apache",
-      "Bulma",
-      "Crisp",
-      "Express",
-      "Flag Counter",
-      "Font Awesome",
-      "GZIP Module",
-      "Google My Business",
-      "YouTube",
-      "jsDelivr",
-      "reCAPTCHA"
     ]
   },
   {
@@ -18707,38 +18752,6 @@
       "WordPress Stats",
       "YouTube",
       "Zendesk Guide"
-    ]
-  },
-  {
-    "domain": "geonotchwestplc.com",
-    "title": "Welcome | GeoNotch WestPlc – Personal bank accounts & online loans",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 17708,
-    "crawled_at": "2026-05-21T18:38:19.972093246Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Crisp",
-      "Elementor",
-      "ElementsKit Elementor",
-      "Federal Deposit Insurance Corporation",
-      "Fireblade",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gtranslate for Wordpress",
-      "Investor Relations",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "SmartSupp",
-      "Table Addons for Elementor",
-      "TradingView",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite"
     ]
   }
 ]
