@@ -1,12 +1,12 @@
 [
   {
-    "domain": "draxioncrestal.info",
+    "domain": "cyralynthos.info",
     "title": "Blackboard",
     "business_name": "",
     "country": "IRL",
-    "seo_score": 60,
-    "tech_spend": 10654,
-    "crawled_at": "2026-06-21T09:47:19.968265829Z",
+    "seo_score": 65,
+    "tech_spend": 34130,
+    "crawled_at": "2026-06-21T21:05:19.968856957Z",
     "technologies": [
       "Amazon",
       "Amazon WAF Blocked",
