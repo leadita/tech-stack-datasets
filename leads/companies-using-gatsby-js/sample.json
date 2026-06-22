@@ -1,5 +1,44 @@
 [
   {
+    "domain": "cityoneholidays.com",
+    "title": "Top 5 Destinations To Visit from Dubai, UAE | City One Tourism",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 5940,
+    "crawled_at": "2026-06-22T15:14:19.970233276Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Bulma",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "DAV",
+      "GZIP Module",
+      "Gatsby JS",
+      "GitHub Hosting",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "No-Q",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "eLand"
+    ]
+  },
+  {
     "domain": "midnightbloom.tv",
     "title": "Home | Midnight Bloom",
     "business_name": "",
@@ -13488,31 +13527,6 @@
       "QUIC",
       "Tailwind CSS",
       "University or College"
-    ]
-  },
-  {
-    "domain": "docco.co.uk",
-    "title": "Home | DOCCO",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 111,
-    "crawled_at": "2026-05-26T06:58:35.327050957Z",
-    "technologies": [
-      "Agoda",
-      "Content Delivery Network",
-      "Gatsby JS",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Styled Components",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "Vimeo",
-      "Vimeo CDN",
-      "YouTube"
     ]
   }
 ]
