@@ -1,5 +1,26 @@
 [
   {
+    "domain": "inmersionvr.com",
+    "title": "Inmersion VR - Tours Virtuales & Realidad Aumentada",
+    "business_name": "",
+    "country": "MEX",
+    "seo_score": 77,
+    "tech_spend": 60720,
+    "crawled_at": "2026-06-21T20:26:19.969689185Z",
+    "technologies": [
+      "Akamai Edge",
+      "Akamai Global Host",
+      "Apache",
+      "GZIP Module",
+      "GoDaddy",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Website Tonight",
+      "WhatsApp Sharing",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "superchargemy401k.com",
     "title": "401k Account management | 401k Maneuver",
     "business_name": "401(K) Manueuver LLC",
@@ -15808,42 +15829,6 @@
       "Tailwind CSS",
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "genmojis.app",
-    "title": "Mojis – AI Emoji Generator App - App Store",
-    "business_name": "App Store",
-    "country": "BRA",
-    "seo_score": 77,
-    "tech_spend": 111770,
-    "crawled_at": "2026-05-25T21:09:53.57229733Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Akamai EdgeConnect",
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "App Store",
-      "Apture Linking Platform",
-      "Automattic",
-      "Azure Edge",
-      "CloudFront",
-      "Content Delivery Network",
-      "Express",
-      "Google My Business",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "MediaPlatform",
-      "Motion AI",
-      "PWA",
-      "Perl",
-      "QUIC",
-      "Svelte",
-      "TermsFeed",
-      "The Fresh",
-      "Twitter Ads",
       "eLand"
     ]
   }
