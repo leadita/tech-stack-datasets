@@ -1,5 +1,27 @@
 [
   {
+    "domain": "osadolor.com",
+    "title": "Osadolor Osayande",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 65,
+    "tech_spend": 15744,
+    "crawled_at": "2026-06-22T18:59:19.969355574Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Express",
+      "Ghost",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "UTF-8",
+      "Unsplash",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "tedxasbury.com",
     "title": "TEDxAsburyPark Why We Drink & Party @ Triumph Brewing Stage, Red Bank May 6 2026",
     "business_name": "",
@@ -13315,38 +13337,6 @@
       "Stripe",
       "UTF-8",
       "Vector Internet Services",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "galorre.com",
-    "title": "Galorre: Your Guide to Staying Ahead of the Game!",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 6304,
-    "crawled_at": "2026-04-01T08:59:20.002800051Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Ghost",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "Twitter Ads",
-      "UTF-8",
-      "Unsplash",
       "jsDelivr"
     ]
   }
