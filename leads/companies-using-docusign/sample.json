@@ -1,5 +1,34 @@
 [
   {
+    "domain": "specialtyfundinginstitution.com",
+    "title": "Specialty Finance",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 183,
+    "crawled_at": "2026-06-23T14:56:19.974312474Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "DocuSign",
+      "Elementor",
+      "ElementsKit Elementor",
+      "EmbedPress",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Hello Elementor",
+      "LiteSpeed",
+      "PHP",
+      "QUIC",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "willowsolutionspro.com",
     "title": "Business Loans | Willow Funding",
     "business_name": "",
@@ -3060,35 +3089,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "specialtyfundinggods.com",
-    "title": "Specialty Finance",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 183,
-    "crawled_at": "2026-05-08T16:08:14.684821741Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DocuSign",
-      "Elementor",
-      "ElementsKit Elementor",
-      "EmbedPress",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hello Elementor",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   },
   {
