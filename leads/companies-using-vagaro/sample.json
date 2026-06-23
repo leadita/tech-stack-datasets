@@ -1,5 +1,32 @@
 [
   {
+    "domain": "trichorestoreconnect.com",
+    "title": "@trichorestoreconnect | Restore Salon and Trichology Center",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 544,
+    "crawled_at": "2026-06-23T07:08:19.968523759Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Beacons",
+      "Calendly",
+      "DAV",
+      "GZIP Module",
+      "Google Cloud",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "PWA",
+      "Perl",
+      "Subversion",
+      "UTF-8",
+      "Unsplash",
+      "Vagaro"
+    ]
+  },
+  {
     "domain": "hairbybrittanymiller.com",
     "title": "Omaha hairstylist | Hair by Brittany Miller | West Omaha",
     "business_name": "",
@@ -6437,33 +6464,6 @@
       "Vagaro",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "trichorestoreconnect.com",
-    "title": "@trichorestoreconnect | Restore Salon and Trichology Center",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 3546,
-    "crawled_at": "2026-06-05T07:35:50.037310471Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Beacons",
-      "Calendly",
-      "DAV",
-      "GZIP Module",
-      "Google Cloud",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "PWA",
-      "Perl",
-      "Subversion",
-      "UTF-8",
-      "Unsplash",
-      "Vagaro"
     ]
   },
   {
