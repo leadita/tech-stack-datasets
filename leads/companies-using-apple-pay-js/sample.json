@@ -1,5 +1,33 @@
 [
   {
+    "domain": "aifuturebook.com",
+    "title": "AI كتاب مستقبلك بالـ – AiFutureBook",
+    "business_name": "AiFutureBook",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 43336,
+    "crawled_at": "2026-06-22T19:20:19.967941915Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apple Pay JS",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "Instagram Follow Button",
+      "KVH",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "Snowplow",
+      "UTF-8",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "hardwaregym.com",
     "title": "MarshallRoy.com",
     "business_name": "",
