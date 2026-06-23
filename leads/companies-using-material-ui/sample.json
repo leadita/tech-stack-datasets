@@ -1,5 +1,56 @@
 [
   {
+    "domain": "mylocaleventrentals.com",
+    "title": "My Local Event Rentals | Party & Event Rentals in Whitby & Durham",
+    "business_name": "My Local Event Rentals",
+    "country": "CAN",
+    "seo_score": 82,
+    "tech_spend": 264,
+    "crawled_at": "2026-06-23T01:50:19.969104741Z",
+    "technologies": [
+      "Better Lead Generation Services",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Material-UI",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Nginx",
+      "QUIC",
+      "UTF-8",
+      "Ubuntu",
+      "Unsplash",
+      "WordPress"
+    ]
+  },
+  {
+    "domain": "stoneyswhiskeywinerawbar.com",
+    "title": "STONEYS WHISKEY WINE & RAW BAR",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 7824,
+    "crawled_at": "2026-06-22T23:47:19.969825053Z",
+    "technologies": [
+      "Amazon S3 CDN",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Fireblade",
+      "Google Forms",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Material-UI",
+      "Next.js",
+      "Pleroma",
+      "Storyblocks",
+      "UTF-8",
+      "Unsplash",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "goodkey.co",
     "title": "Goodkey",
     "business_name": "",
@@ -15631,53 +15682,6 @@
       "Pleroma",
       "QUIC",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "ubey.ai",
-    "title": "UbeyAI",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-06-05T22:58:11.932194848Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Daily Deals",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Material-UI",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "mondlytravels.ma",
-    "title": "Mondly_travels",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 72,
-    "tech_spend": 65504,
-    "crawled_at": "2026-06-05T22:58:11.931876398Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Fireblade",
-      "GitHub Hosting",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Material-UI",
-      "Next.js",
-      "Pleroma",
-      "SMC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Unsplash",
-      "Vercel",
-      "eLand",
-      "shadcn ui"
     ]
   }
 ]

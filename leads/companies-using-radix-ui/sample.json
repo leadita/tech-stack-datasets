@@ -1,5 +1,22 @@
 [
   {
+    "domain": "fichachef.com",
+    "title": "FichaChef - Gestão de Cozinha",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-06-23T00:50:19.968280978Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GZIP Module",
+      "Next.js",
+      "Radix UI",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "sfjbs.co.in",
     "title": "Enterprise Upskilling Partner in Bangalore, India | Enterprise Training Programs & Tech Solutions",
     "business_name": "",
@@ -13686,27 +13703,6 @@
       "Radix UI",
       "Tailwind CSS",
       "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "kangfajrin.id",
-    "title": "Kang Fajrin Blog",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 62,
-    "tech_spend": 240,
-    "crawled_at": "2026-06-07T20:43:32.15604501Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Next.js",
-      "Pleroma",
-      "Radix UI",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
       "Vercel",
       "shadcn ui"
     ]
