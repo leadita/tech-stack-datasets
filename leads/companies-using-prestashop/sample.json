@@ -1,5 +1,43 @@
 [
   {
+    "domain": "trihory.sk",
+    "title": "Hľadáš outdoor oblečenie ? | wilderoben",
+    "business_name": "",
+    "country": "SVK",
+    "seo_score": 52,
+    "tech_spend": 42,
+    "crawled_at": "2026-06-23T14:11:19.972412184Z",
+    "technologies": [
+      "Elementor",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "OpenResty",
+      "PHP",
+      "PrestaShop",
+      "Slider Revolution"
+    ]
+  },
+  {
+    "domain": "codeur.lu",
+    "title": "Codeur au Luxembourg",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 50,
+    "tech_spend": 700,
+    "crawled_at": "2026-06-23T02:11:19.968351366Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "DAV",
+      "Google Analytics",
+      "Google Tag Manager",
+      "NFOrce Internet",
+      "PHP",
+      "PrestaShop",
+      "Python"
+    ]
+  },
+  {
     "domain": "www.ekomipartner.com",
     "title": "eKomi Partnership Programme",
     "business_name": "",
@@ -5770,25 +5808,6 @@
       "WordPress Related Posts",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "codeur.lu",
-    "title": "Codeur au Luxembourg",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 50,
-    "tech_spend": 700,
-    "crawled_at": "2026-06-05T01:07:50.08443399Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "DAV",
-      "Google Analytics",
-      "Google Tag Manager",
-      "NFOrce Internet",
-      "PHP",
-      "PrestaShop",
-      "Python"
     ]
   },
   {
@@ -15310,49 +15329,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "ashop"
-    ]
-  },
-  {
-    "domain": "codingtop.com",
-    "title": "CodingTop - The Ultimate Destination for Coders",
-    "business_name": "CodingTop",
-    "country": "",
-    "seo_score": 82,
-    "tech_spend": 21105,
-    "crawled_at": "2026-05-24T22:10:45.662613175Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Angular",
-      "Autoptimize",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Elementor",
-      "EmbedPress",
-      "Fireblade",
-      "Font Awesome",
-      "Gambling Content",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Parcel",
-      "PrestaShop",
-      "QUIC",
-      "Tailwind CSS",
-      "Telegram",
-      "UTF-8",
-      "WP Rocket",
-      "WhatsApp Sharing",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
