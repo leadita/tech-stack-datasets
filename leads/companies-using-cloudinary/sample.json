@@ -1,5 +1,59 @@
 [
   {
+    "domain": "stopbdbard.com",
+    "title": "Georgia's Premiere Catastrophic and Personal Injury Trial Law Firm | Personal Injury Lawyer | Atlanta, GA | Penn Law LLC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 4000,
+    "crawled_at": "2026-06-23T04:23:19.969617658Z",
+    "technologies": [
+      "Apache",
+      "Cloudinary",
+      "GZIP Module",
+      "Google Analytics",
+      "Microdata for Google Shopping",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "atlasselfstorage.app",
+    "title": "Home | 1400 North Storage",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 25028,
+    "crawled_at": "2026-06-22T20:14:19.972911164Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudinary",
+      "DAV",
+      "Fastly",
+      "Fireblade",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Customer Reviews",
+      "Google Maps",
+      "Google My Business",
+      "Google Pay",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Investor Relations",
+      "Nuxt.js",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8",
+      "VisitorTracking"
+    ]
+  },
+  {
     "domain": "trylaiout.com",
     "title": "AI Office Floor Plan Generator | laiout",
     "business_name": "",
@@ -504,26 +558,6 @@
       "Netlify",
       "UTF-8",
       "University or College"
-    ]
-  },
-  {
-    "domain": "laurahpenn.com",
-    "title": "Georgia's Premiere Catastrophic and Personal Injury Trial Law Firm | Personal Injury Lawyer | Atlanta, GA | Penn Law LLC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 4000,
-    "crawled_at": "2026-06-20T20:17:19.968867119Z",
-    "technologies": [
-      "Apache",
-      "Cloudinary",
-      "GZIP Module",
-      "Google Analytics",
-      "Microdata for Google Shopping",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "YouTube"
     ]
   },
   {
@@ -16346,40 +16380,6 @@
       "Pleroma",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "camille-engel.com",
-    "title": "Welcome | Camille Engel",
-    "business_name": "",
-    "country": "IDN",
-    "seo_score": 65,
-    "tech_spend": 15456,
-    "crawled_at": "2026-06-07T11:59:43.030150018Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "BLR",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudinary",
-      "Coming Soon Page",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "No-Q",
-      "Shopify",
-      "Tailwind CSS",
-      "Tumblr",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]
