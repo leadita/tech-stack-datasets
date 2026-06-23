@@ -1,12 +1,12 @@
 [
   {
-    "domain": "finc.it",
+    "domain": "finc.pro",
     "title": "Real estate experts with a digital core.",
     "business_name": "",
     "country": "BEL",
     "seo_score": 72,
     "tech_spend": 46628,
-    "crawled_at": "2026-06-19T11:23:19.970137244Z",
+    "crawled_at": "2026-06-23T15:17:19.974130048Z",
     "technologies": [
       "AWS WAF Challenge",
       "Alternate Protocol",
