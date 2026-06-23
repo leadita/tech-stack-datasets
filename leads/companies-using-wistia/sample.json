@@ -1,5 +1,38 @@
 [
   {
+    "domain": "armoursealant.co.za",
+    "title": "Armour Tyre Sealant – Eliminate punctures permanently on-the-fly while saving fuel, tyre life & the planet while keeping you & your precious cargo safe.",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 65,
+    "tech_spend": 16969,
+    "crawled_at": "2026-06-23T10:38:19.968807882Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Agoda",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "LiteSpeed",
+      "PHP",
+      "QUIC",
+      "QUIC.cloud",
+      "Twitter Ads",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "Wistia",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "trylaiout.com",
     "title": "AI Office Floor Plan Generator | laiout",
     "business_name": "",
@@ -6766,39 +6799,6 @@
       "Wistia",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "tyre-seal.com",
-    "title": "Armour Tyre Sealant – Eliminate punctures permanently on-the-fly while saving fuel, tyre life & the planet while keeping you & your precious cargo safe.",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 65,
-    "tech_spend": 16969,
-    "crawled_at": "2026-06-07T00:57:24.471907646Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Agoda",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "QUIC.cloud",
-      "Twitter Ads",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "Wistia",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube"
     ]
   },
   {
