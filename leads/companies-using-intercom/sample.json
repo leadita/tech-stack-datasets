@@ -1,5 +1,24 @@
 [
   {
+    "domain": "trumptransport.com",
+    "title": "TRUMP TRANSPORT - Toronto Drayage Company",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 57,
+    "tech_spend": 1044,
+    "crawled_at": "2026-06-23T07:20:19.968954149Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Intercom",
+      "Tailwind CSS",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "cannisters.website",
     "title": "Canny: AI Customer Feedback Management Software and Tools",
     "business_name": "Canny",
@@ -22082,32 +22101,6 @@
       "WhatsApp Sharing",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "osceolaprosper.com",
-    "title": "Osceola Prosper | Tuition-Free College for 2026 Graduates | Osceola Prosper",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 68587,
-    "crawled_at": "2026-05-23T19:47:19.982503896Z",
-    "technologies": [
-      "Amazon",
-      "ETranslate",
-      "Font Awesome",
-      "GTranslate",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Intercom",
-      "Kaltura",
-      "OmniUpdate",
-      "PHP",
-      "StackPath",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]
