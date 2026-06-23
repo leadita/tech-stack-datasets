@@ -1,5 +1,49 @@
 [
   {
+    "domain": "user95mv2.info",
+    "title": "User95 Tech Hub",
+    "business_name": "User95 Tech Hub",
+    "country": "CZE",
+    "seo_score": 72,
+    "tech_spend": 2440,
+    "crawled_at": "2026-06-23T14:56:19.974643973Z",
+    "technologies": [
+      "Angular",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Create React App",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Pleroma",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "reditrackemail.info",
+    "title": "RediTrack Email",
+    "business_name": "RediTrack Email",
+    "country": "CZE",
+    "seo_score": 77,
+    "tech_spend": 2440,
+    "crawled_at": "2026-06-23T11:38:19.970657241Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Create React App",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Pleroma",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "metro.com",
     "title": "Metro | Official site of Metro Shelving and Storage Solutions",
     "business_name": "Metro",
@@ -15638,71 +15682,6 @@
       "PWA",
       "Pleroma",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "flightedgolfapp.com.au",
-    "title": "Flighted Golf Apparel",
-    "business_name": "Flighted Golf Apparel",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 3804,
-    "crawled_at": "2026-05-31T10:58:34.853374469Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Create React App",
-      "Express",
-      "GraphQL",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Svelte",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "shannonbreen.ca",
-    "title": "Shannon Breen | Sherwood Park Realtor | Royal LePage Prestige Edmonton",
-    "business_name": "Shannon Breen",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 5637,
-    "crawled_at": "2026-05-31T09:46:41.849365208Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "AvenueHQ",
-      "Create React App",
-      "ElementUI",
-      "EmbedPress",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Pleroma",
-      "QUIC",
-      "Theme In WP",
-      "UTF-8",
-      "Ultimate Blocks",
-      "University or College",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
