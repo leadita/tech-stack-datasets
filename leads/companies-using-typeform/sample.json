@@ -1,5 +1,36 @@
 [
   {
+    "domain": "pals1.com",
+    "title": "Parking & Landscape Supply, LLC",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 2847,
+    "crawled_at": "2026-06-23T02:05:19.973246326Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "ETranslate",
+      "Ecwid Ecommerce Shopping Cart",
+      "Express",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Maps",
+      "Nginx",
+      "PWA",
+      "RM Education",
+      "Sapper",
+      "Stripe",
+      "Typeform",
+      "UTF-8",
+      "Unsplash",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "86thedetention.com",
     "title": "Truckling | Yard Management in MO & KS | 816-555-1234",
     "business_name": "",
@@ -18859,40 +18890,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "delos.money",
-    "title": "Home | Delos Banking",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 95500,
-    "crawled_at": "2026-06-02T17:20:35.807518251Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Calendly",
-      "Content Delivery Network",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PWA",
-      "QUIC",
-      "RM Education",
-      "SMC",
-      "Sentry",
-      "SiteW",
-      "Typeform",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "eLand",
-      "mlcom"
     ]
   }
 ]
