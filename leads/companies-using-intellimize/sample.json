@@ -1,5 +1,36 @@
 [
   {
+    "domain": "blackspire.press",
+    "title": "Blackspire Partners® — Experience Transparent PR & Marketing.",
+    "business_name": "Blackspire Partners",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 88068,
+    "crawled_at": "2026-06-23T13:14:19.96928892Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Adobe Creative Cloud WebFonts",
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Intellimize",
+      "Microdata for Google Shopping",
+      "OpenAI",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "WF Cookie Consent"
+    ]
+  },
+  {
     "domain": "timmyostrom.com",
     "title": "Timmy Ostrom, Vancouver, WA - NMLS# 498756",
     "business_name": "Timmy Ostrom | Fairway Independent Mortgage Corporation",
@@ -19303,38 +19334,6 @@
       "WF Cookie Consent",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "reinsight.se",
-    "title": "Redeploy & Reinsight Unify: Introducing Redeploy Insight | Redeploy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 97459,
-    "crawled_at": "2026-05-05T19:29:20.015819944Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon",
-      "Amazon CloudFront",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Cornerstone",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Intellimize",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "WF Cookie Consent",
-      "YouTube",
-      "jsDelivr"
     ]
   }
 ]

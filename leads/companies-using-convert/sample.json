@@ -1,5 +1,33 @@
 [
   {
+    "domain": "citymeals-text.org",
+    "title": "Home | Citymeals on Wheels",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 58240,
+    "crawled_at": "2026-06-23T21:14:19.974792519Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Charity Navigator",
+      "Convert",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nginx",
+      "Salesforce Social Studio",
+      "UTF-8",
+      "University or College",
+      "YouTube",
+      "jQuery",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "swipey.co",
     "title": "Home - Swipey",
     "business_name": "Swipey",
@@ -272,34 +300,6 @@
       "eLand",
       "hCaptcha",
       "jQuery",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "citymeals-text.org",
-    "title": "Home | Citymeals on Wheels",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 58240,
-    "crawled_at": "2026-06-06T03:12:55.572444995Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Charity Navigator",
-      "Convert",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "Salesforce Social Studio",
-      "UTF-8",
-      "University or College",
-      "YouTube",
-      "jQuery",
-      "jsDelivr",
       "reCAPTCHA"
     ]
   },
