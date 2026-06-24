@@ -1,5 +1,32 @@
 [
   {
+    "domain": "21washingtonave.com",
+    "title": "Updated Single Story Mid-Centry Ranch with a Pool - Property Website",
+    "business_name": "",
+    "country": "VEN",
+    "seo_score": 70,
+    "tech_spend": 30908,
+    "crawled_at": "2026-06-24T05:50:19.968210847Z",
+    "technologies": [
+      "Aruba",
+      "Brightcove",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Express",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Nginx",
+      "QUIC",
+      "Stackoverflow CDN",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "telco-repair.com",
     "title": "Boise Appliance Repair | Telco Electronics of Idaho and Washington",
     "business_name": "",
@@ -21532,40 +21559,6 @@
       "UTF-8",
       "Visual Studio",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "drakegrouprbc.com",
-    "title": "The Drake Group - Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 45691,
-    "crawled_at": "2026-04-15T06:56:19.995286899Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon S3 CDN",
-      "Brightcove",
-      "Bulma",
-      "Content Delivery Network",
-      "Federal Deposit Insurance Corporation",
-      "Financial Industry Regulatory Authority",
-      "Font Awesome",
-      "GZIP Module",
-      "GetResponse",
-      "Google Analytics",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "NFOrce Internet",
-      "New Relic",
-      "Nginx",
-      "OneTrust Domain Verification",
-      "PHP",
-      "Storyblocks",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]

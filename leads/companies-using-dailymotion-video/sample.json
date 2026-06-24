@@ -1,5 +1,48 @@
 [
   {
+    "domain": "taximainzer.de",
+    "title": "Taxi Mainz Premium Service 24 Std. | Taxi Mainzer",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 82,
+    "tech_spend": 21260,
+    "crawled_at": "2026-06-24T16:29:19.968649838Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "DAV",
+      "DailyMotion Video",
+      "ElementUI",
+      "Elementor",
+      "EmbedPress",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Gtranslate for Wordpress",
+      "Hello Elementor",
+      "Line2",
+      "LiteSpeed",
+      "LottieFiles",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "QUIC",
+      "QUIC.cloud",
+      "Sitelinks Search Box",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "metachroom.com",
     "title": "Meta Croom On-site repair",
     "business_name": "",
@@ -20102,31 +20145,6 @@
       "YouTube",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "diverterplus.com",
-    "title": "Home | DiverterPlus",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 17400,
-    "crawled_at": "2026-05-11T04:29:20.006457624Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "DailyMotion Video",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
