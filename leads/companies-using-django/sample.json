@@ -1,5 +1,35 @@
 [
   {
+    "domain": "mounirmesselmeni.de",
+    "title": "Mounir Messelmeni - Senior Software Architect | Full Stack Developer in Germany",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 82,
+    "tech_spend": 17440,
+    "crawled_at": "2026-06-24T10:59:19.968353055Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alpine.js",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Perl",
+      "Python",
+      "Tailwind CSS",
+      "Ubuntu",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "goldenroulette.de",
     "title": "Golden Roulette: Expert Tips and Strategies for Winning",
     "business_name": "",
@@ -125,36 +155,6 @@
       "Line2",
       "Perl",
       "QUIC"
-    ]
-  },
-  {
-    "domain": "mounirmesselmeni.de",
-    "title": "Mounir Messelmeni - Senior Software Architect | Full Stack Developer in Germany",
-    "business_name": "",
-    "country": "",
-    "seo_score": 82,
-    "tech_spend": 17440,
-    "crawled_at": "2026-06-07T00:11:38.585365245Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alpine.js",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Perl",
-      "Python",
-      "Tailwind CSS",
-      "Ubuntu",
-      "jsDelivr",
-      "shadcn ui"
     ]
   },
   {

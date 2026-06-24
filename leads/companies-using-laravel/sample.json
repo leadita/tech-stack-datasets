@@ -1,5 +1,52 @@
 [
   {
+    "domain": "tagrblackfriday.com",
+    "title": "Holiday Bundle (LTL+ 1yr. WKLY)",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 66482,
+    "crawled_at": "2026-06-23T15:59:19.970631405Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "AutoComplete",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Fireblade",
+      "Flow",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "HighLevel",
+      "IcoMoon",
+      "Laravel Livewire",
+      "Nginx",
+      "Stripe",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "Twitter Analytics",
+      "UTF-8",
+      "Ubuntu",
+      "jQuery",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "accesstofunders.co.za",
     "title": "Access To Finance",
     "business_name": "",
@@ -13442,28 +13489,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "kolegiumobgin.org",
-    "title": "Kolegium Obstetri dan Ginekologi Indonesia",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 156,
-    "crawled_at": "2026-05-19T01:02:20.004121162Z",
-    "technologies": [
-      "App Store",
-      "Google My Business",
-      "Google Play",
-      "IcoMoon",
-      "Laravel Livewire",
-      "LiteSpeed",
-      "PHP",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
