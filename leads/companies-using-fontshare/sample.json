@@ -1,5 +1,28 @@
 [
   {
+    "domain": "codevisor.com",
+    "title": "Codevisor — Digital Product Consultancy · Austin, TX",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 2450,
+    "crawled_at": "2026-06-24T08:56:19.984353785Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Astro",
+      "CloudFront",
+      "Content Delivery Network",
+      "Fontshare",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Tailwind CSS",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "itraccoons.co.uk",
     "title": "IT Raccoons",
     "business_name": "",
@@ -13290,30 +13313,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "dmit.space",
-    "title": "Automation, AI, and Business Optimization | dmit",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 3648,
-    "crawled_at": "2026-05-11T09:08:20.014393846Z",
-    "technologies": [
-      "Astro",
-      "Content Delivery Network",
-      "Fontshare",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Pressable",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
