@@ -1,5 +1,31 @@
 [
   {
+    "domain": "truckmountcarpetcleaning.com",
+    "title": "Carpet Cleaning | San Antonio, TX | Team Steam Truck Mount",
+    "business_name": "Team Steam Truck Mount Carpet",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 83748,
+    "crawled_at": "2026-06-24T08:23:19.974463298Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Duda",
+      "GZIP Module",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Smooch",
+      "Tailwind CSS",
+      "Tealium",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "corbinplumbingil.com",
     "title": "Excellent Plumbing Services | Tilton, IL | Corbin Plumbing",
     "business_name": "",
@@ -15168,36 +15194,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "beijingjuniorkings.com",
-    "title": "Youth Ice Hockey | HK Ice Hockey | Hong Kong Junior Tigers",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 77,
-    "tech_spend": 105099,
-    "crawled_at": "2026-05-25T16:17:13.98517028Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Corporate Governance and Regulatory Compliance",
-      "Fireblade",
-      "Font Awesome",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "Perl",
-      "QUIC",
-      "TYPO3",
-      "Tailwind CSS",
-      "Tealium",
-      "Thank You",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
