@@ -1,5 +1,37 @@
 [
   {
+    "domain": "golftechplano.com",
+    "title": "new home - Golf Tech",
+    "business_name": "",
+    "country": "GHA",
+    "seo_score": 70,
+    "tech_spend": 1230,
+    "crawled_at": "2026-06-24T08:17:19.973879181Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "GoDaddy",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Setmore",
+      "Tagembed",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "ceramiccoating.live",
     "title": "3 year Ceramic Coating eVoucher including preparation",
     "business_name": "",
@@ -11924,38 +11956,6 @@
       "YouTube",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "golftechplano.net",
-    "title": "new home - Golf Tech",
-    "business_name": "",
-    "country": "GHA",
-    "seo_score": 65,
-    "tech_spend": 1230,
-    "crawled_at": "2026-04-01T23:11:20.0033269Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Divi",
-      "Elegant Themes",
-      "EmbedPress",
-      "GoDaddy",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Setmore",
-      "Tagembed",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   },
   {
