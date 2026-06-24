@@ -1,5 +1,36 @@
 [
   {
+    "domain": "labsi.pl",
+    "title": "labsi.pl",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": "",
+    "crawled_at": "2026-06-24T08:35:19.969250455Z",
+    "technologies": [
+      "LiteSpeed",
+      "PrestaShop",
+      "QUIC",
+      "WordPress"
+    ]
+  },
+  {
+    "domain": "trawazrolki.net.pl",
+    "title": "uc.kei.pl",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": "",
+    "crawled_at": "2026-06-23T21:02:19.97414426Z",
+    "technologies": [
+      "GZIP Module",
+      "Nginx",
+      "PrestaShop",
+      "UTF-8",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "trihory.sk",
     "title": "Hľadáš outdoor oblečenie ? | wilderoben",
     "business_name": "",
@@ -63,21 +94,6 @@
       "YouCanBookMe",
       "eKomi",
       "iAPPS"
-    ]
-  },
-  {
-    "domain": "kubico.pl",
-    "title": "kubico.pl",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": "",
-    "crawled_at": "2026-06-22T16:11:19.970787935Z",
-    "technologies": [
-      "LiteSpeed",
-      "PrestaShop",
-      "QUIC",
-      "WordPress"
     ]
   },
   {
@@ -1161,22 +1177,6 @@
       "Python",
       "UTF-8",
       "VitePress"
-    ]
-  },
-  {
-    "domain": "ogrody-rwierzoch.pl",
-    "title": "uc.domeny.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": "",
-    "crawled_at": "2026-06-10T13:40:33.775000215Z",
-    "technologies": [
-      "GZIP Module",
-      "Nginx",
-      "PrestaShop",
-      "UTF-8",
-      "WordPress"
     ]
   },
   {
