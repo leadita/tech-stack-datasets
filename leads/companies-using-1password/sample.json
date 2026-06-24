@@ -1,5 +1,71 @@
 [
   {
+    "domain": "mobytrade.ai",
+    "title": "MobyTrade",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 6956,
+    "crawled_at": "2026-06-24T13:20:19.973463029Z",
+    "technologies": [
+      "1Password",
+      "Alternate Protocol",
+      "Calendly",
+      "Framer Sites",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Tag Manager",
+      "KVH",
+      "Ntent",
+      "QUIC",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
+    "domain": "ogarnie.to",
+    "title": "Adrian Dudkiewicz 🧯 Digital Firefighter for Agencies",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 30324,
+    "crawled_at": "2026-06-24T08:17:19.974929553Z",
+    "technologies": [
+      "1Password",
+      "Calendly",
+      "Framer Sites",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Tag Manager",
+      "Hotjar",
+      "KVH",
+      "Ntent",
+      "QUIC",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
+    "domain": "mantra-co.uk",
+    "title": "Mantra Co.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 1896,
+    "crawled_at": "2026-06-24T07:56:19.969366948Z",
+    "technologies": [
+      "1Password",
+      "Calendly",
+      "Framer Sites",
+      "Ntent",
+      "Perl",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
     "domain": "heldwithinhealing.com",
     "title": "Held Within Healing",
     "business_name": "",
@@ -6633,30 +6699,6 @@
     ]
   },
   {
-    "domain": "ogarnie.to",
-    "title": "Adrian Dudkiewicz 🧯 Digital Firefighter for Agencies",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 30324,
-    "crawled_at": "2026-06-06T20:02:47.048201572Z",
-    "technologies": [
-      "1Password",
-      "Calendly",
-      "Framer Sites",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "Hotjar",
-      "KVH",
-      "Ntent",
-      "QUIC",
-      "Yandex Hosting",
-      "Zeald"
-    ]
-  },
-  {
     "domain": "walkdublin.ie",
     "title": "Walk Dublin",
     "business_name": "",
@@ -11057,30 +11099,6 @@
     ]
   },
   {
-    "domain": "mobytrade.co",
-    "title": "MobyTrade",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 6956,
-    "crawled_at": "2026-06-03T00:59:19.969073472Z",
-    "technologies": [
-      "1Password",
-      "Alternate Protocol",
-      "Calendly",
-      "Framer Sites",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "KVH",
-      "Ntent",
-      "QUIC",
-      "Yandex Hosting",
-      "Zeald"
-    ]
-  },
-  {
     "domain": "tryfitchek.com",
     "title": "fitchek | AI try-on made simple",
     "business_name": "",
@@ -14162,39 +14180,6 @@
       "Google Cloud CDN",
       "Ntent",
       "SMC",
-      "Yandex Hosting",
-      "Zeald"
-    ]
-  },
-  {
-    "domain": "creativelowcarbon.co.uk",
-    "title": "Creative Low Carbon | The Local Solar Experts",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 34131,
-    "crawled_at": "2026-05-31T12:56:41.310942881Z",
-    "technologies": [
-      "1Password",
-      "Better Lead Generation Services",
-      "DAV",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Framer Sites",
-      "GenerateBlocks",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "KVH",
-      "Microdata for Google Shopping",
-      "Ntent",
-      "Vector Internet Services",
-      "WhatsApp Sharing",
       "Yandex Hosting",
       "Zeald"
     ]
