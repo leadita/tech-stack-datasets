@@ -1,5 +1,35 @@
 [
   {
+    "domain": "meltstartups.com",
+    "title": "Melt Startup Studio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 548,
+    "crawled_at": "2026-06-24T19:29:19.968704989Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "ArvanCloud",
+      "Bulma",
+      "FormSubmit",
+      "FreeCSSTemplates",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Laravel Livewire",
+      "Nginx",
+      "PWA",
+      "Tailwind CSS",
+      "UPS",
+      "UTF-8",
+      "jQuery",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "fashionaitoolkit.com",
     "title": "Fashion AI Toolkit | AI Tools for Fashion Brands and Creative Teams",
     "business_name": "Fashion AI Toolkit",
@@ -17702,40 +17732,6 @@
       "Underscores",
       "Vercel",
       "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "tidyups.ca",
-    "title": "Eco-Friendly House Cleaning Services | Edmonton’s Professional Cleaners",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 17540,
-    "crawled_at": "2026-05-24T04:33:04.33891875Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Better Lead Generation Services",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Pico CSS",
-      "QUIC",
-      "Tailwind CSS",
-      "Thank You",
-      "Twitter Ads",
-      "UPS",
-      "Yelp Badge",
       "shadcn ui"
     ]
   }
