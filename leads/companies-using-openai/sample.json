@@ -1,5 +1,36 @@
 [
   {
+    "domain": "blackspire.press",
+    "title": "Blackspire Partners® — Experience Transparent PR & Marketing.",
+    "business_name": "Blackspire Partners",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 88068,
+    "crawled_at": "2026-06-23T13:14:19.96928892Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Adobe Creative Cloud WebFonts",
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Intellimize",
+      "Microdata for Google Shopping",
+      "OpenAI",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "WF Cookie Consent"
+    ]
+  },
+  {
     "domain": "fashionaitoolkit.com",
     "title": "Fashion AI Toolkit | AI Tools for Fashion Brands and Creative Teams",
     "business_name": "Fashion AI Toolkit",
@@ -19762,43 +19793,6 @@
       "QUIC",
       "The Fresh",
       "Unsplash"
-    ]
-  },
-  {
-    "domain": "mindthegpt.com",
-    "title": "Mind Callisthenics | Make Your Mind Strong",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 37736,
-    "crawled_at": "2026-05-22T01:05:20.016485731Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "DC74",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "K2F",
-      "KVH",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "OpenAI",
-      "PWA",
-      "QUIC",
-      "SMC",
-      "Sentry",
-      "SiteW",
-      "Subversion",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "mlcom"
     ]
   }
 ]
