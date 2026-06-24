@@ -1,5 +1,34 @@
 [
   {
+    "domain": "clearstarmortgage.com",
+    "title": "FHA Loans and Conventional Loans in Florida | ClearStar Mortgage Group® - ClearStar Mortgage Group, Inc.",
+    "business_name": "",
+    "country": "RUS",
+    "seo_score": 72,
+    "tech_spend": 55277,
+    "crawled_at": "2026-06-24T05:38:19.968172625Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Bulma",
+      "CloudFront",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Matomo",
+      "Matomo Tag Manager",
+      "Nationwide Mortgage Licensing System and Registry",
+      "Optimal Blue",
+      "QUIC",
+      "Tailwind CSS",
+      "The Financials",
+      "Twitter Ads",
+      "UTF-8",
+      "UserWay",
+      "Yelp Badge",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "scottsdalehouseloan.com",
     "title": "Scottsdale | Cornerstone Home Lending",
     "business_name": "",
@@ -91,36 +120,6 @@
       "jQuery",
       "leadPops",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "clearstarmortgage.com",
-    "title": "FHA Loans and Conventional Loans in Florida | ClearStar Mortgage Group® - ClearStar Mortgage Group, Inc.",
-    "business_name": "",
-    "country": "RUS",
-    "seo_score": 72,
-    "tech_spend": 55277,
-    "crawled_at": "2026-06-06T16:13:40.320859638Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Bulma",
-      "CloudFront",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Matomo",
-      "Matomo Tag Manager",
-      "Nationwide Mortgage Licensing System and Registry",
-      "Nginx",
-      "Optimal Blue",
-      "QUIC",
-      "Tailwind CSS",
-      "The Financials",
-      "Twitter Ads",
-      "UTF-8",
-      "UserWay",
-      "Yelp Badge",
-      "YouTube"
     ]
   },
   {
