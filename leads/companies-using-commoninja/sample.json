@@ -1,5 +1,29 @@
 [
   {
+    "domain": "shorelinecleaningco.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "SYC",
+    "seo_score": 60,
+    "tech_spend": 5288,
+    "crawled_at": "2026-06-23T21:02:19.974355407Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Better Lead Generation Services",
+      "CloudFront",
+      "Commoninja",
+      "Duda",
+      "FormSubmit",
+      "GZIP Module",
+      "M247",
+      "Nginx",
+      "Tailwind CSS",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "groundsonenc.com",
     "title": "GroundsOne Landscape Contractors | Raleigh NC | Landscaping Services",
     "business_name": "",
@@ -11256,30 +11280,6 @@
       "Unsplash",
       "Zope",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "shorelinecleaningco.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "SYC",
-    "seo_score": 60,
-    "tech_spend": 5288,
-    "crawled_at": "2026-06-06T02:48:50.647269921Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Better Lead Generation Services",
-      "CloudFront",
-      "Commoninja",
-      "Duda",
-      "FormSubmit",
-      "GZIP Module",
-      "M247",
-      "Nginx",
-      "Tailwind CSS",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8"
     ]
   },
   {
