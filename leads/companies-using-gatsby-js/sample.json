@@ -1,5 +1,22 @@
 [
   {
+    "domain": "bblpivotal.no",
+    "title": "Hjem | BBL Pivotal",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 603,
+    "crawled_at": "2026-06-24T14:20:19.968756416Z",
+    "technologies": [
+      "Fastly",
+      "Gatsby JS",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Styled Components"
+    ]
+  },
+  {
     "domain": "stephenprockow.com",
     "title": "Resume | Stephen Prockow",
     "business_name": "",
@@ -13549,22 +13566,6 @@
       "UTF-8",
       "Visx",
       "Zope"
-    ]
-  },
-  {
-    "domain": "caroletracey.com",
-    "title": "Carole Tracey — Freelance Architect",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 15228,
-    "crawled_at": "2026-05-26T10:42:46.351503573Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Gatsby JS",
-      "Netlify",
-      "UTF-8"
     ]
   }
 ]
