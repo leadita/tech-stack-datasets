@@ -1,5 +1,37 @@
 [
   {
+    "domain": "xingtaiprincetrading.com",
+    "title": "XPT-AutoParts",
+    "business_name": "Xingtai Prince Auto Parts Company",
+    "country": "CHN",
+    "seo_score": 77,
+    "tech_spend": 43776,
+    "crawled_at": "2026-06-24T06:41:19.972862926Z",
+    "technologies": [
+      "Amazon Widgets",
+      "BunnyCDN",
+      "BunnyCDN General",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DealerInspire",
+      "Fireblade",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "Peek",
+      "Pexels",
+      "QUIC",
+      "WordPress",
+      "iStockPhoto"
+    ]
+  },
+  {
     "domain": "cardoor-x.ca",
     "title": "CarDoorX - Car Buying Made Easy",
     "business_name": "",
