@@ -1,5 +1,36 @@
 [
   {
+    "domain": "ae-works.co.uk",
+    "title": "AE WORKS - Alex Eisenberg | Enhance Collaboration Today",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 83413,
+    "crawled_at": "2026-06-23T15:32:19.970174753Z",
+    "technologies": [
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Notion",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "federicocasadei.dev",
     "title": "Federico Casadei",
     "business_name": "",
@@ -15818,26 +15849,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "arjunrewari.com",
-    "title": "Arjun Rewari",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 30,
-    "tech_spend": 600,
-    "crawled_at": "2026-05-11T13:47:19.979626724Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Notion",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
