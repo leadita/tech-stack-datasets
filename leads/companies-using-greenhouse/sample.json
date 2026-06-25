@@ -1,5 +1,22 @@
 [
   {
+    "domain": "radixtrading.co",
+    "title": "Radix Trading, LLC",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 55,
+    "tech_spend": 8060,
+    "crawled_at": "2026-06-25T16:23:19.968492509Z",
+    "technologies": [
+      "GZIP Module",
+      "Google Cloud",
+      "Greenhouse",
+      "UTF-8",
+      "University or College",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "venetoulisinstitute.org",
     "title": "Venetoulis Institute - The Venetoulis Institute for Local Journalism",
     "business_name": "The Venetoulis Institute for Local Journalism",
@@ -1556,23 +1573,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "radixtrading.co",
-    "title": "Radix Trading, LLC",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 55,
-    "tech_spend": 8060,
-    "crawled_at": "2026-06-08T20:30:22.501571369Z",
-    "technologies": [
-      "GZIP Module",
-      "Google Cloud",
-      "Greenhouse",
-      "UTF-8",
-      "University or College",
-      "jQuery"
     ]
   },
   {
