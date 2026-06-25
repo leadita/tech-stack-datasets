@@ -1,5 +1,36 @@
 [
   {
+    "domain": "thepierhouseob.com",
+    "title": "Pier House | Spanish Fort, AL",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 13377,
+    "crawled_at": "2026-06-24T16:20:19.969975719Z",
+    "technologies": [
+      "DC74",
+      "ElementUI",
+      "Fastly",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "OpenTable",
+      "QUIC",
+      "Tailwind CSS",
+      "Toast POS",
+      "UTF-8",
+      "WP Job Manager",
+      "WordPress",
+      "Yelp Badge",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "weddingvenuesinwashingtondc.com",
     "title": "Washington DC Wedding Venues | Weddings | Hotel Washington",
     "business_name": "",
@@ -17109,45 +17140,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "www.provenceofcarrboro.com",
-    "title": "Provence of Carrboro",
-    "business_name": "Restaurant Provence",
-    "country": "FRA",
-    "seo_score": 77,
-    "tech_spend": 26878,
-    "crawled_at": "2026-05-23T15:19:30.495187456Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Express",
-      "Fastly CDN",
-      "Fireblade",
-      "FormSubmit",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Flights Conversion Tracking",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Line2",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "OpenTable",
-      "QUIC",
-      "SiteW",
-      "Square",
-      "Squarespace",
-      "Subversion",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "Twitter CDN",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
     ]
   }
 ]
