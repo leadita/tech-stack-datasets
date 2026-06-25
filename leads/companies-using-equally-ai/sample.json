@@ -1,5 +1,29 @@
 [
   {
+    "domain": "brownsvalleycleaners.com",
+    "title": "Browns Valley Cleaners",
+    "business_name": "Browns Valley Cleaners",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 2652,
+    "crawled_at": "2026-06-24T12:23:19.971514818Z",
+    "technologies": [
+      "ArvanCloud",
+      "DAV",
+      "Equally AI",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nicepage",
+      "Perl",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "mybabyswim.com",
     "title": "Home - My Baby Swims",
     "business_name": "My Baby Swims",
@@ -7081,27 +7105,6 @@
       "Woo Themes",
       "WordPress",
       "WordPress Multisite",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "brownsvalleycleaners.com",
-    "title": "Browns Valley Cleaners",
-    "business_name": "Browns Valley Cleaners",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 1992,
-    "crawled_at": "2026-03-30T04:30:14.971207861Z",
-    "technologies": [
-      "DAV",
-      "Equally AI",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nicepage",
       "jQuery"
     ]
   },
