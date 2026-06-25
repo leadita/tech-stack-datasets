@@ -1,5 +1,28 @@
 [
   {
+    "domain": "arcreel.studio",
+    "title": "ArcReel Studio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 271,
+    "crawled_at": "2026-06-24T12:56:19.968553442Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "ASP.NET Core",
+      "Apture Linking Platform",
+      "Fabrik",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Microsoft Azure",
+      "Microsoft Azure Blob Storage",
+      "Show.co",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "2178888585.com",
     "title": "Trautman Agency & Appraisal",
     "business_name": "",
@@ -6533,29 +6556,6 @@
       "YouTube",
       "accessiBe",
       "iHomefinder",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "arcreel.studio",
-    "title": "ArcReel Studio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 271,
-    "crawled_at": "2026-06-07T03:10:17.459227141Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "ASP.NET Core",
-      "Apture Linking Platform",
-      "Fabrik",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Microsoft Azure",
-      "Microsoft Azure Blob Storage",
-      "Show.co",
-      "Tailwind CSS",
-      "UTF-8",
       "jQuery"
     ]
   },
