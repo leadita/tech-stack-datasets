@@ -1,5 +1,30 @@
 [
   {
+    "domain": "octiew.com",
+    "title": "Octiew - Stop Losing 4 Days Per PR | AI-Powered Code Review Automation",
+    "business_name": "Octiew",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 20090,
+    "crawled_at": "2026-06-25T05:50:19.967746684Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "Crisp",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Pico CSS",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "trailtirecommercial.ca",
     "title": "Alberta Truck Accessories & Installation | Raven Truck Accessories",
     "business_name": "",
@@ -18731,30 +18756,6 @@
       "WordPress",
       "WordPress Multisite",
       "YouTube",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "localsocialmedia.co",
-    "title": "Localsocialmedia.co - Welcome back",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 363,
-    "crawled_at": "2026-05-21T19:49:25.597015694Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Bulma",
-      "Crisp",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "OpenResty",
-      "Tailwind CSS",
-      "UTF-8",
       "jQuery"
     ]
   }
