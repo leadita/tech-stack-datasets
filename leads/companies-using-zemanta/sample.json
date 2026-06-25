@@ -1,5 +1,38 @@
 [
   {
+    "domain": "1stopmom.com",
+    "title": "1StopMom | Milwaukee Wisconsin Mom Blogger",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 35442,
+    "crawled_at": "2026-06-24T15:47:19.9731533Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "All in One SEO Pack",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "EmbedPress",
+      "Fireblade",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "PHP",
+      "Twenty Twelve",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Related Posts",
+      "Zemanta"
+    ]
+  },
+  {
     "domain": "www.ayomaonline.com",
     "title": "Website and Blog of Ayoma Wijethunga",
     "business_name": "",
