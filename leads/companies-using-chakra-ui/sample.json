@@ -1,5 +1,28 @@
 [
   {
+    "domain": "dustin-dev.com",
+    "title": "Dustin Nowosad - Fullstack Developer",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 77,
+    "tech_spend": 5240,
+    "crawled_at": "2026-06-24T17:41:19.974157852Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Google My Business",
+      "Google Play",
+      "Next.js",
+      "PWA",
+      "Pico CSS",
+      "Pleroma",
+      "Python",
+      "TrustYou",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "carvago.com",
     "title": "Carvago.com | Online service - buying and selling used cars",
     "business_name": "",
@@ -12737,28 +12760,6 @@
       "Chakra UI",
       "Content Delivery Network",
       "Next.js",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "serool.com",
-    "title": "Serool",
-    "business_name": "",
-    "country": "GHA",
-    "seo_score": 67,
-    "tech_spend": 240,
-    "crawled_at": "2026-05-05T08:50:20.029136732Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Corporate Governance and Regulatory Compliance",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
       "UTF-8",
       "Vercel"
     ]

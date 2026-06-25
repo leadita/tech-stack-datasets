@@ -1,5 +1,34 @@
 [
   {
+    "domain": "shakiraa82.com",
+    "title": "Digital Marketing",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2953,
+    "crawled_at": "2026-06-24T16:47:19.972457641Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Beacons",
+      "Coming Soon Page",
+      "GZIP Module",
+      "Giphy",
+      "Google Cloud",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Material-UI",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "PWA",
+      "Thank You",
+      "UTF-8",
+      "Unsplash",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "after-job.com",
     "title": "AfterJob - Professional Freelance Platform",
     "business_name": "",
@@ -15641,38 +15670,6 @@
       "Material-UI",
       "SMC",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "graydonpool.com",
-    "title": "Graydon Pool | Ridgewood, NJ",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 80968,
-    "crawled_at": "2026-06-05T23:42:21.000339841Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "AudioEye",
-      "AutoComplete",
-      "CivicPlus",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Material-UI",
-      "Microsoft Azure",
-      "Oddle",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "SiteW",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Visual Studio"
     ]
   }
 ]
