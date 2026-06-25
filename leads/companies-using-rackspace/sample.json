@@ -1,5 +1,31 @@
 [
   {
+    "domain": "ancientlawsofpower.com",
+    "title": "Ancient Laws Of Power",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 7708,
+    "crawled_at": "2026-06-25T11:23:19.968411305Z",
+    "technologies": [
+      "Apache",
+      "ElementUI",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "IcoMoon",
+      "QUIC",
+      "Rackspace CDN",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "www.sheltuh.com",
     "title": "Sheltuh – Off-Campus Accommodations, Simplified",
     "business_name": "",
@@ -18617,34 +18643,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "chocolatenuggetcandyfactory.com",
-    "title": "Chocolate Nugget Candy Factory",
-    "business_name": "Chocolate Nugget Candy Factory",
-    "country": "VAT",
-    "seo_score": 82,
-    "tech_spend": 13856,
-    "crawled_at": "2026-05-23T21:47:07.660721951Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Aruba",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Fastly",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Rackspace CDN",
-      "Shopify",
-      "Shopify Collabs",
-      "UTF-8",
-      "eLand",
-      "hCaptcha",
       "reCAPTCHA"
     ]
   }
