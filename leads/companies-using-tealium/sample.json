@@ -1,5 +1,31 @@
 [
   {
+    "domain": "morethandoorsmt.com",
+    "title": "Garage Door Services – Missoula, MT – More Than Doors",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 83748,
+    "crawled_at": "2026-06-24T20:59:19.97001153Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Duda",
+      "GZIP Module",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Nginx",
+      "Perl",
+      "QUIC",
+      "Smooch",
+      "Tailwind CSS",
+      "Tealium",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "truckmountcarpetcleaning.com",
     "title": "Carpet Cleaning | San Antonio, TX | Team Steam Truck Mount",
     "business_name": "Team Steam Truck Mount Carpet",
@@ -15149,51 +15175,6 @@
       "Thryv",
       "UTF-8",
       "Yelp Badge"
-    ]
-  },
-  {
-    "domain": "assuredimaging.com",
-    "title": "Home - Assured Imaging",
-    "business_name": "Assured Imaging",
-    "country": "USA",
-    "seo_score": 75,
-    "tech_spend": 78712,
-    "crawled_at": "2026-05-25T17:03:12.146487536Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "CallRail",
-      "CheryFramework",
-      "DoubleClick Bid Manager",
-      "EmbedPress",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Kallyas",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "QUIC",
-      "Subversion",
-      "Tealium",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "UberMenu",
-      "WP Rocket",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
