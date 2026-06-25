@@ -1,5 +1,20 @@
 [
   {
+    "domain": "weareplasticmonday.com",
+    "title": "Plastic Monday",
+    "business_name": "",
+    "country": "",
+    "seo_score": 20,
+    "tech_spend": 15,
+    "crawled_at": "2026-06-25T17:41:19.968648302Z",
+    "technologies": [
+      "Aruba",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "monday.com"
+    ]
+  },
+  {
     "domain": "warrioroutreach.org",
     "title": "C.U.N.Y. Digital | Digital Services & Web Design for Non-Profits",
     "business_name": "",
@@ -18538,49 +18553,6 @@
       "Vector Internet Services",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand",
-      "monday.com"
-    ]
-  },
-  {
-    "domain": "multiplai.de",
-    "title": "MULTIPLAI | Your Digital Transformation Partner",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 156141,
-    "crawled_at": "2026-05-18T02:47:19.998663769Z",
-    "technologies": [
-      "AI Log",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "DAV",
-      "DC74",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "K2F",
-      "KVH",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PWA",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "Sentry",
-      "SiteW",
-      "Subversion",
-      "UTF-8",
-      "Vector Internet Services",
-      "WP Booking Calendar",
-      "Wix",
-      "Wix Media",
-      "eLand",
-      "mlcom",
       "monday.com"
     ]
   }
