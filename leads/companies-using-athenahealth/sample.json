@@ -1,5 +1,32 @@
 [
   {
+    "domain": "causalbeacon.com",
+    "title": "CausalBeacon - See What Drives Growth",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 182439,
+    "crawled_at": "2026-06-25T12:32:19.968408943Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "AthenaHealth",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Fireblade",
+      "InitiativeS",
+      "Next.js",
+      "Oracle Cloud",
+      "Pleroma",
+      "QUIC",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "clarkstonpainandrehab.com",
     "title": "Clarkston Pain and Rehab | Pain & Rehab Specialists located in Clarkston, MI",
     "business_name": "",
@@ -9982,33 +10009,6 @@
       "Ubuntu",
       "YouTube",
       "eClinicalWorks"
-    ]
-  },
-  {
-    "domain": "causalbeacon.app",
-    "title": "CausalBeacon - See What Drives Growth",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 182439,
-    "crawled_at": "2026-05-17T10:35:20.00268062Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "AthenaHealth",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Fireblade",
-      "InitiativeS",
-      "Next.js",
-      "Oracle Cloud",
-      "Pleroma",
-      "QUIC",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   },
   {
