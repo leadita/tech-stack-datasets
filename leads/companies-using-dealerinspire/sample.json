@@ -1,5 +1,36 @@
 [
   {
+    "domain": "lexusofkelowna.ca",
+    "title": "Lexus of Kelowna | Lexus Dealership in Kelowna",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 33687,
+    "crawled_at": "2026-06-25T04:32:19.97378048Z",
+    "technologies": [
+      "Alternate Protocol",
+      "DealerInspire",
+      "DealerSites",
+      "Express",
+      "Fastly",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "ISO/IEC 8859",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "xingtaiprincetrading.com",
     "title": "XPT-AutoParts",
     "business_name": "Xingtai Prince Auto Parts Company",
@@ -439,41 +470,6 @@
       "Thank You",
       "UTF-8",
       "iAPPS"
-    ]
-  },
-  {
-    "domain": "kelownainfiniti.com",
-    "title": "Kelowna INFINITI | INFINITI Dealership in Kelowna",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 48726,
-    "crawled_at": "2026-06-21T17:35:19.974074216Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Coming Soon Page",
-      "DealerInspire",
-      "DealerSites",
-      "Express",
-      "Fastly",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "ISO/IEC 8859",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
