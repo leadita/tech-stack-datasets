@@ -1,5 +1,78 @@
 [
   {
+    "domain": "decatoncheir.net",
+    "title": "Decatoncheir",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 62,
+    "tech_spend": 2450,
+    "crawled_at": "2026-06-26T14:32:19.971337289Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Jekyll",
+      "Microdata for Google Shopping",
+      "Tailwind CSS",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "onlinecareer360.com",
+    "title": "Home - Online Career 360",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 25655,
+    "crawled_at": "2026-06-26T09:26:19.972021325Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apache",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Contact Form Plugin",
+      "DAV",
+      "EmbedPress",
+      "GZIP Module",
+      "Google",
+      "Google Adsense",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Reseller",
+      "Google Tag Manager",
+      "Harbor",
+      "IcoMoon",
+      "Jekyll",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "No-Q",
+      "PHP",
+      "QUIC",
+      "Theme In WP",
+      "UTF-8",
+      "University or College",
+      "Vello",
+      "WP Job Manager",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "eLand",
+      "jQuery",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "theos.dev",
     "title": "Home · Theos",
     "business_name": "",
@@ -211,31 +284,6 @@
       "Jekyll",
       "KaTeX",
       "Twitter Ads"
-    ]
-  },
-  {
-    "domain": "decatoncheir.com",
-    "title": "Decatoncheir",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 62,
-    "tech_spend": 2450,
-    "crawled_at": "2026-06-19T18:41:19.96863183Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Jekyll",
-      "Microdata for Google Shopping",
-      "Tailwind CSS",
-      "jsDelivr",
-      "shadcn ui"
     ]
   },
   {
@@ -13939,29 +13987,6 @@
       "UTF-8",
       "WP Engine",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "rayshore.cn",
-    "title": "Ruishuo Chen | Tsinghua University",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 82,
-    "tech_spend": 3900,
-    "crawled_at": "2026-05-31T09:53:32.945849709Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Jekyll",
-      "NFOrce Internet",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]
