@@ -1,5 +1,32 @@
 [
   {
+    "domain": "visualproducers.com",
+    "title": "Video Studio and Photographery",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 108,
+    "crawled_at": "2026-06-26T12:23:19.968553665Z",
+    "technologies": [
+      "Apache",
+      "DailyMotion Video",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Perl",
+      "QUIC",
+      "Shockwave Flash Embed",
+      "Silverlight",
+      "Subversion",
+      "Twitter Ads",
+      "UTF-8",
+      "Vimeo",
+      "Vimeo CDN",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "pacificnatures.com",
     "title": "Pacific Nature's - Pacific Nature’s®",
     "business_name": "",
@@ -1092,33 +1119,6 @@
       "eLand",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "vv1.co",
-    "title": "Video Studio and Photographery",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 108,
-    "crawled_at": "2026-06-10T01:05:13.274343432Z",
-    "technologies": [
-      "Apache",
-      "DailyMotion Video",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Perl",
-      "QUIC",
-      "Shockwave Flash Embed",
-      "Silverlight",
-      "Subversion",
-      "Twitter Ads",
-      "UTF-8",
-      "Vimeo",
-      "Vimeo CDN",
-      "YouTube",
-      "eLand"
     ]
   },
   {
