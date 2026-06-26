@@ -1,5 +1,86 @@
 [
   {
+    "domain": "validate-addresses.com",
+    "title": "Validate-Addresses.com | Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 60,
+    "crawled_at": "2026-06-26T16:29:19.968691784Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Apache",
+      "Apture Linking Platform",
+      "Coming Soon Page",
+      "Google Analytics",
+      "Google Tag Manager",
+      "PrestaShop",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "tizzard.net",
+    "title": "IONOS » Hosting Provider | Websites. Domains. Server.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 20079,
+    "crawled_at": "2026-06-26T13:50:19.968075906Z",
+    "technologies": [
+      "Aklamio",
+      "Alternate Protocol",
+      "Apache",
+      "Content Delivery Network",
+      "Fireblade",
+      "GZIP Module",
+      "Hexo",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "PHP",
+      "PROPS Publisher",
+      "PrestaShop",
+      "UTF-8",
+      "Vector Internet Services",
+      "Woo Themes",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "sparxinitsolutions.com",
+    "title": "Digital Transformation with AI, Cloud & Cybersecurity | SparxIT",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 185720,
+    "crawled_at": "2026-06-25T22:08:19.974940476Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "KVH",
+      "PHP",
+      "PrestaShop",
+      "Python",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "labsi.pl",
     "title": "labsi.pl",
     "business_name": "",
@@ -748,34 +829,6 @@
     ]
   },
   {
-    "domain": "sky.nyc",
-    "title": "IONOS » Hosting Provider | Websites. Domains. Server.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 20079,
-    "crawled_at": "2026-06-11T05:56:19.970510779Z",
-    "technologies": [
-      "Aklamio",
-      "Alternate Protocol",
-      "Apache",
-      "Content Delivery Network",
-      "Fireblade",
-      "GZIP Module",
-      "Hexo",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "PHP",
-      "PROPS Publisher",
-      "PrestaShop",
-      "UTF-8",
-      "Vector Internet Services",
-      "Woo Themes",
-      "YouTube"
-    ]
-  },
-  {
     "domain": "rvjzone.pics",
     "title": "Lucky Realm",
     "business_name": "",
@@ -1348,30 +1401,6 @@
       "Schema Plugin",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "validate-addresses.com",
-    "title": "Validate-Addresses.com | Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 60,
-    "crawled_at": "2026-06-10T05:06:00.300751756Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Apache",
-      "Apture Linking Platform",
-      "Coming Soon Page",
-      "Google Analytics",
-      "Google Tag Manager",
-      "PrestaShop",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "jQuery"
     ]
   },
   {
@@ -15302,33 +15331,6 @@
       "Tailwind CSS",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "growbosqueverde.com",
-    "title": "E-commercer GBV",
-    "business_name": "E-commercer GBV",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 3559,
-    "crawled_at": "2026-05-24T22:20:09.80467476Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "GraphQL",
-      "Material Design Icons",
-      "Microdata for Google Shopping",
-      "PHP",
-      "PrestaShop",
-      "QUIC",
-      "Schema Plugin",
-      "Tailwind CSS",
-      "TemplateMela",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "ashop"
     ]
   }
 ]
