@@ -1,5 +1,31 @@
 [
   {
+    "domain": "inkapallet.com",
+    "title": "Pallet | AI Logistics Workforce",
+    "business_name": "Pallet.com",
+    "country": "POL",
+    "seo_score": 70,
+    "tech_spend": 26428,
+    "crawled_at": "2026-06-26T13:47:19.973690789Z",
+    "technologies": [
+      "AI Log",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "DAV",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Greenhouse",
+      "Microdata for Google Shopping",
+      "Sanity",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "radixtrading.co",
     "title": "Radix Trading, LLC",
     "business_name": "",
@@ -2044,32 +2070,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "exportcrates.com",
-    "title": "Pallet | AI Logistics Workforce",
-    "business_name": "Pallet.com",
-    "country": "POL",
-    "seo_score": 70,
-    "tech_spend": 26428,
-    "crawled_at": "2026-06-06T03:28:44.3517806Z",
-    "technologies": [
-      "AI Log",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "DAV",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Greenhouse",
-      "Microdata for Google Shopping",
-      "Sanity",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   },
   {
