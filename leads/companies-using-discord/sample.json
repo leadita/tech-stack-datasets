@@ -1,5 +1,38 @@
 [
   {
+    "domain": "hyperbolic.info",
+    "title": "Hyperbolic – The Open-Access AI Cloud",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 21788,
+    "crawled_at": "2026-06-25T14:05:19.968614711Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Calendly",
+      "Discord",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "HubSpot Conversations",
+      "Hubspot",
+      "IcoMoon",
+      "Intercom",
+      "LiteSpeed",
+      "Next.js",
+      "Pico CSS",
+      "Pleroma",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "Twitter Analytics",
+      "Vector Internet Services",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "digitalthunder.ca",
     "title": "Digital Thunder Media Productions | Natural Light Photography",
     "business_name": "",
@@ -16405,24 +16438,6 @@
       "WordPress Related Posts",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "sanduuz.iki.fi",
-    "title": "Sanduuz's Homepage",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2026-05-27T11:58:50.765699099Z",
-    "technologies": [
-      "Discord",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Nginx",
-      "Pleroma",
-      "Tailwind CSS"
     ]
   }
 ]
