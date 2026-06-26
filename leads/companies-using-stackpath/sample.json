@@ -1,5 +1,43 @@
 [
   {
+    "domain": "leutholdfa.com",
+    "title": "The Leuthold Group - Advisors",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 36410,
+    "crawled_at": "2026-06-26T08:47:19.969401962Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "ElementUI",
+      "Financial Services Guide",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Nginx",
+      "Salesforce",
+      "Salesforce Experience Cloud",
+      "Salesforce Hosted",
+      "StackPath",
+      "Stripe",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vimeo",
+      "Vimeo CDN",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "youteltd.com",
     "title": "Yiwu Sourcing Agent|Yiwu Trading Agent|Yiwu Buying Office|Yiwu Market|Yiwu Agent",
     "business_name": "",
@@ -15355,31 +15393,6 @@
       "StackPath",
       "Ubuntu",
       "Vimeo"
-    ]
-  },
-  {
-    "domain": "remax-trust.com",
-    "title": "Welcome to RE/MAX Trust",
-    "business_name": "",
-    "country": "ECU",
-    "seo_score": 65,
-    "tech_spend": 7188,
-    "crawled_at": "2026-06-10T10:50:26.423418157Z",
-    "technologies": [
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fastly",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "OpenResty",
-      "PHP",
-      "Phusion Passenger Enterprise",
-      "QUIC",
-      "StackPath",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
