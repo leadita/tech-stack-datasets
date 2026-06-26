@@ -1,5 +1,40 @@
 [
   {
+    "domain": "trycoreloops.com",
+    "title": "Coreloops | Automated Construction Cost Tracking Software",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 19160,
+    "crawled_at": "2026-06-25T19:50:19.969703205Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon",
+      "Amazon CloudFront",
+      "Apollo IO",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Hotjar",
+      "IcoMoon",
+      "Intercom",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "WF Cookie Consent",
+      "Webflow"
+    ]
+  },
+  {
     "domain": "ionfs.com",
     "title": "Commercial Property Maintenance & Facility Services Canada",
     "business_name": "",
@@ -16039,36 +16074,6 @@
       "UTF-8",
       "WF Cookie Consent",
       "Webflow"
-    ]
-  },
-  {
-    "domain": "apiadapt.info",
-    "title": "Adapt API",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 7884,
-    "crawled_at": "2026-06-09T00:53:17.409558972Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Animate It",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "WF Cookie Consent",
-      "Webflow",
-      "jsDelivr"
     ]
   }
 ]
