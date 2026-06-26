@@ -1,5 +1,42 @@
 [
   {
+    "domain": "infratechsolutions.com",
+    "title": "Infratech Solutions",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 21540,
+    "crawled_at": "2026-06-26T12:56:19.969198887Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Digital Ocean Spaces",
+      "Duda",
+      "Firebase",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "InitiativeS",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PWA",
+      "QUIC",
+      "Tailwind CSS",
+      "Termageddon",
+      "UTF-8",
+      "Usercentrics",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "xn--hallo-lbbecke-2ob.de",
     "title": "Nachrichten für Lübbecke und Umgebung – Veranstaltungskalender – Service – Firmennetzwerk - HALLO LÜBBECKE",
     "business_name": "",
@@ -18247,27 +18284,6 @@
       "Usercentrics",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "tellingstedt.de",
-    "title": "Gemeinde Tellingstedt",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 77,
-    "tech_spend": 1155,
-    "crawled_at": "2026-05-17T08:10:00.18096953Z",
-    "technologies": [
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "IcoMoon",
-      "QUIC",
-      "Slider Revolution",
-      "UTF-8",
-      "Usercentrics"
     ]
   }
 ]
