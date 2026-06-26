@@ -1,5 +1,40 @@
 [
   {
+    "domain": "ztailor.info",
+    "title": "Best Online Suit & Tuxedo Rental for Men | Generation Tux",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 66432,
+    "crawled_at": "2026-06-26T07:29:19.969844093Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "Headless UI",
+      "Imgix",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Optimizely Recommendations",
+      "Perl",
+      "Plausible Analytics",
+      "Pleroma",
+      "Sanity",
+      "Segment",
+      "Segment Consent Manager",
+      "Swell Rewards",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vimeo",
+      "Yotpo",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "palosanto.love",
     "title": "Palo Santo | Hair Salon in San Diego, CA",
     "business_name": "",
@@ -21599,39 +21634,6 @@
       "jsDelivr",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "actionkit.ai",
-    "title": "ActionKit | Integrations for AI Agents",
-    "business_name": "Paragon",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 186141,
-    "crawled_at": "2026-05-22T00:02:19.990340888Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Cybot",
-      "FormSubmit",
-      "Framer Sites",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "KVH",
-      "Microdata for Google Shopping",
-      "Ntent",
-      "QUIC",
-      "Salesforce Hosted",
-      "Segment",
-      "Segment Consent Manager",
-      "Twitter Ads",
-      "Vector Internet Services",
-      "Vercel",
-      "Yandex Hosting",
-      "Zeald"
     ]
   }
 ]
