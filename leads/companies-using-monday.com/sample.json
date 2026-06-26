@@ -1,5 +1,33 @@
 [
   {
+    "domain": "aifixsystems.com",
+    "title": "AIFixSystems Build AI Agents & Agentic Solutions",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 6667,
+    "crawled_at": "2026-06-26T14:41:19.968890179Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "CDN JS",
+      "Calendly",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Formspree",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Line2",
+      "Python",
+      "QUIC",
+      "Salesforce Hosted",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vercel",
+      "monday.com"
+    ]
+  },
+  {
     "domain": "weareplasticmonday.com",
     "title": "Plastic Monday",
     "business_name": "",
@@ -18523,36 +18551,6 @@
       "Ntent",
       "Yandex Hosting",
       "Zeald",
-      "monday.com"
-    ]
-  },
-  {
-    "domain": "sustainably-fit.com",
-    "title": "Sustainably Fit Coaching",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 86773,
-    "crawled_at": "2026-05-18T02:56:20.019207922Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand",
       "monday.com"
     ]
   }
