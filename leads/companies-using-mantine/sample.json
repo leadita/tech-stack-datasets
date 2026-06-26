@@ -1,5 +1,28 @@
 [
   {
+    "domain": "cuwealthone.biz",
+    "title": "CU WealthNext - The Future of the Credit Union, Curated",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 55059,
+    "crawled_at": "2026-06-25T22:38:19.969219811Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Cornerstone",
+      "DAV",
+      "GZIP Module",
+      "GoGrid",
+      "Mantine",
+      "Next.js",
+      "Nginx",
+      "Pleroma",
+      "SMC",
+      "UTF-8",
+      "Ubuntu"
+    ]
+  },
+  {
     "domain": "sgrovemutual.com",
     "title": "幸运168官方飞艇结果体彩查询网历史开奖记录®|福彩全国飞艇统一开奖数据查询平台+实时直播号码分析入口 Cincinnati Funeral Home | Spring Grove",
     "business_name": "",
@@ -13007,34 +13030,6 @@
       "Instagram Follow Button",
       "Mantine",
       "Ntent",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "desanglondong.org",
-    "title": "Desa Nglondong - Selamat datang di website resmi Pemerintahan Desa Nglondong",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 17440,
-    "crawled_at": "2026-05-12T10:41:19.978882383Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "DAV",
-      "Fireblade",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Mantine",
-      "Ntent",
-      "PHP",
       "Twitter Ads",
       "UTF-8",
       "YouTube"

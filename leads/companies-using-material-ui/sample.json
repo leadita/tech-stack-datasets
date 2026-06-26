@@ -1,5 +1,86 @@
 [
   {
+    "domain": "themorbidlycuriousbookclub.com",
+    "title": "TMCBC",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 15514,
+    "crawled_at": "2026-06-26T03:23:19.968171137Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon Widgets",
+      "Beacons",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Endis",
+      "Etsy",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "Material-UI",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "PWA",
+      "Pleroma",
+      "UTF-8",
+      "Unsplash",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "www.dubai-callgirls.com",
+    "title": "Dubai Escorts - 1,600+ Verified Call Girls in Dubai | Escort Services & Erotic Massage",
+    "business_name": "Сall Girls",
+    "country": "COL",
+    "seo_score": 77,
+    "tech_spend": 21680,
+    "crawled_at": "2026-06-25T18:23:19.971542519Z",
+    "technologies": [
+      "Adult Content",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "M247",
+      "Material-UI",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PHP",
+      "Tailwind CSS",
+      "Telegram",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "naski.me",
+    "title": "Naski Technology",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 3914,
+    "crawled_at": "2026-06-25T17:05:19.968381512Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Beacons",
+      "GZIP Module",
+      "Google Cloud",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Material-UI",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "PWA",
+      "Tailwind CSS",
+      "UTF-8",
+      "Unsplash",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "shakiraa82.com",
     "title": "Digital Marketing",
     "business_name": "",
@@ -8697,33 +8778,6 @@
     ]
   },
   {
-    "domain": "naski.me",
-    "title": "Naski Technology",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 347,
-    "crawled_at": "2026-06-08T21:27:16.470688404Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Beacons",
-      "GZIP Module",
-      "Google Cloud",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Material-UI",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "PWA",
-      "Tailwind CSS",
-      "UTF-8",
-      "Unsplash",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "queengranny.com",
     "title": "QUEEN GRANNY",
     "business_name": "",
@@ -15623,53 +15677,6 @@
       "UTF-8",
       "Ubuntu",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "preferredplumbingtupelo.com",
-    "title": "Plumber Services Tupelo MS | Preferred Plumbing Inc.",
-    "business_name": "Preferred Plumbing Inc. ",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 23704,
-    "crawled_at": "2026-06-06T00:08:19.972754956Z",
-    "technologies": [
-      "BunnyCDN",
-      "BunnyCDN General",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Material-UI",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Unsplash"
-    ]
-  },
-  {
-    "domain": "ssparvaz.com",
-    "title": "سمنگان سیر پرواز",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 15156,
-    "crawled_at": "2026-06-05T23:52:54.921024214Z",
-    "technologies": [
-      "Apache",
-      "ElementUI",
-      "GZIP Module",
-      "IcoMoon",
-      "Material-UI",
-      "SMC",
-      "UTF-8"
     ]
   }
 ]
