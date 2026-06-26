@@ -1,5 +1,28 @@
 [
   {
+    "domain": "bdcares.com",
+    "title": "BlackDoctor CARES — Community. Awareness. Research. Education. Solutions.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 49940,
+    "crawled_at": "2026-06-26T21:38:19.971630581Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Doctor.com",
+      "Fontshare",
+      "Full Media",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "eolabs.in",
     "title": "EOLABS — AI-First Digital Product Design & Engineering",
     "business_name": "",
@@ -13261,45 +13284,6 @@
       "WordPress Stats",
       "iHomefinder",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "flyprom.ai",
-    "title": "FlyProm — Your next flight is just a sentence away",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 21815,
-    "crawled_at": "2026-05-11T12:59:20.001923141Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Book Direct",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Express",
-      "Fireblade",
-      "Fontshare",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Line2",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Next.js",
-      "PWA",
-      "Perl",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Stripe",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Unsplash",
-      "eLand",
-      "shadcn ui"
     ]
   }
 ]
