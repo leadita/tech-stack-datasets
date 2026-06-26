@@ -1,12 +1,12 @@
 [
   {
-    "domain": "dotnotify.org",
+    "domain": "filedotbu.us",
     "title": "US DOT Biennial Update Portal | DOT Updates | Federal Applications Processor - Home",
     "business_name": "",
     "country": "USA",
     "seo_score": 77,
     "tech_spend": 5608,
-    "crawled_at": "2026-06-25T08:08:19.970687793Z",
+    "crawled_at": "2026-06-26T16:59:19.969521992Z",
     "technologies": [
       "Adobe Creative Cloud WebFonts",
       "Apache",
@@ -21,6 +21,34 @@
       "Paperform",
       "QUIC",
       "Rocket Chat"
+    ]
+  },
+  {
+    "domain": "crescenthospice.com",
+    "title": "Crescent Hospice - Serving South Carolina",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 1435,
+    "crawled_at": "2026-06-26T07:47:19.968600806Z",
+    "technologies": [
+      "Apache",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Olark",
+      "PHP",
+      "Paperform",
+      "QUIC",
+      "Subversion",
+      "UTF-8",
+      "YouTube",
+      "jQuery",
+      "jsDelivr"
     ]
   },
   {
@@ -4405,34 +4433,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "crescenthospice.com",
-    "title": "Crescent Hospice - Serving South Carolina",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 1435,
-    "crawled_at": "2026-05-18T22:39:18.173809095Z",
-    "technologies": [
-      "Apache",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Olark",
-      "PHP",
-      "Paperform",
-      "QUIC",
-      "Subversion",
-      "UTF-8",
-      "YouTube",
-      "jQuery",
-      "jsDelivr"
     ]
   },
   {
