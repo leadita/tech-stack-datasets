@@ -1,5 +1,47 @@
 [
   {
+    "domain": "myvoker.com",
+    "title": "Voker | Analytics for AI Agents",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 13846,
+    "crawled_at": "2026-06-26T11:44:19.969377921Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon",
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Copy Anything to Clipboard",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "Newsletter for Wordpress",
+      "OpenAI",
+      "Python",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vercel",
+      "WF Cookie Consent",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "servicewatch.org",
     "title": "Service Watch — AI Model & Token Cost Comparison",
     "business_name": "",
@@ -19804,33 +19846,6 @@
       "Way",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "supavoice.app",
-    "title": "Supavoice - Voice to Text App for macOS",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2680,
-    "crawled_at": "2026-05-22T05:40:55.526341068Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Express",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Next.js",
-      "OpenAI",
-      "Pleroma",
-      "Product Hunt",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
