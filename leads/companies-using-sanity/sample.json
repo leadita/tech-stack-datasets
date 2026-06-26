@@ -1,5 +1,66 @@
 [
   {
+    "domain": "inkapallet.com",
+    "title": "Pallet | AI Logistics Workforce",
+    "business_name": "Pallet.com",
+    "country": "POL",
+    "seo_score": 70,
+    "tech_spend": 26428,
+    "crawled_at": "2026-06-26T13:47:19.973690789Z",
+    "technologies": [
+      "AI Log",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "DAV",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Greenhouse",
+      "Microdata for Google Shopping",
+      "Sanity",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "ztailor.info",
+    "title": "Best Online Suit & Tuxedo Rental for Men | Generation Tux",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 66432,
+    "crawled_at": "2026-06-26T07:29:19.969844093Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "Headless UI",
+      "Imgix",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Optimizely Recommendations",
+      "Perl",
+      "Plausible Analytics",
+      "Pleroma",
+      "Sanity",
+      "Segment",
+      "Segment Consent Manager",
+      "Swell Rewards",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vimeo",
+      "Yotpo",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "wavemakerwellness.com",
     "title": "Wave Maker Wellness | Holistic Health Coaching",
     "business_name": "",
@@ -7445,32 +7506,6 @@
     ]
   },
   {
-    "domain": "exportcrates.com",
-    "title": "Pallet | AI Logistics Workforce",
-    "business_name": "Pallet.com",
-    "country": "POL",
-    "seo_score": 70,
-    "tech_spend": 26428,
-    "crawled_at": "2026-06-06T03:28:44.3517806Z",
-    "technologies": [
-      "AI Log",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "DAV",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Greenhouse",
-      "Microdata for Google Shopping",
-      "Sanity",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "settleintheuk.com",
     "title": "SettleInTheUK",
     "business_name": "",
@@ -13549,32 +13584,6 @@
       "Thank You",
       "WordPress",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "k12permits.com",
-    "title": "K12 Parking Permits | School Parking Hang Tags & Stickers",
-    "business_name": "K12 Parking Permits",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 5416,
-    "crawled_at": "2026-05-31T18:37:58.75359625Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudinary",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Next.js",
-      "Sanity",
-      "Sign In With Google",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "shadcn ui"
     ]
   }
 ]

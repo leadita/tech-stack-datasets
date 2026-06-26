@@ -1,5 +1,25 @@
 [
   {
+    "domain": "siblicode.in",
+    "title": "SibliCode - Web & Graphics Designing , Mobile, Android, iOS, Unity game Development",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 62,
+    "tech_spend": 25540,
+    "crawled_at": "2026-06-25T22:05:19.974475842Z",
+    "technologies": [
+      "Apache",
+      "Contentstack",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Wangsu"
+    ]
+  },
+  {
     "domain": "masterlawncareservices.com",
     "title": "Reliable Lawn Care Services | Master Lawn Care Services",
     "business_name": "Master Lawn Care Services, LLC",
@@ -21298,40 +21318,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "funkytownfoodtruckfest.com",
-    "title": "Funkytown Food Truck Festival | DFW's Best Eats",
-    "business_name": "Funkytown Food Truck Festival",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 45648,
-    "crawled_at": "2026-04-30T17:23:19.986256533Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon WAF Blocked",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Contentstack",
-      "GoDaddy",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Reamaze",
-      "UTF-8",
-      "Vimeo",
-      "Wangsu",
-      "Website Tonight",
-      "YouTube",
-      "reCAPTCHA"
     ]
   }
 ]
