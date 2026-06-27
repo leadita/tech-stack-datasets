@@ -1,5 +1,35 @@
 [
   {
+    "domain": "ohsogeeky.com",
+    "title": "Oh So Geeky",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 32508,
+    "crawled_at": "2026-06-26T18:41:19.968854249Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Blogger",
+      "DAV",
+      "Disqus Comment System for WordPress",
+      "GZIP Module",
+      "Gambling Content",
+      "Google",
+      "Google Adsense",
+      "Google Cloud CDN",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Instagram Follow Button",
+      "Ntent",
+      "QUIC",
+      "Squid",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "withthesuttons.com",
     "title": "With The Suttons",
     "business_name": "",
@@ -1303,36 +1333,6 @@
       "The Fresh",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "ohsogeeky.com",
-    "title": "Oh So Geeky",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 47508,
-    "crawled_at": "2026-06-10T08:09:39.319480317Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Blogger",
-      "DAV",
-      "Disqus Comment System for WordPress",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Instagram Follow Button",
-      "Ntent",
-      "QUIC",
-      "Squid",
-      "UTF-8"
     ]
   },
   {
