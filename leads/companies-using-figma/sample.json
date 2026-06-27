@@ -1,5 +1,50 @@
 [
   {
+    "domain": "hranodesign.com",
+    "title": "Hrano Design",
+    "business_name": "",
+    "country": "IDN",
+    "seo_score": 45,
+    "tech_spend": 1156,
+    "crawled_at": "2026-06-27T13:17:19.972566982Z",
+    "technologies": [
+      "Cisco/Arrowpoint Content Service Switch",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Figma",
+      "Flip",
+      "GZIP Module",
+      "Google My Business",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Nginx",
+      "Perl",
+      "Pleroma",
+      "Schema Plugin",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "storeyagency.co.uk",
+    "title": "Storey Agency - Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 5000,
+    "crawled_at": "2026-06-26T18:17:19.97150955Z",
+    "technologies": [
+      "Cloudflare",
+      "Content Delivery Network",
+      "Figma",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "K2F"
+    ]
+  },
+  {
     "domain": "mariaesquivelor.com",
     "title": "Portfolio | Maria Camila Esquivel",
     "business_name": "",
@@ -13541,58 +13586,6 @@
       "Google Font API",
       "LiteSpeed",
       "QUIC"
-    ]
-  },
-  {
-    "domain": "kwekubaidoo.com",
-    "title": "Kweku Baidoo – Designer | Researcher",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 503,
-    "crawled_at": "2026-05-23T06:38:25.902545864Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Figma",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "NFOrce Internet",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "domicilebuilds.com",
-    "title": "BUILD YOUR OWN HOUSE, FIRE RESISTANT HOMES, NET-ZERO HOMES, PASSIVE HOMES, CUSTOM HOMES, MODULAR HOMES",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 1707,
-    "crawled_at": "2026-05-23T06:32:19.973268944Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Figma",
-      "GZIP Module",
-      "Google My Business",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Nginx",
-      "Perl",
-      "Pleroma",
-      "Schema Plugin",
-      "UTF-8"
     ]
   }
 ]
