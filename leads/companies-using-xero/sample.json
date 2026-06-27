@@ -1,5 +1,27 @@
 [
   {
+    "domain": "cryptoreceipts.com",
+    "title": "Crypto Receipts",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 1356,
+    "crawled_at": "2026-06-27T00:02:19.970470717Z",
+    "technologies": [
+      "Cloudflare",
+      "CoinGecko",
+      "Coinbase",
+      "GZIP Module",
+      "Ntent",
+      "RawGit",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "Xero",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "joelrichmond.co.uk",
     "title": "Joel Richmond | UK Chartered Certified Accountants",
     "business_name": "Joel Richmond",
@@ -18290,43 +18312,6 @@
       "Xero",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "arcticaccounting.co.uk",
-    "title": "Arctic Accounting Limited | Discover Efficient Accounting Solutions",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 78869,
-    "crawled_at": "2026-04-21T22:20:19.99101703Z",
-    "technologies": [
-      "Aruba",
-      "Express",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "Xero",
-      "eLand"
     ]
   }
 ]
