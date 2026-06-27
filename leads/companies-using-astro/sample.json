@@ -1,5 +1,129 @@
 [
   {
+    "domain": "bkoding.com",
+    "title": "BKoding — WordPress Plugins & Web Tools",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2807,
+    "crawled_at": "2026-06-27T16:44:19.968883756Z",
+    "technologies": [
+      "Astro",
+      "Coming Soon Page",
+      "Formspree",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Tailwind CSS",
+      "Woo Themes"
+    ]
+  },
+  {
+    "domain": "hanai.app",
+    "title": "Hanai — Overnight Newborn Care Logging",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-06-27T13:02:19.970921569Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Astro",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Tailwind CSS",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "adupal.com",
+    "title": "San Diego ADU Design + Build — ADU PALS",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 2668,
+    "crawled_at": "2026-06-27T09:41:19.969463702Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Astro",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Pico CSS",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "ned4ct.com",
+    "title": "Ned Lamont for Governor",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 15588,
+    "crawled_at": "2026-06-27T04:59:19.972101601Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Creative Cloud WebFonts",
+      "Astro",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "audiopad.ai",
+    "title": "MeetVox AI — talk faster than you type",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-06-27T04:29:19.968594846Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Astro",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "toolsandinstruments.com",
+    "title": "Tool & Instrument",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 47,
+    "tech_spend": 156,
+    "crawled_at": "2026-06-26T22:59:19.970448228Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Astro",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "IcoMoon",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "moisesromero.com",
     "title": "Moises Romero — Principal & Staff Software Engineer",
     "business_name": "",
@@ -11357,152 +11481,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "mirkoborivojevic.com",
-    "title": "Engineering Blog | Ship, Learn, Repeat",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 63,
-    "crawled_at": "2026-06-08T22:17:19.969173958Z",
-    "technologies": [
-      "Astro",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "symphonyofcare.com",
-    "title": "Symphony of Care | Home Care Services in Nebraska",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 15588,
-    "crawled_at": "2026-06-08T22:10:50.065923827Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Astro",
-      "Content Delivery Network",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "mntpoolservice.com",
-    "title": "M&T Pool Service | Pool Maintenance & Repair in Houston & Richmond, TX",
-    "business_name": "M&T Pool Service",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 3028,
-    "crawled_at": "2026-06-08T21:51:43.702324431Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Astro",
-      "Better Lead Generation Services",
-      "Content Delivery Network",
-      "Efilli",
-      "Elfsight",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "expertrad.com",
-    "title": "Expert Radiology | Subspecialty Teleradiology & PrecisionPlus Reports",
-    "business_name": "Expert Radiology",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 10476,
-    "crawled_at": "2026-06-08T21:51:43.670735442Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Astro",
-      "Content Delivery Network",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "FormSubmit",
-      "Google Analytics",
-      "Google Tag Manager",
-      "HubSpot Conversations",
-      "Hubspot",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "innosparklabs.com",
-    "title": "InnoSpark Labs — Innovative Technology Solutions",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 17232,
-    "crawled_at": "2026-06-08T21:50:19.971246037Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Astro",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Netlify",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Unsplash",
-      "reCAPTCHA",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "jonathanjuarez.com",
-    "title": "Jonathan Juárez - Manager of Software Engineering for Web Technologies & Senior Frontend Engineer - Portfolio",
-    "business_name": "",
-    "country": "BRA",
-    "seo_score": 82,
-    "tech_spend": 5600,
-    "crawled_at": "2026-06-08T21:42:01.688224351Z",
-    "technologies": [
-      "Amazon S3 CDN",
-      "Astro",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Ntent",
-      "PHP",
-      "Sherpa",
-      "Storyblocks",
-      "UTF-8",
-      "Vercel",
-      "WordPress"
     ]
   }
 ]
