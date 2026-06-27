@@ -1,5 +1,56 @@
 [
   {
+    "domain": "ecoservice-llc.com",
+    "title": "Eco Service- The Smart Link Between Supply and Demand",
+    "business_name": "",
+    "country": "RUS",
+    "seo_score": 60,
+    "tech_spend": 320,
+    "crawled_at": "2026-06-27T02:44:19.969236366Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Line2",
+      "QUIC",
+      "Tawk",
+      "TradingView"
+    ]
+  },
+  {
+    "domain": "tarexpulse.live",
+    "title": "Tarex Pulse",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 67,
+    "tech_spend": 21332,
+    "crawled_at": "2026-06-26T19:59:19.971425918Z",
+    "technologies": [
+      "App Store",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Coming Soon Page",
+      "ETranslate",
+      "ElementUI",
+      "Financial Services Guide",
+      "Fireblade",
+      "GTranslate",
+      "Gambling Content",
+      "GetButton.io",
+      "Google My Business",
+      "Google Play",
+      "LiteSpeed",
+      "QUIC",
+      "SmartSupp",
+      "TradingView",
+      "Trustpilot Reviews for WordPress",
+      "UTF-8",
+      "University or College",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "snvps.xyz",
     "title": "The Best Forex VPS Hosting for Trading - ForexVPS",
     "business_name": "ForexVPS",
@@ -15388,56 +15439,6 @@
       "YouTube",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "skyrocfx.com",
-    "title": "Home - skyrocfx",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 218,
-    "crawled_at": "2026-05-27T08:34:35.86431165Z",
-    "technologies": [
-      "ElementUI",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "QUIC",
-      "Tawk",
-      "TradingView",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "thronex.co",
-    "title": "thronex.co",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 20267,
-    "crawled_at": "2026-05-27T08:25:01.39275035Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "CoinGecko",
-      "DAV",
-      "ETranslate",
-      "Fireblade",
-      "GTranslate",
-      "GZIP Module",
-      "Google My Business",
-      "IcoMoon",
-      "Nginx",
-      "QUIC",
-      "SmartSupp",
-      "Tailwind CSS",
-      "TradingView",
-      "UTF-8",
-      "YouTube",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
