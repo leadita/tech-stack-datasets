@@ -1,5 +1,33 @@
 [
   {
+    "domain": "itsecurelabs.com",
+    "title": "ITSecureLabs - India's Leading IAM Specialists | Consulting, Staffing & Training",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 47450,
+    "crawled_at": "2026-06-26T23:56:19.96802514Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Bulma",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "ElementUI",
+      "GZIP Module",
+      "Ping Identity",
+      "QUIC",
+      "Tailwind CSS",
+      "eLand",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "benefin.net",
     "title": "Beneficent Financial - San Antonio, TX",
     "business_name": "Beneficent Financial",
@@ -48,33 +76,6 @@
       "Visual Studio",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "itsecurelabs.com",
-    "title": "ITSecureLabs - India's Leading IAM Specialists | Consulting, Staffing & Training",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 47450,
-    "crawled_at": "2026-06-10T16:06:52.200609171Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Bulma",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "ElementUI",
-      "Ping Identity",
-      "QUIC",
-      "Tailwind CSS",
-      "eLand",
-      "jsDelivr"
     ]
   },
   {
