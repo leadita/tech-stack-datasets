@@ -1,5 +1,28 @@
 [
   {
+    "domain": "tripperist.com",
+    "title": "Welcome to Tripperist",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2400,
+    "crawled_at": "2026-06-27T17:14:19.968278134Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Google Play",
+      "Instagram Follow Button",
+      "Jekyll",
+      "Microdata for Google Shopping",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "decatoncheir.net",
     "title": "Decatoncheir",
     "business_name": "",
@@ -13957,36 +13980,6 @@
       "UTF-8",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "caseyannphoto.co",
-    "title": "Casey Ann Photo | Jacksonville Wedding Photographer",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 18640,
-    "crawled_at": "2026-05-31T10:58:34.866718468Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "DAV",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Jekyll",
-      "Subversion",
-      "UTF-8",
-      "WP Engine",
-      "jQuery"
     ]
   }
 ]

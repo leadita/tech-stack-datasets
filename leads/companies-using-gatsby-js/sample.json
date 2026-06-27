@@ -1,5 +1,40 @@
 [
   {
+    "domain": "geriatriccaremanagement.life",
+    "title": "Compassionate Care in the Comfort of Your Home | Life Home Care",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 121156,
+    "crawled_at": "2026-06-27T19:53:19.968590747Z",
+    "technologies": [
+      "CallRail",
+      "DAV",
+      "ElementUI",
+      "Ethy",
+      "GZIP Module",
+      "Gatsby JS",
+      "Google Analytics",
+      "Google Cloud",
+      "Google My Business",
+      "Google Tag Manager",
+      "HMDG",
+      "Instagram Follow Button",
+      "Investor Relations",
+      "K2F",
+      "KVH",
+      "No-Q",
+      "PHP",
+      "Perl",
+      "SMC",
+      "Styled Components",
+      "Subversion",
+      "UTF-8",
+      "Visx",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "miamisportfishingcharters.com",
     "title": "REMIX SPORTFISHING",
     "business_name": "",
@@ -13533,39 +13568,6 @@
       "Tailwind CSS",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "mikeladerman.com",
-    "title": "Mike Laderman | Software Engineer",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 266278,
-    "crawled_at": "2026-05-26T11:18:52.997217777Z",
-    "technologies": [
-      "AAPT",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "Express",
-      "Financial Services Guide",
-      "Gatsby JS",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Mavrck",
-      "Netlify",
-      "No-Q",
-      "Python",
-      "SMC",
-      "Salesforce Hosted",
-      "Styled Components",
-      "Subversion",
-      "Twitter Ads",
-      "UTF-8",
-      "Visx",
-      "Zope"
     ]
   }
 ]
