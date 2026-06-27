@@ -1,5 +1,42 @@
 [
   {
+    "domain": "novasteelusa.com",
+    "title": "Home | Nova Steel",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 20880,
+    "crawled_at": "2026-06-26T18:05:19.968569822Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "Fastly",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Hello Elementor",
+      "JetWooBuilder",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "NFOrce Internet",
+      "Nginx",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Termly",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "accessiBe",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "staffordpub.com",
     "title": "（168）正规福利彩票·飞艇网-幸运168飞行艇5分钟开奖结果预测官网|_直播NOW：_168飞艇历史记录查询幸运体彩趋势 StaffordPub.com",
     "business_name": "Lazy Dog Restaurants &amp; Bar",
@@ -16403,24 +16440,6 @@
       "Thank You",
       "UTF-8",
       "Vue.js"
-    ]
-  },
-  {
-    "domain": "canaldistrictrecords.com",
-    "title": "Canal District Records",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 50,
-    "tech_spend": 663,
-    "crawled_at": "2026-05-25T06:34:03.239939337Z",
-    "technologies": [
-      "Apache",
-      "Dogado Internet",
-      "Fastly",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Termly"
     ]
   }
 ]
