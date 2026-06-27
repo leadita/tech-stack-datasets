@@ -1,5 +1,76 @@
 [
   {
+    "domain": "atlantaautoappraisal.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-06-27T00:59:19.970376862Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "GZIP Module",
+      "Google My Business",
+      "Joomla!",
+      "RokNavMenu",
+      "UTF-8",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "jimcraigblacksmith.com",
+    "title": "Home",
+    "business_name": "JCB",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 63,
+    "crawled_at": "2026-06-26T17:08:19.969925417Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Helix Ultimate",
+      "Joomla!",
+      "Microdata for Google Shopping",
+      "PHP",
+      "RokNavMenu",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "polejunkies.com",
+    "title": "PoleJunkies - Pole, Aerial, Dance and Fitness",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 79,
+    "crawled_at": "2026-06-26T14:38:19.971739912Z",
+    "technologies": [
+      "Apache",
+      "AutoComplete",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Joomla!",
+      "PHP",
+      "QUIC",
+      "RokNavMenu",
+      "Slider Revolution",
+      "Subversion",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "VirtueMart",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "iamkingfoundation.org",
     "title": "I AM KING - IAMKINGFOUNDATION",
     "business_name": "",
@@ -6828,29 +6899,6 @@
     ]
   },
   {
-    "domain": "jimcraigblacksmith.com",
-    "title": "Home",
-    "business_name": "JCB",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 63,
-    "crawled_at": "2026-06-10T06:07:56.512880102Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Helix Ultimate",
-      "Joomla!",
-      "Microdata for Google Shopping",
-      "PHP",
-      "RokNavMenu",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "ctrt.co.uk",
     "title": "CTRT UK",
     "business_name": "",
@@ -7428,34 +7476,6 @@
       "RokNavMenu",
       "UTF-8",
       "YouTube",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "polejunkies.com",
-    "title": "PoleJunkies - Pole, Aerial, Dance and Fitness",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 79,
-    "crawled_at": "2026-06-10T02:44:23.27259823Z",
-    "technologies": [
-      "Apache",
-      "AutoComplete",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Joomla!",
-      "PHP",
-      "QUIC",
-      "RokNavMenu",
-      "Slider Revolution",
-      "Subversion",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "VirtueMart",
       "jQuery"
     ]
   },
@@ -12810,30 +12830,6 @@
       "UTF-8",
       "Yandex Hosting",
       "Yandex Metrika",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "beestenboetje.nl",
-    "title": "het Beestenboetje",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 206,
-    "crawled_at": "2026-06-08T18:14:19.970494315Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Artisteer",
-      "GZIP Module",
-      "IcoMoon",
-      "Joomla!",
-      "Microdata for Google Shopping",
-      "PHP",
-      "RokNavMenu",
-      "Schema Plugin",
-      "Subversion",
-      "UTF-8",
       "jQuery"
     ]
   }

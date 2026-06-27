@@ -1,5 +1,57 @@
 [
   {
+    "domain": "wallemassociates.com",
+    "title": "Lucas Group welcomes our new team members from Wallem Associates! | lucasgroupfinancialadvisors",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 40,
+    "crawled_at": "2026-06-27T12:11:19.968620533Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "AJAX Libraries API",
+      "Add to Any",
+      "Backdrop",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Drupal",
+      "Financial Industry Regulatory Authority",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Tag Manager",
+      "Nginx",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "heartlandpromisefoundation.org",
+    "title": "Under Construction | Heartland Promise Foundation",
+    "business_name": "",
+    "country": "",
+    "seo_score": 25,
+    "tech_spend": 3156,
+    "crawled_at": "2026-06-26T17:17:19.968452979Z",
+    "technologies": [
+      "Apache",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Drupal",
+      "GZIP Module",
+      "IcoMoon",
+      "PHP",
+      "UTF-8",
+      "Wangsu"
+    ]
+  },
+  {
     "domain": "elisabethalbers.com",
     "title": "ELA Container | For any application and industry",
     "business_name": "",
@@ -5819,26 +5871,6 @@
       "UTF-8",
       "University or College",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "heartlandpromisefoundation.org",
-    "title": "Under Construction | Heartland Promise Foundation",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 3156,
-    "crawled_at": "2026-06-10T06:14:07.569060192Z",
-    "technologies": [
-      "Apache",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Drupal",
-      "GZIP Module",
-      "IcoMoon",
-      "PHP",
-      "UTF-8",
-      "Wangsu"
     ]
   },
   {
@@ -14520,44 +14552,6 @@
       "Parallels Plesk Panel",
       "Twitter Ads",
       "UTF-8",
-      "YouTube",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "mobotix-intelligent.com",
-    "title": "High-Resolution German IP Security Cameras",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 35508,
-    "crawled_at": "2026-06-06T04:07:24.157063091Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Corporate Governance and Regulatory Compliance",
-      "Drupal",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Nginx",
-      "QUIC",
-      "Share Link",
-      "Sharebutton Fonts",
-      "Twitter Ads",
-      "Twitter CDN",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
       "YouTube",
       "jQuery"
     ]
