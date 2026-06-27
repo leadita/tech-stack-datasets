@@ -1,12 +1,12 @@
 [
   {
-    "domain": "matthewbunkerphoto.com",
-    "title": "Matt Bunker Photography",
+    "domain": "curiousfellowphotos.com",
+    "title": "Curious Fellow Photography",
     "business_name": "",
     "country": "",
     "seo_score": 42,
     "tech_spend": 23286,
-    "crawled_at": "2026-06-20T16:29:19.97484298Z",
+    "crawled_at": "2026-06-26T13:50:19.967892529Z",
     "technologies": [
       "AB Tasty",
       "Amazon",
@@ -18,12 +18,12 @@
       "Fireblade",
       "GZIP Module",
       "Help.com",
-      "Instagram Follow Button",
       "Nginx",
       "Ntent",
       "QUIC",
       "SmartyStreets",
-      "UTF-8"
+      "UTF-8",
+      "eLand"
     ]
   },
   {
