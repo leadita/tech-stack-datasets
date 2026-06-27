@@ -1,5 +1,34 @@
 [
   {
+    "domain": "tofo.online",
+    "title": "ToFo - Ad Discovery Platform",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 55,
+    "tech_spend": "",
+    "crawled_at": "2026-06-27T00:32:19.967881062Z",
+    "technologies": [
+      "Bulma",
+      "ElementUI",
+      "Google Analytics",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Microsoft Clarity",
+      "OneSignal",
+      "PHP",
+      "QUIC",
+      "Tawk",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "aardwolfsecurity.com",
     "title": "Aardwolf Security - Security Penetration Testing Services | Penetration Testing Quote",
     "business_name": "",
@@ -1421,35 +1450,6 @@
       "WordPress",
       "WordPress Multisite",
       "WordPress Related Posts"
-    ]
-  },
-  {
-    "domain": "tofo.online",
-    "title": "ToFo - Ad Discovery Platform",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 45,
-    "tech_spend": "",
-    "crawled_at": "2026-06-10T17:03:26.033966122Z",
-    "technologies": [
-      "Bulma",
-      "ElementUI",
-      "Google Analytics",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Microsoft Clarity",
-      "OneSignal",
-      "PHP",
-      "QUIC",
-      "Tawk",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "jQuery",
-      "jsDelivr"
     ]
   },
   {
