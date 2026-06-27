@@ -1,5 +1,32 @@
 [
   {
+    "domain": "thepsychiatryreports.com",
+    "title": "Home Page | CARLAT PUBLISHING",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 4900,
+    "crawled_at": "2026-06-27T03:29:19.970945431Z",
+    "technologies": [
+      "Active Campaign",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Content Delivery Network",
+      "ElementUI",
+      "Fastly",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Nginx",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "puretecwater.com",
     "title": "Puretec Industrial Water | Industrial and Commercial Water Treatment Systems",
     "business_name": "Puretec Industrial Water",
@@ -21839,48 +21866,6 @@
       "YouTube",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "trapelohealth.com",
-    "title": "Precision Medicine Support by Trapelo Health | United States",
-    "business_name": "Trapelo",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 122250,
-    "crawled_at": "2026-05-20T06:38:19.983573596Z",
-    "technologies": [
-      "Active Campaign",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "LinkedIn Insights",
-      "LinkedIn Pixel",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "On The Map",
-      "POWr",
-      "PWA",
-      "QUIC",
-      "SMC",
-      "Sentry",
-      "SiteW",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "YouTube",
-      "mlcom"
     ]
   }
 ]
