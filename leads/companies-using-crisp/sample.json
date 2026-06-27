@@ -1,5 +1,25 @@
 [
   {
+    "domain": "easyfabric.com",
+    "title": "EasyFabric - Documentation - Ship Microsoft Fabric in days, not months | EasyFabric - Documentation",
+    "business_name": "EasyFabric",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 6240,
+    "crawled_at": "2026-06-26T16:53:19.969837668Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Crisp",
+      "Docusaurus",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft 365",
+      "NFOrce Internet",
+      "Perl"
+    ]
+  },
+  {
     "domain": "hubetcom.store",
     "title": "Stbemu IPTV",
     "business_name": "",
@@ -18707,55 +18727,6 @@
       "Tailwind CSS",
       "UTF-8",
       "University or College"
-    ]
-  },
-  {
-    "domain": "fuadalazad.com",
-    "title": "Fuad Al Azad - Write, Editor, and Translator",
-    "business_name": "",
-    "country": "BGD",
-    "seo_score": 82,
-    "tech_spend": 39145,
-    "crawled_at": "2026-05-21T20:38:19.970009321Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apache",
-      "Crisp",
-      "Elementor",
-      "EmbedPress",
-      "Express",
-      "Fireblade",
-      "Funding Choices",
-      "Google Adsense",
-      "Google Analytics",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google My Business",
-      "Google Reseller",
-      "Google Tag Manager",
-      "Gravity",
-      "Gravity Forms",
-      "HappyAddons",
-      "Hello Elementor",
-      "Hive.co",
-      "Kitco",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "Site Kit",
-      "Sitelinks Search Box",
-      "Theme In WP",
-      "To Top",
-      "Twitter Ads",
-      "UTF-8",
-      "Ultimate Blocks",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
