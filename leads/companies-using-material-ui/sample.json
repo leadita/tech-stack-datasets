@@ -1,5 +1,54 @@
 [
   {
+    "domain": "kirknewtonpharmacy.co.uk",
+    "title": "Kirknewton Pharmacy | NHS Prescriptions & Pharmacy Services",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 126,
+    "crawled_at": "2026-06-27T12:50:19.968861632Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Cloud",
+      "Material-UI",
+      "Next.js",
+      "Perl",
+      "Pleroma",
+      "QUIC",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "sinaai.ca",
+    "title": "SinaAI for healthcare providers",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 30479,
+    "crawled_at": "2026-06-27T09:53:19.968373261Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apture Linking Platform",
+      "CoreUI",
+      "Fireblade",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Material-UI",
+      "Next.js",
+      "Pico CSS",
+      "Pleroma",
+      "Thank You",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "themorbidlycuriousbookclub.com",
     "title": "TMCBC",
     "business_name": "",
@@ -4080,29 +4129,6 @@
       "UTF-8",
       "Vector Internet Services",
       "Visual Studio"
-    ]
-  },
-  {
-    "domain": "sinaai.ca",
-    "title": "SinaAI for healthcare providers",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 30479,
-    "crawled_at": "2026-06-11T06:34:28.953427538Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "CoreUI",
-      "Fireblade",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Material-UI",
-      "Next.js",
-      "Pico CSS",
-      "Pleroma",
-      "Thank You",
-      "UTF-8"
     ]
   },
   {
@@ -15653,30 +15679,6 @@
       "UTF-8",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "ful.io",
-    "title": "Find out what websites are built with - Ful.io",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 5180,
-    "crawled_at": "2026-06-06T00:15:17.548503046Z",
-    "technologies": [
-      "Azure Edge",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Material-UI",
-      "Microsoft Azure Verified CDN",
-      "Next.js",
-      "Nginx",
-      "Pleroma",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "Ubuntu",
-      "YouTube"
     ]
   }
 ]
