@@ -1,5 +1,56 @@
 [
   {
+    "domain": "ideavity.com",
+    "title": "Ideavity - Ideas to the power of creativity",
+    "business_name": "Ideavity",
+    "country": "PRT",
+    "seo_score": 72,
+    "tech_spend": 26280,
+    "crawled_at": "2026-06-27T12:56:19.968325664Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apache",
+      "Contact Form Plugin",
+      "CookieYes",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "HubSpot WordPress Plugin",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "PHP",
+      "PrestaShop",
+      "Sitelinks Search Box",
+      "Theme In WP",
+      "UTF-8",
+      "W3 Total Cache",
+      "WPML Multilingual",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "janda.biz.pl",
+    "title": "janda.biz.pl",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": "",
+    "crawled_at": "2026-06-27T07:32:19.971049693Z",
+    "technologies": [
+      "LiteSpeed",
+      "PrestaShop",
+      "QUIC",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "validate-addresses.com",
     "title": "Validate-Addresses.com | Home",
     "business_name": "",
@@ -78,21 +129,6 @@
       "UTF-8",
       "WhatsApp Sharing",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "labsi.pl",
-    "title": "labsi.pl",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": "",
-    "crawled_at": "2026-06-24T08:35:19.969250455Z",
-    "technologies": [
-      "LiteSpeed",
-      "PrestaShop",
-      "QUIC",
-      "WordPress"
     ]
   },
   {
@@ -15299,38 +15335,6 @@
       "YouTube",
       "ashop",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "akaze.fr",
-    "title": "Akaze - Metal Furniture and Metal Cabinets",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 7803,
-    "crawled_at": "2026-05-24T22:32:17.784586086Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Better Lead Generation Services",
-      "Elementor",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Material Design Icons",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Parallels Plesk Panel",
-      "PrestaShop",
-      "QUIC",
-      "Schema Plugin",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
