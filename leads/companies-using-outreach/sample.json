@@ -1,5 +1,35 @@
 [
   {
+    "domain": "adatshalompgh.org",
+    "title": "ADAT SHALOM SYNAGOGUE – A friendly community synagogue serving Fox Chapel and the North Hills of Pittsburgh.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 5772,
+    "crawled_at": "2026-06-27T12:05:19.968348444Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CookieConsent",
+      "EmbedPress",
+      "Event Tickets for Wordpress",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "Outreach Pro",
+      "PHP",
+      "Parallels Plesk Panel",
+      "QUIC",
+      "ShulCloud",
+      "StudioPress",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "flapostille.com",
     "title": "Florida Apostille",
     "business_name": "",
@@ -18747,47 +18777,6 @@
       "Zeffy",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "fullcircleyogakc.com",
-    "title": "Full Circle Yoga KC | Prenatal Yoga & Family Centered Yoga Classes",
-    "business_name": "Full Circle Yoga KC",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 6956,
-    "crawled_at": "2026-05-03T18:08:19.977165965Z",
-    "technologies": [
-      "Alternate Protocol",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Jetpack",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Oddle",
-      "Outreach Pro",
-      "PHP",
-      "Punchpass",
-      "Schema Plugin",
-      "ShareThis",
-      "Simple Banner for Wordpress",
-      "Simple Social Icons",
-      "StudioPress",
-      "Tailwind CSS",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "Yandex Hosting",
-      "jQuery"
     ]
   }
 ]
