@@ -1,5 +1,27 @@
 [
   {
+    "domain": "kndnk.org",
+    "title": "Kids Need Dads Need Kids | A Fathers' Rights & Child Advocacy Movement",
+    "business_name": "Kids Need Dads Need Kids Foundation",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 2940,
+    "crawled_at": "2026-06-26T21:14:19.968884525Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Donorbox",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping"
+    ]
+  },
+  {
     "domain": "kirklandsemployeefund.com",
     "title": "Kirkland's Employee Relief Fund",
     "business_name": "",
@@ -17845,39 +17867,6 @@
       "WPBakery",
       "WordPress",
       "WordPress Multisite",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "atxtechpb.com",
-    "title": "ATX Tech Prayer Breakfast",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 84009,
-    "crawled_at": "2026-05-20T21:26:19.992203584Z",
-    "technologies": [
-      "Aruba",
-      "Donorbox",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Forms",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
       "eLand"
     ]
   }
