@@ -1,12 +1,12 @@
 [
   {
-    "domain": "kunststoffdachfenster.de",
-    "title": "kunststoffdachfenster.de - Montage, Energieeffizient, Langlebig, Material, Kunststoff, Fenster, Kunststoffdachfenster",
+    "domain": "unwetterkatastrophe.de",
+    "title": "unwetterkatastrophe.de - Tsunami, Schneesturm, Hagel, Hitzewelle, Waldbrand, Überschwemmung, Unwetterkatastrophe",
     "business_name": "",
     "country": "",
     "seo_score": 45,
     "tech_spend": 199,
-    "crawled_at": "2026-06-27T09:50:19.968490223Z",
+    "crawled_at": "2026-06-28T08:17:19.971951224Z",
     "technologies": [
       "3 Products",
       "Font Awesome",
@@ -17,6 +17,30 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
+    ]
+  },
+  {
+    "domain": "unilinked.store",
+    "title": "Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 177,
+    "crawled_at": "2026-06-27T19:08:19.970799257Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Express",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Perl",
+      "Taboola Direct",
+      "Thank You",
+      "University or College",
+      "Unsplash",
+      "YouTube",
+      "Zyro"
     ]
   },
   {
