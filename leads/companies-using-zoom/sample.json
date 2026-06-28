@@ -1,5 +1,26 @@
 [
   {
+    "domain": "prosperityrhino.online",
+    "title": "Prosperity Rhino | Strategic Systems Support for Small Business",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 488,
+    "crawled_at": "2026-06-27T16:20:19.969401459Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Netlify",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Zoom Video Conferencing",
+      "eLand"
+    ]
+  },
+  {
     "domain": "simpsongcc.com",
     "title": "Steve Simpson, Glendale College Computer Instructor | Designed For My Students, Friends and Family!",
     "business_name": "",
@@ -17501,38 +17522,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "Zoom Video Conferencing",
       "eLand"
-    ]
-  },
-  {
-    "domain": "hla.church",
-    "title": "Holland Landing – Seventh-day Adventist Church",
-    "business_name": "Holland Landing ",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 1196,
-    "crawled_at": "2026-06-03T15:17:19.973168468Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DAV",
-      "EmbedPress",
-      "GDPR Cookie Compliance",
-      "GZIP Module",
-      "Google My Business",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Parallels Plesk Panel",
-      "Tailwind CSS",
-      "The Events Calendar",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "Zoom Video Conferencing",
-      "jQuery"
     ]
   }
 ]

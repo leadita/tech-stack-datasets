@@ -1,5 +1,40 @@
 [
   {
+    "domain": "mysuptask.com",
+    "title": "Slack Ticketing System - Help Desk for Slack | Suptask",
+    "business_name": "Suptask",
+    "country": "SWE",
+    "seo_score": 77,
+    "tech_spend": 6516,
+    "crawled_at": "2026-06-27T19:02:19.97458835Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Animate It",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "HelpCrunch",
+      "IcoMoon",
+      "Medium",
+      "Microdata for Google Shopping",
+      "Plausible Analytics",
+      "Slack",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "WF Cookie Consent",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "mariaesquivelor.com",
     "title": "Portfolio | Maria Camila Esquivel",
     "business_name": "",
@@ -19511,28 +19546,6 @@
       "University or College",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "codingassets.co.uk",
-    "title": "Coding Assets Ltd",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 75,
-    "tech_spend": 6059,
-    "crawled_at": "2026-05-17T06:55:43.169725915Z",
-    "technologies": [
-      "Apache",
-      "BootstrapMade",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microsoft Teams",
-      "OpenSSL",
-      "Slack",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "Unix"
     ]
   }
 ]

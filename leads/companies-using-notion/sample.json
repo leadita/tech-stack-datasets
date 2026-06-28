@@ -1,5 +1,29 @@
 [
   {
+    "domain": "ed-tex.in",
+    "title": "EdTeX Technologies – AI-powered tools for the legal, capital markets, and education sectors",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 647,
+    "crawled_at": "2026-06-28T07:47:19.968512028Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Automattic",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "Nginx",
+      "Notion",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats"
+    ]
+  },
+  {
     "domain": "ae-works.co.uk",
     "title": "AE WORKS - Alex Eisenberg | Enhance Collaboration Today",
     "business_name": "",
@@ -15816,39 +15840,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "rinastokes.com",
-    "title": "Freelance & Live2d Model Artist and Stream Assets: Overlays & Emotes | Lahtistar",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 26296,
-    "crawled_at": "2026-05-11T13:59:20.007992328Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Notion",
-      "PWA",
-      "QUIC",
-      "SMC",
-      "Sentry",
-      "SiteW",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "mlcom"
     ]
   }
 ]
