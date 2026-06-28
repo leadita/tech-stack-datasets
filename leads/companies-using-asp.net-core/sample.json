@@ -1,5 +1,60 @@
 [
   {
+    "domain": "ingrid.fyi",
+    "title": "Ingrid — Indian Tech Hiring, Decoded",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 12442,
+    "crawled_at": "2026-06-28T08:17:19.971539764Z",
+    "technologies": [
+      "ASP.NET Core",
+      "ASP.NET MVC",
+      "Amazon",
+      "Amazon API Gateway",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "Ember.js",
+      "Express",
+      "GZIP Module",
+      "Next.js",
+      "Oracle Cloud",
+      "PagerDuty",
+      "Python",
+      "Subversion",
+      "Tailwind CSS",
+      "Unix",
+      "Vector Internet Services",
+      "Visual Studio"
+    ]
+  },
+  {
+    "domain": "storyengine.gg",
+    "title": "StoryEngine — A live narrative engine",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 285,
+    "crawled_at": "2026-06-27T12:26:19.973438766Z",
+    "technologies": [
+      "ASP.NET Core",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "Express",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon"
+    ]
+  },
+  {
     "domain": "devdotnet.ru",
     "title": "Павел Шамсимухаметов — C#/.NET Developer",
     "business_name": "",
@@ -15793,51 +15848,6 @@
       "UTF-8",
       "Visual Studio",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "engegypt.com",
-    "title": "EngEgypt - Digital Transformation & Software Solutions",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 37167,
-    "crawled_at": "2026-05-29T13:50:37.246941931Z",
-    "technologies": [
-      "ASP.NET Core",
-      "CDN JS",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Oracle Cloud",
-      "Python",
-      "QUIC",
-      "Salesforce",
-      "Salesforce Experience Cloud",
-      "Salesforce Hosted",
-      "Unsplash",
-      "Visual Studio"
-    ]
-  },
-  {
-    "domain": "frogwatch.net",
-    "title": "FrogWatch: Southwest Florida Amphibian Monitoring Network",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-05-29T12:30:22.55765501Z",
-    "technologies": [
-      "ASP.NET Core",
-      "Apache",
-      "DAV",
-      "GZIP Module",
-      "ISO/IEC 8859"
     ]
   }
 ]
