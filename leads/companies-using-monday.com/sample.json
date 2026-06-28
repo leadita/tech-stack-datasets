@@ -1,5 +1,36 @@
 [
   {
+    "domain": "musicalmonday.com",
+    "title": "Musical Monday | Musical Comedy, Live and On Tour",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 4360,
+    "crawled_at": "2026-06-27T21:02:19.969804113Z",
+    "technologies": [
+      "Canva Websites",
+      "Content Delivery Network",
+      "Etix",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "The Deck",
+      "TicketWeb",
+      "UTF-8",
+      "Vercel",
+      "Way",
+      "YouTube",
+      "monday.com",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "poweredbybevel.com",
     "title": "Employer Partnership-Get Started",
     "business_name": "",
@@ -18517,42 +18548,6 @@
       "YouTube",
       "eLand",
       "monday.com"
-    ]
-  },
-  {
-    "domain": "evergauzy.co",
-    "title": "Ever Gauzy - ERP, CRM, HRM & Project Management Open-Source",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 7879,
-    "crawled_at": "2026-05-18T03:38:19.970317161Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "ArvanCloud",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "FreeBSD",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Iubenda",
-      "Next.js",
-      "QUIC",
-      "Radix UI",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "Vercel",
-      "jsDelivr",
-      "monday.com",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   }
 ]
