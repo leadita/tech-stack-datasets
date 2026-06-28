@@ -1,5 +1,37 @@
 [
   {
+    "domain": "groundedfacilitation.com",
+    "title": "Home - Grounded Facilitation",
+    "business_name": "be smart communications",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 17951,
+    "crawled_at": "2026-06-27T20:14:19.968785403Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Autoptimize",
+      "CleanTalk Spam Protect",
+      "ConvertKit for Wordpress",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "QUIC",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "horsebarbers.com",
     "title": "Home - The Horse Barber",
     "business_name": "",
@@ -20679,44 +20711,6 @@
       "eLand",
       "hCaptcha",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "lemongrasscooking.com",
-    "title": "Simple & Fresh Vietnamese Cooking for Everyday Living - Lemongrass Cooking",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 960,
-    "crawled_at": "2026-05-22T06:38:19.979892826Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "ConvertKit for Wordpress",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Adsense",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google My Business",
-      "Google Reseller",
-      "Google Tag Manager",
-      "Jetpack",
-      "Kadence WP",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Theme In WP",
-      "UTF-8",
-      "W3 Total Cache",
-      "WP Recipe Maker",
-      "WordPress",
-      "WordPress Multisite"
     ]
   }
 ]

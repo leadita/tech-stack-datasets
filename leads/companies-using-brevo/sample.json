@@ -1,5 +1,45 @@
 [
   {
+    "domain": "cooperconnect.co",
+    "title": "Home - Cooper Connect",
+    "business_name": "Cooper Connect",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 19529,
+    "crawled_at": "2026-06-28T13:02:19.968046096Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alibaba Cloud CDN",
+      "Alternate Protocol",
+      "Brevo",
+      "Elementor",
+      "EmbedPress",
+      "Formidable Pro Form",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Hello Elementor",
+      "Instagram Follow Button",
+      "JetElements",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PHP",
+      "Pico CSS",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Related Posts",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "diningoutpassbook.com",
     "title": "Denver DiningOut Passbook | 2-for-1 Entree + Drink Deals",
     "business_name": "DiningOut Passbook",
@@ -20616,33 +20656,6 @@
       "UTF-8",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "happysingingkids.com",
-    "title": "Delightfully different and funny tunes you’ll love to sing!",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 4129,
-    "crawled_at": "2026-05-23T20:17:51.114527122Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Amazon Widgets",
-      "Brevo",
-      "CloudFront",
-      "Content Delivery Network",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hotjar",
-      "Instagram Follow Button",
-      "Next.js",
-      "Tailwind CSS",
-      "YouTube"
     ]
   }
 ]
