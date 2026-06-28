@@ -1,5 +1,32 @@
 [
   {
+    "domain": "alchemyvb.com",
+    "title": "Alchemy Massage & Aesthetics | Health & Beauty in Virginia Beach, VA",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 5090,
+    "crawled_at": "2026-06-28T06:29:19.968254339Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "Express",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Segment",
+      "Segment Consent Manager",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "ztailor.info",
     "title": "Best Online Suit & Tuxedo Rental for Men | Generation Tux",
     "business_name": "",
@@ -21601,39 +21628,6 @@
       "Yandex Hosting",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "toproofingaustin.com",
-    "title": "Top Roofing & Sheet Metal | Roofing Services in Kyle, TX",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 18220,
-    "crawled_at": "2026-05-22T01:40:16.901110028Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Amazon S3 CDN",
-      "Better Lead Generation Services",
-      "CloudFront",
-      "ElementUI",
-      "Financial Services Guide",
-      "Fireblade",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "QUIC",
-      "Segment",
-      "Segment Consent Manager",
-      "Site.pro",
-      "Storyblocks",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   }
 ]
