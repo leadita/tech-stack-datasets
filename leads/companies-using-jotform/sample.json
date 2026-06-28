@@ -1,5 +1,38 @@
 [
   {
+    "domain": "pckrm.ca",
+    "title": "PCKRM Estate Solutions – From occupied or estate condition to market‑ready — discreetly, efficiently, and with full accountability.",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 65,
+    "tech_spend": 16136,
+    "crawled_at": "2026-06-28T09:50:19.972732898Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Elementor",
+      "EmbedPress",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "JotForm",
+      "Line2",
+      "LiteSpeed",
+      "Menu Icons by ThemeIsle",
+      "Nectar Slide Plugin",
+      "PHP",
+      "Popup Maker for Wordpress",
+      "QUIC",
+      "Salient",
+      "Theme In WP",
+      "UTF-8",
+      "WPBakery",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "heefnerlaw.com",
     "title": "Minneapolis Criminal Defense Lawyer | Carson J. Heefner",
     "business_name": "Carson J Heefner - DUI & Criminal Defense",
@@ -19654,34 +19687,6 @@
       "WordPress Multisite",
       "WordPress Related Posts",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "laundryxpressfw.com",
-    "title": "Best Laundromat in Fort Wayne, IN | Laundry Xpress",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 74598,
-    "crawled_at": "2026-05-17T04:32:20.010124011Z",
-    "technologies": [
-      "Bunny Fonts",
-      "Content Delivery Network",
-      "DAV",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "JotForm",
-      "Nginx",
-      "No-Q",
-      "RM Education",
-      "SMC",
-      "Subversion",
-      "UTF-8",
-      "reCAPTCHA"
     ]
   }
 ]

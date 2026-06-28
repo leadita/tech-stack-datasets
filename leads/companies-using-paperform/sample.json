@@ -1,5 +1,29 @@
 [
   {
+    "domain": "dotbuassistance.us",
+    "title": "US DOT Biennial Update Portal | DOT Updates | Federal Applications Processor - Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 5608,
+    "crawled_at": "2026-06-27T20:08:19.969678509Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Apache",
+      "ChatBot",
+      "Cognito Forms",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "LiveChat",
+      "LiveChat Monitoring",
+      "Paperform",
+      "QUIC",
+      "Rocket Chat"
+    ]
+  },
+  {
     "domain": "findabundance.com",
     "title": "Abundance Wealth Advisors | Monroe, GA",
     "business_name": "",
@@ -36,30 +60,6 @@
       "University or College",
       "Vimeo",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "filedotbu.us",
-    "title": "US DOT Biennial Update Portal | DOT Updates | Federal Applications Processor - Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 5608,
-    "crawled_at": "2026-06-26T16:59:19.969521992Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Apache",
-      "ChatBot",
-      "Cognito Forms",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "LiveChat",
-      "LiveChat Monitoring",
-      "Paperform",
-      "QUIC",
-      "Rocket Chat"
     ]
   },
   {
