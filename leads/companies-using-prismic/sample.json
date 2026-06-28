@@ -1,5 +1,25 @@
 [
   {
+    "domain": "squaremind.com",
+    "title": "Swan | Redefined skin exams | SquareMind",
+    "business_name": "SquareMind",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-06-28T08:59:19.96854933Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Microdata for Google Shopping",
+      "Nuxt.js",
+      "Prismic",
+      "QUIC",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "joinmidi.com",
     "title": "Meet Midi: Insurance-Covered Care from Women's Health Specialists | Midi Health",
     "business_name": "",
@@ -13670,35 +13690,6 @@
       "University or College",
       "Vercel",
       "eLand",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "pixelfields.co.uk",
-    "title": "Web Designers: Pixel Fields Agency",
-    "business_name": "Pixel Fields",
-    "country": "NZL",
-    "seo_score": 82,
-    "tech_spend": 780,
-    "crawled_at": "2026-04-11T07:01:30.95257051Z",
-    "technologies": [
-      "Amazon S3 CDN",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "InitiativeS",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "Prismic",
-      "QUIC",
-      "Storyblocks",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
       "shadcn ui"
     ]
   }

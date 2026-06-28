@@ -1,5 +1,65 @@
 [
   {
+    "domain": "brendankane.com",
+    "title": "Brendan J Kane",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 1550,
+    "crawled_at": "2026-06-28T05:08:19.973514443Z",
+    "technologies": [
+      "Amazon Widgets",
+      "Apture Linking Platform",
+      "Astro",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Idaq",
+      "NFOrce Internet",
+      "Netlify",
+      "Pico CSS",
+      "Sanity",
+      "Subversion",
+      "Thank You",
+      "UTF-8",
+      "University or College",
+      "Yahoo Finance Widget",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "integratedbrands.org",
+    "title": "Logo Maker | Create a free logo in minutes",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 11876,
+    "crawled_at": "2026-06-28T02:44:19.969135975Z",
+    "technologies": [
+      "3 Products",
+      "AI Log",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Idaq",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pico CSS",
+      "QUIC",
+      "ReviewsOnMyWebsite",
+      "Sanity",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "inkapallet.com",
     "title": "Pallet | AI Logistics Workforce",
     "business_name": "Pallet.com",
@@ -13539,51 +13599,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "bachnervessels.com",
-    "title": "Bachner Vessels",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 67,
-    "tech_spend": 5076,
-    "crawled_at": "2026-05-31T19:39:20.188920435Z",
-    "technologies": [
-      "3 Products",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Idaq",
-      "Next.js",
-      "Pleroma",
-      "Sanity",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "jaipurpackages.in",
-    "title": "Jaipur Tour Packages - Discover the Pink City | Travel Experience",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 70,
-    "tech_spend": 4828,
-    "crawled_at": "2026-05-31T18:56:14.24284646Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "BunnyCDN",
-      "BunnyCDN General",
-      "Google Cloud DNS",
-      "Google Font API",
-      "QUIC",
-      "Sanity",
-      "Tailwind CSS",
-      "Thank You",
-      "WordPress",
-      "jsDelivr"
     ]
   }
 ]
