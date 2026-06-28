@@ -1,5 +1,38 @@
 [
   {
+    "domain": "pop-sf.com",
+    "title": "POP! Pilates on Page – Responsive WordPress Gym Fitness Theme",
+    "business_name": "",
+    "country": "VEN",
+    "seo_score": 77,
+    "tech_spend": 10708,
+    "crawled_at": "2026-06-28T04:20:19.968725661Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Automattic",
+      "Cisco/Arrowpoint Content Service Switch",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "HealCode",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "MindBody",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "WPBakery",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "learnfastpitchsoftball.com",
     "title": "Pinkman Academy | Northern Virginia's premier baseball and softball instructional facility",
     "business_name": "",
@@ -18255,42 +18288,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "pranacenter.com",
-    "title": "Studio | Children | Arts | Yoga Classes | Prana Center",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 92,
-    "tech_spend": 48321,
-    "crawled_at": "2026-05-18T01:24:41.580411048Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Beaver Builder Lite",
-      "Content Delivery Network",
-      "Contento",
-      "EmbedPress",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "MindBody",
-      "PHP",
-      "Pagekit",
-      "Schema Plugin",
-      "SiteW",
-      "Sucuri Cloudproxy",
-      "Theme In WP",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
