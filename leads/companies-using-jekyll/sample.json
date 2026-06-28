@@ -1,5 +1,30 @@
 [
   {
+    "domain": "bufio.net",
+    "title": "Tyson Mote | Tyson is a software engineer from Portland, Oregon.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 129,
+    "crawled_at": "2026-06-28T06:53:19.968852947Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Jekyll",
+      "Microdata for Google Shopping"
+    ]
+  },
+  {
     "domain": "tripperist.com",
     "title": "Welcome to Tripperist",
     "business_name": "",
@@ -13957,29 +13982,6 @@
       "Schema Plugin",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "elisavanderplas.nl",
-    "title": "| E. v/d Plas, PhD. | Elisa van der Plas Ph.D | Senior Data & AI Leader",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 567,
-    "crawled_at": "2026-05-31T11:25:32.989725873Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Bing Cashback",
-      "Bulma",
-      "Font Awesome",
-      "GitHub Hosting",
-      "Hugo",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Jekyll",
-      "UTF-8",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
