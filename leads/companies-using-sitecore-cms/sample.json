@@ -1,5 +1,32 @@
 [
   {
+    "domain": "monroetpl.org",
+    "title": "Monroe Township Public Library",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 65,
+    "tech_spend": 150188,
+    "crawled_at": "2026-06-28T09:20:19.970319001Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Alternate Protocol",
+      "Apache",
+      "EmbedPress",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "PHP",
+      "Sitecore CMS",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "get-spinxdigital.com",
     "title": "Los Angeles Web Design Company | SPINX Digital Agency",
     "business_name": "SPINX Digital",
@@ -17331,35 +17358,6 @@
       "bbPress",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "staffdefense.com",
-    "title": "Cincinnati Insurance Companies | Everything Insurance Should Be",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 341200,
-    "crawled_at": "2026-05-22T00:27:13.278654517Z",
-    "technologies": [
-      "App Store",
-      "Better Lead Generation Services",
-      "Content Delivery Network",
-      "Fireblade",
-      "GZIP Module",
-      "Google My Business",
-      "Google Play",
-      "Insider",
-      "Instagram Follow Button",
-      "Next.js",
-      "OneTrust Domain Verification",
-      "Pleroma",
-      "QUIC",
-      "SMC",
-      "Sitecore CMS",
-      "Taleo",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
