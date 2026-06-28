@@ -1,5 +1,31 @@
 [
   {
+    "domain": "whitehorseplumbing.com",
+    "title": "Plumbing Repairs | Albuquerque, NM | Whitehorse Plumbing",
+    "business_name": "Whitehorse Plumbing",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 89148,
+    "crawled_at": "2026-06-27T15:23:19.968280961Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "Bing Cashback",
+      "CloudFront",
+      "Duda",
+      "GZIP Module",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Smooch",
+      "Tailwind CSS",
+      "Tealium",
+      "Thryv",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "rickscranememphis.net",
     "title": "Crane Rental | Olive, MS | Rick's Crane Service, Inc.",
     "business_name": "",
@@ -15147,32 +15173,6 @@
       "Smooch",
       "Tailwind CSS",
       "Tealium",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "blackcotexas.com",
-    "title": "Asphalt Contractors | Gardendale, TX | BlackCo",
-    "business_name": "",
-    "country": "UKR",
-    "seo_score": 77,
-    "tech_spend": 101748,
-    "crawled_at": "2026-05-25T20:57:23.134758439Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Duda",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Nginx",
-      "Perl",
-      "Smooch",
-      "Styled Components",
-      "Tailwind CSS",
-      "Tealium",
-      "Thryv",
       "UTF-8"
     ]
   }
