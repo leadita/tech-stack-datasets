@@ -1,5 +1,23 @@
 [
   {
+    "domain": "qbbusiness.net",
+    "title": "QB Business Solutions | Medical Billing & Revenue Cycle Management",
+    "business_name": "",
+    "country": "PAK",
+    "seo_score": 62,
+    "tech_spend": 17940,
+    "crawled_at": "2026-06-28T00:59:19.969008631Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Heroku",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "hts.lv",
     "title": "HTS | HTS",
     "business_name": "",
@@ -18339,40 +18357,6 @@
       "Storyblocks",
       "Swell Rewards",
       "Tidio",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "bycalvina.us",
-    "title": "Authentic Medieval Viking Clothing – ByCalvina – bycalvina",
-    "business_name": "bycalvina",
-    "country": "TUR",
-    "seo_score": 82,
-    "tech_spend": 54344,
-    "crawled_at": "2026-06-08T13:54:36.377167143Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon Widgets",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Etsy",
-      "Express",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Heroku",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SMC",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "To Top",
-      "Twitter Ads",
       "UTF-8",
       "hCaptcha",
       "reCAPTCHA"
