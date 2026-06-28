@@ -1,5 +1,43 @@
 [
   {
+    "domain": "wealth-advocates.com",
+    "title": "The Mickelson-Jenkins Team of financial advisors, serving the greater Logan, UT area.",
+    "business_name": "Mickelson-Jenkins Team",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 18394,
+    "crawled_at": "2026-06-28T04:20:19.969149388Z",
+    "technologies": [
+      "Akamai Global Host",
+      "ArvanCloud",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Drupal",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "OneTrust Domain Verification",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "VWO Engage",
+      "Visual Website Optimizer",
+      "Wistia",
+      "Yellow Pages Canada",
+      "YouTube",
+      "jQuery",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "ergenetics.com",
     "title": "Your Expert Medical Practice Marketing Agency iHealthSpot",
     "business_name": "",
@@ -22034,35 +22072,6 @@
       "YouTube",
       "ZoomInfo",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "havillauniversity.edu.ng",
-    "title": "Havilla University | HUNI - Nde-Ikom, Cross River State",
-    "business_name": "",
-    "country": "NGA",
-    "seo_score": 70,
-    "tech_spend": 13391,
-    "crawled_at": "2026-05-19T22:13:58.093474837Z",
-    "technologies": [
-      "Backdrop",
-      "Coming Soon Page",
-      "Drupal",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "VWO Engage",
-      "Visual Website Optimizer",
-      "YouTube"
     ]
   }
 ]
