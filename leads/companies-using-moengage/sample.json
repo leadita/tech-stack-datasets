@@ -1,5 +1,35 @@
 [
   {
+    "domain": "bosonclasses.com",
+    "title": "Boson Classes",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 12102,
+    "crawled_at": "2026-06-28T03:38:19.968425394Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Angular",
+      "Engage",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "MoEngage",
+      "Nginx",
+      "PWA",
+      "Perl",
+      "Pleroma",
+      "Sign In With Google",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "getcahoot.com",
     "title": "Cahoot : India’s most Trusted Mens Clothing Brand",
     "business_name": "Campus Sutra Retail Pvt Ltd",
@@ -16757,40 +16787,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "thirupthi.com",
-    "title": "Thirupthi",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 12102,
-    "crawled_at": "2026-05-05T19:38:20.004298497Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Angular",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Engage",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "MoEngage",
-      "Nginx",
-      "PWA",
-      "Perl",
-      "Pleroma",
-      "Sign In With Google",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
