@@ -1,5 +1,25 @@
 [
   {
+    "domain": "insightsco-op.com",
+    "title": "Moore Cooperative | AI-Driven Compensation Strategy",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-06-29T13:17:19.975001307Z",
+    "technologies": [
+      "Fontshare",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "aeroprep.eu",
     "title": "AeroPrep | Pass Your EASA PPL Theory Exams First Time",
     "business_name": "AeroPrep",
@@ -13245,28 +13265,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "kcterala.dev",
-    "title": "Hey",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 4840,
-    "crawled_at": "2026-05-11T18:07:50.211837094Z",
-    "technologies": [
-      "Astro",
-      "Content Delivery Network",
-      "Fastly",
-      "Fontshare",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
