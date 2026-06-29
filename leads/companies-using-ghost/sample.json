@@ -1,5 +1,31 @@
 [
   {
+    "domain": "axari.ai",
+    "title": "Axari AI | The AI Staff That Gets the Work Done",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 1360,
+    "crawled_at": "2026-06-29T07:35:19.969752508Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Calendly",
+      "Express",
+      "Ghost",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "osadolor.com",
     "title": "Osadolor Osayande",
     "business_name": "",
@@ -3022,32 +3048,6 @@
       "Microdata for Google Shopping",
       "OpenResty",
       "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "axari.ai",
-    "title": "Axari AI | The AI Staff That Gets the Work Done",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 1360,
-    "crawled_at": "2026-05-12T01:15:32.41159699Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "ArvanCloud",
-      "Calendly",
-      "Express",
-      "Ghost",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "UTF-8",
-      "YouTube",
       "jsDelivr"
     ]
   },

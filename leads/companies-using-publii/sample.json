@@ -1,5 +1,25 @@
 [
   {
+    "domain": "thirdorganism.com",
+    "title": "Home - Third Organism",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 49,
+    "crawled_at": "2026-06-29T04:14:19.968524911Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Google Analytics",
+      "Google Tag Manager",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "simonlassam.co.uk",
     "title": "Homepage - Think Write Design",
     "business_name": "",
