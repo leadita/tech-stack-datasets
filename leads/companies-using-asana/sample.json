@@ -1,5 +1,50 @@
 [
   {
+    "domain": "megadethfilm.com",
+    "title": "Megadeth: Behind The Mask",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 2295,
+    "crawled_at": "2026-06-29T15:38:19.969276134Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Apture Linking Platform",
+      "Asana",
+      "BLR",
+      "CloudFront",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "DAV",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "FormSubmit",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Reddit Conversion Tracking",
+      "Telegram",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "clowdy.co.za",
     "title": "Clowdy | Cloud Backup, Archive and Recovery Services",
     "business_name": "Clowdy",
@@ -20459,29 +20504,6 @@
       "Vercel",
       "Zoom Video Conferencing",
       "eLand"
-    ]
-  },
-  {
-    "domain": "focus247dental.com",
-    "title": "The Teledentists",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 251,
-    "crawled_at": "2026-02-28T08:04:21.262914928Z",
-    "technologies": [
-      "Angular",
-      "Apache",
-      "Apture Linking Platform",
-      "Asana",
-      "Bulma",
-      "CakePHP",
-      "GetResponse",
-      "Matomo Tag Manager",
-      "New Relic",
-      "Slack",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
