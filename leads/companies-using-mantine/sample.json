@@ -1,5 +1,45 @@
 [
   {
+    "domain": "excellentlivingmedcenter.com",
+    "title": "MoldCo | Virtual Care & Lab Testing for Mold Exposure",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 49264,
+    "crawled_at": "2026-06-29T09:32:19.968622188Z",
+    "technologies": [
+      "Amazon Cognito",
+      "Amazon WAF Blocked",
+      "Financial Services Guide",
+      "Freshworks Bot",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "LegitScript",
+      "Mantine",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Ntent",
+      "Perl",
+      "Pleroma",
+      "QUIC",
+      "RM Education",
+      "Stripe",
+      "Tailwind CSS",
+      "The Fresh",
+      "Typeform",
+      "UTF-8",
+      "Unsplash",
+      "YouTube",
+      "reCAPTCHA",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "berkeleyprep.ai",
     "title": "BerkeleyPrep - AI-Powered GRE Preparation",
     "business_name": "BerkeleyPrep",
@@ -13025,33 +13065,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "fdizone.ae",
-    "title": "FDIZONE",
-    "business_name": "FDI Zone",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 84,
-    "crawled_at": "2026-05-12T11:02:19.992957159Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Customer Reviews",
-      "Google Maps",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Mantine",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Nginx",
-      "QUIC",
-      "Sitelinks Search Box",
-      "UTF-8",
-      "Ubuntu",
-      "Unsplash"
     ]
   }
 ]
