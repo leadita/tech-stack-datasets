@@ -1,12 +1,12 @@
 [
   {
-    "domain": "curiousfellowphotos.com",
-    "title": "Curious Fellow Photography",
+    "domain": "ryanmoore.photography",
+    "title": "Ryan Moore",
     "business_name": "",
     "country": "",
-    "seo_score": 42,
+    "seo_score": 30,
     "tech_spend": 23286,
-    "crawled_at": "2026-06-26T13:50:19.967892529Z",
+    "crawled_at": "2026-06-28T22:29:19.969956232Z",
     "technologies": [
       "AB Tasty",
       "Amazon",
@@ -22,8 +22,7 @@
       "Ntent",
       "QUIC",
       "SmartyStreets",
-      "UTF-8",
-      "eLand"
+      "UTF-8"
     ]
   },
   {
