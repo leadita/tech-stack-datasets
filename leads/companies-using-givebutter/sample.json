@@ -1,5 +1,28 @@
 [
   {
+    "domain": "biodynamichollywood.com",
+    "title": "Moss Farm - Moss Farm",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 120,
+    "crawled_at": "2026-06-29T08:38:19.970315994Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Apture Linking Platform",
+      "Givebutter",
+      "Google Analytics",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Tailwind CSS",
+      "UTF-8",
+      "Unix",
+      "Way",
+      "Weebly",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "californiaclubhouse.org",
     "title": "Aspire House",
     "business_name": "",
@@ -17775,38 +17798,6 @@
       "Theme In WP",
       "To Top",
       "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "crystalchanelfl.com",
-    "title": "- EIN NUMBER: 39-4607128 ADDRESS: TAMPA, FL EMAIL: DONATE.PTH@GMAIL.COM",
-    "business_name": "EIN NUMBER: 39-4607128 ADDRESS: TAMPA, FL EMAIL: DONATE.PTH@GMAIL.COM",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 15282,
-    "crawled_at": "2026-05-30T04:16:13.567702859Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apache",
-      "Cloudflare",
-      "DAV",
-      "EmbedPress",
-      "GZIP Module",
-      "Givebutter",
-      "Instagram Follow Button",
-      "Jetpack",
-      "Microdata for Google Shopping",
-      "Perl",
-      "Twenty Twenty-Four",
-      "UTF-8",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
       "WordPress",
       "WordPress Multisite",
       "jQuery"
