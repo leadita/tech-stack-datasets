@@ -1,5 +1,34 @@
 [
   {
+    "domain": "collegiatebr.org",
+    "title": "Home - Collegiate Baton Rouge",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 18677,
+    "crawled_at": "2026-06-29T07:14:19.968535243Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Juicer DMP",
+      "Microdata for Google Shopping",
+      "PHP",
+      "QUIC",
+      "Ruby on Rails",
+      "Schema Plugin",
+      "UTF-8",
+      "University or College",
+      "UserWay",
+      "Weglot",
+      "WoWonder"
+    ]
+  },
+  {
     "domain": "laxlongpolesummit.com",
     "title": "Long Pole Summit Registration Page - Lax Goalie Rat",
     "business_name": "",
@@ -15225,33 +15254,6 @@
       "Simplero",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "orielle-taylor.co.uk",
-    "title": "Home - Orielle Taylor Coaching",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 1212,
-    "crawled_at": "2026-05-28T11:33:08.433510595Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Nginx",
-      "Pico CSS",
-      "QUIC",
-      "Ruby on Rails",
-      "Simplero",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]

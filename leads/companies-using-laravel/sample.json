@@ -1,5 +1,79 @@
 [
   {
+    "domain": "medmarine.com.tr",
+    "title": "Medmarine | Ana Sayfa",
+    "business_name": "",
+    "country": "NGA",
+    "seo_score": 65,
+    "tech_spend": 15178,
+    "crawled_at": "2026-06-29T01:41:19.971866546Z",
+    "technologies": [
+      "Apache",
+      "Coming Soon Page",
+      "ElementUI",
+      "Express",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Laravel Livewire",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "Tenso",
+      "UTF-8",
+      "Wangsu",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "jumpmathlms.com",
+    "title": "LMS",
+    "business_name": "",
+    "country": "",
+    "seo_score": 25,
+    "tech_spend": 3,
+    "crawled_at": "2026-06-28T21:44:19.968402438Z",
+    "technologies": [
+      "Contentful",
+      "ElementUI",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Laravel Livewire",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "tmsportspk.com",
+    "title": "TM Sports",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 159,
+    "crawled_at": "2026-06-28T14:32:19.973300767Z",
+    "technologies": [
+      "Bunny Fonts",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Icons8",
+      "Laravel Livewire",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "boutiquesoindesoi.com",
     "title": "Soin De Soi",
     "business_name": "",
@@ -13423,83 +13497,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "daprint.co.uk",
-    "title": "daprint",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 60,
-    "tech_spend": 3,
-    "crawled_at": "2026-05-19T07:44:20.005860428Z",
-    "technologies": [
-      "Apache",
-      "Bing Cashback",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Customer Reviews",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Laravel Livewire",
-      "PHP",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "grupbnk-corporate.com",
-    "title": "Grupbnk Corporate - Welcome",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 72,
-    "tech_spend": 16708,
-    "crawled_at": "2026-05-19T07:38:19.994220213Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ElementUI",
-      "Fireblade",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Laravel Livewire",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "varibase.ca",
-    "title": "Varibase - Index",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 62,
-    "tech_spend": 11573,
-    "crawled_at": "2026-05-19T06:38:20.004614577Z",
-    "technologies": [
-      "Apache",
-      "CookieYes",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "HubSpot Conversations",
-      "Hubspot",
-      "Laravel Livewire",
-      "License Buttons",
-      "Tailwind CSS",
-      "UTF-8",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   }
 ]
