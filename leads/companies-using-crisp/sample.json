@@ -1,5 +1,35 @@
 [
   {
+    "domain": "trady.com.au",
+    "title": "Trady | Websites and job management for Australian tradies",
+    "business_name": "Trady",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 16644,
+    "crawled_at": "2026-06-28T18:47:19.972528401Z",
+    "technologies": [
+      "Adult Content",
+      "Amazon WAF Blocked",
+      "Angular",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Crisp",
+      "Fireblade",
+      "Google Customer Reviews",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Pico CSS",
+      "Plausible Analytics",
+      "QUIC",
+      "UTF-8",
+      "Unsplash"
+    ]
+  },
+  {
     "domain": "easyfabric.com",
     "title": "EasyFabric - Documentation - Ship Microsoft Fabric in days, not months | EasyFabric - Documentation",
     "business_name": "EasyFabric",
@@ -18703,30 +18733,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "jcmcghee.website",
-    "title": "JC McGhee Online Resume",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 25180,
-    "crawled_at": "2026-05-21T20:59:53.525355537Z",
-    "technologies": [
-      "Citrix",
-      "Crisp",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "PHP",
-      "Perl",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]
