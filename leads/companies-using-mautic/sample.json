@@ -1,5 +1,38 @@
 [
   {
+    "domain": "fsonline.com",
+    "title": "Financial Services Online // Marketing Resources and Websites for Financial Professionals",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2708,
+    "crawled_at": "2026-06-29T11:08:19.969298248Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "Better Lead Generation Services",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Matomo Tag Manager",
+      "Mautic",
+      "PHP",
+      "PWA",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "thehidelounge.com",
     "title": "the Hide Café Bar | Ampthills Best Kept Secret.",
     "business_name": "",
@@ -19075,32 +19108,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "genius.africa",
-    "title": "Genius Dynamics - Efficiency & Growth | Enterprise Technology Solutions | Genius Dynamics",
-    "business_name": "Genius Dynamics",
-    "country": "KEN",
-    "seo_score": 77,
-    "tech_spend": 2440,
-    "crawled_at": "2026-03-04T12:16:57.755695107Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Mautic",
-      "Microdata for Google Shopping",
-      "Nuxt.js",
-      "Pico CSS",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
