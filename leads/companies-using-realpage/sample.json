@@ -1,5 +1,31 @@
 [
   {
+    "domain": "jeremyzdrill.com",
+    "title": "Jeremy Zdrill Real Estate Team : Royal LePage Coast Capital - Chatterton : Home",
+    "business_name": "",
+    "country": "SYC",
+    "seo_score": 70,
+    "tech_spend": 40916,
+    "crawled_at": "2026-06-29T19:05:19.968880059Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Pexels",
+      "QUIC",
+      "RealPage",
+      "Tailwind CSS",
+      "UTF-8",
+      "Unsplash",
+      "YouTube",
+      "myRealPage"
+    ]
+  },
+  {
     "domain": "lifeatbellavista.com",
     "title": "Home - Bella Vista - Gastonia, NC",
     "business_name": "Bella Vista",
@@ -15065,35 +15091,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "friendlyneighbourhoodrealtor.ca",
-    "title": "Kristina Simpson : Macdonald Realty Interior : Home",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 70,
-    "tech_spend": 61916,
-    "crawled_at": "2026-05-18T12:25:59.471161878Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "HMDG",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Pexels",
-      "QUIC",
-      "RealPage",
-      "Realtor Canada",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Unsplash",
-      "myRealPage"
     ]
   }
 ]
