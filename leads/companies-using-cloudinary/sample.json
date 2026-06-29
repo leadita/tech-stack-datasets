@@ -1,5 +1,32 @@
 [
   {
+    "domain": "minhlc.me",
+    "title": "MinhLC - Full-Stack Developer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 1254,
+    "crawled_at": "2026-06-28T22:05:19.969653363Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudinary",
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "cardtradingmarketplace.com",
     "title": "Card Trading Marketplace – Buy & sell with confidence and ease.",
     "business_name": "",
@@ -16269,38 +16296,6 @@
       "YouTube",
       "Zope",
       "eLand"
-    ]
-  },
-  {
-    "domain": "lifechurchwilm.com",
-    "title": "Life Church Wilmington",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 4640,
-    "crawled_at": "2026-06-07T18:08:19.969488523Z",
-    "technologies": [
-      "Amazon S3 CDN",
-      "App Store",
-      "Apple Auto Link Maker",
-      "Cloudinary",
-      "Content Delivery Network",
-      "Express",
-      "Financial Services Guide",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Storyblocks",
-      "Styled Components",
-      "Thank You",
-      "UTF-8",
-      "Vercel",
-      "YouTube",
-      "Zope"
     ]
   }
 ]
