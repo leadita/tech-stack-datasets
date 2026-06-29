@@ -1,5 +1,25 @@
 [
   {
+    "domain": "jumpmathlms.com",
+    "title": "LMS",
+    "business_name": "",
+    "country": "",
+    "seo_score": 25,
+    "tech_spend": 3,
+    "crawled_at": "2026-06-28T21:44:19.968402438Z",
+    "technologies": [
+      "Contentful",
+      "ElementUI",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Laravel Livewire",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "mcprintandstitch.com",
     "title": "Home - MC Print & Stitch | Custom Apparel & Embroidery Staten Island NY",
     "business_name": "",
@@ -23879,52 +23899,6 @@
       "Weglot",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "maven.promo",
-    "title": "Home - Maven Labs, LLC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 14531,
-    "crawled_at": "2026-04-29T19:53:19.981406933Z",
-    "technologies": [
-      "Angular",
-      "Angular Material",
-      "Apture Linking Platform",
-      "Azure Edge",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Contentful",
-      "Fireblade",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Tag Manager",
-      "Imgix",
-      "Instagram Follow Button",
-      "Line2",
-      "Microsoft 365",
-      "Microsoft Azure",
-      "QUIC",
-      "Report URI",
-      "Sitelinks Search Box",
-      "Twitter Ads",
-      "UTF-8",
-      "Vimeo",
-      "YouTube",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   }
 ]
