@@ -1,5 +1,46 @@
 [
   {
+    "domain": "suherman.net",
+    "title": "iman-suherman (Suherman) · GitHub",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 72,
+    "tech_spend": 179580,
+    "crawled_at": "2026-06-28T23:35:19.968700715Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon WAF Blocked",
+      "BlankSlate",
+      "Cloudflare",
+      "Cloudflare Workers",
+      "Fastly",
+      "Fireblade",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Related Website Sites",
+      "Microdata for Google Shopping",
+      "Microsoft Azure",
+      "Microsoft Azure Blob Storage",
+      "Nginx",
+      "Ntent",
+      "PWA",
+      "Perl",
+      "Python",
+      "QUIC",
+      "RawGit",
+      "Schema Plugin",
+      "Smart App Banner",
+      "Storyblocks",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "commercetools",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "mtoohey.com",
     "title": "mtoohey",
     "business_name": "",
@@ -14554,30 +14595,6 @@
       "UTF-8",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "alkhafaji.dev",
-    "title": "Abdullah Al Khafaji — Developer",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 70,
-    "tech_spend": 7740,
-    "crawled_at": "2026-04-20T07:29:19.977281533Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "UTF-8",
-      "Vector Internet Services",
-      "WebAssembly"
     ]
   }
 ]
