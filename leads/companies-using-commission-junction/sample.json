@@ -1,5 +1,34 @@
 [
   {
+    "domain": "trendmicro.nagoya",
+    "title": "Trend Micro (US) | Global Enterprise AI Cybersecurity Platform",
+    "business_name": "Trend Micro - United States (US)",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 98458,
+    "crawled_at": "2026-06-29T07:20:19.967682609Z",
+    "technologies": [
+      "AI Log",
+      "Adult Content",
+      "Cludo",
+      "Commission Junction",
+      "Fireblade",
+      "GZIP Module",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Investor Relations",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "OneTrust Domain Verification",
+      "Tealium",
+      "UTF-8",
+      "YouTube",
+      "Zoom",
+      "Zoom Video Conferencing",
+      "arsys.es"
+    ]
+  },
+  {
     "domain": "removeyourccj.com",
     "title": "CCJ Removal Services | Removing CCJ in England and Wales",
     "business_name": "",

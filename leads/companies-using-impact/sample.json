@@ -1,5 +1,36 @@
 [
   {
+    "domain": "simplesattamatkh.com",
+    "title": "simplesattamatkh –",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 5161,
+    "crawled_at": "2026-06-29T01:44:19.968996133Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Bulma",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Express",
+      "Font Awesome",
+      "FreeCSSTemplates",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Impact",
+      "LiteSpeed",
+      "Newsup",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "Way",
+      "WordPress",
+      "WordPress Multisite",
+      "Worldz",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "twimpact.com",
     "title": "Transform with IMPACT - Boost your organisation's transformation",
     "business_name": "",
@@ -9770,35 +9801,6 @@
       "University or College",
       "Vector Internet Services",
       "eLand"
-    ]
-  },
-  {
-    "domain": "latar88o.com",
-    "title": "latar88o",
-    "business_name": "",
-    "country": "PAK",
-    "seo_score": 60,
-    "tech_spend": 2158,
-    "crawled_at": "2026-05-23T05:41:19.990116153Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Express",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Impact",
-      "LiteSpeed",
-      "Medium",
-      "PHP",
-      "RM Education",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   },
   {

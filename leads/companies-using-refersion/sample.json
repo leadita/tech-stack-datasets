@@ -1,5 +1,37 @@
 [
   {
+    "domain": "mtlnrk.com",
+    "title": "MetalMark - Golden Collectible Aurum",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 30344,
+    "crawled_at": "2026-06-28T23:26:19.969705735Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Baidu Cloud",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fireblade",
+      "Heroku",
+      "Instagram Follow Button",
+      "Klaviyo",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Refersion",
+      "Shopify",
+      "Shopify Collabs",
+      "Swell Rewards",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "Twitter Analytics",
+      "UTF-8",
+      "Yandex Hosting",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "vigorlabs.com",
     "title": "Best Health Supplements for Men | Men's Health Boost – Vigor Labs",
     "business_name": "Bioearth, LLC",
@@ -13952,35 +13984,6 @@
       "eLand",
       "hCaptcha",
       "jsDelivr",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "mtlmrk.com",
-    "title": "MetalMark | Collectible Golden Art on Aurums",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 12944,
-    "crawled_at": "2026-04-25T13:26:19.988796635Z",
-    "technologies": [
-      "Amazon",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Heroku",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Refersion",
-      "Shopify",
-      "Shopify Collabs",
-      "Swell Rewards",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "hCaptcha",
       "reCAPTCHA"
     ]
   },
