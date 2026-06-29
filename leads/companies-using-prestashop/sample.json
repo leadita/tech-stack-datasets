@@ -1,5 +1,20 @@
 [
   {
+    "domain": "lampyantydepresyjne.pl",
+    "title": "lampyantydepresyjne.pl",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": "",
+    "crawled_at": "2026-06-29T12:20:19.970180485Z",
+    "technologies": [
+      "LiteSpeed",
+      "PrestaShop",
+      "QUIC",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "saeenjineering.co.id",
     "title": "This Website is Under Construction",
     "business_name": "",
@@ -16,21 +31,6 @@
       "Twitter Ads",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "jjanus.pl",
-    "title": "jjanus.pl",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": "",
-    "crawled_at": "2026-06-27T20:59:19.968222703Z",
-    "technologies": [
-      "LiteSpeed",
-      "PrestaShop",
-      "QUIC",
-      "WordPress"
     ]
   },
   {
