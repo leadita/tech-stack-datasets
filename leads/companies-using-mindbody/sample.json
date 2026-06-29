@@ -1,5 +1,35 @@
 [
   {
+    "domain": "healthdeskai.com",
+    "title": "HealthdeskAI | #1 Mindbody CRM & AI Growth Agent for Fitness, Wellness & Beauty",
+    "business_name": "Healthdesk",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 9922,
+    "crawled_at": "2026-06-29T02:35:19.968643266Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "DAV",
+      "Font Awesome",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Lucky Orange",
+      "Microdata for Google Shopping",
+      "MindBody",
+      "NFOrce Internet",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "pop-sf.com",
     "title": "POP! Pilates on Page – Responsive WordPress Gym Fitness Theme",
     "business_name": "",
@@ -18252,42 +18282,6 @@
       "Vector Internet Services",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "boxcarfitness.com",
-    "title": "Corporate Wellness Center | Boxcar Fitness | Kinema Fitness | Chicago",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 92641,
-    "crawled_at": "2026-05-18T01:32:19.985028984Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "DAV",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "MindBody",
-      "NFOrce Internet",
-      "PWA",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "Sentry",
-      "SiteW",
-      "UTF-8",
-      "Vector Internet Services",
-      "WP Booking Calendar",
-      "Wix",
-      "Wix Media",
-      "mlcom"
     ]
   }
 ]
