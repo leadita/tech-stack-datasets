@@ -1,5 +1,36 @@
 [
   {
+    "domain": "spa-achensee.aja.de",
+    "title": "aja Fürstenhaus Achensee",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 95428,
+    "crawled_at": "2026-06-29T09:29:19.969238198Z",
+    "technologies": [
+      "Adyen",
+      "DoubleClick Bid Manager",
+      "Facebook Reseller",
+      "Fireblade",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nginx",
+      "Ogone",
+      "PayPal Adaptive Payments",
+      "Tealium",
+      "UTF-8",
+      "Zendesk Embeddables"
+    ]
+  },
+  {
     "domain": "aptaclub.com.au",
     "title": "Aptamil | Aptaclub I Feeding & Parenting | Baby Formula & Milk Drinks",
     "business_name": "",
@@ -4258,37 +4289,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "spa-achensee.aja.de",
-    "title": "aja Fürstenhaus Achensee",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 95428,
-    "crawled_at": "2026-03-23T22:04:24.84876605Z",
-    "technologies": [
-      "Adyen",
-      "DoubleClick Bid Manager",
-      "Facebook Reseller",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "Ogone",
-      "PayPal Adaptive Payments",
-      "Tealium",
-      "UTF-8",
-      "Zendesk Embeddables"
     ]
   },
   {
