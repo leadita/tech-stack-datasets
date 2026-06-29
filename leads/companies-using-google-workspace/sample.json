@@ -1,5 +1,39 @@
 [
   {
+    "domain": "subhamghosh.in",
+    "title": "Subham | Portfolio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 8361,
+    "crawled_at": "2026-06-28T23:47:19.96801458Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "ArvanCloud",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "ElementUI",
+      "Express",
+      "Fastly",
+      "Fireblade",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Workspace",
+      "Python",
+      "Vercel",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "speedlogistics.net",
     "title": "Speed Logistics — Heavy Freight Brokerage",
     "business_name": "",
@@ -16583,30 +16617,6 @@
       "Unsplash",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "svplabfurniture.com",
-    "title": "S V P LAB SYSTEMS",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 907,
-    "crawled_at": "2026-06-03T07:02:51.292981413Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Workspace",
-      "IcoMoon",
-      "Nginx",
-      "PHP",
-      "Slider Revolution",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
