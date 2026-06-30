@@ -1,5 +1,23 @@
 [
   {
+    "domain": "dls8.com",
+    "title": "GoEasy Interlink | 构易互联",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-06-30T05:32:19.969654381Z",
+    "technologies": [
+      "GZIP Module",
+      "Jekyll",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "Schema Plugin",
+      "Tachyons"
+    ]
+  },
+  {
     "domain": "bufio.net",
     "title": "Tyson Mote | Tyson is a software engineer from Portland, Oregon.",
     "business_name": "",
@@ -13957,31 +13975,6 @@
       "amCharts",
       "eLand",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "marcroberts.info",
-    "title": "Marc Roberts",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 60,
-    "crawled_at": "2026-05-31T11:35:06.542273899Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "DAV",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Jekyll",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Schema Plugin",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]

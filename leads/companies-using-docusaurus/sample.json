@@ -1,5 +1,26 @@
 [
   {
+    "domain": "making-sense.info",
+    "title": "Making Sense",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": "",
+    "crawled_at": "2026-06-30T14:08:19.968444612Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Debian",
+      "Docusaurus",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Mastodon",
+      "Perl"
+    ]
+  },
+  {
     "domain": "easyfabric.com",
     "title": "EasyFabric - Documentation - Ship Microsoft Fabric in days, not months | EasyFabric - Documentation",
     "business_name": "EasyFabric",
@@ -12791,24 +12812,6 @@
       "Tailwind CSS",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "biocentral.cloud",
-    "title": "Biocentral",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2026-02-23T12:57:06.232856371Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Docusaurus",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Perl",
-      "Tailwind CSS"
     ]
   }
 ]
