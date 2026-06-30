@@ -1,5 +1,31 @@
 [
   {
+    "domain": "joinstp.com",
+    "title": "Speak To Perform Voice Over Club",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 38077,
+    "crawled_at": "2026-06-29T19:11:19.969608712Z",
+    "technologies": [
+      "Amazon",
+      "Cloudflare",
+      "Fastly CDN",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "K2F",
+      "Kajabi",
+      "PHP",
+      "UTF-8",
+      "Wistia",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "thegrowthauthority.agency",
     "title": "Darlene M. Ziebell - Business Turnaround Strategist",
     "business_name": "Darlene Ziebell Strategy Group",
@@ -18114,44 +18140,6 @@
       "WordPress Multisite",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "koalityteam.com",
-    "title": "Welcome to the Koality Life - Coaching, Lifestyle & more | Koality Team",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 23632,
-    "crawled_at": "2026-05-07T17:58:09.839665772Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apache",
-      "Borlabs Cookie",
-      "Calendly",
-      "Elementor",
-      "EmbedPress",
-      "Font Awesome",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Kajabi",
-      "Line2",
-      "Nectar Slide Plugin",
-      "PHP",
-      "Salient",
-      "Tailwind CSS",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vimeo",
-      "WPBakery",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
