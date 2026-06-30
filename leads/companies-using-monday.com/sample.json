@@ -1,5 +1,29 @@
 [
   {
+    "domain": "totalserenitycare.com",
+    "title": "Total Serenity – Peace and tranquility at home!",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 3638,
+    "crawled_at": "2026-06-30T02:53:19.968553524Z",
+    "technologies": [
+      "Alternate Protocol",
+      "EmbedPress",
+      "Font Awesome",
+      "IcoMoon",
+      "Investor Relations",
+      "Nginx",
+      "PHP",
+      "ThemeFusion",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery",
+      "monday.com"
+    ]
+  },
+  {
     "domain": "theboxingcruise.com",
     "title": "Sixthman - Festivals and Music Cruises at Sea - Live Loud",
     "business_name": "",
@@ -18514,39 +18538,6 @@
       "Vercel",
       "monday.com",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "fafsatracker.com",
-    "title": "MCAN Michigan FAFSA Tracker",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 21739,
-    "crawled_at": "2026-05-18T03:50:20.006813035Z",
-    "technologies": [
-      "Apache",
-      "Coming Soon Page",
-      "Constant Contact",
-      "DAV",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Harbor",
-      "Instagram Follow Button",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "University or College",
-      "YouTube",
-      "eLand",
-      "monday.com"
     ]
   }
 ]
