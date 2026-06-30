@@ -1,5 +1,42 @@
 [
   {
+    "domain": "georgiapowercommercialrebates.com",
+    "title": "Georgia Power Commercial Rebates",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 331592,
+    "crawled_at": "2026-06-30T02:26:19.972577507Z",
+    "technologies": [
+      "About Cookies",
+      "Adobe Analytics",
+      "Adobe Marketing Cloud",
+      "Apture Linking Platform",
+      "DemDex",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Custom Search",
+      "Google Font API",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Tag Manager",
+      "InitiativeS",
+      "LiveHelpNow",
+      "Microsoft Azure",
+      "NFOrce Internet",
+      "Perl",
+      "Qualtrics Site Intercept",
+      "The Trade Desk Direct",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "nexstareaf.org",
     "title": "Nexstar Employee Assistance Fund",
     "business_name": "",
@@ -22463,33 +22500,6 @@
       "Zendesk Embeddables",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "lautah.org",
-    "title": "Home | Leadership Academy of Utah",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 31308,
-    "crawled_at": "2026-05-10T00:11:55.051563568Z",
-    "technologies": [
-      "Amazon",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Hubspot Knowledge Base",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "QUIC",
-      "Qualtrics Site Intercept",
-      "UTF-8",
-      "University or College",
-      "Vimeo"
     ]
   }
 ]
