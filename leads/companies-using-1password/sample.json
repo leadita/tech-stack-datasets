@@ -1,5 +1,23 @@
 [
   {
+    "domain": "customers.evy.eu",
+    "title": "Customer Dashboard · Evy · Product protection you can trust",
+    "business_name": "",
+    "country": "",
+    "seo_score": 25,
+    "tech_spend": 7536,
+    "crawled_at": "2026-06-30T15:08:19.968696958Z",
+    "technologies": [
+      "1Password",
+      "Envoy",
+      "Fireblade",
+      "GZIP Module",
+      "Istio",
+      "Next.js",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "betterlifecollective.org",
     "title": "Better Life Collective",
     "business_name": "",
@@ -14100,29 +14118,6 @@
       "Google Cloud CDN",
       "Ntent",
       "QUIC",
-      "Yandex Hosting",
-      "Zeald"
-    ]
-  },
-  {
-    "domain": "powerindiasystem.in",
-    "title": "Power India System",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 9456,
-    "crawled_at": "2026-06-01T02:25:41.46327133Z",
-    "technologies": [
-      "1Password",
-      "Alternate Protocol",
-      "Better Lead Generation Services",
-      "Financial Services Guide",
-      "Fireblade",
-      "Framer Sites",
-      "Google",
-      "Google Cloud CDN",
-      "Instagram Follow Button",
-      "Ntent",
       "Yandex Hosting",
       "Zeald"
     ]
