@@ -1,5 +1,24 @@
 [
   {
+    "domain": "machtradebot.com",
+    "title": "MachTrade Bot - Smart Algorithmic Trading Automation",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 158,
+    "crawled_at": "2026-06-30T02:05:19.968528097Z",
+    "technologies": [
+      "DAV",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Nginx",
+      "QUIC",
+      "Tailwind CSS",
+      "TradingView"
+    ]
+  },
+  {
     "domain": "movillium.com",
     "title": "Home Page - Movillium",
     "business_name": "",
@@ -15388,41 +15407,6 @@
       "UTF-8",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "fastfixco.com",
-    "title": "Fast-Fix Denver, Colorado | Trusted Jewelry & Watch Repair Experts",
-    "business_name": "Fast-Fix Jewelry and Watch Repairs",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 12651,
-    "crawled_at": "2026-05-27T11:31:16.183926272Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Podium",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "Thank You",
-      "TradingView",
-      "UTF-8",
-      "YouTube",
-      "hCaptcha",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
