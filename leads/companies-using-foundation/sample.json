@@ -1,5 +1,53 @@
 [
   {
+    "domain": "obxinsiders.com",
+    "title": "NagsHeadHammocks.com | Account | Welcome",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 3199,
+    "crawled_at": "2026-06-30T04:29:19.969967634Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Apache",
+      "Bing Cashback",
+      "Bing Conversion Tracking",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Font Awesome",
+      "Foundation",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "PWA",
+      "PayPal",
+      "Pinterest Conversion Tracking",
+      "QUIC",
+      "SnapWidget",
+      "Swell Rewards",
+      "Twitter Ads",
+      "UTF-8",
+      "Ubuntu",
+      "WP Featherlight",
+      "Yotpo",
+      "YouTube",
+      "jQuery",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "westernwirealestate.com",
     "title": "Balsam Lake Realty – Jena Paquette, Your Balsam Lake Realty Expert",
     "business_name": "",
@@ -15693,22 +15741,6 @@
       "Google Cloud DNS",
       "Google Font API",
       "University or College",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "megbaggott.com",
-    "title": "Megan Baggott",
-    "business_name": "",
-    "country": "COL",
-    "seo_score": 45,
-    "tech_spend": 3,
-    "crawled_at": "2026-06-03T12:00:35.157770665Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Foundation",
-      "Google Cloud DNS",
-      "Google Maps",
       "jQuery"
     ]
   }

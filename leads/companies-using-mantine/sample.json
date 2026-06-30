@@ -1,5 +1,33 @@
 [
   {
+    "domain": "sanmarcosriverresort.com",
+    "title": "San Marcos River Resort",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 3440,
+    "crawled_at": "2026-06-29T20:23:19.968647665Z",
+    "technologies": [
+      "Campspot",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Mantine",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "excellentlivingmedcenter.com",
     "title": "MoldCo | Virtual Care & Lab Testing for Mold Exposure",
     "business_name": "",
@@ -124,34 +152,6 @@
       "PWA",
       "Vimeo",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "leisurecamp.net",
-    "title": "San Marcos River Resort",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 3440,
-    "crawled_at": "2026-06-18T23:17:19.969092751Z",
-    "technologies": [
-      "Campspot",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Mantine",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "eLand",
-      "shadcn ui"
     ]
   },
   {
