@@ -1,5 +1,32 @@
 [
   {
+    "domain": "designwithamind.com",
+    "title": ".:: jaclyn havlak » designwithamind ::.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 15527,
+    "crawled_at": "2026-06-30T08:29:19.970309933Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "AWS WAF Challenge",
+      "Amazon Associates",
+      "Amazon Widgets",
+      "Apache",
+      "GZIP Module",
+      "GoFundMe",
+      "Google Cloud DNS",
+      "Google Maps",
+      "Google My Business",
+      "IcoMoon",
+      "StyleShout",
+      "Subversion",
+      "Tailwind CSS",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "richardrigg.com",
     "title": "Richard Rigg Cancer Fund",
     "business_name": "",
@@ -16954,49 +16981,6 @@
       "Wix Media",
       "YouTube",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "blackfarmers.org",
-    "title": "National Black Farmers Association",
-    "business_name": "National Black Farmers Association",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 135637,
-    "crawled_at": "2026-05-21T11:47:19.980131587Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Checkout.com",
-      "DAV",
-      "Express",
-      "Fireblade",
-      "FormSubmit",
-      "GZIP Module",
-      "GoFundMe",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Phew",
-      "QUIC",
-      "RM Education",
-      "SiteW",
-      "Squarespace",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "Yahoo Finance Widget",
-      "YouTube",
-      "eLand"
     ]
   }
 ]
