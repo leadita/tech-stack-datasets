@@ -1,5 +1,32 @@
 [
   {
+    "domain": "courageouspatriots.org",
+    "title": "thelectioninsider.com",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 94920,
+    "crawled_at": "2026-06-30T00:29:19.968572402Z",
+    "technologies": [
+      "Express",
+      "Fireblade",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Iterable",
+      "License Buttons",
+      "NFOrce Internet",
+      "PWA",
+      "Perl",
+      "UTF-8",
+      "Vimeo CDN",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "remotejobs.careers",
     "title": "RemoteWorkUSA: Curated Jobs in Engineering, Design, and More",
     "business_name": "",
@@ -1474,33 +1501,6 @@
       "Microsoft Authentication Library for JavaScript",
       "The Deck",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "trump-defenders.com",
-    "title": "thelectioninsider.com",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 94920,
-    "crawled_at": "2026-05-11T20:11:20.015482536Z",
-    "technologies": [
-      "Express",
-      "Fireblade",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Iterable",
-      "License Buttons",
-      "NFOrce Internet",
-      "PWA",
-      "Perl",
-      "UTF-8",
-      "Vimeo CDN",
-      "Wangsu",
-      "Website Tonight"
     ]
   },
   {
