@@ -1,5 +1,40 @@
 [
   {
+    "domain": "midamericanrenewablesllc.com",
+    "title": "BHE Renewables",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 22859,
+    "crawled_at": "2026-06-30T05:02:19.97333388Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "AppDynamics",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "ElementUI",
+      "Fireblade",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "MyFonts",
+      "Oracle Cloud",
+      "Oracle Content Management",
+      "UTF-8",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "pnucc.org",
     "title": "Pacific Northwest Utilities Conference Committee",
     "business_name": "",
@@ -17362,32 +17397,6 @@
       "Subversion",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "puavr.com",
-    "title": "pua venture resources | supporting life science companies",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 15240,
-    "crawled_at": "2026-05-12T23:03:18.005399493Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google My Business",
-      "Investor Relations",
-      "MyFonts",
-      "PHP",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
