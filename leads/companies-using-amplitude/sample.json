@@ -1,5 +1,31 @@
 [
   {
+    "domain": "wii-wake.com",
+    "title": "Wii-wake electric wakebard with simmetrical drive",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 159,
+    "crawled_at": "2026-06-30T00:47:19.967795912Z",
+    "technologies": [
+      "Amplitude",
+      "Apache",
+      "Apture Linking Platform",
+      "Bulma",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "Wake",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "alrugaib2b.com",
     "title": "Al Rugaib Furniture B2B",
     "business_name": "",
@@ -21935,50 +21961,6 @@
       "YouTube",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "tomdunlap.com",
-    "title": "Tom Dunlap, Real Estate Agent - Beverly Hills - Coldwell Banker Realty",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 73896,
-    "crawled_at": "2026-05-15T02:08:19.998120811Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Amplitude",
-      "Apture Linking Platform",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ElementUI",
-      "Facebook Reseller",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Homes.com CMS",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nationwide Mortgage Licensing System and Registry",
-      "Optimizely Recommendations",
-      "Parcel",
-      "QUIC",
-      "Thank You",
-      "Trustarc Cookie Consent",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "eLand",
-      "jQuery",
-      "jsDelivr",
-      "reCAPTCHA"
     ]
   }
 ]
