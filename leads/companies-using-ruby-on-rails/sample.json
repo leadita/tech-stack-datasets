@@ -1,5 +1,39 @@
 [
   {
+    "domain": "2trackmastering.com",
+    "title": "2Track Mastering | Audio mastering studio",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 1339,
+    "crawled_at": "2026-06-29T21:11:19.969361933Z",
+    "technologies": [
+      "CafePress",
+      "Express",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Calendar",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nginx",
+      "Perl",
+      "QUIC",
+      "Ruby on Rails",
+      "Tailwind CSS",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "collegiatebr.org",
     "title": "Home - Collegiate Baton Rouge",
     "business_name": "",
@@ -15220,40 +15254,6 @@
       "Twitter Ads",
       "UTF-8",
       "Vimeo"
-    ]
-  },
-  {
-    "domain": "pernilleholberg.com",
-    "title": "Forside - RTT Hypnose og Feng Shui | Pernille Müller Holberg",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 72,
-    "tech_spend": 5136,
-    "crawled_at": "2026-05-28T11:41:35.25479834Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "QUIC",
-      "Ruby on Rails",
-      "Simplero",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
