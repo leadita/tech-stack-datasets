@@ -1,5 +1,43 @@
 [
   {
+    "domain": "northcitymed.com",
+    "title": "North City Medical – North City Medical",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 4200,
+    "crawled_at": "2026-07-01T14:50:19.971615284Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Astra Theme",
+      "Content Delivery Network",
+      "DAV",
+      "Elementor",
+      "ElementsKit Elementor",
+      "EmbedPress",
+      "FormSubmit",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gtranslate for Wordpress",
+      "Jeg Elementor Kit",
+      "LiteSpeed",
+      "Metform Elemento",
+      "NFOrce Internet",
+      "PHP",
+      "QUIC",
+      "Table Addons for Elementor",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Related Posts",
+      "ZocDoc",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "bnpc777.com",
     "title": "Excelsior Healthcare - Primary & Urgent Care Provider",
     "business_name": "Templated Practice",
@@ -18200,33 +18238,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "ZocDoc",
       "eLand"
-    ]
-  },
-  {
-    "domain": "sesaycopsychiatry.com",
-    "title": "Sesayco Psychiatry - Empowering Minds, Enriching Lives | SESAYCO PSYCHIATRY",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 41142,
-    "crawled_at": "2026-05-14T18:59:19.994500716Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "CCSI",
-      "Express",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Pexels",
-      "Subversion",
-      "Thank You",
-      "University or College",
-      "Unsplash",
-      "YouTube",
-      "ZocDoc",
-      "Zyro"
     ]
   }
 ]
