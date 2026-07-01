@@ -1,5 +1,24 @@
 [
   {
+    "domain": "jelmermulder.net",
+    "title": "Jelmer Mulders portfolio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 63,
+    "crawled_at": "2026-06-30T18:41:19.969332525Z",
+    "technologies": [
+      "Astro",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Netlify",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "finc.pro",
     "title": "Real estate experts with a digital core.",
     "business_name": "",
@@ -14155,39 +14174,6 @@
       "UTF-8",
       "University or College",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "wood.com",
-    "title": "WOOD & Company | Finance and Investment Group",
-    "business_name": "",
-    "country": "POL",
-    "seo_score": 72,
-    "tech_spend": 80588,
-    "crawled_at": "2026-04-16T12:44:19.980250246Z",
-    "technologies": [
-      "Alternate Protocol",
-      "DAV",
-      "DatoCMS",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Nginx",
-      "Nuxt.js",
-      "Perl",
-      "Pico CSS",
-      "Prospective",
-      "QUIC",
-      "SMC",
-      "Subversion",
-      "UTF-8",
-      "Vector Internet Services",
-      "YouTube",
-      "eLand",
-      "reCAPTCHA"
     ]
   }
 ]
