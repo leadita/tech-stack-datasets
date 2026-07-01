@@ -1,5 +1,31 @@
 [
   {
+    "domain": "eddmajor.com",
+    "title": "Edd's Travels",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 60,
+    "tech_spend": 6000,
+    "crawled_at": "2026-07-01T06:11:19.968054784Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Blogger",
+      "DAV",
+      "Express",
+      "GZIP Module",
+      "Google Funding Choices",
+      "Google Maps",
+      "Google Matched Content",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Reseller",
+      "Ntent",
+      "UTF-8",
+      "University or College",
+      "eLand"
+    ]
+  },
+  {
     "domain": "ohsogeeky.com",
     "title": "Oh So Geeky",
     "business_name": "",
@@ -15169,29 +15195,6 @@
       "Google Cloud CDN",
       "Google My Business",
       "Google Recommendations AI",
-      "Ntent",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "jacquelynjacksonjohnston.org",
-    "title": "Jacquelyn Jackson Johnston",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 6000,
-    "crawled_at": "2026-05-18T13:59:19.973374354Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Alternate Protocol",
-      "Blogger",
-      "Express",
-      "GZIP Module",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Reseller",
       "Ntent",
       "UTF-8"
     ]
