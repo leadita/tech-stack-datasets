@@ -1,5 +1,25 @@
 [
   {
+    "domain": "marketingsolutions.ws",
+    "title": "Marketing Solutions",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 63,
+    "crawled_at": "2026-07-01T03:53:19.968251562Z",
+    "technologies": [
+      "Create React App",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Nginx",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "portlandautoshow.com",
     "title": "Home - Oregon International Auto Show",
     "business_name": "Oregon International Auto Show",
@@ -15299,28 +15319,6 @@
       "Storyblocks",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "anamariastan.ro",
-    "title": "Acasă",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 123,
-    "crawled_at": "2026-06-01T09:10:45.083802734Z",
-    "technologies": [
-      "Create React App",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Heroku",
-      "Instagram Follow Button",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "jQuery"
     ]
   }
 ]
