@@ -1,5 +1,41 @@
 [
   {
+    "domain": "jointquantum2025.jp",
+    "title": "2025 Chicago Quantum Summit | Chicago Quantum Exchange",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 21999,
+    "crawled_at": "2026-07-01T17:17:19.970849369Z",
+    "technologies": [
+      "Asana",
+      "Backdrop",
+      "Content Delivery Network",
+      "CoreUI",
+      "Corporate Governance and Regulatory Compliance",
+      "Drupal",
+      "Fastly",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Tag Manager",
+      "InitiativeS",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Pantheon",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "megadethfilm.com",
     "title": "Megadeth: Behind The Mask",
     "business_name": "",
@@ -20472,38 +20508,6 @@
       "WordPress Stats",
       "Zoom Video Conferencing",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "alker.xyz",
-    "title": "Alker",
-    "business_name": "",
-    "country": "VEN",
-    "seo_score": 67,
-    "tech_spend": 53872,
-    "crawled_at": "2026-03-01T12:19:26.823721501Z",
-    "technologies": [
-      "Asana",
-      "Astro",
-      "Calendly",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "Express",
-      "Fireblade",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Retail Product Discovery",
-      "Instagram Follow Button",
-      "Medium",
-      "Microsoft 365",
-      "NFOrce Internet",
-      "Prospective",
-      "Slack",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "Zoom Video Conferencing",
-      "eLand"
     ]
   }
 ]
