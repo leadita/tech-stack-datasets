@@ -1,5 +1,33 @@
 [
   {
+    "domain": "kvsestates.com",
+    "title": "KVS Estates",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 6407,
+    "crawled_at": "2026-07-01T00:26:19.972137814Z",
+    "technologies": [
+      "Cloudinary",
+      "GNBproperty",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Nginx",
+      "Ntent",
+      "QUIC",
+      "UTF-8",
+      "YouTube",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "calgrimes.co.uk",
     "title": "Home | Cal Grimes - Applied AI Engineer",
     "business_name": "",
@@ -16255,33 +16283,6 @@
       "iStockPhoto",
       "inSided",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "colemancpas.com",
-    "title": "Home | Coleman & Associates CPAs, Ltd.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 17760,
-    "crawled_at": "2026-06-07T18:33:40.777685874Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Amazon WAF Blocked",
-      "Cloudinary",
-      "Fastly CDN",
-      "Financial Industry Regulatory Authority",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "reCAPTCHA"
     ]
   }
 ]

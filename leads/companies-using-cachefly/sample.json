@@ -1,5 +1,26 @@
 [
   {
+    "domain": "talent-finder.uk",
+    "title": "JobFinder | Request more info",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 60,
+    "tech_spend": 15883,
+    "crawled_at": "2026-06-30T22:14:19.974289634Z",
+    "technologies": [
+      "Apache",
+      "CacheFly",
+      "CacheFly CDN",
+      "Fireblade",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Tailwind CSS",
+      "Talentfinder",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "ubuilditcommercial.info",
     "title": "Start a UBuildIt Franchise",
     "business_name": "Corporate",
@@ -469,27 +490,6 @@
       "Vimeo",
       "Visual Studio",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "talent-finder-uk.co.uk",
-    "title": "JobFinder | Request more info",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 75,
-    "tech_spend": 37240,
-    "crawled_at": "2026-05-17T05:27:53.392499497Z",
-    "technologies": [
-      "Apache",
-      "CacheFly",
-      "CacheFly CDN",
-      "Fireblade",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Tailwind CSS",
-      "Talentfinder",
-      "reCAPTCHA"
     ]
   },
   {
