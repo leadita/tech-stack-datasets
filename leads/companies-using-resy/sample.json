@@ -1,5 +1,39 @@
 [
   {
+    "domain": "malahotpotnyc.com",
+    "title": "MaLa Hot Pot | 35 West 36th Street, NY, NY 10018",
+    "business_name": "MaLa Hot Pot",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 95308,
+    "crawled_at": "2026-07-01T04:41:19.969325615Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Express",
+      "Fastly",
+      "Fastly CDN",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PWA",
+      "QUIC",
+      "Resy",
+      "SMC",
+      "Seflow Italy",
+      "Sentry",
+      "SiteW",
+      "UTF-8",
+      "Vector Internet Services",
+      "Wix",
+      "Wix Media",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "1998daily.com",
     "title": "澳洲5计划号码168预测-彩票幸运5分钟一期结果走势+最新开奖号码查询|The Colony Palm Beach",
     "business_name": "The Colony Palm Beach Hotel",
@@ -16539,33 +16573,6 @@
       "Toast POS",
       "UTF-8",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "turquoisedining.com",
-    "title": "Turquoise Cafe & Restaurant - Roscoe Village, Chicago, IL",
-    "business_name": "",
-    "country": "TUR",
-    "seo_score": 77,
-    "tech_spend": 11627,
-    "crawled_at": "2026-05-17T09:11:20.011962005Z",
-    "technologies": [
-      "ElementUI",
-      "Fastly",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "GrubHub",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microsoft Authentication Library for JavaScript",
-      "Resy",
-      "Tailwind CSS",
-      "Toast POS",
-      "UTF-8",
-      "WP Job Manager",
-      "jQuery"
     ]
   }
 ]

@@ -1,5 +1,24 @@
 [
   {
+    "domain": "jolladrybar.com",
+    "title": "Jolla Blow Dry Bar | Beauty Salon | Color, Hair Extenstions, Keratin Treatment !",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 60,
+    "tech_spend": 1884,
+    "crawled_at": "2026-06-30T13:11:19.969658346Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "IcoMoon",
+      "MindBody",
+      "PHP",
+      "Slider Revolution",
+      "UTF-8",
+      "WPBakery"
+    ]
+  },
+  {
     "domain": "healthdeskcrm.com",
     "title": "HealthdeskAI | #1 Mindbody CRM & AI Growth Agent for Fitness, Wellness & Beauty",
     "business_name": "Healthdesk",
@@ -7503,25 +7522,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "jolladrybar.com",
-    "title": "Jolla Blow Dry Bar | Beauty Salon | Color, Hair Extenstions, Keratin Treatment !",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 60,
-    "tech_spend": 1884,
-    "crawled_at": "2026-05-29T21:03:37.751069295Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "IcoMoon",
-      "MindBody",
-      "PHP",
-      "Slider Revolution",
-      "UTF-8",
-      "WPBakery"
     ]
   },
   {
