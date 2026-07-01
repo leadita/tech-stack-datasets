@@ -1,5 +1,39 @@
 [
   {
+    "domain": "aspri.com",
+    "title": "United States • ASPRI • Resonance that inspires | ASPRI",
+    "business_name": "ASPRI Creative Acoustics Inc.",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 6690,
+    "crawled_at": "2026-07-01T06:56:19.968434558Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Apture Linking Platform",
+      "Botpress",
+      "CloudFront",
+      "Content Delivery Network",
+      "Express",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Perl",
+      "QUIC",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "smartex-expertises.com",
     "title": "SMARTEX Expertises - Présentation",
     "business_name": "",
@@ -17684,37 +17718,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "tnlearner.com",
-    "title": "Home - TN Learner",
-    "business_name": "TN Learner",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 1888,
-    "crawled_at": "2026-04-16T07:38:20.017925112Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon Widgets",
-      "Botpress",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "DAV",
-      "EmbedPress",
-      "Google Analytics",
-      "Google Tag Manager",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Pico CSS",
-      "QUIC",
-      "Tailwind CSS",
-      "Twenty Twenty-Three",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube"
     ]
   }
 ]
