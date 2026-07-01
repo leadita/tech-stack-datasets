@@ -1,5 +1,46 @@
 [
   {
+    "domain": "udpr.com.ua",
+    "title": "UDP Renewables™",
+    "business_name": "",
+    "country": "UKR",
+    "seo_score": 72,
+    "tech_spend": 24131,
+    "crawled_at": "2026-07-01T00:35:19.970052467Z",
+    "technologies": [
+      "1Password",
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "Financial Services Guide",
+      "Framer Sites",
+      "Google",
+      "Google Cloud CDN",
+      "Ntent",
+      "OLO",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
+    "domain": "connectmontana.com",
+    "title": "Connect Montana",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 57,
+    "tech_spend": 3156,
+    "crawled_at": "2026-06-30T22:14:19.974842246Z",
+    "technologies": [
+      "1Password",
+      "Framer Sites",
+      "Google",
+      "Google Cloud CDN",
+      "Ntent",
+      "Vector Internet Services",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
     "domain": "customers.evy.eu",
     "title": "Customer Dashboard · Evy · Product protection you can trust",
     "business_name": "",
@@ -14074,52 +14115,6 @@
       "Vercel",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "join-artosai.com",
-    "title": "Generative AI Solution for Medical Writing | Artos AI",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 104092,
-    "crawled_at": "2026-06-01T04:16:07.540158802Z",
-    "technologies": [
-      "1Password",
-      "Alternate Protocol",
-      "DAV",
-      "Framer Sites",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "K2F",
-      "KVH",
-      "Ntent",
-      "SMC",
-      "Yandex Hosting",
-      "Zeald"
-    ]
-  },
-  {
-    "domain": "nationalfmgroup.com.au",
-    "title": "NFMG | Security, Cleaning & Maintenance Services Australia",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 77,
-    "tech_spend": 9092,
-    "crawled_at": "2026-06-01T03:16:14.163184942Z",
-    "technologies": [
-      "1Password",
-      "Alternate Protocol",
-      "Better Lead Generation Services",
-      "Framer Sites",
-      "Google",
-      "Google Cloud CDN",
-      "Ntent",
-      "QUIC",
-      "Yandex Hosting",
-      "Zeald"
     ]
   }
 ]

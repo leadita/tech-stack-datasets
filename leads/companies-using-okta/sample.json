@@ -1,5 +1,29 @@
 [
   {
+    "domain": "mhalden.com",
+    "title": "Matt Halden",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 3627,
+    "crawled_at": "2026-06-30T22:32:19.96842399Z",
+    "technologies": [
+      "ArvanCloud",
+      "Font Awesome",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Heroku",
+      "IcoMoon",
+      "Okta",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "gcmliberia.org",
     "title": "Great Commission Movement of Liberia",
     "business_name": "",
@@ -20398,30 +20422,6 @@
       "Zendesk Embeddables",
       "Zendesk Guide",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "mhalden.com",
-    "title": "Matt Halden",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 3627,
-    "crawled_at": "2025-12-23T13:37:38.313772592Z",
-    "technologies": [
-      "ArvanCloud",
-      "Font Awesome",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Heroku",
-      "IcoMoon",
-      "Okta",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "jsDelivr"
     ]
   },
   {
