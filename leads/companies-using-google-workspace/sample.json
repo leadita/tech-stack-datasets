@@ -1,5 +1,43 @@
 [
   {
+    "domain": "mhpsd.ca",
+    "title": "Home - Medicine Hat Public School Division",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 6009,
+    "crawled_at": "2026-06-30T21:11:19.968915882Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Azure Active Directory",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "ETranslate",
+      "Font Awesome",
+      "GTranslate",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Google Workspace",
+      "Instagram Follow Button",
+      "Material Design Icons",
+      "Microdata for Google Shopping",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "eLand",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "ayk.global",
     "title": "#1 Best Recruitment & HR Manpower Agency in Pakistan",
     "business_name": "AYK Overseas Recruitment & HR Manpower Agency",
@@ -16593,39 +16631,6 @@
       "WordPress Related Posts",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "nivision.net",
-    "title": "Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 21563,
-    "crawled_at": "2026-06-03T08:38:34.41205998Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "ClickOn",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Related Website Sites",
-      "Google Workspace",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Ntent",
-      "SMC",
-      "Sapper",
-      "Schema Plugin",
-      "Subversion",
-      "UTF-8"
     ]
   }
 ]
