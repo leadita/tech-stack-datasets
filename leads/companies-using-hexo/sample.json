@@ -1,5 +1,24 @@
 [
   {
+    "domain": "thientaman.com.vn",
+    "title": "thientaman.com.vn - Newbury, MA",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-07-01T21:23:19.96909609Z",
+    "technologies": [
+      "Facebook CDN",
+      "Hexo",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "PHP",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "mansourinternational.com",
     "title": "Mansour International | Motivational Speaking | Entrepreneurship",
     "business_name": "",
@@ -20608,49 +20627,6 @@
       "Subversion",
       "UTF-8",
       "University or College"
-    ]
-  },
-  {
-    "domain": "arborwise.ca",
-    "title": "Arborwise |",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 33679,
-    "crawled_at": "2026-05-31T19:39:20.25750528Z",
-    "technologies": [
-      "123FormBuilder",
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "DAV",
-      "Divi",
-      "Elegant Themes",
-      "EmbedPress",
-      "Financial Services Guide",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Hexo",
-      "InitiativeS",
-      "K2F",
-      "KVH",
-      "LiteSpeed",
-      "No-Q",
-      "O2MC Dimml",
-      "PHP",
-      "SMC",
-      "Subversion",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
