@@ -1,5 +1,42 @@
 [
   {
+    "domain": "excellentmindspsychiatry.com",
+    "title": "Excellent Minds Psychiatry | Mental Health & Psychiatric Care",
+    "business_name": "Excellent minds psychiatry Pllc",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 20677,
+    "crawled_at": "2026-07-02T14:08:19.969616633Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "Express",
+      "Fancybox for WordPress",
+      "FormSubmit",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Header, Footer and Blocks for Elementor",
+      "Hello Elementor",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Metform Elemento",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PHP",
+      "QUIC",
+      "Theme In WP",
+      "UTF-8",
+      "Unlimited Elements For Elementor",
+      "WordPress",
+      "WordPress Multisite",
+      "ZocDoc",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "northcitymed.com",
     "title": "North City Medical – North City Medical",
     "business_name": "",
@@ -18208,36 +18245,6 @@
       "Wangsu",
       "Website Tonight",
       "ZocDoc"
-    ]
-  },
-  {
-    "domain": "jennjordancounseling.com",
-    "title": "jenn jordan counseling",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 119921,
-    "crawled_at": "2026-05-14T19:05:19.990511655Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Contento",
-      "Express",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "WordPress SEO Structured Data Schema Plugin",
-      "ZocDoc",
-      "eLand"
     ]
   }
 ]
