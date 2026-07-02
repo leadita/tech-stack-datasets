@@ -1,5 +1,35 @@
 [
   {
+    "domain": "lococayman.ky",
+    "title": "Loco Cayman | Discover Culinary Excellence in the Heart of the Caribbean",
+    "business_name": "",
+    "country": "CYM",
+    "seo_score": 77,
+    "tech_spend": 31950,
+    "crawled_at": "2026-07-01T18:59:19.968412547Z",
+    "technologies": [
+      "Content Delivery Network",
+      "ElementUI",
+      "Engintron",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "K2F",
+      "LottieFiles",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "OpenTable",
+      "Tailwind CSS",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "theblindfinch.bar",
     "title": "Must-Visit Cocktail Bar in Spring, TX | The Blind Finch",
     "business_name": "",
@@ -17079,47 +17109,6 @@
       "UTF-8",
       "WordPress",
       "WordPress Multisite"
-    ]
-  },
-  {
-    "domain": "5thtavernclarkston.com",
-    "title": "5th Tavern – The Flavors Of The World Right In Your Neighborhood",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 5093,
-    "crawled_at": "2026-05-23T17:56:19.977440286Z",
-    "technologies": [
-      "3D FlipBook",
-      "Alternate Protocol",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Header, Footer and Blocks for Elementor",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "MonsterInsights",
-      "NFOrce Internet",
-      "OpenTable",
-      "PHP",
-      "Slider Revolution",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WPBakery",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
