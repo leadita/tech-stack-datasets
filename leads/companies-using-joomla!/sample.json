@@ -1,5 +1,53 @@
 [
   {
+    "domain": "sterlingeventslondon.com",
+    "title": "Sterling Events London",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 50547,
+    "crawled_at": "2026-07-01T22:11:19.974423267Z",
+    "technologies": [
+      "Apache",
+      "AutoComplete",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Joomla!",
+      "K2",
+      "QUIC",
+      "RokNavMenu",
+      "SMC",
+      "Slider Revolution",
+      "Tailwind CSS",
+      "UTF-8",
+      "VirtueMart",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "grupodual.com",
+    "title": "Ingeniería para el diseño y fabricación de maquinaria - Grupo Dual",
+    "business_name": "",
+    "country": "ESP",
+    "seo_score": 57,
+    "tech_spend": 147,
+    "crawled_at": "2026-07-01T19:32:19.968116875Z",
+    "technologies": [
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Helix Ultimate",
+      "Joomla!",
+      "Nginx",
+      "Parallels Plesk Panel",
+      "RokNavMenu",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "suplitec-ndt.com",
     "title": "Suplitec de México - Pruebas No Destructivas - Suplitec de México, S.A. de C.V.",
     "business_name": "",
@@ -12738,60 +12786,6 @@
       "UTF-8",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "pa-pariaman.go.id",
-    "title": "Pengadilan Agama Pariaman",
-    "business_name": "",
-    "country": "IDN",
-    "seo_score": 72,
-    "tech_spend": 4858,
-    "crawled_at": "2026-06-08T20:04:59.352036145Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ETranslate",
-      "Ethy",
-      "FreeCSSTemplates",
-      "GTranslate",
-      "Google My Business",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Joomla!",
-      "K2",
-      "Nginx",
-      "Ntent",
-      "Perl",
-      "RokNavMenu",
-      "Subversion",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "UserWay",
-      "WhatsApp Sharing",
-      "YouTube",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "kocobellboise.com",
-    "title": "Home",
-    "business_name": "Koco Bell Boise",
-    "country": "PRK",
-    "seo_score": 65,
-    "tech_spend": "",
-    "crawled_at": "2026-06-08T20:02:00.059373384Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Harbor",
-      "Instagram Follow Button",
-      "Joomla!",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "RokNavMenu",
-      "UTF-8",
-      "Yelp Badge"
     ]
   }
 ]
