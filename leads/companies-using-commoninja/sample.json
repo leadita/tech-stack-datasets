@@ -1,5 +1,47 @@
 [
   {
+    "domain": "robokai.net",
+    "title": "Youth Robotics | RoboKai | Midlothian",
+    "business_name": "RoboKai",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 90399,
+    "crawled_at": "2026-07-02T15:11:19.972689676Z",
+    "technologies": [
+      "AI Log",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Commoninja",
+      "Content Delivery Network",
+      "DAV",
+      "Express",
+      "Fastly",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "POWr",
+      "PWA",
+      "Perl",
+      "QUIC",
+      "SMC",
+      "Seflow Italy",
+      "Sentry",
+      "SiteW",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "WP Booking Calendar",
+      "Wix",
+      "Wix Media",
+      "YouTube",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "greatesthitsnonstop.com",
     "title": "Greatest Hits Non-Stop – Legendary Radio from Scotland",
     "business_name": "",
@@ -18763,35 +18805,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "closehomesjones.realtor",
-    "title": "Keller Williams Realty Atlantic partners southside | closehomesjones.realtor",
-    "business_name": "",
-    "country": "",
-    "seo_score": 82,
-    "tech_spend": 700,
-    "crawled_at": "2026-06-02T04:19:27.577546661Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Commoninja",
-      "Duda",
-      "FormSubmit",
-      "GZIP Module",
-      "Get.realtor",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Neighborhoods",
-      "Nginx",
-      "QUIC",
-      "Tailwind CSS",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
