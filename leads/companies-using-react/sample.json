@@ -1,5 +1,83 @@
 [
   {
+    "domain": "popupartcafe.com",
+    "title": "Pop-Up Art Cafe | Screen-Free Art Events in Colorado Springs, CO",
+    "business_name": "Pop-Up Art Cafe",
+    "country": "ZAF",
+    "seo_score": 72,
+    "tech_spend": 8940,
+    "crawled_at": "2026-07-02T16:38:19.971996833Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Create React App",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "OpenReplay",
+      "Pleroma",
+      "Python",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "cubrelic.site",
+    "title": "Shop Cubrelic | Official Site | Take 10% Off Your First Order Cubrelic",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 219,
+    "crawled_at": "2026-07-02T14:26:19.969190019Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Create React App",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Pleroma",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "theloftsalontemecula.com",
+    "title": "The Loft Salon Temecula | Hair Color, Balayage & Cuts",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 4890,
+    "crawled_at": "2026-07-02T08:32:19.96823083Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Book Direct",
+      "CloudFront",
+      "Content Delivery Network",
+      "Create React App",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "PWA",
+      "Pleroma",
+      "QUIC",
+      "Yelp Badge"
+    ]
+  },
+  {
     "domain": "marketingsolutions.ws",
     "title": "Marketing Solutions",
     "business_name": "",
@@ -1639,28 +1717,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "miraberry.shop",
-    "title": "Shop Cubrelic | Official Site | Take 10% Off Your First Order Cubrelic",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 219,
-    "crawled_at": "2026-06-20T07:23:19.96932984Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Create React App",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Pleroma",
-      "YouTube"
     ]
   },
   {
@@ -15260,65 +15316,6 @@
       "UTF-8",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "maxifunio.com",
-    "title": "maxifunio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 43500,
-    "crawled_at": "2026-06-01T10:03:19.509820935Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "About Cookies",
-      "Amazon WAF Blocked",
-      "Create React App",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "NFOrce Internet",
-      "PWA",
-      "Perl",
-      "Prospective",
-      "Vector Internet Services",
-      "WordPress"
-    ]
-  },
-  {
-    "domain": "julieneidlinger.com",
-    "title": "Lone Prairie Magazine | Julie R. Neidlinger | Substack",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 4968,
-    "crawled_at": "2026-06-01T09:18:44.228991077Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Amazon S3 CDN",
-      "Amazon WAF Blocked",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Create React App",
-      "Express",
-      "Google",
-      "Google Cloud CDN",
-      "Gravity",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Perl",
-      "Pleroma",
-      "QUIC",
-      "Sentry",
-      "Sitelinks Search Box",
-      "Storyblocks",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
