@@ -1,5 +1,24 @@
 [
   {
+    "domain": "braden-king.com",
+    "title": "Braden King — Staff UX Researcher",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-07-02T11:08:19.969034862Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Next.js",
+      "Sanity",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "4waytechnologies.com",
     "title": "Custom Software and Product Development Company | 4way Technologies",
     "business_name": "4 Way Technologies",
@@ -13584,28 +13603,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "comprescomunicaciones.com",
-    "title": "Compres Comunicaciones",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 1188,
-    "crawled_at": "2026-05-31T21:42:33.055484894Z",
-    "technologies": [
-      "Astro",
-      "Cloudinary",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microsoft Clarity",
-      "QUIC",
-      "Sanity",
-      "Vercel"
     ]
   }
 ]

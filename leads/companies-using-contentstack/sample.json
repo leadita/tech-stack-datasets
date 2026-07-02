@@ -1,5 +1,37 @@
 [
   {
+    "domain": "mfmsevent.com",
+    "title": "9th Annual Mat-Su Solstice Benefit | Community Support",
+    "business_name": "9th Annual Mat-Su Solstice Search & Rescue Benefit",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 32148,
+    "crawled_at": "2026-07-02T11:29:19.970613654Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Contentstack",
+      "GoDaddy",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Reamaze",
+      "UTF-8",
+      "Vimeo",
+      "Wangsu",
+      "Website Tonight",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "alphamaxmanagement.com",
     "title": "Robotics Integration for Efficiency | AlphaMax Management",
     "business_name": "AlphaMax Management",
@@ -21272,39 +21304,6 @@
       "Vimeo",
       "Weglot",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "culinaryiq.co",
-    "title": "Culinary Classes & Resources | Culinary IQ",
-    "business_name": "Culinary IQ",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 32232,
-    "crawled_at": "2026-04-30T21:17:20.02289905Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Contentstack",
-      "GoDaddy",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Reamaze",
-      "UTF-8",
-      "Unsplash",
-      "Vimeo",
-      "Wangsu",
-      "Website Tonight",
-      "YouTube",
-      "reCAPTCHA"
     ]
   }
 ]
