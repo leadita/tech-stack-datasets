@@ -1,5 +1,28 @@
 [
   {
+    "domain": "joetlouganroofing.com",
+    "title": "Local Roofing Contractor | Rochester, MN | Joe Tlougan Roof",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 81348,
+    "crawled_at": "2026-07-02T15:11:19.973257671Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Duda",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "Smooch",
+      "Tailwind CSS",
+      "Tealium",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "d-lhac.com",
     "title": "Chiropractic Service Center – Cortlandt Manor, NY – Lakeland",
     "business_name": "",
@@ -15109,35 +15132,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "49ertermiteandpestcontrol.com",
-    "title": "Bugs and Rodents | El Dorado County | 49er Termite & Pest Control",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 72,
-    "tech_spend": 90444,
-    "crawled_at": "2026-05-26T03:23:19.969501836Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Duda",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google My Business",
-      "Nginx",
-      "Smooch",
-      "Tailwind CSS",
-      "Tealium",
-      "Thryv",
-      "UTF-8",
-      "Yelp Badge",
-      "YouTube",
-      "reCAPTCHA"
     ]
   }
 ]
