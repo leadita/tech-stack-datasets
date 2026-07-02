@@ -1,5 +1,34 @@
 [
   {
+    "domain": "artscanvas.org",
+    "title": "CANVAS Arts",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 17450,
+    "crawled_at": "2026-07-01T18:59:19.968510294Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Apache",
+      "Chartbeat",
+      "CloudFront",
+      "Content Delivery Network",
+      "DAV",
+      "GZIP Module",
+      "Gambling Content",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "ksnblocal4.com",
     "title": "KSNB | Nebraska Local News, Weather, Sports | Hastings, NE",
     "business_name": "",
