@@ -1,5 +1,40 @@
 [
   {
+    "domain": "techroe.com",
+    "title": "Computer Support Home | TechRoe | Cameron Park",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 34162,
+    "crawled_at": "2026-07-02T04:35:19.968543536Z",
+    "technologies": [
+      "123FormBuilder",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Express",
+      "Fastly",
+      "Fastly CDN",
+      "Fireblade",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "JIRA",
+      "NFOrce Internet",
+      "POWr",
+      "PWA",
+      "QUIC",
+      "SMC",
+      "Sentry",
+      "SiteW",
+      "UTF-8",
+      "Vector Internet Services",
+      "Wix",
+      "Wix Media",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "femr.global",
     "title": "Team fEMR",
     "business_name": "",
@@ -25303,34 +25338,6 @@
       "WebsitePolicies",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "zanoai.com",
-    "title": "Zano AI - Your AI productivity assistant",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 18379,
-    "crawled_at": "2026-04-24T03:41:20.013376566Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "ClickUp",
-      "Cloudflare",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "JIRA",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Radix UI",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
