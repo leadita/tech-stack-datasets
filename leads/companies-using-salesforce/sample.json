@@ -1,5 +1,38 @@
 [
   {
+    "domain": "cloudtoolkit.co",
+    "title": "Toolkit for Salesforce",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 282590,
+    "crawled_at": "2026-07-01T18:53:19.968531644Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Heroku",
+      "PayPal Adaptive Payments",
+      "PayPal Button",
+      "PayPal Form",
+      "QUIC",
+      "Salesforce",
+      "Salesforce Experience Cloud",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "logocoins.com",
     "title": "Custom Challenge Coins Made For You! 5-Stars! Veteran Owned",
     "business_name": "",
@@ -20936,31 +20969,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "seathroneconsulting.com",
-    "title": "Seathrone Consulting",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 60,
-    "tech_spend": 39548,
-    "crawled_at": "2026-06-01T04:56:51.846786769Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Line2",
-      "PWA",
-      "Salesforce",
-      "Salesforce Experience Cloud",
-      "Salesforce Hosted",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
     ]
   }
 ]
