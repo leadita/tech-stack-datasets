@@ -1,5 +1,40 @@
 [
   {
+    "domain": "airfordable.net",
+    "title": "Purchase your flight in installments before departure | Airfordable",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 66606,
+    "crawled_at": "2026-07-02T09:05:19.968631185Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon WAF Blocked",
+      "CloudFront",
+      "Content Delivery Network",
+      "Express",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Fireblade",
+      "Gatsby JS",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Intercom",
+      "Material-UI",
+      "ON24",
+      "ReviewsOnMyWebsite",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "omfsurgery.com",
     "title": "Inland Institute Oral & Facial Surgery Dental Implant Experts",
     "business_name": "Inland Institute Oral & Maxillo-Facial Surgery",
@@ -13525,38 +13560,6 @@
       "Google Font API",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "exclusivelyeastbourne.co.uk",
-    "title": "Eastbourne holiday cottages, apartments & rentals for self catering",
-    "business_name": "Exclusivley Eastbourne",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 55060,
-    "crawled_at": "2026-05-26T12:32:27.999408277Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Book Direct",
-      "Booking Affiliate",
-      "Content Delivery Network",
-      "ContentBox",
-      "Gatsby Image CDN",
-      "Gatsby JS",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Line2",
-      "Netlify",
-      "QUIC",
-      "SMC",
-      "Styled Components",
-      "UTF-8",
-      "WordPress",
-      "reCAPTCHA"
     ]
   }
 ]
