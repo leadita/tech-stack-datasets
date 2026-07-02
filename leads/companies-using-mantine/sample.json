@@ -1,5 +1,32 @@
 [
   {
+    "domain": "countrysideproductsgy.com",
+    "title": "CountrySide Products | Take App",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 11185,
+    "crawled_at": "2026-07-02T02:44:19.969040958Z",
+    "technologies": [
+      "Alternate Protocol",
+      "BunnyCDN",
+      "BunnyCDN General",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "ElementUI",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Instagram Follow Button",
+      "Mantine",
+      "Next.js",
+      "Silicon Valley Web Hosting",
+      "The Fresh",
+      "UTF-8",
+      "University or College",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "sanmarcosriverresort.com",
     "title": "San Marcos River Resort",
     "business_name": "",
@@ -13021,33 +13048,6 @@
     "seo_score": 67,
     "tech_spend": 17440,
     "crawled_at": "2026-05-12T11:35:20.005958784Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "DAV",
-      "Fireblade",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Mantine",
-      "Ntent",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "desatetebatu.org",
-    "title": "Desa Tetebatu - Selamat datang di website resmi Pemerintahan Desa Tetebatu",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 17440,
-    "crawled_at": "2026-05-12T11:26:20.01748152Z",
     "technologies": [
       "Cloudflare",
       "Cloudflare CDN",
