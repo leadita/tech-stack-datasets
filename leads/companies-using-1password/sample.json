@@ -1,5 +1,69 @@
 [
   {
+    "domain": "questfrontier.shop",
+    "title": "Mahjong Sweet Connection 🕹️ Play on CrazyGames",
+    "business_name": "",
+    "country": "BEL",
+    "seo_score": 67,
+    "tech_spend": 35971,
+    "crawled_at": "2026-07-03T13:05:19.967982776Z",
+    "technologies": [
+      "1Password",
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "App Store",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Endis",
+      "Google My Business",
+      "Google Play",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Prebid",
+      "QUIC",
+      "Recruitee",
+      "Share Link",
+      "Thank You",
+      "UTF-8",
+      "Underscores",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "simplyyachtsllc.com",
+    "title": "Simply Yachts LLC | Yacht Management & Marine Services",
+    "business_name": "Simply Yachts LLC",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 569,
+    "crawled_at": "2026-07-03T10:08:19.970540544Z",
+    "technologies": [
+      "1Password",
+      "Alternate Protocol",
+      "Apache",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Gutenberg Blocks by Kadence Blocks",
+      "Instagram Follow Button",
+      "Kadence WP",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Sitelinks Search Box",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "focusdesigns.com.au",
     "title": "Noora Template // Jakke",
     "business_name": "",
@@ -7934,39 +7998,6 @@
     ]
   },
   {
-    "domain": "272-majuterus.store",
-    "title": "Free Online Games on CrazyGames | Play Now!",
-    "business_name": "",
-    "country": "BEL",
-    "seo_score": 77,
-    "tech_spend": 35971,
-    "crawled_at": "2026-06-06T03:52:59.165920398Z",
-    "technologies": [
-      "1Password",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "App Store",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Endis",
-      "Google My Business",
-      "Google Play",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "Prebid",
-      "QUIC",
-      "Recruitee",
-      "Share Link",
-      "Thank You",
-      "UTF-8",
-      "Underscores",
-      "YouTube"
-    ]
-  },
-  {
     "domain": "austin-reid.com",
     "title": "Austin Reid // Web Design",
     "business_name": "",
@@ -14053,27 +14084,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "appstinence.org",
-    "title": "Appstinence",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 29092,
-    "crawled_at": "2026-06-01T06:56:15.499283345Z",
-    "technologies": [
-      "1Password",
-      "Financial Services Guide",
-      "Framer Sites",
-      "Google",
-      "Google Cloud CDN",
-      "Google My Business",
-      "KVH",
-      "Ntent",
-      "Yandex Hosting",
-      "Zeald"
     ]
   }
 ]
