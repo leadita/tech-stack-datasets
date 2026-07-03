@@ -1,5 +1,42 @@
 [
   {
+    "domain": "gembeautylounge.com",
+    "title": "Top Gem Beauty Lounge Services in Lauderhill",
+    "business_name": "Gem Beauty Lounge",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 10174,
+    "crawled_at": "2026-07-02T22:50:19.96822333Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Aruba",
+      "CloudFront",
+      "Content Delivery Network",
+      "ElementUI",
+      "FormSubmit",
+      "GZIP Module",
+      "Google Customer Reviews",
+      "Google Maps",
+      "Google My Business",
+      "ID Services",
+      "ImageKit.io",
+      "Instagram Follow Button",
+      "Microsoft Clarity",
+      "Mixpanel",
+      "Ntent",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "YouTube",
+      "eLand",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "rodrunnersfl.com",
     "title": "Custom Interior Furnishing | | Seminole, FL | Rod Runners",
     "business_name": "",
@@ -20934,32 +20971,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "scoop-app.com",
-    "title": "Scoop | AI agents for influencer marketing",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 6040,
-    "crawled_at": "2026-05-25T01:14:19.974559951Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Mixpanel",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
