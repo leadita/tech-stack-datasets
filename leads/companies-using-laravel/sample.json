@@ -1,5 +1,56 @@
 [
   {
+    "domain": "yawpay.com.br",
+    "title": "Yaw",
+    "business_name": "",
+    "country": "BRA",
+    "seo_score": 67,
+    "tech_spend": 2539,
+    "crawled_at": "2026-07-03T03:14:19.970440999Z",
+    "technologies": [
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Laravel Livewire",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "proprintershop.us",
+    "title": "Home - Pro Printer Shop",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 1299,
+    "crawled_at": "2026-07-03T00:38:19.968375766Z",
+    "technologies": [
+      "Bulma",
+      "ContentBox",
+      "DAV",
+      "Express",
+      "Font Awesome",
+      "Google Maps",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Laravel Cookie Consent",
+      "LiteSpeed",
+      "PHP",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "webiancy.com",
     "title": "Webiancy - Web, Mobile & AI Development Agency",
     "business_name": "",
@@ -13465,61 +13516,6 @@
       "Vector Internet Services",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "1xcasino.xyz",
-    "title": "aataxstudio - It's Over 9000!",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 607,
-    "crawled_at": "2026-05-19T09:17:19.986558656Z",
-    "technologies": [
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Easy Pie Chart",
-      "Font Awesome",
-      "GZIP Module",
-      "Gambling Content",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Laravel Livewire",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Perl",
-      "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "iyenze.com",
-    "title": "Home",
-    "business_name": "Iyenze Investment Company Limited",
-    "country": "TZA",
-    "seo_score": 72,
-    "tech_spend": 2440,
-    "crawled_at": "2026-05-19T08:50:19.96800049Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Corporate Governance and Regulatory Compliance",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "InitiativeS",
-      "Laravel Livewire",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
