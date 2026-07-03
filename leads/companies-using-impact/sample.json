@@ -1,5 +1,32 @@
 [
   {
+    "domain": "52xdmxd.com",
+    "title": "52xdmxd –",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 5000,
+    "crawled_at": "2026-07-02T19:53:19.973584779Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Express",
+      "Impact",
+      "LiteSpeed",
+      "Medium",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "Way",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "Worldz",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "everlywellness.co",
     "title": "Everlywell - Innovative at-home Health Testing",
     "business_name": "",
@@ -36,37 +63,6 @@
       "Vector Internet Services",
       "Vignette OpenText",
       "Waveform Technology"
-    ]
-  },
-  {
-    "domain": "simplesattamatkh.com",
-    "title": "simplesattamatkh –",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 5161,
-    "crawled_at": "2026-06-29T01:44:19.968996133Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Bulma",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Express",
-      "Font Awesome",
-      "FreeCSSTemplates",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Impact",
-      "LiteSpeed",
-      "Newsup",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "Way",
-      "WordPress",
-      "WordPress Multisite",
-      "Worldz",
-      "jQuery"
     ]
   },
   {
