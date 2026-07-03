@@ -1,5 +1,29 @@
 [
   {
+    "domain": "kecobroker.it",
+    "title": "K & CO Broker | Fideiussioni Assicurative",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 72,
+    "tech_spend": 12626,
+    "crawled_at": "2026-07-03T07:08:19.970835909Z",
+    "technologies": [
+      "Aruba",
+      "Azion",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "JotForm",
+      "RM Education",
+      "Tailwind CSS",
+      "Vello"
+    ]
+  },
+  {
     "domain": "adeby-envogue.com",
     "title": "Home - Drone Girlz",
     "business_name": "Drone Girlz",
@@ -19654,34 +19678,6 @@
       "QUIC",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "dsrroofingyorkshire.co.uk",
-    "title": "DSR Roofing York | Expert Roofing Services & Repairs in York & Yorkshire | Local Roofers",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 39808,
-    "crawled_at": "2026-05-17T05:23:19.983910921Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Astro",
-      "Better Lead Generation Services",
-      "Content Delivery Network",
-      "DAV",
-      "Fireblade",
-      "Google Customer Reviews",
-      "Google My Business",
-      "JotForm",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "QUIC",
-      "RM Education",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
