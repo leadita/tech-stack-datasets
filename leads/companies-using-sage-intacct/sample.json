@@ -1,5 +1,34 @@
 [
   {
+    "domain": "veloflo.com",
+    "title": "Veloflo",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 44890,
+    "crawled_at": "2026-07-02T14:17:19.969746647Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Astro",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "QUIC",
+      "Sage Intacct",
+      "Tailwind CSS",
+      "Thank You",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "getjones.net",
     "title": "Insurance Compliance at Scale for the Built World | Jones",
     "business_name": "",
