@@ -1,5 +1,57 @@
 [
   {
+    "domain": "resibyv3.com",
+    "title": "Resi by V 3",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 830,
+    "crawled_at": "2026-07-03T09:23:19.968716052Z",
+    "technologies": [
+      "Advertising.com",
+      "Alternate Protocol",
+      "Apache",
+      "EmbedPress",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Line2",
+      "Microdata for Google Shopping",
+      "PHP",
+      "ThemeFusion",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "balisurya-advertising.com",
+    "title": "Bali Surya Advertising - Advertising Murah dan Terpercaya di Bali",
+    "business_name": "",
+    "country": "IDN",
+    "seo_score": 67,
+    "tech_spend": 2440,
+    "crawled_at": "2026-07-02T16:50:19.970700216Z",
+    "technologies": [
+      "Advertising.com",
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "LiteSpeed",
+      "QUIC",
+      "Tailwind CSS",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "skywalkadvertising.com",
     "title": "Home | Skywalk Advertising",
     "business_name": "MediaUSA Skywalk Advertising",
@@ -22846,43 +22898,6 @@
       "Vector Internet Services",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "jennymariesphotographie.com",
-    "title": "Jenny Marie's Photographie",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 1920,
-    "crawled_at": "2026-05-19T04:26:19.989673559Z",
-    "technologies": [
-      "Advertising.com",
-      "Alternate Protocol",
-      "Framer Sites",
-      "Google",
-      "Google Cloud CDN",
-      "Instagram Follow Button",
-      "Microsoft Clarity",
-      "Ntent",
-      "Yandex Hosting",
-      "Zeald"
-    ]
-  },
-  {
-    "domain": "sovereigngracebaptistchurchbt.com",
-    "title": "Home | Sovereign Grace Baptist Church",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-05-19T04:17:01.114687758Z",
-    "technologies": [
-      "Advertising.com",
-      "QUIC",
-      "SearchLinks",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
