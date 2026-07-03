@@ -1,5 +1,32 @@
 [
   {
+    "domain": "hiddenvalleychiropractic.com",
+    "title": "Chiropractor | Savage MN | Hidden Valley Chiropractic",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 86748,
+    "crawled_at": "2026-07-03T14:35:19.973523507Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Duda",
+      "Express",
+      "GZIP Module",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Smooch",
+      "Tailwind CSS",
+      "Tealium",
+      "Thryv",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "joetlouganroofing.com",
     "title": "Local Roofing Contractor | Rochester, MN | Joe Tlougan Roof",
     "business_name": "",
@@ -15098,40 +15125,6 @@
       "Thryv",
       "UTF-8",
       "acens Technologies"
-    ]
-  },
-  {
-    "domain": "texasexteriorclean.com",
-    "title": "Pressure Washing | Austin, TX | Texas Exterior Clean",
-    "business_name": "Texas Exterior Clean",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 86748,
-    "crawled_at": "2026-05-26T03:56:19.974442188Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "Better Lead Generation Services",
-      "CloudFront",
-      "DAV",
-      "Duda",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Perl",
-      "QUIC",
-      "Smooch",
-      "Styled Components",
-      "Tailwind CSS",
-      "Tealium",
-      "Thryv",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
