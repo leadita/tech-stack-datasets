@@ -1,5 +1,38 @@
 [
   {
+    "domain": "duluxprofessional.in",
+    "title": "Dulux Professional India - Tailored Paint Solutions for your Projects | Dulux Professional India",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 752200,
+    "crawled_at": "2026-07-03T11:26:19.980347572Z",
+    "technologies": [
+      "Adobe Analytics",
+      "Adobe CQ",
+      "Adobe Experience Manager",
+      "Adobe Marketing Cloud",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apache",
+      "Apture Linking Platform",
+      "Azure Edge",
+      "Baidu Cloud",
+      "Bazaarvoice",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Microsoft Azure Verified CDN",
+      "New Relic",
+      "OneTrust Domain Verification",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "lynnsteffen.com",
     "title": "Home | Lynn Steffen | Berkshire Hathaway HomeServices",
     "business_name": "",
@@ -5014,39 +5047,6 @@
       "Vello",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "duluxprofessional.in",
-    "title": "Dulux Professional India - Tailored Paint Solutions for your Projects | Dulux Professional India",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 752200,
-    "crawled_at": "2026-05-22T09:46:14.742682403Z",
-    "technologies": [
-      "Adobe Analytics",
-      "Adobe CQ",
-      "Adobe Experience Manager",
-      "Adobe Marketing Cloud",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apache",
-      "Apture Linking Platform",
-      "Azure Edge",
-      "Baidu Cloud",
-      "Bazaarvoice",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Microsoft Azure Verified CDN",
-      "New Relic",
-      "OneTrust Domain Verification",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "jQuery",
-      "reCAPTCHA"
     ]
   },
   {

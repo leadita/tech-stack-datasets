@@ -1,5 +1,26 @@
 [
   {
+    "domain": "arrayrxcard.com",
+    "title": "ArrayRx Card",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 152940,
+    "crawled_at": "2026-07-02T17:11:19.974426836Z",
+    "technologies": [
+      "Apache",
+      "Bulma",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Azure",
+      "Sitecore CMS",
+      "Tailwind CSS",
+      "UTF-8",
+      "Visual Studio"
+    ]
+  },
+  {
     "domain": "points4play.com",
     "title": "Recipes & Cookbooks - Food, Cooking Recipes | Betty Crocker",
     "business_name": "",
@@ -17299,35 +17320,6 @@
       "Visual Studio",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "lhhknightsbridge.com",
-    "title": "Executive search, advisory & coaching solutions | LHH",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 51840,
-    "crawled_at": "2026-05-22T09:32:19.987190309Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Azure Edge",
-      "Content Delivery Network",
-      "Fastly",
-      "Google Related Website Sites",
-      "InitiativeS",
-      "Investor Relations",
-      "Microsoft Azure",
-      "Next.js",
-      "OneTrust Domain Verification",
-      "Pleroma",
-      "QUIC",
-      "Sitecore CMS",
-      "UTF-8",
-      "University or College",
-      "eLand"
     ]
   }
 ]
