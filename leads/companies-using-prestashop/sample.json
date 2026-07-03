@@ -1,12 +1,27 @@
 [
   {
-    "domain": "tomrooz.vot.pl",
-    "title": "tomrooz.vot.pl",
+    "domain": "nexusrealmgame.com",
+    "title": "NexusRealmGame",
     "business_name": "",
     "country": "",
-    "seo_score": 35,
+    "seo_score": 40,
     "tech_spend": "",
-    "crawled_at": "2026-07-02T13:35:19.973800039Z",
+    "crawled_at": "2026-07-02T20:53:19.969655049Z",
+    "technologies": [
+      "AutoComplete",
+      "Nginx",
+      "PrestaShop",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "cosmicbeams.com",
+    "title": "cosmicbeams.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": "",
+    "crawled_at": "2026-07-02T20:23:19.969123956Z",
     "technologies": [
       "LiteSpeed",
       "PrestaShop",
@@ -15299,32 +15314,6 @@
       "QUIC",
       "Schema Plugin",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "faux-wood.uk",
-    "title": "Faux beams - Decorative-beams ltd",
-    "business_name": "",
-    "country": "BGR",
-    "seo_score": 87,
-    "tech_spend": 25607,
-    "crawled_at": "2026-05-24T22:42:18.969805622Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Contento",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "PHP",
-      "PrestaShop",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "WoWonder",
-      "YouTube"
     ]
   }
 ]
