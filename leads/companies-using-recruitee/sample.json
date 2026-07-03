@@ -1,5 +1,38 @@
 [
   {
+    "domain": "questfrontier.shop",
+    "title": "Mahjong Sweet Connection 🕹️ Play on CrazyGames",
+    "business_name": "",
+    "country": "BEL",
+    "seo_score": 67,
+    "tech_spend": 35971,
+    "crawled_at": "2026-07-03T13:05:19.967982776Z",
+    "technologies": [
+      "1Password",
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "App Store",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Endis",
+      "Google My Business",
+      "Google Play",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Prebid",
+      "QUIC",
+      "Recruitee",
+      "Share Link",
+      "Thank You",
+      "UTF-8",
+      "Underscores",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "chowco.dk",
     "title": "Chow Co | Celebrate the little things",
     "business_name": "",
@@ -219,39 +252,6 @@
       "UTF-8",
       "University or College",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "272-majuterus.store",
-    "title": "Free Online Games on CrazyGames | Play Now!",
-    "business_name": "",
-    "country": "BEL",
-    "seo_score": 77,
-    "tech_spend": 35971,
-    "crawled_at": "2026-06-06T03:52:59.165920398Z",
-    "technologies": [
-      "1Password",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "App Store",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Endis",
-      "Google My Business",
-      "Google Play",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "Prebid",
-      "QUIC",
-      "Recruitee",
-      "Share Link",
-      "Thank You",
-      "UTF-8",
-      "Underscores",
-      "YouTube"
     ]
   },
   {
