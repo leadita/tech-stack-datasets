@@ -1,5 +1,35 @@
 [
   {
+    "domain": "mesta-houses.com",
+    "title": "ARCHANGEL",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 22050,
+    "crawled_at": "2026-07-03T07:23:19.968540637Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Blogger",
+      "Book Direct",
+      "Express",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google Funding Choices",
+      "Google Maps",
+      "Google Matched Content",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Reseller",
+      "Idaq",
+      "Ntent",
+      "PayPal Adaptive Payments",
+      "PayPal Button",
+      "PayPal Form",
+      "SMC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "cartoons.cyou",
     "title": "Cartoons",
     "business_name": "",
@@ -15169,32 +15199,6 @@
       "Ntent",
       "UTF-8",
       "University or College"
-    ]
-  },
-  {
-    "domain": "parkcitiespublishing.com",
-    "title": "Park Cities Publishing",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 67439,
-    "crawled_at": "2026-05-18T16:02:19.980277854Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Blogger",
-      "Coming Soon Page",
-      "DAV",
-      "Daily Deals",
-      "GZIP Module",
-      "Google",
-      "Google Adsense",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Ntent",
-      "SMC",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]
