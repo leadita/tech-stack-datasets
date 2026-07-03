@@ -1,5 +1,29 @@
 [
   {
+    "domain": "alchemyremember.me",
+    "title": "Nervous System Restoration in South Africa | Matthew Gabriel | Alchemy of Remembrance",
+    "business_name": "Alchemy of Remembrance",
+    "country": "ZAF",
+    "seo_score": 77,
+    "tech_spend": 73768,
+    "crawled_at": "2026-07-03T10:17:19.972757555Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Gatsby Image CDN",
+      "Gatsby JS",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Idaq",
+      "Instagram Follow Button",
+      "KVH",
+      "Netlify",
+      "QUIC",
+      "SMC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "airfordable.net",
     "title": "Purchase your flight in installments before departure | Airfordable",
     "business_name": "",
@@ -13541,25 +13565,6 @@
       "Google Analytics",
       "Styled Components",
       "Twitter Ads"
-    ]
-  },
-  {
-    "domain": "bigbellyoak.co.uk",
-    "title": "Web Hosting & Development | BigBellyOak Ltd, Bristol UK",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 663,
-    "crawled_at": "2026-05-26T13:31:32.412828561Z",
-    "technologies": [
-      "Fastly",
-      "Gatsby JS",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
