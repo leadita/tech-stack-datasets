@@ -1,5 +1,38 @@
 [
   {
+    "domain": "primetimerideshare.com",
+    "title": "Home - Prime Time Rideshare",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 2479,
+    "crawled_at": "2026-07-03T06:32:19.972302627Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Apple Auto Link Maker",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Font Awesome",
+      "Freshworks Bot",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "fairtile.com",
     "title": "Home - Fairtile",
     "business_name": "Fairtile",
@@ -22549,38 +22582,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "afex.africa",
-    "title": "AFEX | #1 Fastest Growing Company in Africa, 2023",
-    "business_name": "",
-    "country": "NGA",
-    "seo_score": 67,
-    "tech_spend": 20700,
-    "crawled_at": "2026-04-10T19:32:20.008549618Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "ElementUI",
-      "Freshworks Bot",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "YouTube",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]
