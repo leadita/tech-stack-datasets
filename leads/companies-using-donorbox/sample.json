@@ -1,5 +1,36 @@
 [
   {
+    "domain": "pets.community",
+    "title": "Communities | .COMMUNITY (Powered by Donorbox)",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 983,
+    "crawled_at": "2026-07-03T07:02:19.970408228Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Donorbox",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Heroku",
+      "New Relic",
+      "Stripe",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Zendesk Embeddables"
+    ]
+  },
+  {
     "domain": "dropinatthebridge.ca",
     "title": "Drop-in at the Bridge | the bridge kincardine | Kincardine, ON, Canada",
     "business_name": "",
@@ -17688,37 +17719,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "wingstopassistancefund.com",
-    "title": "Wingstop Charities Emergency Assistance Fund",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 6901,
-    "crawled_at": "2026-05-21T01:11:19.973960151Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Bulma",
-      "Donorbox",
-      "ETranslate",
-      "GTranslate",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Microsoft Azure",
-      "Microsoft Azure Blob Storage",
-      "Qualtrics Site Intercept",
-      "Tailwind CSS",
-      "UTF-8",
-      "UserWay",
-      "Visual Studio",
-      "Way",
-      "Zendesk Guide",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
