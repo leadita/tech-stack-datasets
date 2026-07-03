@@ -1,5 +1,48 @@
 [
   {
+    "domain": "mvlink.ca",
+    "title": "Home - Mountain View Elementary School",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 65,
+    "tech_spend": 80452,
+    "crawled_at": "2026-07-03T08:53:19.973215241Z",
+    "technologies": [
+      "Alternate Protocol",
+      "AutoComplete",
+      "Azure Active Directory",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "ContentBox",
+      "Corporate Governance and Regulatory Compliance",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Microsoft 365",
+      "Microsoft Ajax Content Delivery Network",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Microsoft Office SharePoint",
+      "Microsoft Teams",
+      "Perl",
+      "QUIC",
+      "SMC",
+      "Silverlight",
+      "Snowplow",
+      "Twitter Ads",
+      "UTF-8",
+      "Umbler",
+      "Visual Studio",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "cannisters.website",
     "title": "Canny: AI Customer Feedback Management Software and Tools",
     "business_name": "Canny",
@@ -18050,32 +18093,6 @@
       "University or College",
       "Visual Studio",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "moodle.kzn.ch",
-    "title": "Home | Moodle KZN",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 10563,
-    "crawled_at": "2026-04-29T05:10:14.573329893Z",
-    "technologies": [
-      "Apache",
-      "App Store",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "Microsoft Teams",
-      "NFOrce Internet",
-      "PHP",
-      "Totara",
-      "UTF-8",
-      "YouTube",
-      "jsDelivr"
     ]
   }
 ]
