@@ -1,5 +1,33 @@
 [
   {
+    "domain": "notarypeople.com",
+    "title": "Notary Public Directory - Find Notary Publics - NotaryPeople",
+    "business_name": "NotaryPeople",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 4972,
+    "crawled_at": "2026-07-03T19:02:19.970073447Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "AutoComplete",
+      "FedEx",
+      "GZIP Module",
+      "GetResponse",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "UPS",
+      "UTF-8",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "stonedentallaboratories.com",
     "title": "Stone Labs – Full Service Dental Lab | Stone Dental Laboratory",
     "business_name": "",
@@ -19339,48 +19367,6 @@
       "UPS",
       "USPS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "cellularonly.com",
-    "title": "ShipEx 3pl - Global Freight and Logistics Solutions",
-    "business_name": "Shipex Group, LLC",
-    "country": "PER",
-    "seo_score": 82,
-    "tech_spend": 103228,
-    "crawled_at": "2026-04-01T17:32:06.711757865Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "DHL",
-      "DHL Parcel",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "FedEx",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PWA",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "Sentry",
-      "SiteW",
-      "Sitelinks Search Box",
-      "Thank You",
-      "Twitter Ads",
-      "UPS",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "eLand",
-      "mlcom"
     ]
   }
 ]
