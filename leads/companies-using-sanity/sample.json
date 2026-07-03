@@ -1,5 +1,25 @@
 [
   {
+    "domain": "theshedcollective.com",
+    "title": "Ge·ar",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": "",
+    "crawled_at": "2026-07-03T06:11:19.968756087Z",
+    "technologies": [
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "Sanity",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "braden-king.com",
     "title": "Braden King — Staff UX Researcher",
     "business_name": "",
@@ -13581,27 +13601,6 @@
       "Unix",
       "Vercel",
       "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "remotetalents.ch",
-    "title": "Remotecoders | Tech Jobs For A Better Future",
-    "business_name": "Remotecoders",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 16428,
-    "crawled_at": "2026-05-31T22:08:46.538784539Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "QUIC",
-      "Sanity",
-      "UTF-8",
-      "Vercel",
       "shadcn ui"
     ]
   }
