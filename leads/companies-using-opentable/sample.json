@@ -1,5 +1,31 @@
 [
   {
+    "domain": "millysmpls.com",
+    "title": "Must-Visit Wine Bar in Mill District | Milly's Wine Bar",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 8377,
+    "crawled_at": "2026-07-04T03:35:19.968174621Z",
+    "technologies": [
+      "ElementUI",
+      "Fastly",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microsoft Authentication Library for JavaScript",
+      "OpenTable",
+      "Tailwind CSS",
+      "Toast POS",
+      "UTF-8",
+      "WP Job Manager",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "micorestaurant.com",
     "title": "Restaurants In Charlotte NC | Home Page | Mico Restaurant",
     "business_name": "",
@@ -17069,47 +17095,6 @@
       "YouTube",
       "about.me",
       "eLand"
-    ]
-  },
-  {
-    "domain": "one53nj.com",
-    "title": "ONE53 Restaurant & Bar - Where extraordinary feels natural.",
-    "business_name": "ONE53 Restaurant & Bar",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 36569,
-    "crawled_at": "2026-05-23T22:41:30.976906438Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gravity",
-      "Gravity Forms",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "One Designs",
-      "OpenTable",
-      "PHP",
-      "Sitelinks Search Box",
-      "The Fresh",
-      "The SEO Framework",
-      "Theme In WP",
-      "Toast POS",
-      "UTF-8",
-      "Visual Composer Ultimate Addons",
-      "WPBakery",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
