@@ -1,5 +1,31 @@
 [
   {
+    "domain": "plantain.co.uk",
+    "title": "Natural Skin Care | Natural Cosmetics | Own Label | Private Label",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 78196,
+    "crawled_at": "2026-07-03T23:32:19.97030118Z",
+    "technologies": [
+      "Apache",
+      "Cart.com",
+      "CookieConsent",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiveChat",
+      "LiveChat Monitoring",
+      "Oddle",
+      "OpenCart",
+      "PHP",
+      "Subversion",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "nsenterprise.in",
     "title": "N.S. Enterprises",
     "business_name": "",
@@ -12243,26 +12269,6 @@
       "QUIC",
       "Tailwind CSS",
       "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "emrahtatlicilik.com",
-    "title": "Emrah Tatlıcılık | Bursa Kemalpaşa Tatlısı, Peynir Tatlısı",
-    "business_name": "",
-    "country": "TUR",
-    "seo_score": 62,
-    "tech_spend": 75040,
-    "crawled_at": "2026-05-04T07:02:20.007003587Z",
-    "technologies": [
-      "AutoComplete",
-      "Cart.com",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
       "UTF-8"
     ]
   }
