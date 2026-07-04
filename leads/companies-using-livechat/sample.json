@@ -1,12 +1,12 @@
 [
   {
-    "domain": "federaldot.us",
+    "domain": "federalapplicationsprocessor.us",
     "title": "US DOT Biennial Update Portal | DOT Updates | Federal Applications Processor - Home",
     "business_name": "",
     "country": "USA",
     "seo_score": 77,
     "tech_spend": 5608,
-    "crawled_at": "2026-07-03T09:29:19.969397881Z",
+    "crawled_at": "2026-07-04T07:35:19.969938094Z",
     "technologies": [
       "Adobe Creative Cloud WebFonts",
       "Apache",
@@ -21,6 +21,32 @@
       "Paperform",
       "QUIC",
       "Rocket Chat"
+    ]
+  },
+  {
+    "domain": "plantain.co.uk",
+    "title": "Natural Skin Care | Natural Cosmetics | Own Label | Private Label",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 78196,
+    "crawled_at": "2026-07-03T23:32:19.97030118Z",
+    "technologies": [
+      "Apache",
+      "Cart.com",
+      "CookieConsent",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiveChat",
+      "LiveChat Monitoring",
+      "Oddle",
+      "OpenCart",
+      "PHP",
+      "Subversion",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
     ]
   },
   {
@@ -19464,35 +19490,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "signaturebookwriters.com",
-    "title": "Signature Book Writers | Professional Ghostwriting & Book Publishing Services",
-    "business_name": "Signature Book Writers",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 2151,
-    "crawled_at": "2026-05-23T14:32:19.983117267Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Express",
-      "Fancybox for WordPress",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "LiveChat",
-      "LiveChat Monitoring",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Rocket Chat",
-      "Tawk",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
