@@ -1,5 +1,75 @@
 [
   {
+    "domain": "mamaybabay.pro",
+    "title": "sashatarasov",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 1323,
+    "crawled_at": "2026-07-04T12:32:19.969089116Z",
+    "technologies": [
+      "ADFOX",
+      "Figma",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Nginx",
+      "Telegram",
+      "Vector Internet Services",
+      "Yandex Hosting",
+      "Yandex Metrika"
+    ]
+  },
+  {
+    "domain": "niemax.me",
+    "title": "Axel Nieminen — Mobile Developer",
+    "business_name": "",
+    "country": "FIN",
+    "seo_score": 77,
+    "tech_spend": 2256,
+    "crawled_at": "2026-07-04T12:23:19.970091541Z",
+    "technologies": [
+      "App Store",
+      "Apture Linking Platform",
+      "Astro",
+      "CM Commerce",
+      "Content Delivery Network",
+      "Figma",
+      "Gambling Content",
+      "GitHub Hosting",
+      "Google My Business",
+      "IcoMoon",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "louisazz.com",
+    "title": "Louisa's UX Portfolio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 5420,
+    "crawled_at": "2026-07-04T10:08:19.972085555Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "Contentstack",
+      "Figma",
+      "Framer Sites",
+      "Google",
+      "Google Cloud CDN",
+      "Ntent",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
     "domain": "iconsatlas.com",
     "title": "Atlas Icons — 7,980 free open-source icons in 41 packs · MIT licensed",
     "business_name": "",
@@ -13497,79 +13567,6 @@
       "Schema Plugin",
       "UTF-8",
       "Unsplash"
-    ]
-  },
-  {
-    "domain": "onpointdesigngroup.com",
-    "title": "OnPoint Design Group | NonStop Staging",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": "",
-    "crawled_at": "2026-05-23T14:26:19.988708509Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Figma",
-      "GZIP Module",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Nginx",
-      "Perl",
-      "Pleroma",
-      "Schema Plugin",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "bytetroopers.com",
-    "title": "Yonatan Shewamoltot<!-- --> | Full-Stack Developer Portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 63,
-    "crawled_at": "2026-05-23T13:08:19.997474052Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Figma",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "Telegram",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "bluve.in",
-    "title": "Bluve",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 60,
-    "tech_spend": 163,
-    "crawled_at": "2026-05-23T12:59:19.970921629Z",
-    "technologies": [
-      "3 Products",
-      "Figma",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]

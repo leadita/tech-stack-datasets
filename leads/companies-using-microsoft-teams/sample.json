@@ -1,5 +1,35 @@
 [
   {
+    "domain": "aablueridge.org",
+    "title": "Virginia's Blue Ridge Area Intergroup of Alcoholics Anonymous",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 1084,
+    "crawled_at": "2026-07-03T14:08:19.968829052Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Dialpad",
+      "ElementUI",
+      "EmbedPress",
+      "Fastly",
+      "Google My Business",
+      "GotoMeeting",
+      "Microsoft Teams",
+      "Nginx",
+      "PHP",
+      "The Events Calendar",
+      "Theme In WP",
+      "Twenty Twenty",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "Zoom Video Conferencing",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "mvlink.ca",
     "title": "Home - Mountain View Elementary School",
     "business_name": "",
@@ -18060,39 +18090,6 @@
       "WordPress Stats",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "patrickdesjardins.com",
-    "title": "Patrick Desjardins Website and Blog",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 6540,
-    "crawled_at": "2026-04-29T05:29:19.993625391Z",
-    "technologies": [
-      "ASP.NET MVC",
-      "Amazon Widgets",
-      "Content Delivery Network",
-      "Express",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "InitiativeS",
-      "Microsoft Teams",
-      "Next.js",
-      "Ntent",
-      "PHP",
-      "Pleroma",
-      "Python",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Visual Studio",
-      "YouTube"
     ]
   }
 ]
