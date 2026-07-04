@@ -1,5 +1,50 @@
 [
   {
+    "domain": "buydianescar.com",
+    "title": "No Reserve: Sahara Beige 1986 Porsche 911 Carrera Coupe for sale on BaT Auctions - sold for $106,500 on November 23, 2025 (Lot #220,898) | Bring a Trailer",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 40707,
+    "crawled_at": "2026-07-04T11:56:19.969205343Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Better Lead Generation Services",
+      "Constant Contact",
+      "Content Delivery Network",
+      "DAV",
+      "ElasticPress",
+      "EmbedPress",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Harbor",
+      "Instagram Follow Button",
+      "Line2",
+      "Nginx",
+      "Parse.ly",
+      "Pusher",
+      "QUIC",
+      "Share Link",
+      "Sharebutton Fonts",
+      "Shifter",
+      "Smart App Banner",
+      "Stripe",
+      "The Events Calendar",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube",
+      "eLand",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "namrataluxuryliving.com",
     "title": "Luxury Homes for Sale in Texas- Namrata Luxury Living",
     "business_name": "",
@@ -20362,31 +20407,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "surdoueboutiques.com",
-    "title": "Surdoue",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 3,
-    "crawled_at": "2026-05-01T15:32:20.014797699Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Angular",
-      "GZIP Module",
-      "Gambling Content",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Nginx",
-      "Pusher",
-      "Stripe",
-      "UTF-8",
-      "reCAPTCHA"
     ]
   }
 ]
