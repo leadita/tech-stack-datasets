@@ -1,5 +1,32 @@
 [
   {
+    "domain": "veritasauthentications.com",
+    "title": "Jacksonville Mobile Notary & Apostille - by Veritas Authentications",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 18740,
+    "crawled_at": "2026-07-03T16:50:19.9703621Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Authorize.net",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "DAV",
+      "Express",
+      "Fireblade",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Nuxt.js",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "cedarpath.co",
     "title": "INONDA",
     "business_name": "",
@@ -15625,38 +15652,6 @@
       "UTF-8",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "mysoulinsync.com",
-    "title": "My Soul in Sync",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 9940,
-    "crawled_at": "2026-06-10T16:30:56.932549067Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Authorize.net",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "DAV",
-      "Express",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Nuxt.js",
-      "QUIC",
-      "Subversion",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "Vector Internet Services",
-      "reCAPTCHA"
     ]
   }
 ]
