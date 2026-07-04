@@ -1,12 +1,12 @@
 [
   {
-    "domain": "federaldot.us",
+    "domain": "federalapplicationsprocessor.us",
     "title": "US DOT Biennial Update Portal | DOT Updates | Federal Applications Processor - Home",
     "business_name": "",
     "country": "USA",
     "seo_score": 77,
     "tech_spend": 5608,
-    "crawled_at": "2026-07-03T09:29:19.969397881Z",
+    "crawled_at": "2026-07-04T07:35:19.969938094Z",
     "technologies": [
       "Adobe Creative Cloud WebFonts",
       "Apache",
@@ -21,6 +21,48 @@
       "Paperform",
       "QUIC",
       "Rocket Chat"
+    ]
+  },
+  {
+    "domain": "oppf7d.org",
+    "title": "The Mighty 7th — Omega Psi Phi Fraternity, Inc.",
+    "business_name": "Omega Psi Phi Fraternity, Inc. — 7th District",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 65972,
+    "crawled_at": "2026-07-03T20:50:19.971025852Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "Cornerstone",
+      "DAV",
+      "Express",
+      "Fireblade",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "InitiativeS",
+      "Investor Relations",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "No-Q",
+      "On The Map",
+      "Paperform",
+      "Perl",
+      "QUIC",
+      "RM Education",
+      "Thank You",
+      "UTF-8",
+      "Umbler",
+      "University or College",
+      "Vector Internet Services",
+      "Wix Media",
+      "WordPress",
+      "eLand",
+      "jsDelivr"
     ]
   },
   {
@@ -16712,35 +16754,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "customrockcreations.ca",
-    "title": "Home - Custom Rock Creations",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 3068,
-    "crawled_at": "2026-04-12T02:35:19.984335267Z",
-    "technologies": [
-      "Alternate Protocol",
-      "EmbedPress",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Paperform",
-      "The Events Calendar",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
