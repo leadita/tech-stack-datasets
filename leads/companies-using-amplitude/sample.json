@@ -1,5 +1,37 @@
 [
   {
+    "domain": "goodfin.ai",
+    "title": "Goodfin",
+    "business_name": "Goodfin",
+    "country": "VEN",
+    "seo_score": 72,
+    "tech_spend": 74954,
+    "crawled_at": "2026-07-03T20:20:19.969184802Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amplitude",
+      "Apture Linking Platform",
+      "Beehiiv",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Framer Sites",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Tag Manager",
+      "Gumlet",
+      "Instagram Follow Button",
+      "LinkedIn Insights",
+      "LinkedIn Pixel",
+      "Microdata for Google Shopping",
+      "Ntent",
+      "SMC",
+      "Vector Internet Services",
+      "Yandex Hosting",
+      "YouTube",
+      "Zeald"
+    ]
+  },
+  {
     "domain": "freelsatstudyplan.com",
     "title": "LSAT Prep Courses & Live Online Classes - Blueprint LSAT Prep",
     "business_name": "",
@@ -1447,38 +1479,6 @@
       "Vimeo",
       "Weglot",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "goodfin.app",
-    "title": "Goodfin",
-    "business_name": "Goodfin",
-    "country": "VEN",
-    "seo_score": 72,
-    "tech_spend": 74954,
-    "crawled_at": "2026-06-11T19:47:19.969025611Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amplitude",
-      "Apture Linking Platform",
-      "Beehiiv",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Framer Sites",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "Gumlet",
-      "Instagram Follow Button",
-      "LinkedIn Insights",
-      "LinkedIn Pixel",
-      "Microdata for Google Shopping",
-      "Ntent",
-      "SMC",
-      "Vector Internet Services",
-      "Yandex Hosting",
-      "YouTube",
-      "Zeald"
     ]
   },
   {
