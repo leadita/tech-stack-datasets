@@ -1,5 +1,34 @@
 [
   {
+    "domain": "respectortolerate.com",
+    "title": "R.O.T respectortolerate",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 72,
+    "tech_spend": 70918,
+    "crawled_at": "2026-07-04T06:05:19.968720439Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "Apyl",
+      "CloudFront",
+      "DAV",
+      "Duda",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "KVH",
+      "Nginx",
+      "No-Q",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS",
+      "Termly",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "livinginnortherncaliforia.com",
     "title": "Home | New Builds Northern California",
     "business_name": "",
@@ -16473,44 +16502,6 @@
       "Trustpilot Reviews for WordPress",
       "UTF-8",
       "Visual Studio"
-    ]
-  },
-  {
-    "domain": "movebhappy.com",
-    "title": "Home -",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 17763,
-    "crawled_at": "2026-05-25T19:01:20.933735262Z",
-    "technologies": [
-      "1Password",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "ConvertBox",
-      "EmbedPress",
-      "GZIP Module",
-      "Genius Link",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Gutenberg Blocks by Kadence Blocks",
-      "Instagram Follow Button",
-      "Kadence WP",
-      "Microdata for Google Shopping",
-      "PHP",
-      "PixelYourSite",
-      "Simple Share Buttons Adder",
-      "Sitelinks Search Box",
-      "Termly",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
