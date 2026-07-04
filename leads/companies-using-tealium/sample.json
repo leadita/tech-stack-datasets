@@ -1,5 +1,60 @@
 [
   {
+    "domain": "alliancemgmtgroup.com",
+    "title": "Apartments & Rentals in ND, SD, MN & MT | Collective",
+    "business_name": "Collective",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 134968,
+    "crawled_at": "2026-07-04T12:29:19.968697849Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "AppFolio",
+      "AudioEye",
+      "CloudFront",
+      "Duda",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Perl",
+      "QUIC",
+      "SMC",
+      "Styled Components",
+      "Tailwind CSS",
+      "Tealium",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "a1tilingcorp.com.au",
+    "title": "Tiling Experts | Sydney, NSW | A1 Tiling Corp",
+    "business_name": "A1 Tiling Corp",
+    "country": "AUS",
+    "seo_score": 77,
+    "tech_spend": 81348,
+    "crawled_at": "2026-07-03T19:05:19.969727906Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Duda",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Perl",
+      "QUIC",
+      "Smooch",
+      "Styled Components",
+      "Tailwind CSS",
+      "Tealium",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "hiddenvalleychiropractic.com",
     "title": "Chiropractor | Savage MN | Hidden Valley Chiropractic",
     "business_name": "",
@@ -12555,31 +12610,6 @@
     ]
   },
   {
-    "domain": "a1tilingcorp.com.au",
-    "title": "Tiling Experts | Sydney, NSW | A1 Tiling Corp",
-    "business_name": "A1 Tiling Corp",
-    "country": "AUS",
-    "seo_score": 77,
-    "tech_spend": 81348,
-    "crawled_at": "2026-05-28T07:31:31.295277954Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Duda",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Perl",
-      "QUIC",
-      "Smooch",
-      "Styled Components",
-      "Tailwind CSS",
-      "Tealium",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "alexanderceilings.com.au",
     "title": "Professional Ceiling Installers | Adelaide, SA",
     "business_name": "Alexander Ceilings",
@@ -15089,42 +15119,6 @@
       "YouTube",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "pureconstruction.us",
-    "title": "Roofing Contractor & Roof Replacement, Repairs & Installation Services Mankato, Eden Prairie, Minnetonka, Maple Grove MN",
-    "business_name": "Pure Construction",
-    "country": "USA",
-    "seo_score": 92,
-    "tech_spend": 152756,
-    "crawled_at": "2026-05-26T04:10:32.159622642Z",
-    "technologies": [
-      "AAPT",
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "Calendly",
-      "CloudFront",
-      "Duda",
-      "FormSubmit",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "K2F",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "Smooch",
-      "Tailwind CSS",
-      "Tealium",
-      "Thank You",
-      "Thryv",
-      "UTF-8",
-      "acens Technologies"
     ]
   }
 ]
