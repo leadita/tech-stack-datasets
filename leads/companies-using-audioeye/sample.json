@@ -1,5 +1,35 @@
 [
   {
+    "domain": "moseleyins.com",
+    "title": "Moseley Insurance | Property Insurance | Mabank, TX",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 69920,
+    "crawled_at": "2026-07-04T00:23:19.968519955Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon S3 CDN",
+      "AudioEye",
+      "CloudFront",
+      "Duda",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "Fireblade",
+      "GZIP Module",
+      "Google Maps",
+      "Google My Business",
+      "Line2",
+      "Nginx",
+      "SMC",
+      "Storyblocks",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "enrolldominus.org",
     "title": "Dominus high School Home Page",
     "business_name": "Dominus High School",
@@ -17570,38 +17600,6 @@
       "Storyblocks",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "taxsolutionaccountingservice.com",
-    "title": "Home | Monterey Park Income Tax, Payroll and Notary",
-    "business_name": "Tax Solutions & Accounting Services",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 51589,
-    "crawled_at": "2026-06-07T04:46:01.98284758Z",
-    "technologies": [
-      "Alternate Protocol",
-      "AudioEye",
-      "EmbedPress",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Customer Reviews",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "SMC",
-      "Theme In WP",
-      "UTF-8",
-      "WP Lightbox 2",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
