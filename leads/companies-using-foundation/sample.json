@@ -1,5 +1,82 @@
 [
   {
+    "domain": "lewani.com",
+    "title": "Lewani",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 602,
+    "crawled_at": "2026-07-04T08:11:19.968366527Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Contact Form Plugin",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "Foundation",
+      "FreeCSSTemplates",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "NFOrce Internet",
+      "PHP",
+      "QUIC",
+      "Slider Revolution",
+      "Tailwind CSS",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WooCommerce",
+      "WooCommerce Checkout",
+      "WordPress",
+      "WordPress Multisite",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "stuck-krauss.de",
+    "title": "Stuckateur Heiko Krauß",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 67,
+    "tech_spend": "",
+    "crawled_at": "2026-07-04T05:38:19.971436145Z",
+    "technologies": [
+      "Apache",
+      "Foundation",
+      "GZIP Module",
+      "Subversion",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "vonnenow.com",
+    "title": "Vonnenow | Unlimited books, games, movies, albums, software, series, music",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 880,
+    "crawled_at": "2026-07-04T05:14:19.9682223Z",
+    "technologies": [
+      "BunnyCDN Header",
+      "Content Delivery Network",
+      "Foundation",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Sentry",
+      "Stripe",
+      "Tailwind CSS",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "plmcat.com",
     "title": "Pipeline Construction Equipment by PipeLine Machinery International",
     "business_name": "",
@@ -15704,74 +15781,6 @@
       "WordPress Stats",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "travelmaps.com",
-    "title": "Map of Puerto Rico :: TravelMaps.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 3160,
-    "crawled_at": "2026-06-03T21:24:01.260581724Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Apache",
-      "Concrete CMS",
-      "Foundation",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "MaxCDN",
-      "PHP",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "mplefever.com",
-    "title": "Mel LeFever Certified Healthcare Retirement Planner",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 57,
-    "tech_spend": 200,
-    "crawled_at": "2026-06-03T20:25:00.049223987Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Calendly",
-      "Foundation",
-      "Tailwind CSS",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "reservation-five-star-hotels.com",
-    "title": "Reservation five star luxury hotels, hotel booking 5 star luxury resorts, 5 star hotel reservation DLW Luxury hotels worldwide, DLW Luxury hotels worldwide, luxury resort, 5 star hotel, DLW Hotel official website DLW",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 82,
-    "tech_spend": 18659,
-    "crawled_at": "2026-06-03T19:59:34.111075438Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Aruba",
-      "AutoComplete",
-      "Coming Soon Page",
-      "ETranslate",
-      "Fireblade",
-      "Foundation",
-      "GTranslate",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Nginx",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "YouTube",
-      "eLand"
     ]
   }
 ]
