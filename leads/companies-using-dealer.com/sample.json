@@ -1,5 +1,33 @@
 [
   {
+    "domain": "triumph-motihari.com",
+    "title": "Triumph Bikes in Motihari | Models & Prices - Ram Bhawan Ram Automobiles",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 16720,
+    "crawled_at": "2026-07-03T17:32:19.968377221Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dealer.com",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Perl",
+      "Pleroma",
+      "QUIC",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "ngrange.com",
     "title": "Local Electrical Contractors | Newgrange Electric",
     "business_name": "Newgrange Electric",
@@ -19018,35 +19046,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "texarkanaautoauction.com",
-    "title": "Texarkana Auto Auction",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 6563,
-    "crawled_at": "2026-04-29T00:21:38.209934787Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Apache",
-      "CloudFront",
-      "Dealer.com",
-      "DoubleClick Bid Manager",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google Matched Content",
-      "Google Reseller",
-      "Google Tag Manager",
-      "On The Map",
-      "Thank You",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
