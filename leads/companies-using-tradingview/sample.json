@@ -1,5 +1,31 @@
 [
   {
+    "domain": "payumer-stake.org",
+    "title": "payumer-stake",
+    "business_name": "",
+    "country": "JPN",
+    "seo_score": 60,
+    "tech_spend": 642,
+    "crawled_at": "2026-07-04T13:23:19.974068448Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "GTranslate",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "LiteSpeed",
+      "QUIC",
+      "SmartSupp",
+      "Tailwind CSS",
+      "TradingView",
+      "UTF-8",
+      "hCaptcha",
+      "hCaptcha for WordPress",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "wisewolfgoldandsilver.info",
     "title": "Sell Gold and Silver Locally | WWGASE",
     "business_name": "",
@@ -15401,26 +15427,6 @@
       "Tailwind CSS",
       "TradingView",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "swiftwavepips.live",
-    "title": "Swift Wave Pips",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 1155,
-    "crawled_at": "2026-05-27T15:05:00.263229695Z",
-    "technologies": [
-      "Bulma",
-      "Cisco/Arrowpoint Content Service Switch",
-      "DAV",
-      "LiteSpeed",
-      "QUIC",
-      "Tailwind CSS",
-      "TradingView",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
