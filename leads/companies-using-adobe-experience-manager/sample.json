@@ -1,5 +1,37 @@
 [
   {
+    "domain": "kevinwijaya.com",
+    "title": "Kevin Wijaya - Portfolio",
+    "business_name": "",
+    "country": "SGP",
+    "seo_score": 65,
+    "tech_spend": 402958,
+    "crawled_at": "2026-07-03T19:35:19.973904046Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Adobe Experience Manager",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Express",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "University or College",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "duluxprofessional.in",
     "title": "Dulux Professional India - Tailored Paint Solutions for your Projects | Dulux Professional India",
     "business_name": "",
@@ -18616,43 +18648,6 @@
       "UTF-8",
       "University or College",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "justiceconder.com",
-    "title": "Justice Conder",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 53491,
-    "crawled_at": "2026-04-24T22:17:20.026200565Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Experience Manager",
-      "Amazon S3 CDN",
-      "Amazon Widgets",
-      "Bulma",
-      "Content Delivery Network",
-      "DAV",
-      "ElementUI",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IPFS",
-      "InitiativeS",
-      "Linktree",
-      "Medium",
-      "Netlify",
-      "Prospective",
-      "Python",
-      "QUIC",
-      "Storyblocks",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "YouTube"
     ]
   }
 ]
