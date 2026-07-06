@@ -1,5 +1,37 @@
 [
   {
+    "domain": "iexploregod.org",
+    "title": "Credible Content about Faith, Jesus, Bible and More | Explore God",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 34996,
+    "crawled_at": "2026-07-05T10:56:19.968963877Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Bulma",
+      "Content Delivery Network",
+      "Drupal",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Pardot",
+      "Privy",
+      "QUIC",
+      "Sumo",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "dubai-personal-training.com",
     "title": "Personal Trainers Dubai, Health Coaching and Fitness Training",
     "business_name": "",
@@ -22226,37 +22258,6 @@
       "eLand",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "rcmtaxacct.com",
-    "title": "RCM Tax and Accounting : Welcome to our website!",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 3196,
-    "crawled_at": "2026-04-03T21:55:26.802395138Z",
-    "technologies": [
-      "Apache",
-      "Express",
-      "Foundation",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "PHP",
-      "QUIC",
-      "Sumo",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Zendesk Guide",
-      "Zopim",
-      "jQuery",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   }
 ]
