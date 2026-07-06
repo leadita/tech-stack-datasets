@@ -1,5 +1,26 @@
 [
   {
+    "domain": "magnetickeys.com",
+    "title": "Magnetic Keys — AI digital marketing agency in Dubai, UAE",
+    "business_name": "Magnetic Keys",
+    "country": "AE",
+    "seo_score": 82,
+    "tech_spend": 5428,
+    "crawled_at": "2026-07-05T09:02:19.968639545Z",
+    "technologies": [
+      "Cloudflare",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Hootsuite Badge",
+      "Microdata for Google Shopping",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "scribe.express",
     "title": "Scribe Express — Email-First Social Media for Doctors",
     "business_name": "",
@@ -21492,28 +21513,6 @@
       "WordPress",
       "WordPress Multisite",
       "WordPress Related Posts"
-    ]
-  },
-  {
-    "domain": "deosaiworldwide.com",
-    "title": "Deosai | Digital Marketing Agency Dubai",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 5428,
-    "crawled_at": "2026-05-11T08:32:19.997750719Z",
-    "technologies": [
-      "Adult Content",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hootsuite Badge",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "jsDelivr"
     ]
   }
 ]
