@@ -1,5 +1,57 @@
 [
   {
+    "domain": "krishnainfosys.com",
+    "title": "Home | Krishna Infosys",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 17400,
+    "crawled_at": "2026-07-05T17:41:19.969227374Z",
+    "technologies": [
+      "DailyMotion Video",
+      "Fireblade",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nginx",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "Ubuntu",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "blackcollararms.com",
+    "title": "Black Collar Arms",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 150,
+    "crawled_at": "2026-07-05T09:29:19.96793938Z",
+    "technologies": [
+      "DailyMotion Video",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nginx",
+      "Plausible Analytics",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "Ubuntu",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "jsrproductions.com",
     "title": "JSR-Productions",
     "business_name": "",
@@ -20136,63 +20188,6 @@
       "WordPress Multisite",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "delve.earth",
-    "title": "Home | Delve Earthworks",
-    "business_name": "Delve Earthworks",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 22628,
-    "crawled_at": "2026-05-11T08:41:19.991643392Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "DailyMotion Video",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Plausible Analytics",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "duragarden.com",
-    "title": "DURAGARDEN | Nursery Stop",
-    "business_name": "Aston Rider LLC",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 2628,
-    "crawled_at": "2026-05-11T08:32:19.986352517Z",
-    "technologies": [
-      "DailyMotion Video",
-      "GZIP Module",
-      "Gambling Content",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Plausible Analytics",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
