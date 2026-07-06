@@ -1,5 +1,57 @@
 [
   {
+    "domain": "skyforge.pro",
+    "title": "Skyforge | Certified Thermal Inspections & Mapping – BC & Yukon",
+    "business_name": "",
+    "country": "SYC",
+    "seo_score": 77,
+    "tech_spend": 4000,
+    "crawled_at": "2026-07-05T20:32:19.972523831Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "Better Lead Generation Services",
+      "Cloudinary",
+      "Corporate Governance and Regulatory Compliance",
+      "Fontshare",
+      "GZIP Module",
+      "Pico CSS",
+      "QUIC",
+      "University or College",
+      "WordPress"
+    ]
+  },
+  {
+    "domain": "joindeepline.com",
+    "title": "Deepline — One API, One Bill, 95+ GTM Integrations",
+    "business_name": "Deepline",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 7672,
+    "crawled_at": "2026-07-05T15:38:19.968011249Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Calendly",
+      "Content Delivery Network",
+      "Fontshare",
+      "GitHub Hosting",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Gravity",
+      "Microdata for Google Shopping",
+      "OpenAI",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Slack",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "thefaithful.co",
     "title": "The Faithful Man · Where Do You Actually Stand? | thefaithful.co",
     "business_name": "",
@@ -13182,55 +13234,6 @@
       "Google Font API",
       "Instagram Follow Button",
       "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "jmfl.nl",
-    "title": "Joost MF Liebregts | Purpose Design",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 280,
-    "crawled_at": "2026-05-11T23:29:20.014641291Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fontshare",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Next.js",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "esrsolutions.net",
-    "title": "ESR Solutions | AI Automation & Tech Consulting San Diego",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 32536,
-    "crawled_at": "2026-05-11T22:56:19.998685442Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "ElementUI",
-      "Fastly",
-      "Fireblade",
-      "Fontshare",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Conversion Tracking",
-      "Google Font API",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "Web3Forms",
-      "shadcn ui"
     ]
   }
 ]
