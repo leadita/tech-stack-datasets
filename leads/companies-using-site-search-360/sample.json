@@ -1,5 +1,39 @@
 [
   {
+    "domain": "auglaizehealth.org",
+    "title": "Home | Auglaize County Health Department",
+    "business_name": "Auglaize County Health Department",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 3285,
+    "crawled_at": "2026-07-06T01:20:19.970730337Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CDN JS",
+      "Call to Visit",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Duda",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "No-Q",
+      "Site Search 360",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "sindie.com",
     "title": "Elemental Analysis and X-ray Optics | XOS",
     "business_name": "",
@@ -15902,30 +15936,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Yelp Badge"
-    ]
-  },
-  {
-    "domain": "gfmfoundation.net",
-    "title": "Laparoscopic Hospital",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 70,
-    "tech_spend": 3676,
-    "crawled_at": "2026-03-30T21:08:00.57109983Z",
-    "technologies": [
-      "AddThis",
-      "AddThis for Wordpress",
-      "Apache",
-      "Chatbase",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Livestream",
-      "Site Search 360",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "jQuery"
     ]
   }
 ]
