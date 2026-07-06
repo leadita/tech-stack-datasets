@@ -1,5 +1,31 @@
 [
   {
+    "domain": "renttheleo.com",
+    "title": "Auburn Glen is a pet-friendly apartment community in Auburn, WA",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 43640,
+    "crawled_at": "2026-07-05T03:56:19.971085964Z",
+    "technologies": [
+      "Apache",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "RealPage",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "fultoncommonsapts.com",
     "title": "Fulton Commons - Affordable Apartments in Fulton, IL",
     "business_name": "",
@@ -15056,33 +15082,6 @@
       "QUIC",
       "RealPage",
       "UTF-8",
-      "myRealPage"
-    ]
-  },
-  {
-    "domain": "cdrealty.ca",
-    "title": "Candice Dickson : EXIT REALTY HARE (PEEL) : Home",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 46284,
-    "crawled_at": "2026-05-18T17:18:09.513950588Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Apache",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Idaq",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "RealPage",
-      "UTF-8",
-      "Unsplash",
       "myRealPage"
     ]
   }
