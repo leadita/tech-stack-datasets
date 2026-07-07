@@ -1,5 +1,27 @@
 [
   {
+    "domain": "quickfunmini.com",
+    "title": "HappyonionGames",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 800,
+    "crawled_at": "2026-07-06T13:02:19.971900383Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon CloudFront",
+      "CloudFront",
+      "DoubleClick Bid Manager",
+      "Fastly",
+      "GZIP Module",
+      "Google Adsense",
+      "Nuxt.js",
+      "Outbrain Direct",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "hearxgroup.com",
     "title": "hearX® - Award-winning Digital Hearing Health Technology",
     "business_name": "",
@@ -4138,28 +4160,6 @@
       "YouTube",
       "eLand",
       "uPress"
-    ]
-  },
-  {
-    "domain": "gameturbomini.com",
-    "title": "HappyonionGames",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 800,
-    "crawled_at": "2026-06-07T10:12:57.869536838Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "CloudFront",
-      "DoubleClick Bid Manager",
-      "Fastly",
-      "GZIP Module",
-      "Google Adsense",
-      "Nuxt.js",
-      "Outbrain Direct",
-      "QUIC",
-      "UTF-8"
     ]
   },
   {
