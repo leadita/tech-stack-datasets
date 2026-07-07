@@ -1,5 +1,86 @@
 [
   {
+    "domain": "phoenixperformance.org",
+    "title": "Phoenix Performance & Development",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 7772,
+    "crawled_at": "2026-07-07T11:26:19.972910934Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "CleanTalk Spam Protect",
+      "EmbedPress",
+      "Fireblade",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Instagram Follow Button",
+      "OpenResty",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "cornelisvrolijkiberica.com",
+    "title": "Home Page",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 843,
+    "crawled_at": "2026-07-07T07:11:19.968588176Z",
+    "technologies": [
+      "Amazon S3 CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "OpenResty",
+      "Storyblocks",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "youxiangxiangdao.com",
+    "title": "优享向导",
+    "business_name": "",
+    "country": "",
+    "seo_score": 20,
+    "tech_spend": "",
+    "crawled_at": "2026-07-07T01:59:19.970142751Z",
+    "technologies": [
+      "Alibaba Cloud Object Storage Service",
+      "GZIP Module",
+      "OpenResty",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "mailgate.1dx.de",
+    "title": "1dx.de - Speicherkarte, Blitzgerät, Objektiv, Stativ, Kamera, Fototasche, 1DX",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 199,
+    "crawled_at": "2026-07-07T00:11:19.970060852Z",
+    "technologies": [
+      "3 Products",
+      "Financial Services Guide",
+      "Font Awesome",
+      "OpenResty",
+      "Python",
+      "Taboola Direct",
+      "Taboola Reseller",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "ashleyewalton.com",
     "title": "Ashley Walton, PhD – Cognitive Science",
     "business_name": "",
@@ -94,27 +175,6 @@
       "OpenResty",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "dashboard.1dx.de",
-    "title": "1dx.de - Fototasche, Speicherkarte, Blitzgerät, Kamera, Objektiv, Stativ, 1DX",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 199,
-    "crawled_at": "2026-07-06T16:44:19.972124888Z",
-    "technologies": [
-      "3 Products",
-      "Financial Services Guide",
-      "Font Awesome",
-      "OpenResty",
-      "Python",
-      "Taboola Direct",
-      "Taboola Reseller",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   },
   {
@@ -12654,74 +12714,6 @@
       "Pleroma",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "projektysalaj.cz",
-    "title": "Projekty Salaj s.r.o. - Projektová a dozorová činnost",
-    "business_name": "",
-    "country": "CZE",
-    "seo_score": 62,
-    "tech_spend": 59,
-    "crawled_at": "2026-06-10T19:44:07.283114997Z",
-    "technologies": [
-      "BootstrapMade",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "OpenResty",
-      "PHP",
-      "Tailwind CSS",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "micronoptical.com",
-    "title": "Micron Optical",
-    "business_name": "",
-    "country": "IRL",
-    "seo_score": 72,
-    "tech_spend": 29800,
-    "crawled_at": "2026-06-10T19:40:41.755851049Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Content Delivery Network",
-      "Contento",
-      "Fastly",
-      "GZIP Module",
-      "OpenResty",
-      "UTF-8",
-      "YouTube",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "lmpower.sk",
-    "title": "LMPower.sk – Záhradnícka 93, 821 08 Bratislava",
-    "business_name": "",
-    "country": "SVK",
-    "seo_score": 60,
-    "tech_spend": 159,
-    "crawled_at": "2026-06-10T19:37:38.29774562Z",
-    "technologies": [
-      "Alternate Protocol",
-      "DAV",
-      "Financial Services Guide",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "OpenResty",
-      "PHP",
-      "Polylang",
-      "QUIC",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
