@@ -1,5 +1,33 @@
 [
   {
+    "domain": "wcpfc.int",
+    "title": "Western and Central Pacific Fisheries Commission (WCPFC) | Western and Central Pacific Fisheries Commission",
+    "business_name": "",
+    "country": "FSM",
+    "seo_score": 65,
+    "tech_spend": 18506,
+    "crawled_at": "2026-07-05T09:02:19.968063006Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Backdrop",
+      "CloudFront",
+      "Content Delivery Network",
+      "Drupal",
+      "Freshdesk Support",
+      "GZIP Module",
+      "IcoMoon",
+      "Nginx",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "bodyelitenutrition.com",
     "title": "Body Elite Nutrition | Thermogenic Fat Burning Compound Unlike Any Other",
     "business_name": "",
@@ -21535,25 +21563,6 @@
       "Wirecard",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "cinemaspirit-cs.com",
-    "title": "CinemaSpirit-CS (CinemaSpirit) - Customer Support",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 243,
-    "crawled_at": "2026-05-08T01:29:20.012720349Z",
-    "technologies": [
-      "Freshdesk Support",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "StackPath",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
