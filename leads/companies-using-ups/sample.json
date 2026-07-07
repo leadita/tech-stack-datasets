@@ -1,5 +1,42 @@
 [
   {
+    "domain": "topbonhair.com",
+    "title": "Supreme Hair Extension Specialist",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 15499,
+    "crawled_at": "2026-07-07T02:44:19.969644821Z",
+    "technologies": [
+      "Alexa Certified Site Metrics",
+      "DHL Parcel",
+      "Facebook Customer Chat SDK",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "FedEx",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nginx",
+      "PHP",
+      "Pico CSS",
+      "Pleroma",
+      "TNT",
+      "Twitter Ads",
+      "UPS",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "WoWonder",
+      "eLand"
+    ]
+  },
+  {
     "domain": "falmouthlittleleague.net",
     "title": "Home | Falmouth Little League Baseball and Softball | Falmouth Maine",
     "business_name": "falmouthmainelittleleague",
@@ -17606,36 +17643,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "odegardcarpets.com",
-    "title": "Odegard Carpets | Rare and Original Carpets",
-    "business_name": "Odegard Carpets",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 80481,
-    "crawled_at": "2026-05-24T14:20:02.314304843Z",
-    "technologies": [
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UPS",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]

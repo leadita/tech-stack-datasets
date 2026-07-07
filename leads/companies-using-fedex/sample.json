@@ -1,5 +1,42 @@
 [
   {
+    "domain": "topbonhair.com",
+    "title": "Supreme Hair Extension Specialist",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 15499,
+    "crawled_at": "2026-07-07T02:44:19.969644821Z",
+    "technologies": [
+      "Alexa Certified Site Metrics",
+      "DHL Parcel",
+      "Facebook Customer Chat SDK",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "FedEx",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nginx",
+      "PHP",
+      "Pico CSS",
+      "Pleroma",
+      "TNT",
+      "Twitter Ads",
+      "UPS",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "WoWonder",
+      "eLand"
+    ]
+  },
+  {
     "domain": "notarypeople.com",
     "title": "Notary Public Directory - Find Notary Publics - NotaryPeople",
     "business_name": "NotaryPeople",
@@ -19346,27 +19383,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "roethelparcel.com",
-    "title": "Roethel Mailing Center & Parcel Service - Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 15300,
-    "crawled_at": "2026-04-01T20:27:26.052072679Z",
-    "technologies": [
-      "Apache",
-      "Endis",
-      "Express",
-      "FedEx",
-      "GZIP Module",
-      "Google My Business",
-      "Parcel",
-      "UPS",
-      "USPS",
-      "UTF-8"
     ]
   }
 ]
