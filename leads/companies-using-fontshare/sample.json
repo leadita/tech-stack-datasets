@@ -1,5 +1,28 @@
 [
   {
+    "domain": "reddittraffic.com",
+    "title": "Reddict — Own the threads that own your buyers",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 42668,
+    "crawled_at": "2026-07-07T10:11:19.974275465Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fontshare",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vignette OpenText"
+    ]
+  },
+  {
     "domain": "skyforge.pro",
     "title": "Skyforge | Certified Thermal Inspections & Mapping – BC & Yukon",
     "business_name": "",
@@ -13212,28 +13235,6 @@
     "technologies": [
       "Fontshare",
       "GZIP Module"
-    ]
-  },
-  {
-    "domain": "creativemanda.digital",
-    "title": "Creative Manda<span class=\"asterisk\">*</span> — Behind Your Brand!",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 3140,
-    "crawled_at": "2026-05-11T23:53:20.002172783Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "Emanda",
-      "Express",
-      "Fontshare",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Tailwind CSS"
     ]
   }
 ]
