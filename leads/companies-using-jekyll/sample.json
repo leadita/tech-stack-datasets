@@ -1,5 +1,25 @@
 [
   {
+    "domain": "ziyi.fan",
+    "title": "范子毅 | Minimalist Life",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 3,
+    "crawled_at": "2026-07-07T08:14:19.974082316Z",
+    "technologies": [
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Jekyll",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Schema Plugin",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "zanshin.com.au",
     "title": "ZANSHIN MARTIAL ARTS",
     "business_name": "",
@@ -13936,38 +13956,6 @@
       "QUIC",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "rmcomplexity.com",
-    "title": "Home | Remove Complexity",
-    "business_name": "",
-    "country": "CHL",
-    "seo_score": 77,
-    "tech_spend": 2539,
-    "crawled_at": "2026-06-01T04:47:19.967932532Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Fastly",
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Jekyll",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Python",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]
