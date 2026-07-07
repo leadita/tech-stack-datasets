@@ -1,5 +1,50 @@
 [
   {
+    "domain": "traditionsfurniture.pk",
+    "title": "Traditions Furniture",
+    "business_name": "Traditions Furniture",
+    "country": "PAK",
+    "seo_score": 65,
+    "tech_spend": 707,
+    "crawled_at": "2026-07-06T11:35:19.972645278Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Elementor",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "PHP",
+      "PrestaShop",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "aria.org.pl",
+    "title": "aria.org.pl",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": "",
+    "crawled_at": "2026-07-06T07:35:19.973213137Z",
+    "technologies": [
+      "LiteSpeed",
+      "PrestaShop",
+      "QUIC",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "gaunandisewa.com",
     "title": "GauNandiSewa: Revolutionizing Animal Welfare in Noida with Gaushala & Veterinary Services",
     "business_name": "GauNandiSewa Hospital",
@@ -70,21 +115,6 @@
       "Nginx",
       "PrestaShop",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "cosmicbeams.com",
-    "title": "cosmicbeams.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": "",
-    "crawled_at": "2026-07-02T20:23:19.969123956Z",
-    "technologies": [
-      "LiteSpeed",
-      "PrestaShop",
-      "QUIC",
-      "WordPress"
     ]
   },
   {
@@ -15220,46 +15250,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "zipasgo.com",
-    "title": "Home page - ZipasGo",
-    "business_name": "ZipasGo",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 139868,
-    "crawled_at": "2026-05-25T00:19:17.67541621Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "CTT Express",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Fastway",
-      "Fireblade",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "La Poste",
-      "Microdata for Google Shopping",
-      "Nuxt.js",
-      "Parcel",
-      "Parcelforce",
-      "PostNL",
-      "PrestaShop",
-      "QUIC",
-      "Royal Mail",
-      "Salesforce Experience Cloud",
-      "Tailwind CSS",
-      "UPS",
-      "USPS",
-      "UTF-8",
-      "eLand",
-      "reCAPTCHA"
     ]
   }
 ]
