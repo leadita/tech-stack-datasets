@@ -145,7 +145,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 
 ### Cloud Providers
 - [Companies using Amazon](./leads/companies-using-amazon) (2,373,973 companies)
-- [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,343,636 companies)
+- [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,343,637 companies)
 - [Companies using Microsoft Azure](./leads/companies-using-microsoft-azure) (139,125 companies)
 - [Companies using Heroku](./leads/companies-using-heroku) (44,121 companies)
 - [Companies using Netlify](./leads/companies-using-netlify) (130,934 companies)
