@@ -1,5 +1,37 @@
 [
   {
+    "domain": "elmerpal.com",
+    "title": "Elmeri Palokangas Portfolio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 3708,
+    "crawled_at": "2026-07-07T05:08:19.968986534Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Automattic",
+      "Automattic Direct",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Global Privacy Control",
+      "Google Analytics",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "Nginx",
+      "QUIC",
+      "Referral Candy",
+      "Smile IO",
+      "Tailwind CSS",
+      "US Privacy User Signal Mechanism",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "WordStream"
+    ]
+  },
+  {
     "domain": "skirtleggings.com",
     "title": "SKIRT LEGGINGS – MIMU MAXI",
     "business_name": "MIMU MAXI",
@@ -18986,32 +19018,6 @@
       "UTF-8",
       "YouTube",
       "Zendesk Embeddables",
-      "hCaptcha",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "buttahyobody.com",
-    "title": "ButtahBody - Natural Skin Care – Buttah Body",
-    "business_name": "Buttah Body",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 8877,
-    "crawled_at": "2026-05-26T07:47:40.923555347Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Smile IO",
-      "Tailwind CSS",
-      "UTF-8",
       "hCaptcha",
       "reCAPTCHA"
     ]
