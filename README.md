@@ -503,18 +503,18 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using DailyMotion Video](./leads/companies-using-dailymotion-video) (3,272 companies)
 
 ### Web Fonts & Icons
-- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,886,359 companies)
+- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,886,360 companies)
 - [Companies using Font Awesome](./leads/companies-using-font-awesome) (814,866 companies)
 - [Companies using MyFonts](./leads/companies-using-myfonts) (3,259 companies)
 - [Companies using Fontshare](./leads/companies-using-fontshare) (2,688 companies)
 - [Companies using Bunny Fonts](./leads/companies-using-bunny-fonts) (44,633 companies)
 - [Companies using Fontello](./leads/companies-using-fontello) (44,585 companies)
-- [Companies using IcoMoon](./leads/companies-using-icomoon) (1,356,832 companies)
+- [Companies using IcoMoon](./leads/companies-using-icomoon) (1,356,833 companies)
 - [Companies using Material Design Icons](./leads/companies-using-material-design-icons) (25,153 companies)
 
 ### Web Servers
-- [Companies using NGINX](./leads/companies-using-nginx) (1,456,847 companies)
-- [Companies using Apache](./leads/companies-using-apache) (1,420,999 companies)
+- [Companies using NGINX](./leads/companies-using-nginx) (1,456,848 companies)
+- [Companies using Apache](./leads/companies-using-apache) (1,421,000 companies)
 - [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,154,412 companies)
 - [Companies using OpenResty](./leads/companies-using-openresty) (270,011 companies)
 - [Companies using Apache Tomcat](./leads/companies-using-apache-tomcat) (568 companies)
