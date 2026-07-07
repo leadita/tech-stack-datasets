@@ -1,5 +1,30 @@
 [
   {
+    "domain": "vermontjoblink.com",
+    "title": "Vermont JobLink - Vermont JobLink",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 2187,
+    "crawled_at": "2026-07-05T06:11:19.969837535Z",
+    "technologies": [
+      "ETranslate",
+      "GTranslate",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google My Business",
+      "IcoMoon",
+      "LiveChat Monitoring",
+      "Mastodon",
+      "Nginx",
+      "Phusion Passenger Enterprise",
+      "Ruby on Rails",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "2trackmastering.com",
     "title": "2Track Mastering | Audio mastering studio",
     "business_name": "",
@@ -15225,35 +15250,6 @@
       "Ruby on Rails",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "thechiropracticoffice.ca",
-    "title": "The Chiropractic Office & Health Associates",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 21520,
-    "crawled_at": "2026-05-28T13:48:21.777448478Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "Clinic Sites",
-      "CloudFront",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Customer Reviews",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Ruby on Rails",
-      "Sentry",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vimeo"
     ]
   }
 ]
