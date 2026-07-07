@@ -72,7 +72,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Refersion](./leads/companies-using-refersion) (1,308 companies)
 
 ### Analytics
-- [Companies using Google Analytics](./leads/companies-using-google-analytics) (2,908,855 companies)
+- [Companies using Google Analytics](./leads/companies-using-google-analytics) (2,908,856 companies)
 - [Companies using Mixpanel](./leads/companies-using-mixpanel) (7,709 companies)
 - [Companies using Amplitude](./leads/companies-using-amplitude) (7,698 companies)
 - [Companies using Heap](./leads/companies-using-heap) (2,448 companies)
@@ -154,7 +154,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Rackspace](./leads/companies-using-rackspace) (7,696 companies)
 
 ### Content Management System (CMS)
-- [Companies using WordPress](./leads/companies-using-wordpress) (4,342,832 companies)
+- [Companies using WordPress](./leads/companies-using-wordpress) (4,342,834 companies)
 - [Companies using Drupal](./leads/companies-using-drupal) (25,276 companies)
 - [Companies using Joomla!](./leads/companies-using-joomla!) (35,872 companies)
 - [Companies using Adobe Experience Manager](./leads/companies-using-adobe-experience-manager) (1,788 companies)
@@ -376,7 +376,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Angular](./leads/companies-using-angular) (56,782 companies)
 - [Companies using Next.js](./leads/companies-using-next.js) (483,692 companies)
 - [Companies using Nuxt.js](./leads/companies-using-nuxt.js) (154,515 companies)
-- [Companies using jQuery](./leads/companies-using-jquery) (3,185,751 companies)
+- [Companies using jQuery](./leads/companies-using-jquery) (3,185,752 companies)
 - [Companies using Astro](./leads/companies-using-astro) (38,455 companies)
 
 ### Lead Generation
@@ -513,7 +513,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Material Design Icons](./leads/companies-using-material-design-icons) (25,153 companies)
 
 ### Web Servers
-- [Companies using NGINX](./leads/companies-using-nginx) (1,456,846 companies)
+- [Companies using NGINX](./leads/companies-using-nginx) (1,456,847 companies)
 - [Companies using Apache](./leads/companies-using-apache) (1,420,999 companies)
 - [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,154,412 companies)
 - [Companies using OpenResty](./leads/companies-using-openresty) (270,011 companies)
