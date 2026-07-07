@@ -493,7 +493,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Scully](./leads/companies-using-scully) (1,453 companies)
 
 ### Video Platforms
-- [Companies using YouTube](./leads/companies-using-youtube) (1,959,658 companies)
+- [Companies using YouTube](./leads/companies-using-youtube) (1,959,659 companies)
 - [Companies using Vimeo](./leads/companies-using-vimeo) (253,341 companies)
 - [Companies using Wistia](./leads/companies-using-wistia) (12,274 companies)
 - [Companies using Brightcove](./leads/companies-using-brightcove) (1,687 companies)

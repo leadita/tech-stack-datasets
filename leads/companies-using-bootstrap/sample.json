@@ -1,5 +1,35 @@
 [
   {
+    "domain": "levydevay.com",
+    "title": "Levy Devay",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 15946,
+    "crawled_at": "2026-07-06T08:41:19.970684018Z",
+    "technologies": [
+      "Apache",
+      "Automattic",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Endis",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "InitiativeS",
+      "Perl",
+      "QUIC",
+      "Start Bootstrap",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "nelsonnation.com",
     "title": "Nelson Nation",
     "business_name": "",
@@ -15313,33 +15343,6 @@
       "WordPress Multisite",
       "WordPress Stats",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "comercialbaby.com.py",
-    "title": "Comercial Baby | Inicio",
-    "business_name": "",
-    "country": "PRY",
-    "seo_score": 65,
-    "tech_spend": 2908,
-    "crawled_at": "2026-05-20T12:42:07.709854604Z",
-    "technologies": [
-      "Apache",
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Instagram Follow Button",
-      "No-Q",
-      "StackPath",
-      "Start Bootstrap",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
