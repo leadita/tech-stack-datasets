@@ -1,5 +1,33 @@
 [
   {
+    "domain": "albert-stg.net",
+    "title": "Grades 5-12 reading, writing, math, science, and test prep | Albert",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 11200,
+    "crawled_at": "2026-07-05T06:35:19.968324361Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Next.js",
+      "Pipedrive",
+      "Pleroma",
+      "RM Education",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "Typeform",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "copula.agency",
     "title": "Copula Agency powered by Degordian",
     "business_name": "",
@@ -60,34 +88,6 @@
       "Twitter Ads",
       "Vimeo",
       "WordPress"
-    ]
-  },
-  {
-    "domain": "albert-dev.net",
-    "title": "Grades 5-12 reading, writing, math, science, and test prep | Albert",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 11200,
-    "crawled_at": "2026-07-02T16:02:19.970392291Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CloudFront",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Next.js",
-      "Pipedrive",
-      "Pleroma",
-      "RM Education",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "Typeform",
-      "UTF-8",
-      "University or College"
     ]
   },
   {
