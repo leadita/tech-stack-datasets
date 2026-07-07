@@ -1,12 +1,12 @@
 [
   {
-    "domain": "warmdelights.com",
-    "title": "Products | Betty Crocker",
+    "domain": "bakingschool.biz",
+    "title": "Recipes & Cookbooks - Food, Cooking Recipes | Betty Crocker",
     "business_name": "",
     "country": "",
-    "seo_score": 57,
-    "tech_spend": 75480,
-    "crawled_at": "2026-07-03T19:59:19.973173386Z",
+    "seo_score": 55,
+    "tech_spend": 85480,
+    "crawled_at": "2026-07-06T03:38:19.971489763Z",
     "technologies": [
       "Alternate Protocol",
       "Bazaarvoice",
@@ -19,6 +19,7 @@
       "Pleroma",
       "QUIC",
       "Sitecore CMS",
+      "The Fresh",
       "Twitter Ads",
       "UTF-8",
       "Vercel",
