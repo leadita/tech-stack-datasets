@@ -1,5 +1,31 @@
 [
   {
+    "domain": "andramanday.web.id",
+    "title": "Andra Manday — Fullstack Developer & Tech Lead",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 17040,
+    "crawled_at": "2026-07-07T11:35:19.967810934Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "NFOrce Internet",
+      "Next.js",
+      "PHP",
+      "Perl",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "suherman.net",
     "title": "iman-suherman (Suherman) · GitHub",
     "business_name": "",
@@ -14570,31 +14596,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "coming.top",
-    "title": "Pretty World - Cloudflare Workers Dir",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 252,
-    "crawled_at": "2026-04-20T07:53:19.977106853Z",
-    "technologies": [
-      "ArvanCloud",
-      "Baidu Ads",
-      "Baidu Cloud",
-      "Bing Cashback",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "GitHub Hosting",
-      "Google My Business",
-      "Semantic UI",
-      "UTF-8",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
