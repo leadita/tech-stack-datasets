@@ -1,5 +1,33 @@
 [
   {
+    "domain": "homewardva.org",
+    "title": "Homeward - Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 1085,
+    "crawled_at": "2026-07-06T23:41:19.967948932Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "Bloomerang",
+      "CloudFront",
+      "Duda",
+      "ETranslate",
+      "FormSubmit",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "Nginx",
+      "No-Q",
+      "QUIC",
+      "Site Search 360",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "auglaizehealth.org",
     "title": "Home | Auglaize County Health Department",
     "business_name": "Auglaize County Health Department",
@@ -15900,42 +15928,6 @@
       "Vimeo",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "feikemasanitation.com",
-    "title": "Plumber Munster IN | Family-Owned Plumbing & Sanitation",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 21270,
-    "crawled_at": "2026-03-31T14:44:21.191031574Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Amazon WAF Blocked",
-      "Better Lead Generation Services",
-      "Birdeye",
-      "CloudFront",
-      "Commoninja",
-      "Duda",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "Investor Relations",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "No-Q",
-      "QUIC",
-      "Site Search 360",
-      "Tailwind CSS",
-      "UTF-8",
-      "Yelp Badge"
     ]
   }
 ]
