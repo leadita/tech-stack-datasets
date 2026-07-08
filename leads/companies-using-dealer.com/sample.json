@@ -1,5 +1,39 @@
 [
   {
+    "domain": "supermarketracks.net",
+    "title": "Top Supermarket Racks, Best Departmental Rack Price, Kirana Racks",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 6920,
+    "crawled_at": "2026-07-08T05:47:19.973304194Z",
+    "technologies": [
+      "Aruba",
+      "Better Lead Generation Services",
+      "CDN JS",
+      "CakePHP",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "Dealer.com",
+      "Fancybox for WordPress",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "YouTube",
+      "eLand",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "ktm-husqvarna-aligarh.com",
     "title": "KTM Bikes in Aligarh | Models & Prices - KTM Husqvarna Aligarh",
     "business_name": "",
@@ -19006,41 +19040,6 @@
       "UTF-8",
       "Underscores",
       "dc.js"
-    ]
-  },
-  {
-    "domain": "txresaleco.com",
-    "title": "Storage Sheds for Sale Cameron, Texas | Texas Resale Company of Cameron",
-    "business_name": "",
-    "country": "KEN",
-    "seo_score": 72,
-    "tech_spend": 31809,
-    "crawled_at": "2026-04-29T02:56:19.980870753Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Dealer.com",
-      "EmbedPress",
-      "Fancybox for WordPress",
-      "Fireblade",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "PHP",
-      "Prefix Free",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
