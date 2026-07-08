@@ -1,5 +1,27 @@
 [
   {
+    "domain": "alamocityc10club.com",
+    "title": "Alamo City C10’s - C10, Chevrolet, Chevy Silverado",
+    "business_name": "Alamo City C10’s",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 26188,
+    "crawled_at": "2026-07-08T13:05:19.970969213Z",
+    "technologies": [
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "JotForm",
+      "Microdata for Google Shopping",
+      "PWA",
+      "RM Education",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "tuberiasanitaria.mx",
     "title": "Tuberia Sanitaria Inoxidable, Tuberia Sanitaria de Acero Inoxidable, Tuberia Sanitaria Inoxidable México, Tuberia Sanitaria, Tuberia Sanitaria Grado Alimenticio, Tuberia Sanitaria A270 de Acero Inoxidable",
     "business_name": "",
@@ -19642,42 +19664,6 @@
       "Vimeo",
       "Weglot",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "globalsalonsuites.com",
-    "title": "Global Salon Suites",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 11027,
-    "crawled_at": "2026-05-17T07:56:19.984713797Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Elementor",
-      "ElementsKit Elementor",
-      "EmbedPress",
-      "Express",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Header, Footer and Blocks for Elementor",
-      "Hello Elementor",
-      "JotForm",
-      "LiteSpeed",
-      "Metform Elemento",
-      "PHP",
-      "Premium Addons for Elementor",
-      "QUIC",
-      "RM Education",
-      "Royal Elementor Addons",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
