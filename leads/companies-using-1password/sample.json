@@ -1,5 +1,25 @@
 [
   {
+    "domain": "chirostore.net",
+    "title": "ChiroStore — Look up your order",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 57,
+    "tech_spend": 99,
+    "crawled_at": "2026-07-08T05:53:19.968280571Z",
+    "technologies": [
+      "1Password",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Nginx",
+      "Pleroma",
+      "UTF-8",
+      "Ubuntu"
+    ]
+  },
+  {
     "domain": "passworksales.com",
     "title": "Self-hosted password & secrets manager for business | Passwork",
     "business_name": "",
@@ -14045,29 +14065,6 @@
       "SMC",
       "Yandex Hosting",
       "YouTube",
-      "Zeald"
-    ]
-  },
-  {
-    "domain": "in2sales.cc",
-    "title": "In2Sales - Stop Losing Leads Between Intercom and Salesforce",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 206731,
-    "crawled_at": "2026-06-01T12:05:41.38711224Z",
-    "technologies": [
-      "1Password",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Coming Soon Page",
-      "Framer Sites",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Ntent",
-      "SMC",
-      "Salesforce Hosted",
-      "Yandex Hosting",
       "Zeald"
     ]
   }
