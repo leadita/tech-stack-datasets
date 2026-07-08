@@ -1,5 +1,38 @@
 [
   {
+    "domain": "aquariushealingarts.com",
+    "title": "Welcome To Aquarius Healing Arts Center - Aquarius Healing Arts Center",
+    "business_name": "",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 3236,
+    "crawled_at": "2026-07-07T17:05:19.974344299Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Contact Form Plugin",
+      "Content Delivery Network",
+      "DAV",
+      "EmbedPress",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Popup Maker for Wordpress",
+      "Theme In WP",
+      "UTF-8",
+      "Vagaro",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "cresultsbeauty.com",
     "title": "CResultsBeauty · Medical Spa in Houston, TX",
     "business_name": "",
@@ -16887,31 +16920,6 @@
       "Vagaro",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "privespacentre.com",
-    "title": "Privé Spa - Your private refuge for wellness and rejuvenation – Prive Spa",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 77,
-    "tech_spend": 3996,
-    "crawled_at": "2026-05-25T15:41:41.851632151Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Schema Plugin",
-      "Shopify",
-      "Shopify Collabs",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vagaro",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   }
 ]
