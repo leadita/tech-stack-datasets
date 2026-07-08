@@ -1,5 +1,26 @@
 [
   {
+    "domain": "oiw.lol",
+    "title": "oiw.lol",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 263,
+    "crawled_at": "2026-07-08T07:08:19.969991318Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Pico CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "andramanday.web.id",
     "title": "Andra Manday — Fullstack Developer & Tech Lead",
     "business_name": "",
@@ -14560,42 +14581,6 @@
       "Cloudflare Workers",
       "Thank You",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "savannahphotographicworkshop.com",
-    "title": "savannah photographic workshop",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 33475,
-    "crawled_at": "2026-04-20T08:50:20.014155341Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare Bot Manager",
-      "Cloudflare Insights",
-      "Cloudflare Workers",
-      "CoBlocks",
-      "Content Delivery Network",
-      "DAV",
-      "EmbedPress",
-      "Express",
-      "GoDaddy",
-      "Google Cloud DNS",
-      "Google Font API",
-      "MailChimp",
-      "MailChimp for WordPress",
-      "PHP",
-      "Say what",
-      "Theme In WP",
-      "UTF-8",
-      "Wangsu",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
