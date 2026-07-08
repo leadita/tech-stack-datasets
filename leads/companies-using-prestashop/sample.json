@@ -1,5 +1,52 @@
 [
   {
+    "domain": "store4store.com",
+    "title": "store4store.com.new",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": "",
+    "crawled_at": "2026-07-08T11:50:19.968104005Z",
+    "technologies": [
+      "LiteSpeed",
+      "PrestaShop",
+      "QUIC",
+      "WordPress"
+    ]
+  },
+  {
+    "domain": "spinnaker-one.com",
+    "title": "Spinnaker one Switzerland",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 29068,
+    "crawled_at": "2026-07-08T05:05:19.967676885Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Barracuda Web App Firewall",
+      "Express",
+      "GZIP Module",
+      "Gambling Content",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Material Design Icons",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PHP",
+      "PrestaShop",
+      "QUIC",
+      "Schema Plugin",
+      "Tailwind CSS",
+      "UTF-8",
+      "ashop",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "traditionsfurniture.pk",
     "title": "Traditions Furniture",
     "business_name": "Traditions Furniture",
@@ -27,21 +74,6 @@
       "UTF-8",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "aria.org.pl",
-    "title": "aria.org.pl",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": "",
-    "crawled_at": "2026-07-06T07:35:19.973213137Z",
-    "technologies": [
-      "LiteSpeed",
-      "PrestaShop",
-      "QUIC",
-      "WordPress"
     ]
   },
   {
@@ -15219,37 +15251,6 @@
       "Schema Plugin",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "virenwebdesign.com",
-    "title": "Web design and development",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 52440,
-    "crawled_at": "2026-05-25T02:17:29.527862114Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CodeIgniter",
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Perl",
-      "PrestaShop",
-      "QUIC",
-      "SMC",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
