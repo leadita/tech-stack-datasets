@@ -1,5 +1,27 @@
 [
   {
+    "domain": "zoeydraws.com",
+    "title": "Zoey Nguyen – Product Designer",
+    "business_name": "",
+    "country": "SGP",
+    "seo_score": 67,
+    "tech_spend": 2160,
+    "crawled_at": "2026-07-07T19:53:19.968191341Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Figma",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Next.js",
+      "Ntent",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "raccodynamx.ca",
     "title": "Raccodynamx — Centralized EV Charging",
     "business_name": "Raccodynamx",
@@ -13532,30 +13554,6 @@
       "Perl",
       "Pleroma",
       "QUIC",
-      "Schema Plugin",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "lmcbuildersinc.com",
-    "title": "LMC Builders",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 156,
-    "crawled_at": "2026-05-23T18:32:19.972388677Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Figma",
-      "GZIP Module",
-      "Google My Business",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Nginx",
-      "Perl",
-      "Pleroma",
       "Schema Plugin",
       "UTF-8"
     ]
