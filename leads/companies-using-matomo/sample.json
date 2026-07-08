@@ -1,5 +1,36 @@
 [
   {
+    "domain": "covenantloanfunding.com",
+    "title": "Covenant Loan Funding Corporation - Low Mortgage Rates, Home Refinancing, No Cost Refinance in California",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 6837,
+    "crawled_at": "2026-07-08T03:05:19.968714223Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Bulma",
+      "CloudFront",
+      "Elfsight",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Matomo",
+      "Matomo Tag Manager",
+      "Nationwide Mortgage Licensing System and Registry",
+      "QUIC",
+      "Share Link",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "UserWay",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "levyalban-antiques-paris.com",
     "title": "Home Sylvain Levy-Alban - Antiques - Paris",
     "business_name": "",
@@ -17803,35 +17834,6 @@
       "RokNavMenu",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "gsfffxf.top",
-    "title": "Hari om kirana and ganrel store , Hyderabad - Order Online",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 914,
-    "crawled_at": "2026-06-09T04:06:02.857305809Z",
-    "technologies": [
-      "Fastly",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Hotjar",
-      "Matomo",
-      "Matomo Tag Manager",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "PWA",
-      "Pleroma",
-      "QUIC",
-      "Styled Components",
-      "UTF-8"
     ]
   }
 ]
