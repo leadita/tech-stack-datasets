@@ -1,5 +1,40 @@
 [
   {
+    "domain": "digitaldrivermarketing.com",
+    "title": "Digital Driver – Digital Marketing For Car Dealership",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 263,
+    "crawled_at": "2026-07-08T13:56:19.97314087Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Astra Theme",
+      "Contact Form Plugin",
+      "Content Delivery Network",
+      "Elementor",
+      "ElementsKit Elementor",
+      "EmbedPress",
+      "Essential Addons for Elementor",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Header, Footer and Blocks for Elementor",
+      "LiteSpeed",
+      "PHP",
+      "PixelYourSite",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Related Posts",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "neonartist.in",
     "title": "Custom Neon Signs Online India | Neon Artist",
     "business_name": "Neon Artist",
@@ -22077,40 +22112,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "westchesterlivevideo.com",
-    "title": "DedlineAV – Live Video to the Web",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 30330,
-    "crawled_at": "2026-06-07T03:34:47.898270222Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Beaver Builder Lite",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Contento",
-      "EmbedPress",
-      "Endurance Page Cache",
-      "Fastly",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "PHP",
-      "PixelYourSite",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
