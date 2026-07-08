@@ -1,5 +1,26 @@
 [
   {
+    "domain": "carpetcleanerkeller.com",
+    "title": "Carpet Cleaner Keller TX - Carpet Steam Cleaning",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2772,
+    "crawled_at": "2026-07-07T16:47:19.968461307Z",
+    "technologies": [
+      "Apache",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "LiveChat",
+      "LiveChat Monitoring",
+      "Rocket Chat",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "yesgroup88.com",
     "title": "Home | welcome to YesGroup",
     "business_name": "",
@@ -19390,31 +19411,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "cepquesttrip.com",
-    "title": "CEP Quest Trip | Ocala CEP",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 2151,
-    "crawled_at": "2026-05-23T17:38:19.973828439Z",
-    "technologies": [
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "LiveChat",
-      "LiveChat Monitoring",
-      "Nginx",
-      "Rocket Chat",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]
