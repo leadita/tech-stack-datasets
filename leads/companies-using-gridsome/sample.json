@@ -1,5 +1,29 @@
 [
   {
+    "domain": "vandlmusic.com",
+    "title": "VANDL",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 2490,
+    "crawled_at": "2026-07-08T14:53:19.968402184Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Apple Auto Link Maker",
+      "CloudFront",
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Instagram Follow Button",
+      "QUIC",
+      "Twitter Ads"
+    ]
+  },
+  {
     "domain": "svfplatform.nl",
     "title": "Werkgroep | Werkgroep",
     "business_name": "",
@@ -8360,30 +8384,6 @@
       "UTF-8",
       "Unsplash",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "vandlmusic.com",
-    "title": "VANDL",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 2490,
-    "crawled_at": "2026-04-11T03:45:09.747038245Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Apple Auto Link Maker",
-      "CloudFront",
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Instagram Follow Button",
-      "QUIC",
-      "Twitter Ads"
     ]
   },
   {
