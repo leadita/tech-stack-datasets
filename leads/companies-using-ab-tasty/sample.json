@@ -1,5 +1,37 @@
 [
   {
+    "domain": "saxonhomeschool.com",
+    "title": "Homeschool Curriculum | K-12 Homeschool Programs | HMH",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 58010,
+    "crawled_at": "2026-07-08T07:14:19.974242241Z",
+    "technologies": [
+      "AB Tasty",
+      "AWS WAF Challenge",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "MyFonts",
+      "Nginx",
+      "Storyblocks",
+      "Tailwind CSS",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "presidentsheets.com",
     "title": "Luxury Organic Bedding, Sheets & Towels | Boll & Branch® | Boll & Branch",
     "business_name": "",
