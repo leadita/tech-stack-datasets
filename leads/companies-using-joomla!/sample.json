@@ -1,5 +1,69 @@
 [
   {
+    "domain": "laufbrekka.is",
+    "title": "Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 102,
+    "crawled_at": "2026-07-08T12:17:19.973647015Z",
+    "technologies": [
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Joomla!",
+      "LiteSpeed",
+      "PHP",
+      "QUIC",
+      "RokNavMenu",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "yuimamwd.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 3,
+    "crawled_at": "2026-07-08T05:08:19.968745237Z",
+    "technologies": [
+      "Apache",
+      "FreeCSSTemplates",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Joomla!",
+      "PHP",
+      "RokNavMenu",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "urbanteam.pt",
+    "title": "Urban Team - Engenharia e Construção Civil Lda | Home",
+    "business_name": "",
+    "country": "PRT",
+    "seo_score": 62,
+    "tech_spend": "",
+    "crawled_at": "2026-07-08T03:44:19.968514051Z",
+    "technologies": [
+      "GZIP Module",
+      "Google My Business",
+      "Joomla!",
+      "Nginx",
+      "PHP",
+      "RokNavMenu",
+      "UTF-8",
+      "WP Featherlight",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "kiwanispavilion.ca",
     "title": "Home",
     "business_name": "",
@@ -12690,84 +12754,6 @@
       "Tailwind CSS",
       "UTF-8",
       "University or College",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "armalit-dnr.ru",
-    "title": "Бронеэлементы",
-    "business_name": "",
-    "country": "RUS",
-    "seo_score": 65,
-    "tech_spend": 58440,
-    "crawled_at": "2026-06-09T01:17:19.969730766Z",
-    "technologies": [
-      "ADFOX",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Joomla!",
-      "OpenResty",
-      "PHP",
-      "RokNavMenu",
-      "SMC",
-      "Telegram",
-      "UTF-8",
-      "WP Featherlight",
-      "Yandex Hosting",
-      "Yandex Metrika",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "ferien-tannenhof.de",
-    "title": "Home-System",
-    "business_name": "Tannenhof Bornholdt",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 7500,
-    "crawled_at": "2026-06-09T01:14:52.235964452Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apache",
-      "Fireblade",
-      "Joomla!",
-      "Microdata for Google Shopping",
-      "PHP",
-      "RokNavMenu",
-      "UTF-8",
-      "Unix"
-    ]
-  },
-  {
-    "domain": "brexitsupportdesk.nl",
-    "title": "Home - NBCC",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 60,
-    "tech_spend": 1356,
-    "crawled_at": "2026-06-09T01:09:45.372756269Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "CookieConsent",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "InitiativeS",
-      "Joomla!",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "RokNavMenu",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "eLand",
       "jQuery"
     ]
   }

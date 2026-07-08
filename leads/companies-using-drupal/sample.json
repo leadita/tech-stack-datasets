@@ -1,5 +1,41 @@
 [
   {
+    "domain": "coolgedu.com",
+    "title": "CoolG Edu |",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 67,
+    "tech_spend": 31420,
+    "crawled_at": "2026-07-08T09:02:19.968973129Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apple Auto Link Maker",
+      "Bulma",
+      "Content Delivery Network",
+      "Drupal",
+      "Endis",
+      "FreeCSSTemplates",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Play",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Line2",
+      "Nginx",
+      "PHP",
+      "Subversion",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "c4a.info",
     "title": "| California Association of Area Agencies on Aging",
     "business_name": "",
@@ -14564,35 +14600,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "marijuanadoctortx.com",
-    "title": "Get your Texas Medical Marijuana Card from the comfort of your own home! | Marijuana Doctor",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 13500,
-    "crawled_at": "2026-06-06T20:59:19.971015938Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Backdrop",
-      "Bing Cashback",
-      "Bing Conversion Tracking",
-      "Content Delivery Network",
-      "Doctor.com",
-      "Drupal",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "New Relic",
-      "Nginx",
-      "Refersion",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]
