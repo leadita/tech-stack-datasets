@@ -1,5 +1,57 @@
 [
   {
+    "domain": "rewards.earth",
+    "title": "Climate action that supports UK veterans | Carma",
+    "business_name": "Carma",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 660,
+    "crawled_at": "2026-07-08T11:26:19.969629082Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Better Lead Generation Services",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Digital Ocean Spaces",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LinkedIn Insights",
+      "LinkedIn Pixel",
+      "Mailjet Widget",
+      "Next.js",
+      "Radix UI",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "orbitconnectgroup.info",
+    "title": "TCPR · Pitch perfect PR.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 17632,
+    "crawled_at": "2026-07-08T08:38:19.973951108Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Calendly",
+      "Cloudflare",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Radix UI",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "ecnetwork.com",
     "title": "OnSolve | Crisis24",
     "business_name": "",
@@ -167,30 +219,6 @@
       "Zoom Video Conferencing",
       "cstate",
       "eLand",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "teamimpactline.co",
-    "title": "TCPR · Pitch perfect PR.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 17632,
-    "crawled_at": "2026-07-06T23:47:19.96872145Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Calendly",
-      "Cloudflare",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Radix UI",
-      "Tailwind CSS",
-      "UTF-8",
       "shadcn ui"
     ]
   },
@@ -13770,24 +13798,6 @@
       "Perl",
       "QUIC",
       "Radix UI"
-    ]
-  },
-  {
-    "domain": "stemcenterktm.com",
-    "title": "STEM Center - Health & Happiness",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2026-06-08T09:14:19.969341892Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Next.js",
-      "Radix UI",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
