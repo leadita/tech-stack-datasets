@@ -1,5 +1,85 @@
 [
   {
+    "domain": "source-wise.com",
+    "title": "Vendor Sourcing Reports for Local Businesses | SourceWise | SourceWise",
+    "business_name": "SourceWise",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-07-09T11:41:19.97308164Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Tailwind CSS",
+      "Termly",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "taxishermanosoliva.com",
+    "title": "Taxi Pilar De La Horadada y Mil Palmeras | Taxis Hermanos ''Oliva''",
+    "business_name": "AGENTE SERVICE TRANSFERS S.L.",
+    "country": "ESP",
+    "seo_score": 77,
+    "tech_spend": 200588,
+    "crawled_at": "2026-07-09T06:50:19.970809139Z",
+    "technologies": [
+      "Adobe Analytics",
+      "Adobe Marketing Cloud",
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Perl",
+      "QUIC",
+      "Styled Components",
+      "Tailwind CSS",
+      "Termly",
+      "Twitter Ads",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "saferwaves.org",
+    "title": "Charity for Seafarers | Safer Waves",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 16308,
+    "crawled_at": "2026-07-09T05:32:19.969477555Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Harbor",
+      "Instagram Follow Button",
+      "Nginx",
+      "QUIC",
+      "Tailwind CSS",
+      "Termly",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "soverionai.com",
     "title": "Empowering IT Ecosystems with Adaptive AI | Soverion AI",
     "business_name": "SoverionAI: The next evolution in intelligent enterprise information systems.",
@@ -16435,73 +16515,6 @@
       "Termly",
       "University or College",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "bierstedmultiservice.dk",
-    "title": "Hækklipning & belægningsarbejde Aabybro",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 840,
-    "crawled_at": "2026-05-26T10:11:19.972433506Z",
-    "technologies": [
-      "Bunny Fonts",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Nginx",
-      "Subversion",
-      "Termly",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "qtic.co.uk",
-    "title": "Quantum Technologies Innovation Centre | Temple Quarter Enterprise Campus | University of Bristol",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 19188,
-    "crawled_at": "2026-05-26T06:56:19.969372949Z",
-    "technologies": [
-      "Apache",
-      "Corporate Governance and Regulatory Compliance",
-      "Fireblade",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microsoft 365",
-      "Termly",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "car-clean.fi",
-    "title": "CAR CLEN KÄSINPESU",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 663,
-    "crawled_at": "2026-05-26T04:17:24.020108312Z",
-    "technologies": [
-      "Apache",
-      "Dogado Internet",
-      "Fastly",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Termly"
     ]
   }
 ]
