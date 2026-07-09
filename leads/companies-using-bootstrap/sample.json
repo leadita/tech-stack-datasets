@@ -1,5 +1,36 @@
 [
   {
+    "domain": "alidanesh.co",
+    "title": "Ali Danesh",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 856,
+    "crawled_at": "2026-07-09T04:29:19.96799171Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon Widgets",
+      "Apache",
+      "Apture Linking Platform",
+      "Bootstrap Basic",
+      "Contact Form Plugin",
+      "EmbedPress",
+      "GZIP Module",
+      "Google My Business",
+      "IcoMoon",
+      "NFOrce Internet",
+      "PHP",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "Ubuntu",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "easycarinsurancequotes.com",
     "title": "AdTrust Media - Performance Marketing Redefined",
     "business_name": "",
@@ -15284,33 +15315,6 @@
       "WordPress",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "pos-api.net",
-    "title": "POS API.net",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 324,
-    "crawled_at": "2026-05-20T13:52:48.917279595Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Start Bootstrap",
-      "jsDelivr"
     ]
   }
 ]
