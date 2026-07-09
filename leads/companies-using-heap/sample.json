@@ -1,5 +1,29 @@
 [
   {
+    "domain": "shoppersuite.org",
+    "title": "Sign In - Audience Data Hub",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 2988,
+    "crawled_at": "2026-07-08T16:35:19.968141779Z",
+    "technologies": [
+      "Adult Content",
+      "Amazon WAF Blocked",
+      "Apache",
+      "Apture Linking Platform",
+      "Debian",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Heap",
+      "New Relic",
+      "Tailwind CSS",
+      "UTF-8",
+      "Userpilot",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "sync-ire.com",
     "title": "Chris Coppola, Real Estate Agent - Compass",
     "business_name": "Compass",
@@ -21756,50 +21780,6 @@
       "Tailwind CSS",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "corkytangiesguidedfishingtoursfl.com",
-    "title": "Sebring Florida Fishing Charters | Bass and Panfishing Tours",
-    "business_name": "Corky &amp; Tangie’s Guided Bass &amp; Panfishing Tours",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 55650,
-    "crawled_at": "2026-05-09T03:44:19.990009099Z",
-    "technologies": [
-      "About Cookies",
-      "Amazon",
-      "Amazon API Gateway",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Content Delivery Network",
-      "DoubleClick Bid Manager",
-      "Express",
-      "Fastly",
-      "Fireblade",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Customer Reviews",
-      "Google Font API",
-      "Google Maps",
-      "Heap",
-      "Hubspot",
-      "Line2",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Network Advertising Initiative",
-      "Next.js",
-      "On The Map",
-      "Perl",
-      "Pleroma",
-      "QUIC",
-      "Stripe",
-      "UTF-8",
-      "YouTube",
-      "Zendesk Embeddables"
     ]
   }
 ]
