@@ -105,7 +105,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using AutoLeadStar](./leads/companies-using-autoleadstar) (74 companies)
 
 ### Backend & API Development
-- [Companies using PHP](./leads/companies-using-php) (2,949,546 companies)
+- [Companies using PHP](./leads/companies-using-php) (2,949,547 companies)
 - [Companies using Python](./leads/companies-using-python) (150,805 companies)
 - [Companies using Laravel](./leads/companies-using-laravel) (5,131 companies)
 - [Companies using Django](./leads/companies-using-django) (966 companies)
@@ -145,7 +145,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 
 ### Cloud Providers
 - [Companies using Amazon](./leads/companies-using-amazon) (2,374,425 companies)
-- [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,344,139 companies)
+- [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,344,140 companies)
 - [Companies using Microsoft Azure](./leads/companies-using-microsoft-azure) (139,137 companies)
 - [Companies using Heroku](./leads/companies-using-heroku) (44,124 companies)
 - [Companies using Netlify](./leads/companies-using-netlify) (130,948 companies)
@@ -216,7 +216,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using CapsuleCRM](./leads/companies-using-capsulecrm) (63 companies)
 
 ### CSS Frameworks
-- [Companies using Tailwind CSS](./leads/companies-using-tailwind-css) (2,410,337 companies)
+- [Companies using Tailwind CSS](./leads/companies-using-tailwind-css) (2,410,338 companies)
 - [Companies using Bootstrap](./leads/companies-using-bootstrap) (5,692 companies)
 - [Companies using Material-UI](./leads/companies-using-material-ui) (23,045 companies)
 - [Companies using Chakra UI](./leads/companies-using-chakra-ui) (2,098 companies)
@@ -269,7 +269,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Foxit](./leads/companies-using-foxit) (31 companies)
 
 ### Ecommerce
-- [Companies using Shopify](./leads/companies-using-shopify) (379,116 companies)
+- [Companies using Shopify](./leads/companies-using-shopify) (379,117 companies)
 - [Companies using WooCommerce](./leads/companies-using-woocommerce) (473,017 companies)
 - [Companies using Magento](./leads/companies-using-magento) (885,697 companies)
 - [Companies using BigCommerce](./leads/companies-using-bigcommerce) (4,989 companies)
