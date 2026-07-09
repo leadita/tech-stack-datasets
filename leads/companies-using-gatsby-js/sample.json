@@ -1,5 +1,61 @@
 [
   {
+    "domain": "ie.edu",
+    "title": "IE – Fostering Positive Change Through Education, Research & Innovation",
+    "business_name": "",
+    "country": "ESP",
+    "seo_score": 77,
+    "tech_spend": 246000,
+    "crawled_at": "2026-07-09T19:02:19.96874675Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Analytics",
+      "Adobe Marketing Cloud",
+      "Alternate Protocol",
+      "ContentBox",
+      "Eventbrite",
+      "GZIP Module",
+      "Gatsby JS",
+      "Google Analytics",
+      "Google Tag Manager",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Marketo",
+      "Pico CSS",
+      "QUIC",
+      "Styled Components",
+      "Twitter Ads",
+      "University or College",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "samandgrant.com",
+    "title": "澳洲幸运5 |中奖记录|实时直播|168结果|历史走势 - Lucky5官方网站最准最快更新号码结果 - Samantha & Grant's Wedding",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 3532,
+    "crawled_at": "2026-07-09T01:53:19.969568886Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Angular",
+      "Apture Linking Platform",
+      "GZIP Module",
+      "Gatsby JS",
+      "GetResponse",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Microsoft Clarity",
+      "New Relic",
+      "Nginx",
+      "PWA",
+      "QUIC",
+      "Styled Components"
+    ]
+  },
+  {
     "domain": "kotoro.click",
     "title": "Kotoro",
     "business_name": "",
@@ -13624,54 +13680,6 @@
       "Vector Internet Services",
       "YouCanBookMe",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "yomarketing.agency",
-    "title": "Fractional Marketing Agency | Yo Marketing",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 19684,
-    "crawled_at": "2026-05-26T23:24:37.296196985Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Ant Design Vue",
-      "Apollo IO",
-      "Apture Linking Platform",
-      "Better Lead Generation Services",
-      "Content Delivery Network",
-      "Gatsby JS",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Netlify",
-      "Sanity",
-      "Styled Components",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "developerdiary.me",
-    "title": "Home | Developer Diary",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 3,
-    "crawled_at": "2026-05-26T23:04:25.396030055Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gatsby JS",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
