@@ -1,5 +1,50 @@
 [
   {
+    "domain": "mazzetti-gewinnspiel.de",
+    "title": "Mazzetti-Gewinsspiel",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 55,
+    "tech_spend": "",
+    "crawled_at": "2026-07-09T04:44:19.970166507Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Laravel Livewire",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "equipements-interbeaute.com",
+    "title": "LES ÉQUIPEMENTS INTER BEAUTÉ.",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 70,
+    "tech_spend": 40,
+    "crawled_at": "2026-07-08T18:11:19.970756337Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Laravel Livewire",
+      "LiteSpeed",
+      "PHP",
+      "PWA",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "gd2023.org",
     "title": "幸运168（官网/官方）经典飞艇查询结果历史记录-168体彩飞行艇开奖官网开奖结果直播",
     "business_name": "",
@@ -13463,58 +13508,6 @@
       "UTF-8",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "thales-tech.com",
-    "title": "施比受有福慈光會｜線上捐款",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 3,
-    "crawled_at": "2026-05-19T14:35:20.016920252Z",
-    "technologies": [
-      "AutoComplete",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Laravel Livewire",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "wildelephas.com",
-    "title": "Home | Wild Elephas Sanctuary: Unforgettable Encounters in Udawalawe National Park",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 18100,
-    "crawled_at": "2026-05-19T14:12:16.644464634Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "ArvanCloud",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ElementUI",
-      "Endis",
-      "FreeCSSTemplates",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Laravel Livewire",
-      "UTF-8",
-      "Ubuntu",
-      "jsDelivr"
     ]
   }
 ]

@@ -1,5 +1,31 @@
 [
   {
+    "domain": "ocode.tech",
+    "title": "Organic Code | HealthTech Innovations | Organic Code",
+    "business_name": "",
+    "country": "EST",
+    "seo_score": 77,
+    "tech_spend": 54068,
+    "crawled_at": "2026-07-08T12:47:19.970990142Z",
+    "technologies": [
+      "DAV",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Nginx",
+      "Oracle Cloud",
+      "PWA",
+      "Ruby on Rails",
+      "SMC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "vermontjoblink.com",
     "title": "Vermont JobLink - Vermont JobLink",
     "business_name": "",
@@ -15223,33 +15249,6 @@
       "UTF-8",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "dalycitynaz.org",
-    "title": "Daly City Church of The Nazarene",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 123,
-    "crawled_at": "2026-05-28T16:37:12.966426153Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Mastodon",
-      "OpenResty",
-      "Ruby on Rails",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
