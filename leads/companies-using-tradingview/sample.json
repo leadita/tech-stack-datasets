@@ -1,5 +1,34 @@
 [
   {
+    "domain": "rescronai.org",
+    "title": "Rescronai.org | Advanced AI-Powered Automated Trading Platform",
+    "business_name": "",
+    "country": "Your Country",
+    "seo_score": 82,
+    "tech_spend": 16470,
+    "crawled_at": "2026-07-08T20:35:19.968889873Z",
+    "technologies": [
+      "Cloudflare",
+      "Fireblade",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "PHP",
+      "QUIC",
+      "SmartSupp",
+      "Tailwind CSS",
+      "TradingView",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "blovoacademy.com",
     "title": "Teslacryptocurrencyworld. | Welcome to Teslacryptocurrencyworld.",
     "business_name": "",
@@ -15403,29 +15432,6 @@
       "TradingView",
       "Trustpilot Reviews for WordPress",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "fxabot.com",
-    "title": "Fxabot",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 434,
-    "crawled_at": "2026-05-27T19:20:57.327813478Z",
-    "technologies": [
-      "CryptoCompare",
-      "HostGator",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Parallels Plesk Panel",
-      "QUIC",
-      "Slider Revolution",
-      "Tailwind CSS",
-      "TradingView",
-      "UTF-8",
-      "Visual Studio",
-      "jQuery"
     ]
   }
 ]
