@@ -1,14 +1,16 @@
 [
   {
-    "domain": "empfehlungsforum.de",
-    "title": "empfehlungsforum.de - Tipps, Bewertungen, Meinungen, Erfahrungen, Ratschläge, Hinweise, Empfehlungsforum",
+    "domain": "ideenwiki.de",
+    "title": "ideenwiki.de - Innovation, Ideen, Kunst, Kreativität, Design, Kommunikation, Ideenwiki",
     "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 299,
-    "crawled_at": "2026-07-08T23:17:19.972563017Z",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 199,
+    "crawled_at": "2026-07-09T20:02:19.97325618Z",
     "technologies": [
       "3 Products",
+      "Express",
+      "Financial Services Guide",
       "Font Awesome",
       "OpenResty",
       "Perl",
@@ -18,6 +20,74 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
+    ]
+  },
+  {
+    "domain": "nuholdings.org",
+    "title": "New Unity Holdings",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 7572,
+    "crawled_at": "2026-07-09T14:08:19.969726105Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CleanTalk Spam Protect",
+      "EmbedPress",
+      "Fireblade",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "OpenResty",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "chalmers.info",
+    "title": "Eric Chalmers",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 55,
+    "tech_spend": "",
+    "crawled_at": "2026-07-09T11:32:19.968426448Z",
+    "technologies": [
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "GZIP Module",
+      "OpenResty",
+      "Perl",
+      "UTF-8",
+      "University or College",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "fitlife4me.pt",
+    "title": "Fitlife4me | VSiteCard",
+    "business_name": "",
+    "country": "PRT",
+    "seo_score": 72,
+    "tech_spend": 3628,
+    "crawled_at": "2026-07-09T09:44:19.969475138Z",
+    "technologies": [
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "OpenResty",
+      "Svelte",
+      "UTF-8",
+      "WordPress",
+      "YouTube",
+      "hCaptcha",
+      "hCaptcha for WordPress"
     ]
   },
   {
@@ -12648,72 +12718,6 @@
       "OpenResty",
       "Perl",
       "Zyro"
-    ]
-  },
-  {
-    "domain": "swsp.eu",
-    "title": "swsp.eu - stay easy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": "",
-    "crawled_at": "2026-06-10T20:09:05.832977535Z",
-    "technologies": [
-      "GZIP Module",
-      "OpenResty",
-      "PHP",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "castlegreyschool.com",
-    "title": "Castle Grey School",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 72,
-    "tech_spend": 12600,
-    "crawled_at": "2026-06-10T20:00:01.690796647Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Aruba",
-      "Baidu Cloud",
-      "CloudFront",
-      "GZIP Module",
-      "Google Analytics",
-      "Instagram Follow Button",
-      "Onyx Internet",
-      "OpenResty",
-      "Perl",
-      "UTF-8",
-      "eLand",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "sodgrid.com",
-    "title": "replylead",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 63,
-    "crawled_at": "2026-06-10T20:00:01.645347046Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "Calendly",
-      "ClickOn",
-      "Content Delivery Network",
-      "Create React App",
-      "ElementUI",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "OpenResty",
-      "PWA",
-      "Pleroma",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
