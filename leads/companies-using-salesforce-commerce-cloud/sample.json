@@ -1,5 +1,23 @@
 [
   {
+    "domain": "cipriangheorghite.com",
+    "title": "Ciprian Gheorghite",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 155000,
+    "crawled_at": "2026-07-09T01:05:19.967657596Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Next.js",
+      "Salesforce Commerce Cloud",
+      "Salesforce Hosted",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "lifesavingawards.com",
     "title": "American Red Cross Lifesaving Awards Program | Red Cross",
     "business_name": "American Red Cross Training Services",
