@@ -1,5 +1,38 @@
 [
   {
+    "domain": "britishcarpculture.co.uk",
+    "title": "British Carp Culture",
+    "business_name": "British Carp Culture - It's Our Story",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 53,
+    "crawled_at": "2026-07-08T16:05:19.968304413Z",
+    "technologies": [
+      "AWIN",
+      "Alternate Protocol",
+      "Apache",
+      "Automattic",
+      "Complianz",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Express",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Jetpack",
+      "Sitelinks Search Box",
+      "Twenty Twenty-Two",
+      "UTF-8",
+      "Woo Themes",
+      "WooCommerce",
+      "WooCommerce Checkout",
+      "WooCommerce Payments",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "worldprivilege.com",
     "title": "World Privilege Plus Rewards | Exclusive Member Discounts & Deals",
     "business_name": "World Privilege Plus",
@@ -24885,38 +24918,6 @@
       "hCaptcha",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "britishcarpculture.co.uk",
-    "title": "British Carp Culture",
-    "business_name": "British Carp Culture - It's Our Story",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 905,
-    "crawled_at": "2026-04-11T14:52:57.506143479Z",
-    "technologies": [
-      "AWIN",
-      "Alternate Protocol",
-      "Apache",
-      "Automattic",
-      "Complianz",
-      "Content Delivery Network",
-      "EmbedPress",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Jetpack",
-      "Sitelinks Search Box",
-      "Twenty Twenty-Two",
-      "UTF-8",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WooCommerce Payments",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "jQuery"
     ]
   },
   {
