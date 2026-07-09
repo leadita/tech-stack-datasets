@@ -1,5 +1,74 @@
 [
   {
+    "domain": "rethinkspace.us",
+    "title": "ReThink Space",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 156,
+    "crawled_at": "2026-07-09T09:02:19.967895006Z",
+    "technologies": [
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Figma",
+      "GZIP Module",
+      "Google My Business",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Nginx",
+      "Perl",
+      "Pleroma",
+      "Schema Plugin",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "compliancesync.com",
+    "title": "ComplianceSync — Contractor Verification Community",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 4140,
+    "crawled_at": "2026-07-09T06:05:19.9691776Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Figma",
+      "GZIP Module",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Next.js",
+      "Tailwind CSS",
+      "UTF-8",
+      "Visual Studio",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "miltonbookpublishers.com",
+    "title": "Milton Books – Professional Self-Publishing",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 70,
+    "tech_spend": 16279,
+    "crawled_at": "2026-07-08T20:20:19.968984563Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Coming Soon Page",
+      "Figma",
+      "Free Call",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "QUIC",
+      "Thank You"
+    ]
+  },
+  {
     "domain": "zoeydraws.com",
     "title": "Zoey Nguyen – Product Designer",
     "business_name": "",
@@ -13478,84 +13547,6 @@
       "The Deck",
       "UTF-8",
       "eLand"
-    ]
-  },
-  {
-    "domain": "rightanglekitchens.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 55,
-    "tech_spend": 156,
-    "crawled_at": "2026-05-23T18:38:19.985140179Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "DAV",
-      "Figma",
-      "GZIP Module",
-      "Google My Business",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Nginx",
-      "Perl",
-      "Pleroma",
-      "Schema Plugin",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "dianneclayinteriors.com",
-    "title": "Dianne Clay Interiors",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 156,
-    "crawled_at": "2026-05-23T18:38:19.981489464Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Figma",
-      "GZIP Module",
-      "Google My Business",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Nginx",
-      "Perl",
-      "Pleroma",
-      "Schema Plugin",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "minterconstructionllc.com",
-    "title": "Minter Construction Company & Remodeling Johns Creek, Suwanee, GA",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 2427,
-    "crawled_at": "2026-05-23T18:38:19.977569805Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Figma",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Nginx",
-      "Perl",
-      "Pleroma",
-      "QUIC",
-      "Schema Plugin",
-      "UTF-8"
     ]
   }
 ]
