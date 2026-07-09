@@ -1,5 +1,22 @@
 [
   {
+    "domain": "napt.org.au",
+    "title": "Welcome to NAPT! | NAPT",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": "",
+    "crawled_at": "2026-07-09T05:11:19.968964825Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Drupal",
+      "LiteSpeed",
+      "PHP",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "coolgedu.com",
     "title": "CoolG Edu |",
     "business_name": "",
@@ -14582,24 +14599,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "mtnviewestates.com",
-    "title": "Welcome to Mountain View Estates | Mountain View Estates",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": "",
-    "crawled_at": "2026-06-06T21:07:57.536347255Z",
-    "technologies": [
-      "Apache",
-      "Content Delivery Network",
-      "DAV",
-      "Drupal",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]

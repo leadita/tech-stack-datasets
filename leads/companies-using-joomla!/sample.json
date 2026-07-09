@@ -1,5 +1,31 @@
 [
   {
+    "domain": "watsongroundworkscumbria.co.uk",
+    "title": "Home - Watson Groundworks Cumbria - Civil Engineering & Groundwork Services",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 203,
+    "crawled_at": "2026-07-08T21:08:19.968710526Z",
+    "technologies": [
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Joomla!",
+      "Kitco",
+      "LiteSpeed",
+      "PHP",
+      "Pico CSS",
+      "QUIC",
+      "RokNavMenu",
+      "Sucuri Cloudproxy",
+      "UTF-8",
+      "eLand",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "laufbrekka.is",
     "title": "Home",
     "business_name": "",
@@ -12731,30 +12757,6 @@
       "YouTube",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "etaphibeta-epsilon.org",
-    "title": "Welcome",
-    "business_name": "EtaPhiBeta - Epsilon",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 40,
-    "crawled_at": "2026-06-09T01:23:08.065848051Z",
-    "technologies": [
-      "Apache",
-      "FreeCSSTemplates",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Helix Ultimate",
-      "Joomla!",
-      "Microdata for Google Shopping",
-      "PHP",
-      "RokNavMenu",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "jQuery"
     ]
   }
 ]
