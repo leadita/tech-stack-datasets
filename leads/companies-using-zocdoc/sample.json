@@ -1,5 +1,31 @@
 [
   {
+    "domain": "wpftranscendental.com",
+    "title": "Mental Health Services | WPF Transcendental Consulting LLC | NYC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 79152,
+    "crawled_at": "2026-07-09T17:35:19.969395294Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "Amazon Widgets",
+      "Cart.com",
+      "CloudFront",
+      "Duda",
+      "FormSubmit",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Tailwind CSS",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "ZocDoc"
+    ]
+  },
+  {
     "domain": "burnettchiro.com",
     "title": "Chiropractor | Burnett Chiropractic & Massage, Inc.",
     "business_name": "Burnett Chiropractic and Massage Inc.",
@@ -18221,38 +18247,6 @@
       "ZocDoc",
       "intakeQ",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "drjoannaslusky.com",
-    "title": "Chicago Eye Doctors",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 7337,
-    "crawled_at": "2026-05-15T00:23:19.981489395Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "Yelp Badge",
-      "YouTube",
-      "ZocDoc",
-      "eLand"
     ]
   }
 ]
