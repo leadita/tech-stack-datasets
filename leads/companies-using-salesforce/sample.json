@@ -1,5 +1,74 @@
 [
   {
+    "domain": "sampleccf.com",
+    "title": "Constant Customer Feedback Survey",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 30000,
+    "crawled_at": "2026-07-09T09:02:19.968193457Z",
+    "technologies": [
+      "GZIP Module",
+      "HubSpot Conversations",
+      "Hubspot",
+      "Pico CSS",
+      "Salesforce Experience Cloud",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "cipriangheorghite.com",
+    "title": "Ciprian Gheorghite",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 155000,
+    "crawled_at": "2026-07-09T01:05:19.967657596Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Next.js",
+      "Salesforce Commerce Cloud",
+      "Salesforce Hosted",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "zymewiretech.com",
+    "title": "Zymewire Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 319684,
+    "crawled_at": "2026-07-08T16:50:19.968333237Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cybot",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "HubSpot Conversations",
+      "Hubspot",
+      "Hubspot Knowledge Base",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Salesforce",
+      "Salesforce Experience Cloud",
+      "Salesforce Hosted",
+      "Thank You",
+      "University or College",
+      "Visual Studio",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "bonematters.com",
     "title": "Bone Matters®",
     "business_name": "",
@@ -9363,22 +9432,6 @@
       "eLand",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "onlinegroceryfeedback.com",
-    "title": "SpartanNash Guest Experience Survey",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 30000,
-    "crawled_at": "2026-06-08T00:43:02.951786573Z",
-    "technologies": [
-      "HubSpot Conversations",
-      "Hubspot",
-      "Pico CSS",
-      "Salesforce Experience Cloud",
-      "UTF-8"
     ]
   },
   {
@@ -20889,84 +20942,6 @@
       "WordPress Multisite",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "markedwardholland.com",
-    "title": "168极速体彩记录+一分钟赛车彩票168官方网站®-全国统一彩票实时直播数据+2026新极速福彩赛果查询官网",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 848770,
-    "crawled_at": "2026-06-01T13:14:19.969139232Z",
-    "technologies": [
-      "AutoComplete",
-      "Braintree",
-      "CQuotient",
-      "Ethy",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "No-Q",
-      "QUIC",
-      "Salesforce",
-      "Salesforce Commerce Cloud",
-      "Salesforce Experience Cloud",
-      "Salesforce Hosted",
-      "Schema Plugin",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "Umbler",
-      "Way",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "linkedpos.com",
-    "title": "Free Retail Software | LinkedPOS",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 147908,
-    "crawled_at": "2026-06-01T12:56:19.973656937Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "BLR",
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Nginx",
-      "Perl",
-      "QUIC",
-      "Salesforce Experience Cloud",
-      "StackPath",
-      "Tumblr",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
