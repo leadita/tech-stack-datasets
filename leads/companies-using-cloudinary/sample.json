@@ -1,5 +1,37 @@
 [
   {
+    "domain": "walkwithfc.com",
+    "title": "Support WalkWithFC 2026 | PledgeIt for Charities",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 9554,
+    "crawled_at": "2026-07-08T22:11:19.972964884Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "AWS WAF Challenge",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Cloudinary",
+      "Content Delivery Network",
+      "ElementUI",
+      "GZIP Module",
+      "Homes.com CMS",
+      "InitiativeS",
+      "K2F",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "RM Education",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "flowerdeliverybocaraton.com",
     "title": "FREE Same-Day Flower Delivery in Boca Raton FL | Livanna Basket Shop",
     "business_name": "",
@@ -16247,33 +16279,6 @@
       "commercetools",
       "eLand",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "iseewell.com",
-    "title": "Region Not Supported | iSeeWell",
-    "business_name": "iSeeWell",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 6680,
-    "crawled_at": "2026-06-08T10:56:00.086447808Z",
-    "technologies": [
-      "Cloudinary",
-      "Content Delivery Network",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Ntent",
-      "Sitelinks Search Box",
-      "Stripe",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
