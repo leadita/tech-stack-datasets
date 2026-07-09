@@ -1,5 +1,31 @@
 [
   {
+    "domain": "essaydictionary.com",
+    "title": "Dao Dictionary",
+    "business_name": "",
+    "country": "ZWE",
+    "seo_score": 65,
+    "tech_spend": 1656,
+    "crawled_at": "2026-07-09T08:14:19.96820532Z",
+    "technologies": [
+      "DAV",
+      "Google Adsense",
+      "Google Analytics",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google Reseller",
+      "Google Tag Manager",
+      "IcoMoon",
+      "LogRocket",
+      "Nginx",
+      "Python",
+      "UTF-8",
+      "University or College",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "adaload.com",
     "title": "ADALoad | STEEL Supplements - Steel Supplements",
     "business_name": "Steel Supplements",
@@ -6040,32 +6066,6 @@
       "Theme In WP",
       "UTF-8",
       "WordPress",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "daodictionary.com",
-    "title": "Dao Dictionary",
-    "business_name": "",
-    "country": "ZWE",
-    "seo_score": 65,
-    "tech_spend": 1656,
-    "crawled_at": "2026-04-16T17:33:47.957384476Z",
-    "technologies": [
-      "DAV",
-      "Google Adsense",
-      "Google Analytics",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google Reseller",
-      "Google Tag Manager",
-      "IcoMoon",
-      "LogRocket",
-      "Nginx",
-      "Python",
-      "UTF-8",
-      "University or College",
-      "YouTube",
       "jQuery"
     ]
   },
