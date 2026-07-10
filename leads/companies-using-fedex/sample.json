@@ -1,5 +1,33 @@
 [
   {
+    "domain": "graphiczoo.com",
+    "title": "High-quality digital printing, large format inkjet and graphic design in Downtown Vancouver",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 65,
+    "tech_spend": 1033,
+    "crawled_at": "2026-07-10T13:26:19.968518943Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Apache",
+      "EmbedPress",
+      "FedEx",
+      "GZIP Module",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "PHP",
+      "QUIC",
+      "Soliloquy for WordPress",
+      "Theme In WP",
+      "UTF-8",
+      "WP Fastest Cache",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "topbonhair.com",
     "title": "Supreme Hair Extension Specialist",
     "business_name": "",
@@ -13228,33 +13256,6 @@
       "UPS",
       "USPS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "graphiczoo.org",
-    "title": "High-quality digital printing, large format inkjet and graphic design in Downtown Vancouver",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 65,
-    "tech_spend": 1033,
-    "crawled_at": "2026-04-19T14:32:20.029891026Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Apache",
-      "EmbedPress",
-      "FedEx",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Soliloquy for WordPress",
-      "Theme In WP",
-      "UTF-8",
-      "WP Fastest Cache",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   },
   {
