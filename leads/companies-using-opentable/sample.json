@@ -1,5 +1,36 @@
 [
   {
+    "domain": "kenzonapa.com",
+    "title": "Kenzo Authentic Japanese Kaiseki Dining in Napa Valley",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 3167,
+    "crawled_at": "2026-07-09T20:50:19.968597084Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Instagram Follow Button",
+      "Nginx",
+      "OpenTable",
+      "RM Education",
+      "Storyblocks",
+      "UTF-8",
+      "UserWay",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "giovanninashville.com",
     "title": "Must-Visit Italian Restaurant in Nashville | Giovanni",
     "business_name": "",
@@ -17069,33 +17100,6 @@
       "UTF-8",
       "YouTube",
       "Zendesk Embeddables"
-    ]
-  },
-  {
-    "domain": "riverwalkrestaurantva.com",
-    "title": "Riverwalk Restaurant | Seafood Restaurant in Yorktown, VA",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 12377,
-    "crawled_at": "2026-05-24T04:57:33.570858698Z",
-    "technologies": [
-      "Amazon",
-      "Cloudinary",
-      "ElementUI",
-      "Fastly",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microsoft Authentication Library for JavaScript",
-      "OpenTable",
-      "Tailwind CSS",
-      "UTF-8",
-      "WP Job Manager",
-      "jQuery"
     ]
   }
 ]

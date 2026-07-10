@@ -1,5 +1,53 @@
 [
   {
+    "domain": "chathamyogacenter.com",
+    "title": "Homepage Yoga Studio - Chatham Yoga Center",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 75,
+    "tech_spend": 16900,
+    "crawled_at": "2026-07-10T06:38:19.967957486Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Automattic",
+      "BatCache",
+      "ChamberMaster",
+      "Contact Form Plugin",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Ember.js",
+      "Fastly",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Gutenberg",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "MailChimp",
+      "MindBody",
+      "Nginx",
+      "PHP",
+      "Popup Maker for Wordpress",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Slider Revolution",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "pilates4life.com",
     "title": "Pilates 4 Life | Las Vegas Pilates Studio",
     "business_name": "",
@@ -18231,25 +18279,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "tcpersonalfitness.com",
-    "title": "TC Personal Fitness | Tyler Caldwell, CSCS — Minneapolis Personal Trainer",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 6940,
-    "crawled_at": "2026-05-18T07:23:19.979162271Z",
-    "technologies": [
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "MindBody",
-      "QUIC",
-      "University or College",
-      "YouTube"
     ]
   }
 ]
