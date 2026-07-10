@@ -1,5 +1,36 @@
 [
   {
+    "domain": "smartpips.live",
+    "title": "Smartpips – Smart Global Investing | CFD Trading — Trading on Stocks, Gold, Oil, Indices",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 19005,
+    "crawled_at": "2026-07-10T05:26:19.974490649Z",
+    "technologies": [
+      "Alpine.js",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "CoinGecko",
+      "Coinlib",
+      "ElementUI",
+      "Fireblade",
+      "GetButton.io",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "TradingView",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "rescronai.org",
     "title": "Rescronai.org | Advanced AI-Powered Automated Trading Platform",
     "business_name": "",
@@ -15413,25 +15444,6 @@
       "eLand",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "hastingcapital.org",
-    "title": "HASTING-CAPITAL",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 3227,
-    "crawled_at": "2026-05-27T19:49:51.242262064Z",
-    "technologies": [
-      "Financial Industry Regulatory Authority",
-      "JivoSite",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "TradingView",
-      "Trustpilot Reviews for WordPress",
-      "UTF-8"
     ]
   }
 ]
