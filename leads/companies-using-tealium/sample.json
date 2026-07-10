@@ -1,5 +1,54 @@
 [
   {
+    "domain": "caseyspropertymaintenance.com",
+    "title": "Property Maintenance | Versailles, IN | Caseys Property",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 86748,
+    "crawled_at": "2026-07-10T06:17:19.969504924Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Duda",
+      "Express",
+      "GZIP Module",
+      "Google My Business",
+      "Nginx",
+      "QUIC",
+      "Smooch",
+      "Tailwind CSS",
+      "Tealium",
+      "Thryv",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "southeastcraneandhoistal.com",
+    "title": "Overhead Crane & Hoist Service | Pell City, AL | Southeast",
+    "business_name": "Southeast Crane and Hoist",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 96348,
+    "crawled_at": "2026-07-10T01:38:19.968228556Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Duda",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "Smooch",
+      "Tailwind CSS",
+      "Tealium",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "rcgconcreteco.com",
     "title": "Concrete Services | La Puente, CA | RCG CONCRETE CO",
     "business_name": "RCG CONCRETE CO",
@@ -12660,39 +12709,6 @@
     ]
   },
   {
-    "domain": "southeastcraneandhoistal1.com",
-    "title": "Overhead Crane & Hoist Service | Pell City, AL | Southeast",
-    "business_name": "Southeast Crane and Hoist",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 100668,
-    "crawled_at": "2026-05-28T15:00:36.567571973Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Content Delivery Network",
-      "Duda",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "Mixpanel",
-      "Nginx",
-      "QUIC",
-      "Smooch",
-      "Tailwind CSS",
-      "Tealium",
-      "UTF-8",
-      "iPromote"
-    ]
-  },
-  {
     "domain": "gatorpestandturf.com",
     "title": "Pest Control Company | Jeffersonville, IN",
     "business_name": "",
@@ -15053,32 +15069,6 @@
       "UTF-8",
       "YouTube",
       "iPromote"
-    ]
-  },
-  {
-    "domain": "professionalmovingservicesinc.com",
-    "title": "Movers – Bend, OR - Professional Moving Services",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 86748,
-    "crawled_at": "2026-05-26T16:09:01.233470699Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Duda",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Nginx",
-      "QUIC",
-      "Smooch",
-      "Tailwind CSS",
-      "Tealium",
-      "Thryv",
-      "UTF-8"
     ]
   }
 ]
