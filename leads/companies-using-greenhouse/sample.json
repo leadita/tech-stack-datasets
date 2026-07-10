@@ -1,5 +1,37 @@
 [
   {
+    "domain": "railsware.com",
+    "title": "Railsware Product Studio",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 33230,
+    "crawled_at": "2026-07-10T11:05:19.96905822Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "ArvanCloud",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Greenhouse",
+      "Instagram Follow Button",
+      "RM Education",
+      "Ruby on Rails",
+      "Twitter Ads",
+      "Typeform",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "securityguardcompaniesinsacramento.com",
     "title": "Security Guard Company for Residential and Commercial - Unarmed & Armed Security Company",
     "business_name": "McCray Global Protection Corp",
@@ -5055,38 +5087,6 @@
       "Vimeo CDN",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "railsware.com",
-    "title": "Railsware Product Studio",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 33230,
-    "crawled_at": "2026-05-24T14:20:02.387468799Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "ArvanCloud",
-      "CloudFront",
-      "Content Delivery Network",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Greenhouse",
-      "Instagram Follow Button",
-      "RM Education",
-      "Ruby on Rails",
-      "Twitter Ads",
-      "Typeform",
-      "UTF-8",
-      "YouTube",
-      "jsDelivr",
-      "reCAPTCHA"
     ]
   },
   {

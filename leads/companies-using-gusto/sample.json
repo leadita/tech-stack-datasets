@@ -1,5 +1,34 @@
 [
   {
+    "domain": "msbeancounter.com",
+    "title": "Ms. Bean Counter, LLC",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 8553,
+    "crawled_at": "2026-07-09T19:59:19.970314835Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "DAV",
+      "Expedient",
+      "FormSubmit",
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Gusto",
+      "Line2",
+      "PWA",
+      "QUIC",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "catoosalaundromat.com",
     "title": "Laundry Mountain | Simplify Laundry Today – Get Started",
     "business_name": "",
@@ -18600,35 +18629,6 @@
       "UTF-8",
       "Unsplash",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "mav.careers",
-    "title": "MAV Project Services",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 804,
-    "crawled_at": "2026-01-08T11:02:35.390692834Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Cornerstone",
-      "Elementor",
-      "EmbedPress",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gusto",
-      "Hello Elementor",
-      "NFOrce Internet",
-      "Nginx",
-      "QUIC",
-      "SiteGround Optimizer",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
