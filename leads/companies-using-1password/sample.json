@@ -1,5 +1,59 @@
 [
   {
+    "domain": "pallon.com",
+    "title": "Pallon | AI Sewer Inspection Software – Automated Defect Coding (EN 13508-2 / PACP / MACP)",
+    "business_name": "Pallon",
+    "country": "CHE",
+    "seo_score": 77,
+    "tech_spend": 17031,
+    "crawled_at": "2026-07-10T05:11:19.970517481Z",
+    "technologies": [
+      "1Password",
+      "Alternate Protocol",
+      "Financial Services Guide",
+      "Framer Sites",
+      "Google Analytics",
+      "Google Tag Manager",
+      "HubSpot Conversations",
+      "Hubspot",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "Ntent",
+      "Point",
+      "QUIC",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
+    "domain": "betlite.app",
+    "title": "Betlite | Swipeable Sports Betting Layer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 9332,
+    "crawled_at": "2026-07-09T16:50:19.968509038Z",
+    "technologies": [
+      "1Password",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "Framer Sites",
+      "Gambling Content",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Ntent",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
     "domain": "chirostore.net",
     "title": "ChiroStore — Look up your order",
     "business_name": "",
@@ -14014,57 +14068,6 @@
       "Ntent",
       "Subversion",
       "Yandex Hosting",
-      "Zeald"
-    ]
-  },
-  {
-    "domain": "hellonext.world",
-    "title": "Home - Hellonext",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 29092,
-    "crawled_at": "2026-06-01T12:56:18.531464552Z",
-    "technologies": [
-      "1Password",
-      "Alternate Protocol",
-      "Framer Sites",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "KVH",
-      "Ntent",
-      "Yandex Hosting",
-      "Zeald"
-    ]
-  },
-  {
-    "domain": "themml.ca",
-    "title": "Multimodal Media Lab",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 67,
-    "tech_spend": 79812,
-    "crawled_at": "2026-06-01T12:48:07.54432398Z",
-    "technologies": [
-      "1Password",
-      "Alternate Protocol",
-      "DAV",
-      "Framer Sites",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "KVH",
-      "Ntent",
-      "QUIC",
-      "SMC",
-      "Yandex Hosting",
-      "YouTube",
       "Zeald"
     ]
   }
