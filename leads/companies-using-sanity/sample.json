@@ -1,5 +1,42 @@
 [
   {
+    "domain": "housingpartnership.com",
+    "title": "NYC Housing Partnership | Affordable Housing in New York City",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 39618,
+    "crawled_at": "2026-07-10T11:14:19.970239897Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Fireblade",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "InitiativeS",
+      "Microdata for Google Shopping",
+      "Neighborhoods",
+      "Next.js",
+      "PayPal Adaptive Payments",
+      "Prospective",
+      "Sanity",
+      "Sentry",
+      "Tailwind CSS",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "Wistia",
+      "YouTube",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "joshmccracken.com",
     "title": "Josh McCracken — West Michigan Realtor | Greenridge Realty",
     "business_name": "",
@@ -13591,28 +13628,6 @@
       "University or College",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "beachrocks.org",
-    "title": "Beach Rocks | Beach Rocks",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 8748,
-    "crawled_at": "2026-06-01T03:20:47.937505835Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Content Delivery Network",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "Next.js",
-      "Pleroma",
-      "Sanity",
-      "SquadUP",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
