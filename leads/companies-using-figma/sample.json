@@ -1,5 +1,33 @@
 [
   {
+    "domain": "andbastf.now.sh",
+    "title": "Andrés Bastidas Fierro | Software Engineer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 63,
+    "crawled_at": "2026-07-10T11:38:19.967739457Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Figma",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "PHP",
+      "SveltKit",
+      "Svelte",
+      "University or College",
+      "Vercel",
+      "YouTube",
+      "itch.io"
+    ]
+  },
+  {
     "domain": "rethinkspace.us",
     "title": "ReThink Space",
     "business_name": "",
@@ -13517,36 +13545,6 @@
       "Pleroma",
       "Schema Plugin",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "imperialhomeandoffice.com",
-    "title": "Imperial Home & Office Improvements of LI, Inc.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 5307,
-    "crawled_at": "2026-05-23T18:50:19.972160706Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Figma",
-      "GZIP Module",
-      "Google My Business",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Investor Relations",
-      "Microdata for Google Shopping",
-      "Microsoft 365",
-      "Next.js",
-      "Nginx",
-      "Perl",
-      "Pleroma",
-      "QUIC",
-      "Schema Plugin",
-      "The Deck",
-      "UTF-8",
-      "eLand"
     ]
   }
 ]
