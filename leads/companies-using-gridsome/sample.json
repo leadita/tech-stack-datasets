@@ -1,5 +1,24 @@
 [
   {
+    "domain": "mspiess.now.sh",
+    "title": "Personal website - Marc Spiess",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-07-10T09:38:19.968260113Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Gridsome",
+      "PWA",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "vandlmusic.com",
     "title": "VANDL",
     "business_name": "",
@@ -6951,25 +6970,6 @@
       "SMC",
       "Tailwind CSS",
       "Unix"
-    ]
-  },
-  {
-    "domain": "mspiess.now.sh",
-    "title": "Personal website - Marc Spiess",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2026-04-20T00:52:47.436927911Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Gridsome",
-      "PWA",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {

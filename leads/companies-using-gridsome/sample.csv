@@ -1,4 +1,5 @@
 domain,title,business_name,country,seo_score,tech_spend,crawled_at,technologies
+mspiess.now.sh,Personal website - Marc Spiess,,,42,,2026-07-10T09:38:19.968260113Z,"['Content Delivery Network', 'GitHub Hosting', 'Gridsome', 'PWA', 'Tailwind CSS', 'Twitter Ads', 'UTF-8', 'Vercel']"
 vandlmusic.com,VANDL,,USA,62,2490,2026-07-08T14:53:19.968402184Z,"['Amazon', 'Amazon CloudFront', 'Amazon Route 53', 'Amazon S3 CDN', 'Apple Auto Link Maker', 'CloudFront', 'Content Delivery Network', 'Google Cloud DNS', 'Google Font API', 'Gridsome', 'Instagram Follow Button', 'QUIC', 'Twitter Ads']"
 svfplatform.nl,Werkgroep | Werkgroep,,NLD,55,1191,2026-06-21T05:47:19.969055675Z,"['Cloudinary', 'Content Delivery Network', 'Google Cloud DNS', 'Google Font API', 'Gridsome', 'Netlify', 'Tailwind CSS', 'Twitter Ads', 'UTF-8']"
 transfer-training.ch,home | transfer | training und coaching,,CHE,40,,2026-06-18T07:11:19.971360136Z,"['Gridsome', 'Nginx', 'PWA', 'Subversion']"
@@ -284,7 +285,6 @@ muzych.uk,Andrei Muzychuk — Software Engineer,,,52,60,2026-04-20T22:44:20.0145
 l-s-a.ch,Ludovic Schober Architectes | Sion | Valais,,CHE,67,,2026-04-20T18:29:20.014337096Z,"['Apache', 'GZIP Module', 'Gridsome', 'Instagram Follow Button', 'UTF-8']"
 elitecanines.com.au,Dog Training Sunshine Coast | Elite Canines,Elite Canine Training & Behaviour,AUS,82,7264,2026-04-20T17:56:20.012616184Z,"['Coming Soon Page', 'Content Delivery Network', 'Google', 'Google Cloud DNS', 'Google Font API', 'Google Related Website Sites', 'Gridsome', 'Idaq', 'Netlify', 'PWA', 'Sanity', 'Sitelinks Search Box', 'Tailwind CSS', 'UTF-8', 'WordPress SEO Structured Data Schema Plugin', 'jsDelivr']"
 conwince.de,- Conwince,,,40,20000,2026-04-20T10:38:19.986562886Z,"['Apache', 'DAV', 'Gridsome', 'K2F', 'SMC', 'Tailwind CSS', 'Unix']"
-mspiess.now.sh,Personal website - Marc Spiess,,,42,,2026-04-20T00:52:47.436927911Z,"['Content Delivery Network', 'GitHub Hosting', 'Gridsome', 'PWA', 'Tailwind CSS', 'Twitter Ads', 'UTF-8', 'Vercel']"
 reubenjohn.com,Home - Reuben Koppenheffer - Web Developer,,,57,1251,2026-04-19T22:29:19.98586478Z,"['Content Delivery Network', 'Financial Services Guide', 'GitHub Hosting', 'Google Cloud DNS', 'Google Font API', 'Gridsome', 'Idaq', 'Netlify', 'No-Q', 'Python', 'Subversion', 'Tailwind CSS', 'UTF-8']"
 asw.io,Home - asw.io,,,35,84,2026-04-19T22:17:44.401604078Z,"['Gridsome', 'Nginx', 'Python', 'Tailwind CSS', 'Unsplash']"
 weshipat.com,Home - WeShip,,,57,3,2026-04-19T21:14:19.991976123Z,"['Better Lead Generation Services', 'Content Delivery Network', 'Google Cloud DNS', 'Google Font API', 'Gridsome', 'Netlify', 'PWA', 'Tailwind CSS', 'UTF-8', 'shadcn ui']"
