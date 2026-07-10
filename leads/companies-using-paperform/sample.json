@@ -1,5 +1,46 @@
 [
   {
+    "domain": "halalhousinglab.ca",
+    "title": "Halal Housing Lab",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 67,
+    "tech_spend": 25820,
+    "crawled_at": "2026-07-10T13:56:19.969592138Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "AWS WAF Challenge",
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Express",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Fundraise Up",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Paperform",
+      "Shifter",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "WF Cookie Consent",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "federalapplicationsprocessor.us",
     "title": "US DOT Biennial Update Portal | DOT Updates | Federal Applications Processor - Home",
     "business_name": "",
@@ -16730,30 +16771,6 @@
       "UTF-8",
       "WordPress",
       "WordPress Multisite"
-    ]
-  },
-  {
-    "domain": "mcdolepto.org",
-    "title": "McDole Elementary PTO",
-    "business_name": "Kaneland McDole Elementary",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 1693,
-    "crawled_at": "2026-04-12T03:05:20.191925573Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Paperform",
-      "QUIC",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
