@@ -1,5 +1,40 @@
 [
   {
+    "domain": "lockheedmartin.co.uk",
+    "title": "Lockheed Martin UK | Lockheed Martin UK",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 28294,
+    "crawled_at": "2026-07-10T16:23:19.96917919Z",
+    "technologies": [
+      "AddThis",
+      "Algolia",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "Fastly",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UK Tax Strategy",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "tecnoultra.com",
     "title": "Razer United States | For Gamers. By Gamers.",
     "business_name": "Razer",
@@ -21233,28 +21268,6 @@
       "Thank You",
       "UTF-8",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "importok.io",
-    "title": "CSV Importer tool for SaaS and Web Applications | importOK",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 20624,
-    "crawled_at": "2026-05-06T15:53:19.990107129Z",
-    "technologies": [
-      "Algolia",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Crisp",
-      "Fireblade",
-      "GitHub Hosting",
-      "Hotjar",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
