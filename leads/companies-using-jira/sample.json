@@ -1,5 +1,23 @@
 [
   {
+    "domain": "ukfederation.co.uk",
+    "title": "UK federation information centre | Home / Home browse",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 1200,
+    "crawled_at": "2026-07-10T17:23:19.974094421Z",
+    "technologies": [
+      "Apache",
+      "Atlassian Confluence",
+      "ISO/IEC 8859",
+      "JIRA",
+      "PHP",
+      "UTF-8",
+      "Vector Internet Services"
+    ]
+  },
+  {
     "domain": "techroe.com",
     "title": "Computer Support Home | TechRoe | Cameron Park",
     "business_name": "",
@@ -25295,49 +25313,6 @@
       "YouTube",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "pantheondesign.com",
-    "title": "Pantheon Design - High Speed 3D printers",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 67,
-    "tech_spend": 22483,
-    "crawled_at": "2026-04-24T09:02:20.010994426Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "Atlassian Confluence",
-      "CDN JS",
-      "Calendly",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "HubSpot Conversations",
-      "Hubspot",
-      "Instagram Follow Button",
-      "JIRA",
-      "Klaviyo",
-      "Microsoft Clarity",
-      "Pantheon",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "WF Cookie Consent",
-      "WebsitePolicies",
-      "YouTube",
-      "jsDelivr"
     ]
   }
 ]
