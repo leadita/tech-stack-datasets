@@ -1,5 +1,30 @@
 [
   {
+    "domain": "aabconline.com",
+    "title": "Home | Accounting & Business Consultants, LLC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 12760,
+    "crawled_at": "2026-07-09T19:17:19.971677307Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "walkwithfc.com",
     "title": "Support WalkWithFC 2026 | PledgeIt for Charities",
     "business_name": "",
@@ -16251,34 +16276,6 @@
       "Vercel",
       "YouTube",
       "Zope"
-    ]
-  },
-  {
-    "domain": "dilling.pt",
-    "title": "Organic underwear from Denmark made using natural materials",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 61188,
-    "crawled_at": "2026-06-08T11:03:17.818621744Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudinary",
-      "Content Delivery Network",
-      "Cybot",
-      "Express",
-      "Next.js",
-      "Parcel",
-      "Pleroma",
-      "QUIC",
-      "Radix UI",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "Vercel",
-      "commercetools",
-      "eLand",
-      "shadcn ui"
     ]
   }
 ]
