@@ -1,5 +1,33 @@
 [
   {
+    "domain": "goldentouchmassageandspa.com",
+    "title": "Golden Touch Massage and Spa, Inc",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 1242,
+    "crawled_at": "2026-07-10T11:59:19.969504596Z",
+    "technologies": [
+      "ASP.NET Core",
+      "Adobe Creative Cloud WebFonts",
+      "Daily Deals",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Rackspace CDN",
+      "Tailwind CSS",
+      "Vagaro"
+    ]
+  },
+  {
     "domain": "rba-mail.com",
     "title": "Redefined Business Advisors Accounting & Tax Experts in Lebanon, Tennessee",
     "business_name": "",
@@ -18670,43 +18698,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "suzisudz.com",
-    "title": "Laundromat - Car Wash - Dog Wash | Suzi Sudz | 924 York St., Hanover, PA 17331",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 62,
-    "tech_spend": 66871,
-    "crawled_at": "2026-05-24T02:36:44.718773082Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Financial Services Guide",
-      "Font Awesome",
-      "GZIP Module",
-      "GetResponse",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "New Relic",
-      "Nginx",
-      "QUIC",
-      "Rackspace CDN",
-      "Ruby on Rails",
-      "SMC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Yelp Badge",
-      "reCAPTCHA"
     ]
   }
 ]
