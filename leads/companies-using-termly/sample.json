@@ -1,5 +1,32 @@
 [
   {
+    "domain": "omtreesurgeons.co.uk",
+    "title": "OM Tree Surgeons Manchester - Tree Surgeons Near Me",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 1404,
+    "crawled_at": "2026-07-10T07:59:19.970392321Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "FormSubmit",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Tailwind CSS",
+      "Termly",
+      "Thank You",
+      "UTF-8",
+      "eLand"
+    ]
+  },
+  {
     "domain": "source-wise.com",
     "title": "Vendor Sourcing Reports for Local Businesses | SourceWise | SourceWise",
     "business_name": "SourceWise",
@@ -16497,24 +16524,6 @@
       "SiteWit",
       "Termly",
       "Underscores"
-    ]
-  },
-  {
-    "domain": "forgecommunitypartnership.co.uk",
-    "title": "Forge Community Partnership, Hoyland Common, Barnsley",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 3,
-    "crawled_at": "2026-05-26T14:13:42.542690683Z",
-    "technologies": [
-      "Google Cloud DNS",
-      "Google Font API",
-      "Interchange",
-      "Nginx",
-      "Termly",
-      "University or College",
-      "jQuery"
     ]
   }
 ]
