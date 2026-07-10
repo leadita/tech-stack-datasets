@@ -1,5 +1,33 @@
 [
   {
+    "domain": "trademarkwatchapp.com",
+    "title": "TrademarkWatch — Never miss a conflicting trademark filing",
+    "business_name": "TrademarkWatch",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 18989,
+    "crawled_at": "2026-07-10T19:26:19.968650925Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "DAV",
+      "Fireblade",
+      "Fontshare",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "reddittraffic.com",
     "title": "Reddict — Own the threads that own your buyers",
     "business_name": "",
@@ -13222,19 +13250,6 @@
       "UTF-8",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "augurco.fr",
-    "title": "Augur AI",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 62,
-    "tech_spend": "",
-    "crawled_at": "2026-05-12T00:23:20.005811169Z",
-    "technologies": [
-      "Fontshare",
-      "GZIP Module"
     ]
   }
 ]

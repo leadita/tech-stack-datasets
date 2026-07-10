@@ -1,5 +1,48 @@
 [
   {
+    "domain": "whatsmarket.ru",
+    "title": "WhatsMarket WhatsApp Desktop — Профессиональная автоматизация WhatsApp",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 29120,
+    "crawled_at": "2026-07-10T17:05:19.968987415Z",
+    "technologies": [
+      "ADFOX",
+      "Bunny Fonts",
+      "CCSI",
+      "DAV",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "Nginx",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Yandex Hosting",
+      "Yandex Metrika",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "cmva-security.de",
+    "title": "CMVA Security is under construction",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-07-10T05:47:19.967904875Z",
+    "technologies": [
+      "Apache",
+      "Bunny Fonts",
+      "Coming Soon Page",
+      "EmbedPress",
+      "PHP",
+      "UTF-8",
+      "Unix",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "bluekestrel.net",
     "title": "Home - Blue Kestrel Technologies | Blue Kestrel Technologies",
     "business_name": "",
@@ -16177,59 +16220,6 @@
     "seo_score": 87,
     "tech_spend": 4360,
     "crawled_at": "2026-06-09T08:03:53.347055332Z",
-    "technologies": [
-      "Bunny Fonts",
-      "BunnyCDN",
-      "BunnyCDN General",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "itmovie.shop",
-    "title": "IT Movie Shop ⚡️ Officially Licensed IT Movie Merch Store",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 77,
-    "tech_spend": 4860,
-    "crawled_at": "2026-06-09T07:48:51.62014815Z",
-    "technologies": [
-      "Bunny Fonts",
-      "BunnyCDN",
-      "BunnyCDN General",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Shifter",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "disenchantment.shop",
-    "title": "Disenchantment Shop ⚡️ Officially Licensed Disenchantment Merch Store",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 87,
-    "tech_spend": 4360,
-    "crawled_at": "2026-06-09T07:44:28.587311448Z",
     "technologies": [
       "Bunny Fonts",
       "BunnyCDN",
