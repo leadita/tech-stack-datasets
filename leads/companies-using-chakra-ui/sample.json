@@ -1,5 +1,35 @@
 [
   {
+    "domain": "zihuang.xyz",
+    "title": "Zi Huang - Aerospace Engineer",
+    "business_name": "",
+    "country": "TUR",
+    "seo_score": 82,
+    "tech_spend": 2450,
+    "crawled_at": "2026-07-10T10:20:19.975654657Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Chakra UI",
+      "CloudFront",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Placehold IT",
+      "Pleroma",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "University or College",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "dustin-dev.com",
     "title": "Dustin Nowosad - Fullstack Developer",
     "business_name": "",
@@ -12746,22 +12776,6 @@
       "UTF-8",
       "WhatsApp Sharing",
       "eLand"
-    ]
-  },
-  {
-    "domain": "anurags.dev",
-    "title": "Portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 27,
-    "tech_spend": "",
-    "crawled_at": "2026-05-05T09:23:20.02171761Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Next.js",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
