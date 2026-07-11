@@ -1,5 +1,20 @@
 [
   {
+    "domain": "absyntapart.pl",
+    "title": "absyntapart.pl",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": "",
+    "crawled_at": "2026-07-11T04:29:19.968007842Z",
+    "technologies": [
+      "LiteSpeed",
+      "PrestaShop",
+      "QUIC",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "kashsolution.com",
     "title": "Custom Software Development Company | Kash Info Solutions",
     "business_name": "Kash Info Solutions Pvt Ltd",
@@ -33,21 +48,6 @@
       "WordPress",
       "eLand",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "simplewp.pl",
-    "title": "simplewp.pl",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": "",
-    "crawled_at": "2026-07-10T12:47:19.969000545Z",
-    "technologies": [
-      "LiteSpeed",
-      "PrestaShop",
-      "QUIC",
-      "WordPress"
     ]
   },
   {
