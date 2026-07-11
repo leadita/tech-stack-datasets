@@ -1,5 +1,37 @@
 [
   {
+    "domain": "smmplus.store",
+    "title": "Telegram SMM Panel | Telegram SMM Panel — Buy Members, Views & Reactions | SMM Plus",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 25728,
+    "crawled_at": "2026-07-11T05:53:19.969352297Z",
+    "technologies": [
+      "ADFOX",
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Crisp",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Nginx",
+      "Ntent",
+      "PWA",
+      "Pico CSS",
+      "QUIC",
+      "Sign In With Google",
+      "Tailwind CSS",
+      "Telegram",
+      "UTF-8",
+      "Yandex Hosting",
+      "hCaptcha",
+      "jQuery",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "freeforexsignals.co.uk",
     "title": "Free Forex Signals | Experts in Forex & Crypto Signals",
     "business_name": "The Forex Signals",
@@ -18727,33 +18759,6 @@
       "WordPress",
       "WordPress Multisite",
       "WordPress Stats",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "etalon-opt.ru",
-    "title": "Нити для автоматической и ручной обвязки сосисок/сарделек",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 10008,
-    "crawled_at": "2026-05-22T01:58:49.348545675Z",
-    "technologies": [
-      "ADFOX",
-      "Bulma",
-      "Crisp",
-      "Fancybox for WordPress",
-      "FreeCSSTemplates",
-      "GZIP Module",
-      "Google Code Prettify",
-      "IcoMoon",
-      "LiveInternet",
-      "Nginx",
-      "QUIC",
-      "Subversion",
-      "Tailwind CSS",
-      "Yandex Hosting",
-      "Yandex Metrika",
       "jQuery"
     ]
   }
