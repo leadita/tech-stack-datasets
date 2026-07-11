@@ -1,5 +1,33 @@
 [
   {
+    "domain": "mariodev.now.sh",
+    "title": "Mariodev | Developer | Designer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 162,
+    "crawled_at": "2026-07-11T19:26:19.972516473Z",
+    "technologies": [
+      "Astro",
+      "Content Delivery Network",
+      "Font Awesome",
+      "Fontshare",
+      "GitHub Hosting",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "trademarkwatchapp.com",
     "title": "TrademarkWatch — Never miss a conflicting trademark filing",
     "business_name": "TrademarkWatch",
@@ -13216,39 +13244,6 @@
       "UTF-8",
       "Vercel",
       "eLand",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "exclusivejewelryoffers.com",
-    "title": "Exclusive Jewelry Offers",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 7662,
-    "crawled_at": "2026-05-12T00:47:57.553468749Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon WAF Blocked",
-      "Angular",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Express",
-      "Fireblade",
-      "Font Awesome",
-      "Fontshare",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery",
       "jsDelivr"
     ]
   }
