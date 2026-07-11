@@ -1,5 +1,29 @@
 [
   {
+    "domain": "ostergolfhouses.com",
+    "title": "Oster Golf Houses",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 12412,
+    "crawled_at": "2026-07-11T12:14:19.969320193Z",
+    "technologies": [
+      "Elfsight",
+      "Gambling Content",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Monster",
+      "OptinMonster",
+      "OwnerRez",
+      "UTF-8",
+      "Wistia",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "bridgewellmedical.com",
     "title": "Pharmacy Innovation | Bridgewell Medical",
     "business_name": "",
@@ -23002,41 +23026,6 @@
       "jQuery",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "intacinternational.com",
-    "title": "Sunsetting Wintac Solutions with FieldEdge Software - FieldEdge",
-    "business_name": "FieldEdge",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 12976,
-    "crawled_at": "2026-05-13T13:44:19.977320025Z",
-    "technologies": [
-      "AdRoll",
-      "Add to Any",
-      "Alternate Protocol",
-      "Autoptimize",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Monster",
-      "NFOrce Internet",
-      "OneTrust Domain Verification",
-      "OptinMonster",
-      "QUIC",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
