@@ -1,5 +1,37 @@
 [
   {
+    "domain": "beneaththebaobabs.com",
+    "title": "Beneath the Baobabs — A Festival, Venue, Restaurant, Recording Studio, Wellness Hub & Accommodation",
+    "business_name": "",
+    "country": "KEN",
+    "seo_score": 72,
+    "tech_spend": 82335,
+    "crawled_at": "2026-07-10T21:02:19.972412426Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Aruba",
+      "Express",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GZIP Module",
+      "Line2",
+      "Magento Enterprise",
+      "MailerLite",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "upsideafrica.org",
     "title": "Upside Africa – Inspiring African Professionals & Entrepreneurs",
     "business_name": "",
@@ -19031,37 +19063,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "tourotheborders.com",
-    "title": "Home - Tour O The Borders : Tour O The Borders",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 650,
-    "crawled_at": "2026-05-20T13:52:48.893608976Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Apache",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "MailerLite",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WooCommerce Stripe Payment Gateway",
-      "WordPress",
-      "WordPress Multisite",
-      "shadcn ui"
     ]
   }
 ]
