@@ -1,5 +1,40 @@
 [
   {
+    "domain": "savvytravelerblog.com",
+    "title": "Savvy Traveler Blog | Travel smart and make the world your own",
+    "business_name": "",
+    "country": "VEN",
+    "seo_score": 77,
+    "tech_spend": 10997,
+    "crawled_at": "2026-07-11T06:17:19.969408833Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Automattic",
+      "Automattic Direct",
+      "BatCache",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Fastly",
+      "Global Privacy Control",
+      "Google Analytics",
+      "Harbor",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "Neighborhoods",
+      "Nginx",
+      "OpenTable",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "US Privacy User Signal Mechanism",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats"
+    ]
+  },
+  {
     "domain": "kenzonapa.com",
     "title": "Kenzo Authentic Japanese Kaiseki Dining in Napa Valley",
     "business_name": "",
@@ -17068,38 +17103,6 @@
       "UTF-8",
       "WP Job Manager",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "level99.com",
-    "title": "About | Level99",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 4431,
-    "crawled_at": "2026-05-24T05:44:30.094378954Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Canva Websites",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "Next.js",
-      "OpenTable",
-      "Pleroma",
-      "QUIC",
-      "Toast POS",
-      "Tripleseat",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "Zendesk Embeddables"
     ]
   }
 ]

@@ -1,5 +1,27 @@
 [
   {
+    "domain": "thebarecave.com",
+    "title": "Professional Brazilian Bikini Waxing Services",
+    "business_name": "The Bare Cave",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 18780,
+    "crawled_at": "2026-07-10T14:26:19.97043627Z",
+    "technologies": [
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "PWA",
+      "UTF-8",
+      "Vagaro",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "goldentouchmassageandspa.com",
     "title": "Golden Touch Massage and Spa, Inc",
     "business_name": "",
@@ -16932,30 +16954,6 @@
       "YouTube",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "tuihealthcare.com",
-    "title": "tuihealthcare",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 300,
-    "crawled_at": "2026-05-25T22:20:19.97484021Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Automattic",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vagaro",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats"
     ]
   }
 ]
