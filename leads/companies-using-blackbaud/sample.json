@@ -1,5 +1,36 @@
 [
   {
+    "domain": "tobaccofreekids.com",
+    "title": "Protecting Kids, Saving Lives | Campaign for Tobacco-Free Kids",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 61898,
+    "crawled_at": "2026-07-11T07:20:19.975050371Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Blackbaud",
+      "CoreUI",
+      "Craft",
+      "EveryAction",
+      "Fundraise Up",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "NGP VAN",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "aznow.org",
     "title": "Social Change | Women | LGBTQ | People Of Color",
     "business_name": "AZNOW",
@@ -19652,38 +19683,6 @@
       "YouTube",
       "accessiBe",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "protectmedicaidvigil.com",
-    "title": "Protect Medicaid Vigil",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 46400,
-    "crawled_at": "2026-03-25T21:22:42.667537744Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Blackbaud",
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "EveryAction",
-      "Fastly",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "NGP VAN",
-      "PHP",
-      "PWA",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "YouTube",
-      "jsDelivr"
     ]
   }
 ]

@@ -1,5 +1,40 @@
 [
   {
+    "domain": "operationexfil.com",
+    "title": "Operation Exfil",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 13648,
+    "crawled_at": "2026-07-11T03:23:19.968381434Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apache",
+      "Coming Soon Page",
+      "Contento",
+      "Express",
+      "Givebutter",
+      "GoDaddy",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "PWA",
+      "QUIC",
+      "UTF-8",
+      "University or College",
+      "Wangsu",
+      "Website Tonight",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "friendsofpelhamsports.org",
     "title": "Friends of Pelham Sports",
     "business_name": "",
@@ -17733,31 +17768,6 @@
       "WordPress Multisite",
       "WordPress Stats",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "wishcharityinc.com",
-    "title": "@wishchartyinc | 6th Annual Roll Into Spring Veterans | Beacons",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2694,
-    "crawled_at": "2026-05-30T19:03:47.886967603Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Beacons",
-      "GZIP Module",
-      "Givebutter",
-      "Google Cloud",
-      "InitiativeS",
-      "Microdata for Google Shopping",
-      "Nationwide Mortgage Licensing System and Registry",
-      "Next.js",
-      "PWA",
-      "Subversion",
-      "UTF-8",
-      "Unsplash",
-      "YouTube"
     ]
   }
 ]
