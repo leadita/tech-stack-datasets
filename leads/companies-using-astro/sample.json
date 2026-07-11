@@ -1,5 +1,98 @@
 [
   {
+    "domain": "warthoglab.com",
+    "title": "WarthogLab — Mobile App Development Studio",
+    "business_name": "WarthogLab",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 40000,
+    "crawled_at": "2026-07-11T09:29:19.971019563Z",
+    "technologies": [
+      "App Store",
+      "Astro",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Microdata for Google Shopping",
+      "Tailwind CSS",
+      "Vignette OpenText",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "creatornetmarketing.com",
+    "title": "SparkStack - Creator Marketing Agency",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 162,
+    "crawled_at": "2026-07-11T08:14:19.968643785Z",
+    "technologies": [
+      "Astro",
+      "Content Delivery Network",
+      "Formspree",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Nginx",
+      "Tailwind CSS",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "manraj.co.uk",
+    "title": "Manraj Sandhu | Founder & CEO of Rivals",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 17536,
+    "crawled_at": "2026-07-11T05:20:19.974954696Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Astro",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Fireblade",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "UTF-8",
+      "University or College",
+      "Web3Forms"
+    ]
+  },
+  {
+    "domain": "divergentdesigns.media",
+    "title": "Divergent Designs: Web Design and Development",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 1228,
+    "crawled_at": "2026-07-11T03:32:19.968130377Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Astro",
+      "Cisco/Arrowpoint Content Service Switch",
+      "CloudFront",
+      "Content Delivery Network",
+      "Figma",
+      "Formspree",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button"
+    ]
+  },
+  {
     "domain": "loukacrossfit.com",
     "title": "CrossFit Louka | Group Fitness — Lyall Bay, Wellington",
     "business_name": "",
@@ -11379,97 +11472,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "boodigital.com.au",
-    "title": "Boo Media - Creating digital solutions that make big differences in any organisation",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 62,
-    "tech_spend": 2440,
-    "crawled_at": "2026-06-09T22:45:32.725297072Z",
-    "technologies": [
-      "Astro",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "ElementUI",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Tailwind CSS",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "garozzo.se",
-    "title": "Garozzo Consulting — Industrial AI · Commercial Strategy · Nordic & EMEA",
-    "business_name": "",
-    "country": "SWE",
-    "seo_score": 72,
-    "tech_spend": 2536,
-    "crawled_at": "2026-06-09T22:35:19.970472687Z",
-    "technologies": [
-      "Apache",
-      "Astro",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Web3Forms"
-    ]
-  },
-  {
-    "domain": "safeguardevent.com",
-    "title": "Safeguard 2026",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 67,
-    "tech_spend": 22970,
-    "crawled_at": "2026-06-09T22:31:41.019893911Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Astro",
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "GrubHub",
-      "Tailwind CSS",
-      "Tally",
-      "Vector Internet Services",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "jeremygallardo.com",
-    "title": "Jeremy — Portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 49900,
-    "crawled_at": "2026-06-09T22:29:19.969749372Z",
-    "technologies": [
-      "Amazon Link Enchancer",
-      "Amazon WAF CAPTCHA",
-      "Amazon Widgets",
-      "Astro",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Express",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microsoft Azure",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "Vignette OpenText"
     ]
   }
 ]
