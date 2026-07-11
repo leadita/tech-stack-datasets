@@ -1,5 +1,83 @@
 [
   {
+    "domain": "veritywave.com",
+    "title": "VerityWave — AI Content Detection & Verification Platform",
+    "business_name": "VerityWave Innovations Ltd.",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 7479,
+    "crawled_at": "2026-07-11T07:38:19.975307466Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Coming Soon Page",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Radix UI",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "send-flow.com",
+    "title": "SendFlow — Large File Sharing, Done Simply",
+    "business_name": "SendFlow",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 30240,
+    "crawled_at": "2026-07-11T03:53:19.97155816Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon WAF Blocked",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fireblade",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "QUIC",
+      "Radix UI",
+      "Stripe",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "seoauditor.io",
+    "title": "Rank #1 on Google | SEO Auditor",
+    "business_name": "SEO Auditor",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 15000,
+    "crawled_at": "2026-07-10T15:47:19.970246279Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "DAV",
+      "Fireblade",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "QUIC",
+      "Radix UI",
+      "Sitelinks Search Box",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "riseproductivemarketing.com",
     "title": "Rise Productive | AI Agents That Work While You Scale",
     "business_name": "Rise Productive",
@@ -13650,74 +13728,6 @@
       "QUIC",
       "Radix UI",
       "eLand"
-    ]
-  },
-  {
-    "domain": "gurneeteservice.com",
-    "title": "Gurneet E Service | Premium Business Solutions - GST, FSSAI, Trademark & Web Development",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 87,
-    "tech_spend": 35000,
-    "crawled_at": "2026-06-08T13:11:53.014728093Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Next.js",
-      "QUIC",
-      "Radix UI",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "skyrek.com",
-    "title": "SKYREK - Build your next App with SKYREK",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 30240,
-    "crawled_at": "2026-06-08T12:57:42.298793646Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Fireblade",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Radix UI",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "voicescri.pt",
-    "title": "Home | Voicescript",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 500,
-    "crawled_at": "2026-06-08T12:19:21.671019464Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "NFOrce Internet",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Radix UI",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "Vercel",
-      "YouTube"
     ]
   }
 ]

@@ -1,5 +1,46 @@
 [
   {
+    "domain": "thetolers.co.uk",
+    "title": "Grayscale - Start Bootstrap Theme",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 50,
+    "tech_spend": 3,
+    "crawled_at": "2026-07-11T10:02:19.969255619Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Start Bootstrap",
+      "Tailwind CSS",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "eskersoft.com",
+    "title": "Esker Software",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 1299,
+    "crawled_at": "2026-07-10T18:50:19.968898866Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "Bulma",
+      "Font Awesome",
+      "GitHub Hosting",
+      "Material Design for Bootstrap",
+      "OpenSSL",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "alidanesh.co",
     "title": "Ali Danesh",
     "business_name": "",
@@ -15268,52 +15309,6 @@
       "Start Bootstrap",
       "Twitter Ads",
       "Unix",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "burgundyworks.com",
-    "title": "Burgundy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 3,
-    "crawled_at": "2026-05-20T14:11:19.982048731Z",
-    "technologies": [
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "QUIC",
-      "Start Bootstrap",
-      "Tailwind CSS",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "blcspro.com",
-    "title": "Polish Translation Agency UK",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 1227,
-    "crawled_at": "2026-05-20T14:05:19.968789307Z",
-    "technologies": [
-      "FreePrivacyPolicy.com",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "LiteSpeed",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Start Bootstrap",
-      "WordPress",
-      "eLand",
       "jQuery"
     ]
   }
