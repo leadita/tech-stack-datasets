@@ -1,5 +1,33 @@
 [
   {
+    "domain": "vrbusinessonline.de",
+    "title": "VR BusinessOnline 2.0 – Ihr digitaler Unternehmerkredit",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 77,
+    "tech_spend": 40540,
+    "crawled_at": "2026-07-11T05:50:19.974316762Z",
+    "technologies": [
+      "Apache",
+      "Bulma",
+      "Cisco/Arrowpoint Content Service Switch",
+      "DAV",
+      "Ektron",
+      "Financial Services Guide",
+      "Freshworks Bot",
+      "Google My Business",
+      "Instagram Follow Button",
+      "PWA",
+      "RM Education",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "Typeform",
+      "UTF-8",
+      "eLand",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "firstlegaldepositions.com",
     "title": "Depositions Services - First Legal",
     "business_name": "First Legal",
@@ -22543,27 +22571,6 @@
       "hCaptcha",
       "hCaptcha for WordPress",
       "jQuery",
-      "reCAPTCHA",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "protechs.it",
-    "title": "ProTechs.IT - Serving the Twin Cities Metro area since 2002",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 8400,
-    "crawled_at": "2026-04-10T23:04:01.102165063Z",
-    "technologies": [
-      "Fireblade",
-      "Freshworks Bot",
-      "GZIP Module",
-      "Google My Business",
-      "License Buttons",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
       "reCAPTCHA",
       "shadcn ui"
     ]
