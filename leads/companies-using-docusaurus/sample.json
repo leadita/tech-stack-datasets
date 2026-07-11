@@ -1,5 +1,26 @@
 [
   {
+    "domain": "huynhicode.now.sh",
+    "title": "Steph Huynh · UX Engineer",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 2872,
+    "crawled_at": "2026-07-11T08:32:19.969874735Z",
+    "technologies": [
+      "Calendly",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Svelte",
+      "Tailwind CSS",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "making-sense.info",
     "title": "Making Sense",
     "business_name": "",
@@ -2830,28 +2851,6 @@
       "Python",
       "QUIC",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "huynhicode.dev",
-    "title": "Steph Huynh — UX Engineer",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 2872,
-    "crawled_at": "2026-05-10T10:32:19.997315373Z",
-    "technologies": [
-      "Calendly",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Svelte",
-      "Tailwind CSS",
-      "Vercel",
-      "shadcn ui"
     ]
   },
   {

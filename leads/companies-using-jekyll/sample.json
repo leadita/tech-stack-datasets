@@ -1,5 +1,50 @@
 [
   {
+    "domain": "alvaronieto.es",
+    "title": "Álvaro Nieto Fernández | Software Engineer passionate about code quality and good practices.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 600,
+    "crawled_at": "2026-07-11T12:56:19.98036794Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Jekyll",
+      "Microdata for Google Shopping",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "dnsdisco.com",
+    "title": "DNS Disco",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 507,
+    "crawled_at": "2026-07-11T04:44:19.968547795Z",
+    "technologies": [
+      "Apache",
+      "Apple Auto Link Maker",
+      "Bulma",
+      "Coming Soon Page",
+      "FreeBSD",
+      "GitHub Hosting",
+      "IcoMoon",
+      "Jekyll",
+      "OpenSSL",
+      "Python",
+      "Twitter Ads",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "pgazz.net",
     "title": "Paul Gazzillo - Paul Gazzillo",
     "business_name": "",
@@ -13866,59 +13911,6 @@
       "UTF-8",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "shantanuacharya.com",
-    "title": "Shantanu Acharya - A virtual proof that name is awesome!",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 72,
-    "tech_spend": 3507,
-    "crawled_at": "2026-06-01T11:11:12.189818713Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Bulma",
-      "Content Delivery Network",
-      "Fastly",
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Heroku",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Jekyll",
-      "Nginx",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "open-mpic.org",
-    "title": "Open MPIC Project | Providing open-source implementations of Multi-Perspective Issuance Corroboration for the PKI Community",
-    "business_name": "",
-    "country": "",
-    "seo_score": 82,
-    "tech_spend": 7240,
-    "crawled_at": "2026-06-01T11:01:19.001279777Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Jekyll",
-      "Microdata for Google Shopping",
-      "Python",
-      "Slack",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]
