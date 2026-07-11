@@ -1,5 +1,28 @@
 [
   {
+    "domain": "bgw.life",
+    "title": "2",
+    "business_name": "",
+    "country": "PHL",
+    "seo_score": 65,
+    "tech_spend": 28740,
+    "crawled_at": "2026-07-10T16:08:19.968923777Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Authorize.net",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "K2F",
+      "Nuxt.js",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "acqscalemail.com",
     "title": "ScaleAcq | Book 10-20+ Calls A Month",
     "business_name": "",
@@ -15622,34 +15645,6 @@
       "Thank You",
       "TikTok Conversion Tracking Pixel",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "cheaptrafficschool365.com",
-    "title": "Cheap Online Traffic School | Cheap Traffic School 365",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 1056,
-    "crawled_at": "2026-06-10T18:28:34.666896272Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "All in One SEO Pack",
-      "Alternate Protocol",
-      "Authorize.net",
-      "EmbedPress",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "IcoMoon",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
