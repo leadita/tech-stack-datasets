@@ -1,5 +1,40 @@
 [
   {
+    "domain": "valleypropw.com",
+    "title": "Expert Pressure Washing & Solar Cleaning | Valley Pro",
+    "business_name": "Valley Pro",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 30978,
+    "crawled_at": "2026-07-11T03:41:19.970620805Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Contentstack",
+      "DoubleClick Bid Manager",
+      "GoDaddy",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "No-Q",
+      "Reamaze",
+      "UTF-8",
+      "Vimeo",
+      "Wangsu",
+      "Website Tonight",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "triumph-care.com",
     "title": "Compassionate Health Support Services | Triumph Care",
     "business_name": "triumph-care.com",
@@ -21092,42 +21127,6 @@
       "Vimeo",
       "Weglot",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "noblenutraceuticalsllc.co",
-    "title": "Quality Nutritional Supplements | Noble Nutraceuticals",
-    "business_name": "Noble Nutraceuticals LLC",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 45648,
-    "crawled_at": "2026-05-01T03:47:20.024769653Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon WAF Blocked",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Contentstack",
-      "GoDaddy",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Reamaze",
-      "Square",
-      "UTF-8",
-      "Vimeo",
-      "Wangsu",
-      "Website Tonight",
-      "YouTube",
-      "reCAPTCHA"
     ]
   }
 ]
