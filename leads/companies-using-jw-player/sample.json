@@ -1,15 +1,14 @@
 [
   {
-    "domain": "structuredproductswashington.com",
-    "title": "Risk Events - The premier meeting place for the financial risk management community - Risk.net",
+    "domain": "energyriskasia.com",
+    "title": "Events - Energy Risk",
     "business_name": "",
     "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 201545,
-    "crawled_at": "2026-07-10T09:59:19.968516663Z",
+    "seo_score": 67,
+    "tech_spend": 202013,
+    "crawled_at": "2026-07-11T15:29:19.968950618Z",
     "technologies": [
       "AWS WAF Challenge",
-      "Alternate Protocol",
       "Amazon",
       "Amazon CloudFront",
       "Amazon Route 53",
@@ -29,18 +28,56 @@
       "Google My Business",
       "Google Related Website Sites",
       "Highcharts",
+      "IcoMoon",
       "Instagram Follow Button",
       "JW Player Platform",
       "Nginx",
       "Piano",
       "RM Education",
-      "Smart App Banner",
       "Stripe",
       "Twitter Ads",
       "UTF-8",
       "eLand",
       "jQuery",
       "jsDelivr"
+    ]
+  },
+  {
+    "domain": "mikewelthybass.rocks",
+    "title": "Mike Welthy - Hard Rock Bassist",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 2020,
+    "crawled_at": "2026-07-11T12:35:19.97455431Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "JW Player Platform",
+      "RM Education",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "aamiramartinez.com",
+    "title": "Aamira Martinez - SAG-AFTRA / AEA",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 640,
+    "crawled_at": "2026-07-11T12:35:19.974457364Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "JW Player Platform",
+      "Prefix Free",
+      "YouTube"
     ]
   },
   {
@@ -16613,23 +16650,6 @@
     ]
   },
   {
-    "domain": "mikewelthybass.rocks",
-    "title": "Mike Welthy - Hard Rock Bassist",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 2020,
-    "crawled_at": "2026-04-24T10:07:13.989828442Z",
-    "technologies": [
-      "Apache",
-      "Google Analytics",
-      "Google Tag Manager",
-      "JW Player Platform",
-      "RM Education",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "orthomedinc.com",
     "title": "Find Surgical Instruments - OrthoMed Surgical Tools - OrthoMed Surgical Tools",
     "business_name": "",
@@ -17004,25 +17024,6 @@
       "pixfuture Reseller",
       "vi",
       "vidoomy Direct"
-    ]
-  },
-  {
-    "domain": "aamiramartinez.com",
-    "title": "Aamira Martinez - SAG-AFTRA / AEA",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 640,
-    "crawled_at": "2026-04-23T21:01:10.977873917Z",
-    "technologies": [
-      "Apache",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "JW Player Platform",
-      "Prefix Free",
-      "YouTube"
     ]
   },
   {
