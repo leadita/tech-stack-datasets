@@ -1,5 +1,54 @@
 [
   {
+    "domain": "piercemfg.net",
+    "title": "Truck body manufacturing company Kalispell, MT – Pierce Manufacturing Co",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 57,
+    "tech_spend": 20228,
+    "crawled_at": "2026-07-12T11:11:19.969426953Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "Nginx",
+      "Tailwind CSS",
+      "Tealium",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "unitedcarwash2.com",
+    "title": "United Car Wash | Car Wash & Detailing | Lake Oswego",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 86748,
+    "crawled_at": "2026-07-12T00:11:19.968621782Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Duda",
+      "Express",
+      "GZIP Module",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Nginx",
+      "Perl",
+      "QUIC",
+      "Smooch",
+      "Styled Components",
+      "Tailwind CSS",
+      "Tealium",
+      "Thryv",
+      "UTF-8",
+      "Yelp Badge"
+    ]
+  },
+  {
     "domain": "ntr1.com",
     "title": "Tractor-Trailer Service | Irving, TX | National Trailer",
     "business_name": "National Trailer Repair Inc",
@@ -15003,61 +15052,6 @@
       "Tealium",
       "Thryv",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "erzvethospital.com",
-    "title": "Home-South Ogden,UT- Erz Animal Hospital",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 101788,
-    "crawled_at": "2026-05-26T19:25:19.543594092Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Duda",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Nginx",
-      "QUIC",
-      "Smooch",
-      "Tealium",
-      "Thryv",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "gavilanpestcontrol.com",
-    "title": "Pest Control | Salinas, CA | Gavilan Pest Control",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 86748,
-    "crawled_at": "2026-05-26T18:55:50.561835143Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Duda",
-      "GZIP Module",
-      "Google My Business",
-      "Nginx",
-      "Smooch",
-      "Tailwind CSS",
-      "Tealium",
-      "Thryv",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
