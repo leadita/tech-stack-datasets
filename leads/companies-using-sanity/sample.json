@@ -1,5 +1,37 @@
 [
   {
+    "domain": "narrativefinancialmanagement.com",
+    "title": "Fractional CFO & Fractional Accounting Services | kept.pro",
+    "business_name": "Fractional CFO & Fractional Accounting Services | kept.pro",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 120299,
+    "crawled_at": "2026-07-11T23:44:19.969539939Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Calendly",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "DAV",
+      "Fastly",
+      "Font Awesome",
+      "Gatsby Image CDN",
+      "Gatsby JS",
+      "Google Analytics",
+      "Google Customer Reviews",
+      "Google Tag Manager",
+      "K2F",
+      "KVH",
+      "Line2",
+      "Netlify",
+      "QUIC",
+      "SMC",
+      "Sanity",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "housingpartnership.com",
     "title": "NYC Housing Partnership | Affordable Housing in New York City",
     "business_name": "",
@@ -13605,29 +13637,6 @@
       "Sitelinks Search Box",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "kaarlej.com",
-    "title": "KaarleJ - portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 1428,
-    "crawled_at": "2026-06-01T03:48:02.438811261Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "Sanity",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
