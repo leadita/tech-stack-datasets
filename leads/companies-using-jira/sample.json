@@ -1,5 +1,42 @@
 [
   {
+    "domain": "glimpseanalytics.com",
+    "title": "Glimpse Analytics – Footfall, People Counting & Conversion Funnel for Retail and Transport",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 23887,
+    "crawled_at": "2026-07-12T03:47:19.972057641Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Apache",
+      "Apture Linking Platform",
+      "Elementor",
+      "EmbedPress",
+      "Essential Addons for Elementor",
+      "Essential Blocks for Gutenberg",
+      "Fireblade",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Hello Elementor",
+      "JIRA",
+      "QUIC",
+      "Table Addons for Elementor",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "ukfederation.co.uk",
     "title": "UK federation information centre | Home / Home browse",
     "business_name": "",
@@ -25280,39 +25317,6 @@
       "QUIC",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "fuse-ai.de",
-    "title": "FUSE-AI - Künstliche Intelligenz in der Radiologie",
-    "business_name": "FUSE-AI GmbH",
-    "country": "DEU",
-    "seo_score": 82,
-    "tech_spend": 118873,
-    "crawled_at": "2026-04-24T09:49:57.595505968Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Contento",
-      "Express",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Investor Relations",
-      "JIRA",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "University or College",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
