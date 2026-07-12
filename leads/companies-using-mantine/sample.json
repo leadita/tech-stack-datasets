@@ -7301,27 +7301,6 @@
     ]
   },
   {
-    "domain": "gts-shop.eu",
-    "title": "GTS SHOP - European Wholesale Products",
-    "business_name": "",
-    "country": "COL",
-    "seo_score": 77,
-    "tech_spend": 720,
-    "crawled_at": "2026-05-20T02:22:21.486699354Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Envoy",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Istio",
-      "Mantine",
-      "Next.js",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "100jsfunctions.com",
     "title": "100 JS Functions",
     "business_name": "",
@@ -13063,6 +13042,27 @@
       "OpenResty",
       "Pleroma",
       "UTF-8"
+    ]
+  },
+  {
+    "domain": "livestocx.com",
+    "title": "Livestocx",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": "",
+    "crawled_at": "2026-05-12T14:05:19.983655565Z",
+    "technologies": [
+      "App Store",
+      "Content Delivery Network",
+      "DAV",
+      "Google My Business",
+      "Google Play",
+      "Mantine",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel"
     ]
   }
 ]

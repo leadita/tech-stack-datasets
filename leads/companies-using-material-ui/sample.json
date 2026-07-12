@@ -1,5 +1,51 @@
 [
   {
+    "domain": "fluido.now.sh",
+    "title": "Create Next App",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-07-11T22:44:19.971525931Z",
+    "technologies": [
+      "Content Delivery Network",
+      "ContentBox",
+      "Material-UI",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "digitalmomlab.com",
+    "title": "Digital Marketing",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 17914,
+    "crawled_at": "2026-07-11T21:59:19.974490103Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Beacons",
+      "Better Lead Generation Services",
+      "Endis",
+      "GZIP Module",
+      "Google Cloud",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Material-UI",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "PWA",
+      "Perl",
+      "UTF-8",
+      "Unsplash"
+    ]
+  },
+  {
     "domain": "rufcransart.be",
     "title": "RUFC Ransart",
     "business_name": "",
@@ -15509,47 +15555,6 @@
       "UTF-8",
       "Yandex Hosting",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "shanejennings.co.uk",
-    "title": "Shane Jennings",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": "",
-    "crawled_at": "2026-06-06T20:20:50.061246376Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Hasnode",
-      "Material-UI",
-      "Next.js",
-      "Pleroma",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "margaritasmelrosepark.com",
-    "title": "MARGARITAS RESTAURANT",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 77,
-    "tech_spend": 65264,
-    "crawled_at": "2026-06-06T20:12:56.400284686Z",
-    "technologies": [
-      "Cloudflare",
-      "Content Delivery Network",
-      "Fireblade",
-      "Instagram Follow Button",
-      "Material-UI",
-      "Next.js",
-      "Pleroma",
-      "SMC",
-      "UTF-8",
-      "Unsplash"
     ]
   }
 ]
