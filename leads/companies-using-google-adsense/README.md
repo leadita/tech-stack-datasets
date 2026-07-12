@@ -1,6 +1,6 @@
 # Companies Using Google Adsense (Live Dataset 2026)
 
-This folder contains an active list of 100,142 companies using **Google Adsense**. 
+This folder contains an active list of 100,149 companies using **Google Adsense**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 100,142
+- **Total Leads:** 100,149
 - **Verified:** Yes
-- **Last Updated:** 2026-07-11 11:00 UTC
+- **Last Updated:** 2026-07-12 11:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **100,142+** companies using Google Adsense.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **100,149+** companies using Google Adsense.
 
 [**⚡ Unlock the Full Google Adsense List with Contact Details**](https://leadita.com/leads/companies-using-google-adsense)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-07-11 11:00 UTC*
+*Last updated: 2026-07-12 11:00 UTC*
 *Data source: Leadita Technographic Intelligence*
