@@ -1,5 +1,38 @@
 [
   {
+    "domain": "caferae.com",
+    "title": "Cafe Rae",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 50,
+    "tech_spend": 269,
+    "crawled_at": "2026-07-11T23:05:19.969654353Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Contact Form Plugin",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Line2",
+      "Nectar Slide Plugin",
+      "PHP",
+      "QUIC",
+      "Salient",
+      "Theme In WP",
+      "UTF-8",
+      "WPBakery",
+      "Woo Themes",
+      "WooCommerce Checkout",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Related Posts",
+      "hCaptcha",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "auto-covers.co.za",
     "title": "Auto Covers - Custom Car Covers | Fully Branded car covers",
     "business_name": "Auto-Covers | Branded Car & Motorcycle Covers",
@@ -17106,35 +17139,6 @@
       "jsDelivr",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "aloraliving.in",
-    "title": "Alora Living | Handcrafted Jodhpur Furniture & Bone Inlay Decor",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 43804,
-    "crawled_at": "2026-06-18T06:32:19.968548301Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google My Business",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Schema Plugin",
-      "Shopify",
-      "Shopify Collabs",
-      "Shopify Payments",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vignette OpenText",
-      "WhatsApp Sharing",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   }
 ]
