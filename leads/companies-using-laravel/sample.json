@@ -1,5 +1,27 @@
 [
   {
+    "domain": "brskf.com",
+    "title": "Brskf.com - Your Trusted Partner",
+    "business_name": "",
+    "country": "BGD",
+    "seo_score": 72,
+    "tech_spend": 184,
+    "crawled_at": "2026-07-11T22:32:19.96920243Z",
+    "technologies": [
+      "Google Cloud DNS",
+      "Google Font API",
+      "Laravel Livewire",
+      "LaunchDarkly",
+      "PHP",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "mazzetti-gewinnspiel.de",
     "title": "Mazzetti-Gewinsspiel",
     "business_name": "",
@@ -13483,31 +13505,6 @@
       "UTF-8",
       "Ubuntu",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "lapauserestaurant.ca",
-    "title": "La Pause",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": "",
-    "crawled_at": "2026-05-19T14:39:45.309881652Z",
-    "technologies": [
-      "Bunny Fonts",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Instagram Follow Button",
-      "Laravel Livewire",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Pico CSS",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]

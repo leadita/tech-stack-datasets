@@ -1,5 +1,25 @@
 [
   {
+    "domain": "adrocgt.com",
+    "title": "Adroc Portfolio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 5000,
+    "crawled_at": "2026-07-11T23:02:19.968100845Z",
+    "technologies": [
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Django",
+      "GitHub Hosting",
+      "M247",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "mounirmesselmeni.de",
     "title": "Mounir Messelmeni - Senior Software Architect | Full Stack Developer in Germany",
     "business_name": "",

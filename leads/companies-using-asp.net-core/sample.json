@@ -1,5 +1,26 @@
 [
   {
+    "domain": "sgcpr.net",
+    "title": "SGC Home Page - sgcpr.web",
+    "business_name": "",
+    "country": "PRI",
+    "seo_score": 65,
+    "tech_spend": 5399,
+    "crawled_at": "2026-07-12T03:20:19.96855959Z",
+    "technologies": [
+      "ASP.NET Core",
+      "BootstrapMade",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microsoft Azure",
+      "PHP",
+      "Perl",
+      "UTF-8",
+      "Visual Studio"
+    ]
+  },
+  {
     "domain": "firstcarremoval.com.au",
     "title": "Home Page | First Car Removal In Perth",
     "business_name": "",
@@ -15701,35 +15722,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "bookmebarber.co.uk",
-    "title": "Best Barber in Manchester | Top Hairdressers & Hair Stylists for Men & Women",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 23507,
-    "crawled_at": "2026-05-30T07:41:22.093550331Z",
-    "technologies": [
-      "ASP.NET Core",
-      "AutoComplete",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ElementUI",
-      "Font Awesome",
-      "Google My Business",
-      "IcoMoon",
-      "KVH",
-      "Microsoft Azure",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Visual Studio",
-      "WhatsApp Sharing",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
