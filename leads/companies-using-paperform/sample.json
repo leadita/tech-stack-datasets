@@ -1,5 +1,30 @@
 [
   {
+    "domain": "dotreminders.com",
+    "title": "US DOT Biennial Update Portal | DOT Updates | Federal Applications Processor - Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 4852,
+    "crawled_at": "2026-07-12T05:59:19.968586762Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Apache",
+      "Cognito Forms",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "LiveChat",
+      "LiveChat Monitoring",
+      "NFOrce Internet",
+      "Paperform",
+      "QUIC",
+      "Rocket Chat"
+    ]
+  },
+  {
     "domain": "halalhousinglab.ca",
     "title": "Halal Housing Lab",
     "business_name": "",
@@ -16734,43 +16759,6 @@
       "Realtor Canada",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "mindklok.com",
-    "title": "Leadership & Business Coaching to Drive Growth » Mindklok",
-    "business_name": "",
-    "country": "SWE",
-    "seo_score": 82,
-    "tech_spend": 16549,
-    "crawled_at": "2026-04-12T10:56:19.996323386Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Blocksy",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Paperform",
-      "Sitelinks Search Box",
-      "Theme In WP",
-      "TranslatePress",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite"
     ]
   }
 ]
