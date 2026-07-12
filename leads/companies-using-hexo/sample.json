@@ -1,5 +1,38 @@
 [
   {
+    "domain": "adamelmakias.com",
+    "title": "Adam Elmakias",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 37097,
+    "crawled_at": "2026-07-12T05:20:19.968147357Z",
+    "technologies": [
+      "AAPT",
+      "Apture Linking Platform",
+      "CCSI",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "DAV",
+      "Financial Services Guide",
+      "GZIP Module",
+      "HHVM",
+      "Hexo",
+      "Instagram Follow Button",
+      "K2F",
+      "KVH",
+      "Nationwide Mortgage Licensing System and Registry",
+      "No-Q",
+      "Paessler",
+      "QUIC",
+      "SMC",
+      "Subversion",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "schoolleeuwergem.be",
     "title": "School Leeuwergem - Velzeke",
     "business_name": "",
@@ -20581,43 +20614,6 @@
       "Visx",
       "W3 Total Cache",
       "Zope"
-    ]
-  },
-  {
-    "domain": "pristinefits.com",
-    "title": "Pristine Fits | Luxury Sportswear",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 29724,
-    "crawled_at": "2026-06-01T09:52:07.069878646Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Fireblade",
-      "Google",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google Related Website Sites",
-      "Hexo",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "Microdata for Google Shopping",
-      "Pico CSS",
-      "QUIC",
-      "Schema Plugin",
-      "Shopify",
-      "Shopify Collabs",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   }
 ]
