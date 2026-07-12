@@ -1,5 +1,34 @@
 [
   {
+    "domain": "xos.com",
+    "title": "Elemental Analysis and X-ray Optics | XOS",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 45668,
+    "crawled_at": "2026-07-12T06:26:19.969267876Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Better Lead Generation Services",
+      "Bug Bounty",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Fastly",
+      "Fireblade",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Hubspot Knowledge Base",
+      "Onyx Internet",
+      "Prospective",
+      "Site Search 360",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "stanczyk.realtor",
     "title": "Nieruchomości w Hiszpanii dla Polaków | Polski Agent",
     "business_name": "",
@@ -94,34 +123,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "sindie.com",
-    "title": "Elemental Analysis and X-ray Optics | XOS",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 45668,
-    "crawled_at": "2026-07-02T12:47:19.969748674Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Better Lead Generation Services",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Fastly",
-      "Fireblade",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hubspot Knowledge Base",
-      "Onyx Internet",
-      "Prospective",
-      "Site Search 360",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "jQuery"
     ]
   },
   {
