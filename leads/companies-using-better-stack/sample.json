@@ -1,5 +1,37 @@
 [
   {
+    "domain": "eokou.com",
+    "title": "Alban Andrieu — Freelance DevSecOps & Cloud Architect (AWS, Azure, OVH)",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 30831,
+    "crawled_at": "2026-07-12T19:02:19.973421243Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Better Stack",
+      "CDN JS",
+      "Calendly",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Turnstile",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Fireblade",
+      "GitHub Hosting",
+      "InitiativeS",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Python",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "simcompanies.com",
     "title": "Business simulation game - Sim Companies",
     "business_name": "Sim Companies",
