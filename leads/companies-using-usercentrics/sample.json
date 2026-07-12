@@ -1,5 +1,22 @@
 [
   {
+    "domain": "frg-claus-siemer.com",
+    "title": "Winterdienst, Flächen- und Straßenreinigung und Container in Kiel - FRG Claus Siemer KG",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 50,
+    "tech_spend": "",
+    "crawled_at": "2026-07-11T15:53:19.969568965Z",
+    "technologies": [
+      "Apache",
+      "Bulma",
+      "PHP",
+      "UTF-8",
+      "Unix",
+      "Usercentrics"
+    ]
+  },
+  {
     "domain": "psipsi.com",
     "title": "PSI Products: Home",
     "business_name": "",
@@ -18172,42 +18189,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "einhelltracker.co.uk",
-    "title": "Premium tools for DIY enthusiasts and gardeners | Einhell.co.uk",
-    "business_name": "Einhell UK Limited",
-    "country": "DEU",
-    "seo_score": 77,
-    "tech_spend": 110367,
-    "crawled_at": "2026-05-17T11:05:19.983390064Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Bazaarvoice",
-      "Bazaarvoice Curations",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ElementUI",
-      "Friendly Captcha",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Perl",
-      "Site Search 360",
-      "TeamViewer",
-      "Trustpilot Reviews for WordPress",
-      "Twitter Ads",
-      "UTF-8",
-      "Usercentrics",
-      "YouTube"
     ]
   }
 ]
