@@ -1,5 +1,32 @@
 [
   {
+    "domain": "dubaninternationalhotel.com",
+    "title": "Duban International Hotel | Luxury Accommodation in Lagos, Nigeria | Book Your Stay",
+    "business_name": "",
+    "country": "NGA",
+    "seo_score": 82,
+    "tech_spend": 4240,
+    "crawled_at": "2026-07-11T23:47:19.96869169Z",
+    "technologies": [
+      "Botpress",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Tailwind CSS",
+      "YouTube",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "bionectus.com",
     "title": "Bionectus — For a Greener Future",
     "business_name": "",
@@ -14681,31 +14708,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "dubaninternationalhotel.com",
-    "title": "Duban International Hotel | Luxury Accommodation in Lagos, Nigeria | Book Your Stay",
-    "business_name": "",
-    "country": "NGA",
-    "seo_score": 92,
-    "tech_spend": 4240,
-    "crawled_at": "2026-04-25T06:29:17.707962416Z",
-    "technologies": [
-      "Botpress",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Tailwind CSS",
-      "YouTube",
-      "jsDelivr",
       "shadcn ui"
     ]
   },
