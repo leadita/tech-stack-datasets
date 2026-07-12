@@ -1,5 +1,49 @@
 [
   {
+    "domain": "bingedistribution.com",
+    "title": "OTT Distributor & Film Distribution Company in Usa",
+    "business_name": "Binge Distribution",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 5173,
+    "crawled_at": "2026-07-12T06:14:19.970592976Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Apture Linking Platform",
+      "Automattic",
+      "Calendly",
+      "Contact Form Plugin",
+      "DuracellTomi Google Tag Manager for WordPress",
+      "Eber",
+      "Elementor",
+      "ElementsKit Elementor",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Impact",
+      "Jetpack",
+      "LiteSpeed",
+      "Mautic",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PHP",
+      "QUIC",
+      "Site Kit",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "aWeber",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "catalysthealthimpact.com",
     "title": "Catalyst Health Impact — Catalyzing Scalable Health Infrastructure for a Connected World",
     "business_name": "",
@@ -19944,30 +19988,6 @@
       "Vector Internet Services",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "fortesimpact.com",
-    "title": "Fortes Impact Club",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 2499,
-    "crawled_at": "2026-05-15T17:50:19.995435477Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Impact",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "PWA",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
