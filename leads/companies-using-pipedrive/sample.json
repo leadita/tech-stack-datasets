@@ -1,5 +1,38 @@
 [
   {
+    "domain": "komainu.uk",
+    "title": "Institutional Gateway to the Digital Asset Market | Komainu",
+    "business_name": "Komainu",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 51452,
+    "crawled_at": "2026-07-11T18:41:19.973918112Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "Cybot",
+      "EmbedPress",
+      "Fireblade",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gutenberg",
+      "Imperva Bot Detection and Mitigation",
+      "Incapsula CDN",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "PHP",
+      "Pipedrive",
+      "Theme In WP",
+      "UTF-8",
+      "Vimeo",
+      "WordPress",
+      "WordPress Multisite",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "albert-stg.net",
     "title": "Grades 5-12 reading, writing, math, science, and test prep | Albert",
     "business_name": "",
@@ -19770,40 +19803,6 @@
       "Yelp Badge",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "sixtplus.fi",
-    "title": "Auton tilaus – Pitkäaikainen autonvuokraus – SIXT+ Minileasing (SIXT Plus Minileasing)",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 26430,
-    "crawled_at": "2026-05-04T01:59:20.009238385Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AiNET",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Hotjar",
-      "Instagram Follow Button",
-      "Pipedrive",
-      "Tailwind CSS",
-      "UTF-8",
-      "WF Cookie Consent",
-      "jsDelivr"
     ]
   }
 ]
