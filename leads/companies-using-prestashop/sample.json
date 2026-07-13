@@ -1,5 +1,20 @@
 [
   {
+    "domain": "kantorowskiglab.pl",
+    "title": "kantorowskiglab.pl",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": "",
+    "crawled_at": "2026-07-13T15:44:19.973265761Z",
+    "technologies": [
+      "LiteSpeed",
+      "PrestaShop",
+      "QUIC",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "sevaplumbing.com",
     "title": "Miami Plumber | 24/7 Emergency Services | Seva Plumbing LLC",
     "business_name": "",
@@ -43,21 +58,6 @@
       "WordPress Related Posts",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "tranco.pl",
-    "title": "tranco.pl",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": "",
-    "crawled_at": "2026-07-12T11:59:19.973820152Z",
-    "technologies": [
-      "LiteSpeed",
-      "PrestaShop",
-      "QUIC",
-      "WordPress"
     ]
   },
   {
