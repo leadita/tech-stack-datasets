@@ -1,5 +1,24 @@
 [
   {
+    "domain": "truthcapital.com.hk",
+    "title": "大道资本（香港）有限公司",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 603,
+    "crawled_at": "2026-07-12T22:59:19.974612786Z",
+    "technologies": [
+      "Create React App",
+      "Fastly",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Pleroma",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "martinandsons.co",
     "title": "Welcome to Heritage Restoration Notes",
     "business_name": "",
@@ -15183,40 +15202,6 @@
       "Styled Components",
       "Subversion",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "lamdacropguard.in",
-    "title": "Lamda Crop Guard",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 65,
-    "tech_spend": 17709,
-    "crawled_at": "2026-06-01T17:58:44.128143664Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Create React App",
-      "Express",
-      "Fireblade",
-      "Formspree",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "htmlcodex.com",
-      "jQuery",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]
