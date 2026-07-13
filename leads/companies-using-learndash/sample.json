@@ -1,5 +1,36 @@
 [
   {
+    "domain": "englishliteracyhub.com",
+    "title": "English Literacy Hub – Empowering Learners, Building Literacy",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 65,
+    "tech_spend": 2654,
+    "crawled_at": "2026-07-13T13:14:19.974216062Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Elementor",
+      "EmbedPress",
+      "Essential Addons for Elementor",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Header, Footer and Blocks for Elementor",
+      "LearnDash",
+      "NFOrce Internet",
+      "Neve",
+      "PHP",
+      "QUIC",
+      "Theme In WP",
+      "UTF-8",
+      "Uncanny Toolkit for LearnDash",
+      "University or College",
+      "Unlimited Elements For Elementor",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "embodydivinewellness.com",
     "title": "Homepage | Embody Divine Wellness",
     "business_name": "",
@@ -21891,37 +21922,6 @@
       "WordPress Related Posts",
       "YouTube",
       "Zoom Video Conferencing",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "sendforwarduk.com",
-    "title": "SENDFORWARD.UK – Forward thinking for SEND",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 1046,
-    "crawled_at": "2026-05-14T18:53:19.995947767Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Automattic",
-      "Content Delivery Network",
-      "DAV",
-      "EmbedPress",
-      "Gutenberg",
-      "Instagram Follow Button",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "LearnDash",
-      "Nginx",
-      "PHP",
-      "Perl",
-      "UTF-8",
-      "University or College",
-      "Varia",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
       "jQuery"
     ]
   }
