@@ -1,5 +1,66 @@
 [
   {
+    "domain": "greenenergyexim.com",
+    "title": "Green Energy Exim - Home | greenenergyexim",
+    "business_name": "",
+    "country": "NPL",
+    "seo_score": 72,
+    "tech_spend": 2908,
+    "crawled_at": "2026-07-13T08:44:19.970386088Z",
+    "technologies": [
+      "Adult Content",
+      "Apache",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Laravel Livewire",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "mirztest-beta.net",
+    "title": "MatureFlingFinder",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 9378,
+    "crawled_at": "2026-07-12T20:14:19.974940891Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fastly",
+      "Fireblade",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "Laravel Cookie Consent",
+      "NFOrce Internet",
+      "Nginx",
+      "PHP",
+      "PWA",
+      "Perl",
+      "Sign In With Google",
+      "Tailwind CSS",
+      "UTF-8",
+      "WonderPush",
+      "jQuery",
+      "jsDelivr",
+      "reCAPTCHA",
+      "symfony PHP Framework"
+    ]
+  },
+  {
     "domain": "brskf.com",
     "title": "Brskf.com - Your Trusted Partner",
     "business_name": "",
@@ -13458,53 +13519,6 @@
       "Unsplash",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "gcsistemas.net",
-    "title": "GCSistemas",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 3,
-    "crawled_at": "2026-05-19T14:51:29.668975796Z",
-    "technologies": [
-      "Apache",
-      "DAV",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Laravel Livewire",
-      "Tailwind CSS",
-      "UTF-8",
-      "reCAPTCHA",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "bellagi.com.br",
-    "title": "Bellagi - Decor",
-    "business_name": "",
-    "country": "BRA",
-    "seo_score": 67,
-    "tech_spend": 3007,
-    "crawled_at": "2026-05-19T14:44:20.016764482Z",
-    "technologies": [
-      "Apache",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Laravel Livewire",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "jQuery"
     ]
   }
 ]

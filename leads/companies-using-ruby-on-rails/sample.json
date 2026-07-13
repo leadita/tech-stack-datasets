@@ -1,5 +1,57 @@
 [
   {
+    "domain": "pleasureboundstudios.org",
+    "title": "Pleasure Bound Studios - Pleasure Bound Studios Pacific Northwest",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 20420,
+    "crawled_at": "2026-07-13T03:50:19.971830804Z",
+    "technologies": [
+      "Aruba",
+      "Community",
+      "DAV",
+      "Digital Ocean Spaces",
+      "ElementUI",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "LifeStyle",
+      "Modern",
+      "NFOrce Internet",
+      "Nginx",
+      "PWA",
+      "Ruby on Rails",
+      "UTF-8",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "mycentslearning.com",
+    "title": "Get Started - MyCents Learning",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 72,
+    "tech_spend": 22584,
+    "crawled_at": "2026-07-13T03:11:19.974563367Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Elementor",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "IcoMoon",
+      "KVH",
+      "Nginx",
+      "Ruby on Rails",
+      "Simplero",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "additionalnutritional.com",
     "title": "Nutrition Plan",
     "business_name": "",
@@ -2813,31 +2865,6 @@
       "UTF-8",
       "University or College",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "djdimitris.com",
-    "title": "DJD - DJ Dimitris Mykonos",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 17420,
-    "crawled_at": "2026-06-10T03:51:10.125727628Z",
-    "technologies": [
-      "Aruba",
-      "Digital Ocean Spaces",
-      "ElementUI",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "LifeStyle",
-      "Modern",
-      "NFOrce Internet",
-      "Nginx",
-      "PWA",
-      "Ruby on Rails",
-      "UTF-8"
     ]
   },
   {
@@ -15208,33 +15235,6 @@
       "UTF-8",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "doctorraucci.com",
-    "title": "Chiropractic Care, Chiropractic Neurology and more | Pine Bush Health & Chiropractic",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 880,
-    "crawled_at": "2026-05-28T22:22:22.496354615Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Content Delivery Network",
-      "Elfsight",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "QUIC",
-      "Ruby on Rails",
-      "Sentry",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vimeo"
     ]
   }
 ]
