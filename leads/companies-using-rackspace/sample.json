@@ -1,5 +1,28 @@
 [
   {
+    "domain": "agelessbeautync.com",
+    "title": "Ageless Beauty Med Spa",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 1242,
+    "crawled_at": "2026-07-12T21:14:19.969234023Z",
+    "technologies": [
+      "ASP.NET Core",
+      "Adobe Creative Cloud WebFonts",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Customer Reviews",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Rackspace CDN",
+      "Tailwind CSS",
+      "Vagaro"
+    ]
+  },
+  {
     "domain": "sharonlynnedwards.com",
     "title": "Sharon Edwards",
     "business_name": "",
@@ -18654,45 +18677,6 @@
       "UTF-8",
       "Unsplash",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "ajelendingtransportationguide.com",
-    "title": "Financing Program For Trucking & Transportation Companies | AJE Lending",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 54739,
-    "crawled_at": "2026-05-24T04:24:44.979590029Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "GetResponse",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "ID Services",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "New Relic",
-      "Nginx",
-      "Plausible Analytics",
-      "QUIC",
-      "Rackspace Cloud Servers",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "UserWay",
-      "Wufoo",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   }
 ]
