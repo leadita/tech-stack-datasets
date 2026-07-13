@@ -1,5 +1,42 @@
 [
   {
+    "domain": "minemy.reviews",
+    "title": "Senja",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 2133,
+    "crawled_at": "2026-07-13T04:29:19.975232037Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "BunnyCDN",
+      "BunnyCDN General",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "ElementUI",
+      "FirstPromoter",
+      "Framer Sites",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "ImageKit.io",
+      "LottieFiles",
+      "Ntent",
+      "Pirsch",
+      "Product Hunt",
+      "Segment",
+      "Segment Consent Manager",
+      "Svelte",
+      "Tailwind CSS",
+      "Testimonial",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "houseofbeautyparkridge.com",
     "title": "The House Of Beauty located inside Lamaris Salon and Spa | Health & Beauty in Chicago, IL",
     "business_name": "",
@@ -21427,30 +21464,6 @@
       "jsDelivr",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "250broadway.com",
-    "title": "250 Broadway, City Hall, New York, NY",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 7880,
-    "crawled_at": "2026-05-22T09:29:52.060637759Z",
-    "technologies": [
-      "Cloudinary",
-      "DAV",
-      "ElementUI",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Segment",
-      "Segment Consent Manager",
-      "Tailwind CSS",
-      "UTF-8",
-      "Way",
-      "jsDelivr"
     ]
   }
 ]

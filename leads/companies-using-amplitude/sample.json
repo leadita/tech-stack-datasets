@@ -1,5 +1,56 @@
 [
   {
+    "domain": "renosleeptmj.com",
+    "title": "Reno TMJ and Sleep Clinic | Dr. Shanna Kim",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 59232,
+    "crawled_at": "2026-07-13T06:23:19.968746002Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Amplitude",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Demandforce",
+      "Doctors Internet",
+      "Facebook Pixel",
+      "Facebook Tag API",
+      "Fastly",
+      "Font Awesome",
+      "GZIP Module",
+      "Global Privacy Control",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Conversion Tracking",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "LinkedIn Insights",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Patient Prism",
+      "Perl",
+      "QUIC",
+      "ReviewsOnMyWebsite",
+      "Seflow Italy",
+      "Smile Virtual",
+      "Taboola Direct",
+      "UTF-8",
+      "University or College",
+      "UserWay",
+      "intakeQ"
+    ]
+  },
+  {
     "domain": "thediamethod.com",
     "title": "Exercise Program for Core and Pelvic Floor Health",
     "business_name": "",
@@ -21982,25 +22033,6 @@
       "UTF-8",
       "WP Booking Calendar",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "jeagger.com",
-    "title": "JEAGGER - La voce libera della musica indipendente",
-    "business_name": "",
-    "country": "EGY",
-    "seo_score": 60,
-    "tech_spend": "",
-    "crawled_at": "2026-05-15T04:14:20.011511553Z",
-    "technologies": [
-      "Amplitude",
-      "Apache",
-      "Azion",
-      "Bulma",
-      "DAV",
-      "GZIP Module",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
