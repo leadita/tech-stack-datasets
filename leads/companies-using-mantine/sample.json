@@ -1,5 +1,55 @@
 [
   {
+    "domain": "dandlestoregroup.com",
+    "title": "Dandle Recliners | Comfort & Style | THE FINEST",
+    "business_name": "",
+    "country": "EGY",
+    "seo_score": 62,
+    "tech_spend": 4919,
+    "crawled_at": "2026-07-13T01:11:19.970162994Z",
+    "technologies": [
+      "Alternate Protocol",
+      "BunnyCDN",
+      "BunnyCDN General",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "DAV",
+      "ElementUI",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Mantine",
+      "Next.js",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "transcribemdai.com",
+    "title": "TranscribeMD - AI-Powered Clinical Documentation",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2450,
+    "crawled_at": "2026-07-12T22:23:19.969428924Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Mantine",
+      "Next.js",
+      "Pleroma",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "pitchq.com",
     "title": "pitchq — Direct investor access for founders",
     "business_name": "",
@@ -13020,47 +13070,6 @@
       "Instagram Follow Button",
       "Mantine",
       "Next.js",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "aflabs.com",
-    "title": "AFlabs",
-    "business_name": "",
-    "country": "SVN",
-    "seo_score": 52,
-    "tech_spend": 203,
-    "crawled_at": "2026-05-12T14:14:00.916056936Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Mantine",
-      "Next.js",
-      "OpenResty",
-      "Pleroma",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "livestocx.com",
-    "title": "Livestocx",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": "",
-    "crawled_at": "2026-05-12T14:05:19.983655565Z",
-    "technologies": [
-      "App Store",
-      "Content Delivery Network",
-      "DAV",
-      "Google My Business",
-      "Google Play",
-      "Mantine",
-      "Next.js",
-      "Pleroma",
       "UTF-8",
       "Vercel"
     ]
