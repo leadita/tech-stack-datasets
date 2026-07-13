@@ -1,5 +1,64 @@
 [
   {
+    "domain": "mreqfields.com",
+    "title": "Required Columns for monday.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 1317,
+    "crawled_at": "2026-07-13T12:32:19.96900644Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Cloudinary",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Twitter Ads",
+      "monday.com"
+    ]
+  },
+  {
+    "domain": "wavemaster.ca",
+    "title": "Wavemaster",
+    "business_name": "Wavemaster",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 34559,
+    "crawled_at": "2026-07-13T02:59:19.969350919Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Cornerstone",
+      "Express",
+      "Fireblade",
+      "Gambling Content",
+      "InitiativeS",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Next.js",
+      "Payload CMS",
+      "Perl",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "monday.com",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "dinkplex.com",
     "title": "Indoor Pickleball Orlando: Open/Competitive play, leagues and more... | DinkPlex",
     "business_name": "",
@@ -18443,53 +18502,6 @@
       "iomart",
       "monday.com",
       "route"
-    ]
-  },
-  {
-    "domain": "clickcrm.co.za",
-    "title": "Click CRM : Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 159,
-    "crawled_at": "2026-05-18T10:26:20.026047052Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Apture Linking Platform",
-      "Bulma",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "LiteSpeed",
-      "QUIC",
-      "Squid",
-      "jQuery",
-      "monday.com"
-    ]
-  },
-  {
-    "domain": "superfine.studio",
-    "title": "Superfine Studio | Top-tier product and brand design",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 32172,
-    "crawled_at": "2026-05-18T08:26:19.990690525Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Calendly",
-      "Framer Sites",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "KVH",
-      "Ntent",
-      "QUIC",
-      "Yandex Hosting",
-      "Zeald",
-      "monday.com"
     ]
   }
 ]
