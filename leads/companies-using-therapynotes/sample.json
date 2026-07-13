@@ -1,5 +1,26 @@
 [
   {
+    "domain": "matthewwilliams.agency",
+    "title": "Web Design for Therapists & Psychiatrists | HIPAA-Conscious & Hand-Crafted | Matthew Williams",
+    "business_name": "Websites for Therapists & Psychiatrists — Matthew Williams",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 21668,
+    "crawled_at": "2026-07-13T00:47:19.972535488Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Gravity",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "TherapyNotes",
+      "UTF-8",
+      "eLand"
+    ]
+  },
+  {
     "domain": "mccoycounseling.com",
     "title": "McCoy Counseling Center | Therapy | Bowling Green, KY",
     "business_name": "mccoycounseling.com",
