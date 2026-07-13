@@ -1,5 +1,29 @@
 [
   {
+    "domain": "immarcel.me",
+    "title": "Marcel",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 5320,
+    "crawled_at": "2026-07-13T05:53:19.974593299Z",
+    "technologies": [
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Discord",
+      "Fastly",
+      "Formspree",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Line2",
+      "Telegram",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "gatheringplacegames.com",
     "title": "The Gathering Place Games: NC's Premier Nerdy Beer Bar -",
     "business_name": "The Gathering Place Games: NC's Premier Nerdy Beer Bar",
@@ -16388,32 +16412,6 @@
       "Twitter Ads",
       "UTF-8",
       "Yandex Hosting"
-    ]
-  },
-  {
-    "domain": "dhitan.dev",
-    "title": "Dhitan - Portfolio",
-    "business_name": "",
-    "country": "IDN",
-    "seo_score": 77,
-    "tech_spend": 4980,
-    "crawled_at": "2026-05-28T03:40:03.212605479Z",
-    "technologies": [
-      "Community",
-      "Content Delivery Network",
-      "Discord",
-      "Express",
-      "GitHub Hosting",
-      "Google My Business",
-      "IPFS",
-      "Instagram Follow Button",
-      "NFOrce Internet",
-      "Next.js",
-      "Python",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
