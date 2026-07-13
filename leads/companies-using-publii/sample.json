@@ -1,5 +1,31 @@
 [
   {
+    "domain": "hedgetide.com",
+    "title": "HedgeTIDE™ - HedgeTIDE™",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 32909,
+    "crawled_at": "2026-07-13T06:44:19.971377013Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Fastly",
+      "Fireblade",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Publii",
+      "QUIC",
+      "SiteLock",
+      "Twitter Ads",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "project-finance.com",
     "title": "Renaissance Finance International - project-finance.com",
     "business_name": "",
