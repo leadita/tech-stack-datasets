@@ -1,5 +1,37 @@
 [
   {
+    "domain": "ip-televizija.com",
+    "title": "IP Televizija - For 5$/month - Best IPTV Subscription",
+    "business_name": "IPTV Extreme Pro",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 2160,
+    "crawled_at": "2026-07-13T18:47:19.96918506Z",
+    "technologies": [
+      "Alternate Protocol",
+      "App Store",
+      "Content Delivery Network",
+      "Donorbox",
+      "Elementor",
+      "EmbedPress",
+      "Express",
+      "Google Related Website Sites",
+      "Hello Elementor",
+      "Line2",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "PHP",
+      "QUIC",
+      "QUIC.cloud",
+      "Sitelinks Search Box",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "WordPress",
+      "WordPress Multisite",
+      "eLand"
+    ]
+  },
+  {
     "domain": "tislfoundation.org",
     "title": "TISL | HOME",
     "business_name": "",
@@ -14431,40 +14463,6 @@
       "jQuery",
       "jsDelivr",
       "vFairs"
-    ]
-  },
-  {
-    "domain": "balloonworldcup.pro",
-    "title": "IP Televizija - For 5$/month - Best IPTV Subscription",
-    "business_name": "IPTV Extreme Pro",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 2660,
-    "crawled_at": "2026-05-22T21:14:19.969289137Z",
-    "technologies": [
-      "Alternate Protocol",
-      "App Store",
-      "Content Delivery Network",
-      "Donorbox",
-      "Elementor",
-      "EmbedPress",
-      "Express",
-      "Google Related Website Sites",
-      "Hello Elementor",
-      "Line2",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "QUIC.cloud",
-      "Sitelinks Search Box",
-      "StatCounter",
-      "Tawk",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "WordPress",
-      "WordPress Multisite",
-      "eLand"
     ]
   },
   {
