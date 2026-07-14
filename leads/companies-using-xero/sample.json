@@ -1,5 +1,44 @@
 [
   {
+    "domain": "accountantqueensland.com.au",
+    "title": "Zealous Accounts Tax Accountants & Business Advisors Stanthorpe",
+    "business_name": "Zealous Accounts Accountants Strathorpe",
+    "country": "AUS",
+    "seo_score": 77,
+    "tech_spend": 25694,
+    "crawled_at": "2026-07-14T09:11:19.974433979Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Astra Theme",
+      "Beaver Builder Lite",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Contact Form Plugin",
+      "DC74",
+      "EmbedPress",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Lazy Load for WordPress",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "PHP",
+      "QUIC",
+      "Sitelinks Search Box",
+      "UTF-8",
+      "WP Rocket",
+      "WordPress",
+      "WordPress Multisite",
+      "Xero",
+      "Yandex Hosting",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "accountax-kly.com",
     "title": "Accountax | Accounting Services | Accountant | Keighley",
     "business_name": "",
@@ -18264,23 +18303,6 @@
       "jQuery",
       "reCAPTCHA",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "india-easy.com",
-    "title": "India-Easy.com - NRI Personal Services - NRI Corporate Services - Singapore Corporate Services",
-    "business_name": "",
-    "country": "SGP",
-    "seo_score": 57,
-    "tech_spend": 2503,
-    "crawled_at": "2026-04-22T00:38:19.987391228Z",
-    "technologies": [
-      "Clare.AI",
-      "Font Awesome",
-      "QUIC",
-      "RM Education",
-      "Tidio",
-      "Xero"
     ]
   }
 ]
