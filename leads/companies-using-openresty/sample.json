@@ -1,12 +1,12 @@
 [
   {
-    "domain": "kneo.de",
-    "title": "kneo.de - Effizienz, Benutzerfreundlichkeit, Sicherheit, Komfort, Flexibilität, Zuverlässigkeit, KNEO",
+    "domain": "scarfs.de",
+    "title": "scarfs.de - Halswärmer, Schal, Halstuch, Tuch, Stola, Tücher, Scarfs",
     "business_name": "",
-    "country": "DEU",
-    "seo_score": 55,
+    "country": "",
+    "seo_score": 45,
     "tech_spend": 199,
-    "crawled_at": "2026-07-13T22:44:19.968269886Z",
+    "crawled_at": "2026-07-14T22:29:19.970489578Z",
     "technologies": [
       "3 Products",
       "Font Awesome",
@@ -17,6 +17,201 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
+    ]
+  },
+  {
+    "domain": "lumixtar.com",
+    "title": "China High Power LED Manufacturer & Supplier - Lumixtar",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 72,
+    "tech_spend": 6549,
+    "crawled_at": "2026-07-14T21:56:19.970350212Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "EmbedPress",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "OpenResty",
+      "PHP",
+      "QUIC",
+      "Theme In WP",
+      "Twenty Sixteen",
+      "Twitter Ads",
+      "UTF-8",
+      "Weglot",
+      "WordPress",
+      "YouTube",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "antalandrea.com",
+    "title": "antalandrea. – beaming clay / ceramics",
+    "business_name": "",
+    "country": "HUN",
+    "seo_score": 60,
+    "tech_spend": 63,
+    "crawled_at": "2026-07-14T20:20:19.97442405Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Contact Form Plugin",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "PHP",
+      "Schema Plugin",
+      "Slider Revolution",
+      "Theme In WP",
+      "UTF-8",
+      "WPBakery",
+      "WordPress",
+      "WordPress Multisite",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "accesscontracts.co.uk",
+    "title": "Home Page",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 30,
+    "tech_spend": 603,
+    "crawled_at": "2026-07-14T15:47:19.970798828Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "OpenResty",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "zsp-kaclowa.pl",
+    "title": "Strona Główna",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 20660,
+    "crawled_at": "2026-07-14T12:17:19.968832804Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Contento",
+      "Ektron",
+      "Fastly",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Play",
+      "Google Related Website Sites",
+      "Microsoft 365",
+      "OpenResty",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "mixies.co.in",
+    "title": "mixies.co.in",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 734,
+    "crawled_at": "2026-07-14T11:38:19.969048246Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "ArvanCloud",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Microsoft Azure",
+      "OpenResty",
+      "StackPath",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "jcinvestdaollc.com",
+    "title": "Home Page",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 843,
+    "crawled_at": "2026-07-14T10:11:19.972952178Z",
+    "technologies": [
+      "Amazon S3 CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "OpenResty",
+      "Storyblocks",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "goldinvestsolution.com",
+    "title": "Gold Invest Solution | Home",
+    "business_name": "",
+    "country": "CZE",
+    "seo_score": 65,
+    "tech_spend": 1240,
+    "crawled_at": "2026-07-14T09:11:19.974346798Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "ElementUI",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google My Business",
+      "Google Tag Manager",
+      "OpenResty",
+      "Stripe",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "vitalbody.sk",
+    "title": "Vitalbody | Domov",
+    "business_name": "",
+    "country": "SVK",
+    "seo_score": 52,
+    "tech_spend": 159,
+    "crawled_at": "2026-07-14T03:14:19.97358048Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "OpenResty"
     ]
   },
   {
@@ -418,30 +613,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "apothecary.co.in",
-    "title": "apothecary.co.in",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 734,
-    "crawled_at": "2026-07-11T11:47:19.969665129Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "ArvanCloud",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Microsoft Azure",
-      "OpenResty",
-      "StackPath",
-      "UTF-8",
-      "jsDelivr"
     ]
   },
   {
@@ -12525,146 +12696,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "telephone-technician-sandiego.com",
-    "title": "Home Page",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 50,
-    "tech_spend": 603,
-    "crawled_at": "2026-06-10T22:52:43.865441531Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "Fastly",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "OpenResty",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "brightonleakdetection.com",
-    "title": "Home Page",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 603,
-    "crawled_at": "2026-06-10T22:52:43.860187802Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "OpenResty",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "film-tv-agency.com",
-    "title": "The Film and TV Agency - WWW.FILM-TV-AGENCY.COM - Agency for Actors and Actress's",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 62,
-    "tech_spend": "",
-    "crawled_at": "2026-06-10T22:44:59.732174501Z",
-    "technologies": [
-      "Google Analytics",
-      "OpenResty",
-      "Urchin 5"
-    ]
-  },
-  {
-    "domain": "nullscale.com",
-    "title": "Karl Seguin",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 67,
-    "tech_spend": 2940,
-    "crawled_at": "2026-06-10T22:44:59.720964383Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Express",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Nginx",
-      "OpenResty",
-      "Pico CSS",
-      "Silverlight",
-      "Visual Studio"
-    ]
-  },
-  {
-    "domain": "scientificmeasurements.com",
-    "title": "Scientific Measurements Ltd.",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 67,
-    "tech_spend": 15099,
-    "crawled_at": "2026-06-10T22:17:19.971170774Z",
-    "technologies": [
-      "Cornerstone",
-      "Fireblade",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "PHP",
-      "PWA",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "barryalum.com",
-    "title": "Barry Aluminum - Your Local Home Improvement Experts | Barry Aluminum",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2554,
-    "crawled_at": "2026-06-10T22:13:13.134231671Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "OpenResty",
-      "Thank You",
-      "Unsplash",
-      "Zyro"
-    ]
-  },
-  {
-    "domain": "ominisol.com",
-    "title": "Ominisol LLC",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 359,
-    "crawled_at": "2026-06-10T22:13:13.128536599Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Cloudflare",
-      "EmbedPress",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "OpenResty",
-      "UTF-8",
-      "WPForms",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
