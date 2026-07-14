@@ -1,5 +1,50 @@
 [
   {
+    "domain": "reddensoft.com",
+    "title": "Leading Digital Marketing Agency & Web App Development | Reddensoft",
+    "business_name": "Reddensoft Infotech Pvt. Ltd. | Leading Web App Design & Development Company in Florida",
+    "country": "IND",
+    "seo_score": 82,
+    "tech_spend": 12579,
+    "crawled_at": "2026-07-14T11:29:19.973031575Z",
+    "technologies": [
+      "AI Log",
+      "Aruba",
+      "Brevo",
+      "CodeIgniter",
+      "DAV",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Microsoft Teams",
+      "Next.js",
+      "Nginx",
+      "PHP",
+      "Pleroma",
+      "Python",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Tailwind CSS",
+      "Vector Internet Services",
+      "Woo Themes",
+      "YouTube",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "opendigitech.org",
     "title": "官方168体彩网®查询开奖官网：幸运历史号码体彩飞艇+体彩幸运168官方飞艇结果历史查询网 All Digital • Enhancing Digital Skills Across Europe %",
     "business_name": "",
@@ -18081,29 +18126,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "iqnix.tech",
-    "title": "IQNIX TECH",
-    "business_name": "",
-    "country": "RUS",
-    "seo_score": 67,
-    "tech_spend": 9736,
-    "crawled_at": "2026-04-29T10:08:20.012698119Z",
-    "technologies": [
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microsoft 365",
-      "Microsoft Teams",
-      "Nginx",
-      "Telegram",
-      "Timepad",
-      "UTF-8",
-      "Ubuntu"
     ]
   }
 ]
