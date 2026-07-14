@@ -1,5 +1,33 @@
 [
   {
+    "domain": "kewheeler.com",
+    "title": "katie wheeler photography",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 23286,
+    "crawled_at": "2026-07-14T07:56:19.970233769Z",
+    "technologies": [
+      "AB Tasty",
+      "Adult Content",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "Fastly",
+      "Fireblade",
+      "GZIP Module",
+      "Help.com",
+      "Instagram Follow Button",
+      "Nginx",
+      "Ntent",
+      "QUIC",
+      "SmartyStreets",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "tecnoultra.com",
     "title": "Razer United States | For Gamers. By Gamers.",
     "business_name": "Razer",
@@ -165,36 +193,6 @@
       "Wufoo",
       "YouTube",
       "Zendesk Embeddables"
-    ]
-  },
-  {
-    "domain": "loxlygallery.com",
-    "title": "Photography by Deborah Carney and Vinny O'Hare",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 23286,
-    "crawled_at": "2026-07-05T13:08:19.973822735Z",
-    "technologies": [
-      "AB Tasty",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CloudFront",
-      "Content Delivery Network",
-      "Fastly",
-      "Fireblade",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "Help.com",
-      "Instagram Follow Button",
-      "Nginx",
-      "Ntent",
-      "QUIC",
-      "SmartyStreets",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
