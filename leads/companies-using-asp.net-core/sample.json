@@ -1,5 +1,81 @@
 [
   {
+    "domain": "abdullahm.in",
+    "title": "Abdullah M | .NET Full Stack Engineer",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 3208,
+    "crawled_at": "2026-07-14T08:59:19.974993186Z",
+    "technologies": [
+      "ASP.NET Core",
+      "ASP.NET MVC",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Netlify",
+      "UTF-8",
+      "University or College",
+      "Visual Studio",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "maitrifarms.com",
+    "title": "Maitri Farms.Eco-tourism Sustainable living",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 2440,
+    "crawled_at": "2026-07-14T07:50:19.96811389Z",
+    "technologies": [
+      "ASP.NET Core",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "QUIC",
+      "Tailwind CSS",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "diogenespolanco.com",
+    "title": "Diogenes Polanco - Manager of Development, Projects and Innovation",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 579,
+    "crawled_at": "2026-07-13T15:41:19.974880989Z",
+    "technologies": [
+      "ASP.NET Core",
+      "ASP.NET MVC",
+      "Astro",
+      "Coming Soon Page",
+      "Express",
+      "GitHub Hosting",
+      "InitiativeS",
+      "Python",
+      "QUIC",
+      "Twitter Ads",
+      "Visual Studio",
+      "nopCommerce"
+    ]
+  },
+  {
     "domain": "lois-hayes-holland.co.uk",
     "title": "Home",
     "business_name": "",
@@ -15605,70 +15681,6 @@
       "Webflow",
       "jsDelivr",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "foxcog.com",
-    "title": "Foxcog OPC Pvt. Ltd. – Business Minded, Purpose Driven",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 3736,
-    "crawled_at": "2026-05-30T17:32:23.799996587Z",
-    "technologies": [
-      "ASP.NET Core",
-      "FormSubmit",
-      "GZIP Module",
-      "HostGator",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Parallels Plesk Panel",
-      "University or College",
-      "Visual Studio",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "borlooweb.be",
-    "title": "Home Page - Borloo",
-    "business_name": "",
-    "country": "BEL",
-    "seo_score": 35,
-    "tech_spend": "",
-    "crawled_at": "2026-05-30T15:17:48.536838412Z",
-    "technologies": [
-      "ASP.NET Core",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "pirtonparishcouncil.org.uk",
-    "title": "Home - pirton parish council",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 75,
-    "tech_spend": 22440,
-    "crawled_at": "2026-05-30T14:45:52.031459195Z",
-    "technologies": [
-      "ASP.NET Core",
-      "Angular",
-      "Facebook Login",
-      "Facebook Reseller",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google Tag Manager",
-      "Iconz",
-      "QUIC",
-      "StackPath",
-      "Tailwind CSS",
-      "UTF-8",
-      "Unix",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]

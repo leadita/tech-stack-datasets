@@ -1,5 +1,36 @@
 [
   {
+    "domain": "womensdaysyracuse.com",
+    "title": "Welcome to Syracuse International Christian Church | Syracuse International Christian Church",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 474,
+    "crawled_at": "2026-07-13T19:29:19.968875259Z",
+    "technologies": [
+      "Amazon",
+      "Amazon API Gateway",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Apyl",
+      "CloudFront",
+      "Content Delivery Network",
+      "Create React App",
+      "DAV",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Line2",
+      "Pleroma",
+      "Storyblocks",
+      "Styled Components",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "h2obosscharters.com",
     "title": "Join the Fun: Experience Thrilling Fishing Action on Lake Erie!",
     "business_name": "H2oBoss Charters",
@@ -17311,36 +17342,6 @@
       "Styled Components",
       "Subversion",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "sharpsburgcounseling.com",
-    "title": "Affordable Counseling in Sharpsburg",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 20550,
-    "crawled_at": "2026-04-10T00:14:19.989439171Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon",
-      "Amazon API Gateway",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "Create React App",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "Pleroma",
-      "QUIC",
-      "Simple Analytics",
-      "Storyblocks",
-      "Styled Components",
-      "University or College"
     ]
   }
 ]
