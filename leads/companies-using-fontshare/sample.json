@@ -1,5 +1,33 @@
 [
   {
+    "domain": "s4digi.com",
+    "title": "s4digital | helping trades, EV installers and service brands grow online",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 888,
+    "crawled_at": "2026-07-14T15:08:19.97502334Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Better Lead Generation Services",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fontshare",
+      "FormSubmit",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "PWA",
+      "Perl",
+      "Pico CSS",
+      "Tailwind CSS",
+      "UTF-8",
+      "Unsplash",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "mariodev.now.sh",
     "title": "Mariodev | Developer | Designer",
     "business_name": "",
@@ -13219,32 +13247,6 @@
       "Google Font API",
       "Google My Business",
       "Google Play"
-    ]
-  },
-  {
-    "domain": "webartisans.agency",
-    "title": "Web Artisans Agency di Boris Zamparano",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 1632,
-    "crawled_at": "2026-05-12T01:05:20.027027698Z",
-    "technologies": [
-      "Alpine.js",
-      "Astro",
-      "Azion",
-      "Calendly",
-      "Content Delivery Network",
-      "ElementUI",
-      "Fontshare",
-      "Google Analytics",
-      "Google Tag Manager",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "eLand",
-      "jsDelivr"
     ]
   }
 ]
