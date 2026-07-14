@@ -1,5 +1,33 @@
 [
   {
+    "domain": "cumulare.org",
+    "title": "Cumulare - Shop Small, Shop Local in North Carolina | Community Marketplace",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 21700,
+    "crawled_at": "2026-07-14T03:23:19.971126546Z",
+    "technologies": [
+      "Amazon",
+      "Auth0",
+      "Content Delivery Network",
+      "Fireblade",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Next.js",
+      "QUIC",
+      "Stripe",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "inductiveautomation.com.hk",
     "title": "Industrial Automation Software Solutions by Inductive Automation",
     "business_name": "Inductive Automation",
@@ -22548,30 +22576,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "n1n3.biz",
-    "title": "N1N3 SRL - Microsoft ISV Partner",
-    "business_name": "",
-    "country": "ITA",
-    "seo_score": 77,
-    "tech_spend": 29440,
-    "crawled_at": "2026-02-03T00:43:48.86930963Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Auth0",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "HubSpot Conversations",
-      "Hubspot",
-      "Thank You"
     ]
   }
 ]

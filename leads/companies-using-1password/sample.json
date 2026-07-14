@@ -1,5 +1,36 @@
 [
   {
+    "domain": "dossierdepot.com",
+    "title": "Home - Dossier Depot",
+    "business_name": "Dossier Depot",
+    "country": "ZAF",
+    "seo_score": 70,
+    "tech_spend": 15648,
+    "crawled_at": "2026-07-14T08:59:19.974592482Z",
+    "technologies": [
+      "1Password",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Fireblade",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gutenberg Blocks by Kadence Blocks",
+      "Kadence WP",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WooCommerce",
+      "WooCommerce Checkout",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "silentecho.info",
     "title": "SilentEcho",
     "business_name": "",
@@ -14076,30 +14107,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "curio5ity.com",
-    "title": "Curiosity - B2B Sales Transformation Experts",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 72,
-    "tech_spend": 26968,
-    "crawled_at": "2026-06-01T13:45:12.49930126Z",
-    "technologies": [
-      "1Password",
-      "3D FlipBook",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "DAV",
-      "Framer Sites",
-      "Google",
-      "Google Cloud CDN",
-      "Ntent",
-      "QUIC",
-      "Weglot",
-      "Yandex Hosting",
-      "Zeald"
     ]
   }
 ]
