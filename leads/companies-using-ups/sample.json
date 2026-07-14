@@ -1,5 +1,32 @@
 [
   {
+    "domain": "joingibbonsgroup.com",
+    "title": "Join Gibbons Group for Insurance Success",
+    "business_name": "Gibbons Group",
+    "country": "",
+    "seo_score": 82,
+    "tech_spend": 49324,
+    "crawled_at": "2026-07-14T14:23:19.97076723Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Calendly",
+      "Fireblade",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "PWA",
+      "UPS",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "monicamosure.com",
     "title": "Monica.Mosure – I'm Monica, it's nice to meet you.",
     "business_name": "",
@@ -17632,41 +17659,6 @@
       "QUIC",
       "Tailwind CSS",
       "UPS",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "cochran-heights.com",
-    "title": "Cochran Heights | Urban Neighborhood with Charming Homes",
-    "business_name": "",
-    "country": "JAM",
-    "seo_score": 65,
-    "tech_spend": 17688,
-    "crawled_at": "2026-05-24T18:23:09.304304969Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apache",
-      "Easy Table for WordPress",
-      "EmbedPress",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Neighborhoods",
-      "PHP",
-      "PayPal Adaptive Payments",
-      "PayPal Button",
-      "PayPal Form",
-      "Theme In WP",
-      "Twenty Twelve",
-      "UPS",
-      "UTF-8",
-      "WoWonder",
-      "WordPress",
-      "WordPress Multisite",
       "jQuery"
     ]
   }
