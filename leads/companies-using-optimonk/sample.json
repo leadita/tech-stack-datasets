@@ -1,5 +1,31 @@
 [
   {
+    "domain": "basketsgaloregifts.com",
+    "title": "Baskets Galore Gifts",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 8111,
+    "crawled_at": "2026-07-14T13:23:19.974595823Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "BigCommerce",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "Fireblade",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "OptiMonk",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "agilisadvisory.co.uk",
     "title": "Home - Agilis Advisory",
     "business_name": "Agilis Advisory",
@@ -20263,40 +20289,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "creativeattic.net",
-    "title": "Creative Attic – Crystalyn's Creative Attic",
-    "business_name": "Crystalyn&#39;s Creative Attic",
-    "country": "SGP",
-    "seo_score": 77,
-    "tech_spend": 29050,
-    "crawled_at": "2026-05-11T21:26:19.991497316Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "KVH",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Oddle",
-      "Omnisend",
-      "OptiMonk",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Thank You",
-      "UTF-8",
-      "Umbler",
-      "eLand",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   }
 ]
