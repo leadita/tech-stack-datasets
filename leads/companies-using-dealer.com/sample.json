@@ -1,41 +1,12 @@
 [
   {
-    "domain": "texarkanaautoauction.com",
-    "title": "Texarkana Auto Auction",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 6563,
-    "crawled_at": "2026-07-13T03:41:19.974043367Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Apache",
-      "CloudFront",
-      "Dealer.com",
-      "DoubleClick Bid Manager",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google Matched Content",
-      "Google Reseller",
-      "Google Tag Manager",
-      "On The Map",
-      "Thank You",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "mrsmarttint.com",
+    "domain": "hightech-smartfilms.com",
     "title": "Smart Tint ® Smart Film ® USA Factory Direct Wholesale",
     "business_name": "Smart Tint ® Smart Film ® USA Factory Direct Wholesale",
     "country": "USA",
-    "seo_score": 82,
+    "seo_score": 77,
     "tech_spend": 29374,
-    "crawled_at": "2026-07-12T21:47:19.972612575Z",
+    "crawled_at": "2026-07-14T08:26:19.971572872Z",
     "technologies": [
       "Alternate Protocol",
       "Amazon WAF Blocked",
@@ -85,6 +56,35 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
+    ]
+  },
+  {
+    "domain": "texarkanaautoauction.com",
+    "title": "Texarkana Auto Auction",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 6563,
+    "crawled_at": "2026-07-13T03:41:19.974043367Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Apache",
+      "CloudFront",
+      "Dealer.com",
+      "DoubleClick Bid Manager",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google Matched Content",
+      "Google Reseller",
+      "Google Tag Manager",
+      "On The Map",
+      "Thank You",
+      "UTF-8",
+      "jsDelivr"
     ]
   },
   {
