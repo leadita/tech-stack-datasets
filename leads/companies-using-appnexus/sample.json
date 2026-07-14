@@ -1,5 +1,41 @@
 [
   {
+    "domain": "vnannj.info",
+    "title": "VNANNJ - Visiting Nurse Association of Northern New Jersey: Home Health Care, Palliative Care, Hospice, Physical Therapy, Respite Care",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 72,
+    "tech_spend": 17199,
+    "crawled_at": "2026-07-14T09:41:19.973836746Z",
+    "technologies": [
+      "AppNexus Direct",
+      "Cloudflare",
+      "DoubleClick Bid Manager",
+      "Facebook Conversion Tracking",
+      "Facebook Like",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Fireblade",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Flights Conversion Tracking",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Investor Relations",
+      "QUIC",
+      "Thank You",
+      "UTF-8",
+      "Weebly",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "glenncharitable.org",
     "title": "The Jack & Anne Glenn Charitable Foundation",
     "business_name": "",
@@ -27060,38 +27096,6 @@
       "WordPress Stats",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "jnksurplus.com",
-    "title": "JNK Surplus & Commercial Services | Middletown, Cincinnati & Hamilton, OH | Industrial Equipment & Heavy Machinery",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 449,
-    "crawled_at": "2026-05-21T23:14:19.969395055Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon S3 CDN",
-      "Angular",
-      "AppNexus Direct",
-      "AutoComplete",
-      "EmbedPress",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Nginx",
-      "PHP",
-      "Storyblocks",
-      "UTF-8",
-      "WordPress"
     ]
   }
 ]
