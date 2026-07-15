@@ -1,5 +1,28 @@
 [
   {
+    "domain": "bvcasas.com",
+    "title": "BV Casas",
+    "business_name": "",
+    "country": "MEX",
+    "seo_score": 62,
+    "tech_spend": 52896,
+    "crawled_at": "2026-07-15T04:50:19.974702156Z",
+    "technologies": [
+      "Bulma",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "IcoMoon",
+      "Nginx",
+      "Phusion Passenger Enterprise",
+      "Ruby on Rails",
+      "SAS",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "pleasureboundstudios.org",
     "title": "Pleasure Bound Studios - Pleasure Bound Studios Pacific Northwest",
     "business_name": "",
@@ -15197,44 +15220,6 @@
       "Tailwind CSS",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "seekingcasuals.com",
-    "title": "Seeking Casuals",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 21401,
-    "crawled_at": "2026-05-28T22:44:33.046093393Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CCSI",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Fastly CDN",
-      "Font Awesome",
-      "Google My Business",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "Microdata for Google Shopping",
-      "No-Q",
-      "QUIC",
-      "Ruby on Rails",
-      "SMC",
-      "Schema Plugin",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   }
 ]

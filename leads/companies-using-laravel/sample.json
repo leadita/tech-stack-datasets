@@ -1,5 +1,60 @@
 [
   {
+    "domain": "meig.es",
+    "title": "Meig",
+    "business_name": "",
+    "country": "ESP",
+    "seo_score": 65,
+    "tech_spend": 468,
+    "crawled_at": "2026-07-15T09:08:19.968392056Z",
+    "technologies": [
+      "Bulma",
+      "GZIP Module",
+      "IcoMoon",
+      "Laravel Cookie Consent",
+      "PHP",
+      "Perl",
+      "Placehold IT",
+      "Tailwind CSS",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "projects-abroad.ca",
+    "title": "Volunteer Abroad | Intern Abroad | Projects Abroad",
+    "business_name": "",
+    "country": "PHL",
+    "seo_score": 72,
+    "tech_spend": 20898,
+    "crawled_at": "2026-07-15T00:32:19.970331071Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "CookieConsent",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Laravel Cookie Consent",
+      "Nginx",
+      "Pico CSS",
+      "Trustpilot Reviews for WordPress",
+      "UTF-8",
+      "University or College",
+      "Vimeo",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "weldship.ng",
     "title": "Weldship Nigeria Limited - EPC Contractor",
     "business_name": "",
@@ -13444,56 +13499,6 @@
       "Vector Internet Services",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "solfix-solar.sk",
-    "title": "- Solfix: S nami upevnite svoj obnoviteľný zdroj energie!",
-    "business_name": "",
-    "country": "HUN",
-    "seo_score": 65,
-    "tech_spend": 3147,
-    "crawled_at": "2026-05-19T16:02:20.016520147Z",
-    "technologies": [
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Laravel Livewire",
-      "Molin AI",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "arsys.es",
-      "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "dacsinc.in",
-    "title": "Dacs Inc - Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 63,
-    "crawled_at": "2026-05-19T15:50:05.442315771Z",
-    "technologies": [
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Laravel Livewire",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   }
 ]

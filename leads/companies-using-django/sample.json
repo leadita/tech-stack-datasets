@@ -1,5 +1,54 @@
 [
   {
+    "domain": "kibcoplc.com",
+    "title": "Home | Luxury Residences in Addis Ababa",
+    "business_name": "",
+    "country": "ETH",
+    "seo_score": 65,
+    "tech_spend": 2440,
+    "crawled_at": "2026-07-15T07:44:19.968030312Z",
+    "technologies": [
+      "Django",
+      "ElementUI",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Nginx",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "fortunefocus.uk",
+    "title": "Fortune Focus: Your Guide to Smart Money and Investing",
+    "business_name": "",
+    "country": "BRA",
+    "seo_score": 72,
+    "tech_spend": 17756,
+    "crawled_at": "2026-07-14T13:59:19.969061119Z",
+    "technologies": [
+      "Adult Content",
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Django",
+      "Fireblade",
+      "IcoMoon",
+      "Matomo",
+      "Matomo Tag Manager",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "adrocgt.com",
     "title": "Adroc Portfolio",
     "business_name": "",
@@ -47,35 +96,6 @@
       "Ubuntu",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "goldenroulette.de",
-    "title": "Golden Roulette: Expert Tips and Strategies for Winning",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 72,
-    "tech_spend": 24044,
-    "crawled_at": "2026-06-17T08:23:19.969295117Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "Bulma",
-      "Django",
-      "GZIP Module",
-      "Gambling Content",
-      "IcoMoon",
-      "Krypt Technologies",
-      "Matomo",
-      "Matomo Tag Manager",
-      "Nginx",
-      "Oddle",
-      "QUIC",
-      "Tailwind CSS",
-      "UPS",
-      "UTF-8",
-      "Ubuntu",
-      "jQuery"
     ]
   },
   {
