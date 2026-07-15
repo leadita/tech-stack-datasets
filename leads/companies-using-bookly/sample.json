@@ -1,5 +1,31 @@
 [
   {
+    "domain": "fctaxsolutions.com",
+    "title": "First Class Tax Solutions – Tax Preparation Services – Dallas – Fort Worth – Arlington",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 665,
+    "crawled_at": "2026-07-14T22:32:19.969709232Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Bookly",
+      "Contact Form Plugin",
+      "EmbedPress",
+      "Flatsome",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "PHP",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "buckleypharmacy.co.uk",
     "title": "Welcome to Buckley Pharmacy in Surrey",
     "business_name": "Croyland Pharmacy",
@@ -19805,42 +19831,6 @@
       "WPBakery",
       "Woo Themes",
       "WordPress"
-    ]
-  },
-  {
-    "domain": "longhillpharmacy.co.uk",
-    "title": "Longhill Online Pharmacy - Simple and Convenient Healthcare",
-    "business_name": "Longhill Pharmacy",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2407,
-    "crawled_at": "2026-05-16T22:16:49.186078696Z",
-    "technologies": [
-      "Alternate Protocol",
-      "BlankSlate",
-      "Bookly",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "MonsterInsights",
-      "Nginx",
-      "PHP",
-      "Parallels Plesk Panel",
-      "Theme In WP",
-      "UTF-8",
-      "UserWay",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
