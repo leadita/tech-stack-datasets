@@ -1,5 +1,31 @@
 [
   {
+    "domain": "rot-weiss-scheessel.de",
+    "title": "Sportverein Rot-Weiß Scheeßel - Fußball",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": "",
+    "crawled_at": "2026-07-15T15:41:19.972191139Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Facebook Login",
+      "Facebook Reseller",
+      "FreeCSSTemplates",
+      "GZIP Module",
+      "Helix Ultimate",
+      "Instagram Follow Button",
+      "Joomla!",
+      "RokNavMenu",
+      "Twitch",
+      "UTF-8",
+      "WordPress",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "ladiebuggz.com",
     "title": "HOME - Ladie Buggz",
     "business_name": "Ladie Buggz",
@@ -17355,40 +17381,6 @@
       "UTF-8",
       "Unsplash",
       "Vimeo",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "melvasharpe.com",
-    "title": "Alamance Regional's 25th Anniversary Campaign - Melva Sharpe",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 4328,
-    "crawled_at": "2026-04-28T16:20:19.977605689Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "Amazon WAF Blocked",
-      "Bulma",
-      "CloudFront",
-      "Cloudinary",
-      "Double the Donation",
-      "Facebook Embedded Posts",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "No-Q",
-      "OneCause",
-      "PWA",
-      "QUIC",
-      "StackPath",
-      "Tailwind CSS",
-      "Thank You",
-      "Twitch",
-      "UTF-8",
-      "University or College",
       "YouTube"
     ]
   }

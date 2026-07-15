@@ -1,5 +1,35 @@
 [
   {
+    "domain": "caribbeancreditbureau.net",
+    "title": "Caribbean Credit Bureau",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2868,
+    "crawled_at": "2026-07-15T19:53:19.975647024Z",
+    "technologies": [
+      "Alternate Protocol",
+      "DailyMotion Video",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nginx",
+      "Plausible Analytics",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vimeo",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "marinetack.com",
     "title": "Home Marine Tack",
     "business_name": "Marine Tack",
@@ -20120,46 +20150,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "gardenlodgestudio.com",
-    "title": "Garden Lodge Studio - enregistrement, mixage, mastering, clip",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 77,
-    "tech_spend": 1474,
-    "crawled_at": "2026-05-11T11:03:16.970544977Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Band Camp",
-      "Camp",
-      "DAV",
-      "DailyMotion Video",
-      "EmbedPress",
-      "Envoy",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LayerSlider Responsive",
-      "PHP",
-      "Pleroma",
-      "Sitelinks Search Box",
-      "Slider Revolution",
-      "Theme In WP",
-      "ThemeFusion",
-      "Twitter Ads",
-      "UTF-8",
-      "W3 Total Cache",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
