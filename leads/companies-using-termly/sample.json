@@ -1,5 +1,35 @@
 [
   {
+    "domain": "peckcounseling.com",
+    "title": "Peck Counseling LLC | Transformative Counseling",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 16078,
+    "crawled_at": "2026-07-15T02:26:19.970765818Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "Tailwind CSS",
+      "Termly",
+      "Twitter Ads",
+      "UTF-8",
+      "UserWay",
+      "Yelp Badge"
+    ]
+  },
+  {
     "domain": "fes-sensor.com",
     "title": "Hydrogen Sensors – Accurate & Maintenance-Free | FES",
     "business_name": "FES Sensor Technology GmbH",
@@ -16463,37 +16493,6 @@
       "Tailwind CSS",
       "Termly",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "simonhdahomes.com",
-    "title": "Hacienda del Alamo Property for Sale | Simon Hda homes",
-    "business_name": "",
-    "country": "ESP",
-    "seo_score": 77,
-    "tech_spend": 20427,
-    "crawled_at": "2026-05-26T20:19:22.3616672Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Endis",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Homes.com CMS",
-      "IcoMoon",
-      "Nginx",
-      "Slider Revolution",
-      "Tailwind CSS",
-      "Termly",
-      "Thank You",
-      "UTF-8",
-      "Way",
-      "WhatsApp Sharing",
-      "YouTube",
-      "reCAPTCHA"
     ]
   }
 ]
