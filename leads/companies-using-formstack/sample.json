@@ -1,5 +1,33 @@
 [
   {
+    "domain": "souravanalytics.com",
+    "title": "Sourav Hasan · First-Party Data Architect & Signal Infrastructure Expert",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 153726,
+    "crawled_at": "2026-07-15T03:17:19.968832975Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Better Lead Generation Services",
+      "Formstack",
+      "Free Call",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Gravity",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Perl",
+      "QUIC",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "Tally"
+    ]
+  },
+  {
     "domain": "sanjosecleanenergy.org",
     "title": "Home - San Jose Clean Energy",
     "business_name": "",
@@ -19365,34 +19393,6 @@
       "University or College",
       "Visx",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "crewcincinnati.org",
-    "title": "Home CREW Greater Cincinnati",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 107736,
-    "crawled_at": "2026-05-10T19:59:19.994530492Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Corporate Governance and Regulatory Compliance",
-      "Formstack",
-      "GoGrid",
-      "Google Analytics",
-      "Google Tag Manager",
-      "JLL",
-      "NFOrce Internet",
-      "Next.js",
-      "Pico CSS",
-      "Pleroma",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
