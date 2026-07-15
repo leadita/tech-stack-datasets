@@ -1,5 +1,31 @@
 [
   {
+    "domain": "allprotreeandbushservice.com",
+    "title": "Land Clearing | Davie, FL",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 98748,
+    "crawled_at": "2026-07-14T18:53:19.972840709Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon",
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "DAV",
+      "Duda",
+      "GZIP Module",
+      "Google My Business",
+      "Nginx",
+      "QUIC",
+      "Smooch",
+      "Tailwind CSS",
+      "Tealium",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "santaclaritaharley.com",
     "title": "Harley-Davidson® Dealership of Santa Clarita, California | Harley-Davidson® of Santa Clarita",
     "business_name": "",
@@ -15041,33 +15067,6 @@
       "Tealium",
       "UTF-8",
       "Yelp Badge"
-    ]
-  },
-  {
-    "domain": "gaylebelcherattorney.com",
-    "title": "Credit and Debt Law, Cleveland, OH, Gayle A. Belcher, Atty.",
-    "business_name": "Law Office of Gayle A. Belcher",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 86748,
-    "crawled_at": "2026-05-26T21:33:09.219539136Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Duda",
-      "Express",
-      "GZIP Module",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Smooch",
-      "Tailwind CSS",
-      "Tealium",
-      "Thryv",
-      "UTF-8",
-      "eLand"
     ]
   }
 ]
