@@ -1,5 +1,28 @@
 [
   {
+    "domain": "radrice.com",
+    "title": "Adam Rice | Product Design",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 297600,
+    "crawled_at": "2026-07-14T19:44:19.970123044Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "Figma",
+      "FullStory",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Salesforce",
+      "Salesforce Experience Cloud",
+      "Salesforce Hosted",
+      "Tachyons",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "yieldmo.pt",
     "title": "Home - Yieldmo",
     "business_name": "Yieldmo",
@@ -20356,29 +20379,6 @@
       "QUIC",
       "SocialSignIn",
       "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "radrice.com",
-    "title": "Adam Rice | Product Design",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 297600,
-    "crawled_at": "2026-05-04T03:04:38.446394259Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "Figma",
-      "FullStory",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Salesforce",
-      "Salesforce Experience Cloud",
-      "Salesforce Hosted",
-      "Tachyons",
       "UTF-8"
     ]
   },

@@ -1,5 +1,33 @@
 [
   {
+    "domain": "sanssoleiltan.com",
+    "title": "Sans Soleil Tan | Tanning in Arlington Heights, IL",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 5090,
+    "crawled_at": "2026-07-15T03:20:19.968634391Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "Express",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Segment",
+      "Segment Consent Manager",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "satxdumpsterrental.com",
     "title": "San Antonio, TX Dumpster Rentals | Bin There Dump That",
     "business_name": "Bin There Dump That San Antonio",
@@ -21457,40 +21485,6 @@
       "Segment Consent Manager",
       "UTF-8",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "fusionweldingmn.com",
-    "title": "Fusion Welding - Expert Welding Services in Pierz, MN",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 23550,
-    "crawled_at": "2026-05-22T10:30:33.668396627Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Amazon S3 CDN",
-      "Better Lead Generation Services",
-      "CloudFront",
-      "ElementUI",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "KVH",
-      "No-Q",
-      "Parcel",
-      "QUIC",
-      "Segment",
-      "Segment Consent Manager",
-      "Site.pro",
-      "Storyblocks",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   }
 ]
