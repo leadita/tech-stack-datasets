@@ -1,5 +1,32 @@
 [
   {
+    "domain": "pilslager.com",
+    "title": "De Diablo Brewing",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 25421,
+    "crawled_at": "2026-07-15T09:11:19.968541357Z",
+    "technologies": [
+      "Aruba",
+      "Commoninja",
+      "Elfsight",
+      "Express",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "goodyersolar.co.nz",
     "title": "Goodyer Solar Services - Goodyer Solar - The Sun Smart Choice",
     "business_name": "Goodyer Solar",
@@ -611,36 +638,6 @@
       "Wix Media",
       "WordPress Related Posts",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "pilslagerbeer.com",
-    "title": "De Diablo Brewing",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 25484,
-    "crawled_at": "2026-07-08T19:29:19.974549964Z",
-    "technologies": [
-      "Aruba",
-      "Commoninja",
-      "Elfsight",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "eLand"
     ]
   },
   {
