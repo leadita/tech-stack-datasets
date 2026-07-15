@@ -1,5 +1,29 @@
 [
   {
+    "domain": "vitalitymassage.uk",
+    "title": "Professional Therapeutic Massage Services",
+    "business_name": "Vitality Massage",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 54297,
+    "crawled_at": "2026-07-14T19:11:19.973749579Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cliniko",
+      "ETranslate",
+      "EmbedPress",
+      "GTranslate",
+      "Google My Business",
+      "Gutenberg",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "SMC",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "kapturednutrition.com.au",
     "title": "Home | Kaptured Nutrition",
     "business_name": "",
@@ -17752,29 +17776,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "thefootchamber.com",
-    "title": "The Foot Chamber — Expert Foot Care in Chesterfield",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 6388,
-    "crawled_at": "2026-05-17T19:08:23.27459578Z",
-    "technologies": [
-      "Amazon",
-      "Cliniko",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Perl",
-      "QUIC"
     ]
   }
 ]
