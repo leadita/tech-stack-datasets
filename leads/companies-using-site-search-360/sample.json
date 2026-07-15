@@ -1,5 +1,30 @@
 [
   {
+    "domain": "lilhealthfoodstore.com",
+    "title": "Welcome to Heart & Body Naturals",
+    "business_name": "",
+    "country": "GUF",
+    "seo_score": 65,
+    "tech_spend": 12656,
+    "crawled_at": "2026-07-15T20:41:19.972730575Z",
+    "technologies": [
+      "Bulma",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "HostGator",
+      "Instagram Follow Button",
+      "Intercom",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Parallels Plesk Panel",
+      "QUIC",
+      "Site Search 360",
+      "SiteW",
+      "Visual Studio"
+    ]
+  },
+  {
     "domain": "xos.com",
     "title": "Elemental Analysis and X-ray Optics | XOS",
     "business_name": "",
@@ -14599,31 +14624,6 @@
       "Site Search 360",
       "UTF-8",
       "Yandex Hosting"
-    ]
-  },
-  {
-    "domain": "purecleansekit.com",
-    "title": "Core Cleanse (Parasite Detox)",
-    "business_name": "",
-    "country": "GUF",
-    "seo_score": 65,
-    "tech_spend": 27536,
-    "crawled_at": "2026-04-08T20:29:19.987036982Z",
-    "technologies": [
-      "Bulma",
-      "Fireblade",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "HostGator",
-      "Instagram Follow Button",
-      "Intercom",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Parallels Plesk Panel",
-      "QUIC",
-      "Site Search 360",
-      "Visual Studio"
     ]
   },
   {
