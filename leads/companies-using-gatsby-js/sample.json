@@ -1,5 +1,29 @@
 [
   {
+    "domain": "bigcode.io",
+    "title": "Data & Analytics Consulting Services | BIGCODE",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 5140,
+    "crawled_at": "2026-07-15T01:44:19.970427441Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "Fastly",
+      "Gatsby JS",
+      "GitHub Hosting",
+      "Google My Business",
+      "Idaq",
+      "Pico CSS",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "salmankhan.dev",
     "title": "Salman Khan",
     "business_name": "",
@@ -13714,24 +13738,6 @@
       "Google Tag Manager",
       "Gumlet",
       "Storyblocks"
-    ]
-  },
-  {
-    "domain": "darkensses.me",
-    "title": "Darkensses | 👀",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 1050,
-    "crawled_at": "2026-05-27T06:20:35.145937967Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gatsby JS",
-      "GitHub Hosting",
-      "Idaq",
-      "Netlify",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]
