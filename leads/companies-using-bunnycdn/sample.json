@@ -1,5 +1,21 @@
 [
   {
+    "domain": "sipico.eu",
+    "title": "SiPiCo · Analytical, grounded, and focused on organisational goals",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 62,
+    "tech_spend": 600,
+    "crawled_at": "2026-07-14T17:11:19.970418382Z",
+    "technologies": [
+      "Alternate Protocol",
+      "BunnyCDN Header",
+      "Content Delivery Network",
+      "Pico CSS",
+      "QUIC"
+    ]
+  },
+  {
     "domain": "noono.store",
     "title": "NOONO STORE – Backpacks,Handbags & Travel Goods | Order on WhatsApp !",
     "business_name": "",
@@ -17489,33 +17505,6 @@
       "UTF-8",
       "Unsplash",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "aubreyplaza.shop",
-    "title": "Aubrey Plaza Shop ⚡️ Officially Licensed Aubrey Plaza Merch Store",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 87,
-    "tech_spend": 4360,
-    "crawled_at": "2026-06-09T16:02:03.461253142Z",
-    "technologies": [
-      "Bunny Fonts",
-      "BunnyCDN",
-      "BunnyCDN General",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "shadcn ui"
     ]
   }
 ]
