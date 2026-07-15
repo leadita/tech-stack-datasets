@@ -1,5 +1,27 @@
 [
   {
+    "domain": "tramway21.be",
+    "title": "Tramway21",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 55,
+    "tech_spend": "",
+    "crawled_at": "2026-07-15T20:17:19.969022244Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Contao Cookie Consent",
+      "Fontshare",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "PHP",
+      "Polylang",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "s4digi.com",
     "title": "s4digital | helping trades, EV installers and service brands grow online",
     "business_name": "",
@@ -13227,26 +13249,6 @@
       "UTF-8",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "elieljohnson.com",
-    "title": "Eliel Johnson, Design Executive",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 2440,
-    "crawled_at": "2026-05-12T02:14:20.008179021Z",
-    "technologies": [
-      "Apache",
-      "Apple Auto Link Maker",
-      "Fontshare",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play"
     ]
   }
 ]
