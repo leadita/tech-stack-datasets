@@ -1,5 +1,26 @@
 [
   {
+    "domain": "webtoad.cz",
+    "title": "Code that makes difference",
+    "business_name": "",
+    "country": "CZE",
+    "seo_score": 72,
+    "tech_spend": 15500,
+    "crawled_at": "2026-07-16T00:56:19.970084831Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "Express",
+      "Fireblade",
+      "Heroku",
+      "Next.js",
+      "Perl",
+      "Pleroma",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "datanetiixsalesforce.com",
     "title": "Salesforce",
     "business_name": "",
@@ -18323,46 +18344,6 @@
       "Wix",
       "Wix Media",
       "YouTube",
-      "mlcom"
-    ]
-  },
-  {
-    "domain": "optimise-ecom.co.uk",
-    "title": "Optimiseecomltd | Home -Business Process Outsourcing",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 38156,
-    "crawled_at": "2026-06-09T00:06:49.848962792Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "DC74",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "Heroku",
-      "Instagram Follow Button",
-      "K2F",
-      "KVH",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PWA",
-      "QUIC",
-      "SMC",
-      "Seflow Italy",
-      "Sentry",
-      "SiteW",
-      "Sitelinks Search Box",
-      "Subversion",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
       "mlcom"
     ]
   }
