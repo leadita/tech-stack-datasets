@@ -1,5 +1,28 @@
 [
   {
+    "domain": "getupleveledai.com",
+    "title": "UpLeveled.ai",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 5648,
+    "crawled_at": "2026-07-15T20:11:19.968147131Z",
+    "technologies": [
+      "Amazon",
+      "Apollo IO",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Next.js",
+      "Pleroma",
+      "Qualtrics Site Intercept",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "bestcontactcenterqualityassurancesoftware.com",
     "title": "In-Depth Analysis and Rankings of Best Contact Center Quality Assurance Software",
     "business_name": "",
@@ -22344,32 +22367,6 @@
       "eLand",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "nsffamilyresearch.com",
-    "title": "Navigating Change In Intergenerational Family Relationships – Understanding change and conflict in family relationships.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 15647,
-    "crawled_at": "2026-05-10T11:20:20.0104102Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Automattic",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Nginx",
-      "Qualtrics Site Intercept",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats"
     ]
   }
 ]
