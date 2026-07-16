@@ -1,5 +1,34 @@
 [
   {
+    "domain": "zenithentry.com",
+    "title": "2026 ZRS REGISTRATION",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 8993,
+    "crawled_at": "2026-07-16T08:32:19.970688992Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adyen",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Express",
+      "Fireblade",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Idaq",
+      "MaxCDN",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "Webconnex"
+    ]
+  },
+  {
     "domain": "spa-achensee.aja.de",
     "title": "aja Fürstenhaus Achensee",
     "business_name": "",
@@ -1402,36 +1431,6 @@
       "Yahoo Image CDN",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "tracpass.com",
-    "title": "2026 USAC TRACPASS",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 9493,
-    "crawled_at": "2026-05-11T18:17:19.982026807Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adyen",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Express",
-      "Fireblade",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Idaq",
-      "MaxCDN",
-      "NFOrce Internet",
-      "Tailwind CSS",
-      "TicketSpice",
-      "Twitter Ads",
-      "UTF-8",
-      "Webconnex"
     ]
   },
   {
