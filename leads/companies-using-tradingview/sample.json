@@ -1,5 +1,39 @@
 [
   {
+    "domain": "bunavinforthb.com",
+    "title": "Bunavinforth",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 13606,
+    "crawled_at": "2026-07-16T08:35:19.968071972Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Astra Theme",
+      "DAV",
+      "ETranslate",
+      "Elementor",
+      "Federal Deposit Insurance Corporation",
+      "Financial Industry Regulatory Authority",
+      "Financial Services Guide",
+      "Fireblade",
+      "GTranslate",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "LiteSpeed",
+      "M247",
+      "PHP",
+      "Smart Slider 3",
+      "Tidio",
+      "TradingView",
+      "UTF-8",
+      "Visx",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "nosignup.trade",
     "title": "Nosignup.Trade",
     "business_name": "",
@@ -15409,27 +15443,6 @@
       "Tailwind CSS",
       "TradingView",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "easybot.world",
-    "title": "Easybot | Welcome",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 18939,
-    "crawled_at": "2026-05-28T10:49:06.999748732Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "HostGator",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Parallels Plesk Panel",
-      "QUIC",
-      "TradingView",
-      "Visual Studio",
-      "jQuery"
     ]
   }
 ]
