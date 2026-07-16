@@ -1,5 +1,35 @@
 [
   {
+    "domain": "openwines.ca",
+    "title": "OpenWines",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 318,
+    "crawled_at": "2026-07-16T05:35:19.974535907Z",
+    "technologies": [
+      "Amazon",
+      "Apture Linking Platform",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Font Awesome",
+      "FullStory",
+      "GZIP Module",
+      "GetResponse",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "New Relic",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "radrice.com",
     "title": "Adam Rice | Product Design",
     "business_name": "",
@@ -17265,36 +17295,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "openwines.ca",
-    "title": "OpenWines",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 318,
-    "crawled_at": "2026-05-07T11:50:19.694501352Z",
-    "technologies": [
-      "Amazon",
-      "Apture Linking Platform",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Font Awesome",
-      "FullStory",
-      "GZIP Module",
-      "GetResponse",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "New Relic",
-      "UTF-8",
       "reCAPTCHA"
     ]
   },
