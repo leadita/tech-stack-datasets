@@ -1,5 +1,33 @@
 [
   {
+    "domain": "clementwindows.co.uk",
+    "title": "Steel Windows, Metal Windows & Doors | Clement Windows Group",
+    "business_name": "Clement Windows Group",
+    "country": "CAN",
+    "seo_score": 82,
+    "tech_spend": 15383,
+    "crawled_at": "2026-07-16T00:08:19.967991423Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Apache",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Pinterest Conversion Tracking",
+      "UTF-8",
+      "VWO Engage",
+      "Visual Website Optimizer",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "samedaycustoms.com",
     "title": "Local Same Day Custom T-Shirt Printing & Screen Printing Near You",
     "business_name": "SameDayCustom",
@@ -21984,38 +22012,6 @@
       "WordPress",
       "WordPress Multisite",
       "Yellow Pages Canada",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "fatjoepublic.com",
-    "title": "fatjoe. The Smarter Way To Get SEO Done.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 16143,
-    "crawled_at": "2026-05-20T13:14:19.975533741Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Bing Cashback",
-      "Content Delivery Network",
-      "Cornerstone",
-      "DAV",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Shopper Approved",
-      "Styled Components",
-      "Tailwind CSS",
-      "UTF-8",
-      "VWO Engage",
-      "Vercel",
-      "Visual Website Optimizer",
-      "WordPress",
       "YouTube"
     ]
   }
