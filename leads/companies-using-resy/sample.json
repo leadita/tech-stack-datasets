@@ -1,5 +1,30 @@
 [
   {
+    "domain": "kismetrestaurantgroup.com",
+    "title": "Kismet Restaurant",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 16680,
+    "crawled_at": "2026-07-16T11:50:19.972979888Z",
+    "technologies": [
+      "DAV",
+      "Framer Sites",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "NFOrce Internet",
+      "Ntent",
+      "Resy",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
     "domain": "seabreezefish.com",
     "title": "Seafood Restaurant Plano | Sea Breeze Fish Market & Grill",
     "business_name": "",
@@ -16542,37 +16567,6 @@
       "Resy",
       "UTF-8",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "gluglusf.com",
-    "title": "GluGlu",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 37089,
-    "crawled_at": "2026-05-17T11:29:19.998024713Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Cisco/Arrowpoint Content Service Switch",
-      "DAV",
-      "Express",
-      "Fireblade",
-      "FormSubmit",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "QUIC",
-      "Resy",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
