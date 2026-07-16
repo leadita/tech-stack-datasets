@@ -1,5 +1,29 @@
 [
   {
+    "domain": "bartendingschoolfortlauderdale.com",
+    "title": "Bartending School Fort Lauderdale | Elite Bartending School and Event Staffing Fort Lauderdale",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 16267,
+    "crawled_at": "2026-07-16T01:44:19.968781377Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Perl",
+      "Start Bootstrap",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "quantuum.consulting",
     "title": "Quantuum",
     "business_name": "",
@@ -15297,30 +15321,6 @@
       "WhatsApp Sharing",
       "WordPress",
       "WordPress Multisite",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "djcadvisory.com",
-    "title": "DJC Advisory",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 603,
-    "crawled_at": "2026-05-20T16:44:19.988618945Z",
-    "technologies": [
-      "Advisory Board",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Start Bootstrap",
-      "Tailwind CSS",
-      "UTF-8",
       "jQuery"
     ]
   }

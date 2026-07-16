@@ -1,5 +1,31 @@
 [
   {
+    "domain": "chiragh-e-urdu.org",
+    "title": "Learn Urdu Online: Classical Urdu Poetry and Prose Hub - Chiragh-e-Urdu",
+    "business_name": "Chiragh-e-Urdu",
+    "country": "GBR",
+    "seo_score": 70,
+    "tech_spend": "",
+    "crawled_at": "2026-07-15T15:32:19.970609611Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "GravCMS",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Semantic UI",
+      "UTF-8",
+      "Ubuntu",
+      "WP Lightbox 2",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "simulationhub.com",
     "title": "simulationHub | Cloud based CFD simulation apps for designers",
     "business_name": "simulationHub",
@@ -7183,31 +7209,6 @@
       "University or College",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "chiragh-e-urdu.org",
-    "title": "Home - Chiragh-e-Urdu",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": "",
-    "crawled_at": "2026-05-06T03:12:01.422306209Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "GravCMS",
-      "Nginx",
-      "PHP",
-      "Semantic UI",
-      "UTF-8",
-      "Ubuntu",
-      "WP Lightbox 2",
-      "jQuery"
     ]
   },
   {
