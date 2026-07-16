@@ -1,5 +1,35 @@
 [
   {
+    "domain": "fashionistaaustralia.com",
+    "title": "Fashionista Modeling",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 18492,
+    "crawled_at": "2026-07-15T20:26:19.968550893Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Express",
+      "GitHub Hosting",
+      "GoDaddy",
+      "GoDaddy Website Builder",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "PWA",
+      "Rakuten Affiliate",
+      "ShareASale",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "grm3d.gr",
     "title": "GRM3D | 3D Printing • Tech • Creativity",
     "business_name": "",
@@ -645,35 +675,6 @@
       "YouTube",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "thefashionistacollection.com",
-    "title": "Fashionista Modeling",
-    "business_name": "",
-    "country": "SWE",
-    "seo_score": 60,
-    "tech_spend": 3580,
-    "crawled_at": "2026-06-14T15:11:19.969188985Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Express",
-      "GitHub Hosting",
-      "GoDaddy",
-      "GoDaddy Website Builder",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Line2",
-      "PWA",
-      "Rakuten Affiliate",
-      "ShareASale",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
     ]
   },
   {
