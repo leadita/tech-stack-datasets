@@ -1,5 +1,51 @@
 [
   {
+    "domain": "livingononepercent.com",
+    "title": "Home - Living On One Percent",
+    "business_name": "Living On One Percent",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 16985,
+    "crawled_at": "2026-07-16T00:50:19.974388822Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon Widgets",
+      "Apache",
+      "Baidu Cloud",
+      "EmbedPress",
+      "Facebook CDN",
+      "GDPR Consent Management Platform",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Gutenberg Blocks by Kadence Blocks",
+      "Instagram Follow Button",
+      "Jetpack",
+      "Kadence WP",
+      "Media.net",
+      "Microdata for Google Shopping",
+      "Oddle",
+      "Onyx Internet",
+      "PHP",
+      "Perl",
+      "Restored 316 Designs",
+      "Social Pug",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "Yandex Hosting",
+      "YouTube",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "karmkandvidhi.in",
     "title": "Home - संपूर्ण कर्मकांड विधि",
     "business_name": "",
@@ -23289,24 +23335,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "collertrade.com",
-    "title": "COLLER TRADE | Venta, alquiler, reparación, mantenimiento e instalación de equipos oftalmológicos en América Latina",
-    "business_name": "",
-    "country": "CHL",
-    "seo_score": 62,
-    "tech_spend": 508,
-    "crawled_at": "2026-05-31T07:04:14.581011829Z",
-    "technologies": [
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Media.net",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS"
     ]
   }
 ]
