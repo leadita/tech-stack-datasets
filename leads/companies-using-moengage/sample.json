@@ -1,5 +1,35 @@
 [
   {
+    "domain": "drkashyapinstitute.com",
+    "title": "DR. KASHYAP INSTITUTE",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 30139,
+    "crawled_at": "2026-07-15T23:44:19.968368942Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Angular",
+      "Engage",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "MoEngage",
+      "Nginx",
+      "PWA",
+      "Perl",
+      "Pleroma",
+      "Sign In With Google",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "kapilstudy.in",
     "title": "Kapil Study",
     "business_name": "",
@@ -16764,37 +16794,6 @@
       "UTF-8",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "successinstitutejabalpur.live",
-    "title": "The Success Institute A Venture of Shashi Academy Pvt. Ltd.",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 35139,
-    "crawled_at": "2026-05-07T08:20:02.233843877Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Angular",
-      "DC74",
-      "Engage",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "MoEngage",
-      "Nginx",
-      "PWA",
-      "Perl",
-      "Pleroma",
-      "Sign In With Google",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
