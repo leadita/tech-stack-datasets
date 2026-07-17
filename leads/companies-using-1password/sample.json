@@ -1,5 +1,67 @@
 [
   {
+    "domain": "exposedchinadentallab.com",
+    "title": "DentalLab.com | Full-Service Dental Lab — Crowns, Implants & All-on-X",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 352,
+    "crawled_at": "2026-07-17T09:38:19.972946109Z",
+    "technologies": [
+      "1Password",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Next.js",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "skyhigh.rentals",
+    "title": "Bounce House Rentals Near Me | Sky High Party Rentals",
+    "business_name": "Sky High Party Rentals",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 26680,
+    "crawled_at": "2026-07-16T17:17:19.969878728Z",
+    "technologies": [
+      "1Password",
+      "501c3 Status Nonprofit",
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudinary",
+      "Content Delivery Network",
+      "Crisp",
+      "Google Analytics",
+      "Google Customer Reviews",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Next.js",
+      "Oddle",
+      "Pleroma",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "YouTube",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "ccwmke.com",
     "title": "Home - Genesis",
     "business_name": "",
@@ -986,31 +1048,6 @@
       "Yandex Hosting",
       "Zeald",
       "eLand"
-    ]
-  },
-  {
-    "domain": "flushingdentallab.com",
-    "title": "DentalLab.com | Full-Service Dental Lab — Crowns, Implants & All-on-X",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 352,
-    "crawled_at": "2026-06-28T14:32:19.973621931Z",
-    "technologies": [
-      "1Password",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Next.js",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "YouTube",
-      "shadcn ui"
     ]
   },
   {
@@ -14024,31 +14061,6 @@
       "Subversion",
       "Yandex Hosting",
       "YouTube",
-      "Zeald"
-    ]
-  },
-  {
-    "domain": "johnfullerhomes.com",
-    "title": "Custom Home Builder in Decatur, Texas",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 92692,
-    "crawled_at": "2026-06-01T18:17:52.786943914Z",
-    "technologies": [
-      "1Password",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Fireblade",
-      "Framer Sites",
-      "Google",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Homes.com CMS",
-      "Ntent",
-      "QUIC",
-      "SMC",
-      "Yandex Hosting",
       "Zeald"
     ]
   }
