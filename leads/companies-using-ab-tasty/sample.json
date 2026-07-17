@@ -1,12 +1,12 @@
 [
   {
-    "domain": "presidentsbed.com",
+    "domain": "presidentssheets.com",
     "title": "Luxury Organic Bedding, Sheets & Towels | Boll & Branch® | Boll & Branch",
     "business_name": "",
     "country": "BRA",
     "seo_score": 77,
-    "tech_spend": 181934,
-    "crawled_at": "2026-07-14T11:53:19.967782399Z",
+    "tech_spend": 181895,
+    "crawled_at": "2026-07-16T11:20:19.971019513Z",
     "technologies": [
       "AB Tasty",
       "Amazon Associates Affiliate Shop",
@@ -15,7 +15,6 @@
       "Bing Cashback",
       "Cloudflare",
       "Cloudflare CDN",
-      "Coming Soon Page",
       "Constructor IO",
       "Content Delivery Network",
       "Datadog",
