@@ -1,5 +1,31 @@
 [
   {
+    "domain": "caylanoelle.com",
+    "title": "Home page",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 690,
+    "crawled_at": "2026-07-17T03:11:19.969171652Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Nginx",
+      "Practice Better",
+      "QUIC",
+      "Styled Components",
+      "Systeme",
+      "UTF-8",
+      "University or College",
+      "eLand"
+    ]
+  },
+  {
     "domain": "willoughbywellness.com",
     "title": "Willoughby Wellness",
     "business_name": "",
@@ -17323,39 +17349,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "lisanaturopath.com",
-    "title": "Lisa Naturopath – Health & Well Being, Naturally",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 72,
-    "tech_spend": 16235,
-    "crawled_at": "2026-05-04T17:02:19.989455501Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Automattic",
-      "Automattic Direct",
-      "CoBlocks",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Global Privacy Control",
-      "Google Analytics",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Nginx",
-      "Perl",
-      "Practice Better",
-      "Share Link",
-      "Tailwind CSS",
-      "US Privacy User Signal Mechanism",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "YouTube"
     ]
   }
 ]
