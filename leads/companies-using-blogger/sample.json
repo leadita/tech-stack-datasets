@@ -1,5 +1,29 @@
 [
   {
+    "domain": "medicalcoding123.com",
+    "title": "Medical Coding",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 65,
+    "tech_spend": 17400,
+    "crawled_at": "2026-07-17T06:35:19.974886627Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Blogger",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Reseller",
+      "Ntent",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "chitra.net",
     "title": "CHITRA JEWELS",
     "business_name": "",
@@ -15157,33 +15181,6 @@
       "Google Recommendations AI",
       "Ntent",
       "ON24",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "teamsalesengine.co.uk",
-    "title": "Team Salesengine.co.uk",
-    "business_name": "",
-    "country": "SYC",
-    "seo_score": 70,
-    "tech_spend": 40000,
-    "crawled_at": "2026-05-18T20:07:49.084958474Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Blogger",
-      "DAV",
-      "Express",
-      "GZIP Module",
-      "Google Adsense",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Reseller",
-      "Ntent",
-      "Sales Engine International",
       "UTF-8",
       "YouTube"
     ]
