@@ -1,5 +1,41 @@
 [
   {
+    "domain": "golfanywhere.au",
+    "title": "Mobile Golf Simulator Hire | Mobile Golf Co. | Brisbane",
+    "business_name": "Mobile Golf Co.",
+    "country": "AUS",
+    "seo_score": 77,
+    "tech_spend": 15564,
+    "crawled_at": "2026-07-17T06:26:19.974352702Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "Better Lead Generation Services",
+      "CloudFront",
+      "Commoninja",
+      "Duda",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Customer Reviews",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Perl",
+      "QUIC",
+      "Styled Components",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "pilslager.com",
     "title": "De Diablo Brewing",
     "business_name": "",
@@ -18821,36 +18857,6 @@
       "Pleroma",
       "Square",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "jyselectric.com",
-    "title": "Electrician Service Electric serv Ventura & LA Counties",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 130660,
-    "crawled_at": "2026-06-03T02:50:19.970520487Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cart.com",
-      "Commoninja",
-      "Content Delivery Network",
-      "DAV",
-      "Duda",
-      "FormSubmit",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PWA",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "Vector Internet Services"
     ]
   }
 ]
