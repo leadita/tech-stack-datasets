@@ -1,5 +1,21 @@
 [
   {
+    "domain": "lacorteza.pizza",
+    "title": "La Corteza Pizza",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-07-17T07:47:19.974327393Z",
+    "technologies": [
+      "Cloudflare",
+      "Content Delivery Network",
+      "Figma",
+      "GZIP Module",
+      "Instagram Follow Button"
+    ]
+  },
+  {
     "domain": "bemarbleandgranite.com",
     "title": "B & E Marble and Granite LLC",
     "business_name": "",
@@ -13461,36 +13477,6 @@
       "Pleroma",
       "Schema Plugin",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "cyrusyip.com",
-    "title": "Cyrus Yip",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 108,
-    "crawled_at": "2026-05-24T03:53:46.569607357Z",
-    "technologies": [
-      "Alibaba Cloud CDN",
-      "CM Commerce",
-      "Content Delivery Network",
-      "DAV",
-      "Discord",
-      "Figma",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Nuxt.js",
-      "Python",
-      "Svelte",
-      "Tailwind CSS",
-      "UTF-8",
-      "Visual Studio",
-      "itch.io",
-      "shadcn ui"
     ]
   }
 ]

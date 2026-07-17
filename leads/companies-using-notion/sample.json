@@ -1,5 +1,29 @@
 [
   {
+    "domain": "getactionable.co",
+    "title": "Actionable: AI engine to predict and act on customer data",
+    "business_name": "Actionable SAS",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 17862,
+    "crawled_at": "2026-07-17T13:20:19.970062559Z",
+    "technologies": [
+      "Astro",
+      "Axeptio",
+      "Calendly",
+      "Fireblade",
+      "Google Cloud",
+      "LinkedIn Insights",
+      "LinkedIn Pixel",
+      "Microdata for Google Shopping",
+      "Notion",
+      "PWA",
+      "QUIC",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "mrhustler.me",
     "title": "@zaksales | 🚀 ASA+ Accompagnement Offert (297€) 🎁 | Beacons",
     "business_name": "",
@@ -15783,26 +15807,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "rohankartik.com",
-    "title": "Rohan Kartik",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 62,
-    "tech_spend": 15360,
-    "crawled_at": "2026-05-11T17:20:20.02180617Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google Analytics",
-      "Google Tag Manager",
-      "InitiativeS",
-      "Microdata for Google Shopping",
-      "Notion"
     ]
   }
 ]
