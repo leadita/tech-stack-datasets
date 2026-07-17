@@ -1,5 +1,49 @@
 [
   {
+    "domain": "praktijkcipres.nl",
+    "title": "Praktijk Cipres | Voor begeleiding en coaching",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 77,
+    "tech_spend": 27780,
+    "crawled_at": "2026-07-17T09:17:19.967870226Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "Financial Services Guide",
+      "Gatsby JS",
+      "KVH",
+      "No-Q",
+      "Styled Components",
+      "Vector Internet Services"
+    ]
+  },
+  {
+    "domain": "earringenvy.co.uk",
+    "title": "Earring Envy",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-07-17T01:20:19.968629673Z",
+    "technologies": [
+      "Apache",
+      "Express",
+      "GZIP Module",
+      "Gatsby JS",
+      "Giropay",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "loopclub.now.sh",
     "title": "Personalized Recommendations | Loop: Personalized Recommendations",
     "business_name": "",
@@ -13685,52 +13729,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "wrexhamtrucktrailer.org.uk",
-    "title": "Wrexham Truck & Trailer I CV parts, tools, accessories and consumables North Wales - Free Delivery",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 75370,
-    "crawled_at": "2026-05-27T09:22:38.621776378Z",
-    "technologies": [
-      "DAV",
-      "GZIP Module",
-      "Gatsby JS",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "K2F",
-      "Nginx",
-      "No-Q",
-      "SMC",
-      "UTF-8",
-      "Ubuntu",
-      "Unix",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "mocjic.com",
-    "title": "mocjic",
-    "business_name": "",
-    "country": "",
-    "seo_score": 32,
-    "tech_spend": 603,
-    "crawled_at": "2026-05-27T08:50:42.388557807Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "Fastly",
-      "GZIP Module",
-      "Gatsby JS",
-      "Google Cloud DNS",
-      "Google Font API",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]
