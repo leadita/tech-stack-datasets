@@ -1,5 +1,29 @@
 [
   {
+    "domain": "milanospgh.com",
+    "title": "Home | Delicious Pizza from Milano's Pizza",
+    "business_name": "Milano's Pizza",
+    "country": "ITA",
+    "seo_score": 77,
+    "tech_spend": 19674,
+    "crawled_at": "2026-07-16T23:14:19.968032567Z",
+    "technologies": [
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Line2",
+      "MailerLite",
+      "Microdata for Google Shopping",
+      "PWA",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "wuweiwisdom.com",
     "title": "Home - Wu Wei Wisdom",
     "business_name": "Wu Wei Wisdom",
@@ -18973,27 +18997,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "dealspgh.com",
-    "title": "DealsPgh",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 3391,
-    "crawled_at": "2026-05-20T15:19:31.418030192Z",
-    "technologies": [
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "MailerLite",
-      "PWA",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight",
-      "reCAPTCHA"
     ]
   },
   {
