@@ -1,5 +1,55 @@
 [
   {
+    "domain": "fycdgh.ca",
+    "title": "Fa-Yi Chong-De Guang-Hui Association",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 65,
+    "tech_spend": 3199,
+    "crawled_at": "2026-07-17T10:14:19.970791988Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Start Bootstrap",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "beemediafilms.de",
+    "title": "BEEMediaFilms",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 627,
+    "crawled_at": "2026-07-17T09:38:19.972235118Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Apture Linking Platform",
+      "ArvanCloud",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Tag Manager",
+      "InMotion Hosting",
+      "Instagram Follow Button",
+      "Nginx",
+      "StackPath",
+      "Start Bootstrap",
+      "Tailwind CSS",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "bartendingschoolfortlauderdale.com",
     "title": "Bartending School Fort Lauderdale | Elite Bartending School and Event Staffing Fort Lauderdale",
     "business_name": "",
@@ -15264,64 +15314,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "elegantefinishes.co.uk",
-    "title": "Elegante Finishes",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 2688,
-    "crawled_at": "2026-05-20T17:07:56.748482216Z",
-    "technologies": [
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Material Design for Bootstrap",
-      "Tailwind CSS",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "theastrologerandpsychic.com",
-    "title": "Pandith Krishna",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 60,
-    "tech_spend": 476,
-    "crawled_at": "2026-05-20T16:53:19.982721844Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Bulma",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Express",
-      "Font Awesome",
-      "Google My Business",
-      "IcoMoon",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "Slide Anything",
-      "Theme In WP",
-      "UTF-8",
-      "WP Bootstrap Starter",
-      "WPBakery",
-      "WhatsApp Sharing",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
