@@ -1,5 +1,42 @@
 [
   {
+    "domain": "expressbatteryreplacement.com",
+    "title": "Express Battery Replacement",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 65,
+    "tech_spend": 286659,
+    "crawled_at": "2026-07-17T08:41:19.973183003Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Better Lead Generation Services",
+      "Click to Chat for WhatsApp",
+      "Elementor",
+      "EmbedPress",
+      "Express",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Customer Reviews",
+      "Google Tag Manager",
+      "Hello Elementor",
+      "LiteSpeed",
+      "Metform Elemento",
+      "NFOrce Internet",
+      "PHP",
+      "Popup Maker for Wordpress",
+      "QUIC",
+      "Salesforce",
+      "Salesforce Experience Cloud",
+      "Salesforce Hosted",
+      "Table Addons for Elementor",
+      "UTF-8",
+      "Vector Internet Services",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "1852visalia.com",
     "title": "Home - 1852 Visalia",
     "business_name": "1852 Visalia",
@@ -20935,40 +20972,6 @@
       "YouTube",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "kanderconsulting.com",
-    "title": "Senior-Led Certified Salesforce Consulting & Implementation Partner | Kander® Consult",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 360933,
-    "crawled_at": "2026-06-02T00:26:22.357722081Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Salesforce",
-      "Salesforce Experience Cloud",
-      "Salesforce Hosted",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
