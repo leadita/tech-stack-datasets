@@ -1,5 +1,31 @@
 [
   {
+    "domain": "wetscourses.com",
+    "title": "WETS Courses",
+    "business_name": "",
+    "country": "MYS",
+    "seo_score": 72,
+    "tech_spend": 75847,
+    "crawled_at": "2026-07-17T09:59:19.972772595Z",
+    "technologies": [
+      "Apache",
+      "Cart.com",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "OpenCart",
+      "Poptin",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "alquasports.com",
     "title": "Alqua Sports Club | Unleashing Passion on the Field",
     "business_name": "",
@@ -10069,32 +10095,6 @@
       "Tailwind CSS",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "wetscourses.com",
-    "title": "WETS Courses",
-    "business_name": "",
-    "country": "MYS",
-    "seo_score": 72,
-    "tech_spend": 75847,
-    "crawled_at": "2026-05-09T19:06:14.134170391Z",
-    "technologies": [
-      "Apache",
-      "Cart.com",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "OpenCart",
-      "Poptin",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College"
     ]
   },
   {

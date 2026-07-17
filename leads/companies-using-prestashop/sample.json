@@ -1,5 +1,20 @@
 [
   {
+    "domain": "bflow.tech",
+    "title": "bflow.tech",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": "",
+    "crawled_at": "2026-07-17T09:17:19.968019871Z",
+    "technologies": [
+      "LiteSpeed",
+      "PrestaShop",
+      "QUIC",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "nemops.com",
     "title": "Trustworthy Shopify Partner - NemoPS",
     "business_name": "NemoPS",
@@ -316,21 +331,6 @@
       "UTF-8",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "kantorowskiglab.pl",
-    "title": "kantorowskiglab.pl",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": "",
-    "crawled_at": "2026-07-13T15:44:19.973265761Z",
-    "technologies": [
-      "LiteSpeed",
-      "PrestaShop",
-      "QUIC",
-      "WordPress"
     ]
   },
   {
