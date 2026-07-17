@@ -1,5 +1,27 @@
 [
   {
+    "domain": "accesslinkapp.com",
+    "title": "Access Link - Bridging the Digital Access Gap in Liberia",
+    "business_name": "",
+    "country": "LBR",
+    "seo_score": 72,
+    "tech_spend": 15468,
+    "crawled_at": "2026-07-17T12:11:19.97253949Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "GZIP Module",
+      "Gambling Content",
+      "IcoMoon",
+      "Laravel Livewire",
+      "QUIC",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8",
+      "Ubuntu"
+    ]
+  },
+  {
     "domain": "meig.es",
     "title": "Meig",
     "business_name": "",
@@ -13472,33 +13494,6 @@
       "Twitter CDN",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "unclaimedassetsrecovery.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 60,
-    "tech_spend": 8928,
-    "crawled_at": "2026-05-19T16:05:19.993069982Z",
-    "technologies": [
-      "Cloudflare",
-      "Fireblade",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Laravel Livewire",
-      "Line2",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
