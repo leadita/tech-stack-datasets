@@ -1,5 +1,36 @@
 [
   {
+    "domain": "trotterproductions.com",
+    "title": "Trotter Productions",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 65508,
+    "crawled_at": "2026-07-17T01:17:19.969222087Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "AddThis",
+      "AddThis for Wordpress",
+      "Amazon Advertising Sizmek Ad Suite",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Recommendations AI",
+      "IcoMoon",
+      "Nginx",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "cavaliere.at",
     "title": "Cavaliere - Cavaliere",
     "business_name": "",
@@ -6863,37 +6894,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "trotterproductions.com",
-    "title": "Trotter Productions",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 65508,
-    "crawled_at": "2026-02-24T19:33:40.095504455Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AddThis",
-      "AddThis for Wordpress",
-      "Amazon Advertising Sizmek Ad Suite",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Recommendations AI",
-      "IcoMoon",
-      "Nginx",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "YouTube"
     ]
   },
   {
