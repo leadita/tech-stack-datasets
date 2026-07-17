@@ -1,5 +1,32 @@
 [
   {
+    "domain": "thirtyninecap.com",
+    "title": "Chicago & Boston Private Equity Firm | HarborWind",
+    "business_name": "HarborWind Partners",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 15760,
+    "crawled_at": "2026-07-17T18:50:19.968916442Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Harbor",
+      "Hubspot Knowledge Base",
+      "Mautic",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "santaclaritaharley.com",
     "title": "Harley-Davidson® Dealership of Santa Clarita, California | Harley-Davidson® of Santa Clarita",
     "business_name": "",
@@ -4274,32 +4301,6 @@
       "Zeald",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "harborwind.com",
-    "title": "HarborWind Partners | Buy. Build. Compound.",
-    "business_name": "HarborWind Partners",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 15640,
-    "crawled_at": "2026-05-15T03:35:19.979802032Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Harbor",
-      "Hubspot Knowledge Base",
-      "Mautic",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "UTF-8"
     ]
   },
   {
