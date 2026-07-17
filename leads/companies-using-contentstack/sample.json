@@ -1,5 +1,44 @@
 [
   {
+    "domain": "death2lifeprisonministries.org",
+    "title": "Empowering Incarcerated Individuals | Death2Life Ministries",
+    "business_name": "Death2Life Prison Ministries",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 30687,
+    "crawled_at": "2026-07-16T23:05:19.973733079Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Airtable",
+      "Amazon WAF Blocked",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Coming Soon Page",
+      "Contentstack",
+      "DoubleClick Bid Manager",
+      "Givebutter",
+      "GoDaddy",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Reamaze",
+      "Thank You",
+      "UTF-8",
+      "Vimeo",
+      "Wangsu",
+      "Website Tonight",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "firstwesternexcavation.com",
     "title": "Precision Excavation Services | First Western Excavation LLC",
     "business_name": "First Western Excavation LLC",
@@ -21060,38 +21099,6 @@
       "Vercel",
       "WordPress",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "palmislandbones.com",
-    "title": "Palm Island Bones ®",
-    "business_name": "Palm Island Bones ®",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 7131,
-    "crawled_at": "2026-05-01T07:14:20.018768569Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Contentstack",
-      "GoDaddy",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Reamaze",
-      "UTF-8",
-      "Vimeo",
-      "Wangsu",
-      "Website Tonight",
-      "YouTube",
-      "reCAPTCHA"
     ]
   }
 ]
