@@ -1,5 +1,27 @@
 [
   {
+    "domain": "netzeroestates.com",
+    "title": "Reeco ®",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 462,
+    "crawled_at": "2026-07-17T08:23:19.970195862Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Angular",
+      "CloudFront",
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Heroku",
+      "MaxCDN",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "webtoad.cz",
     "title": "Code that makes difference",
     "business_name": "",
@@ -3869,32 +3891,6 @@
       "Wix Media",
       "YouTube",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "oaklandneighborhoodgems.com",
-    "title": "Alonya Buford",
-    "business_name": "",
-    "country": "VEN",
-    "seo_score": 50,
-    "tech_spend": 2002,
-    "crawled_at": "2026-06-19T23:23:19.968566854Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon S3 CDN",
-      "Angular",
-      "Cisco/Arrowpoint Content Service Switch",
-      "CloudFront",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Heroku",
-      "Keller Williams Realty",
-      "MaxCDN",
-      "Storyblocks",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
