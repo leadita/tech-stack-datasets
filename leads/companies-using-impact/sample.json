@@ -1,5 +1,30 @@
 [
   {
+    "domain": "artificialeye119.com",
+    "title": "artificialeye119 –",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 5000,
+    "crawled_at": "2026-07-16T12:56:19.971819408Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Express",
+      "Impact",
+      "LiteSpeed",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "Way",
+      "WordPress",
+      "WordPress Multisite",
+      "Worldz",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "friendlyforce.ai",
     "title": "FriendlyForce — Voice-First Civic Assistant",
     "business_name": "",
@@ -55,33 +80,6 @@
       "Waveform Technology",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "tedrweblinkstestsiteletgot.com",
-    "title": "tedrweblinkstestsiteletgot -",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 1900,
-    "crawled_at": "2026-07-13T17:41:19.967723775Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Express",
-      "Impact",
-      "LiteSpeed",
-      "Medium",
-      "Microdata for Google Shopping",
-      "PHP",
-      "RM Education",
-      "Sitelinks Search Box",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   },
   {
