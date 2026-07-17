@@ -1,5 +1,44 @@
 [
   {
+    "domain": "death2lifeprisonministries.org",
+    "title": "Empowering Incarcerated Individuals | Death2Life Ministries",
+    "business_name": "Death2Life Prison Ministries",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 30687,
+    "crawled_at": "2026-07-16T23:05:19.973733079Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Airtable",
+      "Amazon WAF Blocked",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Coming Soon Page",
+      "Contentstack",
+      "DoubleClick Bid Manager",
+      "Givebutter",
+      "GoDaddy",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Reamaze",
+      "Thank You",
+      "UTF-8",
+      "Vimeo",
+      "Wangsu",
+      "Website Tonight",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "ywcansrcc.org",
     "title": "YWCA Northeastern MA: Empowering Women & Families Since 1892 | Women's Services & Support",
     "business_name": "YWCA of Northeastern Massachusetts",
@@ -17806,33 +17845,6 @@
       "YouTube",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "thamani.net",
-    "title": "Thamani",
-    "business_name": "Thamani",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 21213,
-    "crawled_at": "2026-05-31T02:13:48.629474955Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Givebutter",
-      "Instagram Follow Button",
-      "KVH",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
