@@ -1,5 +1,30 @@
 [
   {
+    "domain": "6o4newhome.com",
+    "title": "The 604 New Home Team : Royal LePage Elite West : Home",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 41360,
+    "crawled_at": "2026-07-17T00:20:19.967607719Z",
+    "technologies": [
+      "Apache",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "RealPage",
+      "UTF-8",
+      "YouTube",
+      "myRealPage"
+    ]
+  },
+  {
     "domain": "tystewart.com",
     "title": "Ty Stewart – San Diego Real Estate",
     "business_name": "",
@@ -15081,35 +15106,6 @@
       "RealPage",
       "UTF-8",
       "WhatsApp Sharing",
-      "myRealPage"
-    ]
-  },
-  {
-    "domain": "calgary-commercial-real-estate.com",
-    "title": "Calgary Commercial Real Estate For Sale & Lease",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 48416,
-    "crawled_at": "2026-05-18T21:35:19.989776964Z",
-    "technologies": [
-      "Apache",
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Homes.com CMS",
-      "IcoMoon",
-      "Placehold IT",
-      "RealPage",
-      "ReviewsOnMyWebsite",
-      "jQuery",
       "myRealPage"
     ]
   }
