@@ -1,5 +1,28 @@
 [
   {
+    "domain": "timferrari.com",
+    "title": "Tim Ferrari | Software Developer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 415000,
+    "crawled_at": "2026-07-17T01:02:19.973609564Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Experience Manager",
+      "Apture Linking Platform",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Next.js",
+      "Nginx",
+      "Pleroma",
+      "Python",
+      "Salesforce Hosted",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "finditwithirick.com",
     "title": "Home | AnnElise Irick | Berkshire Hathaway HomeServices",
     "business_name": "",
@@ -18621,36 +18644,6 @@
       "Umbler",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "dzbank.sg",
-    "title": "Singapore | DZ BANK",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 65,
-    "tech_spend": 518308,
-    "crawled_at": "2026-04-25T02:32:20.008080559Z",
-    "technologies": [
-      "Adobe CQ",
-      "Adobe Experience Manager",
-      "Bug Bounty",
-      "Content Delivery Network",
-      "Corporate Governance and Regulatory Compliance",
-      "Fireblade",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Investor Relations",
-      "Matomo",
-      "Matomo Tag Manager",
-      "Microdata for Google Shopping",
-      "Twitter Ads",
-      "UK Tax Strategy",
-      "UTF-8",
-      "YouTube",
-      "arsys.es"
     ]
   }
 ]
