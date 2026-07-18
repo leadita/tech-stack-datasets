@@ -1,5 +1,21 @@
 [
   {
+    "domain": "djm.legal",
+    "title": "DJM.legal - Rechtsanwalt Daniel J. Mueller - Legal Services -Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 60,
+    "crawled_at": "2026-07-17T13:47:19.967961524Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Bulma",
+      "GZIP Module",
+      "Microsoft 365"
+    ]
+  },
+  {
     "domain": "virginiaworks.net",
     "title": "Virginia Works - Virginia's Workforce Development Agency",
     "business_name": "",
@@ -17890,40 +17906,6 @@
       "WordPress Related Posts",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "paperpublishinghouse.com",
-    "title": "PAPER Law Blog",
-    "business_name": "PAPER Law Office PLLC",
-    "country": "CHE",
-    "seo_score": 82,
-    "tech_spend": 27773,
-    "crawled_at": "2026-06-08T15:00:13.211310637Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "Baidu Cloud",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Harbor",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Microsoft 365",
-      "Oracle Cloud",
-      "Perl",
-      "QUIC",
-      "Squarespace",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
