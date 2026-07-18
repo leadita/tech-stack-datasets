@@ -1,12 +1,12 @@
 [
   {
-    "domain": "aardvarkshockey.ca",
+    "domain": "americanrenaissancearchslvg.com",
     "title": "WordPress.com",
     "business_name": "",
     "country": "",
     "seo_score": 52,
     "tech_spend": 3,
-    "crawled_at": "2026-07-17T14:08:19.975447702Z",
+    "crawled_at": "2026-07-17T15:47:19.967903677Z",
     "technologies": [
       "Alternate Protocol",
       "App Store",
@@ -11053,48 +11053,6 @@
       "jQuery Pin It Button for Images",
       "monday.com",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "datarecovery.com",
-    "title": "Data Recovery Services for Hard Drives, SSD, Ransomware and More",
-    "business_name": "Datarecovery.com, Inc.",
-    "country": "CAN",
-    "seo_score": 82,
-    "tech_spend": 19418,
-    "crawled_at": "2026-05-24T16:03:04.916700436Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apache",
-      "Autoptimize",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "Fraud Blocker",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "PHP",
-      "Perl",
-      "Prefix Free",
-      "QUIC",
-      "Reddit Conversion Tracking",
-      "Subversion",
-      "Theme In WP",
-      "UTF-8",
-      "UberMenu",
-      "Ubuntu",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
