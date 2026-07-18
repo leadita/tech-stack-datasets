@@ -1,5 +1,31 @@
 [
   {
+    "domain": "chiclashco.com",
+    "title": "Chic Esthetics Co. | Lash & Brow in Houston, TX",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 57,
+    "tech_spend": 66,
+    "crawled_at": "2026-07-17T14:11:19.96889661Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Segment",
+      "Segment Consent Manager",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "hairbycle.com",
     "title": "Hair By Cle | BLOWOUT BAE | Hair Salon in Memphis, TN",
     "business_name": "",
@@ -21498,29 +21524,6 @@
       "Tailwind CSS",
       "UTF-8",
       "eLand",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "3701wayzata.com",
-    "title": "3701 Wayzata Boulevard, Minneapolis, MN",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 1251,
-    "crawled_at": "2026-05-22T11:41:19.976861506Z",
-    "technologies": [
-      "Cloudinary",
-      "DAV",
-      "ElementUI",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Segment",
-      "Segment Consent Manager",
-      "Tailwind CSS",
-      "UTF-8",
       "jsDelivr"
     ]
   }

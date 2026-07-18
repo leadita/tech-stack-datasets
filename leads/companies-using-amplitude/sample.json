@@ -1,12 +1,12 @@
 [
   {
-    "domain": "freshtrackscanada.ca",
+    "domain": "freshtracksworldwide.com",
     "title": "Fresh Tracks Canada | Best Canadian Tour Operator",
     "business_name": "Fresh Tracks Canada",
     "country": "CAN",
     "seo_score": 77,
     "tech_spend": 106170,
-    "crawled_at": "2026-07-17T01:59:19.969466824Z",
+    "crawled_at": "2026-07-17T16:38:19.968122674Z",
     "technologies": [
       "AWS WAF Challenge",
       "Airbrake",
