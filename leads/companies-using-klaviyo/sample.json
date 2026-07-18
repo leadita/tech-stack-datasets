@@ -1,5 +1,64 @@
 [
   {
+    "domain": "maiyomitraditiontechniquespa.com",
+    "title": "Go3Technology | One-Stop Digital Solution for Retail Business",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 7600,
+    "crawled_at": "2026-07-17T21:14:19.968220186Z",
+    "technologies": [
+      "Amazon",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Klaviyo",
+      "LinkedIn Insights",
+      "LinkedIn Pixel",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "theafterco.com",
+    "title": "The After — Calm Breakup Recovery Guides for Women",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 13336,
+    "crawled_at": "2026-07-17T19:17:19.972116203Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Baidu Cloud",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Klaviyo",
+      "Perl",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "UTF-8",
+      "Yandex Hosting",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "dogbag.com",
     "title": "Dog Waste Bags | Dog Waste Station | Doggie Walk Bags",
     "business_name": "",
@@ -742,37 +801,6 @@
       "Yandex Hosting",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "lilianbodyworks.com",
-    "title": "Go3Technology | One-Stop Digital Solution for Retail Business",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 7600,
-    "crawled_at": "2026-07-16T02:14:19.968535491Z",
-    "technologies": [
-      "Amazon",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "LinkedIn Insights",
-      "LinkedIn Pixel",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "jsDelivr",
-      "shadcn ui"
     ]
   },
   {
@@ -20682,39 +20710,6 @@
       "WF Cookie Consent",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "blueessentials.com",
-    "title": "Best Supplement Brands in Europe | Blue Essentials",
-    "business_name": "Blue Essentials",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 31340,
-    "crawled_at": "2026-06-10T04:19:32.795715219Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "Landis Holdings",
-      "Microdata for Google Shopping",
-      "Okendo",
-      "QUIC",
-      "Referral Candy",
-      "Shopify",
-      "Shopify Collabs",
-      "Shopify Payments",
-      "Tailwind CSS",
-      "To Top",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   }
 ]
