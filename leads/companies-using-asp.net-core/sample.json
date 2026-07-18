@@ -1,5 +1,33 @@
 [
   {
+    "domain": "kupane.co.za",
+    "title": "Kupane",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 60,
+    "tech_spend": 219,
+    "crawled_at": "2026-07-17T14:32:19.968348527Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "ASP.NET Core",
+      "AutoComplete",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google My Business",
+      "IcoMoon",
+      "Microsoft Azure",
+      "Tailwind CSS",
+      "UTF-8",
+      "Visual Studio",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "travtalks.com",
     "title": "Trav Talks Real Estate",
     "business_name": "",
@@ -15575,45 +15603,6 @@
       "WordPress Multisite",
       "WordPress Related Posts",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "battlefordbaitandtackle.ca",
-    "title": "Battleford Bait & Tackle",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 30505,
-    "crawled_at": "2026-05-31T01:43:12.593997441Z",
-    "technologies": [
-      "ASP.NET Core",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "ETranslate",
-      "Ecwid Ecommerce Shopping Cart",
-      "Elementor",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Interchange",
-      "NFOrce Internet",
-      "Nginx",
-      "PWA",
-      "Perl",
-      "QUIC",
-      "RM Education",
-      "Typeform",
-      "UTF-8",
-      "Unsplash",
-      "Woo Themes",
-      "eLand"
     ]
   }
 ]
