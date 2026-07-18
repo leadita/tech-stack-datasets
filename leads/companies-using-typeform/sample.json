@@ -1,5 +1,29 @@
 [
   {
+    "domain": "luminositypress.com",
+    "title": "Heather Moore: Mental Health Advocate & Public Speaker | Heather Moore Luminosity Press",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 25754,
+    "crawled_at": "2026-07-17T19:35:19.974433285Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon Widgets",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Perl",
+      "RM Education",
+      "Typeform",
+      "Unsplash",
+      "Zyro"
+    ]
+  },
+  {
     "domain": "tejoventures.one",
     "title": "Tejo Ventures | Clean Energy Investment Fund | Portugal",
     "business_name": "",
@@ -18793,37 +18817,6 @@
       "UTF-8",
       "Unsplash",
       "eLand"
-    ]
-  },
-  {
-    "domain": "dentalwealth.co.uk",
-    "title": "Dental Business Coaching. Strategic Success. Delivered DWB",
-    "business_name": "Dental Wealth Builder",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 17064,
-    "crawled_at": "2026-06-03T12:00:35.142325924Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Animate It",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google My Business",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "RM Education",
-      "Tailwind CSS",
-      "Typeform",
-      "UTF-8",
-      "Vector Internet Services",
-      "WF Cookie Consent",
-      "Webflow",
-      "YouTube"
     ]
   }
 ]
