@@ -1,5 +1,35 @@
 [
   {
+    "domain": "131referrals.com",
+    "title": "Level Up Coaching | Rachel Adams Lee",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 3445,
+    "crawled_at": "2026-07-17T20:59:19.97359483Z",
+    "technologies": [
+      "AdRoll",
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Font Awesome",
+      "GZIP Module",
+      "Kajabi",
+      "Nginx",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "UserWay"
+    ]
+  },
+  {
     "domain": "returnwithelixir.com",
     "title": "Return with Elixir",
     "business_name": "The Gradual Path",
@@ -18148,41 +18178,6 @@
       "SMC",
       "TermsFeed",
       "University or College"
-    ]
-  },
-  {
-    "domain": "gwgbacktoschool.com",
-    "title": "HOME | Girls with Grit Collective | A collaborative approach towards women in Real Estate",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 21130,
-    "crawled_at": "2026-05-08T02:08:19.977252875Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AWS WAF Challenge",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Enzuzo",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Kajabi",
-      "Shopify",
-      "UTF-8",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
