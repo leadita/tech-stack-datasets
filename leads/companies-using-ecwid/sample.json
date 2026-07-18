@@ -1,5 +1,36 @@
 [
   {
+    "domain": "hmshoney.co.uk",
+    "title": "HMS Honey - Pure & Natural Honey Products",
+    "business_name": "HMS Honey",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 83252,
+    "crawled_at": "2026-07-17T19:26:19.984748052Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "ETranslate",
+      "Ecwid Ecommerce Shopping Cart",
+      "EmbedPress",
+      "GTranslate",
+      "Google My Business",
+      "Gutenberg",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "SMC",
+      "Thank You",
+      "The Fresh",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "ebvapes2go.co.uk",
     "title": "EB Vapes2Go - Your Trusted Online Vape Shop",
     "business_name": "EB Vapes2Go",
@@ -18455,36 +18486,6 @@
       "Yandex Hosting",
       "YouTube",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "threewishesbakery.com",
-    "title": "Three Wishes Bakery | Delicious Gluten-Free Baked Goods — Order Today",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 94744,
-    "crawled_at": "2026-06-08T08:05:54.341298988Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Ecwid Ecommerce Shopping Cart",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
