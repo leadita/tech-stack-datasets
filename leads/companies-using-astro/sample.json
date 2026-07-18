@@ -1,5 +1,52 @@
 [
   {
+    "domain": "azme.net",
+    "title": "Azme Bengraine | Personal Website",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 600,
+    "crawled_at": "2026-07-18T00:53:19.968497967Z",
+    "technologies": [
+      "Astro",
+      "Content Delivery Network",
+      "Express",
+      "Fastly",
+      "GitHub Hosting",
+      "PHP",
+      "Python",
+      "UTF-8",
+      "WebAssembly",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "leonidasmississauga.com",
+    "title": "Leonidas Port Credit · Belgian Chocolate & Café",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 3400,
+    "crawled_at": "2026-07-17T20:35:19.974041412Z",
+    "technologies": [
+      "Astro",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Customer Reviews",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "getactionable.co",
     "title": "Actionable: AI engine to predict and act on customer data",
     "business_name": "Actionable SAS",
@@ -11541,41 +11588,6 @@
       "QUIC",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "regionarea.com",
-    "title": "TYZO · Performance Marketing, Software & AI Automation",
-    "business_name": "TYZO",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 1500,
-    "crawled_at": "2026-06-10T12:39:51.593403786Z",
-    "technologies": [
-      "Astro",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "QUIC",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "clement-torchiat.fr",
-    "title": "Designer & Front-end Developer - Clément Torchiat",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-06-10T12:39:51.580551295Z",
-    "technologies": [
-      "Apache",
-      "Astro",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Sanity"
     ]
   }
 ]
