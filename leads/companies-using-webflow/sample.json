@@ -1,5 +1,37 @@
 [
   {
+    "domain": "med-cfo.com",
+    "title": "Home - Med Firm",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 27908,
+    "crawled_at": "2026-07-17T17:50:19.969402891Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "AWS WAF Challenge",
+      "Amazon",
+      "Amazon CloudFront",
+      "Calendly",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "QUIC",
+      "RM Education",
+      "Tailwind CSS",
+      "UTF-8",
+      "WF Cookie Consent",
+      "Webflow",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "naturalstatefcu.net",
     "title": "Natural State Federal Credit Union",
     "business_name": "",
@@ -15987,40 +16019,6 @@
       "Webflow",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "yourtabcommerce.com",
-    "title": "Tab - The AI-Powered Finance Platform for Restaurants",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 23212,
-    "crawled_at": "2026-06-09T14:28:40.41760174Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Federal Deposit Insurance Corporation",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "HubSpot Conversations",
-      "Hubspot",
-      "IcoMoon",
-      "Intercom",
-      "NFOrce Internet",
-      "Tailwind CSS",
-      "UTF-8",
-      "WF Cookie Consent",
-      "Webflow",
-      "jsDelivr"
     ]
   }
 ]

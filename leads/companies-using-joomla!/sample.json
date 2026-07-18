@@ -1,5 +1,32 @@
 [
   {
+    "domain": "mlsptlab-unicampania.it",
+    "title": "Home",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 60,
+    "tech_spend": 513,
+    "crawled_at": "2026-07-17T18:08:19.975410262Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Aruba",
+      "Azion",
+      "Font Awesome",
+      "FreeCSSTemplates",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Joomla!",
+      "RokNavMenu",
+      "StackPath",
+      "UTF-8",
+      "University or College",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "backgroundtape.com",
     "title": "AquariumTape.com The fastest way to hang aquarium backgrounds!",
     "business_name": "",
@@ -12734,34 +12761,6 @@
       "University or College",
       "WP Featherlight",
       "Wangsu",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "toertour.be",
-    "title": "Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 156,
-    "crawled_at": "2026-06-09T06:57:44.513736696Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Joomla!",
-      "LiteSpeed",
-      "QUIC",
-      "RokNavMenu",
-      "Tailwind CSS",
-      "UTF-8",
       "jQuery"
     ]
   }

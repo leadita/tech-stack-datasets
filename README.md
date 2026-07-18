@@ -105,7 +105,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using AutoLeadStar](./leads/companies-using-autoleadstar) (76 companies)
 
 ### Backend & API Development
-- [Companies using PHP](./leads/companies-using-php) (2,952,612 companies)
+- [Companies using PHP](./leads/companies-using-php) (2,952,613 companies)
 - [Companies using Python](./leads/companies-using-python) (151,196 companies)
 - [Companies using Laravel](./leads/companies-using-laravel) (5,136 companies)
 - [Companies using Django](./leads/companies-using-django) (969 companies)
@@ -154,7 +154,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Rackspace](./leads/companies-using-rackspace) (7,702 companies)
 
 ### Content Management System (CMS)
-- [Companies using WordPress](./leads/companies-using-wordpress) (4,346,647 companies)
+- [Companies using WordPress](./leads/companies-using-wordpress) (4,346,648 companies)
 - [Companies using Drupal](./leads/companies-using-drupal) (25,308 companies)
 - [Companies using Joomla!](./leads/companies-using-joomla!) (35,898 companies)
 - [Companies using Adobe Experience Manager](./leads/companies-using-adobe-experience-manager) (1,790 companies)
@@ -177,7 +177,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 
 ### Compliance & Governance
 - [Companies using OneTrust](./leads/companies-using-onetrust) (17,524 companies)
-- [Companies using CookieYes](./leads/companies-using-cookieyes) (49,081 companies)
+- [Companies using CookieYes](./leads/companies-using-cookieyes) (49,082 companies)
 - [Companies using Didomi](./leads/companies-using-didomi) (902 companies)
 - [Companies using Trustarc Cookie Consent](./leads/companies-using-trustarc-cookie-consent) (1,821 companies)
 - [Companies using Usercentrics](./leads/companies-using-usercentrics) (4,834 companies)
@@ -514,7 +514,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 
 ### Web Servers
 - [Companies using NGINX](./leads/companies-using-nginx) (1,459,003 companies)
-- [Companies using Apache](./leads/companies-using-apache) (1,423,013 companies)
+- [Companies using Apache](./leads/companies-using-apache) (1,423,014 companies)
 - [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,155,984 companies)
 - [Companies using OpenResty](./leads/companies-using-openresty) (270,289 companies)
 - [Companies using Apache Tomcat](./leads/companies-using-apache-tomcat) (568 companies)
