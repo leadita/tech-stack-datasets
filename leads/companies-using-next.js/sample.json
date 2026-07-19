@@ -1,5 +1,56 @@
 [
   {
+    "domain": "puffhaven.shop",
+    "title": "Best Online Store for Dab Rigs & Tools | Puffco",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 17640,
+    "crawled_at": "2026-07-19T09:47:19.967786535Z",
+    "technologies": [
+      "Aruba",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Headless UI",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "carpe-diem.solutions",
+    "title": "Carpe Diem Solutions — ALFA-Powered Digital Signal Processing",
+    "business_name": "Carpe Diem Solutions",
+    "country": "ISR",
+    "seo_score": 82,
+    "tech_spend": 15279,
+    "crawled_at": "2026-07-19T06:41:19.97112086Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apture Linking Platform",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "purehomeandliving.shop",
     "title": "Buy Home Accessories Online | Shop Home Décor Items | Pure Home Living",
     "business_name": "",
@@ -12902,48 +12953,6 @@
       "Unix",
       "Unsplash",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "kovacsegri.com",
-    "title": "Kristóf Kovács-Egri | GenAI Builder & Engineering Leader",
-    "business_name": "",
-    "country": "ROU",
-    "seo_score": 67,
-    "tech_spend": 7840,
-    "crawled_at": "2026-07-14T00:44:19.968450536Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "RM Education",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "darthlog.com",
-    "title": "DARTHLOG.COM",
-    "business_name": "",
-    "country": "RUS",
-    "seo_score": 52,
-    "tech_spend": 66,
-    "crawled_at": "2026-07-14T00:23:19.970658281Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Next.js",
-      "Tailwind CSS"
     ]
   }
 ]
