@@ -1,5 +1,28 @@
 [
   {
+    "domain": "quiltlogger.com",
+    "title": "Quilt Logger | Longarm Quilting Business Management Software",
+    "business_name": "Quilt Logger LLC",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 2489,
+    "crawled_at": "2026-07-18T07:08:19.972791722Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "podifi.ai",
     "title": "Podifi",
     "business_name": "",
@@ -14940,30 +14963,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "joyexplorations.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 590,
-    "crawled_at": "2026-07-11T10:05:19.96898533Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CloudFront",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Nginx",
-      "Styled Components",
-      "Systeme",
-      "Thank You",
-      "UTF-8"
     ]
   }
 ]
