@@ -1,5 +1,27 @@
 [
   {
+    "domain": "michaelgdeal.com",
+    "title": "Michael G. Deal - Author",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 25387,
+    "crawled_at": "2026-07-19T04:26:19.974072688Z",
+    "technologies": [
+      "Amazon Widgets",
+      "Coming Soon Page",
+      "Contento",
+      "DAV",
+      "GZIP Module",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "MySchedulr",
+      "OpenResty",
+      "Tailwind CSS",
+      "Twitter Ads"
+    ]
+  },
+  {
     "domain": "positives-betriebsklima.de",
     "title": "positives-betriebsklima.de - Offenheit, Flexibilität, Zusammenarbeit, Motivation, Kommunikation, Vertrauen, Positives Betriebsklima",
     "business_name": "",
@@ -11052,22 +11074,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "zirco.top",
-    "title": "锆可宝库",
-    "business_name": "",
-    "country": "",
-    "seo_score": 25,
-    "tech_spend": 99,
-    "crawled_at": "2026-06-11T07:15:20.787333469Z",
-    "technologies": [
-      "Bing Cashback",
-      "Font Awesome",
-      "GZIP Module",
-      "OpenResty",
-      "PWA"
     ]
   }
 ]
