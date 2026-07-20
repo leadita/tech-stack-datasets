@@ -1,5 +1,25 @@
 [
   {
+    "domain": "sophieharlow.com",
+    "title": "Sophie Harlow — Evidence-Based Skincare for Women 30+",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 62,
+    "tech_spend": 2707,
+    "crawled_at": "2026-07-20T12:41:19.971872087Z",
+    "technologies": [
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Netlify",
+      "Perl",
+      "Pinterest Conversion Tracking",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "crawfordgray.com",
     "title": "Henry Crawford-Gray — London",
     "business_name": "",
@@ -11455,27 +11475,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "arges.io",
-    "title": "Arges — The complete platform for subcontractors",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 7563,
-    "crawled_at": "2026-06-27T14:44:19.968141986Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "DAV",
-      "Fireblade",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Netlify",
-      "QUIC",
-      "UTF-8"
     ]
   }
 ]

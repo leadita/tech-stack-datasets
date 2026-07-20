@@ -1,5 +1,54 @@
 [
   {
+    "domain": "ceylonbookclub.com",
+    "title": "Ceylonbookclub Book Store | Buy Books Online In Sri Lanka",
+    "business_name": "",
+    "country": "LKA",
+    "seo_score": 77,
+    "tech_spend": 24094,
+    "crawled_at": "2026-07-19T20:14:19.968268577Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Automattic",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "DAV",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "FiboSearch",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Jetpack",
+      "Line2",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Perl",
+      "QUIC",
+      "Shipping Rates Calculator",
+      "Side Cart Woocommerce",
+      "Sitelinks Search Box",
+      "The Events Calendar",
+      "Theme In WP",
+      "UTF-8",
+      "Vercel",
+      "Woo Themes",
+      "WooCommerce",
+      "WooCommerce Checkout",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "carpe-diem.solutions",
     "title": "Carpe Diem Solutions — ALFA-Powered Digital Signal Processing",
     "business_name": "Carpe Diem Solutions",
@@ -11812,23 +11861,6 @@
       "Vercel",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "liquisity.com",
-    "title": "Liquisity | Premium Web Design & Development Studio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2026-07-09T23:35:19.968571086Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]

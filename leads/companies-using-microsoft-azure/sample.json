@@ -1,5 +1,33 @@
 [
   {
+    "domain": "allveil.com",
+    "title": "AllVeil | Every vendor for your vision — all in one veil.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 3440,
+    "crawled_at": "2026-07-20T02:56:19.97196147Z",
+    "technologies": [
+      "ASP.NET Core",
+      "Apture Linking Platform",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microsoft Azure Blob Storage",
+      "Microsoft Clarity",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "delight-kota.co.in",
     "title": "Delight Spa Kota, Spa in Gumanpura Rd Kota, Massage Centre in Gumanpura Rd Kota, Massage in Gumanpura Rd Kota, Body Massage in Gumanpura Rd Kota, Premium Spa in Gumanpura Rd Kota, Massage Spa in Gumanpura Rd Kota, Body Spa in Gumanpura Rd Kota, Massage Spa in Gumanpura Rd Kota",
     "business_name": "",
@@ -13971,25 +13999,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "jamescross.co.uk",
-    "title": "JAMES CROSS ART DIRECTION & SET DESIGN FOR FILM, FASHION, TV, COMMERCIALS, MUSIC VIDEOS & SHORT FILMS",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 171,
-    "crawled_at": "2026-07-03T11:11:19.981063974Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Fabrik",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Instagram Follow Button",
-      "Microsoft Azure",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
