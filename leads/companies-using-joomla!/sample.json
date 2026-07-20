@@ -1,5 +1,33 @@
 [
   {
+    "domain": "studiolegalebatini.it",
+    "title": "Studio Legale Batini & Associati",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 65,
+    "tech_spend": 2156,
+    "crawled_at": "2026-07-19T14:50:19.974230175Z",
+    "technologies": [
+      "Apache",
+      "Azion",
+      "Bulma",
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "Joomla!",
+      "Maxi menu CK",
+      "RokNavMenu",
+      "Slideshow CK",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vello",
+      "WoWonder",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "mlsptlab-unicampania.it",
     "title": "Home",
     "business_name": "",
@@ -12734,34 +12762,6 @@
       "Tailwind CSS",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "lambstonemasonry.com",
-    "title": "Welcome to Lamb Stone Masonry",
-    "business_name": "Lamb Stone Masonry",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 15907,
-    "crawled_at": "2026-06-09T07:07:09.83434193Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "JoomlArt",
-      "Joomla!",
-      "Microdata for Google Shopping",
-      "PHP",
-      "RokNavMenu",
-      "Sucuri Cloudproxy",
-      "UTF-8",
-      "University or College",
-      "WP Featherlight",
-      "Wangsu",
-      "jQuery"
     ]
   }
 ]
