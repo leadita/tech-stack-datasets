@@ -1,5 +1,26 @@
 [
   {
+    "domain": "elysiangroups.com",
+    "title": "Elysian Group 24 — Private Concierge across Greece",
+    "business_name": "Elysian Group 24",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 2540,
+    "crawled_at": "2026-07-20T04:41:19.968819001Z",
+    "technologies": [
+      "Cloudflare",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "UPS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "luckyredpartners.com",
     "title": "Lucky Red Partners",
     "business_name": "",
@@ -17628,31 +17649,6 @@
       "UTF-8",
       "eLand",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "ppvgroups.org",
-    "title": "PPV TECHNOLOGY PRIVATE LIMITED",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 647,
-    "crawled_at": "2026-05-24T23:34:39.250656379Z",
-    "technologies": [
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Interchange",
-      "LiteSpeed",
-      "PHP",
-      "Python",
-      "QUIC",
-      "Slider Revolution",
-      "UPS",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
