@@ -145,10 +145,10 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 
 ### Cloud Providers
 - [Companies using Amazon](./leads/companies-using-amazon) (2,376,477 companies)
-- [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,349,736 companies)
+- [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,349,737 companies)
 - [Companies using Microsoft Azure](./leads/companies-using-microsoft-azure) (139,303 companies)
 - [Companies using Heroku](./leads/companies-using-heroku) (44,140 companies)
-- [Companies using Netlify](./leads/companies-using-netlify) (131,127 companies)
+- [Companies using Netlify](./leads/companies-using-netlify) (131,128 companies)
 - [Companies using Vercel](./leads/companies-using-vercel) (334,867 companies)
 - [Companies using Cloudflare Workers](./leads/companies-using-cloudflare-workers) (1,149 companies)
 - [Companies using Rackspace](./leads/companies-using-rackspace) (7,702 companies)
@@ -199,7 +199,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Facebook Pixel](./leads/companies-using-facebook-pixel) (429,616 companies)
 - [Companies using LinkedIn Insights](./leads/companies-using-linkedin-insights) (46,866 companies)
 - [Companies using TikTok Conversion Tracking Pixel](./leads/companies-using-tiktok-conversion-tracking-pixel) (18,065 companies)
-- [Companies using Pinterest Conversion Tracking](./leads/companies-using-pinterest-conversion-tracking) (11,330 companies)
+- [Companies using Pinterest Conversion Tracking](./leads/companies-using-pinterest-conversion-tracking) (11,331 companies)
 - [Companies using Reddit Conversion Tracking](./leads/companies-using-reddit-conversion-tracking) (8,756 companies)
 - [Companies using Kwai Conversion Tracking](./leads/companies-using-kwai-conversion-tracking) (54 companies)
 - [Companies using PixelYourSite](./leads/companies-using-pixelyoursite) (24,081 companies)
@@ -503,7 +503,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using DailyMotion Video](./leads/companies-using-dailymotion-video) (3,277 companies)
 
 ### Web Fonts & Icons
-- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,892,080 companies)
+- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,892,081 companies)
 - [Companies using Font Awesome](./leads/companies-using-font-awesome) (816,043 companies)
 - [Companies using MyFonts](./leads/companies-using-myfonts) (3,263 companies)
 - [Companies using Fontshare](./leads/companies-using-fontshare) (2,692 companies)
