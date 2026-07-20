@@ -1,5 +1,22 @@
 [
   {
+    "domain": "sekagames.com",
+    "title": "SEKA Games | Mobile Game Studio",
+    "business_name": "SEKA Games",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-07-20T20:53:19.968310136Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "pahadibazaar.com",
     "title": "Pahadi Bazaar – From the Himalayas to Every Home",
     "business_name": "Pahadi Bazaar",
@@ -14936,27 +14953,6 @@
     "crawled_at": "2026-07-15T20:44:19.970527053Z",
     "technologies": [
       "LiteSpeed"
-    ]
-  },
-  {
-    "domain": "comxinsurance.com",
-    "title": "Commercial X Insurance — Get Commercial, Cargo & Liability Trucking Insurance Quotes",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 15567,
-    "crawled_at": "2026-07-15T20:38:19.974952878Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "Cloudflare",
-      "Fireblade",
-      "Font Awesome",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "QUIC",
-      "Tailwind CSS",
-      "jQuery"
     ]
   }
 ]
