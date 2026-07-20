@@ -144,7 +144,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using ThoughtMetric](./leads/companies-using-thoughtmetric) (90 companies)
 
 ### Cloud Providers
-- [Companies using Amazon](./leads/companies-using-amazon) (2,376,476 companies)
+- [Companies using Amazon](./leads/companies-using-amazon) (2,376,477 companies)
 - [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,349,735 companies)
 - [Companies using Microsoft Azure](./leads/companies-using-microsoft-azure) (139,303 companies)
 - [Companies using Heroku](./leads/companies-using-heroku) (44,140 companies)
@@ -187,7 +187,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Cloudflare](./leads/companies-using-cloudflare) (2,379,237 companies)
 - [Companies using Akamai](./leads/companies-using-akamai) (6,714 companies)
 - [Companies using Fastly](./leads/companies-using-fastly) (1,901,145 companies)
-- [Companies using Amazon CloudFront](./leads/companies-using-amazon-cloudfront) (519,827 companies)
+- [Companies using Amazon CloudFront](./leads/companies-using-amazon-cloudfront) (519,828 companies)
 - [Companies using Cloudinary](./leads/companies-using-cloudinary) (43,754 companies)
 - [Companies using StackPath](./leads/companies-using-stackpath) (64,671 companies)
 - [Companies using BunnyCDN](./leads/companies-using-bunnycdn) (52,977 companies)
@@ -255,7 +255,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Bitwarden Passwordless](./leads/companies-using-bitwarden-passwordless) (740 companies)
 
 ### DNS Providers
-- [Companies using Amazon Route 53](./leads/companies-using-amazon-route-53) (93,838 companies)
+- [Companies using Amazon Route 53](./leads/companies-using-amazon-route-53) (93,839 companies)
 - [Companies using Namecheap](./leads/companies-using-namecheap) (19 companies)
 - [Companies using Dynadot](./leads/companies-using-dynadot) (897 companies)
 - [Companies using PointDNS](./leads/companies-using-pointdns) (30 companies)
@@ -475,7 +475,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using USPS](./leads/companies-using-usps) (1,165 companies)
 - [Companies using DHL](./leads/companies-using-dhl) (739 companies)
 - [Companies using ShipStation](./leads/companies-using-shipstation) (126 companies)
-- [Companies using Route](./leads/companies-using-route) (97,166 companies)
+- [Companies using Route](./leads/companies-using-route) (97,167 companies)
 - [Companies using Narvar](./leads/companies-using-narvar) (109 companies)
 - [Companies using Deliverr](./leads/companies-using-deliverr) (196 companies)
 
