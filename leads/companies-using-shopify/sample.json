@@ -1,5 +1,39 @@
 [
   {
+    "domain": "finnmarksauna.shop",
+    "title": "Home Saunas UK | Premium Indoor & Outdoor Saunas | Finnmark | Finnmark",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 22926,
+    "crawled_at": "2026-07-21T00:47:19.96898492Z",
+    "technologies": [
+      "Aruba",
+      "Cloudflare",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Headless UI",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "SMC",
+      "Shopify",
+      "Shopify Collabs",
+      "Sitelinks Search Box",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "splendies.shop",
     "title": "Shop the Splendies Store for All Things Splendies | Splendies",
     "business_name": "",
@@ -16647,37 +16681,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "madodynamics.com",
-    "title": "Mado Automated Solar Window Shades – Mado Dynamic",
-    "business_name": "",
-    "country": "IMN",
-    "seo_score": 70,
-    "tech_spend": 9496,
-    "crawled_at": "2026-06-21T09:14:19.968700177Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "MailChimp",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Schema Plugin",
-      "Shopify",
-      "Shopify Collabs",
-      "UTF-8",
-      "YouTube",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   }
 ]
