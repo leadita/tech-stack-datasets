@@ -1,5 +1,24 @@
 [
   {
+    "domain": "getcreatorly.com",
+    "title": "Creatorly — Instagram Campaigns & Contests for Brands and Creators",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 263,
+    "crawled_at": "2026-07-21T05:50:19.967681874Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "QUIC",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "ceylonbookclub.com",
     "title": "Ceylonbookclub Book Store | Buy Books Online In Sri Lanka",
     "business_name": "",
@@ -11841,26 +11860,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "bosv.dev",
-    "title": "bosv - Desarrollador Web",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": "",
-    "crawled_at": "2026-07-10T00:41:19.974126143Z",
-    "technologies": [
-      "Astro",
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]

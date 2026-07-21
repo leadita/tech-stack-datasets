@@ -1,5 +1,40 @@
 [
   {
+    "domain": "bright5g.com",
+    "title": "Bright5G — Private Cellular Networks, Designed, Deployed, and Operated",
+    "business_name": "Bright5G",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 2668,
+    "crawled_at": "2026-07-21T05:26:19.967699404Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Harbor",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "prime-imagery.uk",
+    "title": "Prime Imagery Scotland — Portrait & Headshot Photographer, Cumbernauld",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 62,
+    "tech_spend": 228,
+    "crawled_at": "2026-07-21T03:50:19.968244343Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Instagram Follow Button",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "sophieharlow.com",
     "title": "Sophie Harlow — Evidence-Based Skincare for Women 30+",
     "business_name": "",
@@ -11435,46 +11470,6 @@
       "Google Font API",
       "Netlify",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "claro-partners.com",
-    "title": "Claro Partners — Managing Foreign Exchange Risk",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 60,
-    "tech_spend": 7503,
-    "crawled_at": "2026-06-27T15:29:19.968261534Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fireblade",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Netlify",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "techironedsolutions.com",
-    "title": "TechIroned - Creative Digital Solutions",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 327,
-    "crawled_at": "2026-06-27T14:53:19.969609325Z",
-    "technologies": [
-      "Angular",
-      "Content Delivery Network",
-      "Font Awesome",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Netlify",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
