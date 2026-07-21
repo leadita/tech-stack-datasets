@@ -1,5 +1,37 @@
 [
   {
+    "domain": "koral.ca",
+    "title": "koral – Municipal Circular Strategy and Implementation",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 40744,
+    "crawled_at": "2026-07-21T00:53:19.974362305Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Contact Form Plugin",
+      "Contento",
+      "EmbedPress",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Muffin Group",
+      "Nginx",
+      "PHP",
+      "QUIC",
+      "Slider Revolution",
+      "Telegram",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "marketmilestone.in",
     "title": "Home | marketmilestone.in",
     "business_name": "",
@@ -15953,29 +15985,6 @@
       "YouTube",
       "Zendesk Embeddables",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "astrasec.ai",
-    "title": "Astra Security",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 422,
-    "crawled_at": "2026-06-18T22:20:19.969494201Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "GZIP Module",
-      "GitHub Hosting",
-      "IcoMoon",
-      "Telegram",
-      "Twitter Ads"
     ]
   }
 ]
