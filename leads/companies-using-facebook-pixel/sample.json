@@ -1,5 +1,31 @@
 [
   {
+    "domain": "gastroheroes.lt",
+    "title": "Pagrindinis",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 7740,
+    "crawled_at": "2026-07-21T02:20:19.967805513Z",
+    "technologies": [
+      "Cloudflare",
+      "Content Delivery Network",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Fireblade",
+      "FormSubmit",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Onepage IO",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "cupercproductions.com",
     "title": "Filmmaking and Video Production Services",
     "business_name": "",
@@ -18969,46 +18995,6 @@
       "Wangsu",
       "Website Tonight",
       "eLand"
-    ]
-  },
-  {
-    "domain": "jetwayholidays.com",
-    "title": "Best Travel agency in Dhaka, Bangladesh 2021 | Jetway Holidays",
-    "business_name": "Best travel agency in Bangladesh | jetway holidays",
-    "country": "BGD",
-    "seo_score": 72,
-    "tech_spend": 959,
-    "crawled_at": "2026-07-11T00:26:19.96853823Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Autoptimize",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Elementor",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Subversion",
-      "Twitter Ads",
-      "WP Fastest Cache",
-      "WordPress",
-      "WordPress Multisite"
     ]
   }
 ]
