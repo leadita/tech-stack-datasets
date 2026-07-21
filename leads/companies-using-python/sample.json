@@ -1,5 +1,36 @@
 [
   {
+    "domain": "geeklama.academy",
+    "title": "Geeklama | AI + Coding School for Kids 6–17 | Think Better by Building",
+    "business_name": "",
+    "country": "BRA",
+    "seo_score": 77,
+    "tech_spend": 97770,
+    "crawled_at": "2026-07-21T05:20:19.968149632Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "DAV",
+      "Financial Services Guide",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "K2F",
+      "KVH",
+      "Microdata for Google Shopping",
+      "Nationwide Mortgage Licensing System and Registry",
+      "No-Q",
+      "Perl",
+      "Python",
+      "SMC",
+      "Subversion",
+      "Zope",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "azme.net",
     "title": "Azme Bengraine | Personal Website",
     "business_name": "",
@@ -14443,34 +14474,6 @@
       "Zendesk Guide",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "cybercloudhub.link",
-    "title": "Mohammad Lal Mahmud Mia | Resume",
-    "business_name": "",
-    "country": "BGD",
-    "seo_score": 70,
-    "tech_spend": 137589,
-    "crawled_at": "2026-06-29T19:14:19.974708618Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "Fireblade",
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Python",
-      "Salesforce Experience Cloud",
-      "Twitter Ads",
-      "University or College"
     ]
   }
 ]
