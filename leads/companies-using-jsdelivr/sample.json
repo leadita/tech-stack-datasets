@@ -1,5 +1,31 @@
 [
   {
+    "domain": "theluxurybagspa.com",
+    "title": "Home - Luxury Bag Spa",
+    "business_name": "",
+    "country": "QAT",
+    "seo_score": 55,
+    "tech_spend": 63,
+    "crawled_at": "2026-07-21T01:08:19.967849784Z",
+    "technologies": [
+      "Apache",
+      "Better Lead Generation Services",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "QUIC",
+      "Tailwind CSS",
+      "Thank You",
+      "htmlcodex.com",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "hayterhomes.com",
     "title": "Home - Brian Hayter",
     "business_name": "",
@@ -15277,45 +15303,6 @@
       "Show.co",
       "UTF-8",
       "YouTube",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "spacecityvintage.shop",
-    "title": "Space City Vintage | Trendy Dresses & Chic Styles",
-    "business_name": "Space City Vintage | Trendy Dresses &amp; Chic Styles",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 6415,
-    "crawled_at": "2026-07-14T00:59:19.970369879Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Codero",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "Flatsome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google No Site Links Search",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
       "jsDelivr"
     ]
   }
