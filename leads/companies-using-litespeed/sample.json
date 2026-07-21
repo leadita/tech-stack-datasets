@@ -1,5 +1,51 @@
 [
   {
+    "domain": "theantarya.com",
+    "title": "Antarya Design Studio-Interiors, Construction & Real estate at one site",
+    "business_name": "Antarya Design Studio",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 2787,
+    "crawled_at": "2026-07-21T22:56:19.967705373Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Aruba",
+      "Astra Theme",
+      "Click to Chat for WhatsApp",
+      "Content Delivery Network",
+      "Elementor",
+      "ElementsKit Elementor",
+      "EmbedPress",
+      "Essential Addons for Elementor",
+      "Express",
+      "Font Awesome",
+      "FormSubmit",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Jeg Elementor Kit",
+      "LiteSpeed",
+      "Metform Elemento",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PHP",
+      "Premium Addons for Elementor",
+      "QUIC",
+      "SiteW",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WooCommerce",
+      "WooCommerce Checkout",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Related Posts",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "alluglobal.com",
     "title": "Home - ALLU GLOBAL",
     "business_name": "ALLU GLOBAL",
@@ -14934,21 +14980,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "trendydealsplug.com",
-    "title": "aatechrepairs.com - San Diego County, CA",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 5000,
-    "crawled_at": "2026-07-15T21:29:19.973813099Z",
-    "technologies": [
-      "LiteSpeed",
-      "M247",
-      "QUIC",
-      "UTF-8"
     ]
   }
 ]
