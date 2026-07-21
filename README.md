@@ -148,7 +148,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,349,758 companies)
 - [Companies using Microsoft Azure](./leads/companies-using-microsoft-azure) (139,305 companies)
 - [Companies using Heroku](./leads/companies-using-heroku) (44,140 companies)
-- [Companies using Netlify](./leads/companies-using-netlify) (131,130 companies)
+- [Companies using Netlify](./leads/companies-using-netlify) (131,131 companies)
 - [Companies using Vercel](./leads/companies-using-vercel) (334,868 companies)
 - [Companies using Cloudflare Workers](./leads/companies-using-cloudflare-workers) (1,149 companies)
 - [Companies using Rackspace](./leads/companies-using-rackspace) (7,702 companies)
@@ -216,7 +216,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using CapsuleCRM](./leads/companies-using-capsulecrm) (63 companies)
 
 ### CSS Frameworks
-- [Companies using Tailwind CSS](./leads/companies-using-tailwind-css) (2,413,308 companies)
+- [Companies using Tailwind CSS](./leads/companies-using-tailwind-css) (2,413,309 companies)
 - [Companies using Bootstrap](./leads/companies-using-bootstrap) (5,694 companies)
 - [Companies using Material-UI](./leads/companies-using-material-ui) (23,077 companies)
 - [Companies using Chakra UI](./leads/companies-using-chakra-ui) (2,101 companies)
@@ -374,7 +374,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 ### JavaScript Frameworks
 - [Companies using React](./leads/companies-using-react) (14,668 companies)
 - [Companies using Angular](./leads/companies-using-angular) (56,855 companies)
-- [Companies using Next.js](./leads/companies-using-next.js) (484,537 companies)
+- [Companies using Next.js](./leads/companies-using-next.js) (484,538 companies)
 - [Companies using Nuxt.js](./leads/companies-using-nuxt.js) (154,618 companies)
 - [Companies using jQuery](./leads/companies-using-jquery) (3,189,135 companies)
 - [Companies using Astro](./leads/companies-using-astro) (38,549 companies)
