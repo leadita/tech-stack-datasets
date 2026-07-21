@@ -1,5 +1,32 @@
 [
   {
+    "domain": "nitzs.co",
+    "title": "Digital Marketing Agency | Nitz's Media — Grow Online",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 67,
+    "tech_spend": 2539,
+    "crawled_at": "2026-07-21T08:11:19.967805363Z",
+    "technologies": [
+      "Alternate Protocol",
+      "AnyChat",
+      "Apture Linking Platform",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Font Awesome",
+      "Fontshare",
+      "Google",
+      "Google Cloud DNS",
+      "Google Customer Reviews",
+      "Google Font API",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "QUIC"
+    ]
+  },
+  {
     "domain": "tramway21.be",
     "title": "Tramway21",
     "business_name": "",
@@ -13215,40 +13242,6 @@
       "Pleroma",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "jandel.shop",
-    "title": "jandel's shop",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 21700,
-    "crawled_at": "2026-05-12T02:35:14.542801716Z",
-    "technologies": [
-      "BunnyCDN",
-      "BunnyCDN General",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Elfsight",
-      "Fireblade",
-      "Fontshare",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Microsoft Clarity",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "Tawk",
-      "Trustpilot Reviews for WordPress",
-      "UTF-8",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]
