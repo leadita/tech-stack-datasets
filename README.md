@@ -513,7 +513,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Material Design Icons](./leads/companies-using-material-design-icons) (25,178 companies)
 
 ### Web Servers
-- [Companies using NGINX](./leads/companies-using-nginx) (1,459,018 companies)
+- [Companies using NGINX](./leads/companies-using-nginx) (1,459,017 companies)
 - [Companies using Apache](./leads/companies-using-apache) (1,423,028 companies)
 - [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,156,004 companies)
 - [Companies using OpenResty](./leads/companies-using-openresty) (270,290 companies)
