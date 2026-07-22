@@ -1,5 +1,22 @@
 [
   {
+    "domain": "sharvdesign.in",
+    "title": "SHARV Design — Creative Design Studio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-07-21T19:35:19.968393136Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Netlify",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "bright5g.com",
     "title": "Bright5G — Private Cellular Networks, Designed, Deployed, and Operated",
     "business_name": "Bright5G",
@@ -11452,24 +11469,6 @@
       "UTF-8",
       "Zoom Video Conferencing",
       "eLand"
-    ]
-  },
-  {
-    "domain": "wholecareservices.com",
-    "title": "Julietta Ingham-Tárano · Holistic In-Home Care",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 60,
-    "tech_spend": 102,
-    "crawled_at": "2026-06-27T15:38:19.968078891Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Express",
-      "Formspree",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Netlify",
-      "UTF-8"
     ]
   }
 ]

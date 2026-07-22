@@ -1,5 +1,48 @@
 [
   {
+    "domain": "aaryacapitals.com",
+    "title": "Aarya Capitals",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 67,
+    "tech_spend": 3447,
+    "crawled_at": "2026-07-21T18:26:19.967677147Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Coming Soon Page",
+      "Fontello",
+      "GZIP Module",
+      "IcoMoon",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "QUIC",
+      "Tailwind CSS",
+      "Visual Studio",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "napaconvention.org",
+    "title": "NAPA 13th Annual Convention 2026",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 123,
+    "crawled_at": "2026-07-21T16:17:19.973443435Z",
+    "technologies": [
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Visual Studio"
+    ]
+  },
+  {
     "domain": "allveil.com",
     "title": "AllVeil | Every vendor for your vision — all in one veil.",
     "business_name": "",
@@ -13939,66 +13982,6 @@
       "Visual Studio",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "globalimmigrationservices.co.uk",
-    "title": "Global Immigration Service",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 5499,
-    "crawled_at": "2026-07-03T11:59:19.968482982Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Visual Studio",
-      "htmlcodex.com",
-      "jQuery",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "duluxprofessional.in",
-    "title": "Dulux Professional India - Tailored Paint Solutions for your Projects | Dulux Professional India",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 752200,
-    "crawled_at": "2026-07-03T11:26:19.980347572Z",
-    "technologies": [
-      "Adobe Analytics",
-      "Adobe CQ",
-      "Adobe Experience Manager",
-      "Adobe Marketing Cloud",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apache",
-      "Apture Linking Platform",
-      "Azure Edge",
-      "Baidu Cloud",
-      "Bazaarvoice",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Microsoft Azure Verified CDN",
-      "New Relic",
-      "OneTrust Domain Verification",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
