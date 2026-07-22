@@ -1,5 +1,29 @@
 [
   {
+    "domain": "rmitsolutions.in",
+    "title": "RMIT Solutions – POS, Billing & Biometric Experts",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 62,
+    "tech_spend": 2539,
+    "crawled_at": "2026-07-22T20:47:19.968013734Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Font Awesome",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "PHP",
+      "QUIC",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "thedirtypleasureshow.com",
     "title": "The Dirty Pleasure Show",
     "business_name": "",
@@ -14975,22 +14999,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "locatenav.com",
-    "title": "LocateNav",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 200,
-    "crawled_at": "2026-07-15T21:32:19.968425298Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "LiteSpeed",
-      "Nginx",
-      "QUIC",
-      "UTF-8"
     ]
   }
 ]

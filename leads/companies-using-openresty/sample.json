@@ -1,5 +1,24 @@
 [
   {
+    "domain": "weloveamericanbulldogs.com",
+    "title": "American Bulldogs Puppies",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 10108,
+    "crawled_at": "2026-07-22T15:23:19.968261683Z",
+    "technologies": [
+      "Contento",
+      "DAV",
+      "GZIP Module",
+      "Google Tag Manager",
+      "Investor Relations",
+      "MySchedulr",
+      "OpenResty",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "michaelgdeal.com",
     "title": "Michael G. Deal - Author",
     "business_name": "",
@@ -11037,43 +11056,6 @@
       "Vercel",
       "YouTube",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "helhetsfokus.se",
-    "title": "Helhetsfokus",
-    "business_name": "Helhetsfokus",
-    "country": "ESP",
-    "seo_score": 82,
-    "tech_spend": 5258,
-    "crawled_at": "2026-06-11T07:18:08.067645056Z",
-    "technologies": [
-      "Adobe ColdFusion",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Autoptimize",
-      "Coming Soon Page",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Lazy Load for WordPress",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "PHP",
-      "Tabs Responsive",
-      "Theme In WP",
-      "UTF-8",
-      "WP Rocket",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
