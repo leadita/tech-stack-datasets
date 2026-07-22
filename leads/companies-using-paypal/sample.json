@@ -1,5 +1,30 @@
 [
   {
+    "domain": "federationoftribaldiaspora.org",
+    "title": "Federation of Tribal Diaspora",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 3448,
+    "crawled_at": "2026-07-21T17:41:19.96854433Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Line2",
+      "PayPal Adaptive Payments",
+      "PayPal Button",
+      "PayPal Form",
+      "QUIC",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "sbrecsoftball.com",
     "title": "Saddle Brook Rec Softball - Home",
     "business_name": "Saddle Brook Rec Softball",
@@ -17254,27 +17279,6 @@
       "UTF-8",
       "Wangsu",
       "Website Tonight"
-    ]
-  },
-  {
-    "domain": "freedombikerchurchde.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 603,
-    "crawled_at": "2026-06-13T09:26:19.970691617Z",
-    "technologies": [
-      "Angular",
-      "Church Center",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "PayPal Button",
-      "PayPal Form",
-      "To Top",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]
