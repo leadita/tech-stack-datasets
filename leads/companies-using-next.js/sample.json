@@ -1,5 +1,39 @@
 [
   {
+    "domain": "fold2.com",
+    "title": "Fold2 — B2B marketing studio",
+    "business_name": "",
+    "country": "SVN",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-07-21T22:32:19.968580536Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GZIP Module",
+      "Next.js",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "sharvdesign.in",
+    "title": "SHARV Design — Creative Design Studio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-07-21T19:35:19.968393136Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Netlify",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "justfit.app",
     "title": "JustFit App: At-Home Workouts & Fitness Programs for Women",
     "business_name": "",
@@ -12901,68 +12935,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "tyrentemple.co.nz",
-    "title": "Tyren Temple — Product Designer who ships end to end",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 200,
-    "crawled_at": "2026-07-14T01:53:19.975156091Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "fiscality.eu",
-    "title": "Fiscality",
-    "business_name": "Fiscality",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 190159,
-    "crawled_at": "2026-07-14T01:35:19.974632807Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "Azion",
-      "Booking Affiliate",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Cornerstone",
-      "Express",
-      "Federal Deposit Insurance Corporation",
-      "Fireblade",
-      "Gambling Content",
-      "Google",
-      "Google Cloud CDN",
-      "Google Customer Reviews",
-      "InitiativeS",
-      "Investor Relations",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Neighborhoods",
-      "Next.js",
-      "Payload CMS",
-      "QUIC",
-      "Salesforce Hosted",
-      "Sitelinks Search Box",
-      "UTF-8",
-      "Underscores",
-      "University or College",
       "shadcn ui"
     ]
   }
