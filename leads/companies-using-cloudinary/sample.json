@@ -1,5 +1,28 @@
 [
   {
+    "domain": "terrarealcapitalpartners.com",
+    "title": "Terra Real Capital Partners | Multifamily Real Estate Syndication",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 26524,
+    "crawled_at": "2026-07-23T06:47:19.968164296Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudinary",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "M247",
+      "Tachyons",
+      "Tailwind CSS",
+      "UTF-8",
+      "Unsplash"
+    ]
+  },
+  {
     "domain": "idealbeautysupplysuites.com",
     "title": "Ideal Beauty Supply",
     "business_name": "",
@@ -16261,45 +16284,6 @@
       "YouTube",
       "Zope",
       "eLand"
-    ]
-  },
-  {
-    "domain": "norwaylutheranchurch.org",
-    "title": "Norway Lutheran Church",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 2187,
-    "crawled_at": "2026-06-09T00:53:17.393912511Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon S3 CDN",
-      "CDN JS",
-      "Church Center",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudinary",
-      "Content Delivery Network",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Ninja Forms",
-      "PHP",
-      "Storyblocks",
-      "Stripe",
-      "Thank You",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
