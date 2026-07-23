@@ -144,7 +144,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using ThoughtMetric](./leads/companies-using-thoughtmetric) (90 companies)
 
 ### Cloud Providers
-- [Companies using Amazon](./leads/companies-using-amazon) (2,376,480 companies)
+- [Companies using Amazon](./leads/companies-using-amazon) (2,376,481 companies)
 - [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,349,776 companies)
 - [Companies using Microsoft Azure](./leads/companies-using-microsoft-azure) (139,305 companies)
 - [Companies using Heroku](./leads/companies-using-heroku) (44,140 companies)
@@ -513,7 +513,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Material Design Icons](./leads/companies-using-material-design-icons) (25,178 companies)
 
 ### Web Servers
-- [Companies using NGINX](./leads/companies-using-nginx) (1,459,019 companies)
+- [Companies using NGINX](./leads/companies-using-nginx) (1,459,020 companies)
 - [Companies using Apache](./leads/companies-using-apache) (1,423,030 companies)
 - [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,156,010 companies)
 - [Companies using OpenResty](./leads/companies-using-openresty) (270,290 companies)
