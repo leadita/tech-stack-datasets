@@ -1,5 +1,43 @@
 [
   {
+    "domain": "efrem-ghebre.dev",
+    "title": "Efrem's Portfolio",
+    "business_name": "",
+    "country": "SAU",
+    "seo_score": 60,
+    "tech_spend": 84,
+    "crawled_at": "2026-07-23T07:17:19.969326306Z",
+    "technologies": [
+      "ASP.NET Core",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "Netlify",
+      "UTF-8",
+      "Vercel",
+      "Visual Studio",
+      "YouTube",
+      "about.me"
+    ]
+  },
+  {
+    "domain": "mattiabombelli.com",
+    "title": "Home | Mattia Bombelli",
+    "business_name": "",
+    "country": "",
+    "seo_score": 32,
+    "tech_spend": 5000,
+    "crawled_at": "2026-07-22T17:32:19.967967448Z",
+    "technologies": [
+      "Astro",
+      "Content Delivery Network",
+      "K2F",
+      "Netlify",
+      "PWA"
+    ]
+  },
+  {
     "domain": "sharvdesign.in",
     "title": "SHARV Design — Creative Design Studio",
     "business_name": "",
@@ -11424,51 +11462,6 @@
       "UTF-8",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "miconstantinou.com",
-    "title": "M&I Constantinou — Construction & Development Since 1996",
-    "business_name": "",
-    "country": "CYP",
-    "seo_score": 77,
-    "tech_spend": 4791,
-    "crawled_at": "2026-06-27T17:47:19.970478339Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "ETranslate",
-      "Express",
-      "GTranslate",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Netlify",
-      "QUIC",
-      "UTF-8",
-      "Wix Media"
-    ]
-  },
-  {
-    "domain": "prosperityrhino.online",
-    "title": "Prosperity Rhino | Strategic Systems Support for Small Business",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 488,
-    "crawled_at": "2026-06-27T16:20:19.969401459Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Netlify",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Zoom Video Conferencing",
-      "eLand"
     ]
   }
 ]
