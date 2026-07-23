@@ -1,5 +1,27 @@
 [
   {
+    "domain": "efrem-ghebre.dev",
+    "title": "Efrem's Portfolio",
+    "business_name": "",
+    "country": "SAU",
+    "seo_score": 60,
+    "tech_spend": 84,
+    "crawled_at": "2026-07-23T07:17:19.969326306Z",
+    "technologies": [
+      "ASP.NET Core",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "Netlify",
+      "UTF-8",
+      "Vercel",
+      "Visual Studio",
+      "YouTube",
+      "about.me"
+    ]
+  },
+  {
     "domain": "allveil.com",
     "title": "AllVeil | Every vendor for your vision — all in one veil.",
     "business_name": "",
@@ -15566,30 +15588,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "sonal.cloud",
-    "title": "Sonal Fernando",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": "",
-    "crawled_at": "2026-05-31T03:08:34.378713322Z",
-    "technologies": [
-      "ASP.NET Core",
-      "Angular",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Medium",
-      "Netlify",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "Visual Studio",
-      "shadcn ui"
     ]
   }
 ]
