@@ -145,7 +145,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 
 ### Cloud Providers
 - [Companies using Amazon](./leads/companies-using-amazon) (2,376,487 companies)
-- [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,349,793 companies)
+- [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,349,794 companies)
 - [Companies using Microsoft Azure](./leads/companies-using-microsoft-azure) (139,305 companies)
 - [Companies using Heroku](./leads/companies-using-heroku) (44,140 companies)
 - [Companies using Netlify](./leads/companies-using-netlify) (131,134 companies)
@@ -216,7 +216,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using CapsuleCRM](./leads/companies-using-capsulecrm) (63 companies)
 
 ### CSS Frameworks
-- [Companies using Tailwind CSS](./leads/companies-using-tailwind-css) (2,413,338 companies)
+- [Companies using Tailwind CSS](./leads/companies-using-tailwind-css) (2,413,339 companies)
 - [Companies using Bootstrap](./leads/companies-using-bootstrap) (5,694 companies)
 - [Companies using Material-UI](./leads/companies-using-material-ui) (23,076 companies)
 - [Companies using Chakra UI](./leads/companies-using-chakra-ui) (2,101 companies)
@@ -374,7 +374,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 ### JavaScript Frameworks
 - [Companies using React](./leads/companies-using-react) (14,668 companies)
 - [Companies using Angular](./leads/companies-using-angular) (56,854 companies)
-- [Companies using Next.js](./leads/companies-using-next.js) (484,548 companies)
+- [Companies using Next.js](./leads/companies-using-next.js) (484,549 companies)
 - [Companies using Nuxt.js](./leads/companies-using-nuxt.js) (154,619 companies)
 - [Companies using jQuery](./leads/companies-using-jquery) (3,189,157 companies)
 - [Companies using Astro](./leads/companies-using-astro) (38,551 companies)
@@ -503,7 +503,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using DailyMotion Video](./leads/companies-using-dailymotion-video) (3,277 companies)
 
 ### Web Fonts & Icons
-- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,892,136 companies)
+- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,892,137 companies)
 - [Companies using Font Awesome](./leads/companies-using-font-awesome) (816,053 companies)
 - [Companies using MyFonts](./leads/companies-using-myfonts) (3,263 companies)
 - [Companies using Fontshare](./leads/companies-using-fontshare) (2,693 companies)
