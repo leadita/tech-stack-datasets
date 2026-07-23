@@ -1,5 +1,50 @@
 [
   {
+    "domain": "wwdcsgroup.com",
+    "title": "Global Security Solutions Provider for Critical Environment",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 32420,
+    "crawled_at": "2026-07-23T03:47:19.968107615Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Elementor",
+      "Elementor Addon Elements",
+      "ElementsKit Elementor",
+      "EmbedPress",
+      "Essential Addons for Elementor",
+      "Fireblade",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "HappyAddons",
+      "Header, Footer and Blocks for Elementor",
+      "Line2",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PHP",
+      "PrestaShop",
+      "Prime Slide for Elementor",
+      "QUIC",
+      "QuadMenu",
+      "Royal Elementor Addons",
+      "Sitelinks Search Box",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "bflow.tech",
     "title": "bflow.tech",
     "business_name": "",
@@ -15369,30 +15414,6 @@
       "Vercel",
       "Visual Studio",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "michal-andrys.pl",
-    "title": "Michał Andrys - Graphic Designer",
-    "business_name": "",
-    "country": "POL",
-    "seo_score": 80,
-    "tech_spend": 527,
-    "crawled_at": "2026-05-25T12:44:27.067860287Z",
-    "technologies": [
-      "BootstrapMade",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "PHP",
-      "PrestaShop",
-      "QUIC",
-      "Tailwind CSS",
-      "YouTube"
     ]
   }
 ]
