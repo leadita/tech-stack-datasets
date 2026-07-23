@@ -376,7 +376,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Angular](./leads/companies-using-angular) (56,854 companies)
 - [Companies using Next.js](./leads/companies-using-next.js) (484,548 companies)
 - [Companies using Nuxt.js](./leads/companies-using-nuxt.js) (154,619 companies)
-- [Companies using jQuery](./leads/companies-using-jquery) (3,189,154 companies)
+- [Companies using jQuery](./leads/companies-using-jquery) (3,189,155 companies)
 - [Companies using Astro](./leads/companies-using-astro) (38,551 companies)
 
 ### Lead Generation
