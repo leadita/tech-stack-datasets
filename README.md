@@ -184,7 +184,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Termly](./leads/companies-using-termly) (9,190 companies)
 
 ### Content Delivery Networks (CDN)
-- [Companies using Cloudflare](./leads/companies-using-cloudflare) (2,379,264 companies)
+- [Companies using Cloudflare](./leads/companies-using-cloudflare) (2,379,265 companies)
 - [Companies using Akamai](./leads/companies-using-akamai) (6,714 companies)
 - [Companies using Fastly](./leads/companies-using-fastly) (1,901,146 companies)
 - [Companies using Amazon CloudFront](./leads/companies-using-amazon-cloudfront) (519,830 companies)
@@ -192,7 +192,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using StackPath](./leads/companies-using-stackpath) (64,671 companies)
 - [Companies using BunnyCDN](./leads/companies-using-bunnycdn) (52,977 companies)
 - [Companies using KeyCDN](./leads/companies-using-keycdn) (17,339 companies)
-- [Companies using jsDelivr](./leads/companies-using-jsdelivr) (629,772 companies)
+- [Companies using jsDelivr](./leads/companies-using-jsdelivr) (629,773 companies)
 - [Companies using CacheFly](./leads/companies-using-cachefly) (185 companies)
 
 ### Conversion Tracking & Retargeting
@@ -395,7 +395,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Netcore](./leads/companies-using-netcore) (13 companies)
 
 ### Monitoring & Logging
-- [Companies using New Relic](./leads/companies-using-new-relic) (32,046 companies)
+- [Companies using New Relic](./leads/companies-using-new-relic) (32,045 companies)
 - [Companies using LogRocket](./leads/companies-using-logrocket) (565 companies)
 - [Companies using Grafana](./leads/companies-using-grafana) (92 companies)
 - [Companies using Better Stack](./leads/companies-using-better-stack) (182 companies)
