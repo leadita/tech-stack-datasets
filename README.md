@@ -406,7 +406,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Givebutter](./leads/companies-using-givebutter) (9,223 companies)
 - [Companies using Donorbox](./leads/companies-using-donorbox) (5,077 companies)
 - [Companies using Kindful](./leads/companies-using-kindful) (1,145 companies)
-- [Companies using GoFundMe](./leads/companies-using-gofundme) (5,486 companies)
+- [Companies using GoFundMe](./leads/companies-using-gofundme) (5,485 companies)
 
 ### Performance Optimization
 - [Companies using EWWW Image Optimizer](./leads/companies-using-ewww-image-optimizer) (16,304 companies)
