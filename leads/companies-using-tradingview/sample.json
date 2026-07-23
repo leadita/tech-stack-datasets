@@ -1,5 +1,27 @@
 [
   {
+    "domain": "magnate-fx.com",
+    "title": "MagnateFx LTD",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 3311,
+    "crawled_at": "2026-07-23T09:26:19.967965116Z",
+    "technologies": [
+      "Apache",
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "GZIP Module",
+      "IcoMoon",
+      "PHP",
+      "Tailwind CSS",
+      "TradingView",
+      "UTF-8",
+      "Wangsu"
+    ]
+  },
+  {
     "domain": "mco.world",
     "title": "MCO Community | 1 Month Free Access",
     "business_name": "",
@@ -15421,37 +15443,6 @@
       "WordPress Multisite",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "tarexplus.click",
-    "title": "Tarex Plus",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 18632,
-    "crawled_at": "2026-05-28T13:40:19.43618903Z",
-    "technologies": [
-      "App Store",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coming Soon Page",
-      "ElementUI",
-      "Financial Services Guide",
-      "Fireblade",
-      "Gambling Content",
-      "GetButton.io",
-      "Google My Business",
-      "Google Play",
-      "LiteSpeed",
-      "QUIC",
-      "SmartSupp",
-      "TradingView",
-      "Trustpilot Reviews for WordPress",
-      "UTF-8",
-      "University or College",
-      "YouTube"
     ]
   }
 ]

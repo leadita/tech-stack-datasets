@@ -298,7 +298,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using LifterLMS](./leads/companies-using-lifterlms) (543 companies)
 
 ### Email Marketing
-- [Companies using MailChimp](./leads/companies-using-mailchimp) (115,340 companies)
+- [Companies using MailChimp](./leads/companies-using-mailchimp) (115,341 companies)
 - [Companies using Klaviyo](./leads/companies-using-klaviyo) (83,660 companies)
 - [Companies using Constant Contact](./leads/companies-using-constant-contact) (50,794 companies)
 - [Companies using ConvertKit](./leads/companies-using-convertkit) (6,361 companies)
