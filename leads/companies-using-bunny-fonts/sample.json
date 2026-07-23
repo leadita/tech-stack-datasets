@@ -1,5 +1,57 @@
 [
   {
+    "domain": "amplecareihs.com",
+    "title": "Home – Ample Care In Home Services",
+    "business_name": "Ample Care In Home Services",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 203,
+    "crawled_at": "2026-07-23T16:50:19.968172878Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Bunny Fonts",
+      "Contact Form Plugin",
+      "Content Delivery Network",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Lightweight Grid Columns",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Sucuri Cloudproxy",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "Vimeo",
+      "WhatsApp Sharing",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress PopUp",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "meg-medien.de",
+    "title": "Wir überarbeiten grade unsere Website für dich.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-07-23T12:50:19.968185254Z",
+    "technologies": [
+      "Apache",
+      "Bunny Fonts",
+      "Coming Soon Page",
+      "EmbedPress",
+      "GZIP Module",
+      "UTF-8",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "golfishsoundcountryliving.com",
     "title": "Golfish Coastal Clothing & Jackets for Golfing and Fishing",
     "business_name": "golfish",
@@ -16172,59 +16224,6 @@
       "WordPress Multisite",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "francestiafoe.shop",
-    "title": "Frances Tiafoe Shop ⚡️ Officially Licensed Frances Tiafoe Merch Store",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 87,
-    "tech_spend": 4360,
-    "crawled_at": "2026-06-09T13:34:58.530923024Z",
-    "technologies": [
-      "Bunny Fonts",
-      "BunnyCDN",
-      "BunnyCDN General",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "aimtrailerrentals.com",
-    "title": "AIM Rentals",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 22304,
-    "crawled_at": "2026-06-09T13:34:58.52046099Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Authorize.net",
-      "Bunny Fonts",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "HighLevel",
-      "Nuxt.js",
-      "Subversion",
-      "Thank You",
-      "UTF-8"
     ]
   }
 ]
