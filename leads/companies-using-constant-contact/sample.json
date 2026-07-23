@@ -1,5 +1,51 @@
 [
   {
+    "domain": "aureatesf.com",
+    "title": "Aureate Capital",
+    "business_name": "MC Aureate",
+    "country": "VEN",
+    "seo_score": 67,
+    "tech_spend": 25199,
+    "crawled_at": "2026-07-23T07:17:19.968386811Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apache",
+      "Automattic",
+      "Blog Designer Pack",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Contact Form Plugin",
+      "Creative Mail by Constant Contact",
+      "Elementor",
+      "EmbedPress",
+      "Financial Industry Regulatory Authority",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Jetpack",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PHP",
+      "Schema Plugin",
+      "Slider Revolution",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "eLand",
+      "jQuery",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "trishnethberry.com",
     "title": "Home - Trisha Berry",
     "business_name": "Trisha Berry",
@@ -19578,31 +19624,6 @@
       "YouTube",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "thepassionatehome.com",
-    "title": "The Passionate Home | Carrie Thachuk | Home",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 16104,
-    "crawled_at": "2026-06-10T11:02:45.215417451Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Constant Contact",
-      "Duda",
-      "FormSubmit",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
