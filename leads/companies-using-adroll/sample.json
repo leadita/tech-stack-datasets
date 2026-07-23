@@ -1,5 +1,27 @@
 [
   {
+    "domain": "getamsis.info",
+    "title": "Affordable Insurance for Youth Sports Organizations - Get Amsis",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 15210,
+    "crawled_at": "2026-07-23T09:38:19.969046576Z",
+    "technologies": [
+      "AdRoll",
+      "Alternate Protocol",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Perl",
+      "UTF-8",
+      "Zoho SalesIQ",
+      "Zoho Sites"
+    ]
+  },
+  {
     "domain": "naildepot.ca",
     "title": "Wholesale Nail Salon & Beauty Spa Equipment Supplies - Nail Depot",
     "business_name": "naildepot.ca",
@@ -22251,42 +22273,6 @@
       "Shopify Collabs",
       "UTF-8",
       "hCaptcha",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "prettylittlerugs.com",
-    "title": "Buy Rugs Online | Bohemian, Coastal, Modern Rugs | Pretty Little Rugs",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 42456,
-    "crawled_at": "2026-05-28T18:50:10.348960538Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AdRoll",
-      "Afterpay",
-      "Apture Linking Platform",
-      "Azure Edge",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "Mapp",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Schema Plugin",
-      "Secomapp",
-      "Shopify",
-      "Shopify Collabs",
-      "UTF-8",
-      "hCaptcha",
-      "jQuery",
       "reCAPTCHA"
     ]
   }
