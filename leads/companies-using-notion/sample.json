@@ -1,5 +1,28 @@
 [
   {
+    "domain": "midoo.ai",
+    "title": "The World’s First Agentic AI for Language Learning | Midoo AI",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-07-24T04:56:19.968321458Z",
+    "technologies": [
+      "App Store",
+      "Google Analytics",
+      "Google My Business",
+      "Google Play",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Notion",
+      "Nuxt.js",
+      "OpenResty",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "getactionable.co",
     "title": "Actionable: AI engine to predict and act on customer data",
     "business_name": "Actionable SAS",
@@ -15768,45 +15791,6 @@
       "Vector Internet Services",
       "Yandex Hosting",
       "Zeald"
-    ]
-  },
-  {
-    "domain": "katashe.co",
-    "title": "Katashe Solutions",
-    "business_name": "Katashe Solutions",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 123869,
-    "crawled_at": "2026-05-11T17:46:44.05949675Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Accordion Blocks",
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Contento",
-      "Corporate Governance and Regulatory Compliance",
-      "Discord",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Notion",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "eLand"
     ]
   }
 ]

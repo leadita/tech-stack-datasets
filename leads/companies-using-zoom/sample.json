@@ -1,12 +1,12 @@
 [
   {
-    "domain": "districtmultimedia.com",
+    "domain": "1cityimage.com",
     "title": "Custom Brochures, Corporate Stores & Marketing Solutions | District Publishing",
     "business_name": "District Publishing",
     "country": "USA",
     "seo_score": 77,
     "tech_spend": 36422,
-    "crawled_at": "2026-07-16T12:38:19.969904987Z",
+    "crawled_at": "2026-07-24T09:47:19.968072472Z",
     "technologies": [
       "AWS WAF Challenge",
       "Alternate Protocol",
@@ -16,6 +16,7 @@
       "Cloudflare",
       "Cloudflare CDN",
       "Cloudflare Web Analytics",
+      "Content Delivery Network",
       "Digital Ocean Spaces",
       "DoubleClick Bid Manager",
       "DuracellTomi Google Tag Manager for WordPress",
