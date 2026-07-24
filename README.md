@@ -184,15 +184,15 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Termly](./leads/companies-using-termly) (9,191 companies)
 
 ### Content Delivery Networks (CDN)
-- [Companies using Cloudflare](./leads/companies-using-cloudflare) (2,379,290 companies)
+- [Companies using Cloudflare](./leads/companies-using-cloudflare) (2,379,291 companies)
 - [Companies using Akamai](./leads/companies-using-akamai) (6,714 companies)
-- [Companies using Fastly](./leads/companies-using-fastly) (1,901,147 companies)
+- [Companies using Fastly](./leads/companies-using-fastly) (1,901,148 companies)
 - [Companies using Amazon CloudFront](./leads/companies-using-amazon-cloudfront) (519,838 companies)
 - [Companies using Cloudinary](./leads/companies-using-cloudinary) (43,754 companies)
 - [Companies using StackPath](./leads/companies-using-stackpath) (64,671 companies)
 - [Companies using BunnyCDN](./leads/companies-using-bunnycdn) (52,977 companies)
 - [Companies using KeyCDN](./leads/companies-using-keycdn) (17,338 companies)
-- [Companies using jsDelivr](./leads/companies-using-jsdelivr) (629,778 companies)
+- [Companies using jsDelivr](./leads/companies-using-jsdelivr) (629,779 companies)
 - [Companies using CacheFly](./leads/companies-using-cachefly) (185 companies)
 
 ### Conversion Tracking & Retargeting
@@ -207,7 +207,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 
 ### Customer Relationship Management (CRM)
 - [Companies using Salesforce](./leads/companies-using-salesforce) (15,010 companies)
-- [Companies using Hubspot](./leads/companies-using-hubspot) (97,713 companies)
+- [Companies using Hubspot](./leads/companies-using-hubspot) (97,714 companies)
 - [Companies using Pipedrive](./leads/companies-using-pipedrive) (2,482 companies)
 - [Companies using Zoho CRM](./leads/companies-using-zoho-crm) (1,401 companies)
 - [Companies using Active Campaign](./leads/companies-using-active-campaign) (5,979 companies)
@@ -509,7 +509,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Fontshare](./leads/companies-using-fontshare) (2,693 companies)
 - [Companies using Bunny Fonts](./leads/companies-using-bunny-fonts) (44,665 companies)
 - [Companies using Fontello](./leads/companies-using-fontello) (44,628 companies)
-- [Companies using IcoMoon](./leads/companies-using-icomoon) (1,358,101 companies)
+- [Companies using IcoMoon](./leads/companies-using-icomoon) (1,358,102 companies)
 - [Companies using Material Design Icons](./leads/companies-using-material-design-icons) (25,178 companies)
 
 ### Web Servers
