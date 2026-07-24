@@ -1,5 +1,39 @@
 [
   {
+    "domain": "factoryfreshbjj.com",
+    "title": "Factory Fresh Jiu Jitsu - Langley, British Columbia",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 86208,
+    "crawled_at": "2026-07-24T02:14:19.969045399Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alfright",
+      "Cloudinary",
+      "Facebook Pixel",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Microsoft Azure",
+      "Microsoft Azure Blob Storage",
+      "Microsoft IIS",
+      "Optimizely Recommendations",
+      "UTF-8",
+      "Way",
+      "YouTube",
+      "Zen Planner",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "terrarealcapitalpartners.com",
     "title": "Terra Real Capital Partners | Multifamily Real Estate Syndication",
     "business_name": "",
@@ -16252,38 +16286,6 @@
       "eLand",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "thebeacon.au",
-    "title": "Home | Beacon Church",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 67,
-    "tech_spend": 8840,
-    "crawled_at": "2026-06-09T00:53:17.397388772Z",
-    "technologies": [
-      "Amazon S3 CDN",
-      "Church Center",
-      "Cloudinary",
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Storyblocks",
-      "Styled Components",
-      "UTF-8",
-      "Vercel",
-      "YouTube",
-      "Zope",
-      "eLand"
     ]
   }
 ]

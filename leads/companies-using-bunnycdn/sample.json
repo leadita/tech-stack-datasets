@@ -1,5 +1,41 @@
 [
   {
+    "domain": "livingangelhealthcare.com",
+    "title": "Home - Living Angel Health Care",
+    "business_name": "Living Angel Health Care",
+    "country": "GBR",
+    "seo_score": 67,
+    "tech_spend": 5755,
+    "crawled_at": "2026-07-23T19:44:19.968146134Z",
+    "technologies": [
+      "Alternate Protocol",
+      "BunnyCDN",
+      "BunnyCDN General",
+      "Elementor",
+      "ElementsKit Elementor",
+      "EmbedPress",
+      "FormSubmit",
+      "Hello Elementor",
+      "LiteSpeed",
+      "Metform Elemento",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PHP",
+      "QUIC",
+      "Qi Addons For Elementor",
+      "Slider Revolution",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WooCommerce",
+      "WooCommerce Checkout",
+      "WordPress",
+      "WordPress Multisite",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "talking-balloons.co.uk",
     "title": "Talking Balloons | Balloons | Party Accessories | Est. 1987",
     "business_name": "",
@@ -17522,30 +17558,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "laughingbuddhacbd.co.uk",
-    "title": "Laughing Buddha | Take App",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 235,
-    "crawled_at": "2026-06-09T19:13:36.864288456Z",
-    "technologies": [
-      "Alternate Protocol",
-      "BunnyCDN",
-      "BunnyCDN General",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "ElementUI",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Instagram Follow Button",
-      "Mantine",
-      "Next.js",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
