@@ -1,5 +1,35 @@
 [
   {
+    "domain": "freya.capital",
+    "title": "The smartest way to save and invest - all in one app! | Freya - Your digital wealth manager",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 65,
+    "tech_spend": 15000,
+    "crawled_at": "2026-07-24T00:47:19.968328843Z",
+    "technologies": [
+      "Apache",
+      "App Store",
+      "Bulma",
+      "CDN JS",
+      "CentOS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Drupal",
+      "Fireblade",
+      "Google Analytics",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "OpenSSL",
+      "PHP",
+      "QUIC",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "gahealthybeaches.com",
     "title": "Georgia Healthy Beaches | Department Of Natural Resources Division",
     "business_name": "",
@@ -14572,35 +14602,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "cmce.org.uk",
-    "title": "Homepage | CMCE",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 70,
-    "tech_spend": 16299,
-    "crawled_at": "2026-06-07T07:07:58.045292866Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Corporate Governance and Regulatory Compliance",
-      "DAV",
-      "Drupal",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Newsletter for Wordpress",
-      "Perl",
-      "Pico CSS",
-      "UTF-8",
-      "University or College",
-      "reCAPTCHA"
     ]
   }
 ]
