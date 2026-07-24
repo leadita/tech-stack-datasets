@@ -1,5 +1,43 @@
 [
   {
+    "domain": "hostingx.co.il",
+    "title": "HostingX — DevOps, Cloud & Workflow Automation",
+    "business_name": "HostingX",
+    "country": "PHL",
+    "seo_score": 67,
+    "tech_spend": 42038,
+    "crawled_at": "2026-07-23T17:17:19.968062539Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Content Delivery Network",
+      "Fireblade",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "IcoMoon",
+      "InitiativeS",
+      "Material-UI",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Vector Internet Services"
+    ]
+  },
+  {
     "domain": "pregnancy.com",
     "title": "Pregnancy | BabyCenter",
     "business_name": "BabyCenter",
@@ -15532,38 +15570,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "kmrugank.com",
-    "title": "Mrugank K",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 18346,
-    "crawled_at": "2026-06-07T04:05:19.968507666Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon S3 CDN",
-      "Beacons",
-      "GZIP Module",
-      "Google Cloud",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Linktree",
-      "Material-UI",
-      "Medium",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "PWA",
-      "Storyblocks",
-      "Tailwind CSS",
-      "UTF-8",
-      "Unsplash",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]

@@ -1,5 +1,52 @@
 [
   {
+    "domain": "afcsacramento.org",
+    "title": "Apostolic Faith Church Sacramento",
+    "business_name": "",
+    "country": "",
+    "seo_score": 32,
+    "tech_spend": 3000,
+    "crawled_at": "2026-07-23T21:44:19.968434646Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Google My Business",
+      "Next.js",
+      "QUIC",
+      "Radix UI",
+      "Wangsu",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "swiftaiseo.com",
+    "title": "AEO for Local Businesses & Agencies | Rank in ChatGPT, Gemini, Claude & Perplexity | Swift AI SEO",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 12440,
+    "crawled_at": "2026-07-23T18:11:19.969123227Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Astro",
+      "Clutch",
+      "DAV",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "QUIC",
+      "Radix UI",
+      "Tailwind CSS",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "premierspermbank.dk",
     "title": "Premier Sperm Bank Denmark | Ethical Donor Sperm for Modern Families",
     "business_name": "Premier Sperm Bank",
@@ -13647,46 +13694,6 @@
       "Google Analytics",
       "Google Tag Manager",
       "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Radix UI",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "obeliskapp.io",
-    "title": "Obelisk",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 563,
-    "crawled_at": "2026-06-09T01:29:58.766600372Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "NFOrce Internet",
-      "Radix UI",
-      "Tailwind CSS",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "solaceltd.io",
-    "title": "Solace - Let’s build your future together",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-06-09T01:05:55.578960657Z",
-    "technologies": [
-      "Content Delivery Network",
       "Next.js",
       "Pleroma",
       "Radix UI",
