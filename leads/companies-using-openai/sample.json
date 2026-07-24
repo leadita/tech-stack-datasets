@@ -1,5 +1,28 @@
 [
   {
+    "domain": "csmediaandproduction.in",
+    "title": "CS Media & Production — AI Avatar Engine",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 65,
+    "tech_spend": 50080,
+    "crawled_at": "2026-07-24T09:59:19.968612528Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "ElementUI",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "OpenAI",
+      "QUIC",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vercel",
+      "Vignette OpenText"
+    ]
+  },
+  {
     "domain": "holisticreading.com",
     "title": "Holistic Reading - Gain Clarity, Direction & Purpose",
     "business_name": "",
@@ -19783,43 +19806,6 @@
       "WF Cookie Consent",
       "Weglot",
       "Yahoo Finance Widget"
-    ]
-  },
-  {
-    "domain": "ai-agentsplus.com",
-    "title": "AI Agents Plus | Custom AI Agents & Vibe Coding Agency",
-    "business_name": "AI Agents Plus",
-    "country": "KEN",
-    "seo_score": 77,
-    "tech_spend": 36512,
-    "crawled_at": "2026-05-23T07:51:59.94169973Z",
-    "technologies": [
-      "AI Log",
-      "AWS WAF Challenge",
-      "Calendly",
-      "Content Delivery Network",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Tag Manager",
-      "InitiativeS",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "OpenAI",
-      "Pleroma",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "Vimeo",
-      "YouTube",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]
