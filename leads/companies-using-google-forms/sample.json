@@ -1,5 +1,56 @@
 [
   {
+    "domain": "isidrivingschool.com",
+    "title": "ISI Driving School",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 18312,
+    "crawled_at": "2026-07-24T11:23:19.968436256Z",
+    "technologies": [
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Forms",
+      "Google My Business",
+      "Line2",
+      "PWA",
+      "UTF-8",
+      "University or College",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
+    "domain": "dailytiffin.org",
+    "title": "Daily Tiffin - Healthy Home-Made Tiffin Service | Tiffin Service Near Me | Home Delivery",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 67,
+    "tech_spend": 2947,
+    "crawled_at": "2026-07-24T05:02:19.967983863Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Forms",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Tailwind CSS",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "itsmeet.dev",
     "title": "Meet Shah - Full Stack Lead Engineer",
     "business_name": "",
@@ -16205,58 +16256,6 @@
       "University or College",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "walkbikeworcester.org",
-    "title": "WalkBike Worcester | Helping make walking and rolling better in Worcester, MA",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 647,
-    "crawled_at": "2026-06-11T03:55:30.525946767Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Automattic",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Google Forms",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Nginx",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats"
-    ]
-  },
-  {
-    "domain": "phsmun.com",
-    "title": "PORTOLA MUN – At Portola MUN, we are driven by the belief that every individual has the potential to make a positive impact. Our mission is to shape empathetic, informed, and engaged leaders who will contribute to building a more just and sustainable world.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 50647,
-    "crawled_at": "2026-06-11T03:55:30.517372535Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Automattic",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Google Forms",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Nginx",
-      "SMC",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats"
     ]
   }
 ]
