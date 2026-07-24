@@ -1,5 +1,32 @@
 [
   {
+    "domain": "trinitynaturalhealing.com",
+    "title": "Trinity Natural Healing - Healing for the Entire Being",
+    "business_name": "Trinity Natural Healing",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 2716,
+    "crawled_at": "2026-07-24T05:26:19.968182869Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "EmbedPress",
+      "GoDaddy",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "OneSignal",
+      "PHP",
+      "Sucuri Cloudproxy",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "marketmilestone.in",
     "title": "Home | marketmilestone.in",
     "business_name": "",
@@ -20703,42 +20730,6 @@
       "eLand",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "namasteflavours.com",
-    "title": "Namaste Flavours – Best Indian Restaurant in Farmington",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 228,
-    "crawled_at": "2026-05-20T11:41:22.56538673Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "OneSignal",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Visual Studio",
-      "reCAPTCHA"
     ]
   }
 ]
