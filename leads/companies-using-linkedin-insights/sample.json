@@ -1,5 +1,33 @@
 [
   {
+    "domain": "phobos-blockchain.com",
+    "title": "Phobos | Bitcoin Advies & Betalingen BE/NL",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 22539,
+    "crawled_at": "2026-07-24T14:17:19.967706892Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Blockchain",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Corporate Governance and Regulatory Compliance",
+      "Fireblade",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "LinkedIn Insights",
+      "LinkedIn Pixel",
+      "LiteSpeed",
+      "TradingView",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "rosecp.co.uk",
     "title": "London Mortgage Broker — Complex Income Specialists | Rose Capital Partners",
     "business_name": "RCP Mortgages",
@@ -20963,35 +20991,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "localgovernmentshow.com.au",
-    "title": "Local Government Show | Quest Events",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 44328,
-    "crawled_at": "2026-06-09T19:23:19.969800926Z",
-    "technologies": [
-      "AdRoll",
-      "Apache",
-      "Drupal",
-      "Financial Services Guide",
-      "GZIP Module",
-      "HubSpot Conversations",
-      "Hubspot",
-      "LinkedIn Insights",
-      "PHP",
-      "Pardot",
-      "QUIC",
-      "Show.co",
-      "Subversion",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Ubuntu",
-      "jQuery"
     ]
   }
 ]
