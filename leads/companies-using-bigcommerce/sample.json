@@ -1,5 +1,32 @@
 [
   {
+    "domain": "kcgifts.net",
+    "title": "Killorglin Creations",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 32236,
+    "crawled_at": "2026-07-24T15:02:19.968570456Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apps4BigCommerce",
+      "BigCommerce",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "Fireblade",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "Privy",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "naildepot.ca",
     "title": "Wholesale Nail Salon & Beauty Spa Equipment Supplies - Nail Depot",
     "business_name": "naildepot.ca",
@@ -19226,42 +19253,6 @@
       "Typeform",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "unionvilleappliance.com",
-    "title": "Home | Unionville Appliance",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 82,
-    "tech_spend": 20323,
-    "crawled_at": "2026-05-19T15:15:32.051655486Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Alternate Protocol",
-      "Apps4BigCommerce",
-      "BigCommerce",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coming Soon Page",
-      "Express",
-      "Fireblade",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress",
-      "jQuery"
     ]
   }
 ]

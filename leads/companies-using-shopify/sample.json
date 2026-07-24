@@ -1,5 +1,26 @@
 [
   {
+    "domain": "khaascollection.store",
+    "title": "Khaas Collection | Premium Fashion in Pakistan",
+    "business_name": "",
+    "country": "PAK",
+    "seo_score": 72,
+    "tech_spend": 1272,
+    "crawled_at": "2026-07-24T01:08:19.968034275Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Express",
+      "Instagram Follow Button",
+      "Next.js",
+      "Shopify",
+      "Shopify Collabs",
+      "UTF-8",
+      "Unsplash",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "finnmarksauna.shop",
     "title": "Home Saunas UK | Premium Indoor & Outdoor Saunas | Finnmark | Finnmark",
     "business_name": "",
@@ -16640,47 +16661,6 @@
       "UTF-8",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "openflamecoffee.com",
-    "title": "A Better Cup of Coffee",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 3948,
-    "crawled_at": "2026-06-21T09:38:19.972513475Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Flatsome",
-      "GoDaddy",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Line2",
-      "PHP",
-      "QUIC",
-      "Shopify",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
