@@ -1,5 +1,33 @@
 [
   {
+    "domain": "phobos-blockchain.com",
+    "title": "Phobos | Bitcoin Advies & Betalingen BE/NL",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 22539,
+    "crawled_at": "2026-07-24T14:17:19.967706892Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Blockchain",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Corporate Governance and Regulatory Compliance",
+      "Fireblade",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "LinkedIn Insights",
+      "LinkedIn Pixel",
+      "LiteSpeed",
+      "TradingView",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "magnate-fx.com",
     "title": "MagnateFx LTD",
     "business_name": "",
@@ -15405,44 +15433,6 @@
       "TradingView",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "lighthousessi.com",
-    "title": "Home - Lighthouse Financial Advisors",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 75,
-    "tech_spend": 20366,
-    "crawled_at": "2026-05-28T15:07:39.055584001Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Content Delivery Network",
-      "DAV",
-      "Divi",
-      "Elegant Themes",
-      "EmbedPress",
-      "Financial Industry Regulatory Authority",
-      "Fireblade",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Perl",
-      "Theme In WP",
-      "TradingView",
-      "UTF-8",
-      "WP Engine",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
