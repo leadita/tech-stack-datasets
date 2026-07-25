@@ -1,5 +1,42 @@
 [
   {
+    "domain": "cliffcanan.info",
+    "title": "Cliff Canan | Fintech Entrepreneur & Web Developer",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 22730,
+    "crawled_at": "2026-07-24T21:35:19.968385994Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "AWS WAF Challenge",
+      "Apache",
+      "Apple Auto Link Maker",
+      "Apture Linking Platform",
+      "Better Lead Generation Services",
+      "Coming Soon Page",
+      "Font Awesome",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "Prospective",
+      "QUIC",
+      "Schema Plugin",
+      "Tailwind CSS",
+      "Telegram",
+      "Twitter Ads",
+      "University or College",
+      "Yelp Badge",
+      "YouTube",
+      "about.me",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "sergeikulnev.com",
     "title": "Serge Kulnev — DevOps, SysAdmin & SRE | Austin TX",
     "business_name": "",
@@ -15942,35 +15979,6 @@
       "Yandex Hosting",
       "Yandex Metrika",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "giftcardgalaxies.com",
-    "title": "Home - Giftcardgalaxies.com",
-    "business_name": "",
-    "country": "IMN",
-    "seo_score": 77,
-    "tech_spend": 3263,
-    "crawled_at": "2026-06-19T03:44:19.969154331Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ClickOn",
-      "Cloudflare",
-      "Cornerstone",
-      "Elementor",
-      "ElementsKit Elementor",
-      "Express",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Telegram",
-      "UTF-8",
-      "WPForms",
-      "Woo Themes",
-      "jQuery"
     ]
   }
 ]
