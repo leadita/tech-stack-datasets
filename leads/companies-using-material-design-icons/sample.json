@@ -1,5 +1,33 @@
 [
   {
+    "domain": "wintkd.com",
+    "title": "WIN TKD",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 687,
+    "crawled_at": "2026-07-25T11:17:19.968659348Z",
+    "technologies": [
+      "Apache",
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Material Design Icons",
+      "Oddle",
+      "PHP",
+      "PayPal",
+      "Placehold IT",
+      "Tailwind CSS",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "WoWonder"
+    ]
+  },
+  {
     "domain": "wvrecycles.com",
     "title": "Home - Recycling Coalition of West Virginia, Inc.",
     "business_name": "",
@@ -16095,32 +16123,6 @@
       "UTF-8",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "afltd.co.nz",
-    "title": "Advanced Foundations Ltd - Expert Foundation Solutions.",
-    "business_name": "Advanced Foundations Limited",
-    "country": "NZL",
-    "seo_score": 82,
-    "tech_spend": 364,
-    "crawled_at": "2026-06-07T18:24:45.155868397Z",
-    "technologies": [
-      "Adult Content",
-      "Bulma",
-      "Content Delivery Network",
-      "FormSubmit",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Material Design Icons",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
