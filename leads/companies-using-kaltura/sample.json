@@ -1,5 +1,35 @@
 [
   {
+    "domain": "marketplacee.com.br",
+    "title": "Used Heavy Equipment for Sale | Heavy Equipment Auctions | Ritchie Bros. Auctioneers",
+    "business_name": "",
+    "country": "JPN",
+    "seo_score": 72,
+    "tech_spend": 182140,
+    "crawled_at": "2026-07-25T00:26:19.969125745Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "BloomReach",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Maps",
+      "Google Related Website Sites",
+      "Kaltura",
+      "Line2",
+      "Optimizely Recommendations",
+      "PWA",
+      "Perl",
+      "Pleroma",
+      "QUIC",
+      "Smart App Banner",
+      "Trustarc Cookie Consent",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "gsitympstarpro.com",
     "title": "Grason-Stadler | Worldwide Leader in Audiometric Devices",
     "business_name": "",
