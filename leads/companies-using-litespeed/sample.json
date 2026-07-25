@@ -1,5 +1,21 @@
 [
   {
+    "domain": "sternconsultingcorp.com",
+    "title": "Stern Consulting Corp. | Image Consultant",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 63,
+    "crawled_at": "2026-07-25T23:20:19.96785457Z",
+    "technologies": [
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "revcoresolutions.com",
     "title": "Revcore – Driving Revenue. Building Futures.",
     "business_name": "",
@@ -15155,37 +15171,6 @@
       "WordPress Multisite",
       "WordPress Stats",
       "XTemos Studio",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "lksport.com.my",
-    "title": "LK Sport - Custom Made T-Shirt, Corporate Shirt, Apron & Track Suit",
-    "business_name": "LK Sport (M) Sdn Bhd",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2775,
-    "crawled_at": "2026-07-16T04:05:19.974102231Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Elementor",
-      "ElementsKit Elementor",
-      "EmbedPress",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "WordPress",
-      "WordPress Multisite",
       "jQuery"
     ]
   }
