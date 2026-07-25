@@ -1,5 +1,46 @@
 [
   {
+    "domain": "amikabeauty.shop",
+    "title": "professional haircare and tools for your hair typeamika",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 8961,
+    "crawled_at": "2026-07-25T02:05:19.968278018Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Astra Theme",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "Fastly",
+      "Fireblade",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Jetpack",
+      "NFOrce Internet",
+      "Nginx",
+      "PHP",
+      "QUIC",
+      "Sanity",
+      "Shipping Rates Calculator",
+      "Shopify",
+      "Shopify Collabs",
+      "Side Cart Woocommerce",
+      "Tailwind CSS",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WooCommerce",
+      "WooCommerce Checkout",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Related Posts",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "khaascollection.store",
     "title": "Khaas Collection | Premium Fashion in Pakistan",
     "business_name": "",
@@ -16639,28 +16680,6 @@
       "Umbler",
       "eLand",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "lenspray.com",
-    "title": "Lenspray Australia - For Crystal Clear Lenses",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 77,
-    "tech_spend": 3336,
-    "crawled_at": "2026-06-21T10:14:19.97408709Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   }
 ]
