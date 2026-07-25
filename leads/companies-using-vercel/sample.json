@@ -1,5 +1,28 @@
 [
   {
+    "domain": "bysonar.com",
+    "title": "Sonar — Every brand has a signal",
+    "business_name": "",
+    "country": "HUN",
+    "seo_score": 72,
+    "tech_spend": 22680,
+    "crawled_at": "2026-07-24T14:35:19.967640153Z",
+    "technologies": [
+      "Adult Content",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "Waveform Technology"
+    ]
+  },
+  {
     "domain": "csmediaandproduction.in",
     "title": "CS Media & Production — AI Avatar Engine",
     "business_name": "",
@@ -11876,28 +11899,6 @@
       "University or College",
       "Unsplash",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "colorwhitecosmetics.com",
-    "title": "Color White Beauty | Premium Skincare Collection",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 15240,
-    "crawled_at": "2026-07-10T06:05:19.974837374Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Next.js",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]

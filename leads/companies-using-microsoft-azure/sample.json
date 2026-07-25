@@ -1,5 +1,32 @@
 [
   {
+    "domain": "embeddico.com",
+    "title": "EMBEDDICO - Deeply embedded, widely connected",
+    "business_name": "Embeddico",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 73270,
+    "crawled_at": "2026-07-25T04:59:19.968358865Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Blazor",
+      "Bulma",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "KVH",
+      "Microdata for Google Shopping",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "No-Q",
+      "SMC",
+      "UTF-8",
+      "Visual Studio",
+      "Zope"
+    ]
+  },
+  {
     "domain": "kearneys.com",
     "title": "Kearney's Electrical - Euronics Retailer - Northern Ireland",
     "business_name": "Kearney&#039;s Euronics",
@@ -13920,38 +13947,6 @@
       "Parallels Plesk Panel",
       "Subversion",
       "Visual Studio"
-    ]
-  },
-  {
-    "domain": "pennyburncreditunion.co.uk",
-    "title": "Pennyburn Credit Union Ltd.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 558,
-    "crawled_at": "2026-07-03T16:53:19.970519903Z",
-    "technologies": [
-      "ElementUI",
-      "Express",
-      "Facebook Login",
-      "Facebook Reseller",
-      "Font Awesome",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "HostGator",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Parallels Plesk Panel",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "Visual Studio",
-      "jsDelivr"
     ]
   }
 ]

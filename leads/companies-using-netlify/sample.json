@@ -1,5 +1,112 @@
 [
   {
+    "domain": "growthnomy.co",
+    "title": "Growthnomy — Strategy. Systems. Impact.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 2059,
+    "crawled_at": "2026-07-25T07:35:19.967915099Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Netlify",
+      "RM Education",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "ronakjethwa.xyz",
+    "title": "Ronak Jethwa",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 67,
+    "tech_spend": 5728,
+    "crawled_at": "2026-07-25T06:02:19.968003525Z",
+    "technologies": [
+      "Amazon Widgets",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "Envoy",
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Netlify",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "overheadmaster.ca",
+    "title": "Overhead Master Garage Door Service · Repair, Install & Openers",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 82,
+    "tech_spend": 2668,
+    "crawled_at": "2026-07-24T23:05:19.968272225Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Better Lead Generation Services",
+      "Content Delivery Network",
+      "DAV",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "sippinwitm.com",
+    "title": "Sippin Wit M | Bartending Services",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 84,
+    "crawled_at": "2026-07-24T22:50:19.968583761Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Instagram Follow Button",
+      "Netlify",
+      "QUIC",
+      "Thank You",
+      "UTF-8",
+      "Unsplash"
+    ]
+  },
+  {
+    "domain": "echelon.institute",
+    "title": "Echelon Institute - White-Label Education Platform for Organizations",
+    "business_name": "Echelon Institute",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 2868,
+    "crawled_at": "2026-07-24T22:20:19.968665293Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Content Delivery Network",
+      "Express",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Interchange",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "Netlify",
+      "UTF-8",
+      "Umbler",
+      "University or College"
+    ]
+  },
+  {
     "domain": "eureventures.com",
     "title": "Eure Ventures | AI On Autopilot",
     "business_name": "",
@@ -11320,128 +11427,6 @@
       "Netlify",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "biplow-bisen.com",
-    "title": "Biplow Bisen | RevOps Architect for B2B SaaS",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 155268,
-    "crawled_at": "2026-06-28T03:38:19.967647873Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apollo IO",
-      "Apture Linking Platform",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "CookieYes",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Netlify",
-      "Salesforce Hosted",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "wanted.international",
-    "title": "W.I.N — Wanted International Network",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 70,
-    "tech_spend": 16936,
-    "crawled_at": "2026-06-28T02:47:19.969849623Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Turnstile",
-      "Content Delivery Network",
-      "DAV",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "bernik.com",
-    "title": "Joe Bernik — Cybersecurity & Risk Executive",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 72896,
-    "crawled_at": "2026-06-28T01:35:19.970013755Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Corporate Governance and Regulatory Compliance",
-      "Fireblade",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Netlify Forms",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vignette OpenText"
-    ]
-  },
-  {
-    "domain": "thecookieedit.com",
-    "title": "The Cookie Edit",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 201,
-    "crawled_at": "2026-06-27T23:23:19.969012868Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Netlify",
-      "No-Q",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "iitdeveloper.com",
-    "title": "Premium Web Development, AI Solutions & DevOps | IITDeveloper",
-    "business_name": "IITDeveloper",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 155948,
-    "crawled_at": "2026-06-27T20:41:19.969149637Z",
-    "technologies": [
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "Salesforce Hosted",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
