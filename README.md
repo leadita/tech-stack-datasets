@@ -41,7 +41,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using PayPal](./leads/companies-using-paypal) (71,742 companies)
 - [Companies using Adyen](./leads/companies-using-adyen) (242 companies)
 - [Companies using Braintree](./leads/companies-using-braintree) (2,965 companies)
-- [Companies using Authorize.net](./leads/companies-using-authorize.net) (122,387 companies)
+- [Companies using Authorize.net](./leads/companies-using-authorize.net) (122,388 companies)
 - [Companies using Klarna](./leads/companies-using-klarna) (5,787 companies)
 - [Companies using Affirm](./leads/companies-using-affirm) (2,869 companies)
 - [Companies using Afterpay](./leads/companies-using-afterpay) (6,487 companies)
@@ -145,7 +145,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 
 ### Cloud Providers
 - [Companies using Amazon](./leads/companies-using-amazon) (2,376,507 companies)
-- [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,349,885 companies)
+- [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,349,886 companies)
 - [Companies using Microsoft Azure](./leads/companies-using-microsoft-azure) (139,306 companies)
 - [Companies using Heroku](./leads/companies-using-heroku) (44,140 companies)
 - [Companies using Netlify](./leads/companies-using-netlify) (131,141 companies)
@@ -184,7 +184,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Termly](./leads/companies-using-termly) (9,191 companies)
 
 ### Content Delivery Networks (CDN)
-- [Companies using Cloudflare](./leads/companies-using-cloudflare) (2,379,301 companies)
+- [Companies using Cloudflare](./leads/companies-using-cloudflare) (2,379,302 companies)
 - [Companies using Akamai](./leads/companies-using-akamai) (6,714 companies)
 - [Companies using Fastly](./leads/companies-using-fastly) (1,901,153 companies)
 - [Companies using Amazon CloudFront](./leads/companies-using-amazon-cloudfront) (519,844 companies)
@@ -196,7 +196,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using CacheFly](./leads/companies-using-cachefly) (185 companies)
 
 ### Conversion Tracking & Retargeting
-- [Companies using Facebook Pixel](./leads/companies-using-facebook-pixel) (429,627 companies)
+- [Companies using Facebook Pixel](./leads/companies-using-facebook-pixel) (429,628 companies)
 - [Companies using LinkedIn Insights](./leads/companies-using-linkedin-insights) (46,865 companies)
 - [Companies using TikTok Conversion Tracking Pixel](./leads/companies-using-tiktok-conversion-tracking-pixel) (18,065 companies)
 - [Companies using Pinterest Conversion Tracking](./leads/companies-using-pinterest-conversion-tracking) (11,331 companies)
@@ -375,7 +375,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using React](./leads/companies-using-react) (14,667 companies)
 - [Companies using Angular](./leads/companies-using-angular) (56,855 companies)
 - [Companies using Next.js](./leads/companies-using-next.js) (484,559 companies)
-- [Companies using Nuxt.js](./leads/companies-using-nuxt.js) (154,620 companies)
+- [Companies using Nuxt.js](./leads/companies-using-nuxt.js) (154,621 companies)
 - [Companies using jQuery](./leads/companies-using-jquery) (3,189,199 companies)
 - [Companies using Astro](./leads/companies-using-astro) (38,553 companies)
 
@@ -503,7 +503,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using DailyMotion Video](./leads/companies-using-dailymotion-video) (3,277 companies)
 
 ### Web Fonts & Icons
-- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,892,223 companies)
+- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,892,224 companies)
 - [Companies using Font Awesome](./leads/companies-using-font-awesome) (816,061 companies)
 - [Companies using MyFonts](./leads/companies-using-myfonts) (3,263 companies)
 - [Companies using Fontshare](./leads/companies-using-fontshare) (2,693 companies)
