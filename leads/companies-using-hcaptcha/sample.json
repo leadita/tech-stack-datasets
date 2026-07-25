@@ -1,5 +1,20 @@
 [
   {
+    "domain": "gabler-mietpark.de",
+    "title": "Gabler - Mietpark, Baggerbetrieb",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-07-25T06:02:19.968325521Z",
+    "technologies": [
+      "Astro",
+      "Google Maps",
+      "Google My Business",
+      "hCaptcha"
+    ]
+  },
+  {
     "domain": "nwminnesotahomes.com",
     "title": "NW Minnesota Homes",
     "business_name": "",
@@ -17063,38 +17078,6 @@
       "WordPress Multisite",
       "hCaptcha",
       "jQuery",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "urbanzay.com",
-    "title": "Urban Zay",
-    "business_name": "",
-    "country": "PAK",
-    "seo_score": 65,
-    "tech_spend": 20776,
-    "crawled_at": "2026-06-20T02:50:19.971252853Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "ByteDance",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Fireblade",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Schema Plugin",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "TikTok Conversion Tracking Pixel",
-      "UTF-8",
-      "hCaptcha",
       "reCAPTCHA"
     ]
   }
