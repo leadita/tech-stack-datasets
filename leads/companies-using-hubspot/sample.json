@@ -1,5 +1,25 @@
 [
   {
+    "domain": "zenith-gp.co",
+    "title": "Zenith Growth Partners",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 28668,
+    "crawled_at": "2026-07-24T19:05:19.968085675Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Fastly",
+      "Hubspot Knowledge Base",
+      "IcoMoon",
+      "QUIC",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "breasafaris.com",
     "title": "Brea Tours & Safaris | Best Tour Operator in Tanzania",
     "business_name": "Brea Tours & Safaris",
@@ -20294,50 +20314,6 @@
       "UTF-8",
       "WF Cookie Consent",
       "eClinicalWorks"
-    ]
-  },
-  {
-    "domain": "nordicshape.nl",
-    "title": "Domain parked at Abion - Abion",
-    "business_name": "Abion",
-    "country": "SWE",
-    "seo_score": 70,
-    "tech_spend": 38970,
-    "crawled_at": "2026-06-15T20:32:19.968533733Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apache",
-      "Apture Linking Platform",
-      "DoubleClick Bid Manager",
-      "EmbedPress",
-      "Facebook Reseller",
-      "Fireblade",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Hotjar",
-      "HubSpot WordPress Plugin",
-      "Hubspot",
-      "Instagram Follow Button",
-      "Lazy Load for WordPress",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "Norton Site Seal",
-      "PHP",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "WP Rocket",
-      "WPML Multilingual",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
