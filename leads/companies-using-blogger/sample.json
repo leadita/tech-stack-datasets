@@ -1,5 +1,35 @@
 [
   {
+    "domain": "scoutingtrails.com",
+    "title": "Scouting Trails",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 19206,
+    "crawled_at": "2026-07-26T07:26:19.968952745Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon Widgets",
+      "Automattic",
+      "Blogger",
+      "DAV",
+      "Express",
+      "GZIP Module",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Reseller",
+      "Netvibes",
+      "Ntent",
+      "PayPal Adaptive Payments",
+      "PayPal Button",
+      "PayPal Form",
+      "Shockwave Flash Embed",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "medicalcoding123.com",
     "title": "Medical Coding",
     "business_name": "",
@@ -15158,31 +15188,6 @@
       "Ntent",
       "UTF-8",
       "Yandex Hosting"
-    ]
-  },
-  {
-    "domain": "spekoo.live",
-    "title": "Spekoo",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 26603,
-    "crawled_at": "2026-05-18T22:04:33.28372768Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Blogger",
-      "ETranslate",
-      "GTranslate",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "Google Recommendations AI",
-      "Ntent",
-      "ON24",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
