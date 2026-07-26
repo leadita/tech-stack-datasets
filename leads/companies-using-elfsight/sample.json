@@ -1,5 +1,34 @@
 [
   {
+    "domain": "danielgaleypn.com",
+    "title": "Join the Young Professionals Network in Real Estate",
+    "business_name": "Daniel Gale YPN",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 18672,
+    "crawled_at": "2026-07-26T18:11:19.968578221Z",
+    "technologies": [
+      "Apache",
+      "Elfsight",
+      "Express",
+      "GoDaddy",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Harbor",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "PWA",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "ampedplumbing.com",
     "title": "Plumbing, HVAC & Security Services | Amped Home Services",
     "business_name": "Amped Home Services",
@@ -17124,43 +17153,6 @@
       "WordPress Multisite",
       "jQuery",
       "jsDelivr",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "brentech-inc.com",
-    "title": "BrenTech - San Diego IT Support & Managed Network Solutions",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 18348,
-    "crawled_at": "2026-06-12T18:08:19.979565134Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Apache",
-      "Better Lead Generation Services",
-      "Contact Form Plugin",
-      "Elementor",
-      "Elfsight",
-      "EmbedPress",
-      "Fireblade",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Header, Footer and Blocks for Elementor",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "jQuery",
       "reCAPTCHA"
     ]
   }
