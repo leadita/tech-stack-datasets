@@ -1,5 +1,35 @@
 [
   {
+    "domain": "sharespacecarpool.com",
+    "title": "ShareSpace Carpool - AI-Powered Carpool Assistant | Save $300/month on Commutes",
+    "business_name": "Share Space Technologies L.L.C",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 4240,
+    "crawled_at": "2026-07-26T10:20:19.968775992Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "App Store",
+      "ElementUI",
+      "Firebase",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "PHP",
+      "QUIC",
+      "UTF-8",
+      "Verified Profile"
+    ]
+  },
+  {
     "domain": "service.net.in",
     "title": "ALLINDIATECHNICAL SERVICE SULZER | Textile Machinery Spare Parts & Accessories Bhilwara",
     "business_name": "",
@@ -16338,31 +16368,6 @@
       "Microdata for Google Shopping",
       "The Fresh",
       "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "parkerowen.com",
-    "title": "Parker Owen | Baseball Prospect",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 6600,
-    "crawled_at": "2026-05-25T20:11:19.935115591Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "Firebase",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "UTF-8",
-      "University or College",
       "YouTube"
     ]
   }
