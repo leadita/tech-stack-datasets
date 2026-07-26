@@ -72,7 +72,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Refersion](./leads/companies-using-refersion) (1,308 companies)
 
 ### Analytics
-- [Companies using Google Analytics](./leads/companies-using-google-analytics) (2,912,072 companies)
+- [Companies using Google Analytics](./leads/companies-using-google-analytics) (2,912,073 companies)
 - [Companies using Mixpanel](./leads/companies-using-mixpanel) (7,719 companies)
 - [Companies using Amplitude](./leads/companies-using-amplitude) (7,707 companies)
 - [Companies using Heap](./leads/companies-using-heap) (2,451 companies)
@@ -216,7 +216,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using CapsuleCRM](./leads/companies-using-capsulecrm) (63 companies)
 
 ### CSS Frameworks
-- [Companies using Tailwind CSS](./leads/companies-using-tailwind-css) (2,413,398 companies)
+- [Companies using Tailwind CSS](./leads/companies-using-tailwind-css) (2,413,399 companies)
 - [Companies using Bootstrap](./leads/companies-using-bootstrap) (5,694 companies)
 - [Companies using Material-UI](./leads/companies-using-material-ui) (23,079 companies)
 - [Companies using Chakra UI](./leads/companies-using-chakra-ui) (2,101 companies)
@@ -376,7 +376,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Angular](./leads/companies-using-angular) (56,855 companies)
 - [Companies using Next.js](./leads/companies-using-next.js) (484,567 companies)
 - [Companies using Nuxt.js](./leads/companies-using-nuxt.js) (154,621 companies)
-- [Companies using jQuery](./leads/companies-using-jquery) (3,189,209 companies)
+- [Companies using jQuery](./leads/companies-using-jquery) (3,189,210 companies)
 - [Companies using Astro](./leads/companies-using-astro) (38,553 companies)
 
 ### Lead Generation
