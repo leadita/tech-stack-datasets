@@ -1,5 +1,56 @@
 [
   {
+    "domain": "bulldogjunkco.com",
+    "title": "Bulldog Junk Co | Junk Removal in Ruskin, FL",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 15195,
+    "crawled_at": "2026-07-26T12:17:19.967818222Z",
+    "technologies": [
+      "Apache",
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Font Awesome",
+      "FormSubmit",
+      "GZIP Module",
+      "QUIC",
+      "Wangsu",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "czerwin.net",
+    "title": "czerwin — Web Developer for Business Owners",
+    "business_name": "",
+    "country": "PHL",
+    "seo_score": 77,
+    "tech_spend": 19840,
+    "crawled_at": "2026-07-26T11:05:19.968457171Z",
+    "technologies": [
+      "Better Lead Generation Services",
+      "Bulma",
+      "Content Delivery Network",
+      "Fastly",
+      "Fireblade",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "wintkd.com",
     "title": "WIN TKD",
     "business_name": "",
@@ -13844,64 +13895,6 @@
       "QUIC",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "carewithoutcarbon.info",
-    "title": "Care Without Carbon. Working towards a greener, Net Zero Carbon NHS",
-    "business_name": "Care Without Carbon",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 18650,
-    "crawled_at": "2026-07-11T13:44:19.968583746Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Apache",
-      "Bulma",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Envoy",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "InitiativeS",
-      "Joomla!",
-      "Microdata for Google Shopping",
-      "Perl",
-      "RokNavMenu",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "jQuery",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "modernsaraprojects.com",
-    "title": "Modern Sara Projects",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 50,
-    "tech_spend": 5156,
-    "crawled_at": "2026-07-11T13:35:19.968544702Z",
-    "technologies": [
-      "Bulma",
-      "DAV",
-      "Endis",
-      "Google My Business",
-      "IcoMoon",
-      "LiteSpeed",
-      "QUIC",
-      "Tailwind CSS",
-      "jQuery"
     ]
   }
 ]

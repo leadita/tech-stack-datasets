@@ -145,10 +145,10 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 
 ### Cloud Providers
 - [Companies using Amazon](./leads/companies-using-amazon) (2,376,514 companies)
-- [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,349,909 companies)
+- [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,349,908 companies)
 - [Companies using Microsoft Azure](./leads/companies-using-microsoft-azure) (139,306 companies)
 - [Companies using Heroku](./leads/companies-using-heroku) (44,140 companies)
-- [Companies using Netlify](./leads/companies-using-netlify) (131,141 companies)
+- [Companies using Netlify](./leads/companies-using-netlify) (131,142 companies)
 - [Companies using Vercel](./leads/companies-using-vercel) (334,882 companies)
 - [Companies using Cloudflare Workers](./leads/companies-using-cloudflare-workers) (1,149 companies)
 - [Companies using Rackspace](./leads/companies-using-rackspace) (7,702 companies)
@@ -172,7 +172,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Microsoft 365](./leads/companies-using-microsoft-365) (26,996 companies)
 - [Companies using Notion](./leads/companies-using-notion) (3,431 companies)
 - [Companies using Figma](./leads/companies-using-figma) (8,601 companies)
-- [Companies using Telegram](./leads/companies-using-telegram) (111,468 companies)
+- [Companies using Telegram](./leads/companies-using-telegram) (111,469 companies)
 - [Companies using Workplace from Meta](./leads/companies-using-workplace-from-meta) (307 companies)
 
 ### Compliance & Governance
@@ -503,7 +503,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using DailyMotion Video](./leads/companies-using-dailymotion-video) (3,277 companies)
 
 ### Web Fonts & Icons
-- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,892,247 companies)
+- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,892,246 companies)
 - [Companies using Font Awesome](./leads/companies-using-font-awesome) (816,063 companies)
 - [Companies using MyFonts](./leads/companies-using-myfonts) (3,263 companies)
 - [Companies using Fontshare](./leads/companies-using-fontshare) (2,693 companies)
@@ -513,7 +513,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Material Design Icons](./leads/companies-using-material-design-icons) (25,178 companies)
 
 ### Web Servers
-- [Companies using NGINX](./leads/companies-using-nginx) (1,459,048 companies)
+- [Companies using NGINX](./leads/companies-using-nginx) (1,459,049 companies)
 - [Companies using Apache](./leads/companies-using-apache) (1,423,061 companies)
 - [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,156,043 companies)
 - [Companies using OpenResty](./leads/companies-using-openresty) (270,291 companies)

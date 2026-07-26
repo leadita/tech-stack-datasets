@@ -1,5 +1,72 @@
 [
   {
+    "domain": "founderease.com",
+    "title": "Pay2Me · The modern way to collect bank payments",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 63,
+    "crawled_at": "2026-07-26T09:20:19.968590329Z",
+    "technologies": [
+      "Cloudflare",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Radix UI",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "forcemultiple.com",
+    "title": "ForceMultiple — Scalable, non-dilutive growth capital.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2440,
+    "crawled_at": "2026-07-26T05:05:19.967699413Z",
+    "technologies": [
+      "Cloudflare",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "InitiativeS",
+      "Radix UI",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "airconditioningrepairencino.net",
+    "title": "AC Repair in Repairencino, CA | 24/7 Emergency + Same Day Service",
+    "business_name": "",
+    "country": "ESP",
+    "seo_score": 82,
+    "tech_spend": 15240,
+    "crawled_at": "2026-07-26T03:23:19.968624507Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Google My Business",
+      "Investor Relations",
+      "Microdata for Google Shopping",
+      "Neighborhoods",
+      "Next.js",
+      "QUIC",
+      "Radix UI",
+      "Sitelinks Search Box",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "Yelp Badge",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "afcsacramento.org",
     "title": "Apostolic Faith Church Sacramento",
     "business_name": "",
@@ -13621,86 +13688,6 @@
       "UTF-8",
       "Vercel",
       "Verified Profile"
-    ]
-  },
-  {
-    "domain": "restorefine.co.uk",
-    "title": "RestoRefine | Hospitality Growth Agency UK",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 30000,
-    "crawled_at": "2026-06-09T02:20:19.972090749Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Fireblade",
-      "Google Analytics",
-      "Google Customer Reviews",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Radix UI",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "seedream4.uk",
-    "title": "Seedream 5 AI Image Generator | High-Fidelity Image Creation & Editing",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 30192,
-    "crawled_at": "2026-06-09T02:06:33.559130533Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "DAV",
-      "Express",
-      "Fireblade",
-      "GitHub Hosting",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Radix UI",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "guesthousesuites.com",
-    "title": "Guest House Suites",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 1440,
-    "crawled_at": "2026-06-09T01:53:57.773875135Z",
-    "technologies": [
-      "Chatbase",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Radix UI",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
