@@ -1,5 +1,29 @@
 [
   {
+    "domain": "winchesterloans.com",
+    "title": "Winchesterloans.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 243,
+    "crawled_at": "2026-07-26T12:38:19.967883699Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "Express",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Nginx",
+      "StackPath",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "mabay.com.mx",
     "title": "HOME - mabay.demosturn.com",
     "business_name": "mabay.demosturn.com",
@@ -15184,44 +15208,6 @@
       "jQuery",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "durhamvanhire.com",
-    "title": "Car & Van Hire in Durham | No Deposit Vehicle Hire",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 17739,
-    "crawled_at": "2026-06-11T04:56:19.971256117Z",
-    "technologies": [
-      "Apache",
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Facebook Conversion Tracking",
-      "Facebook Customer Chat SDK",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Fireblade",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "MailChimp",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "QUIC",
-      "StackPath",
-      "Tailwind CSS",
-      "University or College",
-      "jsDelivr"
     ]
   }
 ]
