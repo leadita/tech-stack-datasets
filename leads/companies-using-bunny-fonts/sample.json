@@ -1,5 +1,60 @@
 [
   {
+    "domain": "luciusmachine.com",
+    "title": "Lucius Machine",
+    "business_name": "Lucius Machine",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-07-26T21:14:19.968231358Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Bunny Fonts",
+      "Contact Form Plugin",
+      "Content Delivery Network",
+      "EmbedPress",
+      "GZIP Module",
+      "Hello Elementor",
+      "Microdata for Google Shopping",
+      "PHP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "atlantasrliving.com",
+    "title": "Home - Senior Living Solutions of Atlanta",
+    "business_name": "Senior Living Solutions of Atlanta",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 1254,
+    "crawled_at": "2026-07-26T20:35:19.968539653Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Bunny Fonts",
+      "Content Delivery Network",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Hestia",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Theme In WP",
+      "TrustIndex",
+      "UTF-8",
+      "WPForms",
+      "Woo Themes",
+      "WooCommerce Checkout",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "amplecareihs.com",
     "title": "Home – Ample Care In Home Services",
     "business_name": "Ample Care In Home Services",
@@ -16169,61 +16224,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "yoursoftwarechange.com",
-    "title": "Your Software Change",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 18740,
-    "crawled_at": "2026-06-09T13:42:26.406940528Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Authorize.net",
-      "Bunny Fonts",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Fireblade",
-      "Goldstar",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Nuxt.js",
-      "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "likenewdetailing.pro",
-    "title": "Like New Detailing",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 5100,
-    "crawled_at": "2026-06-09T13:38:16.029874317Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Bunny Fonts",
-      "Cloudflare",
-      "Content Delivery Network",
-      "DAV",
-      "EmbedPress",
-      "GoDaddy",
-      "KVH",
-      "PHP",
-      "QUIC",
-      "Theme In WP",
-      "Twenty Twenty-One",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]

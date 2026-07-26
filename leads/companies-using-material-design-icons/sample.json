@@ -1,5 +1,22 @@
 [
   {
+    "domain": "mykonoslagom.com",
+    "title": "Studios & Apartments Mykonos | mykonoslagom.com",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 62,
+    "tech_spend": 508,
+    "crawled_at": "2026-07-26T20:47:19.96872715Z",
+    "technologies": [
+      "Apache",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Material Design Icons",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "wintkd.com",
     "title": "WIN TKD",
     "business_name": "",
@@ -16090,38 +16107,6 @@
       "WordPress Multisite",
       "eLand",
       "jQuery",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "villagepetstore.com",
-    "title": "Delivering Pet Happiness – Village Pet",
-    "business_name": "",
-    "country": "MEX",
-    "seo_score": 77,
-    "tech_spend": 5316,
-    "crawled_at": "2026-06-07T18:33:40.787354867Z",
-    "technologies": [
-      "Amazon S3 CDN",
-      "Apture Linking Platform",
-      "CJ Dropshipping",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Kiwi Sizing",
-      "Material Design Icons",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "QUIC",
-      "Schema Plugin",
-      "Share Link",
-      "Shopify",
-      "Shopify Collabs",
-      "Storyblocks",
-      "Tailwind CSS",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "hCaptcha",
       "reCAPTCHA"
     ]
   }
