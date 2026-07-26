@@ -1,5 +1,26 @@
 [
   {
+    "domain": "mkarlsson.se",
+    "title": "Mikael Karlsson Consulting AB",
+    "business_name": "",
+    "country": "SWE",
+    "seo_score": 55,
+    "tech_spend": 10603,
+    "crawled_at": "2026-07-26T17:11:19.968483331Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Content Delivery Network",
+      "Contento",
+      "Fastly",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "OpenResty",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "sustainblewaterresourcemanagement.info",
     "title": "Sustainable Water Resource Management | Sustainable Waters Lab, Department of Natural Resources",
     "business_name": "",
@@ -11068,28 +11089,6 @@
       "YouTube",
       "jQuery",
       "jsDelivr",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "nishat.us",
-    "title": "Homepage",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 663,
-    "crawled_at": "2026-06-11T07:40:42.849382089Z",
-    "technologies": [
-      "Fastly",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "OpenResty",
-      "Thank You",
-      "UTF-8",
       "reCAPTCHA"
     ]
   }
