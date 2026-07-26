@@ -184,7 +184,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Termly](./leads/companies-using-termly) (9,191 companies)
 
 ### Content Delivery Networks (CDN)
-- [Companies using Cloudflare](./leads/companies-using-cloudflare) (2,379,318 companies)
+- [Companies using Cloudflare](./leads/companies-using-cloudflare) (2,379,319 companies)
 - [Companies using Akamai](./leads/companies-using-akamai) (6,714 companies)
 - [Companies using Fastly](./leads/companies-using-fastly) (1,901,155 companies)
 - [Companies using Amazon CloudFront](./leads/companies-using-amazon-cloudfront) (519,847 companies)
