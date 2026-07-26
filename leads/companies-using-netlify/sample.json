@@ -1,5 +1,22 @@
 [
   {
+    "domain": "ikigaya.dev",
+    "title": "IKIGAYA",
+    "business_name": "",
+    "country": "",
+    "seo_score": 20,
+    "tech_spend": 63,
+    "crawled_at": "2026-07-25T15:53:19.96855108Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "growthnomy.co",
     "title": "Growthnomy — Strategy. Systems. Impact.",
     "business_name": "",
@@ -11409,23 +11426,6 @@
       "Google Font API",
       "NFOrce Internet",
       "Netlify",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "kingcreed.org",
-    "title": "KING CREED",
-    "business_name": "",
-    "country": "NGA",
-    "seo_score": 62,
-    "tech_spend": 268,
-    "crawled_at": "2026-06-28T03:53:19.968036684Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Netlify",
-      "Tailwind CSS",
       "UTF-8"
     ]
   }
