@@ -1,5 +1,35 @@
 [
   {
+    "domain": "sophiemiller.uk",
+    "title": "Make Working Online Your Reality",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 23740,
+    "crawled_at": "2026-07-25T21:26:19.968602912Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Authorize.net",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Facebook Conversion Tracking",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Nuxt.js",
+      "Snowplow",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "waestateliquidation.com",
     "title": "Estate Liquidation - Washington Estate Liquidation LLC",
     "business_name": "",
@@ -15682,41 +15712,6 @@
       "Vimeo",
       "Vimeo CDN",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "isabelsanchezjubindo.es",
-    "title": "Pili y Mili",
-    "business_name": "",
-    "country": "ESP",
-    "seo_score": 55,
-    "tech_spend": 8047,
-    "crawled_at": "2026-06-10T20:57:28.496168448Z",
-    "technologies": [
-      "Afiliados",
-      "Alternate Protocol",
-      "Authorize.net",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Fireblade",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google Tag Manager",
-      "Nuxt.js",
-      "UTF-8",
-      "Unsplash",
-      "WhatsApp Sharing"
     ]
   }
 ]
