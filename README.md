@@ -149,7 +149,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Microsoft Azure](./leads/companies-using-microsoft-azure) (139,306 companies)
 - [Companies using Heroku](./leads/companies-using-heroku) (44,140 companies)
 - [Companies using Netlify](./leads/companies-using-netlify) (131,141 companies)
-- [Companies using Vercel](./leads/companies-using-vercel) (334,881 companies)
+- [Companies using Vercel](./leads/companies-using-vercel) (334,882 companies)
 - [Companies using Cloudflare Workers](./leads/companies-using-cloudflare-workers) (1,149 companies)
 - [Companies using Rackspace](./leads/companies-using-rackspace) (7,702 companies)
 
@@ -374,7 +374,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 ### JavaScript Frameworks
 - [Companies using React](./leads/companies-using-react) (14,667 companies)
 - [Companies using Angular](./leads/companies-using-angular) (56,855 companies)
-- [Companies using Next.js](./leads/companies-using-next.js) (484,567 companies)
+- [Companies using Next.js](./leads/companies-using-next.js) (484,568 companies)
 - [Companies using Nuxt.js](./leads/companies-using-nuxt.js) (154,621 companies)
 - [Companies using jQuery](./leads/companies-using-jquery) (3,189,210 companies)
 - [Companies using Astro](./leads/companies-using-astro) (38,553 companies)
