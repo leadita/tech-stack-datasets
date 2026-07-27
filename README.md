@@ -514,7 +514,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 
 ### Web Servers
 - [Companies using NGINX](./leads/companies-using-nginx) (1,459,053 companies)
-- [Companies using Apache](./leads/companies-using-apache) (1,423,071 companies)
+- [Companies using Apache](./leads/companies-using-apache) (1,423,072 companies)
 - [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,156,048 companies)
 - [Companies using OpenResty](./leads/companies-using-openresty) (270,291 companies)
 - [Companies using Apache Tomcat](./leads/companies-using-apache-tomcat) (568 companies)
