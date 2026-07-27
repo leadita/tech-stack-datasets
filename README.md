@@ -144,8 +144,8 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using ThoughtMetric](./leads/companies-using-thoughtmetric) (90 companies)
 
 ### Cloud Providers
-- [Companies using Amazon](./leads/companies-using-amazon) (2,376,517 companies)
-- [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,349,931 companies)
+- [Companies using Amazon](./leads/companies-using-amazon) (2,376,518 companies)
+- [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,349,932 companies)
 - [Companies using Microsoft Azure](./leads/companies-using-microsoft-azure) (139,306 companies)
 - [Companies using Heroku](./leads/companies-using-heroku) (44,140 companies)
 - [Companies using Netlify](./leads/companies-using-netlify) (131,145 companies)
@@ -184,7 +184,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Termly](./leads/companies-using-termly) (9,191 companies)
 
 ### Content Delivery Networks (CDN)
-- [Companies using Cloudflare](./leads/companies-using-cloudflare) (2,379,332 companies)
+- [Companies using Cloudflare](./leads/companies-using-cloudflare) (2,379,333 companies)
 - [Companies using Akamai](./leads/companies-using-akamai) (6,714 companies)
 - [Companies using Fastly](./leads/companies-using-fastly) (1,901,155 companies)
 - [Companies using Amazon CloudFront](./leads/companies-using-amazon-cloudfront) (519,849 companies)
@@ -503,8 +503,8 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using DailyMotion Video](./leads/companies-using-dailymotion-video) (3,277 companies)
 
 ### Web Fonts & Icons
-- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,892,268 companies)
-- [Companies using Font Awesome](./leads/companies-using-font-awesome) (816,065 companies)
+- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,892,269 companies)
+- [Companies using Font Awesome](./leads/companies-using-font-awesome) (816,066 companies)
 - [Companies using MyFonts](./leads/companies-using-myfonts) (3,263 companies)
 - [Companies using Fontshare](./leads/companies-using-fontshare) (2,693 companies)
 - [Companies using Bunny Fonts](./leads/companies-using-bunny-fonts) (44,665 companies)
