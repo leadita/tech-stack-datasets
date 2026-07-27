@@ -1,5 +1,44 @@
 [
   {
+    "domain": "broomlist.com",
+    "title": "The Broom List | Matchmaking for Black Professionals",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 11096,
+    "crawled_at": "2026-07-26T22:08:19.969014399Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Angular",
+      "Content Delivery Network",
+      "CookieBAR",
+      "Express",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Glam Media",
+      "Global Privacy Control",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google No Site Links Search",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Netlify Forms",
+      "QUIC",
+      "RM Education",
+      "Typeform",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "fixyourcartoday.ca",
     "title": "Fix Your Car Today Group",
     "business_name": "",
@@ -16000,37 +16039,6 @@
       "WordPress",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "transfertchapchap.com",
-    "title": "Transfert ChapChap",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 67,
-    "tech_spend": 2982,
-    "crawled_at": "2026-06-12T09:32:19.969050837Z",
-    "technologies": [
-      "Angular",
-      "App Store",
-      "Envoy",
-      "GZIP Module",
-      "GetResponse",
-      "Google My Business",
-      "Google Play",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Radix UI",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress",
-      "YouTube",
-      "eLand",
-      "shadcn ui",
-      "symfony PHP Framework"
     ]
   }
 ]

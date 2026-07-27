@@ -1,5 +1,37 @@
 [
   {
+    "domain": "alchemistpainting.com",
+    "title": "Professional Painters in Calgary AB",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 48740,
+    "crawled_at": "2026-07-27T13:29:19.967918564Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Authorize.net",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Fireblade",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nuxt.js",
+      "Onyx Internet",
+      "QUIC",
+      "Snowplow",
+      "Thank You",
+      "UTF-8",
+      "WebsitePolicies"
+    ]
+  },
+  {
     "domain": "simpleset.net",
     "title": "Physiotherapy Exercise Prescription Software | SimpleSet",
     "business_name": "SimpleSet",
@@ -14545,37 +14577,6 @@
       "QUIC",
       "UTF-8",
       "University or College"
-    ]
-  },
-  {
-    "domain": "bilbet1.com",
-    "title": "Access to the BilBet website is limited in your region | BilBet",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 7837,
-    "crawled_at": "2026-06-11T06:42:44.821440037Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coming Soon Page",
-      "Corporate Governance and Regulatory Compliance",
-      "Fireblade",
-      "Gambling Content",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "No-Q",
-      "Nuxt.js",
-      "Plausible Analytics",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Squid",
-      "Thank You",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]

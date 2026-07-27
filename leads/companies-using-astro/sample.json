@@ -1,5 +1,29 @@
 [
   {
+    "domain": "juneops.com",
+    "title": "June — One platform for everything IT",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 66,
+    "crawled_at": "2026-07-27T15:14:19.968819688Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Astro",
+      "CloudFront",
+      "Content Delivery Network",
+      "Global Privacy Control",
+      "Google Analytics",
+      "Google Calendar",
+      "Google My Business",
+      "Google Tag Manager",
+      "Tailwind CSS",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "gabler-mietpark.de",
     "title": "Gabler - Mietpark, Baggerbetrieb",
     "business_name": "",
@@ -11582,20 +11606,6 @@
       "QUIC",
       "UTF-8",
       "Vector Internet Services"
-    ]
-  },
-  {
-    "domain": "adssportsbar.co.uk",
-    "title": "Clacton's Sports Bar",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-06-10T13:50:11.559495831Z",
-    "technologies": [
-      "Astro",
-      "Gambling Content",
-      "Google My Business"
     ]
   }
 ]
