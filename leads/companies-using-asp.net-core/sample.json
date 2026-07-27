@@ -1,5 +1,20 @@
 [
   {
+    "domain": "bosb.ec",
+    "title": "Bosbec",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 3,
+    "crawled_at": "2026-07-27T11:32:19.968097045Z",
+    "technologies": [
+      "ASP.NET Core",
+      "Google Cloud DNS",
+      "Google Font API",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "efrem-ghebre.dev",
     "title": "Efrem's Portfolio",
     "business_name": "",
@@ -15558,36 +15573,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "mgsoftwaresolutions.it",
-    "title": "M.G. SoftwareSolutions – Sviluppo Software Su Misura",
-    "business_name": "",
-    "country": "ESP",
-    "seo_score": 77,
-    "tech_spend": 6569,
-    "crawled_at": "2026-05-31T03:50:10.791890034Z",
-    "technologies": [
-      "ASP.NET Core",
-      "Azion",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DAV",
-      "Font Awesome",
-      "GetResponse",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microsoft Ajax Content Delivery Network",
-      "Parallels Plesk Panel",
-      "Phusion Passenger Enterprise",
-      "UTF-8",
-      "Vello",
-      "jQuery",
-      "jsDelivr",
-      "reCAPTCHA"
     ]
   }
 ]
