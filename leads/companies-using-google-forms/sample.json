@@ -1,5 +1,40 @@
 [
   {
+    "domain": "newtontennisclub.ca",
+    "title": "Newton Tennis Club - Tennis Club, NTC",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 67,
+    "tech_spend": 18840,
+    "crawled_at": "2026-07-27T14:26:19.96905922Z",
+    "technologies": [
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GoDaddy",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Forms",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "PWA",
+      "PayPal Adaptive Payments",
+      "PayPal Button",
+      "PayPal Form",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "stayspal.com",
     "title": "StaysPal - Unified Property Management Platform",
     "business_name": "",
@@ -16207,30 +16242,6 @@
       "WordPress Multisite",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "yoursenior.in",
-    "title": "Talkee",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 1920,
-    "crawled_at": "2026-06-11T04:02:19.970728566Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Framer Sites",
-      "Google",
-      "Google Cloud CDN",
-      "Google Forms",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Ntent",
-      "QUIC",
-      "University or College",
-      "Yandex Hosting",
-      "YouTube",
-      "Zeald"
     ]
   }
 ]

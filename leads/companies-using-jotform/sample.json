@@ -1,5 +1,35 @@
 [
   {
+    "domain": "hdcroofing.com",
+    "title": "HDC Roofing",
+    "business_name": "HDC Roofing",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 27640,
+    "crawled_at": "2026-07-27T10:38:19.96781843Z",
+    "technologies": [
+      "Better Lead Generation Services",
+      "GoDaddy",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "JotForm",
+      "Line2",
+      "Microdata for Google Shopping",
+      "PWA",
+      "RM Education",
+      "UTF-8",
+      "Vimeo",
+      "Vimeo CDN",
+      "Wangsu",
+      "Website Tonight",
+      "eLand"
+    ]
+  },
+  {
     "domain": "techmauri.com",
     "title": "Techmauri - Innovative IT & Software Solutions",
     "business_name": "",
@@ -19591,26 +19621,6 @@
       "WordPress",
       "WordPress Multisite",
       "eLand"
-    ]
-  },
-  {
-    "domain": "craigellachie.org.uk",
-    "title": "Craigellachie Village Council - Speyside",
-    "business_name": "",
-    "country": "SYC",
-    "seo_score": 77,
-    "tech_spend": 1344,
-    "crawled_at": "2026-05-17T14:03:34.464964771Z",
-    "technologies": [
-      "Adobe Dreamweaver",
-      "Express",
-      "Google Analytics",
-      "JotForm",
-      "LiteSpeed",
-      "QUIC",
-      "Royal Mail",
-      "StatCounter",
-      "UTF-8"
     ]
   }
 ]
