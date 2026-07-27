@@ -1,5 +1,34 @@
 [
   {
+    "domain": "epitomeofyou.com",
+    "title": "Epitome of You | Life Coach for Clarity, Growth & Purpose",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 20929,
+    "crawled_at": "2026-07-27T03:02:19.967738607Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "AWS WAF Challenge",
+      "Amazon",
+      "Amazon CloudFront",
+      "Apache",
+      "CloudFront",
+      "ElementUI",
+      "FormSubmit",
+      "Formspree",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Tailwind CSS",
+      "WF Cookie Consent",
+      "Webflow"
+    ]
+  },
+  {
     "domain": "med-cfo.com",
     "title": "Home - Med Firm",
     "business_name": "",
@@ -15988,37 +16017,6 @@
       "UTF-8",
       "WF Cookie Consent",
       "Webflow"
-    ]
-  },
-  {
-    "domain": "sensa-kvkct.nl",
-    "title": "Home - Sensa Kanjers voor Kanjers Cycling Team",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 21784,
-    "crawled_at": "2026-06-09T14:52:27.248450409Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AWS WAF Challenge",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Tailwind CSS",
-      "UTF-8",
-      "WF Cookie Consent",
-      "Webflow",
-      "jsDelivr",
-      "reCAPTCHA"
     ]
   }
 ]

@@ -1,5 +1,41 @@
 [
   {
+    "domain": "chavezautodetail.com",
+    "title": "Welcome to Chavez | Chavez Auto Detail",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 33219,
+    "crawled_at": "2026-07-27T05:23:19.967984519Z",
+    "technologies": [
+      "Apache",
+      "Backdrop",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Drupal",
+      "Fireblade",
+      "Font Awesome",
+      "GZIP Module",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Neighborhoods",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight",
+      "YouTube",
+      "jQuery",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "freya.capital",
     "title": "The smartest way to save and invest - all in one app! | Freya - Your digital wealth manager",
     "business_name": "",
@@ -14579,29 +14615,6 @@
       "Subversion",
       "UTF-8",
       "Ubercart"
-    ]
-  },
-  {
-    "domain": "nawalsteel.com",
-    "title": "Homepage | NAWAL",
-    "business_name": "",
-    "country": "SAU",
-    "seo_score": 72,
-    "tech_spend": 468,
-    "crawled_at": "2026-06-07T08:18:03.192238748Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Drupal",
-      "IcoMoon",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]

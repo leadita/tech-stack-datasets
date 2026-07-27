@@ -1,5 +1,51 @@
 [
   {
+    "domain": "hannascakecreations.co.uk",
+    "title": "Hanna's cake creations - Home",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 607,
+    "crawled_at": "2026-07-27T02:05:19.967749Z",
+    "technologies": [
+      "Apache",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Joomla!",
+      "RokNavMenu",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "kmz-neumarkt.de",
+    "title": "Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 3,
+    "crawled_at": "2026-07-26T19:08:19.967684459Z",
+    "technologies": [
+      "Apache",
+      "FreeCSSTemplates",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Helix Ultimate",
+      "Instagram Follow Button",
+      "Joomla!",
+      "PHP",
+      "RokNavMenu",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "rentmaster.net",
     "title": "Welcome - RentMaster",
     "business_name": "",
@@ -1540,28 +1586,6 @@
       "PHP",
       "RokNavMenu",
       "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "viajarparagramado.com.br",
-    "title": "Viajar para Gramado",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 3,
-    "crawled_at": "2026-07-06T14:20:19.970642308Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Joomla!",
-      "PHP",
-      "RokNavMenu",
-      "UTF-8",
-      "WhatsApp Sharing",
       "jQuery"
     ]
   },
@@ -12744,27 +12768,6 @@
       "Share Link",
       "Tailwind CSS",
       "Twitter Ads",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "psychresources.com",
-    "title": "HOME - Psychological Resources of Toledo",
-    "business_name": "",
-    "country": "BRA",
-    "seo_score": 77,
-    "tech_spend": 15079,
-    "crawled_at": "2026-06-09T07:44:28.58172836Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Joomla!",
-      "RokNavMenu",
-      "Slider Revolution",
       "UTF-8",
       "jQuery"
     ]
