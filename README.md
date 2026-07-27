@@ -411,7 +411,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 ### Performance Optimization
 - [Companies using EWWW Image Optimizer](./leads/companies-using-ewww-image-optimizer) (16,304 companies)
 - [Companies using Smush Image Optimization](./leads/companies-using-smush-image-optimization) (38,715 companies)
-- [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,156,049 companies)
+- [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,156,050 companies)
 
 ### Popups & Modals
 - [Companies using Elfsight](./leads/companies-using-elfsight) (76,799 companies)
@@ -515,7 +515,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 ### Web Servers
 - [Companies using NGINX](./leads/companies-using-nginx) (1,459,055 companies)
 - [Companies using Apache](./leads/companies-using-apache) (1,423,076 companies)
-- [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,156,049 companies)
+- [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,156,050 companies)
 - [Companies using OpenResty](./leads/companies-using-openresty) (270,291 companies)
 - [Companies using Apache Tomcat](./leads/companies-using-apache-tomcat) (568 companies)
 
