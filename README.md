@@ -322,7 +322,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 ### Forms & Surveys
 - [Companies using Typeform](./leads/companies-using-typeform) (15,968 companies)
 - [Companies using JotForm](./leads/companies-using-jotform) (4,346 companies)
-- [Companies using Google Forms](./leads/companies-using-google-forms) (62,525 companies)
+- [Companies using Google Forms](./leads/companies-using-google-forms) (62,526 companies)
 - [Companies using Wufoo](./leads/companies-using-wufoo) (4,207 companies)
 - [Companies using Formstack](./leads/companies-using-formstack) (3,090 companies)
 - [Companies using WPForms](./leads/companies-using-wpforms) (199,881 companies)
