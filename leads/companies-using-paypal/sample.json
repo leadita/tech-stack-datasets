@@ -1,5 +1,56 @@
 [
   {
+    "domain": "homecommunityservices.com",
+    "title": "Home Community Services",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 3448,
+    "crawled_at": "2026-07-27T00:02:19.96850128Z",
+    "technologies": [
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Line2",
+      "PWA",
+      "PayPal Adaptive Payments",
+      "PayPal Button",
+      "PayPal Form",
+      "QUIC",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
+    "domain": "thealfredwilliamsfoundation.com",
+    "title": "The Alfred Williams Foundation",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 3448,
+    "crawled_at": "2026-07-26T19:56:19.968789296Z",
+    "technologies": [
+      "Apache",
+      "Express",
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Line2",
+      "PWA",
+      "PayPal Adaptive Payments",
+      "PayPal Button",
+      "PayPal Form",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "scoutingtrails.com",
     "title": "Scouting Trails",
     "business_name": "",
@@ -17111,58 +17162,6 @@
       "eLand",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "mandat.ca",
-    "title": "Mandates Law Firm",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 55,
-    "tech_spend": 3448,
-    "crawled_at": "2026-06-14T01:17:19.970168657Z",
-    "technologies": [
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GoDaddy",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Line2",
-      "PWA",
-      "PayPal Adaptive Payments",
-      "PayPal Button",
-      "PayPal Form",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
-    ]
-  },
-  {
-    "domain": "ncfishandgame.com",
-    "title": "Fishing Fly Shop, Maps and Information, Flie, Rods and Reels",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": "",
-    "crawled_at": "2026-06-14T00:23:19.968024552Z",
-    "technologies": [
-      "Google Analytics",
-      "LiteSpeed",
-      "PHP",
-      "PayPal Button",
-      "PayPal Form",
-      "QUIC",
-      "Squid",
-      "UTF-8",
-      "Urchin 5"
     ]
   }
 ]
