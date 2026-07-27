@@ -1,5 +1,42 @@
 [
   {
+    "domain": "goladtech.com",
+    "title": "Golad Technologies",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 60,
+    "tech_spend": 898,
+    "crawled_at": "2026-07-27T07:11:19.968178414Z",
+    "technologies": [
+      "ADTECH",
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apache",
+      "Bulma",
+      "Content Delivery Network",
+      "Easy Pie Chart",
+      "Elementor",
+      "EmbedPress",
+      "Font Awesome",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Oracle Cloud",
+      "PHP",
+      "Schema Plugin",
+      "Slider Revolution",
+      "Tailwind CSS",
+      "Tawk",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WooCommerce Checkout",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "bulldogjunkco.com",
     "title": "Bulldog Junk Co | Junk Removal in Ruskin, FL",
     "business_name": "",
@@ -13873,27 +13910,6 @@
       "Google Cloud DNS",
       "Google Font API",
       "PHP",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "powervocabulary.co.uk",
-    "title": "Power Vocabulary | Home",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 17868,
-    "crawled_at": "2026-07-11T13:59:19.976988848Z",
-    "technologies": [
-      "Apache",
-      "Bulma",
-      "DAV",
-      "Fireblade",
-      "Google",
-      "IcoMoon",
-      "OpenSSL",
-      "QUIC",
-      "Tailwind CSS",
       "UTF-8"
     ]
   }
