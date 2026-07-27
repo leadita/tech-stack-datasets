@@ -1,5 +1,55 @@
 [
   {
+    "domain": "mindbot.me",
+    "title": "MindBot — Intelligence for Discord",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 3,
+    "crawled_at": "2026-07-27T09:50:19.968528093Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Discord",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "dmestorenow.com",
+    "title": "DME StoreNow - Medical Supply Company",
+    "business_name": "DME StoreNow",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 44032,
+    "crawled_at": "2026-07-26T20:44:19.968935893Z",
+    "technologies": [
+      "Contento",
+      "Discord",
+      "GoDaddy",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "PWA",
+      "Thank You",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight",
+      "Yelp Badge",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "nourished2thecore.com",
     "title": "Nourished2thecore",
     "business_name": "",
@@ -16325,55 +16375,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "art4change.org",
-    "title": "Home - Art For Change",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 17680,
-    "crawled_at": "2026-05-28T13:40:19.421741083Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Discord",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IPFS",
-      "Instagram Follow Button",
-      "Investor Relations",
-      "Svelte",
-      "Tailwind CSS",
-      "Telegram",
-      "Twitter Ads",
-      "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "getmyborrow.com",
-    "title": "Digi Bank - Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 291,
-    "crawled_at": "2026-05-28T12:18:47.183412124Z",
-    "technologies": [
-      "BTCPay Server",
-      "CoinPayments",
-      "Discord",
-      "Font Awesome",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "QUIC",
-      "Shifter",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
