@@ -1,5 +1,67 @@
 [
   {
+    "domain": "thequeents.com",
+    "title": "TheQueenTs – Shemale Girld",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 45,
+    "tech_spend": 122,
+    "crawled_at": "2026-07-27T16:50:19.967658667Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Apache",
+      "Bulma",
+      "Contact Form Plugin",
+      "Content Delivery Network",
+      "DAV",
+      "EmbedPress",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "LayerSlider Responsive",
+      "OnlyFans",
+      "PHP",
+      "Slider Revolution",
+      "Theme In WP",
+      "UTF-8",
+      "Uncode",
+      "WPBakery",
+      "Woo Themes",
+      "WooCommerce",
+      "WooCommerce Checkout",
+      "WooCommerce Payments",
+      "WordPress",
+      "WordPress Multisite",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "rscug.org",
+    "title": "RESILIENT, ADAPTABLE AND SUSTAINABLE COMMUNITIES",
+    "business_name": "",
+    "country": "UGA",
+    "seo_score": 72,
+    "tech_spend": 17499,
+    "crawled_at": "2026-07-27T15:53:19.968064114Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cornerstone",
+      "Google Cloud DNS",
+      "Google Font API",
+      "InitiativeS",
+      "LiteSpeed",
+      "QUIC",
+      "StackPath",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "goladtech.com",
     "title": "Golad Technologies",
     "business_name": "",
@@ -13866,51 +13928,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "agimsmzd.com",
-    "title": "Abdul Ghani Institute of Medical Sciences - AGIMS Muzaffarabad",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 70,
-    "tech_spend": 196,
-    "crawled_at": "2026-07-11T15:14:19.968138081Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Icons8",
-      "LiteSpeed",
-      "QUIC",
-      "UTF-8",
-      "University or College",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "endevelopmentproject.com",
-    "title": "Halaman Beranda | En Development Project Official",
-    "business_name": "",
-    "country": "IDN",
-    "seo_score": 62,
-    "tech_spend": 59,
-    "crawled_at": "2026-07-11T14:32:19.968217733Z",
-    "technologies": [
-      "BootstrapMade",
-      "Bulma",
-      "CodeIgniter",
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "PHP",
-      "UTF-8"
     ]
   }
 ]

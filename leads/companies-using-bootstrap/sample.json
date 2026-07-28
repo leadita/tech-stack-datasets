@@ -1,5 +1,21 @@
 [
   {
+    "domain": "guentersfahrschule.de",
+    "title": "Günters Fahrschule - Weißenhorn und Vöhringen",
+    "business_name": "",
+    "country": "JPN",
+    "seo_score": 55,
+    "tech_spend": "",
+    "crawled_at": "2026-07-27T19:32:19.968292401Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Start Bootstrap",
+      "Tailwind CSS",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "cargorisk.com",
     "title": "CARGORISK - CRM",
     "business_name": "",
@@ -15286,22 +15302,6 @@
       "Tailwind CSS",
       "Vimeo",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "mediacjegilarska.pl",
-    "title": "Mediacje - Katarzyna Gilarska",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 156,
-    "crawled_at": "2026-05-20T17:54:49.613004973Z",
-    "technologies": [
-      "Bulma",
-      "GZIP Module",
-      "IcoMoon",
-      "Start Bootstrap",
-      "Tailwind CSS"
     ]
   }
 ]
