@@ -216,7 +216,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using CapsuleCRM](./leads/companies-using-capsulecrm) (63 companies)
 
 ### CSS Frameworks
-- [Companies using Tailwind CSS](./leads/companies-using-tailwind-css) (2,413,441 companies)
+- [Companies using Tailwind CSS](./leads/companies-using-tailwind-css) (2,413,440 companies)
 - [Companies using Bootstrap](./leads/companies-using-bootstrap) (5,695 companies)
 - [Companies using Material-UI](./leads/companies-using-material-ui) (23,079 companies)
 - [Companies using Chakra UI](./leads/companies-using-chakra-ui) (2,101 companies)
