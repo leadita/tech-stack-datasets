@@ -72,7 +72,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Refersion](./leads/companies-using-refersion) (1,308 companies)
 
 ### Analytics
-- [Companies using Google Analytics](./leads/companies-using-google-analytics) (2,912,112 companies)
+- [Companies using Google Analytics](./leads/companies-using-google-analytics) (2,912,113 companies)
 - [Companies using Mixpanel](./leads/companies-using-mixpanel) (7,719 companies)
 - [Companies using Amplitude](./leads/companies-using-amplitude) (7,707 companies)
 - [Companies using Heap](./leads/companies-using-heap) (2,451 companies)
@@ -145,7 +145,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 
 ### Cloud Providers
 - [Companies using Amazon](./leads/companies-using-amazon) (2,376,531 companies)
-- [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,350,020 companies)
+- [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,350,021 companies)
 - [Companies using Microsoft Azure](./leads/companies-using-microsoft-azure) (139,308 companies)
 - [Companies using Heroku](./leads/companies-using-heroku) (44,140 companies)
 - [Companies using Netlify](./leads/companies-using-netlify) (131,154 companies)
@@ -503,7 +503,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using DailyMotion Video](./leads/companies-using-dailymotion-video) (3,277 companies)
 
 ### Web Fonts & Icons
-- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,892,353 companies)
+- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,892,354 companies)
 - [Companies using Font Awesome](./leads/companies-using-font-awesome) (816,071 companies)
 - [Companies using MyFonts](./leads/companies-using-myfonts) (3,263 companies)
 - [Companies using Fontshare](./leads/companies-using-fontshare) (2,693 companies)
@@ -513,8 +513,8 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Material Design Icons](./leads/companies-using-material-design-icons) (25,178 companies)
 
 ### Web Servers
-- [Companies using NGINX](./leads/companies-using-nginx) (1,459,060 companies)
-- [Companies using Apache](./leads/companies-using-apache) (1,423,102 companies)
+- [Companies using NGINX](./leads/companies-using-nginx) (1,459,061 companies)
+- [Companies using Apache](./leads/companies-using-apache) (1,423,103 companies)
 - [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,156,062 companies)
 - [Companies using OpenResty](./leads/companies-using-openresty) (270,291 companies)
 - [Companies using Apache Tomcat](./leads/companies-using-apache-tomcat) (568 companies)
