@@ -1,5 +1,27 @@
 [
   {
+    "domain": "boulderhighmtb.org",
+    "title": "Boulder High Mountain Bike Team",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 2668,
+    "crawled_at": "2026-07-28T07:50:19.968222435Z",
+    "technologies": [
+      "Astro",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "juneops.com",
     "title": "June — One platform for everything IT",
     "business_name": "",
@@ -11582,30 +11604,6 @@
       "Tailwind CSS",
       "UTF-8",
       "University or College"
-    ]
-  },
-  {
-    "domain": "funstage.at",
-    "title": "Funstage - Worldwide Social Casino Game Publishing",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 20000,
-    "crawled_at": "2026-06-10T13:59:19.968936567Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "App Store",
-      "Apture Linking Platform",
-      "Astro",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Gambling Content",
-      "Google My Business",
-      "Google Play",
-      "QUIC",
-      "UTF-8",
-      "Vector Internet Services"
     ]
   }
 ]
