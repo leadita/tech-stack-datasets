@@ -79,7 +79,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Hotjar](./leads/companies-using-hotjar) (64,632 companies)
 - [Companies using FullStory](./leads/companies-using-fullstory) (2,053 companies)
 - [Companies using Segment](./leads/companies-using-segment) (10,312 companies)
-- [Companies using Matomo](./leads/companies-using-matomo) (49,399 companies)
+- [Companies using Matomo](./leads/companies-using-matomo) (49,400 companies)
 - [Companies using CrazyEgg](./leads/companies-using-crazyegg) (9,389 companies)
 
 ### Artificial Intelligence
@@ -184,7 +184,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Termly](./leads/companies-using-termly) (9,191 companies)
 
 ### Content Delivery Networks (CDN)
-- [Companies using Cloudflare](./leads/companies-using-cloudflare) (2,379,356 companies)
+- [Companies using Cloudflare](./leads/companies-using-cloudflare) (2,379,357 companies)
 - [Companies using Akamai](./leads/companies-using-akamai) (6,714 companies)
 - [Companies using Fastly](./leads/companies-using-fastly) (1,901,161 companies)
 - [Companies using Amazon CloudFront](./leads/companies-using-amazon-cloudfront) (519,854 companies)
