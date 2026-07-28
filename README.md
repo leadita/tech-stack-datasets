@@ -145,7 +145,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 
 ### Cloud Providers
 - [Companies using Amazon](./leads/companies-using-amazon) (2,376,527 companies)
-- [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,350,007 companies)
+- [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,350,008 companies)
 - [Companies using Microsoft Azure](./leads/companies-using-microsoft-azure) (139,307 companies)
 - [Companies using Heroku](./leads/companies-using-heroku) (44,140 companies)
 - [Companies using Netlify](./leads/companies-using-netlify) (131,154 companies)
@@ -184,15 +184,15 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Termly](./leads/companies-using-termly) (9,191 companies)
 
 ### Content Delivery Networks (CDN)
-- [Companies using Cloudflare](./leads/companies-using-cloudflare) (2,379,353 companies)
+- [Companies using Cloudflare](./leads/companies-using-cloudflare) (2,379,354 companies)
 - [Companies using Akamai](./leads/companies-using-akamai) (6,714 companies)
-- [Companies using Fastly](./leads/companies-using-fastly) (1,901,158 companies)
+- [Companies using Fastly](./leads/companies-using-fastly) (1,901,159 companies)
 - [Companies using Amazon CloudFront](./leads/companies-using-amazon-cloudfront) (519,853 companies)
 - [Companies using Cloudinary](./leads/companies-using-cloudinary) (43,754 companies)
 - [Companies using StackPath](./leads/companies-using-stackpath) (64,675 companies)
 - [Companies using BunnyCDN](./leads/companies-using-bunnycdn) (52,978 companies)
 - [Companies using KeyCDN](./leads/companies-using-keycdn) (17,338 companies)
-- [Companies using jsDelivr](./leads/companies-using-jsdelivr) (629,791 companies)
+- [Companies using jsDelivr](./leads/companies-using-jsdelivr) (629,792 companies)
 - [Companies using CacheFly](./leads/companies-using-cachefly) (185 companies)
 
 ### Conversion Tracking & Retargeting
@@ -216,7 +216,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using CapsuleCRM](./leads/companies-using-capsulecrm) (63 companies)
 
 ### CSS Frameworks
-- [Companies using Tailwind CSS](./leads/companies-using-tailwind-css) (2,413,437 companies)
+- [Companies using Tailwind CSS](./leads/companies-using-tailwind-css) (2,413,438 companies)
 - [Companies using Bootstrap](./leads/companies-using-bootstrap) (5,695 companies)
 - [Companies using Material-UI](./leads/companies-using-material-ui) (23,079 companies)
 - [Companies using Chakra UI](./leads/companies-using-chakra-ui) (2,101 companies)
@@ -493,7 +493,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Scully](./leads/companies-using-scully) (1,455 companies)
 
 ### Video Platforms
-- [Companies using YouTube](./leads/companies-using-youtube) (1,961,868 companies)
+- [Companies using YouTube](./leads/companies-using-youtube) (1,961,869 companies)
 - [Companies using Vimeo](./leads/companies-using-vimeo) (253,618 companies)
 - [Companies using Wistia](./leads/companies-using-wistia) (12,290 companies)
 - [Companies using Brightcove](./leads/companies-using-brightcove) (1,688 companies)
@@ -503,8 +503,8 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using DailyMotion Video](./leads/companies-using-dailymotion-video) (3,277 companies)
 
 ### Web Fonts & Icons
-- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,892,343 companies)
-- [Companies using Font Awesome](./leads/companies-using-font-awesome) (816,069 companies)
+- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,892,344 companies)
+- [Companies using Font Awesome](./leads/companies-using-font-awesome) (816,070 companies)
 - [Companies using MyFonts](./leads/companies-using-myfonts) (3,263 companies)
 - [Companies using Fontshare](./leads/companies-using-fontshare) (2,693 companies)
 - [Companies using Bunny Fonts](./leads/companies-using-bunny-fonts) (44,666 companies)
