@@ -83,7 +83,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using CrazyEgg](./leads/companies-using-crazyegg) (9,389 companies)
 
 ### Artificial Intelligence
-- [Companies using OpenAI](./leads/companies-using-openai) (6,889 companies)
+- [Companies using OpenAI](./leads/companies-using-openai) (6,890 companies)
 - [Companies using Intercom](./leads/companies-using-intercom) (17,639 companies)
 - [Companies using Algolia](./leads/companies-using-algolia) (2,653 companies)
 - [Companies using Ada Support](./leads/companies-using-ada-support) (177 companies)
@@ -127,7 +127,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Micro.blog](./leads/companies-using-micro.blog) (349 companies)
 
 ### Booking & Calendar
-- [Companies using Calendly](./leads/companies-using-calendly) (148,231 companies)
+- [Companies using Calendly](./leads/companies-using-calendly) (148,232 companies)
 - [Companies using OpenTable](./leads/companies-using-opentable) (6,839 companies)
 - [Companies using MindBody](./leads/companies-using-mindbody) (4,174 companies)
 - [Companies using Setmore](./leads/companies-using-setmore) (575 companies)
@@ -145,7 +145,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 
 ### Cloud Providers
 - [Companies using Amazon](./leads/companies-using-amazon) (2,376,527 companies)
-- [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,350,008 companies)
+- [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,350,009 companies)
 - [Companies using Microsoft Azure](./leads/companies-using-microsoft-azure) (139,307 companies)
 - [Companies using Heroku](./leads/companies-using-heroku) (44,140 companies)
 - [Companies using Netlify](./leads/companies-using-netlify) (131,154 companies)
@@ -184,15 +184,15 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Termly](./leads/companies-using-termly) (9,191 companies)
 
 ### Content Delivery Networks (CDN)
-- [Companies using Cloudflare](./leads/companies-using-cloudflare) (2,379,354 companies)
+- [Companies using Cloudflare](./leads/companies-using-cloudflare) (2,379,355 companies)
 - [Companies using Akamai](./leads/companies-using-akamai) (6,714 companies)
-- [Companies using Fastly](./leads/companies-using-fastly) (1,901,159 companies)
+- [Companies using Fastly](./leads/companies-using-fastly) (1,901,160 companies)
 - [Companies using Amazon CloudFront](./leads/companies-using-amazon-cloudfront) (519,853 companies)
 - [Companies using Cloudinary](./leads/companies-using-cloudinary) (43,754 companies)
 - [Companies using StackPath](./leads/companies-using-stackpath) (64,675 companies)
 - [Companies using BunnyCDN](./leads/companies-using-bunnycdn) (52,978 companies)
 - [Companies using KeyCDN](./leads/companies-using-keycdn) (17,338 companies)
-- [Companies using jsDelivr](./leads/companies-using-jsdelivr) (629,792 companies)
+- [Companies using jsDelivr](./leads/companies-using-jsdelivr) (629,793 companies)
 - [Companies using CacheFly](./leads/companies-using-cachefly) (185 companies)
 
 ### Conversion Tracking & Retargeting
@@ -207,7 +207,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 
 ### Customer Relationship Management (CRM)
 - [Companies using Salesforce](./leads/companies-using-salesforce) (15,010 companies)
-- [Companies using Hubspot](./leads/companies-using-hubspot) (97,715 companies)
+- [Companies using Hubspot](./leads/companies-using-hubspot) (97,716 companies)
 - [Companies using Pipedrive](./leads/companies-using-pipedrive) (2,482 companies)
 - [Companies using Zoho CRM](./leads/companies-using-zoho-crm) (1,401 companies)
 - [Companies using Active Campaign](./leads/companies-using-active-campaign) (5,979 companies)
@@ -503,7 +503,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using DailyMotion Video](./leads/companies-using-dailymotion-video) (3,277 companies)
 
 ### Web Fonts & Icons
-- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,892,344 companies)
+- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,892,345 companies)
 - [Companies using Font Awesome](./leads/companies-using-font-awesome) (816,070 companies)
 - [Companies using MyFonts](./leads/companies-using-myfonts) (3,263 companies)
 - [Companies using Fontshare](./leads/companies-using-fontshare) (2,693 companies)
