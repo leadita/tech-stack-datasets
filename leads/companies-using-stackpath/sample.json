@@ -1,5 +1,29 @@
 [
   {
+    "domain": "rscug.org",
+    "title": "RESILIENT, ADAPTABLE AND SUSTAINABLE COMMUNITIES",
+    "business_name": "",
+    "country": "UGA",
+    "seo_score": 72,
+    "tech_spend": 17499,
+    "crawled_at": "2026-07-27T15:53:19.968064114Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cornerstone",
+      "Google Cloud DNS",
+      "Google Font API",
+      "InitiativeS",
+      "LiteSpeed",
+      "QUIC",
+      "StackPath",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "ip-kos.com",
     "title": "IP-Kos",
     "business_name": "",
@@ -15165,27 +15189,6 @@
       "eLand",
       "jQuery",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "kmediacms.com",
-    "title": "KMEDIA CMS - Digital Signage Content Management System",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 2524,
-    "crawled_at": "2026-06-11T05:30:07.772029852Z",
-    "technologies": [
-      "Bulma",
-      "ElementUI",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "QUIC",
-      "StackPath",
-      "Tailwind CSS",
-      "Unsplash",
-      "jsDelivr"
     ]
   }
 ]
