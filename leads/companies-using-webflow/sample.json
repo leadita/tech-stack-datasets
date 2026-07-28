@@ -1,5 +1,32 @@
 [
   {
+    "domain": "drive-in-carservice.com",
+    "title": "DriveIn-Carservice - KFZ-Meisterbetrieb Großharthau",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 65,
+    "tech_spend": 10116,
+    "crawled_at": "2026-07-28T10:44:19.967862041Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon",
+      "Amazon CloudFront",
+      "Apache",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Tailwind CSS",
+      "Vector Internet Services",
+      "WF Cookie Consent",
+      "Webflow"
+    ]
+  },
+  {
     "domain": "epitomeofyou.com",
     "title": "Epitome of You | Life Coach for Clarity, Growth & Purpose",
     "business_name": "",
@@ -15989,30 +16016,6 @@
       "Google Tag Manager",
       "IcoMoon",
       "Instagram Follow Button",
-      "Tailwind CSS",
-      "UTF-8",
-      "WF Cookie Consent",
-      "Webflow"
-    ]
-  },
-  {
-    "domain": "jeruelindustries.com",
-    "title": "Competency Development & Training Programs | Jeruel Global",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 82,
-    "tech_spend": 5004,
-    "crawled_at": "2026-06-09T14:52:27.254459469Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Apollo IO",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "GZIP Module",
-      "NFOrce Internet",
-      "QUIC",
       "Tailwind CSS",
       "UTF-8",
       "WF Cookie Consent",
