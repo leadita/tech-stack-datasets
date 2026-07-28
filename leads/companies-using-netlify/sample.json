@@ -1,5 +1,185 @@
 [
   {
+    "domain": "boulderhighmtb.org",
+    "title": "Boulder High Mountain Bike Team",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 2668,
+    "crawled_at": "2026-07-28T07:50:19.968222435Z",
+    "technologies": [
+      "Astro",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "mysolcare.com",
+    "title": "SolCare: We watch your solar so you don't have to",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 67,
+    "tech_spend": 17917,
+    "crawled_at": "2026-07-28T06:44:19.967704834Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fireblade",
+      "Formspree",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "goldkeyhomes.com",
+    "title": "Entrada | New Detached Homes in Paramount, CA",
+    "business_name": "Gold Key Development, Inc.",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 7707,
+    "crawled_at": "2026-07-28T05:41:19.968187067Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Neighborhoods",
+      "Netlify",
+      "QUIC",
+      "Thank You",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "jenniferhorvath.me",
+    "title": "Jennifer Horvath — Conscious Founder",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 55,
+    "tech_spend": 63,
+    "crawled_at": "2026-07-28T03:14:19.968470779Z",
+    "technologies": [
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Harbor",
+      "Instagram Follow Button",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "dannyksolutions.com",
+    "title": "Danny K Solutions LLC – MedTech Marketing & Strategy Consulting",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 17707,
+    "crawled_at": "2026-07-27T23:56:19.968628011Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Netlify",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "sledhockey.org",
+    "title": "SledHockey.org — Free Team Websites for Sled Hockey Teams",
+    "business_name": "SledHockey.org",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-07-27T20:17:19.968467027Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Content Delivery Network",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "backbritishsaf.co.uk",
+    "title": "Back British SAF",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 62,
+    "tech_spend": 15352,
+    "crawled_at": "2026-07-27T17:29:19.968474148Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Netlify",
+      "UTF-8",
+      "Unsplash"
+    ]
+  },
+  {
+    "domain": "joinhrt.com",
+    "title": "Join HomeReady Team | joinhrt.com",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 17960,
+    "crawled_at": "2026-07-27T15:29:19.968123017Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Calendly",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Idaq",
+      "Instagram Follow Button",
+      "Netlify",
+      "QUIC",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "simplifyai.ai",
     "title": "SimplifyAI — Intelligent Systems for Growing Businesses",
     "business_name": "",
@@ -11265,174 +11445,6 @@
       "Content Delivery Network",
       "Netlify",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "dolfelectrical.com",
-    "title": "Dolf Electrical | Licensed Electrician in Oklahoma City | (405) 464-0671",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 17668,
-    "crawled_at": "2026-06-28T12:20:19.968549806Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Perl",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "the911ceo.com",
-    "title": "Something purposeful is coming here.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 63,
-    "crawled_at": "2026-06-28T12:02:19.968265048Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Netlify",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "pathwayprep.online",
-    "title": "Pathway Prep | Pre-Departure Training by JB Academy",
-    "business_name": "",
-    "country": "NGA",
-    "seo_score": 67,
-    "tech_spend": 4168,
-    "crawled_at": "2026-06-28T11:59:19.968480176Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "NFOrce Internet",
-      "Netlify",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "aminafoundation.com",
-    "title": "Amina Foundation",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 50,
-    "tech_spend": 3,
-    "crawled_at": "2026-06-28T11:20:19.969462444Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Netlify",
-      "UTF-8",
-      "University or College"
-    ]
-  },
-  {
-    "domain": "karalismedical.com",
-    "title": "Karalis Medical Supply Ltd",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": "",
-    "crawled_at": "2026-06-28T10:56:19.973459789Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Netlify",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "getelevateleads.com",
-    "title": "Lead Generation for IT Consultancies | Commission Only | Elevate Marketing",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 10868,
-    "crawled_at": "2026-06-28T09:53:19.969301465Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "Content Delivery Network",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Netlify",
-      "RM Education",
-      "Typeform",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "thegreatestblessings.com",
-    "title": "Some things are better than fame, fortune and power - The Greatest Blessings",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 12642,
-    "crawled_at": "2026-06-28T09:08:19.971239618Z",
-    "technologies": [
-      "Amazon Widgets",
-      "Content Delivery Network",
-      "Fastly",
-      "Fastly CDN",
-      "Google Analytics",
-      "Google Cloud",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Netlify",
-      "Next.js",
-      "No-Q",
-      "Pleroma",
-      "QUIC",
-      "UTF-8",
-      "Unsplash",
-      "YouTube",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "carpentrydirectnorfolk.co.uk",
-    "title": "Carpentry Direct Norfolk | Bespoke Carpentry & Joinery",
-    "business_name": "Carpentry Direct Norfolk",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 2764,
-    "crawled_at": "2026-06-28T08:14:19.96876742Z",
-    "technologies": [
-      "Amazon",
-      "Content Delivery Network",
-      "DAV",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Web3Forms"
     ]
   }
 ]
