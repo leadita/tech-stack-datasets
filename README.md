@@ -145,7 +145,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 
 ### Cloud Providers
 - [Companies using Amazon](./leads/companies-using-amazon) (2,376,527 companies)
-- [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,350,012 companies)
+- [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,350,013 companies)
 - [Companies using Microsoft Azure](./leads/companies-using-microsoft-azure) (139,307 companies)
 - [Companies using Heroku](./leads/companies-using-heroku) (44,140 companies)
 - [Companies using Netlify](./leads/companies-using-netlify) (131,154 companies)
@@ -374,7 +374,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 ### JavaScript Frameworks
 - [Companies using React](./leads/companies-using-react) (14,667 companies)
 - [Companies using Angular](./leads/companies-using-angular) (56,856 companies)
-- [Companies using Next.js](./leads/companies-using-next.js) (484,587 companies)
+- [Companies using Next.js](./leads/companies-using-next.js) (484,588 companies)
 - [Companies using Nuxt.js](./leads/companies-using-nuxt.js) (154,622 companies)
 - [Companies using jQuery](./leads/companies-using-jquery) (3,189,251 companies)
 - [Companies using Astro](./leads/companies-using-astro) (38,555 companies)
@@ -493,7 +493,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Scully](./leads/companies-using-scully) (1,455 companies)
 
 ### Video Platforms
-- [Companies using YouTube](./leads/companies-using-youtube) (1,961,869 companies)
+- [Companies using YouTube](./leads/companies-using-youtube) (1,961,870 companies)
 - [Companies using Vimeo](./leads/companies-using-vimeo) (253,618 companies)
 - [Companies using Wistia](./leads/companies-using-wistia) (12,290 companies)
 - [Companies using Brightcove](./leads/companies-using-brightcove) (1,688 companies)
