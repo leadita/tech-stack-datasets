@@ -1,5 +1,67 @@
 [
   {
+    "domain": "scottmacleod.com",
+    "title": "ScottMacLeod.com's Anthropology of Information Technology & Counterculture",
+    "business_name": "",
+    "country": "VEN",
+    "seo_score": 72,
+    "tech_spend": 41580,
+    "crawled_at": "2026-07-28T09:56:19.968414721Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Amazon Widgets",
+      "Apache",
+      "Band Camp",
+      "BigCommerce",
+      "Camp",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Ektron",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Handshake",
+      "Instagram Follow Button",
+      "Livestream",
+      "Medium",
+      "NFOrce Internet",
+      "Python",
+      "QUIC",
+      "Scoop It",
+      "Shopify",
+      "Shopify Collabs",
+      "Telegram",
+      "Twitter Ads",
+      "University or College",
+      "Walmart",
+      "WordPress",
+      "YouTube",
+      "Zoom Video Conferencing",
+      "about.me"
+    ]
+  },
+  {
+    "domain": "nainanalytics.in",
+    "title": "Rondla Narasimha Reddy — Data Analyst",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 803,
+    "crawled_at": "2026-07-28T01:23:19.969127263Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "InitiativeS",
+      "Python",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "astraalis.dev",
     "title": "Astraalis AI — Build · Operate · AI | Client Software & AI-Native Products",
     "business_name": "Astraalis AI",
@@ -14409,51 +14471,6 @@
       "Salesforce Hosted",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "kushfineartsgallery.com",
-    "title": "Vladimir Kush - Kush Fine Art",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 540,
-    "crawled_at": "2026-06-30T05:17:19.968037131Z",
-    "technologies": [
-      "Constant Contact",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Harbor",
-      "Instagram Follow Button",
-      "Microsoft Authentication Library for JavaScript",
-      "PHP",
-      "Python",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "helixcode.in",
-    "title": "72Orionx — Our Story | Web & Software Development Studio, Bangalore",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 62,
-    "tech_spend": "",
-    "crawled_at": "2026-06-30T04:50:19.96875955Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GZIP Module",
-      "Next.js",
-      "Nginx",
-      "Pleroma",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
