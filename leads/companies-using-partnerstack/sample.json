@@ -1,5 +1,32 @@
 [
   {
+    "domain": "lessonswithlauren.co",
+    "title": "LessonsWithLauren",
+    "business_name": "LessonsWithLauren",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 43740,
+    "crawled_at": "2026-07-28T05:41:19.968515351Z",
+    "technologies": [
+      "Apollo IO",
+      "Calendly",
+      "DC74",
+      "Financial Services Guide",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "PWA",
+      "PartnerStack",
+      "RM Education",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "gbcbcgive.com",
     "title": "Grace Baptist Church Battle Creek",
     "business_name": "",
@@ -2904,33 +2931,6 @@
       "Zeffy",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "lessonswithlauren.co",
-    "title": "LessonsWithLauren",
-    "business_name": "LessonsWithLauren",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 43740,
-    "crawled_at": "2026-05-14T22:47:51.363701792Z",
-    "technologies": [
-      "Apollo IO",
-      "Calendly",
-      "DC74",
-      "Financial Services Guide",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "PWA",
-      "PartnerStack",
-      "RM Education",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
     ]
   },
   {
