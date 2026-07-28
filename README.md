@@ -145,7 +145,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 
 ### Cloud Providers
 - [Companies using Amazon](./leads/companies-using-amazon) (2,376,528 companies)
-- [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,350,014 companies)
+- [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,350,013 companies)
 - [Companies using Microsoft Azure](./leads/companies-using-microsoft-azure) (139,307 companies)
 - [Companies using Heroku](./leads/companies-using-heroku) (44,140 companies)
 - [Companies using Netlify](./leads/companies-using-netlify) (131,154 companies)
@@ -493,7 +493,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Scully](./leads/companies-using-scully) (1,455 companies)
 
 ### Video Platforms
-- [Companies using YouTube](./leads/companies-using-youtube) (1,961,870 companies)
+- [Companies using YouTube](./leads/companies-using-youtube) (1,961,869 companies)
 - [Companies using Vimeo](./leads/companies-using-vimeo) (253,618 companies)
 - [Companies using Wistia](./leads/companies-using-wistia) (12,290 companies)
 - [Companies using Brightcove](./leads/companies-using-brightcove) (1,688 companies)
@@ -503,7 +503,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using DailyMotion Video](./leads/companies-using-dailymotion-video) (3,277 companies)
 
 ### Web Fonts & Icons
-- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,892,347 companies)
+- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,892,346 companies)
 - [Companies using Font Awesome](./leads/companies-using-font-awesome) (816,071 companies)
 - [Companies using MyFonts](./leads/companies-using-myfonts) (3,263 companies)
 - [Companies using Fontshare](./leads/companies-using-fontshare) (2,693 companies)
