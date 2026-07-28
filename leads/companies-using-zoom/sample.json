@@ -1,5 +1,45 @@
 [
   {
+    "domain": "scottmacleod.com",
+    "title": "ScottMacLeod.com's Anthropology of Information Technology & Counterculture",
+    "business_name": "",
+    "country": "VEN",
+    "seo_score": 72,
+    "tech_spend": 41580,
+    "crawled_at": "2026-07-28T09:56:19.968414721Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Amazon Widgets",
+      "Apache",
+      "Band Camp",
+      "BigCommerce",
+      "Camp",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Ektron",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Handshake",
+      "Instagram Follow Button",
+      "Livestream",
+      "Medium",
+      "NFOrce Internet",
+      "Python",
+      "QUIC",
+      "Scoop It",
+      "Shopify",
+      "Shopify Collabs",
+      "Telegram",
+      "Twitter Ads",
+      "University or College",
+      "Walmart",
+      "WordPress",
+      "YouTube",
+      "Zoom Video Conferencing",
+      "about.me"
+    ]
+  },
+  {
     "domain": "1cityimage.com",
     "title": "Custom Brochures, Corporate Stores & Marketing Solutions | District Publishing",
     "business_name": "District Publishing",
@@ -17498,34 +17538,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "Zoom Video Conferencing",
       "eLand"
-    ]
-  },
-  {
-    "domain": "yassqueentribe.store",
-    "title": "yassqueentribe (@yassqueentribe) | Support my next big project",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 15368,
-    "crawled_at": "2026-06-04T14:17:19.969555074Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Beacons",
-      "GZIP Module",
-      "Giphy",
-      "Google Cloud",
-      "Google Forms",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Linktree",
-      "Microdata for Google Shopping",
-      "Nationwide Mortgage Licensing System and Registry",
-      "Next.js",
-      "PWA",
-      "SMC",
-      "Subversion",
-      "UTF-8",
-      "Zoom Video Conferencing"
     ]
   }
 ]
