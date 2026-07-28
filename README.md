@@ -105,7 +105,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using AutoLeadStar](./leads/companies-using-autoleadstar) (76 companies)
 
 ### Backend & API Development
-- [Companies using PHP](./leads/companies-using-php) (2,952,768 companies)
+- [Companies using PHP](./leads/companies-using-php) (2,952,769 companies)
 - [Companies using Python](./leads/companies-using-python) (151,200 companies)
 - [Companies using Laravel](./leads/companies-using-laravel) (5,136 companies)
 - [Companies using Django](./leads/companies-using-django) (969 companies)
@@ -376,7 +376,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Angular](./leads/companies-using-angular) (56,856 companies)
 - [Companies using Next.js](./leads/companies-using-next.js) (484,587 companies)
 - [Companies using Nuxt.js](./leads/companies-using-nuxt.js) (154,622 companies)
-- [Companies using jQuery](./leads/companies-using-jquery) (3,189,250 companies)
+- [Companies using jQuery](./leads/companies-using-jquery) (3,189,251 companies)
 - [Companies using Astro](./leads/companies-using-astro) (38,555 companies)
 
 ### Lead Generation
@@ -411,7 +411,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 ### Performance Optimization
 - [Companies using EWWW Image Optimizer](./leads/companies-using-ewww-image-optimizer) (16,304 companies)
 - [Companies using Smush Image Optimization](./leads/companies-using-smush-image-optimization) (38,715 companies)
-- [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,156,061 companies)
+- [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,156,062 companies)
 
 ### Popups & Modals
 - [Companies using Elfsight](./leads/companies-using-elfsight) (76,799 companies)
@@ -515,7 +515,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 ### Web Servers
 - [Companies using NGINX](./leads/companies-using-nginx) (1,459,058 companies)
 - [Companies using Apache](./leads/companies-using-apache) (1,423,100 companies)
-- [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,156,061 companies)
+- [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,156,062 companies)
 - [Companies using OpenResty](./leads/companies-using-openresty) (270,291 companies)
 - [Companies using Apache Tomcat](./leads/companies-using-apache-tomcat) (568 companies)
 
