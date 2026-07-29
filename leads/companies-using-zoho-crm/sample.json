@@ -1,5 +1,33 @@
 [
   {
+    "domain": "theloftsinmidtown.com",
+    "title": "Manhattan Loft and Rooftop Event Space | The Loft in Midtown",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 3026,
+    "crawled_at": "2026-07-29T11:58:46.753229111Z",
+    "technologies": [
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "ElementUI",
+      "FormSubmit",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "LiteSpeed",
+      "QUIC",
+      "Tailwind CSS",
+      "Tawk",
+      "Vimeo",
+      "Zoho CRM",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "rentguruz.online",
     "title": "Best Car Rental Management Software | RentGuruz",
     "business_name": "Rentguruz",
@@ -2980,34 +3008,6 @@
     "seo_score": 72,
     "tech_spend": 3026,
     "crawled_at": "2026-05-29T20:38:11.961231957Z",
-    "technologies": [
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ElementUI",
-      "FormSubmit",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "LiteSpeed",
-      "QUIC",
-      "Tailwind CSS",
-      "Tawk",
-      "Vimeo",
-      "Zoho CRM",
-      "jsDelivr",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "theloftinmidtown.com",
-    "title": "Manhattan Loft and Rooftop Event Space | The Loft in Midtown",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 3026,
-    "crawled_at": "2026-05-29T20:38:11.961007609Z",
     "technologies": [
       "Bulma",
       "CDN JS",
