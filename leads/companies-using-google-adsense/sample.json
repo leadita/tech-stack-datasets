@@ -1,5 +1,33 @@
 [
   {
+    "domain": "leadbiker.com",
+    "title": "Harley Davidson and Indian Motorcycle - Leadbiker.com",
+    "business_name": "Leadbiker.com",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 18312,
+    "crawled_at": "2026-07-29T05:05:19.968647504Z",
+    "technologies": [
+      "Alternate Protocol",
+      "DAV",
+      "GoDaddy",
+      "Google",
+      "Google Adsense",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google My Business",
+      "Google Reseller",
+      "Line2",
+      "Microdata for Google Shopping",
+      "PWA",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "smartshadespecialists.com",
     "title": "Home | Smart Shade Specialists LLC | Custom Window Treatments",
     "business_name": "Smart Shade Specialists LLC",
@@ -18791,34 +18819,6 @@
       "WordPress",
       "WordPress Multisite",
       "WordPress Related Posts",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "am-devel.com",
-    "title": "Hear the truth in the morning - Morning's Compass for Clarity",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 82,
-    "tech_spend": 5868,
-    "crawled_at": "2026-06-17T13:02:19.969330632Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Cisco/Arrowpoint Content Service Switch",
-      "GZIP Module",
-      "Google Adsense",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google Reseller",
-      "HostGator",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
       "YouTube"
     ]
   }

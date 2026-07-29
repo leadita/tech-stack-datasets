@@ -145,7 +145,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 
 ### Cloud Providers
 - [Companies using Amazon](./leads/companies-using-amazon) (2,376,535 companies)
-- [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,350,061 companies)
+- [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,350,063 companies)
 - [Companies using Microsoft Azure](./leads/companies-using-microsoft-azure) (139,308 companies)
 - [Companies using Heroku](./leads/companies-using-heroku) (44,140 companies)
 - [Companies using Netlify](./leads/companies-using-netlify) (131,154 companies)
@@ -494,7 +494,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 
 ### Video Platforms
 - [Companies using YouTube](./leads/companies-using-youtube) (1,961,876 companies)
-- [Companies using Vimeo](./leads/companies-using-vimeo) (253,618 companies)
+- [Companies using Vimeo](./leads/companies-using-vimeo) (253,619 companies)
 - [Companies using Wistia](./leads/companies-using-wistia) (12,290 companies)
 - [Companies using Brightcove](./leads/companies-using-brightcove) (1,688 companies)
 - [Companies using Kaltura](./leads/companies-using-kaltura) (496 companies)
@@ -503,7 +503,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using DailyMotion Video](./leads/companies-using-dailymotion-video) (3,277 companies)
 
 ### Web Fonts & Icons
-- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,892,394 companies)
+- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,892,396 companies)
 - [Companies using Font Awesome](./leads/companies-using-font-awesome) (816,075 companies)
 - [Companies using MyFonts](./leads/companies-using-myfonts) (3,263 companies)
 - [Companies using Fontshare](./leads/companies-using-fontshare) (2,693 companies)
@@ -514,7 +514,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 
 ### Web Servers
 - [Companies using NGINX](./leads/companies-using-nginx) (1,459,064 companies)
-- [Companies using Apache](./leads/companies-using-apache) (1,423,117 companies)
+- [Companies using Apache](./leads/companies-using-apache) (1,423,118 companies)
 - [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,156,069 companies)
 - [Companies using OpenResty](./leads/companies-using-openresty) (270,291 companies)
 - [Companies using Apache Tomcat](./leads/companies-using-apache-tomcat) (568 companies)
