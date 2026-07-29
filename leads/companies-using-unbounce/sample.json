@@ -1,5 +1,36 @@
 [
   {
+    "domain": "schmidtdisturber.ca",
+    "title": "Carl Schmidt - AI Strategy Advisor",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 41568,
+    "crawled_at": "2026-07-29T07:26:19.968793554Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "AiNET",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Hugo",
+      "Instagram Follow Button",
+      "Plausible Analytics",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "Unbounce"
+    ]
+  },
+  {
     "domain": "amazonanalyzer.com",
     "title": "Bulk Analysis & Profit Calculation Software For Amazon Sellers",
     "business_name": "Analyzer.Tools",
