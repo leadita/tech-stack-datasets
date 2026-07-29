@@ -6035,34 +6035,5 @@
       "Ntent",
       "Zeald"
     ]
-  },
-  {
-    "domain": "corvettecapital.com",
-    "title": "Used Corvettes St. Charles | Used Cars For Sale | Schroeder Motors",
-    "business_name": "",
-    "country": "",
-    "seo_score": 82,
-    "tech_spend": 2440,
-    "crawled_at": "2025-12-19T21:28:32.761287302Z",
-    "technologies": [
-      "Column Shortcodes",
-      "Edmunds",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Ruby on Rails",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8"
-    ]
   }
 ]
