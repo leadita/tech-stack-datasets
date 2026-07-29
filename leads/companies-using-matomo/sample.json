@@ -1,5 +1,21 @@
 [
   {
+    "domain": "iuoe946.ca",
+    "title": "Local 946 New Brunswick - Official Website",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 751,
+    "crawled_at": "2026-07-28T19:53:19.968650862Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Matomo",
+      "Matomo Tag Manager",
+      "NFOrce Internet"
+    ]
+  },
+  {
     "domain": "elevate-med.tech",
     "title": "Medical Device & SaMD Consulting - Elevate MedTech",
     "business_name": "",
@@ -17879,38 +17895,6 @@
       "QUIC",
       "Styled Components",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "quartetmedicalgroup.net",
-    "title": "Quartet Medical - Quartet Health",
-    "business_name": "Quartet Health",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 2171,
-    "crawled_at": "2026-06-09T16:17:19.969720378Z",
-    "technologies": [
-      "Alternate Protocol",
-      "AthenaHealth",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Instagram Follow Button",
-      "Matomo",
-      "Matomo Tag Manager",
-      "Microdata for Google Shopping",
-      "PHP",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "WP Engine",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]

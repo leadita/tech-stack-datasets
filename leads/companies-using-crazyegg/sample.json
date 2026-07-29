@@ -1,5 +1,40 @@
 [
   {
+    "domain": "offmadisonave.com",
+    "title": "Off Madison Ave",
+    "business_name": "Site Name",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 4768,
+    "crawled_at": "2026-07-29T11:07:49.629020908Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "BigScoots",
+      "CookieYes",
+      "CrazyEgg",
+      "ElementUI",
+      "EmbedPress",
+      "Fastly",
+      "Font Awesome",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Gravity",
+      "Gravity Forms",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Tailwind CSS",
+      "Theme In WP",
+      "UTF-8",
+      "Vimeo",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "fishingcharterdestin.com",
     "title": "Guided Fishing Trips for Family & Group, Deep Sea Fishing Charter Destin FL - Sure Lure Charters",
     "business_name": "Sure Lure Charters",
@@ -21960,37 +21995,6 @@
       "University or College",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "nacwa.org",
-    "title": "National Association of Clean Water Agencies",
-    "business_name": "",
-    "country": "BRA",
-    "seo_score": 72,
-    "tech_spend": 35167,
-    "crawled_at": "2026-05-24T16:48:17.583953342Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "AJAX Libraries API",
-      "AWS WAF Challenge",
-      "CrazyEgg",
-      "Fireblade",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Microsoft Azure",
-      "NFOrce Internet",
-      "Tailwind CSS",
-      "Telerik CDN",
-      "Twitter Ads",
-      "UTF-8",
-      "Visual Studio",
-      "YouTube",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
