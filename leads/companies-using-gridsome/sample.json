@@ -1,5 +1,26 @@
 [
   {
+    "domain": "ourgenpeace.com",
+    "title": "Our Gen Peace - Our Gen Peace",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 1299,
+    "crawled_at": "2026-07-29T15:11:40.68059588Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "CoreUI",
+      "Financial Services Guide",
+      "Gridsome",
+      "Netlify",
+      "Sanity",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "mspiess.now.sh",
     "title": "Personal website - Marc Spiess",
     "business_name": "",
@@ -12000,29 +12021,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "srddrylining.com",
-    "title": "SRD Drylining | Drylining, SFS Framing and Plastering Contractor covering South Wales and South West England.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 38778,
-    "crawled_at": "2026-01-25T10:58:43.44773196Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "Google Related Website Sites",
-      "Gridsome",
-      "Idaq",
-      "K2F",
-      "Netlify",
-      "No-Q",
-      "Onyx Internet",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
