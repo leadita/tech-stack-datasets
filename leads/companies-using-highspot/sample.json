@@ -1,5 +1,37 @@
 [
   {
+    "domain": "cbawesttools.com",
+    "title": "CBA West Tools",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 87912,
+    "crawled_at": "2026-07-29T21:37:41.897679902Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Better Lead Generation Services",
+      "Fireblade",
+      "Global Privacy Control",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Highspot",
+      "Kaltura",
+      "Line2",
+      "Microsoft 365",
+      "PHP",
+      "PWA",
+      "QUIC",
+      "Testimonial Tree",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "theguidancecenterbenefits.com",
     "title": "Open Enrollment Resource Center",
     "business_name": "",
@@ -1837,36 +1869,6 @@
       "YouTube",
       "Zendesk Embeddables",
       "eLand"
-    ]
-  },
-  {
-    "domain": "cbawesttools.com",
-    "title": "CBA West Tools",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 37948,
-    "crawled_at": "2025-12-20T02:34:32.745854818Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Fireblade",
-      "Global Privacy Control",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Highspot",
-      "Kaltura",
-      "Line2",
-      "PHP",
-      "PWA",
-      "QUIC",
-      "Testimonial Tree",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight",
-      "YouTube"
     ]
   }
 ]

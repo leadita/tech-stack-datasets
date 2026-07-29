@@ -2647,41 +2647,5 @@
       "Wix Media",
       "mlcom"
     ]
-  },
-  {
-    "domain": "realtimeseismic.com",
-    "title": "Home | Realtimeseismic",
-    "business_name": "Realtime Seismic",
-    "country": "GBR",
-    "seo_score": 70,
-    "tech_spend": 59286,
-    "crawled_at": "2025-12-19T21:40:32.752915268Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "EmbedPress",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "LiteSpeed",
-      "MailChimp",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Seismic",
-      "Theme In WP",
-      "UTF-8",
-      "UberMenu",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]

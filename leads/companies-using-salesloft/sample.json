@@ -1,5 +1,42 @@
 [
   {
+    "domain": "totaltr.com",
+    "title": "Home - Total Technology Inc",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 75,
+    "tech_spend": 24976,
+    "crawled_at": "2026-07-29T15:52:58.222005936Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Easy Fancybox",
+      "EmbedPress",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Lazy Load for WordPress",
+      "Microdata for Google Shopping",
+      "Page scroll to id",
+      "Perl",
+      "SalesLoft",
+      "SiteOrigin",
+      "SiteOrigin Panels",
+      "StudioPress",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Vantage",
+      "WP Engine",
+      "WP Rocket",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery Pin It Button for Images"
+    ]
+  },
+  {
     "domain": "birgeandheldshop.com",
     "title": "AI-powered digital experiences that win | Sitecore",
     "business_name": "",
@@ -8918,43 +8955,6 @@
     ]
   },
   {
-    "domain": "totaltechnology.com",
-    "title": "Home - Total Technology Inc",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 75,
-    "tech_spend": 24976,
-    "crawled_at": "2026-04-20T22:41:20.01056936Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Easy Fancybox",
-      "EmbedPress",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Lazy Load for WordPress",
-      "Microdata for Google Shopping",
-      "Page scroll to id",
-      "Perl",
-      "SalesLoft",
-      "SiteOrigin",
-      "SiteOrigin Panels",
-      "StudioPress",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vantage",
-      "WP Engine",
-      "WP Rocket",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery Pin It Button for Images"
-    ]
-  },
-  {
     "domain": "eliquotraining.com",
     "title": "Online Content Creation & Accessibility Training Courses - Eliquo Training",
     "business_name": "Eliquo Training",
@@ -15967,31 +15967,6 @@
       "WordPress Stats",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "stablesoftware.co",
-    "title": "Stable Software :: Unleash AI. Crush competition.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 10180,
-    "crawled_at": "2025-12-19T21:49:32.756097201Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Headless UI",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "SalesLoft",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
