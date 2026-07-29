@@ -1,5 +1,28 @@
 [
   {
+    "domain": "bangormakerspace.org",
+    "title": "The Bangor Makerspace",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 156,
+    "crawled_at": "2026-07-29T13:22:06.174086477Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Alternate Protocol",
+      "Discord",
+      "DokuWiki",
+      "Google My Business",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Schema Plugin",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "mindbot.me",
     "title": "MindBot — Intelligence for Discord",
     "business_name": "",
@@ -16335,46 +16358,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "atlantis-vrgame.com",
-    "title": "Atlantis | Virtual Reality Adventure Game from VRilliant Studios",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 16908,
-    "crawled_at": "2026-05-28T13:57:15.581228398Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apache",
-      "Complianz",
-      "Contact Form Plugin",
-      "Discord",
-      "Elementor",
-      "Elementor Addon Elements",
-      "EmbedPress",
-      "Essential Addons for Elementor",
-      "Express",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Line2",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Premium Addons for Elementor",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "WP Fastest Cache",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
