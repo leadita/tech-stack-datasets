@@ -1,5 +1,42 @@
 [
   {
+    "domain": "speechandvoiceworks.com",
+    "title": "Speech & Voice Works: Voice Coaching & Speech Therapy | Culver City, California",
+    "business_name": "Speech & Voice Works",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 119116,
+    "crawled_at": "2026-07-29T16:45:50.45705684Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Contento",
+      "Express",
+      "FormSubmit",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Kajabi",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Newsletter for Wordpress",
+      "Perl",
+      "Pico CSS",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "Tawk",
+      "UTF-8",
+      "Umbler",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "131referrals.com",
     "title": "Level Up Coaching | Rachel Adams Lee",
     "business_name": "",
@@ -18152,32 +18189,6 @@
       "Vimeo",
       "Vimeo CDN",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "jenniferwelsh.me",
-    "title": "Jennifer Welsh | I empower women to take control of their finances",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 69120,
-    "crawled_at": "2026-05-08T02:08:19.989083278Z",
-    "technologies": [
-      "Apache",
-      "Calendly",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Kajabi",
-      "NFOrce Internet",
-      "Network Advertising Initiative",
-      "Perl",
-      "SMC",
-      "TermsFeed",
-      "University or College"
     ]
   }
 ]
