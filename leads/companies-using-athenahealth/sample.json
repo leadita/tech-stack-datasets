@@ -1,5 +1,36 @@
 [
   {
+    "domain": "nestfamilycare.com",
+    "title": "The Nest Family Wellness | Ooltewah & Hixson Primary Care",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 121333,
+    "crawled_at": "2026-07-29T14:50:03.826025181Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "AthenaHealth",
+      "Contento",
+      "DAV",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "chcvein.com",
     "title": "Vein Care Specialist in Oklahoma | CardioVascular Health Clinic",
     "business_name": "",
@@ -18049,45 +18080,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "primerhealthcare.com",
-    "title": "Family Practice | San Bernardino, CA | PriMer Healthcare",
-    "business_name": "PriMer Healthcare",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 128141,
-    "crawled_at": "2026-05-06T00:59:19.996554342Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "AthenaHealth",
-      "Content Delivery Network",
-      "DAV",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google My Business",
-      "Google Related Website Sites",
-      "K2F",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PWA",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "Sentry",
-      "SiteW",
-      "Subversion",
-      "Thank You",
-      "UTF-8",
-      "Vector Internet Services",
-      "WP Booking Calendar",
-      "Wix",
-      "Wix Media",
-      "mlcom"
     ]
   }
 ]

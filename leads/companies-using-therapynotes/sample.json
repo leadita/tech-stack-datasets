@@ -1,5 +1,31 @@
 [
   {
+    "domain": "eldertreecounselingllc.net",
+    "title": "Elder Tree Counseling LLC",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 92737,
+    "crawled_at": "2026-07-29T11:46:37.979236673Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Aruba",
+      "Express",
+      "FormSubmit",
+      "GZIP Module",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "TherapyNotes",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "matthewwilliams.agency",
     "title": "Web Design for Therapists & Psychiatrists | HIPAA-Conscious & Hand-Crafted | Matthew Williams",
     "business_name": "Websites for Therapists & Psychiatrists — Matthew Williams",
@@ -5804,35 +5830,6 @@
       "WordPress Multisite",
       "eClinicalWorks",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "eldertreecounselingllc.net",
-    "title": "Elder Tree Counseling LLC",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 95177,
-    "crawled_at": "2025-12-19T21:31:32.774425094Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Aruba",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "TherapyNotes",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
