@@ -1,5 +1,28 @@
 [
   {
+    "domain": "automaticfiresystems.net",
+    "title": "Fire Protection Services | Birmingham, AL | Automatic Fire Systems",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 101748,
+    "crawled_at": "2026-07-29T13:53:28.832010976Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Duda",
+      "Fireblade",
+      "GZIP Module",
+      "Google My Business",
+      "Nginx",
+      "Smooch",
+      "Tealium",
+      "Thryv",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "allprotreeandbushservice.com",
     "title": "Land Clearing | Davie, FL",
     "business_name": "",
@@ -15040,33 +15063,6 @@
       "Tealium",
       "Thryv",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "itsstraightcleaning.com",
-    "title": "Carpet & Floor Cleaning Services – Raleigh, NC",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 72,
-    "tech_spend": 85728,
-    "crawled_at": "2026-05-26T22:14:19.968298123Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Duda",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Housecall Pro",
-      "Nginx",
-      "Smooch",
-      "Tailwind CSS",
-      "Tealium",
-      "UTF-8",
-      "Yelp Badge"
     ]
   }
 ]
