@@ -1,5 +1,31 @@
 [
   {
+    "domain": "smartmoney111.com",
+    "title": "Enfurio - Where Divine Intelligence (DI) conquers that which is \"Artificial\" (AI)",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 18799,
+    "crawled_at": "2026-07-29T10:02:19.967632439Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Authorize.net",
+      "Better Lead Generation Services",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Cornerstone",
+      "Fireblade",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Nuxt.js",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "alchemistpainting.com",
     "title": "Professional Painters in Calgary AB",
     "business_name": "",
@@ -15680,32 +15706,6 @@
       "Thank You",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "myhealthyreach.com",
-    "title": "My Healthy Reach",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 1053,
-    "crawled_at": "2026-06-10T21:03:05.501579495Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Authorize.net",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Ethy",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google My Business",
-      "Nuxt.js",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
