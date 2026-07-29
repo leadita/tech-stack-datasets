@@ -1,5 +1,53 @@
 [
   {
+    "domain": "wendyscoinspeoria.com",
+    "title": "Wendy's Creative Collections & Coins",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 75508,
+    "crawled_at": "2026-07-29T15:31:59.892102928Z",
+    "technologies": [
+      "Cart.com",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "LiteSpeed",
+      "OpenCart",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Yelp Badge",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "nanoflow.com.sg",
+    "title": "NanoFlow",
+    "business_name": "",
+    "country": "SGP",
+    "seo_score": 72,
+    "tech_spend": 75508,
+    "crawled_at": "2026-07-29T15:27:02.565315751Z",
+    "technologies": [
+      "Apache",
+      "Cart.com",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "OpenCart",
+      "QUIC",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "wetscourses.com",
     "title": "WETS Courses",
     "business_name": "",
@@ -12210,65 +12258,6 @@
       "UTF-8",
       "Yandex Hosting",
       "Yandex Metrika"
-    ]
-  },
-  {
-    "domain": "artany.net",
-    "title": "Artany",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 30003,
-    "crawled_at": "2026-05-04T15:29:19.983945488Z",
-    "technologies": [
-      "Adult Content",
-      "Cart.com",
-      "Express",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "OpenCart",
-      "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "plantastic4.com",
-    "title": "Thailand Tropical Aroid Plants Nursery, Exporter, Supplier | Wholesale & Retail Discount Offers",
-    "business_name": "",
-    "country": "THA",
-    "seo_score": 72,
-    "tech_spend": 126770,
-    "crawled_at": "2026-05-04T15:17:19.997707471Z",
-    "technologies": [
-      "Aruba",
-      "AutoComplete",
-      "Cart.com",
-      "CookieConsent",
-      "DAV",
-      "Facebook Customer Chat SDK",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Hexo",
-      "Nginx",
-      "No-Q",
-      "OpenCart",
-      "QUIC",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "eLand",
-      "reCAPTCHA"
     ]
   }
 ]
