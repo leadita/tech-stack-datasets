@@ -1,5 +1,32 @@
 [
   {
+    "domain": "marerooftop.com",
+    "title": "Mare Rooftop - East Side, Providence, RI",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 5977,
+    "crawled_at": "2026-07-29T12:06:52.882223042Z",
+    "technologies": [
+      "ElementUI",
+      "Fastly",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microsoft Authentication Library for JavaScript",
+      "OpenTable",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "WP Job Manager",
+      "Yelp Badge",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "ocean362.com",
     "title": "Ocean 362 | Restaurant in St. John USVI",
     "business_name": "",
@@ -17089,31 +17116,6 @@
       "WooCommerce Checkout",
       "WordPress",
       "WordPress Multisite",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "saintny.com",
-    "title": "Saint Restaurant Bar & Speakeasy - New York, NY",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 9977,
-    "crawled_at": "2026-05-24T06:14:01.185404297Z",
-    "technologies": [
-      "Cloudinary",
-      "ElementUI",
-      "Fastly",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microsoft Authentication Library for JavaScript",
-      "OpenTable",
-      "Tailwind CSS",
-      "UTF-8",
-      "WP Job Manager",
       "jQuery"
     ]
   }

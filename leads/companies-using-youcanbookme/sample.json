@@ -1,5 +1,34 @@
 [
   {
+    "domain": "algrayloanadvisor.com",
+    "title": "Trusted Mortgage Loan Officer | Home Loans, Refinance & Pre-Approval",
+    "business_name": "NEXA Lending LLC.",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 18448,
+    "crawled_at": "2026-07-29T12:32:28.437370663Z",
+    "technologies": [
+      "Amazon S3 CDN",
+      "Apture Linking Platform",
+      "Fireblade",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Investor Relations",
+      "Microdata for Google Shopping",
+      "Nationwide Mortgage Licensing System and Registry",
+      "Next.js",
+      "Pleroma",
+      "Sitelinks Search Box",
+      "Storyblocks",
+      "Twitter Ads",
+      "UTF-8",
+      "YouCanBookMe"
+    ]
+  },
+  {
     "domain": "www.ekomipartner.com",
     "title": "eKomi Partnership Programme",
     "business_name": "",
@@ -16994,45 +17023,6 @@
       "Website Tonight",
       "YouCanBookMe",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "restorationacademy.org",
-    "title": "Restoration Academy",
-    "business_name": "4600 Carnegie Ave",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 5021,
-    "crawled_at": "2026-04-20T16:32:19.981431192Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "Express",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouCanBookMe",
-      "YouTube",
-      "eLand"
     ]
   }
 ]

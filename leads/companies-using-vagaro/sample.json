@@ -1,5 +1,35 @@
 [
   {
+    "domain": "serenitynaturalhealth.com",
+    "title": "Serenity Natural Health | Transform Your Health Today",
+    "business_name": "Serenity Natural Health",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 101993,
+    "crawled_at": "2026-07-29T11:07:49.621875476Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Contento",
+      "Express",
+      "Fullscript",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "Vagaro",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "gisellebatcheller.com",
     "title": "gisellebatcheller Official: TikTok, Instagram, X, Facebook | Linktree",
     "business_name": "",
@@ -16873,27 +16903,6 @@
       "Yelp Badge",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "bossbarbershoppeoria.com",
-    "title": "Boss Barbershop – Arizona's Top Tier Barbershop",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 709,
-    "crawled_at": "2026-05-26T09:08:19.970780354Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "EmbedPress",
-      "GZIP Module",
-      "Google My Business",
-      "Instagram Follow Button",
-      "UTF-8",
-      "Vagaro",
-      "WordPress",
-      "WordPress Multisite"
     ]
   }
 ]
