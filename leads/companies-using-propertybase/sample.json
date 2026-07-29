@@ -1,5 +1,37 @@
 [
   {
+    "domain": "chrisratliffproperties.com",
+    "title": "Chris Ratliff",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 3369,
+    "crawled_at": "2026-07-29T18:30:56.819548472Z",
+    "technologies": [
+      "Amazon S3 CDN",
+      "CoreUI",
+      "Fastly CDN",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Homes.com CMS",
+      "New Relic",
+      "Perl",
+      "PropertyBase",
+      "QUIC",
+      "Storyblocks",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "upstateidaholiving.com",
     "title": "Travis Potter",
     "business_name": "",
@@ -4261,41 +4293,6 @@
       "jQuery Pin It Button for Images",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "chrisratliffproperties.com",
-    "title": "Chris Ratliff",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 4938,
-    "crawled_at": "2025-12-20T00:57:41.940963084Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Apache",
-      "Apture Linking Platform",
-      "CoreUI",
-      "Fastly CDN",
-      "GZIP Module",
-      "GetResponse",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Homes.com CMS",
-      "New Relic",
-      "Phusion Passenger Enterprise",
-      "PropertyBase",
-      "QUIC",
-      "Rackspace CDN",
-      "UTF-8",
-      "reCAPTCHA"
     ]
   }
 ]
