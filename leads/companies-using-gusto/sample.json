@@ -1,5 +1,35 @@
 [
   {
+    "domain": "threatigator.com",
+    "title": "Wirespeed | Managed Detection & Response",
+    "business_name": "Wirespeed",
+    "country": "VEN",
+    "seo_score": 92,
+    "tech_spend": 25150,
+    "crawled_at": "2026-07-29T12:25:00.327633238Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "Fastly",
+      "Fireblade",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Gusto",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "PWA",
+      "Pleroma",
+      "QUIC",
+      "Radix UI",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Wistia",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "msbeancounter.com",
     "title": "Ms. Bean Counter, LLC",
     "business_name": "",
@@ -6914,36 +6944,6 @@
       "WF Cookie Consent",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "taco.company",
-    "title": "Wirespeed | Managed Detection & Response",
-    "business_name": "Wirespeed",
-    "country": "VEN",
-    "seo_score": 92,
-    "tech_spend": 25150,
-    "crawled_at": "2026-04-30T13:25:41.697651993Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "Fastly",
-      "Fireblade",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Gusto",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "PWA",
-      "Pleroma",
-      "QUIC",
-      "Radix UI",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Wistia",
-      "shadcn ui"
     ]
   },
   {
