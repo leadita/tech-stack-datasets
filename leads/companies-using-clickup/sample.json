@@ -1,5 +1,35 @@
 [
   {
+    "domain": "partssolutions.ca",
+    "title": "AMSOIL Synthetic Oil in Bobcaygeon, ON | Parts Solutions",
+    "business_name": "AMSOIL INC.",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 16560,
+    "crawled_at": "2026-07-29T16:31:24.386316189Z",
+    "technologies": [
+      "Apache",
+      "ByteDance",
+      "ClickUp",
+      "Content Delivery Network",
+      "Facebook Reseller",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "LinkedIn Pixel",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Ntent",
+      "QUIC",
+      "Stripe",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "renderkick.com",
     "title": "RenderKick – Technical Animation Services",
     "business_name": "",
@@ -18860,32 +18890,6 @@
       "QUIC",
       "Stripe",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "qschoolmanager.com",
-    "title": "Quick School Manager - Easy to use Complete School Management System",
-    "business_name": "",
-    "country": "NGA",
-    "seo_score": 72,
-    "tech_spend": 1032,
-    "crawled_at": "2026-04-01T15:08:20.00272476Z",
-    "technologies": [
-      "Apache",
-      "Calendly",
-      "ClickUp",
-      "Express",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Parcel",
-      "QUIC",
-      "Tailwind CSS",
-      "Tawk",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "WhatsApp Sharing",
-      "jQuery"
     ]
   }
 ]

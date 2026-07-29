@@ -1,5 +1,29 @@
 [
   {
+    "domain": "mbgolfmedia.com",
+    "title": "Brandfolder - The Most Usable Digital Asset Management Platform",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 108300,
+    "crawled_at": "2026-07-29T18:19:50.655421426Z",
+    "technologies": [
+      "Better Lead Generation Services",
+      "Bizible",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Next.js",
+      "Optimizely Recommendations",
+      "QUIC",
+      "Smartsheet",
+      "Subversion",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "acnl.org",
     "title": "Nurse Leadership | ACNL - Association of California Nurse Leaders | CA",
     "business_name": "",
@@ -1733,29 +1757,6 @@
       "YouTube",
       "jsDelivr",
       "mod_ssl"
-    ]
-  },
-  {
-    "domain": "brandfolder.com",
-    "title": "Brandfolder - The Most Usable Digital Asset Management Platform",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 108300,
-    "crawled_at": "2026-05-24T12:06:56.86194608Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "Bizible",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Next.js",
-      "Optimizely Recommendations",
-      "QUIC",
-      "Smartsheet",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
@@ -17774,48 +17775,6 @@
       "Squarespace",
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "brooksideus.com",
-    "title": "Cloud Based Solutions to Everyday Problems - Brookside Consulting",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 136595,
-    "crawled_at": "2025-12-20T00:13:32.75516339Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Bing Cashback",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Constant Contact",
-      "Content Delivery Network",
-      "DAV",
-      "Dialpad",
-      "Express",
-      "Financial Services Guide",
-      "Fireblade",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Customer Reviews",
-      "Google Tag Manager",
-      "K2F",
-      "KVH",
-      "NFOrce Internet",
-      "No-Q",
-      "QUIC",
-      "SMC",
-      "Smartsheet",
-      "Subversion",
-      "Twitter Ads",
-      "Unsplash",
-      "WebsiteBuilder",
-      "YouTube",
       "eLand"
     ]
   }
