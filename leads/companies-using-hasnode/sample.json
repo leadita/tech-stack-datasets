@@ -1,5 +1,29 @@
 [
   {
+    "domain": "shakilahmed.com",
+    "title": "Shakil Ahmed - Software Engineer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 708,
+    "crawled_at": "2026-07-29T12:11:49.445513417Z",
+    "technologies": [
+      "Canva Websites",
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Hasnode",
+      "Medium",
+      "Next.js",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "estebanmoreno.link",
     "title": "Esteban Moreno | DevOps Engineer Portfolio",
     "business_name": "",
@@ -12439,28 +12463,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "shakilahmed.com",
-    "title": "Shakil Ahmed - Software Engineer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2025-12-19T21:43:32.770830771Z",
-    "technologies": [
-      "Canva Websites",
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Hasnode",
-      "Medium",
-      "Next.js",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
