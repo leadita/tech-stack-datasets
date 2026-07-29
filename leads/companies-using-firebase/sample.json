@@ -1,5 +1,37 @@
 [
   {
+    "domain": "spase3d.com",
+    "title": "Spase - got models?",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 8308,
+    "crawled_at": "2026-07-29T11:58:46.764433289Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Airtable",
+      "Bulma",
+      "Content Delivery Network",
+      "Fastly",
+      "Firebase",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "QUIC",
+      "Share Link",
+      "Shopify",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vue.js",
+      "YouTube",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "sharespacecarpool.com",
     "title": "ShareSpace Carpool - AI-Powered Carpool Assistant | Save $300/month on Commutes",
     "business_name": "Share Space Technologies L.L.C",
@@ -16345,30 +16377,6 @@
       "Schema Plugin",
       "Subversion",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "waytogrowservices.com",
-    "title": "FreshFlow Pro | Restaurant OS - Live POS, Kitchen & Delivery",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 36736,
-    "crawled_at": "2026-05-25T23:18:35.839523755Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "Firebase",
-      "FormSubmit",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "The Fresh",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
