@@ -1,5 +1,34 @@
 [
   {
+    "domain": "luxforsaleconcierge.com",
+    "title": "Concierge Luxforsale",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 77,
+    "tech_spend": 2829,
+    "crawled_at": "2026-07-29T14:26:02.210574986Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Azion",
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Coming Soon Page",
+      "DAV",
+      "Hotjar",
+      "Instagram Follow Button",
+      "Iubenda",
+      "Microsoft Clarity",
+      "Nginx",
+      "PWA",
+      "Semantic UI",
+      "UTF-8",
+      "Vello",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "chiragh-e-urdu.org",
     "title": "Learn Urdu Online: Classical Urdu Poetry and Prose Hub - Chiragh-e-Urdu",
     "business_name": "Chiragh-e-Urdu",
@@ -14587,29 +14616,6 @@
       "UTF-8",
       "WoWonder",
       "YouTube",
-      "jQuery",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "pastane.com.tr",
-    "title": "Pastane.com.tr - Pastane Dünyası",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 3,
-    "crawled_at": "2026-04-12T21:41:20.005277248Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "DAV",
-      "Google Cloud DNS",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "Semantic UI",
-      "Tawk",
-      "UTF-8",
-      "University or College",
       "jQuery",
       "jsDelivr"
     ]

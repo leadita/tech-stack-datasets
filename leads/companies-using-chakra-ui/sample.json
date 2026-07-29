@@ -1,5 +1,30 @@
 [
   {
+    "domain": "jackalterminal.com",
+    "title": "Jackal Terminal: Confidential, Secure, and Anonymous",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 25000,
+    "crawled_at": "2026-07-29T13:22:06.185949005Z",
+    "technologies": [
+      "Chakra UI",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "DAV",
+      "Fireblade",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Next.js",
+      "Onyx Internet",
+      "PWA",
+      "Pico CSS",
+      "Pleroma",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "sihan.space",
     "title": "Sihan Tawsik",
     "business_name": "",
@@ -12749,24 +12774,6 @@
       "University or College",
       "Vimeo CDN",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "hiredhelperhandyman.com",
-    "title": "The Hired Helper - Veteran-Owned Handyman Services | Beaver County, PA",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-05-05T13:25:34.976178121Z",
-    "technologies": [
-      "Chakra UI",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Next.js",
-      "Pleroma",
-      "UTF-8"
     ]
   }
 ]
