@@ -1,5 +1,66 @@
 [
   {
+    "domain": "cleanwellinside.com",
+    "title": "CleanWell® | Naturally Powerful, Plant-Based Household Products",
+    "business_name": "CleanWell",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 1266,
+    "crawled_at": "2026-07-29T14:39:06.783107387Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Inside",
+      "Microdata for Google Shopping",
+      "MyFonts",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "borrowbox.io",
+    "title": "BorrowBox – Your library in one app",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 116,
+    "crawled_at": "2026-07-29T11:58:46.771441226Z",
+    "technologies": [
+      "Amazon",
+      "Amazon Associates",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon Widgets",
+      "Apache",
+      "Apple Auto Link Maker",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google My Business",
+      "Google Play",
+      "MyFonts",
+      "PWA",
+      "Smart App Banner",
+      "Ubuntu",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "289glengrove.com",
     "title": "289 Glengrove Avenue W | Oxley Real Estate",
     "business_name": "",
@@ -15385,40 +15446,6 @@
     ]
   },
   {
-    "domain": "cleanwelltoday.com",
-    "title": "CleanWell® | Naturally Powerful, Plant-Based Household Products",
-    "business_name": "CleanWell",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 3666,
-    "crawled_at": "2026-05-15T04:41:41.165982726Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Divi",
-      "Elegant Themes",
-      "EmbedPress",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Inside",
-      "Microdata for Google Shopping",
-      "MyFonts",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "dauphinais.net",
     "title": "le-shack graphisme - designer graphique / web designer",
     "business_name": "",
@@ -17337,24 +17364,6 @@
       "eLand",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "tobysmj.com",
-    "title": "Mah Jongg Classes and Events | Toby Salk",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 170,
-    "crawled_at": "2026-05-13T03:29:17.17917019Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Apache",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "MyFonts",
-      "Schema Plugin",
-      "UTF-8"
     ]
   }
 ]
