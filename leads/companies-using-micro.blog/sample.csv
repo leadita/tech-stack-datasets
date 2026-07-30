@@ -1,4 +1,5 @@
 domain,title,business_name,country,seo_score,tech_spend,crawled_at,technologies
+scatteringflowers.com,Scattering Flowers,,,35,60,2026-07-30T02:15:59.580629916Z,"['Alternate Protocol', 'GitHub Hosting', 'Hugo', 'Micro.blog', 'Tailwind CSS', 'UTF-8', 'shadcn ui']"
 donnydavis.us,Donny Davis,,,62,120,2026-06-12T08:08:19.968798904Z,"['Alternate Protocol', 'CDN JS', 'Cloudflare', 'Cloudflare CDN', 'DAV', 'GitHub Hosting', 'Micro.blog', 'Tailwind CSS', 'Twitter Ads', 'UTF-8', 'YouTube']"
 stoneman.page,Stoneman's Corner,,,42,60,2026-06-11T04:52:34.377105142Z,"['Alternate Protocol', 'CDN JS', 'Cloudflare', 'Cloudflare CDN', 'Micro.blog', 'Tailwind CSS', 'UTF-8', 'shadcn ui']"
 liquidglass.fail,LiquidGlass.Fail 💩,,,62,120,2026-06-10T07:03:40.630723546Z,"['Alternate Protocol', 'Hugo', 'Mastodon', 'Micro.blog', 'UTF-8']"
@@ -274,4 +275,3 @@ lincolnmullen.com,Lincoln Mullen | Historian of American religion,,,67,18280,202
 mingo.nl,Mingo.nl: Personal Website of Mingo Hagen,,NLD,67,2718,2025-12-21T00:40:32.74262492Z,"['Adobe ColdFusion', 'Cloudflare', 'Cloudflare CDN', 'Cloudflare Web Analytics', 'Font Awesome', 'Google Analytics', 'Instagram Follow Button', 'Micro.blog', 'Pleroma', 'UTF-8']"
 runs.lol,a weblog · home,,,40,291,2025-12-21T00:10:39.416113154Z,"['Alternate Protocol', 'ArvanCloud', 'Font Awesome', 'GZIP Module', 'GitHub Hosting', 'Micro.blog', 'UTF-8', 'jsDelivr']"
 mustbeart.com,Must Be Art - Paul Williamson,,,30,60,2025-12-20T19:40:32.748836298Z,"['Apache', 'GZIP Module', 'Micro.blog']"
-scatteringflowers.com,Scattering Flowers,,,35,60,2025-12-20T04:55:32.747767731Z,"['Alternate Protocol', 'GitHub Hosting', 'Micro.blog', 'Tailwind CSS', 'UTF-8', 'shadcn ui']"
