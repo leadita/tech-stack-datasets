@@ -1,5 +1,27 @@
 [
   {
+    "domain": "contactter.ai",
+    "title": "AI Platform for Car Dealerships | Contactter.ai | Contactter.ai",
+    "business_name": "Silent Partner AI",
+    "country": "USA",
+    "seo_score": 92,
+    "tech_spend": 20432,
+    "crawled_at": "2026-07-30T04:54:20.261603213Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Calendly",
+      "Content Delivery Network",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel",
+      "VinSolutions",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "bestsoftwareforqualitativedataanalysis.com",
     "title": "In-Depth Analysis and Rankings of Best Software For Qualitative Data Analysis",
     "business_name": "",
@@ -204,27 +226,6 @@
       "WhatsApp Sharing",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "contactter.com",
-    "title": "AI Platform for Car Dealerships | Contactter.ai | Contactter.ai",
-    "business_name": "Silent Partner AI",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 20432,
-    "crawled_at": "2026-06-11T05:42:01.401558982Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Calendly",
-      "Content Delivery Network",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel",
-      "VinSolutions",
-      "YouTube"
     ]
   },
   {
