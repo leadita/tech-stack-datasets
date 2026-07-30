@@ -1,5 +1,31 @@
 [
   {
+    "domain": "imitaxadvisors.com",
+    "title": "Accounting Firm Peoria AZ | Accountant {2nd city}",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 8099,
+    "crawled_at": "2026-07-29T17:21:20.842018479Z",
+    "technologies": [
+      "Apache",
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "QUIC",
+      "QuickBooks Online",
+      "RM Education",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "jfriedcpa.com",
     "title": "Home | J. Fried and Co.",
     "business_name": "",
@@ -10588,32 +10614,6 @@
       "UTF-8",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "imitaxadvisors.com",
-    "title": "Accounting Firm Peoria AZ | Accountant {2nd city}",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 8099,
-    "crawled_at": "2025-12-20T00:19:32.73289341Z",
-    "technologies": [
-      "Apache",
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "QUIC",
-      "QuickBooks Online",
-      "RM Education",
-      "UTF-8"
     ]
   }
 ]
