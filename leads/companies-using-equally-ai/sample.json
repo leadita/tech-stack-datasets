@@ -8730,28 +8730,5 @@
       "accessiBe",
       "jQuery"
     ]
-  },
-  {
-    "domain": "amadeo.co.il",
-    "title": "AMADEO",
-    "business_name": "AMADEO",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 994,
-    "crawled_at": "2025-12-19T23:42:01.192070975Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Equally AI",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA"
-    ]
   }
 ]
