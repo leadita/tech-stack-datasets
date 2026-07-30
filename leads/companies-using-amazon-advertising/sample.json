@@ -1,5 +1,33 @@
 [
   {
+    "domain": "azincourtenergy.com",
+    "title": "Azincourt Energy - Home",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 60,
+    "tech_spend": 13003,
+    "crawled_at": "2026-07-29T18:49:13.816767574Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon Advertising Sizmek Ad Suite",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Joomla!",
+      "Nginx",
+      "PHP",
+      "Prospective",
+      "RokNavMenu",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "trotterproductions.com",
     "title": "Trotter Productions",
     "business_name": "",
@@ -9164,35 +9192,6 @@
       "WordPress",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "azincourtenergy.com",
-    "title": "Azincourt Energy - Home",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 60,
-    "tech_spend": 13003,
-    "crawled_at": "2025-12-20T01:10:32.745390863Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon Advertising Sizmek Ad Suite",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Joomla!",
-      "Nginx",
-      "Prospective",
-      "RokNavMenu",
-      "UTF-8",
-      "YouTube",
-      "jQuery",
-      "jsDelivr",
-      "reCAPTCHA"
     ]
   }
 ]
