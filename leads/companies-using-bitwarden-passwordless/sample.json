@@ -1,5 +1,24 @@
 [
   {
+    "domain": "reneelund.com",
+    "title": "Renee Lund · Product Designer",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 233,
+    "crawled_at": "2026-07-30T02:46:58.678365589Z",
+    "technologies": [
+      "Bitwarden Passwordless",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Medium",
+      "Netlify",
+      "Next.js",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "silentecho.info",
     "title": "SilentEcho",
     "business_name": "",
@@ -18942,30 +18961,6 @@
       "XTemos Studio",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "imanfluence.com",
-    "title": "IMANFLUENCE",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 84,
-    "crawled_at": "2026-02-03T21:49:48.869474096Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Bitwarden Passwordless",
-      "Content Delivery Network",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "PHP",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "Unsplash",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
