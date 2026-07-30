@@ -1,5 +1,36 @@
 [
   {
+    "domain": "masonseniorapts.com",
+    "title": "Home | Mason Senior Apartments",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 63792,
+    "crawled_at": "2026-07-30T19:37:47.681189324Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "DAV",
+      "Follow Up Boss",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "HMDG",
+      "Heroku",
+      "Instagram Follow Button",
+      "KVH",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Negate",
+      "ResMan",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "lesleysalas.com",
     "title": "San Diego Real Estate Agent | Homes for Sale Chula Vista",
     "business_name": "LESLEY SALAS",
@@ -325,42 +356,6 @@
       "Negate",
       "ResMan",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "liveaog.com",
-    "title": "Home | AOG Living",
-    "business_name": "AOG Living",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 100122,
-    "crawled_at": "2026-06-06T08:45:18.01114482Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "DAV",
-      "Fireblade",
-      "Follow Up Boss",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "HMDG",
-      "Harbor",
-      "Heroku",
-      "Instagram Follow Button",
-      "Juniper Square",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "No-Q",
-      "PHP",
-      "QUIC",
-      "Subversion",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services"
     ]
   },
   {
@@ -14522,37 +14517,6 @@
       "UTF-8",
       "Yelp Badge",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "masonseniorapts.com",
-    "title": "Home | Mason Senior Apartments",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 63792,
-    "crawled_at": "2025-12-20T13:04:32.752632278Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "DAV",
-      "Follow Up Boss",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "HMDG",
-      "Heroku",
-      "Instagram Follow Button",
-      "KVH",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Negate",
-      "ResMan",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]
