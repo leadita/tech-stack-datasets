@@ -1,5 +1,32 @@
 [
   {
+    "domain": "densin.com",
+    "title": "Pressure Washers from Densin for Marine",
+    "business_name": "",
+    "country": "SGP",
+    "seo_score": 77,
+    "tech_spend": 28284,
+    "crawled_at": "2026-07-30T02:32:09.096657058Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Algolia",
+      "Alternate Protocol",
+      "Bug Bounty",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Microsoft Azure",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "UTF-8",
+      "Vector Internet Services"
+    ]
+  },
+  {
     "domain": "jetcharge.com.au",
     "title": "JET Charge - Australia’s Commercial EV Charging Specialist",
     "business_name": "JET Charge",
@@ -21278,30 +21305,6 @@
       "Vue.js",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "foxentry.dev",
-    "title": "Reference",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 10656,
-    "crawled_at": "2026-05-06T18:53:19.990005546Z",
-    "technologies": [
-      "Algolia",
-      "Alternate Protocol",
-      "Cloudflare",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "KVH",
-      "NFOrce Internet",
-      "QUIC",
-      "Salesforce Hosted",
-      "UTF-8"
     ]
   }
 ]
