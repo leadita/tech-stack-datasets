@@ -1,5 +1,57 @@
 [
   {
+    "domain": "opaobie.com",
+    "title": "A New Beginning for Online Entrepreneurs from TR Associates",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 80888,
+    "crawled_at": "2026-07-30T07:29:44.448904164Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon Widgets",
+      "CacheFly",
+      "CacheFly CDN",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Express",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google Reseller",
+      "ISO/IEC 8859",
+      "Impact",
+      "InMotion Hosting",
+      "LiteSpeed",
+      "QUIC",
+      "Rakuten Affiliate",
+      "ShareASale",
+      "UTF-8",
+      "University or College",
+      "Vista Cloud",
+      "iDevAffiliate"
+    ]
+  },
+  {
+    "domain": "liamjosephkeane.com",
+    "title": "Liam Joseph Keane | Photographer, Photojournalist | Santa Barbara, CA",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 75,
+    "tech_spend": 15000,
+    "crawled_at": "2026-07-30T06:53:17.96380086Z",
+    "technologies": [
+      "Apache",
+      "Bulma",
+      "CacheFly",
+      "CacheFly CDN",
+      "GZIP Module",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "University or College",
+      "eLand"
+    ]
+  },
+  {
     "domain": "allenhousehouston.com",
     "title": "Allen House Apartments by Windsor | Houston, TX Apartments",
     "business_name": "Allen House Apartments",
@@ -2337,57 +2389,6 @@
       "Zest Stack Publisher",
       "jQuery",
       "tagDiv Cloud Library"
-    ]
-  },
-  {
-    "domain": "opaobie.com",
-    "title": "A New Beginning for Online Entrepreneurs from TR Associates",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 80888,
-    "crawled_at": "2025-12-20T07:28:32.776767136Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon Widgets",
-      "CacheFly",
-      "CacheFly CDN",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Express",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google Reseller",
-      "ISO/IEC 8859",
-      "Impact",
-      "InMotion Hosting",
-      "LiteSpeed",
-      "QUIC",
-      "Rakuten Affiliate",
-      "ShareASale",
-      "UTF-8",
-      "University or College",
-      "Vista Cloud",
-      "iDevAffiliate"
-    ]
-  },
-  {
-    "domain": "liamjosephkeane.com",
-    "title": "Liam Joseph Keane | Photographer, Photojournalist | Santa Barbara, CA",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 15000,
-    "crawled_at": "2025-12-20T07:13:32.754402269Z",
-    "technologies": [
-      "Apache",
-      "Bulma",
-      "CacheFly",
-      "CacheFly CDN",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "University or College",
-      "eLand"
     ]
   }
 ]
