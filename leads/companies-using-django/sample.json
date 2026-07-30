@@ -9737,27 +9737,5 @@
       "University or College",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "finaap.com",
-    "title": "Welcome - Finaap",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 7503,
-    "crawled_at": "2025-12-20T03:22:32.769246119Z",
-    "technologies": [
-      "Django",
-      "Fireblade",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "shadcn ui"
-    ]
   }
 ]
