@@ -1,12 +1,29 @@
 [
   {
-    "domain": "lamejorcuaresma.com",
+    "domain": "elif.codes",
+    "title": "Elif Bayrasli's Portfolio | elif.codes",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 155000,
+    "crawled_at": "2026-07-30T04:21:04.78618918Z",
+    "technologies": [
+      "GZIP Module",
+      "Google Analytics",
+      "Nginx",
+      "Salesforce Commerce Cloud",
+      "Salesforce Hosted",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "thedynamiccatholicism.com",
     "title": "Dynamic Catholic Homepage | Be Bold. Be Catholic.",
     "business_name": "Dynamic Catholic",
     "country": "",
     "seo_score": 72,
     "tech_spend": 643423,
-    "crawled_at": "2026-07-29T15:16:53.424890285Z",
+    "crawled_at": "2026-07-29T23:25:25.958492838Z",
     "technologies": [
       "501c3 Status Nonprofit",
       "AWS WAF Challenge",
@@ -12286,23 +12303,6 @@
       "arsys.es",
       "eLand",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "elifbayrasli.com",
-    "title": "Elif Bayrasli's Portfolio | elif.codes",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 155000,
-    "crawled_at": "2026-03-30T00:01:08.278158425Z",
-    "technologies": [
-      "GZIP Module",
-      "Google Analytics",
-      "Nginx",
-      "Salesforce Commerce Cloud",
-      "Salesforce Hosted",
-      "UTF-8"
     ]
   },
   {
