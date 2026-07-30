@@ -1,5 +1,40 @@
 [
   {
+    "domain": "peakshipandprint.com",
+    "title": "Peak Ship & Print | Woodland Park Colorado – Colorado Shipping, Garment Printing & Commercial Printing",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 829,
+    "crawled_at": "2026-07-30T16:36:19.188513511Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apache",
+      "Blocksy",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DHL Parcel",
+      "Elementor",
+      "EmbedPress",
+      "Everest Forms",
+      "FedEx",
+      "GZIP Module",
+      "Google",
+      "Google My Business",
+      "Instagram Follow Button",
+      "NFOrce Internet",
+      "PHP",
+      "Theme In WP",
+      "USPS",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "Yelp Badge",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "moverxexpress.com",
     "title": "moverxexpress.com",
     "business_name": "",
@@ -18190,38 +18225,6 @@
       "YITH WooCommerce Compare",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "exportquery.in",
-    "title": "Export Query",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 60,
-    "tech_spend": 11615,
-    "crawled_at": "2026-04-15T07:53:19.992249469Z",
-    "technologies": [
-      "AI Log",
-      "AWS WAF Challenge",
-      "Aramex",
-      "Contento",
-      "DAV",
-      "DHL Parcel",
-      "Express",
-      "FedEx",
-      "FormSubmit",
-      "Google Maps",
-      "Google My Business",
-      "Japan Post",
-      "LiteSpeed",
-      "QUIC",
-      "TNT",
-      "TradingView",
-      "UPS",
-      "USPS",
-      "Vector Internet Services",
-      "eLand",
-      "jsDelivr"
     ]
   }
 ]

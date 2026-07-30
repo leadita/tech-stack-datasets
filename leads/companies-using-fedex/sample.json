@@ -1,5 +1,40 @@
 [
   {
+    "domain": "peakshipandprint.com",
+    "title": "Peak Ship & Print | Woodland Park Colorado – Colorado Shipping, Garment Printing & Commercial Printing",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 829,
+    "crawled_at": "2026-07-30T16:36:19.188513511Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apache",
+      "Blocksy",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DHL Parcel",
+      "Elementor",
+      "EmbedPress",
+      "Everest Forms",
+      "FedEx",
+      "GZIP Module",
+      "Google",
+      "Google My Business",
+      "Instagram Follow Button",
+      "NFOrce Internet",
+      "PHP",
+      "Theme In WP",
+      "USPS",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "Yelp Badge",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "freonr22.com",
     "title": "Freon Refrigerants Direct Supply: R22, R410a, R404a, R454b, R32, R134a – Factory Direct Shipment",
     "business_name": "",
@@ -19351,41 +19386,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "advancedbuildingproductsshop.com",
-    "title": "Advanced Building Products Shop – advancedbuildingproductsshop.com",
-    "business_name": "advancedbuildingproductsshop.com",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 25316,
-    "crawled_at": "2026-04-01T21:05:19.98326306Z",
-    "technologies": [
-      "17TRACK",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Express",
-      "FedEx",
-      "Financial Services Guide",
-      "Fireblade",
-      "Google Cloud DNS",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "PayPal",
-      "QUIC",
-      "Shipping Rates Calculator",
-      "Shopify",
-      "Shopify Collabs",
-      "Thank You",
-      "UTF-8",
-      "YouTube",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   }
 ]
