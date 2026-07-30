@@ -1,5 +1,39 @@
 [
   {
+    "domain": "vivekseducationalcentre.com",
+    "title": "Vivek's Educational Centre",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 12102,
+    "crawled_at": "2026-07-30T20:15:04.749284557Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Angular",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Engage",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "MoEngage",
+      "Nginx",
+      "PWA",
+      "Perl",
+      "Pleroma",
+      "Sign In With Google",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "sattvapravah.com",
     "title": "Sattva Pravah Online Yoga Classes",
     "business_name": "",
@@ -16756,40 +16790,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "cerebralacademy.in",
-    "title": "CEREBRAL",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 12102,
-    "crawled_at": "2026-05-07T08:35:20.026953722Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Angular",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Engage",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "MoEngage",
-      "Nginx",
-      "PWA",
-      "Perl",
-      "Pleroma",
-      "Sign In With Google",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
