@@ -1,5 +1,31 @@
 [
   {
+    "domain": "maplerad.dev",
+    "title": "Overview",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 210712,
+    "crawled_at": "2026-07-30T15:03:20.494435959Z",
+    "technologies": [
+      "Algolia",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Fireblade",
+      "Google My Business",
+      "IcoMoon",
+      "Iconz",
+      "KVH",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Render",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "densin.com",
     "title": "Pressure Washers from Densin for Marine",
     "business_name": "",
@@ -21271,40 +21297,6 @@
       "eLand",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "askmasi.com",
-    "title": "Ask Masi",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 533,
-    "crawled_at": "2026-05-06T19:04:53.040106011Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Algolia",
-      "Amazon",
-      "Amazon CloudFront",
-      "AutoComplete",
-      "Bulma",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Plausible Analytics",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vimeo",
-      "Vue.js",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
