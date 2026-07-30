@@ -1,5 +1,32 @@
 [
   {
+    "domain": "refinedformpt.com",
+    "title": "Refined Form Physical Therapy",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 84369,
+    "crawled_at": "2026-07-29T22:34:49.997103997Z",
+    "technologies": [
+      "Aruba",
+      "Express",
+      "FormSubmit",
+      "GZIP Module",
+      "Jane App",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "Thank You",
+      "UTF-8",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "intentionalwellnessnonforcechiropractic.com",
     "title": "Intentional Wellness Chiropractic | Breath. Mobility. Connection",
     "business_name": "Intentional Wellness",
@@ -4626,36 +4653,6 @@
       "Visx",
       "WP Booking Calendar",
       "uPress"
-    ]
-  },
-  {
-    "domain": "refinedformpt.com",
-    "title": "Refined Form Physical Therapy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 86809,
-    "crawled_at": "2025-12-20T03:04:32.738749166Z",
-    "technologies": [
-      "Aruba",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Jane App",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "Thank You",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
