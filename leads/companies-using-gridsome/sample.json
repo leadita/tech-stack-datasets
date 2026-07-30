@@ -1,5 +1,57 @@
 [
   {
+    "domain": "vdwal-enschede.nl",
+    "title": "Transport Frankrijk en Zuid-Europa specialist | Van der Wal Premium France Transport",
+    "business_name": "vdwal-enschede.nl",
+    "country": "FRA",
+    "seo_score": 77,
+    "tech_spend": 228,
+    "crawled_at": "2026-07-30T08:42:38.076952402Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Google My Business",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "fabritaisolutions.com",
+    "title": "Transforming Companies Into Digital Leaders - Fabrit Global",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 138230,
+    "crawled_at": "2026-07-30T03:22:52.138256689Z",
+    "technologies": [
+      "Apache",
+      "Clutch",
+      "DAV",
+      "Federal Deposit Insurance Corporation",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Gridsome",
+      "HMDG",
+      "HubSpot Conversations",
+      "Hubspot",
+      "K2F",
+      "KVH",
+      "Medium",
+      "Nationwide Mortgage Licensing System and Registry",
+      "No-Q",
+      "SMC",
+      "Silicon Valley Web Hosting",
+      "Subversion",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "ourgenpeace.com",
     "title": "Our Gen Peace - Our Gen Peace",
     "business_name": "",
@@ -1216,39 +1268,6 @@
       "eLand",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "fabritailabs.com",
-    "title": "Transforming Companies Into Digital Leaders - Fabrit Global",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 138230,
-    "crawled_at": "2026-05-25T07:19:45.310995181Z",
-    "technologies": [
-      "Apache",
-      "Clutch",
-      "DAV",
-      "Federal Deposit Insurance Corporation",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Gridsome",
-      "HMDG",
-      "HubSpot Conversations",
-      "Hubspot",
-      "K2F",
-      "KVH",
-      "Medium",
-      "Nationwide Mortgage Licensing System and Registry",
-      "No-Q",
-      "SMC",
-      "Silicon Valley Web Hosting",
-      "Subversion",
-      "Tailwind CSS"
     ]
   },
   {
@@ -11996,31 +12015,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "pauza.io",
-    "title": "Pauza games - pauza",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 25228,
-    "crawled_at": "2026-01-25T14:52:19.369904228Z",
-    "technologies": [
-      "Bulma",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Gridsome",
-      "Instagram Follow Button",
-      "K2F",
-      "Netlify",
-      "Ntent",
-      "PWA",
-      "QUIC",
-      "Subversion",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
