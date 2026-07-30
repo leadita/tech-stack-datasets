@@ -1,5 +1,36 @@
 [
   {
+    "domain": "veritasgreenville.com",
+    "title": "Veritas Preparatory School",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 85,
+    "tech_spend": 115713,
+    "crawled_at": "2026-07-30T14:38:36.380752851Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "ArvanCloud",
+      "Asana",
+      "Contento",
+      "Express",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "ParentSquare",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "University or College",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "svtnewtour.com",
     "title": "SEVENTEEN WORLD TOUR [NEW_] IN JAPAN: LIVE VIEWING",
     "business_name": "",
@@ -20474,37 +20505,6 @@
       "Yandex Hosting",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "crutech.org",
-    "title": "Cru Help – help@cru.org",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 11178,
-    "crawled_at": "2026-03-01T17:07:56.717979067Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Asana",
-      "Content Delivery Network",
-      "Contento",
-      "DocuSign",
-      "Elementor",
-      "EmbedPress",
-      "Font Awesome",
-      "Gravity",
-      "Gravity Forms",
-      "Help Scout",
-      "Jetpack",
-      "NFOrce Internet",
-      "Nginx",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "Zoom Video Conferencing",
-      "reCAPTCHA"
     ]
   }
 ]
