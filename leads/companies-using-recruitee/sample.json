@@ -9737,29 +9737,5 @@
       "WF Cookie Consent",
       "Zendesk Embeddables"
     ]
-  },
-  {
-    "domain": "spacemarine-2.com",
-    "title": "Space Marine 2 - Focus Entertainment",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 32706,
-    "crawled_at": "2025-12-20T03:02:06.838389296Z",
-    "technologies": [
-      "Beyable",
-      "Coming Soon Page",
-      "Fireblade",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Nginx",
-      "PHP",
-      "Recruitee",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "shadcn ui"
-    ]
   }
 ]

@@ -3391,45 +3391,5 @@
       "jsDelivr",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "eficaz.com.au",
-    "title": "Home | Eficaz | Recruitment Agency | Recruitment | Sydney | Australia",
-    "business_name": "Eficaz Recruitment",
-    "country": "AUS",
-    "seo_score": 77,
-    "tech_spend": 149593,
-    "crawled_at": "2025-12-20T12:16:32.768314221Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "DAV",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "Freshteam",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "K2F",
-      "KVH",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PWA",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "SiteW",
-      "Subversion",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "WP Booking Calendar",
-      "Wix",
-      "Wix Media",
-      "mlcom"
-    ]
   }
 ]
