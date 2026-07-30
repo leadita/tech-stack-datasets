@@ -10917,37 +10917,5 @@
       "WordPress Multisite",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "totalserhop.shop",
-    "title": "Totalserhop| Premium Everyday Essentials & Household Goods",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 2943,
-    "crawled_at": "2025-12-20T01:43:52.762537007Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Express",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Fastly",
-      "IcoMoon",
-      "Mercury",
-      "Microdata for Google Shopping",
-      "PayPal Adaptive Payments",
-      "Schema Plugin",
-      "Taboola Direct",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
   }
 ]
