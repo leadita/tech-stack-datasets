@@ -513,39 +513,5 @@
       "Vercel",
       "eLand"
     ]
-  },
-  {
-    "domain": "bcwinbet.games",
-    "title": "The home of over 30 million players | BCWINBET.COM",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 8771,
-    "crawled_at": "2025-12-20T17:16:32.76104665Z",
-    "technologies": [
-      "Afiliados",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Aruba",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Express",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Fastly",
-      "Fireblade",
-      "Gambling Content",
-      "IcoMoon",
-      "Kwai Conversion Tracking",
-      "NFOrce Internet",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "eLand",
-      "shadcn ui"
-    ]
   }
 ]
