@@ -1,5 +1,61 @@
 [
   {
+    "domain": "mksg.lu",
+    "title": "Mert Köseoğlu • Senior SWE (IC) with 12+ YoE building AI-native products and agentic systems.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 57900,
+    "crawled_at": "2026-07-31T01:41:31.821258691Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Countly",
+      "Fireblade",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "RM Education",
+      "Svelte",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "studioddx.com",
+    "title": "StudioDDx | AI Revenue Systems by Patrick DeLuca",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 22740,
+    "crawled_at": "2026-07-30T20:28:20.558512847Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "UTF-8",
+      "Vector Internet Services"
+    ]
+  },
+  {
     "domain": "logtwo.io",
     "title": "Logto: Modern auth infrastructure for developers",
     "business_name": "",
@@ -14516,54 +14572,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "dane-ukken.dev",
-    "title": "Hi, I am Dane Ukken!",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 18208,
-    "crawled_at": "2026-04-20T15:50:20.014874908Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Astro",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Workers",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Python",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "peterjohnarao.com",
-    "title": "Peter John Arao",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 72,
-    "tech_spend": 17740,
-    "crawled_at": "2026-04-20T15:35:20.001689223Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "PWA",
-      "Python",
-      "Svelte"
     ]
   }
 ]
