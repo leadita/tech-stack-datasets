@@ -1,5 +1,33 @@
 [
   {
+    "domain": "reslol.com",
+    "title": "Handmade Resin Art Customizable and Sustainable Home Decor",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 15192,
+    "crawled_at": "2026-07-30T18:41:47.324883377Z",
+    "technologies": [
+      "Afterpay",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Joomla!",
+      "Line2",
+      "Next.js",
+      "Ntent",
+      "PWA",
+      "Pleroma",
+      "QUIC",
+      "RokNavMenu",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "cedarstrainingacademy.co.uk",
     "title": "Cedars Training Academy",
     "business_name": "",
@@ -19603,34 +19631,6 @@
       "Thank You",
       "UTF-8",
       "eLand",
-      "hCaptcha",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "jm4x4suspension.com",
-    "title": "JM 4X4 Suspension – JM 4X4 Suspension",
-    "business_name": "JM 4X4 Suspension ",
-    "country": "JPN",
-    "seo_score": 92,
-    "tech_spend": 4056,
-    "crawled_at": "2026-05-28T14:15:27.571637694Z",
-    "technologies": [
-      "Afterpay",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ElementUI",
-      "Express",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "UTF-8",
       "hCaptcha",
       "reCAPTCHA"
     ]
