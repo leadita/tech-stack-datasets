@@ -1,5 +1,77 @@
 [
   {
+    "domain": "mustbeart.com",
+    "title": "Must Be Art - Paul Williamson",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 60,
+    "crawled_at": "2026-07-31T08:34:08.374849005Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Micro.blog"
+    ]
+  },
+  {
+    "domain": "www.www.frankmcpherson.blog",
+    "title": "Routine Revelations",
+    "business_name": "",
+    "country": "SGP",
+    "seo_score": 57,
+    "tech_spend": 60,
+    "crawled_at": "2026-07-31T07:19:06.86689897Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Automattic",
+      "DAV",
+      "GitHub Hosting",
+      "Hugo",
+      "Investor Relations",
+      "Micro.blog",
+      "PWA",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "eLand",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "mikelittle.net",
+    "title": "Mike Little - WordPress Specialist",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 2595,
+    "crawled_at": "2026-07-31T01:59:22.556833652Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Bunny Fonts",
+      "Content Delivery Network",
+      "EmbedPress",
+      "GZIP Module",
+      "GenerateBlocks",
+      "GeneratePress Company",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Matomo",
+      "Matomo Tag Manager",
+      "Micro.blog",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "Ultimate Addons for Gutenberg",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "scatteringflowers.com",
     "title": "Scattering Flowers",
     "business_name": "",
@@ -303,31 +375,6 @@
       "Netlify",
       "QUIC",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "www.www.www.www.frankmcpherson.blog",
-    "title": "Routine Revelations",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 120,
-    "crawled_at": "2026-05-31T11:06:21.593569466Z",
-    "technologies": [
-      "Alternate Protocol",
-      "DAV",
-      "Express",
-      "GitHub Hosting",
-      "Google My Business",
-      "Hugo",
-      "Micro.blog",
-      "PWA",
-      "Say what",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Way",
-      "jsDelivr"
     ]
   },
   {
@@ -1703,38 +1750,6 @@
       "eLand",
       "hCaptcha",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "mikelittle.com",
-    "title": "Mike Little - WordPress Specialist",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 2595,
-    "crawled_at": "2026-05-13T03:54:44.933283854Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Bunny Fonts",
-      "Content Delivery Network",
-      "EmbedPress",
-      "GZIP Module",
-      "GenerateBlocks",
-      "GeneratePress Company",
-      "Instagram Follow Button",
-      "Matomo",
-      "Matomo Tag Manager",
-      "Micro.blog",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "Ultimate Addons for Gutenberg",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube"
     ]
   },
   {
@@ -8296,20 +8311,6 @@
       "Micro.blog",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "mustbeart.com",
-    "title": "Must Be Art - Paul Williamson",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 60,
-    "crawled_at": "2025-12-20T19:40:32.748836298Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Micro.blog"
     ]
   }
 ]

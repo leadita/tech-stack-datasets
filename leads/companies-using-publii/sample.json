@@ -1,5 +1,31 @@
 [
   {
+    "domain": "freeonplate.com",
+    "title": "Free HowTos, DIY Projects and More... - FREEonPLATE.com",
+    "business_name": "FREEonPLATE.com",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 377,
+    "crawled_at": "2026-07-31T02:40:34.797614621Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Google Adsense",
+      "Google Analytics",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google Reseller",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Publii",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "stretchtherapysessions.com",
     "title": "Stretch Therapy Sessions",
     "business_name": "Stretch Therapy Sessions",
@@ -8663,26 +8689,6 @@
       "admitad",
       "financeAds",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "freeonplate.com",
-    "title": "Free HowTos, DIY Projects and More... - FREEonPLATE.com",
-    "business_name": "FREEonPLATE.com",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 377,
-    "crawled_at": "2025-12-20T16:39:38.162417435Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Publii",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
     ]
   }
 ]

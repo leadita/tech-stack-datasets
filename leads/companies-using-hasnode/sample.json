@@ -1,5 +1,50 @@
 [
   {
+    "domain": "blog.l80.ru",
+    "title": "Anastas Mironov",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 687,
+    "crawled_at": "2026-07-30T13:44:03.827635111Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Font Awesome",
+      "GitHub Hosting",
+      "Hasnode",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "PHP",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "changbaiyun.cn",
+    "title": "长白云网",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 687,
+    "crawled_at": "2026-07-30T12:50:11.078364793Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Font Awesome",
+      "Hasnode",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Radix UI",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "shakilahmed.com",
     "title": "Shakil Ahmed - Software Engineer",
     "business_name": "",
@@ -12417,52 +12462,6 @@
       "about.me",
       "jQuery",
       "mssg.me"
-    ]
-  },
-  {
-    "domain": "blog.l80.ru",
-    "title": "Anastas Mironov",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2025-12-20T10:19:32.738037309Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Tag Manager",
-      "Hasnode",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "PHP",
-      "Pico CSS",
-      "Pleroma",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "changbaiyun.cn",
-    "title": "长白云网",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2025-12-20T09:58:32.736483572Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Google Tag Manager",
-      "Hasnode",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pico CSS",
-      "Pleroma",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
