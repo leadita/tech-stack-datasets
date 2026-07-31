@@ -1,5 +1,29 @@
 [
   {
+    "domain": "refurb-tracker.com",
+    "title": "Watch Apple Refurb deals and save up to 40% - Refurb Tracker",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 87,
+    "tech_spend": 15608,
+    "crawled_at": "2026-07-31T17:29:31.055364037Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Better Stack",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Font Awesome",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "eokou.com",
     "title": "Alban Andrieu — Freelance DevSecOps & Cloud Architect (AWS, Azure, OVH)",
     "business_name": "",
@@ -5322,29 +5346,6 @@
       "Google Font API",
       "Instagram Follow Button",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "refurb-tracker.com",
-    "title": "Watch Apple Refurb deals and save up to 40% - Refurb Tracker",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 82,
-    "tech_spend": 608,
-    "crawled_at": "2025-12-21T00:04:32.732918027Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Better Stack",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Font Awesome",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
