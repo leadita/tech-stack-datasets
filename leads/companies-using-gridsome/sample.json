@@ -1,5 +1,88 @@
 [
   {
+    "domain": "password.house",
+    "title": "Shared password manager for seniors and their family - Password House",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 5318,
+    "crawled_at": "2026-07-31T21:28:22.752710922Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Bulma",
+      "Content Delivery Network",
+      "DAV",
+      "Financial Services Guide",
+      "Gridsome",
+      "K2F",
+      "Netlify",
+      "No-Q",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "martingiger.ch",
+    "title": "Martin Giger - humanoids bePage",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 92,
+    "tech_spend": 77979,
+    "crawled_at": "2026-07-31T19:19:01.146968132Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "DAV",
+      "GitHub Hosting",
+      "Gridsome",
+      "Idaq",
+      "KVH",
+      "Microdata for Google Shopping",
+      "No-Q",
+      "PWA",
+      "QUIC",
+      "SMC",
+      "Schema Plugin",
+      "Subversion",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "balizas-sde.com.ar",
+    "title": "SDE Balizas - SDE Balizas",
+    "business_name": "",
+    "country": "ARG",
+    "seo_score": 77,
+    "tech_spend": 168119,
+    "crawled_at": "2026-07-31T07:33:49.202742905Z",
+    "technologies": [
+      "AAPT",
+      "Apache",
+      "CCSI",
+      "DAV",
+      "ElementUI",
+      "Financial Services Guide",
+      "Formspree",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "HHVM",
+      "HMDG",
+      "Idaq",
+      "K2F",
+      "KVH",
+      "No-Q",
+      "Onyx Internet",
+      "Perl",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "vdwal-enschede.nl",
     "title": "Transport Frankrijk en Zuid-Europa specialist | Van der Wal Premium France Transport",
     "business_name": "vdwal-enschede.nl",
@@ -6533,34 +6616,6 @@
     ]
   },
   {
-    "domain": "hbsl.ch",
-    "title": "Martin Giger - humanoids bePage",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 27979,
-    "crawled_at": "2026-04-22T12:59:20.02482892Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "DAV",
-      "GitHub Hosting",
-      "Gridsome",
-      "Idaq",
-      "KVH",
-      "Mastodon",
-      "Microdata for Google Shopping",
-      "No-Q",
-      "PWA",
-      "QUIC",
-      "Schema Plugin",
-      "Subversion",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "dekamerakast.nl",
     "title": "Home - De Kamerakast",
     "business_name": "",
@@ -11971,50 +12026,6 @@
       "Twitter Ads",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "newdawnsolar.co.za",
-    "title": "New Dawn Solar - Solar Solutions for Farming, Business and Homes",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 988,
-    "crawled_at": "2026-01-26T02:58:43.445295545Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Gridsome",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "recordprint.ro",
-    "title": "RecordPrint - Productie Publicitara, bannere, rollups, casete luminoase - RecordPrint",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 3,
-    "crawled_at": "2026-01-25T19:01:43.439452525Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Gridsome",
-      "Material Design Icons",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
