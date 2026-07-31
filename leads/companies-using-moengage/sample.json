@@ -1,5 +1,39 @@
 [
   {
+    "domain": "proskilledtech.com",
+    "title": "Proskilledtech",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 12102,
+    "crawled_at": "2026-07-31T20:56:58.330024504Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Angular",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Engage",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "MoEngage",
+      "Nginx",
+      "PWA",
+      "Perl",
+      "Pleroma",
+      "Sign In With Google",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "vivekseducationalcentre.com",
     "title": "Vivek's Educational Centre",
     "business_name": "",
@@ -16760,36 +16794,6 @@
       "UTF-8",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "mathjee.in",
-    "title": "MathJEE",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 12102,
-    "crawled_at": "2026-05-07T08:47:20.020199338Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Angular",
-      "Engage",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "MoEngage",
-      "Nginx",
-      "PWA",
-      "Perl",
-      "Pleroma",
-      "Sign In With Google",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
