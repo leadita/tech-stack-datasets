@@ -1,5 +1,67 @@
 [
   {
+    "domain": "sellyourcar.online",
+    "title": "MOTO(acquire) | Sell Your Car Online",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 22612,
+    "crawled_at": "2026-07-31T05:54:42.543819693Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DealerOn",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Line2",
+      "Material-UI",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "kramerautoplex.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 40680,
+    "crawled_at": "2026-07-30T14:00:17.747849216Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Content Delivery Network",
+      "DAV",
+      "DealerOn",
+      "ETranslate",
+      "Express",
+      "Fastly",
+      "Fastly CDN",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Microdata for Google Shopping",
+      "Microsoft Azure",
+      "Nginx",
+      "Perl",
+      "QUIC",
+      "SiteW",
+      "Sitelinks Search Box",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Visual Studio",
+      "eLand",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "thecarolinalawfirm.com",
     "title": "Personal Injury Attorneys in North Carolina & South Carolina",
     "business_name": "",
@@ -4508,28 +4570,6 @@
       "Visual Studio",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "sellyourcar.online",
-    "title": "MOTO(acquire) | Sell Your Car Online",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 22612,
-    "crawled_at": "2025-12-20T18:25:32.737122081Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DealerOn",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Line2",
-      "Material-UI",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
