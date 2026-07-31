@@ -1,5 +1,41 @@
 [
   {
+    "domain": "innocreative.net",
+    "title": "Digital Technology Consultancy",
+    "business_name": "InnoCreative",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 45200,
+    "crawled_at": "2026-07-31T13:23:53.394401694Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon",
+      "Amazon CloudFront",
+      "ArvanCloud",
+      "CapsuleCRM",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Flow",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "RM Education",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "WF Cookie Consent",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "driveai.ca",
     "title": "Drive AI | Powered by Unleashd Technologies",
     "business_name": "",
@@ -1518,41 +1554,6 @@
       "Subversion",
       "UTF-8",
       "University or College"
-    ]
-  },
-  {
-    "domain": "innocreative.net",
-    "title": "Digital Technology Consultancy",
-    "business_name": "InnoCreative",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 45200,
-    "crawled_at": "2025-12-20T22:04:32.767800369Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "ArvanCloud",
-      "CapsuleCRM",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Flow",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "RM Education",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "WF Cookie Consent",
-      "jsDelivr",
-      "reCAPTCHA"
     ]
   }
 ]
