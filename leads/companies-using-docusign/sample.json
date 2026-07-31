@@ -1,5 +1,28 @@
 [
   {
+    "domain": "hiawatharesortwest.info",
+    "title": "Hiawatha Resort West",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 18640,
+    "crawled_at": "2026-07-31T02:05:44.199551235Z",
+    "technologies": [
+      "DocuSign",
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Hiawatha",
+      "PWA",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight",
+      "Zoom Video Conferencing"
+    ]
+  },
+  {
     "domain": "autokonnect.ca",
     "title": "Auto Konnect | Car, Truck & SUV Mechanic in Ottawa | Automotive Repairs",
     "business_name": "",
