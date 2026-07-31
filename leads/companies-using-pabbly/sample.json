@@ -1,5 +1,41 @@
 [
   {
+    "domain": "big-brain.co",
+    "title": "Big Brain | Data and Automation",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 6436,
+    "crawled_at": "2026-07-31T13:48:31.644993939Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon",
+      "Amazon CloudFront",
+      "Animate It",
+      "Apture Linking Platform",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Pabbly",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "WF Cookie Consent",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "prayergranted.com",
     "title": "God Grant My Prayer! – Have Your Prayer Blessed In Jerusalem",
     "business_name": "",
@@ -6330,41 +6366,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "big-brain.co",
-    "title": "Big Brain | Data and Automation",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 483,
-    "crawled_at": "2025-12-20T22:16:32.750737885Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "Animate It",
-      "Apture Linking Platform",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Pabbly",
-      "QUIC",
-      "Tailwind CSS",
-      "WF Cookie Consent",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
