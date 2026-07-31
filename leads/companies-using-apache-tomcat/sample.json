@@ -1,5 +1,33 @@
 [
   {
+    "domain": "adireddy.in",
+    "title": "Adireddy Kapulapalli",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 65,
+    "tech_spend": 17940,
+    "crawled_at": "2026-07-31T06:42:08.007214484Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "Apache",
+      "Apache Tomcat JK",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Oracle Cloud",
+      "Pico CSS",
+      "QUIC",
+      "Twitter Ads",
+      "University or College",
+      "Visual Studio",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "shytsko.com",
     "title": "Mikhail Shytsko — Software & AI Engineer | Portfolio",
     "business_name": "Seedfast",
@@ -14335,34 +14363,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "adireddy.in",
-    "title": "Adireddy Kapulapalli",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 60,
-    "tech_spend": 260,
-    "crawled_at": "2025-12-20T18:46:32.750727189Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Apache",
-      "Apache Tomcat JK",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Oracle Cloud",
-      "Pico CSS",
-      "QUIC",
-      "Twitter Ads",
-      "University or College",
-      "Visual Studio",
-      "YouTube"
     ]
   }
 ]
