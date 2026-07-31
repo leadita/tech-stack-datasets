@@ -1,5 +1,33 @@
 [
   {
+    "domain": "marylandcamphealth.com",
+    "title": "Maryland Camp Health",
+    "business_name": "",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 79801,
+    "crawled_at": "2026-07-31T02:29:47.068062428Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "TalentLMS",
+      "UTF-8",
+      "University or College",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "nativespeaker.ie",
     "title": "Home",
     "business_name": "",
@@ -9875,37 +9903,6 @@
       "WordPress Multisite",
       "WordPress Related Posts",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "marylandcamphealth.com",
-    "title": "Maryland Camp Health",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 82241,
-    "crawled_at": "2025-12-20T16:34:32.74823891Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "TalentLMS",
-      "UTF-8",
-      "University or College",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "eLand"
     ]
   }
 ]
