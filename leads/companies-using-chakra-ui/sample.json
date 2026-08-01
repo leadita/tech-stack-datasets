@@ -1,5 +1,86 @@
 [
   {
+    "domain": "travel3.app",
+    "title": "Event Explore Macau & Hong Kong - Travel3",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-08-01T03:56:01.0452068Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Chakra UI",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "afzali.dev",
+    "title": "Seyamack Afzali",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 37,
+    "tech_spend": "",
+    "crawled_at": "2026-08-01T03:14:49.341604101Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Envoy",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "unbogify.com",
+    "title": "Unbogify – fix your swing",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 65,
+    "tech_spend": 240,
+    "crawled_at": "2026-08-01T00:34:49.356548627Z",
+    "technologies": [
+      "App Store",
+      "Chakra UI",
+      "Content Delivery Network",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Smart App Banner",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "retrievium.com",
+    "title": "retrievium",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 63,
+    "crawled_at": "2026-07-31T17:05:53.473844401Z",
+    "technologies": [
+      "Chakra UI",
+      "Express",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Thank You",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "dentalface.ch",
     "title": "Dentalface",
     "business_name": "",
@@ -12717,93 +12798,6 @@
       "UTF-8",
       "University or College",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "wludesignforchange.com",
-    "title": "Design For Change 24-25",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 26240,
-    "crawled_at": "2026-05-05T21:53:20.007567957Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon S3 CDN",
-      "Chakra UI",
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Next.js",
-      "Pleroma",
-      "RM Education",
-      "Storyblocks",
-      "Styled Components",
-      "Typeform",
-      "UTF-8",
-      "University or College",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "tomeru.dev",
-    "title": "Tom Eru - Portfolio & Blog",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2026-05-05T19:50:19.992994718Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "siongfattgroup.com",
-    "title": "Siong Fatt Group",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 60,
-    "crawled_at": "2026-05-05T19:06:07.963056641Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "FormSubmit",
-      "Google My Business",
-      "Next.js",
-      "Pico CSS",
-      "Pleroma",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "aphrotechconsult.com",
-    "title": "Aphro Tech Consult - Your trusted IT consult",
-    "business_name": "",
-    "country": "GHA",
-    "seo_score": 67,
-    "tech_spend": 2668,
-    "crawled_at": "2026-05-05T18:55:49.467250375Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Fastly",
-      "Gatsby JS",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Netlify",
-      "UTF-8"
     ]
   }
 ]

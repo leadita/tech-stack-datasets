@@ -1,5 +1,66 @@
 [
   {
+    "domain": "virtualassistantinvestigator.com",
+    "title": "Virtual Assistant Directory | Virtual Assistant Agencies, Training & Jobs",
+    "business_name": "Virtual Assistant Investigator",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 23000,
+    "crawled_at": "2026-08-01T10:44:34.062260754Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon",
+      "Astra Theme",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PHP",
+      "Premium Addons for Elementor",
+      "QUIC",
+      "Semantic UI",
+      "Sitelinks Search Box",
+      "Theme In WP",
+      "UTF-8",
+      "WP Engine",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Related Posts",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "chevigroup.com",
+    "title": "Home - Chevi Group",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 52,
+    "tech_spend": 183,
+    "crawled_at": "2026-08-01T09:33:44.439503639Z",
+    "technologies": [
+      "Apache",
+      "Dialpad",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "PHP",
+      "Semantic UI",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "air.com.tr",
     "title": "Air.com.tr - Air City",
     "business_name": "",
@@ -14602,53 +14663,6 @@
       "UTF-8",
       "WhatsApp Sharing",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "simit.com.tr",
-    "title": "Simit.com.tr - Simit Kokusu",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 3,
-    "crawled_at": "2026-04-13T01:05:20.015014515Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "DAV",
-      "Google Cloud DNS",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "Semantic UI",
-      "Tawk",
-      "UTF-8",
-      "University or College",
-      "jQuery",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "org.com.tr",
-    "title": "Org.com.tr - Organizasyon",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 3,
-    "crawled_at": "2026-04-13T01:05:20.010591998Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "DAV",
-      "Google Cloud DNS",
-      "Google My Business",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "Semantic UI",
-      "Tawk",
-      "UTF-8",
-      "University or College",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
