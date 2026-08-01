@@ -1,5 +1,28 @@
 [
   {
+    "domain": "neplumbing.co.nz",
+    "title": "New Era Plumbing & Gas | Technical Partner for Auckland Commercial & Residential Assets",
+    "business_name": "",
+    "country": "NZL",
+    "seo_score": 82,
+    "tech_spend": 240,
+    "crawled_at": "2026-08-01T03:07:44.481373399Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Looker Studio",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "soumiksaha.live",
     "title": "Soumik Saha | AI & Analytics",
     "business_name": "",
