@@ -1,5 +1,35 @@
 [
   {
+    "domain": "learnsuccess.in",
+    "title": "Taste your Success",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 30139,
+    "crawled_at": "2026-08-01T16:49:06.501465547Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Angular",
+      "Engage",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "MoEngage",
+      "Nginx",
+      "PWA",
+      "Perl",
+      "Pleroma",
+      "Sign In With Google",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "proskilledtech.com",
     "title": "Proskilledtech",
     "business_name": "",
@@ -16760,40 +16790,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "sumanchemistryclasses.online",
-    "title": "Suman Chemistry Classes",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 12102,
-    "crawled_at": "2026-05-07T09:23:19.978024696Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Angular",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Engage",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "MoEngage",
-      "Nginx",
-      "PWA",
-      "Perl",
-      "Pleroma",
-      "Sign In With Google",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
