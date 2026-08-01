@@ -5030,24 +5030,5 @@
       "UTF-8",
       "eLand"
     ]
-  },
-  {
-    "domain": "symbolic.engineering",
-    "title": "Symbolic",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 335,
-    "crawled_at": "2025-12-21T04:43:32.74669416Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8"
-    ]
   }
 ]
