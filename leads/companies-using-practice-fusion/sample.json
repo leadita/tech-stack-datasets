@@ -1,5 +1,32 @@
 [
   {
+    "domain": "ifanyc.com",
+    "title": "Invus Opportunities",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 47312,
+    "crawled_at": "2026-08-01T00:57:12.655071117Z",
+    "technologies": [
+      "Astro",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Housecall Pro",
+      "IcoMoon",
+      "Practice Fusion",
+      "Socure",
+      "SplashThat",
+      "Taboola Direct",
+      "Taboola Reseller",
+      "Tailwind CSS",
+      "UTF-8",
+      "ezCater"
+    ]
+  },
+  {
     "domain": "dponeill.com",
     "title": "Dan O'Neill",
     "business_name": "",
@@ -1166,33 +1193,6 @@
       "Waveform Technology",
       "eClinicalWorks",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "ifanyc.net",
-    "title": "Invus Opportunities",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 47312,
-    "crawled_at": "2026-04-21T04:02:19.982780508Z",
-    "technologies": [
-      "Astro",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DAV",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Housecall Pro",
-      "IcoMoon",
-      "Practice Fusion",
-      "Socure",
-      "SplashThat",
-      "Taboola Direct",
-      "Taboola Reseller",
-      "Tailwind CSS",
-      "UTF-8",
-      "ezCater"
     ]
   },
   {
