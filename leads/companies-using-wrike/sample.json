@@ -1,5 +1,21 @@
 [
   {
+    "domain": "chekromul.dev",
+    "title": "Roman Chekurov",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 72,
+    "tech_spend": 1716,
+    "crawled_at": "2026-08-01T16:03:07.769937116Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Netlify",
+      "UTF-8",
+      "Wrike"
+    ]
+  },
+  {
     "domain": "mikrostechnologies.com",
     "title": "Home Page | Mikros Technologies",
     "business_name": "",
@@ -3433,22 +3449,6 @@
       "Wrike",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "chekromul.dev",
-    "title": "Roman Chekurov",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 62,
-    "tech_spend": 1716,
-    "crawled_at": "2025-12-21T11:52:32.738383377Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Netlify",
-      "UTF-8",
-      "Wrike"
     ]
   }
 ]
