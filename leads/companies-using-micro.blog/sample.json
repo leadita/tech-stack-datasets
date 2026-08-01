@@ -1,5 +1,52 @@
 [
   {
+    "domain": "lincolnmullen.com",
+    "title": "Lincoln Mullen | Historian of American religion",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 3500,
+    "crawled_at": "2026-07-31T23:40:04.432781507Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Hugo",
+      "Micro.blog",
+      "Observable",
+      "UTF-8",
+      "University or College",
+      "Zoom Video Conferencing",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "runs.lol",
+    "title": "a weblog",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 291,
+    "crawled_at": "2026-07-31T17:54:32.265338426Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Font Awesome",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Micro.blog",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "mustbeart.com",
     "title": "Must Be Art - Paul Williamson",
     "business_name": "",
@@ -8243,74 +8290,6 @@
       "Waveform Technology",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "lincolnmullen.com",
-    "title": "Lincoln Mullen | Historian of American religion",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 18280,
-    "crawled_at": "2025-12-21T03:10:32.733892218Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon Widgets",
-      "Apache",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Micro.blog",
-      "Observable",
-      "Turner CDN",
-      "UTF-8",
-      "University or College",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "mingo.nl",
-    "title": "Mingo.nl: Personal Website of Mingo Hagen",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 67,
-    "tech_spend": 2718,
-    "crawled_at": "2025-12-21T00:40:32.74262492Z",
-    "technologies": [
-      "Adobe ColdFusion",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Font Awesome",
-      "Google Analytics",
-      "Instagram Follow Button",
-      "Micro.blog",
-      "Pleroma",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "runs.lol",
-    "title": "a weblog · home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 291,
-    "crawled_at": "2025-12-21T00:10:39.416113154Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Micro.blog",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
