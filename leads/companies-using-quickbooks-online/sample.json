@@ -1,5 +1,33 @@
 [
   {
+    "domain": "ruboyianes.com",
+    "title": "Home | Ruby Co. Concierge Tax & Accounting",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 28340,
+    "crawled_at": "2026-07-31T23:40:04.474500344Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "Zoom Video Conferencing",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "imitaxadvisors.com",
     "title": "Accounting Firm Peoria AZ | Accountant {2nd city}",
     "business_name": "",
@@ -6781,33 +6809,6 @@
     "seo_score": 77,
     "tech_spend": 18340,
     "crawled_at": "2026-04-05T18:17:20.017533509Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "Zoom Video Conferencing",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "rubycotax.com",
-    "title": "Home | Ruby Co. Concierge Tax & Accounting",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 18340,
-    "crawled_at": "2026-04-05T17:38:19.978540309Z",
     "technologies": [
       "Adobe Creative Cloud WebFonts",
       "Cloudinary",
