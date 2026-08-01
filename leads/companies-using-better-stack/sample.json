@@ -1,5 +1,28 @@
 [
   {
+    "domain": "orw.social",
+    "title": "orw.social",
+    "business_name": "",
+    "country": "",
+    "seo_score": 27,
+    "tech_spend": 7503,
+    "crawled_at": "2026-08-01T06:46:01.813592724Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Better Stack",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Fireblade",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "refurb-tracker.com",
     "title": "Watch Apple Refurb deals and save up to 40% - Refurb Tracker",
     "business_name": "",
@@ -5323,29 +5346,6 @@
       "Unsplash",
       "Vercel",
       "WordPress"
-    ]
-  },
-  {
-    "domain": "orw.social",
-    "title": "orw.social",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 7503,
-    "crawled_at": "2025-12-21T06:53:51.113095509Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Better Stack",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Fireblade",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "UTF-8"
     ]
   }
 ]
