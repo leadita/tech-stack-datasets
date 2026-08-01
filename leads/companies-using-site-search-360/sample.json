@@ -1,5 +1,34 @@
 [
   {
+    "domain": "bluesprucehabitat.org",
+    "title": "Blue Spruce Habitat for Humanity - Affordable Housing Nonprofit",
+    "business_name": "Blue Spruce Habitat for Humanity",
+    "country": "NOR",
+    "seo_score": 82,
+    "tech_spend": 27808,
+    "crawled_at": "2026-08-01T18:25:26.337191816Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "Baidu Cloud",
+      "Constant Contact",
+      "Content Delivery Network",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Investor Relations",
+      "Microdata for Google Shopping",
+      "Prospective",
+      "Python",
+      "Site Search 360",
+      "UTF-8",
+      "Yandex Hosting"
+    ]
+  },
+  {
     "domain": "abdallas.bank",
     "title": "Personal and Business Banking Solutions | American Bank of Dallas",
     "business_name": "",
@@ -15923,30 +15952,6 @@
       "Twitter Ads",
       "UTF-8",
       "Yandex Hosting"
-    ]
-  },
-  {
-    "domain": "joysandtears.com",
-    "title": "Discover the Fascinating World of Apron Art & History | Joys & Tears in the Apron Strings",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 72,
-    "tech_spend": 16266,
-    "crawled_at": "2026-04-02T07:08:19.97884441Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "DAV",
-      "Duda",
-      "GZIP Module",
-      "Nginx",
-      "No-Q",
-      "PWA",
-      "Site Search 360",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
