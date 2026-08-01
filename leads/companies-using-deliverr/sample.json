@@ -5997,39 +5997,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "theappliancespros.com",
-    "title": "Appliance Pros - Home | Major Brands Replacement Parts",
-    "business_name": "Appliance Pros",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 9812,
-    "crawled_at": "2025-12-21T14:56:42.066938519Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Accelerated Mobile Pages",
-      "Apture Linking Platform",
-      "Aruba",
-      "Chatra",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Deliverr",
-      "Express",
-      "Google Cloud DNS",
-      "Google Related Website Sites",
-      "MailChimp",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Schema Plugin",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "UTF-8",
-      "eLand",
-      "hCaptcha",
-      "jQuery",
-      "reCAPTCHA"
-    ]
   }
 ]

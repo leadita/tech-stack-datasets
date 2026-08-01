@@ -1,5 +1,59 @@
 [
   {
+    "domain": "post2me-fulfillment.eu",
+    "title": "Post2Me - Fulfillment",
+    "business_name": "",
+    "country": "HUN",
+    "seo_score": 82,
+    "tech_spend": 8626,
+    "crawled_at": "2026-08-01T21:02:31.981874339Z",
+    "technologies": [
+      "BootstrapMade",
+      "DHL Parcel",
+      "Express",
+      "FedEx",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Parcel",
+      "RM Education",
+      "TNT",
+      "Tailwind CSS",
+      "TermsFeed",
+      "UPS",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "shipme.store",
+    "title": "Classic Shipping & Printing - Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 120,
+    "crawled_at": "2026-08-01T06:33:49.860689042Z",
+    "technologies": [
+      "Apache",
+      "DHL Parcel",
+      "FedEx",
+      "GZIP Module",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Twitter Ads",
+      "UPS",
+      "USPS",
+      "UTF-8",
+      "Weebly",
+      "Yelp Badge",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "eurokosovo.store",
     "title": "EuroKosovo – The best Supplier for 1:1 bills in Europe.",
     "business_name": "",
@@ -34,36 +88,6 @@
       "WordPress",
       "WordPress Multisite",
       "WordPress Related Posts",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "post2me.eu",
-    "title": "Post2Me - Fulfillment",
-    "business_name": "",
-    "country": "HUN",
-    "seo_score": 72,
-    "tech_spend": 8626,
-    "crawled_at": "2026-07-31T16:10:15.881076503Z",
-    "technologies": [
-      "BootstrapMade",
-      "DHL Parcel",
-      "Express",
-      "FedEx",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Parcel",
-      "RM Education",
-      "TNT",
-      "Tailwind CSS",
-      "TermsFeed",
-      "UPS",
       "jQuery"
     ]
   },
@@ -18873,40 +18897,6 @@
       "Python",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "linqhr.com",
-    "title": "HR Consulting & Compliance Services | Linq HR Australia",
-    "business_name": "",
-    "country": "SYC",
-    "seo_score": 67,
-    "tech_spend": 25030,
-    "crawled_at": "2026-02-27T07:33:38.098271642Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon",
-      "Content Delivery Network",
-      "DAV",
-      "DHL Parcel",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Maps",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "InitiativeS",
-      "LinkedIn Insights",
-      "LinkedIn Pixel",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "Stratus",
-      "Subversion",
-      "UTF-8",
-      "YouTube",
-      "Zoho SalesIQ",
-      "Zoho Sites"
     ]
   }
 ]

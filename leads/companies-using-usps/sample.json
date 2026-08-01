@@ -1,5 +1,57 @@
 [
   {
+    "domain": "doctorviagra.co.uk",
+    "title": "Find the Cheapest E.D. Medication in the USA - Doctor Viagra",
+    "business_name": "",
+    "country": "SGP",
+    "seo_score": 77,
+    "tech_spend": 2459,
+    "crawled_at": "2026-08-01T13:41:46.466317779Z",
+    "technologies": [
+      "Alternate Protocol",
+      "DAV",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "NFOrce Internet",
+      "PHP",
+      "Placehold IT",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "USPS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "shipme.store",
+    "title": "Classic Shipping & Printing - Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 120,
+    "crawled_at": "2026-08-01T06:33:49.860689042Z",
+    "technologies": [
+      "Apache",
+      "DHL Parcel",
+      "FedEx",
+      "GZIP Module",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Twitter Ads",
+      "UPS",
+      "USPS",
+      "UTF-8",
+      "Weebly",
+      "Yelp Badge",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "ballista.jobs",
     "title": "Ballista - Paper Beats Bots | Mail Your Resume to Hiring Managers",
     "business_name": "Ballista",
@@ -18154,53 +18206,6 @@
       "USPS",
       "Unsplash",
       "Zyro"
-    ]
-  },
-  {
-    "domain": "jywlexpress.com",
-    "title": "深圳市景曜国际物流有限公司",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 123,
-    "crawled_at": "2026-04-15T12:20:19.993423578Z",
-    "technologies": [
-      "17TRACK",
-      "Alternate Protocol",
-      "DHL Parcel",
-      "Express",
-      "FedEx",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "Tailwind CSS",
-      "UPS",
-      "USPS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "shengtu56.com",
-    "title": "嘉运晟途供应链",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 123,
-    "crawled_at": "2026-04-15T12:14:19.981052291Z",
-    "technologies": [
-      "17TRACK",
-      "Alternate Protocol",
-      "DHL Parcel",
-      "FedEx",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "Tailwind CSS",
-      "UPS",
-      "USPS",
-      "UTF-8"
     ]
   }
 ]
