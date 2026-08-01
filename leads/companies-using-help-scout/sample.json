@@ -1,5 +1,43 @@
 [
   {
+    "domain": "bellevuetheme.com",
+    "title": "Best Hotel + Vacation Rental WordPress Theme - Bellevue Theme",
+    "business_name": "Pixel Makers Creative Inc.",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 3037,
+    "crawled_at": "2026-08-01T12:28:23.288729377Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Booking Affiliate",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "EWWW Image Optimizer",
+      "Elementor",
+      "EmbedPress",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Help Scout",
+      "Lazy Load for WordPress",
+      "MailChimp",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Nginx",
+      "PHP",
+      "Popup Maker for Wordpress",
+      "QUIC",
+      "SiteGround Optimizer",
+      "SiteW",
+      "Table Addons for Elementor",
+      "UTF-8",
+      "WP Rocket",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "electricputty.co.uk",
     "title": "Electric Putty | BrandStencil",
     "business_name": "BrandStencil",
@@ -21595,39 +21633,6 @@
       "UTF-8",
       "Vimeo CDN",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "promed360.com",
-    "title": "Pro Med Billing",
-    "business_name": "Professional Medical Billing",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 90701,
-    "crawled_at": "2026-04-23T04:11:20.004633297Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Help Scout",
-      "HubSpot Conversations",
-      "Hubspot",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "ScoreApp",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
