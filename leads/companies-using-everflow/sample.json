@@ -1,5 +1,44 @@
 [
   {
+    "domain": "edgeboost.io",
+    "title": "EDGE Boost | The Financial Platform for Smart Players",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 49387,
+    "crawled_at": "2026-07-31T11:17:08.074474528Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Amplitude",
+      "Apture Linking Platform",
+      "Coming Soon Page",
+      "Everflow",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Federal Deposit Insurance Corporation",
+      "Framer Sites",
+      "Gambling Content",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Tag Manager",
+      "HubSpot Conversations",
+      "Hubspot",
+      "Juicer DMP",
+      "Ntent",
+      "QUIC",
+      "Tailwind CSS",
+      "Vector Internet Services",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
     "domain": "exactmeds.com",
     "title": "ExactMeds by RxGenomix",
     "business_name": "ExactMeds",
@@ -7227,32 +7266,6 @@
       "UTF-8",
       "VWO Engage",
       "Widdit"
-    ]
-  },
-  {
-    "domain": "edgeboost.bet",
-    "title": "EDGE Boost",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 62186,
-    "crawled_at": "2026-02-14T16:58:00.648520563Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Coming Soon Page",
-      "Everflow",
-      "Federal Deposit Insurance Corporation",
-      "Framer Sites",
-      "Gambling Content",
-      "HubSpot Conversations",
-      "Hubspot",
-      "Instagram Follow Button",
-      "Juicer DMP",
-      "K2F",
-      "Ntent",
-      "Point",
-      "Yandex Hosting",
-      "Zeald"
     ]
   },
   {

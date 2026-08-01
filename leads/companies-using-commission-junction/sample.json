@@ -1,5 +1,22 @@
 [
   {
+    "domain": "10xsolutions.com",
+    "title": "10XSOLUTIONS AGENCY",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-08-01T06:01:33.02084297Z",
+    "technologies": [
+      "Add to Any",
+      "Apache",
+      "Commission Junction",
+      "GZIP Module",
+      "Tailwind CSS",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "bellbycj.com",
     "title": "Bell Properties, Inc.",
     "business_name": "Bell Properties, Inc.",
@@ -13947,67 +13964,6 @@
       "Fastly",
       "GZIP Module",
       "Nginx",
-      "Tailwind CSS",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "fableengland.uk",
-    "title": "Enamel Jewellery, Handbags, Scarves and Accessories | Fable England",
-    "business_name": "Fable England",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 32280,
-    "crawled_at": "2025-12-21T09:11:50.374618945Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "Aruba",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Commission Junction",
-      "Express",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "Microdata for Google Shopping",
-      "Perl",
-      "Pico CSS",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Subversion",
-      "Swell Rewards",
-      "Tagalys",
-      "Tailwind CSS",
-      "Trusted Shops",
-      "Trustpilot Reviews for WordPress",
-      "UTF-8",
-      "Yotpo",
-      "eLand",
-      "hCaptcha",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "10xsolutions.com",
-    "title": "10XSOLUTIONS AGENCY",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2025-12-21T06:26:45.899957477Z",
-    "technologies": [
-      "Add to Any",
-      "Apache",
-      "Commission Junction",
       "Tailwind CSS",
       "jQuery"
     ]
