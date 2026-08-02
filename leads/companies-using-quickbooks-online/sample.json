@@ -1,5 +1,35 @@
 [
   {
+    "domain": "caroandassociates.com",
+    "title": "Home | Caro & Associates",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 28420,
+    "crawled_at": "2026-08-01T17:57:58.072727633Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "RingCentral",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "ruboyianes.com",
     "title": "Home | Ruby Co. Concierge Tax & Accounting",
     "business_name": "",
@@ -10587,34 +10617,6 @@
       "Zoom Video Conferencing",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "caroandassociates.com",
-    "title": "Home | Caro & Associates",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 12880,
-    "crawled_at": "2025-12-21T12:49:32.73882121Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "RingCentral",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "jsDelivr"
     ]
   }
 ]
