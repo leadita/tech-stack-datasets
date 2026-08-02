@@ -1,5 +1,24 @@
 [
   {
+    "domain": "dnavandalfsen.nl",
+    "title": "Welkom - DNA van Dalfsen",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": "",
+    "crawled_at": "2026-08-01T23:10:08.541637727Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gridsome",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "kendallroth.ca",
     "title": "Kendall Roth - Portfolio",
     "business_name": "",
@@ -12000,31 +12019,6 @@
       "Netlify",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "neocrm.tech",
-    "title": "Главная - NeoCRM",
-    "business_name": "",
-    "country": "RUS",
-    "seo_score": 65,
-    "tech_spend": 105900,
-    "crawled_at": "2026-01-27T21:00:12.610821332Z",
-    "technologies": [
-      "ADFOX",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Gridsome",
-      "Idaq",
-      "K2F",
-      "KVH",
-      "Material Design Icons",
-      "Nginx",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "Yandex Hosting",
-      "Yandex Metrika"
     ]
   }
 ]

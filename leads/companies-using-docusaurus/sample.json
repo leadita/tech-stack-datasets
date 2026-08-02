@@ -1,5 +1,32 @@
 [
   {
+    "domain": "jakevastola.com",
+    "title": "Home | Jake Vastola",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 37499,
+    "crawled_at": "2026-08-02T11:35:20.738492667Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "Fireblade",
+      "Font Awesome",
+      "GitHub Hosting",
+      "Google My Business",
+      "Jekyll",
+      "Kitco",
+      "Microdata for Google Shopping",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "interview-science.org",
     "title": "📖 前言 | Interview Science",
     "business_name": "",
@@ -12749,28 +12776,6 @@
       "Tailwind CSS",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "sylin.host",
-    "title": "希望我们拥有美好的未来！ | PP 的备忘录",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2026-02-26T07:38:54.918697075Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Docusaurus",
-      "GitHub Hosting",
-      "KaTeX",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
