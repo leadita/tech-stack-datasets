@@ -1,5 +1,32 @@
 [
   {
+    "domain": "wakaapps.com",
+    "title": "Waka blog.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 663,
+    "crawled_at": "2026-08-02T05:35:17.191338962Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "Fastly CDN",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "paulasjes.com",
     "title": "Paul Asjes",
     "business_name": "",
@@ -14545,29 +14572,6 @@
       "Cloudflare Workers",
       "Content Delivery Network",
       "GitHub Hosting",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "beyzarslan.com.tr",
-    "title": "Beyza Arslan",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 5060,
-    "crawled_at": "2026-04-20T18:47:20.000697259Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "Endis",
-      "Instagram Follow Button",
-      "Netlify",
       "Next.js",
       "Pleroma",
       "Tailwind CSS",
