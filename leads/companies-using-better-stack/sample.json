@@ -5318,34 +5318,5 @@
       "YouTube",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "ciazhar.com",
-    "title": "𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 🖐️",
-    "business_name": "",
-    "country": "IDN",
-    "seo_score": 67,
-    "tech_spend": 44990,
-    "crawled_at": "2025-12-21T22:37:32.732130171Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Bench",
-      "Better Stack",
-      "Content Delivery Network",
-      "Ektron",
-      "Freepik",
-      "GitHub Hosting",
-      "Google My Business",
-      "Google Play",
-      "Medium",
-      "Next.js",
-      "Notion",
-      "Pleroma",
-      "UTF-8",
-      "Unsplash",
-      "Vercel",
-      "WordPress"
-    ]
   }
 ]
