@@ -4940,43 +4940,5 @@
       "Yellow Messenger",
       "Zeald"
     ]
-  },
-  {
-    "domain": "usethevoiceoc.com",
-    "title": "Voiceoc: AI-Powered Patient Interaction",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 72276,
-    "crawled_at": "2025-12-21T15:40:32.746520824Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AWS WAF Challenge",
-      "Amazon",
-      "Amazon CloudFront",
-      "Animate It",
-      "Azure Edge",
-      "CDN JS",
-      "Calendly",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Healthcare Success",
-      "IcoMoon",
-      "Microsoft Azure Verified CDN",
-      "NFOrce Internet",
-      "QUIC",
-      "Tailwind CSS",
-      "WF Cookie Consent",
-      "Webflow",
-      "Yellow Messenger",
-      "YouTube",
-      "jsDelivr"
-    ]
   }
 ]
