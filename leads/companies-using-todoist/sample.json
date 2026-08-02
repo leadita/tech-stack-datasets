@@ -1,5 +1,35 @@
 [
   {
+    "domain": "monofocus.app",
+    "title": "MonoFocus for macOS — Focus on one task at a time.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 70628,
+    "crawled_at": "2026-08-02T01:30:07.801317143Z",
+    "technologies": [
+      "Airtable",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "DAV",
+      "Gatsby JS",
+      "GitHub Hosting",
+      "Netlify",
+      "Phew",
+      "QUIC",
+      "SMC",
+      "Slack",
+      "Styled Components",
+      "Tailwind CSS",
+      "Todoist",
+      "Trello",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "imaginarydesign.co.uk",
     "title": "Adam Koniuszewski | Product Designer",
     "business_name": "",
@@ -2417,35 +2447,6 @@
       "UTF-8",
       "WordPress",
       "WordPress Multisite"
-    ]
-  },
-  {
-    "domain": "monofocus.app",
-    "title": "MonoFocus for macOS — Focus on one task at a time.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 70628,
-    "crawled_at": "2025-12-21T18:19:32.738037462Z",
-    "technologies": [
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "DAV",
-      "Gatsby JS",
-      "GitHub Hosting",
-      "Netlify",
-      "Phew",
-      "QUIC",
-      "SMC",
-      "Slack",
-      "Styled Components",
-      "Tailwind CSS",
-      "Todoist",
-      "Trello",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "shadcn ui"
     ]
   }
 ]
