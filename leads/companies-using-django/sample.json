@@ -1,5 +1,53 @@
 [
   {
+    "domain": "s3armsec.com",
+    "title": "S3 ARMSEC - Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 2460,
+    "crawled_at": "2026-08-01T17:33:41.575154169Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Line2",
+      "Perl",
+      "QUIC",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "swiftorbit.us",
+    "title": "SwiftOrbit: Exploring Swift Development and iOS Insights",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 87,
+    "tech_spend": 8068,
+    "crawled_at": "2026-08-01T14:01:13.598027833Z",
+    "technologies": [
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "DAV",
+      "Django",
+      "Gambling Content",
+      "IcoMoon",
+      "QUIC",
+      "RM Education",
+      "SushiSwap",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Way",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "timoplumbing.com",
     "title": "Santa Clarita Plumber - Tim O'Connor Plumbing",
     "business_name": "",
@@ -74,32 +122,6 @@
       "UTF-8",
       "Ubuntu",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "fortunefocus.uk",
-    "title": "Fortune Focus: Your Guide to Smart Money and Investing",
-    "business_name": "",
-    "country": "BRA",
-    "seo_score": 72,
-    "tech_spend": 17756,
-    "crawled_at": "2026-07-14T13:59:19.969061119Z",
-    "technologies": [
-      "Adult Content",
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Django",
-      "Fireblade",
-      "IcoMoon",
-      "Matomo",
-      "Matomo Tag Manager",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   },
   {
@@ -9686,53 +9708,6 @@
       "Fireblade",
       "GitHub Hosting",
       "Google My Business",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "youthcommunitylearnandaction.com",
-    "title": "87.9 Heat FM Charlotte - Radio Station",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 1300,
-    "crawled_at": "2025-12-21T16:31:51.503470299Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Line2",
-      "QUIC",
-      "Twitter Ads",
-      "University or College"
-    ]
-  },
-  {
-    "domain": "s3armsec.com",
-    "title": "S3 ARMSEC - Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 2460,
-    "crawled_at": "2025-12-21T12:34:59.275524225Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Line2",
       "Perl",
       "QUIC",
       "reCAPTCHA"
