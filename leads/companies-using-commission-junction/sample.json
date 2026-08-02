@@ -13950,22 +13950,5 @@
       "Website Tonight",
       "YouTube"
     ]
-  },
-  {
-    "domain": "chinajvchuang.com",
-    "title": "long8-龙八(头号玩家)唯一官方网站",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 600,
-    "crawled_at": "2025-12-21T15:29:52.899770332Z",
-    "technologies": [
-      "Commission Junction",
-      "Fastly",
-      "GZIP Module",
-      "Nginx",
-      "Tailwind CSS",
-      "jQuery"
-    ]
   }
 ]
