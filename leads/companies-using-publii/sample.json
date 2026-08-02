@@ -8667,28 +8667,5 @@
       "jQuery",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "ayinraah.is",
-    "title": "Ayin Raah",
-    "business_name": "Ayin Raah",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 760,
-    "crawled_at": "2025-12-21T20:13:32.74419211Z",
-    "technologies": [
-      "Alternate Protocol",
-      "BunnyCDN Header",
-      "Content Delivery Network",
-      "CoreUI",
-      "IPFS",
-      "Microdata for Google Shopping",
-      "Mouseflow",
-      "Pico CSS",
-      "Publii",
-      "Seflow Italy",
-      "WordPress SEO Structured Data Schema Plugin",
-      "shadcn ui"
-    ]
   }
 ]
