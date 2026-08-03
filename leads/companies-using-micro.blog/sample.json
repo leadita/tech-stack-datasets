@@ -8267,29 +8267,5 @@
       "jsDelivr",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "samuellison.com",
-    "title": "Samuel Lison",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 65,
-    "tech_spend": 20879,
-    "crawled_at": "2025-12-22T13:54:50.216619304Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Express",
-      "Font Awesome",
-      "Mastodon",
-      "Micro.blog",
-      "Ntent",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8",
-      "Waveform Technology",
-      "jsDelivr",
-      "shadcn ui"
-    ]
   }
 ]
