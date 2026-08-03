@@ -1,5 +1,38 @@
 [
   {
+    "domain": "maisonbeautehairskin.com",
+    "title": "MAISON BEAUTÉ HAIR & SKIN",
+    "business_name": "Maison Beauté Hair & Skin ",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 35839,
+    "crawled_at": "2026-08-03T01:24:31.302368242Z",
+    "technologies": [
+      "Accordion Blocks",
+      "Accordion FAQ",
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Contento",
+      "Express",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Setmore",
+      "SiteW",
+      "Squarespace",
+      "Tagembed",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "hansonmusic.co.uk",
     "title": "Hanson Music and Arts | including Woodwind, Brass, Orchestral Strings, Guitars",
     "business_name": "Hanson Music and Arts",
@@ -17589,35 +17622,6 @@
       "Setmore",
       "Tagembed",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "b-wellbowenworks.com",
-    "title": "Get Well, Stay Well, Be Well.",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 70,
-    "tech_spend": 1505,
-    "crawled_at": "2026-01-04T06:54:08.526423716Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Beaver Builder Lite",
-      "Content Delivery Network",
-      "EmbedPress",
-      "GoDaddy",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "PHP",
-      "QUIC",
-      "Setmore",
-      "Sucuri Cloudproxy",
-      "Tagembed",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
