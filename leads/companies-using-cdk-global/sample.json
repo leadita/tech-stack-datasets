@@ -1,5 +1,37 @@
 [
   {
+    "domain": "ashishku.in",
+    "title": "Ashish Kumar",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 67,
+    "tech_spend": 60508,
+    "crawled_at": "2026-08-02T19:41:21.940025094Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Bulma",
+      "CDK Global",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "Fireblade",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Hugo",
+      "Inspectlet",
+      "Instagram Follow Button",
+      "Perl",
+      "Python",
+      "Tailwind CSS",
+      "Telegram",
+      "Twitter Ads",
+      "University or College",
+      "WhatsApp Sharing"
+    ]
+  },
+  {
     "domain": "cdkglobal.com",
     "title": "CDK Global: Homepage",
     "business_name": "",
@@ -594,37 +626,6 @@
       "WordPress Multisite",
       "Yandex Hosting",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "ashishku.in",
-    "title": "Ashish Kumar",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 60508,
-    "crawled_at": "2025-12-22T06:52:38.319500427Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Bulma",
-      "CDK Global",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Fireblade",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Inspectlet",
-      "Instagram Follow Button",
-      "Perl",
-      "Python",
-      "Tailwind CSS",
-      "Telegram",
-      "Twitter Ads",
-      "University or College",
-      "WhatsApp Sharing"
     ]
   }
 ]
