@@ -14341,28 +14341,5 @@
       "Vvveb",
       "jQuery"
     ]
-  },
-  {
-    "domain": "mammothsshop.cz",
-    "title": "Mammoths Fan Shop - Ragbag.cz",
-    "business_name": "",
-    "country": "Czech",
-    "seo_score": 77,
-    "tech_spend": 508,
-    "crawled_at": "2025-12-22T10:31:38.322778119Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Bulma",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Schema Plugin",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
   }
 ]
