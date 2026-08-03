@@ -1,5 +1,26 @@
 [
   {
+    "domain": "syedhaseebofficial.com",
+    "title": "Commercial Planning | Revenue Analyst | Data Analyst",
+    "business_name": "",
+    "country": "PAK",
+    "seo_score": 82,
+    "tech_spend": 2680,
+    "crawled_at": "2026-08-02T15:30:32.177697184Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Power BI",
+      "Python",
+      "University or College"
+    ]
+  },
+  {
     "domain": "werkaanmijnwinkel.nl",
     "title": "Cleo Hooyer ✨ - WerkaanmijnWinkel | LinkedIn",
     "business_name": "",
@@ -19159,33 +19180,6 @@
       "YouTube",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "jndataanalytics.com",
-    "title": "Data Analyst Melbourne | Expert Analytics Services | Jason Nguyen",
-    "business_name": "JN Data Analytics",
-    "country": "PHL",
-    "seo_score": 82,
-    "tech_spend": 20289,
-    "crawled_at": "2026-03-19T21:35:28.369122596Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Amazon",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Fastly",
-      "Fireblade",
-      "Formspree",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Power BI",
-      "Python",
-      "UTF-8"
     ]
   }
 ]
