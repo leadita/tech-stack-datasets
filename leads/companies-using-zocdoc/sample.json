@@ -1,5 +1,29 @@
 [
   {
+    "domain": "drmichaelhammonds.com",
+    "title": "Michael Hammonds, Psy.D.",
+    "business_name": "AVL Psychological Services",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 4129,
+    "crawled_at": "2026-08-03T18:05:48.406000265Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "ZocDoc",
+      "eLand"
+    ]
+  },
+  {
     "domain": "homveemedicine.com",
     "title": "Homvee Medicine",
     "business_name": "",
@@ -18214,33 +18238,6 @@
       "WordPress Multisite",
       "WordPress Related Posts",
       "WordPress Stats",
-      "ZocDoc"
-    ]
-  },
-  {
-    "domain": "curottopsyd.com",
-    "title": "Nancy Curotto, Psy.D. LLC",
-    "business_name": "Nancy Curotto, Psy.D. LLC",
-    "country": "FRA",
-    "seo_score": 75,
-    "tech_spend": 25900,
-    "crawled_at": "2026-05-16T12:18:14.663815895Z",
-    "technologies": [
-      "ETranslate",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Line2",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PWA",
-      "UTF-8",
-      "University or College",
-      "Wangsu",
-      "Website Tonight",
-      "YouTube",
       "ZocDoc"
     ]
   }
