@@ -1,5 +1,44 @@
 [
   {
+    "domain": "sphygmomanometer.net",
+    "title": "Digital Real Estate Specialist",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 3236,
+    "crawled_at": "2026-08-03T14:08:17.77529858Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Prospective",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "houndhomeinspection.com",
+    "title": "Hound Home Inspection",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 36,
+    "crawled_at": "2026-08-02T16:13:11.539914528Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Investor Relations",
+      "Microdata for Google Shopping",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "roswellufo.com",
     "title": "This website or DOMAIN NAME may be for sale.",
     "business_name": "",
@@ -109,24 +148,6 @@
       "Nginx",
       "PHP",
       "University or College"
-    ]
-  },
-  {
-    "domain": "jeremymartinez.org",
-    "title": "Build Your Brand",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 36,
-    "crawled_at": "2026-06-19T13:56:19.971365786Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "UTF-8"
     ]
   },
   {
@@ -5012,24 +5033,6 @@
       "NFOrce Internet",
       "UTF-8",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "houndhomeinspection.com",
-    "title": "Meridian",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 135,
-    "crawled_at": "2025-12-22T04:40:38.323244072Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Investor Relations",
-      "UTF-8"
     ]
   }
 ]
