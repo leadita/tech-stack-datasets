@@ -1,5 +1,49 @@
 [
   {
+    "domain": "pacificavevet.com",
+    "title": "PACIFIC AVENUE VETERINARY CLINIC - Pacific Avenue Veterinary Clinic",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 102520,
+    "crawled_at": "2026-08-03T08:36:40.997251218Z",
+    "technologies": [
+      "GZIP Module",
+      "Google My Business",
+      "PetDesk",
+      "UTF-8",
+      "Weebly",
+      "Workday",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "rittenhousecancer.com",
+    "title": "Rittenhouse Care Care",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 100359,
+    "crawled_at": "2026-08-02T20:44:28.381196833Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "AWS WAF Challenge",
+      "AutoComplete",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "IcoMoon",
+      "Nginx",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "Workday",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "sanrafaelvet.com",
     "title": "Veterinarian & Animal Hospital in San Rafael, CA | Animal...",
     "business_name": "",
@@ -19070,65 +19114,6 @@
       "YouTube",
       "arsys.es",
       "eLand",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "northmarkstrategies.com",
-    "title": "NorthMark Strategies | Investment Firm",
-    "business_name": "NorthMark Strategies Group",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 250049,
-    "crawled_at": "2026-04-18T14:17:19.984293438Z",
-    "technologies": [
-      "Alternate Protocol",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "Workday",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "rsislamlumajang.co.id",
-    "title": "RS Islam Lumajang",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 100159,
-    "crawled_at": "2026-04-18T12:11:43.722285014Z",
-    "technologies": [
-      "BootstrapMade",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fancybox for WordPress",
-      "FreeCSSTemplates",
-      "Gambling Content",
-      "Google Cloud DNS",
-      "Google Code Prettify",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Play",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Workday",
       "jQuery"
     ]
   }

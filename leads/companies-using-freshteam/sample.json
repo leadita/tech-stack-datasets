@@ -1,5 +1,42 @@
 [
   {
+    "domain": "incentius.com",
+    "title": "Home - Incentius - Enable Digital Transformation",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 26582,
+    "crawled_at": "2026-08-02T20:19:49.73553736Z",
+    "technologies": [
+      "AI Log",
+      "AWS WAF Challenge",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Apture Linking Platform",
+      "Astro",
+      "Better Lead Generation Services",
+      "CloudFront",
+      "Content Delivery Network",
+      "Freshteam",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Perl",
+      "Python",
+      "QUIC",
+      "Tailwind CSS",
+      "Vector Internet Services",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "fieldmaterials.com",
     "title": "Field Materials AI - construction procurement software",
     "business_name": "Field Materials",
@@ -3357,39 +3394,6 @@
       "WF Cookie Consent",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "incentius.com",
-    "title": "Home - Incentius - Enable Digital Transformation",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 24132,
-    "crawled_at": "2025-12-22T07:16:38.323377783Z",
-    "technologies": [
-      "AI Log",
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "Astro",
-      "Better Lead Generation Services",
-      "Freshteam",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Nginx",
-      "Perl",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "Ubuntu",
-      "Vector Internet Services",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]

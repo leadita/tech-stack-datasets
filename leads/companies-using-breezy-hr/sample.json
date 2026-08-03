@@ -1,5 +1,34 @@
 [
   {
+    "domain": "otto-controls.com",
+    "title": "Manufacturer of Electromechanical Switches, Grips, Joysticks",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 72,
+    "tech_spend": 173804,
+    "crawled_at": "2026-08-03T00:29:14.165377583Z",
+    "technologies": [
+      "Aruba",
+      "Breezy HR",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "ETranslate",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microsoft Azure",
+      "QUIC",
+      "Sitecore CMS",
+      "UTF-8",
+      "Visual Studio",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "useciswiredpro.com",
     "title": "Travel Management Operations and Automation | Cornerstone",
     "business_name": "",
@@ -17553,31 +17582,6 @@
       "eLand",
       "monday.com",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "ottoexcellence.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 158604,
-    "crawled_at": "2025-12-25T19:16:38.331186169Z",
-    "technologies": [
-      "Breezy HR",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ETranslate",
-      "GZIP Module",
-      "Google Analytics",
-      "Microsoft Azure",
-      "QUIC",
-      "Sitecore CMS",
-      "Twitter Ads",
-      "UTF-8",
-      "Visual Studio",
-      "YouTube"
     ]
   },
   {
