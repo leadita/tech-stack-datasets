@@ -1,5 +1,38 @@
 [
   {
+    "domain": "buybackanalytics.com",
+    "title": "Track Stock Buybacks & Insider Activity | BuyBack Analytics for Smarter Investing",
+    "business_name": "BuyBack Analytics",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 4128,
+    "crawled_at": "2026-08-03T11:19:35.528774834Z",
+    "technologies": [
+      "Blazor",
+      "Bulma",
+      "ButterCMS",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "QUIC",
+      "Stripe",
+      "Tailwind CSS",
+      "UTF-8",
+      "Visual Studio",
+      "WebAssembly",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "lovebudfloralandgifts.com",
     "title": "168幸运五分彩飞艇最新lotto结果|幸运飞开艇（官网/官方）历史记录数据、168直播最新计划超准彩票预测双色球号码 - Send Flowers - Lovebudfloralandgifts.com",
     "business_name": "From You Flowers",
@@ -2087,37 +2120,6 @@
       "Vimeo",
       "Visual Studio",
       "jQuery",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "buybackanalytics.com",
-    "title": "Track Stock Buybacks & Insider Activity | BuyBack Analytics for Smarter Investing",
-    "business_name": "BuyBack Analytics",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 4128,
-    "crawled_at": "2025-12-22T16:19:38.341725881Z",
-    "technologies": [
-      "Blazor",
-      "Bulma",
-      "ButterCMS",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DAV",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Azure",
-      "QUIC",
-      "Stripe",
-      "Tailwind CSS",
-      "UTF-8",
-      "Visual Studio",
-      "WebAssembly",
       "jsDelivr"
     ]
   }
