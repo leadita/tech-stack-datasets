@@ -14683,45 +14683,5 @@
       "WF Cookie Consent",
       "Workday"
     ]
-  },
-  {
-    "domain": "randysww.com",
-    "title": "RANDYS Worldwide | Suspension, Differential, Reman Experts",
-    "business_name": "RANDYS Worldwide",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 86092,
-    "crawled_at": "2025-12-22T04:52:37.53437888Z",
-    "technologies": [
-      "Adult Content",
-      "Amazon",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Convermax",
-      "Express",
-      "Financial Services Guide",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Gorgias",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "Monetate",
-      "NFOrce Internet",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "Vector Internet Services",
-      "hCaptcha",
-      "reCAPTCHA",
-      "shadcn ui"
-    ]
   }
 ]
