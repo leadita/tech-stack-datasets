@@ -1,5 +1,50 @@
 [
   {
+    "domain": "webforger.fr",
+    "title": "Odran HUSSON | Odran HUSSON",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 324,
+    "crawled_at": "2026-08-03T22:25:26.579015816Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Perl",
+      "UTF-8",
+      "Unsplash",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "0xmacintosh.ca",
+    "title": "0xMacintosh",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 60,
+    "crawled_at": "2026-08-03T14:53:23.659494566Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Baidu Ads",
+      "Baidu Analytics",
+      "Baidu Cloud",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Netlify",
+      "PWA",
+      "Perl",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "jakevastola.com",
     "title": "Home | Jake Vastola",
     "business_name": "",
@@ -1171,26 +1216,6 @@
       "QUIC",
       "To Top",
       "Ubuntu"
-    ]
-  },
-  {
-    "domain": "odran.cc",
-    "title": "Odran HUSSON | Odran HUSSON",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 84,
-    "crawled_at": "2026-05-22T02:11:19.985115918Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Perl",
-      "UTF-8",
-      "Unsplash",
-      "Vercel"
     ]
   },
   {
@@ -12742,40 +12767,6 @@
       "eLand",
       "jQuery",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "seudev.com",
-    "title": "Seudev · Making your life easier!",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2400,
-    "crawled_at": "2026-02-27T02:06:39.507998194Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Corporate Governance and Regulatory Compliance",
-      "Docusaurus",
-      "ElementUI",
-      "Facebook Conversion Tracking",
-      "Facebook Like",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Buttons Official",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]

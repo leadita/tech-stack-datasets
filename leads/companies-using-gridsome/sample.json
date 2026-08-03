@@ -1,5 +1,52 @@
 [
   {
+    "domain": "zoldteruletkezeles-alfold.hu",
+    "title": "Zöldterület-kezelés - Gridsome",
+    "business_name": "",
+    "country": "HUN",
+    "seo_score": 62,
+    "tech_spend": 240,
+    "crawled_at": "2026-08-03T14:53:23.657505843Z",
+    "technologies": [
+      "Bulma",
+      "Content Delivery Network",
+      "Google My Business",
+      "Gridsome",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "mkrafinance.com",
+    "title": "Homepage - MKRA Finance",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 77,
+    "tech_spend": 13130,
+    "crawled_at": "2026-08-03T12:43:19.682648078Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Content Delivery Network",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Gridsome",
+      "Trustpilot Reviews for WordPress",
+      "Vector Internet Services",
+      "Vimeo",
+      "Vimeo CDN"
+    ]
+  },
+  {
     "domain": "dnavandalfsen.nl",
     "title": "Welkom - DNA van Dalfsen",
     "business_name": "",
@@ -11978,47 +12025,6 @@
       "No-Q",
       "SMC",
       "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "courtneyerin.co.uk",
-    "title": "Hair Salon, Bromley - Courtney Erin",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 3009,
-    "crawled_at": "2026-01-28T19:46:43.427692535Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Apache",
-      "ElementUI",
-      "Gridsome",
-      "Idaq",
-      "Instagram Follow Button",
-      "Subversion",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "polarstern.me",
-    "title": "Polarstern - Polarstern",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 3,
-    "crawled_at": "2026-01-28T06:55:43.437739548Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Gridsome",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
