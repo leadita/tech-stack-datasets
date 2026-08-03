@@ -1,5 +1,32 @@
 [
   {
+    "domain": "peakconnect.us",
+    "title": "Peak Connect: Your Ultimate Guide to Digital Marketing and Growth",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 77,
+    "tech_spend": 468,
+    "crawled_at": "2026-08-03T03:16:11.835900258Z",
+    "technologies": [
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "DAV",
+      "Django",
+      "Express",
+      "Gambling Content",
+      "IcoMoon",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Way",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "s3armsec.com",
     "title": "S3 ARMSEC - Home",
     "business_name": "",
@@ -18,33 +45,6 @@
       "Perl",
       "QUIC",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "swiftorbit.us",
-    "title": "SwiftOrbit: Exploring Swift Development and iOS Insights",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 87,
-    "tech_spend": 8068,
-    "crawled_at": "2026-08-01T14:01:13.598027833Z",
-    "technologies": [
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "DAV",
-      "Django",
-      "Gambling Content",
-      "IcoMoon",
-      "QUIC",
-      "RM Education",
-      "SushiSwap",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Way",
-      "jQuery"
     ]
   },
   {
