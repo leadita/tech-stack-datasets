@@ -1,5 +1,32 @@
 [
   {
+    "domain": "trapperstudio.com",
+    "title": "Trapper Studio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 2063,
+    "crawled_at": "2026-08-03T04:55:07.499397077Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Perl",
+      "QUIC",
+      "Share Link",
+      "ShipStation",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "bysepi.com",
     "title": "By Sepi: Experience All-Natural Deodorant & Wellness Products",
     "business_name": "",
@@ -3594,36 +3621,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "trapperstudio.com",
-    "title": "Trapper Studio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 724,
-    "crawled_at": "2025-12-22T12:34:38.31724359Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Perl",
-      "QUIC",
-      "Share Link",
-      "ShipStation",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
