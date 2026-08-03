@@ -18,7 +18,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Intellimize](./leads/companies-using-intellimize) (3,585 companies)
 
 ### Accessibility (a11y)
-- [Companies using accessiBe](./leads/companies-using-accessibe) (19,807 companies)
+- [Companies using accessiBe](./leads/companies-using-accessibe) (19,806 companies)
 - [Companies using AudioEye](./leads/companies-using-audioeye) (18,786 companies)
 - [Companies using Monsido](./leads/companies-using-monsido) (824 companies)
 - [Companies using Texthelp](./leads/companies-using-texthelp) (176 companies)
@@ -41,7 +41,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using PayPal](./leads/companies-using-paypal) (71,161 companies)
 - [Companies using Adyen](./leads/companies-using-adyen) (243 companies)
 - [Companies using Braintree](./leads/companies-using-braintree) (2,934 companies)
-- [Companies using Authorize.net](./leads/companies-using-authorize.net) (121,268 companies)
+- [Companies using Authorize.net](./leads/companies-using-authorize.net) (121,264 companies)
 - [Companies using Klarna](./leads/companies-using-klarna) (5,725 companies)
 - [Companies using Affirm](./leads/companies-using-affirm) (2,846 companies)
 - [Companies using Afterpay](./leads/companies-using-afterpay) (6,365 companies)
@@ -49,14 +49,14 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Google Pay](./leads/companies-using-google-pay) (3,788 companies)
 
 ### Advertising
-- [Companies using Google Adsense](./leads/companies-using-google-adsense) (99,427 companies)
+- [Companies using Google Adsense](./leads/companies-using-google-adsense) (99,425 companies)
 - [Companies using Amazon Advertising](./leads/companies-using-amazon-advertising) (207 companies)
 - [Companies using AppNexus](./leads/companies-using-appnexus) (6,234 companies)
-- [Companies using Taboola](./leads/companies-using-taboola) (13,742 companies)
+- [Companies using Taboola](./leads/companies-using-taboola) (13,743 companies)
 - [Companies using Outbrain](./leads/companies-using-outbrain) (3,891 companies)
 - [Companies using Criteo](./leads/companies-using-criteo) (4,937 companies)
 - [Companies using Media.net](./leads/companies-using-media.net) (11,919 companies)
-- [Companies using AdRoll](./leads/companies-using-adroll) (11,384 companies)
+- [Companies using AdRoll](./leads/companies-using-adroll) (11,383 companies)
 - [Companies using The Trade Desk](./leads/companies-using-the-trade-desk) (216 companies)
 - [Companies using Advertising.com](./leads/companies-using-advertising.com) (4,653 companies)
 
@@ -72,7 +72,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Refersion](./leads/companies-using-refersion) (1,289 companies)
 
 ### Analytics
-- [Companies using Google Analytics](./leads/companies-using-google-analytics) (2,895,422 companies)
+- [Companies using Google Analytics](./leads/companies-using-google-analytics) (2,895,377 companies)
 - [Companies using Mixpanel](./leads/companies-using-mixpanel) (7,662 companies)
 - [Companies using Amplitude](./leads/companies-using-amplitude) (7,674 companies)
 - [Companies using Heap](./leads/companies-using-heap) (2,415 companies)
@@ -83,8 +83,8 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using CrazyEgg](./leads/companies-using-crazyegg) (9,327 companies)
 
 ### Artificial Intelligence
-- [Companies using OpenAI](./leads/companies-using-openai) (6,905 companies)
-- [Companies using Intercom](./leads/companies-using-intercom) (17,268 companies)
+- [Companies using OpenAI](./leads/companies-using-openai) (6,906 companies)
+- [Companies using Intercom](./leads/companies-using-intercom) (17,267 companies)
 - [Companies using Algolia](./leads/companies-using-algolia) (2,637 companies)
 - [Companies using Ada Support](./leads/companies-using-ada-support) (176 companies)
 - [Companies using Dialogflow](./leads/companies-using-dialogflow) (361 companies)
@@ -105,13 +105,13 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using AutoLeadStar](./leads/companies-using-autoleadstar) (76 companies)
 
 ### Backend & API Development
-- [Companies using PHP](./leads/companies-using-php) (2,934,114 companies)
-- [Companies using Python](./leads/companies-using-python) (149,822 companies)
+- [Companies using PHP](./leads/companies-using-php) (2,934,074 companies)
+- [Companies using Python](./leads/companies-using-python) (149,819 companies)
 - [Companies using Laravel](./leads/companies-using-laravel) (5,085 companies)
 - [Companies using Django](./leads/companies-using-django) (965 companies)
 - [Companies using Ruby on Rails](./leads/companies-using-ruby-on-rails) (8,919 companies)
-- [Companies using Express](./leads/companies-using-express) (3,334,421 companies)
-- [Companies using Firebase](./leads/companies-using-firebase) (7,984 companies)
+- [Companies using Express](./leads/companies-using-express) (3,334,389 companies)
+- [Companies using Firebase](./leads/companies-using-firebase) (7,985 companies)
 - [Companies using ASP.NET Core](./leads/companies-using-asp.net-core) (10,414 companies)
 - [Companies using Amazon API Gateway](./leads/companies-using-amazon-api-gateway) (897 companies)
 
@@ -122,12 +122,12 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Tumblr](./leads/companies-using-tumblr) (48,130 companies)
 - [Companies using Hasnode](./leads/companies-using-hasnode) (361 companies)
 - [Companies using Hatena Blog](./leads/companies-using-hatena-blog) (9 companies)
-- [Companies using Hexo](./leads/companies-using-hexo) (14,376 companies)
+- [Companies using Hexo](./leads/companies-using-hexo) (14,375 companies)
 - [Companies using Publii](./leads/companies-using-publii) (403 companies)
 - [Companies using Micro.blog](./leads/companies-using-micro.blog) (346 companies)
 
 ### Booking & Calendar
-- [Companies using Calendly](./leads/companies-using-calendly) (147,135 companies)
+- [Companies using Calendly](./leads/companies-using-calendly) (147,129 companies)
 - [Companies using OpenTable](./leads/companies-using-opentable) (6,823 companies)
 - [Companies using MindBody](./leads/companies-using-mindbody) (4,162 companies)
 - [Companies using Setmore](./leads/companies-using-setmore) (571 companies)
@@ -144,32 +144,32 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using ThoughtMetric](./leads/companies-using-thoughtmetric) (89 companies)
 
 ### Cloud Providers
-- [Companies using Amazon](./leads/companies-using-amazon) (2,364,904 companies)
-- [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,301,878 companies)
-- [Companies using Microsoft Azure](./leads/companies-using-microsoft-azure) (138,398 companies)
-- [Companies using Heroku](./leads/companies-using-heroku) (43,815 companies)
-- [Companies using Netlify](./leads/companies-using-netlify) (130,748 companies)
-- [Companies using Vercel](./leads/companies-using-vercel) (333,534 companies)
+- [Companies using Amazon](./leads/companies-using-amazon) (2,364,891 companies)
+- [Companies using Google Cloud](./leads/companies-using-google-cloud) (5,301,785 companies)
+- [Companies using Microsoft Azure](./leads/companies-using-microsoft-azure) (138,395 companies)
+- [Companies using Heroku](./leads/companies-using-heroku) (43,814 companies)
+- [Companies using Netlify](./leads/companies-using-netlify) (130,750 companies)
+- [Companies using Vercel](./leads/companies-using-vercel) (333,533 companies)
 - [Companies using Cloudflare Workers](./leads/companies-using-cloudflare-workers) (1,152 companies)
 - [Companies using Rackspace](./leads/companies-using-rackspace) (7,630 companies)
 
 ### Content Management System (CMS)
-- [Companies using WordPress](./leads/companies-using-wordpress) (4,321,513 companies)
+- [Companies using WordPress](./leads/companies-using-wordpress) (4,321,464 companies)
 - [Companies using Drupal](./leads/companies-using-drupal) (25,164 companies)
-- [Companies using Joomla!](./leads/companies-using-joomla!) (35,694 companies)
+- [Companies using Joomla!](./leads/companies-using-joomla!) (35,693 companies)
 - [Companies using Adobe Experience Manager](./leads/companies-using-adobe-experience-manager) (1,788 companies)
 - [Companies using Sitecore CMS](./leads/companies-using-sitecore-cms) (1,589 companies)
-- [Companies using Webflow](./leads/companies-using-webflow) (52,432 companies)
-- [Companies using Squarespace](./leads/companies-using-squarespace) (1,183,221 companies)
-- [Companies using Wix](./leads/companies-using-wix) (1,311,149 companies)
+- [Companies using Webflow](./leads/companies-using-webflow) (52,431 companies)
+- [Companies using Squarespace](./leads/companies-using-squarespace) (1,183,207 companies)
+- [Companies using Wix](./leads/companies-using-wix) (1,311,144 companies)
 
 ### Collaboration & Communication
 - [Companies using Slack](./leads/companies-using-slack) (4,463 companies)
 - [Companies using Microsoft Teams](./leads/companies-using-microsoft-teams) (1,830 companies)
 - [Companies using Zoom](./leads/companies-using-zoom) (16,649 companies)
-- [Companies using Discord](./leads/companies-using-discord) (13,891 companies)
+- [Companies using Discord](./leads/companies-using-discord) (13,892 companies)
 - [Companies using Google Workspace](./leads/companies-using-google-workspace) (16,678 companies)
-- [Companies using Microsoft 365](./leads/companies-using-microsoft-365) (26,887 companies)
+- [Companies using Microsoft 365](./leads/companies-using-microsoft-365) (26,886 companies)
 - [Companies using Notion](./leads/companies-using-notion) (3,397 companies)
 - [Companies using Figma](./leads/companies-using-figma) (8,547 companies)
 - [Companies using Telegram](./leads/companies-using-telegram) (110,444 companies)
@@ -181,23 +181,23 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Didomi](./leads/companies-using-didomi) (904 companies)
 - [Companies using Trustarc Cookie Consent](./leads/companies-using-trustarc-cookie-consent) (1,812 companies)
 - [Companies using Usercentrics](./leads/companies-using-usercentrics) (4,820 companies)
-- [Companies using Termly](./leads/companies-using-termly) (9,188 companies)
+- [Companies using Termly](./leads/companies-using-termly) (9,187 companies)
 
 ### Content Delivery Networks (CDN)
-- [Companies using Cloudflare](./leads/companies-using-cloudflare) (2,362,039 companies)
+- [Companies using Cloudflare](./leads/companies-using-cloudflare) (2,361,999 companies)
 - [Companies using Akamai](./leads/companies-using-akamai) (6,689 companies)
-- [Companies using Fastly](./leads/companies-using-fastly) (1,892,201 companies)
-- [Companies using Amazon CloudFront](./leads/companies-using-amazon-cloudfront) (515,722 companies)
-- [Companies using Cloudinary](./leads/companies-using-cloudinary) (43,208 companies)
+- [Companies using Fastly](./leads/companies-using-fastly) (1,892,186 companies)
+- [Companies using Amazon CloudFront](./leads/companies-using-amazon-cloudfront) (515,717 companies)
+- [Companies using Cloudinary](./leads/companies-using-cloudinary) (43,206 companies)
 - [Companies using StackPath](./leads/companies-using-stackpath) (64,183 companies)
-- [Companies using BunnyCDN](./leads/companies-using-bunnycdn) (52,582 companies)
-- [Companies using KeyCDN](./leads/companies-using-keycdn) (17,263 companies)
-- [Companies using jsDelivr](./leads/companies-using-jsdelivr) (625,182 companies)
+- [Companies using BunnyCDN](./leads/companies-using-bunnycdn) (52,580 companies)
+- [Companies using KeyCDN](./leads/companies-using-keycdn) (17,262 companies)
+- [Companies using jsDelivr](./leads/companies-using-jsdelivr) (625,171 companies)
 - [Companies using CacheFly](./leads/companies-using-cachefly) (181 companies)
 
 ### Conversion Tracking & Retargeting
-- [Companies using Facebook Pixel](./leads/companies-using-facebook-pixel) (426,788 companies)
-- [Companies using LinkedIn Insights](./leads/companies-using-linkedin-insights) (46,526 companies)
+- [Companies using Facebook Pixel](./leads/companies-using-facebook-pixel) (426,780 companies)
+- [Companies using LinkedIn Insights](./leads/companies-using-linkedin-insights) (46,525 companies)
 - [Companies using TikTok Conversion Tracking Pixel](./leads/companies-using-tiktok-conversion-tracking-pixel) (17,855 companies)
 - [Companies using Pinterest Conversion Tracking](./leads/companies-using-pinterest-conversion-tracking) (11,234 companies)
 - [Companies using Reddit Conversion Tracking](./leads/companies-using-reddit-conversion-tracking) (8,724 companies)
@@ -207,7 +207,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 
 ### Customer Relationship Management (CRM)
 - [Companies using Salesforce](./leads/companies-using-salesforce) (14,924 companies)
-- [Companies using Hubspot](./leads/companies-using-hubspot) (96,862 companies)
+- [Companies using Hubspot](./leads/companies-using-hubspot) (96,858 companies)
 - [Companies using Pipedrive](./leads/companies-using-pipedrive) (2,472 companies)
 - [Companies using Zoho CRM](./leads/companies-using-zoho-crm) (1,391 companies)
 - [Companies using Active Campaign](./leads/companies-using-active-campaign) (5,941 companies)
@@ -216,11 +216,11 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using CapsuleCRM](./leads/companies-using-capsulecrm) (64 companies)
 
 ### CSS Frameworks
-- [Companies using Tailwind CSS](./leads/companies-using-tailwind-css) (2,395,835 companies)
+- [Companies using Tailwind CSS](./leads/companies-using-tailwind-css) (2,395,801 companies)
 - [Companies using Bootstrap](./leads/companies-using-bootstrap) (5,648 companies)
 - [Companies using Material-UI](./leads/companies-using-material-ui) (23,209 companies)
 - [Companies using Chakra UI](./leads/companies-using-chakra-ui) (2,089 companies)
-- [Companies using Bulma](./leads/companies-using-bulma) (344,892 companies)
+- [Companies using Bulma](./leads/companies-using-bulma) (344,889 companies)
 - [Companies using Foundation](./leads/companies-using-foundation) (16,922 companies)
 - [Companies using Semantic UI](./leads/companies-using-semantic-ui) (1,124 companies)
 - [Companies using Styled Components](./leads/companies-using-styled-components) (43,075 companies)
@@ -237,25 +237,25 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 ### Customer Support
 - [Companies using Freshdesk Support](./leads/companies-using-freshdesk-support) (3,302 companies)
 - [Companies using Help Scout](./leads/companies-using-help-scout) (1,888 companies)
-- [Companies using Drift](./leads/companies-using-drift) (2,526 companies)
+- [Companies using Drift](./leads/companies-using-drift) (2,525 companies)
 - [Companies using Gorgias](./leads/companies-using-gorgias) (5,936 companies)
 - [Companies using LiveChat](./leads/companies-using-livechat) (7,851 companies)
 - [Companies using Tidio](./leads/companies-using-tidio) (22,444 companies)
-- [Companies using Crisp](./leads/companies-using-crisp) (7,445 companies)
+- [Companies using Crisp](./leads/companies-using-crisp) (7,444 companies)
 
 ### Cybersecurity
 - [Companies using Auth0](./leads/companies-using-auth0) (994 companies)
 - [Companies using Okta](./leads/companies-using-okta) (556 companies)
-- [Companies using 1Password](./leads/companies-using-1password) (14,975 companies)
+- [Companies using 1Password](./leads/companies-using-1password) (14,976 companies)
 - [Companies using Cloudflare Turnstile](./leads/companies-using-cloudflare-turnstile) (29,848 companies)
-- [Companies using reCAPTCHA](./leads/companies-using-recaptcha) (1,114,520 companies)
-- [Companies using hCaptcha](./leads/companies-using-hcaptcha) (368,512 companies)
+- [Companies using reCAPTCHA](./leads/companies-using-recaptcha) (1,114,499 companies)
+- [Companies using hCaptcha](./leads/companies-using-hcaptcha) (368,498 companies)
 - [Companies using Wordfence](./leads/companies-using-wordfence) (553 companies)
 - [Companies using Ping Identity](./leads/companies-using-ping-identity) (93 companies)
 - [Companies using Bitwarden Passwordless](./leads/companies-using-bitwarden-passwordless) (733 companies)
 
 ### DNS Providers
-- [Companies using Amazon Route 53](./leads/companies-using-amazon-route-53) (93,537 companies)
+- [Companies using Amazon Route 53](./leads/companies-using-amazon-route-53) (93,538 companies)
 - [Companies using Namecheap](./leads/companies-using-namecheap) (19 companies)
 - [Companies using Dynadot](./leads/companies-using-dynadot) (893 companies)
 - [Companies using PointDNS](./leads/companies-using-pointdns) (30 companies)
@@ -269,12 +269,12 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Foxit](./leads/companies-using-foxit) (31 companies)
 
 ### Ecommerce
-- [Companies using Shopify](./leads/companies-using-shopify) (373,390 companies)
-- [Companies using WooCommerce](./leads/companies-using-woocommerce) (469,829 companies)
-- [Companies using Magento](./leads/companies-using-magento) (882,121 companies)
+- [Companies using Shopify](./leads/companies-using-shopify) (373,377 companies)
+- [Companies using WooCommerce](./leads/companies-using-woocommerce) (469,824 companies)
+- [Companies using Magento](./leads/companies-using-magento) (882,115 companies)
 - [Companies using BigCommerce](./leads/companies-using-bigcommerce) (4,957 companies)
 - [Companies using Salesforce Commerce Cloud](./leads/companies-using-salesforce-commerce-cloud) (784 companies)
-- [Companies using Ecwid](./leads/companies-using-ecwid) (34,059 companies)
+- [Companies using Ecwid](./leads/companies-using-ecwid) (34,058 companies)
 - [Companies using PrestaShop](./leads/companies-using-prestashop) (11,947 companies)
 - [Companies using VTEX](./leads/companies-using-vtex) (63 companies)
 - [Companies using Volusion](./leads/companies-using-volusion) (117 companies)
@@ -300,13 +300,13 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 ### Email Marketing
 - [Companies using MailChimp](./leads/companies-using-mailchimp) (114,221 companies)
 - [Companies using Klaviyo](./leads/companies-using-klaviyo) (82,538 companies)
-- [Companies using Constant Contact](./leads/companies-using-constant-contact) (50,458 companies)
+- [Companies using Constant Contact](./leads/companies-using-constant-contact) (50,457 companies)
 - [Companies using ConvertKit](./leads/companies-using-convertkit) (6,309 companies)
 - [Companies using Brevo](./leads/companies-using-brevo) (7,542 companies)
-- [Companies using GetResponse](./leads/companies-using-getresponse) (73,643 companies)
+- [Companies using GetResponse](./leads/companies-using-getresponse) (73,642 companies)
 - [Companies using Campaign Monitor Widget](./leads/companies-using-campaign-monitor-widget) (53 companies)
 - [Companies using Drip](./leads/companies-using-drip) (1,740 companies)
-- [Companies using MailerLite](./leads/companies-using-mailerlite) (4,293 companies)
+- [Companies using MailerLite](./leads/companies-using-mailerlite) (4,292 companies)
 - [Companies using AWeber](./leads/companies-using-aweber) (1,451 companies)
 
 ### Financial Services
@@ -314,19 +314,19 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Tipalti](./leads/companies-using-tipalti) (77 companies)
 - [Companies using Broadridge](./leads/companies-using-broadridge) (163 companies)
 - [Companies using eMoney](./leads/companies-using-emoney) (75 companies)
-- [Companies using TradingView](./leads/companies-using-tradingview) (9,808 companies)
+- [Companies using TradingView](./leads/companies-using-tradingview) (9,807 companies)
 - [Companies using Guidewire](./leads/companies-using-guidewire) (18 companies)
 - [Companies using Optimal Blue](./leads/companies-using-optimal-blue) (222 companies)
 - [Companies using YCharts](./leads/companies-using-ycharts) (23 companies)
 
 ### Forms & Surveys
 - [Companies using Typeform](./leads/companies-using-typeform) (15,858 companies)
-- [Companies using JotForm](./leads/companies-using-jotform) (4,324 companies)
+- [Companies using JotForm](./leads/companies-using-jotform) (4,323 companies)
 - [Companies using Google Forms](./leads/companies-using-google-forms) (62,256 companies)
 - [Companies using Wufoo](./leads/companies-using-wufoo) (4,192 companies)
 - [Companies using Formstack](./leads/companies-using-formstack) (3,070 companies)
-- [Companies using WPForms](./leads/companies-using-wpforms) (198,369 companies)
-- [Companies using Gravity Forms](./leads/companies-using-gravity-forms) (204,489 companies)
+- [Companies using WPForms](./leads/companies-using-wpforms) (198,366 companies)
+- [Companies using Gravity Forms](./leads/companies-using-gravity-forms) (204,488 companies)
 - [Companies using Paperform](./leads/companies-using-paperform) (1,169 companies)
 - [Companies using Qualtrics](./leads/companies-using-qualtrics) (3,256 companies)
 
@@ -373,11 +373,11 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 
 ### JavaScript Frameworks
 - [Companies using React](./leads/companies-using-react) (14,600 companies)
-- [Companies using Angular](./leads/companies-using-angular) (56,499 companies)
-- [Companies using Next.js](./leads/companies-using-next.js) (481,573 companies)
-- [Companies using Nuxt.js](./leads/companies-using-nuxt.js) (153,364 companies)
-- [Companies using jQuery](./leads/companies-using-jquery) (3,168,338 companies)
-- [Companies using Astro](./leads/companies-using-astro) (38,578 companies)
+- [Companies using Angular](./leads/companies-using-angular) (56,498 companies)
+- [Companies using Next.js](./leads/companies-using-next.js) (481,570 companies)
+- [Companies using Nuxt.js](./leads/companies-using-nuxt.js) (153,361 companies)
+- [Companies using jQuery](./leads/companies-using-jquery) (3,168,304 companies)
+- [Companies using Astro](./leads/companies-using-astro) (38,579 companies)
 
 ### Lead Generation
 - [Companies using Unbounce](./leads/companies-using-unbounce) (195 companies)
@@ -395,7 +395,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Netcore](./leads/companies-using-netcore) (13 companies)
 
 ### Monitoring & Logging
-- [Companies using New Relic](./leads/companies-using-new-relic) (31,444 companies)
+- [Companies using New Relic](./leads/companies-using-new-relic) (31,443 companies)
 - [Companies using LogRocket](./leads/companies-using-logrocket) (570 companies)
 - [Companies using Grafana](./leads/companies-using-grafana) (92 companies)
 - [Companies using Better Stack](./leads/companies-using-better-stack) (181 companies)
@@ -410,8 +410,8 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 
 ### Performance Optimization
 - [Companies using EWWW Image Optimizer](./leads/companies-using-ewww-image-optimizer) (16,224 companies)
-- [Companies using Smush Image Optimization](./leads/companies-using-smush-image-optimization) (38,522 companies)
-- [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,146,218 companies)
+- [Companies using Smush Image Optimization](./leads/companies-using-smush-image-optimization) (38,521 companies)
+- [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,146,201 companies)
 
 ### Popups & Modals
 - [Companies using Elfsight](./leads/companies-using-elfsight) (76,608 companies)
@@ -475,7 +475,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using USPS](./leads/companies-using-usps) (1,154 companies)
 - [Companies using DHL](./leads/companies-using-dhl) (736 companies)
 - [Companies using ShipStation](./leads/companies-using-shipstation) (124 companies)
-- [Companies using Route](./leads/companies-using-route) (96,835 companies)
+- [Companies using Route](./leads/companies-using-route) (96,836 companies)
 - [Companies using Narvar](./leads/companies-using-narvar) (109 companies)
 - [Companies using Deliverr](./leads/companies-using-deliverr) (191 companies)
 
@@ -493,30 +493,30 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Scully](./leads/companies-using-scully) (1,447 companies)
 
 ### Video Platforms
-- [Companies using YouTube](./leads/companies-using-youtube) (1,950,417 companies)
-- [Companies using Vimeo](./leads/companies-using-vimeo) (251,719 companies)
+- [Companies using YouTube](./leads/companies-using-youtube) (1,950,394 companies)
+- [Companies using Vimeo](./leads/companies-using-vimeo) (251,720 companies)
 - [Companies using Wistia](./leads/companies-using-wistia) (12,202 companies)
 - [Companies using Brightcove](./leads/companies-using-brightcove) (1,675 companies)
 - [Companies using Kaltura](./leads/companies-using-kaltura) (498 companies)
 - [Companies using JW Player](./leads/companies-using-jw-player) (905 companies)
 - [Companies using Twitch](./leads/companies-using-twitch) (1,531 companies)
-- [Companies using DailyMotion Video](./leads/companies-using-dailymotion-video) (3,264 companies)
+- [Companies using DailyMotion Video](./leads/companies-using-dailymotion-video) (3,263 companies)
 
 ### Web Fonts & Icons
-- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,847,836 companies)
-- [Companies using Font Awesome](./leads/companies-using-font-awesome) (810,418 companies)
+- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,847,781 companies)
+- [Companies using Font Awesome](./leads/companies-using-font-awesome) (810,415 companies)
 - [Companies using MyFonts](./leads/companies-using-myfonts) (3,234 companies)
 - [Companies using Fontshare](./leads/companies-using-fontshare) (2,706 companies)
-- [Companies using Bunny Fonts](./leads/companies-using-bunny-fonts) (44,313 companies)
+- [Companies using Bunny Fonts](./leads/companies-using-bunny-fonts) (44,312 companies)
 - [Companies using Fontello](./leads/companies-using-fontello) (44,353 companies)
-- [Companies using IcoMoon](./leads/companies-using-icomoon) (1,347,479 companies)
+- [Companies using IcoMoon](./leads/companies-using-icomoon) (1,347,469 companies)
 - [Companies using Material Design Icons](./leads/companies-using-material-design-icons) (25,015 companies)
 
 ### Web Servers
-- [Companies using NGINX](./leads/companies-using-nginx) (1,450,206 companies)
-- [Companies using Apache](./leads/companies-using-apache) (1,416,392 companies)
-- [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,146,218 companies)
-- [Companies using OpenResty](./leads/companies-using-openresty) (264,331 companies)
+- [Companies using NGINX](./leads/companies-using-nginx) (1,450,189 companies)
+- [Companies using Apache](./leads/companies-using-apache) (1,416,387 companies)
+- [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,146,201 companies)
+- [Companies using OpenResty](./leads/companies-using-openresty) (264,325 companies)
 - [Companies using Apache Tomcat](./leads/companies-using-apache-tomcat) (563 companies)
 
 
