@@ -17700,46 +17700,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "elek-eg.com",
-    "title": "Home - ELEK",
-    "business_name": "",
-    "country": "EGY",
-    "seo_score": 72,
-    "tech_spend": 25617,
-    "crawled_at": "2025-12-22T16:49:38.340858714Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Contact Form Plugin",
-      "Contento",
-      "EmbedPress",
-      "FiboSearch",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Schema Plugin",
-      "Sitelinks Search Box",
-      "Slider Revolution",
-      "Smartsheet",
-      "Tawk",
-      "Theme In WP",
-      "UTF-8",
-      "University or College",
-      "WP Video Lightbox",
-      "WPBakery",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
