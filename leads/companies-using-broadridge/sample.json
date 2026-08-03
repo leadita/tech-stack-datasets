@@ -1,5 +1,28 @@
 [
   {
+    "domain": "awesum.design",
+    "title": "Awesum Design Studios",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 502439,
+    "crawled_at": "2026-08-02T22:54:20.915517766Z",
+    "technologies": [
+      "Broadridge",
+      "Bulma",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "DAV",
+      "Fastly",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "QUIC",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "hilineelectricanddatacorp.com",
     "title": "Electrical Work | HiLine Electric & Data Corp. | New York",
     "business_name": "HiLine Electric &amp; Data Corp.",
@@ -3477,29 +3500,6 @@
       "UTF-8",
       "Vimeo",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "awesum.design",
-    "title": "Awesum Design Studios",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 502439,
-    "crawled_at": "2025-12-22T08:52:38.323924238Z",
-    "technologies": [
-      "Broadridge",
-      "Bulma",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "DAV",
-      "Fastly",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "QUIC",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
