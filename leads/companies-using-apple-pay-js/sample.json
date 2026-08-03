@@ -11003,30 +11003,5 @@
       "Thank You",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "fz-youmei.com",
-    "title": "www.fz-youmei.com",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 67,
-    "tech_spend": 75668,
-    "crawled_at": "2025-12-22T02:13:38.322525794Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apple Pay JS",
-      "Aruba",
-      "Cart.com",
-      "Cloudflare",
-      "GZIP Module",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Subversion",
-      "UTF-8",
-      "eLand",
-      "jQuery"
-    ]
   }
 ]
