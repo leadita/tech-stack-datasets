@@ -1,5 +1,37 @@
 [
   {
+    "domain": "lanigonzales.com",
+    "title": "Hypnotherapy & Business Mentorship for Women | Lani Gonzales",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 82,
+    "tech_spend": 18740,
+    "crawled_at": "2026-08-03T01:54:10.464841618Z",
+    "technologies": [
+      "AWIN",
+      "Adult Content",
+      "Alternate Protocol",
+      "Authorize.net",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Fireblade",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nuxt.js",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "thinkaimagic.com",
     "title": "Online Business Marketing Solutions | Explore Our Services",
     "business_name": "",
@@ -16661,39 +16693,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "holistichealthcounsel.com",
-    "title": "The Method | Subconscious Transformation for Women | Lani Gonzales",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 72,
-    "tech_spend": 34070,
-    "crawled_at": "2026-04-26T06:14:20.003974921Z",
-    "technologies": [
-      "AWIN",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Authorize.net",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "No-Q",
-      "Nuxt.js",
-      "QUIC",
-      "UTF-8",
-      "YouTube",
-      "shadcn ui"
     ]
   },
   {
