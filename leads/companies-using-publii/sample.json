@@ -8634,38 +8634,5 @@
       "Publii",
       "WordPress SEO Structured Data Schema Plugin"
     ]
-  },
-  {
-    "domain": "okhitch.com",
-    "title": "OK Hitch – The Okanagan's Towing & Electrical Specialists",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 70,
-    "tech_spend": 18739,
-    "crawled_at": "2025-12-23T09:03:49.307698084Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Font Awesome",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "PHP",
-      "Publii",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "WP Engine",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "shadcn ui"
-    ]
   }
 ]
