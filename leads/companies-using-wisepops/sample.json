@@ -1,5 +1,34 @@
 [
   {
+    "domain": "sonomacleanpower.org",
+    "title": "Home | Sonoma Clean Power",
+    "business_name": "Sonoma Clean Power",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 3017,
+    "crawled_at": "2026-08-04T19:24:04.197750129Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Financial Services Guide",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LinkedIn Insights",
+      "LinkedIn Pixel",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "Nginx",
+      "Twitter Ads",
+      "UTF-8",
+      "Vimeo",
+      "Wisepops",
+      "YouTube",
+      "accessiBe"
+    ]
+  },
+  {
     "domain": "mitzvahpartysupply.com",
     "title": "Sarah Schwartz Co. | Bar + Bat Mitzvah Invitations, Favors, Logos, Décor + Montages",
     "business_name": "Sarah Schwartz Co",
@@ -21090,42 +21119,6 @@
       "hCaptcha",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "dcgators.com",
-    "title": "DC Gator Club",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 5660,
-    "crawled_at": "2026-03-28T16:18:07.10385827Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Aruba",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Hive.co",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "Pico CSS",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Wisepops",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
