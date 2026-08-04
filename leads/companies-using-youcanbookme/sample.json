@@ -1,5 +1,38 @@
 [
   {
+    "domain": "cowork.cr",
+    "title": "Cowork Costa Rica",
+    "business_name": "",
+    "country": "CRI",
+    "seo_score": 60,
+    "tech_spend": 219,
+    "crawled_at": "2026-08-04T10:43:16.249684628Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Autoptimize",
+      "Elementor",
+      "EmbedPress",
+      "Formidable Pro Form",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "IcoMoon",
+      "PHP",
+      "Popup Maker for Wordpress",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "YouCanBookMe",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "timewithlinda.com",
     "title": "Select a time",
     "business_name": "",
@@ -17023,27 +17056,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouCanBookMe",
       "eLand"
-    ]
-  },
-  {
-    "domain": "benoit-roussel.com",
-    "title": "Benoît Roussel : Réservation de séance",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 708,
-    "crawled_at": "2026-04-22T23:04:20.212069948Z",
-    "technologies": [
-      "AutoComplete",
-      "BunnyCDN Header",
-      "Content Delivery Network",
-      "Envoy",
-      "Express",
-      "Swipe Pages",
-      "UTF-8",
-      "YouCanBookMe",
-      "ePages",
-      "jQuery"
     ]
   }
 ]
