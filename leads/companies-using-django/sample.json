@@ -9688,29 +9688,5 @@
       "QUIC",
       "University or College"
     ]
-  },
-  {
-    "domain": "mindsovermatter.io",
-    "title": "Minds Over Matter | Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 8408,
-    "crawled_at": "2025-12-22T23:36:01.595785276Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "B12",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "DAV",
-      "Django",
-      "Fireblade",
-      "GitHub Hosting",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
-    ]
   }
 ]
