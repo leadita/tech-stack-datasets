@@ -1,5 +1,29 @@
 [
   {
+    "domain": "meyervogl.com",
+    "title": "Home | Meyer Vogl Gallery",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 20640,
+    "crawled_at": "2026-08-04T07:37:01.365727556Z",
+    "technologies": [
+      "ASP.NET Core",
+      "Cisco/Arrowpoint Content Service Switch",
+      "FullStory",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "QUIC",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "eastwoodis.com",
     "title": "The Leading International School in Lebanon - EastwoodIS",
     "business_name": "Eastwood International School",
@@ -24109,44 +24133,6 @@
       "UTF-8",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "discoveroregonhomes.com",
-    "title": "Home Page",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 67,
-    "tech_spend": 58640,
-    "crawled_at": "2026-05-01T07:53:20.006297697Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "CINC",
-      "Express",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "FullStory",
-      "GZIP Module",
-      "GetResponse",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google Tag Manager",
-      "Homes.com CMS",
-      "IcoMoon",
-      "Mixpanel",
-      "Neighborhoods",
-      "New Relic",
-      "QUIC",
-      "SocialSignIn",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
