@@ -1,5 +1,51 @@
 [
   {
+    "domain": "sommerfest-brandenburg.de",
+    "title": "Haus & Grund Brandenburg | Sommerfest",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 65,
+    "tech_spend": 40,
+    "crawled_at": "2026-08-04T06:55:58.084424787Z",
+    "technologies": [
+      "Apache",
+      "CentOS",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Mautic",
+      "OpenSSL",
+      "PHP",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "ceramicfibres.com",
+    "title": "CCEWOOL® - High-Efficiency|Energy-Saving|Stable",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 15049,
+    "crawled_at": "2026-08-04T03:49:10.652131514Z",
+    "technologies": [
+      "EmbedPress",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Mautic",
+      "Nginx",
+      "Twitter Ads",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "WordPress",
+      "YouTube",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "admiralsmotorinn.co.nz",
     "title": "Admirals Motor Inn: Nelson Motel Accommodation",
     "business_name": "Admirals Motor Inn",
@@ -19535,65 +19581,6 @@
       "UTF-8",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "thewaterman.ca",
-    "title": "BRM Water Conditioning | Water Filtration Calgary",
-    "business_name": "BRM Water Conditioning",
-    "country": "CAN",
-    "seo_score": 87,
-    "tech_spend": 3653,
-    "crawled_at": "2026-03-12T22:03:40.900617422Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "Express",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Line2",
-      "Mautic",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "extruderxinda.com",
-    "title": "Co Kneader, Buss Co Kneader, Buss Kneader - Xinda",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 77,
-    "tech_spend": 49,
-    "crawled_at": "2026-03-12T18:51:29.55392748Z",
-    "technologies": [
-      "EmbedPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Mautic",
-      "Nginx",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
