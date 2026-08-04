@@ -17664,41 +17664,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "southerncancercenter.net",
-    "title": "Southern Cancer Center",
-    "business_name": "Southern Cancer Center",
-    "country": "AUS",
-    "seo_score": 77,
-    "tech_spend": 18347,
-    "crawled_at": "2025-12-23T00:16:38.333760011Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Jupiter X Core",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "QUIC",
-      "Schema Plugin",
-      "Smartsheet",
-      "Table Addons for Elementor",
-      "Theme In WP",
-      "UTF-8",
-      "WP Engine",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
