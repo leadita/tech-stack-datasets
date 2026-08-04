@@ -1,5 +1,31 @@
 [
   {
+    "domain": "mikakozma.com",
+    "title": "Mika Kozma",
+    "business_name": "",
+    "country": "VEN",
+    "seo_score": 60,
+    "tech_spend": 13697,
+    "crawled_at": "2026-08-03T15:13:37.058679833Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Express",
+      "GZIP Module",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Roadster",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "eventroadster.com",
     "title": "Home | Event Planning Solutions with EventRoadster",
     "business_name": "EventRoadster",
@@ -928,35 +954,6 @@
       "Underscores",
       "dc.js",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "mikakozma.com",
-    "title": "Mika Kozma",
-    "business_name": "",
-    "country": "VEN",
-    "seo_score": 50,
-    "tech_spend": 13760,
-    "crawled_at": "2025-12-22T19:28:38.326913861Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Roadster",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
