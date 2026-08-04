@@ -1,5 +1,37 @@
 [
   {
+    "domain": "fasterdataroom.com",
+    "title": "Free Start - Projectfusion",
+    "business_name": "Projectfusion",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 585,
+    "crawled_at": "2026-08-04T14:06:06.955605496Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "Essential Addons for Elementor",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Hello Elementor",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "Ontraport",
+      "Outfunnel",
+      "PHP",
+      "QUIC",
+      "Theme In WP",
+      "UTF-8",
+      "UberMenu",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "boirsubmissioncenter.com",
     "title": "BOIR Submission Center",
     "business_name": "",
@@ -8141,38 +8173,6 @@
       "WordPress",
       "WordPress Multisite",
       "eLand",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "fasterdataroom.com",
-    "title": "Free Start - Projectfusion",
-    "business_name": "Projectfusion",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 5083,
-    "crawled_at": "2025-12-23T10:14:56.576717213Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Essential Addons for Elementor",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Hello Elementor",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "Ontraport",
-      "Outfunnel",
-      "PHP",
-      "QUIC",
-      "Theme In WP",
-      "UTF-8",
-      "UberMenu",
-      "WordPress",
-      "WordPress Multisite",
       "jQuery"
     ]
   }
