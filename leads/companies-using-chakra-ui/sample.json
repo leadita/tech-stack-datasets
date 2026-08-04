@@ -1,5 +1,50 @@
 [
   {
+    "domain": "indotechworks.com",
+    "title": "Indotech - Energy Meters and Fans Manufacturer",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 82,
+    "tech_spend": 15240,
+    "crawled_at": "2026-08-04T04:49:35.843397587Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Fireblade",
+      "Headless UI",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "bepeoh.com",
+    "title": "bepeoh.",
+    "business_name": "",
+    "country": "BRA",
+    "seo_score": 82,
+    "tech_spend": 2640,
+    "crawled_at": "2026-08-04T02:04:56.566859261Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud CDN",
+      "Instagram Follow Button",
+      "Next.js",
+      "PWA",
+      "Pleroma",
+      "UTF-8",
+      "Vercel",
+      "WhatsApp Sharing"
+    ]
+  },
+  {
     "domain": "mba-iq.com",
     "title": "Official Certified IQ Test | International MBA IQ Test 2024",
     "business_name": "",
@@ -1433,29 +1478,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "indotechmeter.com",
-    "title": "Indotech - Energy Meters and Fans Manufacturer",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 67,
-    "tech_spend": 15240,
-    "crawled_at": "2026-06-09T03:57:13.987880705Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Fireblade",
-      "Headless UI",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   },
   {
@@ -12763,25 +12785,6 @@
       "Next.js",
       "Pleroma",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "bochynskiarchitektura.pl",
-    "title": "Kacper Bochyński",
-    "business_name": "",
-    "country": "",
-    "seo_score": 32,
-    "tech_spend": "",
-    "crawled_at": "2026-05-06T08:53:02.977377445Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Next.js",
-      "Nginx",
-      "Pleroma",
-      "UTF-8",
-      "Ubuntu"
     ]
   }
 ]
