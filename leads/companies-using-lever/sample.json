@@ -1,12 +1,12 @@
 [
   {
-    "domain": "real-world1.pl",
+    "domain": "rwone.club",
     "title": "realworld one - PERFORMANCE STARTS WITH EXECUTION",
     "business_name": "",
     "country": "USA",
     "seo_score": 87,
     "tech_spend": 35092,
-    "crawled_at": "2026-08-03T00:20:02.206411985Z",
+    "crawled_at": "2026-08-04T08:46:19.995035266Z",
     "technologies": [
       "1Password",
       "Alternate Protocol",
@@ -22,6 +22,28 @@
       "Yandex Hosting",
       "YouTube",
       "Zeald"
+    ]
+  },
+  {
+    "domain": "bigmind.pro",
+    "title": "BigMind 大迈文化",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": "",
+    "crawled_at": "2026-08-03T21:23:32.697325376Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Analytics with Ad Tracking",
+      "Lever",
+      "Nginx",
+      "UTF-8",
+      "Vimeo",
+      "WeChat Weixin Embed"
     ]
   },
   {
@@ -10520,28 +10542,6 @@
       "Vector Internet Services",
       "WF Cookie Consent",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "bigmind.pro",
-    "title": "BigMind",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": "",
-    "crawled_at": "2025-12-23T00:04:38.336072919Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Analytics with Ad Tracking",
-      "Lever",
-      "Nginx",
-      "UTF-8",
-      "Vimeo",
-      "WeChat Weixin Embed"
     ]
   }
 ]
