@@ -1,5 +1,32 @@
 [
   {
+    "domain": "nationskill.com",
+    "title": "Nationskill · Exam · Job · Training · Voucher",
+    "business_name": "",
+    "country": "VEN",
+    "seo_score": 65,
+    "tech_spend": 61346,
+    "crawled_at": "2026-08-03T22:39:28.717750095Z",
+    "technologies": [
+      "ButterCMS",
+      "CDN JS",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "ElementUI",
+      "Freepik",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "PHP",
+      "QUIC",
+      "SMC",
+      "UTF-8",
+      "Vector Internet Services",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "buybackanalytics.com",
     "title": "Track Stock Buybacks & Insider Activity | BuyBack Analytics for Smarter Investing",
     "business_name": "BuyBack Analytics",
