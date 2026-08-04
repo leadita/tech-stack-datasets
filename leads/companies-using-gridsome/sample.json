@@ -1,5 +1,23 @@
 [
   {
+    "domain": "michaelheil.de",
+    "title": "Klavier & Keyboard - mit Michael Heil - Gridsome",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 10144,
+    "crawled_at": "2026-08-04T12:24:51.483300582Z",
+    "technologies": [
+      "Coming Soon Page",
+      "Financial Services Guide",
+      "Gridsome",
+      "K2F",
+      "KVH",
+      "Nginx",
+      "Parallels Plesk Panel"
+    ]
+  },
+  {
     "domain": "zoldteruletkezeles-alfold.hu",
     "title": "Zöldterület-kezelés - Gridsome",
     "business_name": "",
@@ -12003,28 +12021,6 @@
       "University or College",
       "Unix",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "kubal.de",
-    "title": "Kubal - Kubal",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 15201,
-    "crawled_at": "2026-01-29T00:47:06.4653482Z",
-    "technologies": [
-      "Apache",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Gridsome",
-      "No-Q",
-      "SMC",
-      "Tailwind CSS"
     ]
   }
 ]
