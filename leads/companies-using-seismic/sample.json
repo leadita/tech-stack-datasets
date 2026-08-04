@@ -1,5 +1,28 @@
 [
   {
+    "domain": "cgseismic.com",
+    "title": "CG Seismic Engineering Consultancy - Advanced Solutions for Soi...",
+    "business_name": "",
+    "country": "TUR",
+    "seo_score": 77,
+    "tech_spend": 42499,
+    "crawled_at": "2026-08-04T05:16:56.178105262Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Microdata for Google Shopping",
+      "PWA",
+      "Seismic",
+      "Sitelinks Search Box",
+      "Tailwind CSS",
+      "UTF-8",
+      "eLand"
+    ]
+  },
+  {
     "domain": "melkumyanseismic.com",
     "title": "HOME | Melkumyan Seismic Technologies",
     "business_name": "",
@@ -2625,27 +2648,6 @@
       "LiteSpeed",
       "QUIC",
       "Seismic"
-    ]
-  },
-  {
-    "domain": "cgseismic.com",
-    "title": "CG Seismic Engineering Consultancy - Advanced Solutions for Soil-Structure Interaction and Seismic Engineering Problems",
-    "business_name": "",
-    "country": "TUR",
-    "seo_score": 72,
-    "tech_spend": 42499,
-    "crawled_at": "2025-12-23T05:10:23.208809113Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Microdata for Google Shopping",
-      "PWA",
-      "Seismic",
-      "Sitelinks Search Box",
-      "UTF-8"
     ]
   }
 ]
