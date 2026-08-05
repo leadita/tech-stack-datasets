@@ -1,5 +1,71 @@
 [
   {
+    "domain": "onetruegod.shop",
+    "title": "Our True God | It's More Than Just Apparel, It's a Mission For Christ",
+    "business_name": "",
+    "country": "VAT",
+    "seo_score": 82,
+    "tech_spend": 22836,
+    "crawled_at": "2026-08-05T13:11:35.05151919Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Aruba",
+      "Baidu Cloud",
+      "Bing Cashback",
+      "Bing Conversion Tracking",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Workers",
+      "Express",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Klaviyo",
+      "Microdata for Google Shopping",
+      "Negate",
+      "OpenAI",
+      "Shopify",
+      "Shopify Collabs",
+      "Shopify Payments",
+      "Tailwind CSS",
+      "UTF-8",
+      "Yandex Hosting",
+      "eLand",
+      "hCaptcha",
+      "reCAPTCHA",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "coscoai.com",
+    "title": "Welcome to CoscoAI",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 225,
+    "crawled_at": "2026-08-04T16:45:55.939179795Z",
+    "technologies": [
+      "AI Log",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Workers",
+      "Coming Soon Page",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Line2",
+      "Next.js",
+      "Ntent",
+      "Pleroma",
+      "Python",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "eLand"
+    ]
+  },
+  {
     "domain": "dlugolecki.me",
     "title": "Szymon Długołęcki | Portfolio",
     "business_name": "",
@@ -14454,48 +14520,6 @@
       "Surge",
       "Tailwind CSS",
       "University or College"
-    ]
-  },
-  {
-    "domain": "elitbitcoin.com",
-    "title": "CFD Platform Setup • MT4 / MT5 • Custom Trading Pages",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 60,
-    "crawled_at": "2026-04-21T13:59:19.978395902Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Workers",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "karthikragi.com",
-    "title": "Karthik Ragi | Software Development Engineer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 1308,
-    "crawled_at": "2026-04-21T13:02:20.015500145Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Netlify",
-      "Next.js",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "Visual Studio",
-      "shadcn ui"
     ]
   }
 ]
