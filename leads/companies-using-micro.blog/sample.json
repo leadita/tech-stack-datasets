@@ -8222,30 +8222,5 @@
       "WordPress Multisite",
       "WordPress Stats"
     ]
-  },
-  {
-    "domain": "standrewsnashville.com",
-    "title": "St. Andrew's Anglican Church",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 75,
-    "tech_spend": 199,
-    "crawled_at": "2025-12-23T14:49:38.328615281Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coming Soon Page",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Micro.blog",
-      "Microdata for Google Shopping",
-      "UTF-8",
-      "WordPress Related Posts",
-      "YouTube",
-      "jQuery"
-    ]
   }
 ]
