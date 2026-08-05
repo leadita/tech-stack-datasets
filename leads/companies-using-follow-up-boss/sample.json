@@ -1,5 +1,59 @@
 [
   {
+    "domain": "numichigan.com",
+    "title": "Home | Nu Michigan",
+    "business_name": "",
+    "country": "COM",
+    "seo_score": 67,
+    "tech_spend": 11792,
+    "crawled_at": "2026-08-05T14:53:25.623576841Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Cloudflare",
+      "DAV",
+      "Financial Services Guide",
+      "Follow Up Boss",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Heroku",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Silicon Valley Web Hosting",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "newcalgaryhomes.ca",
+    "title": "New Calgary Homes For Sale - Just Listed",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 46351,
+    "crawled_at": "2026-08-04T21:37:22.102206927Z",
+    "technologies": [
+      "Apache",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Coming Soon Page",
+      "DAV",
+      "Follow Up Boss",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Related Website Sites",
+      "PHP",
+      "QUIC",
+      "RealPage",
+      "University or College",
+      "jQuery",
+      "myRealPage"
+    ]
+  },
+  {
     "domain": "jasonsellsraleigh.com",
     "title": "Raleigh Real Estate Agent | Buy & Sell Homes with Jason Dalton - Keller Williams Realty, Raleigh",
     "business_name": "",
@@ -14460,41 +14514,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "soldbykellymorgan.com",
-    "title": "Kelly Morgan - Your Real Estate Specialist",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 5843,
-    "crawled_at": "2025-12-23T19:37:38.320139527Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Follow Up Boss",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "INETu",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microsoft Application Insights",
-      "Nationwide Mortgage Licensing System and Registry",
-      "OpenResty",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "jQuery",
-      "jsDelivr",
-      "reCAPTCHA"
     ]
   }
 ]
