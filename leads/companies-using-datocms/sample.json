@@ -1,5 +1,27 @@
 [
   {
+    "domain": "setsnail.games",
+    "title": "Set Snail Games",
+    "business_name": "Set Snail Games",
+    "country": "DNK",
+    "seo_score": 67,
+    "tech_spend": 3120,
+    "crawled_at": "2026-08-05T13:04:43.824708871Z",
+    "technologies": [
+      "Adult Content",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Svelte",
+      "Twitter Ads",
+      "Vercel",
+      "Vimeo CDN"
+    ]
+  },
+  {
     "domain": "venenzentrum-city.ch",
     "title": "Venaesthetics - Venenpflege in Zürich",
     "business_name": "",
@@ -12875,28 +12897,6 @@
       "Subversion",
       "UTF-8",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "setsnail.com",
-    "title": "Set Snail",
-    "business_name": "Setsnail",
-    "country": "DNK",
-    "seo_score": 72,
-    "tech_spend": 52820,
-    "crawled_at": "2026-04-24T09:29:19.977554162Z",
-    "technologies": [
-      "Adult Content",
-      "Booking Affiliate",
-      "Content Delivery Network",
-      "DatoCMS",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "SMC",
-      "Svelte",
-      "Twitter Ads",
-      "Vercel"
     ]
   },
   {
