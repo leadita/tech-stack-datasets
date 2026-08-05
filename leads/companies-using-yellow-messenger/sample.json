@@ -1,5 +1,32 @@
 [
   {
+    "domain": "soukmedia.co",
+    "title": "B2B Demand Intelligence for Global Tech Brands, Powered by AudienceOS",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 87,
+    "tech_spend": 30231,
+    "crawled_at": "2026-08-04T12:43:00.444397013Z",
+    "technologies": [
+      "1Password",
+      "Adult Content",
+      "Alternate Protocol",
+      "Better Lead Generation Services",
+      "Coming Soon Page",
+      "DAV",
+      "Financial Services Guide",
+      "Framer Sites",
+      "InitiativeS",
+      "NFOrce Internet",
+      "Ntent",
+      "Prospective",
+      "Subversion",
+      "Yandex Hosting",
+      "Yellow Messenger",
+      "Zeald"
+    ]
+  },
+  {
     "domain": "cbnindia.org",
     "title": "CBN INDIA – Building communities of hope",
     "business_name": "",
@@ -4915,30 +4942,6 @@
       "Workday",
       "Yellow Messenger",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "soukmedia.co",
-    "title": "B2B Audience Solutions: Ads, Content, Events360 | SOUKMEDIA",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 87,
-    "tech_spend": 23231,
-    "crawled_at": "2025-12-23T09:26:32.477347789Z",
-    "technologies": [
-      "1Password",
-      "Alternate Protocol",
-      "Better Lead Generation Services",
-      "Coming Soon Page",
-      "DAV",
-      "Framer Sites",
-      "InitiativeS",
-      "NFOrce Internet",
-      "Ntent",
-      "Subversion",
-      "Yandex Hosting",
-      "Yellow Messenger",
-      "Zeald"
     ]
   }
 ]
