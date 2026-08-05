@@ -1,5 +1,30 @@
 [
   {
+    "domain": "nyc0to1.com",
+    "title": "NYC Enterprise Operators Retreat: Journey from Zero to One",
+    "business_name": "",
+    "country": "IMN",
+    "seo_score": 77,
+    "tech_spend": 36788,
+    "crawled_at": "2026-08-05T11:49:41.339618728Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Bench",
+      "CDN JS",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "GZIP Module",
+      "Hugging Face Space",
+      "Merge",
+      "StackPath",
+      "Tailwind CSS",
+      "Twitter Ads"
+    ]
+  },
+  {
     "domain": "dylangattey.com",
     "title": "Engineer. Problem Solver.",
     "business_name": "",
@@ -1157,30 +1182,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "nyc0to1.com",
-    "title": "NYC Enterprise Operators Retreat: Journey from Zero to One",
-    "business_name": "",
-    "country": "IMN",
-    "seo_score": 77,
-    "tech_spend": 36788,
-    "crawled_at": "2025-12-23T23:53:02.595764193Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Bench",
-      "CDN JS",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DAV",
-      "Hugging Face Space",
-      "Merge",
-      "StackPath",
-      "Tailwind CSS",
-      "Twitter Ads"
     ]
   }
 ]
