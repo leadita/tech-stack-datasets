@@ -1,5 +1,75 @@
 [
   {
+    "domain": "influctec.com",
+    "title": "Influtec",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 30159,
+    "crawled_at": "2026-08-05T05:00:02.211995229Z",
+    "technologies": [
+      "Apache",
+      "Bulma",
+      "Cart.com",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "IcoMoon",
+      "OpenCart",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "funeralflowerexpress.com",
+    "title": "Funeral Flower Express Delivery | Philippines",
+    "business_name": "",
+    "country": "PHL",
+    "seo_score": 72,
+    "tech_spend": 90280,
+    "crawled_at": "2026-08-05T03:48:25.822725662Z",
+    "technologies": [
+      "Cart.com",
+      "Express",
+      "Facebook Customer Chat SDK",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Tag Manager",
+      "OpenCart",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery",
+      "onWebChat"
+    ]
+  },
+  {
+    "domain": "omegaeipl.com",
+    "title": "Omega Engineering India Pvt Ltd",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 67,
+    "tech_spend": 75000,
+    "crawled_at": "2026-08-04T20:25:47.378027589Z",
+    "technologies": [
+      "Apache",
+      "Cart.com",
+      "GZIP Module",
+      "OpenCart",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "abberind.com",
     "title": "Abber Industries",
     "business_name": "",
@@ -12173,85 +12243,6 @@
       "QUIC",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "equipatutaller.com.co",
-    "title": "Innovateq",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 30259,
-    "crawled_at": "2026-05-05T19:20:19.9885987Z",
-    "technologies": [
-      "3 Products",
-      "Apache",
-      "Cart.com",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "OpenCart",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "WhatsApp Sharing",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "brotherscross.it",
-    "title": "Brothers Cross",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 37503,
-    "crawled_at": "2026-05-05T19:11:19.979557533Z",
-    "technologies": [
-      "Apache",
-      "Azion",
-      "Cart.com",
-      "Fireblade",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "OpenCart",
-      "OpenSSL",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Unix",
-      "YouTube",
-      "jQuery",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "projectpace.ca",
-    "title": "Outdoor Activities for Kids Near Montreal | PACE Farm",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 75040,
-    "crawled_at": "2026-05-05T18:47:19.991531166Z",
-    "technologies": [
-      "Apache",
-      "Cart.com",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "OpenCart",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "jQuery"
     ]
   }
 ]
