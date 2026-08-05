@@ -1,5 +1,50 @@
 [
   {
+    "domain": "lasikprocedure.com",
+    "title": "Digital Real Estate Specialist",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 3236,
+    "crawled_at": "2026-08-05T07:48:14.851110172Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Prospective",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "registry.la",
+    "title": "Registry.LA",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 3959,
+    "crawled_at": "2026-08-04T19:18:49.665767297Z",
+    "technologies": [
+      "123-Reg",
+      "Apache",
+      "Dynadot",
+      "Font Awesome",
+      "Gandi",
+      "GoDaddy",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Hexo",
+      "NFOrce Internet",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "fightingsixty.com",
     "title": "An EMDN - Fighting Sixty, Martial Arts Combat Sports Team Spirit Strength Discipline Training Motivation Fitness Empowerment",
     "business_name": "",
@@ -18,26 +63,6 @@
       "Google Tag Manager",
       "Microdata for Google Shopping",
       "Microsoft Clarity",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "sphygmomanometer.net",
-    "title": "Digital Real Estate Specialist",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 3236,
-    "crawled_at": "2026-08-03T14:08:17.77529858Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Prospective",
       "UTF-8"
     ]
   },
@@ -5007,31 +5032,6 @@
       "GZIP Module",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "registry.la",
-    "title": "Registry.LA",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 3959,
-    "crawled_at": "2025-12-23T13:11:35.055233393Z",
-    "technologies": [
-      "123-Reg",
-      "Apache",
-      "Dynadot",
-      "Font Awesome",
-      "Gandi",
-      "GoDaddy",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Hexo",
-      "NFOrce Internet",
-      "UTF-8",
-      "reCAPTCHA"
     ]
   }
 ]
