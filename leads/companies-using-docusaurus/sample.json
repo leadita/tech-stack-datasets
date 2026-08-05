@@ -1,5 +1,47 @@
 [
   {
+    "domain": "openm2.org",
+    "title": "openM2 - Create High Value Business Applications at Low Costs | openM2 | openM2",
+    "business_name": "",
+    "country": "AUT",
+    "seo_score": 62,
+    "tech_spend": "",
+    "crawled_at": "2026-08-05T04:17:34.46399941Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "Perl",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "bazit.cl",
+    "title": "Bazit | Tu Software Contable y Financiero",
+    "business_name": "",
+    "country": "CHL",
+    "seo_score": 87,
+    "tech_spend": 2450,
+    "crawled_at": "2026-08-05T00:42:11.630146612Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "KaTeX",
+      "Perl",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "forminer.com",
     "title": "Forminer | Save 1500 hours with our React form builder",
     "business_name": "",
@@ -12672,43 +12714,6 @@
       "Perl",
       "QUIC",
       "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "epz.dev",
-    "title": "EPZ",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 45,
-    "tech_spend": "",
-    "crawled_at": "2026-03-05T02:26:05.89231532Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Perl"
-    ]
-  },
-  {
-    "domain": "prashantbarahi.com.np",
-    "title": "Prashant Barahi",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-03-04T00:31:40.34532931Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DAV",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Netlify",
-      "Ntent",
-      "Perl",
       "UTF-8"
     ]
   }

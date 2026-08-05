@@ -1,5 +1,85 @@
 [
   {
+    "domain": "haukeblikkfilm.no",
+    "title": "Haukeblikk Film",
+    "business_name": "",
+    "country": "",
+    "seo_score": 32,
+    "tech_spend": "",
+    "crawled_at": "2026-08-05T09:14:04.979556364Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Gridsome",
+      "Netlify",
+      "Sanity",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "colyn.dev",
+    "title": "Home - Colyn Brown (InFront Labs, LLC)",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-08-05T08:36:32.883107826Z",
+    "technologies": [
+      "Calendly",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Gridsome",
+      "Netlify",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "mangounit.com",
+    "title": "Homepage - mango unit",
+    "business_name": "",
+    "country": "ROU",
+    "seo_score": 67,
+    "tech_spend": 268,
+    "crawled_at": "2026-08-05T07:54:20.299623664Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "krig.io",
+    "title": "Hello world! - KRIG.agency",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 22798,
+    "crawled_at": "2026-08-05T05:26:16.458068046Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Gridsome",
+      "Instagram Follow Button",
+      "K2F",
+      "Netlify",
+      "No-Q",
+      "Onyx Internet",
+      "SMC",
+      "Subversion",
+      "UTF-8",
+      "Zope"
+    ]
+  },
+  {
     "domain": "michaelheil.de",
     "title": "Klavier & Keyboard - mit Michael Heil - Gridsome",
     "business_name": "",
@@ -10225,25 +10305,6 @@
     ]
   },
   {
-    "domain": "infrontlabs.com",
-    "title": "Home - Colyn Brown (InFront Labs, LLC)",
-    "business_name": "",
-    "country": "",
-    "seo_score": 32,
-    "tech_spend": "",
-    "crawled_at": "2026-03-15T18:23:58.609998701Z",
-    "technologies": [
-      "Calendly",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Gridsome",
-      "Netlify",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "manmeetkalsi.com",
     "title": "Manmeet Singh",
     "business_name": "",
@@ -11937,90 +11998,6 @@
       "SMC",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "sigridsomers.com",
-    "title": "Sigrid Somers – Ceramics And Sculpture",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 82,
-    "tech_spend": 43401,
-    "crawled_at": "2026-01-29T21:52:20.164344528Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Beaver Builder Lite",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Contento",
-      "EmbedPress",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Schema Plugin",
-      "Theme In WP",
-      "UTF-8",
-      "University or College",
-      "Wangsu",
-      "Website Tonight",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "snir.sh",
-    "title": "Snir Shechter | Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 60,
-    "crawled_at": "2026-01-29T09:37:43.459708562Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google",
-      "Google My Business",
-      "Gridsome",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "geodav.tech",
-    "title": "Interactive Dashboards & More - geodav.tech",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 63858,
-    "crawled_at": "2026-01-29T08:52:43.438425325Z",
-    "technologies": [
-      "Calendly",
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "Gridsome",
-      "HubSpot Conversations",
-      "Hubspot",
-      "IcoMoon",
-      "Idaq",
-      "Netlify",
-      "No-Q",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Unix",
-      "shadcn ui"
     ]
   }
 ]
