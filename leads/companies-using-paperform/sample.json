@@ -1,5 +1,56 @@
 [
   {
+    "domain": "goetheanum.de",
+    "title": "Goetheanum | Home",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 77,
+    "tech_spend": 16287,
+    "crawled_at": "2026-08-05T13:34:47.632275324Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Angular",
+      "Apache",
+      "Craft",
+      "Express",
+      "GZIP Module",
+      "GetSiteControl",
+      "Instagram Follow Button",
+      "Iubenda",
+      "Paperform",
+      "Plausible Analytics",
+      "QUIC",
+      "Telegram",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "dotbuassistance.org",
+    "title": "US DOT Biennial Update Portal | DOT Updates | Federal Applications Processor - Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 5608,
+    "crawled_at": "2026-08-04T21:11:11.869848052Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Apache",
+      "ChatBot",
+      "Cognito Forms",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "LiveChat",
+      "LiveChat Monitoring",
+      "Paperform",
+      "QUIC",
+      "Rocket Chat"
+    ]
+  },
+  {
     "domain": "thebigorangesign.com",
     "title": "Dandridge Realty Group Careers",
     "business_name": "",
@@ -216,30 +267,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "mcs-bu.us",
-    "title": "US DOT Biennial Update Portal | DOT Updates | Federal Applications Processor - Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 5608,
-    "crawled_at": "2026-08-01T12:28:23.310099328Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Apache",
-      "ChatBot",
-      "Cognito Forms",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "LiveChat",
-      "LiveChat Monitoring",
-      "Paperform",
-      "QUIC",
-      "Rocket Chat"
     ]
   },
   {
@@ -17233,50 +17260,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "trianglencrealestateblog.com",
-    "title": "Triangle Area Real Estate Video Blog",
-    "business_name": "Cynthia Quarantello Realty Group",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 4647,
-    "crawled_at": "2026-04-14T17:04:26.124309331Z",
-    "technologies": [
-      "AddThis",
-      "AddThis for Wordpress",
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Font Awesome",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Hello Bar",
-      "Hotjar",
-      "Instagram Follow Button",
-      "Jekyll",
-      "Microdata for Google Shopping",
-      "PWA",
-      "Paperform",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
