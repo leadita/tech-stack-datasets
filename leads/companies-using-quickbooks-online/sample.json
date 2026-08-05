@@ -1,5 +1,35 @@
 [
   {
+    "domain": "parkscpa.com",
+    "title": "Home | Jay D. Parks & Associates",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 29060,
+    "crawled_at": "2026-08-04T13:34:32.75418728Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Dext",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Zoom Video Conferencing",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "indianasoccercamp.com",
     "title": "Indiana Soccer Camp | Become a part of the Yeagley Tradition",
     "business_name": "Indiana Soccer Camp",
@@ -10587,35 +10617,6 @@
       "QuickBooks Online",
       "Tailwind CSS",
       "UTF-8",
-      "Zoom Video Conferencing",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "parkscpa.com",
-    "title": "Home | Jay D. Parks & Associates",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 13520,
-    "crawled_at": "2025-12-23T09:55:56.181145346Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "Dext",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
       "Zoom Video Conferencing",
       "jsDelivr"
     ]
