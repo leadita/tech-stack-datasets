@@ -1,12 +1,12 @@
 [
   {
-    "domain": "reserveasite.com",
+    "domain": "gandermtn.com",
     "title": "Camping World: Shop Top RVs @America's #1 RV Dealer",
     "business_name": "",
     "country": "USA",
-    "seo_score": 82,
+    "seo_score": 77,
     "tech_spend": 195504,
-    "crawled_at": "2026-08-03T20:44:26.45097505Z",
+    "crawled_at": "2026-08-05T08:28:55.009571091Z",
     "technologies": [
       "AWS WAF Challenge",
       "Alternate Protocol",
