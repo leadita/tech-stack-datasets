@@ -1,5 +1,51 @@
 [
   {
+    "domain": "burdiss.com",
+    "title": "Home : BURDISS",
+    "business_name": "9940 Widmer Road",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 5268,
+    "crawled_at": "2026-08-05T07:54:20.294911607Z",
+    "technologies": [
+      "Apache",
+      "Baidu Cloud",
+      "Better Lead Generation Services",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Python",
+      "Site Search 360",
+      "UTF-8",
+      "Yandex Hosting"
+    ]
+  },
+  {
+    "domain": "reprovt.com",
+    "title": "Commercial Printing, Reprographics, Photography | Repro in Winooski, VT",
+    "business_name": "REPRO Printing",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 5268,
+    "crawled_at": "2026-08-05T02:53:59.701552187Z",
+    "technologies": [
+      "Apache",
+      "Baidu Cloud",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Python",
+      "Site Search 360",
+      "UTF-8",
+      "Yandex Hosting"
+    ]
+  },
+  {
     "domain": "truthtellers.org",
     "title": "National Prayer Network and TruthTellers.org",
     "business_name": "",
@@ -15923,62 +15969,6 @@
       "Tailwind CSS",
       "Thank You",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "secpghca.org",
-    "title": "Home : South End Charlton-Pollard Greater Historic Community Association",
-    "business_name": "1045 Doucette St",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 27268,
-    "crawled_at": "2026-04-04T07:05:19.993470023Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "Baidu Cloud",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "InitiativeS",
-      "Microdata for Google Shopping",
-      "Prospective",
-      "Python",
-      "QUIC",
-      "Site Search 360",
-      "UTF-8",
-      "Yandex Hosting",
-      "Zeffy"
-    ]
-  },
-  {
-    "domain": "professorrickscott.com",
-    "title": "Professor Scott | Tampa Comedian & Florida Stand-Up Comedy",
-    "business_name": "Professor Scott",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 1891,
-    "crawled_at": "2026-04-03T18:41:20.015413153Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Coming Soon Page",
-      "Duda",
-      "FormSubmit",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "No-Q",
-      "Perl",
-      "Site Search 360",
-      "Styled Components",
-      "Tailwind CSS",
-      "UTF-8",
-      "UserWay",
-      "YouTube"
     ]
   }
 ]
