@@ -1,5 +1,44 @@
 [
   {
+    "domain": "mitchellmudd.dev",
+    "title": "Portfolio | Hallo, I'm Mitchell Mudd!",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-08-06T18:08:40.884995698Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Perl",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "dothttp.dev",
+    "title": "dothttp | dothttp",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 600,
+    "crawled_at": "2026-08-06T07:24:01.511748438Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "openm2.org",
     "title": "openM2 - Create High Value Business Applications at Low Costs | openM2 | openM2",
     "business_name": "",
@@ -12667,54 +12706,6 @@
       "QUIC",
       "Tailwind CSS",
       "UptimeRobot"
-    ]
-  },
-  {
-    "domain": "adrianiannantuono.ca",
-    "title": "Home | Adrian Iannantuono",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2580,
-    "crawled_at": "2026-03-08T22:24:28.51579922Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Material-UI",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "testify.dev",
-    "title": "Android Testify | Android Testify",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 600,
-    "crawled_at": "2026-03-07T14:59:49.198895026Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Jetpack",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]

@@ -1,5 +1,27 @@
 [
   {
+    "domain": "marenawhitcher.com",
+    "title": "Marena Whitcher - Marena Whitcher",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 8100,
+    "crawled_at": "2026-08-06T06:34:06.134576195Z",
+    "technologies": [
+      "Band Camp",
+      "Camp",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fireblade",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "haukeblikkfilm.no",
     "title": "Haukeblikk Film",
     "business_name": "",
@@ -5943,29 +5965,6 @@
       "Subversion",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "marena.ch",
-    "title": "Marena Whitcher - Marena Whitcher",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 8100,
-    "crawled_at": "2026-04-29T00:03:01.0352263Z",
-    "technologies": [
-      "Band Camp",
-      "Camp",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Fireblade",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
