@@ -1,5 +1,36 @@
 [
   {
+    "domain": "windowinteriorplan.shop",
+    "title": "Replacement Windows and Doors | Renewal by Andersen",
+    "business_name": "Renewal By Andersen",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 122680,
+    "crawled_at": "2026-08-06T07:18:34.538893792Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Express",
+      "Fireblade",
+      "Five9",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Microsoft 365",
+      "Next.js",
+      "Pleroma",
+      "Quantum Metric",
+      "Tailwind CSS",
+      "Thank You",
+      "Trustarc Cookie Consent",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "jamaicabayinn.com",
     "title": "Beachfront Hotels In Marina del Rey | Jamaica Bay Inn - Official Site",
     "business_name": "",
@@ -146,37 +177,6 @@
       "eLand",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "doorhubhome.shop",
-    "title": "Replacement Windows and Doors | Renewal by Andersen",
-    "business_name": "Renewal By Andersen",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 122680,
-    "crawled_at": "2026-08-04T08:58:28.511597046Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Express",
-      "Fireblade",
-      "Five9",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Microsoft 365",
-      "Next.js",
-      "Pleroma",
-      "Quantum Metric",
-      "Tailwind CSS",
-      "Thank You",
-      "Trustarc Cookie Consent",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "eLand",
-      "shadcn ui"
     ]
   },
   {
