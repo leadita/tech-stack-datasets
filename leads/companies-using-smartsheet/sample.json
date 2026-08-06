@@ -1,5 +1,29 @@
 [
   {
+    "domain": "solidrockexcavation.com",
+    "title": "Solid Rock Excavation",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 15349,
+    "crawled_at": "2026-08-06T10:50:53.499956137Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "EmbedPress",
+      "Google Maps",
+      "Google My Business",
+      "PHP",
+      "Smartsheet",
+      "Tailwind CSS",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "brodstonehealthcare.org",
     "title": "Brodstone Healthcare - Superior, Nelson, Edgar, NE",
     "business_name": "",
@@ -17636,33 +17660,6 @@
       "WordPress Multisite",
       "YouTube",
       "securiti"
-    ]
-  },
-  {
-    "domain": "solidrockexcavation.com",
-    "title": "Solid Rock Excavation",
-    "business_name": "Solid Rock Excavation",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 15349,
-    "crawled_at": "2025-12-24T11:55:38.319193176Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Google Maps",
-      "Google My Business",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Smartsheet",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
