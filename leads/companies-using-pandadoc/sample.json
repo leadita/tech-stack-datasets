@@ -1,5 +1,22 @@
 [
   {
+    "domain": "antonakhatov.ru",
+    "title": "Anton Ahatov",
+    "business_name": "",
+    "country": "SWE",
+    "seo_score": 67,
+    "tech_spend": 18228,
+    "crawled_at": "2026-08-06T07:18:34.530799129Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "PandaDoc",
+      "UTF-8",
+      "Vercel",
+      "Yandex Hosting"
+    ]
+  },
+  {
     "domain": "pandfadoc.com",
     "title": "PandaDoc – Create, Approve, Track & eSign Docs 40% Faster",
     "business_name": "PandaDoc",
@@ -918,23 +935,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "gcor.ru",
-    "title": "Anton Ahatov",
-    "business_name": "",
-    "country": "SWE",
-    "seo_score": 57,
-    "tech_spend": 488,
-    "crawled_at": "2026-05-10T14:59:20.008523239Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "PandaDoc",
-      "UTF-8",
-      "Vercel",
-      "Yandex Hosting"
     ]
   },
   {

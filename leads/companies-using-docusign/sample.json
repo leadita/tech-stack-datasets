@@ -1,5 +1,58 @@
 [
   {
+    "domain": "namsarahomecare.com",
+    "title": "Namsara Homecare: Quality In-Home Care Services",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 72212,
+    "crawled_at": "2026-08-06T07:32:25.605000399Z",
+    "technologies": [
+      "Apache",
+      "DocuSign",
+      "Express",
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Line2",
+      "Microsoft 365",
+      "PWA",
+      "SMC",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
+    "domain": "veritasequipmentfinance.com",
+    "title": "Veritas Equipment Finance",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 76745,
+    "crawled_at": "2026-08-05T17:47:25.320911544Z",
+    "technologies": [
+      "Accordion Blocks",
+      "Accordion FAQ",
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "DocuSign",
+      "Express",
+      "GZIP Module",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "bgsu-fa.org",
     "title": "Bowling Green State University Faculty Association",
     "business_name": "",
@@ -12113,61 +12166,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "namsarahomecare.com",
-    "title": "Namsara Homecare: Quality In-Home Care Services",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 72212,
-    "crawled_at": "2025-12-24T10:22:08.657307636Z",
-    "technologies": [
-      "Apache",
-      "DocuSign",
-      "Express",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "Microsoft 365",
-      "PWA",
-      "SMC",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
-    ]
-  },
-  {
-    "domain": "veritasequipmentfinance.com",
-    "title": "Veritas Equipment Finance",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 79073,
-    "crawled_at": "2025-12-24T03:28:38.334974635Z",
-    "technologies": [
-      "Accordion Blocks",
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "DocuSign",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
