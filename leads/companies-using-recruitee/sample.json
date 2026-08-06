@@ -1,5 +1,58 @@
 [
   {
+    "domain": "xn--schlsselpositionen-p6b.de",
+    "title": "Du bist der Schlüssel! - Karriereseite der Stadt Dorsten",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 10595,
+    "crawled_at": "2026-08-06T02:14:41.117345905Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "FreeCSSTemplates",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Matomo",
+      "Matomo Tag Manager",
+      "Microdata for Google Shopping",
+      "OpenPanel",
+      "OpenResty",
+      "PHP",
+      "Recruitee",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "momo-amsterdam.com",
+    "title": "Home - MOMO Restaurant, Bar & Lounge",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 77,
+    "tech_spend": 14067,
+    "crawled_at": "2026-08-05T21:17:07.216001006Z",
+    "technologies": [
+      "Content Delivery Network",
+      "CookieConsent",
+      "Fastly",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nginx",
+      "Perl",
+      "Pico CSS",
+      "Recruitee",
+      "SEVENROOMS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "dottachilles.be",
     "title": "Superellipse - Innovation Agency - Formerly Studio Dott & Achilles Design",
     "business_name": "Superellipse",
@@ -4377,34 +4430,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "schluesselposition.de",
-    "title": "Du bist der Schlüssel! - Karriereseite der Stadt Dorsten",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 10355,
-    "crawled_at": "2026-04-29T11:23:20.033051367Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "FreeCSSTemplates",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Matomo",
-      "Matomo Tag Manager",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "PHP",
-      "Recruitee",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "jQuery"
     ]
   },
   {
@@ -9770,31 +9795,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "momo-amsterdam.com",
-    "title": "Home - MOMO Restaurant, Bar & Lounge",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 67,
-    "tech_spend": 14367,
-    "crawled_at": "2025-12-24T05:25:38.326228613Z",
-    "technologies": [
-      "CookieConsent",
-      "Fastly",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "PHP",
-      "Parallels Plesk Panel",
-      "Perl",
-      "Pico CSS",
-      "Recruitee",
-      "SEVENROOMS",
-      "UTF-8"
     ]
   }
 ]
