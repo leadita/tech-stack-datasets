@@ -1,5 +1,61 @@
 [
   {
+    "domain": "we-maintain-technologies.co.uk",
+    "title": "WeMaintain | Real-Time Building Maintenance Solutions",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 23481,
+    "crawled_at": "2026-08-05T22:19:36.045367242Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Apture Linking Platform",
+      "Better Lead Generation Services",
+      "CloudFront",
+      "Content Delivery Network",
+      "EcoVadis",
+      "Free Call",
+      "GZIP Module",
+      "Google Tag Manager",
+      "Headless UI",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "Prismic",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "dryfirewoodauckland.co.nz",
+    "title": "Auckland Firewood | Premium Dry Bagged Logs Grey Lynn",
+    "business_name": "",
+    "country": "NZL",
+    "seo_score": 77,
+    "tech_spend": 420,
+    "crawled_at": "2026-08-05T19:54:37.359547723Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Headless UI",
+      "Next.js",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "slimduurzaam.info",
     "title": "Slimduurzaam",
     "business_name": "",
@@ -280,28 +336,6 @@
       "Next.js",
       "Pleroma",
       "Prismic",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "aucklandfirewood.co.nz",
-    "title": "Auckland Firewood | Premium Dry Bagged Logs Grey Lynn",
-    "business_name": "",
-    "country": "NZL",
-    "seo_score": 82,
-    "tech_spend": 420,
-    "crawled_at": "2026-08-02T17:38:13.203749718Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Headless UI",
-      "Next.js",
-      "Prismic",
-      "Tailwind CSS",
       "UTF-8",
       "Vercel"
     ]
@@ -13580,25 +13614,6 @@
       "Prismic",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "ustotalhomeservices.com",
-    "title": "US Total Home Services",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 420,
-    "crawled_at": "2026-04-12T20:36:50.771115389Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Next.js",
-      "Pleroma",
-      "Prismic",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
