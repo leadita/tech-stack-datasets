@@ -1,5 +1,32 @@
 [
   {
+    "domain": "caymasnaplesflhomes.com",
+    "title": "Caymas - Southwest Florida",
+    "business_name": "",
+    "country": "PHL",
+    "seo_score": 77,
+    "tech_spend": 13831,
+    "crawled_at": "2026-08-06T09:46:38.500000874Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Follow Up Boss",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Homes.com CMS",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "OSS CDN",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "WPForms",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "numichigan.com",
     "title": "Home | Nu Michigan",
     "business_name": "",
@@ -577,34 +604,6 @@
       "Twitter Ads",
       "UTF-8",
       "Zeki"
-    ]
-  },
-  {
-    "domain": "willowpuntagordahomes.com",
-    "title": "Willow - Southwest Florida",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 13831,
-    "crawled_at": "2026-06-08T18:47:34.048163687Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Follow Up Boss",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Harbor",
-      "Homes.com CMS",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "OSS CDN",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "WPForms",
-      "YouTube",
-      "jQuery"
     ]
   },
   {
