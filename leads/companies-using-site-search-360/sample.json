@@ -1,5 +1,33 @@
 [
   {
+    "domain": "safehomeireland.com",
+    "title": "Safe Home Ireland | Housing & Support",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 1362,
+    "crawled_at": "2026-08-06T00:52:39.374081321Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Corporate Governance and Regulatory Compliance",
+      "Duda",
+      "FormSubmit",
+      "GZIP Module",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Nginx",
+      "No-Q",
+      "Site Search 360",
+      "Tailwind CSS",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "burdiss.com",
     "title": "Home : BURDISS",
     "business_name": "9940 Widmer Road",
@@ -15941,34 +15969,6 @@
       "Thank You",
       "UTF-8",
       "UserWay"
-    ]
-  },
-  {
-    "domain": "consolidatedfuneralservices.com",
-    "title": "Best Funeral Home Websites | Live Support | CFS",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 16266,
-    "crawled_at": "2026-04-04T12:56:19.987454822Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Bing Cashback",
-      "Bing Conversion Tracking",
-      "CloudFront",
-      "Duda",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "No-Q",
-      "Site Search 360",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8"
     ]
   }
 ]

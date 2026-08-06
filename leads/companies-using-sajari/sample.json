@@ -1,5 +1,25 @@
 [
   {
+    "domain": "afriherp.org",
+    "title": "Afriherp.org",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": "",
+    "crawled_at": "2026-08-06T15:28:04.777393646Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "PHP",
+      "Sajari",
+      "UTF-8",
+      "WP Fastest Cache",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "mofo.com",
     "title": "Morrison Foerster",
     "business_name": "",
@@ -552,26 +572,6 @@
       "YouTube",
       "eLand",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "afriherp.org",
-    "title": "Afriherp.org",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": "",
-    "crawled_at": "2025-12-24T13:55:38.356458769Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "PHP",
-      "Sajari",
-      "UTF-8",
-      "WP Fastest Cache",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
