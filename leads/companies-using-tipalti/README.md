@@ -1,6 +1,6 @@
 # Companies Using Tipalti (Live Dataset 2026)
 
-This folder contains an active list of 77 companies using **Tipalti**. 
+This folder contains an active list of 78 companies using **Tipalti**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 77
+- **Total Leads:** 78
 - **Verified:** Yes
-- **Last Updated:** 2026-08-05 17:30 UTC
+- **Last Updated:** 2026-08-06 17:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **77+** companies using Tipalti.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **78+** companies using Tipalti.
 
 [**⚡ Unlock the Full Tipalti List with Contact Details**](https://leadita.com/leads/companies-using-tipalti)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-08-05 17:30 UTC*
+*Last updated: 2026-08-06 17:30 UTC*
 *Data source: Leadita Technographic Intelligence*
