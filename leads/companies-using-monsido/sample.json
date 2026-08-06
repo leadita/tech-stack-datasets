@@ -1,5 +1,27 @@
 [
   {
+    "domain": "oceanconsultinggroup.com",
+    "title": "Care Commitment Group | Benefit Admin & Tech Solutions",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 5801,
+    "crawled_at": "2026-08-05T20:31:17.854767991Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CookieYes",
+      "Duda",
+      "GZIP Module",
+      "Monsido",
+      "NFOrce Internet",
+      "Nginx",
+      "Perl",
+      "Styled Components",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "jubileestadium.com",
     "title": "Jubilee Stadium - Home",
     "business_name": "",
@@ -19283,30 +19305,6 @@
       "University or College",
       "Unix",
       "Visual Studio"
-    ]
-  },
-  {
-    "domain": "oceanconsultinggroup.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 19068,
-    "crawled_at": "2025-12-24T04:58:38.34944929Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Duda",
-      "Fireblade",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Monsido",
-      "Nginx",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
