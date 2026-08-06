@@ -1,5 +1,55 @@
 [
   {
+    "domain": "kp.cpa",
+    "title": "Home | Kibbe & Poole, P.C.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 29060,
+    "crawled_at": "2026-08-06T07:13:11.011211619Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Dext",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "Zoom Video Conferencing",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "stevenalexander.cpa",
+    "title": "Steven Alexander CPA Inc. — Accounting, Advisory, Growth",
+    "business_name": "Steven Alexander CPA Inc.",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 1512,
+    "crawled_at": "2026-08-05T22:52:29.178514757Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Calendly",
+      "Content Delivery Network",
+      "Dext",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Typescale",
+      "UTF-8",
+      "Vercel",
+      "Xero"
+    ]
+  },
+  {
     "domain": "parkscpa.com",
     "title": "Home | Jay D. Parks & Associates",
     "business_name": "",
@@ -5826,33 +5876,6 @@
       "Xero",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "kp.cpa",
-    "title": "Home | Kibbe & Poole, P.C.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 13520,
-    "crawled_at": "2025-12-24T10:10:38.340965075Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "Dext",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "Zoom Video Conferencing",
-      "jsDelivr"
     ]
   }
 ]
