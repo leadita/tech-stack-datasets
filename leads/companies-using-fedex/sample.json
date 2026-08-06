@@ -1,5 +1,29 @@
 [
   {
+    "domain": "ddsmedia.co",
+    "title": "Paid Search Solutions for Businesses | DDS Media Services | DDS Media Services | Data Driven PPC Agency",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 1437,
+    "crawled_at": "2026-08-06T02:59:38.514844797Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Baidu Cloud",
+      "Better Lead Generation Services",
+      "Calendly",
+      "FedEx",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Unsplash",
+      "Vector Internet Services",
+      "Zyro"
+    ]
+  },
+  {
     "domain": "aittahipo.com",
     "title": "AIT Tahipo | Concierge Customs Brokerage & Trade Consulting",
     "business_name": "",
@@ -19349,30 +19373,6 @@
       "YouTube",
       "Zendesk Embeddables",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "ensbackpack.com",
-    "title": "ENS BACK PACK – Ens Back Pack Sırt Çantası",
-    "business_name": "Ens Back Pack Sırt Çantası",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 3580,
-    "crawled_at": "2026-04-03T23:38:34.559609839Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Care Cart",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "FedEx",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   }
 ]
