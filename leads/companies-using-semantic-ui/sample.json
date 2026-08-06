@@ -1,5 +1,23 @@
 [
   {
+    "domain": "schickeemail.de",
+    "title": "mailbox.my - Your personalized free email address",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-08-05T22:44:43.436662683Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Perl",
+      "Semantic UI",
+      "Twitter Ads",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "bayrationality.com",
     "title": "Bay Rationality",
     "business_name": "",
@@ -10917,24 +10935,6 @@
       "Semantic UI",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "whatthestack.dev",
-    "title": "mailbox.my - Your personalized free email address",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2026-04-25T15:11:19.991833246Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Perl",
-      "Semantic UI",
-      "Twitter Ads",
-      "jQuery",
-      "jsDelivr"
     ]
   },
   {

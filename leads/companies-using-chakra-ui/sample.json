@@ -1,5 +1,121 @@
 [
   {
+    "domain": "rozenhofje.nl",
+    "title": "Rozenhofje | Home",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 67,
+    "tech_spend": 45099,
+    "crawled_at": "2026-08-06T07:42:14.493494108Z",
+    "technologies": [
+      "Chakra UI",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Fireblade",
+      "Font Awesome",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Next.js",
+      "Perl",
+      "Pleroma",
+      "Tailwind CSS",
+      "The Fresh",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "bytepays.com",
+    "title": "Bytepays",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-08-05T22:32:06.723176571Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Next.js",
+      "Nginx",
+      "Pleroma",
+      "QUIC",
+      "UTF-8",
+      "Ubuntu"
+    ]
+  },
+  {
+    "domain": "miudigital.com",
+    "title": "Miu Digital Agency | Your Trusted Digital Partner",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 7500,
+    "crawled_at": "2026-08-05T18:55:41.420910139Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Fireblade",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "scooperlabs.com",
+    "title": "Scooper Labs",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 4267,
+    "crawled_at": "2026-08-05T17:57:54.262236866Z",
+    "technologies": [
+      "Chakra UI",
+      "Cloudinary",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Netlify",
+      "Next.js",
+      "Perl",
+      "Pleroma",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "timelinelongevity.com",
+    "title": "Mitopure® | #1 Doctor Recommended Urolithin A - Timeline",
+    "business_name": "Timeline Longevity",
+    "country": "USA",
+    "seo_score": 92,
+    "tech_spend": 28272,
+    "crawled_at": "2026-08-05T17:30:50.890130404Z",
+    "technologies": [
+      "Barchart",
+      "Chakra UI",
+      "Cloudinary",
+      "Content Delivery Network",
+      "DAV",
+      "Express",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pure.css",
+      "QUIC",
+      "Sanity",
+      "UTF-8",
+      "VWO Engage",
+      "Vector Internet Services",
+      "Vercel",
+      "Visual Website Optimizer",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "startuphouse.pl",
     "title": "Enterprise Digital Transformation & AI Software Development | SH",
     "business_name": "Startup House",
@@ -12702,105 +12818,6 @@
       "Twitter Ads",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "atlashr.ca",
-    "title": "Atlas Healthcare Recruitment Solutions Inc",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 16280,
-    "crawled_at": "2026-05-06T16:11:19.998280805Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Chakra UI",
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "viranchee.com",
-    "title": "Homepage | Viranchee",
-    "business_name": "",
-    "country": "",
-    "seo_score": 27,
-    "tech_spend": "",
-    "crawled_at": "2026-05-06T13:38:19.993438299Z",
-    "technologies": [
-      "Chakra UI",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GitHub Hosting",
-      "Next.js",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "antoniomasonryandstucco.com",
-    "title": "Home, Contact | Antonio Masonry Topeka, Kansas",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2026-05-06T12:51:09.238706772Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "pousadamarhesias.com.br",
-    "title": "Pousada Marhesias - Hospedagem com conforto e segurança",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 240,
-    "crawled_at": "2026-05-06T12:23:19.98691293Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Chakra UI",
-      "Content Delivery Network",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pico CSS",
-      "UTF-8",
-      "Vercel",
-      "WhatsApp Sharing"
-    ]
-  },
-  {
-    "domain": "biblioria.com",
-    "title": "Biblioria: Bookroo's Trading Card Game",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 15240,
-    "crawled_at": "2026-05-06T11:02:19.988315722Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Chakra UI",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel",
-      "YouTube"
     ]
   }
 ]
