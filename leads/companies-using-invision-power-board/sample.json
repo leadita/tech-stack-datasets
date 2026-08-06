@@ -353,34 +353,5 @@
       "Telegram",
       "University or College"
     ]
-  },
-  {
-    "domain": "ea-dev.com",
-    "title": "Website Templates | Games Templates | Business Templates",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 1060,
-    "crawled_at": "2025-12-24T14:40:38.356257403Z",
-    "technologies": [
-      "Bulma",
-      "CodeIgniter",
-      "Facebook Like",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Invision Power Board",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "Schema Plugin",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
   }
 ]
