@@ -1,5 +1,34 @@
 [
   {
+    "domain": "hid.ie",
+    "title": "Holmes Institute Dublin | Modern Business Degrees",
+    "business_name": "",
+    "country": "IRL",
+    "seo_score": 82,
+    "tech_spend": 31000,
+    "crawled_at": "2026-08-07T08:39:12.388381367Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Blackboard Open LMS",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Microsoft 365",
+      "Tailwind CSS",
+      "Tawk",
+      "UTF-8",
+      "University or College",
+      "WF Cookie Consent",
+      "YouTube",
+      "eLand",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "goedmo.com",
     "title": "EDMO - AI Operating System for Enrollment Management | AI Solutions for Higher Ed Universities",
     "business_name": "EDMO",
@@ -1765,34 +1794,6 @@
       "University or College",
       "accessiBe",
       "jQuery",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "admissions.hid.ie",
-    "title": "Holmes Institute Dublin | Modern Business Degrees",
-    "business_name": "",
-    "country": "IRL",
-    "seo_score": 72,
-    "tech_spend": 31000,
-    "crawled_at": "2026-04-25T12:35:19.997370872Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Blackboard Open LMS",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Microsoft 365",
-      "Tailwind CSS",
-      "Tawk",
-      "UTF-8",
-      "WF Cookie Consent",
-      "YouTube",
-      "eLand",
       "jsDelivr"
     ]
   },
