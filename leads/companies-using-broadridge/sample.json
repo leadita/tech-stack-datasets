@@ -1,5 +1,43 @@
 [
   {
+    "domain": "irsocietyconference.org.uk",
+    "title": "The Investor Relations Society Annual Conference",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 70,
+    "tech_spend": 630880,
+    "crawled_at": "2026-08-07T15:16:35.502966469Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Apture Linking Platform",
+      "Broadridge",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Computershare",
+      "Corporate Governance and Regulatory Compliance",
+      "DAV",
+      "Foundation",
+      "GZIP Module",
+      "Gambling Content",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "InitiativeS",
+      "Investor Relations",
+      "Modular Finance",
+      "Prospective",
+      "QUIC",
+      "UTF-8",
+      "University or College",
+      "Vimeo",
+      "eLand",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "awesum.design",
     "title": "Awesum Design Studios",
     "business_name": "",
@@ -3473,32 +3511,6 @@
       "WordPress",
       "WordPress Multisite",
       "eLand",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "irsocietyawards.org.uk",
-    "title": "The IR Society Best Practice Awards",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 615280,
-    "crawled_at": "2025-12-24T20:58:38.35253592Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Apture Linking Platform",
-      "Broadridge",
-      "Computershare",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Investor Relations",
-      "Modular Finance",
-      "PHP",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vimeo",
       "jQuery"
     ]
   }
