@@ -1,5 +1,24 @@
 [
   {
+    "domain": "realtyoperationsgroup.com",
+    "title": "Home : Realty Operations",
+    "business_name": "Realty Operations",
+    "country": "USA",
+    "seo_score": 50,
+    "tech_spend": 25880,
+    "crawled_at": "2026-08-07T10:48:28.663039813Z",
+    "technologies": [
+      "CacheFly",
+      "CacheFly CDN",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vignette OpenText",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "getgroupy.com",
     "title": "Stardock Groupy 2: Tabs for Windows",
     "business_name": "",
@@ -2382,26 +2401,6 @@
       "Tailwind CSS",
       "UTF-8",
       "eLand"
-    ]
-  },
-  {
-    "domain": "realtyoperationsgroup.com",
-    "title": "Home : Realty Operations",
-    "business_name": "Realty Operations",
-    "country": "USA",
-    "seo_score": 50,
-    "tech_spend": 25929,
-    "crawled_at": "2025-12-24T22:26:24.081561496Z",
-    "technologies": [
-      "CacheFly",
-      "CacheFly CDN",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vignette OpenText",
-      "WordPress SEO Structured Data Schema Plugin",
-      "reCAPTCHA"
     ]
   }
 ]
