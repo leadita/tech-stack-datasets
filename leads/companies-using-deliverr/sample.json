@@ -5881,41 +5881,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "shopruoff.com",
-    "title": "Ruoff Company Store",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 50,
-    "tech_spend": 7711,
-    "crawled_at": "2025-12-24T17:55:07.530357219Z",
-    "technologies": [
-      "3 Products",
-      "AJAX Libraries API",
-      "Apture Linking Platform",
-      "Barracuda Web App Firewall",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cowlendar",
-      "Deliverr",
-      "Digital Ocean Spaces",
-      "ElementUI",
-      "Express",
-      "GetResponse",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Shopify Payments",
-      "UTF-8",
-      "Vector Internet Services",
-      "Weglot",
-      "hCaptcha",
-      "jQuery",
-      "jsDelivr",
-      "reCAPTCHA"
-    ]
   }
 ]
