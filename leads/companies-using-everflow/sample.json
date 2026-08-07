@@ -1,5 +1,22 @@
 [
   {
+    "domain": "financialmatch.com",
+    "title": "Financial Match | Apply for Your ERC Credit Today!",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 20000,
+    "crawled_at": "2026-08-07T07:50:39.827345241Z",
+    "technologies": [
+      "Everflow",
+      "GZIP Module",
+      "Nginx",
+      "Nuxt.js",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "edgeboost.io",
     "title": "EDGE Boost | The Financial Platform for Smart Players",
     "business_name": "",

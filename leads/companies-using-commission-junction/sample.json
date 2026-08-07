@@ -13860,41 +13860,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "sunnei.it",
-    "title": "SUNNEI",
-    "business_name": "SUNNEI",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 48596,
-    "crawled_at": "2025-12-24T19:26:04.497277622Z",
-    "technologies": [
-      "ArvanCloud",
-      "ByteDance",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Commission Junction",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "MailChimp",
-      "Microdata for Google Shopping",
-      "POWr",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "TikTok Conversion Tracking Pixel",
-      "UTF-8",
-      "Vello",
-      "hCaptcha",
-      "iAPPS",
-      "jQuery",
-      "jsDelivr",
-      "reCAPTCHA",
-      "shadcn ui"
-    ]
   }
 ]
