@@ -1,5 +1,31 @@
 [
   {
+    "domain": "uffer.ch",
+    "title": "UFFER GRUPPE | Home",
+    "business_name": "",
+    "country": "CHE",
+    "seo_score": 77,
+    "tech_spend": 4640,
+    "crawled_at": "2026-08-06T20:37:57.20131935Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "DAV",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Instagram Follow Button",
+      "LandBot",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vimeo",
+      "WF Cookie Consent"
+    ]
+  },
+  {
     "domain": "vbsbusinessbrokers.com",
     "title": "Venture Business Solutions | Sell your business. confidential business broker Canada & U.S.",
     "business_name": "",
@@ -8206,32 +8232,6 @@
       "WhatsApp Sharing",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "uffer.swiss",
-    "title": "UFFER GRUPPE | Home",
-    "business_name": "",
-    "country": "CHE",
-    "seo_score": 67,
-    "tech_spend": 4640,
-    "crawled_at": "2026-04-24T03:41:19.998430246Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "DAV",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Instagram Follow Button",
-      "LandBot",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vimeo",
-      "WF Cookie Consent"
     ]
   },
   {
@@ -16635,43 +16635,6 @@
       "Yelp Badge",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "askmyadvisor.ai",
-    "title": "AskMyAdvisor® Upgrading The Advisor, Client Relationship in Minutes",
-    "business_name": "",
-    "country": "ESP",
-    "seo_score": 72,
-    "tech_spend": 14808,
-    "crawled_at": "2025-12-24T17:11:02.610698964Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon S3 CDN",
-      "App Store",
-      "BunnyCDN",
-      "BunnyCDN General",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "Investor Relations",
-      "LandBot",
-      "LinkedIn Insights",
-      "LinkedIn Pixel",
-      "Plausible Analytics",
-      "QUIC",
-      "RM Education",
-      "Storyblocks",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Unicorn Platform",
-      "Vidalytics"
     ]
   }
 ]

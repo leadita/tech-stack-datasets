@@ -1,5 +1,39 @@
 [
   {
+    "domain": "dalave.com",
+    "title": "Dalave – Leading the way",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 51177,
+    "crawled_at": "2026-08-06T11:49:52.479920301Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Automattic",
+      "BatCache",
+      "Dialogflow",
+      "EmbedPress",
+      "Fastly",
+      "Fireblade",
+      "Google",
+      "Google Cloud CDN",
+      "Google My Business",
+      "Google Retail Product Discovery",
+      "IcoMoon",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "Nginx",
+      "PHP",
+      "ThemeFusion",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "focuscartransport.com",
     "title": "Uncompromising Excellence: Entrust Your Car to Our Commitment.",
     "business_name": "Focus Car Transporters",
@@ -9896,42 +9930,6 @@
       "WhatsApp Sharing",
       "WordPress",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "dalave.com",
-    "title": "Dalave – Leading the way",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 51339,
-    "crawled_at": "2025-12-24T12:22:38.314891514Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Automattic",
-      "BatCache",
-      "Content Delivery Network",
-      "Dialogflow",
-      "EmbedPress",
-      "Fastly",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Google Retail Product Discovery",
-      "IcoMoon",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Nginx",
-      "PHP",
-      "ThemeFusion",
-      "UTF-8",
-      "WP Job Openings",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "jQuery"
     ]
   }
 ]
