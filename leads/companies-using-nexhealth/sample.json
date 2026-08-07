@@ -1,5 +1,36 @@
 [
   {
+    "domain": "cockeysville-dentist.com",
+    "title": "Benavent Dental",
+    "business_name": "Benavent Dental",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 9208,
+    "crawled_at": "2026-08-06T22:28:24.972902967Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "Express",
+      "FormSubmit",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Newsletter for Wordpress",
+      "NexHealth",
+      "Pico CSS",
+      "QUIC",
+      "Squarespace",
+      "UTF-8",
+      "University or College",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "dhgmedicalcenters.com",
     "title": "DHG Medical Centers – Serving the community for 36 years.",
     "business_name": "",
@@ -737,40 +768,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "maryland-dental.com",
-    "title": "Benavent Dental",
-    "business_name": "Benavent Dental",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 11648,
-    "crawled_at": "2026-06-10T21:45:36.339701261Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "NexHealth",
-      "Pico CSS",
-      "QUIC",
-      "Squarespace",
-      "UTF-8",
-      "University or College",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   },
   {
