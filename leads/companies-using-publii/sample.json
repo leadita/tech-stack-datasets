@@ -1,5 +1,46 @@
 [
   {
+    "domain": "brockoleur.com",
+    "title": "Kevin Brock | brockoleur.com",
+    "business_name": "Kevin Brock",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 149,
+    "crawled_at": "2026-08-06T15:21:33.858283175Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "Publii",
+      "Twitter Ads",
+      "University or College",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "robintech.nl",
+    "title": "Home | VHT",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 649,
+    "crawled_at": "2026-08-06T14:24:05.680253182Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "senjuartpath.com",
     "title": "Senjuartpath | Free Credit 365 | Free credit no deposit | Malaysia Trusted casino",
     "business_name": "",
@@ -8561,47 +8602,6 @@
       "Publii",
       "WordPress SEO Structured Data Schema Plugin",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "brockoleur.com",
-    "title": "Kevin Brock | brockoleur.com",
-    "business_name": "Kevin Brock",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 149,
-    "crawled_at": "2025-12-24T13:52:38.340761788Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "Publii",
-      "Twitter Ads",
-      "University or College",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "robintech.nl",
-    "title": "Home | VHT",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 649,
-    "crawled_at": "2025-12-24T13:25:38.347212956Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   }
 ]

@@ -12419,42 +12419,5 @@
       "Twitter Ads",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "uwl.me",
-    "title": "漫话开发者 - UWL.ME",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 444,
-    "crawled_at": "2025-12-24T15:55:38.315610288Z",
-    "technologies": [
-      "Adult Content",
-      "Baidu Ads",
-      "Baidu Analytics",
-      "Baidu Cloud",
-      "Content Delivery Network",
-      "Digital Ocean Spaces",
-      "GitHub Hosting",
-      "Google Adsense",
-      "Google Analytics",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google Reseller",
-      "Google Tag Manager",
-      "Hasnode",
-      "Medium",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "QUIC",
-      "Storyblocks",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Unsplash",
-      "Vercel",
-      "WordPress"
-    ]
   }
 ]
