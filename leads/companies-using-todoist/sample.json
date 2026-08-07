@@ -1,5 +1,30 @@
 [
   {
+    "domain": "aronwarren.com",
+    "title": "aron warren – Information Security Engineer",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 65,
+    "tech_spend": 15681,
+    "crawled_at": "2026-08-07T01:25:40.299531652Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "EmbedPress",
+      "Fireblade",
+      "GitHub Hosting",
+      "Python",
+      "QUIC",
+      "Shield Security for Wordpress",
+      "Todoist",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "monofocus.app",
     "title": "MonoFocus for macOS — Focus on one task at a time.",
     "business_name": "",
@@ -2421,32 +2446,6 @@
       "Zoom Video Conferencing",
       "eLand",
       "monday.com"
-    ]
-  },
-  {
-    "domain": "aronwarren.com",
-    "title": "aron warren – Information Security Engineer",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 70,
-    "tech_spend": 15681,
-    "crawled_at": "2025-12-24T18:07:38.345285758Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "EmbedPress",
-      "Fireblade",
-      "GitHub Hosting",
-      "Python",
-      "QUIC",
-      "Shield Security for Wordpress",
-      "Todoist",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite"
     ]
   }
 ]

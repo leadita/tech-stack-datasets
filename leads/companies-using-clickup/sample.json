@@ -1,5 +1,34 @@
 [
   {
+    "domain": "syntheticoilprotection.net",
+    "title": "AMSOIL Synthetic Oil in Las Vegas, NV | Synthetic Oil Protection",
+    "business_name": "AMSOIL INC.",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 16560,
+    "crawled_at": "2026-08-06T23:51:52.525273048Z",
+    "technologies": [
+      "Apache",
+      "ByteDance",
+      "ClickUp",
+      "Content Delivery Network",
+      "Facebook Reseller",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "LinkedIn Pixel",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Ntent",
+      "QUIC",
+      "Stripe",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "big-d-synthetics.com",
     "title": "AMSOIL Synthetic Oil in Fawn Grove, PA | Big D Synthetics",
     "business_name": "AMSOIL INC.",
@@ -18946,42 +18975,6 @@
       "WordPress Related Posts",
       "jQuery",
       "monday.com"
-    ]
-  },
-  {
-    "domain": "americanyouthcircus.org",
-    "title": "AYCO/ACE",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 109253,
-    "crawled_at": "2026-04-03T09:53:19.980115063Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Aruba",
-      "ClickUp",
-      "Contento",
-      "Corporate Governance and Regulatory Compliance",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Forms",
-      "Google My Business",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
