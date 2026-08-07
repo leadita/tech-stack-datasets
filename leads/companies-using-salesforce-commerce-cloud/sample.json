@@ -17802,27 +17802,5 @@
       "University or College",
       "ezCater"
     ]
-  },
-  {
-    "domain": "tatvamgold.com",
-    "title": "TatvamGold - Discover new jewelry designs and modern classics with http://tatvamgold.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 151188,
-    "crawled_at": "2025-12-24T19:19:38.314350246Z",
-    "technologies": [
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ElementUI",
-      "Google My Business",
-      "Google Play",
-      "Phusion Passenger Enterprise",
-      "Salesforce Commerce Cloud",
-      "UTF-8",
-      "jQuery"
-    ]
   }
 ]
