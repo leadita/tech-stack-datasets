@@ -470,48 +470,5 @@
       "eLand",
       "jQuery"
     ]
-  },
-  {
-    "domain": "himood.hk",
-    "title": "HIMOOD Oral Care",
-    "business_name": "HIMOOD Oral Care",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 25179,
-    "crawled_at": "2025-12-24T23:33:18.528972025Z",
-    "technologies": [
-      "Apache",
-      "Aruba",
-      "ByteDance",
-      "Cloudflare",
-      "Coming Soon Page",
-      "DAV",
-      "ETranslate",
-      "Express",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "Fireblade",
-      "GTranslate",
-      "Google My Business",
-      "Google Tag Manager",
-      "Kwai Conversion Tracking",
-      "Microdata for Google Shopping",
-      "Ntent",
-      "PayPal Adaptive Payments",
-      "Perl",
-      "Pico CSS",
-      "Pinterest Conversion Tracking",
-      "QUIC",
-      "Seflow Italy",
-      "Share Link",
-      "Sign In With Google",
-      "Thank You",
-      "TikTok Conversion Tracking Pixel",
-      "UEESHOP",
-      "UTF-8",
-      "Vercel",
-      "eLand"
-    ]
   }
 ]
