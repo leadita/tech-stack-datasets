@@ -503,20 +503,20 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using DailyMotion Video](./leads/companies-using-dailymotion-video) (3,238 companies)
 
 ### Web Fonts & Icons
-- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,819,256 companies)
-- [Companies using Font Awesome](./leads/companies-using-font-awesome) (807,148 companies)
+- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,819,239 companies)
+- [Companies using Font Awesome](./leads/companies-using-font-awesome) (807,134 companies)
 - [Companies using MyFonts](./leads/companies-using-myfonts) (3,226 companies)
-- [Companies using Fontshare](./leads/companies-using-fontshare) (2,713 companies)
-- [Companies using Bunny Fonts](./leads/companies-using-bunny-fonts) (44,094 companies)
-- [Companies using Fontello](./leads/companies-using-fontello) (44,167 companies)
-- [Companies using IcoMoon](./leads/companies-using-icomoon) (1,341,306 companies)
-- [Companies using Material Design Icons](./leads/companies-using-material-design-icons) (24,917 companies)
+- [Companies using Fontshare](./leads/companies-using-fontshare) (2,714 companies)
+- [Companies using Bunny Fonts](./leads/companies-using-bunny-fonts) (44,093 companies)
+- [Companies using Fontello](./leads/companies-using-fontello) (44,166 companies)
+- [Companies using IcoMoon](./leads/companies-using-icomoon) (1,341,285 companies)
+- [Companies using Material Design Icons](./leads/companies-using-material-design-icons) (24,916 companies)
 
 ### Web Servers
-- [Companies using NGINX](./leads/companies-using-nginx) (1,444,515 companies)
-- [Companies using Apache](./leads/companies-using-apache) (1,413,143 companies)
-- [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,139,243 companies)
-- [Companies using OpenResty](./leads/companies-using-openresty) (260,130 companies)
+- [Companies using NGINX](./leads/companies-using-nginx) (1,444,493 companies)
+- [Companies using Apache](./leads/companies-using-apache) (1,413,137 companies)
+- [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,139,226 companies)
+- [Companies using OpenResty](./leads/companies-using-openresty) (260,123 companies)
 - [Companies using Apache Tomcat](./leads/companies-using-apache-tomcat) (563 companies)
 
 
