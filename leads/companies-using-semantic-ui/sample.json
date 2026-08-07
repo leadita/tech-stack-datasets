@@ -1,18 +1,68 @@
 [
   {
-    "domain": "schickeemail.de",
+    "domain": "newage.school",
+    "title": "New Age School",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 13760,
+    "crawled_at": "2026-08-07T01:04:12.887675492Z",
+    "technologies": [
+      "ADFOX",
+      "ElementUI",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "LottieFiles",
+      "Nginx",
+      "Pleroma",
+      "Python",
+      "Semantic UI",
+      "Telegram",
+      "UTF-8",
+      "Vector Internet Services",
+      "Yandex Hosting",
+      "YouTube",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "schickemail.de",
     "title": "mailbox.my - Your personalized free email address",
     "business_name": "",
     "country": "",
     "seo_score": 47,
     "tech_spend": "",
-    "crawled_at": "2026-08-05T22:44:43.436662683Z",
+    "crawled_at": "2026-08-06T18:35:00.139854677Z",
     "technologies": [
       "Apache",
       "GZIP Module",
       "Perl",
       "Semantic UI",
       "Twitter Ads",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "plays.com.tr",
+    "title": "Plays.com.tr - Plays Metaverse Industries",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 3,
+    "crawled_at": "2026-08-06T17:46:11.459719507Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "DAV",
+      "Google Cloud DNS",
+      "LiteSpeed",
+      "PHP",
+      "QUIC",
+      "Semantic UI",
+      "Tawk",
+      "UTF-8",
+      "University or College",
       "jQuery",
       "jsDelivr"
     ]
@@ -14615,51 +14665,6 @@
       "Nginx",
       "Semantic UI",
       "Ubuntu"
-    ]
-  },
-  {
-    "domain": "onepixel.studio",
-    "title": "OnePixel Studio",
-    "business_name": "",
-    "country": "SVK",
-    "seo_score": 67,
-    "tech_spend": 240,
-    "crawled_at": "2026-04-14T14:11:20.00334491Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Alternate Protocol",
-      "Aruba",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google My Business",
-      "Google Play",
-      "Semantic UI",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "palmnesia.com",
-    "title": "Palmnesia",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 159,
-    "crawled_at": "2026-04-14T13:20:20.028125916Z",
-    "technologies": [
-      "Alternate Protocol",
-      "BootstrapMade",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "Semantic UI",
-      "Tailwind CSS",
-      "UTF-8",
-      "WhatsApp Sharing"
     ]
   }
 ]
