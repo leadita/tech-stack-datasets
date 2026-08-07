@@ -1,5 +1,29 @@
 [
   {
+    "domain": "livinads.com",
+    "title": "LivinAds | AI-Powered Digital Marketing & Media Solutions",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 59,
+    "crawled_at": "2026-08-07T03:12:33.5463425Z",
+    "technologies": [
+      "AF themes",
+      "Amazon Widgets",
+      "Apache",
+      "Better Lead Generation Services",
+      "ElementUI",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "QUIC",
+      "Taboola Direct",
+      "Tailwind CSS",
+      "The Trade Desk",
+      "UTF-8",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "tkdas.no",
     "title": "TKD AS - TKD AS",
     "business_name": "Tkd AS",
@@ -32571,30 +32595,6 @@
       "elevio",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "livinads.com",
-    "title": "LivinAds | AI-Powered Digital Marketing & Media Solutions",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 59,
-    "crawled_at": "2025-12-24T18:52:38.341489198Z",
-    "technologies": [
-      "AF themes",
-      "Amazon Widgets",
-      "Apache",
-      "Better Lead Generation Services",
-      "ElementUI",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "QUIC",
-      "Taboola Direct",
-      "Tailwind CSS",
-      "The Trade Desk",
-      "UTF-8",
-      "WordPress"
     ]
   }
 ]
