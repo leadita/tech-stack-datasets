@@ -17255,39 +17255,5 @@
       "YouTube",
       "jQuery"
     ]
-  },
-  {
-    "domain": "vapox.co.uk",
-    "title": "Vapox Vape UK Shop | E-liquids | Kits | Pods | Free Delivery – Vapox UK",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 87,
-    "tech_spend": 10332,
-    "crawled_at": "2025-12-24T18:33:20.507292989Z",
-    "technologies": [
-      "BunnyCDN General",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Engage",
-      "Gambling Content",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "MailChimp",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Omega Commerce",
-      "PageFly",
-      "PushEngage",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Thank You",
-      "TrackingMore",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA"
-    ]
   }
 ]

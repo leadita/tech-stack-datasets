@@ -1,5 +1,35 @@
 [
   {
+    "domain": "nalandabharati.com",
+    "title": "Gurukul Nalandabharati",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 12102,
+    "crawled_at": "2026-08-07T08:55:28.265363954Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Angular",
+      "Engage",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "MoEngage",
+      "Nginx",
+      "PWA",
+      "Perl",
+      "Pleroma",
+      "Sign In With Google",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "metrosoft.app",
     "title": "Metrosoft",
     "business_name": "",
@@ -16768,36 +16798,6 @@
       "UTF-8",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "sigmacoachingclasses.com",
-    "title": "SIGMA COACHING CLASSES",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 30139,
-    "crawled_at": "2026-05-08T00:10:15.093588763Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Angular",
-      "Engage",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "MoEngage",
-      "Nginx",
-      "PWA",
-      "Perl",
-      "Pleroma",
-      "Sign In With Google",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
