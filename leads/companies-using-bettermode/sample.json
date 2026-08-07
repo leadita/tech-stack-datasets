@@ -1,5 +1,30 @@
 [
   {
+    "domain": "jacobdowney.com",
+    "title": "Jacob Downey - GTM Engineer",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 80,
+    "tech_spend": 190228,
+    "crawled_at": "2026-08-07T02:14:44.184531325Z",
+    "technologies": [
+      "BetterMode",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Hubspot Knowledge Base",
+      "RM Education",
+      "Salesforce Hosted",
+      "UTF-8",
+      "Vector Internet Services"
+    ]
+  },
+  {
     "domain": "robotiqhub.com",
     "title": "Explore - RobotiqHub",
     "business_name": "",
