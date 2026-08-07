@@ -1,5 +1,66 @@
 [
   {
+    "domain": "icelandcampers.is",
+    "title": "Iceland Campers | Campervan Iceland Rental",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 22580,
+    "crawled_at": "2026-08-07T06:40:20.323180123Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Express",
+      "Google",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Headless UI",
+      "Instagram Follow Button",
+      "KVH",
+      "Next.js",
+      "Perl",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "unitecr2025.com",
+    "title": "Welcome to UNITECR 2025 – UNITECR 2025",
+    "business_name": "",
+    "country": "PHL",
+    "seo_score": 77,
+    "tech_spend": 2686,
+    "crawled_at": "2026-08-07T04:25:06.83500885Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Iubenda",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Nuxt.js",
+      "PHP",
+      "Prismic",
+      "Thank You",
+      "UTF-8",
+      "Wistia",
+      "eLand"
+    ]
+  },
+  {
     "domain": "we-maintain-technologies.co.uk",
     "title": "WeMaintain | Real-Time Building Maintenance Solutions",
     "business_name": "",
@@ -13565,55 +13626,6 @@
       "Vimeo",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "repbase.com",
-    "title": "Repbase - World class talent for high growth companies",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 25112,
-    "crawled_at": "2026-04-13T01:02:19.986189182Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Better Lead Generation Services",
-      "Calendly",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "GoodFirms",
-      "Instagram Follow Button",
-      "NFOrce Internet",
-      "Next.js",
-      "Pleroma",
-      "Prismic",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "productcatalogsaint-gobain-sekurit.com",
-    "title": "Sekurit Catalog",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 12500,
-    "crawled_at": "2026-04-12T23:29:20.009436425Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Endis",
-      "Express",
-      "Fireblade",
-      "Nuxt.js",
-      "Perl",
-      "Prismic",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
