@@ -1,5 +1,37 @@
 [
   {
+    "domain": "andyedmunds.com",
+    "title": "Heartfelt Original Music - Andy Edmunds - Artist",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 44032,
+    "crawled_at": "2026-08-08T11:07:37.340752073Z",
+    "technologies": [
+      "Contento",
+      "Edmunds",
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Line2",
+      "Medium",
+      "PWA",
+      "PayPal Adaptive Payments",
+      "PayPal Button",
+      "PayPal Form",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "spectracoaching.com",
     "title": "Spectra Coaching",
     "business_name": "Spectra Coaching",
@@ -5985,38 +6017,6 @@
       "Workday",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "andyedmunds.com",
-    "title": "Heartfelt Original Music - Andy Edmunds - Artist",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 87,
-    "tech_spend": 44032,
-    "crawled_at": "2025-12-25T09:05:19.124455796Z",
-    "technologies": [
-      "Contento",
-      "Edmunds",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Line2",
-      "Medium",
-      "PWA",
-      "PayPal Adaptive Payments",
-      "PayPal Button",
-      "PayPal Form",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight",
-      "YouTube"
     ]
   }
 ]
