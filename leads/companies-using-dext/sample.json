@@ -1,5 +1,40 @@
 [
   {
+    "domain": "trevorjonesandco.com",
+    "title": "Your trusted accountants in Birmingham | Trevor Jones & Co",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 37120,
+    "crawled_at": "2026-08-07T14:13:33.368634145Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Dext",
+      "Express",
+      "Flow",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Tailwind CSS",
+      "TermsFeed",
+      "Twitter Ads",
+      "UTF-8",
+      "WF Cookie Consent",
+      "Xero",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "kp.cpa",
     "title": "Home | Kibbe & Poole, P.C.",
     "business_name": "",
@@ -5844,38 +5879,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "trevorjonesandco.com",
-    "title": "Your trusted accountants in Birmingham | Trevor Jones & Co",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 37120,
-    "crawled_at": "2025-12-24T23:55:38.315393986Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Dext",
-      "Flow",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "WF Cookie Consent",
-      "Xero",
-      "jsDelivr",
-      "reCAPTCHA"
     ]
   }
 ]
