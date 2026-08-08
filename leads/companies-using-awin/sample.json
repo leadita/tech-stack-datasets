@@ -1,5 +1,33 @@
 [
   {
+    "domain": "9tayawin.com",
+    "title": "9TAYA WIN | Discover Unique Gaming Experiences with 9TAYA WIN: Your Go-To Portal for Diverse Game Adventures",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 15547,
+    "crawled_at": "2026-08-07T14:28:14.175827944Z",
+    "technologies": [
+      "AWIN",
+      "AWS WAF Challenge",
+      "Adult Content",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Gambling Content",
+      "IcoMoon",
+      "Lazy Load for WordPress",
+      "PWA",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Woo Themes",
+      "WooCommerce Checkout",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "planetwhiskies.com",
     "title": "Worldwide Whisky, Scottish Malts & Distilleries, Latest Whisky News",
     "business_name": "",
@@ -36547,40 +36575,6 @@
       "jsDelivr",
       "vi",
       "vidoomy Direct"
-    ]
-  },
-  {
-    "domain": "freeway-camper.com",
-    "title": "Camper and motorhome rental - Vanever in Hamburg & Munich",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 87,
-    "tech_spend": 23190,
-    "crawled_at": "2026-03-03T17:01:52.774598794Z",
-    "technologies": [
-      "AWIN",
-      "Alternate Protocol",
-      "Amazon S3 CDN",
-      "Cisco/Arrowpoint Content Service Switch",
-      "DAV",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Idaq",
-      "Instagram Follow Button",
-      "No-Q",
-      "Ntent",
-      "Perl",
-      "QUIC",
-      "Radix UI",
-      "Storyblocks",
-      "Tailwind CSS",
-      "UTF-8",
-      "eLand",
-      "shadcn ui"
     ]
   }
 ]
