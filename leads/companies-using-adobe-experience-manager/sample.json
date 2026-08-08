@@ -1,5 +1,63 @@
 [
   {
+    "domain": "pulsedigital.co.uk",
+    "title": "Certified Veeva Agency | Heartbeat™ Veeva Content Authoring | PULSE - Pulse Digital",
+    "business_name": "",
+    "country": "ESP",
+    "seo_score": 82,
+    "tech_spend": 432540,
+    "crawled_at": "2026-08-08T00:18:35.486674966Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Experience Manager",
+      "Amazon",
+      "Bulma",
+      "DAV",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "HubSpot Conversations",
+      "Hubspot",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services"
+    ]
+  },
+  {
+    "domain": "house-of-communication.uk",
+    "title": "UK | House of Communication",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 87,
+    "tech_spend": 725148,
+    "crawled_at": "2026-08-07T16:45:39.764708972Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Analytics",
+      "Adobe CQ",
+      "Adobe Experience Manager",
+      "Adobe Marketing Cloud",
+      "Alternate Protocol",
+      "CM Commerce",
+      "Content Delivery Network",
+      "DC74",
+      "Fastly",
+      "GZIP Module",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "OneTrust Domain Verification",
+      "Schema Plugin",
+      "Thank You",
+      "UTF-8",
+      "University or College",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "phcris.com",
     "title": "Primary Health Care Research and Information Service - Flinders University",
     "business_name": "",
@@ -2937,38 +2995,6 @@
       "PHP",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "serviceplan-consulting-group.com",
-    "title": "EN | House of Communication",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 82,
-    "tech_spend": 722398,
-    "crawled_at": "2026-06-06T07:41:54.876584167Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Analytics",
-      "Adobe CQ",
-      "Adobe Experience Manager",
-      "Adobe Marketing Cloud",
-      "Alternate Protocol",
-      "CM Commerce",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "OneTrust Domain Verification",
-      "Schema Plugin",
-      "Thank You",
-      "UTF-8",
-      "University or College",
-      "Walls.io",
-      "YouTube",
-      "reCAPTCHA"
     ]
   },
   {
@@ -18616,34 +18642,6 @@
       "Schema Plugin",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "rosewood-london.com",
-    "title": "5 Star Hotel London | Luxury Hotel Covent Garden | Rosewood",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 733868,
-    "crawled_at": "2026-04-26T12:11:19.977772146Z",
-    "technologies": [
-      "Adobe Analytics",
-      "Adobe CQ",
-      "Adobe Experience Manager",
-      "Adobe Marketing Cloud",
-      "Akamai Global Host",
-      "Apture Linking Platform",
-      "Express",
-      "Fastly",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SEVENROOMS",
-      "Schema Plugin",
-      "Tailwind CSS",
-      "UTF-8",
-      "Usablenet"
     ]
   }
 ]
