@@ -1,5 +1,82 @@
 [
   {
+    "domain": "federalapplicationsprocessor.org",
+    "title": "US DOT Biennial Update Portal | DOT Updates | Federal Applications Processor - Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 5608,
+    "crawled_at": "2026-08-08T10:28:29.586000364Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Apache",
+      "ChatBot",
+      "Cognito Forms",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "LiveChat",
+      "LiveChat Monitoring",
+      "Paperform",
+      "QUIC",
+      "Rocket Chat"
+    ]
+  },
+  {
+    "domain": "mycutcogirl.com",
+    "title": "My Cutco Rep || Sales and Service with your Independent Cutco Sales Representative",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 300,
+    "crawled_at": "2026-08-08T05:57:25.855861305Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Paperform",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Visual Studio"
+    ]
+  },
+  {
+    "domain": "justsolutionscanada.ca",
+    "title": "JuSt Solutions",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 57,
+    "tech_spend": 1002,
+    "crawled_at": "2026-08-08T05:08:01.186811731Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cornerstone",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "NFOrce Internet",
+      "Nginx",
+      "Paperform",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "crookedcanohio.com",
     "title": "Crooked Can Brewing - Craft Beer & Community in Columbus, Ohio",
     "business_name": "",
@@ -225,30 +302,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "dotbuassistance.org",
-    "title": "US DOT Biennial Update Portal | DOT Updates | Federal Applications Processor - Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 5608,
-    "crawled_at": "2026-08-04T21:11:11.869848052Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Apache",
-      "ChatBot",
-      "Cognito Forms",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "LiveChat",
-      "LiveChat Monitoring",
-      "Paperform",
-      "QUIC",
-      "Rocket Chat"
     ]
   },
   {
@@ -17208,57 +17261,6 @@
       "Paperform",
       "Perl",
       "Styled Components",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "naturesparkohio.com",
-    "title": "Naturespark – Judy Semroc – Naturalist Services",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 360,
-    "crawled_at": "2026-04-16T00:59:19.98134319Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Apache",
-      "EmbedPress",
-      "GZIP Module",
-      "PHP",
-      "Paperform",
-      "Theme In WP",
-      "UTF-8",
-      "WP Super Cache",
-      "WordPress",
-      "WordPress Multisite",
-      "eLand",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "fininly.com",
-    "title": "The white-label solution for alternative finance marketplaces.",
-    "business_name": "",
-    "country": "ESP",
-    "seo_score": 77,
-    "tech_spend": 1044,
-    "crawled_at": "2026-04-15T20:29:19.981916661Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Commoninja",
-      "Duda",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Investor Relations",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Paperform",
-      "QUIC",
       "Tailwind CSS",
       "UTF-8"
     ]
