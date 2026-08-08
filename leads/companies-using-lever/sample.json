@@ -1,5 +1,30 @@
 [
   {
+    "domain": "real-world-1.pl",
+    "title": "realworld one - PERFORMANCE STARTS WITH EXECUTION",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 35092,
+    "crawled_at": "2026-08-07T20:37:12.189660345Z",
+    "technologies": [
+      "1Password",
+      "Alternate Protocol",
+      "Framer Sites",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google My Business",
+      "Google Tag Manager",
+      "KVH",
+      "Lever",
+      "Ntent",
+      "Yandex Hosting",
+      "YouTube",
+      "Zeald"
+    ]
+  },
+  {
     "domain": "brightboard.us",
     "title": "Maritime Jobs for U.S. Mariners | BrightBoard",
     "business_name": "BrightBoard",
@@ -70,31 +95,6 @@
       "YouTube",
       "eLand",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "rwone.club",
-    "title": "realworld one - PERFORMANCE STARTS WITH EXECUTION",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 35092,
-    "crawled_at": "2026-08-04T08:46:19.995035266Z",
-    "technologies": [
-      "1Password",
-      "Alternate Protocol",
-      "Framer Sites",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Google Tag Manager",
-      "KVH",
-      "Lever",
-      "Ntent",
-      "Yandex Hosting",
-      "YouTube",
-      "Zeald"
     ]
   },
   {
@@ -10475,39 +10475,6 @@
       "Vercel",
       "Workday",
       "cstate"
-    ]
-  },
-  {
-    "domain": "workramp.net",
-    "title": "The AI-First LMS to Power Every Learning Experience | WorkRamp",
-    "business_name": "",
-    "country": "VEN",
-    "seo_score": 72,
-    "tech_spend": 26768,
-    "crawled_at": "2025-12-25T02:10:38.344604893Z",
-    "technologies": [
-      "Cisco/Arrowpoint Content Service Switch",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Framer Sites",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "Lever",
-      "Ntent",
-      "QUIC",
-      "StatusPage IO",
-      "Subversion",
-      "Twitter Ads",
-      "Vector Internet Services",
-      "Yandex Hosting",
-      "YouTube",
-      "Zeald"
     ]
   }
 ]
