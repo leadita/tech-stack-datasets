@@ -1,5 +1,32 @@
 [
   {
+    "domain": "infinitybillingrs.com",
+    "title": "Infinity Billing & Recovery Services, LLC",
+    "business_name": "Infinity Billing & Recovery Services, LLC",
+    "country": "USA",
+    "seo_score": 85,
+    "tech_spend": 19980,
+    "crawled_at": "2026-08-07T21:44:35.677328987Z",
+    "technologies": [
+      "Amazon Widgets",
+      "Apache",
+      "Express",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "PWA",
+      "TherapyNotes",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "quickslothealth.com",
     "title": "QuickSlot Health",
     "business_name": "",
