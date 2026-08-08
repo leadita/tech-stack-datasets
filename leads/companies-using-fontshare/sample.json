@@ -1,5 +1,70 @@
 [
   {
+    "domain": "themagicofteaching.org",
+    "title": "Michelle Gregg | The Magic of Teaching",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 62,
+    "tech_spend": 2440,
+    "crawled_at": "2026-08-08T21:10:10.540261833Z",
+    "technologies": [
+      "Apache",
+      "Fontshare",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API"
+    ]
+  },
+  {
+    "domain": "anvo.ai",
+    "title": "Anvo — Unstructured data, structured.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 240,
+    "crawled_at": "2026-08-08T19:44:37.865515516Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fontshare",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "brsben.com",
+    "title": "Ben Solomon",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 25544,
+    "crawled_at": "2026-08-08T16:07:16.891590728Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "Express",
+      "Fontshare",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "higherpasture.com",
     "title": "Higher Pasture Cannabis - Coming Soon",
     "business_name": "",
@@ -381,23 +446,6 @@
       "RM Education",
       "Thank You",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "themagicofteaching.net",
-    "title": "Michelle Gregg | The Magic of Teaching",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 62,
-    "tech_spend": 2440,
-    "crawled_at": "2026-08-06T09:17:20.293083335Z",
-    "technologies": [
-      "Apache",
-      "Fontshare",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API"
     ]
   },
   {
@@ -13225,47 +13273,6 @@
       "Nginx",
       "QUIC",
       "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "zeroregretbuy.com",
-    "title": "Zero Regret Buy: Your AI Shopping Concierge | End Research Fatigue",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 67,
-    "tech_spend": 2668,
-    "crawled_at": "2026-05-13T20:23:52.480534162Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fontshare",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microsoft Clarity",
-      "Next.js",
-      "Plausible Analytics",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "dannerenterprises.com",
-    "title": "Danner Enterprises — Hospitality, Management & Marketing in Branson, MO",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 240,
-    "crawled_at": "2026-05-13T19:53:20.000980684Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fontshare",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
       "shadcn ui"
     ]
   }
