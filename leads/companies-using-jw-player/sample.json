@@ -1,5 +1,34 @@
 [
   {
+    "domain": "freshface.tv",
+    "title": "A FRESH FACE IN HELL",
+    "business_name": "A FRESH FACE IN HELL",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 2391,
+    "crawled_at": "2026-08-08T20:37:03.986839604Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "Google Analytics",
+      "Hello Elementor",
+      "Instagram Follow Button",
+      "JW Player Platform",
+      "JetElements",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "scottishmortgage.com",
     "title": "Scottish Mortgage Investment Trust | Invest in progress",
     "business_name": "Scottish Mortgage",
@@ -32755,35 +32784,6 @@
       "WordPress",
       "WordPress Multisite",
       "eLand",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "afreshfaceinhell.tv",
-    "title": "A FRESH FACE IN HELL",
-    "business_name": "A FRESH FACE IN HELL",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 2391,
-    "crawled_at": "2026-03-23T01:12:20.663938035Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Google Analytics",
-      "Hello Elementor",
-      "Instagram Follow Button",
-      "JW Player Platform",
-      "JetElements",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
       "jQuery"
     ]
   },
