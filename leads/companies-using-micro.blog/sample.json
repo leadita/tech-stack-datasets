@@ -1,5 +1,51 @@
 [
   {
+    "domain": "www.www.www.frankmcpherson.blog",
+    "title": "Routine Revelations",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 120,
+    "crawled_at": "2026-08-08T10:42:27.883416405Z",
+    "technologies": [
+      "Alternate Protocol",
+      "DAV",
+      "GitHub Hosting",
+      "Hugo",
+      "Investor Relations",
+      "Micro.blog",
+      "PWA",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "eLand",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "xn--eckza.jp",
+    "title": "ケイ.jp",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 60,
+    "crawled_at": "2026-08-08T07:36:55.470440988Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Hugo",
+      "License Buttons",
+      "Mastodon",
+      "Micro.blog",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "alexlov.es",
     "title": "Alexandra Samuel, AI keynote speaker and writer - Alexandra Samuel",
     "business_name": "",
@@ -188,31 +234,6 @@
       "Apache",
       "GZIP Module",
       "Micro.blog"
-    ]
-  },
-  {
-    "domain": "www.www.frankmcpherson.blog",
-    "title": "Routine Revelations",
-    "business_name": "",
-    "country": "SGP",
-    "seo_score": 57,
-    "tech_spend": 60,
-    "crawled_at": "2026-07-31T07:19:06.86689897Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Automattic",
-      "DAV",
-      "GitHub Hosting",
-      "Hugo",
-      "Investor Relations",
-      "Micro.blog",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "eLand",
-      "jsDelivr"
     ]
   },
   {
@@ -8132,53 +8153,6 @@
       "Netlify",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "xn--eckza.jp",
-    "title": "ケイ.jp",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 60,
-    "crawled_at": "2025-12-25T07:31:38.330738414Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "License Buttons",
-      "Mastodon",
-      "Micro.blog",
-      "UTF-8",
-      "YouTube",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "kalikambo.com",
-    "title": "Kali Kambo",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 240,
-    "crawled_at": "2025-12-25T04:58:38.317715113Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Angular",
-      "Apture Linking Platform",
-      "Canva Websites",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Medium",
-      "Micro.blog",
-      "Square",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "YouTube",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]
