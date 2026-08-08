@@ -1,5 +1,56 @@
 [
   {
+    "domain": "tag.tax",
+    "title": "Tax Alternative Group | Poughkeepsie, NY Tax Professionals",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 77,
+    "tech_spend": 22460,
+    "crawled_at": "2026-08-08T05:46:37.155074498Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "B12",
+      "Calendly",
+      "DAV",
+      "DC74",
+      "Django",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Perl",
+      "QUIC",
+      "Twitter Ads",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "seelentage.ch",
+    "title": "Seelentage: Personal Reflections and Life Insights Blog",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 77,
+    "tech_spend": 568,
+    "crawled_at": "2026-08-07T21:30:44.523179718Z",
+    "technologies": [
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Django",
+      "Express",
+      "Gambling Content",
+      "IcoMoon",
+      "Pure.css",
+      "QUIC",
+      "Tailwind CSS",
+      "UPS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "frostlinesolutions.com",
     "title": "Frostline Solutions | Computer Repair & Tech Services | Dakota Fryberger",
     "business_name": "Frostline Solutions LLC",
@@ -35,33 +86,6 @@
       "UTF-8",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "peakconnect.us",
-    "title": "Peak Connect: Your Ultimate Guide to Digital Marketing and Growth",
-    "business_name": "",
-    "country": "ITA",
-    "seo_score": 77,
-    "tech_spend": 468,
-    "crawled_at": "2026-08-03T03:16:11.835900258Z",
-    "technologies": [
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "DAV",
-      "Django",
-      "Express",
-      "Gambling Content",
-      "IcoMoon",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Way",
-      "jQuery"
     ]
   },
   {
@@ -239,32 +263,6 @@
       "UTF-8",
       "Ubuntu",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "taxalternativegroup.com",
-    "title": "Tax Alternative Group | Poughkeepsie, NY Tax Professionals",
-    "business_name": "",
-    "country": "ITA",
-    "seo_score": 77,
-    "tech_spend": 22460,
-    "crawled_at": "2026-06-09T14:15:01.196624298Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "B12",
-      "Calendly",
-      "DAV",
-      "DC74",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "Twitter Ads",
-      "YouTube",
-      "reCAPTCHA"
     ]
   },
   {
