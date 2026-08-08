@@ -1,5 +1,21 @@
 [
   {
+    "domain": "archerseismic.com.au",
+    "title": "Archer Seismic",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 50,
+    "tech_spend": 12003,
+    "crawled_at": "2026-08-08T10:42:27.879831856Z",
+    "technologies": [
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "QUIC",
+      "Seismic"
+    ]
+  },
+  {
     "domain": "landseismicspecialists.com",
     "title": "Land Seismic Noise Specialists | Full-service processing, technology, geoscience services, software",
     "business_name": "",
@@ -2659,22 +2675,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "archerseismic.com.au",
-    "title": "Archer Seismic",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 45,
-    "tech_spend": 12003,
-    "crawled_at": "2025-12-25T08:55:38.321287379Z",
-    "technologies": [
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "QUIC",
-      "Seismic"
     ]
   }
 ]

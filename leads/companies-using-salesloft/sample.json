@@ -15688,45 +15688,5 @@
       "University or College",
       "YouTube"
     ]
-  },
-  {
-    "domain": "gosummer.com",
-    "title": "GoSummer | Your Hub for STR Insights, Tools, and Success",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 37360,
-    "crawled_at": "2025-12-25T10:04:38.342040992Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon S3 CDN",
-      "Apture Linking Platform",
-      "Calendly",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Investor Relations",
-      "LinkedIn Insights",
-      "LinkedIn Pixel",
-      "Navattic",
-      "QUIC",
-      "SalesLoft",
-      "Storyblocks",
-      "Tailwind CSS",
-      "Thank You",
-      "Twitter Ads",
-      "WF Cookie Consent",
-      "jsDelivr"
-    ]
   }
 ]
