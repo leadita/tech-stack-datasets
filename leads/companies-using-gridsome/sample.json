@@ -1,36 +1,12 @@
 [
   {
-    "domain": "onixandfriends.com",
-    "title": "Onix & Friends - Onix & Friends",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 43070,
-    "crawled_at": "2026-08-07T11:01:46.44029096Z",
-    "technologies": [
-      "Amplitude",
-      "Bulma",
-      "Content Delivery Network",
-      "Fireblade",
-      "Gridsome",
-      "Idaq",
-      "Instagram Follow Button",
-      "KVH",
-      "No-Q",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "boosthubforce.com",
+    "domain": "boostinspot.com",
     "title": "BoostWorkforce",
     "business_name": "",
     "country": "GBR",
     "seo_score": 65,
     "tech_spend": 134198,
-    "crawled_at": "2026-08-07T09:01:40.399466965Z",
+    "crawled_at": "2026-08-08T03:02:40.324888292Z",
     "technologies": [
       "Apache",
       "Cloudflare",
@@ -60,6 +36,30 @@
       "Visual Studio",
       "reCAPTCHA",
       "symfony PHP Framework"
+    ]
+  },
+  {
+    "domain": "onixandfriends.com",
+    "title": "Onix & Friends - Onix & Friends",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 43070,
+    "crawled_at": "2026-08-07T11:01:46.44029096Z",
+    "technologies": [
+      "Amplitude",
+      "Bulma",
+      "Content Delivery Network",
+      "Fireblade",
+      "Gridsome",
+      "Idaq",
+      "Instagram Follow Button",
+      "KVH",
+      "No-Q",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
     ]
   },
   {
