@@ -9997,36 +9997,5 @@
       "YouTube",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "manual.co",
-    "title": "Manual: Men's Healthcare - Made easy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 45884,
-    "crawled_at": "2025-12-25T04:01:38.365950103Z",
-    "technologies": [
-      "AB Tasty",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Calendly",
-      "Content Delivery Network",
-      "DAV",
-      "GetResponse",
-      "GitHub Hosting",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "New Relic",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Styled Components",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "reCAPTCHA"
-    ]
   }
 ]
