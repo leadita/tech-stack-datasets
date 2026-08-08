@@ -1,5 +1,39 @@
 [
   {
+    "domain": "complete-seminars.org",
+    "title": "TEACH Services, Inc.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 42356,
+    "crawled_at": "2026-08-07T21:44:35.71391103Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Accordion Blocks",
+      "BigCommerce",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "Perl",
+      "QUIC",
+      "RM Education",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "YouCanBookMe"
+    ]
+  },
+  {
     "domain": "unitepoolsandspas.com",
     "title": "Unite Pools & Spas | Pool Consultation, Installation, & Repair",
     "business_name": "",
@@ -17034,36 +17068,6 @@
       "YouTube",
       "Zendesk Guide",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "scottheitkemperwealth.com",
-    "title": "Expert Retirement Planning for a Secure Financial Future",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 34347,
-    "crawled_at": "2026-04-24T07:02:19.978009669Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Coming Soon Page",
-      "Express",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "PWA",
-      "QUIC",
-      "UTF-8",
-      "Vimeo",
-      "Vimeo CDN",
-      "Wangsu",
-      "Website Tonight",
-      "YouCanBookMe",
-      "YouTube"
     ]
   }
 ]
