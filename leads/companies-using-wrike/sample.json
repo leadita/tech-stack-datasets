@@ -3374,37 +3374,5 @@
       "Wrike",
       "mlcom"
     ]
-  },
-  {
-    "domain": "certestudio.com",
-    "title": "Certe Studios | Web, Branding, & Graphic Design Agency",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 17096,
-    "crawled_at": "2025-12-25T11:59:05.818530429Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hive.co",
-      "Hotjar",
-      "Instagram Follow Button",
-      "QUIC",
-      "Ringba",
-      "Tailwind CSS",
-      "Vector Internet Services",
-      "WF Cookie Consent",
-      "Webflow",
-      "Wrike"
-    ]
   }
 ]
