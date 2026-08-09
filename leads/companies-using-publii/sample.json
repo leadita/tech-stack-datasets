@@ -8564,44 +8564,5 @@
       "YouTube",
       "mlcom"
     ]
-  },
-  {
-    "domain": "coloredcar.com",
-    "title": "Coloredcar-The Unbiased Guide to the Electric Revolution",
-    "business_name": "Coloredcar-The Unbiased Guide to the Electric Revolution",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 49,
-    "crawled_at": "2025-12-25T18:22:38.353065997Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Gambling Content",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "ppug.al",
-    "title": "ppug.al",
-    "business_name": "ppug.al",
-    "country": "ALB",
-    "seo_score": 65,
-    "tech_spend": 15149,
-    "crawled_at": "2025-12-25T17:16:38.312570355Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Fireblade",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
-    ]
   }
 ]

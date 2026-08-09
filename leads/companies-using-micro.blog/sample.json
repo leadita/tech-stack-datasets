@@ -1,5 +1,24 @@
 [
   {
+    "domain": "noahbetzen.com",
+    "title": "Noah Betzen",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 260,
+    "crawled_at": "2026-08-08T19:23:29.382058129Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "GitHub Hosting",
+      "Hugo",
+      "Micro.blog",
+      "Twitter Ads",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "www.www.www.frankmcpherson.blog",
     "title": "Routine Revelations",
     "business_name": "",
@@ -2516,25 +2535,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "nezteb.net",
-    "title": "Noah Betzen",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 260,
-    "crawled_at": "2026-05-07T06:56:20.015761047Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "GitHub Hosting",
-      "Hugo",
-      "Micro.blog",
-      "Twitter Ads",
-      "UTF-8",
       "shadcn ui"
     ]
   },
