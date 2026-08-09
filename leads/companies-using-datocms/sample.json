@@ -1,5 +1,96 @@
 [
   {
+    "domain": "certa.com.hk",
+    "title": "Certa, a bridge between Italy and Asia. Italian Wine Food and Sprits",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 77,
+    "tech_spend": 10516,
+    "crawled_at": "2026-08-09T17:46:37.578363047Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Google Analytics",
+      "Instagram Follow Button",
+      "Iubenda",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "RM Education",
+      "Schema Plugin",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "jtpegadvisory.cz",
+    "title": "JTPEG Advisory CZ, a.s. - official website | J&T PEG Advisory CZ",
+    "business_name": "",
+    "country": "",
+    "seo_score": 82,
+    "tech_spend": 42806,
+    "crawled_at": "2026-08-09T07:47:05.509946391Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Advisory Board",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Fireblade",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Idaq",
+      "Nuxt.js",
+      "Tailwind CSS",
+      "Vector Internet Services"
+    ]
+  },
+  {
+    "domain": "typefully.co.uk",
+    "title": "Your copywriter –",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 5016,
+    "crawled_at": "2026-08-09T05:17:04.946795863Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "DAV",
+      "DatoCMS",
+      "Fastly",
+      "Netlify",
+      "Next.js",
+      "Pleroma",
+      "Styled Components",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "snailsfordinner.com",
+    "title": "Set Snail",
+    "business_name": "Set Snail",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": "",
+    "crawled_at": "2026-08-09T02:32:11.492574579Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DatoCMS",
+      "Microdata for Google Shopping",
+      "Svelte",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "fieldmusuem.org",
     "title": "Explore the World at the Field - Field Museum",
     "business_name": "",
@@ -5529,37 +5620,6 @@
       "Netlify",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "jtpegadvisory.com",
-    "title": "JTPEG Advisory CZ, a.s. - official website | J&T PEG Advisory CZ",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 42806,
-    "crawled_at": "2026-05-14T08:24:22.978933075Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Advisory Board",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "DatoCMS",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Idaq",
-      "Nuxt.js",
-      "Tailwind CSS",
-      "Vector Internet Services"
     ]
   },
   {
@@ -14200,86 +14260,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "eemr3.now.sh",
-    "title": "My Portfólio",
-    "business_name": "",
-    "country": "BRA",
-    "seo_score": 55,
-    "tech_spend": 132,
-    "crawled_at": "2026-04-20T19:17:27.236611728Z",
-    "technologies": [
-      "ArvanCloud",
-      "Content Delivery Network",
-      "DatoCMS",
-      "GitHub Hosting",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "yanktech.net",
-    "title": "We develop long-range, high power wireless charging.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 22958,
-    "crawled_at": "2026-04-20T15:44:20.009973177Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "DatoCMS",
-      "Instagram Follow Button",
-      "Next.js",
-      "No-Q",
-      "Pico CSS",
-      "Pleroma",
-      "QUIC",
-      "Styled Components",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vercel",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "usa-immigrations.com",
-    "title": "Immigration Forms Online | USA-immigrations.com",
-    "business_name": "usa-immigrations.com",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 3033,
-    "crawled_at": "2026-04-20T11:35:58.101718283Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DatoCMS",
-      "Google Adsense",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Custom Search",
-      "Google Font API",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google My Business",
-      "Google Reseller",
-      "Google Tag Manager",
-      "Hugo",
-      "JivoSite",
-      "Netlify",
-      "PWA",
-      "QUIC",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
     ]
   }
 ]
