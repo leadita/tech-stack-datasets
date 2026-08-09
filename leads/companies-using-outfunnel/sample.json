@@ -1,5 +1,31 @@
 [
   {
+    "domain": "numbernumbernumber.com",
+    "title": "The Number Creative - We're Here to Help",
+    "business_name": "",
+    "country": "SYC",
+    "seo_score": 77,
+    "tech_spend": 588,
+    "crawled_at": "2026-08-09T02:06:31.768652748Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Bulma",
+      "DuracellTomi Google Tag Manager for WordPress",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Outfunnel",
+      "PHP",
+      "QUIC",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "mod_pagespeed"
+    ]
+  },
+  {
     "domain": "leinonen.eu",
     "title": "Cross-Border Accounting & Outsourcing | Leinonen Global",
     "business_name": "Leinonen Group",
@@ -5255,32 +5281,6 @@
     ]
   },
   {
-    "domain": "chrisnohr.com",
-    "title": "The Number Creative - We're Here to Help",
-    "business_name": "",
-    "country": "SYC",
-    "seo_score": 77,
-    "tech_spend": 588,
-    "crawled_at": "2026-04-08T03:14:20.028096861Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Bulma",
-      "DuracellTomi Google Tag Manager for WordPress",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Outfunnel",
-      "PHP",
-      "QUIC",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "mod_pagespeed"
-    ]
-  },
-  {
     "domain": "konekt.group",
     "title": "Konekt Group | Unleashing Digital Potential",
     "business_name": "Konekt Group Ltd",
@@ -8069,36 +8069,6 @@
       "Wix Media",
       "YouTube",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "clovedigital.ai",
-    "title": "Clove Digital",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 8267,
-    "crawled_at": "2025-12-25T16:34:38.321918817Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "Elementor",
-      "ElementsKit Elementor",
-      "EmbedPress",
-      "Fireblade",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Metform Elemento",
-      "NFOrce Internet",
-      "Outfunnel",
-      "Twenty Twenty-Four",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
