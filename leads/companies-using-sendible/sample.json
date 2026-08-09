@@ -305,25 +305,5 @@
       "eLand",
       "jQuery"
     ]
-  },
-  {
-    "domain": "localfy.me",
-    "title": "Localfy — Faster. Smarter. Cheaper.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 8796,
-    "crawled_at": "2025-12-25T19:52:38.339302503Z",
-    "technologies": [
-      "Content Delivery Network",
-      "InMoment",
-      "NFOrce Internet",
-      "Next.js",
-      "Pleroma",
-      "Sendible",
-      "Stripe",
-      "UTF-8",
-      "Vercel"
-    ]
   }
 ]
