@@ -1,5 +1,26 @@
 [
   {
+    "domain": "jordanpurinton.com",
+    "title": "Jordan Purinton",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 600,
+    "crawled_at": "2026-08-09T00:51:55.521446485Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Astro",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "LogRocket",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "wildhealth.com",
     "title": "Wild Health | Premium",
     "business_name": "",
