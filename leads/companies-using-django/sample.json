@@ -1,5 +1,86 @@
 [
   {
+    "domain": "edusetin.com",
+    "title": "Edusetin Study Abroad – Trusted Overseas Education Consultants in Kerala",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 99,
+    "crawled_at": "2026-08-09T11:20:24.06269394Z",
+    "technologies": [
+      "Bulma",
+      "Django",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Newsletter for Wordpress",
+      "Nginx",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "University or College",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "deniserjacobs.com",
+    "title": "Denise Raab Jacobs - Home",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 70,
+    "tech_spend": 1108,
+    "crawled_at": "2026-08-08T19:44:37.860936047Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "QUIC",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "summitnode.us",
+    "title": "SummitNode: Expert Insights on Web Development and Digital Innovation",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 87,
+    "tech_spend": 35468,
+    "crawled_at": "2026-08-08T18:30:43.419243981Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "DAV",
+      "Django",
+      "E37",
+      "Express",
+      "Gambling Content",
+      "IcoMoon",
+      "Krypt Technologies",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "tag.tax",
     "title": "Tax Alternative Group | Poughkeepsie, NY Tax Professionals",
     "business_name": "",
@@ -23,31 +104,6 @@
       "Twitter Ads",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "seelentage.ch",
-    "title": "Seelentage: Personal Reflections and Life Insights Blog",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 77,
-    "tech_spend": 568,
-    "crawled_at": "2026-08-07T21:30:44.523179718Z",
-    "technologies": [
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Django",
-      "Express",
-      "Gambling Content",
-      "IcoMoon",
-      "Pure.css",
-      "QUIC",
-      "Tailwind CSS",
-      "UPS",
-      "UTF-8",
-      "jQuery"
     ]
   },
   {
@@ -9618,51 +9674,6 @@
       "QUIC",
       "University or College",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "edusetin.com",
-    "title": "Edusetin Study Abroad – Trusted Overseas Education Consultants in Kerala",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 99,
-    "crawled_at": "2025-12-25T19:49:38.375222669Z",
-    "technologies": [
-      "Bulma",
-      "Django",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Newsletter for Wordpress",
-      "Nginx",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "University or College",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "deniserjacobs.com",
-    "title": "Denise Raab Jacobs - Home",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 70,
-    "tech_spend": 1108,
-    "crawled_at": "2025-12-25T12:37:38.343211565Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "QUIC",
-      "University or College"
     ]
   }
 ]
