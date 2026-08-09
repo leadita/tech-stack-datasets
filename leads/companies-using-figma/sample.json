@@ -1,5 +1,159 @@
 [
   {
+    "domain": "hamiltonmerritt.com",
+    "title": "The Merritt Group",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 1707,
+    "crawled_at": "2026-08-09T13:18:27.519613582Z",
+    "technologies": [
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Figma",
+      "GZIP Module",
+      "Google My Business",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Nginx",
+      "Perl",
+      "Pleroma",
+      "Schema Plugin",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "gomobileagency.com",
+    "title": "Go Mobile",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 34600,
+    "crawled_at": "2026-08-09T12:04:23.546025496Z",
+    "technologies": [
+      "ADFOX",
+      "Cloudflare",
+      "Content Delivery Network",
+      "DAV",
+      "Figma",
+      "GZIP Module",
+      "K2F",
+      "Telegram",
+      "Yandex Hosting",
+      "Yandex Metrika"
+    ]
+  },
+  {
+    "domain": "sooyundesign.com",
+    "title": "Soo Yun's Portfolio 2025",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 6000,
+    "crawled_at": "2026-08-09T08:29:36.39052823Z",
+    "technologies": [
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Figma",
+      "GZIP Module",
+      "Google My Business",
+      "Google Workspace",
+      "Instagram Follow Button",
+      "K2F",
+      "Subversion"
+    ]
+  },
+  {
+    "domain": "fridamoller.com",
+    "title": "Frida Möller",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 41200,
+    "crawled_at": "2026-08-09T01:07:31.521300637Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Figma",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "K2F",
+      "QUIC"
+    ]
+  },
+  {
+    "domain": "frenchhillpressworks.com",
+    "title": "French Hill Pressworks",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-08-08T23:23:32.876779293Z",
+    "technologies": [
+      "Cloudflare",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Figma",
+      "GZIP Module"
+    ]
+  },
+  {
+    "domain": "mikewu.cc",
+    "title": "Home_en | Mike Product Designer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 25220,
+    "crawled_at": "2026-08-08T20:13:18.062990055Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Figma",
+      "Framer Sites",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Ntent",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
+    "domain": "greatrms.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 16707,
+    "crawled_at": "2026-08-08T13:54:14.149703467Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Figma",
+      "GZIP Module",
+      "Google My Business",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Nginx",
+      "Perl",
+      "Pleroma",
+      "QUIC",
+      "Schema Plugin",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "yardsticktech.com",
     "title": "Home - Yardstick Tech",
     "business_name": "Yardstick Tech",
@@ -13099,163 +13253,6 @@
       "GZIP Module",
       "Google Analytics",
       "Google Tag Manager"
-    ]
-  },
-  {
-    "domain": "jordanhughes.co",
-    "title": "Jordan Hughes — Product Designer",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 5076,
-    "crawled_at": "2026-05-30T16:35:36.164564616Z",
-    "technologies": [
-      "Amazon",
-      "Amazon Associates",
-      "Amazon CloudFront",
-      "Amazon Widgets",
-      "CloudFront",
-      "Content Delivery Network",
-      "DAV",
-      "Figma",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "PagerDuty",
-      "Product Hunt",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "WF Cookie Consent",
-      "Webflow"
-    ]
-  },
-  {
-    "domain": "unboringtech.com",
-    "title": "UnBoring Tech | Design & Development Agency",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 1440,
-    "crawled_at": "2026-05-30T14:50:26.058126776Z",
-    "technologies": [
-      "App Store",
-      "Content Delivery Network",
-      "Figma",
-      "Google My Business",
-      "Google Play",
-      "Instagram Follow Button",
-      "Next.js",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "plantaysialandscapes.com",
-    "title": "Plantaysia, Inc.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 156,
-    "crawled_at": "2026-05-30T13:44:10.865107282Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Figma",
-      "GZIP Module",
-      "Google My Business",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Nginx",
-      "Perl",
-      "Pleroma",
-      "Schema Plugin",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "jorge.cool",
-    "title": "Jorge Escobar | UX & Visual Designer",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 77,
-    "tech_spend": 1200,
-    "crawled_at": "2026-05-30T12:55:37.016133889Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Figma",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager"
-    ]
-  },
-  {
-    "domain": "santororenovation.ca",
-    "title": "Home of Santoro Renovation",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 50,
-    "tech_spend": 240,
-    "crawled_at": "2026-05-30T12:36:34.670198883Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Figma",
-      "GZIP Module",
-      "Google My Business",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Nginx",
-      "Perl",
-      "Pleroma",
-      "Schema Plugin",
-      "UTF-8",
-      "Unsplash"
-    ]
-  },
-  {
-    "domain": "openarmx.com",
-    "title": "homehome",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 62,
-    "tech_spend": 3600,
-    "crawled_at": "2026-05-30T12:36:34.632974107Z",
-    "technologies": [
-      "Apache",
-      "Baidu Cloud",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Figma",
-      "GZIP Module",
-      "University or College"
-    ]
-  },
-  {
-    "domain": "yunusciddioglu.com",
-    "title": "Yunus Ciddioglu - Software Developer",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 70,
-    "tech_spend": 1200,
-    "crawled_at": "2026-05-30T12:25:28.204147194Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Figma",
-      "GitHub Hosting",
-      "LiteSpeed",
-      "QUIC"
     ]
   }
 ]

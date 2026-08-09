@@ -1,5 +1,29 @@
 [
   {
+    "domain": "just3workplacegurus.com",
+    "title": "just3workplacegurus",
+    "business_name": "",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 22120,
+    "crawled_at": "2026-08-09T10:52:46.851804028Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "PWA",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight",
+      "Workplace from Meta",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "veritasworkplace.com",
     "title": "VERITAS – Workplace Consultancy – Amenajari birouri corporate, amenajari spatii comerciale",
     "business_name": "",
@@ -9377,30 +9401,6 @@
       "Wix Media",
       "Workplace from Meta",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "just3workplacegurus.com",
-    "title": "just3workplacegurus",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 3283,
-    "crawled_at": "2025-12-25T19:34:38.323751521Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "PWA",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight",
-      "Workplace from Meta",
-      "YouTube"
     ]
   }
 ]
