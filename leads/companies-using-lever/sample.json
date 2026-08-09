@@ -1,12 +1,12 @@
 [
   {
-    "domain": "real-world-1.pl",
+    "domain": "rw-one.it",
     "title": "realworld one - PERFORMANCE STARTS WITH EXECUTION",
     "business_name": "",
     "country": "USA",
     "seo_score": 87,
     "tech_spend": 35092,
-    "crawled_at": "2026-08-07T20:37:12.189660345Z",
+    "crawled_at": "2026-08-09T04:39:14.418287951Z",
     "technologies": [
       "1Password",
       "Alternate Protocol",
@@ -22,6 +22,26 @@
       "Yandex Hosting",
       "YouTube",
       "Zeald"
+    ]
+  },
+  {
+    "domain": "swedengamejobs.com",
+    "title": "Sweden Game Jobs",
+    "business_name": "",
+    "country": "",
+    "seo_score": 27,
+    "tech_spend": 100310,
+    "crawled_at": "2026-08-08T19:55:43.083441901Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Headless UI",
+      "Lever",
+      "Next.js",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "Workday",
+      "cstate"
     ]
   },
   {
@@ -10416,65 +10436,6 @@
       "jQuery",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "annette.care",
-    "title": "Parcours de Perte de Poids Personnalisé avec Annette | Résultats Durables & Soutien d'Experts",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 36468,
-    "crawled_at": "2025-12-25T15:10:55.817307001Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Animate It",
-      "App Store",
-      "ByteDance",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "ElementUI",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Lever",
-      "OpSource",
-      "RM Education",
-      "Tailwind CSS",
-      "TikTok Conversion Tracking Pixel",
-      "WF Cookie Consent",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "swedengamejobs.com",
-    "title": "Sweden Game Jobs",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 123310,
-    "crawled_at": "2025-12-25T12:43:38.333923606Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Greenhouse",
-      "Headless UI",
-      "Lever",
-      "Next.js",
-      "Pleroma",
-      "SMC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "Workday",
-      "cstate"
     ]
   }
 ]
