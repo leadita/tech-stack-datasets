@@ -1,5 +1,43 @@
 [
   {
+    "domain": "litawards.com",
+    "title": "LIT Lighting Design Awards 2026 - LIT Lighting Design Awards",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 82,
+    "tech_spend": 5267,
+    "crawled_at": "2026-08-08T20:24:57.559156531Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "DAV",
+      "EmbedPress",
+      "Express",
+      "Freshworks Bot",
+      "GDPR Cookie Compliance",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Feed for WordPress",
+      "Instagram Follow Button",
+      "Lazy Load for WordPress",
+      "Microdata for Google Shopping",
+      "MonsterInsights",
+      "PHP",
+      "Tailwind CSS",
+      "Theme In WP",
+      "UTF-8",
+      "University or College",
+      "WP Rocket",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "livawards.com",
     "title": "LIV Hospitality Design Awards 2025 - LIV Hospitality Design Awards",
     "business_name": "LIV Hospitality Design Awards",
@@ -22935,32 +22973,6 @@
       "WooCommerce Checkout",
       "WordPress",
       "WordPress Multisite"
-    ]
-  },
-  {
-    "domain": "relamex.com",
-    "title": "Relamex Manejo de Residuos Peligrosos en CDMX",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2399,
-    "crawled_at": "2026-04-12T13:49:56.832789035Z",
-    "technologies": [
-      "Apache",
-      "BootstrapMade",
-      "Freshworks Bot",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "PHP",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "WhatsApp Sharing",
-      "jQuery"
     ]
   }
 ]
