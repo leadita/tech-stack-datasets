@@ -1,5 +1,34 @@
 [
   {
+    "domain": "upwardassets.net",
+    "title": "Upward Assets | End To End ITAD",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 181,
+    "crawled_at": "2026-08-09T05:53:24.712121536Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "FedEx",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Nginx",
+      "PHP",
+      "QUIC",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "rzrecon.com",
     "title": "RedZone Reconditioning - #CertifiedForWar",
     "business_name": "Red Zone Reconditioning",
@@ -19328,38 +19357,6 @@
       "QUIC",
       "RokNavMenu",
       "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "mypackage.is",
-    "title": "MyPackage.is | Track your package or shipment",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 4108,
-    "crawled_at": "2026-04-04T20:35:51.97331229Z",
-    "technologies": [
-      "Angular",
-      "DHL",
-      "DHL Parcel",
-      "FedEx",
-      "Google Adsense",
-      "Google Analytics",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google Reseller",
-      "IcoMoon",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "OnTrac",
-      "Parcel",
-      "TNT",
-      "Tailwind CSS",
-      "UPS",
-      "USPS",
-      "UTF-8",
-      "Visual Studio",
       "jQuery"
     ]
   }
