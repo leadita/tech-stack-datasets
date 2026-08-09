@@ -2167,38 +2167,5 @@
       "Ubuntu",
       "eClinicalWorks"
     ]
-  },
-  {
-    "domain": "peterbpo.com",
-    "title": "Peter BPO Services Inc. – Medical Billing Company",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 42623,
-    "crawled_at": "2025-12-25T15:10:38.337306529Z",
-    "technologies": [
-      "Alternate Protocol",
-      "AthenaHealth",
-      "Elementor",
-      "ElementsKit Elementor",
-      "EmbedPress",
-      "Express",
-      "FormSubmit",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Metform Elemento",
-      "PHP",
-      "Practice Fusion",
-      "QUIC",
-      "Slider Revolution",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "eClinicalWorks",
-      "jQuery"
-    ]
   }
 ]
