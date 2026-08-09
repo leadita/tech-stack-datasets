@@ -1,5 +1,29 @@
 [
   {
+    "domain": "coursuniq.net",
+    "title": "UNIVERSITÉ QUISQUEYA: Centre de formation à distance",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 31400,
+    "crawled_at": "2026-08-09T03:50:40.99638429Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fastly",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Moodle",
+      "NFOrce Internet",
+      "Nginx",
+      "PHP",
+      "Totara",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "gisicisituition.online",
     "title": "Ghana Investment and Securities Institute",
     "business_name": "",
@@ -1195,30 +1219,6 @@
       "UTF-8",
       "Ubuntu",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "coursuniq.net",
-    "title": "UNIVERSITÉ QUISQUEYA: Centre de formation à distance",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 31400,
-    "crawled_at": "2025-12-25T16:16:38.335475027Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fastly",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Moodle",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "Totara",
-      "UTF-8"
     ]
   }
 ]

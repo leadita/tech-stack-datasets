@@ -1,4 +1,5 @@
 domain,title,business_name,country,seo_score,tech_spend,crawled_at,technologies
+coursuniq.net,UNIVERSITÉ QUISQUEYA: Centre de formation à distance,,,62,31400,2026-08-09T03:50:40.99638429Z,"['Alternate Protocol', 'CDN JS', 'Cloudflare', 'Cloudflare CDN', 'Fastly', 'Financial Services Guide', 'GZIP Module', 'Moodle', 'NFOrce Internet', 'Nginx', 'PHP', 'Totara', 'UTF-8']"
 gisicisituition.online,Ghana Investment and Securities Institute,,,57,26163,2026-06-05T12:26:08.59530547Z,"['Fastly', 'GZIP Module', 'Google', 'Google Cloud DNS', 'Google Font API', 'Moodle', 'NFOrce Internet', 'Nginx', 'PHP', 'SMC', 'Totara', 'UTF-8', 'jsDelivr']"
 gpku.ru,Модуль практических занятий,,,47,11256,2026-05-30T15:25:41.075232319Z,"['Fastly', 'GZIP Module', 'IcoMoon', 'Moodle', 'NFOrce Internet', 'OpenResty', 'PHP', 'Totara', 'UTF-8']"
 formation-isfad-gn.org,Institut Supérieur de Formation A Distance,,,47,11100,2026-05-24T15:15:07.137369333Z,"['Apache', 'Bulma', 'Fastly', 'GZIP Module', 'Moodle', 'NFOrce Internet', 'PHP', 'QUIC', 'Tailwind CSS', 'Totara', 'UTF-8', 'jsDelivr']"
@@ -49,4 +50,3 @@ dgspmoodle.de,Deutsche Gesellschaft für Sportmedizin und Prävention e.V.,,DEU,
 rs-akademie.de,Home | Die RS-Akademie,,DEU,77,29320,2026-01-10T07:29:48.225700409Z,"['Apache', 'GZIP Module', 'Moodle', 'NFOrce Internet', 'PHP', 'SiteW', 'Stetic', 'Totara', 'UTF-8', 'jsDelivr']"
 edvantagescience.com,Edvantage Science,,,45,11358,2025-12-29T15:19:38.312555952Z,"['Apache', 'Fastly', 'Font Awesome', 'GZIP Module', 'Google Analytics', 'Google Cloud DNS', 'Google Font API', 'Google Tag Manager', 'IcoMoon', 'Moodle', 'NFOrce Internet', 'PHP', 'Totara', 'UTF-8', 'Ubuntu', 'jsDelivr']"
 eduznaniya.ru,"АНО ДПО ""Академический центр ""ЗНАНИЯ""",,,52,11100,2025-12-29T07:52:38.341768473Z,"['Apache', 'Fastly', 'GZIP Module', 'Moodle', 'NFOrce Internet', 'PHP', 'Totara', 'UTF-8', 'Ubuntu', 'jsDelivr']"
-coursuniq.net,UNIVERSITÉ QUISQUEYA: Centre de formation à distance,,,62,31400,2025-12-25T16:16:38.335475027Z,"['Alternate Protocol', 'CDN JS', 'Cloudflare', 'Cloudflare CDN', 'Fastly', 'Financial Services Guide', 'GZIP Module', 'Moodle', 'NFOrce Internet', 'Nginx', 'PHP', 'Totara', 'UTF-8']"
