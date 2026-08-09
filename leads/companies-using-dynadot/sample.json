@@ -4999,23 +4999,5 @@
       "Twitter Ads",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "beastsofoden.com",
-    "title": "Beasts of Oden",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 335,
-    "crawled_at": "2025-12-25T20:43:38.318410385Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8"
-    ]
   }
 ]
