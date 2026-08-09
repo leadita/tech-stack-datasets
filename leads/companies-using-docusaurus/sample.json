@@ -1,5 +1,29 @@
 [
   {
+    "domain": "optaplanner.com",
+    "title": "Apache KIE (incubating) | Apache KIE (incubating)",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 7400,
+    "crawled_at": "2026-08-09T21:42:29.100892988Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Perl",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "Vector Internet Services",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "developerfastlane.com",
     "title": "코딩추월차선 | 코딩추월차선",
     "business_name": "",
@@ -2019,30 +2043,6 @@
       "Netlify",
       "Perl",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "drools.org",
-    "title": "Apache KIE (incubating) | Apache KIE (incubating)",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 1800,
-    "crawled_at": "2026-05-18T00:35:19.99771391Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Content Delivery Network",
-      "Corporate Governance and Regulatory Compliance",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Perl",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "Vector Internet Services",
-      "YouTube"
     ]
   },
   {
