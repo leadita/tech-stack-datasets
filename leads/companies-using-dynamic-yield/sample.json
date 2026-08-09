@@ -1,5 +1,35 @@
 [
   {
+    "domain": "tumi.in",
+    "title": "TUMI India Official Site | Luggage, Backpacks, Bags || Tumi©",
+    "business_name": "TUMI Website",
+    "country": "IND",
+    "seo_score": 92,
+    "tech_spend": 103804,
+    "crawled_at": "2026-08-08T15:37:07.405304726Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Dynamic Yield",
+      "Fireblade",
+      "Freshdesk Support",
+      "Fynd Platform",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "PWA",
+      "YouTube",
+      "iomart"
+    ]
+  },
+  {
     "domain": "teamspirit.co.uk",
     "title": "Teamspirit | London & New York - Teamspirit",
     "business_name": "",
@@ -7684,37 +7714,6 @@
       "jsDelivr",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "tumi.in",
-    "title": "TUMI India Official Site | Luggage, Backpacks, Bags || Tumi©",
-    "business_name": "TUMI Website",
-    "country": "IND",
-    "seo_score": 82,
-    "tech_spend": 103804,
-    "crawled_at": "2025-12-25T10:52:38.337607593Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Dynamic Yield",
-      "Fireblade",
-      "Freshdesk Support",
-      "Fynd Platform",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "PWA",
-      "Tailwind CSS",
-      "YouTube",
-      "iomart"
     ]
   }
 ]
