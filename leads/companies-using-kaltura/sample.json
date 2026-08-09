@@ -16988,41 +16988,5 @@
       "Vimeo",
       "YouTube"
     ]
-  },
-  {
-    "domain": "ellysteam.org",
-    "title": "Home | Elly's Team",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 48697,
-    "crawled_at": "2025-12-25T15:07:38.316720031Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Alternate Protocol",
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Express",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hiawatha",
-      "IcoMoon",
-      "Kaltura",
-      "Microdata for Google Shopping",
-      "PHP",
-      "UTF-8",
-      "University or College",
-      "Vimeo",
-      "Wangsu",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]

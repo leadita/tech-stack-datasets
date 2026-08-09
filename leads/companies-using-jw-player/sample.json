@@ -1,5 +1,26 @@
 [
   {
+    "domain": "aeacenter.com",
+    "title": "Alessandro's English Academy",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 70,
+    "tech_spend": 1068,
+    "crawled_at": "2026-08-09T17:39:32.824870009Z",
+    "technologies": [
+      "Bulma",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "JW Player Platform",
+      "LiteSpeed",
+      "PHP",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "freshface.tv",
     "title": "A FRESH FACE IN HELL",
     "business_name": "A FRESH FACE IN HELL",
@@ -39217,43 +39238,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "bankexam.com",
-    "title": "Compliance Services for Community Banks – BankExam.com – End-to-end compliance solutions delivered by phone, fax and secure email",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 561,
-    "crawled_at": "2026-02-13T04:06:43.898071952Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "Divi",
-      "Elegant Themes",
-      "EmbedPress",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "JW Player Platform",
-      "Nginx",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
