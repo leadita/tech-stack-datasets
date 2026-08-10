@@ -8127,32 +8127,5 @@
       "YouTube",
       "jQuery"
     ]
-  },
-  {
-    "domain": "davidahouse.com",
-    "title": "davidahouse.com - Developer. Maker. Learner. He/him.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 318,
-    "crawled_at": "2025-12-26T01:38:44.064895233Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Bulma",
-      "Content Delivery Network",
-      "DAV",
-      "Font Awesome",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Jekyll",
-      "Micro.blog",
-      "Netlify",
-      "Twitter Ads",
-      "UTF-8"
-    ]
   }
 ]
