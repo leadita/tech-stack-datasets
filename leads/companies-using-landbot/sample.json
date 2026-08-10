@@ -1,5 +1,31 @@
 [
   {
+    "domain": "chatbotsnow.com",
+    "title": "ChatbotsNOW",
+    "business_name": "",
+    "country": "NOR",
+    "seo_score": 65,
+    "tech_spend": 77973,
+    "crawled_at": "2026-08-10T08:45:09.663279536Z",
+    "technologies": [
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "LandBot",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "unibed.co.uk",
     "title": "UniBed: Your First Choice For Student Accommodation",
     "business_name": "",
@@ -16605,34 +16631,6 @@
       "WordPress Multisite",
       "Yelp Badge",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "chatbotsnow.com",
-    "title": "ChatbotsNOW",
-    "business_name": "",
-    "country": "NOR",
-    "seo_score": 60,
-    "tech_spend": 25968,
-    "crawled_at": "2025-12-26T05:52:38.327106406Z",
-    "technologies": [
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "LandBot",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
