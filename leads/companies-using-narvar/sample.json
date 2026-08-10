@@ -1,12 +1,12 @@
 [
   {
-    "domain": "clarks.com.tr",
+    "domain": "clarks.ae",
     "title": "Clarks™ Official Site | Shoes, Boots, Sandals & Sneakers",
     "business_name": "",
     "country": "DEU",
     "seo_score": 82,
     "tech_spend": 785542,
-    "crawled_at": "2026-07-30T09:19:29.887967653Z",
+    "crawled_at": "2026-08-10T21:17:56.929853201Z",
     "technologies": [
       "AWS WAF Challenge",
       "Adalyser",
