@@ -10330,47 +10330,5 @@
       "accessiBe",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "otooleshd.com",
-    "title": "O'Toole's Harley-Davidson® - New & Used Motorcycles, Sales, Service, and Parts in Wurtsboro, NY, near Middletown, Monticello, Ellenville and Newburgh",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 114399,
-    "crawled_at": "2025-12-26T00:49:38.326369613Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "AudioEye",
-      "Better Lead Generation Services",
-      "Create React App",
-      "DAV",
-      "Dealer Spike",
-      "DealerInspire",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "MaxCDN",
-      "Microdata for Google Shopping",
-      "PWA",
-      "Pleroma",
-      "QUIC",
-      "Tealium",
-      "UTF-8",
-      "YouTube",
-      "jQuery",
-      "jsDelivr"
-    ]
   }
 ]
