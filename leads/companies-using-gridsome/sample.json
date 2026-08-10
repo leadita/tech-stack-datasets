@@ -1,5 +1,27 @@
 [
   {
+    "domain": "innerstrengthathletics.com",
+    "title": "Inner Strength Athletics - YOU VERSUS YOU",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 72728,
+    "crawled_at": "2026-08-10T11:54:23.277357124Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Gridsome",
+      "Idaq",
+      "Instagram Follow Button",
+      "KVH",
+      "Netlify",
+      "SMC",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "boostinspot.com",
     "title": "BoostWorkforce",
     "business_name": "",
@@ -11970,31 +11992,6 @@
       "Font Awesome",
       "GZIP Module",
       "Gridsome"
-    ]
-  },
-  {
-    "domain": "securequest.fr",
-    "title": "Secure Quest - Secure Quest",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 87,
-    "tech_spend": 65268,
-    "crawled_at": "2026-01-30T23:10:13.806744331Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "Fireblade",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Gridsome",
-      "Netlify",
-      "SMC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
