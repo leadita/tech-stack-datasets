@@ -1,5 +1,47 @@
 [
   {
+    "domain": "v0.app",
+    "title": "v0 by Vercel - Build Full-Stack Web Apps with AI",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 42872,
+    "crawled_at": "2026-08-09T21:25:43.021099954Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adult Content",
+      "Amazon",
+      "Apture Linking Platform",
+      "Auth0",
+      "Content Delivery Network",
+      "ElementUI",
+      "Ethy",
+      "Fireblade",
+      "GetResponse",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Hugging Face Space",
+      "Microdata for Google Shopping",
+      "Notion",
+      "Ntent",
+      "PWA",
+      "QUIC",
+      "Radix UI",
+      "Slack",
+      "Smart App Banner",
+      "Stripe",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "essai.dev",
     "title": "AI Essay Writer | Undetectable AI Essay Generator – Aithor",
     "business_name": "",
@@ -22456,35 +22498,6 @@
       "WordPress",
       "WordPress Multisite",
       "WordPress Stats"
-    ]
-  },
-  {
-    "domain": "federalreserveplaza.com",
-    "title": "Federal Reserve Plaza Home | Federal Reserve Plaza",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 81640,
-    "crawled_at": "2026-02-20T23:40:18.325541068Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Auth0",
-      "Automattic",
-      "Crowdsignal",
-      "Facebook CDN",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Harbor",
-      "NFOrce Internet",
-      "Taleo",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
