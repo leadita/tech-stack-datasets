@@ -1,5 +1,29 @@
 [
   {
+    "domain": "dialektaki.gr",
+    "title": "φτηνα ασφαλιστρα αυτοκινητου Ηράκλειο Κρήτης, φτηνα ασφαλιστρα μοτοσυκλετας Ηράκλειο Κρήτης, φτηνα ασφαλιστρα οχηματων Ηράκλειο Κρήτης, ασφαλειες Ηράκλειο Κρήτης, ασφαλιση Ηράκλειο Κρήτης, ασφαλεια Ηράκλειο Κρήτης, ασφαλιση οχηματων Ηράκλειο Κρήτης",
+    "business_name": "ΔΙΑΛΕΚΤΑΚΗ ΑΕ, ΠΡΑΚΤΟΡΕΙΑ ΑΣΦΑΛΕΙΩΝ & ΣΥΜΒΟΥΛΩΝ",
+    "country": "",
+    "seo_score": 82,
+    "tech_spend": 148,
+    "crawled_at": "2026-08-10T05:47:25.450980342Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "ChronoEngine",
+      "Facebook Embedded Posts",
+      "FreeCSSTemplates",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Semantic UI",
+      "Slider Revolution",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "adechamps.net",
     "title": "Arnold Dechamps",
     "business_name": "",
@@ -14681,40 +14705,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "sudanunit.com",
-    "title": "Sudan Unit",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 302,
-    "crawled_at": "2026-04-15T12:50:19.978040959Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apache",
-      "Contact Form Plugin",
-      "Elementor",
-      "EmbedPress",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Header, Footer and Blocks for Elementor",
-      "Hello Elementor",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "PHP",
-      "Royal Elementor Addons",
-      "Semantic UI",
-      "Theme In WP",
-      "UTF-8",
-      "WPML Multilingual",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
