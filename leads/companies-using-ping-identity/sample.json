@@ -2170,42 +2170,5 @@
       "YouTube",
       "eLand"
     ]
-  },
-  {
-    "domain": "ochopeoplesolutions.com",
-    "title": "Ocho - Your AI-Powered Talent Platform in Belfast, Ireland",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 109390,
-    "crawled_at": "2025-12-26T11:49:38.326756196Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "ETranslate",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Imperva Bot Detection and Mitigation",
-      "InitiativeS",
-      "M247",
-      "Next.js",
-      "Ping Identity",
-      "Pleroma",
-      "Prospective",
-      "Python",
-      "QUIC",
-      "Twitter Ads",
-      "eLand"
-    ]
   }
 ]
