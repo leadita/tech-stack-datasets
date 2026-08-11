@@ -1,6 +1,6 @@
 # Companies Using Google Workspace (Live Dataset 2026)
 
-This folder contains an active list of 16,559 companies using **Google Workspace**. 
+This folder contains an active list of 16,516 companies using **Google Workspace**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 16,559
+- **Total Leads:** 16,516
 - **Verified:** Yes
-- **Last Updated:** 2026-08-10 13:45 UTC
+- **Last Updated:** 2026-08-11 13:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **16,559+** companies using Google Workspace.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **16,516+** companies using Google Workspace.
 
 [**⚡ Unlock the Full Google Workspace List with Contact Details**](https://leadita.com/leads/companies-using-google-workspace)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-08-10 13:45 UTC*
+*Last updated: 2026-08-11 13:45 UTC*
 *Data source: Leadita Technographic Intelligence*

@@ -1,5 +1,30 @@
 [
   {
+    "domain": "canopyworkplace.com",
+    "title": "Canopy Workplace Partners",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 75,
+    "tech_spend": 79973,
+    "crawled_at": "2026-08-11T03:22:13.440318531Z",
+    "technologies": [
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "University or College",
+      "WordPress SEO Structured Data Schema Plugin",
+      "Workplace from Meta",
+      "eLand"
+    ]
+  },
+  {
     "domain": "just3workplacegurus.com",
     "title": "just3workplacegurus",
     "business_name": "",
@@ -9325,34 +9350,6 @@
       "WordPress Stats",
       "Workplace from Meta",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "canopyworkplace.com",
-    "title": "Canopy Workplace Partners",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 82413,
-    "crawled_at": "2025-12-26T15:19:38.332733384Z",
-    "technologies": [
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "University or College",
-      "WordPress SEO Structured Data Schema Plugin",
-      "Workplace from Meta",
-      "eLand"
     ]
   }
 ]
