@@ -1,5 +1,65 @@
 [
   {
+    "domain": "khashoggiholding.com",
+    "title": "Khashoggi Holding | خاشقجي القابضة",
+    "business_name": "",
+    "country": "SAU",
+    "seo_score": 65,
+    "tech_spend": 44938,
+    "crawled_at": "2026-08-11T05:29:30.796371298Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DatoCMS",
+      "Fireblade",
+      "Font Awesome",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "InitiativeS",
+      "LiteSpeed",
+      "Medium",
+      "QUIC",
+      "RM Education",
+      "Shutterstock",
+      "Tailwind CSS",
+      "TradingView",
+      "University or College",
+      "Unsplash",
+      "WordPress",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "venenzentrumcity.ch",
+    "title": "Venaesthetics - Venenpflege in Zürich",
+    "business_name": "",
+    "country": "CHE",
+    "seo_score": 87,
+    "tech_spend": 101126,
+    "crawled_at": "2026-08-11T00:39:53.626108982Z",
+    "technologies": [
+      "Astro",
+      "Content Delivery Network",
+      "DatoCMS",
+      "GZIP Module",
+      "Gomag",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "K2F",
+      "KVH",
+      "Netlify",
+      "No-Q",
+      "SMC",
+      "Subversion",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "themindmarket.com",
     "title": "Real human insights | MindMarket",
     "business_name": "MindMarket",
@@ -763,33 +823,6 @@
       "Twitter Ads",
       "Vercel",
       "Vimeo CDN"
-    ]
-  },
-  {
-    "domain": "venenzentrum-city.ch",
-    "title": "Venaesthetics - Venenpflege in Zürich",
-    "business_name": "",
-    "country": "CHE",
-    "seo_score": 62,
-    "tech_spend": 101126,
-    "crawled_at": "2026-08-04T16:35:03.414243803Z",
-    "technologies": [
-      "Astro",
-      "Content Delivery Network",
-      "DatoCMS",
-      "GZIP Module",
-      "Gomag",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "K2F",
-      "KVH",
-      "Netlify",
-      "No-Q",
-      "SMC",
-      "Subversion",
-      "UTF-8",
-      "shadcn ui"
     ]
   },
   {
@@ -14190,43 +14223,6 @@
       "WordPress Multisite",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "drigorramos.com",
-    "title": "DR Igor Ramos - Harmonização Orofacial",
-    "business_name": "Dr Igor Ramos",
-    "country": "BRA",
-    "seo_score": 82,
-    "tech_spend": 5886,
-    "crawled_at": "2026-04-21T05:20:19.985966377Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DatoCMS",
-      "Elementor",
-      "EmbedPress",
-      "Everest Forms",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Schema Plugin",
-      "Theme In WP",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "ZAKRA",
-      "jQuery"
     ]
   }
 ]
