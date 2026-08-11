@@ -1,5 +1,31 @@
 [
   {
+    "domain": "yellowdoggraphics.com",
+    "title": "Custom Signs, Banners, Wraps & Graphics in Fresno | Yellow Dog Signs & Graphics",
+    "business_name": "5741 N. 1st St.",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 5268,
+    "crawled_at": "2026-08-11T00:25:01.317658375Z",
+    "technologies": [
+      "Apache",
+      "Baidu Cloud",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Customer Reviews",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Python",
+      "QUIC",
+      "Site Search 360",
+      "Twitter Ads",
+      "UTF-8",
+      "Yandex Hosting"
+    ]
+  },
+  {
     "domain": "agileleadershipjourney.com",
     "title": "Agile Leadership Journey | Leadership Training for Organizations and Leaders",
     "business_name": "Agile Leadership Journey",
@@ -15918,28 +15944,6 @@
       "UTF-8",
       "ePages",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "centralasiacommerce.com",
-    "title": "CENTRAL ASIA COMMERCE - INTERNATIONAL BUSINESS RESOURCE AND DIRECTORY OF CENTRAL ASIA: KAZAKHSTAN, KYRGYZSTAN, TAJIKISTAN, TURKMENISTAN, UZBEKISTAN",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 468,
-    "crawled_at": "2026-04-05T16:11:19.978765824Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Google Adsense",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google Reseller",
-      "ISO/IEC 8859",
-      "Perl",
-      "Site Search 360",
-      "UTF-8",
-      "admitad"
     ]
   }
 ]
