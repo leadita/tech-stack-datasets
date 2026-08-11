@@ -1,5 +1,37 @@
 [
   {
+    "domain": "alif.my.id",
+    "title": "ALIF",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 7792,
+    "crawled_at": "2026-08-11T04:46:19.79109621Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon Link Enchancer",
+      "Amazon Widgets",
+      "ArvanCloud",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Google Adsense",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google My Business",
+      "Google Reseller",
+      "Google Retail Product Discovery",
+      "OLO",
+      "Oracle Cloud",
+      "Perl",
+      "Python",
+      "UTF-8",
+      "Vercel",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "linxmart.com.au",
     "title": "LinXmart - Data Linkage Solutions | Protect. Connect. Unlock.",
     "business_name": "LinXmart",
@@ -2997,38 +3029,6 @@
       "Plausible Analytics",
       "Stripe",
       "Ubuntu"
-    ]
-  },
-  {
-    "domain": "alifm.net",
-    "title": "ALIF",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 7792,
-    "crawled_at": "2026-05-11T22:44:53.937528549Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon Link Enchancer",
-      "Amazon Widgets",
-      "ArvanCloud",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Google Adsense",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google My Business",
-      "Google Reseller",
-      "Google Retail Product Discovery",
-      "OLO",
-      "Oracle Cloud",
-      "Perl",
-      "Python",
-      "UTF-8",
-      "Vercel",
-      "jsDelivr"
     ]
   },
   {

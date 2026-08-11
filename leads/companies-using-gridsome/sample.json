@@ -1,5 +1,43 @@
 [
   {
+    "domain": "bricklineconstructions.com.au",
+    "title": "Home - You Dream it, we build it - Brickline Constructions",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 50,
+    "tech_spend": 5000,
+    "crawled_at": "2026-08-11T20:39:18.288418806Z",
+    "technologies": [
+      "Gridsome",
+      "KVH",
+      "LiteSpeed",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "petite-hirondelle.de",
+    "title": "Petite Hirondelle",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 63,
+    "crawled_at": "2026-08-10T23:07:42.223074222Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Gatsby JS",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "QUIC",
+      "Sanity",
+      "Styled Components",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "innerstrengthathletics.com",
     "title": "Inner Strength Athletics - YOU VERSUS YOU",
     "business_name": "",
@@ -11958,40 +11996,6 @@
       "Twitter Ads",
       "UTF-8",
       "Unix"
-    ]
-  },
-  {
-    "domain": "treplabs.co",
-    "title": "Treplabs",
-    "business_name": "",
-    "country": "NGA",
-    "seo_score": 62,
-    "tech_spend": 40,
-    "crawled_at": "2026-01-31T10:19:48.884688957Z",
-    "technologies": [
-      "Apache",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gravity",
-      "Gridsome",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "onboard.com.ar",
-    "title": "ONBoard",
-    "business_name": "",
-    "country": "ARG",
-    "seo_score": 52,
-    "tech_spend": 99,
-    "crawled_at": "2026-01-31T08:43:48.87920502Z",
-    "technologies": [
-      "Apache",
-      "Font Awesome",
-      "GZIP Module",
-      "Gridsome"
     ]
   }
 ]

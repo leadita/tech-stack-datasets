@@ -1,5 +1,42 @@
 [
   {
+    "domain": "absolutelywriteone.com",
+    "title": "Writing Services | Absolutely Write | Canada",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 102828,
+    "crawled_at": "2026-08-11T03:43:40.170115947Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "DAV",
+      "Express",
+      "Fastly",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google My Business",
+      "Google Related Website Sites",
+      "NFOrce Internet",
+      "PWA",
+      "QUIC",
+      "SMC",
+      "Scully",
+      "Sentry",
+      "SiteW",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "Wix",
+      "Wix Media",
+      "YouTube",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "bcmf.co.uk",
     "title": "Bromley Chamber Music Festival | 16 - 18 October 2026",
     "business_name": "",
@@ -17463,31 +17500,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "annablissscully.com",
-    "title": "Anna Bliss Scully",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 1333,
-    "crawled_at": "2026-04-28T23:33:39.510990404Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Canva Websites",
-      "DAV",
-      "Express",
-      "GZIP Module",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Scully",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
