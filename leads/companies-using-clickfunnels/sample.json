@@ -1,5 +1,33 @@
 [
   {
+    "domain": "fyzuniversity.com",
+    "title": "FYZICAL University",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 1841,
+    "crawled_at": "2026-08-11T18:10:21.655782453Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Aruba",
+      "CDN JS",
+      "ClickFunnels",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Font API",
+      "UTF-8",
+      "University or College",
+      "eLand"
+    ]
+  },
+  {
     "domain": "deltajuliette331.com",
     "title": "Delta Juliette 331",
     "business_name": "",
@@ -198,42 +226,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "thebenazadiwebinar.com",
-    "title": "The Art of Fasting Webinar",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 17917,
-    "crawled_at": "2026-08-05T13:11:35.053959667Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "Aruba",
-      "CDN JS",
-      "ClickFunnels",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Placehold IT",
-      "UTF-8",
-      "Vimeo",
-      "Zoom",
-      "Zoom Video Conferencing",
-      "eLand"
     ]
   },
   {
