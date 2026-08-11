@@ -1,5 +1,50 @@
 [
   {
+    "domain": "wab420.pt",
+    "title": "WAB420® - #WAB420 Official: Instagram, X, Facebook, Twitter | Linktree",
+    "business_name": "",
+    "country": "ESP",
+    "seo_score": 87,
+    "tech_spend": 15064,
+    "crawled_at": "2026-08-11T02:43:46.11596937Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Dealer.com",
+      "Fastly",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Kitco",
+      "Linktree",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Nginx",
+      "Ntent",
+      "PWA",
+      "Pleroma",
+      "QUIC",
+      "Rakuten Affiliate",
+      "Shopify",
+      "Shopify Collabs",
+      "SiteW",
+      "Styled Components",
+      "Superfiliate",
+      "Tailwind CSS",
+      "Telegram",
+      "UTF-8",
+      "Yandex Hosting",
+      "YouTube",
+      "about.me",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "halloranpower.com",
     "title": "Halloran - Your Source for Outdoor Power Equipment",
     "business_name": "",
@@ -18968,30 +19013,6 @@
       "QUIC",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "re-stern.com",
-    "title": "R.E Stern | re-stern.com",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 5840,
-    "crawled_at": "2026-05-01T03:53:19.993558405Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Dealer.com",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Ntent",
-      "PHP",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]
