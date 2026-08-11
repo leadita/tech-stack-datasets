@@ -1,5 +1,60 @@
 [
   {
+    "domain": "preview2-dev1.b12.io",
+    "title": "Smart websites at your service | B12",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 34783,
+    "crawled_at": "2026-08-10T22:50:57.432584005Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon CloudFront",
+      "B12",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Django",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Intercom",
+      "Monster",
+      "OptinMonster",
+      "QUIC",
+      "Snowplow",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "kulinarikideen.ch",
+    "title": "Kulinarikideen – Kreative Rezepte und kulinarische Inspirationen",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 87,
+    "tech_spend": 5568,
+    "crawled_at": "2026-08-10T16:02:55.227023199Z",
+    "technologies": [
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Django",
+      "Gambling Content",
+      "IcoMoon",
+      "Krypt Technologies",
+      "QUIC",
+      "Tailwind CSS",
+      "UPS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "thumpcase.com",
     "title": "ThumpCase -Loudest Portable Speakers Boom boxes",
     "business_name": "",
@@ -129,34 +184,6 @@
       "Google My Business",
       "QUIC",
       "University or College"
-    ]
-  },
-  {
-    "domain": "summitnode.us",
-    "title": "SummitNode: Expert Insights on Web Development and Digital Innovation",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 87,
-    "tech_spend": 35468,
-    "crawled_at": "2026-08-08T18:30:43.419243981Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "DAV",
-      "Django",
-      "E37",
-      "Express",
-      "Gambling Content",
-      "IcoMoon",
-      "Krypt Technologies",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "jQuery"
     ]
   },
   {
@@ -4647,37 +4674,6 @@
       "Vector Internet Services",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "nocode-plugin-dev1.b12.io",
-    "title": "Smart websites at your service | B12",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 34783,
-    "crawled_at": "2026-04-18T05:32:19.989868261Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon CloudFront",
-      "B12",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Django",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Intercom",
-      "Monster",
-      "OptinMonster",
-      "QUIC",
-      "Snowplow",
-      "jQuery"
     ]
   },
   {
@@ -9644,36 +9640,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "vempro.io",
-    "title": "VisEmpro - Smart Workforce Management",
-    "business_name": "",
-    "country": "LBR",
-    "seo_score": 77,
-    "tech_spend": 17927,
-    "crawled_at": "2025-12-26T09:13:38.316794004Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "BootstrapMade",
-      "Cloudflare",
-      "Django",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "PHP",
-      "PWA",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8"
     ]
   }
 ]
