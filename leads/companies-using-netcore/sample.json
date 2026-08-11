@@ -486,28 +486,5 @@
       "YouTube",
       "jQuery"
     ]
-  },
-  {
-    "domain": "taaha.in",
-    "title": "Taaha Multani",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 10648,
-    "crawled_at": "2025-12-26T19:52:38.358678429Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Linktree",
-      "Medium",
-      "Microsoft Clarity",
-      "Netcore Cloud",
-      "UTF-8",
-      "Vercel"
-    ]
   }
 ]
