@@ -1,5 +1,51 @@
 [
   {
+    "domain": "rivamh.com",
+    "title": "In-Person & Online Therapy In Redwood City, CA | Riva Mental Health",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 41132,
+    "crawled_at": "2026-08-11T16:42:16.261076302Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Anti-spam for WordPress",
+      "CDN JS",
+      "CleanTalk Spam Protect",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Contact Form Plugin",
+      "Content Delivery Network",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Prospective",
+      "Site Kit",
+      "Theme In WP",
+      "UTF-8",
+      "WP Job Openings",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "ZocDoc",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "carolstream.dental",
     "title": "Dentist Carol Stream | Lane Dental",
     "business_name": "Lane Dental",
@@ -18391,31 +18437,6 @@
       "WordPress Multisite",
       "ZocDoc",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "jiaofengclinic.com",
-    "title": "Home | Adult and Geriatric Primary Care - JIAOFENG CLINIC",
-    "business_name": "JIAOFENG CLINIC LLC",
-    "country": "",
-    "seo_score": 82,
-    "tech_spend": 21747,
-    "crawled_at": "2026-05-18T11:56:19.979651646Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Coming Soon Page",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "PWA",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight",
-      "ZocDoc"
     ]
   }
 ]
