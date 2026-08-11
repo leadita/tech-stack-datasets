@@ -1,5 +1,35 @@
 [
   {
+    "domain": "property-srilanka.com",
+    "title": "Apartments for Sale in Sri Lanka - Luxury Beach Property",
+    "business_name": "",
+    "country": "LKA",
+    "seo_score": 77,
+    "tech_spend": 17463,
+    "crawled_at": "2026-08-10T17:19:05.250325723Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Autoptimize",
+      "Cloudflare",
+      "Content Delivery Network",
+      "DoubleClick Bid Manager",
+      "EmbedPress",
+      "Google Analytics",
+      "Google Flights Conversion Tracking",
+      "Google Tag Manager",
+      "PHP",
+      "StudioPress",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "Wangsu",
+      "WordPress",
+      "WordPress Multisite",
+      "Zoho CRM",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "superwhitetigerconnections.com",
     "title": "CPA Firm M&A, Succession & Expansion | White Tiger Connections",
     "business_name": "White Tiger Connections",
@@ -10102,36 +10132,6 @@
       "accessiBe",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "kristall-spaces.com",
-    "title": "Kristall Spaces Lanka – About",
-    "business_name": "",
-    "country": "LKA",
-    "seo_score": 72,
-    "tech_spend": 17463,
-    "crawled_at": "2026-05-08T04:20:20.003717076Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Autoptimize",
-      "Cloudflare",
-      "Content Delivery Network",
-      "DoubleClick Bid Manager",
-      "EmbedPress",
-      "Google Analytics",
-      "Google Flights Conversion Tracking",
-      "Google Tag Manager",
-      "PHP",
-      "StudioPress",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "Wangsu",
-      "WordPress",
-      "WordPress Multisite",
-      "Zoho CRM",
-      "jQuery"
     ]
   },
   {
