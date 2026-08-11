@@ -1,5 +1,21 @@
 [
   {
+    "domain": "newslettersystem.nl",
+    "title": "Ronald. Smart Marketing automation & newslettersystem",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 55,
+    "tech_spend": 264,
+    "crawled_at": "2026-08-10T20:24:48.895411547Z",
+    "technologies": [
+      "Apache",
+      "Parallels Plesk Panel",
+      "RightSignature",
+      "Tailwind CSS",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "tampamedicalcollege.org",
     "title": "Nursing School in Tampa, FL | Tampa Medical College",
     "business_name": "",
@@ -2141,22 +2157,6 @@
       "UTF-8",
       "YouTube",
       "cstate"
-    ]
-  },
-  {
-    "domain": "newslettersystem.nl",
-    "title": "Ronald. Smart Marketing automation & newslettersystem",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 55,
-    "tech_spend": 264,
-    "crawled_at": "2025-12-26T11:40:38.312122098Z",
-    "technologies": [
-      "Apache",
-      "Parallels Plesk Panel",
-      "RightSignature",
-      "Tailwind CSS",
-      "jQuery"
     ]
   }
 ]
