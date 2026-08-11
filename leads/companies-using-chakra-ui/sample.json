@@ -1,5 +1,158 @@
 [
   {
+    "domain": "boringautomation.co.uk",
+    "title": "Start Scaling Your Business | Boring Automation",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 240,
+    "crawled_at": "2026-08-11T12:01:51.138555025Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Better Lead Generation Services",
+      "Chakra UI",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Next.js",
+      "Pico CSS",
+      "Pleroma",
+      "QUIC",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "cassetteai.com",
+    "title": "CassetteAI · Real-time generative audio, on device",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 3640,
+    "crawled_at": "2026-08-11T10:41:57.647535493Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Chakra UI",
+      "Content Delivery Network",
+      "Express",
+      "Figma",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "bytelag.com",
+    "title": "Bytelag | Stand out now",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-08-11T09:43:23.214639319Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "tgraewe.dev",
+    "title": "Tom's - Homepage",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 50,
+    "tech_spend": 3,
+    "crawled_at": "2026-08-11T08:51:02.811523096Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Next.js",
+      "UTF-8",
+      "University or College",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "bearmind.tech",
+    "title": "Bearmind - Keep your head in the game",
+    "business_name": "",
+    "country": "CHE",
+    "seo_score": 77,
+    "tech_spend": 23200,
+    "crawled_at": "2026-08-11T03:48:53.873576142Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Chakra UI",
+      "Content Delivery Network",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Next.js",
+      "Pleroma",
+      "RM Education",
+      "Typeform",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "elevateni.com",
+    "title": "ElevateNI",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 15228,
+    "crawled_at": "2026-08-10T22:36:10.215097362Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Chakra UI",
+      "Content Delivery Network",
+      "Instagram Follow Button",
+      "Netlify",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "project9.xyz",
+    "title": "Project 9",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-08-10T16:55:13.515623843Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Express",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "digitalbux.co.uk",
     "title": "DigitalWare Agency",
     "business_name": "",
@@ -3488,31 +3641,6 @@
       "Next.js",
       "Nginx",
       "Pleroma",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "bearmind.ch",
-    "title": "Bearmind - Keep your head in the game",
-    "business_name": "",
-    "country": "CHE",
-    "seo_score": 82,
-    "tech_spend": 23200,
-    "crawled_at": "2026-06-01T14:01:24.892026794Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Chakra UI",
-      "Content Delivery Network",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Next.js",
-      "Pleroma",
-      "RM Education",
-      "Typeform",
       "UTF-8"
     ]
   },
@@ -8014,29 +8142,6 @@
       "Website Tonight",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "vehiclerecommendationengine.com",
-    "title": "Start Scaling Your Business | Boring Automation",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 240,
-    "crawled_at": "2026-05-15T05:56:19.980370667Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Better Lead Generation Services",
-      "Chakra UI",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Next.js",
-      "Pico CSS",
-      "Pleroma",
-      "QUIC",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {
@@ -12718,133 +12823,6 @@
       "Underscores",
       "University or College",
       "WhatsApp Sharing"
-    ]
-  },
-  {
-    "domain": "cloudsetters.com",
-    "title": "Cloudsetters",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 6103,
-    "crawled_at": "2026-05-07T08:59:20.000414006Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Next.js",
-      "Pleroma",
-      "Stripe",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "getbable.com",
-    "title": "Bable - Home",
-    "business_name": "",
-    "country": "PER",
-    "seo_score": 67,
-    "tech_spend": 4240,
-    "crawled_at": "2026-05-07T08:44:19.99791347Z",
-    "technologies": [
-      "Chakra UI",
-      "Cloudinary",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "talkio.ai",
-    "title": "Talkio AI | Practice Language with AI",
-    "business_name": "Talkio AI",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 34924,
-    "crawled_at": "2026-05-07T06:35:20.011489256Z",
-    "technologies": [
-      "Brevo",
-      "ByteDance",
-      "Chakra UI",
-      "Content Delivery Network",
-      "DAV",
-      "Express",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Fireblade",
-      "GZIP Module",
-      "Giropay",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LinkedIn Insights",
-      "LinkedIn Pixel",
-      "NFOrce Internet",
-      "Next.js",
-      "Nginx",
-      "Pleroma",
-      "Product Hunt",
-      "TikTok Conversion Tracking Pixel",
-      "Twitter Ads",
-      "UTF-8",
-      "Ubuntu",
-      "VWO Engage",
-      "Vector Internet Services",
-      "Visual Website Optimizer",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "ssaisreenivas.in",
-    "title": "Sreenivas Sonthena — Engineer, Designer, Builder",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 1440,
-    "crawled_at": "2026-05-07T05:05:20.009543829Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Figma",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "connected-japan.info",
-    "title": "connected",
-    "business_name": "",
-    "country": "",
-    "seo_score": 25,
-    "tech_spend": 798,
-    "crawled_at": "2026-05-07T03:41:20.000264449Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Fastly",
-      "Instagram Follow Button",
-      "Next.js",
-      "No-Q",
-      "UTF-8"
     ]
   }
 ]
