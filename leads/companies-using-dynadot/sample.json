@@ -1,5 +1,27 @@
 [
   {
+    "domain": "anemdn.com",
+    "title": "An EMDN",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 36,
+    "crawled_at": "2026-08-11T18:55:01.576090547Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "workpermit.org",
     "title": "Digital Real Estate Specialist",
     "business_name": "",
@@ -206,28 +228,6 @@
       "NFOrce Internet",
       "UTF-8",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "fightingsixty.com",
-    "title": "An EMDN - Fighting Sixty, Martial Arts Combat Sports Team Spirit Strength Discipline Training Motivation Fitness Empowerment",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 36,
-    "crawled_at": "2026-08-04T08:58:28.533819989Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "UTF-8"
     ]
   },
   {
@@ -4925,41 +4925,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "stedingconstruction.com",
-    "title": "Steding Carpentry and Construction",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 135,
-    "crawled_at": "2025-12-27T09:16:38.340413284Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "logicalpicture.ai",
-    "title": "logicalpicture.ai",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 135,
-    "crawled_at": "2025-12-27T01:43:38.335159774Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8"
     ]
   }
 ]
