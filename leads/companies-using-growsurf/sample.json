@@ -1315,41 +1315,5 @@
       "jQuery",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "cistickavody-wellnet.sk",
-    "title": "Minőségi ivóvíz a csapvízből",
-    "business_name": "",
-    "country": "HUN",
-    "seo_score": 70,
-    "tech_spend": 32616,
-    "crawled_at": "2025-12-27T07:25:38.327945993Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon S3 CDN",
-      "Apache",
-      "Apture Linking Platform",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "CookieConsent",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "GrowSurf",
-      "KVH",
-      "Ntent",
-      "Perl",
-      "SalesAutopilot",
-      "Storyblocks",
-      "Tailwind CSS",
-      "TrustIndex",
-      "YouTube"
-    ]
   }
 ]
