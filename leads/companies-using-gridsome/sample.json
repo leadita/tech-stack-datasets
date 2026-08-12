@@ -1,5 +1,25 @@
 [
   {
+    "domain": "vobt.co.uk",
+    "title": "- VOBT Properties",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 50,
+    "tech_spend": 5099,
+    "crawled_at": "2026-08-12T04:36:43.489561553Z",
+    "technologies": [
+      "Content Delivery Network",
+      "CoreUI",
+      "DAV",
+      "Gridsome",
+      "Instagram Follow Button",
+      "M247",
+      "Netlify",
+      "Sanity",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "bricklineconstructions.com.au",
     "title": "Home - You Dream it, we build it - Brickline Constructions",
     "business_name": "",
@@ -11975,27 +11995,6 @@
       "Tailwind CSS",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "wiyogo.com",
-    "title": "WIYOGO TECH - Wiyogo Tech",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 70,
-    "tech_spend": 15000,
-    "crawled_at": "2026-01-31T13:24:31.200092419Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Gridsome",
-      "Nginx",
-      "PHP",
-      "Python",
-      "Twitter Ads",
-      "UTF-8",
-      "Unix"
     ]
   }
 ]

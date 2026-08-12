@@ -1,5 +1,24 @@
 [
   {
+    "domain": "embeddedexp.com",
+    "title": "Bringing Hands-On Technology to Classrooms | Embedded EXP",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 200,
+    "crawled_at": "2026-08-12T11:08:13.036926954Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Perl"
+    ]
+  },
+  {
     "domain": "alif.my.id",
     "title": "ALIF",
     "business_name": "",
@@ -12668,39 +12687,6 @@
       "Perl",
       "Telegram",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "dancarlton.com",
-    "title": "Dan Carlton",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 27246,
-    "crawled_at": "2026-03-14T11:47:17.062676507Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Express",
-      "Figma",
-      "Font Awesome",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Netlify",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "Vercel",
-      "YouTube",
-      "monday.com"
     ]
   }
 ]
