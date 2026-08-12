@@ -1,5 +1,31 @@
 [
   {
+    "domain": "episcopalconnections.com",
+    "title": "Episcopal Connections: The Church Club of New York",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 79333,
+    "crawled_at": "2026-08-12T12:45:55.351738663Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Corporate Governance and Regulatory Compliance",
+      "Express",
+      "GZIP Module",
+      "Kindful",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "charitablefoundationoftheislands.org",
     "title": "Charitable Foundation of the Islands",
     "business_name": "Charitable Foundation of the Islands",
@@ -3569,32 +3595,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "episcopal-connections.org",
-    "title": "Episcopal Connections: The Church Club of New York",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 79333,
-    "crawled_at": "2026-05-25T05:42:06.057168055Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Corporate Governance and Regulatory Compliance",
-      "Express",
-      "GZIP Module",
-      "Kindful",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   },
   {
