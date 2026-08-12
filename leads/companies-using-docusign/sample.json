@@ -1,5 +1,31 @@
 [
   {
+    "domain": "truescentk9.com",
+    "title": "TrueScent K-9 Training Aids",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 8476,
+    "crawled_at": "2026-08-11T18:04:33.707405251Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Apture Linking Platform",
+      "Baidu Cloud",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DocuSign",
+      "Express",
+      "Google Cloud DNS",
+      "Shopify",
+      "Shopify Collabs",
+      "UTF-8",
+      "Yandex Hosting",
+      "hCaptcha",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "nelsonconnects.com",
     "title": "Staffing Agency and Recruitment Services | Nelson Connects",
     "business_name": "",
@@ -12054,31 +12080,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "truescentk9.com",
-    "title": "TrueScent K-9 Training Aids",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 6076,
-    "crawled_at": "2025-12-26T23:46:18.446217967Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DocuSign",
-      "Express",
-      "Google Cloud DNS",
-      "Shopify",
-      "Shopify Collabs",
-      "UTF-8",
-      "hCaptcha",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
