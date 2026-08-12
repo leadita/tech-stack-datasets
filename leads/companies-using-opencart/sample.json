@@ -1,5 +1,81 @@
 [
   {
+    "domain": "lionode.com",
+    "title": "lionode - professional ecommerce designers and developers",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 75040,
+    "crawled_at": "2026-08-12T12:27:36.516800931Z",
+    "technologies": [
+      "Apache",
+      "CDN JS",
+      "Cart.com",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "OpenCart",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "reprezent.ro",
+    "title": "Reprezent — Streetwear & Urban Fashion",
+    "business_name": "",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 77539,
+    "crawled_at": "2026-08-12T05:12:28.054150447Z",
+    "technologies": [
+      "CDN JS",
+      "Cart.com",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fastly",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Nginx",
+      "OpenCart",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "indiamedicart.com",
+    "title": "India MediCart | Buy Medical Equipment, Accessories, and Consumables Online",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 75040,
+    "crawled_at": "2026-08-11T22:37:15.219592203Z",
+    "technologies": [
+      "Cart.com",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Nginx",
+      "OpenCart",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "ocelectro.com",
     "title": "Welcome To The Electronics Website",
     "business_name": "",
@@ -12155,78 +12231,6 @@
       "WhatsApp Sharing",
       "WordPress",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "noahandtheo.co.uk",
-    "title": "Noah And Theo",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 76060,
-    "crawled_at": "2026-05-07T23:20:19.994633078Z",
-    "technologies": [
-      "Apache",
-      "Cart.com",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Iubenda",
-      "OSS CDN",
-      "OpenCart",
-      "PHP",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "designeleganceinterio.in",
-    "title": "Design Elegance Interio, Godrej Furniture, Godrej Home & Commercial Products, Godrej Locker and Safe Dealer Distributors in Mumbai, India",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 75040,
-    "crawled_at": "2026-05-07T18:44:39.491409378Z",
-    "technologies": [
-      "Apache",
-      "Cart.com",
-      "Express",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "c4npro.com",
-    "title": "C4N",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 30147,
-    "crawled_at": "2026-05-07T17:17:20.014142013Z",
-    "technologies": [
-      "Cart.com",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Nginx",
-      "OpenCart",
-      "PHP",
-      "Parallels Plesk Panel",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
