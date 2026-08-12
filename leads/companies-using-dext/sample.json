@@ -5782,42 +5782,5 @@
       "eLand",
       "jQuery"
     ]
-  },
-  {
-    "domain": "bamfinancial.com.au",
-    "title": "B&M Financial Group Pty Ltd - Accounting, Business, and CFO Services in Gold Coast",
-    "business_name": "Senior & Junior",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 6122,
-    "crawled_at": "2025-12-27T09:31:38.324851877Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Dext",
-      "EmbedPress",
-      "Fastly",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Maps",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Gravity",
-      "Gravity Forms",
-      "Jetpack",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Sapper",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "Xero",
-      "jQuery",
-      "reCAPTCHA"
-    ]
   }
 ]
