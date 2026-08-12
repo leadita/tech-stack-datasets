@@ -1,5 +1,30 @@
 [
   {
+    "domain": "healthbase.com.au",
+    "title": "healthbase.com.au",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 15786,
+    "crawled_at": "2026-08-12T09:27:03.237021366Z",
+    "technologies": [
+      "AB Tasty",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "DAV",
+      "Fastly",
+      "GZIP Module",
+      "Help.com",
+      "Nginx",
+      "Ntent",
+      "SmartyStreets",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "gsd.net",
     "title": "Home - Award Winning Agency - Graham Shapiro Design",
     "business_name": "Graham Shapiro Design",
@@ -611,32 +636,6 @@
       "WordPress Stats",
       "Zenchef",
       "eLand"
-    ]
-  },
-  {
-    "domain": "covey.ns.ca",
-    "title": "pccovey",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 23286,
-    "crawled_at": "2026-08-03T21:36:10.831429795Z",
-    "technologies": [
-      "AB Tasty",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CloudFront",
-      "Content Delivery Network",
-      "Fastly",
-      "Fireblade",
-      "GZIP Module",
-      "Help.com",
-      "Nginx",
-      "Ntent",
-      "QUIC",
-      "SmartyStreets",
-      "UTF-8"
     ]
   },
   {
