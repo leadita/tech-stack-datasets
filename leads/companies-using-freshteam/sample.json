@@ -1,5 +1,34 @@
 [
   {
+    "domain": "fleetstudio.net",
+    "title": "Fleet Studio | Building superior product experiences that make a difference",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 65,
+    "tech_spend": 29632,
+    "crawled_at": "2026-08-12T11:43:00.061283152Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon S3 CDN",
+      "Express",
+      "Freshteam",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "HubSpot Conversations",
+      "Hubspot",
+      "Instagram Follow Button",
+      "Nginx",
+      "Storyblocks",
+      "Twitter Ads",
+      "UTF-8",
+      "Ubuntu"
+    ]
+  },
+  {
     "domain": "incentius.com",
     "title": "Home - Incentius - Enable Digital Transformation",
     "business_name": "",
@@ -1208,35 +1237,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "fleetstudio.com",
-    "title": "Fleet Studio | Building superior product experiences that make a difference",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 65,
-    "tech_spend": 29632,
-    "crawled_at": "2026-04-25T16:29:20.015805574Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon S3 CDN",
-      "Express",
-      "Freshteam",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "HubSpot Conversations",
-      "Hubspot",
-      "Instagram Follow Button",
-      "Nginx",
-      "Storyblocks",
-      "Twitter Ads",
-      "UTF-8",
-      "Ubuntu"
     ]
   },
   {

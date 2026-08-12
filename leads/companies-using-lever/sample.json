@@ -1,5 +1,32 @@
 [
   {
+    "domain": "madebyzine.com",
+    "title": "Zine | Creative and Product Design Leader",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 136973,
+    "crawled_at": "2026-08-12T06:15:31.402791085Z",
+    "technologies": [
+      "Aruba",
+      "Contento",
+      "Express",
+      "GZIP Module",
+      "K2F",
+      "Lever",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "convai.com",
     "title": "Convai - Conversational AI for Virtual Worlds",
     "business_name": "",
@@ -3067,36 +3094,6 @@
       "UTF-8",
       "Vector Internet Services",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "paularosine.net",
-    "title": "Zine | Creative and Product Design Leader",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 139413,
-    "crawled_at": "2026-05-10T07:08:32.703568782Z",
-    "technologies": [
-      "Aruba",
-      "Contento",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "K2F",
-      "Lever",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   },
   {
