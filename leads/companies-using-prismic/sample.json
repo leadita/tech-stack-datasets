@@ -1,5 +1,25 @@
 [
   {
+    "domain": "intergalacticstudios.com",
+    "title": "Intergalactic – Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": "",
+    "crawled_at": "2026-08-12T08:52:39.333881558Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "Prismic",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "nourgam.com",
     "title": "Nourgam",
     "business_name": "",
@@ -13582,24 +13602,6 @@
       "Prismic",
       "Sitelinks Search Box",
       "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "ebtrenchless.ca",
-    "title": "EBTrenchless",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2026-04-14T17:32:20.01169554Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Google My Business",
-      "Next.js",
-      "Prismic",
       "UTF-8",
       "Vercel"
     ]
