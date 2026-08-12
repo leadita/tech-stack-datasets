@@ -3018,36 +3018,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "healthfornuba.com",
-    "title": "Nuba",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 23328,
-    "crawled_at": "2025-12-27T17:13:38.315207082Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Investor Relations",
-      "KVH",
-      "LeadPages",
-      "Ntent",
-      "Tailwind CSS",
-      "University or College",
-      "WordPress",
-      "YouTube",
-      "eLand"
-    ]
   }
 ]
