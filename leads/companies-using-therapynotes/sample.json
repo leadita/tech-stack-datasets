@@ -1,5 +1,30 @@
 [
   {
+    "domain": "stoneivycounseling.com",
+    "title": "Stone and Ivy Relationship Counseling – Individual & Couples Counseling",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 17315,
+    "crawled_at": "2026-08-12T14:45:11.262729536Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Automattic",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "Nginx",
+      "Perl",
+      "TherapyNotes",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats"
+    ]
+  },
+  {
     "domain": "infinitybillingrs.com",
     "title": "Infinity Billing & Recovery Services, LLC",
     "business_name": "Infinity Billing & Recovery Services, LLC",
@@ -5769,66 +5794,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "stoneivycounseling.com",
-    "title": "Stone and Ivy Relationship Counseling – Individual & Couples Counseling",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 17315,
-    "crawled_at": "2025-12-27T15:22:38.338573632Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Automattic",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Nginx",
-      "Perl",
-      "TherapyNotes",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats"
-    ]
-  },
-  {
-    "domain": "dltdesignsolutions.com",
-    "title": "DLT Design Solutions | Start Your Website Today",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 100120,
-    "crawled_at": "2025-12-27T15:19:38.314673697Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Accordion Blocks",
-      "Apture Linking Platform",
-      "Aruba",
-      "Coming Soon Page",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "TherapyNotes",
-      "TidyCal",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
