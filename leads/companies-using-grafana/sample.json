@@ -1,23 +1,18 @@
 [
   {
-    "domain": "stacjameteommz.pl",
+    "domain": "sms-metrics.com",
     "title": "Grafana",
     "business_name": "",
     "country": "",
-    "seo_score": 40,
-    "tech_spend": 1260,
-    "crawled_at": "2026-06-11T02:23:19.969220081Z",
+    "seo_score": 30,
+    "tech_spend": 1458,
+    "crawled_at": "2026-08-12T14:06:55.938056029Z",
     "technologies": [
       "Barchart",
       "Express",
-      "GZIP Module",
       "GitHub Hosting",
-      "Google Analytics",
-      "Google Forms",
-      "Google My Business",
-      "Google Tag Manager",
       "Grafana",
-      "Nginx",
+      "No-Q",
       "UTF-8",
       "Yandex Hosting"
     ]
@@ -43,19 +38,23 @@
     ]
   },
   {
-    "domain": "gatewaypavingca.net",
+    "domain": "datamonitors.info",
     "title": "Grafana",
     "business_name": "",
     "country": "",
-    "seo_score": 30,
-    "tech_spend": "",
-    "crawled_at": "2026-05-31T16:26:19.969149886Z",
+    "seo_score": 35,
+    "tech_spend": 1200,
+    "crawled_at": "2026-06-02T21:41:22.61499994Z",
     "technologies": [
-      "Apache",
+      "Barchart",
+      "Express",
+      "GZIP Module",
       "GitHub Hosting",
+      "Google My Business",
       "Grafana",
       "Nginx",
-      "UTF-8"
+      "UTF-8",
+      "Ubuntu"
     ]
   },
   {
