@@ -8338,38 +8338,5 @@
       "Yummly",
       "jQuery"
     ]
-  },
-  {
-    "domain": "digitalcauseway.org",
-    "title": "The Digital Causeway Programme",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 11119,
-    "crawled_at": "2025-12-27T19:40:38.320040347Z",
-    "technologies": [
-      "Alternate Protocol",
-      "BLR",
-      "Buffer",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Forms",
-      "Google My Business",
-      "Line2",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "Photo Gallery by FooGallery",
-      "QUIC",
-      "QUIC.cloud",
-      "Tailwind CSS",
-      "Tumblr",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite"
-    ]
   }
 ]
