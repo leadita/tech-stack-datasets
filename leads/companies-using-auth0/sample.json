@@ -1,5 +1,34 @@
 [
   {
+    "domain": "sassoononline.com",
+    "title": "Sassoon Online | 240+ Haircut Tutorials and Training",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 87,
+    "tech_spend": 9110,
+    "crawled_at": "2026-08-13T03:42:48.990977509Z",
+    "technologies": [
+      "Aruba",
+      "Auth0",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Schema Plugin",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "accessiBe",
+      "eLand"
+    ]
+  },
+  {
     "domain": "expoportal.com",
     "title": "ExpoPortal Login",
     "business_name": "",
@@ -22435,39 +22464,6 @@
       "Vercel",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "iesf.gg",
-    "title": "IESF",
-    "business_name": "",
-    "country": "PRK",
-    "seo_score": 60,
-    "tech_spend": 2423,
-    "crawled_at": "2026-02-26T19:05:31.279524741Z",
-    "technologies": [
-      "Auth0",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Content Delivery Network",
-      "DAV",
-      "Digital Ocean Spaces",
-      "FormSubmit",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Instagram Follow Button",
-      "Krypt Technologies",
-      "Next.js",
-      "Ntent",
-      "Pleroma",
-      "Plivo",
-      "Scully",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "eLand",
-      "shadcn ui"
     ]
   }
 ]
