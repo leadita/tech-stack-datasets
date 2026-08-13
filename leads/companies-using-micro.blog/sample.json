@@ -1,5 +1,28 @@
 [
   {
+    "domain": "martijn.se",
+    "title": "Martijn van der Ven",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 1273,
+    "crawled_at": "2026-08-12T20:44:56.128493676Z",
+    "technologies": [
+      "Community",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Micro.blog",
+      "Nginx",
+      "Pinboard",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "stoneman.blog",
     "title": "short links for markstoneman.com",
     "business_name": "",
@@ -8058,29 +8081,6 @@
       "WordPress Multisite",
       "WordPress Stats",
       "eLand"
-    ]
-  },
-  {
-    "domain": "martijn.se",
-    "title": "Martijn van der Ven",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 1273,
-    "crawled_at": "2025-12-27T19:16:38.348007539Z",
-    "technologies": [
-      "Community",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Micro.blog",
-      "Nginx",
-      "Pinboard",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]
