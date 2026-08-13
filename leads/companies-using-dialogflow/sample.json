@@ -1,5 +1,37 @@
 [
   {
+    "domain": "marcelinomayorga.com",
+    "title": "Marcelino Mayorga Quesada - AI, ML & Software Engineer",
+    "business_name": "",
+    "country": "CRI",
+    "seo_score": 77,
+    "tech_spend": 27200,
+    "crawled_at": "2026-08-12T14:45:11.276531252Z",
+    "technologies": [
+      "Apache",
+      "Calendly",
+      "Dialogflow",
+      "GitHub Buttons Official",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud",
+      "Google Cloud CDN",
+      "IcoMoon",
+      "NFOrce Internet",
+      "Ntent",
+      "OLO",
+      "Python",
+      "QUIC",
+      "RawGit",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "WhatsApp Sharing",
+      "WordPress",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "dalave.com",
     "title": "Dalave – Leading the way",
     "business_name": "",
@@ -9898,38 +9930,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "marcelinomayorga.com",
-    "title": "Marcelino Mayorga Quesada - AI, ML & Software Engineer",
-    "business_name": "",
-    "country": "CRI",
-    "seo_score": 72,
-    "tech_spend": 27200,
-    "crawled_at": "2025-12-27T15:25:38.326120308Z",
-    "technologies": [
-      "Apache",
-      "Calendly",
-      "Dialogflow",
-      "GitHub Buttons Official",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud",
-      "Google Cloud CDN",
-      "IcoMoon",
-      "NFOrce Internet",
-      "Ntent",
-      "OLO",
-      "Python",
-      "QUIC",
-      "RawGit",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "WhatsApp Sharing",
-      "WordPress",
-      "YouTube"
     ]
   }
 ]
