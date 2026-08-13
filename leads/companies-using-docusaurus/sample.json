@@ -1,5 +1,53 @@
 [
   {
+    "domain": "bifromq.io",
+    "title": "Apache BifroMQ (Incubating) – An Open-Source Apache MQTT Broker",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 4800,
+    "crawled_at": "2026-08-13T14:40:27.651654629Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Baidu Ads",
+      "Baidu Cloud",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Perl",
+      "QUIC"
+    ]
+  },
+  {
+    "domain": "excelifier.com",
+    "title": "Excelifier | Excelifier",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 93058,
+    "crawled_at": "2026-08-13T06:29:29.333618479Z",
+    "technologies": [
+      "Alternate Protocol",
+      "DAV",
+      "Docusaurus",
+      "Financial Services Guide",
+      "GitHub Hosting",
+      "KVH",
+      "No-Q",
+      "Onyx Internet",
+      "Perl",
+      "Phew",
+      "Plausible Analytics",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "embeddedexp.com",
     "title": "Bringing Hands-On Technology to Classrooms | Embedded EXP",
     "business_name": "",
@@ -12639,54 +12687,6 @@
       "Pleroma",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "pjaworskidev.com",
-    "title": "Patryk Jaworski – Frontend & Mobile Developer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 10092,
-    "crawled_at": "2026-03-16T04:07:48.069951915Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Idaq",
-      "Line2",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "UTF-8",
-      "Vector Internet Services"
-    ]
-  },
-  {
-    "domain": "mashku.pro",
-    "title": "Mariia Kulikova | Masha K",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 4840,
-    "crawled_at": "2026-03-14T23:51:33.037442469Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Perl",
-      "Telegram",
-      "UTF-8"
     ]
   }
 ]
