@@ -1,5 +1,32 @@
 [
   {
+    "domain": "shopstory.io",
+    "title": "Creá tu tienda en internet | Shop Story",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 2680,
+    "crawled_at": "2026-08-13T10:58:30.830026804Z",
+    "technologies": [
+      "Angular",
+      "Chakra UI",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Next.js",
+      "PWA",
+      "Perl",
+      "Pleroma",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "schemamap.io",
     "title": "Schemamap.io - Sync data from any Postgres DB to another",
     "business_name": "",
@@ -12791,29 +12818,6 @@
       "UTF-8",
       "Vercel",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "jlee.cool",
-    "title": "retrospct | Hyperpage",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 1188,
-    "crawled_at": "2026-05-07T22:06:18.285786282Z",
-    "technologies": [
-      "Chakra UI",
-      "Cloudinary",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Next.js",
-      "Ntent",
-      "Pleroma",
-      "Twitch",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
