@@ -1,5 +1,25 @@
 [
   {
+    "domain": "sportsmemorabilias.com",
+    "title": "Digital Real Estate Specialist",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 3236,
+    "crawled_at": "2026-08-13T03:42:49.001937479Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Prospective",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "anemdn.com",
     "title": "An EMDN",
     "business_name": "",
@@ -18,26 +38,6 @@
       "Google Tag Manager",
       "Microdata for Google Shopping",
       "Microsoft Clarity",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "workpermit.org",
-    "title": "Digital Real Estate Specialist",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 3236,
-    "crawled_at": "2026-08-09T22:34:28.157206699Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Prospective",
       "UTF-8"
     ]
   },
