@@ -1,5 +1,24 @@
 [
   {
+    "domain": "agmpolytechnic.edu.in",
+    "title": "TOP Polytechnic in Hubli Dharwad",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 156,
+    "crawled_at": "2026-08-12T12:19:24.45657634Z",
+    "technologies": [
+      "Apache",
+      "Bulma",
+      "Commission Junction",
+      "GZIP Module",
+      "IcoMoon",
+      "QUIC",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "canvascamp.co.nz",
     "title": "CanvasCamp | Durable Canvas Tents for Ultimate Comfort",
     "business_name": "CanvasCamp Australia",
@@ -13892,24 +13911,6 @@
       "UTF-8",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "agmpolytechnic.edu.in",
-    "title": "TOP Polytechnic in Hubli Dharwad",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 156,
-    "crawled_at": "2025-12-27T13:40:38.321213846Z",
-    "technologies": [
-      "Apache",
-      "Bulma",
-      "Commission Junction",
-      "GZIP Module",
-      "IcoMoon",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]
