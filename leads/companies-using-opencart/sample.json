@@ -1,5 +1,66 @@
 [
   {
+    "domain": "robustdc.com",
+    "title": "Robust DataComm",
+    "business_name": "",
+    "country": "SGP",
+    "seo_score": 57,
+    "tech_spend": 37500,
+    "crawled_at": "2026-08-13T11:57:53.177209305Z",
+    "technologies": [
+      "Apache",
+      "Cart.com",
+      "Fireblade",
+      "OpenCart",
+      "PHP",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "granknowswhy.com",
+    "title": "Infosecurity (Gran knows why)",
+    "business_name": "",
+    "country": "GIB",
+    "seo_score": 70,
+    "tech_spend": 76240,
+    "crawled_at": "2026-08-13T11:17:16.111874465Z",
+    "technologies": [
+      "AddThis",
+      "AddThis for Wordpress",
+      "Apache",
+      "Cart.com",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "OpenCart",
+      "PHP",
+      "Tailwind CSS",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "epacksolution.com",
+    "title": "Epack Solution | The Packaging Supplies Co.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 75040,
+    "crawled_at": "2026-08-12T19:52:42.597508609Z",
+    "technologies": [
+      "Apache",
+      "Cart.com",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "OpenCart",
+      "QUIC",
+      "Subversion",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "lionode.com",
     "title": "lionode - professional ecommerce designers and developers",
     "business_name": "",
@@ -12155,82 +12216,6 @@
       "QUIC",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "lamudanzerashipping.com",
-    "title": "La Mudanzera Shipping",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 30003,
-    "crawled_at": "2026-05-08T02:14:20.007457249Z",
-    "technologies": [
-      "Cart.com",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "OpenCart",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "llanel.fun",
-    "title": "llanel.fun",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 30003,
-    "crawled_at": "2026-05-08T00:17:19.996202568Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Cart.com",
-      "CentOS",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Material Design Icons",
-      "OpenCart",
-      "OpenSSL",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "masfreight.net",
-    "title": "MAS Freight International Company",
-    "business_name": "",
-    "country": "OMN",
-    "seo_score": 77,
-    "tech_spend": 75607,
-    "crawled_at": "2026-05-07T23:35:19.992375355Z",
-    "technologies": [
-      "Bulma",
-      "CDN JS",
-      "Cart.com",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ElementUI",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Nginx",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "W3layouts",
-      "WhatsApp Sharing",
-      "WordPress",
-      "jQuery"
     ]
   }
 ]

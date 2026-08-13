@@ -3576,33 +3576,5 @@
       "YouTube",
       "eLand"
     ]
-  },
-  {
-    "domain": "foreverclothing.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 9655,
-    "crawled_at": "2025-12-28T06:46:38.356743298Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudinary",
-      "Content Delivery Network",
-      "ElementUI",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Instagram Follow Button",
-      "PayPal",
-      "UTF-8",
-      "Volusion",
-      "Volusion Live Chat"
-    ]
   }
 ]
