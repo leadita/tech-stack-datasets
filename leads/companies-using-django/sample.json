@@ -1,5 +1,52 @@
 [
   {
+    "domain": "clearviewsciences.com",
+    "title": "Clearview Environmental Sciences | NYC Exterminator",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 17460,
+    "crawled_at": "2026-08-12T16:06:48.816058298Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "Fireblade",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Line2",
+      "Perl",
+      "QUIC",
+      "eLand",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "rhut.com.br",
+    "title": "RHUT",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 219,
+    "crawled_at": "2026-08-12T12:19:24.461175088Z",
+    "technologies": [
+      "Django",
+      "Django Language",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "thediverseperspectives.co.uk",
     "title": "The Diverse Perspectives Blog - Exploring Varied Viewpoints",
     "business_name": "",
@@ -9594,53 +9641,6 @@
       "QUIC",
       "Twitter Ads",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "clearviewsciences.com",
-    "title": "Clearview Environmental Sciences | NYC Exterminator",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 17460,
-    "crawled_at": "2025-12-27T16:19:38.325644559Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "Fireblade",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Line2",
-      "Perl",
-      "QUIC",
-      "eLand",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "rhut.com.br",
-    "title": "RHUT",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 219,
-    "crawled_at": "2025-12-27T13:40:38.333988441Z",
-    "technologies": [
-      "Django",
-      "Django Language",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
