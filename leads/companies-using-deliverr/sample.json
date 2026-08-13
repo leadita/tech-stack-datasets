@@ -5799,40 +5799,5 @@
       "reCAPTCHA",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "hairmelodycollection.com",
-    "title": "Hair Melody Collection",
-    "business_name": "Hair Melody Collection",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 35525,
-    "crawled_at": "2025-12-27T21:14:41.640825494Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Carro",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Deliverr",
-      "Express",
-      "Fireblade",
-      "Google My Business",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Shopify Payments",
-      "Smile IO",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA"
-    ]
   }
 ]
