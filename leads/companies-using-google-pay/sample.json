@@ -1,5 +1,40 @@
 [
   {
+    "domain": "fwdscreenprinting.com",
+    "title": "Forward Screen Printing | Rhythm & Blues",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 82,
+    "tech_spend": 9564,
+    "crawled_at": "2026-08-13T00:17:39.374196081Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Baidu Cloud",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "Express",
+      "Google Maps",
+      "Google My Business",
+      "Google Pay",
+      "Google Related Website Sites",
+      "IcoMoon",
+      "MailChimp",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Schema Plugin",
+      "Shopify",
+      "Shopify Collabs",
+      "Shopify Payments",
+      "UTF-8",
+      "Yandex Hosting",
+      "YouTube",
+      "hCaptcha",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "karuchocolates.ae",
     "title": "Karü Chocolates – KARÜ – Bean to Bar Chocolate | UAE",
     "business_name": "KARÜ – Bean to Bar Chocolate | UAE",
@@ -19516,40 +19551,6 @@
       "Tailwind CSS",
       "UTF-8",
       "VisitorTracking"
-    ]
-  },
-  {
-    "domain": "brushwithgigi.com",
-    "title": "Gigi | Hydroxyapatite Toothpaste That’s Actually Good for You",
-    "business_name": "",
-    "country": "SGP",
-    "seo_score": 82,
-    "tech_spend": 30752,
-    "crawled_at": "2026-05-16T01:23:19.973569508Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Pay",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "K2F",
-      "Microdata for Google Shopping",
-      "Okendo",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Shopify Payments",
-      "UTF-8",
-      "YouTube",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   }
 ]

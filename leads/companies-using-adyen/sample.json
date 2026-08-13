@@ -1,5 +1,33 @@
 [
   {
+    "domain": "zoomtravelinsurance.co.nz",
+    "title": "Zoom Travel Insurance | Get A Quote",
+    "business_name": "Zoom Travel Insurance",
+    "country": "SGP",
+    "seo_score": 82,
+    "tech_spend": 87700,
+    "crawled_at": "2026-08-13T05:15:35.858301973Z",
+    "technologies": [
+      "Adyen",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Aruba",
+      "Better Lead Generation Services",
+      "Braze",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fireblade",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Phew",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "eLand"
+    ]
+  },
+  {
     "domain": "eurostarinternationallimited.co.uk",
     "title": "Eurostar.com: Book Europe Train Tickets and Holidays",
     "business_name": "Eurostar",
@@ -6147,34 +6175,6 @@
       "Pico CSS",
       "QUIC",
       "Sign In With Google"
-    ]
-  },
-  {
-    "domain": "zoomtravelinsurance.co.nz",
-    "title": "Zoom Travel Insurance | Get A Quote",
-    "business_name": "Zoom Travel Insurance",
-    "country": "SGP",
-    "seo_score": 87,
-    "tech_spend": 47700,
-    "crawled_at": "2025-12-28T00:35:22.736157603Z",
-    "technologies": [
-      "Adyen",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Aruba",
-      "Better Lead Generation Services",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fireblade",
-      "Google Analytics",
-      "Google Tag Manager",
-      "KVH",
-      "Microdata for Google Shopping",
-      "Phew",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "eLand"
     ]
   }
 ]
