@@ -14225,27 +14225,5 @@
       "Apache Tomcat JK",
       "IcoMoon"
     ]
-  },
-  {
-    "domain": "victortreaba.com",
-    "title": "Vicsta",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 75,
-    "tech_spend": 19100,
-    "crawled_at": "2025-12-28T08:01:58.99661969Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Apache Tomcat JK",
-      "Camp",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Heroku",
-      "UTF-8",
-      "University or College"
-    ]
   }
 ]
