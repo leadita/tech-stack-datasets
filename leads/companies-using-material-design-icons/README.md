@@ -1,6 +1,6 @@
 # Companies Using Material Design Icons (Live Dataset 2026)
 
-This folder contains an active list of 24,766 companies using **Material Design Icons**. 
+This folder contains an active list of 24,738 companies using **Material Design Icons**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 24,766
+- **Total Leads:** 24,738
 - **Verified:** Yes
-- **Last Updated:** 2026-08-12 23:15 UTC
+- **Last Updated:** 2026-08-13 23:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **24,766+** companies using Material Design Icons.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **24,738+** companies using Material Design Icons.
 
 [**⚡ Unlock the Full Material Design Icons List with Contact Details**](https://leadita.com/leads/companies-using-material-design-icons)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-08-12 23:15 UTC*
+*Last updated: 2026-08-13 23:15 UTC*
 *Data source: Leadita Technographic Intelligence*
