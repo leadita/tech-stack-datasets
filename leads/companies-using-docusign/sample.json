@@ -12047,39 +12047,5 @@
       "WF Cookie Consent",
       "YouTube"
     ]
-  },
-  {
-    "domain": "voltainsurance.com",
-    "title": "Home | Volta Insurance Solutions",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 102550,
-    "crawled_at": "2025-12-28T05:07:38.333973086Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "DocuSign",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Ntent",
-      "POWr",
-      "PWA",
-      "QUIC",
-      "SMC",
-      "SiteW",
-      "UTF-8",
-      "UpContent",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "mlcom"
-    ]
   }
 ]
