@@ -1795,26 +1795,5 @@
       "eLand",
       "jQuery"
     ]
-  },
-  {
-    "domain": "sonayardi.com",
-    "title": "Sonay Ardi Akkar personal page",
-    "business_name": "",
-    "country": "IRN",
-    "seo_score": 70,
-    "tech_spend": 40419,
-    "crawled_at": "2025-12-28T08:04:38.312115063Z",
-    "technologies": [
-      "Apache",
-      "BootstrapMade",
-      "Elfsight",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "InitiativeS",
-      "PHP",
-      "University or College",
-      "Yardi Systems"
-    ]
   }
 ]
