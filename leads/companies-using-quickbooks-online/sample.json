@@ -1,5 +1,33 @@
 [
   {
+    "domain": "emdsm.com",
+    "title": "Home | E&M PLLC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 28340,
+    "crawled_at": "2026-08-12T23:35:27.430940025Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "Zoom Video Conferencing",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "bdrcpas.com",
     "title": "Home | Baker Davis Roderique",
     "business_name": "",
@@ -10553,33 +10581,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "emdsm.com",
-    "title": "Home | E&M PLLC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 12800,
-    "crawled_at": "2025-12-27T21:08:59.541720433Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Zoom Video Conferencing",
-      "jsDelivr"
     ]
   }
 ]
