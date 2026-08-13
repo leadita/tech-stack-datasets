@@ -1,5 +1,29 @@
 [
   {
+    "domain": "codyrobert.com",
+    "title": "Cody Robert Baker / Full Stack Engineer | Cody Robert Baker",
+    "business_name": "",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 94300,
+    "crawled_at": "2026-08-13T09:18:59.76362943Z",
+    "technologies": [
+      "Airship CRM",
+      "Carta",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "GoGrid",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Okta",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "topbenefitsas.info",
     "title": "Benefit Airship Affordable Health & Wellness Plans Nationwide",
     "business_name": "Benefit Airship",
@@ -3905,30 +3929,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "codyrobert.com",
-    "title": "Cody Robert Baker / Full Stack Engineer | Cody Robert Baker",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 26803,
-    "crawled_at": "2025-12-28T02:55:38.311903723Z",
-    "technologies": [
-      "Airship CRM",
-      "Carta",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "GoGrid",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Okta",
-      "UTF-8"
     ]
   }
 ]
