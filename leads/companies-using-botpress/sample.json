@@ -1,5 +1,40 @@
 [
   {
+    "domain": "lkcareers.lk",
+    "title": "LKcareers | Recruitment, Talent Sourcing & Staffing Solutions",
+    "business_name": "",
+    "country": "LKA",
+    "seo_score": 77,
+    "tech_spend": 5440,
+    "crawled_at": "2026-08-13T22:37:52.531493371Z",
+    "technologies": [
+      "Apache",
+      "Botpress",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "Google",
+      "Google Adsense",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google My Business",
+      "Google Reseller",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "PHP",
+      "Shockwave Flash Embed",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "mvassociate.com",
     "title": "CA Firm | Mahesh V And Associates",
     "business_name": "MAHESH V AND ASSOCIATES",
@@ -17688,39 +17723,6 @@
       "WordPress Multisite",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "lsconferencecenter.com",
-    "title": "Liberty Station Conference Center | PLNU",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 23120,
-    "crawled_at": "2026-04-18T19:20:20.001514144Z",
-    "technologies": [
-      "Botpress",
-      "Content Delivery Network",
-      "DoubleClick Bid Manager",
-      "Drupal",
-      "Fastly",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Flights Conversion Tracking",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "OneTrust Domain Verification",
-      "PWA",
-      "QUIC",
-      "Siteimprove",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "YouTube",
-      "jsDelivr"
     ]
   }
 ]
