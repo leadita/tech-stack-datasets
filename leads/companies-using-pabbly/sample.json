@@ -1,5 +1,37 @@
 [
   {
+    "domain": "simplytapreviews.com",
+    "title": "SimpleTap - The Growth Engine for Local Businesses",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 19478,
+    "crawled_at": "2026-08-14T13:33:29.449040023Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Alternate Protocol",
+      "Authorize.net",
+      "Better Lead Generation Services",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Fireblade",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Customer Reviews",
+      "Google Font API",
+      "Google Maps",
+      "No-Q",
+      "Nuxt.js",
+      "Pabbly",
+      "Subversion",
+      "Thank You",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "spokesreviews.com",
     "title": "Spokes Reviews Pro - The Growth Engine for Local Businesses",
     "business_name": "",
@@ -70,38 +102,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "happytapreviews.com",
-    "title": "SimpleTap - The Growth Engine for Local Businesses",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 19478,
-    "crawled_at": "2026-08-08T17:14:38.002169622Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Alternate Protocol",
-      "Authorize.net",
-      "Better Lead Generation Services",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Customer Reviews",
-      "Google Font API",
-      "Google Maps",
-      "No-Q",
-      "Nuxt.js",
-      "Pabbly",
-      "Subversion",
-      "Thank You",
-      "UTF-8"
     ]
   },
   {
@@ -6348,38 +6348,6 @@
       "Pabbly",
       "Twitter Ads",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "simplytapreviews.com",
-    "title": "SimpleTap - The Growth Engine for Local Businesses",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 19478,
-    "crawled_at": "2025-12-28T17:04:38.346883209Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Apture Linking Platform",
-      "Authorize.net",
-      "Better Lead Generation Services",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Customer Reviews",
-      "Google Font API",
-      "Google Maps",
-      "No-Q",
-      "Nuxt.js",
-      "Pabbly",
-      "Subversion",
-      "Thank You",
-      "UTF-8"
     ]
   }
 ]
