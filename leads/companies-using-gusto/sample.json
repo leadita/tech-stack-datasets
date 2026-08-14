@@ -1,5 +1,32 @@
 [
   {
+    "domain": "elauwit.com",
+    "title": "Network Services and Managed Wifi for Apartments | Elauwit Connection",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 15139,
+    "crawled_at": "2026-08-14T04:04:31.228636728Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Gusto",
+      "Hubspot Knowledge Base",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "fpm.org",
     "title": "FPM | Financial Planning Ministry | United States",
     "business_name": "Financial Planning Ministry",
@@ -4962,44 +4989,6 @@
       "IcoMoon",
       "QUIC",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "powerelauwit.com",
-    "title": "Network Services and Managed Wifi for Apartments | Elauwit Connection",
-    "business_name": "Elauwit Connection",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 24127,
-    "crawled_at": "2026-05-14T12:11:19.987033403Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apache",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Gravity",
-      "Gravity Forms",
-      "Gusto",
-      "HubSpot Conversations",
-      "HubSpot WordPress Plugin",
-      "Hubspot",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "Ubuntu",
-      "W3 Total Cache",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "reCAPTCHA"
     ]
   },
   {

@@ -1,12 +1,41 @@
 [
   {
-    "domain": "thelastlayercollab.com",
+    "domain": "pearlabyss.com",
+    "title": "Pearl Abyss Official Website | Pearl Abyss",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 44369,
+    "crawled_at": "2026-08-14T17:03:26.757843464Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Breezy HR",
+      "Corporate Governance and Regulatory Compliance",
+      "Cybot",
+      "Fireblade",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Imperva Bot Detection and Mitigation",
+      "Incapsula CDN",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "UTF-8",
+      "Workable",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "thelastlayermedia.com",
     "title": "The Last Layer | Home",
     "business_name": "",
     "country": "USA",
     "seo_score": 72,
     "tech_spend": 13792,
-    "crawled_at": "2026-08-13T18:08:45.808693332Z",
+    "crawled_at": "2026-08-13T21:53:46.841680693Z",
     "technologies": [
       "AJAX Libraries API",
       "Barefoot",
@@ -17764,33 +17793,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "pearlabyss.com",
-    "title": "Pearl Abyss Official Website | Pearl Abyss",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 38549,
-    "crawled_at": "2025-12-28T18:42:14.092013279Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Breezy HR",
-      "Corporate Governance and Regulatory Compliance",
-      "Cybot",
-      "Fireblade",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Imperva Bot Detection and Mitigation",
-      "Incapsula CDN",
-      "Microdata for Google Shopping",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
