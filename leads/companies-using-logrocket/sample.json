@@ -1,5 +1,34 @@
 [
   {
+    "domain": "telliind.com",
+    "title": "Wholesale Beauty Supply For Salons & Spas | Telli Industries",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 4168,
+    "crawled_at": "2026-08-14T12:49:03.820402636Z",
+    "technologies": [
+      "Brevo",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Maps",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LinkedIn Insights",
+      "LinkedIn Pixel",
+      "LogRocket",
+      "Nginx",
+      "Ntent",
+      "PHP",
+      "QUIC",
+      "Slack",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "crm-cpq.com",
     "title": "CPQ Software for Accurate Sales Quoting - DealHub AI",
     "business_name": "DealHub",
