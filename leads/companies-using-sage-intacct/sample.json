@@ -1,5 +1,36 @@
 [
   {
+    "domain": "cambermckenzie.com",
+    "title": "Camber McKenzie - CBM Consulting, LLC | Small Business and Finance Team Solutions",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 163845,
+    "crawled_at": "2026-08-13T12:12:48.475668703Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Accordion Blocks",
+      "Accordion FAQ",
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Contento",
+      "Express",
+      "GZIP Module",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Oracle Cloud",
+      "QUIC",
+      "Sage Intacct",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "inteqrate.com",
     "title": "Sinsou | Data Integration & eCommerce Automation Experts | Sinsou",
     "business_name": "",
@@ -14503,39 +14534,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "cambermckenzie.com",
-    "title": "Camber McKenzie - CBM Consulting, LLC | Small Business and Finance Team Solutions",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 166173,
-    "crawled_at": "2025-12-28T04:46:38.323199612Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Accordion Blocks",
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Contento",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Oracle Cloud",
-      "QUIC",
-      "Sage Intacct",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]

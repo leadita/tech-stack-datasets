@@ -1,5 +1,35 @@
 [
   {
+    "domain": "ordemengenheiros.ao",
+    "title": "OEA",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 35661,
+    "crawled_at": "2026-08-13T19:20:29.605319886Z",
+    "technologies": [
+      "Aruba",
+      "Contento",
+      "Express",
+      "FormSubmit",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "PHP",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube",
+      "Zoho Books",
+      "eLand"
+    ]
+  },
+  {
     "domain": "artisansecurityint.com",
     "title": "Artisan Security Integration for home and business security needs",
     "business_name": "",
@@ -1997,39 +2027,6 @@
       "Zoho Books",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "ordemengenheiros.ao",
-    "title": "OEA",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 35724,
-    "crawled_at": "2025-12-28T08:19:38.331960155Z",
-    "technologies": [
-      "Aruba",
-      "Contento",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "Zoho Books",
-      "eLand"
     ]
   }
 ]
