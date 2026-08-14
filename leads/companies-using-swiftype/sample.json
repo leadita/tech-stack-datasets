@@ -2455,43 +2455,5 @@
       "YouTube",
       "eLand"
     ]
-  },
-  {
-    "domain": "massey.ac.nz",
-    "title": "Massey University of New Zealand - Te Kunenga ki Pūrehuroa - Massey University",
-    "business_name": "",
-    "country": "NZL",
-    "seo_score": 72,
-    "tech_spend": 45574,
-    "crawled_at": "2025-12-28T13:16:24.232946169Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Angular",
-      "ClickDimensions",
-      "CloudFront",
-      "Content Delivery Network",
-      "Corporate Governance and Regulatory Compliance",
-      "DoubleClick Bid Manager",
-      "Eventbrite",
-      "Formstack",
-      "GZIP Module",
-      "Genesys Cloud CX Platform",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Nginx",
-      "Pico CSS",
-      "Storyblocks",
-      "Swiftype",
-      "UTF-8",
-      "University or College",
-      "Yahoo Image CDN",
-      "YouTube"
-    ]
   }
 ]
