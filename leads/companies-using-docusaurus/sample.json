@@ -1,5 +1,49 @@
 [
   {
+    "domain": "radiantech.io",
+    "title": "RadianTech - PPC Services, IT Consultancy & MVP Development | RadianTech",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2400,
+    "crawled_at": "2026-08-14T08:46:03.621663202Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Perl",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "morte.work",
+    "title": "Patryk Babula - React Developer & UI/UX Designer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 7840,
+    "crawled_at": "2026-08-14T05:50:44.298498725Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Next.js",
+      "Pleroma",
+      "RM Education",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "bifromq.io",
     "title": "Apache BifroMQ (Incubating) – An Open-Source Apache MQTT Broker",
     "business_name": "",
@@ -12643,48 +12687,6 @@
       "Google Tag Manager",
       "Perl",
       "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "robertjcolley.com",
-    "title": "Robert Colley - Software Engineer, Friend, Leader, Entrepreneur | Robert Colley",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 2640,
-    "crawled_at": "2026-03-17T06:28:21.664274265Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Perl",
-      "UTF-8",
-      "Vercel",
-      "WordPress"
-    ]
-  },
-  {
-    "domain": "locacloud.com",
-    "title": "LocaCloud - Location and Geospatial Data API",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 240,
-    "crawled_at": "2026-03-16T16:02:56.792080655Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Docusaurus",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Next.js",
-      "Pleroma",
       "UTF-8",
       "Vercel"
     ]

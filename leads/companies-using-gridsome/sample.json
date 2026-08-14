@@ -1,5 +1,56 @@
 [
   {
+    "domain": "deleiderkomt.be",
+    "title": "THE LEADER WILL COME",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 65,
+    "tech_spend": 2755,
+    "crawled_at": "2026-08-14T10:12:08.244388216Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apache",
+      "Band Camp",
+      "Camp",
+      "Complianz",
+      "Contact Form Plugin",
+      "EmbedPress",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Instagram Follow Button",
+      "PHP",
+      "Shopify",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "Vimeo",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
+    "domain": "suedspace.de",
+    "title": "Südspace - Südspace",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": "",
+    "crawled_at": "2026-08-14T03:40:45.799539907Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Gridsome",
+      "Usercentrics"
+    ]
+  },
+  {
     "domain": "vobt.co.uk",
     "title": "- VOBT Properties",
     "business_name": "",
@@ -11945,55 +11996,6 @@
       "Netlify",
       "Stripe",
       "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "essentialwellnessnw.com",
-    "title": "Essential Wellness NW | Nutritional Health, Massage | Redmond, WA | Essential Wellness NW",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 112979,
-    "crawled_at": "2026-01-31T23:31:02.922402294Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Cisco/Arrowpoint Content Service Switch",
-      "CloudFront",
-      "Content Delivery Network",
-      "Font Awesome",
-      "GZIP Module",
-      "Gridsome",
-      "Idaq",
-      "K2F",
-      "KVH",
-      "No-Q",
-      "RM Education",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "buildingsareheavy.com",
-    "title": "Buildings Are Heavy - Buildings Are Heavy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": "",
-    "crawled_at": "2026-01-31T19:10:48.861776824Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Tailwind CSS",
-      "Twitter Ads",
       "UTF-8"
     ]
   }
