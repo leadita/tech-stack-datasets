@@ -1,5 +1,31 @@
 [
   {
+    "domain": "andrealana-id.com",
+    "title": "Andrea Lana Instructional Designer Portfolio",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 62,
+    "tech_spend": 76208,
+    "crawled_at": "2026-08-14T06:33:35.112954817Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Cisco/Arrowpoint Content Service Switch",
+      "DAV",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "NFOrce Internet",
+      "PHP",
+      "SMC",
+      "TalentLMS",
+      "University or College",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "thinkaesthetics.com",
     "title": "THink Aesthetics | Cosmetic Tattoo Training | RTO 45188",
     "business_name": "",
@@ -9906,32 +9932,6 @@
       "Wix Media",
       "YouTube",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "andrealana-id.com",
-    "title": "Andrea Lana Instructional Designer Portfolio",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 76208,
-    "crawled_at": "2025-12-28T13:43:16.737889152Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Cisco/Arrowpoint Content Service Switch",
-      "DAV",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "NFOrce Internet",
-      "PHP",
-      "SMC",
-      "TalentLMS",
-      "University or College",
-      "reCAPTCHA"
     ]
   }
 ]
