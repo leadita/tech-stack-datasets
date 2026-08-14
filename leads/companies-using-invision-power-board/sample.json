@@ -1,5 +1,24 @@
 [
   {
+    "domain": "molbiol.ru",
+    "title": "MolBiol.ru",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 60,
+    "tech_spend": 1140,
+    "crawled_at": "2026-08-14T05:40:05.341287095Z",
+    "technologies": [
+      "Apache",
+      "Fastly",
+      "GZIP Module",
+      "Invision Power Board",
+      "PHP",
+      "Perl",
+      "Telegram",
+      "University or College"
+    ]
+  },
+  {
     "domain": "ignaciozamo.com.ar",
     "title": "Ignacio Zamo - Portfolio",
     "business_name": "",
@@ -333,25 +352,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "molbiol.ru",
-    "title": "MolBiol.ru",
-    "business_name": "",
-    "country": "ITA",
-    "seo_score": 55,
-    "tech_spend": 1140,
-    "crawled_at": "2025-12-28T13:16:24.196144549Z",
-    "technologies": [
-      "Apache",
-      "Fastly",
-      "GZIP Module",
-      "Invision Power Board",
-      "PHP",
-      "Perl",
-      "Telegram",
-      "University or College"
     ]
   }
 ]
