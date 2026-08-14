@@ -1,5 +1,36 @@
 [
   {
+    "domain": "mu.edu",
+    "title": "Marquette University // Be The Difference",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 52187,
+    "crawled_at": "2026-08-14T06:33:35.110051233Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "DAV",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microsoft 365",
+      "OmniUpdate",
+      "PHP",
+      "Prospective",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "WordPress",
+      "Wrike",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "literaryprovocationshub.org",
     "title": "Literary Provocations Hub | School of the Arts & Media - UNSW Sydney",
     "business_name": "",
@@ -3315,32 +3346,6 @@
       "Wrike",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "mu.edu",
-    "title": "Marquette University // Be The Difference",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 27187,
-    "crawled_at": "2025-12-28T13:43:16.733239296Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microsoft 365",
-      "PHP",
-      "Prospective",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Wrike",
-      "YouTube"
     ]
   }
 ]
