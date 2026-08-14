@@ -1,5 +1,26 @@
 [
   {
+    "domain": "dealershipmcp.com",
+    "title": "DealershipMCP — The Universal MCP Server for Automotive Retail",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 37440,
+    "crawled_at": "2026-08-13T21:05:19.970385889Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "DriveCentric",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Tailwind CSS",
+      "VinSolutions"
+    ]
+  },
+  {
     "domain": "paa.org",
     "title": "PAA - Pennsylvania Automotive Association",
     "business_name": "",
