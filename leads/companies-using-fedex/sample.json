@@ -1,5 +1,30 @@
 [
   {
+    "domain": "ycas.ca",
+    "title": "Your Computer And Signs",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 19232,
+    "crawled_at": "2026-08-14T01:10:34.749448939Z",
+    "technologies": [
+      "FedEx",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Line2",
+      "PWA",
+      "UPS",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "17track.net",
     "title": "All in one global package tracking | 17TRACK",
     "business_name": "17TRACK",
@@ -19323,52 +19348,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "eLand",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "thdalling.com",
-    "title": "TH Dalling | Buy Tobacco Products Online – Buy Tobacco Products Online from the UK",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 841,
-    "crawled_at": "2026-04-05T17:14:19.984152106Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adult Content",
-      "Alternate Protocol",
-      "Astra Theme",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "FedEx",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Header, Footer and Blocks for Elementor",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "NFOrce Internet",
-      "Ntent",
-      "PHP",
-      "QUIC",
-      "Table Addons for Elementor",
-      "The Plus Addons for Elementor",
-      "Theme In WP",
-      "UTF-8",
-      "Way",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WooLentor",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "jQuery"
     ]
   }
 ]
