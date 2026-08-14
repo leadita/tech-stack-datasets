@@ -9616,31 +9616,5 @@
       "YouTube",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "mynewpeo.com",
-    "title": "My New PEO - Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 2307,
-    "crawled_at": "2025-12-28T07:46:38.325899694Z",
-    "technologies": [
-      "B12",
-      "Better Lead Generation Services",
-      "Coming Soon Page",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Perl",
-      "QUIC",
-      "Twitter Ads",
-      "reCAPTCHA"
-    ]
   }
 ]
