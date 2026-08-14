@@ -1,5 +1,33 @@
 [
   {
+    "domain": "maurerkrisztian.com",
+    "title": "Maurer Krisztián: Personal Site",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 4736,
+    "crawled_at": "2026-08-13T15:18:06.502897311Z",
+    "technologies": [
+      "Amazon S3 CDN",
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Hasnode",
+      "Heroku",
+      "Netlify",
+      "Ntent",
+      "Shoprenter",
+      "Storyblocks",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "zapisec.ai",
     "title": "ZAPISEC – Application Security Platform",
     "business_name": "",
@@ -12303,34 +12331,6 @@
       "University or College",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "maurerkrisztian.com",
-    "title": "Maurer Krisztián: Personal Site",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 4736,
-    "crawled_at": "2025-12-28T06:16:38.34597287Z",
-    "technologies": [
-      "Amazon S3 CDN",
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Hasnode",
-      "Heroku",
-      "Netlify",
-      "Ntent",
-      "Shoprenter",
-      "Storyblocks",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]

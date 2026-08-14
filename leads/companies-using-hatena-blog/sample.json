@@ -1,5 +1,36 @@
 [
   {
+    "domain": "lala-co.com",
+    "title": "hair make LALA | 笑顔になれる美容院 東浦 知多 東海 阿久比 大府 キレイのお手伝い",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 6000,
+    "crawled_at": "2026-08-14T10:26:29.088807415Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Facebook Like",
+      "Facebook Login",
+      "Facebook Reseller",
+      "GZIP Module",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Hatena Blog",
+      "Instagram API",
+      "Instagram Follow Button",
+      "PHP",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "syomei.biz",
     "title": "Create a unique signature for your name",
     "business_name": "",
@@ -250,37 +281,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "lala-co.com",
-    "title": "hair make LALA | 笑顔になれる美容院 東浦 知多 東海 阿久比 大府 キレイのお手伝い",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 6000,
-    "crawled_at": "2025-12-28T15:37:38.325219617Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Facebook Like",
-      "Facebook Login",
-      "Facebook Reseller",
-      "GZIP Module",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Hatena Blog",
-      "Instagram API",
-      "Instagram Follow Button",
-      "PHP",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
