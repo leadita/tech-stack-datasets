@@ -1,5 +1,119 @@
 [
   {
+    "domain": "begatrans.com",
+    "title": "Bega Trans Inc — Freight Carrier & Trucking Services | Michigan",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 240,
+    "crawled_at": "2026-08-15T19:39:13.414038373Z",
+    "technologies": [
+      "Better Lead Generation Services",
+      "Content Delivery Network",
+      "Fontshare",
+      "Microdata for Google Shopping",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "brieft.studio",
+    "title": "Brieft: the workspace for creators and their editors",
+    "business_name": "Brieft",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 2680,
+    "crawled_at": "2026-08-15T09:26:19.967951689Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fontshare",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "remi.space",
+    "title": "Rémi de Juvigny",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": "",
+    "crawled_at": "2026-08-15T06:29:59.402435751Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Astro",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fontshare",
+      "GitHub Hosting",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "meowan.net",
+    "title": "AS211854 — MEOWAN Network",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 60,
+    "tech_spend": "",
+    "crawled_at": "2026-08-15T06:15:55.744521607Z",
+    "technologies": [
+      "ElementUI",
+      "Fontshare",
+      "GZIP Module",
+      "Nginx"
+    ]
+  },
+  {
+    "domain": "moorecooperative.com",
+    "title": "Moore Cooperative | AI-Driven Compensation Strategy",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": "",
+    "crawled_at": "2026-08-15T01:17:47.103133375Z",
+    "technologies": [
+      "Fontshare",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "creativeodyssey.agency",
+    "title": "Creative Odyssey",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 15228,
+    "crawled_at": "2026-08-14T23:24:16.772340626Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apture Linking Platform",
+      "Better Lead Generation Services",
+      "Content Delivery Network",
+      "Express",
+      "Fontshare",
+      "Instagram Follow Button",
+      "Netlify",
+      "Python",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "touchkloudkreate.com",
     "title": "KloudKreate — If you can see it, we can create it",
     "business_name": "",
@@ -2882,26 +2996,6 @@
       "GZIP Module",
       "IcoMoon",
       "Pico CSS"
-    ]
-  },
-  {
-    "domain": "insightsco-op.com",
-    "title": "Moore Cooperative | AI-Driven Compensation Strategy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-06-29T13:17:19.975001307Z",
-    "technologies": [
-      "Fontshare",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr"
     ]
   },
   {
@@ -13239,151 +13333,6 @@
       "UTF-8",
       "Web3Forms",
       "eLand"
-    ]
-  },
-  {
-    "domain": "getfurumjobs.com",
-    "title": "Furum Consulting | The New Member Pipeline - 30 Qualified Consults, Guaranteed",
-    "business_name": "Furum Consulting",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 468,
-    "crawled_at": "2026-05-14T15:14:20.011953847Z",
-    "technologies": [
-      "Astro",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Fontshare",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Tailwind CSS",
-      "Tawk"
-    ]
-  },
-  {
-    "domain": "wishy.site",
-    "title": "Wishy - Create Beautiful Animated Cards",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 512,
-    "crawled_at": "2026-05-14T15:08:19.970328979Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Express",
-      "Fontshare",
-      "Giphy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Microsoft Authentication Library for JavaScript",
-      "Next.js",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Unsplash",
-      "Vercel",
-      "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "lifevaultapp.com",
-    "title": "LifeVault — The Digital Family Binder That Keeps Your Household Prepared",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 17479,
-    "crawled_at": "2026-05-14T14:02:19.972270419Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Coming Soon Page",
-      "ElementUI",
-      "Fireblade",
-      "Fontshare",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "QUIC"
-    ]
-  },
-  {
-    "domain": "goeye.in",
-    "title": "GoEye",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 65,
-    "tech_spend": 74096,
-    "crawled_at": "2026-05-14T13:44:19.976949771Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon WAF Blocked",
-      "App Store",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fireblade",
-      "Fontshare",
-      "GoKwik",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "Google Related Website Sites",
-      "Microsoft Clarity",
-      "QUIC",
-      "SMC",
-      "Shiprocket",
-      "Shiprocket.co",
-      "Shopify",
-      "Shopify Collabs",
-      "UTF-8",
-      "hCaptcha",
-      "jQuery",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "latenthacks.com",
-    "title": "Latent Hacks",
-    "business_name": "Latent Hacks",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2970,
-    "crawled_at": "2026-05-14T13:20:20.029003208Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Content Delivery Network",
-      "Fontshare",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "Tally",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
