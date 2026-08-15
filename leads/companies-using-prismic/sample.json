@@ -1,5 +1,51 @@
 [
   {
+    "domain": "teltechcorp.com",
+    "title": "Bending Spoons | Impossible. Maybe.",
+    "business_name": "Bending Spoons",
+    "country": "ITA",
+    "seo_score": 87,
+    "tech_spend": 180,
+    "crawled_at": "2026-08-15T16:50:59.855051192Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Medium",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pico CSS",
+      "Prismic",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "virtuosicventures.com",
+    "title": "Global Venture Capital & Equity Firm | Virtuosic Ventures",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 959,
+    "crawled_at": "2026-08-15T10:15:42.77559352Z",
+    "technologies": [
+      "Apache",
+      "Cornerstone",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "HHVM",
+      "Next.js",
+      "Prismic"
+    ]
+  },
+  {
     "domain": "nztraveldeals.co.nz",
     "title": "NZ Travel Deals",
     "business_name": "",
@@ -1765,31 +1811,6 @@
       "Nginx",
       "Prismic",
       "Tailwind CSS",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "bndspn.com",
-    "title": "Bending Spoons | Impossible. Maybe.",
-    "business_name": "",
-    "country": "ITA",
-    "seo_score": 77,
-    "tech_spend": 180,
-    "crawled_at": "2026-06-10T00:51:58.596635421Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Medium",
-      "Next.js",
-      "Pico CSS",
-      "Prismic",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
       "shadcn ui"
     ]
   },
@@ -13543,36 +13564,6 @@
       "Tawk",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "patiocoverconcepts.com",
-    "title": "Patio Cover Concepts & Awnings | Las Vegas, Phoenix, St. George",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 31920,
-    "crawled_at": "2026-04-15T16:44:08.453796145Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adult Content",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "NFOrce Internet",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "Prismic",
-      "QUIC",
-      "Radix UI",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
