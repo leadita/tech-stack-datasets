@@ -1,5 +1,44 @@
 [
   {
+    "domain": "paulshomeloans.com",
+    "title": "Paul Anderson - Producing Area Manager in Chicago, IL",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 268856,
+    "crawled_at": "2026-08-14T18:52:29.262678945Z",
+    "technologies": [
+      "Adobe Analytics",
+      "Adobe Marketing Cloud",
+      "Aimtell",
+      "Amazon CloudFront",
+      "Bullhorn Staffing",
+      "CloudFront",
+      "Cloudflare",
+      "Contentstack",
+      "Fastly",
+      "Figma",
+      "Financial Services Guide",
+      "Fireblade",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Maps",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "KVH",
+      "Microdata for Google Shopping",
+      "Nationwide Mortgage Licensing System and Registry",
+      "Next.js",
+      "Okta",
+      "OneTrust Domain Verification",
+      "Pleroma",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "owchickenstars.com",
     "title": "OW CHICKEN STAR LLC",
     "business_name": "",
@@ -20374,36 +20413,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "standardandpoors-disclosure.com",
-    "title": "S&P Global Ratings",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 30782,
-    "crawled_at": "2025-12-29T04:43:38.330975737Z",
-    "technologies": [
-      "Adobe Marketing Cloud",
-      "Aruba",
-      "Envoy",
-      "Express",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Istio",
-      "Line2",
-      "Medusa",
-      "NFOrce Internet",
-      "Next.js",
-      "Okta",
-      "Pleroma",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "eLand"
     ]
   }
 ]
