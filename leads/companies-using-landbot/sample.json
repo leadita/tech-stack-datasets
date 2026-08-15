@@ -16433,34 +16433,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "portapottyrentalsmidland.business",
-    "title": "Porta Potty Rentals Midland | Portable Toilet Supplier",
-    "business_name": "Porta Potty Rentals Midland",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 2306,
-    "crawled_at": "2025-12-28T20:20:27.452522248Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Divi",
-      "Elegant Themes",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "LandBot",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
