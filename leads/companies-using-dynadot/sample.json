@@ -1,5 +1,25 @@
 [
   {
+    "domain": "sungmrs.com",
+    "title": "Gulf of America Radio Network - SUNGMRS",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 67,
+    "tech_spend": 15120,
+    "crawled_at": "2026-08-15T04:33:48.638755701Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "hellofloatapp.com",
     "title": "South Elgin, IL Payday Loans & Personal Cash Advance | Instant Online Approval 24/7",
     "business_name": "",
@@ -4921,23 +4941,6 @@
       "UTF-8",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "sungmrs.com",
-    "title": "Gulf of America Radio Network - SUNGMRS",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 62,
-    "tech_spend": 15219,
-    "crawled_at": "2025-12-29T00:34:38.334741622Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Google My Business",
-      "UTF-8"
     ]
   }
 ]
