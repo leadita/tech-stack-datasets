@@ -2099,40 +2099,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "virtualhelpdeskspro.com",
-    "title": "Virtual Helpdesk Pro",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 32677,
-    "crawled_at": "2025-12-29T00:19:38.317958101Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Calendly",
-      "Campaign Monitor Widget",
-      "Canva Websites",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Corporate Governance and Regulatory Compliance",
-      "DAV",
-      "Doodle",
-      "Emplifi",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hootsuite Badge",
-      "Instagram Follow Button",
-      "Jasper",
-      "NFOrce Internet",
-      "Next.js",
-      "Pexels",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "shadcn ui"
-    ]
   }
 ]
