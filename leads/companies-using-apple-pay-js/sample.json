@@ -1,5 +1,37 @@
 [
   {
+    "domain": "resortlean.com",
+    "title": "Resortlean",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 7500,
+    "crawled_at": "2026-08-14T13:40:58.854458139Z",
+    "technologies": [
+      "Apple Pay JS",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Express",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Fireblade",
+      "GZIP Module",
+      "GetResponse",
+      "Giropay",
+      "Microdata for Google Shopping",
+      "PayPal",
+      "PayPal Adaptive Payments",
+      "QUIC",
+      "Stripe",
+      "Tailwind CSS",
+      "UTF-8",
+      "Underscores",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "fancycoral.com",
     "title": "FancyCoral: Traditional Moroccan Coral Bead Necklaces & Jewelry",
     "business_name": "",
