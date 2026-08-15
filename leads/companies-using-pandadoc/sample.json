@@ -1,5 +1,25 @@
 [
   {
+    "domain": "lfcapital.us",
+    "title": "Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 228,
+    "crawled_at": "2026-08-14T23:07:52.050337839Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "PandaDoc",
+      "Pico CSS",
+      "QUIC",
+      "SiteW",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "esgtraordinary.com",
     "title": "Solutions | Explore Sustainable Solutions Today — The ESG Institute",
     "business_name": "",

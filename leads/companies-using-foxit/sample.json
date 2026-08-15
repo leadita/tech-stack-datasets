@@ -888,33 +888,5 @@
       "ISO/IEC 8859",
       "jQuery"
     ]
-  },
-  {
-    "domain": "trudate.info",
-    "title": "Home - TruDate.info",
-    "business_name": "",
-    "country": "FLK",
-    "seo_score": 65,
-    "tech_spend": 15481,
-    "crawled_at": "2025-12-28T19:10:38.343217779Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Bunny Fonts",
-      "Calendly",
-      "DAV",
-      "Foxit",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "LiteSpeed",
-      "PHP",
-      "Parcel",
-      "QUIC",
-      "Telegram",
-      "UPS",
-      "UTF-8",
-      "Verified Profile",
-      "YouTube"
-    ]
   }
 ]
