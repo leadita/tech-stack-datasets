@@ -1,12 +1,12 @@
 [
   {
-    "domain": "bemex.cz",
+    "domain": "bemexmarine.eu",
     "title": "Bemex Boot | Bemex Boot",
     "business_name": "",
     "country": "CZE",
-    "seo_score": 82,
+    "seo_score": 77,
     "tech_spend": 5567,
-    "crawled_at": "2026-08-14T22:25:14.61639637Z",
+    "crawled_at": "2026-08-14T23:45:21.475014194Z",
     "technologies": [
       "Alternate Protocol",
       "Apache",
@@ -14210,20 +14210,6 @@
       "YouTube",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "mo-backup.de",
-    "title": "Welcome to Incluziv Cloud",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 156,
-    "crawled_at": "2025-12-29T05:22:38.339365583Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "IcoMoon"
     ]
   }
 ]
