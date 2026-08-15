@@ -1,5 +1,29 @@
 [
   {
+    "domain": "britcasinoonline.uk",
+    "title": "Best Online Casino UK | Top-Rated British Casino Sites 2025",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 1968,
+    "crawled_at": "2026-08-14T19:08:19.969075086Z",
+    "technologies": [
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Django",
+      "Gambling Content",
+      "IcoMoon",
+      "NFOrce Internet",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "clearviewsciences.com",
     "title": "Clearview Environmental Sciences | NYC Exterminator",
     "business_name": "",
@@ -41,31 +65,6 @@
       "IcoMoon",
       "Instagram Follow Button",
       "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "thediverseperspectives.co.uk",
-    "title": "The Diverse Perspectives Blog - Exploring Varied Viewpoints",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 468,
-    "crawled_at": "2026-08-12T11:08:13.036009242Z",
-    "technologies": [
-      "About Cookies",
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "DAV",
-      "Django",
-      "Gambling Content",
-      "IcoMoon",
-      "QUIC",
       "Tailwind CSS",
       "UTF-8",
       "jQuery"
