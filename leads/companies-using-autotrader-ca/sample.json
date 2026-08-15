@@ -1,5 +1,31 @@
 [
   {
+    "domain": "daledownienissan.ca",
+    "title": "Dale Downie Nissan | London New and Used Cars Ontario dealership | Cars for sale | Nissan NV Commercial Vehicles",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 87,
+    "tech_spend": 18400,
+    "crawled_at": "2026-08-14T14:10:37.616166091Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "AutoTrader CA",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "Dealer.com",
+      "Fireblade",
+      "Google Analytics",
+      "Google Tag Manager",
+      "New Relic",
+      "Twitter Ads",
+      "UTF-8",
+      "Underscores",
+      "dc.js",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "djprophet.com",
     "title": "DJ Prophet - International DJ, Versitile DJ, Toronto, Canada",
     "business_name": "",
@@ -2383,33 +2409,6 @@
       "Twitter Ads",
       "University or College",
       "YouTube",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "daledownienissan.ca",
-    "title": "Dale Downie Nissan | London New and Used Cars Ontario dealership | Cars for sale | Nissan NV Commercial Vehicles",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 18400,
-    "crawled_at": "2025-12-28T17:22:38.349428413Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "AutoTrader CA",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "DAV",
-      "Dealer.com",
-      "Fireblade",
-      "Google Analytics",
-      "Google Tag Manager",
-      "New Relic",
-      "Twitter Ads",
-      "UTF-8",
-      "Underscores",
-      "dc.js",
       "jQuery"
     ]
   }
