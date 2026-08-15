@@ -1460,35 +1460,5 @@
       "Subversion",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "ctocpa.com",
-    "title": "Home | Castro, Thresher & Oliveira, PC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 16648,
-    "crawled_at": "2025-12-28T23:13:38.347031714Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "Expensify",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Teams",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Xero",
-      "jsDelivr"
-    ]
   }
 ]
