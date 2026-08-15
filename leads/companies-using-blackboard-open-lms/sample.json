@@ -1,5 +1,37 @@
 [
   {
+    "domain": "tamusa.edu",
+    "title": "Texas A&M University-San Antonio",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 46568,
+    "crawled_at": "2026-08-15T12:42:42.719971483Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Blackboard Open LMS",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "University or College",
+      "Visual Studio",
+      "YouTube",
+      "eLand",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "abdn.ac.uk",
     "title": "Home | The University of Aberdeen",
     "business_name": "",
@@ -3580,42 +3612,6 @@
       "University or College",
       "Vimeo",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "tamusa.edu",
-    "title": "Texas A&M University-San Antonio",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 33968,
-    "crawled_at": "2025-12-29T04:28:10.283278174Z",
-    "technologies": [
-      "Blackboard Open LMS",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microsoft Azure",
-      "QUIC",
-      "StackPath",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "University or College",
-      "Visual Studio",
-      "YouTube",
-      "eLand",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
