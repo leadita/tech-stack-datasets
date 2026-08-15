@@ -1,5 +1,22 @@
 [
   {
+    "domain": "dj-rental.cz",
+    "title": "Pronájem DJ techniky - DJ Rent",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 1278,
+    "crawled_at": "2026-08-15T05:11:08.549278117Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Gridsome",
+      "Idaq",
+      "Netlify",
+      "Netlify Forms",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "deleiderkomt.be",
     "title": "THE LEADER WILL COME",
     "business_name": "",
@@ -8441,23 +8458,6 @@
       "KVH",
       "Netlify",
       "SMC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "dj-rent.cz",
-    "title": "Pronájem DJ techniky - DJ Rent",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 1278,
-    "crawled_at": "2026-04-14T09:47:20.000688955Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "Idaq",
-      "Netlify",
-      "Netlify Forms",
       "UTF-8"
     ]
   },
