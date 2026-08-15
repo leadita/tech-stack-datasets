@@ -1,5 +1,40 @@
 [
   {
+    "domain": "thegdsks.com",
+    "title": "Gagan Deep Singh | Software Architect",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 5984,
+    "crawled_at": "2026-08-14T23:35:07.684097562Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gravity",
+      "Medium",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "OpenSSL",
+      "Pure.css",
+      "Python",
+      "Sitelinks Search Box",
+      "Storyblocks",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Unix",
+      "Unsplash",
+      "Vector Internet Services",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "traderhatch.com",
     "title": "TanStarter - Ship Faster with TanStack, Cost Less with Cloudflare",
     "business_name": "",
@@ -14866,34 +14901,6 @@
       "UTF-8",
       "University or College",
       "Vector Internet Services"
-    ]
-  },
-  {
-    "domain": "gettechtailored.com",
-    "title": "TechTailors — The Last Agency You'll Ever Need to Fire. Seriously.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 20800,
-    "crawled_at": "2026-04-23T20:50:20.012339268Z",
-    "technologies": [
-      "Astro",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "Cloudinary",
-      "Content Delivery Network",
-      "Fireblade",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "OpenSSL",
-      "PHP",
-      "QUIC",
-      "Svelte",
-      "Typesense",
-      "eLand"
     ]
   }
 ]
