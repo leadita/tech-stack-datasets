@@ -1,5 +1,37 @@
 [
   {
+    "domain": "bbtconstructionllc.com",
+    "title": "HOME | Bbtconstruction",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 26656,
+    "crawled_at": "2026-08-15T16:18:05.276472451Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Dext",
+      "Fastly",
+      "Fastly CDN",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PWA",
+      "QUIC",
+      "SMC",
+      "Sentry",
+      "SiteW",
+      "UTF-8",
+      "Vector Internet Services",
+      "Wix",
+      "Wix Media",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "neumanco.com",
     "title": "Home | Neuman & Co, P.A.",
     "business_name": "",
@@ -3927,37 +3959,6 @@
       "UTF-8",
       "Vector Internet Services",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "stellarroofandext.com",
-    "title": "HOME | Bbtconstruction",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 26656,
-    "crawled_at": "2026-04-10T06:44:20.017575112Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Dext",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PWA",
-      "QUIC",
-      "SMC",
-      "Sentry",
-      "SiteW",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "mlcom"
     ]
   },
   {
