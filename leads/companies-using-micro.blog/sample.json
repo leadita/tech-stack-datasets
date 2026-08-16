@@ -1,5 +1,78 @@
 [
   {
+    "domain": "isaacterronez.com",
+    "title": "isaact.co",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 107477,
+    "crawled_at": "2026-08-16T10:30:00.473111121Z",
+    "technologies": [
+      "Accordion Blocks",
+      "Accordion FAQ",
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Calendly",
+      "Contento",
+      "Express",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "Line2",
+      "Magento Enterprise",
+      "Mastodon",
+      "Micro.blog",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "morrow.blog",
+    "title": "Mike Morrow",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 260,
+    "crawled_at": "2026-08-16T09:03:14.367092303Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Hugo",
+      "Mastodon",
+      "Micro.blog",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "saulhardman.com",
+    "title": "Saul Hardman",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 4360,
+    "crawled_at": "2026-08-15T21:05:31.849567307Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudinary",
+      "GitHub Hosting",
+      "Mastodon",
+      "Micro.blog",
+      "Nuxt.js",
+      "Sentry",
+      "Tailwind CSS",
+      "Twitter Ads"
+    ]
+  },
+  {
     "domain": "rational-im.com",
     "title": "RIM LLC",
     "business_name": "",
@@ -625,42 +698,6 @@
       "comScore",
       "eLand",
       "esportsdesk.com"
-    ]
-  },
-  {
-    "domain": "isaact.co",
-    "title": "isaact.co",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 109917,
-    "crawled_at": "2026-06-06T16:50:45.757952412Z",
-    "technologies": [
-      "Accordion Blocks",
-      "Accordion FAQ",
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Calendly",
-      "Contento",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Line2",
-      "Magento Enterprise",
-      "Mastodon",
-      "Micro.blog",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "eLand"
     ]
   },
   {
@@ -5560,29 +5597,6 @@
     ]
   },
   {
-    "domain": "iamsaul.co.uk",
-    "title": "Saul Hardman",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 1248,
-    "crawled_at": "2026-04-09T05:29:20.011801089Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudinary",
-      "GitHub Hosting",
-      "Mastodon",
-      "Micro.blog",
-      "Nuxt.js",
-      "Sentry",
-      "Tailwind CSS",
-      "Twitter Ads"
-    ]
-  },
-  {
     "domain": "excineribusbooks.com",
     "title": "Ex Cineribus Books",
     "business_name": "",
@@ -8037,22 +8051,6 @@
       "WordPress Stats",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "morrow.blog",
-    "title": "Mike Morrow",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 260,
-    "crawled_at": "2025-12-29T13:52:38.333093234Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Mastodon",
-      "Micro.blog",
-      "UTF-8"
     ]
   }
 ]

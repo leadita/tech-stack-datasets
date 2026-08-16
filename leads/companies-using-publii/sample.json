@@ -1,5 +1,31 @@
 [
   {
+    "domain": "emergentbehavior.com",
+    "title": "Emergent Behavior",
+    "business_name": "Emergent Behavior",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 17549,
+    "crawled_at": "2026-08-16T08:17:54.258022232Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Publii",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "marketing-extrem.gp2.ro",
     "title": "Marketing Extrem MKx",
     "business_name": "Marketing Extrem MKx",
@@ -8516,30 +8542,6 @@
       "Content Delivery Network",
       "Microdata for Google Shopping",
       "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "emergentbehavior.com",
-    "title": "Emergent Behavior",
-    "business_name": "Emergent Behavior",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 649,
-    "crawled_at": "2025-12-29T13:31:38.31997942Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Publii",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   }
