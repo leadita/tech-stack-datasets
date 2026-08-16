@@ -1,5 +1,28 @@
 [
   {
+    "domain": "coastalwindsservices.com",
+    "title": "Coastal Winds Services",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 17887,
+    "crawled_at": "2026-08-16T15:29:49.625199934Z",
+    "technologies": [
+      "Apache",
+      "Coming Soon Page",
+      "Endis",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Pabbly",
+      "Twitter Ads",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "simplytapreviews.com",
     "title": "SimpleTap - The Growth Engine for Local Businesses",
     "business_name": "",
@@ -6325,29 +6348,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "coastalwindsservices.com",
-    "title": "Coastal Winds Services",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 17887,
-    "crawled_at": "2025-12-29T16:54:11.039981055Z",
-    "technologies": [
-      "Apache",
-      "Coming Soon Page",
-      "Endis",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Pabbly",
-      "Twitter Ads",
-      "YouTube"
     ]
   }
 ]
