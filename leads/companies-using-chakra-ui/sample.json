@@ -1,5 +1,57 @@
 [
   {
+    "domain": "sportshoes.hk",
+    "title": "SportsShoes - The UK's No 1 Running & Outdoor Fitness Retailer | SportsShoes.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 15999,
+    "crawled_at": "2026-08-16T11:36:51.715485204Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Chakra UI",
+      "Cloudflare",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "DAV",
+      "Express",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Next.js",
+      "PWA",
+      "Perl",
+      "Pico CSS",
+      "Pleroma",
+      "QUIC",
+      "Share Link",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "Vimeo",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "proxyforge.co.uk",
+    "title": "Nomad Proxies - Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 32,
+    "tech_spend": "",
+    "crawled_at": "2026-08-16T04:25:28.18190885Z",
+    "technologies": [
+      "Chakra UI",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Next.js",
+      "Pleroma",
+      "The Deck",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "merzenich.com.br",
     "title": "Merzenich Corporation",
     "business_name": "",
@@ -261,35 +313,6 @@
       "UTF-8",
       "University or College",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "sportsshoes.com",
-    "title": "SportsShoes - The UK's No 1 Running & Outdoor Fitness Retailer | SportsShoes.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 15999,
-    "crawled_at": "2026-08-14T09:12:48.443408035Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Chakra UI",
-      "Cloudflare",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Google Related Website Sites",
-      "Next.js",
-      "PWA",
-      "Perl",
-      "Pico CSS",
-      "Pleroma",
-      "Share Link",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "Vimeo",
-      "eLand"
     ]
   },
   {
@@ -12777,25 +12800,6 @@
       "Pleroma",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "brainwaves.marketing",
-    "title": "Brainwaves Digital | Brainwaves Marketing",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 15000,
-    "crawled_at": "2026-05-08T05:35:19.993633454Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Netlify",
-      "Next.js",
-      "Pleroma",
-      "SMC",
-      "UTF-8",
-      "eLand"
     ]
   }
 ]
