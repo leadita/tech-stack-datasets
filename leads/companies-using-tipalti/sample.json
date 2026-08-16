@@ -1,5 +1,36 @@
 [
   {
+    "domain": "honeygain.me",
+    "title": "Honeygain | An Earning App That Works in the Background",
+    "business_name": "Honeygain",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 22600,
+    "crawled_at": "2026-08-16T13:17:07.544974014Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Discord",
+      "Fastly",
+      "Fastly CDN",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Ntent",
+      "Pleroma",
+      "QUIC",
+      "Styled Components",
+      "Tipalti",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "tipalti.com",
     "title": "Tipalti | agentic-AI platform for finance operations",
     "business_name": "Tipalti",
@@ -43,37 +74,6 @@
       "WordPress Multisite",
       "YouTube",
       "Zendesk Embeddables"
-    ]
-  },
-  {
-    "domain": "honeygain.com",
-    "title": "Honeygain | An Earning App That Works in the Background",
-    "business_name": "Honeygain",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 22600,
-    "crawled_at": "2026-08-13T21:53:46.826367478Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Discord",
-      "Fastly",
-      "Fastly CDN",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Ntent",
-      "Pleroma",
-      "QUIC",
-      "Styled Components",
-      "Tipalti",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "YouTube"
     ]
   },
   {
