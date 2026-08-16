@@ -1,5 +1,41 @@
 [
   {
+    "domain": "shopluminess.com",
+    "title": "Airbrush Makeup Foundation | Spray on Foundation | Try Before You Buy",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 560099,
+    "crawled_at": "2026-08-16T03:35:24.885152997Z",
+    "technologies": [
+      "Apple Auto Link Maker",
+      "Apture Linking Platform",
+      "Braintree",
+      "CQuotient",
+      "Cloudflare",
+      "Cloudinary",
+      "DAV",
+      "Font Awesome",
+      "Google Analytics",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Klaviyo",
+      "QUIC",
+      "Quotient",
+      "ReviewWidget",
+      "Salesforce Commerce Cloud",
+      "StackPath",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Way",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "bffinjector.com",
     "title": "Best Face Forward, LLC | mobile botox mount juliet",
     "business_name": "Best Face Forward",
@@ -46,41 +82,6 @@
       "Wix Media",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "luminesscosmetics.com",
-    "title": "Airbrush Makeup Foundation | Spray on Foundation | Try Before You Buy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 560099,
-    "crawled_at": "2026-08-15T02:23:01.361606044Z",
-    "technologies": [
-      "Apple Auto Link Maker",
-      "Apture Linking Platform",
-      "Braintree",
-      "CQuotient",
-      "Cloudflare",
-      "Cloudinary",
-      "Font Awesome",
-      "Google Analytics",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "QUIC",
-      "Quotient",
-      "ReviewWidget",
-      "Salesforce Commerce Cloud",
-      "StackPath",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Way",
-      "YouTube",
-      "shadcn ui"
     ]
   },
   {
@@ -17694,28 +17695,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "truevalueenterprise.shop",
-    "title": "TRUEVALUE ENTERPRISE - Elegant & Stylish Kurtis Online",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 67,
-    "tech_spend": 522440,
-    "crawled_at": "2025-12-29T07:37:38.361710455Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "PHP",
-      "QUIC",
-      "Salesforce Commerce Cloud",
-      "UTF-8",
-      "iomart"
     ]
   }
 ]

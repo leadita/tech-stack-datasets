@@ -1,5 +1,78 @@
 [
   {
+    "domain": "woo-ping.com.hk",
+    "title": "和平優鮮店",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 30053,
+    "crawled_at": "2026-08-16T02:06:01.001833067Z",
+    "technologies": [
+      "Apache",
+      "CDN JS",
+      "Cart.com",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "OpenCart",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "TemplateMela",
+      "UTF-8",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "arab-machines.com",
+    "title": "Arab machines | الحلول للصناعات الهندسية والكهربائية",
+    "business_name": "",
+    "country": "EGY",
+    "seo_score": 77,
+    "tech_spend": 75040,
+    "crawled_at": "2026-08-16T01:39:01.097340031Z",
+    "technologies": [
+      "Cart.com",
+      "Express",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Nginx",
+      "OpenCart",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "alimentarus.com",
+    "title": "Alimentarus",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 30003,
+    "crawled_at": "2026-08-16T00:02:03.585255636Z",
+    "technologies": [
+      "Apache",
+      "Cart.com",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "OpenCart",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "vancentralmint.co.uk",
     "title": "Van Central Mint | Rare Coins, Bullion from Ukraine and Beyond",
     "business_name": "",
@@ -12175,69 +12248,6 @@
     "crawled_at": "2026-05-09T05:44:20.021355747Z",
     "technologies": [
       "3 Products",
-      "Cart.com",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "hignclothshop.com",
-    "title": "hignclothshop.Com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 30003,
-    "crawled_at": "2026-05-09T05:44:20.01595518Z",
-    "technologies": [
-      "Agoda",
-      "Cart.com",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "clothswmalls.com",
-    "title": "clothswmalls.com - Welcome to shop - Sale all clothing to 50% off",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 75240,
-    "crawled_at": "2026-05-09T05:44:20.0138381Z",
-    "technologies": [
-      "3 Products",
-      "Cart.com",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "cuteclothshop.com",
-    "title": "Cuteclothshop.com | Best Online Shopping Website for Discounted Deals",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 30003,
-    "crawled_at": "2026-05-09T05:38:19.983282277Z",
-    "technologies": [
       "Cart.com",
       "GZIP Module",
       "Google Cloud DNS",
