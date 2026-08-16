@@ -1,5 +1,31 @@
 [
   {
+    "domain": "itsradai.com",
+    "title": "RAD AI | Automate Revenue & Lead Generation",
+    "business_name": "RAD AI",
+    "country": "",
+    "seo_score": 82,
+    "tech_spend": 8089,
+    "crawled_at": "2026-08-16T15:55:30.172832871Z",
+    "technologies": [
+      "AI Log",
+      "Better Lead Generation Services",
+      "Content Delivery Network",
+      "Fastly",
+      "Formspree",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "UTF-8",
+      "monday.com"
+    ]
+  },
+  {
     "domain": "kimkaporis.com",
     "title": "Home | Kim Kaporis",
     "business_name": "",
@@ -18715,33 +18741,6 @@
       "YouTube",
       "jQuery",
       "monday.com"
-    ]
-  },
-  {
-    "domain": "habiata.com",
-    "title": "Habiata - Real Estate Management Platform",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 32929,
-    "crawled_at": "2026-05-23T01:50:19.992307175Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Full Media",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Pico CSS",
-      "Tailwind CSS",
-      "monday.com",
-      "shadcn ui"
     ]
   }
 ]
