@@ -1,5 +1,31 @@
 [
   {
+    "domain": "buggyrunning.co.uk",
+    "title": "Home",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 75,
+    "tech_spend": 384,
+    "crawled_at": "2026-08-16T11:03:06.79217583Z",
+    "technologies": [
+      "Adult Content",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Facebook Login",
+      "Facebook Reseller",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Perl",
+      "Setmore",
+      "Tagembed",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "tcmenergie.gmbh",
     "title": "Akupunktur, Massage & Chinesische Medizin TCM| Dübendorf & Uster | TCM ENERGIE",
     "business_name": "",
@@ -10180,33 +10206,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "buggyrunning.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 384,
-    "crawled_at": "2026-04-13T01:11:20.018378999Z",
-    "technologies": [
-      "Adult Content",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Facebook Login",
-      "Facebook Reseller",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Perl",
-      "QUIC",
-      "Setmore",
-      "Tagembed",
-      "Twitter Ads",
-      "UTF-8"
     ]
   },
   {
