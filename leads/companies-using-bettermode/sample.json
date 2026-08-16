@@ -2084,26 +2084,5 @@
       "Vector Internet Services",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "elaya.design",
-    "title": "Elaya | UX/UI & Product Designer for SaaS and B2B Companies",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 23824,
-    "crawled_at": "2025-12-29T11:19:38.350191794Z",
-    "technologies": [
-      "3D FlipBook",
-      "Alternate Protocol",
-      "BetterMode",
-      "Framer Sites",
-      "Ntent",
-      "QUIC",
-      "Vector Internet Services",
-      "Vercel",
-      "Yandex Hosting",
-      "Zeald"
-    ]
   }
 ]
