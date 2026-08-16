@@ -1,5 +1,35 @@
 [
   {
+    "domain": "horizonhealthbenefits.com",
+    "title": "Open Enrollment Resource Center",
+    "business_name": "",
+    "country": "",
+    "seo_score": 70,
+    "tech_spend": 81688,
+    "crawled_at": "2026-08-16T11:24:47.492255077Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Brainshark",
+      "Content Delivery Network",
+      "Express",
+      "Fastly",
+      "Fastly CDN",
+      "Highspot",
+      "Microdata for Google Shopping",
+      "PWA",
+      "QUIC",
+      "Seflow Italy",
+      "Sentry",
+      "UTF-8",
+      "Vector Internet Services",
+      "Wix",
+      "Wix Media",
+      "eLand",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "openskiesbenefits.com",
     "title": "Open Enrollment Resource Center",
     "business_name": "",
@@ -1815,34 +1845,6 @@
       "Wangsu",
       "Website Tonight",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "horizonhealthbenefits.com",
-    "title": "Open Enrollment Resource Center",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 35396,
-    "crawled_at": "2025-12-29T14:58:38.331328337Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Brainshark",
-      "Content Delivery Network",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "Highspot",
-      "Microdata for Google Shopping",
-      "PWA",
-      "QUIC",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "mlcom"
     ]
   }
 ]

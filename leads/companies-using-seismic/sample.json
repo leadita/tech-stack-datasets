@@ -1,5 +1,35 @@
 [
   {
+    "domain": "morganseismic.com",
+    "title": "Morgan Seismic | Vibration Monitoring Services Mount Vernon NY",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 12295,
+    "crawled_at": "2026-08-16T08:54:31.507488916Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CyberChimps",
+      "EmbedPress",
+      "Facebook Login",
+      "Facebook Reseller",
+      "Google Cloud DNS",
+      "Google Maps",
+      "Google My Business",
+      "IcoMoon",
+      "LiteSpeed",
+      "PHP",
+      "Seismic",
+      "Theme In WP",
+      "Twitter Ads",
+      "WP Booking Calendar",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "realpage.com",
     "title": "RealPage Software for Multifamily Property Management",
     "business_name": "Realpage",
@@ -2639,37 +2669,6 @@
       "Wix Media",
       "Yelp Badge",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "morganseismic.com",
-    "title": "Morgan Seismic | Vibration Monitoring Services Mount Vernon NY",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 12295,
-    "crawled_at": "2025-12-29T13:49:38.314229554Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CyberChimps",
-      "EmbedPress",
-      "Facebook Login",
-      "Facebook Reseller",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google My Business",
-      "IcoMoon",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "Seismic",
-      "Theme In WP",
-      "Twitter Ads",
-      "WP Booking Calendar",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
