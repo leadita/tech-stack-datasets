@@ -1,5 +1,33 @@
 [
   {
+    "domain": "gautengcollege.co.za",
+    "title": "Gauteng College of Engineering and Technology",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 70,
+    "tech_spend": 4623,
+    "crawled_at": "2026-08-16T14:32:04.035907613Z",
+    "technologies": [
+      "Bulma",
+      "Facebook Customer Chat SDK",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "PayPal Adaptive Payments",
+      "PayPal Button",
+      "PayPal Form",
+      "QUIC",
+      "Slider Revolution",
+      "TalentLMS",
+      "Tidio",
+      "Twitter Ads",
+      "University or College"
+    ]
+  },
+  {
     "domain": "rdahealthcare.net",
     "title": "RDA | Proven Healthcare Supply Chain Services",
     "business_name": "",
@@ -9902,34 +9930,6 @@
       "TalentLMS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "gautengcollege.co.za",
-    "title": "Gauteng College of Engineering and Technology",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 65,
-    "tech_spend": 4623,
-    "crawled_at": "2025-12-29T16:25:38.342309766Z",
-    "technologies": [
-      "Bulma",
-      "Facebook Customer Chat SDK",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "PayPal Adaptive Payments",
-      "PayPal Button",
-      "PayPal Form",
-      "QUIC",
-      "Slider Revolution",
-      "TalentLMS",
-      "Tidio",
-      "Twitter Ads",
-      "University or College"
     ]
   }
 ]

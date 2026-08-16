@@ -1,5 +1,53 @@
 [
   {
+    "domain": "edvantagescience.com",
+    "title": "Edvantage Science",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 11358,
+    "crawled_at": "2026-08-16T12:07:41.523733975Z",
+    "technologies": [
+      "Apache",
+      "Fastly",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Moodle",
+      "NFOrce Internet",
+      "PHP",
+      "Totara",
+      "UTF-8",
+      "Ubuntu",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "eduznaniya.ru",
+    "title": "АНО ДПО \"Академический центр \"ЗНАНИЯ\"",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 11100,
+    "crawled_at": "2026-08-15T20:13:49.406752554Z",
+    "technologies": [
+      "Apache",
+      "Fastly",
+      "GZIP Module",
+      "Moodle",
+      "NFOrce Internet",
+      "PHP",
+      "Totara",
+      "UTF-8",
+      "Ubuntu",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "coursuniq.net",
     "title": "UNIVERSITÉ QUISQUEYA: Centre de formation à distance",
     "business_name": "",
@@ -1170,54 +1218,6 @@
       "Stetic",
       "Totara",
       "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "edvantagescience.com",
-    "title": "Edvantage Science",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 11358,
-    "crawled_at": "2025-12-29T15:19:38.312555952Z",
-    "technologies": [
-      "Apache",
-      "Fastly",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "Totara",
-      "UTF-8",
-      "Ubuntu",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "eduznaniya.ru",
-    "title": "АНО ДПО \"Академический центр \"ЗНАНИЯ\"",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 11100,
-    "crawled_at": "2025-12-29T07:52:38.341768473Z",
-    "technologies": [
-      "Apache",
-      "Fastly",
-      "GZIP Module",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "Totara",
-      "UTF-8",
-      "Ubuntu",
       "jsDelivr"
     ]
   }
