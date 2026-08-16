@@ -1,5 +1,25 @@
 [
   {
+    "domain": "gifft-europe.eu",
+    "title": "Homepage - www.gifft-europe.eu",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": "",
+    "crawled_at": "2026-08-15T21:26:37.873001623Z",
+    "technologies": [
+      "Apache",
+      "Express",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Microsoft Teams",
+      "PWA",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "londonac.co.uk",
     "title": "Courses – English Courses-Business course-Diploma Courses",
     "business_name": "",
@@ -18052,37 +18072,6 @@
       "eLand",
       "hCaptcha",
       "jQuery",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "questaward.org",
-    "title": "Home - Quest",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 50,
-    "tech_spend": 102,
-    "crawled_at": "2026-05-04T06:49:34.168343649Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DAV",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "LiteSpeed",
-      "Microsoft Teams",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "eLand",
       "reCAPTCHA"
     ]
   }
