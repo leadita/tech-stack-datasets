@@ -1,5 +1,32 @@
 [
   {
+    "domain": "bayareaartsmarketing.com",
+    "title": "BAAM",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 56933,
+    "crawled_at": "2026-08-15T20:50:48.917144657Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Express",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "Line2",
+      "Lytics",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "kshb.com",
     "title": "KSHB 41 Kansas City: News, Weather, Chiefs, Traffic and Sports",
     "business_name": "",
@@ -1390,33 +1417,6 @@
       "UTF-8",
       "Visx",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "bayareaartsmarketing.com",
-    "title": "BAAM",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 16541,
-    "crawled_at": "2025-12-29T08:07:38.330437792Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Express",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "Line2",
-      "Lytics",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
