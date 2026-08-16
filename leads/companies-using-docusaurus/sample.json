@@ -1,5 +1,45 @@
 [
   {
+    "domain": "vanceism7.us",
+    "title": "Vance Palacio | My Site",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-08-16T08:54:31.510794114Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Perl",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "evanote.mew.kr",
+    "title": "EvaNOTE - 지식과 경험의 기록 | EvaNOTE",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-08-16T07:26:08.581059514Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "KaTeX",
+      "License Buttons",
+      "Nginx",
+      "Perl",
+      "Python",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "advancedprocedureswritersguide.org",
     "title": "Hello from Writer's Guide | Writer's Guide",
     "business_name": "",
@@ -6935,29 +6975,6 @@
     ]
   },
   {
-    "domain": "mew.kr",
-    "title": "EvaNOTE - 지식과 경험의 기록 | EvaNOTE",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-04-27T09:29:22.045794558Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "KaTeX",
-      "License Buttons",
-      "Nginx",
-      "Perl",
-      "Python",
-      "jsDelivr"
-    ]
-  },
-  {
     "domain": "lightedstages.nl",
     "title": "Home - Lighted Stages",
     "business_name": "",
@@ -12668,25 +12685,6 @@
       "GitHub Hosting",
       "Perl",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "veveboutique.com",
-    "title": "Software Built to Grow Wedding Services | VEVEBOUTIQUE",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 228,
-    "crawled_at": "2026-03-18T00:35:08.089622586Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Netlify",
-      "Perl",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
