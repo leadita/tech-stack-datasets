@@ -1,5 +1,24 @@
 [
   {
+    "domain": "ericbuchholz.com",
+    "title": "Home | Eric Buchholz",
+    "business_name": "",
+    "country": "",
+    "seo_score": 32,
+    "tech_spend": 600,
+    "crawled_at": "2026-08-17T22:28:05.611442479Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Band Camp",
+      "Camp",
+      "Docusaurus",
+      "GZIP Module",
+      "Perl",
+      "Twitter Ads"
+    ]
+  },
+  {
     "domain": "vanceism7.us",
     "title": "Vance Palacio | My Site",
     "business_name": "",
@@ -12666,25 +12685,6 @@
       "Webflow",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "ossyn.com",
-    "title": "Level up your open source competence | OSSYN",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 600,
-    "crawled_at": "2026-03-18T07:27:02.756300753Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Perl",
-      "UTF-8"
     ]
   }
 ]
