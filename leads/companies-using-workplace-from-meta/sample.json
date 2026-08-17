@@ -9194,43 +9194,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "thesandboxseries.com",
-    "title": "The Sandbox Series™ | Career Books for Women in Business",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 21964,
-    "crawled_at": "2025-12-29T17:46:38.337225226Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "DAV",
-      "Duda",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "FormSubmit",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "OSS CDN",
-      "QUIC",
-      "Tailwind CSS",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Workplace from Meta",
-      "Yandex Hosting"
-    ]
   }
 ]
