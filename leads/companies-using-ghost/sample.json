@@ -1,5 +1,28 @@
 [
   {
+    "domain": "beyachadbc.com",
+    "title": "Home Page | BeyachadBC",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 63,
+    "crawled_at": "2026-08-16T16:55:31.466324113Z",
+    "technologies": [
+      "GZIP Module",
+      "Ghost",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "OpenResty",
+      "PHP",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "dualpowergathering.org",
     "title": "Dual Power Gathering",
     "business_name": "Dual Power Gathering",
@@ -13220,33 +13243,6 @@
       "OpenResty",
       "Steinway",
       "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "mindfularticle.com",
-    "title": "MindfulArticle",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 3110,
-    "crawled_at": "2026-04-03T03:44:20.003840429Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Angular",
-      "ArvanCloud",
-      "CloudFront",
-      "Content Delivery Network",
-      "Express",
-      "Ghost",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "UTF-8",
-      "Ubuntu",
       "jsDelivr"
     ]
   }

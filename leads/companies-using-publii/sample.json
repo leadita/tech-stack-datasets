@@ -1,5 +1,28 @@
 [
   {
+    "domain": "industriouskraken.com",
+    "title": "Industrious Kraken",
+    "business_name": "Industrious Kraken",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 17599,
+    "crawled_at": "2026-08-17T10:43:09.366510618Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "emergentbehavior.com",
     "title": "Emergent Behavior",
     "business_name": "Emergent Behavior",
@@ -8520,28 +8543,6 @@
       "Publii",
       "UTF-8",
       "WordPress Related Posts",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "industriouskraken.com",
-    "title": "Industrious Kraken",
-    "business_name": "Industrious Kraken",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 315,
-    "crawled_at": "2025-12-30T03:19:38.322492662Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "Microdata for Google Shopping",
-      "Publii",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   }
