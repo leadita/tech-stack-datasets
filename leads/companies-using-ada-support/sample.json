@@ -5546,45 +5546,5 @@
       "eLand",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "sodastream.co.uk",
-    "title": "SodaStream Official UK Store: Sparkling Water Makers, Gas Cylinders – SodaStream UK",
-    "business_name": "SodaStream",
-    "country": "SGP",
-    "seo_score": 82,
-    "tech_spend": 97852,
-    "crawled_at": "2025-12-30T01:40:09.62405039Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Ada Support",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Dynamic Yield",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "M247",
-      "Microdata for Google Shopping",
-      "OneTrust Domain Verification",
-      "Plausible Analytics",
-      "QUIC",
-      "Shopify",
-      "Swell Rewards",
-      "Tailwind CSS",
-      "Trustpilot Reviews for WordPress",
-      "UTF-8",
-      "YouTube",
-      "eLand",
-      "hCaptcha",
-      "jsDelivr",
-      "reCAPTCHA",
-      "shadcn ui"
-    ]
   }
 ]

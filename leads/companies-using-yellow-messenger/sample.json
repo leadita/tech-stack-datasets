@@ -4870,40 +4870,5 @@
       "jsDelivr",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "gtpl.net",
-    "title": "GTPL Digital Cable TV, High-Speed Broadband, & OTT Services",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 62,
-    "tech_spend": 36490,
-    "crawled_at": "2025-12-29T18:38:36.396289481Z",
-    "technologies": [
-      "Bing Cashback",
-      "BunnyCDN General",
-      "DoubleClick Bid Manager",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microsoft Clarity",
-      "Nginx",
-      "No-Q",
-      "Oracle Cloud",
-      "Oracle Content Management",
-      "Radix UI",
-      "Twitter Ads",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "Yellow Messenger",
-      "YouTube",
-      "shadcn ui"
-    ]
   }
 ]
