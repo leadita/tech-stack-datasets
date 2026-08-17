@@ -1,5 +1,31 @@
 [
   {
+    "domain": "pataniyafinserve.in",
+    "title": "Pataniya Finserve Services Pvt Ltd",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 70,
+    "tech_spend": 2499,
+    "crawled_at": "2026-08-16T17:15:10.830173372Z",
+    "technologies": [
+      "Bulma",
+      "Cloudflare",
+      "Express",
+      "Google",
+      "Google Cloud CDN",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "QUIC",
+      "Semantic UI",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "WoWonder",
+      "WordPress",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "sivavelresidency.com",
     "title": "Sivavel Residency",
     "business_name": "",
@@ -14712,35 +14738,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Ubuntu",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "mustangmarkets.com",
-    "title": "Mustang Markets",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 39,
-    "crawled_at": "2026-04-16T20:10:57.798529436Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DuracellTomi Google Tag Manager for WordPress",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "PHP",
-      "Semantic UI",
-      "SmartCrawl",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
       "jQuery"
     ]
   }

@@ -1,5 +1,54 @@
 [
   {
+    "domain": "clyda.app",
+    "title": "Clyda - Learn languages effectively with personalized AI",
+    "business_name": "Clyda",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 279,
+    "crawled_at": "2026-08-16T18:05:32.31381553Z",
+    "technologies": [
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Google My Business",
+      "Mantine",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Sitelinks Search Box",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "paradiseperfumessg.com",
+    "title": "Paradise Perfumes SG | Take App",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 15235,
+    "crawled_at": "2026-08-16T17:15:10.824932688Z",
+    "technologies": [
+      "Alternate Protocol",
+      "BunnyCDN",
+      "BunnyCDN General",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "ElementUI",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Maps",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Mantine",
+      "Next.js",
+      "SMC",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "simply-jet.it",
     "title": "Noleggio un jet privato l Servizio 24/7 l Simply Jet",
     "business_name": "Simply Jet",
@@ -13415,49 +13464,6 @@
       "Prismic",
       "Subversion",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "docelar.store",
-    "title": "doce lar | Take App",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 235,
-    "crawled_at": "2026-05-16T09:41:19.969032665Z",
-    "technologies": [
-      "Alternate Protocol",
-      "BunnyCDN",
-      "BunnyCDN General",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "ElementUI",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Mantine",
-      "Next.js",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "mnsalas.cl",
-    "title": "Matias N. Salas",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 57,
-    "tech_spend": 60,
-    "crawled_at": "2026-05-16T09:17:19.990758153Z",
-    "technologies": [
-      "DAV",
-      "Express",
-      "GitHub Hosting",
-      "Heroku",
-      "Instagram Follow Button",
-      "Mantine",
-      "Next.js",
-      "Nginx",
-      "Python"
     ]
   }
 ]
