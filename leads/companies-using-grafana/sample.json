@@ -1,5 +1,24 @@
 [
   {
+    "domain": "doprava.digital",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 11203,
+    "crawled_at": "2026-08-17T15:55:16.78636418Z",
+    "technologies": [
+      "Apache",
+      "Barchart",
+      "Contento",
+      "Express",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Grafana",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "elm-monitoring.app",
     "title": "Grafana",
     "business_name": "",

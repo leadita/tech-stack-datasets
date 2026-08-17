@@ -1,4 +1,5 @@
 domain,title,business_name,country,seo_score,tech_spend,crawled_at,technologies
+doprava.digital,Grafana,,,30,11203,2026-08-17T15:55:16.78636418Z,"['Apache', 'Barchart', 'Contento', 'Express', 'GitHub Hosting', 'Google Cloud DNS', 'Grafana', 'UTF-8']"
 elm-monitoring.app,Grafana,,,40,11398,2026-08-16T16:49:40.536799453Z,"['Apache', 'Barchart', 'Contento', 'DAV', 'Express', 'GitHub Hosting', 'Grafana', 'No-Q', 'UTF-8']"
 darcianderic.com,Grafana,,,30,1200,2026-06-04T09:50:37.741401576Z,"['Apache', 'Barchart', 'Express', 'GZIP Module', 'GitHub Hosting', 'Google My Business', 'Grafana', 'Nginx', 'UTF-8']"
 vikshep.com,Arya Shakti,,,40,32899,2026-04-16T00:49:35.356010479Z,"['AAPT', 'Apache', 'DAV', 'Financial Services Guide', 'GitHub Hosting', 'Google My Business', 'Grafana', 'KVH', 'Ntent', 'On The Map', 'Paessler', 'RawGit', 'SMC', 'Subversion', 'UTF-8']"
