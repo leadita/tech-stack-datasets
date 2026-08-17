@@ -1993,40 +1993,5 @@
       "eLand",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "alliedsystems.co.zw",
-    "title": "Allied Systems (Pvt) Ltd",
-    "business_name": "",
-    "country": "ZWE",
-    "seo_score": 82,
-    "tech_spend": 105057,
-    "crawled_at": "2025-12-29T20:57:52.320902014Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Adobe Creative Cloud WebFonts",
-      "Apture Linking Platform",
-      "Aruba",
-      "Contento",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "University or College",
-      "WordPress SEO Structured Data Schema Plugin",
-      "Zendesk Guide",
-      "Zoho Books",
-      "eLand",
-      "jQuery"
-    ]
   }
 ]
