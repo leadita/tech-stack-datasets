@@ -1,5 +1,39 @@
 [
   {
+    "domain": "westgatedentalcare.net",
+    "title": "Dentist Arlington Heights, IL | Dentist Near Me | Westgate Dental Care",
+    "business_name": "Westgate Dental Care",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 46396,
+    "crawled_at": "2026-08-16T20:21:59.587035731Z",
+    "technologies": [
+      "Birdeye",
+      "Fontello",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "NexHealth",
+      "Nginx",
+      "Parallels Plesk Panel",
+      "QUIC",
+      "TNT Dental",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Yelp Badge",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "caredentalassociates.com",
     "title": "Restorative Dentistry - Care Dental",
     "business_name": "Care Dental",
@@ -20510,33 +20544,6 @@
       "WordPress",
       "WordPress Multisite",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "ellensohdds.com",
-    "title": "Ellen S Oh DDS – First Class Dentistry",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 9908,
-    "crawled_at": "2026-03-19T11:28:25.137008967Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Apache",
-      "Elementor",
-      "EmbedPress",
-      "Hello Elementor",
-      "Instagram Follow Button",
-      "NFOrce Internet",
-      "NexHealth",
-      "PHP",
-      "QUIC",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
