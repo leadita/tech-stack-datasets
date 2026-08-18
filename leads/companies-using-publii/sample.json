@@ -8525,25 +8525,5 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
     ]
-  },
-  {
-    "domain": "butedigital.co.uk",
-    "title": "Bute Digital",
-    "business_name": "Bute Digital",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 109,
-    "crawled_at": "2025-12-30T11:43:38.316652155Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Content Delivery Network",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Publii",
-      "UTF-8",
-      "WordPress Related Posts",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
   }
 ]
