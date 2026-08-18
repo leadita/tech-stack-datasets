@@ -1,5 +1,23 @@
 [
   {
+    "domain": "andrei4bvsa.com",
+    "title": "Andrei K. for BVSA - Building a Safer, Stronger Bear Valley Together",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 15240,
+    "crawled_at": "2026-08-17T22:55:11.828323528Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Chakra UI",
+      "Content Delivery Network",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "tamasgabor.com",
     "title": "GÁBOR TAMÁS | Épület, enteriőr, ingatlan fotós, fotográfus.",
     "business_name": "",
@@ -12838,30 +12856,6 @@
       "QUIC",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "uprinting.store",
-    "title": "Design with JSK",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 3,
-    "crawled_at": "2026-05-08T14:50:20.008454662Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Express",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Microsoft Clarity",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel",
-      "YouTube"
     ]
   }
 ]

@@ -1,5 +1,40 @@
 [
   {
+    "domain": "studios-mariagini.gr",
+    "title": "Maria Gini",
+    "business_name": "",
+    "country": "GRC",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-08-18T12:35:15.024346192Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google My Business",
+      "Nginx",
+      "PHP",
+      "Semantic UI",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "ez-stay.in",
+    "title": "Ez-Stay - Villa for Rent in Hyderabad",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 67,
+    "tech_spend": 30,
+    "crawled_at": "2026-08-18T00:37:39.662928375Z",
+    "technologies": [
+      "GetButton.io",
+      "LiteSpeed",
+      "Semantic UI",
+      "Tailwind CSS",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "pataniyafinserve.in",
     "title": "Pataniya Finserve Services Pvt Ltd",
     "business_name": "",
@@ -14684,61 +14719,6 @@
       "eLand",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "handsinnexttech.in",
-    "title": "Hands In Next Tech Pvt. Ltd. | Best Software Company in Ranchi | Top Company In Ranchi | Top Software Company In India | Best Product Company | IT Company In Ranchi",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 2440,
-    "crawled_at": "2026-04-16T22:08:20.004061849Z",
-    "technologies": [
-      "Apache",
-      "Bulma",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "QUIC",
-      "Semantic UI",
-      "Tailwind CSS",
-      "Tawk",
-      "UTF-8",
-      "University or College",
-      "WhatsApp Sharing",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "sikaichautari.edu.np",
-    "title": "Sikai Chautari",
-    "business_name": "",
-    "country": "NPL",
-    "seo_score": 67,
-    "tech_spend": 15139,
-    "crawled_at": "2026-04-16T21:02:20.002450294Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "Semantic UI",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "jQuery"
     ]
   }
 ]
