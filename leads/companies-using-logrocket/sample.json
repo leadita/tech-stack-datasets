@@ -1,5 +1,36 @@
 [
   {
+    "domain": "futurestay.com",
+    "title": "Short-term Rental Management Software | Futurestay",
+    "business_name": "Futurestay",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 32188,
+    "crawled_at": "2026-08-18T10:35:52.864488959Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Booking Affiliate",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "Fireblade",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Hubspot Knowledge Base",
+      "Instagram Follow Button",
+      "LogRocket",
+      "Microdata for Google Shopping",
+      "UTF-8",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "prescriptiondoctor.com",
     "title": "Prescription Doctor Online | UK Pharmacy Provider",
     "business_name": "",
