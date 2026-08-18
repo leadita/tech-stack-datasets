@@ -1,5 +1,34 @@
 [
   {
+    "domain": "shamrockmm.com",
+    "title": "Shamrock Group LLC #1 – Car Dealer in Pleasant Grove, UT",
+    "business_name": "",
+    "country": "JPN",
+    "seo_score": 77,
+    "tech_spend": 4828,
+    "crawled_at": "2026-08-18T10:48:32.617087178Z",
+    "technologies": [
+      "Edmunds",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "StackPath",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "reCAPTCHA",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "1200woai.net",
     "title": "News Radio 1200 WOAI - San Antonio’s News, Traffic and Weather Station",
     "business_name": "",
@@ -5999,35 +6028,6 @@
       "accessiBe",
       "eLand",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "shamrockmm.com",
-    "title": "Shamrock Group LLC #1 – Car Dealer in Pleasant Grove, UT",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 77,
-    "tech_spend": 4828,
-    "crawled_at": "2025-12-31T02:58:38.321153524Z",
-    "technologies": [
-      "Edmunds",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "StackPath",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   }
 ]
