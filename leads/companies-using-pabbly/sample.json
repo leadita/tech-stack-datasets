@@ -6327,32 +6327,5 @@
       "Webflow",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "ecoder.agency",
-    "title": "Ecoder - Boost Your Rankings Without Breaking Your Budget",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 17932,
-    "crawled_at": "2025-12-30T17:46:25.588713848Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Better Lead Generation Services",
-      "DAV",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "Pabbly",
-      "Perl",
-      "Pexels",
-      "Pixabay",
-      "QUIC",
-      "Tailwind CSS",
-      "Thank You",
-      "Unsplash",
-      "shadcn ui"
-    ]
   }
 ]
