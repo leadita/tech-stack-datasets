@@ -1,5 +1,45 @@
 [
   {
+    "domain": "jhbest.com",
+    "title": "Home, Galva, IL | John H. Best Display Systems",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 92,
+    "tech_spend": 45621,
+    "crawled_at": "2026-08-17T20:59:34.529389335Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Beaver Builder Lite",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Contento",
+      "EmbedPress",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gusto",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Pagekit",
+      "Schema Plugin",
+      "SiteW",
+      "Sucuri Cloudproxy",
+      "Theme In WP",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight",
+      "WordPress",
+      "WordPress Multisite",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "fivearrowsadvisors.com",
     "title": "Five Arrows Advisors | Fractional Controller",
     "business_name": "Five Arrows Advisors",
@@ -18600,35 +18640,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "benlister.design",
-    "title": "Ben Lister | Product designer and design technologist specializing in design systems",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 8020,
-    "crawled_at": "2026-01-28T17:37:43.429081624Z",
-    "technologies": [
-      "Apache",
-      "Express",
-      "Figma",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Gusto",
-      "Instagram Follow Button",
-      "Medium",
-      "Okta",
-      "UTF-8",
-      "University or College",
-      "YouTube"
     ]
   }
 ]
