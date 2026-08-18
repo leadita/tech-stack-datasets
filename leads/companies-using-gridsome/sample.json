@@ -1,5 +1,49 @@
 [
   {
+    "domain": "industrie40award.com",
+    "title": "Industrie 4.0 Award | The Benchmark for Industrial - Industrie 4.0 Award | The Benchmark for Industrial",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 82,
+    "tech_spend": 77692,
+    "crawled_at": "2026-08-18T20:00:18.2822244Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "DAV",
+      "Financial Services Guide",
+      "Fireblade",
+      "GZIP Module",
+      "Gridsome",
+      "Idaq",
+      "K2F",
+      "KVH",
+      "Line2",
+      "QUIC",
+      "Subversion",
+      "WordPress"
+    ]
+  },
+  {
+    "domain": "forwardingplus.nl",
+    "title": "Transport naar Centraal-Europa | Bereken eenvoudig en snel online je transportkosten",
+    "business_name": "forwardingplus.nl",
+    "country": "NLD",
+    "seo_score": 77,
+    "tech_spend": 228,
+    "crawled_at": "2026-08-18T11:19:24.92166028Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Google My Business",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "dj-rental.cz",
     "title": "Pronájem DJ techniky - DJ Rent",
     "business_name": "",
@@ -11963,40 +12007,6 @@
       "GZIP Module",
       "Gridsome",
       "Stripe"
-    ]
-  },
-  {
-    "domain": "listeriosisprevention.com",
-    "title": "Alliance for Listeriosis Prevention",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-02-01T23:25:48.886000973Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "Netlify",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "ottoandthemachines.com",
-    "title": "Book - Otto & the machines",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-02-01T19:13:48.881954529Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Stripe",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]

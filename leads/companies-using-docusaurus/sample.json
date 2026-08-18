@@ -1,5 +1,54 @@
 [
   {
+    "domain": "datasciencepool.hu.nl",
+    "title": "Data Science Pool | Data Science Pool",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 7580,
+    "crawled_at": "2026-08-18T18:36:45.675677212Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Codero",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Material-UI",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "better-messages.com",
+    "title": "Realtime private messaging system for WordPress",
+    "business_name": "WordPlus",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 15636,
+    "crawled_at": "2026-08-18T03:42:29.722783856Z",
+    "technologies": [
+      "Alibaba Cloud CDN",
+      "Alternate Protocol",
+      "BuddyBoss",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fireblade",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Nginx",
+      "PHP",
+      "Perl",
+      "Python",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Tailwind CSS",
+      "UptimeRobot"
+    ]
+  },
+  {
     "domain": "ericbuchholz.com",
     "title": "Home | Eric Buchholz",
     "business_name": "",
@@ -12633,58 +12682,6 @@
       "University or College",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "openflexo.org",
-    "title": "Openflexo | Openflexo",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 5000,
-    "crawled_at": "2026-03-18T12:47:26.421315782Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Debian",
-      "Docusaurus",
-      "GZIP Module",
-      "GitHub Hosting",
-      "M247",
-      "Perl",
-      "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "erincallie.com",
-    "title": "Erin Callie",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 6846,
-    "crawled_at": "2026-03-18T09:38:53.789292936Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Docusaurus",
-      "ElementUI",
-      "Fastly",
-      "Font Awesome",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hubspot Knowledge Base",
-      "NFOrce Internet",
-      "QUIC",
-      "Salesforce Hosted",
-      "UTF-8",
-      "University or College",
-      "Webflow",
-      "YouTube",
-      "jsDelivr"
     ]
   }
 ]
