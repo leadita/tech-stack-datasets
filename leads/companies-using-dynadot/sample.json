@@ -1,5 +1,36 @@
 [
   {
+    "domain": "sanantoniocommercialinspectors.com",
+    "title": "Commercial Property Inspections Texas | Imperial Pro Inspection | Houston, Austin, Dallas–Fort Worth, San Antonio",
+    "business_name": "Imperial Pro Inspection LLC — Commercial Division",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 18280,
+    "crawled_at": "2026-08-18T01:54:38.165184643Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Fireblade",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Customer Reviews",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Ntent",
+      "Perl",
+      "QUIC",
+      "RawGit",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "philippineproperties.net",
     "title": "Welcome to PhilippineProperties.com",
     "business_name": "",
@@ -38,37 +69,6 @@
       "Microdata for Google Shopping",
       "Prospective",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "austincommercialinspectors.com",
-    "title": "Commercial Property Inspections Texas | Imperial Pro Inspection | Houston, Austin, Dallas–Fort Worth, San Antonio",
-    "business_name": "Imperial Pro Inspection LLC — Commercial Division",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 18280,
-    "crawled_at": "2026-08-16T18:54:50.379217966Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Customer Reviews",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Ntent",
-      "Perl",
-      "QUIC",
-      "RawGit",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
