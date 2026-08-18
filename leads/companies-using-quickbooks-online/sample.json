@@ -1,5 +1,34 @@
 [
   {
+    "domain": "trgcpas.com",
+    "title": "Home | Rehfeldt Group CPAs",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 28340,
+    "crawled_at": "2026-08-18T07:19:37.892944154Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Zoom Video Conferencing",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "pgnaccounting.com",
     "title": "PGN Accounting Group | CPA Firm — Tax, Bookkeeping & Advisory",
     "business_name": "",
@@ -10432,63 +10461,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "trgcpas.com",
-    "title": "Home | Rehfeldt Group CPAs",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 12800,
-    "crawled_at": "2025-12-30T23:14:41.597600557Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "Zoom Video Conferencing",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "simplykeeping1.com",
-    "title": "About us - simplykeeping1.com",
-    "business_name": "simplykeeping1.com",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 2281,
-    "crawled_at": "2025-12-30T13:07:27.278753432Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Astra Theme",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Google Analytics",
-      "Google Tag Manager",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "QuickBooks Online",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "jQuery"
     ]
   }
 ]
