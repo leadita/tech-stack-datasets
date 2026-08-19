@@ -1,5 +1,41 @@
 [
   {
+    "domain": "nhaccounting.co.nz",
+    "title": "Accountant and Bookkeeper North Shore, Auckland - North Harbour Accounting Limited",
+    "business_name": "North Harbour Accounting Limited",
+    "country": "NZL",
+    "seo_score": 70,
+    "tech_spend": 19879,
+    "crawled_at": "2026-08-18T17:24:49.327470915Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Content Delivery Network",
+      "Dext",
+      "Fastly",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Gravity",
+      "Gravity Forms",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Sapper",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "Xero",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "bbtconstructionllc.com",
     "title": "HOME | Bbtconstruction",
     "business_name": "",
@@ -5701,41 +5737,6 @@
       "Wix Media",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "nhaccounting.co.nz",
-    "title": "Accountant and Bookkeeper North Shore, Auckland - North Harbour Accounting Limited",
-    "business_name": "",
-    "country": "NZL",
-    "seo_score": 70,
-    "tech_spend": 19879,
-    "crawled_at": "2025-12-31T09:10:38.35976892Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Dext",
-      "Fastly",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Gravity",
-      "Gravity Forms",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Sapper",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "Xero",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
