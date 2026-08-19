@@ -1,5 +1,43 @@
 [
   {
+    "domain": "linncreekmo.com",
+    "title": "City of Linn Creek, MO",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 60309,
+    "crawled_at": "2026-08-19T04:30:44.463712872Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apache",
+      "Apture Linking Platform",
+      "ConvertBox",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "Facebook Embedded Posts",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Modern Events Calendar Lite",
+      "PHP",
+      "SMC",
+      "UTF-8",
+      "WP Rocket",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "yt90activationlab.com",
     "title": "The YT90 Activation Lab | Done By Lunch",
     "business_name": "",
@@ -22576,35 +22614,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "verygoodcoverage.com",
-    "title": "Self-Employed Health Insurance | Very Good Coverage",
-    "business_name": "Very Good Coverage",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 5701,
-    "crawled_at": "2026-04-13T14:44:20.01275967Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Content Delivery Network",
-      "ConvertBox",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8",
-      "WF Cookie Consent",
-      "Webflow",
-      "Wiser Notify"
     ]
   }
 ]
