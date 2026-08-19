@@ -1,5 +1,51 @@
 [
   {
+    "domain": "gabedraper.com",
+    "title": "Gabe Draper | Gabe Draper",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 1893,
+    "crawled_at": "2026-08-18T22:07:06.394290523Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Bulma",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Elegant Themes",
+      "EmbedPress",
+      "GoDaddy",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Instagram Feed for WordPress",
+      "PHP",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "YouCanBookMe",
+      "Zerif Lite",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "tokenilsson.com",
+    "title": "Toke Nilsson — Minimal Luxe One‑pager",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 3,
+    "crawled_at": "2026-08-18T18:52:30.456247065Z",
+    "technologies": [
+      "Apache",
+      "Google Cloud DNS",
+      "Google Font API",
+      "YouCanBookMe"
+    ]
+  },
+  {
     "domain": "icdl.com",
     "title": "Home of DIRFloortime® (Floortime)",
     "business_name": "",
@@ -17097,71 +17143,6 @@
       "Twitter Ads",
       "YouCanBookMe",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "experiencedmp.com",
-    "title": "Wakefield & Rhode Island Professional… | Dennis Moffitt Painting",
-    "business_name": "",
-    "country": "VCT",
-    "seo_score": 70,
-    "tech_spend": 12122,
-    "crawled_at": "2026-04-26T17:05:19.993919054Z",
-    "technologies": [
-      "Bing Cashback",
-      "Bing Conversion Tracking",
-      "CallRail",
-      "Craft",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Google Analytics",
-      "Google Customer Reviews",
-      "Google Tag Manager",
-      "HubSpot Conversations",
-      "Hubspot",
-      "Instagram Follow Button",
-      "LinkedIn Insights",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Say what",
-      "The Deck",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouCanBookMe",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "halaaltogo.com",
-    "title": "Halaal To Go",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 3248,
-    "crawled_at": "2026-04-26T12:32:19.999553696Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Aruba",
-      "Baidu Cloud",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "Perl",
-      "QUIC",
-      "UTF-8",
-      "YouCanBookMe",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
