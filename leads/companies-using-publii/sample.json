@@ -1,5 +1,32 @@
 [
   {
+    "domain": "digitalhumanitarians.com",
+    "title": "Digital Humanitarian Network",
+    "business_name": "Digital Humanitarian Network",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 712,
+    "crawled_at": "2026-08-18T13:03:22.735885858Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Publii",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "industriouskraken.com",
     "title": "Industrious Kraken",
     "business_name": "Industrious Kraken",
@@ -8496,33 +8523,6 @@
       "GZIP Module",
       "Microdata for Google Shopping",
       "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "digitalhumanitarians.com",
-    "title": "Digital Humanitarian Network",
-    "business_name": "Digital Humanitarian Network",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 712,
-    "crawled_at": "2025-12-31T05:16:38.317526305Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Publii",
-      "Tailwind CSS",
-      "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   }
