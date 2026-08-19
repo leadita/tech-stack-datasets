@@ -1,5 +1,74 @@
 [
   {
+    "domain": "wesing4all.com",
+    "title": "Joy At Your Events With Our A Cappella Quartets",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 10159,
+    "crawled_at": "2026-08-19T14:29:57.488860024Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Amazon CloudFront",
+      "BLR",
+      "CloudFront",
+      "Coming Soon Page",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "jmxtrade.org",
+    "title": "Digital Real Estate Specialist",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 3236,
+    "crawled_at": "2026-08-19T04:44:20.850410931Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Prospective",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "alfalahsolutions.ae",
+    "title": "AL FALAH BUSINESS SOLUTIONS",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 7919,
+    "crawled_at": "2026-08-18T18:02:54.148287295Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon CloudFront",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Dynadot",
+      "ElementUI",
+      "Financial Services Guide",
+      "Fireblade",
+      "Font Awesome",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "UTF-8",
+      "Unsplash"
+    ]
+  },
+  {
     "domain": "sanantoniocommercialinspectors.com",
     "title": "Commercial Property Inspections Texas | Imperial Pro Inspection | Houston, Austin, Dallas–Fort Worth, San Antonio",
     "business_name": "Imperial Pro Inspection LLC — Commercial Division",
@@ -48,26 +117,6 @@
       "Microdata for Google Shopping",
       "Prospective",
       "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "descalingkit.com",
-    "title": "Digital Real Estate Specialist",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 3236,
-    "crawled_at": "2026-08-17T07:30:56.233057516Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Prospective",
       "UTF-8"
     ]
   },
@@ -4819,68 +4868,6 @@
       "Font Awesome",
       "GZIP Module",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "wesing4all.com",
-    "title": "Bring Joy To Your Events With Our A Cappella Quartets",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 258,
-    "crawled_at": "2026-01-01T17:16:07.858904777Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Coming Soon Page",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "wheretherivermeetsthestars.com",
-    "title": "Where the River meets the Stars - Outdoor River Front Wedding and Event Venue with Covered Reception Pavilion",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 258,
-    "crawled_at": "2026-01-01T16:17:34.823656509Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Coming Soon Page",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "alfalahsolutions.ae",
-    "title": "AL FALAH BUSINESS SOLUTIONS",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 7919,
-    "crawled_at": "2025-12-31T09:31:38.328777015Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DAV",
-      "Dynadot",
-      "Financial Services Guide",
-      "Fireblade",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8",
-      "Unsplash"
     ]
   }
 ]
