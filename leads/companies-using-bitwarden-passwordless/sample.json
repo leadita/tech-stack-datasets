@@ -1,5 +1,24 @@
 [
   {
+    "domain": "calder.dev",
+    "title": "calder.dev",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 7500,
+    "crawled_at": "2026-08-18T19:37:18.862006629Z",
+    "technologies": [
+      "Bitwarden Passwordless",
+      "Fireblade",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Nginx",
+      "Python",
+      "Ubuntu",
+      "University or College"
+    ]
+  },
+  {
     "domain": "shaun.cool",
     "title": "SHAUN",
     "business_name": "",
@@ -18794,50 +18813,6 @@
       "eLand",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "permanentjewelrybestie.com",
-    "title": "Permanent Jewelry Chains, Kits & Training | Permanent Jewelry Bestie",
-    "business_name": "Permanent Jewelry Bestie",
-    "country": "SGP",
-    "seo_score": 77,
-    "tech_spend": 107988,
-    "crawled_at": "2026-02-26T04:16:51.416336777Z",
-    "technologies": [
-      "Active Campaign",
-      "Amazon Widgets",
-      "Apture Linking Platform",
-      "Bitwarden Passwordless",
-      "Calendly",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coming Soon Page",
-      "Digital Ocean Spaces",
-      "Fastly",
-      "GoAffPro",
-      "Google Customer Reviews",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "K2F",
-      "Landis Holdings",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "QUIC",
-      "SMC",
-      "Share Link",
-      "Shopify",
-      "Shopify Collabs",
-      "Shopify Payments",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "YouTube",
-      "eLand",
-      "hCaptcha",
-      "reCAPTCHA",
-      "route"
     ]
   }
 ]

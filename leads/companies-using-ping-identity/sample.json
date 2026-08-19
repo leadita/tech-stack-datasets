@@ -1,5 +1,32 @@
 [
   {
+    "domain": "jo5h.com",
+    "title": "Joshua Miller, Experienced Technology Professional",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 80489,
+    "crawled_at": "2026-08-19T10:50:29.620689255Z",
+    "technologies": [
+      "Adobe ColdFusion",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "ExactTarget",
+      "Express",
+      "Microdata for Google Shopping",
+      "Perl",
+      "Ping Identity",
+      "Schema Plugin",
+      "Twitter Ads",
+      "University or College",
+      "Visual Studio"
+    ]
+  },
+  {
     "domain": "bentleytaylorwealth.ca",
     "title": "Bentley-Taylor Wealth Management - Toronto, ON",
     "business_name": "Bentley-Taylor Wealth Management",
@@ -2407,33 +2434,6 @@
       "YouTube",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "jo5h.com",
-    "title": "Joshua Miller, Experienced Technology Professional",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 80489,
-    "crawled_at": "2026-01-01T10:51:59.57733337Z",
-    "technologies": [
-      "Adobe ColdFusion",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "ExactTarget",
-      "Express",
-      "Microdata for Google Shopping",
-      "Perl",
-      "Ping Identity",
-      "Schema Plugin",
-      "Twitter Ads",
-      "University or College",
-      "Visual Studio"
     ]
   }
 ]
