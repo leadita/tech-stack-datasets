@@ -1,5 +1,63 @@
 [
   {
+    "domain": "haemexpert.eu",
+    "title": "Haematology | CSL Behring Expert Portal",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 65,
+    "tech_spend": 57008,
+    "crawled_at": "2026-08-19T02:33:46.787592025Z",
+    "technologies": [
+      "Add to Any",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "DAV",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "IcoMoon",
+      "OneTrust Domain Verification",
+      "SMC",
+      "Smartsheet",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "fusioncompcrew.org",
+    "title": "Fusion Comp Crew",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 18612,
+    "crawled_at": "2026-08-18T21:18:10.75314764Z",
+    "technologies": [
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "PWA",
+      "PayPal Adaptive Payments",
+      "PayPal Button",
+      "PayPal Form",
+      "QUIC",
+      "Smartsheet",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "btekwi.com",
     "title": "Coming Soon",
     "business_name": "",
@@ -15363,39 +15421,6 @@
     ]
   },
   {
-    "domain": "igconnect.eu",
-    "title": "Immunology | CSL Behring Expert Portal",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 17008,
-    "crawled_at": "2026-02-05T12:01:42.27145606Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Add to Any",
-      "Apache",
-      "Backdrop",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Drupal",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "OneTrust Domain Verification",
-      "PHP",
-      "Smartsheet",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery",
-      "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "bozemanhealthfoundation.org",
     "title": "Bozeman Foundation, Supporting Community Growth, Giving Back",
     "business_name": "Bozeman Foundation",
@@ -17447,32 +17472,6 @@
       "WordPress Multisite",
       "YooTheme",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "fusioncompcrew.org",
-    "title": "Fusion Comp Crew",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 18612,
-    "crawled_at": "2025-12-31T11:31:38.318666394Z",
-    "technologies": [
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "PWA",
-      "PayPal Adaptive Payments",
-      "PayPal Button",
-      "PayPal Form",
-      "QUIC",
-      "Smartsheet",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
     ]
   }
 ]

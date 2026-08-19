@@ -1,5 +1,32 @@
 [
   {
+    "domain": "hoenibee.com",
+    "title": "Hoenibee",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 72,
+    "tech_spend": 63040,
+    "crawled_at": "2026-08-19T01:01:11.04294007Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Apache",
+      "BLR",
+      "Community",
+      "Discord",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "SMC",
+      "Trello",
+      "Tumblr",
+      "Twitch",
+      "Twitter Ads",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "developd.au",
     "title": "Developd | Home",
     "business_name": "",
@@ -19784,37 +19811,6 @@
       "Zendesk Embeddables",
       "monday.com",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "turtlehouz.com",
-    "title": "Turtle Houz",
-    "business_name": "",
-    "country": "ARG",
-    "seo_score": 65,
-    "tech_spend": 24940,
-    "crawled_at": "2026-04-17T11:11:09.42775979Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Authorize.net",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google My Business",
-      "Ntent",
-      "Nuxt.js",
-      "Tailwind CSS",
-      "Trello",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "YouTube",
-      "reCAPTCHA"
     ]
   }
 ]
