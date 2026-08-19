@@ -1,5 +1,55 @@
 [
   {
+    "domain": "imshuheb.fun",
+    "title": "Mohammed Shuheb | Full Stack Developer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 6920,
+    "crawled_at": "2026-08-19T08:05:25.208785767Z",
+    "technologies": [
+      "ArvanCloud",
+      "Cloudflare",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "Google Related Website Sites",
+      "Next.js",
+      "Python",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vercel",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "4rd.tech",
+    "title": "Atha Rahmat Dani | Portfolio",
+    "business_name": "",
+    "country": "IDN",
+    "seo_score": 72,
+    "tech_spend": 540,
+    "crawled_at": "2026-08-18T13:53:19.972313065Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Astro",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Financial Services Guide",
+      "GitHub Hosting",
+      "Python",
+      "QUIC",
+      "Tailwind CSS",
+      "University or College",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "bondiskinco.com",
     "title": "Bondi Skin Co. | Naturally better skin care - for men",
     "business_name": "Bondi Skin Co.",
@@ -15005,60 +15055,6 @@
       "UTF-8",
       "University or College",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "noelle.website",
-    "title": "Portfolio - GreatStack",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 60,
-    "crawled_at": "2026-04-24T14:44:19.998510327Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google My Business",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Unix",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "cameronhammel.dev",
-    "title": "Cameron Hammel",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 32028,
-    "crawled_at": "2026-04-24T13:23:52.127886991Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "Express",
-      "Fireblade",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Heroku",
-      "Instagram Follow Button",
-      "PHP",
-      "Pico CSS",
-      "Python",
-      "QUIC",
-      "Sanity",
-      "Svelte",
-      "shadcn ui"
     ]
   }
 ]
