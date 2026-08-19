@@ -1,5 +1,39 @@
 [
   {
+    "domain": "shemwellfinancial.com",
+    "title": "Home | Robert Shemwell",
+    "business_name": "",
+    "country": "",
+    "seo_score": 70,
+    "tech_spend": 90558,
+    "crawled_at": "2026-08-18T23:58:50.63790074Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Express",
+      "Fastly",
+      "Fastly CDN",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PWA",
+      "QUIC",
+      "SMC",
+      "Seflow Italy",
+      "Sentry",
+      "SiteW",
+      "UTF-8",
+      "Unbounce",
+      "Vector Internet Services",
+      "Wix",
+      "Wix Media",
+      "eLand",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "ssbbartgroup.com",
     "title": "End-to-End Digital Accessibility | Level Access",
     "business_name": "Level Access",
@@ -3530,37 +3564,6 @@
       "WF Cookie Consent",
       "Webflow",
       "Wistia"
-    ]
-  },
-  {
-    "domain": "shemwellfinancial.com",
-    "title": "Home | Robert Shewell",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 27486,
-    "crawled_at": "2025-12-31T16:00:43.012495236Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PWA",
-      "QUIC",
-      "SMC",
-      "SiteW",
-      "UTF-8",
-      "Unbounce",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "mlcom"
     ]
   }
 ]
