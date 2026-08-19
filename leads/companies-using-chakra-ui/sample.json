@@ -1,5 +1,67 @@
 [
   {
+    "domain": "oslofashionoutlet.no",
+    "title": "Always Up to 70% Off | Oslo Fashion Outlet",
+    "business_name": "Oslo Fashion Outlet",
+    "country": "NOR",
+    "seo_score": 82,
+    "tech_spend": 21647,
+    "crawled_at": "2026-08-19T12:25:09.091457457Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Chakra UI",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Contentstack",
+      "Cybot",
+      "DoubleClick Bid Manager",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Investor Relations",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "No-Q",
+      "Pleroma",
+      "Radix UI",
+      "UTF-8",
+      "University or College",
+      "Vimeo",
+      "Visual Website Optimizer",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "ashphy.com",
+    "title": "ashphy - Hamasaki Kazuki",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 19800,
+    "crawled_at": "2026-08-19T01:54:06.928234732Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Astro",
+      "Chakra UI",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Oracle Cloud",
+      "PWA",
+      "Python",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "andrei4bvsa.com",
     "title": "Andrei K. for BVSA - Building a Safer, Stronger Bear Valley Together",
     "business_name": "",
@@ -12812,50 +12874,6 @@
       "UTF-8",
       "Vercel",
       "WordPress"
-    ]
-  },
-  {
-    "domain": "thutaminthway.xyz",
-    "title": "Thuta Min Thway - Full Stack Developer | Thuta Min Thway",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 63,
-    "crawled_at": "2026-05-08T16:41:19.979629025Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Medium",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "mpkbuildings.com",
-    "title": "MPK Buildings | Tiling Contractor & Bathroom Renovations London",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 67,
-    "tech_spend": 240,
-    "crawled_at": "2026-05-08T15:29:19.987285131Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
