@@ -1,12 +1,12 @@
 [
   {
-    "domain": "arkansassupply.com",
+    "domain": "brockmcvey.com",
     "title": "Store Locator",
     "business_name": "",
     "country": "USA",
     "seo_score": 67,
-    "tech_spend": 1024379,
-    "crawled_at": "2026-08-18T08:18:18.431859496Z",
+    "tech_spend": 999379,
+    "crawled_at": "2026-08-18T11:02:09.00777326Z",
     "technologies": [
       "AJAX Libraries API",
       "Akamai Global Host",
@@ -25,7 +25,6 @@
       "Google Cloud DNS",
       "Google Maps",
       "Google Tag Manager",
-      "K2F",
       "Kampyle Analytics",
       "NFOrce Internet",
       "Perl",
