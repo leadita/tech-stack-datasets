@@ -1,5 +1,48 @@
 [
   {
+    "domain": "joiellantero.com",
+    "title": "~/joie/blog",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 200,
+    "crawled_at": "2026-08-19T22:20:33.432813239Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Gambling Content",
+      "GitHub Hosting",
+      "Perl",
+      "Python",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "lotfollahi.com",
+    "title": "Mo Lotfollahi | Machine Learning and AI for Biomedical Science | Lotfollahi",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 600,
+    "crawled_at": "2026-08-19T11:05:39.747236257Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Perl",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "datasciencepool.hu.nl",
     "title": "Data Science Pool | Data Science Pool",
     "business_name": "",
@@ -12631,56 +12674,6 @@
       "Perl",
       "Tailwind CSS",
       "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "dhbalaji.dev",
-    "title": "dhbalaji, lead design technologist at Sabre",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 5040,
-    "crawled_at": "2026-03-19T11:47:03.324002656Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Dialogflow",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "InitiativeS",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "maharjanrohan.com.np",
-    "title": "Rohan Maharjan",
-    "business_name": "",
-    "country": "NPL",
-    "seo_score": 67,
-    "tech_spend": 1608,
-    "crawled_at": "2026-03-18T18:11:28.615711678Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Express",
-      "GitHub Hosting",
-      "Google Related Website Sites",
-      "Netlify",
-      "Perl",
-      "UTF-8",
-      "University or College",
-      "jsDelivr",
       "shadcn ui"
     ]
   }

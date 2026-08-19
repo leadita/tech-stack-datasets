@@ -1,5 +1,29 @@
 [
   {
+    "domain": "complexcivil.com.au",
+    "title": "Complex Construction - Complex Construction",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 65,
+    "tech_spend": 25508,
+    "crawled_at": "2026-08-19T19:06:31.964309846Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Express",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "Rally",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vimeo",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "industrie40award.com",
     "title": "Industrie 4.0 Award | The Benchmark for Industrial - Industrie 4.0 Award | The Benchmark for Industrial",
     "business_name": "",
@@ -1632,30 +1656,6 @@
       "Netlify",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "complexco.com.au",
-    "title": "Complex Construction - Complex Construction",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 80,
-    "tech_spend": 25508,
-    "crawled_at": "2026-05-28T21:04:48.468590836Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Express",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Rally",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vimeo",
-      "shadcn ui"
     ]
   },
   {
