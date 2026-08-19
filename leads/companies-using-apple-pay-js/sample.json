@@ -1,5 +1,38 @@
 [
   {
+    "domain": "myonof.com",
+    "title": "Myonof Audiobook Collection",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 38400,
+    "crawled_at": "2026-08-18T19:46:21.516250656Z",
+    "technologies": [
+      "Apple Pay JS",
+      "Apture Linking Platform",
+      "Azion",
+      "Bing Cashback",
+      "Bing Conversion Tracking",
+      "DAV",
+      "Express",
+      "Fastly",
+      "Fingerprint Pro",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "UTF-8",
+      "Yandex Hosting",
+      "YouCan",
+      "eLand"
+    ]
+  },
+  {
     "domain": "canvascamp.com",
     "title": "Premium Canvas Tents for Camping & Glamping | CanvasCamp",
     "business_name": "CanvasCamp",
