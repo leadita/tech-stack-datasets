@@ -1,5 +1,41 @@
 [
   {
+    "domain": "visiononemortgage.com",
+    "title": "Mortgage Experts Near You – Fast Approval & Low Rates - Vision One Mortgage, Inc.",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 35277,
+    "crawled_at": "2026-08-19T00:56:14.916278529Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Bulma",
+      "CloudFront",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Matomo",
+      "Matomo Tag Manager",
+      "Microsoft Clarity",
+      "Nationwide Mortgage Licensing System and Registry",
+      "Nginx",
+      "Optimal Blue",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "UserWay"
+    ]
+  },
+  {
     "domain": "loanswithdonnie.com",
     "title": "Home | Donnie Roberts | Velocio Mortgage",
     "business_name": "",
@@ -7808,41 +7844,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "visiononemortgage.com",
-    "title": "Mortgage Experts Near You – Fast Approval & Low Rates - Vision One Mortgage, Inc.",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 34787,
-    "crawled_at": "2025-12-31T17:35:53.228877267Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Bulma",
-      "CloudFront",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Matomo",
-      "Matomo Tag Manager",
-      "Microsoft Clarity",
-      "Nationwide Mortgage Licensing System and Registry",
-      "OpenResty",
-      "Optimal Blue",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]

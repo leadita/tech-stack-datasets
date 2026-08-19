@@ -2224,38 +2224,5 @@
       "eMoney",
       "jQuery"
     ]
-  },
-  {
-    "domain": "lubabalosibhaca.co.za",
-    "title": "Lubabalo Sibhaca | attooh! Your Wealth Solution",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 77,
-    "tech_spend": 23960,
-    "crawled_at": "2026-01-01T05:11:51.899266313Z",
-    "technologies": [
-      "Amazon S3 CDN",
-      "Apture Linking Platform",
-      "Authorize.net",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Nuxt.js",
-      "QUIC",
-      "Storyblocks",
-      "UTF-8",
-      "Vimeo",
-      "Vimeo CDN",
-      "eMoney",
-      "shadcn ui"
-    ]
   }
 ]
