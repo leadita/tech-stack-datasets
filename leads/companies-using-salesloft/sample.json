@@ -1,5 +1,60 @@
 [
   {
+    "domain": "smartpondiot.com",
+    "title": "Global Multi-Network IoT Connectivity Solutions | POND IoT",
+    "business_name": "POND IoT",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 33508,
+    "crawled_at": "2026-08-20T21:11:20.779947553Z",
+    "technologies": [
+      "Apollo IO",
+      "BunnyCDN",
+      "BunnyCDN General",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fastly",
+      "Gambling Content",
+      "Google Adsense",
+      "Google Analytics",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google Related Website Sites",
+      "Google Reseller",
+      "Google Tag Manager",
+      "Hubspot Knowledge Base",
+      "Line2",
+      "LinkedIn Insights",
+      "LinkedIn Pixel",
+      "Microdata for Google Shopping",
+      "Mouseflow",
+      "SalesLoft",
+      "Seflow Italy",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "cfotalk.co",
+    "title": "ExeCFO, LLC | Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 50,
+    "tech_spend": 6708,
+    "crawled_at": "2026-08-20T20:27:33.198701663Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "GZIP Module",
+      "Google My Business",
+      "Perl",
+      "QUIC",
+      "SalesLoft",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "eazystock.co.uk",
     "title": "EazyStock | AI-Powered Inventory Optimisation Software",
     "business_name": "",
@@ -3705,25 +3760,6 @@
     ]
   },
   {
-    "domain": "cfopros.co",
-    "title": "ExeCFO, LLC | Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 50,
-    "tech_spend": 6708,
-    "crawled_at": "2026-05-23T10:50:19.98057701Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "GZIP Module",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "SalesLoft",
-      "reCAPTCHA"
-    ]
-  },
-  {
     "domain": "foxitsoftware.com",
     "title": "PDF Software & Tools Tailored to Your Business | Foxit",
     "business_name": "Foxit Software",
@@ -6732,43 +6768,6 @@
       "UTF-8",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "techpondiot.com",
-    "title": "Global IoT SIM Card & Multi-Carrier Connectivity Solutions | POND IoT",
-    "business_name": "POND IoT",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 33508,
-    "crawled_at": "2026-05-05T14:10:00.148134513Z",
-    "technologies": [
-      "Apollo IO",
-      "BunnyCDN",
-      "BunnyCDN General",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "Gambling Content",
-      "Google Adsense",
-      "Google Analytics",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google Related Website Sites",
-      "Google Reseller",
-      "Google Tag Manager",
-      "Hubspot Knowledge Base",
-      "Line2",
-      "LinkedIn Insights",
-      "LinkedIn Pixel",
-      "Microdata for Google Shopping",
-      "Mouseflow",
-      "SalesLoft",
-      "Seflow Italy",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
