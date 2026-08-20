@@ -1,5 +1,41 @@
 [
   {
+    "domain": "envirotesting.us",
+    "title": "ETC.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 36,
+    "crawled_at": "2026-08-20T04:51:14.498538227Z",
+    "technologies": [
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "hmenvironmental.net",
+    "title": "HM Environmental",
+    "business_name": "",
+    "country": "MYS",
+    "seo_score": 45,
+    "tech_spend": 36,
+    "crawled_at": "2026-08-20T04:21:50.499277592Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "wesing4all.com",
     "title": "Joy At Your Events With Our A Cappella Quartets",
     "business_name": "",
@@ -1685,26 +1721,6 @@
       "Google Analytics",
       "Google Cloud DNS",
       "Google Font API",
-      "Google Tag Manager",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "asbestos.us",
-    "title": "ETC. - Asbestos",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 135,
-    "crawled_at": "2026-05-10T20:17:19.99370996Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
       "Google Tag Manager",
       "UTF-8"
     ]
@@ -4851,23 +4867,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "hmenvironmental.net",
-    "title": "HM Environmental",
-    "business_name": "",
-    "country": "MYS",
-    "seo_score": 40,
-    "tech_spend": 135,
-    "crawled_at": "2026-01-02T18:41:59.242069351Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8"
     ]
   }
 ]
