@@ -1,5 +1,30 @@
 [
   {
+    "domain": "medvedev-it.com",
+    "title": "IT Specialist — Medvedev IT",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 15984,
+    "crawled_at": "2026-08-20T03:24:43.408668647Z",
+    "technologies": [
+      "ASP.NET Core",
+      "Bitrix24",
+      "Bitwarden Passwordless",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Font Awesome",
+      "Fortinet",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Nginx",
+      "Tailwind CSS",
+      "Telegram",
+      "UTF-8",
+      "Visual Studio",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "calder.dev",
     "title": "calder.dev",
     "business_name": "",
@@ -18782,36 +18807,6 @@
       "UTF-8",
       "hCaptcha",
       "jsDelivr",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "plumariistore.com",
-    "title": "Plumarii – Plumarii Store",
-    "business_name": "Plumarii Store",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 6769,
-    "crawled_at": "2026-02-26T05:03:42.698048921Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Aruba",
-      "Bitwarden Passwordless",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Digital Ocean Spaces",
-      "Express",
-      "Fastly",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Share Link",
-      "Shopify",
-      "Shopify Collabs",
-      "UTF-8",
-      "eLand",
-      "hCaptcha",
       "reCAPTCHA"
     ]
   }
