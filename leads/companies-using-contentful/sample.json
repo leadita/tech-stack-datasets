@@ -1,5 +1,50 @@
 [
   {
+    "domain": "digitalchesssession.com",
+    "title": "Home | Ch3ss",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 5176,
+    "crawled_at": "2026-08-20T15:08:23.451280766Z",
+    "technologies": [
+      "Apache",
+      "AutoComplete",
+      "Contentful",
+      "DAV",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "PHP",
+      "Subversion",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "ateljelyktan.net",
+    "title": "Home | ateljé Lyktan",
+    "business_name": "",
+    "country": "SWE",
+    "seo_score": 65,
+    "tech_spend": 10168,
+    "crawled_at": "2026-08-19T23:14:33.93617681Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Contentful",
+      "DC74",
+      "GZIP Module",
+      "Gravity",
+      "Heroku",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "burchtreevets.co.uk",
     "title": "Burch Tree Vets in Carnforth | Inspiring Vet Care",
     "business_name": "Inspiring Vet Care",
@@ -23985,71 +24030,6 @@
       "QUIC",
       "UTF-8",
       "University or College"
-    ]
-  },
-  {
-    "domain": "truejoyweddings.com",
-    "title": "truejoyweddings | Wedding Planners | Cost, Reviews & Photos | Zola",
-    "business_name": "truejoyweddings",
-    "country": "ZAF",
-    "seo_score": 77,
-    "tech_spend": 21426,
-    "crawled_at": "2026-05-05T14:47:20.011175496Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Apple Auto Link Maker",
-      "Better Lead Generation Services",
-      "CloudFront",
-      "Content Delivery Network",
-      "Contentful",
-      "Favorites for WordPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Imgix",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Mixpanel",
-      "Next.js",
-      "PWA",
-      "Perl",
-      "Pleroma",
-      "ProfitWell",
-      "QUIC",
-      "RM Education",
-      "SearchLinks",
-      "Segment",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "hellomax.digital",
-    "title": "hellomax | Digital Product Design & Web Motion Portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 16708,
-    "crawled_at": "2026-05-05T14:41:19.979650317Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudinary",
-      "Content Delivery Network",
-      "Contentful",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Nuxt.js",
-      "QUIC",
-      "Shopware",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
