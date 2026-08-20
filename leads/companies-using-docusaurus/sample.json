@@ -1,5 +1,33 @@
 [
   {
+    "domain": "werenode.com",
+    "title": "Werenode Portal | Werenode Official Website",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2620,
+    "crawled_at": "2026-08-20T08:44:35.147398471Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Material-UI",
+      "Perl",
+      "Telegram",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "joiellantero.com",
     "title": "~/joie/blog",
     "business_name": "",
@@ -12652,29 +12680,6 @@
       "Perl",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "gamevau.lt",
-    "title": "The Ultimate Self-Hosted Gaming Platform | GameVault",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 2400,
-    "crawled_at": "2026-03-19T12:42:53.340394333Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "Gambling Content",
-      "GitHub Hosting",
-      "Liberapay",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
