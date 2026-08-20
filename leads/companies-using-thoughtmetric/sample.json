@@ -1,5 +1,41 @@
 [
   {
+    "domain": "flexpro.eu",
+    "title": "Custom Print Products Online | Business Cards, Stickers & More",
+    "business_name": "",
+    "country": "LTU",
+    "seo_score": 77,
+    "tech_spend": 37377,
+    "crawled_at": "2026-08-20T02:36:13.101389256Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Aruba",
+      "Better Lead Generation Services",
+      "Business Promotion",
+      "Elfsight",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Ntent",
+      "Parcel",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "Thank You",
+      "ThoughtMetric",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "artistic-pod.com",
     "title": "Artistic Pod - Store For Music Lovers",
     "business_name": "",
@@ -2810,41 +2846,6 @@
       "eLand",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "flexpro.eu",
-    "title": "Custom Print Products Online | Business Cards, Stickers & More",
-    "business_name": "",
-    "country": "LTU",
-    "seo_score": 77,
-    "tech_spend": 37017,
-    "crawled_at": "2026-01-02T15:23:21.627330646Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Aruba",
-      "Better Lead Generation Services",
-      "Business Promotion",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Ntent",
-      "Parcel",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
-      "Thank You",
-      "ThoughtMetric",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "eLand",
-      "shadcn ui"
     ]
   }
 ]
