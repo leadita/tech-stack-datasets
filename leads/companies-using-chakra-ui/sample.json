@@ -1,5 +1,59 @@
 [
   {
+    "domain": "surgotechsolutions.com",
+    "title": "SurgoTech Solutions | Software for Startups & Growing Businesses",
+    "business_name": "SurgoTech Solutions",
+    "country": "GBR",
+    "seo_score": 92,
+    "tech_spend": 2764,
+    "crawled_at": "2026-08-20T14:55:58.529315766Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "Google",
+      "Google Analytics",
+      "Google Calendar",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Next.js",
+      "Perl",
+      "Pleroma",
+      "UTF-8",
+      "Web3Forms"
+    ]
+  },
+  {
+    "domain": "jade.insure",
+    "title": "JADE – A Lloyds Coverholder platform | Insurance Leaders for Cash, Gold and Valuables | Get Instant Quotes",
+    "business_name": "",
+    "country": "SGP",
+    "seo_score": 72,
+    "tech_spend": 3690,
+    "crawled_at": "2026-08-20T06:21:20.327318608Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Chakra UI",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Maps",
+      "Google My Business",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "oslofashionoutlet.no",
     "title": "Always Up to 70% Off | Oslo Fashion Outlet",
     "business_name": "Oslo Fashion Outlet",
@@ -12823,57 +12877,6 @@
       "UTF-8",
       "Vercel",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "toryferry.com",
-    "title": "Tory Island's Passenger Ferry | Home | Tory Ferry",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-05-08T17:44:19.987396427Z",
-    "technologies": [
-      "Chakra UI",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "UTF-8",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "ecompapiaus.com",
-    "title": "Award-Winning Digital Agency Australia | SEO, PPC & Growth",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 62,
-    "tech_spend": 12268,
-    "crawled_at": "2026-05-08T17:29:19.995503116Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apollo IO",
-      "Chakra UI",
-      "Clutch",
-      "Content Delivery Network",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Google Analytics",
-      "Google Conversion Tracking",
-      "Google Tag Manager",
-      "Microsoft Clarity",
-      "Next.js",
-      "Pleroma",
-      "Rush",
-      "UTF-8",
-      "Vercel",
-      "WordPress"
     ]
   }
 ]
