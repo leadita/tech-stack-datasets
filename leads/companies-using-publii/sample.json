@@ -1,5 +1,53 @@
 [
   {
+    "domain": "erinmazerolle.com",
+    "title": "Mazerolle Lab at StFX",
+    "business_name": "",
+    "country": "SYC",
+    "seo_score": 92,
+    "tech_spend": 20088,
+    "crawled_at": "2026-08-20T08:18:03.966054531Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "Font Awesome",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Publii",
+      "Qualtrics Site Intercept",
+      "UTF-8",
+      "University or College",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "kamakoma.eu",
+    "title": "Kamakoma e.U. - Kamakoma",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 49,
+    "crawled_at": "2026-08-19T14:47:27.679405039Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "digitalhumanitarians.com",
     "title": "Digital Humanitarian Network",
     "business_name": "Digital Humanitarian Network",
@@ -8455,75 +8503,6 @@
       "Unix",
       "Zeald",
       "Zope"
-    ]
-  },
-  {
-    "domain": "erinmazerolle.com",
-    "title": "Mazerolle Lab at StFX",
-    "business_name": "",
-    "country": "SYC",
-    "seo_score": 77,
-    "tech_spend": 20808,
-    "crawled_at": "2026-01-03T02:05:41.395130613Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "Publii",
-      "Qualtrics Site Intercept",
-      "UTF-8",
-      "University or College",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "alek.ar",
-    "title": "ALEK ROST",
-    "business_name": "ALEK ROST",
-    "country": "ITA",
-    "seo_score": 62,
-    "tech_spend": 149,
-    "crawled_at": "2026-01-03T00:45:49.717764142Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DAV",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "kamakoma.eu",
-    "title": "Kamakoma e.U. - Kamakoma",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 49,
-    "crawled_at": "2026-01-01T17:48:55.755470552Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   }
 ]

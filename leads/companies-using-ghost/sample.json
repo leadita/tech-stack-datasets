@@ -1,5 +1,27 @@
 [
   {
+    "domain": "sailsupmc.com",
+    "title": "Sails Up Management & Consulting | Operations & Enterprise Software Optimization",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 2440,
+    "crawled_at": "2026-08-19T19:54:29.536227698Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Ghost",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "whatailsya.org",
     "title": "WHAT AILS YA",
     "business_name": "",
@@ -13220,31 +13242,6 @@
       "OpenResty",
       "UTF-8",
       "University or College",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "workreframe.com",
-    "title": "Reframe the experience of work.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 3144,
-    "crawled_at": "2026-04-03T10:23:20.019473095Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Content Delivery Network",
-      "DAV",
-      "Fastly",
-      "GZIP Module",
-      "Ghost",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "QUIC",
-      "Stripe",
-      "UTF-8",
-      "Unsplash",
       "jsDelivr"
     ]
   }
