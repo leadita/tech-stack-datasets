@@ -1,5 +1,34 @@
 [
   {
+    "domain": "reoteamla.com",
+    "title": "REO Team Los Angeles Pre Market Foreclosures in LA",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 52888,
+    "crawled_at": "2026-08-20T14:24:05.068340663Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "All in One SEO Pack",
+      "Alternate Protocol",
+      "Apache",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Kaltura",
+      "PHP",
+      "Parcel",
+      "RM Education",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "monitor-event.biz.bo",
     "title": "White label monitor event",
     "business_name": "",
@@ -16953,34 +16982,6 @@
       "Vimeo",
       "Visual Studio",
       "YouTube",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "reoteamla.com",
-    "title": "REO Team Los Angeles Pre Market Foreclosures in LA",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 52888,
-    "crawled_at": "2026-01-03T13:49:57.122249014Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "All in One SEO Pack",
-      "Alternate Protocol",
-      "Apache",
-      "EmbedPress",
-      "Google Cloud DNS",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Kaltura",
-      "PHP",
-      "Parcel",
-      "RM Education",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
       "jQuery"
     ]
   }
