@@ -1,5 +1,36 @@
 [
   {
+    "domain": "novasolvers.us",
+    "title": "Nova Solvers | Advanced Space & Defense Technologies",
+    "business_name": "Nova Solvers",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 101508,
+    "crawled_at": "2026-08-19T13:12:33.938820403Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "AWS WAF Challenge",
+      "Amazon",
+      "Amazon CloudFront",
+      "Animate It",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "Intellimize",
+      "Microdata for Google Shopping",
+      "Tailwind CSS",
+      "UTF-8",
+      "WF Cookie Consent",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "heyreplicated.com",
     "title": "Ship Self-Hosted. Unlock Enterprise Customers. | Replicated",
     "business_name": "",
@@ -19400,46 +19431,6 @@
       "YouTube",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "anyone.io",
-    "title": "Anyone Protocol",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 45387,
-    "crawled_at": "2026-05-11T12:41:19.989649862Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "Animate It",
-      "App Store",
-      "CloudFront",
-      "Cloudflare",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Discord",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Intellimize",
-      "KVH",
-      "Medium",
-      "Netlify",
-      "Telegram",
-      "UTF-8",
-      "Uniswap",
-      "Vimeo",
-      "Vimeo CDN",
-      "WF Cookie Consent",
-      "YouTube"
     ]
   }
 ]
