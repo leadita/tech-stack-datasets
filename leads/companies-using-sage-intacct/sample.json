@@ -1,5 +1,30 @@
 [
   {
+    "domain": "usemorphik.com",
+    "title": "Morphik — AI Workers for Skilled Nursing & Senior Living",
+    "business_name": "Morphik",
+    "country": "",
+    "seo_score": 87,
+    "tech_spend": 50240,
+    "crawled_at": "2026-08-19T17:27:40.430381538Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "QUIC",
+      "Radix UI",
+      "Sage Intacct",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "revacct.com",
     "title": "Revolution Accounting",
     "business_name": "Revolution Accounting and Advisory",
@@ -1242,31 +1267,6 @@
       "Sage Intacct",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "getmorphik.com",
-    "title": "Morphik — AI Workers for Skilled Nursing & Senior Living",
-    "business_name": "Morphik",
-    "country": "",
-    "seo_score": 87,
-    "tech_spend": 50240,
-    "crawled_at": "2026-08-03T05:43:57.386224656Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "QUIC",
-      "Radix UI",
-      "Sage Intacct",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vercel"
     ]
   },
   {

@@ -1,5 +1,30 @@
 [
   {
+    "domain": "transmove.co",
+    "title": "Transmove: Cold Chain Solutions for Bangladesh",
+    "business_name": "",
+    "country": "BGD",
+    "seo_score": 65,
+    "tech_spend": 3388,
+    "crawled_at": "2026-08-19T18:33:15.149811497Z",
+    "technologies": [
+      "Better Lead Generation Services",
+      "Content Delivery Network",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "IcoMoon",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Power BI",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "sd6.bc.ca",
     "title": "Home | Rocky Mountain School District",
     "business_name": "",
@@ -19008,33 +19033,6 @@
       "Microsoft Teams",
       "Power BI",
       "StackPath"
-    ]
-  },
-  {
-    "domain": "orickmarine.info",
-    "title": "Greg Orick Marine Construction | Naples Florida Marine Contractor",
-    "business_name": "Greg Orick Marine Construction",
-    "country": "ZAF",
-    "seo_score": 77,
-    "tech_spend": 19092,
-    "crawled_at": "2026-03-29T11:04:57.552285415Z",
-    "technologies": [
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Line2",
-      "Microdata for Google Shopping",
-      "PWA",
-      "Power BI",
-      "UTF-8",
-      "Vimeo",
-      "Vimeo CDN",
-      "Wangsu",
-      "Website Tonight"
     ]
   }
 ]

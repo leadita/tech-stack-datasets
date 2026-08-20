@@ -1,5 +1,37 @@
 [
   {
+    "domain": "veerchual.com",
+    "title": "Digital Patient Forms | HL7 standards | Veerchual",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 53112,
+    "crawled_at": "2026-08-19T16:06:52.217097862Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Apture Linking Platform",
+      "AthenaHealth",
+      "Fireblade",
+      "FreshBooks",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Customer Reviews",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "PWA",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress",
+      "YouTube",
+      "eClinicalWorks",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "partyplannernewyork.com",
     "title": "Luxury Event Planning Across North America | Amber Walker Events",
     "business_name": "Amber Walker Events",
@@ -3540,38 +3572,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "veerchual.com",
-    "title": "Digital Patient Forms | HL7 standards | Veerchual",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 53112,
-    "crawled_at": "2026-01-01T20:17:33.414434373Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Apture Linking Platform",
-      "AthenaHealth",
-      "Fireblade",
-      "FreshBooks",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Customer Reviews",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress",
-      "YouTube",
-      "eClinicalWorks",
-      "jQuery"
     ]
   }
 ]

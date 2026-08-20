@@ -1,5 +1,29 @@
 [
   {
+    "domain": "brjaccountants.com.au",
+    "title": "BRJ Accountants | Brendale | Tax & Business Advisors",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 875,
+    "crawled_at": "2026-08-19T23:33:36.587284986Z",
+    "technologies": [
+      "Bulma",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "NFOrce Internet",
+      "Tailwind CSS",
+      "UTF-8",
+      "Visual Studio",
+      "Xero"
+    ]
+  },
+  {
     "domain": "ellacotts.co.uk",
     "title": "Ellacotts Chartered Accountants | Banbury | Birmingham | Kettering | London | Stratford-upon-Avon",
     "business_name": "Ellacotts LLP",
@@ -18320,33 +18344,6 @@
       "WordPress Related Posts",
       "Xero",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "dashai.com.au",
-    "title": "Dash — Never Miss a Call. Capture More Jobs.",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 70,
-    "tech_spend": 23220,
-    "crawled_at": "2026-04-27T19:20:19.990165341Z",
-    "technologies": [
-      "Adult Content",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Calendly",
-      "Content Delivery Network",
-      "DAV",
-      "Google",
-      "Google Calendar",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8",
-      "Waveform Technology",
-      "Xero"
     ]
   }
 ]
