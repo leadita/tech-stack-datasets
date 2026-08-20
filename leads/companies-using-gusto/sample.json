@@ -1,5 +1,50 @@
 [
   {
+    "domain": "bridgedfs.com",
+    "title": "Back-Office Accounting & Fractional CFO |Hawaii & West Coast",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 21686,
+    "crawled_at": "2026-08-19T23:39:57.073765503Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Astra Theme",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Elementor",
+      "EmbedPress",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Gusto",
+      "Header, Footer and Blocks for Elementor",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PHP",
+      "Popup Maker for Wordpress",
+      "QUIC",
+      "Royal Elementor Addons",
+      "Site Kit",
+      "Sitelinks Search Box",
+      "Sticky Header Effects for Elementor",
+      "Theme In WP",
+      "UTF-8",
+      "WPForms",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Related Posts",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "xqtive.com",
     "title": "Outsourced Bookkeeping Service - Quickbooks ProAdvisors - XQTIVE",
     "business_name": "",
@@ -18620,28 +18665,6 @@
       "IcoMoon",
       "QUIC",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "terzogusto.com",
-    "title": "Ristorante Terzo Gusto · Momenti di piacere",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 53200,
-    "crawled_at": "2026-01-29T15:10:51.577509324Z",
-    "technologies": [
-      "Aruba",
-      "Azion",
-      "ElementUI",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Gusto",
-      "SMC",
-      "UTF-8",
-      "WordPress"
     ]
   }
 ]
