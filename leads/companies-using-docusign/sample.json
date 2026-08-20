@@ -11808,40 +11808,5 @@
       "Wix Media",
       "mlcom"
     ]
-  },
-  {
-    "domain": "selectrepro.com",
-    "title": "HOME | Select Reproduction",
-    "business_name": "Select Reproduction",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 147168,
-    "crawled_at": "2026-01-02T22:03:42.530803454Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "DocuSign",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "K2F",
-      "KVH",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PWA",
-      "QUIC",
-      "SMC",
-      "SiteW",
-      "Subversion",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "eLand",
-      "mlcom"
-    ]
   }
 ]
