@@ -1,5 +1,35 @@
 [
   {
+    "domain": "qrunlmtd.org",
+    "title": "QR Codes Unlimited - Dynamic QR Code Generator",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 22988,
+    "crawled_at": "2026-08-20T17:17:17.34441753Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "DC74",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Hugo",
+      "Instagram Follow Button",
+      "PartnerStack",
+      "QUIC",
+      "Shopify",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "Vector Internet Services",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "voxarox.com",
     "title": "Voxarox | UK’s Creative Marketing & Website Platform",
     "business_name": "",
@@ -1255,36 +1285,6 @@
       "eLand",
       "jsDelivr",
       "rewardStyle"
-    ]
-  },
-  {
-    "domain": "o2oqr.org",
-    "title": "QR Codes Unlimited - Dynamic QR Code Generator",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 22988,
-    "crawled_at": "2026-08-07T11:25:06.874491156Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "DC74",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Hugo",
-      "Instagram Follow Button",
-      "PartnerStack",
-      "QUIC",
-      "Shopify",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "Vector Internet Services",
-      "YouTube"
     ]
   },
   {

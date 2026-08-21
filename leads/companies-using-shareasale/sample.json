@@ -1,5 +1,19 @@
 [
   {
+    "domain": "businesscardsontheweb.com",
+    "title": "Business Cards On The Web",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 500,
+    "crawled_at": "2026-08-20T22:16:19.334544269Z",
+    "technologies": [
+      "Apache",
+      "ShareASale",
+      "Yellow Pages Canada"
+    ]
+  },
+  {
     "domain": "troomy.co",
     "title": "Troomy Nootropics - Natural Solutions for Everyday Problems",
     "business_name": "Troomy Nootropics",
@@ -21554,45 +21568,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "olio-piro.com",
-    "title": "World's Best High-Antioxidant Tuscan Extra Virgin Olive Oil – Olio Piro.",
-    "business_name": "Olio Piro.",
-    "country": "VAT",
-    "seo_score": 87,
-    "tech_spend": 60955,
-    "crawled_at": "2026-05-22T14:33:24.442136867Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Conversion Tracking",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "Perl",
-      "QUIC",
-      "Rebuy",
-      "SMC",
-      "ShareASale",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "UTF-8",
-      "eLand",
-      "hCaptcha",
-      "jQuery",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   }
 ]
