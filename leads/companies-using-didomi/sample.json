@@ -1,5 +1,31 @@
 [
   {
+    "domain": "christiansonwealth.ca",
+    "title": "Current Wealth Advisors | National Bank Financial - Wealth Management | National Bank Financial - Wealth Management",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 82,
+    "tech_spend": 223400,
+    "crawled_at": "2026-08-20T22:12:09.071014495Z",
+    "technologies": [
+      "Adobe Analytics",
+      "Adobe Marketing Cloud",
+      "Akamai Global Host",
+      "Alternate Protocol",
+      "Amazon",
+      "Apache",
+      "Content Delivery Network",
+      "DAV",
+      "Didomi",
+      "Fireblade",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Schema Plugin",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "simplyjet.fr",
     "title": "Location de jet privé | Affrètement avion d'affaires | Simply Jet",
     "business_name": "Simply Jet",
@@ -205,32 +231,6 @@
       "Vignette OpenText",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "christiansonwealth.com",
-    "title": "Current Wealth Advisors | National Bank Financial - Wealth Management | National Bank Financial - Wealth Management",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 223400,
-    "crawled_at": "2026-08-18T14:00:01.009458253Z",
-    "technologies": [
-      "Adobe Analytics",
-      "Adobe Marketing Cloud",
-      "Akamai Global Host",
-      "Alternate Protocol",
-      "Amazon",
-      "Apache",
-      "Content Delivery Network",
-      "DAV",
-      "Didomi",
-      "Fireblade",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Schema Plugin",
-      "UTF-8"
     ]
   },
   {
