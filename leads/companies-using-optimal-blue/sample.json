@@ -7839,45 +7839,5 @@
       "localendar",
       "monday.com"
     ]
-  },
-  {
-    "domain": "advantagelendingcorp.com",
-    "title": "Advantage Lending Corp - Rochester Hills Mortgage Broker",
-    "business_name": "Advantage Lending Corp",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 34818,
-    "crawled_at": "2026-01-05T07:25:54.180602227Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Calendly",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Formidable Pro Form",
-      "Google Analytics",
-      "Google Conversion Tracking",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Investor Relations",
-      "JetElements",
-      "Jupiter X Core",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Nationwide Mortgage Licensing System and Registry",
-      "Nginx",
-      "Optimal Blue",
-      "PHP",
-      "QUIC",
-      "Schema Plugin",
-      "Table Addons for Elementor",
-      "Text Request",
-      "Theme In WP",
-      "TrustIndex",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
