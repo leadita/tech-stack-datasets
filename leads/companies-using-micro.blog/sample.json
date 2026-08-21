@@ -1,5 +1,33 @@
 [
   {
+    "domain": "drikkes.com",
+    "title": "Hendrik Spree – Copywriter",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 60,
+    "crawled_at": "2026-08-20T22:02:57.917345605Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Ametys",
+      "Apache",
+      "EmbedPress",
+      "GZIP Module",
+      "Giphy",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Mastodon",
+      "Micro.blog",
+      "PHP",
+      "Pleroma",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "beckyhansmeyer.com",
     "title": "Becky Hansmeyer | 100% grass-fed Swift. Artisanal SwiftUI.",
     "business_name": "",
@@ -8025,33 +8053,6 @@
       "Micro.blog",
       "QUIC",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "drikkes.com",
-    "title": "Hendrik Spree – Copywriter",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 60,
-    "crawled_at": "2026-01-04T04:14:52.878439193Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Ametys",
-      "Apache",
-      "EmbedPress",
-      "Giphy",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Mastodon",
-      "Micro.blog",
-      "PHP",
-      "Pleroma",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
