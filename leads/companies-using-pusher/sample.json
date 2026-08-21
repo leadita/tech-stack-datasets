@@ -1,5 +1,37 @@
 [
   {
+    "domain": "rcmodelshopcy.com",
+    "title": "RC Model Shop CY / Τηλεκατευθηνόμενα / Rc cars / Rc Hobby shop Cyprus",
+    "business_name": "",
+    "country": "CYP",
+    "seo_score": 67,
+    "tech_spend": 21571,
+    "crawled_at": "2026-08-21T14:39:12.367530184Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fireblade",
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "ImageKit.io",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "OneSignal",
+      "Pusher",
+      "QUIC",
+      "UTF-8",
+      "YouTube",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "knoxvilledreamhomes.com",
     "title": "Home - Knoxville Dream Homes",
     "business_name": "Knoxville Dream Homes",
@@ -20498,41 +20530,6 @@
       "University or College",
       "Visual Studio",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "athensareahorseproperty.com",
-    "title": "Athens Area Horse Properties – Your trusted realtors in the horse community.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 14021,
-    "crawled_at": "2026-05-06T22:17:19.996850407Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Automattic",
-      "BatCache",
-      "Coming Soon Page",
-      "Community",
-      "EmbedPress",
-      "Fastly",
-      "Gutenberg",
-      "IcoMoon",
-      "InitiativeS",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Neve",
-      "Nginx",
-      "PHP",
-      "Perl",
-      "Prospective",
-      "Pusher",
-      "QUIC",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats"
     ]
   }
 ]
