@@ -1,5 +1,26 @@
 [
   {
+    "domain": "cardcorner.com",
+    "title": "This website or DOMAIN NAME may be for sale.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 76500,
+    "crawled_at": "2026-08-20T20:50:33.383190734Z",
+    "technologies": [
+      "Camp",
+      "Cart.com",
+      "Dynadot",
+      "ElementUI",
+      "Fast",
+      "GZIP Module",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "PointDNS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "envirotesting.us",
     "title": "ETC.",
     "business_name": "",
@@ -455,27 +476,6 @@
       "GZIP Module",
       "Investor Relations",
       "Microdata for Google Shopping",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "roswellufo.com",
-    "title": "This website or DOMAIN NAME may be for sale.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 76500,
-    "crawled_at": "2026-08-02T11:01:11.366632276Z",
-    "technologies": [
-      "Camp",
-      "Cart.com",
-      "Dynadot",
-      "ElementUI",
-      "Fast",
-      "GZIP Module",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "PointDNS",
       "UTF-8"
     ]
   },
