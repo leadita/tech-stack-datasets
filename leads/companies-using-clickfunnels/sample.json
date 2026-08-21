@@ -1,5 +1,33 @@
 [
   {
+    "domain": "maurodeals.com",
+    "title": "ClickFunnels Landing Page",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 1841,
+    "crawled_at": "2026-08-21T17:57:19.905342212Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Aruba",
+      "CDN JS",
+      "ClickFunnels",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Nginx",
+      "UTF-8",
+      "W3 Total Cache",
+      "eLand"
+    ]
+  },
+  {
     "domain": "sunlightblack.com",
     "title": "Home - SoundStation 108 | Polson, Montana",
     "business_name": "",
@@ -95,38 +123,6 @@
       "jQuery",
       "jQuery Pin It Button for Images",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "tennispracticeplan.com",
-    "title": "Get Your FREE Practice Plan",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 4709,
-    "crawled_at": "2026-08-19T21:32:51.381174114Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Aruba",
-      "CDN JS",
-      "ClickFunnels",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Deadline Funnel",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "UTF-8",
-      "University or College",
-      "Wicked Reports",
-      "eLand"
     ]
   },
   {
