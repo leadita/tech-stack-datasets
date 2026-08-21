@@ -1,5 +1,116 @@
 [
   {
+    "domain": "pass2u.net",
+    "title": "Pass2U: Apple Wallet and Google Wallet Pass Solution",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 660,
+    "crawled_at": "2026-08-21T20:14:47.319399853Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Apache",
+      "Apache Tomcat JK",
+      "Apple Auto Link Maker",
+      "Fastly",
+      "Google Analytics",
+      "Google My Business",
+      "Google Play",
+      "Omacro",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "coretechnologies.com",
+    "title": "Windows Services Software | 100% Uptime for Your Applications",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 23315,
+    "crawled_at": "2026-08-21T18:04:27.933001294Z",
+    "technologies": [
+      "Adult Content",
+      "Apache",
+      "Apache Tomcat JK",
+      "Better Lead Generation Services",
+      "ETranslate",
+      "Financial Services Guide",
+      "GTranslate",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google My Business",
+      "Google Tag Manager",
+      "KVH",
+      "Microdata for Google Shopping",
+      "Perl",
+      "PositiveSSL Badge",
+      "QUIC",
+      "StatCounter",
+      "UTF-8",
+      "WordPress"
+    ]
+  },
+  {
+    "domain": "avacosistemas.com.ar",
+    "title": "Avaco Sistemas",
+    "business_name": "",
+    "country": "ARG",
+    "seo_score": 67,
+    "tech_spend": 42868,
+    "crawled_at": "2026-08-21T10:42:13.490211814Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Fastly",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "LiteSpeed",
+      "ON24",
+      "Subversion",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "WhatsApp Sharing",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "bnmnet.bnm.mr",
+    "title": "BNM Online Banking",
+    "business_name": "",
+    "country": "MRT",
+    "seo_score": 50,
+    "tech_spend": "",
+    "crawled_at": "2026-08-21T07:40:55.638216898Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "UTF-8",
+      "W3.CSS"
+    ]
+  },
+  {
+    "domain": "gme-ram-it.com",
+    "title": "GME RaM IT",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": "",
+    "crawled_at": "2026-08-21T01:41:17.659656139Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "GZIP Module",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "sripiranavan.com",
     "title": "Sripiranavan - Senior Software Engineer | Java, Kotlin, Scala Expert",
     "business_name": "",
@@ -10073,38 +10184,6 @@
     ]
   },
   {
-    "domain": "coretechnologiesconsulting.com",
-    "title": "Experts in Windows Services on Windows 11/10 and Server 2025/2022/2019/2016",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 23315,
-    "crawled_at": "2026-04-02T13:32:20.025080754Z",
-    "technologies": [
-      "Adult Content",
-      "Apache",
-      "Apache Tomcat JK",
-      "Better Lead Generation Services",
-      "ETranslate",
-      "Financial Services Guide",
-      "GTranslate",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google My Business",
-      "Google Tag Manager",
-      "KVH",
-      "Microdata for Google Shopping",
-      "Perl",
-      "PositiveSSL Badge",
-      "QUIC",
-      "StatCounter",
-      "UTF-8",
-      "WordPress"
-    ]
-  },
-  {
     "domain": "ziuton.com",
     "title": "Ziuton - Gerente de Proyectos / App Developer",
     "business_name": "",
@@ -10616,22 +10695,6 @@
       "jsDelivr",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "gme-ram-de.com",
-    "title": "GME DE RaM",
-    "business_name": "",
-    "country": "",
-    "seo_score": 20,
-    "tech_spend": "",
-    "crawled_at": "2026-03-21T14:00:46.576957507Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "GZIP Module",
-      "UTF-8",
-      "jQuery"
     ]
   },
   {
@@ -14103,68 +14166,6 @@
       "Layui",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "pass2u.net",
-    "title": "Pass2U: Apple Wallet and Google Wallet Pass Solution",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 660,
-    "crawled_at": "2026-01-05T19:50:58.590287938Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Apache",
-      "Apache Tomcat JK",
-      "Apple Auto Link Maker",
-      "Fastly",
-      "Google Analytics",
-      "Google My Business",
-      "Google Play",
-      "Omacro",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "avacosistemas.com.ar",
-    "title": "Avaco Sistemas",
-    "business_name": "",
-    "country": "ARG",
-    "seo_score": 67,
-    "tech_spend": 42868,
-    "crawled_at": "2026-01-05T03:19:54.691492601Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Fastly",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "ON24",
-      "Subversion",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "WhatsApp Sharing",
-      "YouTube",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "bnmnet.bnm.mr",
-    "title": "BNM Online Banking",
-    "business_name": "",
-    "country": "MRT",
-    "seo_score": 50,
-    "tech_spend": "",
-    "crawled_at": "2026-01-04T21:51:20.713665081Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "UTF-8",
-      "W3.CSS"
     ]
   }
 ]
