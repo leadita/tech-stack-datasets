@@ -1,5 +1,29 @@
 [
   {
+    "domain": "baque-solutions.com",
+    "title": "Baque Solutions",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 72,
+    "tech_spend": 32040,
+    "crawled_at": "2026-08-21T06:40:17.779668405Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon API Gateway",
+      "Content Delivery Network",
+      "Fireblade",
+      "Next.js",
+      "Python",
+      "QUIC",
+      "Share Link",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "mitchellfortfishing.com",
     "title": "Kentucky Fishing Guides | Mitchell Fort Fishing",
     "business_name": "Mitchell Fort Fishing",
@@ -17402,37 +17426,6 @@
       "UTF-8",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "bushwackerguideservice.com",
-    "title": "Tennessee River Fishing Charters - Stripers & Catfish",
-    "business_name": "Bushwacker Guide Service",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 20042,
-    "crawled_at": "2026-04-15T19:32:20.003484667Z",
-    "technologies": [
-      "Amazon",
-      "Amazon API Gateway",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Content Delivery Network",
-      "DoubleClick Bid Manager",
-      "Fastly",
-      "GZIP Module",
-      "Heap",
-      "Hubspot",
-      "Line2",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Stripe",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]

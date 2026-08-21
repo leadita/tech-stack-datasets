@@ -1,12 +1,12 @@
 [
   {
-    "domain": "britstakechoice.uk",
-    "title": "BritsTakeChoice: Empowering Your Decisions with Insightful Blog",
+    "domain": "urbanslotslab.uk",
+    "title": "Urban Slots Lab: Discover the Best City-Themed Slots",
     "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
+    "country": "DEU",
+    "seo_score": 72,
     "tech_spend": 1968,
-    "crawled_at": "2026-08-18T04:47:19.967696844Z",
+    "crawled_at": "2026-08-20T22:02:19.967683472Z",
     "technologies": [
       "Bulma",
       "Cloudflare",
@@ -20,7 +20,6 @@
       "QUIC",
       "Tailwind CSS",
       "UTF-8",
-      "eLand",
       "jQuery"
     ]
   },
