@@ -1,5 +1,26 @@
 [
   {
+    "domain": "chan.co.za",
+    "title": "Channon Perry",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 75,
+    "tech_spend": 2820,
+    "crawled_at": "2026-08-21T05:58:04.263174923Z",
+    "technologies": [
+      "Angular",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Tableau",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "8mbet.dev",
     "title": "8mbets - Top Online Betting and Casino Games in Bangladesh",
     "business_name": "8mbets",
@@ -17957,49 +17978,6 @@
       "Weglot",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "sadigitalconnects.com",
-    "title": "SA Digital Connects | San Antonio & Bexar County Collaboration",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 27942,
-    "crawled_at": "2026-04-15T05:02:20.005093737Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "CoolText",
-      "DC74",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "POWr",
-      "PWA",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "Sentry",
-      "SiteW",
-      "Sitelinks Search Box",
-      "Subversion",
-      "Tableau",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "YouTube",
-      "mlcom"
     ]
   }
 ]

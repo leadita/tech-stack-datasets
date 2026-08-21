@@ -10435,35 +10435,5 @@
       "Zoom Video Conferencing",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "bergpartners.com",
-    "title": "Berg Advisors | Berg Advisors",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 13040,
-    "crawled_at": "2026-01-04T04:49:16.424023327Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vimeo",
-      "YouTube",
-      "Zoom Video Conferencing",
-      "jsDelivr"
-    ]
   }
 ]
