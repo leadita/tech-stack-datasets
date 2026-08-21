@@ -3585,44 +3585,5 @@
       "Wix Media",
       "mlcom"
     ]
-  },
-  {
-    "domain": "trendyhometoday.com",
-    "title": "Modern Home Goods For Your Home and Online Shopping - Trendy Home Today",
-    "business_name": "Trendy Home Today",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 440,
-    "crawled_at": "2026-01-05T02:32:12.372116668Z",
-    "technologies": [
-      "3 Products",
-      "Accordion FAQ",
-      "Advanced Woo Search",
-      "Alternate Protocol",
-      "Apache",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Page scroll to id",
-      "Porto Wordpress",
-      "QUIC",
-      "ShipStation",
-      "Sitelinks Search Box",
-      "Slider Revolution",
-      "Theme In WP",
-      "UTF-8",
-      "WPBakery",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "jQuery"
-    ]
   }
 ]
