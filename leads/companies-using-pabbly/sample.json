@@ -1,5 +1,42 @@
 [
   {
+    "domain": "santarosafiredamagerestoration.com",
+    "title": "Fire Damage Restoration Santa Rosa, CA | Call (707) 581-5385",
+    "business_name": "Santa Rosa Fire Damage Restoration",
+    "country": "CAN",
+    "seo_score": 82,
+    "tech_spend": 4769,
+    "crawled_at": "2026-08-21T15:32:19.972608429Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Astra Theme",
+      "Better Lead Generation Services",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Neighborhoods",
+      "Nginx",
+      "PHP",
+      "Pabbly",
+      "Perl",
+      "QUIC",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Related Posts",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "aivoov.com",
     "title": "AI Text to Speech & Voice Generator - AiVOOV",
     "business_name": "",
@@ -6303,29 +6340,6 @@
       "UTF-8",
       "Zoom Video Conferencing",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "bhuman.ai",
-    "title": "BHuman | AI personalized videos at scale",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 151116,
-    "crawled_at": "2026-01-05T17:18:49.992965189Z",
-    "technologies": [
-      "Calendly",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Next.js",
-      "Pabbly",
-      "QUIC",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "Webflow",
-      "shadcn ui"
     ]
   }
 ]
