@@ -1,5 +1,53 @@
 [
   {
+    "domain": "fabienamann.dev",
+    "title": "Hello from Fabien Amann | Fabien Amann",
+    "business_name": "",
+    "country": "DJI",
+    "seo_score": 72,
+    "tech_spend": 1850,
+    "crawled_at": "2026-08-21T15:45:21.194196399Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "DAV",
+      "Docusaurus",
+      "Express",
+      "Federal Deposit Insurance Corporation",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Nginx",
+      "PHP",
+      "Perl",
+      "PrestaShop",
+      "Tailwind CSS",
+      "UTF-8",
+      "symfony PHP Framework"
+    ]
+  },
+  {
+    "domain": "wpfpilot.dev",
+    "title": "WPF Pilot",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 600,
+    "crawled_at": "2026-08-21T10:51:30.259395069Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "werenode.com",
     "title": "Werenode Portal | Werenode Official Website",
     "business_name": "",
@@ -12634,52 +12682,6 @@
       "Perl",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "jeffmcbride.net",
-    "title": "Home | Jeff McBride",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 2718,
-    "crawled_at": "2026-03-20T01:17:49.339357428Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Perl",
-      "Plausible Analytics",
-      "Python"
-    ]
-  },
-  {
-    "domain": "nenadwritesdocs.com",
-    "title": "Nenad Writes Docs",
-    "business_name": "",
-    "country": "",
-    "seo_score": 25,
-    "tech_spend": "",
-    "crawled_at": "2026-03-19T14:44:52.100163084Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Netlify",
-      "Perl",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]

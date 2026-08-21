@@ -1,5 +1,37 @@
 [
   {
+    "domain": "rivertopcontracting.com",
+    "title": "Home - Rivertop Contracting",
+    "business_name": "Rivertop Contracting",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 282,
+    "crawled_at": "2026-08-21T13:20:12.693726484Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Contact Form Plugin",
+      "EmbedPress",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Jetpack",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "QUIC",
+      "Scully",
+      "Slider Revolution",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "lilbitcountry-boutique.com",
     "title": "Home | Lil Bit Country Boutique",
     "business_name": "Lil Bit Country Boutique",
@@ -17509,38 +17541,6 @@
       "Wix Media",
       "WordPress Related Posts",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "arlyscully.com",
-    "title": "Arly Scully Somatic Healing",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 78968,
-    "crawled_at": "2026-04-30T09:10:48.289971494Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "Pico CSS",
-      "QUIC",
-      "Scully",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]

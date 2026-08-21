@@ -1,5 +1,51 @@
 [
   {
+    "domain": "currently.studio",
+    "title": "Home - Currently",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 75,
+    "tech_spend": 4900,
+    "crawled_at": "2026-08-21T14:51:20.92274148Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Gridsome",
+      "Idaq",
+      "Instagram Follow Button",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "parattechnology.com",
+    "title": "PARAT Technology - RETHINK PLASTICS. | PARAT Technology",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 77,
+    "tech_spend": 55876,
+    "crawled_at": "2026-08-21T09:00:32.948365519Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Fireblade",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gridsome",
+      "Instagram Follow Button",
+      "K2F",
+      "Netlify",
+      "Subversion",
+      "UTF-8",
+      "Usercentrics",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "black-photon.co.uk",
     "title": "Joseph Keane - Joseph's Blog",
     "business_name": "",
@@ -5098,31 +5144,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "parat-technology.de",
-    "title": "PARAT Technology - RETHINK PLASTICS. | PARAT Technology",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 77,
-    "tech_spend": 55876,
-    "crawled_at": "2026-05-05T18:47:31.626335029Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gridsome",
-      "Instagram Follow Button",
-      "K2F",
-      "Netlify",
-      "Subversion",
-      "UTF-8",
-      "Usercentrics",
-      "YouTube"
     ]
   },
   {
@@ -12003,24 +12024,6 @@
       "QUIC",
       "Twitter Ads",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "paperplane.software",
-    "title": "Paper Plane Software",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 55,
-    "tech_spend": 3,
-    "crawled_at": "2026-02-02T08:25:48.863132898Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
