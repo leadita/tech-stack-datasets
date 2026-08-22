@@ -1,5 +1,29 @@
 [
   {
+    "domain": "galigajewelry.com",
+    "title": "Galiga",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 35000,
+    "crawled_at": "2026-08-21T22:58:08.301580315Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cart.com",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Etsy",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "K2F",
+      "OpenCart",
+      "PHP",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "qnbag.com",
     "title": "Welcome to the luggage website",
     "business_name": "",
@@ -12227,27 +12251,6 @@
       "OpenCart",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "kritishala.in",
-    "title": "Kritishala",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 30003,
-    "crawled_at": "2026-05-10T08:32:19.981441577Z",
-    "technologies": [
-      "Cart.com",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "OpenCart",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
