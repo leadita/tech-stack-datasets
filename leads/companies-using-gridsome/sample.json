@@ -1,5 +1,53 @@
 [
   {
+    "domain": "ogojiii.com",
+    "title": "Ogojiii - A community for African innovation - Ogojiii",
+    "business_name": "",
+    "country": "NGA",
+    "seo_score": 72,
+    "tech_spend": 2988,
+    "crawled_at": "2026-08-22T22:21:33.213392498Z",
+    "technologies": [
+      "Amazon",
+      "Amazon S3 CDN",
+      "Content Delivery Network",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Medium",
+      "Netlify",
+      "Storyblocks",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "e-lend.com.au",
+    "title": "Local Mortgage Broker Coburg - e-lend",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 2828,
+    "crawled_at": "2026-08-22T11:58:09.878778899Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Gravity Forms",
+      "Gridsome",
+      "Trustpilot Reviews for WordPress",
+      "Vimeo"
+    ]
+  },
+  {
     "domain": "currently.studio",
     "title": "Home - Currently",
     "business_name": "",
@@ -11985,45 +12033,6 @@
       "Gridsome",
       "Netlify",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "sheridan-auto-passion.fr",
-    "title": "Sheridan Auto Passion | Véhicules d'occasion",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 77,
-    "tech_spend": 15484,
-    "crawled_at": "2026-02-02T19:22:40.616745725Z",
-    "technologies": [
-      "Bulma",
-      "Cybot",
-      "Envoy",
-      "Fireblade",
-      "Font Awesome",
-      "Gridsome",
-      "LiteSpeed",
-      "QUIC"
-    ]
-  },
-  {
-    "domain": "nslgroup.co.uk",
-    "title": "Pharmaceutical Wholesaler & distributor - NSL Group",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 5099,
-    "crawled_at": "2026-02-02T08:58:48.878953263Z",
-    "technologies": [
-      "Font Awesome",
-      "GZIP Module",
-      "Google My Business",
-      "Gridsome",
-      "K2F",
-      "Nginx",
-      "QUIC",
-      "Twitter Ads",
-      "reCAPTCHA"
     ]
   }
 ]

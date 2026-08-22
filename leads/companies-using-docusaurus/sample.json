@@ -1,5 +1,33 @@
 [
   {
+    "domain": "querybook.org",
+    "title": "Querybook",
+    "business_name": "",
+    "country": "UGA",
+    "seo_score": 60,
+    "tech_spend": 726,
+    "crawled_at": "2026-08-22T09:36:37.633850672Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Buttons Official",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Oracle Cloud",
+      "Perl",
+      "QUIC",
+      "Slack",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "fabienamann.dev",
     "title": "Hello from Fabien Amann | Fabien Amann",
     "business_name": "",
@@ -12661,27 +12689,6 @@
       "GitHub Hosting",
       "InitiativeS",
       "Perl"
-    ]
-  },
-  {
-    "domain": "unpackerr.zip",
-    "title": "Unpackerr | Unpackerr Extracter",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 600,
-    "crawled_at": "2026-03-20T09:34:37.338545895Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "FreeBSD",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
