@@ -1,5 +1,39 @@
 [
   {
+    "domain": "wwcsd.net",
+    "title": "WWCS Homepage",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 60,
+    "tech_spend": 9219,
+    "crawled_at": "2026-08-21T20:31:52.589460201Z",
+    "technologies": [
+      "Alternate Protocol",
+      "AutoComplete",
+      "Corporate Governance and Regulatory Compliance",
+      "ETranslate",
+      "Fireblade",
+      "Font Awesome",
+      "FreeCSSTemplates",
+      "GTranslate",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Monsido",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Visual Studio",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "princegeorge.ca",
     "title": "City of Prince George",
     "business_name": "",
@@ -19084,41 +19118,6 @@
       "eLand",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "wwcsd.net",
-    "title": "WWCS Homepage",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 60,
-    "tech_spend": 9399,
-    "crawled_at": "2026-01-05T20:16:13.707342032Z",
-    "technologies": [
-      "Alternate Protocol",
-      "AutoComplete",
-      "Corporate Governance and Regulatory Compliance",
-      "Crowdsignal",
-      "ETranslate",
-      "Express",
-      "Fireblade",
-      "Font Awesome",
-      "FreeCSSTemplates",
-      "GTranslate",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microsoft Azure",
-      "Monsido",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Visual Studio",
-      "YouTube"
     ]
   }
 ]
