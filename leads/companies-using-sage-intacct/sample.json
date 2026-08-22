@@ -1,5 +1,28 @@
 [
   {
+    "domain": "henobackoffice.com",
+    "title": "Sage Intacct Project Visibility for Project-Based Firms",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 193840,
+    "crawled_at": "2026-08-21T14:15:44.178153701Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Microdata for Google Shopping",
+      "Microsoft 365",
+      "Next.js",
+      "Pleroma",
+      "Sage Intacct",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "usemorphik.com",
     "title": "Morphik — AI Workers for Skilled Nursing & Senior Living",
     "business_name": "Morphik",
@@ -14603,54 +14626,6 @@
       "University or College",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "entrc.co",
-    "title": "Canix | Cannabis ERP and Seed-to-Sale Software",
-    "business_name": "Example",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 69301,
-    "crawled_at": "2026-01-06T04:34:22.389344752Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "ClickCease",
-      "CloudFront",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Crozdesk",
-      "ElementUI",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Conversion Tracking",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "HubSpot Conversations",
-      "Hubspot",
-      "Instagram Follow Button",
-      "Intercom",
-      "Jetboost",
-      "Microdata for Google Shopping",
-      "Perl",
-      "QUIC",
-      "Sage Intacct",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "Vector Internet Services",
-      "WF Cookie Consent",
-      "Webflow"
     ]
   }
 ]

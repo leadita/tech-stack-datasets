@@ -1432,36 +1432,5 @@
       "YouTube",
       "mlcom"
     ]
-  },
-  {
-    "domain": "procfoservices.com",
-    "title": "Bookkeeping, Tax Services. The Woodlands, Houston, Austin, Dallas . Procfoservices.com",
-    "business_name": "Procfoservices.com",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 1537,
-    "crawled_at": "2026-01-06T17:58:23.278086734Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "Expensify",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Perl",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
-    ]
   }
 ]
