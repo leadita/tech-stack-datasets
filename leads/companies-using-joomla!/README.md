@@ -1,6 +1,6 @@
 # Companies Using Joomla! (Live Dataset 2026)
 
-This folder contains an active list of 34,983 companies using **Joomla!**. 
+This folder contains an active list of 34,939 companies using **Joomla!**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 34,983
+- **Total Leads:** 34,939
 - **Verified:** Yes
-- **Last Updated:** 2026-08-21 13:30 UTC
+- **Last Updated:** 2026-08-22 13:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **34,983+** companies using Joomla!.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **34,939+** companies using Joomla!.
 
 [**⚡ Unlock the Full Joomla! List with Contact Details**](https://leadita.com/leads/companies-using-joomla!)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-08-21 13:30 UTC*
+*Last updated: 2026-08-22 13:30 UTC*
 *Data source: Leadita Technographic Intelligence*
