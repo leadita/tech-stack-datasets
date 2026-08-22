@@ -1,5 +1,24 @@
 [
   {
+    "domain": "nezteb.io",
+    "title": "Noah Betzen",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 260,
+    "crawled_at": "2026-08-21T13:22:27.802884194Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "GitHub Hosting",
+      "Hugo",
+      "Micro.blog",
+      "Twitter Ads",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "drikkes.com",
     "title": "Hendrik Spree – Copywriter",
     "business_name": "",
@@ -294,25 +313,6 @@
       "WordPress Multisite",
       "WordPress Stats",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "noahbetzen.com",
-    "title": "Noah Betzen",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 260,
-    "crawled_at": "2026-08-08T19:23:29.382058129Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "GitHub Hosting",
-      "Hugo",
-      "Micro.blog",
-      "Twitter Ads",
-      "UTF-8",
-      "shadcn ui"
     ]
   },
   {
