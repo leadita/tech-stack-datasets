@@ -1,5 +1,33 @@
 [
   {
+    "domain": "check.supply",
+    "title": "Send Checks from Your Phone | iOS Check Mailing App - Check Supply",
+    "business_name": "Check Supply",
+    "country": "VEN",
+    "seo_score": 77,
+    "tech_spend": 7740,
+    "crawled_at": "2026-08-22T05:45:24.775074524Z",
+    "technologies": [
+      "App Store",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "Express",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Headless UI",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "OpenAI",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Tailwind CSS",
+      "USPS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "simplecertifiedmail.com",
     "title": "Send USPS Certified Mail Online | SimpleCertifiedMail.com",
     "business_name": "Simple Certified Mail",
@@ -17994,46 +18022,6 @@
       "eLand",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "nonprofitmail.org",
-    "title": "Mail Non-Profit – Special Reduced Rates",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 1814,
-    "crawled_at": "2026-04-19T11:24:12.712870464Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Automattic",
-      "Bulma",
-      "Cloudflare",
-      "Content Delivery Network",
-      "EmbedPress",
-      "GoDaddy",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Microdata for Google Shopping",
-      "One Designs",
-      "PHP",
-      "QUIC",
-      "Schema Plugin",
-      "Tawk",
-      "Theme In WP",
-      "Twitter Ads",
-      "USPS",
-      "UTF-8",
-      "University or College",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "Zerif Lite",
-      "jQuery"
     ]
   }
 ]
