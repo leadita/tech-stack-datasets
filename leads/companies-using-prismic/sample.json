@@ -1,5 +1,69 @@
 [
   {
+    "domain": "elenacatani.com",
+    "title": "Elena Catani",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-08-22T09:15:38.344786858Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "jaxbeachlions.org",
+    "title": "Jax Beach Lions Club | Jacksonville Beach",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 30408,
+    "crawled_at": "2026-08-22T06:17:57.755231763Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Netlify",
+      "Next.js",
+      "Prismic",
+      "Tailwind CSS",
+      "The Fresh",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "narodipravda.ba",
+    "title": "Narod i Pravda",
+    "business_name": "",
+    "country": "POL",
+    "seo_score": 82,
+    "tech_spend": 2820,
+    "crawled_at": "2026-08-22T04:20:07.537585934Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "DAV",
+      "Google",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Prismic",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "diversitas.co.nz",
     "title": "Diversitas: Make Difference Count",
     "business_name": "",
@@ -13428,86 +13492,6 @@
       "UTF-8",
       "Vercel",
       "Vignette OpenText",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "selinathompsonltd.co.uk",
-    "title": "Selina Thompson",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 17848,
-    "crawled_at": "2026-04-17T13:38:19.993230299Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adult Content",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Express",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Investor Relations",
-      "Netlify",
-      "Perl",
-      "Prismic",
-      "QUIC",
-      "Svelte",
-      "Tailwind CSS",
-      "University or College",
-      "eLand",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "therobots.world",
-    "title": "THE ROBOTS | THE ROBOTS",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 8860,
-    "crawled_at": "2026-04-17T12:35:19.989573076Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Perl",
-      "Prismic",
-      "QUIC",
-      "RM Education",
-      "Svelte",
-      "Typeform",
-      "Vercel",
-      "Vimeo",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "homeplay.tv",
-    "title": "Homeplay | Redefining Home for Luxury and Delight",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 25960,
-    "crawled_at": "2026-04-17T11:05:20.004937874Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "K2F",
-      "Next.js",
-      "Pleroma",
-      "Prismic",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "Vimeo",
-      "Vimeo CDN",
       "shadcn ui"
     ]
   }
