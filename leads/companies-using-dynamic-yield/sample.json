@@ -1,5 +1,41 @@
 [
   {
+    "domain": "melanys.dev",
+    "title": "MarTech Consultant • Melanys Figueredo Toledano",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 77,
+    "tech_spend": 347240,
+    "crawled_at": "2026-08-21T15:35:41.823271591Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Dynamic Yield",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "Google Retail Product Discovery",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Medium",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "OpenAI",
+      "Perl",
+      "Pleroma",
+      "Product Hunt",
+      "QUIC",
+      "Salesforce",
+      "Salesforce Experience Cloud",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "brockmcvey.com",
     "title": "Store Locator",
     "business_name": "",
@@ -1299,42 +1335,6 @@
       "jsDelivr",
       "mParticle",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "melanys.xyz",
-    "title": "MarTech Consultant • Melanys Figueredo Toledano",
-    "business_name": "",
-    "country": "ITA",
-    "seo_score": 77,
-    "tech_spend": 347240,
-    "crawled_at": "2026-06-18T07:59:19.972644385Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Dynamic Yield",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Google Retail Product Discovery",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Medium",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "OpenAI",
-      "Perl",
-      "Pleroma",
-      "Product Hunt",
-      "QUIC",
-      "Salesforce",
-      "Salesforce Experience Cloud",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   },
   {
@@ -7877,33 +7877,6 @@
       "UTF-8",
       "YouTube",
       "YourMembership"
-    ]
-  },
-  {
-    "domain": "brooksbrothersindia.in",
-    "title": "Brooks Brothers India | Official Shop",
-    "business_name": "Brooks Brothers India Website",
-    "country": "IND",
-    "seo_score": 67,
-    "tech_spend": 57336,
-    "crawled_at": "2026-01-06T11:24:21.823037513Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudinary",
-      "Content Delivery Network",
-      "Dynamic Yield",
-      "Freshdesk Support",
-      "Fynd Platform",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "PWA",
-      "UTF-8"
     ]
   }
 ]
