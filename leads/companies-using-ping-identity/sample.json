@@ -1,5 +1,36 @@
 [
   {
+    "domain": "loopingone.com",
+    "title": "LoopingOne l Marketplace KYC & Payments",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 50116,
+    "crawled_at": "2026-08-22T08:33:05.764303096Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "DAV",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Ping Identity",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "WF Cookie Consent",
+      "Webflow"
+    ]
+  },
+  {
     "domain": "jo5h.com",
     "title": "Joshua Miller, Experienced Technology Professional",
     "business_name": "",
@@ -2382,58 +2413,6 @@
       "Wix Media",
       "YouTube",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "loopingone.com",
-    "title": "LoopingOne l Marketplace KYC & Payments",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 50116,
-    "crawled_at": "2026-01-06T16:31:03.654065689Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "DAV",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Ping Identity",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "WF Cookie Consent",
-      "Webflow"
-    ]
-  },
-  {
-    "domain": "anrisolutions.com",
-    "title": "ANRI SOLUTIONS HR SERVICES PRIVATE LIMITED",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 70,
-    "tech_spend": 47400,
-    "crawled_at": "2026-01-06T16:21:28.069425041Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Oracle Cloud",
-      "PHP",
-      "Ping Identity",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
