@@ -1,5 +1,36 @@
 [
   {
+    "domain": "tworoosters.com",
+    "title": "Award-Winning Handcrafted Flavors in North Carolina",
+    "business_name": "Two Roosters Ice Cream",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 1849,
+    "crawled_at": "2026-08-22T07:59:35.059419873Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Bunny Fonts",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Gusto",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Square",
+      "Subversion",
+      "Theme In WP",
+      "Twenty Twenty-One",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "jeffersonaugusto.com.br",
     "title": "Jefferson Augusto | Linktree",
     "business_name": "",
@@ -18657,36 +18688,6 @@
       "WordPress Multisite",
       "Yelp Badge",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "sadkivski.com",
-    "title": "Roman Sadkivskyi - Senior PHP Engineer | Freelance Spryker & Magento Architect",
-    "business_name": "",
-    "country": "UKR",
-    "seo_score": 77,
-    "tech_spend": 6174,
-    "crawled_at": "2026-02-02T01:49:48.876092277Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Gambling Content",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gusto",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Tailwind CSS",
-      "Telegram",
-      "Unsplash",
-      "shadcn ui",
-      "symfony PHP Framework"
     ]
   }
 ]
