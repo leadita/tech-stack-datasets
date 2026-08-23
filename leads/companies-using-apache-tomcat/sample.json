@@ -1,5 +1,35 @@
 [
   {
+    "domain": "iqbalt.com",
+    "title": "Taha Iqbal | Senior Java, Integration and Cloud Engineer",
+    "business_name": "",
+    "country": "NZL",
+    "seo_score": 77,
+    "tech_spend": 282000,
+    "crawled_at": "2026-08-23T10:48:02.886006702Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Jekyll",
+      "Microdata for Google Shopping",
+      "Parcel",
+      "Python",
+      "Salesforce",
+      "Salesforce Experience Cloud",
+      "Salesforce Hosted",
+      "Subversion",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Unix",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "fundrazr.me",
     "title": "Sign in to FundRazr",
     "business_name": "",
@@ -14121,36 +14151,6 @@
       "Twitter Ads",
       "UTF-8",
       "University or College"
-    ]
-  },
-  {
-    "domain": "iqbalt.com",
-    "title": "Taha Iqbal | Senior Java, Integration and Cloud Engineer",
-    "business_name": "",
-    "country": "NZL",
-    "seo_score": 77,
-    "tech_spend": 282000,
-    "crawled_at": "2026-01-08T11:02:35.374896273Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Jekyll",
-      "Microdata for Google Shopping",
-      "Parcel",
-      "Python",
-      "Salesforce",
-      "Salesforce Experience Cloud",
-      "Salesforce Hosted",
-      "Subversion",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Unix",
-      "YouTube"
     ]
   }
 ]
