@@ -1,5 +1,26 @@
 [
   {
+    "domain": "alex-shortt.now.sh",
+    "title": "Alex Shortt | Software Engineer based in London",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 32628,
+    "crawled_at": "2026-08-23T01:15:21.394081799Z",
+    "technologies": [
+      "Astro",
+      "Content Delivery Network",
+      "DatoCMS",
+      "GitHub Hosting",
+      "Google My Business",
+      "Tailwind CSS",
+      "The Fresh",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "fsdoc.app",
     "title": "FSDoc - Easy functional documentation",
     "business_name": "",
@@ -9789,27 +9810,6 @@
       "UTF-8",
       "Vimeo",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "alex-shortt.com",
-    "title": "Alex Shortt | Software Engineer based in London",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 67,
-    "tech_spend": 32628,
-    "crawled_at": "2026-05-07T08:38:19.983158142Z",
-    "technologies": [
-      "Astro",
-      "Content Delivery Network",
-      "DatoCMS",
-      "GitHub Hosting",
-      "Google My Business",
-      "Tailwind CSS",
-      "The Fresh",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {

@@ -1,5 +1,32 @@
 [
   {
+    "domain": "owd.io",
+    "title": "Owls Department — Digital Design + Creative Web Development",
+    "business_name": "",
+    "country": "POL",
+    "seo_score": 72,
+    "tech_spend": 10612,
+    "crawled_at": "2026-08-23T03:27:27.013588043Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Calendly",
+      "Clutch",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nuxt.js",
+      "Perl",
+      "Prismic",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "elenacatani.com",
     "title": "Elena Catani",
     "business_name": "",
@@ -2794,33 +2821,6 @@
       "Tailwind CSS",
       "Twitter Ads",
       "Vimeo"
-    ]
-  },
-  {
-    "domain": "owlsdepartment.com",
-    "title": "Owls Department — Digital Design + Creative Web Development",
-    "business_name": "",
-    "country": "POL",
-    "seo_score": 72,
-    "tech_spend": 10612,
-    "crawled_at": "2026-06-04T04:45:54.488004412Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Calendly",
-      "Clutch",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nuxt.js",
-      "Perl",
-      "Prismic",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {
