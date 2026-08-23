@@ -1,5 +1,38 @@
 [
   {
+    "domain": "nextnano-gmbh.de",
+    "title": "nextnano - Software for semiconductor nanodevices",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 70,
+    "tech_spend": 8329,
+    "crawled_at": "2026-08-23T08:00:30.528097398Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Apache",
+      "Calendly",
+      "Coming Soon Page",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Tag Manager",
+      "IcoMoon",
+      "JIRA",
+      "Microsoft 365",
+      "PHP",
+      "Perl",
+      "Python",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "Zoho CRM",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "emvote.com",
     "title": "Live Voting | Electronic Voting Systems | Audience Response Systems",
     "business_name": "Meridia Interactive Solutions",
@@ -11971,39 +12004,6 @@
       "Zoho CRM",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "piezophototronics.com",
-    "title": "nextnano - Software for semiconductor nanodevices",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 70,
-    "tech_spend": 8329,
-    "crawled_at": "2026-05-06T18:30:23.93517313Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Apache",
-      "Calendly",
-      "Coming Soon Page",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Tag Manager",
-      "IcoMoon",
-      "JIRA",
-      "Microsoft 365",
-      "PHP",
-      "Perl",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "Zoho CRM",
-      "jQuery"
     ]
   },
   {
