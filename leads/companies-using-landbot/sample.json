@@ -16412,48 +16412,5 @@
       "LandBot",
       "QUIC"
     ]
-  },
-  {
-    "domain": "joetishkoff.com",
-    "title": "Joe Tishkoff | Loan Officers | Lower Mortgage",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 65,
-    "tech_spend": 21416,
-    "crawled_at": "2026-01-07T16:20:28.576795909Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "Calendly",
-      "CloudFront",
-      "Content Delivery Network",
-      "Elfsight",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "LandBot",
-      "Nationwide Mortgage Licensing System and Registry",
-      "QUIC",
-      "Tailwind CSS",
-      "WF Cookie Consent",
-      "Webflow",
-      "YouTube",
-      "jsDelivr",
-      "shadcn ui"
-    ]
   }
 ]
