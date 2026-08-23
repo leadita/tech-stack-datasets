@@ -1,5 +1,38 @@
 [
   {
+    "domain": "pebblelures.com",
+    "title": "wooden lure bodies, wooden fishing lure bodies, wooden lure blanks, wooden fishing lure blanks, lure parts, lure making, wooden lures, wooden crankbaits, crank baits, minnow lures, trout lures, top water lures",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 9495,
+    "crawled_at": "2026-08-23T14:55:13.114513903Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudinary",
+      "Content Delivery Network",
+      "Daily Deals",
+      "Fireblade",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Tag Manager",
+      "Gravity",
+      "Instagram Follow Button",
+      "QUIC",
+      "Tailwind CSS",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "Volusion Live Chat"
+    ]
+  },
+  {
     "domain": "doorclosersusa.com",
     "title": "Commercial Door & Hardware Supplier | Door Closers USA",
     "business_name": "",
@@ -3520,37 +3553,6 @@
       "Volusion Live Chat",
       "YouTube",
       "Zendesk Guide"
-    ]
-  },
-  {
-    "domain": "pebblelures.com",
-    "title": "wooden lure bodies, wooden fishing lure bodies, wooden lure blanks, wooden fishing lure blanks, lure parts, lure making, wooden lures, wooden crankbaits, crank baits, minnow lures, trout lures, top water lures",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 9435,
-    "crawled_at": "2026-01-08T17:43:50.915762962Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudinary",
-      "Daily Deals",
-      "ElementUI",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Tag Manager",
-      "Gravity",
-      "Instagram Follow Button",
-      "QUIC",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "Volusion Live Chat"
     ]
   }
 ]
