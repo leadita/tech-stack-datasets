@@ -1,5 +1,39 @@
 [
   {
+    "domain": "uniqueessentials.info",
+    "title": "Unique Essentials - High-Quality Scrub Collections!",
+    "business_name": "",
+    "country": "SGP",
+    "seo_score": 77,
+    "tech_spend": 10528,
+    "crawled_at": "2026-08-23T04:06:45.551823325Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Baidu Cloud",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Facebook Reseller",
+      "Google Cloud DNS",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "NFOrce Internet",
+      "QUIC",
+      "Setmore",
+      "Shopify",
+      "Shopify Collabs",
+      "Tagembed",
+      "Thank You",
+      "UTF-8",
+      "Yandex Hosting",
+      "eLand",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "bluefrogtherapies.co.uk",
     "title": "Award winning massage in York. Treatments tailored to you",
     "business_name": "Blue Frog Therapies",
@@ -17637,33 +17671,6 @@
       "UTF-8",
       "Umami",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "johnpowellacademy.co.uk",
-    "title": "Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 15498,
-    "crawled_at": "2026-01-19T20:45:23.27690136Z",
-    "technologies": [
-      "123-Reg",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Duda",
-      "FormSubmit",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "SMC",
-      "Setmore",
-      "Subversion",
-      "Tagembed",
-      "Thank You",
-      "UTF-8"
     ]
   }
 ]

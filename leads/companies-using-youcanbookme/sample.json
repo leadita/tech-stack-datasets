@@ -1,5 +1,40 @@
 [
   {
+    "domain": "hi5-ecommerce.com",
+    "title": "hi5-ecommerce – Eine weitere WordPress-Website",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 55,
+    "tech_spend": 162,
+    "crawled_at": "2026-08-23T09:07:46.115949816Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Contact Form Plugin",
+      "CookieYes",
+      "Elementor",
+      "EmbedPress",
+      "Font Awesome",
+      "Free Call",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Nginx",
+      "PHP",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "YouCanBookMe",
+      "YouTube",
+      "jQuery",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "payrollsetup.com",
     "title": "Set up Payroll For Small Business | Payrollsetup.com®",
     "business_name": "",
@@ -17150,41 +17185,6 @@
       "Stripe",
       "YouCanBookMe",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "herve.com",
-    "title": "hervé - Accelerate With Hervé Da Costa",
-    "business_name": "Blue Sky Events, LLC",
-    "country": "VEN",
-    "seo_score": 77,
-    "tech_spend": 11161,
-    "crawled_at": "2026-04-27T05:20:53.938272694Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Amazon Widgets",
-      "Aruba",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Line2",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "Vimeo",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouCanBookMe",
-      "YouTube",
-      "eLand"
     ]
   }
 ]
