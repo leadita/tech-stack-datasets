@@ -1,5 +1,33 @@
 [
   {
+    "domain": "giovannie-encarnacion.com",
+    "title": "Home | Giovannie Encarnacion",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 10287,
+    "crawled_at": "2026-08-23T06:43:41.962188925Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "Font Awesome",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Hasnode",
+      "Jekyll",
+      "Kitco",
+      "Microdata for Google Shopping",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "8mbet.dev",
     "title": "8mbets - Top Online Betting and Casino Games in Bangladesh",
     "business_name": "8mbets",
@@ -12309,34 +12337,6 @@
       "Vercel",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "giovannie-encarnacion.com",
-    "title": "Home | Giovannie Encarnacion",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 762,
-    "crawled_at": "2026-01-08T04:21:48.634124815Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hasnode",
-      "Jekyll",
-      "Kitco",
-      "Microdata for Google Shopping",
-      "UTF-8"
     ]
   }
 ]

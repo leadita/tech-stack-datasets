@@ -1,5 +1,23 @@
 [
   {
+    "domain": "germanboardadvisors.de",
+    "title": "German Board Advisors",
+    "business_name": "German Board Advisors",
+    "country": "DEU",
+    "seo_score": 75,
+    "tech_spend": 3749,
+    "crawled_at": "2026-08-23T05:28:49.857912175Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Microdata for Google Shopping",
+      "Microsoft 365",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "alphacutlawncare.com",
     "title": "Alpha Cut Lawn Care & OPE Repair | Johnston County NC",
     "business_name": "",
