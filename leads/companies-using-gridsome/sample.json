@@ -1,5 +1,63 @@
 [
   {
+    "domain": "telebyte.mx",
+    "title": "Inicio - Telebyte S.A. de C.V.",
+    "business_name": "",
+    "country": "MEX",
+    "seo_score": 87,
+    "tech_spend": 2007,
+    "crawled_at": "2026-08-23T20:41:02.872907929Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Formspree",
+      "Google My Business",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "No-Q",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "philqandah.ca",
+    "title": "Hello, world! - Gridsome Blog Starter",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-08-23T18:34:43.260058581Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Gridsome",
+      "Netlify",
+      "Sanity",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "sohaib.ly",
+    "title": "Hello, world! - Sohaib Sherif",
+    "business_name": "",
+    "country": "LBN",
+    "seo_score": 57,
+    "tech_spend": 2238,
+    "crawled_at": "2026-08-23T13:35:12.048395574Z",
+    "technologies": [
+      "Cloudinary",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Gridsome",
+      "Idaq",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "ogojiii.com",
     "title": "Ogojiii - A community for African innovation - Ogojiii",
     "business_name": "",
@@ -11976,63 +12034,6 @@
       "StackPath",
       "Tailwind CSS",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "mhumproducoes.com.br",
-    "title": "Produção de eventos e vídeos corporativos e publicitários - MHUM",
-    "business_name": "",
-    "country": "BRA",
-    "seo_score": 57,
-    "tech_spend": 63,
-    "crawled_at": "2026-02-03T06:49:48.860327272Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "meetjackbryan.com",
-    "title": "Home | Jack Bryan",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2026-02-03T05:01:48.865536531Z",
-    "technologies": [
-      "Apache",
-      "ElementUI",
-      "Gridsome",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "eluvers.com",
-    "title": "Adult Talent Management - Eluvers Talent",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 62,
-    "tech_spend": 4327,
-    "crawled_at": "2026-02-02T22:34:48.866879093Z",
-    "technologies": [
-      "Adult Content",
-      "Bulma",
-      "Cloudinary",
-      "Content Delivery Network",
-      "Font Awesome",
-      "Gridsome",
-      "Netlify",
-      "UTF-8"
     ]
   }
 ]
