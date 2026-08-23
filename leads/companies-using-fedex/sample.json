@@ -1,5 +1,28 @@
 [
   {
+    "domain": "drumnighmanor.com",
+    "title": "Drumnigh Manor",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 768,
+    "crawled_at": "2026-08-23T12:18:46.647470413Z",
+    "technologies": [
+      "Bulma",
+      "DHL Parcel",
+      "Express",
+      "FedEx",
+      "GZIP Module",
+      "Google My Business",
+      "IcoMoon",
+      "Nginx",
+      "Parcel",
+      "UPS",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "investinbaseball.com",
     "title": "Best Place To Sell Baseball Cards - Invest In Baseball",
     "business_name": "Invest in Baseball",
@@ -19329,42 +19352,6 @@
       "Wix Media",
       "YouTube",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "strackco.com",
-    "title": "Home - Strack Construction",
-    "business_name": "Strack Construction",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 5752,
-    "crawled_at": "2026-04-07T13:41:20.006819747Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "DAV",
-      "EWWW Image Optimizer",
-      "EmbedPress",
-      "FedEx",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Gravity",
-      "Gravity Forms",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Perl",
-      "Theme In WP",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
