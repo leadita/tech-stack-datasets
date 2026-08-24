@@ -1,5 +1,37 @@
 [
   {
+    "domain": "longhornpgdfw.com",
+    "title": "Longhorn Protective Group, LLC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 22204,
+    "crawled_at": "2026-08-23T19:51:35.207470781Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Fireblade",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Forms",
+      "Google My Business",
+      "Instagram Follow Button",
+      "NFOrce Internet",
+      "Outfunnel",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "WF Cookie Consent",
+      "Webflow"
+    ]
+  },
+  {
     "domain": "black.digital",
     "title": "Nonprofit & Higher Ed Marketing Agency | Black Digital",
     "business_name": "",
@@ -7964,37 +7996,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "longhornpgdfw.com",
-    "title": "Longhorn Protective Group, LLC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 22204,
-    "crawled_at": "2026-01-09T01:51:31.052595585Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Forms",
-      "Google My Business",
-      "Instagram Follow Button",
-      "NFOrce Internet",
-      "Outfunnel",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "WF Cookie Consent",
-      "Webflow"
     ]
   }
 ]
