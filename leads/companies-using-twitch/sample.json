@@ -1,5 +1,41 @@
 [
   {
+    "domain": "tournamentsense.com",
+    "title": "Tournament Sense | The Complete Bowling Ecosystem",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 51679,
+    "crawled_at": "2026-08-24T07:15:35.97794611Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Astro",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Fastly",
+      "Firebase",
+      "Fireblade",
+      "Gambling Content",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Tag Manager",
+      "Stripe",
+      "Tailwind CSS",
+      "Twitch",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "gamerprofiles.cz",
     "title": "Social Media for Gamers - GamerProfiles",
     "business_name": "",
@@ -18192,40 +18228,6 @@
       "UTF-8",
       "WordPress",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "auraagata.sk",
-    "title": "Aura Agáta",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 120,
-    "crawled_at": "2026-05-03T16:59:20.034035528Z",
-    "technologies": [
-      "Amazon",
-      "Bing Cashback",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DoubleClick Bid Manager",
-      "Google",
-      "Google Analytics",
-      "Google Matched Content",
-      "Google My Business",
-      "Google Reseller",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microsoft Clarity",
-      "Snowplow",
-      "Streamable",
-      "Stripe",
-      "Tailwind CSS",
-      "Twitch",
-      "UTF-8",
-      "Vimeo",
-      "YouTube",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]
