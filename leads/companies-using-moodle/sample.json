@@ -1,5 +1,25 @@
 [
   {
+    "domain": "rs-akademie.de",
+    "title": "Home | Die RS-Akademie",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 67,
+    "tech_spend": 29200,
+    "crawled_at": "2026-08-24T15:19:11.881931519Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Moodle",
+      "NFOrce Internet",
+      "PHP",
+      "Stetic",
+      "Totara",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "edvantagescience.com",
     "title": "Edvantage Science",
     "business_name": "",
@@ -1197,27 +1217,6 @@
       "Totara",
       "UTF-8",
       "Ubuntu",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "rs-akademie.de",
-    "title": "Home | Die RS-Akademie",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 77,
-    "tech_spend": 29320,
-    "crawled_at": "2026-01-10T07:29:48.225700409Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "SiteW",
-      "Stetic",
-      "Totara",
-      "UTF-8",
       "jsDelivr"
     ]
   }
