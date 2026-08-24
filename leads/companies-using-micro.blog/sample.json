@@ -8038,21 +8038,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "podere-vallebuona.com",
-    "title": "decio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 60,
-    "crawled_at": "2026-01-09T07:46:17.440991527Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GitHub Hosting",
-      "Micro.blog",
-      "QUIC",
-      "UTF-8"
-    ]
   }
 ]
