@@ -786,45 +786,5 @@
       "Yellow Pages Canada",
       "Yelp Badge"
     ]
-  },
-  {
-    "domain": "brioprimarycare.com",
-    "title": "Brio Primary Care – Greenville, SC",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 27987,
-    "crawled_at": "2026-01-09T14:30:11.253987226Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Endis",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Luma Health",
-      "QUIC",
-      "Tailwind CSS",
-      "WF Cookie Consent",
-      "jsDelivr"
-    ]
   }
 ]
