@@ -1,5 +1,36 @@
 [
   {
+    "domain": "deeplens.ai",
+    "title": "Paradigm Health | AI-Native Clinical Trial Platform for Sponsors and Providers",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 20339,
+    "crawled_at": "2026-08-24T04:17:07.604949782Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Animate It",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "CoreUI",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "HubSpot Conversations",
+      "Hubspot",
+      "LinkedIn Insights",
+      "LinkedIn Pixel",
+      "SalesLoft",
+      "Tailwind CSS",
+      "UTF-8",
+      "WF Cookie Consent",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "autoreach.io",
     "title": "AutoReach - The Intelligent Outbound Dialer",
     "business_name": "",
