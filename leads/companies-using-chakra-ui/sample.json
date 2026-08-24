@@ -1,5 +1,23 @@
 [
   {
+    "domain": "woodartcarpentry.com",
+    "title": "WoodArt Finish Carpentry",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-08-23T15:52:38.709946671Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "hydrax.dev",
     "title": "Dazzy Kyei - Homepage",
     "business_name": "",
@@ -12871,29 +12889,6 @@
       "Google Cloud DNS",
       "Google Font API",
       "Next.js",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "spiry.ro",
-    "title": "Spiry Research | Engineering Sovereign Intelligence",
-    "business_name": "",
-    "country": "SGP",
-    "seo_score": 87,
-    "tech_spend": 5080,
-    "crawled_at": "2026-05-09T05:59:16.401953464Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Next.js",
-      "Oracle Cloud",
-      "Telegram",
       "UTF-8",
       "Vercel"
     ]

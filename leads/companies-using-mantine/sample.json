@@ -1,5 +1,57 @@
 [
   {
+    "domain": "themoontowerbar.com",
+    "title": "MoonTower Bar & Grill | Chillicothe, IL",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 240,
+    "crawled_at": "2026-08-24T13:42:17.319197769Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Adsense",
+      "Google Funding Choices",
+      "Google Maps",
+      "Google Matched Content",
+      "Google My Business",
+      "Google Reseller",
+      "Instagram Follow Button",
+      "Mantine",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "withsheppard.com",
+    "title": "Shepherd",
+    "business_name": "Shepherd Insurance",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 20480,
+    "crawled_at": "2026-08-23T18:41:21.344424502Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fireblade",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Mantine",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vercel",
+      "Vimeo",
+      "WF Cookie Consent"
+    ]
+  },
+  {
     "domain": "diveagents.ai",
     "title": "Deep Noodle | AI Security Reviews, Production Readiness & Startup Advisory",
     "business_name": "",
@@ -13634,47 +13686,6 @@
       "The Fresh",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "titanmartialarts.com.au",
-    "title": "Titan Martial Arts",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2026-05-17T06:59:19.977173665Z",
-    "technologies": [
-      "DAV",
-      "GZIP Module",
-      "Mantine",
-      "Material-UI",
-      "Next.js",
-      "Nginx",
-      "UTF-8",
-      "Ubuntu"
-    ]
-  },
-  {
-    "domain": "bestblurays.com",
-    "title": "Best Blurays",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 348,
-    "crawled_at": "2026-05-17T06:26:20.015182753Z",
-    "technologies": [
-      "Alternate Protocol",
-      "DAV",
-      "Express",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Mantine",
-      "Microdata for Google Shopping",
-      "Pantheon",
-      "Sitelinks Search Box",
-      "University or College",
-      "YouTube"
     ]
   }
 ]
