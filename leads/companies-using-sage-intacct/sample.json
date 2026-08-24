@@ -1,5 +1,38 @@
 [
   {
+    "domain": "myerp.guru",
+    "title": "ERP Consultant/Partner Directory - Find ERP Consultant/Partners - My ERP Guru",
+    "business_name": "My ERP Guru",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 195758,
+    "crawled_at": "2026-08-23T11:05:20.293793846Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "AutoComplete",
+      "Content Delivery Network",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google Tag Manager",
+      "Gozen",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "NFOrce Internet",
+      "PHP",
+      "Sage Intacct",
+      "Salesforce Hosted",
+      "Tally",
+      "Tawk",
+      "UTF-8",
+      "cstate",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "gleancompany.com",
     "title": "Glean.ai | Accounts Payable Spend Intelligence",
     "business_name": "",
@@ -14577,39 +14610,6 @@
       "eLand",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "myerp.guru",
-    "title": "ERP Consultant/Partner Directory - Find ERP Consultant/Partners - My ERP Guru",
-    "business_name": "My ERP Guru",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 193198,
-    "crawled_at": "2026-01-08T11:31:50.174461395Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "AutoComplete",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google Tag Manager",
-      "Gozen",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "Sage Intacct",
-      "Salesforce Hosted",
-      "Tally",
-      "Tawk",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]

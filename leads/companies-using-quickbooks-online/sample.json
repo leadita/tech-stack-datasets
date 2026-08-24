@@ -1,5 +1,60 @@
 [
   {
+    "domain": "lebanontaxaccounting.com",
+    "title": "Home | Lebanon Tax & Accounting",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 18120,
+    "crawled_at": "2026-08-24T04:08:24.148423203Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "fwpllc.com",
+    "title": "Home | FWK & Associates PLLC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 18340,
+    "crawled_at": "2026-08-24T03:55:39.425436623Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "Zoom Video Conferencing",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "covacpa.com",
     "title": "Home | COASTAL CPA Group",
     "business_name": "",
@@ -1741,32 +1796,6 @@
       "Twitter Ads",
       "UTF-8",
       "Xero",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "fwkpllc.com",
-    "title": "Home | FWK & Associates PLLC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 13340,
-    "crawled_at": "2026-05-20T05:59:20.008712225Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "Zoom Video Conferencing",
       "reCAPTCHA"
     ]
   },
@@ -7984,30 +8013,6 @@
       "Yahoo Image CDN",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "monticellotaxaccounting.com",
-    "title": "Home | Lebanon Tax & Accounting",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 16920,
-    "crawled_at": "2026-03-24T06:37:04.607606591Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services"
     ]
   },
   {
