@@ -1,34 +1,12 @@
 [
   {
-    "domain": "mj4travel.com",
-    "title": "MJ4Travel Inc",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 7616,
-    "crawled_at": "2026-08-23T14:29:45.01395396Z",
-    "technologies": [
-      "ButterCMS",
-      "Content Delivery Network",
-      "DC74",
-      "Gambling Content",
-      "Instagram Follow Button",
-      "Sanity",
-      "Svelte",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "trymdhearingaid300.com",
+    "domain": "getmdhearingaid199.com",
     "title": "Hearing Aid Comparison | Price, Cost, Features | MDHearing",
     "business_name": "",
     "country": "USA",
     "seo_score": 72,
     "tech_spend": 245001,
-    "crawled_at": "2026-08-22T22:37:56.925706233Z",
+    "crawled_at": "2026-08-23T19:27:28.636951298Z",
     "technologies": [
       "3 Products",
       "AWS WAF Challenge",
@@ -74,6 +52,28 @@
       "Yandex Hosting",
       "Yotpo",
       "symfony PHP Framework"
+    ]
+  },
+  {
+    "domain": "mj4travel.com",
+    "title": "MJ4Travel Inc",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 7616,
+    "crawled_at": "2026-08-23T14:29:45.01395396Z",
+    "technologies": [
+      "ButterCMS",
+      "Content Delivery Network",
+      "DC74",
+      "Gambling Content",
+      "Instagram Follow Button",
+      "Sanity",
+      "Svelte",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
     ]
   },
   {
