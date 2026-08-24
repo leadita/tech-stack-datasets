@@ -1,5 +1,46 @@
 [
   {
+    "domain": "www.realissue.net",
+    "title": "Digital Real Estate Specialist",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 3236,
+    "crawled_at": "2026-08-24T06:05:41.691371377Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Prospective",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "www.atxtrailer.com",
+    "title": "This website or DOMAIN NAME may be for sale.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 76500,
+    "crawled_at": "2026-08-24T00:42:04.560006829Z",
+    "technologies": [
+      "Camp",
+      "Cart.com",
+      "Dynadot",
+      "ElementUI",
+      "Fast",
+      "GZIP Module",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "PointDNS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "amandadorancounselling.com",
     "title": "Amanda Doran Counselling",
     "business_name": "",
@@ -16,27 +57,6 @@
       "GZIP Module",
       "Instagram Follow Button",
       "Microdata for Google Shopping",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "cardcorner.com",
-    "title": "This website or DOMAIN NAME may be for sale.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 76500,
-    "crawled_at": "2026-08-20T20:50:33.383190734Z",
-    "technologies": [
-      "Camp",
-      "Cart.com",
-      "Dynadot",
-      "ElementUI",
-      "Fast",
-      "GZIP Module",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "PointDNS",
       "UTF-8"
     ]
   },
@@ -96,26 +116,6 @@
       "Microdata for Google Shopping",
       "Tumblr",
       "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "jmxtrade.org",
-    "title": "Digital Real Estate Specialist",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 3236,
-    "crawled_at": "2026-08-19T04:44:20.850410931Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Prospective",
       "UTF-8"
     ]
   },
