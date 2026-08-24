@@ -1,5 +1,37 @@
 [
   {
+    "domain": "fundwithprime.com",
+    "title": "Prime Funding Direct – Fast Business Loans & ISO Partnership Program",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 7084,
+    "crawled_at": "2026-08-24T08:09:40.922748225Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon",
+      "Amazon CloudFront",
+      "Animate It",
+      "CloudFront",
+      "Content Delivery Network",
+      "DocuSign",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "WF Cookie Consent",
+      "Webflow",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "vtecinc.org",
     "title": "Virginia Tribal Education Consortium | VTEC",
     "business_name": "Virginia Tribal Education Consortium Inc",
@@ -11820,37 +11852,6 @@
       "Tailwind CSS",
       "Thank You",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "fundwithprime.com",
-    "title": "Prime Funding Direct – Fast Business Loans & ISO Partnership Program",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 7084,
-    "crawled_at": "2026-01-09T20:42:42.821002025Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "Animate It",
-      "CloudFront",
-      "Content Delivery Network",
-      "DocuSign",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "QUIC",
-      "Tailwind CSS",
-      "WF Cookie Consent",
-      "Webflow",
-      "reCAPTCHA"
     ]
   }
 ]
