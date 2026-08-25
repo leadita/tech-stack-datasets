@@ -1,5 +1,31 @@
 [
   {
+    "domain": "yalekent.com",
+    "title": "YaleKent | Property Management & Rentals in New Jersey",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 80364,
+    "crawled_at": "2026-08-24T22:49:06.76230526Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "AppFolio",
+      "AudioEye",
+      "CloudFront",
+      "DocuSign",
+      "Duda",
+      "FormSubmit",
+      "GZIP Module",
+      "KVH",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "SMC",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "fundwithprime.com",
     "title": "Prime Funding Direct – Fast Business Loans & ISO Partnership Program",
     "business_name": "",
@@ -11791,67 +11817,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "healthpathcare.com",
-    "title": "Healthpath Care - Healthpath Care",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 21337,
-    "crawled_at": "2026-01-11T20:13:11.810759892Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DocuSign",
-      "Elegant Themes",
-      "Elementor",
-      "EmbedPress",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Hello Elementor",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Nginx",
-      "On The Map",
-      "SiteGround Optimizer",
-      "Sitelinks Search Box",
-      "Table Addons for Elementor",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "yalekent.com",
-    "title": "YaleKent | Property Management & Rentals in New Jersey",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 80364,
-    "crawled_at": "2026-01-10T19:01:45.270277659Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "AppFolio",
-      "AudioEye",
-      "CloudFront",
-      "DocuSign",
-      "Duda",
-      "FormSubmit",
-      "GZIP Module",
-      "KVH",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "SMC",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8"
     ]
   }
 ]
