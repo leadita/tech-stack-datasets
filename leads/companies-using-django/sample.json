@@ -1,5 +1,28 @@
 [
   {
+    "domain": "decorationsbymek.com",
+    "title": "Decorations By Mek - Decorator",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 2268,
+    "crawled_at": "2026-08-24T15:53:33.559604377Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "Perl",
+      "QUIC",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "urbanslotslab.uk",
     "title": "Urban Slots Lab: Discover the Best City-Themed Slots",
     "business_name": "",
@@ -9539,80 +9562,6 @@
       "QUIC",
       "Twitter Ads",
       "University or College",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "thecorporateconcierge.net",
-    "title": "The Corporate Concierge: Sales, Marketing and Web Design for business",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 2268,
-    "crawled_at": "2026-01-11T04:03:50.727054853Z",
-    "technologies": [
-      "Alternate Protocol",
-      "B12",
-      "Better Lead Generation Services",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Perl",
-      "QUIC",
-      "Twitter Ads",
-      "University or College",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "pthpics.com",
-    "title": "Passing Through Homes | Real Estate Photography Inland Empire",
-    "business_name": "",
-    "country": "IMN",
-    "seo_score": 77,
-    "tech_spend": 2500,
-    "crawled_at": "2026-01-10T08:42:14.225500801Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "B12",
-      "Calendly",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Perl",
-      "QUIC",
-      "University or College",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "decorationsbymek.com",
-    "title": "Decorations By Mek - Decorator",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 2268,
-    "crawled_at": "2026-01-10T08:18:41.92431118Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "YouTube",
       "reCAPTCHA"
     ]
   }
