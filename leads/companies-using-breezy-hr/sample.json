@@ -1,5 +1,69 @@
 [
   {
+    "domain": "mymikan.com",
+    "title": "Mikan AI Agents & AI Strategy | From Data to Decision to Action",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 5614,
+    "crawled_at": "2026-08-25T06:14:43.749594303Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Breezy HR",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google My Business",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "austinhistory.net",
+    "title": "Austin History Center Association",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 6510,
+    "crawled_at": "2026-08-24T21:13:25.438871024Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Automattic",
+      "Breezy HR",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Font Awesome",
+      "Givebutter",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "Nginx",
+      "PHP",
+      "Slider Revolution",
+      "The Events Calendar",
+      "ThemeFusion",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "sscholars.com",
     "title": "Storage Scholars - College Student Summer Storage and Moving Services",
     "business_name": "",
@@ -17486,32 +17550,6 @@
       "WordPress Related Posts",
       "YouTube",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "mymikan.com",
-    "title": "Mikan AI Agents & AI Strategy | From Data to Decision to Action",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 5614,
-    "crawled_at": "2026-01-11T06:31:11.288048136Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Breezy HR",
-      "CloudFront",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google My Business",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]
