@@ -1,5 +1,46 @@
 [
   {
+    "domain": "cunruope.de",
+    "title": "Cunruope®Pilates Reformer For Home Studio Package-Pilates Equipment",
+    "business_name": "Cunruope",
+    "country": "ZAF",
+    "seo_score": 77,
+    "tech_spend": 43714,
+    "crawled_at": "2026-08-25T08:59:09.110390995Z",
+    "technologies": [
+      "AWIN",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Baidu Cloud",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DC74",
+      "Express",
+      "Fastly",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Conversion Tracking",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "K2F",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Omnisend",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "Thank You",
+      "UTF-8",
+      "Yandex Hosting",
+      "YouTube",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "cambioroasters.com",
     "title": "The World’s First Aluminum Pods for Keurig® Brewers",
     "business_name": "Cambio Roasters",
@@ -35236,29 +35277,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "online-united.de",
-    "title": "ONLINE UNITED – Partner Marketing for E‑Commerce Brands",
-    "business_name": "ONLINE UNITED GmbH",
-    "country": "DEU",
-    "seo_score": 77,
-    "tech_spend": 2440,
-    "crawled_at": "2026-03-21T17:20:42.822798248Z",
-    "technologies": [
-      "AWIN",
-      "Alternate Protocol",
-      "Apache",
-      "Commission Junction",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Impact",
-      "Microdata for Google Shopping",
-      "TradeDoubler",
-      "UTF-8"
     ]
   }
 ]
