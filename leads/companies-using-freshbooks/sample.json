@@ -3517,29 +3517,5 @@
       "monday.com",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "promptrecruiting.com",
-    "title": "Work From Home Training | Prompt Recruiting",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 5156,
-    "crawled_at": "2026-01-10T11:56:50.091251938Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "FreshBooks",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Pico CSS",
-      "Recruiting.com",
-      "SiteW",
-      "UTF-8"
-    ]
   }
 ]

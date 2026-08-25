@@ -1,5 +1,59 @@
 [
   {
+    "domain": "dataself.com",
+    "title": "DataSelf Business Intelligence for SMBs | Tableau | Power BI",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 210419,
+    "crawled_at": "2026-08-25T09:40:02.756620266Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Font Awesome",
+      "Google",
+      "Google Cloud DNS",
+      "Google Custom Search",
+      "Google Font API",
+      "Google My Business",
+      "InitiativeS",
+      "Oracle Cloud",
+      "QUIC",
+      "Sage Intacct",
+      "Salesforce Hosted",
+      "Stripe",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "Vimeo",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "saviefinancial.com",
+    "title": "Savie Financial",
+    "business_name": "Savie Financial",
+    "country": "USA",
+    "seo_score": 50,
+    "tech_spend": 25156,
+    "crawled_at": "2026-08-24T21:27:01.100035612Z",
+    "technologies": [
+      "Express",
+      "GZIP Module",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "SMC",
+      "Sage Intacct",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "myerp.guru",
     "title": "ERP Consultant/Partner Directory - Find ERP Consultant/Partners - My ERP Guru",
     "business_name": "My ERP Guru",
@@ -11441,25 +11495,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "saviefinancials.com",
-    "title": "Savie Financial",
-    "business_name": "Savie Financial",
-    "country": "USA",
-    "seo_score": 55,
-    "tech_spend": 10156,
-    "crawled_at": "2026-04-04T00:29:20.023177289Z",
-    "technologies": [
-      "Express",
-      "GZIP Module",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "Sage Intacct",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   },
   {
