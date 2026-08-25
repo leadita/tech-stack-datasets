@@ -1,5 +1,97 @@
 [
   {
+    "domain": "pabue.co",
+    "title": "Hello - Pabueco",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 23557,
+    "crawled_at": "2026-08-25T07:52:59.973550048Z",
+    "technologies": [
+      "AdonisJs",
+      "Automattic",
+      "Content Delivery Network",
+      "DAV",
+      "Express",
+      "Formspree",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Idaq",
+      "KVH",
+      "Plausible Analytics",
+      "QUIC",
+      "Svelte",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "krig.agency",
+    "title": "Hello world! - KRIG.agency",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 100558,
+    "crawled_at": "2026-08-25T04:30:28.057382459Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Gridsome",
+      "Instagram Follow Button",
+      "K2F",
+      "Netlify",
+      "No-Q",
+      "Onyx Internet",
+      "SMC",
+      "Subversion",
+      "UTF-8",
+      "Zope"
+    ]
+  },
+  {
+    "domain": "estypendia.pl",
+    "title": "System stypendialny - e-Stypendia",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 72400,
+    "crawled_at": "2026-08-25T04:10:33.055537841Z",
+    "technologies": [
+      "GZIP Module",
+      "Gridsome",
+      "KVH",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "SMC",
+      "Tailwind CSS",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "jozefmaxted.co.uk",
+    "title": "Jozef Maxted - Full stack web developer - Jozef Maxted - Creative Full-stack Developer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-08-25T00:47:13.496938054Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Craft",
+      "Gridsome",
+      "Netlify",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "telebyte.mx",
     "title": "Inicio - Telebyte S.A. de C.V.",
     "business_name": "",
@@ -561,30 +653,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "krig.io",
-    "title": "Hello world! - KRIG.agency",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 22798,
-    "crawled_at": "2026-08-05T05:26:16.458068046Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Gridsome",
-      "Instagram Follow Button",
-      "K2F",
-      "Netlify",
-      "No-Q",
-      "Onyx Internet",
-      "SMC",
-      "Subversion",
-      "UTF-8",
-      "Zope"
     ]
   },
   {
@@ -6580,35 +6648,6 @@
     ]
   },
   {
-    "domain": "pabue.com",
-    "title": "Hello - Pabueco",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 23557,
-    "crawled_at": "2026-04-27T07:29:19.99366924Z",
-    "technologies": [
-      "AdonisJs",
-      "Automattic",
-      "Content Delivery Network",
-      "DAV",
-      "Express",
-      "Formspree",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Idaq",
-      "KVH",
-      "Plausible Analytics",
-      "QUIC",
-      "Svelte",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "hildurhult.com",
     "title": "Hildur Hult - Hildur Hult",
     "business_name": "",
@@ -8777,25 +8816,6 @@
       "Netlify",
       "Phorest",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "jozefm.dev",
-    "title": "Jozef Maxted - Full stack web developer - Jozef Maxted - Creative Full-stack Developer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-04-13T17:11:20.027016662Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Craft",
-      "Gridsome",
-      "Netlify",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "shadcn ui"
     ]
   },
   {
@@ -12014,26 +12034,6 @@
       "QUIC",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "edbconsultancyservices.com",
-    "title": "Home | EdbConsultancyServices",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 67,
-    "tech_spend": 17868,
-    "crawled_at": "2026-02-03T08:07:48.861973766Z",
-    "technologies": [
-      "Express",
-      "Fireblade",
-      "Gridsome",
-      "IcoMoon",
-      "LiteSpeed",
-      "QUIC",
-      "StackPath",
-      "Tailwind CSS",
-      "jsDelivr"
     ]
   }
 ]
