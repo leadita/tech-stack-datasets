@@ -1,5 +1,46 @@
 [
   {
+    "domain": "southknoxfamilycare.com",
+    "title": "South Knox Family Care | Walk-In Clinic & Family Medicine located in Knoxville, TN",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 83738,
+    "crawled_at": "2026-08-25T06:14:43.733364736Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "AudioEye",
+      "CloudFront",
+      "Content Delivery Network",
+      "DAV",
+      "Express",
+      "Fastly",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Kareo",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Parcel",
+      "PatientPop",
+      "Perl",
+      "QUIC",
+      "SMC",
+      "Tebra",
+      "University or College"
+    ]
+  },
+  {
     "domain": "hishandshcs.com",
     "title": "His Hands Healthcare Services, Crete, IL",
     "business_name": "HIS HANDS HEALTHCARE SERVICES",
@@ -17930,34 +17971,6 @@
       "PatientPop",
       "SMC",
       "Tebra"
-    ]
-  },
-  {
-    "domain": "simplepcp.com",
-    "title": "Simple Primary Care - Primary Care, Comprehensive Medical Care",
-    "business_name": "Simple Primary Care",
-    "country": "",
-    "seo_score": 92,
-    "tech_spend": 64840,
-    "crawled_at": "2026-03-25T17:48:26.77059151Z",
-    "technologies": [
-      "AthenaHealth",
-      "Contento",
-      "Fullscript",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Kareo",
-      "Microdata for Google Shopping",
-      "PWA",
-      "QUIC",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
     ]
   }
 ]
