@@ -1,5 +1,35 @@
 [
   {
+    "domain": "decruy.be",
+    "title": "Home - Decruy",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 5790,
+    "crawled_at": "2026-08-25T15:11:07.531783172Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon S3 CDN",
+      "Express",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Nginx",
+      "SharpSpring",
+      "Storyblocks",
+      "Tailwind CSS",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "tcog.group",
     "title": "ERP software solutions I TCOG",
     "business_name": "TCOG",
@@ -21471,36 +21501,6 @@
       "Wix Media",
       "YouTube",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "brightdesign.com",
-    "title": "Bright | Creative Branding Agency Los Angeles",
-    "business_name": "©2022 Bright Design",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 10841,
-    "crawled_at": "2026-04-05T16:50:19.986001523Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "ElementUI",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Tag Manager",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SharpSpring",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
