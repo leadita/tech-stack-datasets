@@ -1,5 +1,41 @@
 [
   {
+    "domain": "osloskinlab.com",
+    "title": "Oslo Skin Lab® – Science-Backed Skincare Supplements for Lasting Beauty",
+    "business_name": "Oslo Skin Lab",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 166151,
+    "crawled_at": "2026-08-25T10:50:26.01171812Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Cookie Information",
+      "DAV",
+      "Episerver Search Navigation",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Hotjar",
+      "Instagram Follow Button",
+      "Material-UI",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Optimizely Recommendations",
+      "Pico CSS",
+      "Pleroma",
+      "ReviewWidget",
+      "SMC",
+      "Sleeknote",
+      "Thank You",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "peterstone-court.com",
     "title": "South Wales Wedding Venue and Hotel in the Brecon Beacons | Peterstone Court",
     "business_name": "",
@@ -18764,36 +18800,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "osloskinlab.com",
-    "title": "Oslo Skin Lab® – Science-Backed Skincare Supplements for Lasting Beauty",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 55851,
-    "crawled_at": "2026-01-11T13:26:17.863990546Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Better Lead Generation Services",
-      "Content Delivery Network",
-      "Cookie Information",
-      "Episerver Search Navigation",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Hotjar",
-      "Instagram Follow Button",
-      "Material-UI",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pico CSS",
-      "Pleroma",
-      "Sleeknote",
-      "UTF-8"
     ]
   }
 ]
