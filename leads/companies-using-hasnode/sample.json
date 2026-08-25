@@ -1,5 +1,27 @@
 [
   {
+    "domain": "williamegomezo.me",
+    "title": "William Gómez | Senior End-to-End Engineer",
+    "business_name": "",
+    "country": "COL",
+    "seo_score": 82,
+    "tech_spend": 17940,
+    "crawled_at": "2026-08-24T22:49:06.729674605Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Calendly",
+      "Content Delivery Network",
+      "Fastly",
+      "GitHub Hosting",
+      "Hasnode",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "giovannie-encarnacion.com",
     "title": "Home | Giovannie Encarnacion",
     "business_name": "",
