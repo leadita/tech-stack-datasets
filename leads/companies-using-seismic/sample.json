@@ -2656,31 +2656,5 @@
       "UTF-8",
       "Vercel"
     ]
-  },
-  {
-    "domain": "wavegeos.com",
-    "title": "Wave Geo-Services | WaveGeo",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 65,
-    "tech_spend": 59148,
-    "crawled_at": "2026-01-11T22:57:26.065228517Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Gravity",
-      "HostGator",
-      "IcoMoon",
-      "Microsoft Azure",
-      "PHP",
-      "Parallels Plesk Panel",
-      "Seismic",
-      "Tailwind CSS",
-      "University or College",
-      "Visual Studio",
-      "jQuery"
-    ]
   }
 ]
