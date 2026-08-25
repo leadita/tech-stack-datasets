@@ -1,5 +1,61 @@
 [
   {
+    "domain": "marketinghup.com",
+    "title": "Marketinghup | Marketing Agency",
+    "business_name": "Marketinghup",
+    "country": "CZE",
+    "seo_score": 92,
+    "tech_spend": 36353,
+    "crawled_at": "2026-08-25T20:14:20.584638129Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Animate It",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "CookieYes",
+      "ElementUI",
+      "Flow",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "WF Cookie Consent",
+      "eLand",
+      "monday.com"
+    ]
+  },
+  {
+    "domain": "brianpearson.us",
+    "title": "Brian Pearson - Interactive Director - Project Manager -Team Leader",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 3827,
+    "crawled_at": "2026-08-25T16:46:58.182698502Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "EmbedPress",
+      "GDPR Cookie Compliance",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "PHP",
+      "UTF-8",
+      "UserWay",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery",
+      "monday.com"
+    ]
+  },
+  {
     "domain": "tipnw.org",
     "title": "TIPNW – COMPASSION IN ACTION. (24 hour support: 503.940.7997 | office: 971.666.9958)",
     "business_name": "",
@@ -2771,38 +2827,6 @@
       "Vercel",
       "monday.com",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "legitvisual.cz",
-    "title": "Marketinghup | Marketing Agency",
-    "business_name": "Marketinghup",
-    "country": "CZE",
-    "seo_score": 77,
-    "tech_spend": 36353,
-    "crawled_at": "2026-08-17T18:45:59.171865653Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Animate It",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "CookieYes",
-      "ElementUI",
-      "Flow",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "WF Cookie Consent",
-      "eLand",
-      "monday.com"
     ]
   },
   {
@@ -18751,37 +18775,6 @@
       "YouTube",
       "jsDelivr",
       "monday.com"
-    ]
-  },
-  {
-    "domain": "devinops.com",
-    "title": "Orlando Web Developer & SEO Expert - Professional Website Design Services | DevinOps",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 67,
-    "tech_spend": 155680,
-    "crawled_at": "2026-05-28T00:47:58.888157748Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Next.js",
-      "PWA",
-      "Pleroma",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "monday.com",
-      "shadcn ui"
     ]
   }
 ]

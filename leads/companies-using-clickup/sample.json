@@ -1,5 +1,25 @@
 [
   {
+    "domain": "kaksha.ai",
+    "title": "kaksha.ai",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-08-25T11:07:48.027925768Z",
+    "technologies": [
+      "AI Log",
+      "ClickUp",
+      "Content Delivery Network",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "inauguststudio.com",
     "title": "In August Studio | Video Production Services",
     "business_name": "In August Studio",
@@ -19040,31 +19060,6 @@
       "QUIC",
       "Stripe",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "capacity.is",
-    "title": "Capacity",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 123,
-    "crawled_at": "2026-04-06T20:05:19.995907645Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "Calendly",
-      "ClickUp",
-      "CloudFront",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Twitter Ads",
-      "UTF-8",
-      "WF Cookie Consent"
     ]
   }
 ]
