@@ -1,5 +1,23 @@
 [
   {
+    "domain": "innov8solution.com",
+    "title": "Innov8 Solution - Automate | Innovate | Accelerate",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 62,
+    "tech_spend": 2468,
+    "crawled_at": "2026-08-24T14:43:56.83863983Z",
+    "technologies": [
+      "Bulma",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Tag Manager",
+      "IcoMoon",
+      "LandBot"
+    ]
+  },
+  {
     "domain": "londonkioskscompany.com",
     "title": "PARTTEAM & OEMKIOSKS | Digital Kiosks For The World",
     "business_name": "OEMKIOSKS",
@@ -16425,25 +16443,6 @@
       "OpenResty",
       "Thank You",
       "Zyro"
-    ]
-  },
-  {
-    "domain": "innov8solution.com",
-    "title": "Innov8 Solution - Automate | Innovate | Accelerate",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 62,
-    "tech_spend": 2468,
-    "crawled_at": "2026-01-10T06:32:55.185782692Z",
-    "technologies": [
-      "Bulma",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Tag Manager",
-      "IcoMoon",
-      "LandBot",
-      "QUIC"
     ]
   }
 ]
