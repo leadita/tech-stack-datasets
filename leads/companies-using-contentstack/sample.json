@@ -1,5 +1,30 @@
 [
   {
+    "domain": "pitcairnandnorfolkislandssociety.co.uk",
+    "title": "The Pitcairn and Norfolk Islands Society",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 80,
+    "tech_spend": 26854,
+    "crawled_at": "2026-08-25T10:19:42.331174958Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Contentstack",
+      "Facebook Like",
+      "Fireblade",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Workspace",
+      "Hive.co",
+      "LiteSpeed",
+      "PHP",
+      "RapidWeaver",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "trinitysolar.com",
     "title": "Trinity Solar | Residential Solar Company & Roofing Contractor",
     "business_name": "",
@@ -21332,40 +21357,6 @@
       "Vimeo",
       "Weglot",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "billbuchananbooks.com",
-    "title": "Bill Buchanan's Books & Blog",
-    "business_name": "Bill Buchanan's Books ",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 26107,
-    "crawled_at": "2026-05-07T01:35:19.996268186Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AWS WAF Challenge",
-      "Amazon Widgets",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Turnstile",
-      "Contentstack",
-      "Express",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "jQuery",
-      "shadcn ui"
     ]
   }
 ]
