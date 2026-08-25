@@ -1,5 +1,40 @@
 [
   {
+    "domain": "fortlauderdalekayakrental.com",
+    "title": "Sunrise Padde Boards – Fort Lauderdale & Sunrise Paddle boards",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 30342,
+    "crawled_at": "2026-08-25T08:59:09.120382239Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Bridge",
+      "Contact Form Plugin",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Instagram Follow Button",
+      "Kaltura",
+      "LayerSlider Responsive",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Schema Plugin",
+      "Slider Revolution",
+      "Theme In WP",
+      "UTF-8",
+      "WPBakery",
+      "WordPress",
+      "WordPress Multisite",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "buzzlearning.ai",
     "title": "Log in to the site | Platforma e-learningowa BUZZcenter",
     "business_name": "",
@@ -17183,41 +17218,6 @@
       "Vimeo",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "fortlauderdalekayakrental.com",
-    "title": "Sunrise Padde Boards – Fort Lauderdale & Sunrise Paddle boards",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 30342,
-    "crawled_at": "2026-01-11T10:37:21.692052298Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Bridge",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Instagram Follow Button",
-      "Kaltura",
-      "LayerSlider Responsive",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Schema Plugin",
-      "Slider Revolution",
-      "Theme In WP",
-      "UTF-8",
-      "WPBakery",
-      "WordPress",
-      "WordPress Multisite",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
