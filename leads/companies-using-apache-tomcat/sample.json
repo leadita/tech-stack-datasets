@@ -1,5 +1,21 @@
 [
   {
+    "domain": "malgangamilk.com",
+    "title": "Apache Tomcat/7.0.35",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 45,
+    "tech_spend": "",
+    "crawled_at": "2026-08-25T11:53:06.557250941Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "ISO/IEC 8859",
+      "QUIC",
+      "Subversion"
+    ]
+  },
+  {
     "domain": "iqbalt.com",
     "title": "Taha Iqbal | Senior Java, Integration and Cloud Engineer",
     "business_name": "",
@@ -1007,22 +1023,6 @@
     ]
   },
   {
-    "domain": "sherlock.3cx.ca",
-    "title": "Apache Tomcat/5.5.32",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": "",
-    "crawled_at": "2026-06-06T22:48:23.637876736Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "DAV",
-      "Express",
-      "ISO/IEC 8859"
-    ]
-  },
-  {
     "domain": "fixtelligent.com",
     "title": "FIXtelligent - Do FIX Protocol Intelligently",
     "business_name": "",
@@ -1106,22 +1106,6 @@
       "University or College",
       "Visual Studio",
       "eLand"
-    ]
-  },
-  {
-    "domain": "pinzhenyishu.com",
-    "title": "Apache Tomcat/8.5.68",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 45,
-    "tech_spend": "",
-    "crawled_at": "2026-06-02T08:08:19.968289856Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "ISO/IEC 8859",
-      "QUIC",
-      "Subversion"
     ]
   },
   {
@@ -14117,40 +14101,6 @@
       "UTF-8",
       "Visual Studio",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "gunasekhar.pro",
-    "title": "Gunasekhar C",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 40752,
-    "crawled_at": "2026-01-12T07:35:21.817322443Z",
-    "technologies": [
-      "3D FlipBook",
-      "AWS WAF Challenge",
-      "Apache",
-      "Apache Tomcat JK",
-      "Content Delivery Network",
-      "ElementUI",
-      "Fireblade",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "PWA",
-      "Python",
-      "RM Education",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]
