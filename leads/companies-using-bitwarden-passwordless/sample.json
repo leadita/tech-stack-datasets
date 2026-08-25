@@ -1,5 +1,25 @@
 [
   {
+    "domain": "mailhidden.com",
+    "title": "MailHidden - Private email aliases",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 7500,
+    "crawled_at": "2026-08-24T18:32:19.972496281Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Bitwarden Passwordless",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Fireblade",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "designsystems.jobs",
     "title": "Design systems jobs",
     "business_name": "",
@@ -18714,53 +18734,6 @@
       "YouCanBookMe",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "viuwr.info",
-    "title": "Six Colors – Apple, technology, and other stuff",
-    "business_name": "",
-    "country": "ITA",
-    "seo_score": 70,
-    "tech_spend": 55142,
-    "crawled_at": "2026-03-01T20:17:33.703510594Z",
-    "technologies": [
-      "1Password",
-      "AWS WAF Challenge",
-      "Adult Content",
-      "App Store",
-      "Apture Linking Platform",
-      "ArvanCloud",
-      "Automattic",
-      "BatCache",
-      "Bitwarden Passwordless",
-      "DAV",
-      "EmbedPress",
-      "Fireblade",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Jetpack",
-      "Kinsta",
-      "Medium",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "Perl",
-      "Pressable",
-      "QUIC",
-      "Say what",
-      "Theme In WP",
-      "UTF-8",
-      "Waveform Technology",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "YouTube",
-      "eLand",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
