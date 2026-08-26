@@ -1,5 +1,40 @@
 [
   {
+    "domain": "green-providers.co.uk",
+    "title": "Green Directory | The UK's leading green directory",
+    "business_name": "The Green Providers Directory",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 376,
+    "crawled_at": "2026-08-26T08:13:31.295586865Z",
+    "technologies": [
+      "AWIN",
+      "Alternate Protocol",
+      "Apache",
+      "EmbedPress",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LayerSlider Responsive",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Schema Plugin",
+      "Theme In WP",
+      "ThemeFusion",
+      "Twitter Ads",
+      "UTF-8",
+      "Vimeo",
+      "WP jQuery Lightbox",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "cunruope.de",
     "title": "Cunruope®Pilates Reformer For Home Studio Package-Pilates Equipment",
     "business_name": "Cunruope",
@@ -35245,37 +35280,6 @@
       "WordPress Multisite",
       "YouTube",
       "eLand",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "blindsbanbury.com",
-    "title": "Custom Blinds Home - Custom Fit Blinds",
-    "business_name": "Custom Fit Blinds",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 1887,
-    "crawled_at": "2026-03-22T09:17:13.931278417Z",
-    "technologies": [
-      "AWIN",
-      "Alternate Protocol",
-      "Apache",
-      "Elementor",
-      "EmbedPress",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hello Elementor",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "NFOrce Internet",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
       "jQuery"
     ]
   }
