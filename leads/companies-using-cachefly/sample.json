@@ -1,5 +1,37 @@
 [
   {
+    "domain": "mainsailhousing.com",
+    "title": "Stay Sojo Corporate Housing | Furnished Corporate Housing",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 98450,
+    "crawled_at": "2026-08-26T11:00:26.486633018Z",
+    "technologies": [
+      "CacheFly",
+      "CacheFly CDN",
+      "Cisco/Arrowpoint Content Service Switch",
+      "DAV",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Spherexx",
+      "Tailwind CSS",
+      "UTF-8",
+      "UserWay",
+      "Vignette OpenText",
+      "YouTube",
+      "eLand",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "villasatcallapoint.com",
     "title": "Manufactured Home Communities - Sun Communities",
     "business_name": "",
@@ -825,37 +857,6 @@
       "Tailwind CSS",
       "UTF-8",
       "WhatsApp Sharing"
-    ]
-  },
-  {
-    "domain": "staysojo.com",
-    "title": "Stay Sojo Corporate Housing | Furnished Corporate Housing",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 96150,
-    "crawled_at": "2026-05-09T13:59:49.61280425Z",
-    "technologies": [
-      "CacheFly",
-      "CacheFly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Pico CSS",
-      "QUIC",
-      "Spherexx",
-      "Tailwind CSS",
-      "Trustpilot Reviews for WordPress",
-      "UTF-8",
-      "UserWay",
-      "Vignette OpenText",
-      "YouTube",
-      "reCAPTCHA"
     ]
   },
   {
