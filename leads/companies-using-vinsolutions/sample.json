@@ -4180,19 +4180,5 @@
       "VinSolutions",
       "dc.js"
     ]
-  },
-  {
-    "domain": "jamcmci.com",
-    "title": "James McIntyre - Portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 8000,
-    "crawled_at": "2026-01-12T10:01:41.512859076Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "VinSolutions"
-    ]
   }
 ]
