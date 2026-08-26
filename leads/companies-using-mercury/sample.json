@@ -10291,43 +10291,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "100krcasino.se",
-    "title": "100 kr Casino » Erbjudanden & Bonusar för 2025!",
-    "business_name": "100kr Casino",
-    "country": "IDN",
-    "seo_score": 70,
-    "tech_spend": 10213,
-    "crawled_at": "2026-01-13T04:53:55.902104755Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "EmbedPress",
-      "Fonts Plugin",
-      "GZIP Module",
-      "Gambling Content",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Mercury",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "RM Education",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "eLand",
-      "jQuery"
-    ]
   }
 ]
