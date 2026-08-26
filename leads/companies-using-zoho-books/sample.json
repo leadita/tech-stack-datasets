@@ -1968,30 +1968,5 @@
       "Zoho Books",
       "mlcom"
     ]
-  },
-  {
-    "domain": "jclaw.ca",
-    "title": "Home - jclaw",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 55,
-    "tech_spend": 1246,
-    "crawled_at": "2026-01-12T22:38:57.551118139Z",
-    "technologies": [
-      "Cisco/Arrowpoint Content Service Switch",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "POWr",
-      "Perl",
-      "Twitter Ads",
-      "UTF-8",
-      "Zoho Books",
-      "eLand",
-      "reCAPTCHA"
-    ]
   }
 ]

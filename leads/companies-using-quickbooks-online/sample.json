@@ -1,5 +1,33 @@
 [
   {
+    "domain": "freidag.com",
+    "title": "Home | FREIDAG Associates",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 13340,
+    "crawled_at": "2026-08-25T18:22:20.451197632Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "Zoom Video Conferencing",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "kbnadvisors.com",
     "title": "Home | KBN Advisors",
     "business_name": "",
@@ -10414,34 +10442,6 @@
       "Tailwind CSS",
       "Twitter Ads",
       "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "freidag.com",
-    "title": "Home | FREIDAG Associates",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 12800,
-    "crawled_at": "2026-01-12T00:42:40.313392164Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "Zoom Video Conferencing",
       "jsDelivr"
     ]
   }
