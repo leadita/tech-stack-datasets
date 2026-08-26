@@ -982,34 +982,5 @@
       "Zope",
       "jQuery"
     ]
-  },
-  {
-    "domain": "kampas.lt",
-    "title": "Nekilnojamas turtas – skelbimai | Kampas.lt",
-    "business_name": "",
-    "country": "LTU",
-    "seo_score": 72,
-    "tech_spend": 25558,
-    "crawled_at": "2026-01-12T12:40:32.808189395Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Apyl",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DAV",
-      "DoubleClick Bid Manager",
-      "Ektron",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Nuxt.js",
-      "Schema Plugin",
-      "UTF-8",
-      "Zonomi"
-    ]
   }
 ]

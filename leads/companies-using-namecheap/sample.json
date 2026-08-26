@@ -1,5 +1,25 @@
 [
   {
+    "domain": "protectiid.com",
+    "title": "Protect IID",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 7556,
+    "crawled_at": "2026-08-25T21:52:28.285400682Z",
+    "technologies": [
+      "1Password",
+      "Content Delivery Network",
+      "Fireblade",
+      "Gatsby JS",
+      "Google My Business",
+      "Namecheap",
+      "Netlify",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "jaisbd.com",
     "title": "J A IT Solution",
     "business_name": "",
@@ -483,26 +503,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "protectiid.com",
-    "title": "Protect IID",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 7556,
-    "crawled_at": "2026-01-12T05:55:35.816600195Z",
-    "technologies": [
-      "1Password",
-      "Content Delivery Network",
-      "Fireblade",
-      "Gatsby JS",
-      "Google My Business",
-      "Namecheap",
-      "Netlify",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]
