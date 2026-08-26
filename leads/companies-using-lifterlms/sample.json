@@ -1,5 +1,39 @@
 [
   {
+    "domain": "ecac.ie",
+    "title": "ECAC FGas Training - Courses, FGas, Heat Pumps, Refrigeration, HVAC",
+    "business_name": "",
+    "country": "IRL",
+    "seo_score": 87,
+    "tech_spend": 20927,
+    "crawled_at": "2026-08-25T22:45:21.010133355Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Complianz",
+      "Elementor",
+      "EmbedPress",
+      "Fireblade",
+      "Google",
+      "Google My Business",
+      "Hello Elementor",
+      "LifterLMS",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "QUIC",
+      "Schema Plugin",
+      "Sitelinks Search Box",
+      "Stripe",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "eLand",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "harsh.org.in",
     "title": "HARSH – Digital Wellness Partner",
     "business_name": "",
@@ -20471,41 +20505,6 @@
       "WordPress Multisite",
       "WordPress Stats",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "ecac.ie",
-    "title": "ECAC FGas Training - Courses, FGas, Heat Pumps, Refrigeration, HVAC",
-    "business_name": "",
-    "country": "IRL",
-    "seo_score": 77,
-    "tech_spend": 20927,
-    "crawled_at": "2026-01-12T07:12:55.437411819Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Complianz",
-      "Elementor",
-      "EmbedPress",
-      "Fireblade",
-      "Google",
-      "Google My Business",
-      "Hello Elementor",
-      "LifterLMS",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "QUIC",
-      "Schema Plugin",
-      "Sitelinks Search Box",
-      "Stripe",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "eLand",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]

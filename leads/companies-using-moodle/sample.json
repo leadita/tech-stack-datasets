@@ -1,5 +1,27 @@
 [
   {
+    "domain": "dgspmoodle.de",
+    "title": "Deutsche Gesellschaft für Sportmedizin und Prävention e.V.",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 82,
+    "tech_spend": 31400,
+    "crawled_at": "2026-08-26T15:35:50.0365117Z",
+    "technologies": [
+      "Apache",
+      "Fastly",
+      "GZIP Module",
+      "Moodle",
+      "NFOrce Internet",
+      "PHP",
+      "Perl",
+      "Totara",
+      "UTF-8",
+      "Ubuntu",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "rs-akademie.de",
     "title": "Home | Die RS-Akademie",
     "business_name": "",
@@ -1192,28 +1214,6 @@
       "PHP",
       "Smart App Banner",
       "Tailwind CSS",
-      "Totara",
-      "UTF-8",
-      "Ubuntu",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "dgspmoodle.de",
-    "title": "Deutsche Gesellschaft für Sportmedizin und Prävention e.V.",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 82,
-    "tech_spend": 31400,
-    "crawled_at": "2026-01-13T08:22:34.138924022Z",
-    "technologies": [
-      "Apache",
-      "Fastly",
-      "GZIP Module",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "Perl",
       "Totara",
       "UTF-8",
       "Ubuntu",
