@@ -1,5 +1,36 @@
 [
   {
+    "domain": "kolkatawebhosting.com",
+    "title": "Premium Web Hosting Company from Kolkata offering reliable web hosting services since 15 years",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 33448,
+    "crawled_at": "2026-08-26T02:02:08.798385398Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Fireblade",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "IcoMoon",
+      "Oracle Cloud",
+      "PHP",
+      "PWA",
+      "Perl",
+      "Python",
+      "QUIC",
+      "Rackspace Cloud Servers",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Visual Studio",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "malgangamilk.com",
     "title": "Apache Tomcat/7.0.35",
     "business_name": "",
@@ -14069,37 +14100,6 @@
       "Parallels Plesk Panel",
       "Tailwind CSS",
       "Twitter Ads",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "kolkatawebhosting.com",
-    "title": "Premium Web Hosting Company from Kolkata offering reliable web hosting services since 15 years",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 33448,
-    "crawled_at": "2026-01-12T12:12:43.124420027Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Fireblade",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "IcoMoon",
-      "Oracle Cloud",
-      "PHP",
-      "PWA",
-      "Perl",
-      "Python",
-      "QUIC",
-      "Rackspace Cloud Servers",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Visual Studio",
       "jQuery"
     ]
   }
