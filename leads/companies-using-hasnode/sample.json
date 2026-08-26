@@ -12298,39 +12298,5 @@
       "jQuery",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "indiesubmit.com",
-    "title": "IndieSubmit - Boost Your Project Visibility",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 32086,
-    "crawled_at": "2026-01-11T18:36:33.938045312Z",
-    "technologies": [
-      "Camp",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Fireblade",
-      "GetGist",
-      "GoodFirms",
-      "Google Forms",
-      "Google My Business",
-      "Hasnode",
-      "Homes.com CMS",
-      "Next.js",
-      "PHP",
-      "Pleroma",
-      "QUIC",
-      "RM Education",
-      "Tailwind CSS",
-      "Tally",
-      "Twitter Ads",
-      "Typeform",
-      "UPS",
-      "UTF-8",
-      "YouTube"
-    ]
   }
 ]

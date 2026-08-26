@@ -1,5 +1,84 @@
 [
   {
+    "domain": "jaenis.ch",
+    "title": "André Jaenisch, Frontend Developer, Computer Science Expert, Freelancer | André Jaenisch",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 62,
+    "tech_spend": 120,
+    "crawled_at": "2026-08-26T10:41:39.247472193Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Micro.blog",
+      "Nginx",
+      "Pleroma",
+      "QUIC",
+      "Tailwind CSS",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "stevendbrewer.com",
+    "title": "Steven D. BREWER - Author of LGBTQIA+ speculative fiction and poetry in English and Esperanto. Emeritus teacher of scientific writing. Lover of natural history. SFWA Secretary. (he/him)",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 17747,
+    "crawled_at": "2026-08-26T00:17:05.978460439Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Apture Linking Platform",
+      "DAV",
+      "Drupal",
+      "EmbedPress",
+      "Font Awesome",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Micro.blog",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Parcel",
+      "QUIC",
+      "Theme In WP",
+      "UTF-8",
+      "University or College",
+      "Unix",
+      "WP Super Cache",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "www.www.www.www.www.www.frankmcpherson.blog",
+    "title": "Routine Revelations",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 67,
+    "tech_spend": 120,
+    "crawled_at": "2026-08-25T19:18:23.49227731Z",
+    "technologies": [
+      "Alternate Protocol",
+      "DAV",
+      "GitHub Hosting",
+      "Hugo",
+      "Investor Relations",
+      "Micro.blog",
+      "PWA",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "eLand",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "nezteb.io",
     "title": "Noah Betzen",
     "business_name": "",
@@ -313,30 +392,6 @@
       "WordPress Multisite",
       "WordPress Stats",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "www.www.www.frankmcpherson.blog",
-    "title": "Routine Revelations",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 120,
-    "crawled_at": "2026-08-08T10:42:27.883416405Z",
-    "technologies": [
-      "Alternate Protocol",
-      "DAV",
-      "GitHub Hosting",
-      "Hugo",
-      "Investor Relations",
-      "Micro.blog",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "eLand",
-      "jsDelivr"
     ]
   },
   {
@@ -7986,57 +8041,6 @@
       "WordPress",
       "WordPress Multisite",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "jaenis.ch",
-    "title": "André Jaenisch, Frontend Developer, Computer Science Expert, Freelancer | André Jaenisch",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 62,
-    "tech_spend": 120,
-    "crawled_at": "2026-01-13T00:55:09.888722958Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Micro.blog",
-      "Nginx",
-      "QUIC",
-      "Tailwind CSS",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "stevendbrewer.com",
-    "title": "Steven D. BREWER - Author of LGBTQIA+ speculative fiction and poetry in English and Esperanto. Teacher of scientific writing. Lover of natural history. SFWA Secretary. (he/him)",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 122747,
-    "crawled_at": "2026-01-12T09:22:48.727649523Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "EmbedPress",
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Micro.blog",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Python",
-      "Salesforce Experience Cloud",
-      "Theme In WP",
-      "UTF-8",
-      "University or College",
-      "WP Super Cache",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
