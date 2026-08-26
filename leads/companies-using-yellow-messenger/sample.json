@@ -1,5 +1,36 @@
 [
   {
+    "domain": "aetherontech.net",
+    "title": "AetheronTech Consulting – Technology Solutions Provider",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 80,
+    "tech_spend": 42135,
+    "crawled_at": "2026-08-25T14:16:20.211046408Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "Dialpad",
+      "Elementor",
+      "ElementsKit Elementor",
+      "EmbedPress",
+      "Hello Elementor",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "NFOrce Internet",
+      "PHP",
+      "Rackspace Cloud Servers",
+      "Theme In WP",
+      "UTF-8",
+      "Vector Internet Services",
+      "WordPress",
+      "WordPress Multisite",
+      "Yellow Messenger",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "andersonregionallandfill.com",
     "title": "Anderson Regional Landfill | Disposal | Dump",
     "business_name": "",
@@ -4867,38 +4898,6 @@
       "WordPress Multisite",
       "Yellow Messenger",
       "eLand",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "aetherontech.net",
-    "title": "AetheronTech Consulting – Technology Solutions Provider",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 42135,
-    "crawled_at": "2026-01-11T18:36:33.947729524Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "Dialpad",
-      "Elementor",
-      "ElementsKit Elementor",
-      "EmbedPress",
-      "Hello Elementor",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "Rackspace Cloud Servers",
-      "Theme In WP",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress",
-      "WordPress Multisite",
-      "Yellow Messenger",
       "jQuery"
     ]
   }
