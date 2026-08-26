@@ -1,5 +1,64 @@
 [
   {
+    "domain": "goetheanum.org",
+    "title": "Goetheanum | Home",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 77,
+    "tech_spend": 16287,
+    "crawled_at": "2026-08-26T03:16:59.674730199Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Angular",
+      "Apache",
+      "Craft",
+      "Express",
+      "GZIP Module",
+      "GetSiteControl",
+      "Instagram Follow Button",
+      "Iubenda",
+      "Paperform",
+      "Plausible Analytics",
+      "QUIC",
+      "Telegram",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "sanctuarycovega.com",
+    "title": "Sanctuary Cove | New Homes on Georgia's Golden Isles",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 6763,
+    "crawled_at": "2026-08-26T02:36:33.679919694Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudflare",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Elfsight",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Jekyll",
+      "Keller Williams Realty",
+      "Microdata for Google Shopping",
+      "Paperform",
+      "Tailwind CSS",
+      "UTF-8",
+      "WF Cookie Consent",
+      "Webflow"
+    ]
+  },
+  {
     "domain": "mitalichakraborty.com",
     "title": "Home | Portfolio",
     "business_name": "",
@@ -2508,33 +2567,6 @@
       "Vector Internet Services",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "goetheanum.de",
-    "title": "Goetheanum | Home",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 77,
-    "tech_spend": 16287,
-    "crawled_at": "2026-08-05T13:34:47.632275324Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Angular",
-      "Apache",
-      "Craft",
-      "Express",
-      "GZIP Module",
-      "GetSiteControl",
-      "Instagram Follow Button",
-      "Iubenda",
-      "Paperform",
-      "Plausible Analytics",
-      "QUIC",
-      "Telegram",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
@@ -10531,38 +10563,6 @@
       "WordPress Multisite",
       "WordPress Related Posts",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "sanctuarycoveliving.com",
-    "title": "Sanctuary Cove | New Homes on Georgia's Golden Isles",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 6763,
-    "crawled_at": "2026-05-10T01:02:20.007302517Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cloudflare",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Elfsight",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Jekyll",
-      "Keller Williams Realty",
-      "Microdata for Google Shopping",
-      "Paperform",
-      "Tailwind CSS",
-      "UTF-8",
-      "WF Cookie Consent",
-      "Webflow"
     ]
   },
   {
