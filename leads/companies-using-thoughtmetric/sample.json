@@ -2808,46 +2808,5 @@
       "hCaptcha",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "allaboutaudrey.co.uk",
-    "title": "All About Audrey | 1970s Vintage & Bohemian Clothing | Brighton UK – All About Audrey Vintage Boutique",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 12464,
-    "crawled_at": "2026-01-12T11:52:17.443340056Z",
-    "technologies": [
-      "Afterpay",
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Fastly",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "MailChimp",
-      "MailerLite",
-      "Microdata for Google Shopping",
-      "No-Q",
-      "Perl",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Storyblocks",
-      "Storybook",
-      "ThoughtMetric",
-      "Twitter Ads",
-      "UTF-8",
-      "hCaptcha",
-      "jsDelivr",
-      "reCAPTCHA"
-    ]
   }
 ]
