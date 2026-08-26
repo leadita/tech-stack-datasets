@@ -1,5 +1,30 @@
 [
   {
+    "domain": "iconpropertytax.com",
+    "title": "File Your Property Tax Appeal and Save | Icon Property Tax",
+    "business_name": "Icon Property Tax",
+    "country": "USA",
+    "seo_score": 92,
+    "tech_spend": 125339,
+    "crawled_at": "2026-08-26T08:47:27.644174821Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Mantine",
+      "Microdata for Google Shopping",
+      "Monetate",
+      "Next.js",
+      "PWA",
+      "QUIC",
+      "SMC",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "thursdayblacklabel.com",
     "title": "Thursday Boot Company | Handcrafted with Integrity",
     "business_name": "Thursday Boot Company",
@@ -9515,31 +9540,6 @@
     ]
   },
   {
-    "domain": "ownbetter.com",
-    "title": "File Your Property Tax Appeal and Save | Icon Property Tax",
-    "business_name": "Icon Property Tax",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 125339,
-    "crawled_at": "2026-04-26T00:53:19.999127993Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Mantine",
-      "Microdata for Google Shopping",
-      "Monetate",
-      "Next.js",
-      "PWA",
-      "QUIC",
-      "SMC",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
     "domain": "mobleyveterinaryclinic.com",
     "title": "Veterinarian in Nashville, TN | Mobley Veterinary Clinic – Your Trusted Veterinary Clinic for Pet Wellness, Surgery, Emergency Care & More. Book an Appointment Today!",
     "business_name": "",
@@ -15358,41 +15358,6 @@
       "Zendesk Embeddables",
       "eLand",
       "iGoDigital"
-    ]
-  },
-  {
-    "domain": "4aunitedvacation.com",
-    "title": "Vacation Packages from United Airlines",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 77,
-    "tech_spend": 182588,
-    "crawled_at": "2026-01-12T14:50:49.210972031Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Aruba",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Content Square",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Monetate",
-      "OneTrust Domain Verification",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "eLand"
     ]
   }
 ]
