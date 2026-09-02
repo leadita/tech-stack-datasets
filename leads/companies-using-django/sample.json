@@ -1,5 +1,29 @@
 [
   {
+    "domain": "rbestexcavation.com",
+    "title": "R Best Excavation Services LLC - Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 2308,
+    "crawled_at": "2026-08-27T00:22:01.110770532Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Perl",
+      "QUIC",
+      "Twitter Ads",
+      "University or College",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "decorationsbymek.com",
     "title": "Decorations By Mek - Decorator",
     "business_name": "",
@@ -9516,53 +9540,6 @@
       "UTF-8",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "mercuryorbitmusic.com",
-    "title": "Home | Mercury Orbit Music",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 1108,
-    "crawled_at": "2026-01-13T20:49:43.450731166Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "QUIC",
-      "University or College"
-    ]
-  },
-  {
-    "domain": "rbestexcavation.com",
-    "title": "R Best Excavation Services LLC - Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 2308,
-    "crawled_at": "2026-01-13T14:55:43.458293504Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Perl",
-      "QUIC",
-      "Twitter Ads",
-      "University or College",
-      "reCAPTCHA"
     ]
   }
 ]
