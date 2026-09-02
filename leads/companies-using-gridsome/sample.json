@@ -1,5 +1,46 @@
 [
   {
+    "domain": "cathzchen.now.sh",
+    "title": "Home - Catherine Chen",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 156,
+    "crawled_at": "2026-09-02T21:59:19.062310779Z",
+    "technologies": [
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Gridsome",
+      "IcoMoon",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "salvatorecriscione.com",
+    "title": "Salvatore Criscione - Salvatore Criscione",
+    "business_name": "",
+    "country": "EST",
+    "seo_score": 72,
+    "tech_spend": 20558,
+    "crawled_at": "2026-08-27T00:50:00.805361756Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Gridsome",
+      "Instagram Follow Button",
+      "KVH",
+      "Netlify",
+      "No-Q",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "avocats-femmes-violences.org",
     "title": "Accueil - Avocats Femmes Violences",
     "business_name": "",
@@ -12001,43 +12042,6 @@
       "Gridsome",
       "LiteSpeed",
       "QUIC"
-    ]
-  },
-  {
-    "domain": "preetish.in",
-    "title": "Freelance Vue.js Developer | Preetish H. Shantharaja",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 82,
-    "tech_spend": 228,
-    "crawled_at": "2026-02-03T10:19:48.861253886Z",
-    "technologies": [
-      "Content Delivery Network",
-      "ElementUI",
-      "Express",
-      "GitHub Hosting",
-      "Gridsome",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress"
-    ]
-  },
-  {
-    "domain": "againgency.com",
-    "title": "Againgency",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": "",
-    "crawled_at": "2026-02-03T08:58:48.876319409Z",
-    "technologies": [
-      "Cloudflare",
-      "GZIP Module",
-      "Gridsome",
-      "Thank You",
-      "jsDelivr"
     ]
   }
 ]
