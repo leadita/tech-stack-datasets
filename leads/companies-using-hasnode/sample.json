@@ -12277,26 +12277,5 @@
       "mssg.me",
       "sniply"
     ]
-  },
-  {
-    "domain": "chukwukachidera.com",
-    "title": "Chukwuka Chidera Portfolio Website",
-    "business_name": "",
-    "country": "NGA",
-    "seo_score": 72,
-    "tech_spend": 348,
-    "crawled_at": "2026-01-14T01:16:43.434804915Z",
-    "technologies": [
-      "Apache",
-      "FreeCSSTemplates",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hasnode",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery",
-      "jsDelivr"
-    ]
   }
 ]
