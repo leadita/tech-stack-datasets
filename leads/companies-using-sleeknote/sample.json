@@ -1,5 +1,38 @@
 [
   {
+    "domain": "vicooffice.dk",
+    "title": "Vico Office & Exicute replaced by Tactplan | Tactplan",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 7037,
+    "crawled_at": "2026-09-02T11:51:11.37321547Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Microsoft Clarity",
+      "QUIC",
+      "Sleeknote",
+      "Tailwind CSS",
+      "UTF-8",
+      "WF Cookie Consent",
+      "WordPress",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "osloskinlab.com",
     "title": "Oslo Skin Lab® – Science-Backed Skincare Supplements for Lasting Beauty",
     "business_name": "Oslo Skin Lab",
@@ -10694,39 +10727,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "exicute.de",
-    "title": "Vico Office & Exicute replaced be Tactplan | Tactplan",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 7037,
-    "crawled_at": "2026-04-18T18:14:20.024189324Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Microsoft Clarity",
-      "QUIC",
-      "Sleeknote",
-      "Tailwind CSS",
-      "UTF-8",
-      "WF Cookie Consent",
-      "WordPress",
-      "YouTube"
     ]
   },
   {
