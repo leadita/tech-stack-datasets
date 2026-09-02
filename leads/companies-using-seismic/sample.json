@@ -1,5 +1,33 @@
 [
   {
+    "domain": "arpitsachdeva.com",
+    "title": "Arpit Sachdeva | Software Engineer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 43040,
+    "crawled_at": "2026-09-02T21:14:12.942288264Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon S3 CDN",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gravity",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "Seismic",
+      "Storyblocks",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "dataseismic.com",
     "title": "DATASEISMIC | Geophysical Services",
     "business_name": "",
@@ -2627,34 +2655,6 @@
       "eLand",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "arpitsachdeva.com",
-    "title": "Arpit Sachdeva | Software Engineer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 43040,
-    "crawled_at": "2026-01-14T08:47:18.349791082Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon S3 CDN",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gravity",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "Seismic",
-      "Storyblocks",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
