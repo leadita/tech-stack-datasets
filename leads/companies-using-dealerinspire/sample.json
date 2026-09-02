@@ -1,5 +1,39 @@
 [
   {
+    "domain": "royalford.ca",
+    "title": "Terry Ortynsky's Royal Ford | Ford Dealership in Yorkton",
+    "business_name": "",
+    "country": "JPN",
+    "seo_score": 82,
+    "tech_spend": 53687,
+    "crawled_at": "2026-08-26T23:56:46.251470035Z",
+    "technologies": [
+      "Alternate Protocol",
+      "DealerInspire",
+      "DealerSites",
+      "Express",
+      "Fastly",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "ISO/IEC 8859",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "KVH",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Tailwind CSS",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "kunesautomallsycamore.com",
     "title": "Home | Kunes Auto Mall of Sycamore in Sycamore, Illinois",
     "business_name": "",
@@ -10270,40 +10304,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "royalford.ca",
-    "title": "Terry Ortynsky's Royal Ford | Ford Dealership in Yorkton",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 77,
-    "tech_spend": 48687,
-    "crawled_at": "2026-01-13T14:34:43.439134505Z",
-    "technologies": [
-      "Alternate Protocol",
-      "DealerInspire",
-      "DealerSites",
-      "Express",
-      "Fastly",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "ISO/IEC 8859",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]

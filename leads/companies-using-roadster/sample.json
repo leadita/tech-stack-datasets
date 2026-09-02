@@ -1,5 +1,34 @@
 [
   {
+    "domain": "solarsystemstuff.com",
+    "title": "Solar System Stuff",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 12060,
+    "crawled_at": "2026-08-26T16:23:09.144923376Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "Google Adsense",
+      "Google Analytics",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google Reseller",
+      "Google Tag Manager",
+      "Hugo",
+      "Microdata for Google Shopping",
+      "Roadster",
+      "Twitter Ads",
+      "UTF-8",
+      "Unix",
+      "YouTube",
+      "arsys.es"
+    ]
+  },
+  {
     "domain": "electricredroadster.com",
     "title": "Electric Red Roadster – Arrive in Style",
     "business_name": "",
@@ -758,34 +787,6 @@
       "Instagram Follow Button",
       "Roadster",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "solarsystemstuff.com",
-    "title": "Solar System Stuff",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 12060,
-    "crawled_at": "2026-01-13T09:21:07.112798189Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Google Adsense",
-      "Google Analytics",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google Reseller",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Roadster",
-      "Twitter Ads",
-      "UTF-8",
-      "Unix",
-      "YouTube",
-      "arsys.es"
     ]
   }
 ]
