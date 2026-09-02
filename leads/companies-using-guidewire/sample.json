@@ -614,43 +614,5 @@
       "YouTube",
       "jQuery"
     ]
-  },
-  {
-    "domain": "sovwizard.com",
-    "title": "Wizard Analytics | Unstructured Data Solutions",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 1127588,
-    "crawled_at": "2026-01-13T20:03:57.244500854Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "Guidewire",
-      "Instagram Follow Button",
-      "K2F",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PWA",
-      "QUIC",
-      "SMC",
-      "SiteW",
-      "Subversion",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "eLand",
-      "mlcom"
-    ]
   }
 ]
