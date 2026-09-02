@@ -1,5 +1,27 @@
 [
   {
+    "domain": "muradmuradov.com",
+    "title": "Murad Muradov",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 7500,
+    "crawled_at": "2026-08-27T07:24:48.503434478Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fireblade",
+      "Instagram Follow Button",
+      "Netlify",
+      "Nuxt.js",
+      "Prismic",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "morethanequal.com",
     "title": "More than Equal",
     "business_name": "",
@@ -13553,33 +13575,6 @@
       "Underscores",
       "University or College",
       "eLand",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "groupmotors.az",
-    "title": "Group Motors - Hər Ailənin Avtomobili Olacaq",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 8228,
-    "crawled_at": "2026-04-19T10:26:25.225542632Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "DAV",
-      "Fireblade",
-      "Google My Business",
-      "Instagram Follow Button",
-      "NFOrce Internet",
-      "Netlify",
-      "Netlify Forms",
-      "Nuxt.js",
-      "Perl",
-      "Prismic",
-      "Tailwind CSS",
-      "UTF-8",
       "shadcn ui"
     ]
   }
