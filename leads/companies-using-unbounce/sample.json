@@ -1,5 +1,34 @@
 [
   {
+    "domain": "oligardner.com",
+    "title": "Oli Gardner",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 67,
+    "tech_spend": 7516,
+    "crawled_at": "2026-09-02T09:41:33.919329067Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Tailwind CSS",
+      "UTF-8",
+      "Unbounce",
+      "WF Cookie Consent",
+      "Webflow",
+      "Wistia"
+    ]
+  },
+  {
     "domain": "shemwellfinancial.com",
     "title": "Home | Robert Shemwell",
     "business_name": "",
@@ -3536,34 +3565,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "oligardner.com",
-    "title": "Oli Gardner",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 7516,
-    "crawled_at": "2026-01-13T23:37:43.469276716Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Tailwind CSS",
-      "Unbounce",
-      "WF Cookie Consent",
-      "Webflow",
-      "Wistia"
     ]
   }
 ]
