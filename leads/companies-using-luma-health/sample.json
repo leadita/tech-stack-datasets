@@ -755,36 +755,5 @@
       "Vector Internet Services",
       "WF Cookie Consent"
     ]
-  },
-  {
-    "domain": "retinaandmaculaconsultants.com",
-    "title": "Eye Care Services | Southwest Florida | 941-739-0390",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 32384,
-    "crawled_at": "2026-01-14T02:55:09.260998819Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "DAV",
-      "Duda",
-      "Elfsight",
-      "FormSubmit",
-      "GZIP Module",
-      "Google My Business",
-      "Google Related Website Sites",
-      "KVH",
-      "Luma Health",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "Vimeo",
-      "Yellow Pages Canada",
-      "Yelp Badge"
-    ]
   }
 ]

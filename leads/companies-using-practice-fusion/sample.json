@@ -2134,40 +2134,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "physicianscareservices.com",
-    "title": "Physicians Care Services – A TRUSTED MEDICAL BILLING FIRM",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 47802,
-    "crawled_at": "2026-01-13T15:49:43.446245565Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Agoda",
-      "Alternate Protocol",
-      "Astra Theme",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Fastly",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Line2",
-      "LiteSpeed",
-      "Practice Fusion",
-      "QUIC",
-      "QUIC.cloud",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "eClinicalWorks"
-    ]
   }
 ]
