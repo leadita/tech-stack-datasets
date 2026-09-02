@@ -1,5 +1,54 @@
 [
   {
+    "domain": "hittingup.com",
+    "title": "Hitting Up Studios | Creative Digital Agency",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 67,
+    "tech_spend": 240,
+    "crawled_at": "2026-09-02T18:18:42.789452537Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "Trello",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "runicillusionist.com",
+    "title": "Runic Illusionist Art",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 60059,
+    "crawled_at": "2026-08-26T23:13:13.770563505Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Apache",
+      "Apture Linking Platform",
+      "BLR",
+      "Carrd",
+      "Discord",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Forms",
+      "Google My Business",
+      "Instagram Follow Button",
+      "QUIC",
+      "SMC",
+      "Subversion",
+      "Telegram",
+      "Trello",
+      "Tumblr"
+    ]
+  },
+  {
     "domain": "cathyfitzpatrick.com",
     "title": "Cathy J. Fitzpatrick — cathyjf",
     "business_name": "",
@@ -19887,61 +19936,6 @@
       "Twitter Ads",
       "UTF-8",
       "Unsplash"
-    ]
-  },
-  {
-    "domain": "aucrowne.art",
-    "title": "Aucrowne Illustration",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 77,
-    "tech_spend": 65040,
-    "crawled_at": "2026-04-19T07:32:20.009135752Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "BLR",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "SMC",
-      "Trello",
-      "Tumblr",
-      "Twitter Ads",
-      "Vector Internet Services",
-      "YouTube",
-      "itch.io"
-    ]
-  },
-  {
-    "domain": "khalcritical.com",
-    "title": "New York Fursuit Maker | Custom Fursuits - KhalCritical",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 882,
-    "crawled_at": "2026-04-19T02:53:20.012789343Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Better Lead Generation Services",
-      "Content Delivery Network",
-      "Fastly",
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Forms",
-      "Google My Business",
-      "Google Workspace",
-      "Instagram Follow Button",
-      "Telegram",
-      "Trello",
-      "UTF-8"
     ]
   }
 ]
