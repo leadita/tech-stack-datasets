@@ -1,12 +1,43 @@
 [
   {
-    "domain": "bulknutriens.com.au",
+    "domain": "vartecllc.com",
+    "title": "VarTec, LLC",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 65,
+    "tech_spend": 59375,
+    "crawled_at": "2026-09-02T12:56:09.444973188Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apps4BigCommerce",
+      "Apture Linking Platform",
+      "BigCommerce",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Coming Soon Page",
+      "DAV",
+      "Fireblade",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "IcoMoon",
+      "K2F",
+      "QUIC",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "bulkproteins.com.au",
     "title": "Bulk Nutrients | Australia's first choice for supplements",
     "business_name": "",
     "country": "AUS",
     "seo_score": 77,
     "tech_spend": 108834,
-    "crawled_at": "2026-08-26T16:29:52.769522034Z",
+    "crawled_at": "2026-08-27T00:40:56.025447877Z",
     "technologies": [
       "3 Products",
       "Amazon",
@@ -19181,38 +19212,6 @@
       "Tailwind CSS",
       "UTF-8",
       "WordPress"
-    ]
-  },
-  {
-    "domain": "kiteguys.ca",
-    "title": "Kites for Everyone | The Kite Guys",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 62,
-    "tech_spend": 19795,
-    "crawled_at": "2026-05-23T05:03:07.386440358Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apps4BigCommerce",
-      "Apture Linking Platform",
-      "BigCommerce",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Fireblade",
-      "Font Awesome",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "MailChimp",
-      "Perl",
-      "QUIC",
-      "TrustIndex",
-      "UTF-8"
     ]
   }
 ]
