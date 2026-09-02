@@ -1,5 +1,40 @@
 [
   {
+    "domain": "schwabriaconnect.com",
+    "title": "RIAConnect",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 96329,
+    "crawled_at": "2026-08-27T01:30:45.981417668Z",
+    "technologies": [
+      "Adobe Marketing Cloud",
+      "Amazon",
+      "Amazon Advertising Sizmek Ad Suite",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Apache",
+      "Bing Cashback",
+      "Bing Conversion Tracking",
+      "CloudFront",
+      "Content Delivery Network",
+      "DemDex",
+      "DoubleClick Bid Manager",
+      "Evidon",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Tealium",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "hillsbrosfrappes.com",
     "title": "Hills Bros. Frappés – Hills Bros.® Coffee & Cappuccino",
     "business_name": "",
@@ -9039,41 +9074,6 @@
       "Zanox",
       "admitad",
       "financeAds"
-    ]
-  },
-  {
-    "domain": "schwabriaconnect.com",
-    "title": "RIAConnect",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 96329,
-    "crawled_at": "2026-01-13T15:43:58.008914875Z",
-    "technologies": [
-      "Adobe Marketing Cloud",
-      "Amazon",
-      "Amazon Advertising Sizmek Ad Suite",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Apache",
-      "Bing Cashback",
-      "Bing Conversion Tracking",
-      "CloudFront",
-      "Content Delivery Network",
-      "DemDex",
-      "DoubleClick Bid Manager",
-      "Evidon",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Tealium",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
