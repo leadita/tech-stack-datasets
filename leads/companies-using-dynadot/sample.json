@@ -1,5 +1,44 @@
 [
   {
+    "domain": "hadetools.com",
+    "title": "hadetools — Premium Digital Services for Your Business",
+    "business_name": "hadetools",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 41859,
+    "crawled_at": "2026-08-26T21:31:45.832918078Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Apache",
+      "Apture Linking Platform",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Dynadot",
+      "ETranslate",
+      "Express",
+      "Fireblade",
+      "Font Awesome",
+      "GTranslate",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Conversion Tracking",
+      "Google Font API",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PayPal",
+      "QUIC",
+      "Snowplow",
+      "Stripe",
+      "UTF-8",
+      "WordPress",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "register.rest",
     "title": "Punto 2012 .BAR .REST | .rest and .bar domain names",
     "business_name": "",
@@ -4812,37 +4851,6 @@
       "GZIP Module",
       "Rev",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "hadetools.com",
-    "title": "hadetools",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 8199,
-    "crawled_at": "2026-01-13T12:49:43.452079601Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Apache",
-      "Apture Linking Platform",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Dynadot",
-      "ETranslate",
-      "Fireblade",
-      "GTranslate",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "QUIC",
-      "Stripe",
-      "UTF-8",
-      "WordPress",
-      "jQuery"
     ]
   }
 ]
