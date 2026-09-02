@@ -3357,40 +3357,5 @@
       "jQuery Pin It Button for Images",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "bostonsluxuryrealty.com",
-    "title": "Paul Stec - Gibson Sotheby's International Realty",
-    "business_name": "Paul M. Stec - Town Hill Realty",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 21727,
-    "crawled_at": "2026-01-14T04:34:43.453435621Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Apache",
-      "Apture Linking Platform",
-      "Facebook Like",
-      "Fastly CDN",
-      "GZIP Module",
-      "GetResponse",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Harbor",
-      "Microdata for Google Shopping",
-      "Neighborhoods",
-      "New Relic",
-      "Phusion Passenger Enterprise",
-      "PropertyBase",
-      "QUIC",
-      "Rackspace CDN",
-      "Share Link",
-      "Twitter Ads",
-      "UTF-8",
-      "jQuery Pin It Button for Images"
-    ]
   }
 ]
