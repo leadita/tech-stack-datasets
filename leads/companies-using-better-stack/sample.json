@@ -1,5 +1,38 @@
 [
   {
+    "domain": "nimadev.ir",
+    "title": "NimaDev | Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 10360,
+    "crawled_at": "2026-09-03T19:49:09.626039881Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Better Stack",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "DAV",
+      "DC74",
+      "Express",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Medium",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Nuxt.js",
+      "PHP",
+      "Python",
+      "QUIC",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "tracktime24.com",
     "title": "Staff Scheduling with Time and Attendance Tracking | Unrubble",
     "business_name": "Unrubble",
@@ -5167,38 +5200,6 @@
       "Visual Studio",
       "Yandex Hosting",
       "dotCMS"
-    ]
-  },
-  {
-    "domain": "nimadev.ir",
-    "title": "NimaDev | Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 5360,
-    "crawled_at": "2026-01-15T05:06:05.966805644Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Better Stack",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "DAV",
-      "Express",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Medium",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Nuxt.js",
-      "PHP",
-      "Python",
-      "QUIC",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "shadcn ui"
     ]
   }
 ]

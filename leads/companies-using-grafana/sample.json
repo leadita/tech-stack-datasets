@@ -1,5 +1,21 @@
 [
   {
+    "domain": "wafb-db50hz.de",
+    "title": "FORM",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 1200,
+    "crawled_at": "2026-09-03T03:04:36.20318729Z",
+    "technologies": [
+      "Barchart",
+      "Express",
+      "GitHub Hosting",
+      "Grafana",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "doprava.digital",
     "title": "Grafana",
     "business_name": "",
