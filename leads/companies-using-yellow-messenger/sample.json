@@ -4869,36 +4869,5 @@
       "eLand",
       "mlcom"
     ]
-  },
-  {
-    "domain": "bngltd.com",
-    "title": "Home - BNG Advisors",
-    "business_name": "BNG Advisors",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 16837,
-    "crawled_at": "2026-01-14T13:47:43.13797152Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Elementor",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hello Elementor",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "Smart Slider 3",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "Yellow Messenger",
-      "eLand",
-      "jQuery"
-    ]
   }
 ]
