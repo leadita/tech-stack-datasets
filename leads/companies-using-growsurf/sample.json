@@ -1,5 +1,39 @@
 [
   {
+    "domain": "mankameautomotive.com",
+    "title": "Mankame",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 42479,
+    "crawled_at": "2026-09-02T21:21:19.13153518Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Atlas Pickup Points",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "DAV",
+      "Fastly",
+      "Fireblade",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "GrowSurf",
+      "Instagram Follow Button",
+      "MaxCDN",
+      "NFOrce Internet",
+      "PHP",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "cybernutsafety.com",
     "title": "K-12 Cybersecurity Awareness Training - Protect Your School with CyberNut",
     "business_name": "",
@@ -1207,40 +1241,6 @@
       "Vercel",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "mankameautomotive.com",
-    "title": "Mankame",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 42479,
-    "crawled_at": "2026-01-14T08:52:43.433951274Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Atlas Pickup Points",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "DAV",
-      "Fastly",
-      "Fireblade",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "GrowSurf",
-      "Instagram Follow Button",
-      "MaxCDN",
-      "NFOrce Internet",
-      "PHP",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
