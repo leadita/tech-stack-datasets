@@ -1,5 +1,30 @@
 [
   {
+    "domain": "remcommunity.net",
+    "title": "Log in - REM Community",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 7983,
+    "crawled_at": "2026-09-03T11:17:04.952575538Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "BetterMode",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "ElementUI",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Imgix",
+      "PWA",
+      "QUIC",
+      "Tailwind CSS",
+      "Tribe.so",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "unlabeled.media",
     "title": "The Unlabeled Media Network",
     "business_name": "",
@@ -2055,32 +2080,6 @@
       "Tailwind CSS",
       "Tribe.so",
       "Twitter Ads",
-      "Vector Internet Services",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "remcommunity.net",
-    "title": "Log in - REM Community",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 12983,
-    "crawled_at": "2026-01-14T21:11:36.260812466Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "BetterMode",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "ElementUI",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Imgix",
-      "K2F",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "Tribe.so",
       "Vector Internet Services",
       "shadcn ui"
     ]
