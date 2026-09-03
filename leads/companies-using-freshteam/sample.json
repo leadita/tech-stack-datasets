@@ -3365,47 +3365,5 @@
       "UTF-8",
       "YouTube"
     ]
-  },
-  {
-    "domain": "bluetitanfreight.com",
-    "title": "Blue Titan Logistics – Ship Better with Blue Titan",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 42703,
-    "crawled_at": "2026-01-14T19:02:53.864810173Z",
-    "technologies": [
-      "AccessPress Themes",
-      "Akismet",
-      "Alternate Protocol",
-      "Azure Edge",
-      "Cloudflare",
-      "CoBlocks",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "Easy Pie Chart",
-      "EmbedPress",
-      "Freshteam",
-      "GoDaddy",
-      "Google Cloud DNS",
-      "Google Font API",
-      "HubSpot Conversations",
-      "HubSpot WordPress Plugin",
-      "Hubspot",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "PHP",
-      "Pleroma",
-      "Slider Revolution",
-      "Tailwind CSS",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "Unyson",
-      "Wangsu",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
