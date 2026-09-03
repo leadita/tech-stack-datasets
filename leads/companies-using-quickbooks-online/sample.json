@@ -1,5 +1,33 @@
 [
   {
+    "domain": "reedtaxservices.com",
+    "title": "Murrayville, IL Accounting Firm | Home Page | Reedz Company Inc",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 5787,
+    "crawled_at": "2026-09-03T02:44:08.282739171Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Font Awesome",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Matomo",
+      "Matomo Tag Manager",
+      "QUIC",
+      "QuickBooks Online",
+      "Square",
+      "Tailwind CSS",
+      "Taxdome",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "aataxteam.com",
     "title": "Home - AA Tax Team",
     "business_name": "AA Tax Team",
@@ -10396,34 +10424,6 @@
       "UTF-8",
       "Zoom Video Conferencing",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "reedtaxservices.com",
-    "title": "Murrayville, IL Accounting Firm | Home Page | Reedz Company Inc",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 5787,
-    "crawled_at": "2026-01-14T13:40:43.439251105Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Font Awesome",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Matomo",
-      "Matomo Tag Manager",
-      "QUIC",
-      "QuickBooks Online",
-      "Square",
-      "Tailwind CSS",
-      "Taxdome",
-      "Twitter Ads",
-      "UTF-8",
-      "jQuery",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]
