@@ -1,5 +1,47 @@
 [
   {
+    "domain": "renirev.com",
+    "title": "Renirev",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 436,
+    "crawled_at": "2026-09-03T00:15:12.456536189Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Rev",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "extracellularly.com",
+    "title": "An EMDN - Extracellularly, Cell Biology Molecular Biology Membrane Transport Biological Processes Signaling Pathways Tissue Interaction Biochemistry Cellular Communication",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 36,
+    "crawled_at": "2026-09-02T23:40:36.567773085Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "hadetools.com",
     "title": "hadetools — Premium Digital Services for Your Business",
     "business_name": "hadetools",
@@ -352,28 +394,6 @@
       "Vector Internet Services",
       "Waveform Technology",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "anemdn.com",
-    "title": "An EMDN",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 36,
-    "crawled_at": "2026-08-11T18:55:01.576090547Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "UTF-8"
     ]
   },
   {
@@ -4833,23 +4853,6 @@
       "InitiativeS",
       "Nginx",
       "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "renirev.com",
-    "title": "Renirev",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 535,
-    "crawled_at": "2026-01-14T11:28:43.435357451Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Rev",
       "UTF-8"
     ]
   }

@@ -1,5 +1,26 @@
 [
   {
+    "domain": "launchtimevps.com",
+    "title": "RimuHosting",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 6178,
+    "crawled_at": "2026-09-03T09:51:00.226010651Z",
+    "technologies": [
+      "Apache",
+      "Chatlio",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Debian",
+      "GZIP Module",
+      "OpenSSL",
+      "Parallels Plesk Panel",
+      "Perl",
+      "Zonomi",
+      "mod_perl"
+    ]
+  },
+  {
     "domain": "vilniaussilas.lt",
     "title": "VILNIAUS ŠILAS | IV etapas | Rezervuok sklypą gamtoje, naujame etape!",
     "business_name": "VILNIAUS ŠILAS | III etapas",
@@ -902,33 +923,6 @@
       "YouTube",
       "Zonomi",
       "Zyro"
-    ]
-  },
-  {
-    "domain": "allsyte.biz",
-    "title": "White Ace Stamp Albums & Supplements – Allen's Online Store",
-    "business_name": "",
-    "country": "VAT",
-    "seo_score": 72,
-    "tech_spend": 74040,
-    "crawled_at": "2026-01-14T11:16:43.448292128Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Express",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "Microsoft Azure",
-      "Nexternal",
-      "No-Q",
-      "SMC",
-      "Schema Plugin",
-      "TrueCommerce",
-      "UTF-8",
-      "Visual Studio",
-      "Zonomi",
-      "eLand"
     ]
   }
 ]
