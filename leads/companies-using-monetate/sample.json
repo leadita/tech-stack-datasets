@@ -1,5 +1,59 @@
 [
   {
+    "domain": "germantownvet.com",
+    "title": "Veterinarian in Germantown, MD | Germantown Veterinary Clinic – Your Trusted Veterinary Clinic for Pet Wellness, Surgery, Emergency Care & More. Book an Appointment Today!",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 65380,
+    "crawled_at": "2026-09-02T19:22:57.784338205Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Monetate",
+      "Tailwind CSS",
+      "Visual Studio",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "iconpta.com",
+    "title": "File Your Property Tax Appeal and Save | Icon Property Tax",
+    "business_name": "Icon Property Tax",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 125339,
+    "crawled_at": "2026-09-02T13:11:55.722559055Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Mantine",
+      "Microdata for Google Shopping",
+      "Monetate",
+      "Next.js",
+      "PWA",
+      "QUIC",
+      "SMC",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "memorialvetclinic.com",
     "title": "Veterinarian in Houston, TX | Memorial Veterinary Clinic – Your Trusted Veterinary Clinic for Pet Wellness, Surgery, Emergency Care & More. Book an Appointment Today!",
     "business_name": "",
@@ -330,31 +384,6 @@
       "Zendesk Embeddables",
       "eLand",
       "iGoDigital"
-    ]
-  },
-  {
-    "domain": "iconpropertytax.com",
-    "title": "File Your Property Tax Appeal and Save | Icon Property Tax",
-    "business_name": "Icon Property Tax",
-    "country": "USA",
-    "seo_score": 92,
-    "tech_spend": 125339,
-    "crawled_at": "2026-08-26T08:47:27.644174821Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Mantine",
-      "Microdata for Google Shopping",
-      "Monetate",
-      "Next.js",
-      "PWA",
-      "QUIC",
-      "SMC",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {
@@ -15344,34 +15373,6 @@
       "UpSellit",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "germantownvet.com",
-    "title": "Veterinarian in Germantown, MD | Germantown Veterinary Clinic – Your Trusted Veterinary Clinic for Pet Wellness, Surgery, Emergency Care & More. Book an Appointment Today!",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 65380,
-    "crawled_at": "2026-01-14T07:13:08.20338505Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Microsoft Azure",
-      "Monetate",
-      "Tailwind CSS",
-      "Visual Studio",
-      "jQuery"
     ]
   }
 ]
