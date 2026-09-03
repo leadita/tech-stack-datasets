@@ -1,5 +1,31 @@
 [
   {
+    "domain": "levelnine.se",
+    "title": "Home • Level Nine Studio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 11140,
+    "crawled_at": "2026-09-03T00:23:51.817322787Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "DatoCMS",
+      "Federal Deposit Insurance Corporation",
+      "Idaq",
+      "Instagram Follow Button",
+      "K2F",
+      "KVH",
+      "Next.js",
+      "Plausible Analytics",
+      "Pleroma",
+      "QUIC",
+      "Subversion",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "elevateh.com",
     "title": "Home Warranty Plans in Arizona, Nevada & Utah | Elevate",
     "business_name": "",
@@ -14267,37 +14293,6 @@
       "Vercel",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "wakaonavon.co.nz",
-    "title": "Waka on the Avon - Christchurch, NZ",
-    "business_name": "",
-    "country": "NZL",
-    "seo_score": 77,
-    "tech_spend": 22576,
-    "crawled_at": "2026-04-27T09:14:19.995549763Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Astro",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Turnstile",
-      "Content Delivery Network",
-      "DatoCMS",
-      "Financial Services Guide",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Idaq",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vimeo",
-      "Vimeo CDN",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   }
 ]
