@@ -1,6 +1,6 @@
 # Companies Using Site Search 360 (Live Dataset 2026)
 
-This folder contains an active list of 1,056 companies using **Site Search 360**. 
+This folder contains an active list of 1,053 companies using **Site Search 360**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 1,056
+- **Total Leads:** 1,053
 - **Verified:** Yes
-- **Last Updated:** 2026-09-02 22:00 UTC
+- **Last Updated:** 2026-09-03 22:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,056+** companies using Site Search 360.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **1,053+** companies using Site Search 360.
 
 [**⚡ Unlock the Full Site Search 360 List with Contact Details**](https://leadita.com/leads/companies-using-site-search-360)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-09-02 22:00 UTC*
+*Last updated: 2026-09-03 22:00 UTC*
 *Data source: Leadita Technographic Intelligence*
