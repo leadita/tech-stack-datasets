@@ -1,5 +1,36 @@
 [
   {
+    "domain": "mrmcw.edu.in",
+    "title": "Malla Reddy Medical College for Women",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 80,
+    "tech_spend": 3088,
+    "crawled_at": "2026-09-03T03:52:12.730551049Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "FreeCSSTemplates",
+      "GoDaddy",
+      "Google My Business",
+      "Hello Elementor",
+      "NFOrce Internet",
+      "Outreach Pro",
+      "PHP",
+      "Sucuri Cloudproxy",
+      "TablePress",
+      "Theme In WP",
+      "UTF-8",
+      "University or College",
+      "Website Tonight",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "voluntarymedicare.com",
     "title": "Welcome to Voluntary Medicare Society - Helping Needy",
     "business_name": "",
@@ -18879,41 +18910,6 @@
       "WordPress Multisite",
       "Zeffy",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "mhkplaystudio.com",
-    "title": "MHK Play Studio",
-    "business_name": "MHK Play Studio",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 106888,
-    "crawled_at": "2026-05-10T21:11:19.995399821Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Contento",
-      "Express",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "FormSubmit",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "Outreach Pro",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
