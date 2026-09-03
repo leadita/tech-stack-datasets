@@ -18766,40 +18766,5 @@
       "UTF-8",
       "Visual Studio"
     ]
-  },
-  {
-    "domain": "cruiseclub-krstarenja.com",
-    "title": "Krstarenje Kruzerom 2026 | Kruzer Putovanja po Povoljnim Cenama",
-    "business_name": "Cruise Club Krstarenja",
-    "country": "CHN",
-    "seo_score": 87,
-    "tech_spend": 2246,
-    "crawled_at": "2026-01-14T08:25:08.182463257Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Contact Form Plugin",
-      "DAV",
-      "EmbedPress",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Sleeknote",
-      "Subversion",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
