@@ -1,5 +1,35 @@
 [
   {
+    "domain": "alphatech.technology",
+    "title": "AlphaTech - Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 4240,
+    "crawled_at": "2026-09-02T23:04:51.26689007Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "Help Scout",
+      "Instagram Follow Button",
+      "Mautic",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Neighborhoods",
+      "QUIC",
+      "Subversion",
+      "Tailwind CSS",
+      "jQuery",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "emailanalyzer.net",
     "title": "EmailAnalyzer | Let's test the spamminess of your emails",
     "business_name": "EmailAnalyzer",
@@ -20029,29 +20059,6 @@
       "YouTube",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "wfsimply.com",
-    "title": "Concrete Mixer Truck, Cement Mixer Truck, Mini Truck Concrete Mixer - Simply",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 77,
-    "tech_spend": 2400,
-    "crawled_at": "2026-04-01T18:56:20.019159101Z",
-    "technologies": [
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Mautic",
-      "Nginx",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "Yandex Hosting",
-      "YouTube",
-      "eLand",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
