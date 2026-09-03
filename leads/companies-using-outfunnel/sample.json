@@ -7844,39 +7844,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "gotinfluence.co",
-    "title": "Influencer Marketing Platform - Hypefy",
-    "business_name": "Hypefy",
-    "country": "HRV",
-    "seo_score": 77,
-    "tech_spend": 5535,
-    "crawled_at": "2026-01-14T08:25:08.136056266Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Blocksy",
-      "Contact Form Plugin",
-      "Elementor",
-      "EmbedPress",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Microsoft Azure",
-      "NFOrce Internet",
-      "Nginx",
-      "Outfunnel",
-      "PHP",
-      "QUIC",
-      "Table Addons for Elementor",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
-    ]
   }
 ]
