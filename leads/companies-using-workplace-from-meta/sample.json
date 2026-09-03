@@ -9161,34 +9161,5 @@
       "YouTube",
       "eLand"
     ]
-  },
-  {
-    "domain": "spacee-workplace.com",
-    "title": "Spacee - workplace optimization",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 7650,
-    "crawled_at": "2026-01-14T04:28:43.439428183Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Calendly",
-      "CloudFront",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Heroku",
-      "IcoMoon",
-      "Medium",
-      "QUIC",
-      "Twitter Ads",
-      "Workplace from Meta",
-      "jQuery"
-    ]
   }
 ]
