@@ -1,5 +1,32 @@
 [
   {
+    "domain": "komiya-sports.co.jp",
+    "title": "KOMIYA SPORTS CENTER",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 17500,
+    "crawled_at": "2026-09-02T20:21:46.674920964Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Contact Form Plugin",
+      "Contento",
+      "EmbedPress",
+      "Fireblade",
+      "Hatena Blog",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Schema Plugin",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery",
+      "qTranslate"
+    ]
+  },
+  {
     "domain": "f2f.co.jp",
     "title": "face2face株式会社 - 流通開拓カンパニー",
     "business_name": "face2face株式会社",
@@ -255,33 +282,6 @@
       "WordPress Multisite",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "komiya-sports.co.jp",
-    "title": "KOMIYA SPORTS CENTER",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 17500,
-    "crawled_at": "2026-01-14T07:59:50.746434633Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Contact Form Plugin",
-      "Contento",
-      "EmbedPress",
-      "Fireblade",
-      "Hatena Blog",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Schema Plugin",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "qTranslate"
     ]
   }
 ]

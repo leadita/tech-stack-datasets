@@ -8503,28 +8503,5 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
     ]
-  },
-  {
-    "domain": "selfhike.in.th",
-    "title": "Self Hike - เดินป่าด้วยตัวเอง",
-    "business_name": "Self Hike - เดินป่าด้วยตัวเอง",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 888,
-    "crawled_at": "2026-01-14T09:16:43.455784756Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Coming Soon Page",
-      "GZIP Module",
-      "ImageKit.io",
-      "Matomo",
-      "Matomo Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Nginx",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
-    ]
   }
 ]
