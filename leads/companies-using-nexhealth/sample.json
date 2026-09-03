@@ -1,5 +1,31 @@
 [
   {
+    "domain": "lisenbyorthodontics.com",
+    "title": "Lisenby Orthodontics | Orthodontist Macon GA",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 19290,
+    "crawled_at": "2026-09-02T21:26:35.735122377Z",
+    "technologies": [
+      "Apache",
+      "Fastly",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Healthgrades",
+      "Instagram Follow Button",
+      "Material Design Icons",
+      "NexHealth",
+      "Sesame",
+      "UTF-8",
+      "YouTube",
+      "symfony PHP Framework"
+    ]
+  },
+  {
     "domain": "rockwallfamilydental.com",
     "title": "Rockwall Family Dental - Dentist in Rockwall, TX",
     "business_name": "Rockwall Family Dental",
@@ -20494,50 +20520,6 @@
       "University or College",
       "WF Cookie Consent",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "savannahdentalcentre.com",
-    "title": "Home - Cohen Dental",
-    "business_name": "Cohen Dental",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 23957,
-    "crawled_at": "2026-04-01T14:08:20.000220995Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Alternate Protocol",
-      "BatCache",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Fastly",
-      "Font Awesome",
-      "Form.IO",
-      "FreeCSSTemplates",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Gravity Forms",
-      "Jetpack",
-      "Liine",
-      "Microdata for Google Shopping",
-      "MonsterInsights",
-      "NexHealth",
-      "Nginx",
-      "PHP",
-      "StudioPress",
-      "TablePress",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "University or College",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
