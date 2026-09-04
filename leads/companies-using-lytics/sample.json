@@ -1,5 +1,39 @@
 [
   {
+    "domain": "peteandlynn.com",
+    "title": "Lowe's Fall Harvest!",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 91987,
+    "crawled_at": "2026-09-04T06:26:35.598024005Z",
+    "technologies": [
+      "ASP.NET Core",
+      "Adobe Analytics",
+      "Adobe Creative Cloud WebFonts",
+      "Adobe Marketing Cloud",
+      "Amazon",
+      "Coming Soon Page",
+      "Contentstack",
+      "DAV",
+      "Fireblade",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Hotjar",
+      "Imperva Bot Detection and Mitigation",
+      "Incapsula CDN",
+      "Lytics",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Visx",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "bayareaartsmarketing.com",
     "title": "BAAM",
     "business_name": "",
@@ -1381,42 +1415,6 @@
       "Workday",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "peteandlynn.com",
-    "title": "Lowe's Holiday Shop!",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 62517,
-    "crawled_at": "2026-01-15T15:00:36.970224695Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Adobe Marketing Cloud",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Coming Soon Page",
-      "Contentstack",
-      "Ethy",
-      "Fireblade",
-      "Font Awesome",
-      "GZIP Module",
-      "GetResponse",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Hotjar",
-      "Imperva Bot Detection and Mitigation",
-      "Incapsula CDN",
-      "Lytics",
-      "New Relic",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Visx",
-      "reCAPTCHA"
     ]
   }
 ]
