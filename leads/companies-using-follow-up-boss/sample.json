@@ -1,5 +1,25 @@
 [
   {
+    "domain": "gotailorpvp.com",
+    "title": "Tailor — Every lead hears from you first, by name, on video",
+    "business_name": "Tailor",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 4992,
+    "crawled_at": "2026-09-04T12:46:04.089289764Z",
+    "technologies": [
+      "Astro",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "DAV",
+      "Follow Up Boss",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "panachetalent.com",
     "title": "Panache Talent | Executive Search, Career Transition & Coaching firm",
     "business_name": "Panache Talent ",
