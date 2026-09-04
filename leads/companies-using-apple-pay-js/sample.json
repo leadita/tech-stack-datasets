@@ -1,5 +1,31 @@
 [
   {
+    "domain": "azmok.com",
+    "title": "Azmok",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 50,
+    "tech_spend": 13160,
+    "crawled_at": "2026-09-04T02:54:10.736140711Z",
+    "technologies": [
+      "Apple Pay JS",
+      "Apture Linking Platform",
+      "Azion",
+      "Express",
+      "Fastly",
+      "Fingerprint Pro",
+      "Fireblade",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "K2F",
+      "Microdata for Google Shopping",
+      "UTF-8",
+      "Yandex Hosting",
+      "YouCan",
+      "eLand"
+    ]
+  },
+  {
     "domain": "footlocker.pl",
     "title": "Shoes & Clothing for Men, Women, and Kids | Foot Locker Poland",
     "business_name": "",
@@ -10528,31 +10554,6 @@
       "Thank You",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "milanoffice.com",
-    "title": "www.milanoffice.com",
-    "business_name": "",
-    "country": "ITA",
-    "seo_score": 72,
-    "tech_spend": 81668,
-    "crawled_at": "2026-01-15T05:18:36.317858958Z",
-    "technologies": [
-      "Amazon",
-      "Apple Pay JS",
-      "Aruba",
-      "Cart.com",
-      "Cloudflare",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Microsoft 365",
-      "QUIC",
-      "Subversion",
-      "UTF-8",
-      "eLand",
-      "jQuery"
     ]
   }
 ]

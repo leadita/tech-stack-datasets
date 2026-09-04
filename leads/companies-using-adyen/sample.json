@@ -1,5 +1,30 @@
 [
   {
+    "domain": "helohealth.com",
+    "title": "Nutramatic | helohealth",
+    "business_name": "",
+    "country": "IRL",
+    "seo_score": 65,
+    "tech_spend": 2640,
+    "crawled_at": "2026-09-03T23:09:03.086618423Z",
+    "technologies": [
+      "Adyen",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vimeo",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "bigboreblast.com",
     "title": "Big Bore Blast 2026",
     "business_name": "",
@@ -6148,29 +6173,6 @@
       "YouTube",
       "eLand",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "helohealth.com",
-    "title": "Nutramatic | helohealth",
-    "business_name": "",
-    "country": "IRL",
-    "seo_score": 70,
-    "tech_spend": 2640,
-    "crawled_at": "2026-01-15T08:10:43.44984537Z",
-    "technologies": [
-      "Adyen",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vimeo",
-      "eLand"
     ]
   }
 ]
