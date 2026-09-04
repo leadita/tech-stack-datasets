@@ -1,5 +1,87 @@
 [
   {
+    "domain": "balkonton.com",
+    "title": "The Specialist in Worms and Soil Improvement - Wormenkwekerij Wasse",
+    "business_name": "Wormenkwekerij Wasse",
+    "country": "NLD",
+    "seo_score": 87,
+    "tech_spend": 2301,
+    "crawled_at": "2026-09-04T21:06:26.455049825Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Bulma",
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Related Website Sites",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Klaro",
+      "Netlify",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "rainbirdwilliams.fm",
+    "title": "Rainbird Williams",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-09-04T10:18:40.287204728Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "transmito.mx",
+    "title": "Inicio - Transmito.mx",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 5000,
+    "crawled_at": "2026-09-04T07:27:42.668975581Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Gridsome",
+      "KVH",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "aaron-jackson.com",
+    "title": "Home - Aaron Jackson Portfolio | Front End Developer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 11281,
+    "crawled_at": "2026-09-04T01:06:55.391929238Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Gridsome",
+      "Idaq",
+      "Instagram Follow Button",
+      "K2F",
+      "KVH",
+      "Netlify",
+      "Netlify Forms",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "cathzchen.now.sh",
     "title": "Home - Catherine Chen",
     "business_name": "",
@@ -11968,80 +12050,6 @@
       "eLand",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "tgg.com.pl",
-    "title": "Strona główna - TGG Fundamenty",
-    "business_name": "",
-    "country": "POL",
-    "seo_score": 62,
-    "tech_spend": 40,
-    "crawled_at": "2026-02-04T20:43:48.859644459Z",
-    "technologies": [
-      "Financial Services Guide",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Gridsome",
-      "LiteSpeed",
-      "QUIC"
-    ]
-  },
-  {
-    "domain": "klugcollegen.de",
-    "title": "Startseite - Kanzlei Klug & Collegen",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 60,
-    "tech_spend": "",
-    "crawled_at": "2026-02-04T02:31:48.875692615Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College"
-    ]
-  },
-  {
-    "domain": "invoer-aangifte.nl",
-    "title": "Invoeraangifte snel en eenvoudig geregeld",
-    "business_name": "invoer-aangifte.nl",
-    "country": "NLD",
-    "seo_score": 67,
-    "tech_spend": 228,
-    "crawled_at": "2026-02-03T23:34:49.057122476Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Google My Business",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "autogros.eu",
-    "title": "Auto Grosul | Véhicules d'occasion",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 67,
-    "tech_spend": 15484,
-    "crawled_at": "2026-02-03T22:35:53.431619046Z",
-    "technologies": [
-      "Bulma",
-      "Cybot",
-      "Envoy",
-      "Fireblade",
-      "Font Awesome",
-      "Gridsome",
-      "LiteSpeed",
-      "QUIC"
     ]
   }
 ]
