@@ -1,5 +1,36 @@
 [
   {
+    "domain": "communitybanking.org",
+    "title": "Community Banking",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 152507,
+    "crawled_at": "2026-09-04T02:54:10.753578432Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Angular",
+      "Anthology Encompass",
+      "Apture Linking Platform",
+      "Blackboard Open LMS",
+      "Brightcove",
+      "D2L",
+      "Federal Deposit Insurance Corporation",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Microsoft Azure",
+      "Share Link",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Visual Studio"
+    ]
+  },
+  {
     "domain": "edonline.sk.ca",
     "title": "Blackboard",
     "business_name": "",
