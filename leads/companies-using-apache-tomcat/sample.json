@@ -1,5 +1,29 @@
 [
   {
+    "domain": "finquesenric.com",
+    "title": "Finques Enric - Pisos, casas y locales en Badalona y alrededores",
+    "business_name": "",
+    "country": "ESP",
+    "seo_score": 82,
+    "tech_spend": 808,
+    "crawled_at": "2026-09-04T00:56:21.357259567Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "ISO/IEC 8859",
+      "IcoMoon",
+      "Parallels Plesk Panel",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "kolkatawebhosting.com",
     "title": "Premium Web Hosting Company from Kolkata offering reliable web hosting services since 15 years",
     "business_name": "",
@@ -14038,69 +14062,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "sist.net.tr",
-    "title": "SİST.TR - Domain Name, Hosting, Server, SMS, Software Services",
-    "business_name": "",
-    "country": "TUR",
-    "seo_score": 77,
-    "tech_spend": 82669,
-    "crawled_at": "2026-01-15T21:46:37.323715432Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Apache Tomcat JK",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DAV",
-      "Express",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "K2F",
-      "LiteSpeed",
-      "No-Q",
-      "OpenSSL",
-      "PHP",
-      "Parallels Plesk Panel",
-      "Prospective",
-      "QUIC",
-      "SMC",
-      "Slider Revolution",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Unix"
-    ]
-  },
-  {
-    "domain": "finquesenric.com",
-    "title": "Finques Enric - Pisos, casas y locales en Badalona y alrededores",
-    "business_name": "",
-    "country": "ESP",
-    "seo_score": 82,
-    "tech_spend": 808,
-    "crawled_at": "2026-01-15T09:47:08.35076771Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "ISO/IEC 8859",
-      "IcoMoon",
-      "Parallels Plesk Panel",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "jQuery"
     ]
   }
 ]
