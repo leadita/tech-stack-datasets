@@ -1,5 +1,39 @@
 [
   {
+    "domain": "rutulshah.com",
+    "title": "Rutul Shah - CRM/eCommerce/Web Development Toronto, Mississauga, Brampton",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 18727,
+    "crawled_at": "2026-09-04T07:27:42.662349721Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "AutoTrader CA",
+      "CodeIgniter",
+      "Content Delivery Network",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Oracle Cloud",
+      "PHP",
+      "Perl",
+      "Subversion",
+      "Tailwind CSS",
+      "Tawk",
+      "Twitter Ads",
+      "University or College",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "daledownienissan.ca",
     "title": "Dale Downie Nissan | London New and Used Cars Ontario dealership | Cars for sale | Nissan NV Commercial Vehicles",
     "business_name": "",
@@ -2376,40 +2410,6 @@
       "Woo Themes",
       "WordPress",
       "WordPress Stats"
-    ]
-  },
-  {
-    "domain": "rutulshah.com",
-    "title": "Rutul Shah - CRM/eCommerce/Web Development Toronto, Mississauga, Brampton",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 82,
-    "tech_spend": 18727,
-    "crawled_at": "2026-01-15T16:20:55.308966829Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "AutoTrader CA",
-      "CodeIgniter",
-      "Content Delivery Network",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Oracle Cloud",
-      "PHP",
-      "Perl",
-      "Subversion",
-      "Tailwind CSS",
-      "Tawk",
-      "Twitter Ads",
-      "University or College",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
