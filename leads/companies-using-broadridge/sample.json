@@ -1,5 +1,38 @@
 [
   {
+    "domain": "avicenna4it.com",
+    "title": "Avicenna4IT™",
+    "business_name": "",
+    "country": "MKD",
+    "seo_score": 67,
+    "tech_spend": 511316,
+    "crawled_at": "2026-09-04T16:09:58.488787883Z",
+    "technologies": [
+      "ASP.NET MVC",
+      "Adobe Dreamweaver",
+      "Alternate Protocol",
+      "Amazon Link Enchancer",
+      "Amazon Widgets",
+      "Apache",
+      "Broadridge",
+      "Bulma",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Google My Business",
+      "HostGator",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Oracle Cloud",
+      "PHP",
+      "Parallels Plesk Panel",
+      "Python",
+      "QUIC",
+      "Twitter Ads",
+      "Visual Studio",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "expectmiraclesfoundation.org",
     "title": "Expect Miracles Foundation - Expect Miracles Foundation",
     "business_name": "",
@@ -3477,38 +3510,6 @@
       "Vimeo",
       "WordPress",
       "WordPress Multisite",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "avicenna4it.com",
-    "title": "Avicenna4IT™",
-    "business_name": "",
-    "country": "MKD",
-    "seo_score": 67,
-    "tech_spend": 511316,
-    "crawled_at": "2026-01-16T02:28:10.925212991Z",
-    "technologies": [
-      "ASP.NET MVC",
-      "Adobe Dreamweaver",
-      "Alternate Protocol",
-      "Amazon Link Enchancer",
-      "Amazon Widgets",
-      "Apache",
-      "Broadridge",
-      "Bulma",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Google My Business",
-      "HostGator",
-      "Microsoft Azure",
-      "Oracle Cloud",
-      "PHP",
-      "Parallels Plesk Panel",
-      "Python",
-      "QUIC",
-      "Twitter Ads",
-      "Visual Studio",
-      "YouTube",
       "jQuery"
     ]
   }

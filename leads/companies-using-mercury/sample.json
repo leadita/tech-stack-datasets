@@ -10255,36 +10255,5 @@
       "WordPress",
       "WordPress Multisite"
     ]
-  },
-  {
-    "domain": "suominordic.com",
-    "title": "Nordicbet - Nordicbet",
-    "business_name": "Nordicbet",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 2077,
-    "crawled_at": "2026-01-15T16:20:55.328981536Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "EmbedPress",
-      "Font Awesome",
-      "Gambling Content",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "LiveInternet",
-      "Mercury",
-      "Microdata for Google Shopping",
-      "PHP",
-      "RM Education",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]

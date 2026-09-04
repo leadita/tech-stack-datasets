@@ -1,5 +1,31 @@
 [
   {
+    "domain": "earhartfinancialgroup.com",
+    "title": "Olive Branch | Financial Adivsor | Earhart Financial Group",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 19884,
+    "crawled_at": "2026-09-03T18:57:45.387228615Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "Financial Industry Regulatory Authority",
+      "Fireblade",
+      "FormSubmit",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Nginx",
+      "QUIC",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "eMoney"
+    ]
+  },
+  {
     "domain": "raleighwealthsolutions.com",
     "title": "Need Financial Advice? We Can Help. | Raleigh Wealth Solutions",
     "business_name": "",
@@ -2139,63 +2165,6 @@
       "eMoney",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "shanicepillay.co.za",
-    "title": "Shanice J Pillay | attooh! Your Wealth Solution",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 67,
-    "tech_spend": 23960,
-    "crawled_at": "2026-01-15T21:46:37.313826291Z",
-    "technologies": [
-      "Amazon S3 CDN",
-      "Apture Linking Platform",
-      "Authorize.net",
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Nuxt.js",
-      "QUIC",
-      "Storyblocks",
-      "UTF-8",
-      "Vimeo",
-      "Vimeo CDN",
-      "eMoney"
-    ]
-  },
-  {
-    "domain": "earhartfinancialgroup.com",
-    "title": "Olive Branch | Financial Adivsor | Earhart Financial Group",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 19884,
-    "crawled_at": "2026-01-15T04:17:55.74854152Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Duda",
-      "Financial Industry Regulatory Authority",
-      "Fireblade",
-      "FormSubmit",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Nginx",
-      "QUIC",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "eMoney"
     ]
   }
 ]
