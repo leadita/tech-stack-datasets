@@ -1,5 +1,48 @@
 [
   {
+    "domain": "hopealliancetx.org",
+    "title": "Hope Alliance",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 24740,
+    "crawled_at": "2026-09-04T17:41:26.676077525Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Astra Theme",
+      "Beaver Builder Lite",
+      "Bunny Fonts",
+      "Classy",
+      "Content Delivery Network",
+      "DAV",
+      "DC74",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Gravity",
+      "Instagram Follow Button",
+      "KVH",
+      "LiveChat Monitoring",
+      "Microdata for Google Shopping",
+      "No-Q",
+      "Perl",
+      "SMC",
+      "Schema Plugin",
+      "Twitter Ads",
+      "UPS",
+      "UTF-8",
+      "Vimeo",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Related Posts",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "scteachingartists.com",
     "title": "SC TEACHING ARTIST SYMPOSIUM",
     "business_name": "",
@@ -20896,27 +20939,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "15andthemahomies.org",
-    "title": "Home | 15 and the Mahomies Foundation",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 6588,
-    "crawled_at": "2026-04-29T02:06:34.554807081Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Classy",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "Netlify",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]
