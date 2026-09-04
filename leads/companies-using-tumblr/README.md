@@ -1,6 +1,6 @@
 # Companies Using Tumblr (Live Dataset 2026)
 
-This folder contains an active list of 47,037 companies using **Tumblr**. 
+This folder contains an active list of 47,007 companies using **Tumblr**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 47,037
+- **Total Leads:** 47,007
 - **Verified:** Yes
-- **Last Updated:** 2026-09-03 12:30 UTC
+- **Last Updated:** 2026-09-04 12:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **47,037+** companies using Tumblr.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **47,007+** companies using Tumblr.
 
 [**⚡ Unlock the Full Tumblr List with Contact Details**](https://leadita.com/leads/companies-using-tumblr)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-09-03 12:30 UTC*
+*Last updated: 2026-09-04 12:30 UTC*
 *Data source: Leadita Technographic Intelligence*

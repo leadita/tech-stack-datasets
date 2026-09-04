@@ -8482,26 +8482,5 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube"
     ]
-  },
-  {
-    "domain": "joinmeoutdoors.no",
-    "title": "Join Me Outdoors",
-    "business_name": "Join Me Outdoors",
-    "country": "NOR",
-    "seo_score": 50,
-    "tech_spend": 652,
-    "crawled_at": "2026-01-15T02:19:43.444048415Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Fastly",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
   }
 ]
