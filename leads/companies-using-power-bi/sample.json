@@ -1,5 +1,39 @@
 [
   {
+    "domain": "mildurabase.com.au",
+    "title": "Mildura Base Public Hospital : Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 17680,
+    "crawled_at": "2026-09-04T05:39:05.961197075Z",
+    "technologies": [
+      "AKA Raisin",
+      "Amazon",
+      "Amazon CloudFront",
+      "Apache",
+      "AutoComplete",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Power BI",
+      "QUIC",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "scvets.org",
     "title": "Veterans Service Office | Adult and Aging Division | Human Services Department",
     "business_name": "",
@@ -19240,25 +19274,6 @@
       "University or College",
       "Vector Internet Services",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "sevendatarivers.com",
-    "title": "Seven Data Rivers",
-    "business_name": "",
-    "country": "",
-    "seo_score": 20,
-    "tech_spend": 120,
-    "crawled_at": "2026-04-04T03:47:20.004229481Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Nginx",
-      "Power BI",
-      "Ubuntu",
-      "jQuery"
     ]
   }
 ]
