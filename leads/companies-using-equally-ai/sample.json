@@ -1,5 +1,34 @@
 [
   {
+    "domain": "natben.org.uk",
+    "title": "The National Benevolent Charity",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 7863,
+    "crawled_at": "2026-09-03T14:35:53.452210824Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Equally AI",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "WF Cookie Consent",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "falconwealthplanning.com",
     "title": "Falcon Wealth Planning | Fiduciary Wealth Management",
     "business_name": "Falcon Wealth Planning",
@@ -8747,34 +8776,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "natben.org.uk",
-    "title": "The National Benevolent Charity",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 23139,
-    "crawled_at": "2026-01-15T00:16:55.29803264Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Content Delivery Network",
-      "Endis",
-      "Equally AI",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "WF Cookie Consent",
-      "Webflow",
-      "reCAPTCHA"
     ]
   }
 ]

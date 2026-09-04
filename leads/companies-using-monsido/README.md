@@ -1,6 +1,6 @@
 # Companies Using Monsido (Live Dataset 2026)
 
-This folder contains an active list of 812 companies using **Monsido**. 
+This folder contains an active list of 811 companies using **Monsido**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 812
+- **Total Leads:** 811
 - **Verified:** Yes
-- **Last Updated:** 2026-09-03 10:15 UTC
+- **Last Updated:** 2026-09-04 10:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **812+** companies using Monsido.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **811+** companies using Monsido.
 
 [**⚡ Unlock the Full Monsido List with Contact Details**](https://leadita.com/leads/companies-using-monsido)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-09-03 10:15 UTC*
+*Last updated: 2026-09-04 10:15 UTC*
 *Data source: Leadita Technographic Intelligence*
