@@ -1,5 +1,30 @@
 [
   {
+    "domain": "pavankumarkagga.com",
+    "title": "Pavan Kumar Kagga | ServiceNow Developer",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 70,
+    "tech_spend": 7676,
+    "crawled_at": "2026-09-05T09:58:24.926574006Z",
+    "technologies": [
+      "Adobe Dreamweaver",
+      "Apache",
+      "Apache Tomcat JK",
+      "Bulma",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "InitiativeS",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "finquesenric.com",
     "title": "Finques Enric - Pisos, casas y locales en Badalona y alrededores",
     "business_name": "",
@@ -14040,28 +14065,6 @@
       "Perl",
       "QUIC",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "pavankumarkagga.com",
-    "title": "Pavan Kumar Kagga | ServiceNow Developer",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 70,
-    "tech_spend": 2676,
-    "crawled_at": "2026-01-16T21:01:43.432799429Z",
-    "technologies": [
-      "Adobe Dreamweaver",
-      "Apache",
-      "Apache Tomcat JK",
-      "Bulma",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
