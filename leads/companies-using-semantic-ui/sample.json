@@ -1,5 +1,25 @@
 [
   {
+    "domain": "keyboardcad.com",
+    "title": "Keyboard CAD Assistant",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 67,
+    "tech_spend": 1000,
+    "crawled_at": "2026-09-05T08:21:26.306034582Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "Matomo Tag Manager",
+      "Nginx",
+      "Semantic UI",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "smartsnacktn.com",
     "title": "Home | Smart Snack Healthy Vending",
     "business_name": "Smart Snack Healthy Vending",
@@ -14602,29 +14622,6 @@
       "Semantic UI",
       "Vector Internet Services",
       "Vimeo"
-    ]
-  },
-  {
-    "domain": "travellerking.com",
-    "title": "Traveller King | Traveller King",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 70,
-    "tech_spend": "",
-    "crawled_at": "2026-04-19T05:59:45.627463556Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google My Business",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Semantic UI",
-      "UTF-8"
     ]
   }
 ]

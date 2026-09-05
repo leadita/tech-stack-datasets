@@ -1,5 +1,30 @@
 [
   {
+    "domain": "bhairavi.co",
+    "title": "Linga Bhairavi - Home",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 200,
+    "crawled_at": "2026-09-05T13:10:29.013350225Z",
+    "technologies": [
+      "Aruba",
+      "Chakra UI",
+      "Cloudflare",
+      "Express",
+      "GZIP Module",
+      "Google Calendar",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Next.js",
+      "PWA",
+      "Perl",
+      "Pleroma",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "twentyoneskills.co",
     "title": "Home | Twenty One Skills",
     "business_name": "",
@@ -12948,37 +12973,6 @@
       "Pleroma",
       "QUIC",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "caracal.studio",
-    "title": "Branding, Strategy & Web Agency in Brussels",
-    "business_name": "",
-    "country": "BEL",
-    "seo_score": 72,
-    "tech_spend": 4759,
-    "crawled_at": "2026-05-10T00:17:20.008393788Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Chakra UI",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Cornerstone",
-      "DAV",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Radix UI",
-      "Storybook",
-      "Twitter Ads",
-      "UTF-8",
-      "reCAPTCHA"
     ]
   }
 ]
