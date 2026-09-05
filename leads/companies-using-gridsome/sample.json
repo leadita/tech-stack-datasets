@@ -1,5 +1,40 @@
 [
   {
+    "domain": "printing-lebanon.com",
+    "title": "Welcome! - Imprimerie du Palais de Justice",
+    "business_name": "",
+    "country": "LBN",
+    "seo_score": 62,
+    "tech_spend": 25228,
+    "crawled_at": "2026-09-05T16:53:49.379530241Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google My Business",
+      "Gridsome",
+      "K2F",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "gracesnowdesign.co.uk",
+    "title": "Home | Grace Snow Design",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 156,
+    "crawled_at": "2026-09-05T09:58:24.895002495Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Gridsome",
+      "IcoMoon",
+      "Netlify",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "balkonton.com",
     "title": "The Specialist in Worms and Soil Improvement - Wormenkwekerij Wasse",
     "business_name": "Wormenkwekerij Wasse",
@@ -12003,53 +12038,6 @@
       "SMC",
       "Subversion",
       "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "ddstoragecompany.com",
-    "title": "D&D Moving and Storage",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 228,
-    "crawled_at": "2026-02-05T00:52:48.87234281Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Maps",
-      "Google My Business",
-      "Gridsome",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "silentauctionvacations.com",
-    "title": "Charity Getaways - Consignment Vacations | Event Support - Charity Getaways",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 51760,
-    "crawled_at": "2026-02-05T00:34:48.912200935Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Gridsome",
-      "Nginx",
-      "QUIC",
-      "SMC",
-      "Tailwind CSS",
-      "Ubuntu",
-      "eLand",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]

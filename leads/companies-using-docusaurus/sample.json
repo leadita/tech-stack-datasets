@@ -1,5 +1,42 @@
 [
   {
+    "domain": "blakepuls.dev",
+    "title": "Blake Puls | Software Engineer",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 3592,
+    "crawled_at": "2026-09-05T12:30:19.356907138Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Apache",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "DAV",
+      "Discord",
+      "Docusaurus",
+      "Express",
+      "Gambling Content",
+      "GitHub Hosting",
+      "Google My Business",
+      "IcoMoon",
+      "NFOrce Internet",
+      "Next.js",
+      "Nginx",
+      "PHP",
+      "Perl",
+      "Python",
+      "QUIC",
+      "Slotti",
+      "Tailwind CSS",
+      "The Deck",
+      "UTF-8",
+      "Vercel",
+      "cstate",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "lamplighter.dev",
     "title": "Lamplighter.dev",
     "business_name": "",
@@ -12700,34 +12737,6 @@
       "Nginx",
       "Perl",
       "Telegram",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "kryptonait.com",
-    "title": "Krypton AI Technologies",
-    "business_name": "Krypton AI Technologies",
-    "country": "IND",
-    "seo_score": 92,
-    "tech_spend": 8940,
-    "crawled_at": "2026-03-31T14:56:28.720540191Z",
-    "technologies": [
-      "AI Log",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Krypt Technologies",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PWA",
-      "Perl",
-      "UTF-8",
       "YouTube"
     ]
   }
