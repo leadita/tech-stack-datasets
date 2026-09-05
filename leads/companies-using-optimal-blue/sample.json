@@ -7823,48 +7823,5 @@
       "localendar",
       "monday.com"
     ]
-  },
-  {
-    "domain": "rtplg.com",
-    "title": "RatePlug - The Leading Mortgage Marketing and Lead Generation Solution",
-    "business_name": "RatePlug",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 34483,
-    "crawled_at": "2026-01-16T08:26:50.098226834Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Alternate Protocol",
-      "Better Lead Generation Services",
-      "CrazyEgg",
-      "DailyMotion Video",
-      "Easy Fancybox",
-      "EmbedPress",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Customer Reviews",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Microsoft Azure",
-      "Optimal Blue",
-      "PHP",
-      "Share Link",
-      "Tailwind CSS",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vimeo",
-      "Visual Studio",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery",
-      "jQuery Pin It Button for Images"
-    ]
   }
 ]
