@@ -2856,24 +2856,5 @@
       "WordPress",
       "WordPress Multisite"
     ]
-  },
-  {
-    "domain": "tamisabarrow.com",
-    "title": "Example 1",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 55,
-    "tech_spend": 1746,
-    "crawled_at": "2026-01-16T14:12:04.975399204Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DC74",
-      "Express",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LeadPages",
-      "Ntent"
-    ]
   }
 ]
