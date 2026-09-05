@@ -1,5 +1,39 @@
 [
   {
+    "domain": "statesautomotives.com",
+    "title": "States Automative",
+    "business_name": "",
+    "country": "JPN",
+    "seo_score": 65,
+    "tech_spend": 22050,
+    "crawled_at": "2026-09-04T20:25:11.38537304Z",
+    "technologies": [
+      "AI Log",
+      "Alternate Protocol",
+      "Astra Theme",
+      "Better Lead Generation Services",
+      "DealerInspire",
+      "Elementor",
+      "EmbedPress",
+      "Essential Addons for Elementor",
+      "Google Cloud DNS",
+      "Google Font API",
+      "NFOrce Internet",
+      "PHP",
+      "Premium Addons for Elementor",
+      "QUIC",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WooCommerce",
+      "WooCommerce Checkout",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Related Posts",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "accu-trade.ca",
     "title": "AccuTrade Canada | D2C Media",
     "business_name": "D2C Media",
@@ -10269,41 +10303,6 @@
       "Thank You",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "statesautomotives.com",
-    "title": "States Automative",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 65,
-    "tech_spend": 22050,
-    "crawled_at": "2026-01-16T06:57:39.381036195Z",
-    "technologies": [
-      "AI Log",
-      "Alternate Protocol",
-      "Astra Theme",
-      "Better Lead Generation Services",
-      "DealerInspire",
-      "Elementor",
-      "EmbedPress",
-      "Essential Addons for Elementor",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "NFOrce Internet",
-      "PHP",
-      "Premium Addons for Elementor",
-      "QUIC",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "jQuery"
     ]
   }
 ]
