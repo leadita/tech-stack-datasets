@@ -1,12 +1,12 @@
 [
   {
-    "domain": "ofi-invest-am.lu",
+    "domain": "ofi-invest-am.org",
     "title": "Ofi Invest Asset Management",
     "business_name": "",
     "country": "FRA",
     "seo_score": 82,
     "tech_spend": 37639,
-    "crawled_at": "2026-09-04T12:08:02.398699691Z",
+    "crawled_at": "2026-09-05T06:29:24.481613169Z",
     "technologies": [
       "AWS WAF Challenge",
       "Alternate Protocol",
