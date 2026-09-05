@@ -1,5 +1,27 @@
 [
   {
+    "domain": "juliahilt.de",
+    "title": "Julia Hilt",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 77,
+    "tech_spend": 68128,
+    "crawled_at": "2026-09-05T03:34:08.938938696Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Nginx",
+      "Plausible Analytics",
+      "SMC",
+      "Tailwind CSS",
+      "Todoist",
+      "UTF-8",
+      "WF Cookie Consent"
+    ]
+  },
+  {
     "domain": "taherahmed.me",
     "title": "Taher Ahmed | Full-Stack Developer",
     "business_name": "",
@@ -2342,28 +2364,6 @@
       "Visual Studio",
       "Zoom Video Conferencing",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "juliahilt.de",
-    "title": "Julia Hilt",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 67,
-    "tech_spend": 68128,
-    "crawled_at": "2026-01-16T14:10:43.428949168Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Nginx",
-      "Plausible Analytics",
-      "SMC",
-      "Tailwind CSS",
-      "Todoist",
-      "UTF-8",
-      "WF Cookie Consent"
     ]
   }
 ]
