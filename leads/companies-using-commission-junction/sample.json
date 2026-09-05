@@ -1,5 +1,41 @@
 [
   {
+    "domain": "aaofcj.com",
+    "title": "Apostolic Assembly of the Faith in Christ Jesus",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 4590,
+    "crawled_at": "2026-09-04T13:31:12.822605257Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "CoBlocks",
+      "Commission Junction",
+      "Constant Contact Wordpress Forms",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Eventbrite",
+      "GoDaddy",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "PHP",
+      "QUIC",
+      "Slider Revolution",
+      "ThemeFusion",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "iaopa.org",
     "title": "IAOPA - IAOPA",
     "business_name": "",
@@ -13697,38 +13733,6 @@
       "Tailwind CSS",
       "WordPress",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "aaofcj.com",
-    "title": "Apostolic Assembly of the Faith in Christ Jesus",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 1168,
-    "crawled_at": "2026-01-15T23:15:08.731486748Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "CoBlocks",
-      "Commission Junction",
-      "Constant Contact Wordpress Forms",
-      "Content Delivery Network",
-      "EmbedPress",
-      "GoDaddy",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "PHP",
-      "QUIC",
-      "Slider Revolution",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
