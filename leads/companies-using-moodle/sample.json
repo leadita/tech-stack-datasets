@@ -1,5 +1,28 @@
 [
   {
+    "domain": "10inthewind.com",
+    "title": "10 In the Wind Trucking School: Log in to the site",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 11100,
+    "crawled_at": "2026-09-05T12:06:43.402757333Z",
+    "technologies": [
+      "Apache",
+      "Fastly",
+      "GZIP Module",
+      "Moodle",
+      "NFOrce Internet",
+      "PHP",
+      "Smart App Banner",
+      "Tailwind CSS",
+      "Totara",
+      "UTF-8",
+      "Ubuntu",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "dgspmoodle.de",
     "title": "Deutsche Gesellschaft für Sportmedizin und Prävention e.V.",
     "business_name": "",
@@ -1194,29 +1217,6 @@
       "Totara",
       "Twitter Ads",
       "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "10inthewind.com",
-    "title": "10 In the Wind Trucking School: Log in to the site",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 11100,
-    "crawled_at": "2026-01-16T22:56:03.157263319Z",
-    "technologies": [
-      "Apache",
-      "Fastly",
-      "GZIP Module",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "Smart App Banner",
-      "Tailwind CSS",
-      "Totara",
-      "UTF-8",
-      "Ubuntu",
       "jsDelivr"
     ]
   }
