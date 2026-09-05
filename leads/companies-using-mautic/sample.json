@@ -1,5 +1,28 @@
 [
   {
+    "domain": "hvhipot.com",
+    "title": "Hipot Test, High Voltage Tester, Uhf Pd Detector - HV Hipot",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 72,
+    "tech_spend": 15000,
+    "crawled_at": "2026-09-05T17:39:44.08189316Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Mautic",
+      "Nginx",
+      "UTF-8",
+      "University or College",
+      "YouTube",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "ecoprohk.com",
     "title": "Join Us On The Compost Journey | Ecopro Manufacturing",
     "business_name": "",
@@ -20311,42 +20334,6 @@
       "Unsplash",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "bettertimes.co.za",
-    "title": "Home - Better Times",
-    "business_name": "Better Times",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 1025,
-    "crawled_at": "2026-04-02T11:05:19.999555065Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Fastly",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Line2",
-      "LiteSpeed",
-      "Mautic",
-      "Microdata for Google Shopping",
-      "Nectar Slide Plugin",
-      "PHP",
-      "QUIC",
-      "Salient",
-      "Theme In WP",
-      "UTF-8",
-      "WPBakery",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
