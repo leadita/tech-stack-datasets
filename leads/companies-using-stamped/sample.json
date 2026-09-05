@@ -1,5 +1,30 @@
 [
   {
+    "domain": "kentuckyarchivers.com",
+    "title": "Home | Kentucky Archivers",
+    "business_name": "Kentucky Archivers",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 46708,
+    "crawled_at": "2026-09-05T00:59:44.606163042Z",
+    "technologies": [
+      "Amped",
+      "Bulma",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "K2F",
+      "Microdata for Google Shopping",
+      "Pixfizz",
+      "Stamped",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "tiagopx.com",
     "title": "Tiago Peixoto – WordPress Designer and Developer",
     "business_name": "",
@@ -23102,37 +23127,6 @@
       "Stamped",
       "Storyblocks",
       "Tailwind CSS",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "shopblackdove.com",
-    "title": "Fashionable Clothing Store I Unisex Statement T-Shirts I Black Dove Apparel- Clothing That Empowers",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 13524,
-    "crawled_at": "2026-05-29T21:03:37.713274141Z",
-    "technologies": [
-      "Afterpay",
-      "Amped",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "Microdata for Google Shopping",
-      "Schema Plugin",
-      "Shopify",
-      "Shopify Collabs",
-      "Stamped",
-      "Tailwind CSS",
-      "Twitter Ads",
       "UTF-8",
       "hCaptcha",
       "reCAPTCHA"
