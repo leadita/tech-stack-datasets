@@ -1,5 +1,32 @@
 [
   {
+    "domain": "belvederetrading.com",
+    "title": "Belvedere Trading",
+    "business_name": "Belvedere Trading",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 96973,
+    "crawled_at": "2026-09-04T22:42:02.551786582Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Lever",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "University or College",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "cmplx.co",
     "title": "Complex: Music, Sneakers, Style, Sports & Pop Culture",
     "business_name": "Complex",
@@ -10010,36 +10037,6 @@
       "jBoard",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "belvederetrading.com",
-    "title": "Belvedere Trading",
-    "business_name": "Belvedere Trading",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 99413,
-    "crawled_at": "2026-01-16T09:12:02.96680842Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Lever",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "University or College",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
