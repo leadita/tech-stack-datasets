@@ -1,5 +1,29 @@
 [
   {
+    "domain": "heartandsole.org.uk",
+    "title": "Heart & Sole | A Conference for Web Developers & Designers in Portsmouth UK",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 75,
+    "tech_spend": 787,
+    "crawled_at": "2026-09-04T23:52:40.517636513Z",
+    "technologies": [
+      "All in One SEO Pack",
+      "Alternate Protocol",
+      "Apache",
+      "Campaign Monitor Widget",
+      "Google Analytics",
+      "PHP",
+      "Subversion",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "Vimeo",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "mitalichakraborty.com",
     "title": "Home | Portfolio",
     "business_name": "",
@@ -1868,30 +1892,6 @@
       "WordPress Multisite",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "heartandsole.org.uk",
-    "title": "Heart & Sole | A Conference for Web Developers & Designers in Portsmouth UK",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 787,
-    "crawled_at": "2026-01-16T10:20:04.29969862Z",
-    "technologies": [
-      "All in One SEO Pack",
-      "Alternate Protocol",
-      "Apache",
-      "Campaign Monitor Widget",
-      "Google Analytics",
-      "PHP",
-      "Subversion",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "Vimeo",
-      "WordPress",
-      "WordPress Multisite"
     ]
   }
 ]
