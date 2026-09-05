@@ -1,5 +1,29 @@
 [
   {
+    "domain": "spinefirst.com",
+    "title": "SpineFirst | Advanced Spine Care in Charlotte, NC & SC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 44508,
+    "crawled_at": "2026-09-05T12:47:16.208457826Z",
+    "technologies": [
+      "Atrium Health",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Coveo",
+      "Express",
+      "IcoMoon",
+      "Microsoft Azure",
+      "StackPath",
+      "Tailwind CSS",
+      "UTF-8",
+      "Visual Studio",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "iaopa.org",
     "title": "IAOPA - IAOPA",
     "business_name": "",
@@ -4032,30 +4056,6 @@
       "Wufoo",
       "YouTube",
       "eLand",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "spinefirst.com",
-    "title": "SpineFirst | Advanced Spine Care in Charlotte, NC & SC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 44508,
-    "crawled_at": "2026-01-16T23:38:44.450336322Z",
-    "technologies": [
-      "Atrium Health",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coveo",
-      "Express",
-      "IcoMoon",
-      "Microsoft Azure",
-      "StackPath",
-      "Tailwind CSS",
-      "UTF-8",
-      "Visual Studio",
       "reCAPTCHA"
     ]
   }
