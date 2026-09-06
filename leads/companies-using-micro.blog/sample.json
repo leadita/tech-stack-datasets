@@ -1,5 +1,40 @@
 [
   {
+    "domain": "devondundee.com",
+    "title": "Devon Dundee",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 2561,
+    "crawled_at": "2026-09-06T08:05:53.876879099Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Related Website Sites",
+      "Gravity",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Line2",
+      "Mastodon",
+      "Micro.blog",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "benedwards.me",
     "title": "@bened",
     "business_name": "",
@@ -8015,41 +8050,6 @@
       "PWA",
       "UTF-8",
       "W3.CSS"
-    ]
-  },
-  {
-    "domain": "devondundee.com",
-    "title": "Devon Dundee",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 87,
-    "tech_spend": 2561,
-    "crawled_at": "2026-01-17T18:50:09.811187516Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "App Store",
-      "Aruba",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Line2",
-      "Mastodon",
-      "Micro.blog",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
