@@ -5724,32 +5724,5 @@
       "University or College",
       "YouTube"
     ]
-  },
-  {
-    "domain": "afyapsych.com",
-    "title": "Afya Psychiatric Services",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 34788,
-    "crawled_at": "2026-01-18T00:00:05.423570511Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "PWA",
-      "Thank You",
-      "TherapyNotes",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight",
-      "YouTube"
-    ]
   }
 ]
