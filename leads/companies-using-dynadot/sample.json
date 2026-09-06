@@ -4832,28 +4832,5 @@
       "PHP",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "thrifttripping.online",
-    "title": "Thrift Tripping: Your Guide to Thrift Store Adventures | Find Hidden Treasures",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2560,
-    "crawled_at": "2026-01-17T04:34:43.434907104Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Dynadot",
-      "Express",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "InitiativeS",
-      "Nginx",
-      "QUIC",
-      "UTF-8"
-    ]
   }
 ]
