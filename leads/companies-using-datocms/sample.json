@@ -1,12 +1,37 @@
 [
   {
-    "domain": "movinga.click",
+    "domain": "maisonwessman-wines.com",
+    "title": "Maison Wessman",
+    "business_name": "Maison Wessman",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 3576,
+    "crawled_at": "2026-09-06T15:45:50.997294726Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Radix UI",
+      "Shopify",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "movinga.express",
     "title": "Umzugsunternehmen finden & Angebot erhalten | Movinga",
     "business_name": "",
     "country": "DEU",
     "seo_score": 82,
     "tech_spend": 9114,
-    "crawled_at": "2026-09-05T17:10:55.017070757Z",
+    "crawled_at": "2026-09-06T10:15:21.721192281Z",
     "technologies": [
       "Alternate Protocol",
       "Content Delivery Network",
@@ -3221,30 +3246,6 @@
       "Nuxt.js",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "maisonwines.is",
-    "title": "Maison Wessman",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 348,
-    "crawled_at": "2026-08-03T18:17:02.491814853Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DatoCMS",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Radix UI",
-      "Shopify",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {

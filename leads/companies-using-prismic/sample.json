@@ -1,5 +1,30 @@
 [
   {
+    "domain": "retailpaysol.com",
+    "title": "Retail Pay Sol - Payments Solutions",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 5492,
+    "crawled_at": "2026-09-06T05:26:30.23096019Z",
+    "technologies": [
+      "Adult Content",
+      "Content Delivery Network",
+      "Express",
+      "Netlify",
+      "Next.js",
+      "Perl",
+      "Pleroma",
+      "Prismic",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Unsplash",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "daedkorn.com",
     "title": "Home | DÆDKORN",
     "business_name": "",
@@ -13587,30 +13612,6 @@
       "UTF-8",
       "eLand",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "mwaudiology.com",
-    "title": "Midwest Audiology | Hearing Care for Eastern Iowa",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 8110,
-    "crawled_at": "2026-04-20T02:50:19.985860477Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Audiology Publisher",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Netlify",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "Prismic",
-      "UTF-8",
-      "UserWay"
     ]
   }
 ]
