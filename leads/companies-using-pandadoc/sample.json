@@ -1,5 +1,31 @@
 [
   {
+    "domain": "novavia.dev",
+    "title": "Nova Via - Rapid Apps for Businesses",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 3580,
+    "crawled_at": "2026-09-06T10:07:07.561424351Z",
+    "technologies": [
+      "Airtable",
+      "Apache",
+      "Calendly",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "OpenAI",
+      "PandaDoc",
+      "Tailwind CSS",
+      "University or College",
+      "Xero"
+    ]
+  },
+  {
     "domain": "ilias.pm",
     "title": "Ilias Papounidis • Product Manager",
     "business_name": "",
@@ -2835,31 +2861,6 @@
       "WordPress Multisite",
       "WordPress Related Posts",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "novavia.dev",
-    "title": "Nova Via - Rapid Apps for Businesses",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 3580,
-    "crawled_at": "2026-01-17T20:52:43.435108865Z",
-    "technologies": [
-      "Apache",
-      "Calendly",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "OpenAI",
-      "PandaDoc",
-      "Tailwind CSS",
-      "University or College",
-      "Xero"
     ]
   }
 ]
