@@ -1,5 +1,32 @@
 [
   {
+    "domain": "muttsaboutyou101.com",
+    "title": "Mutts About You – Mutts about you 101",
+    "business_name": "Mutts about you 101",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 16077,
+    "crawled_at": "2026-09-06T09:19:36.817588328Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Baidu Cloud",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "Fastly",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "Smile IO",
+      "UTF-8",
+      "Yandex Hosting",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "unisafeglove.com",
     "title": "Disposable Nitrile Gloves, Latex Gloves, and Vinyl Gloves – Unisafe Gloves",
     "business_name": "",
@@ -19831,42 +19858,6 @@
       "UTF-8",
       "hCaptcha",
       "iAPPS",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "outonalimbstyle.com",
-    "title": "out on a limb | home + her",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 10677,
-    "crawled_at": "2026-05-28T16:47:39.635616809Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ElementUI",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "MailChimp",
-      "Microsoft Ajax Content Delivery Network",
-      "Privy",
-      "Shifter",
-      "Shopify",
-      "Shopify Collabs",
-      "Smile IO",
-      "Tailwind CSS",
-      "UTF-8",
-      "hCaptcha",
-      "jQuery",
       "reCAPTCHA"
     ]
   }
