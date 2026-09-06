@@ -1,5 +1,22 @@
 [
   {
+    "domain": "sodecc-cfp.fr",
+    "title": "SODECC CFP - Conseil • Fiscalité • Patrimoine - SODECC CFP",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 102,
+    "crawled_at": "2026-09-05T23:40:02.76109676Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Stripe"
+    ]
+  },
+  {
     "domain": "printing-lebanon.com",
     "title": "Welcome! - Imprimerie du Palais de Justice",
     "business_name": "",
@@ -12001,43 +12018,6 @@
       "Subversion",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "audeedu.com.br",
-    "title": "Aude Educação - Sistema de Gestão Escolar",
-    "business_name": "",
-    "country": "BRA",
-    "seo_score": 55,
-    "tech_spend": 26539,
-    "crawled_at": "2026-02-06T05:04:48.87885913Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Bulma",
-      "CloudFront",
-      "DAV",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Idaq",
-      "K2F",
-      "KVH",
-      "Nginx",
-      "No-Q",
-      "PHP",
-      "RD Station",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS"
     ]
   }
 ]
