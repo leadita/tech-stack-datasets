@@ -1,6 +1,6 @@
 # Companies Using Adyen (Live Dataset 2026)
 
-This folder contains an active list of 233 companies using **Adyen**. 
+This folder contains an active list of 234 companies using **Adyen**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 233
+- **Total Leads:** 234
 - **Verified:** Yes
-- **Last Updated:** 2026-09-05 10:45 UTC
+- **Last Updated:** 2026-09-06 10:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **233+** companies using Adyen.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **234+** companies using Adyen.
 
 [**⚡ Unlock the Full Adyen List with Contact Details**](https://leadita.com/leads/companies-using-adyen)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-09-05 10:45 UTC*
+*Last updated: 2026-09-06 10:45 UTC*
 *Data source: Leadita Technographic Intelligence*
