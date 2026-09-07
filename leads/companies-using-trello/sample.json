@@ -1,5 +1,43 @@
 [
   {
+    "domain": "philiplehmann.ch",
+    "title": "Philip Lehmann - Curriculum vitae",
+    "business_name": "",
+    "country": "CHE",
+    "seo_score": 82,
+    "tech_spend": 24776,
+    "crawled_at": "2026-09-07T02:09:21.660188249Z",
+    "technologies": [
+      "Amazon Link Enchancer",
+      "Amazon Widgets",
+      "Apache",
+      "Atlassian Bitbucket",
+      "Auth0",
+      "CM Commerce",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Envoy",
+      "Express",
+      "Form.IO",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "Google Retail Product Discovery",
+      "Google Tag Manager",
+      "Harbor",
+      "Heroku",
+      "Istio",
+      "Material-UI",
+      "PHP",
+      "PWA",
+      "Python",
+      "QUIC",
+      "Tailwind CSS",
+      "Trello",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "kisugame.com",
     "title": "≧KisuGame≦ - Game Mobile PC, phân tích game, cốt truyện game",
     "business_name": "KisuGame - Review game, cốt truyện game, hướng dẫn game hàng đầu",
@@ -19849,29 +19887,6 @@
       "eLand",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "mwr-crunchy.com",
-    "title": "Crunchy | Live2D",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 51240,
-    "crawled_at": "2026-04-20T04:17:19.98249853Z",
-    "technologies": [
-      "Apache",
-      "Express",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Forms",
-      "Google My Business",
-      "QUIC",
-      "SMC",
-      "Trello",
-      "Twitter Ads",
-      "reCAPTCHA"
     ]
   }
 ]
