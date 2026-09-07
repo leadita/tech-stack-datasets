@@ -1,5 +1,35 @@
 [
   {
+    "domain": "ablandco.com",
+    "title": "Home | ABL&Co. Tax & Accounting",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 19660,
+    "crawled_at": "2026-09-06T15:34:48.915483238Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Dext",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "Taxdome",
+      "UTF-8",
+      "Vector Internet Services",
+      "Zoom Video Conferencing",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "kevinjacobscpa.com",
     "title": "Home | Kevin Jacobs CPA",
     "business_name": "",
@@ -10314,34 +10344,6 @@
       "UTF-8",
       "Visual Studio",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "ablandco.com",
-    "title": "Home | ABL&Co. Tax & Accounting",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 14120,
-    "crawled_at": "2026-01-18T02:04:43.42836854Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "Dext",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "Taxdome",
-      "UTF-8",
-      "Zoom Video Conferencing",
-      "jsDelivr"
     ]
   }
 ]

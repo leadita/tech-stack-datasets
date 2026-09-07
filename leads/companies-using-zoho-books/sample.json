@@ -1931,45 +1931,5 @@
       "University or College",
       "Zoho Books"
     ]
-  },
-  {
-    "domain": "customprintedpoolcover.com",
-    "title": "Custom Printed Pool Cover | BBOYZ Printing",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 108141,
-    "crawled_at": "2026-01-18T17:29:46.309850193Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Better Lead Generation Services",
-      "Content Delivery Network",
-      "DAV",
-      "DC74",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Customer Reviews",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "NFOrce Internet",
-      "PWA",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "SiteW",
-      "Thank You",
-      "UTF-8",
-      "Vector Internet Services",
-      "WP Booking Calendar",
-      "Wix",
-      "Wix Media",
-      "Zoho Books",
-      "mlcom"
-    ]
   }
 ]
