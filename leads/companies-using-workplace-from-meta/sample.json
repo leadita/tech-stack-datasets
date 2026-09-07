@@ -1,5 +1,27 @@
 [
   {
+    "domain": "hr-workplace.com",
+    "title": "HR Workplace",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 5240,
+    "crawled_at": "2026-09-06T21:42:10.413430407Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Apache",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google Cloud DNS",
+      "Google My Business",
+      "Workplace from Meta",
+      "jQuery",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "nhprr.com",
     "title": "Home | NHPRR",
     "business_name": "New Hampshire Partnership for Recovery Residences",
@@ -8951,63 +8973,6 @@
       "Wangsu",
       "Website Tonight",
       "Workplace from Meta"
-    ]
-  },
-  {
-    "domain": "globalawakenedinitiative.org",
-    "title": "Global Awakened Initiative – Global Awakened Initiative",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 7749,
-    "crawled_at": "2026-01-18T17:29:46.291613665Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Astra Theme",
-      "Eber",
-      "Elementor",
-      "EmbedPress",
-      "Google Cloud DNS",
-      "Google Font API",
-      "NFOrce Internet",
-      "PHP",
-      "PayPal Adaptive Payments",
-      "PayPal Button",
-      "PayPal Form",
-      "QUIC",
-      "Table Addons for Elementor",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "Workplace from Meta",
-      "aWeber",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "hr-workplace.com",
-    "title": "HR Workplace",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 3,
-    "crawled_at": "2026-01-18T07:58:43.429565406Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google Cloud DNS",
-      "Nginx",
-      "Workplace from Meta",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
