@@ -1,5 +1,37 @@
 [
   {
+    "domain": "bridg-software.eu",
+    "title": "Bridg Software | innovative software solutions for the public sector",
+    "business_name": "Bridg",
+    "country": "",
+    "seo_score": 87,
+    "tech_spend": 27060,
+    "crawled_at": "2026-09-07T11:58:02.904484791Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "DoubleClick Bid Manager",
+      "Fastbase",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google My Business",
+      "Google Reseller",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Next.js",
+      "Nginx",
+      "Pico CSS",
+      "Prepr",
+      "RM Education",
+      "Recruitee",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "jobsontheblock.io",
     "title": "Remote Jobs in Blockchain | Jobs on the Block",
     "business_name": "",
