@@ -1,5 +1,37 @@
 [
   {
+    "domain": "esavetimes.com",
+    "title": "Home Page 2 - Esavetimes",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 75,
+    "tech_spend": 3056,
+    "crawled_at": "2026-09-06T20:14:48.08858578Z",
+    "technologies": [
+      "Alternate Protocol",
+      "AvantMetrics",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Inspectlet",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Semantic UI",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "VigLink",
+      "W3 Total Cache",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "nycdatascience.com",
     "title": "NYC Data Science Academy",
     "business_name": "",
@@ -14612,30 +14644,6 @@
       "UTF-8",
       "WoWonder",
       "jQuery",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "ventarixola.com",
-    "title": "Technical SEO Fundamentals: Crawling, Indexing & Site Architecture | Ventarixola",
-    "business_name": "",
-    "country": "MYS",
-    "seo_score": 82,
-    "tech_spend": 15508,
-    "crawled_at": "2026-04-19T11:44:19.98258473Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon WAF Blocked",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Semantic UI",
-      "Tailwind CSS",
-      "UTF-8",
       "jsDelivr"
     ]
   }
