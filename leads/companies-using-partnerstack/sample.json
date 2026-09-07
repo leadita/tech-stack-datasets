@@ -1,5 +1,32 @@
 [
   {
+    "domain": "whitecapventurepartners.com",
+    "title": "Whitecap VP – Home",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 70,
+    "tech_spend": 17116,
+    "crawled_at": "2026-09-07T09:57:54.256453717Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "PartnerStack",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "WF Cookie Consent",
+      "Webflow"
+    ]
+  },
+  {
     "domain": "voiceglow.org",
     "title": "AI Voice & Chat Agent Platform for Businesses and Agencies | Convocore",
     "business_name": "Convocore",
@@ -7810,33 +7837,6 @@
       "YouTube",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "whitecapvp.com",
-    "title": "Whitecap VP – Home",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 60,
-    "tech_spend": 6291,
-    "crawled_at": "2026-04-19T12:25:52.633984684Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "PartnerStack",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "WF Cookie Consent",
-      "Webflow"
     ]
   },
   {
