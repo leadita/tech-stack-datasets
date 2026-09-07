@@ -5427,48 +5427,5 @@
       "UTF-8",
       "University or College"
     ]
-  },
-  {
-    "domain": "shapingnewtomorrow.lu",
-    "title": "SHAPING NEW TOMORROW | Comfortable anywhere",
-    "business_name": "Shaping New Tomorrow",
-    "country": "DEU",
-    "seo_score": 77,
-    "tech_spend": 55651,
-    "crawled_at": "2026-01-18T17:11:50.968742918Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Ada Support",
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coming Soon Page",
-      "Fastly",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "Microdata for Google Shopping",
-      "Pico CSS",
-      "QUIC",
-      "Relewise",
-      "Shopify",
-      "Shopify Collabs",
-      "Swell Rewards",
-      "Tailwind CSS",
-      "Trustpilot Reviews for WordPress",
-      "UTF-8",
-      "Vercel",
-      "Yotpo",
-      "YouTube",
-      "hCaptcha",
-      "reCAPTCHA",
-      "shadcn ui"
-    ]
   }
 ]

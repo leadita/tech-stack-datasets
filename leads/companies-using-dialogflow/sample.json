@@ -1,5 +1,33 @@
 [
   {
+    "domain": "kleurenstijl.be",
+    "title": "Modeacademie",
+    "business_name": "",
+    "country": "BEL",
+    "seo_score": 77,
+    "tech_spend": 2979,
+    "crawled_at": "2026-09-07T07:41:57.846409747Z",
+    "technologies": [
+      "Angular",
+      "Angular Material",
+      "App Store",
+      "Content Delivery Network",
+      "Dialogflow",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vimeo"
+    ]
+  },
+  {
     "domain": "fairshare.tech",
     "title": "Web development company in Pune | IT company in Pune",
     "business_name": "Fair Share IT Services Pvt Ltd",
@@ -9763,31 +9791,6 @@
       "WordPress Multisite",
       "WordPress Related Posts",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "kleurenstijl.be",
-    "title": "Modeacademie",
-    "business_name": "",
-    "country": "BEL",
-    "seo_score": 57,
-    "tech_spend": 159,
-    "crawled_at": "2026-01-18T17:29:46.310943941Z",
-    "technologies": [
-      "Angular",
-      "Angular Material",
-      "App Store",
-      "Dialogflow",
-      "Font Awesome",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
