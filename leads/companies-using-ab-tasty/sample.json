@@ -1,5 +1,32 @@
 [
   {
+    "domain": "photoromero.com",
+    "title": "Vic Romero",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 28286,
+    "crawled_at": "2026-09-06T22:06:51.962551011Z",
+    "technologies": [
+      "AB Tasty",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "Fastly",
+      "Fireblade",
+      "GZIP Module",
+      "Help.com",
+      "K2F",
+      "Nginx",
+      "Ntent",
+      "QUIC",
+      "SmartyStreets",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "sampsonbaileysolicitors.co.uk",
     "title": "Criminal Defence Law Firm | Sampson Bailey Solicitors | London - SampsonBaileySolicitors SampsonBaileySolicitors -",
     "business_name": "Sampson Bailey Solicitors",
@@ -288,32 +315,6 @@
       "jsDelivr",
       "mParticle",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "artographybybranch.com",
-    "title": "artographybybranch",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 23286,
-    "crawled_at": "2026-09-05T00:01:34.264501942Z",
-    "technologies": [
-      "AB Tasty",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CloudFront",
-      "Content Delivery Network",
-      "Fastly",
-      "Fireblade",
-      "GZIP Module",
-      "Help.com",
-      "Nginx",
-      "Ntent",
-      "QUIC",
-      "SmartyStreets",
-      "UTF-8"
     ]
   },
   {
