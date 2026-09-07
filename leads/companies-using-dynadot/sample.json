@@ -4814,23 +4814,5 @@
       "IcoMoon",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "swfwda.org",
-    "title": "Southwest Four Wheel Drive Association",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 62,
-    "tech_spend": 15120,
-    "crawled_at": "2026-01-18T22:37:43.427250237Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "DAV",
-      "Dynadot",
-      "Investor Relations",
-      "LiteSpeed",
-      "PHP",
-      "UTF-8"
-    ]
   }
 ]
