@@ -1,5 +1,22 @@
 [
   {
+    "domain": "alamashini.com",
+    "title": "Ala Mashini | Senior Product Leader",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-09-06T23:56:03.775139974Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Content Delivery Network",
+      "LogRocket",
+      "Microdata for Google Shopping",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "bookwithacherryontop.com",
     "title": "Book with a Cherry on Top | Books, Journals, Reviews",
     "business_name": "",
