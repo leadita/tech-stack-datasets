@@ -1,12 +1,43 @@
 [
   {
-    "domain": "tdecustadium.net",
+    "domain": "historicvillage.co.nz",
+    "title": "The Historic Village - Home page",
+    "business_name": "",
+    "country": "NZL",
+    "seo_score": 57,
+    "tech_spend": 1158,
+    "crawled_at": "2026-09-07T09:40:58.41729082Z",
+    "technologies": [
+      "AutoComplete",
+      "Curator",
+      "DNN Software",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Font Awesome",
+      "FreeCSSTemplates",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Monsido",
+      "UTF-8",
+      "WoWonder",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "tedcu.net",
     "title": "TDECU | Your Texas Credit Union With Digital Banking",
     "business_name": "",
     "country": "USA",
     "seo_score": 77,
     "tech_spend": 140425,
-    "crawled_at": "2026-09-06T05:52:58.285256613Z",
+    "crawled_at": "2026-09-06T15:58:01.005458141Z",
     "technologies": [
       "AdRoll",
       "Alternate Protocol",
@@ -18867,53 +18898,6 @@
       "UTF-8",
       "University or College",
       "Visual Studio"
-    ]
-  },
-  {
-    "domain": "letstalktauranga.co.nz",
-    "title": "Home - Let's talk Tauranga",
-    "business_name": "",
-    "country": "NZL",
-    "seo_score": 60,
-    "tech_spend": 1059,
-    "crawled_at": "2026-01-18T19:19:18.597519251Z",
-    "technologies": [
-      "DNN Software",
-      "Font Awesome",
-      "FreeCSSTemplates",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Monsido",
-      "QUIC",
-      "UTF-8",
-      "YouTube",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "mountbeachside.co.nz",
-    "title": "Home - Mount Maunganui Beachside Holiday Park",
-    "business_name": "",
-    "country": "NZL",
-    "seo_score": 60,
-    "tech_spend": 1062,
-    "crawled_at": "2026-01-18T19:19:18.597668976Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "DNN Software",
-      "Font Awesome",
-      "FreeCSSTemplates",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google My Business",
-      "Google Tag Manager",
-      "HotelsCombined",
-      "Monsido",
-      "QUIC",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
