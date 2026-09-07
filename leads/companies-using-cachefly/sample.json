@@ -1,5 +1,29 @@
 [
   {
+    "domain": "fit.hu",
+    "title": "Főoldal - FIT Számítástechnika Kft.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 6195,
+    "crawled_at": "2026-09-06T21:31:07.202453255Z",
+    "technologies": [
+      "Bulma",
+      "CDN JS",
+      "CacheFly",
+      "CacheFly CDN",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Font Awesome",
+      "Google My Business",
+      "IcoMoon",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "UTF-8",
+      "Visual Studio"
+    ]
+  },
+  {
     "domain": "apartmentkiosk.com",
     "title": "Kiosks | Multifamily Industry | Spherexx",
     "business_name": "Spherexx",
@@ -2386,29 +2410,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "fit.hu",
-    "title": "Főoldal - FIT Számítástechnika Kft.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 18507,
-    "crawled_at": "2026-01-18T07:46:24.255209078Z",
-    "technologies": [
-      "Bulma",
-      "CDN JS",
-      "CacheFly",
-      "CacheFly CDN",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Font Awesome",
-      "Google My Business",
-      "IcoMoon",
-      "Microsoft Azure",
-      "UTF-8",
-      "Visual Studio"
     ]
   }
 ]
