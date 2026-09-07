@@ -1,5 +1,65 @@
 [
   {
+    "domain": "fasttrack.sh",
+    "title": "Hello from FastTrack | FastTrack",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 160318,
+    "crawled_at": "2026-09-07T16:42:32.40517501Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Apache",
+      "CCSI",
+      "DAV",
+      "Docusaurus",
+      "Ethy",
+      "Financial Services Guide",
+      "GZIP Module",
+      "GitHub Hosting",
+      "HHVM",
+      "HMDG",
+      "Idaq",
+      "K2F",
+      "KVH",
+      "KaTeX",
+      "Matomo",
+      "No-Q",
+      "Perl",
+      "QUIC",
+      "SMC",
+      "Siweb",
+      "Subversion",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "Vector Internet Services",
+      "Zope",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "plantd.org",
+    "title": "PlantD",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2400,
+    "crawled_at": "2026-09-07T00:05:52.966106831Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "topaz.sh",
     "title": "Topaz | Topaz",
     "business_name": "",
@@ -12739,49 +12799,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "sidiamor.org",
-    "title": "Home | GDA Sidi Amor",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 57,
-    "tech_spend": 7500,
-    "crawled_at": "2026-04-02T00:29:20.020135111Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "Fireblade",
-      "GZIP Module",
-      "InitiativeS",
-      "Nginx",
-      "Perl",
-      "Tailwind CSS",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "scalewaveai.com",
-    "title": "ScaleWaveAI - Enterprise AI & Computer Vision APIs | ScaleWaveAI - Empower Your AI Journey",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 447,
-    "crawled_at": "2026-04-01T15:50:20.026825779Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Docusaurus",
-      "KaTeX",
-      "Material-UI",
-      "Netlify",
-      "PWA",
-      "Perl",
-      "QUIC",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]

@@ -1,5 +1,52 @@
 [
   {
+    "domain": "divinehycenth.now.sh",
+    "title": "Software Engineer / UIX Designer - Divine Hycenth",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 12908,
+    "crawled_at": "2026-09-07T09:32:13.31333857Z",
+    "technologies": [
+      "ADFOX",
+      "Angular",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Cloudinary",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Netlify",
+      "Next.js",
+      "Nginx",
+      "Ntent",
+      "Pleroma",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "Yandex Hosting",
+      "Yandex Metrika"
+    ]
+  },
+  {
+    "domain": "nuvensis.ch",
+    "title": "Nuvensis - Reliable software solutions, built in record time. - Nuvensis",
+    "business_name": "",
+    "country": "",
+    "seo_score": 32,
+    "tech_spend": "",
+    "crawled_at": "2026-09-07T06:46:19.716287782Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Gridsome",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "sodecc-cfp.fr",
     "title": "SODECC CFP - Conseil • Fiscalité • Patrimoine - SODECC CFP",
     "business_name": "",
@@ -11968,56 +12015,6 @@
       "Gridsome",
       "Vimeo",
       "Vimeo CDN"
-    ]
-  },
-  {
-    "domain": "boa.nu",
-    "title": "Home - boa.nu",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 5663,
-    "crawled_at": "2026-02-10T10:39:44.975657103Z",
-    "technologies": [
-      "Amazon",
-      "Content Delivery Network",
-      "Fastly",
-      "Financial Services Guide",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "OLO",
-      "Python",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "interlocutum.com",
-    "title": "Business and Communication Consultant - Interlocutum S.à r.l. in Luxembourg",
-    "business_name": "",
-    "country": "LUX",
-    "seo_score": 77,
-    "tech_spend": 85456,
-    "crawled_at": "2026-02-09T21:01:23.527735926Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Bulma",
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "Gridsome",
-      "KVH",
-      "Netlify",
-      "Plausible Analytics",
-      "QUIC",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
