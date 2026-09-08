@@ -1,5 +1,39 @@
 [
   {
+    "domain": "arndtcpas.com",
+    "title": "Arndt Company CPAs - Springfield, MO",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 8207,
+    "crawled_at": "2026-09-07T18:11:51.973673934Z",
+    "technologies": [
+      "DAV",
+      "Font Awesome",
+      "Fontello",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "HostGator",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "Microsoft 365",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Parallels Plesk Panel",
+      "Perl",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Visual Studio",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "ablandco.com",
     "title": "Home | ABL&Co. Tax & Accounting",
     "business_name": "",
@@ -10311,39 +10345,6 @@
       "UTF-8",
       "Zoom Video Conferencing",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "arndtcpas.com",
-    "title": "Arndt Company CPAs - Springfield, MO",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 8207,
-    "crawled_at": "2026-01-19T03:57:20.62957156Z",
-    "technologies": [
-      "DAV",
-      "Font Awesome",
-      "Fontello",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "HostGator",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Microsoft 365",
-      "Microsoft Azure",
-      "Parallels Plesk Panel",
-      "Perl",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Visual Studio",
-      "jQuery"
     ]
   }
 ]
