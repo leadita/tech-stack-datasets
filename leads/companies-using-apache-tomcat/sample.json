@@ -1,5 +1,92 @@
 [
   {
+    "domain": "guomindaipai.com",
+    "title": "国民代拍-源头自研技术|一家专业解决沪牌疑难杂症的代拍",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 15060,
+    "crawled_at": "2026-09-08T22:15:36.682052818Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Baidu Cloud",
+      "SMC",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "playbyte.cloud",
+    "title": "PlayByte",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 98,
+    "crawled_at": "2026-09-08T12:29:09.146903106Z",
+    "technologies": [
+      "ASP.NET Core",
+      "Alternate Protocol",
+      "Apache",
+      "Apache Tomcat JK",
+      "Astra Theme",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Max Mega Menu",
+      "Nginx",
+      "PHP",
+      "QUIC",
+      "Theme In WP",
+      "UTF-8",
+      "Ubuntu",
+      "Visual Studio",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Related Posts",
+      "jQuery",
+      "wpForo Forum"
+    ]
+  },
+  {
+    "domain": "enpusolution.de",
+    "title": "enpusolution.de",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 60,
+    "crawled_at": "2026-09-08T07:54:32.999980549Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Nginx",
+      "Oracle Cloud",
+      "Struts",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "segoia.ro",
+    "title": "Asociația Segoia",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": "",
+    "crawled_at": "2026-09-08T01:22:40.319121662Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Apple Auto Link Maker",
+      "GZIP Module",
+      "Google My Business",
+      "Google Play",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "pmiovoc.org",
     "title": "Home | PMI Ottawa Valley Outaouais Chapter",
     "business_name": "",
@@ -8573,25 +8660,6 @@
     ]
   },
   {
-    "domain": "segoia.net",
-    "title": "Asociația Segoia",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": "",
-    "crawled_at": "2026-04-11T21:25:17.544375912Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Apple Auto Link Maker",
-      "GZIP Module",
-      "Google My Business",
-      "Google Play",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "integrity-vision.com",
     "title": "Integrity Vision: Advanced Solutions for Your Safer Business",
     "business_name": "Integrity Vision",
@@ -13870,139 +13938,6 @@
       "Google Workspace",
       "Tailwind CSS",
       "University or College"
-    ]
-  },
-  {
-    "domain": "guomindaipai.com",
-    "title": "国民代拍-源头自研技术|一家专业解决沪牌疑难杂症的代拍",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 15060,
-    "crawled_at": "2026-01-20T07:22:44.408115883Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Baidu Cloud",
-      "SMC",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "sumitmittal.dev",
-    "title": "Sumit Mittal Portfolio",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 70,
-    "tech_spend": 7240,
-    "crawled_at": "2026-01-20T05:55:43.43375346Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "InitiativeS",
-      "Oracle Cloud",
-      "Python",
-      "Redis Cache",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College"
-    ]
-  },
-  {
-    "domain": "playbyte.cloud",
-    "title": "PlayByte",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 98,
-    "crawled_at": "2026-01-19T22:16:23.752670849Z",
-    "technologies": [
-      "ASP.NET Core",
-      "Alternate Protocol",
-      "Apache",
-      "Apache Tomcat JK",
-      "Astra Theme",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Max Mega Menu",
-      "Nginx",
-      "PHP",
-      "QUIC",
-      "Theme In WP",
-      "UTF-8",
-      "Ubuntu",
-      "Visual Studio",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "jQuery",
-      "wpForo Forum"
-    ]
-  },
-  {
-    "domain": "smartsng.dev",
-    "title": "SmartSNG.Dev – Software Developers Association",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 70038,
-    "crawled_at": "2026-01-19T19:29:10.749108539Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "ADFOX",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apache",
-      "Apache Tomcat JK",
-      "Baidu Cloud",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Express",
-      "Fireblade",
-      "InitiativeS",
-      "Kontur",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Nuxt.js",
-      "Oracle Cloud",
-      "Paybis",
-      "Python",
-      "QUIC",
-      "SegmentStream",
-      "Tailwind CSS",
-      "Telegram",
-      "UTF-8",
-      "Wildberries",
-      "Yandex Hosting",
-      "shadcn ui",
-      "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "enpusolution.de",
-    "title": "enpusolution.de",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 60,
-    "crawled_at": "2026-01-19T18:02:49.412375533Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Oracle Cloud",
-      "Struts",
-      "Tailwind CSS"
     ]
   }
 ]
