@@ -1,5 +1,26 @@
 [
   {
+    "domain": "optimalbrainbody.com",
+    "title": "Optimal Performance — Nourish. Thrive. Optimize.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 4456,
+    "crawled_at": "2026-09-08T09:05:15.466787832Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Practice Better",
+      "Sanity",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "trichologybytiffanyhall.com",
     "title": "Trichology Hair loss Clinic | Trichology by Tiffany Hall",
     "business_name": "",
@@ -17524,33 +17545,6 @@
       "YouTube",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "saltwellnessnutrition.com",
-    "title": "Michelle Best",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 2041,
-    "crawled_at": "2026-05-13T04:38:19.975326024Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "DC74",
-      "Express",
-      "Federal Deposit Insurance Corporation",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Practice Better",
-      "QUIC",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
