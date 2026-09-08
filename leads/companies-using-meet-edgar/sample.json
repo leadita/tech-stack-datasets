@@ -668,37 +668,5 @@
       "Yummly",
       "jQuery"
     ]
-  },
-  {
-    "domain": "lauraroeder.com",
-    "title": "littlefish",
-    "business_name": "littlefish",
-    "country": "",
-    "seo_score": 32,
-    "tech_spend": 2039,
-    "crawled_at": "2026-01-19T23:53:49.219558193Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Create React App",
-      "GZIP Module",
-      "Google",
-      "Google My Business",
-      "Google Play",
-      "Instagram Follow Button",
-      "Medium",
-      "Meet Edgar",
-      "Ntent",
-      "OpenResty",
-      "PWA",
-      "Paperbell",
-      "Smart App Banner",
-      "Twitter Ads",
-      "UTF-8",
-      "Way",
-      "eLand",
-      "reCAPTCHA"
-    ]
   }
 ]
