@@ -1,5 +1,62 @@
 [
   {
+    "domain": "fiechter-architektur.ch",
+    "title": "Home - Architektur Fiechter",
+    "business_name": "Architektur Fiechter",
+    "country": "CHE",
+    "seo_score": 87,
+    "tech_spend": 2768,
+    "crawled_at": "2026-09-08T11:20:37.987099355Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Idaq",
+      "Instagram Follow Button",
+      "Netlify",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "beakerdigital.com",
+    "title": "Beaker",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": "",
+    "crawled_at": "2026-09-08T00:17:38.18925951Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Gridsome",
+      "Netlify",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "kommunikation.plus",
+    "title": "KommunikationPlus - KommunikationPlus",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 70,
+    "tech_spend": 50040,
+    "crawled_at": "2026-09-07T23:28:04.165482242Z",
+    "technologies": [
+      "Apache",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "SMC",
+      "Unix",
+      "eLand"
+    ]
+  },
+  {
     "domain": "divinehycenth.now.sh",
     "title": "Software Engineer / UIX Designer - Divine Hycenth",
     "business_name": "",
@@ -11948,73 +12005,6 @@
       "Netlify",
       "UTF-8",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "svrbc.org",
-    "title": "Silicon Valley Reformed Baptist Church - SVRBC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 228,
-    "crawled_at": "2026-02-12T06:17:35.878779063Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Google My Business",
-      "Gridsome",
-      "Netlify",
-      "PWA",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "qbic.cc",
-    "title": "Qbic",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 3,
-    "crawled_at": "2026-02-11T17:34:09.79184866Z",
-    "technologies": [
-      "Apache",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Tailwind CSS",
-      "Twitter Ads"
-    ]
-  },
-  {
-    "domain": "bluechipmortgagebroking.com.au",
-    "title": "Blue Chip Mortgage Brokers in Karratha 6714 - Blue Chip Mortgage Broking",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 10781,
-    "crawled_at": "2026-02-10T16:58:54.271623449Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Apture Linking Platform",
-      "Calendly",
-      "CloudFront",
-      "Content Delivery Network",
-      "DC74",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Gravity Forms",
-      "Gridsome",
-      "Vimeo",
-      "Vimeo CDN"
     ]
   }
 ]
