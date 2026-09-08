@@ -6257,44 +6257,5 @@
       "Vector Internet Services",
       "WordPress"
     ]
-  },
-  {
-    "domain": "dorisdirks.com",
-    "title": "Home - Doris \"Day\" Dirks Real Estate",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 24010,
-    "crawled_at": "2026-01-19T15:37:58.864784175Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Alternate Protocol",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "DAV",
-      "EmbedPress",
-      "Expedient",
-      "Express",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Looker Studio",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "QUIC",
-      "Schema Plugin",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "University or College",
-      "WP Engine",
-      "WPBakery",
-      "WordPress",
-      "WordPress Multisite",
-      "iHomefinder",
-      "jQuery",
-      "reCAPTCHA"
-    ]
   }
 ]
