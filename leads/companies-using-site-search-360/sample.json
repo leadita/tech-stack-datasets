@@ -1,5 +1,31 @@
 [
   {
+    "domain": "spot-onsigns.com",
+    "title": "Spot-On Signs & Graphics | El Dorado Hills, Cameron Park, Placerville, CA - Custom Signage Company, Business",
+    "business_name": "6166 Enterprise Drive # G",
+    "country": "ZAF",
+    "seo_score": 77,
+    "tech_spend": 5268,
+    "crawled_at": "2026-09-08T00:55:42.496942727Z",
+    "technologies": [
+      "Apache",
+      "Baidu Cloud",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Python",
+      "QUIC",
+      "Site Search 360",
+      "Twitter Ads",
+      "UTF-8",
+      "Yandex Hosting",
+      "Yelp Badge"
+    ]
+  },
+  {
     "domain": "visitblairsvillega.com",
     "title": "Blairsville Union County Chamber of Commerce",
     "business_name": "",
@@ -357,32 +383,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "spot-on-signs.com",
-    "title": "Spot-On Signs & Graphics | El Dorado Hills, Cameron Park, Placerville, CA - Custom Signage Company, Business",
-    "business_name": "6166 Enterprise Drive # G",
-    "country": "ZAF",
-    "seo_score": 82,
-    "tech_spend": 5268,
-    "crawled_at": "2026-09-04T12:41:47.064160101Z",
-    "technologies": [
-      "Apache",
-      "Baidu Cloud",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Python",
-      "QUIC",
-      "Site Search 360",
-      "Twitter Ads",
-      "UTF-8",
-      "Yandex Hosting",
-      "Yelp Badge"
     ]
   },
   {
