@@ -1,5 +1,25 @@
 [
   {
+    "domain": "noties.space",
+    "title": "NoSpace",
+    "business_name": "NoSpace",
+    "country": "GBR",
+    "seo_score": 62,
+    "tech_spend": 377,
+    "crawled_at": "2026-09-08T05:08:33.271275772Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Publii",
+      "QUIC",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "schmurr.net",
     "title": "Tristan Schmurr",
     "business_name": "Tristan Schmurr",
@@ -8460,26 +8480,6 @@
       "Microdata for Google Shopping",
       "Nginx",
       "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "noties.space",
-    "title": "NoSpace",
-    "business_name": "NoSpace",
-    "country": "GBR",
-    "seo_score": 62,
-    "tech_spend": 377,
-    "crawled_at": "2026-01-19T15:15:43.949360442Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Publii",
-      "QUIC",
-      "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   }
