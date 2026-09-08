@@ -1,43 +1,12 @@
 [
   {
-    "domain": "historicvillage.co.nz",
-    "title": "The Historic Village - Home page",
-    "business_name": "",
-    "country": "NZL",
-    "seo_score": 57,
-    "tech_spend": 1158,
-    "crawled_at": "2026-09-07T09:40:58.41729082Z",
-    "technologies": [
-      "AutoComplete",
-      "Curator",
-      "DNN Software",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Font Awesome",
-      "FreeCSSTemplates",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Monsido",
-      "UTF-8",
-      "WoWonder",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "tedcu.net",
+    "domain": "centuryoakstitle.info",
     "title": "TDECU | Your Texas Credit Union With Digital Banking",
     "business_name": "",
     "country": "USA",
     "seo_score": 77,
     "tech_spend": 140425,
-    "crawled_at": "2026-09-06T15:58:01.005458141Z",
+    "crawled_at": "2026-09-08T01:51:56.801125174Z",
     "technologies": [
       "AdRoll",
       "Alternate Protocol",
@@ -87,6 +56,37 @@
       "YouTube",
       "jQuery",
       "jsDelivr"
+    ]
+  },
+  {
+    "domain": "historicvillage.co.nz",
+    "title": "The Historic Village - Home page",
+    "business_name": "",
+    "country": "NZL",
+    "seo_score": 57,
+    "tech_spend": 1158,
+    "crawled_at": "2026-09-07T09:40:58.41729082Z",
+    "technologies": [
+      "AutoComplete",
+      "Curator",
+      "DNN Software",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Font Awesome",
+      "FreeCSSTemplates",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Monsido",
+      "UTF-8",
+      "WoWonder",
+      "jQuery"
     ]
   },
   {
