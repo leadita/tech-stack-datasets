@@ -1,5 +1,23 @@
 [
   {
+    "domain": "patriotvictory.com",
+    "title": "Donald Trump Gold Pin | Limited Edition Trump Lapel Pin",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 100,
+    "crawled_at": "2026-09-07T23:23:35.958545525Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Parcel",
+      "USPS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "amberspackandship.com",
     "title": "Amber's Pac n Ship- Ontario OR",
     "business_name": "Amber&#039;s Pac n Ship - Ontario OR",
@@ -15528,33 +15546,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "en-us-trumplapelpin.com",
-    "title": "Own the Iconic Trump Lapel Pin – Limited Edition Symbol",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 19940,
-    "crawled_at": "2026-04-28T00:32:20.003306009Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Baidu Cloud",
-      "Bulma",
-      "Express",
-      "Fireblade",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "Schema Plugin",
-      "Tailwind CSS",
-      "USPS",
-      "UTF-8",
-      "Yandex Hosting"
     ]
   },
   {
