@@ -15928,45 +15928,5 @@
       "Visual Studio",
       "jQuery"
     ]
-  },
-  {
-    "domain": "hackneyhardware.com",
-    "title": "Hackney Ace Hardware in Dexter | Hardware Store in Dexter, MI 48130",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 420259,
-    "crawled_at": "2026-01-19T08:00:21.684920786Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Bronto",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Square",
-      "Express",
-      "Facebook Reseller",
-      "Fireblade",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Maps",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Microsoft Azure Blob Storage",
-      "Monetate",
-      "OneTrust Domain Verification",
-      "PHP",
-      "PWA",
-      "Salesforce Hosted",
-      "Thank You",
-      "Twitter Ads",
-      "UpSellit",
-      "YouTube",
-      "reCAPTCHA"
-    ]
   }
 ]
