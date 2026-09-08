@@ -1,5 +1,34 @@
 [
   {
+    "domain": "neurontineclumbarsupport.com",
+    "title": "Neurontinec",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 60607,
+    "crawled_at": "2026-09-08T01:08:59.30014306Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "DAV",
+      "Everflow",
+      "Fireblade",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google Tag Manager",
+      "IcoMoon",
+      "PHP",
+      "Tailwind CSS",
+      "UTF-8",
+      "Visual Website Optimizer"
+    ]
+  },
+  {
     "domain": "lifev.ac",
     "title": "LifeVac - Choking Rescue Device",
     "business_name": "LifeVac",
