@@ -1,5 +1,27 @@
 [
   {
+    "domain": "sipg.co.il",
+    "title": "An EMDN - SIPG CO IL, Industrial Group Manufacturing Solutions Supply Chain Engineering Infrastructure Projects Technology Services Production Facility Corporate Network",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 36,
+    "crawled_at": "2026-09-07T20:42:35.431227754Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "renirev.com",
     "title": "Renirev",
     "business_name": "",
@@ -16,28 +38,6 @@
       "GZIP Module",
       "Microdata for Google Shopping",
       "Rev",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "extracellularly.com",
-    "title": "An EMDN - Extracellularly, Cell Biology Molecular Biology Membrane Transport Biological Processes Signaling Pathways Tissue Interaction Biochemistry Cellular Communication",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 36,
-    "crawled_at": "2026-09-02T23:40:36.567773085Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
       "UTF-8"
     ]
   },
@@ -4786,33 +4786,6 @@
       "GZIP Module",
       "UTF-8",
       "Umbler"
-    ]
-  },
-  {
-    "domain": "fv247.com",
-    "title": "Human faces",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 62,
-    "tech_spend": 727,
-    "crawled_at": "2026-01-19T09:13:43.437018679Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "DAV",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Adsense",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google Reseller",
-      "Google Tag Manager",
-      "IcoMoon",
-      "UTF-8"
     ]
   }
 ]
