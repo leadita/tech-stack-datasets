@@ -3310,40 +3310,5 @@
       "Next.js",
       "Styled Components"
     ]
-  },
-  {
-    "domain": "aurochssolutions.com",
-    "title": "Sales Compensation and Management Software | Aurochs Solutions",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 155642,
-    "crawled_at": "2026-01-20T13:57:55.532788467Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Astro",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Freshteam",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "NFOrce Internet",
-      "Perl",
-      "QUIC",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "University or College",
-      "YouTube",
-      "jsDelivr",
-      "shadcn ui"
-    ]
   }
 ]
