@@ -1,5 +1,123 @@
 [
   {
+    "domain": "conpartystore.com",
+    "title": "Con Party Store in Pooler GA | Party Store GA",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 76656,
+    "crawled_at": "2026-09-09T16:01:55.981575949Z",
+    "technologies": [
+      "Cart.com",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Oddle",
+      "OpenCart",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Yelp Badge"
+    ]
+  },
+  {
+    "domain": "alaxir.com",
+    "title": "Alaxir",
+    "business_name": "",
+    "country": "TUR",
+    "seo_score": 67,
+    "tech_spend": 75340,
+    "crawled_at": "2026-09-09T10:52:54.47377499Z",
+    "technologies": [
+      "Cart.com",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Nginx",
+      "OpenCart",
+      "PHP",
+      "Parallels Plesk Panel",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "al-laith.com",
+    "title": "مجموعة الليث AL Laith Group",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 75607,
+    "crawled_at": "2026-09-09T10:11:50.120562302Z",
+    "technologies": [
+      "Cart.com",
+      "CookieConsent",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Nginx",
+      "OpenCart",
+      "PHP",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "rhvfx.com",
+    "title": "Hoodie Jacket,Leather Jackets,Men's Pants & Shorts,Men's Sweatshirts",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 75508,
+    "crawled_at": "2026-09-08T22:57:06.938198136Z",
+    "technologies": [
+      "Cart.com",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Nginx",
+      "OpenCart",
+      "PrestaShop",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "jianyingcg.com",
+    "title": "HDD & ENCLOSURES PRINTERS WEBCAMS WIRELESS ROUTERS",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 72,
+    "tech_spend": 75110,
+    "crawled_at": "2026-09-08T20:04:51.556328123Z",
+    "technologies": [
+      "Cart.com",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Nginx",
+      "OpenCart",
+      "QUIC",
+      "Tailwind CSS",
+      "TemplateMela",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "rfidclubs.com",
     "title": "NTAG213 NFC Card ,RFID Card,NFC Sticker Tag, RFID NFC PCB Tag Manufacturer In China",
     "business_name": "",
@@ -2968,26 +3086,6 @@
       "QUIC",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "alhosnyegy.com",
-    "title": "Alhosny",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 30003,
-    "crawled_at": "2026-08-10T09:43:04.918998578Z",
-    "technologies": [
-      "Cart.com",
-      "DAV",
-      "Google Cloud DNS",
-      "Google Font API",
-      "OpenCart",
-      "PHP",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   },
   {
@@ -12180,91 +12278,6 @@
       "QUIC",
       "Tailwind CSS",
       "Tawk",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "galerada.cat",
-    "title": "Galerada",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 30003,
-    "crawled_at": "2026-05-15T01:47:12.48470817Z",
-    "technologies": [
-      "Cart.com",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Nginx",
-      "OpenCart",
-      "PHP",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "talhajaipursilver.com",
-    "title": "talhajaipursilver.com",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 62,
-    "tech_spend": 85110,
-    "crawled_at": "2026-05-15T01:32:19.973344762Z",
-    "technologies": [
-      "Cart.com",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "Onyx Internet",
-      "OpenCart",
-      "Tailwind CSS",
-      "TemplateMela",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "yachen.help",
-    "title": "Yachen Electronic Technology Limited",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 30003,
-    "crawled_at": "2026-05-15T00:05:20.004159307Z",
-    "technologies": [
-      "Cart.com",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "yueye.help",
-    "title": "OFFROAD IMPORT AND EXPORT LIMITED",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 30003,
-    "crawled_at": "2026-05-15T00:05:19.992474142Z",
-    "technologies": [
-      "Cart.com",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
       "UTF-8",
       "jQuery"
     ]
