@@ -1,5 +1,25 @@
 [
   {
+    "domain": "jonmccullough.com",
+    "title": "Jon McCullough",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-09-08T23:50:31.739438068Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "PWA",
+      "Todoist",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "juliahilt.de",
     "title": "Julia Hilt",
     "business_name": "",
@@ -1587,26 +1607,6 @@
       "WordPress Multisite",
       "itch.io",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "jonmccullough.no",
-    "title": "Jon McCullough",
-    "business_name": "",
-    "country": "",
-    "seo_score": 32,
-    "tech_spend": "",
-    "crawled_at": "2026-04-19T14:20:19.993442086Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "PWA",
-      "Todoist",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   },
   {
