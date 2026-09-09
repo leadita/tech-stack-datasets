@@ -1,5 +1,34 @@
 [
   {
+    "domain": "gallusinsight.com",
+    "title": "Gallus Insight — UK learning measurement & L&D analytics",
+    "business_name": "Gallus Insight",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 42440,
+    "crawled_at": "2026-09-09T16:41:55.088943588Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Docebo",
+      "DoubleClick Bid Manager",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "InitiativeS",
+      "Microdata for Google Shopping",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "wayaheadtech.com",
     "title": "Digital Transformation | Wayahead Technology | United States",
     "business_name": "Wayahead Technology",

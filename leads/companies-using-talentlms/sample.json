@@ -9750,44 +9750,5 @@
       "Vector Internet Services",
       "WordPress"
     ]
-  },
-  {
-    "domain": "thelanguageoflearning.com",
-    "title": "The Language of Learning",
-    "business_name": "",
-    "country": "CHL",
-    "seo_score": 65,
-    "tech_spend": 97625,
-    "crawled_at": "2026-01-20T10:27:34.425313203Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon Widgets",
-      "Apache",
-      "Apture Linking Platform",
-      "Contento",
-      "DAV",
-      "EmbedPress",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IBM Cloud",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "PHP",
-      "SAS",
-      "Schema Plugin",
-      "TalentLMS",
-      "Theme In WP",
-      "Tiny Framework",
-      "Twitter Ads",
-      "UTF-8",
-      "Ubuntu",
-      "University or College",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
