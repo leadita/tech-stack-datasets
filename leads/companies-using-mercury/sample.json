@@ -10181,42 +10181,5 @@
       "WordPress",
       "WordPress Multisite"
     ]
-  },
-  {
-    "domain": "zeus-us-hades.com",
-    "title": "Sugar Rush - Official site play for money - Multiplayer x5000",
-    "business_name": "Sugar Rush",
-    "country": "DEU",
-    "seo_score": 77,
-    "tech_spend": 18242,
-    "crawled_at": "2026-01-20T17:41:27.725080541Z",
-    "technologies": [
-      "ADFOX",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "EmbedPress",
-      "Font Awesome",
-      "GZIP Module",
-      "Gambling Content",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Lazy Load for WordPress",
-      "Mercury",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "QUIC",
-      "RM Education",
-      "Rush",
-      "Twitter Ads",
-      "UTF-8",
-      "WPML Multilingual",
-      "WordPress",
-      "WordPress Multisite",
-      "Yandex Hosting",
-      "Yandex Metrika",
-      "YouTube"
-    ]
   }
 ]
