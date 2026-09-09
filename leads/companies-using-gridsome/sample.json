@@ -1,5 +1,31 @@
 [
   {
+    "domain": "builtwithinertia.com",
+    "title": "Showcase - Built With InertiaJs",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 28201,
+    "crawled_at": "2026-09-09T05:42:32.918510748Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Financial Services Guide",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "KVH",
+      "Netlify",
+      "No-Q",
+      "O2MC Dimml",
+      "SMC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "fiechter-architektur.ch",
     "title": "Home - Architektur Fiechter",
     "business_name": "Architektur Fiechter",
@@ -8604,30 +8630,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "atymic.dev",
-    "title": "Home - atymic.dev",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 67,
-    "tech_spend": 45268,
-    "crawled_at": "2026-04-16T09:49:14.302151356Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "K2F",
-      "KVH",
-      "Netlify",
-      "PHP",
-      "Python",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
     ]
   },
   {
