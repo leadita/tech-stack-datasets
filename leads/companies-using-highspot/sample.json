@@ -1,5 +1,38 @@
 [
   {
+    "domain": "lafronteraempact.com",
+    "title": "Open Enrollment Resource Center",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 36356,
+    "crawled_at": "2026-09-09T17:21:43.383840608Z",
+    "technologies": [
+      "Amazon",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Brainshark",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Express",
+      "Fastly",
+      "Fastly CDN",
+      "Highspot",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PWA",
+      "QUIC",
+      "Seflow Italy",
+      "Sentry",
+      "Thrive Direct",
+      "UTF-8",
+      "Vector Internet Services",
+      "Wix",
+      "Wix Media",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "myrtlebeachtools.com",
     "title": "Coldwell Banker Sea Coast Advantage Myrtle Beach",
     "business_name": "",
@@ -1783,36 +1816,6 @@
       "YouTube",
       "securiti",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "lafronteraempact.com",
-    "title": "Open Enrollment Resource Center",
-    "business_name": "",
-    "country": "",
-    "seo_score": 70,
-    "tech_spend": 94448,
-    "crawled_at": "2026-01-21T01:54:36.754687706Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Brainshark",
-      "Content Delivery Network",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "Highspot",
-      "Microdata for Google Shopping",
-      "PWA",
-      "QUIC",
-      "Thrive Direct",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "eLand",
-      "mlcom"
     ]
   }
 ]
