@@ -1,5 +1,45 @@
 [
   {
+    "domain": "puffadive.com",
+    "title": "Puff a Dive | Dive at Koh Tao Thailand - Fun Dives & Dive Courses",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 10440,
+    "crawled_at": "2026-09-09T08:58:01.676414993Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Aruba",
+      "Barracuda Web App Firewall",
+      "Chakra UI",
+      "Content Delivery Network",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "rivalbevco.com",
+    "title": "Coming Soon | Rival Beverage Co",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-09-08T23:58:09.838820488Z",
+    "technologies": [
+      "Chakra UI",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Netlify",
+      "Next.js",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "maira-consult.com",
     "title": "International legal company Maira Consult",
     "business_name": "",
@@ -12963,51 +13003,6 @@
       "Twitter Ads",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "noomoai.com",
-    "title": "Noomo AI - Memorable Learning Jingles",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 63,
-    "crawled_at": "2026-05-10T14:53:20.011058359Z",
-    "technologies": [
-      "AI Log",
-      "Chakra UI",
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "dibiagg.io",
-    "title": "About | dibiagg.io",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 15468,
-    "crawled_at": "2026-05-10T14:33:21.980625638Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Chakra UI",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Netlify",
-      "Next.js",
-      "PWA",
-      "Pleroma",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "YouTube"
     ]
   }
 ]
