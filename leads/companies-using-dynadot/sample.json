@@ -1,5 +1,25 @@
 [
   {
+    "domain": "josephmartinez.org",
+    "title": "Digital Real Estate Specialist",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 3236,
+    "crawled_at": "2026-09-08T17:38:20.502186522Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Prospective",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "sipg.co.il",
     "title": "An EMDN - SIPG CO IL, Industrial Group Manufacturing Solutions Supply Chain Engineering Infrastructure Projects Technology Services Production Facility Corporate Network",
     "business_name": "",
@@ -103,26 +123,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Website Tonight"
-    ]
-  },
-  {
-    "domain": "www.realissue.net",
-    "title": "Digital Real Estate Specialist",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 3236,
-    "crawled_at": "2026-08-24T06:05:41.691371377Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Prospective",
-      "UTF-8"
     ]
   },
   {
