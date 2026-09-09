@@ -1,15 +1,16 @@
 [
   {
-    "domain": "1ace.online",
+    "domain": "1acecasino.in",
     "title": "1ACE | Cricket Betting & Live Casino Game in India",
     "business_name": "",
-    "country": "CHN",
-    "seo_score": 72,
-    "tech_spend": 4039,
-    "crawled_at": "2026-08-17T18:38:50.742490149Z",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 19039,
+    "crawled_at": "2026-09-09T09:40:36.352671292Z",
     "technologies": [
       "Adult Content",
       "Alternate Protocol",
+      "Amazon WAF Blocked",
       "Baidu Cloud",
       "ByteDance",
       "Coming Soon Page",
@@ -21,6 +22,7 @@
       "Facebook Pixel",
       "Facebook Reseller",
       "Facebook Tag API",
+      "Fireblade",
       "GZIP Module",
       "Gambling Content",
       "GetResponse",
@@ -29,6 +31,7 @@
       "Kwai Conversion Tracking",
       "Pleroma",
       "QUIC",
+      "Tailwind CSS",
       "TikTok Conversion Tracking Pixel",
       "Twitter Ads",
       "UTF-8"
