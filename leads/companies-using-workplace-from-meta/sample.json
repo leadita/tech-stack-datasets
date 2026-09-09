@@ -8950,29 +8950,5 @@
       "YouTube",
       "jQuery"
     ]
-  },
-  {
-    "domain": "australianworkplace.com",
-    "title": "Expert Workplace Investigations & HR Support",
-    "business_name": "Australian Workplace",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 22312,
-    "crawled_at": "2026-01-20T07:31:43.438299651Z",
-    "technologies": [
-      "Corporate Governance and Regulatory Compliance",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Line2",
-      "Microdata for Google Shopping",
-      "PWA",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight",
-      "Workplace from Meta"
-    ]
   }
 ]
