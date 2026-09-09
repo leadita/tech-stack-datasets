@@ -9487,27 +9487,5 @@
       "Vercel",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "rosevola.com",
-    "title": "Rose Giannavola - Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 2308,
-    "crawled_at": "2026-01-20T20:04:49.989145633Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "University or College",
-      "reCAPTCHA"
-    ]
   }
 ]
