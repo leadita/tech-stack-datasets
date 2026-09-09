@@ -1,5 +1,37 @@
 [
   {
+    "domain": "website-seo.co.uk",
+    "title": "Suffolk Web Designer & SEO Specialist | Website-SEO.co.uk",
+    "business_name": "website-seo.co.uk",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 2082,
+    "crawled_at": "2026-09-09T11:54:20.299596117Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "DAV",
+      "Duda",
+      "FormSubmit",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "No-Q",
+      "Perl",
+      "Site Search 360",
+      "Styled Components",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "spot-onsigns.com",
     "title": "Spot-On Signs & Graphics | El Dorado Hills, Cameron Park, Placerville, CA - Custom Signage Company, Business",
     "business_name": "6166 Enterprise Drive # G",
@@ -15986,36 +16018,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "mcmurrichmonteith.com",
-    "title": "McMurrich Monteith Township | Welcome",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 54362,
-    "crawled_at": "2026-04-13T18:56:29.014548419Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "AudioEye",
-      "CloudFront",
-      "Duda",
-      "FormSubmit",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Nginx",
-      "No-Q",
-      "QUIC",
-      "SMC",
-      "Site Search 360",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8"
     ]
   }
 ]
