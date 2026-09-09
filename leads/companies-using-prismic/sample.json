@@ -1,5 +1,28 @@
 [
   {
+    "domain": "oraotca.org",
+    "title": "Regional Observatory of the Amazon - OTCA",
+    "business_name": "",
+    "country": "BRA",
+    "seo_score": 62,
+    "tech_spend": 420,
+    "crawled_at": "2026-09-09T17:59:29.534073427Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "Prismic",
+      "UTF-8",
+      "Vercel",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "robertagennuso.com",
     "title": "Roberta Gennuso",
     "business_name": "",
@@ -13611,35 +13634,6 @@
       "Prismic",
       "Svelte",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "lemoncarrentals.in",
-    "title": "Home Page",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 65,
-    "tech_spend": 11156,
-    "crawled_at": "2026-04-20T12:30:10.980242106Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Next.js",
-      "Plausible Analytics",
-      "Pleroma",
-      "Prismic",
-      "QUIC",
-      "RM Education",
-      "UTF-8",
-      "Vercel",
-      "WhatsApp Sharing",
-      "jsDelivr"
     ]
   }
 ]
