@@ -1,5 +1,63 @@
 [
   {
+    "domain": "hushlisting.com",
+    "title": "HushListing — The Private Agent-to-Agent Network for Off-Market Opportunities",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 186794,
+    "crawled_at": "2026-09-09T13:30:52.968917302Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Follow Up Boss",
+      "IXACT Contact",
+      "M247",
+      "Next.js",
+      "QUIC",
+      "Salesforce Hosted",
+      "SharpLaunch",
+      "Sierra Interactive",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "waterfrontokanagan.com",
+    "title": "Sell Your Waterfront - Free Evaluations",
+    "business_name": "",
+    "country": "",
+    "seo_score": 82,
+    "tech_spend": 46632,
+    "crawled_at": "2026-09-08T23:06:09.339891147Z",
+    "technologies": [
+      "Apache",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Follow Up Boss",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "RealPage",
+      "Realtor Canada",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "myRealPage"
+    ]
+  },
+  {
     "domain": "wildblueguy.com",
     "title": "WildBlue - Southwest Florida",
     "business_name": "",
@@ -59,41 +117,6 @@
       "ResMan",
       "Silicon Valley Web Hosting",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "bestcondobuys.com",
-    "title": "Vernon Condos For Sale | Townhomes | Vernon Real Estate | Salt Fowler",
-    "business_name": "",
-    "country": "ITA",
-    "seo_score": 82,
-    "tech_spend": 46632,
-    "crawled_at": "2026-09-07T12:43:50.875491125Z",
-    "technologies": [
-      "Apache",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Follow Up Boss",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "RealPage",
-      "Realtor Canada",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "eLand",
-      "myRealPage"
     ]
   },
   {
@@ -13646,30 +13669,6 @@
       "WordPress Multisite",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "insiderbriefs.com",
-    "title": "HushListing — The Private Agent-to-Agent Network for Off-Market Opportunities",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 186794,
-    "crawled_at": "2026-02-17T02:47:16.59683727Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Follow Up Boss",
-      "IXACT Contact",
-      "M247",
-      "Next.js",
-      "QUIC",
-      "Salesforce Hosted",
-      "SharpLaunch",
-      "Sierra Interactive",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   },
   {
