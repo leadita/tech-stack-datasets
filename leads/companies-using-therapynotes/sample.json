@@ -5657,30 +5657,5 @@
       "eClinicalWorks",
       "mlcom"
     ]
-  },
-  {
-    "domain": "therapyscribeai.com",
-    "title": "TherapyScribe AI - Write Therapy Notes in 5 Minutes, Not 45 Minutes",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 1908,
-    "crawled_at": "2026-01-20T22:13:43.429325792Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Next.js",
-      "Tailwind CSS",
-      "TherapyNotes",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
   }
 ]
