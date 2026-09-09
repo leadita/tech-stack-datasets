@@ -1,5 +1,37 @@
 [
   {
+    "domain": "dayonemortgage.com",
+    "title": "First Time Home Loans and VA Home Loans in Greenwood Village, CO | DayOne Mortgage Group",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 4105,
+    "crawled_at": "2026-09-09T06:19:27.866221036Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apache",
+      "Bulma",
+      "CloudFront",
+      "Facebook Customer Chat SDK",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Matomo",
+      "Matomo Tag Manager",
+      "Nationwide Mortgage Licensing System and Registry",
+      "Tailwind CSS",
+      "Trustarc Cookie Consent",
+      "UTF-8",
+      "University or College",
+      "UserWay",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "similacprosensitivestore.com",
     "title": "Products, Infant Formula & Toddler Drinks | Similac®",
     "business_name": "",
@@ -28347,29 +28379,6 @@
       "eLand",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "cnpelectrification.com",
-    "title": "Homepage | Centerpoint Forklift",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 3588,
-    "crawled_at": "2026-04-09T09:23:19.991720347Z",
-    "technologies": [
-      "Bulma",
-      "Content Delivery Network",
-      "Drupal",
-      "Fastly",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "InitiativeS",
-      "QUIC",
-      "Trustarc Cookie Consent",
-      "UTF-8",
-      "eLand"
     ]
   }
 ]
