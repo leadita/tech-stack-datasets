@@ -16280,29 +16280,5 @@
       "WhatsApp Sharing",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "aanayahospitality.com",
-    "title": "Aanaya Hospitality - Explore the globe with travel & tourism",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 65,
-    "tech_spend": 17000,
-    "crawled_at": "2026-01-19T23:12:37.108022981Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LandBot",
-      "Nginx",
-      "QUIC",
-      "UTF-8",
-      "jQuery"
-    ]
   }
 ]
