@@ -1,5 +1,21 @@
 [
   {
+    "domain": "logopedikos.gr",
+    "title": "Αγγελική ΞΥΓΚΑ - Angeliki XYGKA",
+    "business_name": "",
+    "country": "GRC",
+    "seo_score": 52,
+    "tech_spend": 49,
+    "crawled_at": "2026-09-08T22:07:13.187146975Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "noties.space",
     "title": "NoSpace",
     "business_name": "NoSpace",
@@ -8447,40 +8463,6 @@
       "Unix",
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "space8.me",
-    "title": "Léon Becker",
-    "business_name": "Léon Becker",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 49,
-    "crawled_at": "2026-01-20T17:17:15.030703531Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Publii",
-      "Python",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "logopedikos.gr",
-    "title": "Αγγελική ΞΥΓΚΑ - Angeliki XYGKA",
-    "business_name": "",
-    "country": "GRC",
-    "seo_score": 52,
-    "tech_spend": 49,
-    "crawled_at": "2026-01-20T07:13:10.166661826Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   }
 ]
