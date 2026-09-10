@@ -1,5 +1,45 @@
 [
   {
+    "domain": "hjalland.com",
+    "title": "Hjalland | Technical delivery partner for automations, integrations and complicated technical work",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 639213,
+    "crawled_at": "2026-09-10T00:13:04.06381909Z",
+    "technologies": [
+      "1Password",
+      "Adobe Experience Manager",
+      "Apollo IO",
+      "Bitwarden Passwordless",
+      "Calendly",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Directus",
+      "Donorbox",
+      "Fastly CDN",
+      "Fireblade",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Conversion Tracking",
+      "Google Font API",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Netlify",
+      "Oracle Cloud",
+      "QUIC",
+      "Sage Intacct",
+      "Salesforce Hosted",
+      "SolarWinds Service Desk",
+      "UTF-8",
+      "Vercel",
+      "commercetools",
+      "jsDelivr",
+      "monday.com"
+    ]
+  },
+  {
     "domain": "insightaction.ai",
     "title": "Insight Action: The Software Market, Scored by Its Own Customers",
     "business_name": "Insight Action",
@@ -18749,35 +18789,6 @@
       "hCaptcha",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "rigrin.com",
-    "title": "RIGRIN",
-    "business_name": "RIGRIN",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 55889,
-    "crawled_at": "2026-03-06T12:39:32.641396043Z",
-    "technologies": [
-      "17TRACK",
-      "Apture Linking Platform",
-      "Bitwarden Passwordless",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Digital Ocean Spaces",
-      "Express",
-      "GRIN",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Share Link",
-      "Shopify",
-      "Shopify Collabs",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   }
 ]

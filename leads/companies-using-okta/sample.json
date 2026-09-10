@@ -1,5 +1,39 @@
 [
   {
+    "domain": "cavenaghlaw.com.sg",
+    "title": "Home | Cavenagh Law LLP",
+    "business_name": "",
+    "country": "SGP",
+    "seo_score": 60,
+    "tech_spend": 100126,
+    "crawled_at": "2026-09-09T22:42:02.060596966Z",
+    "technologies": [
+      "Adobe Analytics",
+      "Adobe Marketing Cloud",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Apache",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Content Delivery Network",
+      "DemDex",
+      "DoubleClick Bid Manager",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "LinkedIn Pixel",
+      "Okta",
+      "Siteimprove",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "arsys.es"
+    ]
+  },
+  {
     "domain": "brayton.loans",
     "title": "Brayton Farr - Sr. Loan Officer in Traverse City, MI",
     "business_name": "",
@@ -19519,37 +19553,6 @@
       "University or College",
       "Yelp Badge",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "cavenaghlaw.com.sg",
-    "title": "Home | Cavenagh Law LLP",
-    "business_name": "",
-    "country": "SGP",
-    "seo_score": 60,
-    "tech_spend": 65126,
-    "crawled_at": "2026-01-21T07:02:44.034894861Z",
-    "technologies": [
-      "Adobe Marketing Cloud",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Apache",
-      "CloudFront",
-      "Content Delivery Network",
-      "DemDex",
-      "DoubleClick Bid Manager",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "LinkedIn Pixel",
-      "Okta",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "arsys.es"
     ]
   }
 ]
