@@ -1,5 +1,32 @@
 [
   {
+    "domain": "keithkeating.com",
+    "title": "Dr. Keith Keating | Keynote Speaker, Advisor, Author",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 21268,
+    "crawled_at": "2026-09-10T04:30:48.152686634Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Creative Cloud WebFonts",
+      "Amazon Widgets",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "InitiativeS",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Pleroma",
+      "QUIC",
+      "TalentLMS",
+      "UTF-8",
+      "University or College",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "estimatingcourse.com",
     "title": "Commercial Drywall & Painting Estimating Courses",
     "business_name": "Carter School of Estimating",
