@@ -474,35 +474,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "kamiabit.com",
-    "title": "kamiab it",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 20,
-    "crawled_at": "2026-01-21T05:43:50.572645874Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Elementor",
-      "EmbedPress",
-      "GZIP Module",
-      "Header, Footer and Blocks for Elementor",
-      "Hello Elementor",
-      "LiteSpeed",
-      "Namecheap",
-      "PHP",
-      "QUIC",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
-    ]
   }
 ]
