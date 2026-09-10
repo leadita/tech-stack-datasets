@@ -5722,33 +5722,5 @@
       "Tailwind CSS",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "chimeranutrition.com",
-    "title": "CHIMERA NUTRITION",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 2904,
-    "crawled_at": "2026-01-22T00:32:49.790866731Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Deliverr",
-      "Fastly",
-      "GoAffPro",
-      "Google Related Website Sites",
-      "Klaviyo",
-      "Microdata for Google Shopping",
-      "Schema Plugin",
-      "Shopify",
-      "Shopify Collabs",
-      "Twitter Ads",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA",
-      "route"
-    ]
   }
 ]
