@@ -1,5 +1,45 @@
 [
   {
+    "domain": "itechvision.in",
+    "title": "Best Web Development Company in India - iTechVision",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 5191,
+    "crawled_at": "2026-09-09T19:30:40.231428533Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Botpress",
+      "CodeIgniter",
+      "Elementor",
+      "EmbedPress",
+      "Font Awesome",
+      "Freepik",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Lazy Load for WordPress",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PHP",
+      "QUIC",
+      "SVG Support",
+      "Sitelinks Search Box",
+      "Twitter Ads",
+      "UTF-8",
+      "WP Rocket",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "petnaturalsupplies.com",
     "title": "Home - PetNaturalSupplies",
     "business_name": "Pet Natural Supplies",
@@ -17888,27 +17928,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "ljstaalgroup.co.za",
-    "title": "LJ Staal Group - Shade and Steel Specialists in Johannesburg",
-    "business_name": "LJ Staal Group",
-    "country": "ZAF",
-    "seo_score": 82,
-    "tech_spend": 4375,
-    "crawled_at": "2026-04-24T22:29:19.996870294Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "Botpress",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Fastly",
-      "FormSubmit",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "UTF-8"
     ]
   }
 ]

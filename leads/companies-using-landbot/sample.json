@@ -16255,30 +16255,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "ayushayurvedacenter.com",
-    "title": "Ayush Authentic Ayurveda therapy Center",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 5600,
-    "crawled_at": "2026-01-21T10:40:13.568231857Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google My Business",
-      "LandBot",
-      "QUIC",
-      "StackPath",
-      "Tailwind CSS",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "reCAPTCHA"
-    ]
   }
 ]
