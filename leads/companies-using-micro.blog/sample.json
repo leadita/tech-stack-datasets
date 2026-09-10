@@ -7896,31 +7896,5 @@
       "WordPress Stats",
       "jQuery"
     ]
-  },
-  {
-    "domain": "jonnybarnes.uk",
-    "title": "Front Page « jonnybarnes.uk",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 2520,
-    "crawled_at": "2026-01-21T13:48:47.252982282Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Amazon",
-      "Facebook CDN",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Micro.blog",
-      "Nginx",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "Twitter CDN",
-      "UTF-8",
-      "YouTube",
-      "shadcn ui"
-    ]
   }
 ]

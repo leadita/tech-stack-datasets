@@ -1,5 +1,109 @@
 [
   {
+    "domain": "flamingwaterdrops.com",
+    "title": "FLAMING WATERDROPS",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 22600,
+    "crawled_at": "2026-09-10T08:02:38.451593422Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Blogger",
+      "ETranslate",
+      "Express",
+      "GTranslate",
+      "GZIP Module",
+      "Google",
+      "Google Adsense",
+      "Google Cloud CDN",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Ntent",
+      "OFFSET",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "claytonwatch.org",
+    "title": "Clayton Watch",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 7160,
+    "crawled_at": "2026-09-10T05:16:10.512493144Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Blogger",
+      "Donorbox",
+      "ETranslate",
+      "Express",
+      "GTranslate",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Maps",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Investor Relations",
+      "NFOrce Internet",
+      "Neighborhoods",
+      "Ntent",
+      "Parcel",
+      "QUIC",
+      "Say what",
+      "UTF-8",
+      "University or College",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "speakanddeliver.com",
+    "title": "Speak & Deliver - A Public Speaking Blog For the Speaking Public",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 65,
+    "tech_spend": 30300,
+    "crawled_at": "2026-09-09T20:09:43.123996051Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Automattic",
+      "Blogger",
+      "Express",
+      "GZIP Module",
+      "Google Adsense",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Reseller",
+      "Ntent",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "anniesrecords.com",
+    "title": "Annie's Records",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 6000,
+    "crawled_at": "2026-09-09T12:44:41.498073736Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Blogger",
+      "Express",
+      "GZIP Module",
+      "Google Adsense",
+      "Google My Business",
+      "Google Recommendations AI",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "blog.ted.gg",
     "title": "I'm Ted",
     "business_name": "",
@@ -573,25 +677,6 @@
       "Python",
       "UTF-8",
       "Unix"
-    ]
-  },
-  {
-    "domain": "anniesrecords.net",
-    "title": "Annie's Records",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 6000,
-    "crawled_at": "2026-09-08T00:41:05.010043478Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Blogger",
-      "Express",
-      "GZIP Module",
-      "Google Adsense",
-      "Google My Business",
-      "Google Recommendations AI",
-      "UTF-8"
     ]
   },
   {
@@ -15734,79 +15819,6 @@
       "YouTube",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "ganapathytimes.in",
-    "title": "Ganapathy Times",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 50,
-    "tech_spend": 6200,
-    "crawled_at": "2026-06-15T02:23:19.968107093Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Blogger",
-      "Express",
-      "GZIP Module",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Ntent",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "foxparalegalservices.com",
-    "title": "Fox Paralegal Services",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 57406,
-    "crawled_at": "2026-06-14T09:32:19.968432241Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Blogger",
-      "Corporate Governance and Regulatory Compliance",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Reseller",
-      "NFOrce Internet",
-      "Netvibes",
-      "Ntent",
-      "Perl",
-      "Prospective",
-      "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "hfhf.us",
-    "title": "Healthy Feet are Happy Feet",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 35000,
-    "crawled_at": "2026-06-14T05:23:19.969556315Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Blogger",
-      "Express",
-      "GZIP Module",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Reseller",
-      "KVH",
-      "Ntent",
-      "UTF-8"
     ]
   }
 ]

@@ -1,5 +1,96 @@
 [
   {
+    "domain": "aret-coachworx.com",
+    "title": "ARET Coachworx",
+    "business_name": "ARET Coachworx",
+    "country": "ITA",
+    "seo_score": 82,
+    "tech_spend": 2889,
+    "crawled_at": "2026-09-10T08:25:42.240079359Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Parallels Plesk Panel",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "libereco.fr",
+    "title": "Libereco",
+    "business_name": "Libereco",
+    "country": "GBR",
+    "seo_score": 35,
+    "tech_spend": 49,
+    "crawled_at": "2026-09-10T06:26:10.963721087Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "copenhagenphotographer.com",
+    "title": "Copenhagen Photographer",
+    "business_name": "Copenhagen Photographer",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 112,
+    "crawled_at": "2026-09-10T05:16:10.504792645Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Apture Linking Platform",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Harbor",
+      "Microdata for Google Shopping",
+      "OpenSSL",
+      "Publii",
+      "UTF-8",
+      "Unix",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "aeoon.com",
+    "title": "Industrial Digital Textile Printing Systems | aeoon",
+    "business_name": "aeoon",
+    "country": "AUT",
+    "seo_score": 82,
+    "tech_spend": 2495,
+    "crawled_at": "2026-09-09T18:41:17.973173242Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Angular",
+      "Flat Icon",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Plausible Analytics",
+      "Publii",
+      "Shutterstock",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "logopedikos.gr",
     "title": "Αγγελική ΞΥΓΚΑ - Angeliki XYGKA",
     "business_name": "",
@@ -8394,75 +8485,6 @@
       "Tailwind CSS",
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "aret-coachworx.com",
-    "title": "ARET Coachworx",
-    "business_name": "ARET Coachworx",
-    "country": "ITA",
-    "seo_score": 82,
-    "tech_spend": 2889,
-    "crawled_at": "2026-01-21T16:01:37.298323606Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Parallels Plesk Panel",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "libereco.fr",
-    "title": "Libereco",
-    "business_name": "Libereco",
-    "country": "GBR",
-    "seo_score": 40,
-    "tech_spend": 49,
-    "crawled_at": "2026-01-21T14:16:43.436844808Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Publii",
-      "Ubuntu",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "copenhagenphotographer.com",
-    "title": "Copenhagen Photographer",
-    "business_name": "Copenhagen Photographer",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 2589,
-    "crawled_at": "2026-01-21T13:16:58.973669799Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Apture Linking Platform",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Harbor",
-      "Microdata for Google Shopping",
-      "OpenSSL",
-      "Publii",
-      "UTF-8",
-      "Unix",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
     ]
   }
 ]
