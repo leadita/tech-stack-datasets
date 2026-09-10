@@ -1,18 +1,21 @@
 [
   {
-    "domain": "metrics.dating",
+    "domain": "yabbarov.com",
     "title": "Grafana",
     "business_name": "",
     "country": "",
-    "seo_score": 40,
+    "seo_score": 45,
     "tech_spend": 1200,
-    "crawled_at": "2026-09-07T23:23:35.954905316Z",
+    "crawled_at": "2026-09-10T14:00:04.977758203Z",
     "technologies": [
       "Barchart",
       "Express",
+      "GZIP Module",
       "GitHub Hosting",
       "Grafana",
-      "UTF-8"
+      "Nginx",
+      "UTF-8",
+      "Ubuntu"
     ]
   },
   {
