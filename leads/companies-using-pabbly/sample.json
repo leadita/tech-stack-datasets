@@ -6299,27 +6299,5 @@
       "Tailwind CSS",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "maharajadmc.com",
-    "title": "Maharaja DMC - Luxury Travel Redefined",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 55,
-    "tech_spend": 306,
-    "crawled_at": "2026-01-21T15:10:43.429360269Z",
-    "technologies": [
-      "Aruba",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Pabbly",
-      "QUIC",
-      "Tailwind CSS",
-      "Unsplash",
-      "eLand"
-    ]
   }
 ]
