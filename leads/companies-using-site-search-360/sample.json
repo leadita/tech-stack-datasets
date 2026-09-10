@@ -1,5 +1,29 @@
 [
   {
+    "domain": "designspecialties.com",
+    "title": "High Quality Fireplace Doors | Design Specialties",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 52766,
+    "crawled_at": "2026-09-10T13:13:24.654610065Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "AudioEye",
+      "CloudFront",
+      "Duda",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Nginx",
+      "No-Q",
+      "SMC",
+      "Site Search 360",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "website-seo.co.uk",
     "title": "Suffolk Web Designer & SEO Specialist | Website-SEO.co.uk",
     "business_name": "website-seo.co.uk",
@@ -15979,44 +16003,6 @@
       "Twitter Ads",
       "UTF-8",
       "Yandex Hosting",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "brgrealtycorp.com",
-    "title": "BRG Realty | Silicon Valley California Real Estate",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 6362,
-    "crawled_at": "2026-04-13T20:41:19.986009502Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Cisco/Arrowpoint Content Service Switch",
-      "CloudFront",
-      "Duda",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "FormSubmit",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Investor Relations",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "No-Q",
-      "Site Search 360",
-      "Tailwind CSS",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
       "YouTube"
     ]
   }
