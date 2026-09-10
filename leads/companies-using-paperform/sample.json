@@ -1,5 +1,29 @@
 [
   {
+    "domain": "terraone.ca",
+    "title": "TerraOne | 4 Season Property Contractors",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 18019,
+    "crawled_at": "2026-09-10T15:03:23.632773193Z",
+    "technologies": [
+      "Fireblade",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Nginx",
+      "Paperform",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "gm-intl.com",
     "title": "Home - Gold Medal",
     "business_name": "",
@@ -18411,34 +18435,6 @@
       "Thank You",
       "UTF-8",
       "Visual Studio"
-    ]
-  },
-  {
-    "domain": "treeremovalsllc.com",
-    "title": "Jax Tree Removal - Contact Us",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 468,
-    "crawled_at": "2026-04-21T20:38:20.027831373Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Duda",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Conversion Tracking",
-      "Google Customer Reviews",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "Paperform",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
