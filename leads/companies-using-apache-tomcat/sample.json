@@ -13886,34 +13886,5 @@
       "Tailwind CSS",
       "jQuery"
     ]
-  },
-  {
-    "domain": "mustafatufan.de",
-    "title": "Mustafa Tufan",
-    "business_name": "",
-    "country": "TUR",
-    "seo_score": 72,
-    "tech_spend": 12200,
-    "crawled_at": "2026-01-21T11:28:21.858794482Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Buttons Official",
-      "GitHub Hosting",
-      "Krypt Technologies",
-      "Medium",
-      "Oracle Cloud",
-      "Python",
-      "StackPath",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube"
-    ]
   }
 ]
