@@ -1,5 +1,28 @@
 [
   {
+    "domain": "tugboatholdings.com",
+    "title": "Tugboat Holdings",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 4142,
+    "crawled_at": "2026-09-10T17:46:37.386241365Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Angular",
+      "CloudFront",
+      "Content Delivery Network",
+      "Envoy",
+      "Freshteam",
+      "Harbor",
+      "Next.js",
+      "Styled Components"
+    ]
+  },
+  {
     "domain": "yubotrading.hk",
     "title": "Yubo Trading | A tech-driven trading firm based in Hong Kong",
     "business_name": "",
@@ -3286,29 +3309,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "tugboatholdings.com",
-    "title": "Tugboat Holdings",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 894,
-    "crawled_at": "2026-01-22T00:32:49.790575793Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Angular",
-      "CloudFront",
-      "Content Delivery Network",
-      "Envoy",
-      "Freshteam",
-      "Harbor",
-      "Next.js",
-      "Styled Components"
     ]
   }
 ]
