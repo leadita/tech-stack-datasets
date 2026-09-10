@@ -869,24 +869,5 @@
       "Yellow Book",
       "YouTube"
     ]
-  },
-  {
-    "domain": "snovesslan.se",
-    "title": "T�nndalens Vesseltrafik Sn�vesslan - Sn�vesslan.se",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 142,
-    "crawled_at": "2026-01-21T11:25:43.431308188Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Apache",
-      "DAV",
-      "Foxit",
-      "Google Cloud DNS",
-      "Google Font API",
-      "ISO/IEC 8859",
-      "jQuery"
-    ]
   }
 ]

@@ -1,5 +1,31 @@
 [
   {
+    "domain": "suresourcecapital.com",
+    "title": "Sure Source Capital",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 2760,
+    "crawled_at": "2026-09-10T04:41:35.775402657Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DocuSign",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "InitiativeS",
+      "QUIC",
+      "Tailwind CSS",
+      "Thank You",
+      "htmlcodex.com",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "thebluefolderguy.com",
     "title": "The Blue Folder Guy",
     "business_name": "",
@@ -11716,33 +11742,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "suresourcecapital.com",
-    "title": "Sure Source Capital",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 2760,
-    "crawled_at": "2026-01-21T12:48:25.057851037Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DocuSign",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "InitiativeS",
-      "LiteSpeed",
-      "QUIC",
-      "Tailwind CSS",
-      "Thank You",
-      "htmlcodex.com",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]
