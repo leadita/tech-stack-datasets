@@ -3114,41 +3114,5 @@
       "jQuery Pin It Button for Images",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "hunterkenthomes.com",
-    "title": "Hunter Kent",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 57,
-    "tech_spend": 4938,
-    "crawled_at": "2026-01-21T11:42:03.066119859Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Apache",
-      "Apture Linking Platform",
-      "CoreUI",
-      "Fastly CDN",
-      "GZIP Module",
-      "GetResponse",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Homes.com CMS",
-      "New Relic",
-      "Phusion Passenger Enterprise",
-      "PropertyBase",
-      "QUIC",
-      "Rackspace CDN",
-      "Subversion",
-      "UTF-8",
-      "reCAPTCHA"
-    ]
   }
 ]
