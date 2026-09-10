@@ -1,5 +1,26 @@
 [
   {
+    "domain": "advantagekit.org",
+    "title": "Welcome | AdvantageKit",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 2400,
+    "crawled_at": "2026-09-10T02:24:45.474012494Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Perl",
+      "Python",
+      "To Top",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "fasttrack.sh",
     "title": "Hello from FastTrack | FastTrack",
     "business_name": "",
@@ -12000,27 +12021,6 @@
       "Walmart",
       "Woo Themes",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "advantagescope.org",
-    "title": "Welcome | AdvantageScope",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 7400,
-    "crawled_at": "2026-04-06T06:11:44.733487711Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Perl",
-      "To Top",
-      "UTF-8",
-      "Vector Internet Services"
     ]
   },
   {

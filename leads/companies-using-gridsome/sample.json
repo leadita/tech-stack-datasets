@@ -1,5 +1,23 @@
 [
   {
+    "domain": "hersonhn.now.sh",
+    "title": "Herson Salinas",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 156,
+    "crawled_at": "2026-09-10T02:15:57.242238633Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Gridsome",
+      "IcoMoon",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "builtwithinertia.com",
     "title": "Showcase - Built With InertiaJs",
     "business_name": "",
@@ -10163,24 +10181,6 @@
       "monday.com",
       "nopCommerce",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "herson.hn",
-    "title": "Herson Salinas",
-    "business_name": "",
-    "country": "",
-    "seo_score": 25,
-    "tech_spend": 156,
-    "crawled_at": "2026-04-05T01:56:19.97796437Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Gridsome",
-      "IcoMoon",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {
