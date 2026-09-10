@@ -1,5 +1,69 @@
 [
   {
+    "domain": "changemadesimple.com.au",
+    "title": "AI-Powered Change Management Australia — Change Made Simple",
+    "business_name": "Change Made Simple",
+    "country": "",
+    "seo_score": 82,
+    "tech_spend": 154896,
+    "crawled_at": "2026-09-10T11:11:02.70228911Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "Fontshare",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Oracle Cloud",
+      "Salesforce Hosted",
+      "UTF-8",
+      "University or College",
+      "Web3Forms"
+    ]
+  },
+  {
+    "domain": "uszatech.co.uk",
+    "title": "UszaTech",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-09-10T09:36:26.021169086Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fontshare",
+      "Pico CSS",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "transforged.com",
+    "title": "TransForged - Your Journey to Sustainable Body Transformation | Free Early Adopter Access",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 15280,
+    "crawled_at": "2026-09-10T06:40:14.381344244Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adult Content",
+      "Alpine.js",
+      "Apache",
+      "Apture Linking Platform",
+      "Express",
+      "Fontshare",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "MailChimp",
+      "Microdata for Google Shopping",
+      "Tailwind CSS",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "kostergarden.se",
     "title": "Kostergården – Hotel & Restaurant on the Koster Islands",
     "business_name": "",
@@ -13287,92 +13351,6 @@
       "Vercel",
       "Wistia",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "prathamjain.com",
-    "title": "Pratham Jain — Changemaker",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 951,
-    "crawled_at": "2026-05-18T20:17:19.975113139Z",
-    "technologies": [
-      "ArvanCloud",
-      "Content Delivery Network",
-      "ElementUI",
-      "Fastly",
-      "Fontshare",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "InitiativeS",
-      "Python",
-      "UTF-8",
-      "YouTube",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "freezil.com",
-    "title": "Freezil — Creative Agency in Doha, Qatar | Animation & Branding",
-    "business_name": "Freezil",
-    "country": "MYS",
-    "seo_score": 82,
-    "tech_spend": 2400,
-    "crawled_at": "2026-05-18T18:17:19.975635992Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Bunny Fonts",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Fontshare",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Tailwind CSS",
-      "University or College",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "tracklified.com",
-    "title": "Tracklified — Your Receipts. Digital. Together. Finally.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 6363,
-    "crawled_at": "2026-05-18T17:26:19.995911024Z",
-    "technologies": [
-      "Amazon",
-      "App Store",
-      "Apture Linking Platform",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Envoy",
-      "Fontshare",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "Google Recommendations AI",
-      "Google Tag Manager",
-      "Next.js",
-      "Ntent",
-      "Storyblocks",
-      "Stripe",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
