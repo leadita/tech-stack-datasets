@@ -1,5 +1,35 @@
 [
   {
+    "domain": "essiedavisdaily.com",
+    "title": "Essie Davis Daily – The latest news on Australian actress Essie Davis",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 1835,
+    "crawled_at": "2026-09-09T19:26:45.112041419Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Automattic",
+      "ButterCMS",
+      "Content Delivery Network",
+      "DAV",
+      "EmbedPress",
+      "Google Customer Reviews",
+      "Instagram Follow Button",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "Nginx",
+      "Perl",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "flowersfromu.com",
     "title": "Flower Delivery - Send Flowers - From You Flowers",
     "business_name": "From You Flowers",
@@ -2120,37 +2150,6 @@
       "UTF-8",
       "WordPress",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "essiedavisdaily.com",
-    "title": "Essie Davis Daily – The latest news on Australian actress Essie Davis",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 51835,
-    "crawled_at": "2026-01-21T03:58:57.807388193Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Automattic",
-      "ButterCMS",
-      "Content Delivery Network",
-      "DAV",
-      "EmbedPress",
-      "Google Customer Reviews",
-      "Instagram Follow Button",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Nginx",
-      "Perl",
-      "SMC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "YouTube"
     ]
   }
 ]
