@@ -1,5 +1,40 @@
 [
   {
+    "domain": "weyweyweb.com",
+    "title": "Wey Wey Web Conference - For UI Lovers",
+    "business_name": "",
+    "country": "ESP",
+    "seo_score": 87,
+    "tech_spend": 296892,
+    "crawled_at": "2026-09-11T13:54:03.372282148Z",
+    "technologies": [
+      "AI Log",
+      "Apture Linking Platform",
+      "Astro",
+      "Corporate Governance and Regulatory Compliance",
+      "Financial Services Guide",
+      "Fireblade",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "K2F",
+      "Linktree",
+      "LiteSpeed",
+      "No-Q",
+      "Subversion",
+      "Tailwind CSS",
+      "Tally",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "Workday",
+      "YouTube",
+      "reCAPTCHA",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "sakata-events.eu",
     "title": "Events - Sakata Vegetables Europe",
     "business_name": "Sakata Vegetables Europe",
@@ -19316,41 +19351,6 @@
       "Vercel",
       "Workday",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "gvhvet.com",
-    "title": "Gainesville Veterinary Hospital | Best Veterinary Care in Ga...",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 265030,
-    "crawled_at": "2026-04-28T03:05:20.000518681Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CloudFront",
-      "Content Delivery Network",
-      "DAV",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "HubSpot Conversations",
-      "Hubspot",
-      "Instagram Follow Button",
-      "Next.js",
-      "Ntent",
-      "Pleroma",
-      "QUIC",
-      "Radix UI",
-      "Tailwind CSS",
-      "UTF-8",
-      "Workday"
     ]
   }
 ]
