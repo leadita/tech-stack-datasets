@@ -1,5 +1,39 @@
 [
   {
+    "domain": "baybridgehalf.com",
+    "title": "Bay Bridge Half & 5K // Oakland, California // Mascot Sports",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 92,
+    "tech_spend": 6813,
+    "crawled_at": "2026-09-11T02:22:43.17410515Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Express",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Help Scout",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "chipdrop.in",
     "title": "Free Wood Chip Mulch from ChipDrop",
     "business_name": "",
@@ -22730,32 +22764,6 @@
       "Twitter Ads",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "intensitymagic.com",
-    "title": "IntensityMagic",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 453,
-    "crawled_at": "2026-05-01T19:32:19.988412628Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CloudFront",
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Help Scout",
-      "Next.js",
-      "Ntent",
-      "Tailwind CSS",
-      "UTF-8",
-      "Unsplash",
-      "Vercel"
     ]
   }
 ]
