@@ -1,5 +1,47 @@
 [
   {
+    "domain": "ricj.ru",
+    "title": "Чэнду Жуйсидзе Интеллектуальные Технологии Ко., Лтд.",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 82,
+    "tech_spend": 8400,
+    "crawled_at": "2026-09-11T05:49:55.236021536Z",
+    "technologies": [
+      "ADFOX",
+      "Alternate Protocol",
+      "Commission Junction",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "Schema Plugin",
+      "UTF-8",
+      "Yandex Hosting",
+      "Yandex Metrika",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "derikbadman.com",
+    "title": "Derik Badman",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": "",
+    "crawled_at": "2026-09-11T05:39:46.346917402Z",
+    "technologies": [
+      "AdMan Direct",
+      "Commission Junction",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Nginx",
+      "Ubuntu",
+      "itch.io"
+    ]
+  },
+  {
     "domain": "wombology.net",
     "title": "Home | Wombology",
     "business_name": "",
@@ -3706,34 +3748,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "cd-ricj.com",
-    "title": "Parking Bollard, Automatic Flag Pole, Bike Parking Rack - Ruisijie",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 77,
-    "tech_spend": 15000,
-    "crawled_at": "2026-05-14T08:53:19.982960211Z",
-    "technologies": [
-      "Commission Junction",
-      "Express",
-      "Fancybox for WordPress",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Conversion Tracking",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Mautic",
-      "Nginx",
-      "QUIC",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "YouTube",
-      "eLand",
-      "jQuery"
     ]
   },
   {
@@ -13520,49 +13534,6 @@
       "Yelp Badge",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "ricj.ru",
-    "title": "Чэнду Жуйсидзе Интеллектуальные Технологии Ко., Лтд.",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 77,
-    "tech_spend": 8440,
-    "crawled_at": "2026-01-22T10:32:16.922994595Z",
-    "technologies": [
-      "ADFOX",
-      "Commission Junction",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "Schema Plugin",
-      "UTF-8",
-      "Yandex Hosting",
-      "Yandex Metrika",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "derikbadman.com",
-    "title": "Derik Badman",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": "",
-    "crawled_at": "2026-01-22T10:22:53.631851386Z",
-    "technologies": [
-      "AdMan Direct",
-      "Commission Junction",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Nginx",
-      "Ubuntu",
-      "itch.io"
     ]
   }
 ]
