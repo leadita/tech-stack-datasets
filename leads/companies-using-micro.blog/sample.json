@@ -1,5 +1,33 @@
 [
   {
+    "domain": "jpmiller.net",
+    "title": "Justin P. Miller – Attorney ✦ Writer",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 70,
+    "tech_spend": 767,
+    "crawled_at": "2026-09-10T19:31:19.615390243Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Automattic",
+      "EmbedPress",
+      "GZIP Module",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "Micro.blog",
+      "PHP",
+      "Theme In WP",
+      "Twenty Seventeen",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "davidmckeitch.com",
     "title": "David McKeitch Sound Services",
     "business_name": "",
@@ -7867,34 +7895,6 @@
       "Twitter Ads",
       "UTF-8",
       "WordPress"
-    ]
-  },
-  {
-    "domain": "jpmiller.net",
-    "title": "Justin P. Miller – Attorney ✦ Writer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 60,
-    "crawled_at": "2026-01-22T02:19:48.502277964Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Automattic",
-      "EmbedPress",
-      "GZIP Module",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Micro.blog",
-      "PHP",
-      "Theme In WP",
-      "Twenty Seventeen",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "jQuery"
     ]
   }
 ]

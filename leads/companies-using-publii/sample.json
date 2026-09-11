@@ -1,5 +1,30 @@
 [
   {
+    "domain": "taleofthreads.com",
+    "title": "Tale of Threads",
+    "business_name": "Tale of Threads",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 2549,
+    "crawled_at": "2026-09-11T10:56:55.473842723Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "aret-coachworx.com",
     "title": "ARET Coachworx",
     "business_name": "ARET Coachworx",
@@ -8440,51 +8465,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "taleofthreads.com",
-    "title": "Tale of Threads",
-    "business_name": "Tale of Threads",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 2549,
-    "crawled_at": "2026-01-22T14:52:43.445430877Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "manasadentalclinic.com",
-    "title": "Dental Excellence. Compassionate Care. - Manasa Dental Clinic",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 377,
-    "crawled_at": "2026-01-22T09:27:54.317919165Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Pixabay",
-      "Publii",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   }
 ]
