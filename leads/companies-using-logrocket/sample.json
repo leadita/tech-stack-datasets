@@ -1,5 +1,35 @@
 [
   {
+    "domain": "cleeqai.co",
+    "title": "Read, Write, Tweet & Research Smarter with AI",
+    "business_name": "CleeqAI",
+    "country": "GBR",
+    "seo_score": 67,
+    "tech_spend": 2148,
+    "crawled_at": "2026-09-10T23:26:39.09536912Z",
+    "technologies": [
+      "AI Log",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Headless UI",
+      "LogRocket",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "Twitter Analytics",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "baltictennis.lt",
     "title": "Baltic tennis - Apie Mus",
     "business_name": "",
