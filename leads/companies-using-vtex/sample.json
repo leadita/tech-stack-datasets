@@ -1,5 +1,25 @@
 [
   {
+    "domain": "katherine-magalhaes.com",
+    "title": "Katherine de Magalhães",
+    "business_name": "",
+    "country": "ESP",
+    "seo_score": 67,
+    "tech_spend": 78980,
+    "crawled_at": "2026-09-10T20:23:22.542192416Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Framer Sites",
+      "Google",
+      "Google Cloud CDN",
+      "KVH",
+      "Ntent",
+      "VTEX Personalization",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
     "domain": "marcelovicentegc.com",
     "title": "@marcelovicentegc",
     "business_name": "",
@@ -1619,26 +1639,6 @@
       "commercetools",
       "eLand",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "katherine-magalhaes.com",
-    "title": "Katherine de Magalhães",
-    "business_name": "",
-    "country": "ESP",
-    "seo_score": 77,
-    "tech_spend": 78980,
-    "crawled_at": "2026-01-22T03:08:40.274108858Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Framer Sites",
-      "Google",
-      "Google Cloud CDN",
-      "KVH",
-      "Ntent",
-      "VTEX Personalization",
-      "Yandex Hosting",
-      "Zeald"
     ]
   }
 ]
