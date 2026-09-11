@@ -1,5 +1,55 @@
 [
   {
+    "domain": "kamlasater.com",
+    "title": "Home | Kam Lasater | Professional Explorer",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 2400,
+    "crawled_at": "2026-09-11T19:03:01.011822996Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "Federal Deposit Insurance Corporation",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Perl",
+      "Python",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "dynamodbtoolbox.com",
+    "title": "DynamoDB-Toolbox | Lightweight and type-safe query builder for DynamoDB and TypeScript",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 2400,
+    "crawled_at": "2026-09-11T06:29:45.034213028Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon Link Enchancer",
+      "Amazon Widgets",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "advantagekit.org",
     "title": "Welcome | AdvantageKit",
     "business_name": "",
@@ -12764,41 +12814,6 @@
       "Shopify",
       "Shopify Collabs",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "koyuton.com",
-    "title": "Hello from Koyuton Technologies | Koyuton Technologies",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 600,
-    "crawled_at": "2026-04-02T04:50:20.011075469Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "Perl",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "3hodltech.com",
-    "title": "3USD: The Future of Stablecoins | 3USD: The Future of Stablecoins",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2026-04-02T03:38:19.995746501Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
