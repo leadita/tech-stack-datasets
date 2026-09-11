@@ -1,5 +1,40 @@
 [
   {
+    "domain": "wann.be",
+    "title": "WANN – Agency",
+    "business_name": "",
+    "country": "BEL",
+    "seo_score": 62,
+    "tech_spend": 43304,
+    "crawled_at": "2026-09-11T01:31:21.686440777Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Apple Pay JS",
+      "Contact Form Plugin",
+      "Contento",
+      "Elementor",
+      "EmbedPress",
+      "Envoy",
+      "Fireblade",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Muffin Group",
+      "PHP",
+      "QUIC",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "tampanails.com",
     "title": "Tampa Nails Salon in Florida | Pedicure, Manicure & Nail Art",
     "business_name": "Tampa Nails",
@@ -10615,35 +10650,6 @@
       "WordPress Multisite",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "bellydanceeshop.com",
-    "title": "www.bellydanceeshop.combelly dance costumes,belly dance dress,EDC dress,festival clothing,carnival costumes, carnival dress clothing,feathers colthing,wire bra,",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 76168,
-    "crawled_at": "2026-01-21T22:13:10.437630421Z",
-    "technologies": [
-      "AliExpress",
-      "Alternate Protocol",
-      "Apple Pay JS",
-      "Aruba",
-      "Cart.com",
-      "Cloudflare",
-      "Combell",
-      "DAV",
-      "Express",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Subversion",
-      "UTF-8",
-      "eLand",
-      "jQuery"
     ]
   }
 ]

@@ -1,5 +1,31 @@
 [
   {
+    "domain": "carhireexcess.com.au",
+    "title": "Car Hire Excess Insurance | Cheap Quotes Fast",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 15720,
+    "crawled_at": "2026-09-10T11:57:53.685793756Z",
+    "technologies": [
+      "Adyen",
+      "AutoComplete",
+      "Better Lead Generation Services",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Fireblade",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Schema Plugin",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "saintlouischessconference.com",
     "title": "The 2026 Saint Louis Chess Conference",
     "business_name": "",
@@ -6052,31 +6078,6 @@
       "UTF-8",
       "WhatsApp Sharing",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "carhireexcess.com.au",
-    "title": "Car Hire Excess Insurance | Cheap Quotes Fast",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 15720,
-    "crawled_at": "2026-01-21T19:18:23.683134903Z",
-    "technologies": [
-      "Adyen",
-      "AutoComplete",
-      "Better Lead Generation Services",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fireblade",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Schema Plugin",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
