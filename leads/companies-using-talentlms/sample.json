@@ -9742,40 +9742,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "mazaama.in",
-    "title": "CASHBACK DISCOUNT",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 60,
-    "tech_spend": 2809,
-    "crawled_at": "2026-01-22T11:49:43.441191528Z",
-    "technologies": [
-      "Amazon Widgets",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "ElementUI",
-      "Fastly",
-      "Freepik",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Forms",
-      "Google Looker Studio",
-      "Google My Business",
-      "Hive.co",
-      "Ntent",
-      "QUIC",
-      "TalentLMS",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress"
-    ]
   }
 ]
