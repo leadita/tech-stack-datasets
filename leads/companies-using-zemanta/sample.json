@@ -1,5 +1,38 @@
 [
   {
+    "domain": "fwrickmeyers.com",
+    "title": "Cultural Creative for Conscious Evolution | F.W. Rick Meyers",
+    "business_name": "F.W. Rick Meyers",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 22900,
+    "crawled_at": "2026-09-11T06:07:12.571837166Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Divi",
+      "Elegant Themes",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Sitelinks Search Box",
+      "The SEO Framework",
+      "UTF-8",
+      "WP Rocket",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "Zemanta",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "thegymdock.com",
     "title": "The Gym Dock | First class fitness facility based in Ballynahinch",
     "business_name": "",
@@ -38992,39 +39025,6 @@
       "pixfuture Reseller",
       "vi",
       "vidoomy Direct"
-    ]
-  },
-  {
-    "domain": "fwrickmeyers.com",
-    "title": "Cultural Creative for Conscious Evolution | F.W. Rick Meyers",
-    "business_name": "F.W. Rick Meyers",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 22781,
-    "crawled_at": "2026-01-22T10:49:43.433353702Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Divi",
-      "Elegant Themes",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Sitelinks Search Box",
-      "The SEO Framework",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "Zemanta",
-      "jQuery"
     ]
   }
 ]
