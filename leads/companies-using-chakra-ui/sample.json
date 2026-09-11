@@ -1,5 +1,91 @@
 [
   {
+    "domain": "blockleader.io",
+    "title": "Block Leader",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 57,
+    "tech_spend": 7700,
+    "crawled_at": "2026-09-11T13:34:58.762364772Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Chakra UI",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "Fireblade",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "compassconstruction.com.au",
+    "title": "Compass Construction",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 72,
+    "tech_spend": 1293,
+    "crawled_at": "2026-09-11T11:06:30.888845958Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Formspree",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "UTF-8",
+      "Unsplash",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "papwrap.com",
+    "title": "Pap Wrap - Food Wrapping Paper",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 240,
+    "crawled_at": "2026-09-10T23:36:23.85222784Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Instagram Follow Button",
+      "Next.js",
+      "QUIC",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "jvpc.nl",
+    "title": "De JVPC verbindt, versterkt en vertegenwoordigt",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 1746,
+    "crawled_at": "2026-09-10T18:36:22.121246804Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Headless UI",
+      "Instagram Follow Button",
+      "Netlify",
+      "Next.js",
+      "No-Q",
+      "Pleroma",
+      "Sanity",
+      "Tailwind CSS",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "trywurknow.com",
     "title": "Workforce Management Software for Staffing | WurkNow",
     "business_name": "",
@@ -12899,103 +12985,6 @@
       "Yandex Metrika",
       "YouTube",
       "Zeald"
-    ]
-  },
-  {
-    "domain": "nooakronqvist.com",
-    "title": "Nooa Kronqvist - Homepage",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 3,
-    "crawled_at": "2026-05-10T20:05:20.012629128Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Next.js",
-      "UTF-8",
-      "University or College",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "nextchainx.io",
-    "title": "AI & Blockchain Engineering Company | NextChainX",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 200,
-    "crawled_at": "2026-05-10T19:47:19.997665972Z",
-    "technologies": [
-      "3 Products",
-      "Apache",
-      "Apture Linking Platform",
-      "Chakra UI",
-      "Content Delivery Network",
-      "Corporate Governance and Regulatory Compliance",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Next.js",
-      "PWA",
-      "Pleroma",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "getrightshift.com",
-    "title": "Rightshift — Custom AI Agents That Automate Your Workflows",
-    "business_name": "Rightshift",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 152680,
-    "crawled_at": "2026-05-10T19:29:20.028102733Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Salesforce Hosted",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "gaia.ng",
-    "title": "Gaia Spa",
-    "business_name": "",
-    "country": "NGA",
-    "seo_score": 67,
-    "tech_spend": 8524,
-    "crawled_at": "2026-05-10T18:11:19.982751754Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Fastly",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Unsplash",
-      "Vector Internet Services",
-      "shadcn ui"
     ]
   }
 ]

@@ -1,5 +1,60 @@
 [
   {
+    "domain": "laodongtienluong.com",
+    "title": "Lao Động & Tiền Lương - Lao Động & Tiền Lương",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 89,
+    "crawled_at": "2026-09-11T06:39:52.820761272Z",
+    "technologies": [
+      "EmbedPress",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "Menu Icons by ThemeIsle",
+      "Microdata for Google Shopping",
+      "PHP",
+      "QUIC",
+      "Semantic UI",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
+    "domain": "getprioritize.com",
+    "title": "Prioritize: Habits & Priority Manager App",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 2440,
+    "crawled_at": "2026-09-10T22:31:17.655788152Z",
+    "technologies": [
+      "Alternate Protocol",
+      "App Store",
+      "Apture Linking Platform",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "PWA",
+      "Semantic UI",
+      "Sitelinks Search Box",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "minemydeal.com",
     "title": "MineMyDeal - Grab Verified Promo Codes in 2026",
     "business_name": "",
@@ -14635,44 +14690,6 @@
       "YouTube",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "bitchbase.com",
-    "title": "Welcome to the Bitchbase!",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": "",
-    "crawled_at": "2026-04-20T13:38:19.98931687Z",
-    "technologies": [
-      "GZIP Module",
-      "Semantic UI",
-      "Twitter Ads"
-    ]
-  },
-  {
-    "domain": "renginiuservisas.lt",
-    "title": "Renginių servisas",
-    "business_name": "",
-    "country": "LTU",
-    "seo_score": 62,
-    "tech_spend": 2029,
-    "crawled_at": "2026-04-20T09:08:20.018152754Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "ChronoEngine",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "PHP",
-      "Pico CSS",
-      "Semantic UI",
-      "UTF-8",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
