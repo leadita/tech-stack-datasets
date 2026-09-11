@@ -1,5 +1,40 @@
 [
   {
+    "domain": "fasttrackbenefitsandinsurance.com",
+    "title": "Health Insurance | Seminole County | 888-595-1372",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 82,
+    "tech_spend": 22502,
+    "crawled_at": "2026-09-11T04:29:30.538089784Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Duda",
+      "ETranslate",
+      "Fireblade",
+      "FormSubmit",
+      "GZIP Module",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Perl",
+      "QUIC",
+      "Sherpa",
+      "Site Search 360",
+      "Storyblocks",
+      "Styled Components",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8",
+      "UserWay"
+    ]
+  },
+  {
     "domain": "designspecialties.com",
     "title": "High Quality Fireplace Doors | Design Specialties",
     "business_name": "",
@@ -15975,35 +16010,6 @@
       "Site Search 360",
       "UTF-8",
       "Yandex Hosting"
-    ]
-  },
-  {
-    "domain": "nef203.org",
-    "title": "Naperville Education Foundation",
-    "business_name": "Naperville Education Foundation",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 27268,
-    "crawled_at": "2026-04-14T01:02:34.352444935Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "Baidu Cloud",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Prospective",
-      "Python",
-      "QUIC",
-      "Site Search 360",
-      "Twitter Ads",
-      "UTF-8",
-      "Yandex Hosting",
-      "YouTube"
     ]
   }
 ]
