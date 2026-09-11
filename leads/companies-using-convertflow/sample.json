@@ -1,12 +1,12 @@
 [
   {
-    "domain": "rvdirectnorthwest.com",
+    "domain": "forestrivernorthcarolina.com",
     "title": "Camping World: Shop Top RVs @America's #1 RV Dealer",
     "business_name": "",
     "country": "USA",
-    "seo_score": 77,
+    "seo_score": 82,
     "tech_spend": 195504,
-    "crawled_at": "2026-09-10T20:36:08.719890057Z",
+    "crawled_at": "2026-09-11T19:22:49.886344151Z",
     "technologies": [
       "AWS WAF Challenge",
       "Alternate Protocol",
@@ -35,6 +35,37 @@
       "Visual Website Optimizer",
       "YouTube",
       "securiti"
+    ]
+  },
+  {
+    "domain": "actorsresourceguru.com",
+    "title": "Acting Resource Guru",
+    "business_name": "Acting Resource Guru",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 2351,
+    "crawled_at": "2026-09-11T14:51:30.015036181Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ConvertFlow",
+      "EmbedPress",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Tag Manager",
+      "Kajabi",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Parallels Plesk Panel",
+      "Theme In WP",
+      "UTF-8",
+      "Ultra",
+      "WordPress",
+      "WordPress Multisite",
+      "Zendesk Embeddables",
+      "jQuery"
     ]
   },
   {
@@ -7304,37 +7335,6 @@
       "UTF-8",
       "University or College",
       "accessiBe"
-    ]
-  },
-  {
-    "domain": "actingresourceguru.com",
-    "title": "Acting Resource Guru",
-    "business_name": "Acting Resource Guru",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 2351,
-    "crawled_at": "2026-05-02T01:26:20.001981871Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ConvertFlow",
-      "EmbedPress",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "Kajabi",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Parallels Plesk Panel",
-      "Theme In WP",
-      "UTF-8",
-      "Ultra",
-      "WordPress",
-      "WordPress Multisite",
-      "Zendesk Embeddables",
-      "jQuery"
     ]
   },
   {
@@ -16937,28 +16937,6 @@
       "WordPress",
       "WordPress Multisite",
       "WordPress Stats",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "honeydao.com",
-    "title": "HoneyDAO - Decentralized VC",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 1203,
-    "crawled_at": "2026-01-22T08:06:24.670915608Z",
-    "technologies": [
-      "Cloudflare",
-      "Content Delivery Network",
-      "ConvertFlow",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Medium",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
       "jQuery"
     ]
   }
