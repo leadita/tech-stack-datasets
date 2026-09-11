@@ -1,5 +1,57 @@
 [
   {
+    "domain": "totalbalancespinalhealth.co.uk",
+    "title": "Workshops/Classes, Chiropractic and more | Total Balance Spinal Health",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 24580,
+    "crawled_at": "2026-09-11T03:25:27.620453308Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon CloudFront",
+      "Clinic Sites",
+      "CloudFront",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Jane App",
+      "Perl",
+      "Ruby on Rails",
+      "Sentry",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "ktmedicalaesthetics.com",
+    "title": "Medical Aesthetics in Tiverton, ON | KT Medical Aesthetics",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 67,
+    "tech_spend": 9580,
+    "crawled_at": "2026-09-10T22:10:47.207365279Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Clinic Sites",
+      "CloudFront",
+      "Content Delivery Network",
+      "DAV",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Jane App",
+      "Ruby on Rails",
+      "Sentry",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "time2getcharged.com",
     "title": "Ultrasound IV Placement | Kent, WA | The Charging Station",
     "business_name": "",
