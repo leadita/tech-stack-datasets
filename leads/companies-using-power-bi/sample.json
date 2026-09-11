@@ -1,5 +1,85 @@
 [
   {
+    "domain": "amplifystats.com",
+    "title": "AmplifyStats - Hobbyist Sports Stats",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 47,
+    "tech_spend": 783,
+    "crawled_at": "2026-09-11T04:29:30.542260346Z",
+    "technologies": [
+      "Fastly",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "Power BI",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "drentheinfeitenencijfers.nl",
+    "title": "Dit is Drenthe | Feiten en cijfers",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 80,
+    "tech_spend": 5580,
+    "crawled_at": "2026-09-11T02:39:18.408669957Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "PHP",
+      "PWA",
+      "Parallels Plesk Panel",
+      "Power BI",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "Twitter CDN",
+      "UTF-8",
+      "Vector Internet Services",
+      "WordPress",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "awowole.com",
+    "title": "Data Expert",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 342,
+    "crawled_at": "2026-09-10T13:13:24.656834567Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Astra Theme",
+      "Elementor",
+      "EmbedPress",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "PHP",
+      "Power BI",
+      "Python",
+      "Theme In WP",
+      "UTF-8",
+      "University or College",
+      "WPForms",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Related Posts",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "sage-partner-marketing-hub.com",
     "title": "Sign in | Sage Partner Marketing Hub",
     "business_name": "",
@@ -4431,25 +4511,6 @@
       "YouTube",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "amplifybi.com",
-    "title": "AmplifyBI - Power BI Solutions for the Energy Industry",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 5080,
-    "crawled_at": "2026-06-03T18:29:19.968070801Z",
-    "technologies": [
-      "Fastly",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "Power BI",
-      "Python",
-      "QUIC"
     ]
   },
   {
@@ -19290,69 +19351,6 @@
       "UTF-8",
       "Wangsu",
       "Website Tonight"
-    ]
-  },
-  {
-    "domain": "ctaction.org",
-    "title": "Commuters Take Action",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 69972,
-    "crawled_at": "2026-04-05T06:59:20.008001347Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "ClickOn",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Linktree",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Neighborhoods",
-      "Ntent",
-      "Power BI",
-      "QUIC",
-      "SMC",
-      "Sapper",
-      "Schema Plugin",
-      "Subversion",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "joananalytics.com",
-    "title": "Joan C. Chukwuemeka",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 16680,
-    "crawled_at": "2026-04-05T06:22:56.967606365Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Camp",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google My Business",
-      "Next.js",
-      "Pleroma",
-      "Power BI",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]

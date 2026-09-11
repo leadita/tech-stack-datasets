@@ -1,5 +1,38 @@
 [
   {
+    "domain": "aungheinhtet.com",
+    "title": "Home - Aung Hein Htet",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 75,
+    "tech_spend": 2818,
+    "crawled_at": "2026-09-10T12:06:47.28909263Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "Express",
+      "GTranslate",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Hello Elementor",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PHP",
+      "Perl",
+      "Tableau",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "amCharts",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "kirbywhite.io",
     "title": "Kirby White, Ph.D.",
     "business_name": "",
@@ -18053,28 +18086,6 @@
       "University or College",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "hydrusambiental.cl",
-    "title": "HYDRUS - Consultores Medio Ambiente -",
-    "business_name": "",
-    "country": "CHL",
-    "seo_score": 70,
-    "tech_spend": 3427,
-    "crawled_at": "2026-04-19T22:41:20.013948466Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Font Awesome",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Tableau",
-      "WhatsApp Sharing"
     ]
   }
 ]
