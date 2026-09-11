@@ -1,12 +1,12 @@
 [
   {
-    "domain": "laptop-cover.com",
+    "domain": "laptopkeyboards.cn",
     "title": "Wholesale B2B Laptop Parts - Keyboards Fans Screens & More | LEPUS TECH | B2B Bulk Laptop Parts Supplier",
     "business_name": "",
     "country": "CHN",
     "seo_score": 77,
     "tech_spend": 1540,
-    "crawled_at": "2026-09-10T15:03:23.625185011Z",
+    "crawled_at": "2026-09-11T06:18:31.2074553Z",
     "technologies": [
       "17TRACK",
       "4PX",
@@ -24,6 +24,45 @@
       "Tailwind CSS",
       "UPS",
       "UTF-8"
+    ]
+  },
+  {
+    "domain": "technoverseelectrical.com",
+    "title": "Technoverse Electric | Global Supplier | Stockiest | Consultants Of Electrical | Solar & Industrial Automation Products",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 73779,
+    "crawled_at": "2026-09-11T00:12:51.529740822Z",
+    "technologies": [
+      "Apache",
+      "Aramex",
+      "CDN JS",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DHL Parcel",
+      "Express",
+      "FedEx",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SMC",
+      "TNT",
+      "Tailwind CSS",
+      "Thank You",
+      "UPS",
+      "University or College",
+      "Wangsu",
+      "WhatsApp Sharing",
+      "YouTube",
+      "htmlcodex.com",
+      "jsDelivr"
     ]
   },
   {
@@ -19328,37 +19367,6 @@
       "iAPPS",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "texmetals.com",
-    "title": "Texas Precious Metals: Buy Gold & Silver with Low Premiums",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 27600,
-    "crawled_at": "2026-04-09T16:35:19.979968248Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "DC74",
-      "FedEx",
-      "Fireblade",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Material-UI",
-      "NFOrce Internet",
-      "Next.js",
-      "Perl",
-      "QUIC",
-      "UPS",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "YouTube"
     ]
   }
 ]

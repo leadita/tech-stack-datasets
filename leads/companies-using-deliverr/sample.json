@@ -1,5 +1,31 @@
 [
   {
+    "domain": "kevinxing.ca",
+    "title": "Kevin Xing",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 75,
+    "tech_spend": 12400,
+    "crawled_at": "2026-09-11T10:12:05.388402832Z",
+    "technologies": [
+      "Bulma",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "Deliverr",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Adsense",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google Reseller",
+      "Instagram Follow Button",
+      "Parcel",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "activantcapital.com",
     "title": "Activant",
     "business_name": "Activant Capital",
@@ -5695,32 +5721,6 @@
       "hCaptcha",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "kevinxing.ca",
-    "title": "Kevin Xing",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 65,
-    "tech_spend": 13348,
-    "crawled_at": "2026-01-22T14:16:43.427477994Z",
-    "technologies": [
-      "Bulma",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "Deliverr",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Adsense",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google Reseller",
-      "Instagram Follow Button",
-      "Shopify",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
