@@ -1,5 +1,55 @@
 [
   {
+    "domain": "easternbluebirdtravel.com",
+    "title": "the vogel twins",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 2307,
+    "crawled_at": "2026-09-12T11:02:06.046899597Z",
+    "technologies": [
+      "Amazon Widgets",
+      "B12",
+      "Coming Soon Page",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Perl",
+      "QUIC",
+      "University or College",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "stewarts-automotive.com",
+    "title": "Stewart's Automotive - (217) 235-4709",
+    "business_name": "",
+    "country": "JPN",
+    "seo_score": 77,
+    "tech_spend": 1108,
+    "crawled_at": "2026-09-12T01:20:04.343579106Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Perl",
+      "QUIC",
+      "University or College"
+    ]
+  },
+  {
     "domain": "mauisuzukilessons.com",
     "title": "Maui Suzuki Lessons - Violin, Viola, and Cello Instruction",
     "business_name": "",
@@ -8727,29 +8777,6 @@
     ]
   },
   {
-    "domain": "stewartsautomotivemattoon.com",
-    "title": "Stewart's Automotive - (217) 235-4709",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 77,
-    "tech_spend": 1108,
-    "crawled_at": "2026-01-30T23:06:27.614973277Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "University or College"
-    ]
-  },
-  {
     "domain": "ronaldkluchinarchitects.com",
     "title": "Cleveland Architects | Ronald Kluchin Architects, Inc",
     "business_name": "",
@@ -9420,33 +9447,6 @@
       "Google My Business",
       "Perl",
       "QUIC"
-    ]
-  },
-  {
-    "domain": "easternbluebirdtravel.com",
-    "title": "the vogel twins",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 2307,
-    "crawled_at": "2026-01-23T07:09:26.868950416Z",
-    "technologies": [
-      "Amazon Widgets",
-      "B12",
-      "Coming Soon Page",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Perl",
-      "QUIC",
-      "University or College",
-      "YouTube",
-      "reCAPTCHA"
     ]
   }
 ]
