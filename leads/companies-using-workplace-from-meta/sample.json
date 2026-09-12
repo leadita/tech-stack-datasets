@@ -1,5 +1,38 @@
 [
   {
+    "domain": "zabpresentations.com",
+    "title": "Zabpresentation.com",
+    "business_name": "zabpresentations",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 5907,
+    "crawled_at": "2026-09-12T01:33:54.787944156Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "Essential Addons for Elementor",
+      "Essentials Theme",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "Workplace from Meta",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "hr-workplace.com",
     "title": "HR Workplace",
     "business_name": "",
@@ -8916,39 +8949,6 @@
       "Workplace from Meta",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "zabpresentations.com",
-    "title": "Zabpresentation.com",
-    "business_name": "zabpresentations",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 5907,
-    "crawled_at": "2026-01-23T00:46:43.433792255Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Essential Addons for Elementor",
-      "Essentials Theme",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "Workplace from Meta",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
