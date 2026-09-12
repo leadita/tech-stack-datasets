@@ -1,5 +1,25 @@
 [
   {
+    "domain": "malecaregiver.com",
+    "title": "Digital Real Estate Specialist",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 3236,
+    "crawled_at": "2026-09-11T19:03:01.014925708Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Prospective",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "laspinas.org",
     "title": "Welcome to PhilippineProperties.com",
     "business_name": "",
@@ -63,26 +83,6 @@
       "Microdata for Google Shopping",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "josephmartinez.org",
-    "title": "Digital Real Estate Specialist",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 3236,
-    "crawled_at": "2026-09-08T17:38:20.502186522Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Prospective",
-      "UTF-8"
     ]
   },
   {
