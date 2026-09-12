@@ -7866,35 +7866,5 @@
       "University or College",
       "WordPress"
     ]
-  },
-  {
-    "domain": "iwebthings.com",
-    "title": "i.webthings hub",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 885,
-    "crawled_at": "2026-01-23T07:01:43.427496819Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DAV",
-      "ElementUI",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Jekyll",
-      "License Buttons",
-      "Micro.blog",
-      "PHP",
-      "Pinboard",
-      "Pixabay",
-      "Simple-Jekyll-Search",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress"
-    ]
   }
 ]

@@ -1,5 +1,58 @@
 [
   {
+    "domain": "noteapps.ca",
+    "title": "Note Apps",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 5460,
+    "crawled_at": "2026-09-11T22:19:20.692582256Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Content Delivery Network",
+      "DAV",
+      "Fastly",
+      "GZIP Module",
+      "Ghost",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "Perl",
+      "QUIC",
+      "Stripe",
+      "UTF-8",
+      "Yandex Hosting",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "tuxphones.com",
+    "title": "TuxPhones - Linux phones, tablets and portable devices",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 1680,
+    "crawled_at": "2026-09-11T12:50:54.247748012Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apyl",
+      "ArvanCloud",
+      "Express",
+      "GZIP Module",
+      "Ghost",
+      "Google Related Website Sites",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "Render",
+      "Telegram",
+      "Twitter Ads",
+      "UTF-8",
+      "Ubuntu",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "labbett.net",
     "title": "Patrick Labbett",
     "business_name": "",
@@ -13176,56 +13229,6 @@
       "University or College",
       "Unsplash",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "jeddouglas.law",
-    "title": "jeddouglas.law",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 9532,
-    "crawled_at": "2026-04-06T02:11:19.995187313Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Bunny Fonts",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Fireblade",
-      "Ghost",
-      "Microdata for Google Shopping",
-      "RM Education",
-      "UTF-8",
-      "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "neiledwards.law",
-    "title": "neiledwards.law",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 23299,
-    "crawled_at": "2026-04-06T02:02:19.99453291Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Bunny Fonts",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Fireblade",
-      "Ghost",
-      "Microdata for Google Shopping",
-      "RM Education",
-      "UTF-8",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]
