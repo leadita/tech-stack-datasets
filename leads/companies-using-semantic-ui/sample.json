@@ -1,5 +1,53 @@
 [
   {
+    "domain": "mail.jus.gr",
+    "title": "Kiriaki Kipselidou, LL.M. - Lawyer in Greece",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": "",
+    "crawled_at": "2026-09-12T10:09:32.925378537Z",
+    "technologies": [
+      "Apache",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "PWA",
+      "Semantic UI",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "jayanandtech.in",
+    "title": "Jayanand Technology",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 67,
+    "tech_spend": 3238,
+    "crawled_at": "2026-09-12T00:39:30.839796461Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Dun and BradStreet",
+      "Font Awesome",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "PHP",
+      "Semantic UI",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "laodongtienluong.com",
     "title": "Lao Động & Tiền Lương - Lao Động & Tiền Lương",
     "business_name": "",
@@ -14640,54 +14688,6 @@
       "StackPath",
       "Tailwind CSS",
       "UTF-8",
-      "jQuery",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "vcfmw.org",
-    "title": "Home | Vintage Computer Festival Midwest",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": "",
-    "crawled_at": "2026-04-20T15:56:20.037254141Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Apache",
-      "Debian",
-      "GitHub Hosting",
-      "GravCMS",
-      "Instagram Follow Button",
-      "PHP",
-      "Semantic UI",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "gotriplex.com",
-    "title": "TRIPPLE-X ADVENTURES",
-    "business_name": "",
-    "country": "THA",
-    "seo_score": 60,
-    "tech_spend": 63,
-    "crawled_at": "2026-04-20T14:33:03.276241227Z",
-    "technologies": [
-      "Apache",
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "PHP",
-      "Semantic UI",
-      "UTF-8",
-      "YouTube",
       "jQuery",
       "jsDelivr"
     ]
