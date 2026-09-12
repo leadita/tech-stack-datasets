@@ -1,5 +1,33 @@
 [
   {
+    "domain": "studio23labs.com",
+    "title": "Studio Navigator | AI Operating Layer for Your Business",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 10252,
+    "crawled_at": "2026-09-12T07:48:55.021725505Z",
+    "technologies": [
+      "1Password",
+      "Asana",
+      "ClickUp",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Gusto",
+      "Next.js",
+      "Notion",
+      "Okta",
+      "QUIC",
+      "Slack",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "figamelounges.com",
     "title": "figamelounges.com",
     "business_name": "",
@@ -19535,43 +19563,6 @@
       "jQuery",
       "jsDelivr",
       "vFairs"
-    ]
-  },
-  {
-    "domain": "edenvermortgage.com",
-    "title": "Rona Lewis - Branch Manager in Englewood, CO",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 138236,
-    "crawled_at": "2026-01-23T02:17:22.694353889Z",
-    "technologies": [
-      "Adobe Marketing Cloud",
-      "Aimtell",
-      "Amazon CloudFront",
-      "Birdeye",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Contentstack",
-      "Fastly",
-      "Figma",
-      "Financial Services Guide",
-      "Fireblade",
-      "Google Cloud DNS",
-      "Google Maps",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Nationwide Mortgage Licensing System and Registry",
-      "Next.js",
-      "Okta",
-      "OneTrust Domain Verification",
-      "Pleroma",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
