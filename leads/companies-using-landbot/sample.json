@@ -1,5 +1,31 @@
 [
   {
+    "domain": "factorx.mx",
+    "title": "FACTOR X",
+    "business_name": "",
+    "country": "MEX",
+    "seo_score": 65,
+    "tech_spend": 2000,
+    "crawled_at": "2026-09-12T00:30:49.278878023Z",
+    "technologies": [
+      "Apache",
+      "Bulma",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LandBot",
+      "PHP",
+      "Tailwind CSS",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "hippolyt.it",
     "title": "Home | Hippolyt",
     "business_name": "",
@@ -16212,31 +16238,6 @@
       "WordPress Multisite",
       "Yelp Badge",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "factorx.mx",
-    "title": "FACTOR X",
-    "business_name": "",
-    "country": "MEX",
-    "seo_score": 60,
-    "tech_spend": 487,
-    "crawled_at": "2026-01-23T00:04:43.441913815Z",
-    "technologies": [
-      "Apache",
-      "Bulma",
-      "Express",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LandBot",
-      "PHP",
-      "Tailwind CSS",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "YouTube"
     ]
   }
 ]

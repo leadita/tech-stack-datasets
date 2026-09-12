@@ -9722,37 +9722,5 @@
       "YouTube",
       "jQuery"
     ]
-  },
-  {
-    "domain": "edmondhomeloans.com",
-    "title": "Genesys Real Estate: Local Experts in OK | Genesys Real Estate",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 17794,
-    "crawled_at": "2026-01-22T20:13:43.439649216Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Dialogflow",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nationwide Mortgage Licensing System and Registry",
-      "Neighborhoods",
-      "OpenResty",
-      "Perl",
-      "Pexels",
-      "QUIC",
-      "Unsplash",
-      "YouTube",
-      "Zyro"
-    ]
   }
 ]
