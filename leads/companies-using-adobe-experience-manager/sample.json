@@ -1,5 +1,45 @@
 [
   {
+    "domain": "nextmediax.com",
+    "title": "Grow Your Brand with Webello - Web & Digital Marketing Solutions",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 82,
+    "tech_spend": 305228,
+    "crawled_at": "2026-09-12T10:18:06.443413867Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Experience Manager",
+      "Alternate Protocol",
+      "Contact Form Plugin",
+      "Contento",
+      "EmbedPress",
+      "Fireblade",
+      "Gambling Content",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Image Hotspot by DevVN",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Page scroll to id",
+      "Q2W3 Fixed Widget",
+      "Schema Plugin",
+      "Slider Revolution",
+      "Theme In WP",
+      "UTF-8",
+      "University or College",
+      "WPBakery",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Related Posts",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "aritorbin.com",
     "title": "Ari Torbin",
     "business_name": "",
@@ -18368,36 +18408,6 @@
       "WordPress Stats",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "codewithdanish.dev",
-    "title": "Danish Mohammed — Portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 520040,
-    "crawled_at": "2026-05-03T17:44:20.001629347Z",
-    "technologies": [
-      "Adobe Experience Manager",
-      "Amazon",
-      "Apture Linking Platform",
-      "Better Lead Generation Services",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Fireblade",
-      "GitHub Hosting",
-      "Microsoft Azure",
-      "Next.js",
-      "PHP",
-      "Python",
-      "SAP",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "Wagtail CMS",
-      "shadcn ui"
     ]
   }
 ]
