@@ -1,5 +1,51 @@
 [
   {
+    "domain": "rdev.co.nz",
+    "title": "Cross-Platform App Development in NZ | R-DEV Limited",
+    "business_name": "R-DEV Limited",
+    "country": "NZL",
+    "seo_score": 72,
+    "tech_spend": 15000,
+    "crawled_at": "2026-09-14T21:23:44.37689861Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Docusaurus",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "codemodder.io",
+    "title": "Introduction | Codemodder",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 4879,
+    "crawled_at": "2026-09-14T04:17:47.822696627Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Express",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Perl",
+      "Python",
+      "Slack",
+      "To Top",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "timbrook.tech",
     "title": "7imbrook",
     "business_name": "",
@@ -12747,53 +12793,6 @@
       "Jetpack",
       "Perl",
       "QUIC",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "letsgojh.site",
-    "title": "Home | Dev.JH",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2026-04-03T14:47:20.001546386Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Perl",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "unrealon.com",
-    "title": "B2B Web Parsing Platform | Uneralon - B2B Web Parsing Platform",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 15280,
-    "crawled_at": "2026-04-03T10:08:20.001157156Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Better Lead Generation Services",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fireblade",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "PHP",
-      "PWA",
-      "Perl",
-      "Python",
       "UTF-8",
       "Vercel"
     ]

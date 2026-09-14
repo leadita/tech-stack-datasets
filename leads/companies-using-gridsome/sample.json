@@ -1,5 +1,116 @@
 [
   {
+    "domain": "robdekruijf.nl",
+    "title": "Rob de Kruijf - Gestalttherapie in Krimpen aan den IJsel, Rotterdam en Den Hoorn",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 72,
+    "tech_spend": 78899,
+    "crawled_at": "2026-09-14T16:00:10.129068629Z",
+    "technologies": [
+      "DAV",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Gridsome",
+      "M247",
+      "Nginx",
+      "Paessler",
+      "QUIC",
+      "SMC",
+      "Silicon Valley Web Hosting",
+      "UTF-8",
+      "Ubuntu"
+    ]
+  },
+  {
+    "domain": "tcit.fr",
+    "title": "Thomas Citharel",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 63,
+    "crawled_at": "2026-09-14T09:21:57.124106862Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "License Buttons",
+      "Nginx",
+      "Tailwind CSS",
+      "Twitter Ads"
+    ]
+  },
+  {
+    "domain": "beambop.com",
+    "title": "BeamBop",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-09-14T09:02:22.0864872Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Gridsome",
+      "Netlify",
+      "QUIC",
+      "SiteW",
+      "UTF-8",
+      "WordPress"
+    ]
+  },
+  {
+    "domain": "cpm-weber.at",
+    "title": "Weber Fertigungstechnik",
+    "business_name": "",
+    "country": "AUT",
+    "seo_score": 72,
+    "tech_spend": 816,
+    "crawled_at": "2026-09-14T04:47:42.218294946Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Content Delivery Network",
+      "Gridsome",
+      "Netlify",
+      "Plausible Analytics",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "crediva.bg",
+    "title": "Crediva.bg 🏡 Кредит с ипотека за Потребителски и Бизнес цели - Crediva",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 100270,
+    "crawled_at": "2026-09-14T03:08:00.688257799Z",
+    "technologies": [
+      "Apache",
+      "DAV",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Gridsome",
+      "Idaq",
+      "K2F",
+      "KVH",
+      "No-Q",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "thesojournerproject.org",
     "title": "The Sojourner Project - The Sojourner Project",
     "business_name": "",
@@ -3992,25 +4103,6 @@
       "Google Tag Manager",
       "Gridsome",
       "Netlify",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "weber-fertigungstechnik.at",
-    "title": "Weber Fertigungstechnik",
-    "business_name": "",
-    "country": "AUT",
-    "seo_score": 67,
-    "tech_spend": 816,
-    "crawled_at": "2026-05-14T05:47:20.011583012Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Content Delivery Network",
-      "Gridsome",
-      "Netlify",
-      "Plausible Analytics",
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
@@ -11918,94 +12010,6 @@
       "Netlify",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "justlisted.io",
-    "title": "Home - JUSTLISTED.IO",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 243,
-    "crawled_at": "2026-02-19T06:10:10.225483393Z",
-    "technologies": [
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Netlify",
-      "PWA",
-      "StackPath",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "apartment.loans",
-    "title": "Apartment Loans",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 8440,
-    "crawled_at": "2026-02-18T14:13:36.667989737Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Express",
-      "Federal Deposit Insurance Corporation",
-      "Gridsome",
-      "Prospective",
-      "QUIC",
-      "Segment",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "meganrodgers.me",
-    "title": "Home | Megan Rodgers",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 63,
-    "crawled_at": "2026-02-16T17:43:42.15706659Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Schema Plugin",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "wento.eu",
-    "title": "Wento - new energy",
-    "business_name": "",
-    "country": "POL",
-    "seo_score": 62,
-    "tech_spend": 16200,
-    "crawled_at": "2026-02-15T19:02:23.496899557Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Fireblade",
-      "Google My Business",
-      "Gridsome",
-      "WordPress",
-      "reCAPTCHA"
     ]
   }
 ]
