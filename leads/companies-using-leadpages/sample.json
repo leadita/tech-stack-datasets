@@ -1,5 +1,37 @@
 [
   {
+    "domain": "coredanceproject.com",
+    "title": "Dance Classes | Paris and Brantford | C.O.R.E. Dance Project",
+    "business_name": "C.O.R.E. Dance Project",
+    "country": "FRA",
+    "seo_score": 82,
+    "tech_spend": 1389,
+    "crawled_at": "2026-09-13T23:30:29.689707715Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Gutenberg Blocks by Kadence Blocks",
+      "Instagram Follow Button",
+      "Kadence WP",
+      "LeadPages",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "PHP",
+      "QUIC",
+      "Sitelinks Search Box",
+      "The SEO Framework",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "automationrehab.com",
     "title": "Home - Automation Rehab",
     "business_name": "",
@@ -2823,38 +2855,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "coredanceproject.com",
-    "title": "Dance Classes | Paris and Brantford | C.O.R.E. Dance Project",
-    "business_name": "C.O.R.E. Dance Project",
-    "country": "FRA",
-    "seo_score": 82,
-    "tech_spend": 1389,
-    "crawled_at": "2026-01-24T05:46:43.452486073Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Gutenberg Blocks by Kadence Blocks",
-      "Instagram Follow Button",
-      "Kadence WP",
-      "LeadPages",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Sitelinks Search Box",
-      "The SEO Framework",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite"
     ]
   }
 ]

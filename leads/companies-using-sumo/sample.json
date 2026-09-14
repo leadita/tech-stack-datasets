@@ -1,5 +1,25 @@
 [
   {
+    "domain": "collectdesign.com.au",
+    "title": "Collect Design",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 52,
+    "tech_spend": 624,
+    "crawled_at": "2026-09-14T03:25:40.407638056Z",
+    "technologies": [
+      "Bulma",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "PHP",
+      "Sumo",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "adjuvants.com.ua",
     "title": "Британські ад'юванти Інтракроп | adjuvants.com.ua",
     "business_name": "",
@@ -27495,44 +27515,6 @@
       "Yahoo Image CDN",
       "YouTube",
       "iZooto"
-    ]
-  },
-  {
-    "domain": "buildingwebsitesfordummies.com",
-    "title": "Building Websites for dummies-The easy, fun and profitable way",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 16410,
-    "crawled_at": "2026-05-01T07:35:19.995094851Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apache",
-      "Better Click To Tweet",
-      "Debian",
-      "EmbedPress",
-      "Facebook Embedded Posts",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google No Site Links Search",
-      "Hashcash",
-      "Hello Bar",
-      "Instagram Follow Button",
-      "MailMunch",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Sumo",
-      "Thank You",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
