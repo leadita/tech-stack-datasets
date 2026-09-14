@@ -1,5 +1,28 @@
 [
   {
+    "domain": "senseworkforce.com",
+    "title": "Home | Sense wearable hardware and intelligent software",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 6440,
+    "crawled_at": "2026-09-14T12:06:09.769708413Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Workplace from Meta"
+    ]
+  },
+  {
     "domain": "xdworkplace.com",
     "title": "Services IT & Solutions numériques – Qualité & expertise technique",
     "business_name": "",
@@ -153,29 +176,6 @@
       "Workplace from Meta",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "sensehrglobal.com",
-    "title": "Home | Sense wearable hardware and intelligent software",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 6440,
-    "crawled_at": "2026-09-04T05:09:55.577231462Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Workplace from Meta"
     ]
   },
   {
