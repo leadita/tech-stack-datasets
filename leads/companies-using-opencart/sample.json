@@ -1,5 +1,94 @@
 [
   {
+    "domain": "oobidoos.co.uk",
+    "title": "Shopper Theme",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 30003,
+    "crawled_at": "2026-09-14T10:39:23.738186007Z",
+    "technologies": [
+      "Cart.com",
+      "DAV",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "OpenCart",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "ddamodar.com",
+    "title": "D Damodar Mithaiwala",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 75000,
+    "crawled_at": "2026-09-14T08:41:03.642914302Z",
+    "technologies": [
+      "Apache",
+      "Cart.com",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "OpenCart",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "embcraft.com",
+    "title": "Embroidery Craft Designs",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 30102,
+    "crawled_at": "2026-09-14T04:17:47.823195018Z",
+    "technologies": [
+      "Cart.com",
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Font API",
+      "OpenCart",
+      "PHP",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "joglekarent.com",
+    "title": "Joglekar Enterprises",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 30003,
+    "crawled_at": "2026-09-13T20:03:51.271978023Z",
+    "technologies": [
+      "Apache",
+      "Cart.com",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "OpenCart",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "funlavie.com",
     "title": "funlavie",
     "business_name": "",
@@ -5398,27 +5487,6 @@
       "Twitter Ads",
       "UTF-8",
       "Ubuntu"
-    ]
-  },
-  {
-    "domain": "chongwah.co.uk",
-    "title": "ChongWah Supermarket",
-    "business_name": "",
-    "country": "MDA",
-    "seo_score": 72,
-    "tech_spend": 75040,
-    "crawled_at": "2026-06-10T09:27:43.72640322Z",
-    "technologies": [
-      "Cart.com",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   },
   {
@@ -12217,83 +12285,6 @@
       "Tailwind CSS",
       "TikTok Conversion Tracking Pixel",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "clothniceshop.com",
-    "title": "Clothniceshop.com | Best Online Shopping Website for Discounted Deals",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 75040,
-    "crawled_at": "2026-05-15T20:35:19.990113543Z",
-    "technologies": [
-      "Cart.com",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "bellorerashbel.co.uk",
-    "title": "Bellore Rashbel",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 103600,
-    "crawled_at": "2026-05-15T19:20:19.982290159Z",
-    "technologies": [
-      "Apache",
-      "Arastta",
-      "Cart.com",
-      "Ethy",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Onyx Internet",
-      "OpenCart",
-      "PHP",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "volcasports.com",
-    "title": "VOLCA SPORTS",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 90040,
-    "crawled_at": "2026-05-15T18:41:19.995856182Z",
-    "technologies": [
-      "Cart.com",
-      "Fireblade",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "OpenCart",
-      "PrestaShop",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
