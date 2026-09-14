@@ -1,5 +1,51 @@
 [
   {
+    "domain": "fehrl.org",
+    "title": "Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 34068,
+    "crawled_at": "2026-09-14T09:59:16.077202553Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "CacheFly",
+      "CacheFly CDN",
+      "Fastly",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "PHP",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "qcix.net",
+    "title": "About QCIX – Quad Cities Internet Exchange",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 10040,
+    "crawled_at": "2026-09-13T18:07:16.148960752Z",
+    "technologies": [
+      "Apache",
+      "CacheFly CDN",
+      "DAV",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Harbor",
+      "Ubuntu"
+    ]
+  },
+  {
     "domain": "jiaensports.com",
     "title": "JiaEn Sports Factory – Custom Sportswear Manufacturer since 2006",
     "business_name": "",
