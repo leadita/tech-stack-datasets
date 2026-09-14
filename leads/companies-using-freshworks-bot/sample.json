@@ -1,5 +1,40 @@
 [
   {
+    "domain": "truepositive.eu",
+    "title": "Truepositive.eu Smart Cameras",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 7842,
+    "crawled_at": "2026-09-14T09:21:57.146548862Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "Font Awesome",
+      "FreeCSSTemplates",
+      "Freshworks Bot",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "PHP",
+      "StackPath",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "chartwell-medical.co.uk",
     "title": "Chartwell Medical – Accredited Medco Medical Report Organisation",
     "business_name": "",
@@ -24012,38 +24047,6 @@
       "Vimeo",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "ecoindia.co.in",
-    "title": "ECO India - A Google Partner Digital Marketing Agency",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 70,
-    "tech_spend": 30115,
-    "crawled_at": "2026-04-20T18:51:54.005853756Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "Content Delivery Network",
-      "Fastly",
-      "Freshworks Bot",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Customer Reviews",
-      "Google Font API",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Tag Manager",
-      "HubSpot Conversations",
-      "Hubspot",
-      "Newsletter for Wordpress",
-      "SendPulse",
-      "Tailwind CSS",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
