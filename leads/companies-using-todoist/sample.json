@@ -2263,47 +2263,5 @@
       "Vercel",
       "YouTube"
     ]
-  },
-  {
-    "domain": "fijiaaron.com",
-    "title": "Fijiaaron – Testing around the world",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 94783,
-    "crawled_at": "2026-01-24T19:31:43.440277137Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Automattic",
-      "BatCache",
-      "Calendly",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "DAV",
-      "EmbedPress",
-      "Fastly",
-      "FormSubmit",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "KVH",
-      "Nginx",
-      "Perl",
-      "Python",
-      "QUIC",
-      "SMC",
-      "Share Link",
-      "Shore",
-      "Tailwind CSS",
-      "Thank You",
-      "Todoist",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "YouTube"
-    ]
   }
 ]
