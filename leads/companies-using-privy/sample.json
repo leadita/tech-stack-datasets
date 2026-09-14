@@ -1,5 +1,37 @@
 [
   {
+    "domain": "cemetery-light.com",
+    "title": "Grave Light | Memorial Light | Church Supply Warehouse – Light-Grave",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 3088,
+    "crawled_at": "2026-09-14T02:36:27.048349465Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "BLR",
+      "Baidu Cloud",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google Related Website Sites",
+      "NFOrce Internet",
+      "Privy",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "Thank You",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8",
+      "Yandex Hosting",
+      "YouTube",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "michaeljanetis.com",
     "title": "Michael Janetis",
     "business_name": "Michael Janetis",
@@ -20904,44 +20936,6 @@
       "hCaptcha",
       "reCAPTCHA",
       "route"
-    ]
-  },
-  {
-    "domain": "crankshaftroasters.com",
-    "title": "Crankshaft Roasters | Specialty Coffee Roasters - Just Great Coffee",
-    "business_name": "Crankshaft Roasters",
-    "country": "VAT",
-    "seo_score": 77,
-    "tech_spend": 55515,
-    "crawled_at": "2026-06-06T12:21:16.660693998Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Aruba",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Fastly",
-      "Fireblade",
-      "Font Awesome",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "MailChimp",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Privy",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Thank You",
-      "The Fresh",
-      "UTF-8",
-      "YouTube",
-      "eLand",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   }
 ]
