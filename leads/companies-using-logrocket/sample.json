@@ -1,5 +1,31 @@
 [
   {
+    "domain": "isaacsuntag.com",
+    "title": "Isaac Suntag",
+    "business_name": "",
+    "country": "MEX",
+    "seo_score": 67,
+    "tech_spend": 6376,
+    "crawled_at": "2026-09-14T08:30:36.545136033Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "Font Awesome",
+      "Formspree",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "LogRocket",
+      "Python",
+      "QUIC",
+      "StackPath",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "stellarprocleaners.com",
     "title": "Cleaning Services in Portland, OR | Stellar Pro Cleaners",
     "business_name": "",

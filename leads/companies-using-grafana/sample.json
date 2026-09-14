@@ -1,21 +1,21 @@
 [
   {
-    "domain": "digitaloceanlab.org",
+    "domain": "sar-analytic.in",
     "title": "Grafana",
     "business_name": "",
     "country": "",
-    "seo_score": 50,
-    "tech_spend": 7260,
-    "crawled_at": "2026-09-11T07:29:15.004625166Z",
+    "seo_score": 40,
+    "tech_spend": 1260,
+    "crawled_at": "2026-09-14T02:14:56.814943237Z",
     "technologies": [
       "Apache",
       "Barchart",
+      "DAV",
       "Express",
       "GZIP Module",
       "GitHub Hosting",
       "Grafana",
       "Nginx",
-      "On The Map",
       "UTF-8",
       "Ubuntu",
       "Yandex Hosting"
