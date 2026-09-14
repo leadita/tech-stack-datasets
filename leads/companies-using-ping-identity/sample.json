@@ -1,5 +1,32 @@
 [
   {
+    "domain": "crackerjam.net",
+    "title": "Nick Graham - Principal Infrastructure Engineer",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 52847,
+    "crawled_at": "2026-09-13T21:44:42.188220998Z",
+    "technologies": [
+      "Amazon Link Enchancer",
+      "Amazon Widgets",
+      "Apache",
+      "CM Commerce",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Font Awesome",
+      "GitHub Hosting",
+      "MaxCDN",
+      "Nginx",
+      "Ping Identity",
+      "Pleroma",
+      "Python",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "clearwaterwealth.ca",
     "title": "Clearwater Wealth Management - Kelowna, BC",
     "business_name": "Clearwater Wealth Management",
@@ -2261,33 +2288,6 @@
       "QUIC",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "nickjgraham.com",
-    "title": "Nick Graham - Principal Infrastructure Engineer",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 52847,
-    "crawled_at": "2026-04-07T15:23:19.982904272Z",
-    "technologies": [
-      "Amazon Link Enchancer",
-      "Amazon Widgets",
-      "Apache",
-      "CM Commerce",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Font Awesome",
-      "GitHub Hosting",
-      "MaxCDN",
-      "Nginx",
-      "Ping Identity",
-      "Pleroma",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   },
   {

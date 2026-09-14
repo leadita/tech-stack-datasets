@@ -1,5 +1,38 @@
 [
   {
+    "domain": "1ar.no",
+    "title": "Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 25073,
+    "crawled_at": "2026-09-14T00:54:47.47814904Z",
+    "technologies": [
+      "Angular",
+      "Apture Linking Platform",
+      "Bitwarden Passwordless",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Drata",
+      "Fastly",
+      "Fastly CDN",
+      "GitHub Hosting",
+      "Google Adsense",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google Reseller",
+      "OpenSSL",
+      "Plausible Analytics",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "myinsightaction.com",
     "title": "Insight Action: The Software Market, Scored by Its Own Customers",
     "business_name": "Insight Action",
@@ -18757,34 +18790,6 @@
       "hCaptcha",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "thearchival.one",
-    "title": "thearchival.one",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 5,
-    "crawled_at": "2026-03-08T11:06:18.237833633Z",
-    "technologies": [
-      "Bitwarden Passwordless",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Hexo",
-      "Microdata for Google Shopping",
-      "PHP",
-      "PWA",
-      "Perl",
-      "Schema Plugin",
-      "Twitter Ads",
-      "UTF-8",
-      "Unix",
-      "jsDelivr"
     ]
   }
 ]
