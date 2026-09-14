@@ -1,5 +1,24 @@
 [
   {
+    "domain": "flowwaterjet.com",
+    "title": "Waterjets - Flow International | Flow International",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 24000,
+    "crawled_at": "2026-09-14T00:03:22.509744657Z",
+    "technologies": [
+      "ASP.NET Core",
+      "Brightcove",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "robertqkang.com",
     "title": "Robert Kang",
     "business_name": "",
@@ -13561,25 +13580,6 @@
       "WhatsApp Sharing",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "flowwaterjets.net",
-    "title": "Waterjets - Flow International | Flow International",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 24000,
-    "crawled_at": "2026-05-15T13:05:20.00352421Z",
-    "technologies": [
-      "ASP.NET Core",
-      "Brightcove",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
