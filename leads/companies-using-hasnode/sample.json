@@ -12201,29 +12201,5 @@
       "University or College",
       "itch.io"
     ]
-  },
-  {
-    "domain": "peerlistpubli.sh",
-    "title": "Peerlist Publish | Post across DEV.to, Hashnode, Medium, Ghost and more",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 8088,
-    "crawled_at": "2026-01-24T13:19:43.429045359Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fireblade",
-      "Google My Business",
-      "Hasnode",
-      "ImageKit.io",
-      "Medium",
-      "Next.js",
-      "Pleroma",
-      "Radix UI",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
   }
 ]

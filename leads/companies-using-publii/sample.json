@@ -1,5 +1,54 @@
 [
   {
+    "domain": "gregwalsh.com",
+    "title": "Greg Walsh - Design Researcher",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": "",
+    "crawled_at": "2026-09-14T10:28:30.660569494Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apache",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Hugo",
+      "Instagram Follow Button",
+      "Jekyll",
+      "Medium",
+      "Microdata for Google Shopping",
+      "Publii",
+      "Ubuntu",
+      "University or College",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "ure27.com",
+    "title": "Mandatory Cyber Resilience Standards for Computer Based Systems - IACS UR E27",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 17549,
+    "crawled_at": "2026-09-14T10:28:30.640656019Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "70plus.it",
     "title": "MyHome - 70plus - and still a lot to do",
     "business_name": "",
@@ -1397,29 +1446,6 @@
       "Nginx",
       "Publii",
       "Python",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "e27.services",
-    "title": "Mandatory Cyber Resilience Standards for Computer Based Systems - IACS UR E27",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 17549,
-    "crawled_at": "2026-06-05T04:29:19.973571731Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Publii",
-      "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   },
@@ -8369,32 +8395,6 @@
       "Microdata for Google Shopping",
       "Publii",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "gregwalsh.com",
-    "title": "Greg Walsh - Design Researcher",
-    "business_name": "Greg Walsh - Design Researcher",
-    "country": "USA",
-    "seo_score": 75,
-    "tech_spend": 15000,
-    "crawled_at": "2026-01-24T13:34:05.605194981Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apache",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Jekyll",
-      "Medium",
-      "Microdata for Google Shopping",
-      "Publii",
-      "Ubuntu",
-      "University or College",
-      "YouTube"
     ]
   }
 ]
