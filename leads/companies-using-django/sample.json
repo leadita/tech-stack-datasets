@@ -1,5 +1,113 @@
 [
   {
+    "domain": "lincoln.co.ke",
+    "title": "Lincoln | Backend-Focused Full-Stack Engineer",
+    "business_name": "",
+    "country": "KEN",
+    "seo_score": 70,
+    "tech_spend": 40,
+    "crawled_at": "2026-09-14T10:47:02.43768672Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Django",
+      "Express",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "PHP",
+      "Python",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "ignite-365.org",
+    "title": "Ignite Outage Group LLC - Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 1300,
+    "crawled_at": "2026-09-14T10:39:23.766025088Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "B12",
+      "DAV",
+      "Django",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Line2",
+      "QUIC",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "tuliphubhub.nl",
+    "title": "Tulip Hub Hub: Exploring the World of Tulips and Gardening",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 15468,
+    "crawled_at": "2026-09-14T02:16:26.160945115Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Django",
+      "Gambling Content",
+      "IcoMoon",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "rithamtravels.in",
+    "title": "Best Travel Services Coimbatore | Tours & Car Rentals South India - Ritham Tours",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 19274,
+    "crawled_at": "2026-09-13T19:08:58.961209783Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Bulma",
+      "Create React App",
+      "Django",
+      "Django Language",
+      "Fireblade",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Nginx",
+      "Perl",
+      "Pleroma",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "Unsplash",
+      "Vello",
+      "Verified Profile",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "danielaretelny.com",
     "title": "Daniela Retelny Blum",
     "business_name": "",
@@ -552,30 +660,6 @@
       "QUIC",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "urbanslotslab.uk",
-    "title": "Urban Slots Lab: Discover the Best City-Themed Slots",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 72,
-    "tech_spend": 1968,
-    "crawled_at": "2026-08-20T22:02:19.967683472Z",
-    "technologies": [
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Django",
-      "Gambling Content",
-      "IcoMoon",
-      "NFOrce Internet",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   },
   {
@@ -4007,30 +4091,6 @@
       "QUIC",
       "RM Education",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "ignite-365.com",
-    "title": "Ignite Outage Group LLC - Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 1300,
-    "crawled_at": "2026-04-22T11:23:20.018538964Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Line2",
-      "QUIC",
-      "University or College"
     ]
   },
   {
@@ -9347,85 +9407,6 @@
       "Line2",
       "QUIC",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "lincoln.co.ke",
-    "title": "Lincoln | Backend-Focused Full-Stack Engineer",
-    "business_name": "",
-    "country": "KEN",
-    "seo_score": 70,
-    "tech_spend": 40,
-    "crawled_at": "2026-01-24T13:46:43.437369587Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Django",
-      "Express",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "PHP",
-      "Python",
-      "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "tworiversrestoration.com",
-    "title": "Historic Restoration Contractors Knoxville - Two Rivers Restoration",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2308,
-    "crawled_at": "2026-01-24T06:59:26.23842054Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "University or College",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "rithamtravels.in",
-    "title": "Home - Ritham Tours & Travels",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 1874,
-    "crawled_at": "2026-01-24T02:40:43.43207489Z",
-    "technologies": [
-      "Bulma",
-      "Create React App",
-      "Django",
-      "Django Language",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Nginx",
-      "Perl",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Ubuntu",
-      "Unsplash",
-      "Vello",
-      "YouTube",
-      "jsDelivr"
     ]
   }
 ]
