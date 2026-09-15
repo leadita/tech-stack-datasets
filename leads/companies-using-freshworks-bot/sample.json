@@ -1,5 +1,24 @@
 [
   {
+    "domain": "mndj.com",
+    "title": "MNDJ.com - Minnesota's entertainment specialists",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 900,
+    "crawled_at": "2026-09-15T05:40:36.973264533Z",
+    "technologies": [
+      "Freshworks Bot",
+      "GZIP Module",
+      "Google My Business",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8",
+      "reCAPTCHA",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "truepositive.eu",
     "title": "Truepositive.eu Smart Cameras",
     "business_name": "",
@@ -24011,42 +24030,6 @@
       "eLand",
       "jQuery",
       "uPortal"
-    ]
-  },
-  {
-    "domain": "realbeautybosses.com",
-    "title": "RealBeautyBosses | Home Page",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 28059,
-    "crawled_at": "2026-04-20T20:32:20.00344361Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "AnyChat",
-      "Apple Auto Link Maker",
-      "Aruba",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "Font Awesome",
-      "Freshworks Bot",
-      "Google Cloud DNS",
-      "Google Font API",
-      "HubSpot Conversations",
-      "Hubspot",
-      "Instagram Follow Button",
-      "UTF-8",
-      "Vimeo",
-      "YouTube",
-      "eLand"
     ]
   }
 ]

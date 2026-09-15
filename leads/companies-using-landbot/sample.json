@@ -1,5 +1,38 @@
 [
   {
+    "domain": "swissrx.pro",
+    "title": "Swiss RX - Supplements Made for Athletes",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 25256,
+    "crawled_at": "2026-09-14T16:00:10.138088287Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Amped",
+      "Apture Linking Platform",
+      "Baidu Cloud",
+      "Cisco/Arrowpoint Content Service Switch",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Drip",
+      "Heap",
+      "Instagram Follow Button",
+      "LandBot",
+      "LiveChat Monitoring",
+      "ProfitWell",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "Tailwind CSS",
+      "UTF-8",
+      "Yandex Hosting",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "factorx.mx",
     "title": "FACTOR X",
     "business_name": "",
@@ -1693,37 +1726,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "swissrxworld.com",
-    "title": "Swiss RX - Supplements Made for Athletes",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 20456,
-    "crawled_at": "2026-06-10T21:56:36.346861193Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Amped",
-      "Apture Linking Platform",
-      "Cisco/Arrowpoint Content Service Switch",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Drip",
-      "Heap",
-      "Instagram Follow Button",
-      "LandBot",
-      "LiveChat Monitoring",
-      "ProfitWell",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   },
   {
@@ -16176,31 +16178,6 @@
       "SMC",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "simpledumpsterrentaljackson.com",
-    "title": "Dumpster Rental In Jackson, MI - Affordable Roll Offs By Simple",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 17099,
-    "crawled_at": "2026-01-24T20:16:40.743329443Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "DAV",
-      "Fireblade",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google My Business",
-      "LandBot",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Schema Plugin",
-      "UTF-8",
-      "Yet Another Related Posts Plugin"
     ]
   }
 ]
