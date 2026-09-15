@@ -1,5 +1,38 @@
 [
   {
+    "domain": "clickfrenzy6263646566676869.shop",
+    "title": "Free Online Games on CrazyGames | Play Now!",
+    "business_name": "",
+    "country": "BEL",
+    "seo_score": 87,
+    "tech_spend": 35971,
+    "crawled_at": "2026-09-15T03:25:28.589941562Z",
+    "technologies": [
+      "1Password",
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "App Store",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Endis",
+      "Google My Business",
+      "Google Play",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Prebid",
+      "QUIC",
+      "Recruitee",
+      "Share Link",
+      "Thank You",
+      "UTF-8",
+      "Underscores",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "umamy.io",
     "title": "Umamy | AI agents that source, screen and book interviews",
     "business_name": "Umamy",
@@ -420,39 +453,6 @@
       "Workable",
       "Zerion",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "crazygames.co.il",
-    "title": "Free Online Games on CrazyGames | Play Now!",
-    "business_name": "",
-    "country": "BEL",
-    "seo_score": 77,
-    "tech_spend": 35971,
-    "crawled_at": "2026-09-06T09:34:46.372283084Z",
-    "technologies": [
-      "1Password",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "App Store",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Endis",
-      "Google My Business",
-      "Google Play",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "Prebid",
-      "QUIC",
-      "Recruitee",
-      "Share Link",
-      "Thank You",
-      "UTF-8",
-      "Underscores",
-      "YouTube"
     ]
   },
   {

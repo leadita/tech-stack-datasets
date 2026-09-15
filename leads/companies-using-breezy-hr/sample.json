@@ -1,5 +1,34 @@
 [
   {
+    "domain": "coldironstudios.org",
+    "title": "Coldiron Studios",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 1779,
+    "crawled_at": "2026-09-15T17:42:08.665095278Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Breezy HR",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Hello Elementor",
+      "Nginx",
+      "PHP",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "tf-talent.com",
     "title": "Expert Talent Recruitment Services | TrueFit Talent",
     "business_name": "",
@@ -930,35 +959,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "coldironstudio.net",
-    "title": "Coldiron Studios",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 1779,
-    "crawled_at": "2026-09-03T19:25:17.629302445Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Breezy HR",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hello Elementor",
-      "Nginx",
-      "PHP",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   },
   {

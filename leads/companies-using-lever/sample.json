@@ -1,5 +1,37 @@
 [
   {
+    "domain": "blackstream.com.au",
+    "title": "Black Stream | Experts in Digital Technology & Design",
+    "business_name": "Black Stream",
+    "country": "AUS",
+    "seo_score": 82,
+    "tech_spend": 25148,
+    "crawled_at": "2026-09-14T23:33:02.883499814Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Hello Elementor",
+      "Lever",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "WP Engine",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "rw-one.at",
     "title": "realworld one - PERFORMANCE STARTS WITH EXECUTION",
     "business_name": "",
@@ -9854,38 +9886,6 @@
       "University or College",
       "Vector Internet Services",
       "eLand"
-    ]
-  },
-  {
-    "domain": "blackstream.com.au",
-    "title": "Black Stream | Experts in Digital Technology & Design",
-    "business_name": "Black Stream",
-    "country": "AUS",
-    "seo_score": 82,
-    "tech_spend": 25148,
-    "crawled_at": "2026-01-24T23:25:35.049950251Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Hello Elementor",
-      "Lever",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "WP Engine",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
