@@ -1,5 +1,33 @@
 [
   {
+    "domain": "fsx24.com",
+    "title": "FSX24 – Jetzt bestellen",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 70,
+    "tech_spend": 22648,
+    "crawled_at": "2026-09-14T19:09:45.481521498Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Elementor",
+      "EmbedPress",
+      "Everflow",
+      "Fastly",
+      "GZIP Module",
+      "Google My Business",
+      "Hello Elementor",
+      "Network Advertising Initiative",
+      "Nginx",
+      "PHP",
+      "Table Addons for Elementor",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "kbmdhealth.com",
     "title": "Home - KBMD Health Products",
     "business_name": "",
