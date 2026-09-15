@@ -1,5 +1,38 @@
 [
   {
+    "domain": "rightidea4u.com",
+    "title": "RightIdea4u - RightIdea4u - Reviews Website",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 50739,
+    "crawled_at": "2026-09-14T21:43:59.663357375Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Agoda",
+      "Apache",
+      "Book Direct",
+      "Booking Affiliate",
+      "DreamHost Hosting",
+      "Express",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "HostGator",
+      "Instagram Follow Button",
+      "Netcore Cloud",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "W3layouts",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "emailmarketingsummitme.com",
     "title": "Home - Email Marketing Summit Middle East 3rd Nov 2025",
     "business_name": "Influence Exchange Group",
@@ -452,37 +485,6 @@
       "YouTube",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "rightidea4u.com",
-    "title": "RightIdea4u - RightIdea4u - Reviews Website",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 50739,
-    "crawled_at": "2026-01-24T21:55:59.877508954Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Agoda",
-      "Apache",
-      "Book Direct",
-      "Booking Affiliate",
-      "DreamHost Hosting",
-      "Express",
-      "Google Cloud DNS",
-      "Google Font API",
-      "HostGator",
-      "Instagram Follow Button",
-      "Netcore Cloud",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "W3layouts",
-      "YouTube"
     ]
   }
 ]
