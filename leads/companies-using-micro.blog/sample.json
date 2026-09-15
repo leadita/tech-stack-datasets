@@ -1,5 +1,83 @@
 [
   {
+    "domain": "niklas.fyi",
+    "title": "Niklas Siefke",
+    "business_name": "",
+    "country": "NOR",
+    "seo_score": 77,
+    "tech_spend": 1308,
+    "crawled_at": "2026-09-14T21:43:59.657757639Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Astro",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "License Buttons",
+      "Micro.blog",
+      "Sanity",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "nearwalden.com",
+    "title": "Nearwalden",
+    "business_name": "",
+    "country": "IMN",
+    "seo_score": 72,
+    "tech_spend": 17560,
+    "crawled_at": "2026-09-14T19:44:58.178509367Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "DAV",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Hugo",
+      "Micro.blog",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "gonzalezscreenrepair.com",
+    "title": "Ibis Gonzalez",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 2887,
+    "crawled_at": "2026-09-14T15:02:42.80217618Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Astra Theme",
+      "Content Delivery Network",
+      "Elementor",
+      "ElementsKit Elementor",
+      "EmbedPress",
+      "Google My Business",
+      "Google Related Website Sites",
+      "LiteSpeed",
+      "Micro.blog",
+      "NFOrce Internet",
+      "PHP",
+      "Premium Addons for Elementor",
+      "Table Addons for Elementor",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Related Posts",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "gonefora.run",
     "title": "Gone For A Run | Where else would I have gone?",
     "business_name": "",
@@ -7828,49 +7906,6 @@
       "QUIC",
       "Tailwind CSS",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "kandr3s.co",
-    "title": "Andrés Cárdenas",
-    "business_name": "",
-    "country": "MEX",
-    "seo_score": 67,
-    "tech_spend": 120,
-    "crawled_at": "2026-01-25T06:22:52.72668919Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Mastodon",
-      "Micro.blog",
-      "Nginx",
-      "PWA",
-      "UTF-8",
-      "Ubuntu",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "nearwalden.com",
-    "title": "Nearwalden",
-    "business_name": "",
-    "country": "IMN",
-    "seo_score": 72,
-    "tech_spend": 17560,
-    "crawled_at": "2026-01-24T20:16:40.735055878Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "DAV",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Micro.blog",
-      "QUIC",
-      "UTF-8"
     ]
   }
 ]

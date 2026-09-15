@@ -1,5 +1,43 @@
 [
   {
+    "domain": "orolle.net",
+    "title": "xlamb",
+    "business_name": "xlamb",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 49,
+    "crawled_at": "2026-09-15T05:22:11.951066039Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GZIP Module",
+      "JIRA",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Nginx",
+      "Publii",
+      "Ubuntu",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "lwccoa.org",
+    "title": "Lake Walden Cove Condominiums",
+    "business_name": "Lake Walden Cove Condominiums",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 49,
+    "crawled_at": "2026-09-14T18:40:20.070175031Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Apache",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "gregwalsh.com",
     "title": "Greg Walsh - Design Researcher",
     "business_name": "",
@@ -8357,44 +8395,6 @@
       "Telegram",
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "orolle.net",
-    "title": "xlamb",
-    "business_name": "xlamb",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 49,
-    "crawled_at": "2026-01-25T04:23:17.920061609Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GZIP Module",
-      "JIRA",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Nginx",
-      "Publii",
-      "Ubuntu",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "lwccoa.org",
-    "title": "Lake Walden Cove Condominiums",
-    "business_name": "Lake Walden Cove Condominiums",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 49,
-    "crawled_at": "2026-01-24T19:26:35.129922301Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Apache",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   }
 ]
