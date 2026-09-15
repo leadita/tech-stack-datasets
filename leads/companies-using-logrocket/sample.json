@@ -1,5 +1,27 @@
 [
   {
+    "domain": "myassociationtravel.com",
+    "title": "Please log in",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 15000,
+    "crawled_at": "2026-09-15T02:58:33.651060132Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "AppDynamics",
+      "Apture Linking Platform",
+      "GZIP Module",
+      "GetResponse",
+      "GitHub Hosting",
+      "ISO/IEC 8859",
+      "Imperva Bot Detection and Mitigation",
+      "LogRocket",
+      "New Relic",
+      "PWA"
+    ]
+  },
+  {
     "domain": "isaacsuntag.com",
     "title": "Isaac Suntag",
     "business_name": "",
