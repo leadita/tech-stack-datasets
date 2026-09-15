@@ -9779,37 +9779,5 @@
       "TalentLMS",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "marylanddrivingservices.com",
-    "title": "Home/Register for Class",
-    "business_name": "marylanddrivingservices.com",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 105336,
-    "crawled_at": "2026-01-25T09:49:43.43936116Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PWA",
-      "QUIC",
-      "SMC",
-      "SiteW",
-      "TalentLMS",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "mlcom"
-    ]
   }
 ]
