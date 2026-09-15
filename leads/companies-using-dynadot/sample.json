@@ -1,5 +1,47 @@
 [
   {
+    "domain": "djrvr.com",
+    "title": "djRVR",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 2036,
+    "crawled_at": "2026-09-15T10:14:18.041015433Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "BLR",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "freestuff.club",
+    "title": "This website or DOMAIN NAME may be for sale.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 76500,
+    "crawled_at": "2026-09-14T20:39:17.426098882Z",
+    "technologies": [
+      "Camp",
+      "Cart.com",
+      "Dynadot",
+      "ElementUI",
+      "Fast",
+      "GZIP Module",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "PointDNS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "webaddress.net",
     "title": "Digital Real Estate Specialist",
     "business_name": "",
@@ -189,27 +231,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Website Tonight"
-    ]
-  },
-  {
-    "domain": "www.atxtrailer.com",
-    "title": "This website or DOMAIN NAME may be for sale.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 76500,
-    "crawled_at": "2026-08-24T00:42:04.560006829Z",
-    "technologies": [
-      "Camp",
-      "Cart.com",
-      "Dynadot",
-      "ElementUI",
-      "Fast",
-      "GZIP Module",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "PointDNS",
-      "UTF-8"
     ]
   },
   {
@@ -4748,26 +4769,6 @@
       "Font Awesome",
       "GZIP Module",
       "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "djrvr.com",
-    "title": "djRVR",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 2135,
-    "crawled_at": "2026-01-25T08:25:43.436198954Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "BLR",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Tumblr",
-      "Twitter Ads",
       "UTF-8"
     ]
   }
