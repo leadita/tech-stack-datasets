@@ -1,5 +1,38 @@
 [
   {
+    "domain": "reelgoodimpressions.com",
+    "title": "Reel Good Impressions",
+    "business_name": "Reel Good Impressions, LLC",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 98542,
+    "crawled_at": "2026-09-15T18:19:15.913954674Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Apture Linking Platform",
+      "Aruba",
+      "Cornerstone",
+      "Ethy",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "Unbounce",
+      "University or College",
+      "WordPress SEO Structured Data Schema Plugin",
+      "WordStream",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "kraftinox.ro",
     "title": "kraftinox – Precizie în inox: creșterea calității, îmbunătățirea vieții",
     "business_name": "",
@@ -3456,42 +3489,6 @@
       "YouTube",
       "eLand",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "reelgoodimpressions.com",
-    "title": "Reel Good Impressions",
-    "business_name": "Reel Good Impressions, LLC",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 100982,
-    "crawled_at": "2026-01-25T14:49:43.442364664Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Apture Linking Platform",
-      "Aruba",
-      "Cornerstone",
-      "Ethy",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "Unbounce",
-      "University or College",
-      "WordPress SEO Structured Data Schema Plugin",
-      "WordStream",
-      "YouTube",
-      "eLand"
     ]
   }
 ]
