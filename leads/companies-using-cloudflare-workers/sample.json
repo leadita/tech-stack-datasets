@@ -1,5 +1,55 @@
 [
   {
+    "domain": "semanticsearch.ai",
+    "title": "Free Semantic Search API | Zero-Cost, Open Source Solution",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 1260,
+    "crawled_at": "2026-09-15T02:50:45.336946609Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "mattfellows.info",
+    "title": "Matthew Fellows - Marketing Technology Architect",
+    "business_name": "",
+    "country": "VEN",
+    "seo_score": 77,
+    "tech_spend": 197940,
+    "crawled_at": "2026-09-14T17:42:22.515607315Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Bazaarvoice",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Python",
+      "Salesforce Hosted",
+      "UTF-8",
+      "University or College",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "huydngo.dev",
     "title": "Huy Ngo - Software Engineer",
     "business_name": "",
@@ -14964,57 +15014,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "tyagipulkit.com",
-    "title": "Pulkit Tyagi",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 65,
-    "tech_spend": 6095,
-    "crawled_at": "2026-04-27T23:35:19.980635222Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Google My Business",
-      "Google Workspace",
-      "Icons8",
-      "Ntent",
-      "Python",
-      "RawGit",
-      "Tailwind CSS",
-      "Vector Internet Services",
-      "Vercel",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "lockie.dev",
-    "title": "Sherlock Luk - lockie.dev",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 5060,
-    "crawled_at": "2026-04-27T21:36:27.693675862Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "M247",
-      "Next.js",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]
