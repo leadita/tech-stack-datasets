@@ -1,5 +1,60 @@
 [
   {
+    "domain": "radioear.us",
+    "title": "The gold standard for audiometric transducers - RadioEar",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 18361,
+    "crawled_at": "2026-09-15T21:38:13.236536074Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Cookie Information",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Kaltura",
+      "Microsoft Azure Blob Storage",
+      "Next.js",
+      "Pleroma",
+      "Tally",
+      "UTF-8",
+      "Vercel",
+      "YouTube",
+      "iPaper"
+    ]
+  },
+  {
+    "domain": "rapiddevicetranslation.org",
+    "title": "Center for Rapid Device Translation",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 230470,
+    "crawled_at": "2026-09-15T01:26:12.76386029Z",
+    "technologies": [
+      "Adobe Analytics",
+      "Adobe Marketing Cloud",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Font Awesome",
+      "Kaltura",
+      "PHP",
+      "Sucuri Cloudproxy",
+      "Telegram",
+      "ThemeFusion",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "clearwaterwealth.ca",
     "title": "Clearwater Wealth Management - Kelowna, BC",
     "business_name": "Clearwater Wealth Management",
@@ -5084,35 +5139,6 @@
       "UTF-8",
       "Vercel",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "radioear.sg",
-    "title": "The gold standard for audiometric transducers - RadioEar",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 18361,
-    "crawled_at": "2026-07-15T16:53:19.972271299Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Cookie Information",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Kaltura",
-      "Microsoft Azure Blob Storage",
-      "Next.js",
-      "Pleroma",
-      "Tally",
-      "UTF-8",
-      "Vercel",
-      "YouTube",
-      "iPaper"
     ]
   },
   {
@@ -17545,31 +17571,6 @@
       "YouTube",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "rapiddevicetranslation.org",
-    "title": "Center for Rapid Device Translation",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 130470,
-    "crawled_at": "2026-01-25T01:06:20.665928224Z",
-    "technologies": [
-      "Adobe Marketing Cloud",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Font Awesome",
-      "Kaltura",
-      "PHP",
-      "Sucuri Cloudproxy",
-      "Telegram",
-      "ThemeFusion",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
