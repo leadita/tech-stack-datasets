@@ -1,5 +1,39 @@
 [
   {
+    "domain": "islandpropertytax.com",
+    "title": "Island Property Tax Reduction",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 3607,
+    "crawled_at": "2026-09-15T11:10:43.154771348Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "AutoComplete",
+      "CookieConsent",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "ISO/IEC 8859",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "MaxCDN",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Parallels Plesk Panel",
+      "RightSignature",
+      "Schema Plugin",
+      "Subversion",
+      "UTF-8",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "hhipbc.com",
     "title": "Pickleball — Island Recreation Association",
     "business_name": "",
@@ -2004,40 +2038,6 @@
       "jQuery",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "islandpropertytax.com",
-    "title": "Island Property Tax Reduction",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 3607,
-    "crawled_at": "2026-01-25T09:05:32.000658705Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AutoComplete",
-      "CookieConsent",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "ISO/IEC 8859",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "MaxCDN",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Parallels Plesk Panel",
-      "RightSignature",
-      "Schema Plugin",
-      "Subversion",
-      "UTF-8",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]

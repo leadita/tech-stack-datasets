@@ -1,5 +1,33 @@
 [
   {
+    "domain": "uafuml.org",
+    "title": "UMass Lowell Union of Adjunct Faculty «",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 75,
+    "tech_spend": 32017,
+    "crawled_at": "2026-09-15T12:48:49.297666365Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Contact Form Plugin",
+      "DocuSign",
+      "EmbedPress",
+      "Facebook Embedded Posts",
+      "Google My Business",
+      "IcoMoon",
+      "PHP",
+      "The Fresh",
+      "Theme In WP",
+      "Twitter Ads",
+      "University or College",
+      "WP Fastest Cache",
+      "WordPress",
+      "WordPress Multisite",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "ndsufoundation.com",
     "title": "Home - NDSU Foundation",
     "business_name": "NDSU Foundation",
@@ -11711,35 +11739,6 @@
       "WordPress",
       "WordPress Multisite",
       "go Theme",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "uafuml.org",
-    "title": "UMass Lowell Union of Adjunct Faculty «",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 30817,
-    "crawled_at": "2026-01-25T10:26:13.834242676Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Contact Form Plugin",
-      "Debian",
-      "DocuSign",
-      "EmbedPress",
-      "Facebook Embedded Posts",
-      "GZIP Module",
-      "IcoMoon",
-      "PHP",
-      "The Fresh",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "WordPress",
-      "WordPress Multisite",
       "jQuery"
     ]
   }
