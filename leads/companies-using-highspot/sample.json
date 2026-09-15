@@ -1,5 +1,36 @@
 [
   {
+    "domain": "clarehegg.com",
+    "title": "Clare Gould Portfolio – Strategic Programs | Cross-Functional Execution | Global Operations & AI | Transformation",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 37247,
+    "crawled_at": "2026-09-15T20:00:13.438365465Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Automattic",
+      "Better Lead Generation Services",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Highspot",
+      "InitiativeS",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "Nginx",
+      "Oracle Cloud",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "hitvaluemodel.com",
     "title": "Health IT Value Model | Netsmart",
     "business_name": "Netsmart Technologies, Inc,",
@@ -1140,37 +1171,6 @@
     ]
   },
   {
-    "domain": "claregould.com",
-    "title": "Clare Gould Portfolio – Strategic Programs | Cross-Functional Execution | Global Operations & AI | Transformation",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 37247,
-    "crawled_at": "2026-04-16T16:29:20.013951924Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Automattic",
-      "Better Lead Generation Services",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Highspot",
-      "InitiativeS",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Nginx",
-      "Oracle Cloud",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "YouTube"
-    ]
-  },
-  {
     "domain": "socratify.io",
     "title": "Socratify",
     "business_name": "",
@@ -1800,24 +1800,6 @@
       "Zoom Video Conferencing",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "addium.io",
-    "title": "Growing knowledge from data | Addium",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 27290,
-    "crawled_at": "2026-01-25T07:45:00.841632972Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Digital Ocean Spaces",
-      "Fastly",
-      "Highspot",
-      "No-Q",
-      "UTF-8",
-      "Vector Internet Services"
     ]
   }
 ]
