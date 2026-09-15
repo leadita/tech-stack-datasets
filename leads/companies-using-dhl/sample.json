@@ -1,5 +1,28 @@
 [
   {
+    "domain": "djaenvios.com",
+    "title": "DJA - Envios",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 3368,
+    "crawled_at": "2026-09-15T21:38:13.233639662Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DHL Parcel",
+      "Fastly",
+      "FedEx",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "OnTrac",
+      "Tailwind CSS",
+      "UPS",
+      "USPS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "slipstreamadvantage.com",
     "title": "Transport Management System | Slipstream",
     "business_name": "Slipstream Clear",
@@ -19086,43 +19109,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "myukhub.com",
-    "title": "My UK Hub",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 5184,
-    "crawled_at": "2026-03-30T14:11:59.478438054Z",
-    "technologies": [
-      "Amazon Widgets",
-      "Apache",
-      "DHL Parcel",
-      "ETranslate",
-      "Express",
-      "FedEx",
-      "FormSubmit",
-      "GTranslate",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "PHP",
-      "PWA",
-      "Parcel",
-      "Tailwind CSS",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "YouTube",
-      "Zendesk Guide",
-      "reCAPTCHA"
     ]
   }
 ]
