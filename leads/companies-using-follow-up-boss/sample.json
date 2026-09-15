@@ -1,5 +1,40 @@
 [
   {
+    "domain": "leadstoclosings.com",
+    "title": "Leads to Closings ⎸ #1 Seller Lead Generation",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 23732,
+    "crawled_at": "2026-09-15T09:29:04.799802546Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Authorize.net",
+      "Better Lead Generation Services",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Facebook Conversion Tracking",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Fireblade",
+      "Follow Up Boss",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Nuxt.js",
+      "QUIC",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "emilyvangiezen.com",
     "title": "Coldwell Banker Realty | Orleans, MA",
     "business_name": "Coldwell Banker Realty",
@@ -14197,36 +14232,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "leadstoclosings.com",
-    "title": "Leads to Closings ⎸ #1 Seller Lead Generation",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 23732,
-    "crawled_at": "2026-01-25T07:45:00.904037153Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Authorize.net",
-      "Better Lead Generation Services",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Fireblade",
-      "Follow Up Boss",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google My Business",
-      "Nuxt.js",
-      "QUIC",
-      "Thank You",
-      "UTF-8",
       "shadcn ui"
     ]
   }
