@@ -1,5 +1,36 @@
 [
   {
+    "domain": "tarni.live",
+    "title": "Tarni Live",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 12102,
+    "crawled_at": "2026-09-15T17:42:08.676386473Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Angular",
+      "Engage",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "MoEngage",
+      "Nginx",
+      "PWA",
+      "Perl",
+      "Pleroma",
+      "Sign In With Google",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "penonn.com",
     "title": "Penonn",
     "business_name": "",
@@ -16983,40 +17014,6 @@
       "Vimeo",
       "YouTube",
       "eyeReturn",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "exammaster.online",
-    "title": "Danish Academy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 12102,
-    "crawled_at": "2026-05-14T12:11:04.551714559Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Angular",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Engage",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "MoEngage",
-      "Nginx",
-      "PWA",
-      "Perl",
-      "Pleroma",
-      "Sign In With Google",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery",
       "jsDelivr"
     ]
   }
