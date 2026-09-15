@@ -1,6 +1,6 @@
 # Companies Using WordPress (Live Dataset 2026)
 
-This folder contains an active list of 4,168,763 companies using **WordPress**. 
+This folder contains an active list of 4,163,575 companies using **WordPress**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 4,168,763
+- **Total Leads:** 4,163,575
 - **Verified:** Yes
-- **Last Updated:** 2026-09-14 13:30 UTC
+- **Last Updated:** 2026-09-15 13:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **4,168,763+** companies using WordPress.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **4,163,575+** companies using WordPress.
 
 [**⚡ Unlock the Full WordPress List with Contact Details**](https://leadita.com/leads/companies-using-wordpress)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-09-14 13:30 UTC*
+*Last updated: 2026-09-15 13:30 UTC*
 *Data source: Leadita Technographic Intelligence*

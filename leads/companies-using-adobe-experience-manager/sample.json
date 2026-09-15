@@ -1,5 +1,64 @@
 [
   {
+    "domain": "stacytrent.com",
+    "title": "Stacy Trent — Global Digital Strategy & Omnichannel Leader",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 402680,
+    "crawled_at": "2026-09-14T20:48:34.645154841Z",
+    "technologies": [
+      "Adobe Experience Manager",
+      "Content Delivery Network",
+      "Fontshare",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Salesforce Hosted",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "dotfusion.ca",
+    "title": "Dotfusion | Headless CMS Agency",
+    "business_name": "Dotfusion",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 521567,
+    "crawled_at": "2026-09-14T18:12:06.731251219Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Experience Manager",
+      "Agility CMS",
+      "Apture Linking Platform",
+      "BloomReach",
+      "Clutch",
+      "Content Delivery Network",
+      "Contentful",
+      "Cornerstone",
+      "DAV",
+      "Express",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Investor Relations",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Prospective",
+      "QUIC",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "Town Web",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "mohegansunpocono.com",
     "title": "Mohegan Pennsylvania Casino Resort in Wilkes-Barre, Pennsylvania | Mohegan Pennsylvania",
     "business_name": "",
@@ -18324,52 +18383,6 @@
       "UTF-8",
       "Vector Internet Services",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "shreyastm.cv",
-    "title": "SHREYAS TM",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 250600,
-    "crawled_at": "2026-05-04T16:50:19.993096111Z",
-    "technologies": [
-      "Adobe Experience Manager",
-      "Alternate Protocol",
-      "Amazon S3 CDN",
-      "Content Delivery Network",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Python",
-      "Storyblocks",
-      "UTF-8",
-      "University or College",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "amirnaeem.cv",
-    "title": "Amir Naeem",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 565600,
-    "crawled_at": "2026-05-04T16:17:19.993540332Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe CQ",
-      "Adobe Experience Manager",
-      "Alternate Protocol",
-      "Amazon S3 CDN",
-      "Content Delivery Network",
-      "InitiativeS",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Storyblocks",
-      "UTF-8",
-      "Vercel",
-      "Znode"
     ]
   }
 ]
