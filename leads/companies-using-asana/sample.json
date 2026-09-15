@@ -1,5 +1,40 @@
 [
   {
+    "domain": "nextstopriggspark.com",
+    "title": "Next Stop...Riggs Park | The stop for news and commentary about the Riggs Park neighborhood, surrounding Fort Totten communities, and the District",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 22087,
+    "crawled_at": "2026-09-15T19:23:32.635744036Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Asana",
+      "Automattic",
+      "CoBlocks",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Eventbrite",
+      "Google Forms",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "Nginx",
+      "Perl",
+      "Prospective",
+      "SplashThat",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "Zoom Video Conferencing"
+    ]
+  },
+  {
     "domain": "imaginedragonsmovie.com",
     "title": "Imagine Dragons: Live From The Hollywood Bowl (with the LA Film Orchestra) | In cinemas March 26 & 29",
     "business_name": "",
@@ -20301,38 +20336,6 @@
       "UTF-8",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "kaelagallo.com",
-    "title": "Kaela Gallo",
-    "business_name": "",
-    "country": "ESP",
-    "seo_score": 65,
-    "tech_spend": 86773,
-    "crawled_at": "2026-04-05T01:08:19.984374103Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Asana",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "eLand"
     ]
   }
 ]
