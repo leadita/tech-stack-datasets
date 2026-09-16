@@ -3478,38 +3478,5 @@
       "reCAPTCHA",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "taxsquarepc.ca",
-    "title": "Accounting Tax & Payroll Services – Tax Square",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 1993,
-    "crawled_at": "2026-01-25T15:44:00.939684995Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Divi",
-      "Elegant Themes",
-      "EmbedPress",
-      "Font Awesome",
-      "FreshBooks",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Perl",
-      "QUIC",
-      "Theme In WP",
-      "UTF-8",
-      "Wave",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
