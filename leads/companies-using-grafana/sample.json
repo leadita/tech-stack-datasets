@@ -1,5 +1,24 @@
 [
   {
+    "domain": "solaranzeige.7cw.de",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 1200,
+    "crawled_at": "2026-09-16T18:48:25.135067084Z",
+    "technologies": [
+      "Barchart",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Grafana",
+      "OpenResty",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "sar-analytic.in",
     "title": "Grafana",
     "business_name": "",
@@ -19,25 +38,6 @@
       "UTF-8",
       "Ubuntu",
       "Yandex Hosting"
-    ]
-  },
-  {
-    "domain": "yabbarov.com",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 1200,
-    "crawled_at": "2026-09-10T14:00:04.977758203Z",
-    "technologies": [
-      "Barchart",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Grafana",
-      "Nginx",
-      "UTF-8",
-      "Ubuntu"
     ]
   },
   {
