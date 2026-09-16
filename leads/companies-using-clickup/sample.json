@@ -1,5 +1,29 @@
 [
   {
+    "domain": "secondchapter.solutions",
+    "title": "SecondChapter",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 419,
+    "crawled_at": "2026-09-16T08:50:46.646010325Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "CDN JS",
+      "ClickUp",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google",
+      "Google Calendar",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "Python",
+      "QUIC"
+    ]
+  },
+  {
     "domain": "akronculturalplan.com",
     "title": "Cultural Plan",
     "business_name": "",
@@ -19237,35 +19261,6 @@
       "Webflow",
       "Webflow Ecommerce",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "polkoils.com",
-    "title": "AMSOIL Synthetic Oil in Lakeland, FL | Edwin Rivera",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 15840,
-    "crawled_at": "2026-04-08T03:18:26.295377686Z",
-    "technologies": [
-      "Apache",
-      "ByteDance",
-      "ClickUp",
-      "Content Delivery Network",
-      "Facebook Reseller",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "LinkedIn Pixel",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Ntent",
-      "QUIC",
-      "Stripe",
-      "UTF-8",
-      "eLand"
     ]
   }
 ]
