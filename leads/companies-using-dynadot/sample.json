@@ -1,5 +1,29 @@
 [
   {
+    "domain": "ismaelmuniz.com",
+    "title": "Wedding Music Entertainment",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 39,
+    "crawled_at": "2026-09-16T10:41:05.139236737Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Coming Soon Page",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "djrvr.com",
     "title": "djRVR",
     "business_name": "",
@@ -4729,47 +4753,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "ismaelmuniz.com",
-    "title": "Wedding Music Entertainment",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 138,
-    "crawled_at": "2026-01-26T04:43:43.431007392Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Coming Soon Page",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "vantiraservices.co.uk",
-    "title": "Vantira Cleaning and Maintenance Services",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 135,
-    "crawled_at": "2026-01-25T14:40:43.433771195Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "QUIC",
-      "UTF-8"
     ]
   }
 ]
