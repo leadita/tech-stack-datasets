@@ -1,5 +1,33 @@
 [
   {
+    "domain": "acid.co.uk",
+    "title": "Independent Streetwear - ACID®",
+    "business_name": "ACID®",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 29804,
+    "crawled_at": "2026-09-15T18:36:25.478186557Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Baidu Cloud",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google Related Website Sites",
+      "Iconz",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "ThoughtMetric",
+      "Twitter Ads",
+      "UTF-8",
+      "Yandex Hosting",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "russellsshaveclub.com",
     "title": "Russell’s Shave Club | Achieve Barber-Quality Grooming at Home – Russell's Shave Club",
     "business_name": "Russell&#39;s Shave Club",
@@ -2781,32 +2809,6 @@
       "YouTube",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "acid.co.uk",
-    "title": "Independent Streetwear - ACID®",
-    "business_name": "ACID®",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 25004,
-    "crawled_at": "2026-01-25T15:00:45.35157379Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google Related Website Sites",
-      "Iconz",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "ThoughtMetric",
-      "Twitter Ads",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   }
 ]
