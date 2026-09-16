@@ -1,5 +1,34 @@
 [
   {
+    "domain": "iflyvabeach.com",
+    "title": "iFLY VA Beach - First Time",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 3098,
+    "crawled_at": "2026-09-16T08:55:07.265922127Z",
+    "technologies": [
+      "Adyen",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Apache",
+      "AutoComplete",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Material-UI",
+      "Microdata for Google Shopping",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "getbill.io",
     "title": "AI Powered Debt Recovery Software - GetBill",
     "business_name": "GetBill",
