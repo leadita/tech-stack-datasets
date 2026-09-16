@@ -1,5 +1,32 @@
 [
   {
+    "domain": "lifehealingnutrition.com",
+    "title": "Nutritional Healing for a Healthy Balance",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 20820,
+    "crawled_at": "2026-09-16T06:30:20.018261137Z",
+    "technologies": [
+      "Eber",
+      "GoDaddy",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "PWA",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight",
+      "aWeber"
+    ]
+  },
+  {
     "domain": "aviationenglishblog.com",
     "title": "Aviation English Blog | Aviation English Blog Tutorials",
     "business_name": "",
@@ -18558,49 +18585,6 @@
       "WordPress Multisite",
       "aWeber",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "jlheatingandair.com",
-    "title": "JL Heating and Air Experts- AC Repair Denver | Heating And Cooling Denver",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 6024,
-    "crawled_at": "2026-05-02T20:26:19.995708821Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Alternate Protocol",
-      "Contact Form Plugin",
-      "Eber",
-      "EmbedPress",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "ID Services",
-      "IcoMoon",
-      "LayerSlider Responsive",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Perl",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "Vimeo",
-      "WP Fastest Cache",
-      "WP Slick Slider and Image Carousel",
-      "WPBakery",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "aWeber",
-      "jsDelivr"
     ]
   }
 ]
