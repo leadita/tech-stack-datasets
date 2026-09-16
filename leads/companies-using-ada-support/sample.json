@@ -1,5 +1,33 @@
 [
   {
+    "domain": "maximsiebert.com",
+    "title": "Maxim Siebert — Designer + Developer",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 25232,
+    "crawled_at": "2026-09-16T07:00:00.514472108Z",
+    "technologies": [
+      "Ada Support",
+      "Automattic",
+      "Automattic Direct",
+      "Content Delivery Network",
+      "Fastly",
+      "Figma",
+      "Format",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Netlify",
+      "PWA",
+      "Shopify",
+      "Svelte",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "1800selfstorage.com",
     "title": "Modern, Stylish, and Fully Equipped Storage with Climate-Control in MI | 1-800 Self Storage",
     "business_name": "1-800 Self Storage",
@@ -5338,33 +5366,6 @@
       "jsDelivr",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "maximsiebert.com",
-    "title": "Maxim Siebert — Designer + Developer",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 25232,
-    "crawled_at": "2026-01-26T01:49:43.43809437Z",
-    "technologies": [
-      "Ada Support",
-      "Automattic",
-      "Automattic Direct",
-      "Content Delivery Network",
-      "Fastly",
-      "Figma",
-      "Format",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Netlify",
-      "PWA",
-      "Shopify",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]
