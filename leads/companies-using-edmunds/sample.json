@@ -5975,35 +5975,5 @@
       "Underscores",
       "dc.js"
     ]
-  },
-  {
-    "domain": "bottomsbridgeauto.com",
-    "title": "Auto Repair & Tire Services | Bottoms Bridge | Quinton VA",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 45028,
-    "crawled_at": "2026-01-25T23:34:43.4373662Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "AutoOps",
-      "CloudFront",
-      "DC74",
-      "Duda",
-      "Edmunds",
-      "Elfsight",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "KVH",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
   }
 ]
