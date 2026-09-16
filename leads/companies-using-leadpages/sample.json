@@ -2815,46 +2815,5 @@
       "YouTube",
       "jQuery"
     ]
-  },
-  {
-    "domain": "tymeer.com",
-    "title": "Tymeer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 30546,
-    "crawled_at": "2026-01-26T09:40:35.68206745Z",
-    "technologies": [
-      "Apache",
-      "Cart.com",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LeadPages",
-      "Ntent",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "vydelo.com",
-    "title": "Vydelo",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 76267,
-    "crawled_at": "2026-01-25T22:32:51.374730169Z",
-    "technologies": [
-      "Apache",
-      "Cart.com",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LeadPages",
-      "Ntent",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vimeo"
-    ]
   }
 ]
