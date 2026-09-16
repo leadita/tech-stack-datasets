@@ -1,5 +1,45 @@
 [
   {
+    "domain": "justinenerio.dev",
+    "title": "Home | Justin Enerio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 600,
+    "crawled_at": "2026-09-16T19:51:30.692252961Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "syzygysound.com",
+    "title": "Home | Eric Buchholz",
+    "business_name": "",
+    "country": "",
+    "seo_score": 27,
+    "tech_spend": 600,
+    "crawled_at": "2026-09-16T14:47:46.581030833Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Band Camp",
+      "Camp",
+      "Docusaurus",
+      "GZIP Module",
+      "Perl",
+      "Twitter Ads"
+    ]
+  },
+  {
     "domain": "christianflach.de",
     "title": "Christian Flach @cmfcmf",
     "business_name": "",
@@ -1097,25 +1137,6 @@
       "Sitelinks Search Box",
       "Tailwind CSS",
       "UptimeRobot"
-    ]
-  },
-  {
-    "domain": "ericbuchholz.com",
-    "title": "Home | Eric Buchholz",
-    "business_name": "",
-    "country": "",
-    "seo_score": 32,
-    "tech_spend": 600,
-    "crawled_at": "2026-08-17T22:28:05.611442479Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Band Camp",
-      "Camp",
-      "Docusaurus",
-      "GZIP Module",
-      "Perl",
-      "Twitter Ads"
     ]
   },
   {
@@ -12814,31 +12835,6 @@
       "UTF-8",
       "University or College",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "northarrowresearch.com",
-    "title": "North Arrow Research",
-    "business_name": "North Arrow Research",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 4840,
-    "crawled_at": "2026-04-03T23:14:19.983366974Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Perl",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]
