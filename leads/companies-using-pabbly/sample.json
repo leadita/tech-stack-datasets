@@ -1,5 +1,30 @@
 [
   {
+    "domain": "bathcare.in",
+    "title": "Bath Fitting Manufacturers | Bathcare",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 2780,
+    "crawled_at": "2026-09-16T00:29:34.184291427Z",
+    "technologies": [
+      "AddThis",
+      "AddThis for Wordpress",
+      "Alternate Protocol",
+      "FreeCSSTemplates",
+      "GetResponse",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "PWA",
+      "Pabbly",
+      "Tailwind CSS",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "deathiumstudios.com",
     "title": "SOLOMON CARLSON - Sioux Falls Award Winning Tattoo Artist and Illustrator",
     "business_name": "Vishnu Bunny Tattoo and Piercing",
@@ -6275,31 +6300,6 @@
       "UTF-8",
       "University or College",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "bathcare.in",
-    "title": "Bath Fitting Manufacturers | Bathcare",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 2780,
-    "crawled_at": "2026-01-25T20:31:43.429923186Z",
-    "technologies": [
-      "AddThis",
-      "AddThis for Wordpress",
-      "Alternate Protocol",
-      "FreeCSSTemplates",
-      "GetResponse",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "PWA",
-      "Pabbly",
-      "Tailwind CSS",
-      "reCAPTCHA"
     ]
   }
 ]
