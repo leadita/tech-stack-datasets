@@ -1,5 +1,43 @@
 [
   {
+    "domain": "ncsintl.com",
+    "title": "NCS International Co. - Electric Wire & Cable Specialists",
+    "business_name": "NCS International Co.",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 276388,
+    "crawled_at": "2026-09-16T00:29:34.179226492Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Didomi",
+      "Elementor",
+      "EmbedPress",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Hello Elementor",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PHP",
+      "Table Addons for Elementor",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "Workday",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "lepalaishotel.eu",
     "title": "Le Palais Art Hotel Prague - Le Palais Art Hotel Prague -",
     "business_name": "Le Palais Art Hotel Prague",
@@ -17482,31 +17520,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "causewaywealthmanagement.com",
-    "title": "Causeway Wealth Management | National Bank Financial - Wealth Management",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 223400,
-    "crawled_at": "2026-04-04T06:05:19.989943499Z",
-    "technologies": [
-      "Adobe Analytics",
-      "Adobe Marketing Cloud",
-      "Akamai Global Host",
-      "Alternate Protocol",
-      "Amazon",
-      "Apache",
-      "Content Delivery Network",
-      "Didomi",
-      "Fireblade",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Schema Plugin",
-      "UTF-8"
     ]
   }
 ]
