@@ -1,5 +1,64 @@
 [
   {
+    "domain": "vr-wizard.fun",
+    "title": "VR WIZARD",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 708,
+    "crawled_at": "2026-09-16T09:22:01.164588773Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "Google My Business",
+      "QUIC",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "innatarborridge.com",
+    "title": "The Inn at Arbor Ridge - Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 1068,
+    "crawled_at": "2026-09-15T23:43:16.040575203Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Perl",
+      "QUIC",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "townsendconstructionllc.com",
+    "title": "Townsend Construction & Snow Removal | Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 708,
+    "crawled_at": "2026-09-15T13:51:20.303850269Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Perl",
+      "QUIC",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "drloladeadeyemi.com",
     "title": "Dr. Lola Adeyemi | Physician, Advocate, Entrepreneur",
     "business_name": "",
@@ -6308,27 +6367,6 @@
     ]
   },
   {
-    "domain": "innatarborridge.biz",
-    "title": "The Inn at Arbor Ridge - Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 1068,
-    "crawled_at": "2026-04-13T09:35:19.986843739Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "YouTube"
-    ]
-  },
-  {
     "domain": "fidosfollowing.com",
     "title": "Dog Walking and Pet Sitting - Fido’s Following",
     "business_name": "",
@@ -9296,65 +9334,6 @@
       "QUIC",
       "Twitter Ads",
       "Vimeo",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "vr-wizard.fun",
-    "title": "VR WIZARD",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 708,
-    "crawled_at": "2026-01-26T03:44:24.230047784Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "Google My Business",
-      "QUIC",
-      "University or College"
-    ]
-  },
-  {
-    "domain": "dmbtheatricalproductions.com",
-    "title": "Donna Mejia",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 2268,
-    "crawled_at": "2026-01-25T20:34:53.320958358Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "townsendconstructionllc.com",
-    "title": "Townsend Construction & Snow Removal | Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 708,
-    "crawled_at": "2026-01-25T11:20:27.814138648Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Perl",
-      "QUIC",
       "reCAPTCHA"
     ]
   }
