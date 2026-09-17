@@ -1,5 +1,44 @@
 [
   {
+    "domain": "trinityseattle.org",
+    "title": "Welcome | Trinity",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 26296,
+    "crawled_at": "2026-09-17T16:15:05.559378104Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "ClickUp",
+      "Content Delivery Network",
+      "DAV",
+      "Express",
+      "Fastly",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Calendar",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PWA",
+      "QUIC",
+      "SMC",
+      "Sentry",
+      "SiteW",
+      "Thank You",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "Wix",
+      "Wix Media",
+      "YouTube",
+      "eLand",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "secondchapter.solutions",
     "title": "SecondChapter",
     "business_name": "",
@@ -19231,36 +19270,6 @@
       "QUIC",
       "Stripe",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "cogentlabs.co",
-    "title": "Cogent - A full service software development company",
-    "business_name": "",
-    "country": "PAK",
-    "seo_score": 65,
-    "tech_spend": 34572,
-    "crawled_at": "2026-04-08T04:56:19.978370577Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "ClickUp",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "DAV",
-      "Flow",
-      "GZIP Module",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "WF Cookie Consent",
-      "Webflow",
-      "Webflow Ecommerce",
-      "jsDelivr"
     ]
   }
 ]
