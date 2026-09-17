@@ -1,5 +1,26 @@
 [
   {
+    "domain": "ainslieart.com",
+    "title": "James Ainslie - Australian Artist - Ainslie Art",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 62,
+    "tech_spend": 21416,
+    "crawled_at": "2026-09-17T11:25:41.92633548Z",
+    "technologies": [
+      "AAPT",
+      "Content Delivery Network",
+      "DAV",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "PWA",
+      "Sanity",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "typehints.com",
     "title": "TypeHints | Mobile and Web Development | Laravel + Vue.js + TailwindCSS - TypeHints",
     "business_name": "",
@@ -11996,25 +12017,6 @@
       "KVH",
       "Nginx",
       "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "hhbc.org.uk",
-    "title": "Home - Herne Hill Baptist Church",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 62,
-    "tech_spend": 15228,
-    "crawled_at": "2026-02-24T15:15:02.952691929Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Fireblade",
-      "Gridsome",
-      "Netlify",
-      "UTF-8"
     ]
   }
 ]
