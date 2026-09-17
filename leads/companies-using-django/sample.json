@@ -1,5 +1,71 @@
 [
   {
+    "domain": "staact.com",
+    "title": "Staact - Business Consultant",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 1108,
+    "crawled_at": "2026-09-17T00:51:36.747653702Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "QUIC",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "jrhpc.com",
+    "title": "Jeffrey R. Hacker, PC | Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 17460,
+    "crawled_at": "2026-09-16T14:35:26.018033188Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Line2",
+      "Perl",
+      "QUIC",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "synergybuilders.com",
+    "title": "Synergy Builders Consulting | Building Effective Leadership",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 2508,
+    "crawled_at": "2026-09-16T14:10:25.095987653Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Perl",
+      "QUIC",
+      "Twitter Ads",
+      "Vimeo",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "vr-wizard.fun",
     "title": "VR WIZARD",
     "business_name": "",
@@ -9220,121 +9286,6 @@
       "Google My Business",
       "Perl",
       "University or College"
-    ]
-  },
-  {
-    "domain": "staact.com",
-    "title": "Staact - Business Consultant",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 1108,
-    "crawled_at": "2026-01-26T16:23:52.328096081Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "QUIC",
-      "University or College"
-    ]
-  },
-  {
-    "domain": "noahsweldingrepair.com",
-    "title": "Noah’s Welding Repair and Cattle Guard Bumpers - Lockwood MO",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2308,
-    "crawled_at": "2026-01-26T14:47:38.888042123Z",
-    "technologies": [
-      "B12",
-      "Better Lead Generation Services",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Perl",
-      "QUIC",
-      "Twitter Ads",
-      "University or College",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "themanwithaglove.com",
-    "title": "The Man With A Glove | Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 708,
-    "crawled_at": "2026-01-26T14:16:28.972286321Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "Ubuntu",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "jrhpc.com",
-    "title": "Jeffrey R. Hacker, PC | Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 17460,
-    "crawled_at": "2026-01-26T07:45:40.689187912Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Line2",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "synergybuilders.com",
-    "title": "Synergy Builders Consulting | Building Effective Leadership",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 2508,
-    "crawled_at": "2026-01-26T07:23:03.588085314Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "Twitter Ads",
-      "Vimeo",
-      "reCAPTCHA"
     ]
   }
 ]
