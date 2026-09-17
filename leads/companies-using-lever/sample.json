@@ -1,5 +1,40 @@
 [
   {
+    "domain": "halosbodycams.com",
+    "title": "HALOS Body Cams | Fixed-Cost Body Cameras with Cloud Management",
+    "business_name": "HALOS Body Cams",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 145444,
+    "crawled_at": "2026-09-17T10:19:56.660820084Z",
+    "technologies": [
+      "Apollo IO",
+      "Apture Linking Platform",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Square",
+      "Express",
+      "Fastly",
+      "Fireblade",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Hubspot Knowledge Base",
+      "IcoMoon",
+      "Lever",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Plausible Analytics",
+      "SalesLoft",
+      "Twitter Ads",
+      "Twitter Analytics",
+      "UTF-8",
+      "eLand",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "checkranger.com",
     "title": "Ranger: the best way to test your product",
     "business_name": "",
@@ -2042,42 +2077,6 @@
       "Vector Internet Services",
       "WF Cookie Consent",
       "Webflow",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "halosbodyworncams.com",
-    "title": "HALOS Body Cams | Fixed-Cost Body Cameras with Cloud Management",
-    "business_name": "HALOS Body Cams | Fixed-Cost Body Cameras with Cloud Management",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 160216,
-    "crawled_at": "2026-06-02T16:14:46.177066187Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apollo IO",
-      "Apture Linking Platform",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Content Square",
-      "Fastly",
-      "Fireblade",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Hubspot Knowledge Base",
-      "IcoMoon",
-      "Lever",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Perl",
-      "SalesLoft",
-      "Twitter Ads",
-      "Twitter Analytics",
-      "UTF-8",
-      "eLand",
       "jsDelivr"
     ]
   },
@@ -9858,34 +9857,6 @@
       "jBoard",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "theblock.associates",
-    "title": "A deeper look at the HT to HTX token switcheroo | The Block",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 16000,
-    "crawled_at": "2026-01-26T20:07:43.438480307Z",
-    "technologies": [
-      "Angular",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "GoGrid",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Lever",
-      "Nuxt.js",
-      "Perl",
-      "QUIC",
-      "Telegram",
-      "University or College",
-      "Vector Internet Services",
-      "eLand"
     ]
   }
 ]
