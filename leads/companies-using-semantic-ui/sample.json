@@ -1,5 +1,25 @@
 [
   {
+    "domain": "wow.ps",
+    "title": "Home - واو عالم من الروعة",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 340,
+    "crawled_at": "2026-09-16T23:24:18.600111654Z",
+    "technologies": [
+      "Apache",
+      "Dialpad",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Semantic UI",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "blessingforeternity.in",
     "title": "Blessings for Eternity By Dr Koumal",
     "business_name": "",
@@ -14629,46 +14649,6 @@
       "Tailwind CSS",
       "Tawk",
       "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "evokeadagency.com",
-    "title": "Evoke Ad Agency",
-    "business_name": "Iconic Ad Works",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 40827,
-    "crawled_at": "2026-04-21T03:23:20.012404635Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Automattic",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Creative Mail by Constant Contact",
-      "Elementor",
-      "EmbedPress",
-      "GZIP Module",
-      "Google",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Hello Elementor",
-      "Jetpack",
-      "M247",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "Semantic UI",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
       "jQuery"
     ]
   }

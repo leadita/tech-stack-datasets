@@ -1,5 +1,69 @@
 [
   {
+    "domain": "zeromaxeld.com",
+    "title": "Innovative Fleet Management",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 279,
+    "crawled_at": "2026-09-17T13:39:00.743989619Z",
+    "technologies": [
+      "App Store",
+      "Chakra UI",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Google My Business",
+      "Google Play",
+      "Next.js",
+      "Ntent",
+      "Pleroma",
+      "QUIC",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "offsetcomms.africa",
+    "title": "Made in Africa - Offset Communications",
+    "business_name": "",
+    "country": "NGA",
+    "seo_score": 77,
+    "tech_spend": 15228,
+    "crawled_at": "2026-09-17T04:42:43.376312984Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Chakra UI",
+      "Content Delivery Network",
+      "DAV",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Microsoft Clarity",
+      "Netlify",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "nomadiceducation.mn",
+    "title": "Nomadic education",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": "",
+    "crawled_at": "2026-09-17T01:08:30.89334304Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "ecompapi.com.au",
     "title": "Award-Winning Digital Agency Australia | SEO, PPC & Growth",
     "business_name": "",
@@ -12911,76 +12975,6 @@
       "Pleroma",
       "QUIC",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "indevit.com",
-    "title": "Indevit",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 16520,
-    "crawled_at": "2026-05-11T18:20:20.009269686Z",
-    "technologies": [
-      "34SP.com",
-      "501c3 Status Nonprofit",
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Chakra UI",
-      "DAV",
-      "Financial Services Guide",
-      "Gatsby JS",
-      "Idaq",
-      "Instagram Follow Button",
-      "QUIC",
-      "SMC",
-      "Subversion",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "fulhampalacepharmacy.co.uk",
-    "title": "Fulham Palace Pharmacy | Travel Clinic & Private Blood Testing in Fulham",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 16872,
-    "crawled_at": "2026-05-11T17:20:20.018817597Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Digital Ocean Spaces",
-      "Express",
-      "Fireblade",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Oddle",
-      "Pleroma",
-      "QUIC",
-      "UTF-8",
-      "Unsplash",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "michaeltlennon.com",
-    "title": "Michael Lennon | About",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 200,
-    "crawled_at": "2026-05-11T16:14:19.982826343Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Chakra UI",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "UTF-8",
-      "University or College",
-      "Vercel"
     ]
   }
 ]
