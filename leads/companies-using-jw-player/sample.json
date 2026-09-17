@@ -1,5 +1,37 @@
 [
   {
+    "domain": "malaberg.com",
+    "title": "Malaberg - We Build Transformative Products",
+    "business_name": "Malaberg",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 18335,
+    "crawled_at": "2026-09-17T13:42:31.669420519Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apache",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "EWWW Image Optimizer",
+      "EmbedPress",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "JW Player Platform",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "WP Job Openings",
+      "WordPress",
+      "WordPress Multisite",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "cambodiadrivertour.com",
     "title": "Home - Cambodia Driver Tour",
     "business_name": "Cambodia Driver Tour",
@@ -38013,35 +38045,6 @@
       "Slider Revolution",
       "UTF-8",
       "University or College",
-      "YouTube",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "vintageorgan.com",
-    "title": "The Vintage Organ – Louie Foxx",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 279,
-    "crawled_at": "2026-03-27T18:32:02.200406225Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "JW Player Platform",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
       "YouTube",
       "jQuery"
     ]

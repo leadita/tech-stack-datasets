@@ -1,5 +1,36 @@
 [
   {
+    "domain": "haecowellness.com",
+    "title": "MyAtriumHealth - Schedule an Appointment",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 19172,
+    "crawled_at": "2026-09-17T03:20:50.132223461Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Aruba",
+      "Atrium Health",
+      "DAV",
+      "Express",
+      "Financial Services Guide",
+      "Google My Business",
+      "GroupMe",
+      "K2F",
+      "Kaltura",
+      "Microsoft Azure",
+      "No-Q",
+      "Paessler",
+      "Perl",
+      "QUIC",
+      "UTF-8",
+      "eLand",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "thecommonsjournal.org",
     "title": "International Journal of the Commons",
     "business_name": "",
@@ -7064,32 +7095,6 @@
     ]
   },
   {
-    "domain": "mystlukeschart.com",
-    "title": "My St. Luke's Chart - Login Page",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 27354,
-    "crawled_at": "2026-05-20T04:51:00.159523655Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Atrium Health",
-      "Financial Services Guide",
-      "Google My Business",
-      "IPFS",
-      "IcoMoon",
-      "Kaltura",
-      "No-Q",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "Smart App Banner",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "ijyal.ac.uk",
     "title": "The International Journal of Young Adult Literature",
     "business_name": "",
@@ -7243,35 +7248,6 @@
       "Zoom Video Conferencing",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "pinehallbrickwellness.com",
-    "title": "MyAtriumHealth - Schedule an Appointment",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 32213,
-    "crawled_at": "2026-05-19T16:44:19.982181802Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Aruba",
-      "Atrium Health",
-      "Financial Services Guide",
-      "Google My Business",
-      "GroupMe",
-      "IPFS",
-      "K2F",
-      "Kaltura",
-      "No-Q",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "UTF-8",
-      "eLand",
-      "jQuery",
-      "reCAPTCHA"
     ]
   },
   {
