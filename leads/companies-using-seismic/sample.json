@@ -1,5 +1,35 @@
 [
   {
+    "domain": "shivvyjervis.com",
+    "title": "Futurist Shivvy Jervis covers the most incredible innovations to come",
+    "business_name": "",
+    "country": "IRL",
+    "seo_score": 77,
+    "tech_spend": 90968,
+    "crawled_at": "2026-09-17T03:20:50.140394438Z",
+    "technologies": [
+      "AAPT",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Idaq",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "KVH",
+      "Negate",
+      "Nginx",
+      "QUIC",
+      "Seismic",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "globalmicroseismic.net",
     "title": "Microseismic - Specialists in Real-Time Completions Intelligence",
     "business_name": "Microseismic, Inc.",
@@ -2595,28 +2625,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "shivvyjervis.com",
-    "title": "Futurist Shivvy Jervis covers the most incredible innovations to come",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 40468,
-    "crawled_at": "2026-01-26T18:23:04.660036478Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Duda",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Nginx",
-      "Seismic",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
