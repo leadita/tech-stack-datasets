@@ -1,5 +1,54 @@
 [
   {
+    "domain": "gabyrive.com",
+    "title": "gaby rivera",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 76333,
+    "crawled_at": "2026-09-17T00:47:02.111885326Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Notion",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "seoocto.com",
+    "title": "Octo. All your sites. In one place.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 6440,
+    "crawled_at": "2026-09-16T16:28:26.162561415Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Figma",
+      "Google My Business",
+      "Next.js",
+      "Notion",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "jetone.live",
     "title": "Jet · Building a new species of AI-native companies",
     "business_name": "",
@@ -15951,65 +16000,6 @@
       "UTF-8",
       "YouTube",
       "monday.com"
-    ]
-  },
-  {
-    "domain": "jackychan.co",
-    "title": "Jacky Chan Portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 8123,
-    "crawled_at": "2026-05-19T12:56:20.026320617Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Figma",
-      "Framer Sites",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "KVH",
-      "Notion",
-      "Ntent",
-      "Subversion",
-      "Vector Internet Services",
-      "Yandex Hosting",
-      "Zeald"
-    ]
-  },
-  {
-    "domain": "designinterviewprep.com",
-    "title": "Design Interview Prep — AI-Powered Coaching",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 23640,
-    "crawled_at": "2026-05-19T11:53:19.99605598Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Airbnb",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Figma",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Notion",
-      "Pico CSS",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]
