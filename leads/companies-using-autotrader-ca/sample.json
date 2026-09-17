@@ -2384,35 +2384,5 @@
       "eLand",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "camscanada.com",
-    "title": "CAMS DMS | Free Demo, Free WEB site | Web Based Dealer Management System – Cams Canada | Auto Dealer Accounting Software| Rv Dealership Software | Small Used Car Dealer Software | Car Dealership Management Software Programs",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 32179,
-    "crawled_at": "2026-01-26T16:06:28.594288843Z",
-    "technologies": [
-      "Apache",
-      "AutoTrader CA",
-      "Black Book",
-      "CDN JS",
-      "CarGurus",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Clutch",
-      "Clutch Technologies",
-      "Elfsight",
-      "Financial Services Guide",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "Motive",
-      "QUIC",
-      "StackPath",
-      "Tailwind CSS",
-      "Tawk"
-    ]
   }
 ]
