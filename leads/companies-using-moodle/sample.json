@@ -1,5 +1,35 @@
 [
   {
+    "domain": "campusproxima.org",
+    "title": "CAMPUS PRÓXIMA",
+    "business_name": "",
+    "country": "ESP",
+    "seo_score": 65,
+    "tech_spend": 34308,
+    "crawled_at": "2026-09-17T07:24:25.044831991Z",
+    "technologies": [
+      "App Store",
+      "Content Delivery Network",
+      "Fastly",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Moodle",
+      "NFOrce Internet",
+      "Nginx",
+      "PHP",
+      "Totara",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "WordPress",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "10inthewind.com",
     "title": "10 In the Wind Trucking School: Log in to the site",
     "business_name": "",
@@ -1195,29 +1225,6 @@
       "Tailwind CSS",
       "Totara",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "unipaponline.com.ve",
-    "title": "UNIVERSIDAD PANAMERICANA DEL PUERTO",
-    "business_name": "",
-    "country": "VEN",
-    "seo_score": 55,
-    "tech_spend": 11100,
-    "crawled_at": "2026-01-26T14:55:21.28913459Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "DAV",
-      "Fastly",
-      "GZIP Module",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "Totara",
-      "Twitter Ads",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
