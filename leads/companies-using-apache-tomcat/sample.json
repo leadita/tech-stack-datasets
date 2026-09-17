@@ -1,5 +1,20 @@
 [
   {
+    "domain": "assetpatrolonline.com",
+    "title": "Asset Patrol",
+    "business_name": "",
+    "country": "OMN",
+    "seo_score": 62,
+    "tech_spend": "",
+    "crawled_at": "2026-09-17T15:06:54.143097138Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "QUIC",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "gtcloud1.com",
     "title": "GT Enterprise | Cloud ERP – Cloud ERP Solutions",
     "business_name": "",
@@ -13686,45 +13701,6 @@
       "Tailwind CSS",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "assetpatrolonline.com",
-    "title": "Asset Patrol",
-    "business_name": "",
-    "country": "OMN",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-01-27T04:03:03.462748091Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "QUIC",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "pmi-tucson.org",
-    "title": "Welcome | PMI Tucson",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 16668,
-    "crawled_at": "2026-01-26T23:33:29.365679474Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Apache Tomcat JK",
-      "AutoComplete",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "SmartAdServer Direct",
-      "Tailwind CSS",
-      "UTF-8",
-      "reCAPTCHA"
     ]
   }
 ]
