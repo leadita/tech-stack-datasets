@@ -1,5 +1,26 @@
 [
   {
+    "domain": "visaya.org",
+    "title": "Welcome to PhilippineProperties.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 22120,
+    "crawled_at": "2026-09-16T16:09:46.206328258Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Prospective",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "ismaelmuniz.com",
     "title": "Wedding Music Entertainment",
     "business_name": "",
@@ -82,27 +103,6 @@
       "GZIP Module",
       "Microdata for Google Shopping",
       "Prospective",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "laspinas.org",
-    "title": "Welcome to PhilippineProperties.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 22120,
-    "crawled_at": "2026-09-11T15:11:16.512057686Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Prospective",
-      "QUIC",
       "UTF-8"
     ]
   },
@@ -4675,84 +4675,6 @@
       "Microdata for Google Shopping",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "yorktownsailor.com",
-    "title": "USS Yorktown CV 10 CVA 10 CVS 10 | USS YORKTOWN Sailor",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 65159,
-    "crawled_at": "2026-01-26T20:16:40.511087018Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "Atomz",
-      "Coming Soon Page",
-      "DAV",
-      "Dynadot",
-      "Fireblade",
-      "GZIP Module",
-      "Google My Business",
-      "Harbor",
-      "QUIC",
-      "SMC",
-      "ShareASale",
-      "Squid",
-      "The Deck"
-    ]
-  },
-  {
-    "domain": "www.domainermixer.com",
-    "title": "Domainer Mixer | Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 663,
-    "crawled_at": "2026-01-26T15:43:22.77128565Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Beehiiv",
-      "Bunny Fonts",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Dynadot",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "complexityscience.org",
-    "title": "Finance and science – Complexity and urgency!",
-    "business_name": "",
-    "country": "IRQ",
-    "seo_score": 65,
-    "tech_spend": 15338,
-    "crawled_at": "2026-01-26T15:22:43.449979749Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Alternate Protocol",
-      "Apache",
-      "Dynadot",
-      "Fireblade",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Schema Plugin",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
