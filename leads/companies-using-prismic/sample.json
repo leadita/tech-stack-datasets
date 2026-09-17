@@ -1,5 +1,92 @@
 [
   {
+    "domain": "huelebienbyprudent.com",
+    "title": "Huele Bien",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 420,
+    "crawled_at": "2026-09-17T13:53:02.694668694Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "heliotexsolar.com",
+    "title": "heliotextile",
+    "business_name": "",
+    "country": "JPN",
+    "seo_score": 67,
+    "tech_spend": 15420,
+    "crawled_at": "2026-09-16T23:09:15.189048037Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "Prismic",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "ilkeliani.com",
+    "title": "Ilkeliani | Wilder",
+    "business_name": "",
+    "country": "KEN",
+    "seo_score": 82,
+    "tech_spend": 30420,
+    "crawled_at": "2026-09-16T20:42:45.893622087Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Next.js",
+      "Perl",
+      "Pleroma",
+      "Prismic",
+      "The Fresh",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "mergingbeats.it",
+    "title": "Merging Beats",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 5063,
+    "crawled_at": "2026-09-16T19:51:30.677928974Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "M247",
+      "Prismic",
+      "Svelte",
+      "Telegram",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "harwoodlevitt.com",
     "title": "Harwood Levitt Consulting",
     "business_name": "",
@@ -26,30 +113,6 @@
       "UTF-8",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "cliffboatsafaris.com",
-    "title": "Lake Nakuru Boat Cruise | Cliff Boat Safaris | Wilder",
-    "business_name": "",
-    "country": "KEN",
-    "seo_score": 87,
-    "tech_spend": 20420,
-    "crawled_at": "2026-09-15T20:44:07.126526808Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DC74",
-      "Fireblade",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "Prismic",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {
@@ -13523,85 +13586,6 @@
       "Vercel",
       "Vimeo",
       "Vimeo CDN",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "skilllab-ai.com",
-    "title": "SkillLab Home Page - SkillLab",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 1623,
-    "crawled_at": "2026-04-22T04:47:19.982806076Z",
-    "technologies": [
-      "Amazon",
-      "Content Delivery Network",
-      "Fastly",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google My Business",
-      "Google Tag Manager",
-      "Next.js",
-      "Pleroma",
-      "Prismic",
-      "Storyblocks",
-      "UTF-8",
-      "YouTube",
-      "Zendesk Embeddables"
-    ]
-  },
-  {
-    "domain": "khipi.com",
-    "title": "Khipi",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 7588,
-    "crawled_at": "2026-04-22T00:53:20.000016486Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Heap",
-      "Investor Relations",
-      "Material-UI",
-      "Neighborhoods",
-      "Next.js",
-      "Pleroma",
-      "Prismic",
-      "Shopify",
-      "Shopify Collabs",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "amsterdamdesignoffice.com",
-    "title": "Amsterdam Design Office",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 62,
-    "tech_spend": 4020,
-    "crawled_at": "2026-04-21T22:53:19.978546268Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Microsoft 365",
-      "Next.js",
-      "PWA",
-      "Perl",
-      "Pleroma",
-      "Prismic",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
       "shadcn ui"
     ]
   }
