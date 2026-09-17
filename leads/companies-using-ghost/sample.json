@@ -1,5 +1,32 @@
 [
   {
+    "domain": "vanboxtelphotography.com",
+    "title": "Van Boxtel Photography | Newborn Family Photography Madison, Wi",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2632,
+    "crawled_at": "2026-09-17T08:02:35.043373021Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Express",
+      "GZIP Module",
+      "Ghost",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Pixieset",
+      "UTF-8",
+      "Ubuntu",
+      "University or College"
+    ]
+  },
+  {
     "domain": "appware.solutions",
     "title": "Appware Solutions",
     "business_name": "",
@@ -13143,30 +13170,6 @@
       "UTF-8",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "jinpath.com",
-    "title": "Jinpath | Wisdom for Natural Well-being & Food Integrity",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 735,
-    "crawled_at": "2026-04-07T08:17:19.993434771Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Bunny Fonts",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Ghost",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]

@@ -1,5 +1,48 @@
 [
   {
+    "domain": "intolerantpacifist.com",
+    "title": "IntolerantPacifist",
+    "business_name": "IntolerantPacifist",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 247,
+    "crawled_at": "2026-09-17T00:47:02.124583438Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "CoreUI",
+      "Font Awesome",
+      "GoatCounter",
+      "Mastodon",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "galaxy-poster.com",
+    "title": "GALAXY-POSTERS",
+    "business_name": "GALAXY-POSTERS",
+    "country": "DEU",
+    "seo_score": 40,
+    "tech_spend": 61,
+    "crawled_at": "2026-09-16T23:24:18.588422571Z",
+    "technologies": [
+      "BunnyCDN Header",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "marketingextrem.ro",
     "title": "Marketing Extrem MKx",
     "business_name": "Marketing Extrem MKx",
@@ -4248,25 +4291,6 @@
     ]
   },
   {
-    "domain": "poster-galaxy.net",
-    "title": "Galaxy Posters",
-    "business_name": "Galaxy Posters",
-    "country": "DEU",
-    "seo_score": 40,
-    "tech_spend": 61,
-    "crawled_at": "2026-05-01T09:20:19.978976939Z",
-    "technologies": [
-      "BunnyCDN Header",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "adventurous2.ltd",
     "title": "Adventurous, too",
     "business_name": "",
@@ -8371,29 +8395,6 @@
       "Microdata for Google Shopping",
       "Publii",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "intolerantpacifist.com",
-    "title": "IntolerantPacifist",
-    "business_name": "IntolerantPacifist",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 247,
-    "crawled_at": "2026-01-26T16:22:43.431464326Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "CoreUI",
-      "Font Awesome",
-      "Mastodon",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
     ]
   }
 ]

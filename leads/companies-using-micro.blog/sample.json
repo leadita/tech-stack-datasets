@@ -1,5 +1,22 @@
 [
   {
+    "domain": "ashp.land",
+    "title": "ashp.land",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 40,
+    "tech_spend": 159,
+    "crawled_at": "2026-09-17T10:36:17.589522509Z",
+    "technologies": [
+      "Font Awesome",
+      "GitHub Hosting",
+      "LiteSpeed",
+      "Micro.blog",
+      "Tailwind CSS",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "niklas.fyi",
     "title": "Niklas Siefke",
     "business_name": "",
@@ -7888,24 +7905,6 @@
       "University or College",
       "Visual Studio",
       "eLand"
-    ]
-  },
-  {
-    "domain": "ashp.land",
-    "title": "ashp.land",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 45,
-    "tech_spend": 159,
-    "crawled_at": "2026-01-27T00:19:43.431312404Z",
-    "technologies": [
-      "Font Awesome",
-      "GitHub Hosting",
-      "LiteSpeed",
-      "Micro.blog",
-      "QUIC",
-      "Tailwind CSS",
-      "shadcn ui"
     ]
   }
 ]
