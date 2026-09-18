@@ -1,5 +1,58 @@
 [
   {
+    "domain": "birajainfotech.com",
+    "title": "Biraja Infotech | Enterprise Software Engineering, AI & Cloud Architecture",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 82,
+    "tech_spend": 5768,
+    "crawled_at": "2026-09-18T07:03:11.860054421Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Cloudflare",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "DAV",
+      "GZIP Module",
+      "GitHub Hosting",
+      "IcoMoon",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "WebAssembly"
+    ]
+  },
+  {
+    "domain": "hyperscale.zone",
+    "title": "Hyperscale.zone | Expert Fullstack Development & Web Solutions",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 15300,
+    "crawled_at": "2026-09-18T02:17:15.391912407Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Next.js",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "stef.engineer",
     "title": "Stefan Šoć-McLeod",
     "business_name": "",
@@ -14954,59 +15007,6 @@
       "UTF-8",
       "University or College",
       "Unix",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "dctsoft.com",
-    "title": "DCTSoft LLC – Fractional CTO, Software Consulting & Web Development | Kentucky",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 31059,
-    "crawled_at": "2026-04-28T06:29:20.010727416Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "Coming Soon Page",
-      "Fireblade",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "magno.me",
-    "title": "Marco Magnocavallo - Serial Entrepreneur & Angel Investor from Milan",
-    "business_name": "",
-    "country": "ITA",
-    "seo_score": 77,
-    "tech_spend": 2980,
-    "crawled_at": "2026-04-28T05:20:20.015923741Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "Facebook Reseller",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
       "Vercel"
     ]
   }
