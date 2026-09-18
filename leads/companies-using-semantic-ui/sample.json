@@ -1,5 +1,103 @@
 [
   {
+    "domain": "desh.su",
+    "title": "Nikolay Zakharov",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 600,
+    "crawled_at": "2026-09-18T14:54:57.611833496Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Semantic UI",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "sensetrix.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 576,
+    "crawled_at": "2026-09-18T11:28:30.655256189Z",
+    "technologies": [
+      "ChronoEngine",
+      "Coming Soon Page",
+      "IcoMoon",
+      "Joomla!",
+      "LiteSpeed",
+      "PHP",
+      "QUIC",
+      "RokNavMenu",
+      "Semantic UI",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "auraimmigration.com",
+    "title": "Aura Immigration",
+    "business_name": "",
+    "country": "MYS",
+    "seo_score": 70,
+    "tech_spend": 2440,
+    "crawled_at": "2026-09-18T04:16:27.142413701Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Forms",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "Schema Plugin",
+      "Semantic UI",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "greendimensionsfm.com",
+    "title": "Green Dimensions",
+    "business_name": "",
+    "country": "JOR",
+    "seo_score": 65,
+    "tech_spend": 158,
+    "crawled_at": "2026-09-17T20:07:08.607119125Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "ChronoEngine",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Joomla!",
+      "RokNavMenu",
+      "Semantic UI",
+      "Smart Slider 3",
+      "UTF-8",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "wow.ps",
     "title": "Home - واو عالم من الروعة",
     "business_name": "",
@@ -14563,92 +14661,6 @@
       "WordPress Multisite",
       "YouTube",
       "eLand",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "bcgo-m.com",
-    "title": "Bienvenue Chez BCGO Multiservices",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 60,
-    "tech_spend": 5003,
-    "crawled_at": "2026-04-21T09:12:09.966829931Z",
-    "technologies": [
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "M247",
-      "PHP",
-      "Semantic UI",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "perthceramic.com",
-    "title": "Home | Perth Ceramic Pvt Ltd.",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 77,
-    "tech_spend": 23360,
-    "crawled_at": "2026-04-21T06:31:25.356749226Z",
-    "technologies": [
-      "Apache",
-      "ArvanCloud",
-      "ETranslate",
-      "ElementUI",
-      "GTranslate",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "KVH",
-      "Semantic UI",
-      "Tawk",
-      "UTF-8",
-      "jQuery",
-      "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "introdays.org",
-    "title": "Home | Introdays",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 50,
-    "tech_spend": 3000,
-    "crawled_at": "2026-04-21T05:56:20.009962823Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Nginx",
-      "Pleroma",
-      "Prospective",
-      "Semantic UI",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "sfcans.com",
-    "title": "Sunrise Security Technology | sfcans.com",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 60,
-    "tech_spend": 216,
-    "crawled_at": "2026-04-21T04:41:19.985413238Z",
-    "technologies": [
-      "Baidu Cloud",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Nginx",
-      "PHP",
-      "Pleroma",
-      "Semantic UI",
-      "Tailwind CSS",
-      "Tawk",
-      "UTF-8",
       "jQuery"
     ]
   }
