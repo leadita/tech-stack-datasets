@@ -1,5 +1,59 @@
 [
   {
+    "domain": "hearingaids4kids.org",
+    "title": "Hearing Aids 4 Kids",
+    "business_name": "",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 10086,
+    "crawled_at": "2026-09-18T05:11:21.551461081Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Bunny Fonts",
+      "Content Delivery Network",
+      "DocuSign",
+      "Elementor",
+      "EmbedPress",
+      "Essential Addons for Elementor",
+      "Fastly",
+      "GZIP Module",
+      "Gambling Content",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Kitco",
+      "MonsterInsights",
+      "NFOrce Internet",
+      "Olark",
+      "QUIC",
+      "Site Kit",
+      "Table Addons for Elementor",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "truckaccessoriesfinancing.com",
+    "title": "Truck Accessories Financing - Coming Soon!",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 55,
+    "tech_spend": 120,
+    "crawled_at": "2026-09-17T23:46:37.116024931Z",
+    "technologies": [
+      "Apache",
+      "Coming Soon Page",
+      "DocuSign",
+      "GZIP Module",
+      "PHP",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "thebghclinicpa.com",
     "title": "Home Page - The BGH Clinic PA",
     "business_name": "The BGH Clinic PA",
@@ -629,43 +683,6 @@
       "YouTube",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "hearingaids.kids",
-    "title": "Hearing Aids 4 Kids",
-    "business_name": "",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 10086,
-    "crawled_at": "2026-08-23T09:16:45.639156851Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Bunny Fonts",
-      "Content Delivery Network",
-      "DocuSign",
-      "Elementor",
-      "EmbedPress",
-      "Essential Addons for Elementor",
-      "Fastly",
-      "GZIP Module",
-      "Gambling Content",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Kitco",
-      "MonsterInsights",
-      "NFOrce Internet",
-      "Olark",
-      "QUIC",
-      "Site Kit",
-      "Table Addons for Elementor",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   },
   {
@@ -1452,23 +1469,6 @@
       "Wix Media",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "reeferfinancing.com",
-    "title": "Refrigeration Unit Financing - Coming Soon!",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 55,
-    "tech_spend": 120,
-    "crawled_at": "2026-08-01T14:33:50.763382857Z",
-    "technologies": [
-      "Apache",
-      "Coming Soon Page",
-      "DocuSign",
-      "GZIP Module",
-      "PHP",
-      "UTF-8"
     ]
   },
   {
