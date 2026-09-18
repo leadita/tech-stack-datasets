@@ -5645,31 +5645,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "ideliverr.co.uk",
-    "title": "Same-Day Handymen | Gardeners | Plasterers In London",
-    "business_name": "iDeliverr",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 6668,
-    "crawled_at": "2026-01-27T23:40:43.445878314Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Call to Visit",
-      "CloudFront",
-      "Deliverr",
-      "Duda",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "Tailwind CSS",
-      "Tawk",
-      "Twitter Ads",
-      "UTF-8"
-    ]
   }
 ]
