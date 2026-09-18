@@ -1,5 +1,24 @@
 [
   {
+    "domain": "franklincareers.com",
+    "title": "Corporate Recruiting - The Franklin Career Group",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 708,
+    "crawled_at": "2026-09-17T17:22:53.687525908Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Perl",
+      "University or College"
+    ]
+  },
+  {
     "domain": "staact.com",
     "title": "Staact - Business Consultant",
     "business_name": "",
@@ -9266,25 +9285,6 @@
       "Django",
       "GZIP Module",
       "Google My Business",
-      "University or College"
-    ]
-  },
-  {
-    "domain": "franklincareers.com",
-    "title": "Corporate Recruiting - The Franklin Career Group",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 708,
-    "crawled_at": "2026-01-27T05:55:56.669944089Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Perl",
       "University or College"
     ]
   }
