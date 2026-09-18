@@ -9781,46 +9781,5 @@
       "Yandex Hosting",
       "jQuery"
     ]
-  },
-  {
-    "domain": "barn-restaurant.com",
-    "title": "Restaurant in Cork | The Barn",
-    "business_name": "",
-    "country": "IRL",
-    "seo_score": 77,
-    "tech_spend": 111007,
-    "crawled_at": "2026-01-27T14:28:43.443119309Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "DAV",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PWA",
-      "Perl",
-      "QUIC",
-      "Recruitee",
-      "SMC",
-      "SiteW",
-      "Thank You",
-      "Toast POS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "WP Booking Calendar",
-      "Wix",
-      "Wix Media",
-      "eLand",
-      "mlcom"
-    ]
   }
 ]
