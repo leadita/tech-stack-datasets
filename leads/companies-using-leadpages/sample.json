@@ -1,5 +1,35 @@
 [
   {
+    "domain": "davidbollt.com",
+    "title": "Home Bollt - David Bollt",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 444,
+    "crawled_at": "2026-09-18T10:57:50.75287889Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Apache",
+      "DAV",
+      "EmbedPress",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Lazy Load for WordPress",
+      "LeadPages",
+      "Microdata for Google Shopping",
+      "UTF-8",
+      "W3 Total Cache",
+      "Woo Themes",
+      "WooCommerce",
+      "WooCommerce Checkout",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "worshipexpedition.com",
     "title": "Worship Expedition | Training Resources for Worship Teams",
     "business_name": "",
@@ -2785,35 +2815,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vimeo"
-    ]
-  },
-  {
-    "domain": "davidbollt.com",
-    "title": "Home Bollt - David Bollt",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 444,
-    "crawled_at": "2026-01-27T20:19:43.430754259Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Apache",
-      "DAV",
-      "EmbedPress",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Lazy Load for WordPress",
-      "LeadPages",
-      "Microdata for Google Shopping",
-      "UTF-8",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
