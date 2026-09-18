@@ -1,5 +1,27 @@
 [
   {
+    "domain": "jordyvandereem.nl",
+    "title": "Jordy van der Eem",
+    "business_name": "",
+    "country": "RUS",
+    "seo_score": 65,
+    "tech_spend": 39727,
+    "crawled_at": "2026-09-18T19:06:49.048042963Z",
+    "technologies": [
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "PHP",
+      "Selligent",
+      "SharpSpring",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "mybizonlineservices.com",
     "title": "Local Online Marketing - Local Online Marketing",
     "business_name": "MyBiz OnLine Services, LLC",
@@ -21588,49 +21610,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "sendcast.io",
-    "title": "Sendcast - The ROI CRM",
-    "business_name": "Sendcast",
-    "country": "ZAF",
-    "seo_score": 82,
-    "tech_spend": 310256,
-    "crawled_at": "2026-04-09T03:14:19.978229294Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Bitrix",
-      "Bitrix24",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Gambling Content",
-      "Genesis Blocks",
-      "GetResponse",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hello Elementor",
-      "Heyflow App",
-      "Investor Relations",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Oracle Cloud",
-      "PHP",
-      "Salesforce",
-      "Salesforce Experience Cloud",
-      "Salesforce Hosted",
-      "SharpSpring",
-      "Taboola Direct",
-      "Theme In WP",
-      "UTF-8",
-      "Vector Internet Services",
-      "WP Engine",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
