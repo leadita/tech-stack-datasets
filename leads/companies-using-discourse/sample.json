@@ -331,38 +331,5 @@
       "YouTube",
       "jQuery"
     ]
-  },
-  {
-    "domain": "shastavortex.com",
-    "title": "Shasta Vortex Adventures |",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 65,
-    "tech_spend": 1622,
-    "crawled_at": "2026-01-27T07:07:43.43787871Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Discourse",
-      "Divi",
-      "Elegant Themes",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "PHP",
-      "SiteOrigin",
-      "SiteOrigin Panels",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
-    ]
   }
 ]
