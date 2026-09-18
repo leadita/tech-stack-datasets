@@ -17665,38 +17665,5 @@
       "hCaptcha",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "aralflos.shop",
-    "title": "L.M-STOREE",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 4948,
-    "crawled_at": "2026-01-27T14:25:43.451522305Z",
-    "technologies": [
-      "Adult Content",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Facebook Reseller",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Conversion Tracking",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "QUIC",
-      "Setmore",
-      "Shopify",
-      "Shopify Collabs",
-      "Tagembed",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "hCaptcha",
-      "reCAPTCHA"
-    ]
   }
 ]
