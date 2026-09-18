@@ -1,5 +1,31 @@
 [
   {
+    "domain": "arkansasquarterhorse.com",
+    "title": "Arkansas Quarter Horse Association | Home",
+    "business_name": "706 Elaine Street",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 27268,
+    "crawled_at": "2026-09-17T22:58:06.003049468Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "Baidu Cloud",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Prospective",
+      "Python",
+      "Site Search 360",
+      "UTF-8",
+      "Way",
+      "Yandex Hosting"
+    ]
+  },
+  {
     "domain": "austingynecomastiacenter.com",
     "title": "Austin Gynecomastia Center | Dr. Caridi | Top Gynecomastia Surgeon Austin",
     "business_name": "",
@@ -15972,21 +15998,6 @@
       "UTF-8",
       "YouTube",
       "ePages"
-    ]
-  },
-  {
-    "domain": "drmichaellevin.org",
-    "title": "The Levin Lab: Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 468,
-    "crawled_at": "2026-04-14T20:23:20.006035808Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Site Search 360",
-      "University or College"
     ]
   }
 ]
