@@ -1,5 +1,58 @@
 [
   {
+    "domain": "kongsgaard.eu",
+    "title": "Christian Kongsgaard",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 132,
+    "crawled_at": "2026-09-18T03:58:04.925613414Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Express",
+      "Ghost",
+      "Microdata for Google Shopping",
+      "Python",
+      "Stripe",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "harveyrose.com",
+    "title": "Home - Harvey M. Rose Associates, LLC Public Sector Management Consulting",
+    "business_name": "Harvey M. Rose Associates, LLC Public Sector Management Consulting",
+    "country": "VEN",
+    "seo_score": 85,
+    "tech_spend": 22095,
+    "crawled_at": "2026-09-18T02:01:57.886485731Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Font Awesome",
+      "Ghost",
+      "Gravity",
+      "Gravity Forms",
+      "Gutenberg",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Termly",
+      "Theme In WP",
+      "UTF-8",
+      "WP Engine",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "vanboxtelphotography.com",
     "title": "Van Boxtel Photography | Newborn Family Photography Madison, Wi",
     "business_name": "",
@@ -13121,55 +13174,6 @@
       "Microdata for Google Shopping",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "richardschlueter.law",
-    "title": "richardschlueter.law",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 23299,
-    "crawled_at": "2026-04-07T10:03:14.471379376Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Bunny Fonts",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Fireblade",
-      "Ghost",
-      "Microdata for Google Shopping",
-      "RM Education",
-      "UTF-8",
-      "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "ashleyspires.law",
-    "title": "ashleyspires.law",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 23299,
-    "crawled_at": "2026-04-07T08:18:52.620620208Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Bunny Fonts",
-      "Cloudflare",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Fireblade",
-      "Ghost",
-      "Microdata for Google Shopping",
-      "RM Education",
-      "UTF-8",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]
