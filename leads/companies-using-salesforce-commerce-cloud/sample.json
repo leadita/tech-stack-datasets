@@ -1,5 +1,25 @@
 [
   {
+    "domain": "dardansoft.com",
+    "title": "Tech's Kingdom",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 150300,
+    "crawled_at": "2026-09-17T21:18:16.400998586Z",
+    "technologies": [
+      "ElementUI",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Nginx",
+      "Ntent",
+      "Parallels Plesk Panel",
+      "RawGit",
+      "Salesforce Commerce Cloud",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "assem.nl",
     "title": "Mode voor dames en heren | Assem",
     "business_name": "",
@@ -17165,26 +17185,6 @@
       "WordPress Stats",
       "XTemos Studio",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "dardansoft.com",
-    "title": "Tech's Kingdom",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 150300,
-    "crawled_at": "2026-01-27T09:04:43.446986492Z",
-    "technologies": [
-      "ElementUI",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Nginx",
-      "Ntent",
-      "Parallels Plesk Panel",
-      "RawGit",
-      "Salesforce Commerce Cloud",
-      "WordPress"
     ]
   }
 ]
