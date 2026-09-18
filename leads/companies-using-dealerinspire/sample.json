@@ -10346,46 +10346,5 @@
       "accessiBe",
       "jQuery"
     ]
-  },
-  {
-    "domain": "ahimarketing.co",
-    "title": "Ahi Marketing | Automotive Dealership Digital Marketing",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 57740,
-    "crawled_at": "2026-01-27T15:58:59.344262492Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Authorize.net",
-      "Better Lead Generation Services",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Dealer.com",
-      "DealerInspire",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Fireblade",
-      "Fox Dealer",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google Tag Manager",
-      "Nuxt.js",
-      "QUIC",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "jsDelivr"
-    ]
   }
 ]
