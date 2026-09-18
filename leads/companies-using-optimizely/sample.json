@@ -1,5 +1,104 @@
 [
   {
+    "domain": "michelehadlow.com",
+    "title": "Zenfolio | Michele Hadlow",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 33284,
+    "crawled_at": "2026-09-18T05:38:34.320065216Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Appcues",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Format",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Optimizely Recommendations",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "chrisbiele.com",
+    "title": "Architecture & Interior Photography, Portraits, Event Coverage & Photo Booths",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 33287,
+    "crawled_at": "2026-09-18T03:58:04.909890204Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Appcues",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Format",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Optimizely Recommendations",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "lisamcdonaldphotography.com",
+    "title": "Lisa McDonald Photography",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 33287,
+    "crawled_at": "2026-09-18T02:58:14.961477601Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Appcues",
+      "Apture Linking Platform",
+      "Calendly",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Format",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Optimizely Recommendations",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "bethanysteerephotography.com",
+    "title": "Bethany Steere Photography",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 33284,
+    "crawled_at": "2026-09-17T22:58:06.001910071Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Appcues",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Format",
+      "Instagram Follow Button",
+      "Optimizely Recommendations",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "charlielima.de",
     "title": "Christoph Langer | Photography",
     "business_name": "",
@@ -17392,96 +17491,6 @@
       "Optimizely Recommendations",
       "QUIC",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "kaitlynporterphotography.com",
-    "title": "Kaitlyn Porter Lifestyle Photography",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 33191,
-    "crawled_at": "2026-07-30T09:19:29.876312253Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Appcues",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Optimizely Recommendations",
-      "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "sharonyvonne.com",
-    "title": "Sharon Yvonne Photography",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 33191,
-    "crawled_at": "2026-07-30T09:05:08.790638622Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Appcues",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Optimizely Recommendations",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "primaging.net",
-    "title": "Zenfolio | P R Imaging",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 33191,
-    "crawled_at": "2026-07-30T08:07:20.967724324Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Appcues",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Optimizely Recommendations",
-      "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "geoarts.net",
-    "title": "GeoArts International",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 33191,
-    "crawled_at": "2026-07-30T07:29:44.441474295Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Appcues",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Optimizely Recommendations",
-      "QUIC",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]
