@@ -2168,22 +2168,5 @@
       "eClinicalWorks",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "centralbillingbureau.com",
-    "title": "CENTRAL BILLING BUREAU",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 55,
-    "tech_spend": 4176,
-    "crawled_at": "2026-01-27T12:58:43.433532056Z",
-    "technologies": [
-      "GZIP Module",
-      "Kareo",
-      "Nginx",
-      "Practice Fusion",
-      "UTF-8",
-      "jQuery"
-    ]
   }
 ]

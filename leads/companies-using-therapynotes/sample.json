@@ -1,5 +1,38 @@
 [
   {
+    "domain": "meridianbilling.com",
+    "title": "Meridian Billing Services | Behavioral Health Medical Billing & Credentialing | Nationwide",
+    "business_name": "Meridian Billing Services LLC",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 17992,
+    "crawled_at": "2026-09-18T17:09:04.968354592Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Turnstile",
+      "ElementUI",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "License Buttons",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Pico CSS",
+      "QUIC",
+      "Tailwind CSS",
+      "TherapyNotes",
+      "Unix",
+      "Unsplash",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "drbettye.com",
     "title": "Home | Bettye",
     "business_name": "",
