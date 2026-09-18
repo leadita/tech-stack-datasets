@@ -1,5 +1,23 @@
 [
   {
+    "domain": "jsimonvanderwalt.com",
+    "title": "J Simon van der Walt",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-09-18T17:03:17.571639989Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Google Related Website Sites",
+      "Perl",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "docs.ia.io",
     "title": "Ignition User Manual",
     "business_name": "",
@@ -4074,24 +4092,6 @@
       "Perl",
       "To Top",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "tedthetrumpet.com",
-    "title": "J Simon van der Walt",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2026-05-15T01:14:19.973934666Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Google Related Website Sites",
-      "Perl",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {
