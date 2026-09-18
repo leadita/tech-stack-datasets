@@ -1,5 +1,26 @@
 [
   {
+    "domain": "11baawin.com",
+    "title": "baawin | Explore Fun and Engaging Games for All Ages with Baawin Platform",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 15000,
+    "crawled_at": "2026-09-17T14:40:47.783446109Z",
+    "technologies": [
+      "AWIN",
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Gambling Content",
+      "Microdata for Google Shopping",
+      "PWA",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "eemanispace.com",
     "title": "Trading Strategies, AI Tools & Market Ideas | EemaniSpace | Eemani",
     "business_name": "",
@@ -35631,28 +35652,6 @@
       "WordPress Multisite",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "aghaznawin.com",
-    "title": "Aghaznawin - Authorized Reseller of Kyocera Copiers & Printers",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 3400,
-    "crawled_at": "2026-04-01T09:59:19.992805376Z",
-    "technologies": [
-      "AWIN",
-      "Astro",
-      "B12",
-      "Better Lead Generation Services",
-      "GZIP Module",
-      "GetResponse",
-      "Google My Business",
-      "QUIC",
-      "Tailwind CSS",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   }
 ]

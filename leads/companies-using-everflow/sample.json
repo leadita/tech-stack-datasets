@@ -1,5 +1,25 @@
 [
   {
+    "domain": "illumalyte.com",
+    "title": "Illumalyte | We search worldwide to find the latest top trending new products. From home goods to electronics and more. Find the coolest deals here at illumalyte.com!",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 20000,
+    "crawled_at": "2026-09-17T14:50:48.054961587Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "Everflow",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Jekyll",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "getmagicmind.com",
     "title": "Magic Mind | The world’s first mental performance shot",
     "business_name": "Magic Mind",
