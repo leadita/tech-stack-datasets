@@ -1,6 +1,6 @@
 # Companies Using Radix UI (Live Dataset 2026)
 
-This folder contains an active list of 38,231 companies using **Radix UI**. 
+This folder contains an active list of 38,218 companies using **Radix UI**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 38,231
+- **Total Leads:** 38,218
 - **Verified:** Yes
-- **Last Updated:** 2026-09-18 15:00 UTC
+- **Last Updated:** 2026-09-19 15:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **38,231+** companies using Radix UI.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **38,218+** companies using Radix UI.
 
 [**⚡ Unlock the Full Radix UI List with Contact Details**](https://leadita.com/leads/companies-using-radix-ui)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-09-18 15:00 UTC*
+*Last updated: 2026-09-19 15:00 UTC*
 *Data source: Leadita Technographic Intelligence*

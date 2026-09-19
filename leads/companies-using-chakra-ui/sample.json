@@ -1,5 +1,62 @@
 [
   {
+    "domain": "saveshikharji.com",
+    "title": "Save Shikharji",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 62,
+    "tech_spend": 280,
+    "crawled_at": "2026-09-19T10:14:02.345180727Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "enreport.io",
+    "title": "Enreport Energy Management System",
+    "business_name": "",
+    "country": "FIN",
+    "seo_score": 72,
+    "tech_spend": 2940,
+    "crawled_at": "2026-09-19T00:28:28.508344453Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Microsoft Azure",
+      "Next.js",
+      "Pleroma",
+      "Subversion",
+      "UTF-8",
+      "Visual Studio"
+    ]
+  },
+  {
+    "domain": "supplyify.io",
+    "title": "Supplyify",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-09-18T17:45:06.571837311Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Next.js",
+      "Pico CSS",
+      "Pleroma",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "jpvteixeira.com",
     "title": "Joao Teixeira - Homepage",
     "business_name": "",
@@ -12899,78 +12956,6 @@
       "UTF-8",
       "Vercel",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "pet99prices.com",
-    "title": "Pet99Prices | Latest Pet Simulator 99 Prices",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 99,
-    "crawled_at": "2026-05-11T20:29:19.977686592Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "Font Awesome",
-      "Google Adsense",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google Reseller",
-      "Next.js",
-      "Pleroma",
-      "Product Hunt",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "mybabygender.com",
-    "title": "임신 초기 성별 예측 서비스 | My Baby's Gender(마베젠)",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 720,
-    "crawled_at": "2026-05-11T20:05:19.99478143Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Adsense",
-      "Google Related Website Sites",
-      "Next.js",
-      "Nginx",
-      "Pleroma",
-      "UTF-8",
-      "Ubuntu"
-    ]
-  },
-  {
-    "domain": "highsails.com",
-    "title": "Top Yacht Charters - Book Unforgettable Sailing Holidays",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 14665,
-    "crawled_at": "2026-05-11T19:05:19.993627558Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Drip",
-      "FullStory",
-      "Gatsby Image CDN",
-      "Gatsby JS",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Netlify",
-      "Prismic",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   }
 ]
