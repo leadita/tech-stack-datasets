@@ -1,5 +1,25 @@
 [
   {
+    "domain": "colegioadora.org",
+    "title": "Adoratrices",
+    "business_name": "",
+    "country": "URY",
+    "seo_score": 45,
+    "tech_spend": 11256,
+    "crawled_at": "2026-09-19T02:43:50.45844599Z",
+    "technologies": [
+      "Fastly",
+      "IcoMoon",
+      "LiteSpeed",
+      "Moodle",
+      "NFOrce Internet",
+      "PHP",
+      "Tailwind CSS",
+      "Totara",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "campusproxima.org",
     "title": "CAMPUS PRÓXIMA",
     "business_name": "",
@@ -1204,27 +1224,6 @@
       "Ubuntu",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "colegioadora.org",
-    "title": "Adoratrices",
-    "business_name": "",
-    "country": "URY",
-    "seo_score": 50,
-    "tech_spend": 11256,
-    "crawled_at": "2026-01-28T09:40:43.439814478Z",
-    "technologies": [
-      "Fastly",
-      "IcoMoon",
-      "LiteSpeed",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "Totara",
-      "UTF-8"
     ]
   }
 ]
