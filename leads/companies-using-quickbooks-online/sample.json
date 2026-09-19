@@ -1,5 +1,60 @@
 [
   {
+    "domain": "covenant.cpa",
+    "title": "Home | Covenant CPA LLC",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 13120,
+    "crawled_at": "2026-09-18T16:46:30.69490403Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "empowerbk.com",
+    "title": "Empower Bookkeeping : Welcome!",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 1600,
+    "crawled_at": "2026-09-18T16:25:27.877103931Z",
+    "technologies": [
+      "Apache",
+      "Express",
+      "Foundation",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "PHP",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "Yelp Badge",
+      "jQuery",
+      "reCAPTCHA",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "stuartedelstein.com",
     "title": "Home | Stuart, Edelstein, Linderman & Co., Inc.",
     "business_name": "",
@@ -10361,60 +10416,6 @@
       "Thank You",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "covenant.cpa",
-    "title": "Home | Covenant CPA LLC",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 12580,
-    "crawled_at": "2026-01-28T01:19:43.440764089Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "empowerbk.com",
-    "title": "Empower Bookkeeping : Welcome!",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 1600,
-    "crawled_at": "2026-01-28T01:02:42.17260114Z",
-    "technologies": [
-      "Apache",
-      "Express",
-      "Foundation",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "PHP",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "Yelp Badge",
-      "jQuery",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   }
 ]

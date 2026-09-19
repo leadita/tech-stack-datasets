@@ -1,5 +1,19 @@
 [
   {
+    "domain": "kj-events.eu",
+    "title": "KJ-events",
+    "business_name": "",
+    "country": "BEL",
+    "seo_score": 40,
+    "tech_spend": 226,
+    "crawled_at": "2026-09-18T16:46:30.696177097Z",
+    "technologies": [
+      "Iubenda",
+      "LiteSpeed",
+      "Xero"
+    ]
+  },
+  {
     "domain": "pbtaccountancy.co.uk",
     "title": "Accounting & Bookkeeping Services | PBT Accountancy | Cheltenham",
     "business_name": "",
@@ -18644,27 +18658,6 @@
       "Xero",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "fsiddiqi.com",
-    "title": "Welcome to FAISAL SIDDIQI & Co.",
-    "business_name": "",
-    "country": "PAK",
-    "seo_score": 70,
-    "tech_spend": 16080,
-    "crawled_at": "2026-05-02T21:08:20.001464384Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "QUIC",
-      "UTF-8",
-      "Xero",
-      "jQuery"
     ]
   }
 ]
