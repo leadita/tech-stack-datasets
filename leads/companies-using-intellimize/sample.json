@@ -1,5 +1,52 @@
 [
   {
+    "domain": "summit-digital.co.uk",
+    "title": "Summit Digital | High-Converting Webflow Experts for Growth",
+    "business_name": "Summit Digital",
+    "country": "GBR",
+    "seo_score": 87,
+    "tech_spend": 262825,
+    "crawled_at": "2026-09-18T22:01:56.909390722Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon S3 CDN",
+      "Animate It",
+      "Apture Linking Platform",
+      "Better Lead Generation Services",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Cybot",
+      "ElementUI",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "HubSpot Conversations",
+      "Hubspot",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Intellimize",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Salesforce Hosted",
+      "Storyblocks",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "WF Cookie Consent",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "atkris.nl",
     "title": "AtKris Studio Vintage Design Furniture",
     "business_name": "",
@@ -19463,30 +19510,6 @@
       "UTF-8",
       "WF Cookie Consent",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "larchiviste.art",
-    "title": "L'ARCHIVISTE - Modern and Contemporary Diasporic African Art",
-    "business_name": "",
-    "country": "COG",
-    "seo_score": 67,
-    "tech_spend": 83144,
-    "crawled_at": "2026-05-18T14:21:27.348006369Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "GZIP Module",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Intellimize",
-      "Tailwind CSS",
-      "UTF-8",
-      "WF Cookie Consent",
-      "Webflow"
     ]
   }
 ]
