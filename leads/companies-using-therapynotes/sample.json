@@ -1,5 +1,35 @@
 [
   {
+    "domain": "funbdox.com",
+    "title": "Capital Products for Small Businesses | Fundbox",
+    "business_name": "Fundbox",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 9025,
+    "crawled_at": "2026-09-19T07:16:06.104533842Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Google Customer Reviews",
+      "Google My Business",
+      "Housecall Pro",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Nuxt.js",
+      "QUIC",
+      "Tailwind CSS",
+      "TherapyNotes",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "Zope",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "meridianbilling.com",
     "title": "Meridian Billing Services | Behavioral Health Medical Billing & Credentialing | Nationwide",
     "business_name": "Meridian Billing Services LLC",
@@ -235,35 +265,6 @@
       "WordPress Multisite",
       "eClinicalWorks",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "wwwfundbox.com",
-    "title": "Capital Products for Small Businesses | Fundbox",
-    "business_name": "Fundbox",
-    "country": "USA",
-    "seo_score": 92,
-    "tech_spend": 9025,
-    "crawled_at": "2026-09-10T00:22:50.211258578Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Google Customer Reviews",
-      "Google My Business",
-      "Housecall Pro",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Nuxt.js",
-      "QUIC",
-      "Tailwind CSS",
-      "TherapyNotes",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "shadcn ui"
     ]
   },
   {
