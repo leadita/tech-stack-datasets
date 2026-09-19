@@ -1,5 +1,48 @@
 [
   {
+    "domain": "futureworks.vc",
+    "title": "FutureWorks VC",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 67,
+    "tech_spend": 7268,
+    "crawled_at": "2026-09-19T12:07:31.421643344Z",
+    "technologies": [
+      "B12",
+      "Cisco/Arrowpoint Content Service Switch",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Perl",
+      "QUIC",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "thereliablemove.com",
+    "title": "Reliable Movers - Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 31536,
+    "crawled_at": "2026-09-19T11:50:26.549436075Z",
+    "technologies": [
+      "Adult Content",
+      "Apture Linking Platform",
+      "B12",
+      "Better Lead Generation Services",
+      "DAV",
+      "Django",
+      "Drift",
+      "GZIP Module",
+      "Google My Business",
+      "IcoMoon",
+      "University or College"
+    ]
+  },
+  {
     "domain": "franklincareers.com",
     "title": "Corporate Recruiting - The Franklin Career Group",
     "business_name": "",
@@ -9159,133 +9202,6 @@
       "Perl",
       "QUIC",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "futureworks.vc",
-    "title": "FutureWorks VC",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 67,
-    "tech_spend": 7268,
-    "crawled_at": "2026-01-28T17:21:44.467633727Z",
-    "technologies": [
-      "B12",
-      "Cisco/Arrowpoint Content Service Switch",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "thereliablemove.com",
-    "title": "Reliable Movers - Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 31536,
-    "crawled_at": "2026-01-28T17:07:50.443355037Z",
-    "technologies": [
-      "Adult Content",
-      "Apture Linking Platform",
-      "B12",
-      "Better Lead Generation Services",
-      "DAV",
-      "Django",
-      "Drift",
-      "GZIP Module",
-      "Google My Business",
-      "IcoMoon",
-      "University or College"
-    ]
-  },
-  {
-    "domain": "designs-codes.com",
-    "title": "Designs Codes",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 4150,
-    "crawled_at": "2026-01-28T10:58:43.436052324Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apache",
-      "ArvanCloud",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Clutch",
-      "Django",
-      "Elementor",
-      "EmbedPress",
-      "Flask",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "NFOrce Internet",
-      "PHP",
-      "Python",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery",
-      "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "juleneshairpetals.com",
-    "title": "Julene's Hair Petals | Queens, NY Hair Store",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2308,
-    "crawled_at": "2026-01-28T07:48:59.741632353Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Perl",
-      "QUIC",
-      "University or College",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "tailgatekingzal.com",
-    "title": "Tailgate Kingz - Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 1068,
-    "crawled_at": "2026-01-28T03:20:52.653610162Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "Google My Business",
-      "University or College"
     ]
   }
 ]
