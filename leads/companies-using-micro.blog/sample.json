@@ -1,5 +1,27 @@
 [
   {
+    "domain": "iambismark.net",
+    "title": "I Am Bismark",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 60,
+    "crawled_at": "2026-09-18T17:41:36.977882206Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Hugo",
+      "Micro.blog",
+      "Netlify",
+      "Twitter Ads",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "ashp.land",
     "title": "ashp.land",
     "business_name": "",
@@ -7858,27 +7880,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vector Internet Services",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "iambismark.net",
-    "title": "I Am Bismark",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 60,
-    "crawled_at": "2026-01-28T02:09:37.707581104Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Micro.blog",
-      "Netlify",
-      "Twitter Ads",
-      "UTF-8",
       "shadcn ui"
     ]
   }

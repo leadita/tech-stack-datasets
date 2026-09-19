@@ -12117,27 +12117,5 @@
       "jQuery",
       "uPress"
     ]
-  },
-  {
-    "domain": "lovesinghal.me",
-    "title": "Love Singhal – Backend & Full-Stack Developer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 588,
-    "crawled_at": "2026-01-28T11:01:57.266974858Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Hasnode",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
   }
 ]
