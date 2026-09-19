@@ -1,12 +1,12 @@
 [
   {
-    "domain": "tkssalutions.com",
+    "domain": "sejztenterprise.com",
     "title": "ClickFunnels Landing Page",
     "business_name": "",
     "country": "",
     "seo_score": 50,
     "tech_spend": 1841,
-    "crawled_at": "2026-09-18T17:41:36.976554746Z",
+    "crawled_at": "2026-09-19T13:36:57.89815676Z",
     "technologies": [
       "AWS WAF Challenge",
       "Aruba",
@@ -18,12 +18,52 @@
       "Facebook Messenger Platform",
       "Facebook Reseller",
       "Font Awesome",
-      "GetResponse",
+      "GZIP Module",
       "Google Cloud DNS",
       "Google Font API",
+      "Nginx",
       "UTF-8",
       "W3 Total Cache",
       "eLand"
+    ]
+  },
+  {
+    "domain": "refleqt.ro",
+    "title": "Refleqt | Descopera inteligenta emotionala ca sa traiesti cu adevarat in fiecare zi.",
+    "business_name": "",
+    "country": "ROU",
+    "seo_score": 70,
+    "tech_spend": 3613,
+    "crawled_at": "2026-09-19T04:03:23.386431154Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ClickFunnels",
+      "Cookie Accept",
+      "Cookie Notice",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "LiteSpeed",
+      "PHP",
+      "Perl",
+      "Q2W3 Fixed Widget",
+      "Theme In WP",
+      "WP Fastest Cache",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "reCAPTCHA"
     ]
   },
   {
@@ -20143,37 +20183,6 @@
       "WordPress Stats",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "cbcoaching.guru",
-    "title": "Next Level Coaching: Unlock Your Full Potential | Personal & Professional Growth Guidance",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 17607,
-    "crawled_at": "2026-02-12T11:05:50.881181543Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Aruba",
-      "Automattic",
-      "CDN JS",
-      "ClickFunnels",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "UTF-8",
-      "eLand"
     ]
   }
 ]
