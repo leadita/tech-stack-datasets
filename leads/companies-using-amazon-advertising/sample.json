@@ -1,5 +1,33 @@
 [
   {
+    "domain": "eipbs.ru",
+    "title": "ЕИПБС",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 10123,
+    "crawled_at": "2026-09-18T12:48:39.460991474Z",
+    "technologies": [
+      "AdGuard",
+      "Adform Direct",
+      "Amazon Advertising Sizmek Ad Suite",
+      "Baidu Cloud",
+      "DoubleClick Bid Manager",
+      "FormSubmit",
+      "FriendFinder Networks",
+      "Google Adsense",
+      "Google Cloud DNS",
+      "Google Font API",
+      "MGID",
+      "Mediaplex",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "smartboardindonesia.com",
     "title": "SMART Board Indonesia",
     "business_name": "",
@@ -8883,34 +8911,6 @@
       "Zanox",
       "admitad",
       "financeAds",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "eipbs.ru",
-    "title": "ЕИПБС",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 10123,
-    "crawled_at": "2026-01-27T21:55:43.430511006Z",
-    "technologies": [
-      "AdGuard",
-      "Adform Direct",
-      "Amazon Advertising Sizmek Ad Suite",
-      "Baidu Cloud",
-      "DoubleClick Bid Manager",
-      "FormSubmit",
-      "FriendFinder Networks",
-      "Google Adsense",
-      "Google Cloud DNS",
-      "Google Font API",
-      "MGID",
-      "Mediaplex",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Schema Plugin",
       "jQuery"
     ]
   }
