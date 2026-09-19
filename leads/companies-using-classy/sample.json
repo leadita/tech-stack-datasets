@@ -1,5 +1,41 @@
 [
   {
+    "domain": "sciencecommons.org",
+    "title": "Impact - Creative Commons",
+    "business_name": "",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 21816,
+    "crawled_at": "2026-09-19T07:54:44.249991952Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Classy",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "EmbedPress",
+      "Font Awesome",
+      "FreeCSSTemplates",
+      "GoFundMe",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "License Buttons",
+      "Mastodon",
+      "Microdata for Google Shopping",
+      "MonsterInsights",
+      "PHP",
+      "Perl",
+      "TablePress",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "haitipartners.org",
     "title": "Haiti Partners Home - Haiti Partners",
     "business_name": "Haiti Partners",
@@ -11090,31 +11126,6 @@
       "University or College",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "creativecommons.engineering",
-    "title": "Welcome — Creative Commons Open Source",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 9435,
-    "crawled_at": "2026-05-19T23:31:28.556738016Z",
-    "technologies": [
-      "Classy",
-      "Content Delivery Network",
-      "Fastly",
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "IcoMoon",
-      "License Buttons",
-      "Mastodon",
-      "Netlify",
-      "Pleroma",
-      "UTF-8",
-      "Vercel",
-      "jQuery"
     ]
   },
   {
