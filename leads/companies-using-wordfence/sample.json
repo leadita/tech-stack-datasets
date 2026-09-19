@@ -23182,48 +23182,5 @@
       "Wordfence",
       "jQuery"
     ]
-  },
-  {
-    "domain": "zarjewellery.co.uk",
-    "title": "ZAR Jewellery | Inspired by Persian heritage & nature",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 3424,
-    "crawled_at": "2026-01-28T14:37:43.444023938Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Complianz",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Express",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WooFramework",
-      "WordPress",
-      "WordPress Multisite",
-      "Wordfence",
-      "XTemos Studio",
-      "jQuery",
-      "reCAPTCHA"
-    ]
   }
 ]
