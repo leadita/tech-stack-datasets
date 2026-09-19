@@ -1,5 +1,96 @@
 [
   {
+    "domain": "biohealthegypt.com",
+    "title": "Biohealth Egypt Company",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 30003,
+    "crawled_at": "2026-09-19T09:01:30.335751791Z",
+    "technologies": [
+      "Apache",
+      "Cart.com",
+      "Google Cloud DNS",
+      "Google Font API",
+      "OpenCart",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "cshgift.com",
+    "title": "上海和礼|文创礼品定制|中国专业一站式礼赠品定制服务平台",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 77510,
+    "crawled_at": "2026-09-19T06:39:50.327949344Z",
+    "technologies": [
+      "Apache",
+      "Baidu Ads",
+      "Baidu Analytics",
+      "Baidu Cloud",
+      "Cart.com",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "OpenCart",
+      "Tailwind CSS",
+      "TemplateMela",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "bbahi.com",
+    "title": "B B Hardware Wholesale Shower Commercial Glass Glazing",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 75189,
+    "crawled_at": "2026-09-19T03:17:39.676400999Z",
+    "technologies": [
+      "Cart.com",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "OpenCart",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "nikiforovstudio.com",
+    "title": "Никифоров | Сребърна и златна бижутерия ръчна изработка",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 75110,
+    "crawled_at": "2026-09-18T19:30:51.446717352Z",
+    "technologies": [
+      "Cart.com",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "OpenCart",
+      "PHP",
+      "Tailwind CSS",
+      "TemplateMela",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "ceramofasad.ru",
     "title": "Компания «КерамоФасад» поставщик немецкого клинкера и прочих отделочных материалов. - Компания «ТД КерамоФасад» поставщик российского, беларусского, иранского, польского, немецкого, испанского клинкера и прочих отделочных материалов.",
     "business_name": "",
@@ -1308,36 +1399,6 @@
       "QUIC",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "al-laith.com",
-    "title": "مجموعة الليث AL Laith Group",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 75607,
-    "crawled_at": "2026-09-09T10:11:50.120562302Z",
-    "technologies": [
-      "Cart.com",
-      "CookieConsent",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Nginx",
-      "OpenCart",
-      "PHP",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   },
   {
@@ -12248,77 +12309,6 @@
       "OpenCart",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "steamshowers4less.com",
-    "title": "Home Luxury Steam Showers | Steam Showers 4 Less",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 90628,
-    "crawled_at": "2026-05-17T06:45:11.405164313Z",
-    "technologies": [
-      "Apache",
-      "Cart.com",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Hello Bar",
-      "OpenCart",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Wangsu"
-    ]
-  },
-  {
-    "domain": "sagatrading.jp",
-    "title": "Saga Trading",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 62,
-    "tech_spend": 75040,
-    "crawled_at": "2026-05-17T06:22:40.573993408Z",
-    "technologies": [
-      "Cart.com",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "izzabugra.com.ua",
-    "title": "магазин ІЗ ЗА БУГРА",
-    "business_name": "",
-    "country": "UKR",
-    "seo_score": 62,
-    "tech_spend": 130099,
-    "crawled_at": "2026-05-17T06:07:47.325047693Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cart.com",
-      "Font Awesome",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Nginx",
-      "OpenCart",
-      "QUIC",
-      "SMC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "YouTube"
     ]
   }
 ]
