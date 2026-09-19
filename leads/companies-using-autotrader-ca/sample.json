@@ -1,36 +1,12 @@
 [
   {
-    "domain": "vehiclesell.co.uk",
-    "title": "Cars & Trucks – Sell your Vehicle online FREE",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 70,
-    "tech_spend": 2817,
-    "crawled_at": "2026-09-13T01:16:44.590453731Z",
-    "technologies": [
-      "Alternate Protocol",
-      "AutoTrader CA",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Jetpack",
-      "LiteSpeed",
-      "QUIC",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Stats"
-    ]
-  },
-  {
-    "domain": "theradiantvoice.com",
+    "domain": "jenniferlouisemercer.com",
     "title": "Jennifer Louise Mercer // Voiceover Talent",
     "business_name": "Jennifer Louise Mercer // The Radiant Voice",
     "country": "CAN",
-    "seo_score": 87,
+    "seo_score": 77,
     "tech_spend": 90328,
-    "crawled_at": "2026-09-05T00:35:13.149794066Z",
+    "crawled_at": "2026-09-19T10:05:56.957404369Z",
     "technologies": [
       "Alternate Protocol",
       "Amazon WAF Blocked",
@@ -61,8 +37,31 @@
       "Wix",
       "Wix Media",
       "YouTube",
-      "eLand",
       "mlcom"
+    ]
+  },
+  {
+    "domain": "vehiclesell.co.uk",
+    "title": "Cars & Trucks – Sell your Vehicle online FREE",
+    "business_name": "",
+    "country": "JPN",
+    "seo_score": 70,
+    "tech_spend": 2817,
+    "crawled_at": "2026-09-13T01:16:44.590453731Z",
+    "technologies": [
+      "Alternate Protocol",
+      "AutoTrader CA",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Jetpack",
+      "LiteSpeed",
+      "QUIC",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Stats"
     ]
   },
   {
@@ -2334,55 +2333,6 @@
       "UTF-8",
       "Vercel",
       "WordPress"
-    ]
-  },
-  {
-    "domain": "qawolfpro.com",
-    "title": "QA Wolf | 80% automated test coverage in 4 months",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 228356,
-    "crawled_at": "2026-01-28T06:34:43.428130754Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon S3 CDN",
-      "Appium",
-      "ArvanCloud",
-      "AutoTrader CA",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Clutch",
-      "Content Delivery Network",
-      "Drata",
-      "ElementUI",
-      "Flow",
-      "FormSubmit",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Ntent",
-      "RawGit",
-      "Salesforce Hosted",
-      "Storyblocks",
-      "Tailwind CSS",
-      "TrustRadius",
-      "Twitter Ads",
-      "UTF-8",
-      "WF Cookie Consent",
-      "Yandex Hosting",
-      "YouTube",
-      "eLand",
-      "jsDelivr"
     ]
   }
 ]
