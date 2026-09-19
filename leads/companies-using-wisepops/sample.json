@@ -1,5 +1,31 @@
 [
   {
+    "domain": "greyproperties.co",
+    "title": "Grey Luxury Properties",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 51247,
+    "crawled_at": "2026-09-19T12:07:31.430730648Z",
+    "technologies": [
+      "Airbnb",
+      "Apache",
+      "Carrd",
+      "Facebook Customer Chat SDK",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Harbor",
+      "SMC",
+      "Wisepops"
+    ]
+  },
+  {
     "domain": "terapump.ca",
     "title": "BRS Super Pumps",
     "business_name": "BRS Super Pumps",
@@ -21586,51 +21612,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "denisealbright.com",
-    "title": "Organizational Tools to Help You Get Where You Want to Be – Denise Albright®",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 41160,
-    "crawled_at": "2026-04-02T20:20:19.985217168Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "Attentive",
-      "Azure Edge",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ECSHOP",
-      "Express",
-      "Fastly",
-      "GoAffPro",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "Loop Returns",
-      "Microsoft Azure",
-      "Microsoft Azure Verified CDN",
-      "Reamaze",
-      "Shopify",
-      "Shopify Collabs",
-      "SiteW",
-      "UTF-8",
-      "Wisepops",
-      "YouTube",
-      "Zipify",
-      "eLand",
-      "hCaptcha",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
