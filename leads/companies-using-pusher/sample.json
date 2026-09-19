@@ -1,5 +1,42 @@
 [
   {
+    "domain": "maritimeprofessionaljobs.com",
+    "title": "Maritime Professional Jobs – Oceans of Career Opportunities",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 271,
+    "crawled_at": "2026-09-19T00:24:25.020786635Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Careerfy Theme",
+      "Contact Form Plugin",
+      "Elementor",
+      "EmbedPress",
+      "Gambling Content",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gravity Forms",
+      "PHP",
+      "Pusher",
+      "QUIC",
+      "Slider Revolution",
+      "Theme In WP",
+      "UTF-8",
+      "WPBakery",
+      "Woo Themes",
+      "WooCommerce",
+      "WooCommerce Checkout",
+      "WordPress",
+      "WordPress Multisite",
+      "eLand",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "starstell.com",
     "title": "Online Astrology Prediction by Best Astrologer 24x7 – StarsTell",
     "business_name": "",
@@ -20546,32 +20583,6 @@
       "WhatsApp Sharing",
       "Winter CMS",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "advertly.com",
-    "title": "Landing | Advertly",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 3,
-    "crawled_at": "2026-05-11T22:53:19.983218376Z",
-    "technologies": [
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "PHP",
-      "Pusher",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
