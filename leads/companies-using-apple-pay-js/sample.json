@@ -1,5 +1,32 @@
 [
   {
+    "domain": "beasthy.com",
+    "title": "Sportswear & Gym Clothes | Beasthy",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 27940,
+    "crawled_at": "2026-09-19T05:47:57.942247575Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apple Pay JS",
+      "Ektron",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Pay",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microsoft Azure",
+      "OpenResty",
+      "Parcel",
+      "Shoptet",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "buildchabadsmc.com",
     "title": "Building the Future - Chabad at S. Monica College",
     "business_name": "",
@@ -10650,32 +10677,6 @@
       "Nginx",
       "Parcel",
       "Shoptet",
-      "Thank You",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "beasthy.com",
-    "title": "Sportswear & Gym Clothes | Beasthy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 27940,
-    "crawled_at": "2026-01-28T12:21:36.375996137Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apple Pay JS",
-      "Ektron",
-      "Google Analytics",
-      "Google My Business",
-      "Google Pay",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microsoft Azure",
-      "Nginx",
-      "Parcel",
-      "Shoptet",
-      "Tailwind CSS",
       "Thank You",
       "UTF-8"
     ]
