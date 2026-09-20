@@ -1,5 +1,33 @@
 [
   {
+    "domain": "dswacpa.com",
+    "title": "Home | DSWA Certified Public Accountants",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 14060,
+    "crawled_at": "2026-09-20T08:10:49.294334848Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Dext",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "Zoom Video Conferencing",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "covenant.cpa",
     "title": "Home | Covenant CPA LLC",
     "business_name": "",
@@ -10362,59 +10390,6 @@
       "WordPress Multisite",
       "Xero",
       "Zoom Video Conferencing",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "dswacpa.com",
-    "title": "Home | DSWA Certified Public Accountants",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 13520,
-    "crawled_at": "2026-01-29T08:38:09.116525043Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "Dext",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "Zoom Video Conferencing",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "protaxus.com",
-    "title": "Pro Tax Services offers accounting, tax preparation, payroll and consulting services in Lake Mary, Seminole County, Florida",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 15360,
-    "crawled_at": "2026-01-29T05:58:43.442568999Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Joomla!",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "QuickBooks Online",
-      "RokNavMenu",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
       "jQuery"
     ]
   }
