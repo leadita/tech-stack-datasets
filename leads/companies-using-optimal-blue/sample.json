@@ -1,5 +1,39 @@
 [
   {
+    "domain": "doubleplayfinancial.com",
+    "title": "Double Play Financial",
+    "business_name": "",
+    "country": "IMN",
+    "seo_score": 65,
+    "tech_spend": 30640,
+    "crawled_at": "2026-09-20T15:12:10.749852809Z",
+    "technologies": [
+      "Alternate Protocol",
+      "DAV",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Jetpack",
+      "Nginx",
+      "Optimal Blue",
+      "PHP",
+      "Perl",
+      "SiteOrigin",
+      "SiteOrigin Panels",
+      "Smart Slider 3",
+      "Theme In WP",
+      "UTF-8",
+      "Vantage",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "needafhamortgage.com",
     "title": "Home Loans & Mortgage Refinance | Goldwire Mortgage, LLC.",
     "business_name": "",
@@ -7748,41 +7782,6 @@
       "WordPress",
       "WordPress Multisite",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "doubleplayfinancial.com",
-    "title": "Double Play Financial",
-    "business_name": "",
-    "country": "IMN",
-    "seo_score": 65,
-    "tech_spend": 30640,
-    "crawled_at": "2026-01-29T13:39:55.835691477Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "DAV",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Jetpack",
-      "Nginx",
-      "Optimal Blue",
-      "PHP",
-      "Perl",
-      "SiteOrigin",
-      "SiteOrigin Panels",
-      "Smart Slider 3",
-      "Theme In WP",
-      "UTF-8",
-      "Vantage",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
