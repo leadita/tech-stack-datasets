@@ -1,5 +1,37 @@
 [
   {
+    "domain": "99freightinc.com",
+    "title": "99 Freight Inc – Trucking Company",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 231,
+    "crawled_at": "2026-09-20T13:31:17.396619703Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CheryFramework",
+      "DocuSign",
+      "EmbedPress",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Kallyas",
+      "Nginx",
+      "PHP",
+      "Slider Revolution",
+      "Subversion",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "americaschristiancu.com",
     "title": "America's Christian Credit Union | Faith-Based Banking with ACCU",
     "business_name": "",
@@ -11673,38 +11705,6 @@
       "WordPress",
       "WordPress Multisite",
       "WordPress Stats",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "99freightinc.com",
-    "title": "99 Freight Inc – Trucking Company",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 231,
-    "crawled_at": "2026-01-29T12:25:48.868798838Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CheryFramework",
-      "DocuSign",
-      "EmbedPress",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Kallyas",
-      "Nginx",
-      "PHP",
-      "Slider Revolution",
-      "Subversion",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
       "jQuery"
     ]
   }

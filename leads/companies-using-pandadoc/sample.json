@@ -1,5 +1,32 @@
 [
   {
+    "domain": "straightupmasonry.net",
+    "title": "Straight Up Masonry",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 81561,
+    "crawled_at": "2026-09-20T04:13:25.156963986Z",
+    "technologies": [
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "PandaDoc",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "novavia.dev",
     "title": "Nova Via - Rapid Apps for Businesses",
     "business_name": "",
@@ -2787,36 +2814,6 @@
       "Yandex Hosting",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "straightupmasonry.net",
-    "title": "Straight Up Masonry",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 26912,
-    "crawled_at": "2026-01-29T05:49:43.428271826Z",
-    "technologies": [
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "PandaDoc",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
