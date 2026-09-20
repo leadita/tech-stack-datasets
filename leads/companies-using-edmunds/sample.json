@@ -1,5 +1,27 @@
 [
   {
+    "domain": "2024evcredit.com",
+    "title": "2023 EV Federal Tax Credit Explained",
+    "business_name": "2023 EV Federal Tax Credit Explained",
+    "country": "JPN",
+    "seo_score": 80,
+    "tech_spend": 18312,
+    "crawled_at": "2026-09-19T23:07:07.04804427Z",
+    "technologies": [
+      "Edmunds",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Line2",
+      "Microdata for Google Shopping",
+      "PWA",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "internetcarsales101.com",
     "title": "The Art & Science of Internet Car Sales Free Internet Car Sales Training, Templates & Best Practices",
     "business_name": "",
@@ -835,28 +857,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "taxcreditsexplained.com",
-    "title": "2023 EV Federal Tax Credit Explained",
-    "business_name": "2023 EV Federal Tax Credit Explained",
-    "country": "JPN",
-    "seo_score": 60,
-    "tech_spend": 3448,
-    "crawled_at": "2026-06-27T01:38:19.969125803Z",
-    "technologies": [
-      "Edmunds",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "Microdata for Google Shopping",
-      "PWA",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
     ]
   },
   {
@@ -5895,38 +5895,6 @@
       "IcoMoon",
       "PWA",
       "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "tasmanianequipmentfinance.com.au",
-    "title": "Equipment Finance Broker in Hobart",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 82,
-    "tech_spend": 15957,
-    "crawled_at": "2026-01-28T17:31:43.438591168Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Australian Credit Licence",
-      "Cloudflare",
-      "CoBlocks",
-      "Content Delivery Network",
-      "Edmunds",
-      "EmbedPress",
-      "GoDaddy",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gutenberg Blocks by Kadence Blocks",
-      "Kadence WP",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Theme In WP",
-      "UTF-8",
-      "Wangsu",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube"
     ]
   }
 ]
