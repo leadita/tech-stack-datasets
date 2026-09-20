@@ -8377,24 +8377,5 @@
       "WordPress SEO Structured Data Schema Plugin",
       "jQuery"
     ]
-  },
-  {
-    "domain": "pointmoorepress.com",
-    "title": "Point Moore Press | The Guiding Light for the Easily Led",
-    "business_name": "Point Moore Press",
-    "country": "NZL",
-    "seo_score": 57,
-    "tech_spend": 148,
-    "crawled_at": "2026-01-29T05:01:43.431399329Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "CoreUI",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
   }
 ]

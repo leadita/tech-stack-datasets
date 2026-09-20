@@ -1,5 +1,29 @@
 [
   {
+    "domain": "rudigermeyer.com",
+    "title": "Sound. Image. Music. Text : Welcome to Rudiger Meyer's Website",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 46120,
+    "crawled_at": "2026-09-20T04:07:39.340935691Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "GZIP Module",
+      "Mastodon",
+      "Matomo Tag Manager",
+      "Micro.blog",
+      "PHP",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vignette OpenText",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "iambismark.net",
     "title": "I Am Bismark",
     "business_name": "",
@@ -7859,28 +7883,6 @@
       "Vercel",
       "WordPress",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "rudigermeyer.com",
-    "title": "Sound. Image. Music. Text : Welcome to Rudiger Meyer's Website",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 6120,
-    "crawled_at": "2026-01-29T05:46:43.438003976Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "GZIP Module",
-      "Mastodon",
-      "Matomo Tag Manager",
-      "Micro.blog",
-      "PHP",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "shadcn ui"
     ]
   }
 ]
