@@ -1,5 +1,31 @@
 [
   {
+    "domain": "jobteaser.co",
+    "title": "JobTeaser - Internship, apprenticeship, first job, your next job is on JobTeaser!",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 21468,
+    "crawled_at": "2026-09-19T16:57:48.177757873Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudflare",
+      "Didomi",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Sitelinks Search Box",
+      "UTF-8",
+      "University or College",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "holidayheroespro.com",
     "title": "Homepage - holidayheroes PRO",
     "business_name": "holidayheroes PRO",
@@ -3435,33 +3461,6 @@
       "UTF-8",
       "University or College",
       "Vector Internet Services"
-    ]
-  },
-  {
-    "domain": "jobteaser.com",
-    "title": "JobTeaser - Internship, apprenticeship, first job, your next job is on JobTeaser!",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 21468,
-    "crawled_at": "2026-08-14T17:28:59.284234642Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Didomi",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Sitelinks Search Box",
-      "UTF-8",
-      "University or College",
-      "YouTube"
     ]
   },
   {
