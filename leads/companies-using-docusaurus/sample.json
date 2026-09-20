@@ -1,5 +1,30 @@
 [
   {
+    "domain": "hansrevolution.dev",
+    "title": "Hello from Hans-Revolution | Hans-Revolution",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 5600,
+    "crawled_at": "2026-09-20T22:28:48.882520018Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "M247",
+      "Medium",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "jsimonvanderwalt.com",
     "title": "J Simon van der Walt",
     "business_name": "",
@@ -12788,35 +12813,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "jonnyasmar.com",
-    "title": "Jonny Asmar - Software Engineer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 43118,
-    "crawled_at": "2026-04-04T08:38:19.983486208Z",
-    "technologies": [
-      "Adobe ColdFusion",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Craft",
-      "Docusaurus",
-      "Express",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "HHVM",
-      "Material-UI",
-      "Medium",
-      "Next.js",
-      "ON24",
-      "Pleroma",
-      "Python",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]

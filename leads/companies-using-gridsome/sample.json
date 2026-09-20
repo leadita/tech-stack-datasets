@@ -1,5 +1,37 @@
 [
   {
+    "domain": "geodav.tech",
+    "title": "Interactive Dashboards & More - geodav.tech",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 63957,
+    "crawled_at": "2026-09-20T08:28:34.249647605Z",
+    "technologies": [
+      "Calendly",
+      "Content Delivery Network",
+      "DAV",
+      "Financial Services Guide",
+      "Gridsome",
+      "HubSpot Conversations",
+      "Hubspot",
+      "IcoMoon",
+      "Idaq",
+      "Netlify",
+      "No-Q",
+      "Perl",
+      "QUIC",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Unix",
+      "W3 Total Cache",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "kubal.de",
     "title": "Kubal - Kubal",
     "business_name": "",
@@ -11990,27 +12022,6 @@
       "Idaq",
       "No-Q",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "tohfameubles.com",
-    "title": "Tohfa meubles, Mobilier de luxe abordable - Tohfa meubles",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 268,
-    "crawled_at": "2026-02-26T19:50:47.849338431Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Gridsome",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
