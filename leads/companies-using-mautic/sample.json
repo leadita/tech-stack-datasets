@@ -1,5 +1,33 @@
 [
   {
+    "domain": "megabitcloud.com",
+    "title": "Cloud hosting, domains and email | MegabitCloud",
+    "business_name": "Megabit Cloud",
+    "country": "KEN",
+    "seo_score": 92,
+    "tech_spend": 31500,
+    "crawled_at": "2026-09-20T19:22:17.919252748Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Fireblade",
+      "Instagram Follow Button",
+      "Mautic",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "bafel.co.in",
     "title": "#1 English Speaking Course | Spoken English Institute in Delhi NCR, India",
     "business_name": "",
@@ -20765,25 +20793,6 @@
       "WordPress",
       "WordPress Multisite",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "sales2app.com",
-    "title": "Sales2APP - Accelera la Produttività della tua Forza Commerciale",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": "",
-    "crawled_at": "2026-04-05T06:08:19.998948767Z",
-    "technologies": [
-      "Apache",
-      "Azion",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Mautic",
-      "Next.js",
-      "Pleroma",
-      "UTF-8"
     ]
   }
 ]
