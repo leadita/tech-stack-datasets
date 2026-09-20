@@ -1,5 +1,22 @@
 [
   {
+    "domain": "coloris-parapheur.fr",
+    "title": "Apache Tomcat",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": "",
+    "crawled_at": "2026-09-20T17:42:12.405758815Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Express",
+      "GZIP Module",
+      "Nginx",
+      "Ubuntu"
+    ]
+  },
+  {
     "domain": "openemm.com",
     "title": "OpenEMM: The open source software for email marketing",
     "business_name": "AGNITAS AG",
@@ -13649,28 +13666,6 @@
       "Perl",
       "QUIC",
       "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "corsy.ru",
-    "title": "Corsy - разработка уникальных решений для бизнеса",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 508,
-    "crawled_at": "2026-01-29T17:25:48.676707264Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Tailwind CSS",
       "jQuery"
     ]
   }
