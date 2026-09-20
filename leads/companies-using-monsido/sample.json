@@ -18738,38 +18738,5 @@
       "YouTube",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "carteretedc.com",
-    "title": "Economic Development | Carteret County, NC - Official Website",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 143380,
-    "crawled_at": "2026-01-28T19:22:43.427090813Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "AudioEye",
-      "AutoComplete",
-      "CivicPlus",
-      "Cloudflare",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Material-UI",
-      "Microsoft Azure",
-      "Monsido",
-      "QUIC",
-      "SMC",
-      "SiteW",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vista Cloud",
-      "Visual Studio",
-      "YouTube"
-    ]
   }
 ]
