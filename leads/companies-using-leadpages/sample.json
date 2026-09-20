@@ -2793,28 +2793,5 @@
       "Ntent",
       "Twitter Ads"
     ]
-  },
-  {
-    "domain": "contezz.com",
-    "title": "Contezz",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 76267,
-    "crawled_at": "2026-01-29T12:13:48.863854786Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "Cart.com",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LeadPages",
-      "Ntent",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vimeo"
-    ]
   }
 ]
