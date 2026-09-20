@@ -7718,41 +7718,5 @@
       "UTF-8",
       "Ubuntu"
     ]
-  },
-  {
-    "domain": "priemcolawyers.com",
-    "title": "Lawyers Insurance Package – Priemco",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 8231,
-    "crawled_at": "2026-01-29T15:40:48.863085523Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Better Lead Generation Services",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Fireblade",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Hello Elementor",
-      "NFOrce Internet",
-      "Nginx",
-      "Outfunnel",
-      "PHP",
-      "Perl",
-      "QUIC",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
