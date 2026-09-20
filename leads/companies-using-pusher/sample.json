@@ -1,5 +1,56 @@
 [
   {
+    "domain": "tqa-roller.com",
+    "title": "TQA Roller | หน้าหลัก",
+    "business_name": "",
+    "country": "THA",
+    "seo_score": 60,
+    "tech_spend": "",
+    "crawled_at": "2026-09-20T05:00:01.292414103Z",
+    "technologies": [
+      "Angular",
+      "Bulma",
+      "GZIP Module",
+      "Google My Business",
+      "Nginx",
+      "Ntent",
+      "PWA",
+      "Pusher",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "pack125.com",
+    "title": "PACK 125",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 60,
+    "tech_spend": "",
+    "crawled_at": "2026-09-19T22:46:06.403051121Z",
+    "technologies": [
+      "Bulma",
+      "ElementUI",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "Neighborhoods",
+      "Nginx",
+      "Pusher",
+      "Ruby on Rails",
+      "Smart App Banner",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "Ubuntu"
+    ]
+  },
+  {
     "domain": "maritimeprofessionaljobs.com",
     "title": "Maritime Professional Jobs – Oceans of Career Opportunities",
     "business_name": "",
@@ -20528,61 +20579,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "kalampaliki.gr",
-    "title": "Iasis",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 8511,
-    "crawled_at": "2026-05-11T23:32:19.997029626Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fireblade",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "ImageKit.io",
-      "Instagram Follow Button",
-      "Line2",
-      "LiteSpeed",
-      "OneSignal",
-      "Pusher",
-      "QUIC",
-      "UTF-8",
-      "jQuery",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "aryaproduction.net",
-    "title": "Home",
-    "business_name": "",
-    "country": "EGY",
-    "seo_score": 67,
-    "tech_spend": 1068,
-    "crawled_at": "2026-05-11T23:08:19.979694196Z",
-    "technologies": [
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Neighborhoods",
-      "PHP",
-      "Pusher",
-      "QUIC",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "Winter CMS",
-      "YouTube"
     ]
   }
 ]
