@@ -1,5 +1,35 @@
 [
   {
+    "domain": "careersatakd.be",
+    "title": "Careers at AKD",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 62,
+    "tech_spend": 50707,
+    "crawled_at": "2026-09-19T19:32:29.980521589Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Corporate Governance and Regulatory Compliance",
+      "Envoy",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "KVH",
+      "Perl",
+      "Piwik PRO",
+      "QUIC",
+      "Recruitee",
+      "Styled Components",
+      "Thank You",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "wtss.eu",
     "title": "Home - Production Verification for Financial Institutions",
     "business_name": "WTSS",
@@ -6224,35 +6254,6 @@
     ]
   },
   {
-    "domain": "careersatakd.lu",
-    "title": "Careers at AKD",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 62,
-    "tech_spend": 100707,
-    "crawled_at": "2026-04-26T17:56:19.998982735Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Envoy",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "KVH",
-      "Perl",
-      "Piwik PRO",
-      "QUIC",
-      "Recruitee",
-      "SMC",
-      "Styled Components",
-      "UTF-8",
-      "University or College"
-    ]
-  },
-  {
     "domain": "shalestone.com",
     "title": "Shalestone, Inc. | Energy, Industrial & Municipal Services",
     "business_name": "",
@@ -9749,37 +9750,6 @@
       "Way",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "careersatakd.be",
-    "title": "Careers at AKD",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 72,
-    "tech_spend": 50707,
-    "crawled_at": "2026-01-28T23:16:27.075291595Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Corporate Governance and Regulatory Compliance",
-      "Envoy",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "KVH",
-      "Perl",
-      "Piwik PRO",
-      "QUIC",
-      "Recruitee",
-      "Styled Components",
-      "UTF-8",
-      "University or College",
-      "YouTube",
-      "eLand"
     ]
   }
 ]

@@ -1,5 +1,34 @@
 [
   {
+    "domain": "allies4outcomes.com",
+    "title": "allies4outcomes – Leadership Development & Consulting Services",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 34948,
+    "crawled_at": "2026-09-20T03:43:05.162002768Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Anti-spam for WordPress",
+      "Breezy HR",
+      "CleanTalk Spam Protect",
+      "Elementor",
+      "EmbedPress",
+      "Fireblade",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Hello Elementor",
+      "LiteSpeed",
+      "NFOrce Internet",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "spinglobal.org",
     "title": "SPIN Global",
     "business_name": "",
@@ -17220,37 +17249,6 @@
       "Way",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "allies4outcomes.com",
-    "title": "allies4outcomes – Leadership Development & Consulting Services",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 34948,
-    "crawled_at": "2026-01-29T05:28:48.094709058Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Anti-spam for WordPress",
-      "Breezy HR",
-      "CleanTalk Spam Protect",
-      "Elementor",
-      "EmbedPress",
-      "Fireblade",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hello Elementor",
-      "LiteSpeed",
-      "NFOrce Internet",
-      "QUIC",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
