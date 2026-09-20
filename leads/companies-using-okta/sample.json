@@ -1,5 +1,26 @@
 [
   {
+    "domain": "nikkaluoktaexpressen.se",
+    "title": "Nikkaluoktaexpressen",
+    "business_name": "",
+    "country": "SWE",
+    "seo_score": 60,
+    "tech_spend": 3,
+    "crawled_at": "2026-09-20T05:41:11.816805402Z",
+    "technologies": [
+      "Express",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Maps",
+      "Google My Business",
+      "Klarna",
+      "Nginx",
+      "Okta",
+      "Sentry",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "securityunderwriting.com",
     "title": "Security Underwriting Managers – Leaders in the Underwriting Industry",
     "business_name": "",
@@ -19442,26 +19463,6 @@
       "Okta",
       "QUIC",
       "Thank You",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "nikkaluoktaexpressen.se",
-    "title": "Nikkaluoktaexpressen",
-    "business_name": "",
-    "country": "SWE",
-    "seo_score": 45,
-    "tech_spend": 3,
-    "crawled_at": "2026-01-29T06:55:49.107420024Z",
-    "technologies": [
-      "Express",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google My Business",
-      "Klarna",
-      "Nginx",
-      "Okta",
       "UTF-8"
     ]
   }

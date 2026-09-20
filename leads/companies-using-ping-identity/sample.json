@@ -2873,27 +2873,5 @@
       "Unsplash",
       "Zyro"
     ]
-  },
-  {
-    "domain": "wisemindsinfotech.com",
-    "title": "WiseMindsInfoTech",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 65,
-    "tech_spend": 60508,
-    "crawled_at": "2026-01-29T04:55:43.449299652Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "IcoMoon",
-      "Ping Identity",
-      "Python",
-      "Tailwind CSS"
-    ]
   }
 ]
