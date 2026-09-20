@@ -1,5 +1,36 @@
 [
   {
+    "domain": "thedrivengolfer.com",
+    "title": "The Driven Golfer Home | Michael Wolf Certified Master Teacher",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 24932,
+    "crawled_at": "2026-09-20T03:10:47.83282436Z",
+    "technologies": [
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "ConvertBox",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "JotForm",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "QUIC",
+      "RM Education",
+      "Schema Plugin",
+      "SiteW",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "mulderbrothers.com",
     "title": "Mulder Brothers Brokerage",
     "business_name": "Mulder Brothers",
@@ -22480,33 +22511,6 @@
       "UserWay",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "allytab.com",
-    "title": "URL Shortener, QR Codes & Bio Pages - URL",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 1969,
-    "crawled_at": "2026-04-17T06:14:19.986641167Z",
-    "technologies": [
-      "ConvertBox",
-      "Express",
-      "FormSubmit",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "GrubHub",
-      "IcoMoon",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   }
 ]
