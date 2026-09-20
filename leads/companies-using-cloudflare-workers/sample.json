@@ -1,5 +1,54 @@
 [
   {
+    "domain": "andydavies.me",
+    "title": "Andy Davies – Web Performance Consultant",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 5808,
+    "crawled_at": "2026-09-19T18:27:48.464573543Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare Workers",
+      "DAV",
+      "Disqus Comment System for WordPress",
+      "Google Analytics",
+      "Google My Business",
+      "SpeedCurve",
+      "Twitter Ads",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "martinskrolsvik.no",
+    "title": "Martin Skrolsvik",
+    "business_name": "",
+    "country": "NOR",
+    "seo_score": 75,
+    "tech_spend": 5608,
+    "crawled_at": "2026-09-19T17:02:51.193020195Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "ElementUI",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "InitiativeS",
+      "Python",
+      "UTF-8",
+      "University or College",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "geosaudia.com",
     "title": "GeoSaudia - منصة تتبع الذكاء الاصطناعي للسوق السعودي",
     "business_name": "",
@@ -14991,52 +15040,6 @@
       "UTF-8",
       "Vercel",
       "Woo Themes",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "ainsightlify.com",
-    "title": "AInsight — Behavioral Intelligence",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 123,
-    "crawled_at": "2026-04-28T14:08:20.004578783Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "samratghosh.cv",
-    "title": "Samrat Ghosh",
-    "business_name": "",
-    "country": "England, United Kingdom",
-    "seo_score": 72,
-    "tech_spend": 6888,
-    "crawled_at": "2026-04-28T13:26:20.003795661Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon S3 CDN",
-      "Apache",
-      "Cloudflare",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "Express",
-      "Form.IO",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Storyblocks",
-      "UTF-8",
-      "Vercel",
       "shadcn ui"
     ]
   }
