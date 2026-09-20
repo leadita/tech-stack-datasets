@@ -1,5 +1,116 @@
 [
   {
+    "domain": "barrisol-baku.az",
+    "title": "BARRISOL BAKU",
+    "business_name": "",
+    "country": "KAZ",
+    "seo_score": 67,
+    "tech_spend": 75508,
+    "crawled_at": "2026-09-20T09:52:04.135794683Z",
+    "technologies": [
+      "Cart.com",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Nginx",
+      "OpenCart",
+      "PHP",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "skympc.com",
+    "title": "Skympc",
+    "business_name": "",
+    "country": "JPN",
+    "seo_score": 62,
+    "tech_spend": 75508,
+    "crawled_at": "2026-09-20T01:38:34.096077319Z",
+    "technologies": [
+      "Apache",
+      "Cart.com",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "OpenCart",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "top-malls.com",
+    "title": "Top-malls.com | Best Online Shopping Website for Discounted Deals",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 76540,
+    "crawled_at": "2026-09-20T00:45:29.325494773Z",
+    "technologies": [
+      "Cart.com",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "NFOrce Internet",
+      "Nginx",
+      "OpenCart",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "luk-p.com",
+    "title": "LEGACY UTAMA KREASINDO",
+    "business_name": "",
+    "country": "IDN",
+    "seo_score": 67,
+    "tech_spend": 75110,
+    "crawled_at": "2026-09-19T18:59:54.252113341Z",
+    "technologies": [
+      "Cart.com",
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "OpenCart",
+      "Tailwind CSS",
+      "TemplateMela",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "picapak.com",
+    "title": "Pic a Pak",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 57,
+    "tech_spend": 30159,
+    "crawled_at": "2026-09-19T17:39:40.320173109Z",
+    "technologies": [
+      "Apache",
+      "AutoComplete",
+      "Cart.com",
+      "CookieConsent",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "IcoMoon",
+      "OpenCart",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "biohealthegypt.com",
     "title": "Biohealth Egypt Company",
     "business_name": "",
@@ -12200,115 +12311,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "economicbrand.com",
-    "title": "Economic Brand",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 60,
-    "tech_spend": 30103,
-    "crawled_at": "2026-05-17T11:25:36.34053484Z",
-    "technologies": [
-      "3 Products",
-      "Cart.com",
-      "DAV",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "newhirahalal.com",
-    "title": "New Hira Farms",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 75508,
-    "crawled_at": "2026-05-17T10:38:19.993328906Z",
-    "technologies": [
-      "Bulma",
-      "Cart.com",
-      "DAV",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "LiteSpeed",
-      "OpenCart",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "amidalesports.co.uk",
-    "title": "Horse Riding Apparel |Horse Equipment | Amidale Sports",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 75040,
-    "crawled_at": "2026-05-17T09:47:45.921975806Z",
-    "technologies": [
-      "Cart.com",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "LiteSpeed",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "shaibeeleather.com",
-    "title": "Shaibee Leather",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 75040,
-    "crawled_at": "2026-05-17T08:05:19.972168877Z",
-    "technologies": [
-      "Cart.com",
-      "Facebook Like",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "Google Cloud DNS",
-      "Google Font API",
-      "OpenCart",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "artescreen.com.br",
-    "title": "Arte Screen Materiais Serigráficos",
-    "business_name": "",
-    "country": "BRA",
-    "seo_score": 62,
-    "tech_spend": 75040,
-    "crawled_at": "2026-05-17T07:38:20.007352321Z",
-    "technologies": [
-      "Afiliados",
-      "Apache",
-      "Cart.com",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "OpenCart",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
