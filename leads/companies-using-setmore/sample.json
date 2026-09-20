@@ -17602,39 +17602,5 @@
       "UTF-8",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "mitchbaldridge.com",
-    "title": "Hawkins-Poe Real Estate Services, Since 1946",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 25504,
-    "crawled_at": "2026-01-29T08:49:43.430519851Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "AppFolio",
-      "Bulma",
-      "DAV",
-      "Digital Ocean Spaces",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Harbor",
-      "Instagram Follow Button",
-      "Investor Relations",
-      "Nginx",
-      "Setmore",
-      "Tagembed",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "YouTube",
-      "eLand"
-    ]
   }
 ]
