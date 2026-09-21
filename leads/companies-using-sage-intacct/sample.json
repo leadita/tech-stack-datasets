@@ -14676,37 +14676,5 @@
       "Tailwind CSS",
       "jQuery"
     ]
-  },
-  {
-    "domain": "markfasel.dev",
-    "title": "Mark Fasel",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 22759,
-    "crawled_at": "2026-01-29T15:58:48.871633051Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe ColdFusion",
-      "CakePHP",
-      "Cloudflare",
-      "CodeIgniter",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "DAV",
-      "GitHub Hosting",
-      "Heroku",
-      "INETu",
-      "Netlify",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "Sage Intacct",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
   }
 ]
