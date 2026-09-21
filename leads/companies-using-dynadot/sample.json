@@ -1,5 +1,43 @@
 [
   {
+    "domain": "patientcare.org",
+    "title": "Digital Real Estate Specialist",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 36,
+    "crawled_at": "2026-09-21T02:12:32.988971868Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "zakchelli.com",
+    "title": "ZAK CHELLI",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 50,
+    "tech_spend": 36,
+    "crawled_at": "2026-09-20T21:12:57.332952742Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "kanatiarrows.com",
     "title": "Kanati Arrows",
     "business_name": "",
@@ -20,25 +58,6 @@
       "PayPal Adaptive Payments",
       "PayPal Button",
       "PayPal Form",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "realestate-investing.net",
-    "title": "Digital Real Estate Specialist",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 36,
-    "crawled_at": "2026-09-18T23:02:08.602618276Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "QUIC",
       "UTF-8"
     ]
   },
@@ -4661,42 +4680,6 @@
       "University or College",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "tushia-cleaners.uk",
-    "title": "Tushia Cleaners",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 57,
-    "tech_spend": 135,
-    "crawled_at": "2026-01-30T08:40:48.859263425Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "zakchelli.com",
-    "title": "ZAK CHELLI",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 45,
-    "tech_spend": 135,
-    "crawled_at": "2026-01-29T18:31:48.869479862Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
