@@ -1,5 +1,64 @@
 [
   {
+    "domain": "advfieldsolutions.com",
+    "title": "Jerad Ropp | Dealers",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 15029,
+    "crawled_at": "2026-09-21T08:00:29.781122274Z",
+    "technologies": [
+      "Chakra UI",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Cornerstone",
+      "DAV",
+      "Fastly",
+      "Financial Services Guide",
+      "Fireblade",
+      "Gandi",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "K2F",
+      "Kontent.ai",
+      "NFOrce Internet",
+      "Next.js",
+      "Nomics",
+      "Ntent",
+      "PHP",
+      "Pico CSS",
+      "Pleroma",
+      "QUIC",
+      "Square",
+      "Subversion",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "cstate",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "nabih.online",
+    "title": "Nabih Alashmawy",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": "",
+    "crawled_at": "2026-09-21T05:55:48.843721834Z",
+    "technologies": [
+      "Better Lead Generation Services",
+      "Chakra UI",
+      "GitHub Hosting",
+      "LiteSpeed",
+      "Next.js",
+      "Python",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "makeitmatter.com",
     "title": "Matter Compostables: Home",
     "business_name": "",
@@ -6219,36 +6278,6 @@
       "UTF-8",
       "Vercel",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "insidepti.com",
-    "title": "Precision Technology Institute",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 35099,
-    "crawled_at": "2026-06-05T17:00:14.8654397Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Chakra UI",
-      "Cloudflare",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Kontent.ai",
-      "NFOrce Internet",
-      "Next.js",
-      "Ntent",
-      "Pico CSS",
-      "Pleroma",
-      "QUIC",
-      "UTF-8",
-      "YouTube",
-      "cstate"
     ]
   },
   {
@@ -12948,27 +12977,6 @@
       "Next.js",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "telfordconcert.band",
-    "title": "Telford Concert Band",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 5150,
-    "crawled_at": "2026-05-12T02:05:19.981050391Z",
-    "technologies": [
-      "34SP.com",
-      "Chakra UI",
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "Gatsby JS",
-      "Instagram Follow Button",
-      "KVH",
-      "Netlify",
-      "UTF-8"
     ]
   }
 ]
