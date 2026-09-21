@@ -1,5 +1,33 @@
 [
   {
+    "domain": "reiserbann.lu",
+    "title": "Garage Réiserbann",
+    "business_name": "",
+    "country": "LUX",
+    "seo_score": 57,
+    "tech_spend": 20000,
+    "crawled_at": "2026-09-21T19:32:32.360383384Z",
+    "technologies": [
+      "Envoy",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "LogRocket",
+      "Next.js",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "Vignette OpenText",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "alexanderforbesdev.co.za",
     "title": "Investor - alexforbes investor relations",
     "business_name": "alexforbes investor relations",
@@ -11526,34 +11554,6 @@
       "QUIC",
       "Thank You",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "reiserbann.lu",
-    "title": "Garage Réiserbann",
-    "business_name": "",
-    "country": "LUX",
-    "seo_score": 57,
-    "tech_spend": 20000,
-    "crawled_at": "2026-01-30T10:45:40.498443503Z",
-    "technologies": [
-      "Envoy",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "LogRocket",
-      "Next.js",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "Vignette OpenText",
-      "shadcn ui"
     ]
   }
 ]
