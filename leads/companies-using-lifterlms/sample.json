@@ -19798,42 +19798,5 @@
       "hCaptcha",
       "jQuery"
     ]
-  },
-  {
-    "domain": "onlinemanualhandling.ie",
-    "title": "Manual Handling Certificate | Affordable Training from €30",
-    "business_name": "",
-    "country": "",
-    "seo_score": 82,
-    "tech_spend": 3320,
-    "crawled_at": "2026-01-29T23:29:25.9662722Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Astra Theme",
-      "Beaver Builder Lite",
-      "EmbedPress",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "LifterLMS",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Popup Maker for Wordpress",
-      "QUIC",
-      "Site Kit",
-      "Stripe",
-      "UTF-8",
-      "WP Rocket",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "eLand",
-      "jQuery"
-    ]
   }
 ]

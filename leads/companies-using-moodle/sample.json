@@ -1,5 +1,38 @@
 [
   {
+    "domain": "visual-academy.es",
+    "title": "Visual Academy",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 11303,
+    "crawled_at": "2026-09-21T04:02:05.703346751Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "App Store",
+      "Fastly",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Moodle",
+      "NFOrce Internet",
+      "PHP",
+      "Parcel",
+      "QUIC",
+      "Totara",
+      "UTF-8",
+      "Ubuntu",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "colegioadora.org",
     "title": "Adoratrices",
     "business_name": "",
@@ -1190,39 +1223,6 @@
       "Storyblocks",
       "Totara",
       "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "visual-academy.es",
-    "title": "Visual Academy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 11303,
-    "crawled_at": "2026-01-29T23:56:43.487009577Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "App Store",
-      "Fastly",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "Parcel",
-      "QUIC",
-      "Totara",
-      "UTF-8",
-      "Ubuntu",
-      "YouTube",
       "jsDelivr"
     ]
   }

@@ -3513,39 +3513,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "fastempathy.com",
-    "title": "FASTempathy | \"feelings & needs: the fast track to empathy\"",
-    "business_name": "FASTempathy",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 77888,
-    "crawled_at": "2026-01-30T06:45:03.790329458Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Blackboard Open LMS",
-      "CloudFront",
-      "Content Delivery Network",
-      "Divi",
-      "Elegant Themes",
-      "EmpathyBroker",
-      "Express",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Sitelinks Search Box",
-      "Theme In WP",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "Zoom Video Conferencing",
-      "jQuery"
-    ]
   }
 ]
