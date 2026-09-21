@@ -13638,35 +13638,5 @@
       "Vercel",
       "Visual Studio"
     ]
-  },
-  {
-    "domain": "deco-rock-cr.com",
-    "title": "Enchapes de piedra en costa rica - Deco Rock",
-    "business_name": "",
-    "country": "ISR",
-    "seo_score": 62,
-    "tech_spend": 468,
-    "crawled_at": "2026-01-30T10:32:02.125185393Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "AutoComplete",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Play",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Perl",
-      "QUIC",
-      "UTF-8",
-      "jQuery"
-    ]
   }
 ]
