@@ -12085,37 +12085,5 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
     ]
-  },
-  {
-    "domain": "adonr.dev",
-    "title": "Adon Bhuiyah | Full-Stack Developer",
-    "business_name": "",
-    "country": "BGD",
-    "seo_score": 77,
-    "tech_spend": 21038,
-    "crawled_at": "2026-01-30T04:47:09.115405525Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudinary",
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google My Business",
-      "Google Workspace",
-      "Hasnode",
-      "Instagram Follow Button",
-      "Linktree",
-      "Mastodon",
-      "Medium",
-      "Netlify",
-      "Next.js",
-      "Tailwind CSS",
-      "Tally",
-      "Telegram",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
   }
 ]

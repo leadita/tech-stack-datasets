@@ -1,5 +1,27 @@
 [
   {
+    "domain": "davidahughes.net",
+    "title": "David A. Hughes",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 660,
+    "crawled_at": "2026-09-20T13:20:30.436144977Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "ArvanCloud",
+      "DAV",
+      "Express",
+      "Ghost",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Stripe",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "kongsgaard.eu",
     "title": "Christian Kongsgaard",
     "business_name": "",
@@ -13152,28 +13174,6 @@
       "Ubuntu",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "cbennell.com",
-    "title": "Christopher Bennell",
-    "business_name": "",
-    "country": "BRB",
-    "seo_score": 72,
-    "tech_spend": 660,
-    "crawled_at": "2026-04-07T13:41:19.995031244Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "ArvanCloud",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Ghost",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]

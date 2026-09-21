@@ -1,5 +1,23 @@
 [
   {
+    "domain": "reallystrangerecord.club",
+    "title": "The Really Strange Record Club",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 67,
+    "tech_spend": 120,
+    "crawled_at": "2026-09-21T09:43:22.321376837Z",
+    "technologies": [
+      "Alternate Protocol",
+      "DAV",
+      "Hugo",
+      "Micro.blog",
+      "QUIC",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "rudigermeyer.com",
     "title": "Sound. Image. Music. Text : Welcome to Rudiger Meyer's Website",
     "business_name": "",
@@ -3429,26 +3447,6 @@
       "Plausible Analytics",
       "QUIC",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "mattnida.com",
-    "title": "Matt Nida",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 62,
-    "tech_spend": 1320,
-    "crawled_at": "2026-05-04T22:41:19.996254859Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Band Camp",
-      "Camp",
-      "DAV",
-      "Hugo",
-      "Micro.blog",
-      "UTF-8",
-      "YouTube",
-      "shadcn ui"
     ]
   },
   {
