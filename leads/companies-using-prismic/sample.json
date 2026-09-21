@@ -1,5 +1,36 @@
 [
   {
+    "domain": "akarshjain.dev",
+    "title": "Akarsh Jain Portfolio",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 82,
+    "tech_spend": 3580,
+    "crawled_at": "2026-09-21T11:48:15.412219495Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "DAV",
+      "Fastly",
+      "Gatsby JS",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Material Design Icons",
+      "Prismic",
+      "Python",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "batmaid.it",
     "title": "Your high-quality cleaning services in Switzerland - Cleaning company in Switzerland | Batmaid",
     "business_name": "",
@@ -13569,23 +13600,6 @@
       "Prismic",
       "UTF-8",
       "Vector Internet Services"
-    ]
-  },
-  {
-    "domain": "casamilana.it",
-    "title": "Casa Milana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 20,
-    "tech_spend": "",
-    "crawled_at": "2026-04-22T16:17:20.008844318Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Instagram Follow Button",
-      "Next.js",
-      "Prismic",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
