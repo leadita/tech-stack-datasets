@@ -1,5 +1,44 @@
 [
   {
+    "domain": "help.d2p.ch",
+    "title": "D2P Help Center | D2P Help Center",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-09-21T12:59:15.4474742Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Docusaurus",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Perl",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "marriedbygen.co.nz",
+    "title": "Marriedbygen | Wedding Celebrant",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 600,
+    "crawled_at": "2026-09-21T10:36:49.464091503Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Perl",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "hansrevolution.dev",
     "title": "Hello from Hans-Revolution | Hans-Revolution",
     "business_name": "",
@@ -12756,62 +12795,6 @@
       "UTF-8",
       "University or College",
       "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "radmanded.com",
-    "title": "Ruben Dedman | AI Dreamer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 25000,
-    "crawled_at": "2026-04-04T13:44:19.981685487Z",
-    "technologies": [
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fireblade",
-      "GitHub Hosting",
-      "Jekyll",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "toolquestor.com",
-    "title": "Tool Questor - Find the Tools & Open Source Alternatives",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2596,
-    "crawled_at": "2026-04-04T11:53:20.012400058Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Beehiiv",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Docusaurus",
-      "GetResponse",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LandBot",
-      "Microsoft Clarity",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
       "shadcn ui"
     ]
   }

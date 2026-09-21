@@ -1,5 +1,60 @@
 [
   {
+    "domain": "douanedocumenten.com",
+    "title": "Douanedocumenten voor import en export van douanevervoer",
+    "business_name": "douanedocumenten.com",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 50228,
+    "crawled_at": "2026-09-21T19:20:54.555412526Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Financial Services Guide",
+      "Google My Business",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "SMC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "sigridsomers.com",
+    "title": "Sigrid Somers – Ceramics And Sculpture",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 82,
+    "tech_spend": 43401,
+    "crawled_at": "2026-09-21T01:17:18.04080523Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Beaver Builder Lite",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Contento",
+      "EmbedPress",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Schema Plugin",
+      "Theme In WP",
+      "UTF-8",
+      "University or College",
+      "Wangsu",
+      "Website Tonight",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "geodav.tech",
     "title": "Interactive Dashboards & More - geodav.tech",
     "business_name": "",
@@ -11977,51 +12032,6 @@
       "Twitter Ads",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "newhavenbuilders.com",
-    "title": "Homepage - Newhaven",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 16721,
-    "crawled_at": "2026-03-04T06:30:35.156478138Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "EasyMe",
-      "Financial Services Guide",
-      "Gridsome",
-      "IcoMoon",
-      "Idaq",
-      "Netlify",
-      "No-Q",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "Zbanx"
-    ]
-  },
-  {
-    "domain": "lukasriedel.se",
-    "title": "Portfolio - Lukas Riedel",
-    "business_name": "",
-    "country": "SWE",
-    "seo_score": 45,
-    "tech_spend": 1848,
-    "crawled_at": "2026-03-01T09:11:53.391663458Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Gridsome",
-      "Idaq",
-      "No-Q",
-      "UTF-8"
     ]
   }
 ]
