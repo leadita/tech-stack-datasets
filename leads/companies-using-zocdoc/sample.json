@@ -1,5 +1,36 @@
 [
   {
+    "domain": "blissfulglowspaandwellness.com",
+    "title": "Home | Blissful Glow Spa & Wellness",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 77,
+    "tech_spend": 21900,
+    "crawled_at": "2026-09-21T17:11:25.29182754Z",
+    "technologies": [
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GoDaddy",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "PWA",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight",
+      "Yelp Badge",
+      "ZocDoc"
+    ]
+  },
+  {
     "domain": "drkohanmd.com",
     "title": "Dr. Kohan - Expert Internal Medicine Specialist in Los Angeles",
     "business_name": "Pedram J. Kohan M.D.",
@@ -18804,27 +18835,6 @@
       "WordPress Multisite",
       "ZocDoc",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "dfmcasemanagementllc.com",
-    "title": "Deirdre McKinney, LAC, AADC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 57,
-    "tech_spend": 13678,
-    "crawled_at": "2026-06-04T02:27:39.63018405Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Contento",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Nginx",
-      "Plausible Analytics",
-      "UTF-8",
-      "Webador",
-      "ZocDoc"
     ]
   }
 ]
