@@ -1,5 +1,36 @@
 [
   {
+    "domain": "thecars.co.il",
+    "title": "THECARS | מצא את הרכב המושלם בשבילך בעזרת AI",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 5497,
+    "crawled_at": "2026-09-20T22:56:38.793330109Z",
+    "technologies": [
+      "Adult Content",
+      "Alibaba Cloud CDN",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "CDN JS",
+      "ClickOn",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Edmunds",
+      "Fastly",
+      "Flat Icon",
+      "Font Awesome",
+      "FreeCSSTemplates",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "PWA",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "2024evcredit.com",
     "title": "2023 EV Federal Tax Credit Explained",
     "business_name": "2023 EV Federal Tax Credit Explained",
@@ -5864,37 +5895,6 @@
       "Tailwind CSS",
       "Thank You",
       "WordPress"
-    ]
-  },
-  {
-    "domain": "thecars.co.il",
-    "title": "THECARS | מצא את הרכב המושלם בשבילך בעזרת AI",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 5497,
-    "crawled_at": "2026-01-29T20:01:48.861584575Z",
-    "technologies": [
-      "Adult Content",
-      "Alibaba Cloud CDN",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "CDN JS",
-      "ClickOn",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Edmunds",
-      "Fastly",
-      "Flat Icon",
-      "Font Awesome",
-      "FreeCSSTemplates",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "PWA",
-      "Tailwind CSS"
     ]
   }
 ]
