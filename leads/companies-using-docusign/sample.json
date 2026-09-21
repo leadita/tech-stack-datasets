@@ -1,5 +1,40 @@
 [
   {
+    "domain": "3stepfundingsolution.com",
+    "title": "3 Step Funding Solutions -",
+    "business_name": "3 Step Funding Solutions",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 19055,
+    "crawled_at": "2026-09-20T20:42:14.017394555Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Creative Mail by Constant Contact",
+      "DocuSign",
+      "EmbedPress",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Jetpack",
+      "Microdata for Google Shopping",
+      "MonsterInsights",
+      "Nginx",
+      "Paid Memberships Pro",
+      "QUIC",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "99freightinc.com",
     "title": "99 Freight Inc – Trucking Company",
     "business_name": "",
@@ -11670,42 +11705,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "3stepfundingsolution.com",
-    "title": "3 Step Funding Solutions -",
-    "business_name": "3 Step Funding Solutions",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 19055,
-    "crawled_at": "2026-01-29T18:07:48.875201684Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Creative Mail by Constant Contact",
-      "DocuSign",
-      "EmbedPress",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Jetpack",
-      "Microdata for Google Shopping",
-      "MonsterInsights",
-      "Nginx",
-      "Paid Memberships Pro",
-      "QUIC",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "jQuery"
     ]
   }
 ]
