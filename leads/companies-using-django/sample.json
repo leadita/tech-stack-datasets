@@ -1,5 +1,57 @@
 [
   {
+    "domain": "vandeiot.in",
+    "title": "Vande IoT - Smart IoT Dashboard",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 60,
+    "tech_spend": 63,
+    "crawled_at": "2026-09-21T05:28:36.498948229Z",
+    "technologies": [
+      "Alpine.js",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Django",
+      "ElementUI",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Nginx",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "pixelnextlevel.de",
+    "title": "Pixel Next Level: Tech Insights and Digital Innovation Blog",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 20568,
+    "crawled_at": "2026-09-21T03:03:34.450505362Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Bulma",
+      "Content Delivery Network",
+      "Django",
+      "GZIP Module",
+      "Gambling Content",
+      "IcoMoon",
+      "Krypt Technologies",
+      "Nginx",
+      "Tailwind CSS",
+      "UPS",
+      "UTF-8",
+      "Ubuntu",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "advisiopartners.com",
     "title": "Advisio Partners | Quality IT Consulting in Charlotte NC",
     "business_name": "",
@@ -338,30 +390,6 @@
       "Line2",
       "QUIC",
       "University or College"
-    ]
-  },
-  {
-    "domain": "tuliphubhub.nl",
-    "title": "Tulip Hub Hub: Exploring the World of Tulips and Gardening",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 15468,
-    "crawled_at": "2026-09-14T02:16:26.160945115Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Django",
-      "Gambling Content",
-      "IcoMoon",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   },
   {
@@ -9124,61 +9152,6 @@
       "Perl",
       "QUIC",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "vandeiot.in",
-    "title": "Vande IoT - Smart IoT Dashboard",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 60,
-    "tech_spend": 63,
-    "crawled_at": "2026-01-30T01:08:29.721378287Z",
-    "technologies": [
-      "Alpine.js",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Django",
-      "ElementUI",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "suddhkhasta.shop",
-    "title": "SUDDHKHASTA | Home",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 67,
-    "tech_spend": 30223,
-    "crawled_at": "2026-01-29T19:43:48.860467517Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Django",
-      "Express",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Nginx",
-      "Pleroma",
-      "The Fresh",
-      "UTF-8",
-      "Ubuntu",
-      "Unsplash",
-      "jsDelivr"
     ]
   }
 ]
