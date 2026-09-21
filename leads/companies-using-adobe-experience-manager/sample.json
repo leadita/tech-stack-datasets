@@ -1,5 +1,35 @@
 [
   {
+    "domain": "serviceplan-health.com",
+    "title": "Serviceplan Health",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 77,
+    "tech_spend": 720148,
+    "crawled_at": "2026-09-20T14:41:39.720536728Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Analytics",
+      "Adobe CQ",
+      "Adobe Experience Manager",
+      "Adobe Marketing Cloud",
+      "Alternate Protocol",
+      "CM Commerce",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "OneTrust Domain Verification",
+      "Schema Plugin",
+      "Thank You",
+      "UTF-8",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "mgrahamcreative.com",
     "title": "Home - Mary Graham Creative",
     "business_name": "Mary Graham Creative",
@@ -2274,35 +2304,6 @@
       "YouTube",
       "arsys.es",
       "eLand"
-    ]
-  },
-  {
-    "domain": "house-of-communication.be",
-    "title": "BE | House of Communication",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 72,
-    "tech_spend": 705148,
-    "crawled_at": "2026-08-26T21:01:09.352281545Z",
-    "technologies": [
-      "Adobe Analytics",
-      "Adobe CQ",
-      "Adobe Experience Manager",
-      "Adobe Marketing Cloud",
-      "Alternate Protocol",
-      "CM Commerce",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "OneTrust Domain Verification",
-      "Schema Plugin",
-      "Thank You",
-      "UTF-8",
-      "YouTube",
-      "reCAPTCHA"
     ]
   },
   {
