@@ -1,5 +1,35 @@
 [
   {
+    "domain": "kmgconsultingfirm.com",
+    "title": "KMG Consulting",
+    "business_name": "KMG Consulting Firm ",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 87519,
+    "crawled_at": "2026-09-21T20:54:12.10702462Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "FormSubmit",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "RM Education",
+      "SiteW",
+      "Squarespace",
+      "Twitter Ads",
+      "UTF-8",
+      "UserWay",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand",
+      "monday.com"
+    ]
+  },
+  {
     "domain": "katrinajc.com",
     "title": "Home | Kat J Cheban AD",
     "business_name": "",
@@ -19013,34 +19043,6 @@
       "jsDelivr",
       "monday.com",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "finesdesign.ca",
-    "title": "Fines Design & Consulting + Fines Home Hardware Building Centre | Cornwall & Ingleside",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 6504,
-    "crawled_at": "2026-06-19T13:35:19.969905773Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Tailwind CSS",
-      "UTF-8",
-      "WF Cookie Consent",
-      "Webflow",
-      "jsDelivr",
-      "monday.com"
     ]
   }
 ]

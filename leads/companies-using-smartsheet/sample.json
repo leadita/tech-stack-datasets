@@ -1,5 +1,38 @@
 [
   {
+    "domain": "mckenzievalleyltrg.com",
+    "title": "McKenzie Valley Long-Term Recovery Group",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 80,
+    "tech_spend": 81945,
+    "crawled_at": "2026-09-21T06:33:49.162218698Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Harbor",
+      "Instagram Follow Button",
+      "Line2",
+      "Linktree",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Smartsheet",
+      "Squarespace",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vimeo",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "ipc-ieee.org",
     "title": "Home - 2026 IEEE Photonics Conference (IPC)",
     "business_name": "",
@@ -16985,43 +17018,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "mckenzievalleyltrg.com",
-    "title": "McKenzie Valley Long-Term Recovery Group",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 84685,
-    "crawled_at": "2026-01-30T01:58:48.874378415Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Harbor",
-      "Instagram Follow Button",
-      "Line2",
-      "Linktree",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Smartsheet",
-      "Squarespace",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vimeo",
-      "Vimeo CDN",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
