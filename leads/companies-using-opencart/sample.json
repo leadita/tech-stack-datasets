@@ -1,5 +1,70 @@
 [
   {
+    "domain": "egymoul.com",
+    "title": "معدات مغاسل",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 30102,
+    "crawled_at": "2026-09-21T10:14:34.641842681Z",
+    "technologies": [
+      "Cart.com",
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Font API",
+      "OpenCart",
+      "PHP",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "safeclothmall.com",
+    "title": "Safeclothmall.com | Best Online Shopping Website for Discounted Deals",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 77440,
+    "crawled_at": "2026-09-21T05:51:14.781282845Z",
+    "technologies": [
+      "Amazon",
+      "Cart.com",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Nginx",
+      "OpenCart",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "knrnpublications.com",
+    "title": "Kedar Nath Ram Nath",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 30159,
+    "crawled_at": "2026-09-21T00:13:18.208214092Z",
+    "technologies": [
+      "Apache",
+      "Cart.com",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "OpenCart",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "barrisol-baku.az",
     "title": "BARRISOL BAKU",
     "business_name": "",
@@ -108,25 +173,6 @@
       "QUIC",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "biohealthegypt.com",
-    "title": "Biohealth Egypt Company",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 30003,
-    "crawled_at": "2026-09-19T09:01:30.335751791Z",
-    "technologies": [
-      "Apache",
-      "Cart.com",
-      "Google Cloud DNS",
-      "Google Font API",
-      "OpenCart",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   },
   {
@@ -12269,48 +12315,6 @@
       "Parallels Plesk Panel",
       "UTF-8",
       "Visual Studio"
-    ]
-  },
-  {
-    "domain": "horiyahalqaraawi.eu",
-    "title": "Horiyah Al Qaraawi",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 30147,
-    "crawled_at": "2026-05-17T12:12:59.974810302Z",
-    "technologies": [
-      "AutoComplete",
-      "Cart.com",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "OpenCart",
-      "PHP",
-      "Parallels Plesk Panel",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "wildshunt.com",
-    "title": "Wilds Hunt",
-    "business_name": "",
-    "country": "TUR",
-    "seo_score": 57,
-    "tech_spend": 30000,
-    "crawled_at": "2026-05-17T11:53:29.672697033Z",
-    "technologies": [
-      "Cart.com",
-      "LiteSpeed",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
