@@ -1,19 +1,18 @@
 [
   {
-    "domain": "coloris-parapheur.fr",
+    "domain": "jctravel.es",
     "title": "Apache Tomcat",
     "business_name": "",
     "country": "",
-    "seo_score": 50,
-    "tech_spend": "",
-    "crawled_at": "2026-09-20T17:42:12.405758815Z",
+    "seo_score": 35,
+    "tech_spend": 144,
+    "crawled_at": "2026-09-22T20:33:47.197821261Z",
     "technologies": [
       "Apache",
       "Apache Tomcat JK",
       "Express",
-      "GZIP Module",
       "Nginx",
-      "Ubuntu"
+      "Parallels Plesk Panel"
     ]
   },
   {
