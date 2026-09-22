@@ -1,5 +1,136 @@
 [
   {
+    "domain": "capzico.com",
+    "title": "Capzico-A Food Delivery Company",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 75040,
+    "crawled_at": "2026-09-22T09:21:55.134742131Z",
+    "technologies": [
+      "Cart.com",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "OpenCart",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "apm.org.es",
+    "title": "APM Atelier — Tienda online de muebles y herrajes en España",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 30063,
+    "crawled_at": "2026-09-22T07:47:30.544849256Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cart.com",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Nginx",
+      "OpenCart",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "avicultureaccessories.com.au",
+    "title": "Aviculture Accessories",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 30003,
+    "crawled_at": "2026-09-22T04:13:29.746160721Z",
+    "technologies": [
+      "Apache",
+      "Cart.com",
+      "Google Cloud DNS",
+      "Google Font API",
+      "OpenCart",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "sreejagold.com",
+    "title": "Sreeja Gold Palace Pvt. Limited",
+    "business_name": "",
+    "country": "BGD",
+    "seo_score": 72,
+    "tech_spend": 75040,
+    "crawled_at": "2026-09-22T04:00:47.418979193Z",
+    "technologies": [
+      "Apache",
+      "Arastta",
+      "Cart.com",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "OpenCart",
+      "QUIC",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "fedayeproducts.co.uk",
+    "title": "Fedaye Products",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 30000,
+    "crawled_at": "2026-09-22T01:06:18.876520758Z",
+    "technologies": [
+      "Cart.com",
+      "Facebook Like",
+      "Facebook Login",
+      "Facebook Reseller",
+      "Google Analytics",
+      "LiteSpeed",
+      "OpenCart",
+      "PayPal Adaptive Payments",
+      "UTF-8",
+      "Unix"
+    ]
+  },
+  {
+    "domain": "scorpiongraphicschicago.com",
+    "title": "Scorpion Graphics",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 30003,
+    "crawled_at": "2026-09-21T17:43:51.25572904Z",
+    "technologies": [
+      "Cart.com",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Nginx",
+      "OpenCart",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "egymoul.com",
     "title": "معدات مغاسل",
     "business_name": "",
@@ -12176,145 +12307,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "salonfixins.com",
-    "title": "Salon Supplies",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 30003,
-    "crawled_at": "2026-05-17T16:39:36.933372844Z",
-    "technologies": [
-      "Apache",
-      "Cart.com",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "obidental.com",
-    "title": "OBI DENTAL",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 75378,
-    "crawled_at": "2026-05-17T16:39:36.933820599Z",
-    "technologies": [
-      "3 Products",
-      "Apache",
-      "Cart.com",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "License Buttons",
-      "OpenCart",
-      "Slider Revolution",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "potionbeautycosmetics.com.br",
-    "title": "Potion Beauty Cosmetics",
-    "business_name": "",
-    "country": "BRA",
-    "seo_score": 72,
-    "tech_spend": 75468,
-    "crawled_at": "2026-05-17T16:17:20.000573764Z",
-    "technologies": [
-      "Apache",
-      "Cart.com",
-      "GZIP Module",
-      "IcoMoon",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "channel7.me",
-    "title": "Channel7-Your Destination for Gaming Gear, Accessories, and Tech Solutions",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 80830,
-    "crawled_at": "2026-05-17T13:41:19.993632652Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "Cart.com",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "OpenCart",
-      "Tailwind CSS",
-      "TemplateMela",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "townsendfencing.com",
-    "title": "Townsend Fencing",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 62,
-    "tech_spend": 75040,
-    "crawled_at": "2026-05-17T13:17:19.980967351Z",
-    "technologies": [
-      "Cart.com",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "OpenCart",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "habenco.com",
-    "title": "Habenco",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 30243,
-    "crawled_at": "2026-05-17T12:52:13.917224474Z",
-    "technologies": [
-      "Cart.com",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "HostGator",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "OpenCart",
-      "Parallels Plesk Panel",
-      "UTF-8",
-      "Visual Studio"
     ]
   }
 ]
