@@ -1,5 +1,34 @@
 [
   {
+    "domain": "wme2028.com",
+    "title": "World Model Expo 2028 | Freak Wars",
+    "business_name": "La Posada del Friki",
+    "country": "ESP",
+    "seo_score": 77,
+    "tech_spend": 2099,
+    "crawled_at": "2026-09-21T12:43:30.006646925Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Backdrop",
+      "Content Delivery Network",
+      "Drupal",
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Instagram Follow Button",
+      "LandBot",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "jQuery",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "repedge.io",
     "title": "RepEdge.ai - AI Sales Intelligence Platform | Unlock 2.5× More Wins",
     "business_name": "RepEdge.ai",
