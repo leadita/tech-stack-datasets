@@ -12031,59 +12031,5 @@
       "ashop",
       "jQuery"
     ]
-  },
-  {
-    "domain": "ceja.me",
-    "title": "Eduardo Ceja | Resume",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 167347,
-    "crawled_at": "2026-01-30T13:55:48.884102978Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "ArvanCloud",
-      "Camp",
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hasnode",
-      "InitiativeS",
-      "Python",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "University or College",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "dannemanne.com",
-    "title": "DanneManne | Full-stack developer and sometimes blogger",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 77,
-    "tech_spend": 20997,
-    "crawled_at": "2026-01-30T11:39:22.694371924Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hasnode",
-      "Heroku",
-      "KVH",
-      "Mastodon",
-      "Microdata for Google Shopping",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
   }
 ]

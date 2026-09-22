@@ -1,5 +1,54 @@
 [
   {
+    "domain": "station.bz",
+    "title": "Read Manga",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 315,
+    "crawled_at": "2026-09-22T12:26:57.615882589Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Express",
+      "Formspree",
+      "GZIP Module",
+      "Ghost",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Stripe",
+      "UTF-8",
+      "Ubuntu",
+      "Unsplash",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "randalljgreene.com",
+    "title": "Randall J. Greene",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 3612,
+    "crawled_at": "2026-09-21T21:50:14.259832723Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "Ghost",
+      "IcoMoon",
+      "Mastodon",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "UTF-8",
+      "Unsplash",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "davidahughes.net",
     "title": "David A. Hughes",
     "business_name": "",
@@ -13116,64 +13165,6 @@
       "UTF-8",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "modernphilosophy.org",
-    "title": "Modern Philosophy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 744,
-    "crawled_at": "2026-04-07T14:35:19.986488712Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "DAV",
-      "Express",
-      "Ghost",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "UTF-8",
-      "Ubuntu",
-      "Unsplash",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "longtermgames.pl",
-    "title": "Longterm Games",
-    "business_name": "",
-    "country": "POL",
-    "seo_score": 77,
-    "tech_spend": 3700,
-    "crawled_at": "2026-04-07T14:00:51.723706406Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Active Campaign",
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ElementUI",
-      "Express",
-      "GZIP Module",
-      "Ghost",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Subversion",
-      "Twitter Ads",
-      "UTF-8",
-      "Ubuntu",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
