@@ -1,5 +1,62 @@
 [
   {
+    "domain": "youngartsupportamsterdam.nl",
+    "title": "Young Art support Amsterdam",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 82,
+    "tech_spend": 1266,
+    "crawled_at": "2026-09-22T14:38:20.558066081Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "No-Q",
+      "Site Search 360",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "kjerringhack.no",
+    "title": "Kjerringhacks.no | Kjerringråd og lifehacks på ett sted",
+    "business_name": "Kjerringhacks.no",
+    "country": "",
+    "seo_score": 82,
+    "tech_spend": 71032,
+    "crawled_at": "2026-09-22T03:02:03.792791601Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "DAV",
+      "Duda",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Financial Services Guide",
+      "FormSubmit",
+      "GZIP Module",
+      "Google Tag Manager",
+      "KVH",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "SMC",
+      "Site Search 360",
+      "Subversion",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "dtechdrilling.com",
     "title": "Optimize Drilling | D-Tech Rotary Steerable Tool",
     "business_name": "",
@@ -15944,59 +16001,6 @@
       "Site Search 360",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "cityoflogcabin.com",
-    "title": "City of Log Cabin",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 26756,
-    "crawled_at": "2026-04-14T23:50:20.01673333Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Duda",
-      "GZIP Module",
-      "Google Forms",
-      "Google My Business",
-      "K2F",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "No-Q",
-      "Site Search 360",
-      "Tailwind CSS",
-      "UTF-8",
-      "UserWay"
-    ]
-  },
-  {
-    "domain": "livingatmybest.org",
-    "title": "page : Donate Today : Lamb Life Foundation",
-    "business_name": "945 McKnney St, Suite 13196",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 27268,
-    "crawled_at": "2026-04-14T23:39:12.986734326Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "Baidu Cloud",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Investor Relations",
-      "Microdata for Google Shopping",
-      "Prospective",
-      "Python",
-      "Site Search 360",
-      "Twitter Ads",
-      "UTF-8",
-      "Yandex Hosting"
     ]
   }
 ]

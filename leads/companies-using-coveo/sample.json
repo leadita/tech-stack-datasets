@@ -1,5 +1,36 @@
 [
   {
+    "domain": "wakehealth.pharmacy",
+    "title": "Pharmacy | Atrium Health Wake Forest Baptist",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 40480,
+    "crawled_at": "2026-09-22T01:54:53.651462306Z",
+    "technologies": [
+      "Atrium Health",
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Coveo",
+      "DAV",
+      "Express",
+      "Google Cloud DNS",
+      "Google Maps",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Microsoft Azure",
+      "Perl",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Visual Studio",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "aws-sense.org",
     "title": "SENSE - School for Excellence in Welding Education | Elevate Your Welding Program",
     "business_name": "",
@@ -3932,38 +3963,6 @@
       "University or College",
       "YouTube",
       "arsys.es"
-    ]
-  },
-  {
-    "domain": "wakehealth.pharmacy",
-    "title": "Pharmacy | Atrium Health Wake Forest Baptist",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 40579,
-    "crawled_at": "2026-01-30T14:42:40.010550826Z",
-    "technologies": [
-      "Atrium Health",
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coveo",
-      "DAV",
-      "Express",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Microsoft Azure",
-      "Perl",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Visual Studio",
-      "YouTube"
     ]
   }
 ]
