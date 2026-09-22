@@ -1,5 +1,59 @@
 [
   {
+    "domain": "lifewithcolor.com",
+    "title": "Mobile Spray Tanning & Facials in Denver | Life with Color",
+    "business_name": "Life With Color",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 1861,
+    "crawled_at": "2026-09-22T09:21:55.122455794Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouCanBookMe",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "donnareidtalksvoice.com",
+    "title": "Donna S. Reid – Voice Teacher, Certified Teacher of The Alexander Technique, Mezzo-Soprano offering Virtual Voice Lessons",
+    "business_name": "",
+    "country": "COL",
+    "seo_score": 82,
+    "tech_spend": 1295,
+    "crawled_at": "2026-09-21T13:33:32.698016766Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Automattic",
+      "CoBlocks",
+      "EmbedPress",
+      "GDPR Consent Management Platform",
+      "Instagram API",
+      "Instagram Follow Button",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "Nginx",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "YouCanBookMe",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "myintegrityprofessionals.com",
     "title": "Outsourced CFO | Integrity Professionals | United States",
     "business_name": "",
@@ -785,31 +839,6 @@
       "YouCanBookMe",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "spraytanningdenver.com",
-    "title": "Mobile Spray Tanning & Facials in Denver | Life with Color",
-    "business_name": "Life With Color",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 1861,
-    "crawled_at": "2026-09-16T22:22:23.739955212Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouCanBookMe",
-      "eLand"
     ]
   },
   {
@@ -12545,37 +12574,6 @@
       "WordPress Multisite",
       "YouCanBookMe",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "donnasreid.com",
-    "title": "Donna S. Reid – Voice Teacher, Certified Teacher of The Alexander Technique, Mezzo-Soprano offering Virtual Voice Lessons",
-    "business_name": "",
-    "country": "COL",
-    "seo_score": 77,
-    "tech_spend": 3695,
-    "crawled_at": "2026-05-14T22:53:19.980670276Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Automattic",
-      "BatCache",
-      "CoBlocks",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Fastly",
-      "Instagram API",
-      "Instagram Follow Button",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Nginx",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "YouCanBookMe",
-      "YouTube"
     ]
   },
   {

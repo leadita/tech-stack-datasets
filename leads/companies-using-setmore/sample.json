@@ -1,5 +1,39 @@
 [
   {
+    "domain": "bvkgroup.net",
+    "title": "BVK Group | Accounting • Audit • Tax • Labour",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 72,
+    "tech_spend": 3377,
+    "crawled_at": "2026-09-21T19:03:43.463932633Z",
+    "technologies": [
+      "Amazon",
+      "Amazon S3 CDN",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "CookieYes",
+      "Corporate Governance and Regulatory Compliance",
+      "ElementUI",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Google Analytics",
+      "Google Tag Manager",
+      "LiteSpeed",
+      "Setmore",
+      "Storyblocks",
+      "Tagembed",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "boothbygolf.ca",
     "title": "Boothbygolf - Golf Lesson, Golf Lesson",
     "business_name": "",
@@ -17565,42 +17599,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "bvkgroup.net",
-    "title": "BVK Group | Accounting • Audit • Tax • Labour",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 77,
-    "tech_spend": 3377,
-    "crawled_at": "2026-01-30T10:26:41.886368483Z",
-    "technologies": [
-      "Amazon",
-      "Amazon S3 CDN",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "CookieYes",
-      "Corporate Governance and Regulatory Compliance",
-      "ElementUI",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Google Analytics",
-      "Google Tag Manager",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "Setmore",
-      "Storyblocks",
-      "Tagembed",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
