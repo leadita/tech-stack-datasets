@@ -5005,36 +5005,5 @@
       "UTF-8",
       "YouTube"
     ]
-  },
-  {
-    "domain": "yasucloud.app",
-    "title": "Yasu | Cut cloud waste before it happens",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 37269,
-    "crawled_at": "2026-01-30T21:28:48.87891615Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amplitude",
-      "Apture Linking Platform",
-      "Better Stack",
-      "Framer Sites",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "KVH",
-      "No-Q",
-      "Ntent",
-      "Point",
-      "Product Hunt",
-      "QUIC",
-      "UCloud",
-      "Yandex Hosting",
-      "YouTube",
-      "Zeald"
-    ]
   }
 ]
