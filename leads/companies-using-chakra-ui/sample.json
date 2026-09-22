@@ -1,5 +1,122 @@
 [
   {
+    "domain": "omkarh.in",
+    "title": "OmkarH Portfolio",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 18010,
+    "crawled_at": "2026-09-22T11:56:13.820169935Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Chakra UI",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Next.js",
+      "Nginx",
+      "No-Q",
+      "Pleroma",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "albaplay.com",
+    "title": "Alba - Run a better indoor golf business",
+    "business_name": "Alba Tech AS",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 4225,
+    "crawled_at": "2026-09-22T02:29:31.599583648Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Chakra UI",
+      "GZIP Module",
+      "Google Cloud",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Sanity",
+      "Slotti",
+      "UTF-8",
+      "WP Booking Calendar",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "ankurlathwal.com",
+    "title": "Ankur Lathwal | Full Stack Developer",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 67,
+    "tech_spend": 240,
+    "crawled_at": "2026-09-21T22:47:33.901526494Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "aforiti.org",
+    "title": "Aforiti",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 1200,
+    "crawled_at": "2026-09-21T20:02:29.780358153Z",
+    "technologies": [
+      "Chakra UI",
+      "Express",
+      "GZIP Module",
+      "Next.js",
+      "Nginx",
+      "Pico CSS",
+      "Pleroma",
+      "UTF-8",
+      "Ubuntu",
+      "Vector Internet Services"
+    ]
+  },
+  {
+    "domain": "cchcrushcancer.com",
+    "title": "CCH Wine & Ale Trail",
+    "business_name": "",
+    "country": "MEX",
+    "seo_score": 67,
+    "tech_spend": 4636,
+    "crawled_at": "2026-09-21T18:58:04.345745875Z",
+    "technologies": [
+      "Chakra UI",
+      "Cloudinary",
+      "Content Delivery Network",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "Squarespace",
+      "UTF-8",
+      "Unsplash",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "advfieldsolutions.com",
     "title": "Jerad Ropp | Dealers",
     "business_name": "",
@@ -12863,120 +12980,6 @@
       "Pleroma",
       "Salesforce Hosted",
       "Teamtailor"
-    ]
-  },
-  {
-    "domain": "oddbureau.com",
-    "title": "ODD Bureau | Digital Product Studio",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 18880,
-    "crawled_at": "2026-05-12T08:23:19.97971722Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Chakra UI",
-      "Content Delivery Network",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Next.js",
-      "UTF-8",
-      "Vercel",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "avalonliquidity.xyz",
-    "title": "Buy Real Assets With Crypto - Avalon - Real World Assets Exchange",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 16740,
-    "crawled_at": "2026-05-12T05:38:41.926015623Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microsoft Clarity",
-      "NFOrce Internet",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "explorebud.com",
-    "title": "Explore Bud - Tools and guide for RV life",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 54240,
-    "crawled_at": "2026-05-12T04:11:19.987346118Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Chakra UI",
-      "Cloudinary",
-      "Content Delivery Network",
-      "Express",
-      "Fireblade",
-      "Google Analytics",
-      "Google Tag Manager",
-      "KVH",
-      "Neighborhoods",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "QUIC",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "marrvel.ai",
-    "title": "MARRVEL AI | AI-Powered Genetic Analysis for Precision Diagnostics",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-05-12T02:47:20.001911386Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "Yahoo Finance Widget"
-    ]
-  },
-  {
-    "domain": "cirqon.com.au",
-    "title": "Home | CirQon",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 30,
-    "tech_spend": "",
-    "crawled_at": "2026-05-12T02:09:20.046148269Z",
-    "technologies": [
-      "Chakra UI",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Next.js",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
