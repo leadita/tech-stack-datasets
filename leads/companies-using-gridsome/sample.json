@@ -1,5 +1,30 @@
 [
   {
+    "domain": "securequest.fr",
+    "title": "Secure Quest - Secure Quest",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 72,
+    "tech_spend": 65268,
+    "crawled_at": "2026-09-22T16:47:09.884342577Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Fireblade",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Gridsome",
+      "Netlify",
+      "SMC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "douanedocumenten.com",
     "title": "Douanedocumenten voor import en export van douanevervoer",
     "business_name": "douanedocumenten.com",
@@ -12012,26 +12037,6 @@
       "Gridsome",
       "Netlify",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "codewithveni.com",
-    "title": "Code with Veni - A newsletter by and for underrepresented coders",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 3,
-    "crawled_at": "2026-03-04T11:11:42.900172116Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Netlify",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
