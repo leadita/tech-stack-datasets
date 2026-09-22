@@ -1,5 +1,32 @@
 [
   {
+    "domain": "minus.chat",
+    "title": "Minus.app — Actually do work.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 92,
+    "tech_spend": 8208,
+    "crawled_at": "2026-09-22T05:45:09.571392231Z",
+    "technologies": [
+      "ClickUp",
+      "Cloudinary",
+      "Content Delivery Network",
+      "Fastly",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Todoist",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "jonmccullough.com",
     "title": "Jon McCullough",
     "business_name": "",
