@@ -3198,28 +3198,5 @@
       "Ubuntu",
       "WordPress Multisite"
     ]
-  },
-  {
-    "domain": "moonlabor.com",
-    "title": "Moonlabor",
-    "business_name": "",
-    "country": "PAK",
-    "seo_score": 82,
-    "tech_spend": 9142,
-    "crawled_at": "2026-01-30T22:25:18.057390962Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "Freshteam",
-      "GZIP Module",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vector Internet Services"
-    ]
   }
 ]
