@@ -1,5 +1,31 @@
 [
   {
+    "domain": "workinds.com",
+    "title": "Work in DS and AI",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 282,
+    "crawled_at": "2026-09-21T23:04:48.340178491Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Font Awesome",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Tableau",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "WordPress",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "asertneeds.org",
     "title": "PA Autism Needs Assessment",
     "business_name": "",
@@ -17713,46 +17739,6 @@
       "QUIC",
       "Tableau",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "ncchwa.org",
-    "title": "Home - NCCHWA - North Carolina Community Health Workers Association",
-    "business_name": "NCCHWA - North Carolina Community Health Workers Association",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 45001,
-    "crawled_at": "2026-04-23T06:26:19.98345245Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Beaver Builder Lite",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Contento",
-      "EmbedPress",
-      "Font Awesome",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Gravity",
-      "Gravity Forms",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Schema Plugin",
-      "Tableau",
-      "Theme In WP",
-      "TranslatePress",
-      "UTF-8",
-      "University or College",
-      "WP Engine",
-      "WordPress",
-      "WordPress Multisite",
-      "Zoom Video Conferencing",
-      "jQuery"
     ]
   }
 ]
