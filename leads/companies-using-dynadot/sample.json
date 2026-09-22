@@ -1,12 +1,31 @@
 [
   {
-    "domain": "patientcare.org",
+    "domain": "nbafinal.com",
+    "title": "Welcome to Mamba24.com",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 55,
+    "tech_spend": 36,
+    "crawled_at": "2026-09-22T06:13:13.102861199Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "vanconversion.net",
     "title": "Digital Real Estate Specialist",
     "business_name": "",
     "country": "",
-    "seo_score": 42,
+    "seo_score": 52,
     "tech_spend": 36,
-    "crawled_at": "2026-09-21T02:12:32.988971868Z",
+    "crawled_at": "2026-09-22T04:13:29.74294663Z",
     "technologies": [
       "Amazon CloudFront",
       "CloudFront",
@@ -1394,25 +1413,6 @@
       "Google Related Website Sites",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "mamba24.net",
-    "title": "Welcome to Mamba24.com",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 55,
-    "tech_spend": 135,
-    "crawled_at": "2026-05-18T19:29:19.972552822Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
