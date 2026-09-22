@@ -1,5 +1,37 @@
 [
   {
+    "domain": "irsocietyconference.com",
+    "title": "The Investor Relations Society Annual Conference",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 55,
+    "tech_spend": 139263,
+    "crawled_at": "2026-09-21T21:29:52.495612186Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Apture Linking Platform",
+      "Broadridge",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Computershare",
+      "Foundation",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Investor Relations",
+      "Modular Finance",
+      "Prospective",
+      "QUIC",
+      "UTF-8",
+      "Vimeo",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "kovackfinancial.com",
     "title": "Home - Kovack Financial Network",
     "business_name": "Kovack Financial Network",
@@ -209,44 +241,6 @@
       "Workday",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "irsocietyconference.org.uk",
-    "title": "The Investor Relations Society Annual Conference",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 70,
-    "tech_spend": 630880,
-    "crawled_at": "2026-08-07T15:16:35.502966469Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Apture Linking Platform",
-      "Broadridge",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Computershare",
-      "Corporate Governance and Regulatory Compliance",
-      "DAV",
-      "Foundation",
-      "GZIP Module",
-      "Gambling Content",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "InitiativeS",
-      "Investor Relations",
-      "Modular Finance",
-      "Prospective",
-      "QUIC",
-      "UTF-8",
-      "University or College",
-      "Vimeo",
-      "eLand",
-      "reCAPTCHA"
     ]
   },
   {
@@ -3485,36 +3479,6 @@
       "UTF-8",
       "Yahoo Image CDN",
       "Yahoo Web Analytics"
-    ]
-  },
-  {
-    "domain": "irsocietyconference.com",
-    "title": "IR Society Annual Conference",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 618919,
-    "crawled_at": "2026-01-30T11:54:16.367263211Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Broadridge",
-      "Coming Soon Page",
-      "Computershare",
-      "Foundation",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Investor Relations",
-      "Modular Finance",
-      "Thank You",
-      "UTF-8",
-      "Vimeo",
-      "reCAPTCHA"
     ]
   }
 ]
