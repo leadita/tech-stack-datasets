@@ -1,5 +1,40 @@
 [
   {
+    "domain": "nyseipopdc.org",
+    "title": "Early Intervention Training Online | NYSEIPOPDC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 94484,
+    "crawled_at": "2026-09-22T01:06:18.87116403Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Express",
+      "Fastly",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Oddle",
+      "PWA",
+      "QUIC",
+      "SMC",
+      "Seflow Italy",
+      "Sentry",
+      "SiteW",
+      "TalentLMS",
+      "UTF-8",
+      "Vector Internet Services",
+      "Wix",
+      "Wix Media",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "innovationmanagementprofessional.com",
     "title": "Innovation Management Professional - Amplify",
     "business_name": "Amplify Innovation",
@@ -9703,42 +9738,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "nyseipopdc.org",
-    "title": "Early Intervention Training Online | NYSEIPOPDC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 107484,
-    "crawled_at": "2026-01-30T14:10:48.868464104Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Oddle",
-      "PWA",
-      "QUIC",
-      "SMC",
-      "Sentry",
-      "SiteW",
-      "TalentLMS",
-      "Thank You",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "mlcom"
     ]
   }
 ]

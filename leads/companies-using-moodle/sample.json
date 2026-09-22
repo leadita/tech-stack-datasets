@@ -1200,30 +1200,5 @@
       "Yandex Hosting",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "ailearningplatform.com",
-    "title": "AI Learning Platform System: Log in to the site",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 13300,
-    "crawled_at": "2026-01-30T15:58:56.973688277Z",
-    "technologies": [
-      "Amazon",
-      "Amazon Cognito",
-      "Amazon S3 CDN",
-      "Apache",
-      "Fastly",
-      "Moodle",
-      "NFOrce Internet",
-      "OpenSSL",
-      "PHP",
-      "RM Education",
-      "Storyblocks",
-      "Totara",
-      "UTF-8",
-      "jsDelivr"
-    ]
   }
 ]
