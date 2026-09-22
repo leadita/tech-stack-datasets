@@ -4357,39 +4357,5 @@
       "eLand",
       "iDrove.it"
     ]
-  },
-  {
-    "domain": "economyplumbingservicellc.com",
-    "title": "Expert Plumber Tucson, AZ | Economy Plumbing Service, LLC | Tucson Plumbers",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 38348,
-    "crawled_at": "2026-01-30T19:28:48.883664876Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "Content Delivery Network",
-      "DAV",
-      "DealerOn",
-      "ETranslate",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Microsoft Azure",
-      "Nginx",
-      "Perl",
-      "QUIC",
-      "SiteW",
-      "Sitelinks Search Box",
-      "UTF-8",
-      "University or College",
-      "Visual Studio"
-    ]
   }
 ]
