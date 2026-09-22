@@ -1,5 +1,53 @@
 [
   {
+    "domain": "hyperspinpro.com",
+    "title": "HyperSpinPro: Ultimate Custom Arcade Cabinet Solutions",
+    "business_name": "",
+    "country": "UKR",
+    "seo_score": 77,
+    "tech_spend": 23068,
+    "crawled_at": "2026-09-22T05:38:05.304508877Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "About Cookies",
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "DAV",
+      "Django",
+      "Gambling Content",
+      "IcoMoon",
+      "RM Education",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "longsearchcoaching.com",
+    "title": "Life Coach in Springfield, MA | Long Search | Life Coaching",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 37268,
+    "crawled_at": "2026-09-21T20:48:53.563031811Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "KVH",
+      "Perl",
+      "QUIC",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "vandeiot.in",
     "title": "Vande IoT - Smart IoT Dashboard",
     "business_name": "",
@@ -24,31 +72,6 @@
       "UTF-8",
       "Ubuntu",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "pixelnextlevel.de",
-    "title": "Pixel Next Level: Tech Insights and Digital Innovation Blog",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 20568,
-    "crawled_at": "2026-09-21T03:03:34.450505362Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Bulma",
-      "Content Delivery Network",
-      "Django",
-      "GZIP Module",
-      "Gambling Content",
-      "IcoMoon",
-      "Krypt Technologies",
-      "Nginx",
-      "Tailwind CSS",
-      "UPS",
-      "UTF-8",
-      "Ubuntu",
-      "jQuery"
     ]
   },
   {
@@ -9108,49 +9131,6 @@
       "QUIC",
       "Shopify",
       "University or College",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "ronaldkluchinarchitects.com",
-    "title": "Cleveland Architects | Ronald Kluchin Architects, Inc",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 2268,
-    "crawled_at": "2026-01-30T15:41:39.645156261Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "eLand",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "longsearchcoaching.com",
-    "title": "Life Coach in Springfield, MA | Long Search | Life Coaching",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 37268,
-    "crawled_at": "2026-01-30T11:27:48.845299009Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "KVH",
-      "Perl",
-      "QUIC",
       "reCAPTCHA"
     ]
   }
