@@ -1,5 +1,29 @@
 [
   {
+    "domain": "tbhinstitute.com",
+    "title": "Bariatric Surgery | The Bariatric and Hernia Institute, Washington-Baltimore,MD",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 16708,
+    "crawled_at": "2026-09-22T18:25:22.547522957Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Apache",
+      "AthenaHealth",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "UTF-8",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "corewellnessips.com",
     "title": "Psychiatry & Sleep Medicine in Boerne, TX | Core Wellness",
     "business_name": "",
@@ -18309,36 +18333,6 @@
       "Thank You",
       "UTF-8",
       "Yelp Badge"
-    ]
-  },
-  {
-    "domain": "medpilot.no",
-    "title": "Notat AI | Your visit ends. The note is already done.",
-    "business_name": "Notat AI",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 31500,
-    "crawled_at": "2026-05-16T21:26:19.987384576Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "App Store",
-      "Apture Linking Platform",
-      "AthenaHealth",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "DAV",
-      "Mantine",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Next.js",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Smart App Banner",
-      "UTF-8",
-      "eLand"
     ]
   }
 ]
