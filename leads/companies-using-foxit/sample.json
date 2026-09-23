@@ -1,5 +1,27 @@
 [
   {
+    "domain": "esupportworld.com",
+    "title": "eSupportWorld",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 75,
+    "tech_spend": 15617,
+    "crawled_at": "2026-09-23T06:20:41.913870057Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Engintron",
+      "Foxit",
+      "GZIP Module",
+      "Google Maps",
+      "Google My Business",
+      "IcoMoon",
+      "Nginx",
+      "Twitter Ads",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "8889577a.com",
     "title": "8889577a",
     "business_name": "",
@@ -802,28 +824,6 @@
       "PayPal Button",
       "PayPal Form",
       "RM Education"
-    ]
-  },
-  {
-    "domain": "esupportworld.com",
-    "title": "eSupportWorld",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 65,
-    "tech_spend": 15617,
-    "crawled_at": "2026-01-31T07:02:45.288101977Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Engintron",
-      "Foxit",
-      "GZIP Module",
-      "Google Maps",
-      "Google My Business",
-      "IcoMoon",
-      "Nginx",
-      "Twitter Ads",
-      "jQuery"
     ]
   }
 ]
