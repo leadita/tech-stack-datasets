@@ -16845,44 +16845,5 @@
       "eLand",
       "mlcom"
     ]
-  },
-  {
-    "domain": "1213-26th.com",
-    "title": "1213 E 26th Street Minneapolis MN 55404",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 48787,
-    "crawled_at": "2026-01-31T11:31:48.920459143Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon S3 CDN",
-      "Apture Linking Platform",
-      "Cisco/Arrowpoint Content Service Switch",
-      "CloudFront",
-      "Coming Soon Page",
-      "Contentful",
-      "ConvertFlow",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google Tag Manager",
-      "Gravity",
-      "Material-UI",
-      "NFOrce Internet",
-      "Nationwide Mortgage Licensing System and Registry",
-      "Perl",
-      "Prospective",
-      "QUIC",
-      "Share Link",
-      "Storyblocks",
-      "Thank You",
-      "UTF-8",
-      "Ylopo"
-    ]
   }
 ]
