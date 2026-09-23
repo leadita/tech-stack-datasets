@@ -1,5 +1,24 @@
 [
   {
+    "domain": "biotronic.net",
+    "title": "Digital Real Estate Specialist",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 36,
+    "crawled_at": "2026-09-23T02:41:04.963238678Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "nbafinal.com",
     "title": "Welcome to Mamba24.com",
     "business_name": "",
@@ -16,25 +35,6 @@
       "Microdata for Google Shopping",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "vanconversion.net",
-    "title": "Digital Real Estate Specialist",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 36,
-    "crawled_at": "2026-09-22T04:13:29.74294663Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "UTF-8"
     ]
   },
   {
@@ -4654,32 +4654,6 @@
       "Instagram Follow Button",
       "MyFonts",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "torontoclimatecampaign.org",
-    "title": "Blog | Toronto Climate Campaign",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 20120,
-    "crawled_at": "2026-01-31T05:19:48.880403238Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Cisco/Arrowpoint Content Service Switch",
-      "DAV",
-      "Dynadot",
-      "GZIP Module",
-      "InitiativeS",
-      "Nginx",
-      "PHP",
-      "Thank You",
-      "UTF-8",
-      "University or College",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
