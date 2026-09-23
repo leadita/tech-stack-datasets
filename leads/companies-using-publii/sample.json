@@ -1,5 +1,29 @@
 [
   {
+    "domain": "happycrappyqueers.be",
+    "title": "Happy Crappy Queers",
+    "business_name": "Happy Crappy Queers",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 2888,
+    "crawled_at": "2026-09-23T12:22:47.298548097Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Apache",
+      "CoreUI",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "pcmodula.it",
     "title": "Minigui",
     "business_name": "Minigui",
@@ -8318,29 +8342,6 @@
       "Publii",
       "QUIC",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "happycrappyqueers.be",
-    "title": "Happy Crappy Queers",
-    "business_name": "Happy Crappy Queers",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 211,
-    "crawled_at": "2026-01-31T10:43:48.869598761Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Apache",
-      "CoreUI",
-      "Elfsight",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
     ]
   }
 ]
