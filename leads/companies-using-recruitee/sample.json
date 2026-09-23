@@ -9719,42 +9719,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "bkl.nl",
-    "title": "Home - BKL",
-    "business_name": "BKL Engineering",
-    "country": "NLD",
-    "seo_score": 87,
-    "tech_spend": 46907,
-    "crawled_at": "2026-01-31T03:06:12.991178725Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Agoda",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Contento",
-      "EmbedPress",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google Tag Manager",
-      "Impreza",
-      "Line2",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Parallels Plesk Panel",
-      "QUIC",
-      "QUIC.cloud",
-      "Recruitee",
-      "UTF-8",
-      "WPBakery",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube"
-    ]
   }
 ]
