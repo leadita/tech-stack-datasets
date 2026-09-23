@@ -1,5 +1,39 @@
 [
   {
+    "domain": "thebesthotsaucekit.com",
+    "title": "Delightfully Hot's Hot Sauce Gift Sets and Spicy Flavorful Gifts",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 61012,
+    "crawled_at": "2026-09-23T07:52:22.360731845Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "Baidu Cloud",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "Google Related Website Sites",
+      "Heroku",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "Okendo",
+      "QUIC",
+      "SMC",
+      "Shopify",
+      "Shopify Collabs",
+      "Shopify Payments",
+      "UTF-8",
+      "Yandex Hosting",
+      "YouTube",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "podolsky.com",
     "title": "Podolsky",
     "business_name": "Podolsky & Associates, Ltd.",
@@ -20923,37 +20957,6 @@
       "hCaptcha",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "delightfullyhot.com",
-    "title": "Delightfully Hot's Hot Sauce Gift Sets and Spicy Flavorful Gifts",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 6212,
-    "crawled_at": "2026-05-14T18:53:19.991798586Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Google Related Website Sites",
-      "Heroku",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Okendo",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Shopify Payments",
-      "UTF-8",
-      "YouTube",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   },
   {
