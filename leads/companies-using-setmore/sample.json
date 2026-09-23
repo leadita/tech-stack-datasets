@@ -1,5 +1,35 @@
 [
   {
+    "domain": "madhatterstattoo.party",
+    "title": "Mad Hatter's tattoo pARTy",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 85,
+    "tech_spend": 102757,
+    "crawled_at": "2026-09-22T23:27:57.176652615Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Contento",
+      "Express",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Setmore",
+      "SiteW",
+      "Squarespace",
+      "Tagembed",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "bvkgroup.net",
     "title": "BVK Group | Accounting • Audit • Tax • Labour",
     "business_name": "",
@@ -17567,38 +17597,6 @@
       "Setmore",
       "Tagembed",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "madhatterstattoo.party",
-    "title": "Mad Hatter's tattoo pARTy",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 80,
-    "tech_spend": 105157,
-    "crawled_at": "2026-01-31T02:53:34.495922943Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Contento",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Setmore",
-      "SiteW",
-      "Squarespace",
-      "Tagembed",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
