@@ -1,5 +1,28 @@
 [
   {
+    "domain": "carfarehub.com",
+    "title": "CarFareHub | Affordable & Reliable Car Rentals",
+    "business_name": "",
+    "country": "VEN",
+    "seo_score": 77,
+    "tech_spend": 25000,
+    "crawled_at": "2026-09-23T04:35:18.774176426Z",
+    "technologies": [
+      "CDN JS",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DealerInspire",
+      "Edmunds",
+      "Google Analytics",
+      "Google Tag Manager",
+      "QUIC",
+      "Tailwind CSS",
+      "Thank You",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "dealertechnerd.com",
     "title": "Home - Dealer Tech Nerd",
     "business_name": "Dealer Tech Nerd",
@@ -10290,30 +10313,6 @@
       "Microsoft Azure Blob Storage",
       "Parcel",
       "Toast POS"
-    ]
-  },
-  {
-    "domain": "carfarehub.com",
-    "title": "CarFareHub | Affordable & Reliable Car Rentals",
-    "business_name": "",
-    "country": "VEN",
-    "seo_score": 77,
-    "tech_spend": 25000,
-    "crawled_at": "2026-01-31T05:52:48.868410747Z",
-    "technologies": [
-      "CDN JS",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DealerInspire",
-      "Edmunds",
-      "Google Analytics",
-      "Google Tag Manager",
-      "LiteSpeed",
-      "QUIC",
-      "Tailwind CSS",
-      "Thank You",
-      "WordPress"
     ]
   }
 ]

@@ -1,5 +1,60 @@
 [
   {
+    "domain": "marathonautodealer.com",
+    "title": "Site Not Configured",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 2300,
+    "crawled_at": "2026-09-23T01:20:29.819299768Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Dealer.com",
+      "GZIP Module",
+      "GetResponse",
+      "GitHub Hosting",
+      "New Relic",
+      "OpenResty",
+      "UTF-8",
+      "dealr.cloud"
+    ]
+  },
+  {
+    "domain": "greasedealer.com",
+    "title": "greasedealer.com",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 83728,
+    "crawled_at": "2026-09-22T15:20:36.607495135Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Band Camp",
+      "Camp",
+      "DAV",
+      "Dealer.com",
+      "Express",
+      "FormSubmit",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Newsletter for Wordpress",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "scottsdalecoindealer.com",
     "title": "Rare Coins Dealer | Coin Shop Arizona",
     "business_name": "Toliver James Rare Coins",
@@ -1924,28 +1979,6 @@
       "YouTube",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "ignitionautodealer.com",
-    "title": "Site Not Configured",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 2300,
-    "crawled_at": "2026-09-06T06:06:41.699523242Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Dealer.com",
-      "GZIP Module",
-      "GetResponse",
-      "GitHub Hosting",
-      "New Relic",
-      "OpenResty",
-      "UTF-8",
-      "dealr.cloud"
     ]
   },
   {
@@ -18923,39 +18956,6 @@
       "hCaptcha",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "t1dealer.com",
-    "title": "Business Telecommunications Services | Simplici-T Telecom | Georgetown",
-    "business_name": "Simplici-T Telecom",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 4108,
-    "crawled_at": "2026-05-07T18:16:40.831519686Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Automattic",
-      "Dealer.com",
-      "EmbedPress",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Jetpack",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Page scroll to id",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "WP PageNavi",
-      "WPBakery",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
