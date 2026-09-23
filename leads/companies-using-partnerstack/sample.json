@@ -1,12 +1,12 @@
 [
   {
-    "domain": "learnworldportal.com",
+    "domain": "learnworldsinnovation.com",
     "title": "LMS Software for Learning Businesses | LearnWorlds",
     "business_name": "LearnWorlds",
     "country": "ESP",
     "seo_score": 77,
     "tech_spend": 70212,
-    "crawled_at": "2026-09-22T07:08:20.866392231Z",
+    "crawled_at": "2026-09-23T10:55:08.572661075Z",
     "technologies": [
       "Alternate Protocol",
       "Amazon WAF Blocked",
@@ -46,6 +46,33 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "storiesthatsell.com",
+    "title": "Stories That Sell: Pitching Mastery with Steve Rawling",
+    "business_name": "",
+    "country": "IRL",
+    "seo_score": 72,
+    "tech_spend": 20890,
+    "crawled_at": "2026-09-22T20:54:05.234836525Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Better Lead Generation Services",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Next.js",
+      "PartnerStack",
+      "QUIC",
+      "Tailwind CSS",
+      "Trustpilot Reviews for WordPress",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "Vercel",
+      "Wistia",
       "shadcn ui"
     ]
   },
@@ -12211,33 +12238,6 @@
       "Yahoo Image CDN",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "storiesthatsell.com",
-    "title": "Stories That Sell: Pitching Mastery with Steve Rawling",
-    "business_name": "",
-    "country": "IRL",
-    "seo_score": 77,
-    "tech_spend": 57482,
-    "crawled_at": "2026-01-31T01:31:48.890425071Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Better Lead Generation Services",
-      "Calendly",
-      "Framer Sites",
-      "Google Analytics",
-      "Google Tag Manager",
-      "KVH",
-      "Klaviyo",
-      "Ntent",
-      "PartnerStack",
-      "University or College",
-      "Wistia",
-      "Yandex Hosting",
-      "Zeald"
     ]
   }
 ]
