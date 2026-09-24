@@ -1,5 +1,34 @@
 [
   {
+    "domain": "ashleybot.com",
+    "title": "Ashley AI - Multilingual Voice & Text AI Chatbot for Your Business",
+    "business_name": "Ashley AI",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 280324,
+    "crawled_at": "2026-09-23T17:40:13.291481656Z",
+    "technologies": [
+      "AI Log",
+      "Better Lead Generation Services",
+      "Boost.ai",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Unsplash",
+      "Vercel",
+      "Yellow Messenger",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "securecyber-it.com",
     "title": "Secure Cyber IT",
     "business_name": "",
@@ -4794,35 +4823,6 @@
       "UTF-8",
       "WF Cookie Consent",
       "Yellow Messenger"
-    ]
-  },
-  {
-    "domain": "ashleybot.com",
-    "title": "Ashley AI - Multilingual Voice & Text AI Chatbot for Your Business",
-    "business_name": "Ashley AI",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 280324,
-    "crawled_at": "2026-01-31T13:45:59.653221414Z",
-    "technologies": [
-      "AI Log",
-      "Better Lead Generation Services",
-      "Boost.ai",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Unsplash",
-      "Vercel",
-      "Yellow Messenger",
-      "shadcn ui"
     ]
   }
 ]
