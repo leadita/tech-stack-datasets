@@ -1,5 +1,29 @@
 [
   {
+    "domain": "psisisustus.ee",
+    "title": "PSI Sisustus | Euroopa Tippdisain",
+    "business_name": "",
+    "country": "EST",
+    "seo_score": 67,
+    "tech_spend": 30788,
+    "crawled_at": "2026-09-24T14:40:16.669598324Z",
+    "technologies": [
+      "DAV",
+      "Drift",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Flights Conversion Tracking",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nginx",
+      "Outfunnel",
+      "PHP",
+      "Statamic",
+      "UTF-8",
+      "Ubuntu"
+    ]
+  },
+  {
     "domain": "lenderfit.io",
     "title": "Lenderfit",
     "business_name": "Lenderfit",
@@ -7692,31 +7716,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "psisisustus.ee",
-    "title": "PSI Sisustus | Euroopa Tippdisain",
-    "business_name": "",
-    "country": "EST",
-    "seo_score": 67,
-    "tech_spend": 30788,
-    "crawled_at": "2026-02-01T02:40:48.870344194Z",
-    "technologies": [
-      "DAV",
-      "Drift",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Flights Conversion Tracking",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "Outfunnel",
-      "PHP",
-      "Statamic",
-      "Subversion",
-      "UTF-8",
-      "Ubuntu"
     ]
   }
 ]
