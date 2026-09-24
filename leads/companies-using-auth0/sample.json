@@ -1,5 +1,30 @@
 [
   {
+    "domain": "londonfgss.com",
+    "title": "LFGSS",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 6700,
+    "crawled_at": "2026-09-24T12:12:06.525638609Z",
+    "technologies": [
+      "Adult Content",
+      "Auth0",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Fastly",
+      "Google",
+      "Google Cloud DNS",
+      "Google Code Prettify",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Open Collective",
+      "Schema Plugin",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "tidalcontrol.org",
     "title": "ISO, NIS2, SOC2 and GDPR compliance automation. Made in EU.",
     "business_name": "Tidal Control",
@@ -3158,32 +3183,6 @@
       "Wistia",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "lfgss.com",
-    "title": "LFGSS",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 6700,
-    "crawled_at": "2026-08-16T18:15:02.7991285Z",
-    "technologies": [
-      "Adult Content",
-      "Auth0",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Django CSRF",
-      "Fastly",
-      "Google",
-      "Google Cloud DNS",
-      "Google Code Prettify",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Open Collective",
-      "Schema Plugin",
-      "UTF-8",
-      "jQuery"
     ]
   },
   {

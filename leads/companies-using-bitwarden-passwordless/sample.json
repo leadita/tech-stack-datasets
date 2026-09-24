@@ -1,5 +1,24 @@
 [
   {
+    "domain": "devag.ca",
+    "title": "BGM Devag",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 62,
+    "tech_spend": 2445,
+    "crawled_at": "2026-09-24T05:14:40.289576531Z",
+    "technologies": [
+      "Apache",
+      "Bitwarden Passwordless",
+      "Envoy",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "QUIC"
+    ]
+  },
+  {
     "domain": "dadnology.com",
     "title": "Dadnology – Honest LEGO, Tech & Gaming Reviews for Dads",
     "business_name": "",
@@ -18810,46 +18829,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "lowcarbfood.co",
-    "title": "Low Carb Food Co | Making it easier to adopt a low-carb lifestyle",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 19957,
-    "crawled_at": "2026-03-17T09:56:03.470466685Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Bitwarden Passwordless",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Digital Ocean Spaces",
-      "Express",
-      "Fastly",
-      "GoAffPro",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "NFOrce Internet",
-      "Pico CSS",
-      "QUIC",
-      "Share Link",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "Thank You",
-      "Trustpilot Reviews for WordPress",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "hCaptcha",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   }
 ]
