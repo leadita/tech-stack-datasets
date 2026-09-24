@@ -1,16 +1,17 @@
 [
   {
-    "domain": "storesupplyworld.info",
+    "domain": "connectstoresupply.info",
     "title": "Retail Supplies, Fixtures & Displays | Store Supply Warehouse",
     "business_name": "Store Supply Warehouse",
     "country": "USA",
     "seo_score": 77,
-    "tech_spend": 105094,
-    "crawled_at": "2026-09-23T03:11:54.544074204Z",
+    "tech_spend": 107494,
+    "crawled_at": "2026-09-24T02:46:05.508451516Z",
     "technologies": [
       "AWS WAF Challenge",
       "Alibaba Cloud CDN",
       "Alternate Protocol",
+      "Amazon",
       "Amazon CloudFront",
       "Amazon WAF Blocked",
       "Apple Auto Link Maker",
