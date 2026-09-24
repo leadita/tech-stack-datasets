@@ -1,5 +1,29 @@
 [
   {
+    "domain": "mcs150processor.us",
+    "title": "US DOT Biennial Update Portal | DOT Updates | Federal Applications Processor - Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 5608,
+    "crawled_at": "2026-09-24T04:41:15.406243627Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Apache",
+      "ChatBot",
+      "Cognito Forms",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "LiveChat",
+      "LiveChat Monitoring",
+      "Paperform",
+      "QUIC",
+      "Rocket Chat"
+    ]
+  },
+  {
     "domain": "waldnerwinters.homes",
     "title": "Waldner Winters Team | Keller Williams Realty Centre | PLACE",
     "business_name": "",
@@ -451,31 +475,6 @@
       "WordPress",
       "WordPress Multisite",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "motorcarrierupdate.us",
-    "title": "US DOT Biennial Update Portal | DOT Updates | Federal Applications Processor - Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 7108,
-    "crawled_at": "2026-09-21T22:31:15.518340407Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Apache",
-      "ChatBot",
-      "Cognito Forms",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "LiveChat",
-      "LiveChat Monitoring",
-      "NFOrce Internet",
-      "Paperform",
-      "QUIC",
-      "Rocket Chat"
     ]
   },
   {
