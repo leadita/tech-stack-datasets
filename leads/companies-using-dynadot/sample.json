@@ -1,5 +1,79 @@
 [
   {
+    "domain": "fighting69th.com",
+    "title": "An EMDN - Fighting 69th, Military Regiment Infantry History Heritage Valor Courage Tradition Brotherhood New York National Guard",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 120,
+    "crawled_at": "2026-09-24T14:07:07.954343688Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "andinistas.net",
+    "title": ".",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 86,
+    "crawled_at": "2026-09-24T09:19:39.055006654Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "MyFonts",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "ruleyourattic.com",
+    "title": "Sugar Land’s Home Inspector | Imperial Pro Inspection",
+    "business_name": "Imperial Pro Inspection LLC",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 18280,
+    "crawled_at": "2026-09-24T03:09:19.595060641Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Financial Services Guide",
+      "Fireblade",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Customer Reviews",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Ntent",
+      "QUIC",
+      "RawGit",
+      "UTF-8",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "biotronic.net",
     "title": "Digital Real Estate Specialist",
     "business_name": "",
@@ -289,28 +363,6 @@
       "Microdata for Google Shopping",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "sipg.co.il",
-    "title": "An EMDN - SIPG CO IL, Industrial Group Manufacturing Solutions Supply Chain Engineering Infrastructure Projects Technology Services Production Facility Corporate Network",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 36,
-    "crawled_at": "2026-09-07T20:42:35.431227754Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "UTF-8"
     ]
   },
   {
@@ -4616,44 +4668,6 @@
       "YouTube",
       "jQuery",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "shopandshipping.com",
-    "title": "ThriftStation.com - Explore the Joy of Thrifting!",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 10219,
-    "crawled_at": "2026-02-01T01:22:48.861837499Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "BLR",
-      "CloudFront",
-      "Dynadot",
-      "Financial Services Guide",
-      "Font Awesome",
-      "GZIP Module",
-      "Tumblr",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "andinistas.net",
-    "title": ".",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 185,
-    "crawled_at": "2026-01-31T23:33:14.461678384Z",
-    "technologies": [
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "MyFonts",
-      "UTF-8"
     ]
   }
 ]
