@@ -1,5 +1,35 @@
 [
   {
+    "domain": "aicpcu.org",
+    "title": "Homepage | The Institutes",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 92400,
+    "crawled_at": "2026-09-23T22:54:26.909405968Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Add to Any",
+      "Backdrop",
+      "Content Delivery Network",
+      "Drupal",
+      "Express",
+      "Fastly",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Monetate",
+      "Nginx",
+      "PHP",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "podolsky.com",
     "title": "Podolsky",
     "business_name": "Podolsky & Associates, Ltd.",
@@ -8824,32 +8854,6 @@
     ]
   },
   {
-    "domain": "ceu.com",
-    "title": "CEU Insurance Continuing Education | The Institutes",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 62400,
-    "crawled_at": "2026-05-11T11:20:07.972422639Z",
-    "technologies": [
-      "Add to Any",
-      "Backdrop",
-      "Content Delivery Network",
-      "Drupal",
-      "Express",
-      "Fastly",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Monetate",
-      "Nginx",
-      "PHP",
-      "Twitter Ads",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
     "domain": "oakleyinclegal.com",
     "title": "Intellectual Property | Official Oakley | Oakley® US",
     "business_name": "",
@@ -16501,36 +16505,6 @@
       "UTF-8",
       "Vector Internet Services",
       "WF Cookie Consent",
-      "YouTube",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "aicpcu.org",
-    "title": "Homepage | The Institutes",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 92400,
-    "crawled_at": "2026-01-31T17:14:25.561396678Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Add to Any",
-      "Backdrop",
-      "Content Delivery Network",
-      "Drupal",
-      "Express",
-      "Fastly",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Monetate",
-      "Nginx",
-      "PHP",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
       "YouTube",
       "jsDelivr"
     ]
