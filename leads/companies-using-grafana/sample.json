@@ -1,5 +1,22 @@
 [
   {
+    "domain": "bi.apx.me",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": "",
+    "crawled_at": "2026-09-24T09:40:02.840074098Z",
+    "technologies": [
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Grafana",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "solaranzeige.7cw.de",
     "title": "Grafana",
     "business_name": "",

@@ -1,4 +1,5 @@
 domain,title,business_name,country,seo_score,tech_spend,crawled_at,technologies
+bi.apx.me,Grafana,,,30,,2026-09-24T09:40:02.840074098Z,"['GZIP Module', 'GitHub Hosting', 'Google My Business', 'Grafana', 'Tailwind CSS', 'UTF-8']"
 solaranzeige.7cw.de,Grafana,,,30,1200,2026-09-16T18:48:25.135067084Z,"['Barchart', 'Express', 'GZIP Module', 'GitHub Hosting', 'Google My Business', 'Grafana', 'OpenResty', 'UTF-8']"
 sar-analytic.in,Grafana,,,40,1260,2026-09-14T02:14:56.814943237Z,"['Apache', 'Barchart', 'DAV', 'Express', 'GZIP Module', 'GitHub Hosting', 'Grafana', 'Nginx', 'UTF-8', 'Ubuntu', 'Yandex Hosting']"
 doprava.digital,Grafana,,,30,11203,2026-08-17T15:55:16.78636418Z,"['Apache', 'Barchart', 'Contento', 'Express', 'GitHub Hosting', 'Google Cloud DNS', 'Grafana', 'UTF-8']"
