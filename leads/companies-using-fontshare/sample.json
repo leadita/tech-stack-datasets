@@ -1,5 +1,115 @@
 [
   {
+    "domain": "shortlist.fyi",
+    "title": "The Shortlist",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 84,
+    "crawled_at": "2026-09-24T21:28:22.661143582Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fontshare",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Next.js",
+      "Tailwind CSS",
+      "UTF-8",
+      "Unsplash",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "pitchd.co.uk",
+    "title": "Pitch'd — The ABCDE Process™: audit, brand, content, data, engagement",
+    "business_name": "Pitch'd",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 700,
+    "crawled_at": "2026-09-24T16:50:34.328513176Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Fontshare",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Perl",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "paperbeatsrock.co",
+    "title": "paperbeatsrock.co | design + engineering",
+    "business_name": "",
+    "country": "HRV",
+    "seo_score": 52,
+    "tech_spend": 63,
+    "crawled_at": "2026-09-24T16:15:47.603690682Z",
+    "technologies": [
+      "Fontshare",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "LiteSpeed",
+      "Remix",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "bookyourshow.au",
+    "title": "BookYourShow - Your One-Stop Event Ticketing Platform",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 67,
+    "tech_spend": 2680,
+    "crawled_at": "2026-09-24T10:00:35.699092791Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fontshare",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "mfgdiversified.com",
+    "title": "MFGDIVERSIFIED.COM",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 25577,
+    "crawled_at": "2026-09-24T01:10:19.981007816Z",
+    "technologies": [
+      "Aruba",
+      "Coming Soon Page",
+      "Express",
+      "Fontshare",
+      "GZIP Module",
+      "IcoMoon",
+      "InitiativeS",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "onemillionpuzzlepage.com",
     "title": "One Million Puzzle Page — Draw peace with us. Coming soon.",
     "business_name": "",
@@ -13347,121 +13457,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "tekvibes.com",
-    "title": "Tekvibes | AI Consulting Services London | Machine Learning & Data Analytics",
-    "business_name": "Tekvibes",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 20089,
-    "crawled_at": "2026-05-23T07:44:19.985460002Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Fontshare",
-      "Formspree",
-      "GZIP Module",
-      "Google",
-      "Google Cloud",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "QUIC"
-    ]
-  },
-  {
-    "domain": "conmoji.com",
-    "title": "Conmoji | Your Digital Receptionist — Welcomes, Helps & Converts Visitors 24/7",
-    "business_name": "",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 2959,
-    "crawled_at": "2026-05-23T05:20:19.986695448Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "CDN JS",
-      "Calendly",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Font Awesome",
-      "Fontshare",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "amped.org",
-    "title": "Amped — New American Energy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 1200,
-    "crawled_at": "2026-05-23T05:11:20.017922638Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fontshare",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Next.js",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "blackmatter.vc",
-    "title": "Black Matter VC — AI systems for venture funds",
-    "business_name": "Black Matter VC",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 2872,
-    "crawled_at": "2026-05-23T03:32:19.977282899Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Calendly",
-      "Content Delivery Network",
-      "Fontshare",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "mockingbirdsoftware.dev",
-    "title": "Mockingbird Software | Dallas-Fort Worth Web Design & Development",
-    "business_name": "Mockingbird Software",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 2592,
-    "crawled_at": "2026-05-23T03:23:20.012541451Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Calendly",
-      "Express",
-      "Fontshare",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "UTF-8"
     ]
   }
 ]
