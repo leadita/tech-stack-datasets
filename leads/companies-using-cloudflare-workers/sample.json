@@ -1,5 +1,31 @@
 [
   {
+    "domain": "impactos.live",
+    "title": "ImpactOS • Command Center",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 31800,
+    "crawled_at": "2026-09-23T13:33:52.99330339Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Bug Bounty",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Workers",
+      "DAV",
+      "Fireblade",
+      "Google Forms",
+      "Google My Business",
+      "InitiativeS",
+      "NFOrce Internet",
+      "Perl",
+      "QUIC",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "sarsentjev.me",
     "title": "Stepan Arsentjev",
     "business_name": "",
@@ -15058,31 +15084,6 @@
       "Vector Internet Services",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "vooda.xyz",
-    "title": "Denis Ejov's Portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 660,
-    "crawled_at": "2026-04-29T03:33:44.926469208Z",
-    "technologies": [
-      "3 Products",
-      "Cloudflare",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Gambling Content",
-      "LaunchDarkly",
-      "NFOrce Internet",
-      "Next.js",
-      "Nginx",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
