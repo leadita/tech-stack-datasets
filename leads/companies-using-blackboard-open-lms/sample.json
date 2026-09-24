@@ -1,5 +1,31 @@
 [
   {
+    "domain": "supervisionoutreach.org",
+    "title": "Supervision Outreach - SupervisionOutreach.org",
+    "business_name": "",
+    "country": "VEN",
+    "seo_score": 55,
+    "tech_spend": 41560,
+    "crawled_at": "2026-09-24T01:36:57.008267226Z",
+    "technologies": [
+      "Anthology Encompass",
+      "Apture Linking Platform",
+      "Blackboard Open LMS",
+      "Cisco/Arrowpoint Content Service Switch",
+      "D2L",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft Azure",
+      "NFOrce Internet",
+      "PHP",
+      "Tailwind CSS",
+      "UTF-8",
+      "Visual Studio",
+      "eLand"
+    ]
+  },
+  {
     "domain": "easby.biz",
     "title": "Finance & Accounting Services for Growing Organizations",
     "business_name": "",
