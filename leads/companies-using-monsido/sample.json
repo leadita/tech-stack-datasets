@@ -1,5 +1,37 @@
 [
   {
+    "domain": "williamscountysheriff.com",
+    "title": "Sheriff | Williams County, OH",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 84100,
+    "crawled_at": "2026-09-23T19:27:12.877311185Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "AudioEye",
+      "AutoComplete",
+      "CivicPlus",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Material-UI",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Monsido",
+      "QUIC",
+      "SMC",
+      "SiteW",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Visual Studio"
+    ]
+  },
+  {
     "domain": "hillsidecountryliving.org",
     "title": "Hillside Country Living | Williams County, OH",
     "business_name": "",
@@ -12301,38 +12333,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "williamscosheriff.com",
-    "title": "Sheriff | Williams County, OH",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 84100,
-    "crawled_at": "2026-04-19T04:11:20.008670983Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "AudioEye",
-      "AutoComplete",
-      "CivicPlus",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Material-UI",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Monsido",
-      "QUIC",
-      "SMC",
-      "SiteW",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Visual Studio"
     ]
   },
   {
