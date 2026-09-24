@@ -1,5 +1,68 @@
 [
   {
+    "domain": "eventstorming.com",
+    "title": "EventStorming",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 72,
+    "tech_spend": 6514,
+    "crawled_at": "2026-09-24T09:36:24.230218077Z",
+    "technologies": [
+      "Azion",
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Iubenda",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Netlify",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "bitbetp.com",
+    "title": "BITB | Bitwise Bitcoin ETF",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 82588,
+    "crawled_at": "2026-09-23T22:41:17.066161215Z",
+    "technologies": [
+      "Amazon S3 CDN",
+      "Cloudflare Turnstile",
+      "Content Delivery Network",
+      "DAV",
+      "DatoCMS",
+      "Financial Services Guide",
+      "Fireblade",
+      "Next.js",
+      "Pleroma",
+      "Prospective",
+      "RM Education",
+      "Radix UI",
+      "SMC",
+      "Storyblocks",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "gotestparty.com",
     "title": "Automated WCAG Compliance | TestParty",
     "business_name": "",
@@ -7517,28 +7580,6 @@
     ]
   },
   {
-    "domain": "bwowetf.com",
-    "title": "BWOW ETF - Bitwise Dogecoin ETF",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 74628,
-    "crawled_at": "2026-05-21T00:32:19.983170323Z",
-    "technologies": [
-      "Cloudflare Turnstile",
-      "Content Delivery Network",
-      "DatoCMS",
-      "Fireblade",
-      "Next.js",
-      "Pleroma",
-      "Prospective",
-      "Radix UI",
-      "SMC",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
     "domain": "hbmconstructions.co.uk",
     "title": "Hydrogen Building & Maintenance Ltd.",
     "business_name": "",
@@ -14211,30 +14252,6 @@
       "Vignette OpenText",
       "Vimeo CDN",
       "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "academicminority.net",
-    "title": "Student Minority Projects Challenge - Eurac Research",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 72,
-    "tech_spend": 19446,
-    "crawled_at": "2026-04-30T17:26:19.993086708Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Crowdsignal",
-      "DatoCMS",
-      "Google Related Website Sites",
-      "Next.js",
-      "No-Q",
-      "Plausible Analytics",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel",
       "shadcn ui"
     ]
   }
