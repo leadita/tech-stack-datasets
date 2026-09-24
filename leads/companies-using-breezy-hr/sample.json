@@ -1,5 +1,61 @@
 [
   {
+    "domain": "codestreet.tech",
+    "title": "Code Street",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 27257,
+    "crawled_at": "2026-09-24T15:13:42.95838988Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Breezy HR",
+      "Express",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "homealliance.com",
+    "title": "Home Alliance — Home Improvement, HVAC, Appliance & Plumbing Services",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 20351,
+    "crawled_at": "2026-09-24T03:47:17.151525894Z",
+    "technologies": [
+      "Advisory Board",
+      "App Store",
+      "Apture Linking Platform",
+      "Breezy HR",
+      "Coming Soon Page",
+      "Fireblade",
+      "Google Analytics",
+      "Google My Business",
+      "Google Play",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Investor Relations",
+      "Next.js",
+      "QUIC",
+      "Sanity",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "mshcareers.co.uk",
     "title": "MSH Healthcare Careers | Home Care in Cumbria | Cumbria, UK",
     "business_name": "MSH Healthcare",
@@ -6911,41 +6967,6 @@
       "WF Cookie Consent",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "homealliancebids.com",
-    "title": "Home Alliance",
-    "business_name": "Homealliance",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 24943,
-    "crawled_at": "2026-05-14T10:41:19.999066753Z",
-    "technologies": [
-      "Advisory Board",
-      "Apture Linking Platform",
-      "Breezy HR",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Headless UI",
-      "Instagram Follow Button",
-      "Investor Relations",
-      "Material-UI",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Recurly",
-      "Styled Components",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   },
   {
@@ -17422,36 +17443,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "codestreet.tech",
-    "title": "Code Street",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 27320,
-    "crawled_at": "2026-02-01T02:58:48.87150711Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Breezy HR",
-      "Express",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
