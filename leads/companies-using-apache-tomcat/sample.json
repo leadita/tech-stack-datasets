@@ -1,5 +1,32 @@
 [
   {
+    "domain": "appsbykoketso.com",
+    "title": "APPS BY KOKETSO: Best Mobile App Development Company in South Africa (SA). Johannesburg,Pretoria Gauteng,Cape Town",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 18040,
+    "crawled_at": "2026-09-24T12:40:36.18516082Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "Instagram Follow Button",
+      "Java EE",
+      "LiteSpeed",
+      "On The Map",
+      "Thank You",
+      "Twitter Ads",
+      "University or College"
+    ]
+  },
+  {
     "domain": "jctravel.es",
     "title": "Apache Tomcat",
     "business_name": "",
@@ -13543,34 +13570,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "appsbykoketso.com",
-    "title": "APPS BY KOKETSO: Best Mobile App Development Company in South Africa (SA). Johannesburg,Pretoria Gauteng,Cape Town",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 18040,
-    "crawled_at": "2026-02-01T01:31:48.877838331Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "Instagram Follow Button",
-      "Java EE",
-      "LiteSpeed",
-      "On The Map",
-      "QUIC",
-      "Thank You",
-      "Twitter Ads",
-      "University or College"
     ]
   }
 ]
