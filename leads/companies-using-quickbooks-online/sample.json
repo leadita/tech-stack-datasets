@@ -1,5 +1,64 @@
 [
   {
+    "domain": "culveraccounting.com",
+    "title": "Home | Culver, PLLC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 13120,
+    "crawled_at": "2026-09-24T09:04:28.267347398Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "carminesrobbins.com",
+    "title": "Home | Carmines, Robbins & Company, PLC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 13340,
+    "crawled_at": "2026-09-23T11:58:35.081689487Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "Zoom Video Conferencing",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "lsw-cpa.com",
     "title": "Home | Lancaster, Schnautz & White, LLP",
     "business_name": "",
@@ -5901,37 +5960,6 @@
     ]
   },
   {
-    "domain": "culvercpa.com",
-    "title": "Home | Culver, PLLC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 13120,
-    "crawled_at": "2026-04-29T10:56:19.982839195Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Cloudinary",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "reCAPTCHA"
-    ]
-  },
-  {
     "domain": "clearaccountingfirm.com",
     "title": "CPA Firm in Vermont | Experienced Accountants in Vermont | Clear Accounting Firm",
     "business_name": "",
@@ -10337,33 +10365,6 @@
       "WordPress Multisite",
       "Yelp Badge",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "carminesrobbins.com",
-    "title": "Home | Carmines, Robbins & Company, PLC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 12800,
-    "crawled_at": "2026-01-31T10:28:48.888888047Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "Zoom Video Conferencing",
-      "jsDelivr"
     ]
   }
 ]
