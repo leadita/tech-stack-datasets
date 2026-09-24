@@ -1,5 +1,71 @@
 [
   {
+    "domain": "stillcinematic.com",
+    "title": "Still Cinematic - Professional Video & Photography Services",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 2764,
+    "crawled_at": "2026-09-24T06:09:55.185372942Z",
+    "technologies": [
+      "Adult Content",
+      "Advertising.com",
+      "Apture Linking Platform",
+      "Better Lead Generation Services",
+      "Content Delivery Network",
+      "Counter Dev",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "FormSubmit",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Netlify",
+      "Thank You",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "bowmanadvertisingweb.com",
+    "title": "Home - Bowman Advertising",
+    "business_name": "Bowman Advertising",
+    "country": "USA",
+    "seo_score": 75,
+    "tech_spend": 9119,
+    "crawled_at": "2026-09-23T18:41:32.753657896Z",
+    "technologies": [
+      "Advertising.com",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Better Lead Generation Services",
+      "Calendly",
+      "Complianz",
+      "Content Delivery Network",
+      "DAV",
+      "Elementor",
+      "EmbedPress",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Hello Elementor",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PHP",
+      "Prospective",
+      "Site Kit",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "jonoadvertising.com",
     "title": "JONO ADVERTISING",
     "business_name": "",
@@ -31,43 +97,6 @@
       "University or College",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "bowmanadvertisingbiz.com",
-    "title": "Home - Bowman Advertising",
-    "business_name": "Bowman Advertising",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 9119,
-    "crawled_at": "2026-09-23T08:46:23.28753613Z",
-    "technologies": [
-      "Advertising.com",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Better Lead Generation Services",
-      "Calendly",
-      "Complianz",
-      "Content Delivery Network",
-      "DAV",
-      "Elementor",
-      "EmbedPress",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hello Elementor",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PHP",
-      "Prospective",
-      "Site Kit",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
     ]
   },
   {
@@ -23323,26 +23352,6 @@
       "WordPress Multisite",
       "a3 Lazy Load",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "apnaadvertising.com",
-    "title": "Apna Advertising",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 5090,
-    "crawled_at": "2026-07-12T22:11:19.971598425Z",
-    "technologies": [
-      "Advertising.com",
-      "Flat Icon",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "iomart"
     ]
   }
 ]
