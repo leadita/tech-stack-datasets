@@ -1,5 +1,58 @@
 [
   {
+    "domain": "frankmcpherson.blog",
+    "title": "Routine Revelations",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 120,
+    "crawled_at": "2026-09-23T17:50:50.178021932Z",
+    "technologies": [
+      "Alternate Protocol",
+      "DAV",
+      "GitHub Hosting",
+      "Hugo",
+      "Micro.blog",
+      "PWA",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "wnknisely.org",
+    "title": "About Me – Entangled States",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 767,
+    "crawled_at": "2026-09-23T17:40:13.299637064Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon Widgets",
+      "Automattic",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Gutenberg",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "Mastodon",
+      "Micro.blog",
+      "Nginx",
+      "Share Link",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "watchtowerintel.com",
     "title": "Operation Watchtower",
     "business_name": "",
@@ -563,30 +616,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "www.www.www.www.www.www.frankmcpherson.blog",
-    "title": "Routine Revelations",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 67,
-    "tech_spend": 120,
-    "crawled_at": "2026-08-25T19:18:23.49227731Z",
-    "technologies": [
-      "Alternate Protocol",
-      "DAV",
-      "GitHub Hosting",
-      "Hugo",
-      "Investor Relations",
-      "Micro.blog",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "eLand",
-      "jsDelivr"
     ]
   },
   {
@@ -3308,38 +3337,6 @@
       "Micro.blog",
       "Nginx",
       "QUIC"
-    ]
-  },
-  {
-    "domain": "entangledstates.org",
-    "title": "Entangled States",
-    "business_name": "",
-    "country": "ISR",
-    "seo_score": 65,
-    "tech_spend": 51507,
-    "crawled_at": "2026-05-05T16:44:19.980594046Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Automattic",
-      "Content Delivery Network",
-      "EmbedPress",
-      "GoDaddy",
-      "Gutenberg",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Micro.blog",
-      "Nginx",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "Twitter Ads",
-      "UTF-8",
-      "Vimeo",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "YouTube",
-      "jQuery"
     ]
   },
   {
@@ -7832,36 +7829,6 @@
       "University or College",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "wnknisely.org",
-    "title": "About Me – Entangled States",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 767,
-    "crawled_at": "2026-01-31T13:46:48.878218294Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon Widgets",
-      "Automattic",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Gutenberg",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Mastodon",
-      "Micro.blog",
-      "Nginx",
-      "Share Link",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "jQuery"
     ]
   }
 ]

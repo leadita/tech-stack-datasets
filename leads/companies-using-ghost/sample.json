@@ -1,5 +1,60 @@
 [
   {
+    "domain": "posthampshire.org",
+    "title": "To Remember is Not Enough: A Post-Hampshire Anthology",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 425,
+    "crawled_at": "2026-09-24T00:46:26.150143624Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Express",
+      "Ghost",
+      "Google Cloud DNS",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Tally",
+      "UTF-8",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "secondopinion.media",
+    "title": "Second Opinion Media",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 5728,
+    "crawled_at": "2026-09-24T00:36:17.987448439Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "Ghost",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "Plausible Analytics",
+      "Stripe",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "4motionproductions.co.uk",
     "title": "4Motion Productions",
     "business_name": "",
@@ -13118,51 +13173,6 @@
       "WP Engine",
       "WordPress",
       "WordPress Multisite"
-    ]
-  },
-  {
-    "domain": "alifereflected.com",
-    "title": "A Life Reflected",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 660,
-    "crawled_at": "2026-04-07T20:26:19.976636502Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Bunny Fonts",
-      "Express",
-      "Ghost",
-      "License Buttons",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "briandkatz.com",
-    "title": "briandkatz.com",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 17160,
-    "crawled_at": "2026-04-07T19:35:44.12174793Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Bunny Fonts",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Fireblade",
-      "Ghost",
-      "Harbor",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "UTF-8",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]
