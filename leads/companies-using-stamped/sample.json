@@ -1,5 +1,35 @@
 [
   {
+    "domain": "norigami.me",
+    "title": "Shop Natural Non-Toxic Curly Hair Products - Norigami Organics – Norigami LLC",
+    "business_name": "Norigami LLC",
+    "country": "ZAF",
+    "seo_score": 77,
+    "tech_spend": 15564,
+    "crawled_at": "2026-09-24T18:59:09.773994717Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amped",
+      "Apture Linking Platform",
+      "Baidu Cloud",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "Stamped",
+      "UTF-8",
+      "Yandex Hosting",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "gear4baseball.com",
     "title": "Diamond Sport Gear - The Baseball and Softball Specialty Store – Diamond Sport Gear",
     "business_name": "",
@@ -23875,38 +23905,6 @@
       "jQuery",
       "reCAPTCHA",
       "route"
-    ]
-  },
-  {
-    "domain": "allemblems.com",
-    "title": "Allemblems | Quality for every customer",
-    "business_name": "SpasGoranov",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 26432,
-    "crawled_at": "2026-05-31T15:13:35.447568861Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amped",
-      "Apture Linking Platform",
-      "Aruba",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fancybox for WordPress",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Stamped",
-      "UTF-8",
-      "YouTube",
-      "eLand",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   }
 ]
