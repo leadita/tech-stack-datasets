@@ -1,5 +1,71 @@
 [
   {
+    "domain": "sugariks.cc",
+    "title": "Contact - sugariks.cc",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 18217,
+    "crawled_at": "2026-09-25T20:22:35.522610228Z",
+    "technologies": [
+      "DHL",
+      "Fastly",
+      "Fireblade",
+      "Formspree",
+      "GZIP Module",
+      "IcoMoon",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "yahsirwaheed.com",
+    "title": "YAHSIR WAHEED – KOKUM",
+    "business_name": "",
+    "country": "PAK",
+    "seo_score": 77,
+    "tech_spend": 10344,
+    "crawled_at": "2026-09-25T11:49:44.445469558Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Aruba",
+      "Baidu Cloud",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DHL",
+      "Google Related Website Sites",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "UTF-8",
+      "Yandex Hosting",
+      "Zoko",
+      "eLand",
+      "hCaptcha",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "owkei.de",
+    "title": "ok | projects",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-09-25T10:15:52.975182987Z",
+    "technologies": [
+      "Apache",
+      "DHL Parcel",
+      "Google My Business",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "vptaxservice.com",
     "title": "Tax Services in Kent,wa,Income tax preparation,Federal & State Taxes Return Filing consultants in wa,seattle",
     "business_name": "",
@@ -3586,27 +3652,6 @@
       "WordPress Multisite",
       "Yelp Badge",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "virliiks.com",
-    "title": "Contact - virliiks.com",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 18217,
-    "crawled_at": "2026-07-30T12:26:35.56544739Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DHL",
-      "Fastly",
-      "Fireblade",
-      "Formspree",
-      "GZIP Module",
-      "IcoMoon",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   },
   {
@@ -16545,34 +16590,6 @@
     ]
   },
   {
-    "domain": "kokum.pk",
-    "title": "YAHSIR WAHEED – KOKUM",
-    "business_name": "",
-    "country": "PAK",
-    "seo_score": 67,
-    "tech_spend": 4824,
-    "crawled_at": "2026-04-12T10:53:19.978744755Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Aruba",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DHL",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "UTF-8",
-      "eLand",
-      "hCaptcha",
-      "jsDelivr",
-      "reCAPTCHA"
-    ]
-  },
-  {
     "domain": "complianceprime.com",
     "title": "Online Compliance Training & Webinar For Continuing Education - Compliance Prime",
     "business_name": "",
@@ -18993,57 +19010,6 @@
       "hCaptcha",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "technoversebs.com",
-    "title": "Technoverse Business Solutions | IT Hardware & Networking",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 72,
-    "tech_spend": 102774,
-    "crawled_at": "2026-04-02T18:34:52.846187706Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Aramex",
-      "Aruba",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Commoninja",
-      "Content Delivery Network",
-      "CoolText",
-      "DC74",
-      "DHL Parcel",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "FedEx",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "Heroku",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Microsoft Azure",
-      "NFOrce Internet",
-      "POWr",
-      "PWA",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "Sentry",
-      "Share Link",
-      "SiteW",
-      "Social Intents",
-      "Thank You",
-      "UPS",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "YouTube",
-      "mlcom"
     ]
   }
 ]
