@@ -1,5 +1,30 @@
 [
   {
+    "domain": "electrowattwise.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 9411,
+    "crawled_at": "2026-09-24T15:45:53.894661989Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Everflow",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "QUIC",
+      "Taboola Direct",
+      "Taboola Reseller",
+      "Tailwind CSS",
+      "Tidio",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "trycloud9.com",
     "title": "Cloud9 - For People Who Enjoy a Drink and Care About Their Health",
     "business_name": "Cloud9",
@@ -8226,31 +8251,6 @@
       "TikTok Conversion Tracking Pixel",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "electrowattwise.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 9411,
-    "crawled_at": "2026-02-01T03:16:48.872124407Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Everflow",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "QUIC",
-      "Taboola Direct",
-      "Taboola Reseller",
-      "Tailwind CSS",
-      "Tidio",
-      "UTF-8"
     ]
   }
 ]

@@ -12218,29 +12218,5 @@
       "jsDelivr",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "innervisionnonprofit.org",
-    "title": "Innervision Nonprofit",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 35260,
-    "crawled_at": "2026-02-01T01:43:48.859016988Z",
-    "technologies": [
-      "Amazon",
-      "Amazon S3 CDN",
-      "Apache",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Donorbox",
-      "Express",
-      "Google Analytics",
-      "Google Tag Manager",
-      "PartnerStack",
-      "PayPal Adaptive Payments",
-      "Storyblocks",
-      "University or College",
-      "Wangsu"
-    ]
   }
 ]
