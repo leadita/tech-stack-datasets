@@ -1,5 +1,120 @@
 [
   {
+    "domain": "aleksanderuznanski.com",
+    "title": "Aleksander Uznański · Product Builder & Advisor · From Zero to One",
+    "business_name": "",
+    "country": "",
+    "seo_score": 92,
+    "tech_spend": 17680,
+    "crawled_at": "2026-09-25T16:47:33.999487387Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Fontshare",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "UTF-8",
+      "University or College",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "admedia-marketing.com",
+    "title": "Admedia Marketing",
+    "business_name": "",
+    "country": "EST",
+    "seo_score": 72,
+    "tech_spend": 15700,
+    "crawled_at": "2026-09-25T13:52:29.593654728Z",
+    "technologies": [
+      "Bulma",
+      "Express",
+      "Fireblade",
+      "Fontshare",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Line2",
+      "Nginx",
+      "PWA",
+      "Pico CSS"
+    ]
+  },
+  {
+    "domain": "playandchill.bet",
+    "title": "Play'n Chill | Premium iGaming Studio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 7500,
+    "crawled_at": "2026-09-25T07:24:37.123301314Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Fireblade",
+      "Fontshare",
+      "Next.js",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "unknown-in-madison.com",
+    "title": "Clean Starter Site",
+    "business_name": "",
+    "country": "",
+    "seo_score": 25,
+    "tech_spend": "",
+    "crawled_at": "2026-09-25T05:59:14.484964133Z",
+    "technologies": [
+      "Fontshare"
+    ]
+  },
+  {
+    "domain": "phoweee.co.uk",
+    "title": "PHOWEEE — Photographs by Pedro Rodrigues / @Treze413",
+    "business_name": "",
+    "country": "CUB",
+    "seo_score": 87,
+    "tech_spend": 2680,
+    "crawled_at": "2026-09-25T03:30:07.565614676Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Fontshare",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Medium",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "doubledogsoftware.com",
+    "title": "DoubleDog Software · Simple tools for thoughtful work",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-09-25T03:25:43.062078387Z",
+    "technologies": [
+      "Apache",
+      "Coming Soon Page",
+      "Fontshare",
+      "GZIP Module",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "shortlist.fyi",
     "title": "The Shortlist",
     "business_name": "",
@@ -13304,159 +13419,6 @@
       "Pico CSS",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "theewildlux.com",
-    "title": "Thee Wild Lux — Luxury Experiences · Hudson Valley, NY",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2668,
-    "crawled_at": "2026-05-23T21:08:19.975429965Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fontshare",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Netlify",
-      "Pico CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "orbistransport.com",
-    "title": "ORBIS TRANSPORT",
-    "business_name": "",
-    "country": "GIN",
-    "seo_score": 72,
-    "tech_spend": 2806,
-    "crawled_at": "2026-05-23T19:51:50.958763599Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "DHL Parcel",
-      "Elementor",
-      "EmbedPress",
-      "Express",
-      "Font Awesome",
-      "Fontshare",
-      "Gomag",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "rhema.health",
-    "title": "Rhema Health. A clinical team for every Medicare patient.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 7329,
-    "crawled_at": "2026-05-23T17:47:19.989792664Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Fontshare",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "RM Education",
-      "Typeform",
-      "Waveform Technology"
-    ]
-  },
-  {
-    "domain": "thehimboparty.com",
-    "title": "HIMBO | Memorial Day Parties | Splash Weekend 2026 | Austin, TX",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 75564,
-    "crawled_at": "2026-05-23T16:26:19.976107999Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Cart.com",
-      "CloudFront",
-      "Duda",
-      "Fontshare",
-      "FormSubmit",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Nginx",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "toolbench.co",
-    "title": "Toolbench — the AI platform for the trades",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 3588,
-    "crawled_at": "2026-05-23T15:17:19.969333623Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Bench",
-      "Content Delivery Network",
-      "Fontshare",
-      "Next.js",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "lepaysagistenordic.ca",
-    "title": "Le paysagiste nordique",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 2628,
-    "crawled_at": "2026-05-23T14:29:12.392331272Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fontshare",
-      "Google",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
