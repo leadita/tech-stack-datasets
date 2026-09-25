@@ -1,5 +1,24 @@
 [
   {
+    "domain": "ottoandthemachines.com",
+    "title": "Book - Otto & the machines",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-09-25T18:38:50.69355528Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Financial Services Guide",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "Stripe",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "essentialwellnessnw.com",
     "title": "Essential Wellness NW | Nutritional Health, Massage | Redmond, WA | Essential Wellness NW",
     "business_name": "",
@@ -12016,32 +12035,6 @@
       "UTF-8",
       "University or College",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "monsonjewelers.com",
-    "title": "Fine Jewelry | Watches | Swarovski Crystals & More | Monson Jewelers",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 52728,
-    "crawled_at": "2026-03-08T08:24:25.923309419Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Express",
-      "Financial Services Guide",
-      "Google My Business",
-      "Gridsome",
-      "Idaq",
-      "Instagram Follow Button",
-      "Netlify",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "Yelp Badge",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]
