@@ -1,5 +1,26 @@
 [
   {
+    "domain": "mistertris.com",
+    "title": "Tris - Muralist",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 20000,
+    "crawled_at": "2026-09-24T19:47:00.521442847Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "Prismic",
+      "UTF-8",
+      "Vercel",
+      "Vignette OpenText",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "tychedigital.co.uk",
     "title": "Tyche Digital",
     "business_name": "",
@@ -13572,42 +13593,6 @@
       "Prismic",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "utgr.com",
-    "title": "Unique Technologies: Your Global IT Partner",
-    "business_name": "",
-    "country": "KGZ",
-    "seo_score": 77,
-    "tech_spend": 24774,
-    "crawled_at": "2026-04-23T13:23:19.998282385Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Appium",
-      "Cloudflare",
-      "Cloudflare Stream",
-      "Content Delivery Network",
-      "Gambling Content",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gravity",
-      "InitiativeS",
-      "Jetpack",
-      "NFOrce Internet",
-      "Next.js",
-      "Perl",
-      "Prismic",
-      "Python",
-      "QUIC",
-      "Radix UI",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vercel",
-      "Yandex Hosting",
-      "shadcn ui"
     ]
   }
 ]
