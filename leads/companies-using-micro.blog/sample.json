@@ -1,5 +1,34 @@
 [
   {
+    "domain": "danrudmann.com",
+    "title": "Dan Rudmann",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 65,
+    "tech_spend": 1320,
+    "crawled_at": "2026-09-24T13:13:02.158138347Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Band Camp",
+      "Camp",
+      "DAV",
+      "Express",
+      "Hugo",
+      "InitiativeS",
+      "License Buttons",
+      "Micro.blog",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "frankmcpherson.blog",
     "title": "Routine Revelations",
     "business_name": "",
@@ -7775,60 +7804,6 @@
       "Zoom Video Conferencing",
       "about.me",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "timchambersusa.com",
-    "title": "tbc aka tbc0 aka Tim Chambers",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 70,
-    "tech_spend": 18020,
-    "crawled_at": "2026-02-01T02:04:48.862107455Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon Widgets",
-      "DAV",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Harbor",
-      "Hugo",
-      "Mastodon",
-      "Micro.blog",
-      "QUIC",
-      "Slack",
-      "Tailwind CSS",
-      "Telegram",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "danrudmann.com",
-    "title": "Dan Rudmann",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 1320,
-    "crawled_at": "2026-02-01T01:46:48.863366435Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Band Camp",
-      "Camp",
-      "DAV",
-      "Express",
-      "Hugo",
-      "InitiativeS",
-      "License Buttons",
-      "Micro.blog",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]

@@ -1,5 +1,21 @@
 [
   {
+    "domain": "bellasvecha.com",
+    "title": "Bella Svecha Naturals - Bella Svecha Naturals",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 49,
+    "crawled_at": "2026-09-25T10:56:24.24054237Z",
+    "technologies": [
+      "Alternate Protocol",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "fellow.ventures",
     "title": "fellow.ventures",
     "business_name": "fellow.ventures",
@@ -8268,23 +8284,6 @@
       "Netlify",
       "Publii",
       "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "bellasvecha.com",
-    "title": "Bella Svecha Naturals - Bella Svecha Naturals",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 49,
-    "crawled_at": "2026-02-01T14:40:26.833385778Z",
-    "technologies": [
-      "Alternate Protocol",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "Publii",
-      "QUIC",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   }
