@@ -1,5 +1,39 @@
 [
   {
+    "domain": "legacycapstep.info",
+    "title": "Home - Legacy Capital",
+    "business_name": "Legacy Capital",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 3779,
+    "crawled_at": "2026-09-25T05:23:42.893276456Z",
+    "technologies": [
+      "Analytify",
+      "Cloudflare",
+      "Content Delivery Network",
+      "DocuSign",
+      "Elementor",
+      "EmbedPress",
+      "Express",
+      "GoDaddy",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gravity",
+      "HubSpot Conversations",
+      "Hubspot",
+      "Lazy Load for WordPress",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Perl",
+      "Table Addons for Elementor",
+      "UTF-8",
+      "Wangsu",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "dream94feet.com",
     "title": "D.R.E.A.M.Foundation | Basketball Personal Trainer | Spanaway",
     "business_name": "D.R.E.A.M. Foundation",
@@ -42,39 +76,6 @@
       "UTF-8",
       "University or College",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "teamlegacycap.info",
-    "title": "Home - Legacy Capital",
-    "business_name": "Legacy Capital",
-    "country": "",
-    "seo_score": 70,
-    "tech_spend": 27840,
-    "crawled_at": "2026-09-23T11:36:24.811561648Z",
-    "technologies": [
-      "Analytify",
-      "Cloudflare",
-      "Content Delivery Network",
-      "DocuSign",
-      "Elementor",
-      "EmbedPress",
-      "GoDaddy",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gravity",
-      "HubSpot Conversations",
-      "Hubspot",
-      "Lazy Load for WordPress",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Perl",
-      "Table Addons for Elementor",
-      "UTF-8",
-      "Wangsu",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   },
   {
@@ -11615,31 +11616,6 @@
       "PWA",
       "UTF-8",
       "University or College",
-      "Wangsu",
-      "Website Tonight"
-    ]
-  },
-  {
-    "domain": "saynotomatthewshouse.com",
-    "title": "Say No to Matthew's House",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 18612,
-    "crawled_at": "2026-02-01T07:14:24.75222271Z",
-    "technologies": [
-      "DocuSign",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Line2",
-      "PWA",
-      "QUIC",
-      "Share Link",
-      "UTF-8",
       "Wangsu",
       "Website Tonight"
     ]
