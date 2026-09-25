@@ -1,5 +1,37 @@
 [
   {
+    "domain": "lokocreative.com",
+    "title": "Loko Creative",
+    "business_name": "Loko Creative",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 255371,
+    "crawled_at": "2026-09-25T04:48:43.572031732Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "GetResponse",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Hootsuite Badge",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "No-Q",
+      "QUIC",
+      "Salesforce Hosted",
+      "SharpSpring",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "nationwideelectric.net",
     "title": "Nationwide Electric Inc. | Middleburg, FL | Generac Power Systems",
     "business_name": "",
@@ -21575,38 +21607,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "vaneau.fr",
-    "title": "Real estate agency, Vaneau Paris, luxury goods and prestige",
-    "business_name": "Vaneau immobilier",
-    "country": "GBR",
-    "seo_score": 87,
-    "tech_spend": 131355,
-    "crawled_at": "2026-04-10T00:34:06.379558564Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Backdrop",
-      "Content Delivery Network",
-      "Content Square",
-      "GZIP Module",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Lead Forensics",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "Nginx",
-      "PHP",
-      "Pico CSS",
-      "SharpSpring",
-      "Twitter Ads",
-      "UTF-8",
-      "reCAPTCHA"
     ]
   }
 ]
