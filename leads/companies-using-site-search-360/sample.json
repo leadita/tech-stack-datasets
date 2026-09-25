@@ -1,5 +1,37 @@
 [
   {
+    "domain": "traderscoach.com",
+    "title": "TradersCoach.com | Trading Software & Coaching for Every Level",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 6264,
+    "crawled_at": "2026-09-25T07:13:04.15953081Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "Amazon Widgets",
+      "CloudFront",
+      "Discord",
+      "Duda",
+      "Elfsight",
+      "Express",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "Infusionsoft",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Nginx",
+      "Perl",
+      "QUIC",
+      "Site Search 360",
+      "Styled Components",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "joysignal.com",
     "title": "Joy Signal Technology",
     "business_name": "",
@@ -15978,31 +16010,6 @@
       "Tailwind CSS",
       "Twitter Ads",
       "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "zeusnumerix.com",
-    "title": "ZeusNumerix",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 60,
-    "tech_spend": 255,
-    "crawled_at": "2026-04-15T17:04:04.051474241Z",
-    "technologies": [
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Font Awesome",
-      "GZIP Module",
-      "Google My Business",
-      "IcoMoon",
-      "OpenSSL",
-      "Site Search 360",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "Unix",
       "YouTube"
     ]
   }
