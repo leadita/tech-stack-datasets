@@ -1,5 +1,33 @@
 [
   {
+    "domain": "waardebepalingmakelaarsander.nl",
+    "title": "Gratis Waardebepaling Breda | Makelaar Sander",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 67,
+    "tech_spend": 1327,
+    "crawled_at": "2026-09-24T23:56:53.180489089Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LeadPages",
+      "Nginx",
+      "Ntent",
+      "PHP",
+      "Parallels Plesk Panel",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "wedatemodern.com",
     "title": "We Date Modern",
     "business_name": "",
@@ -2734,34 +2762,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "waardebepalingmakelaarsander.nl",
-    "title": "Gratis Waardebepaling Breda | Makelaar Sander",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 62,
-    "tech_spend": 1327,
-    "crawled_at": "2026-02-01T08:01:48.866151088Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LeadPages",
-      "Nginx",
-      "Ntent",
-      "PHP",
-      "Parallels Plesk Panel",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
