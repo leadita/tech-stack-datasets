@@ -1,5 +1,30 @@
 [
   {
+    "domain": "othrecovery.org",
+    "title": "Othrecovery.org",
+    "business_name": "Othrecovery.org",
+    "country": "",
+    "seo_score": 87,
+    "tech_spend": 36900,
+    "crawled_at": "2026-09-25T15:48:12.544451799Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Line2",
+      "Microdata for Google Shopping",
+      "PWA",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight",
+      "ZocDoc"
+    ]
+  },
+  {
     "domain": "toothworksoc.com",
     "title": "Tooth Works Irvine – Getting your Children’s Teeth in Gear!",
     "business_name": "",
@@ -19060,38 +19085,6 @@
       "WordPress",
       "WordPress Multisite",
       "WordPress Related Posts",
-      "ZocDoc",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "connecthealthcarellc.com",
-    "title": "Connect Health Care Services, LLC",
-    "business_name": "",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 5601,
-    "crawled_at": "2026-06-07T06:23:29.584007125Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Elementor",
-      "ElementsKit Elementor",
-      "EmbedPress",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Investor Relations",
-      "LiteSpeed",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "Xtra Theme",
       "ZocDoc",
       "jQuery"
     ]

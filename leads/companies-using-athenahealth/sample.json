@@ -1,5 +1,58 @@
 [
   {
+    "domain": "zarminalihealthcare.com",
+    "title": "A Better Pediatric Care Experience | Zarminali Pediatrics",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 30679,
+    "crawled_at": "2026-09-25T10:08:54.169421498Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "AthenaHealth",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Express",
+      "Fastly",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Hubspot Knowledge Base",
+      "Instagram Follow Button",
+      "QUIC",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "buttercoding.com",
+    "title": "Butter",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 12328,
+    "crawled_at": "2026-09-24T19:57:36.86418611Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "AthenaHealth",
+      "Content Delivery Network",
+      "KVH",
+      "Material-UI",
+      "Next.js",
+      "Oracle Cloud",
+      "QUIC",
+      "UTF-8",
+      "Vercel",
+      "WordPress",
+      "YouTube",
+      "eClinicalWorks"
+    ]
+  },
+  {
     "domain": "mind-bowser.net",
     "title": "Healthcare Solutions | Mindbowser",
     "business_name": "",
@@ -1143,35 +1196,6 @@
       "Web3Forms",
       "Zyro",
       "eClinicalWorks"
-    ]
-  },
-  {
-    "domain": "zarminalyhealth.org",
-    "title": "A Better Pediatric Care Experience | Zarminali Pediatrics",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 30679,
-    "crawled_at": "2026-09-16T22:09:42.855018823Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "AthenaHealth",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Express",
-      "Fastly",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Hubspot Knowledge Base",
-      "Instagram Follow Button",
-      "QUIC",
-      "UTF-8",
-      "jQuery"
     ]
   },
   {
@@ -18323,40 +18347,6 @@
       "UTF-8",
       "Wangsu",
       "Website Tonight"
-    ]
-  },
-  {
-    "domain": "medicalpcc.com",
-    "title": "Primary Care Center",
-    "business_name": "Primary Care Center",
-    "country": "BRA",
-    "seo_score": 72,
-    "tech_spend": 108413,
-    "crawled_at": "2026-05-17T05:47:19.969893646Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Aruba",
-      "AthenaHealth",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
