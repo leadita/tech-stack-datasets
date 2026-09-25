@@ -1,5 +1,40 @@
 [
   {
+    "domain": "rscafanshop.be",
+    "title": "RSCA",
+    "business_name": "RSCA",
+    "country": "BEL",
+    "seo_score": 65,
+    "tech_spend": 790728,
+    "crawled_at": "2026-09-24T20:36:20.963264494Z",
+    "technologies": [
+      "Alternate Protocol",
+      "App Store",
+      "Apture Linking Platform",
+      "Bazaarvoice",
+      "Bazaarvoice Curations",
+      "CQuotient",
+      "Cloudflare",
+      "Coming Soon Page",
+      "Express",
+      "Google Analytics",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Quotient",
+      "Salesforce Commerce Cloud",
+      "Salesforce Hosted",
+      "Sitelinks Search Box",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "boconcept.co.uk",
     "title": "Danish Design Furniture Store and Interior Design in UK | BoConcept",
     "business_name": "BoConcept",
@@ -17116,62 +17151,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "snehasrita.online",
-    "title": "IndiThreads | Indian Fashion Store",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 60,
-    "tech_spend": 151455,
-    "crawled_at": "2026-02-01T15:52:48.870589461Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Salesforce Commerce Cloud",
-      "Unsplash",
-      "Vecteezy",
-      "Vector Internet Services"
-    ]
-  },
-  {
-    "domain": "rscafanshop.be",
-    "title": "RSCA",
-    "business_name": "",
-    "country": "BEL",
-    "seo_score": 65,
-    "tech_spend": 790728,
-    "crawled_at": "2026-02-01T06:04:48.885886648Z",
-    "technologies": [
-      "Alternate Protocol",
-      "App Store",
-      "Apture Linking Platform",
-      "Bazaarvoice",
-      "Bazaarvoice Curations",
-      "CQuotient",
-      "Cloudflare",
-      "Coming Soon Page",
-      "Express",
-      "Google Analytics",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Quotient",
-      "Salesforce Commerce Cloud",
-      "Salesforce Hosted",
-      "Sitelinks Search Box",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
     ]
   }
 ]
