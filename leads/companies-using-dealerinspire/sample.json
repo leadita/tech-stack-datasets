@@ -1,5 +1,28 @@
 [
   {
+    "domain": "jaithaiaz.com",
+    "title": "Jai thai",
+    "business_name": "",
+    "country": "THA",
+    "seo_score": 65,
+    "tech_spend": 26035,
+    "crawled_at": "2026-09-24T22:54:55.864926417Z",
+    "technologies": [
+      "Apache",
+      "DealerInspire",
+      "Font Awesome",
+      "FormSubmit",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Microsoft Azure Blob Storage",
+      "Parcel",
+      "Toast POS"
+    ]
+  },
+  {
     "domain": "carfarehub.com",
     "title": "CarFareHub | Affordable & Reliable Car Rentals",
     "business_name": "",
@@ -10290,29 +10313,6 @@
       "Unsplash",
       "Wangsu",
       "Website Tonight"
-    ]
-  },
-  {
-    "domain": "jaithaiaz.com",
-    "title": "Jai thai",
-    "business_name": "",
-    "country": "THA",
-    "seo_score": 60,
-    "tech_spend": 12322,
-    "crawled_at": "2026-02-01T07:22:48.873352735Z",
-    "technologies": [
-      "Apache",
-      "DealerInspire",
-      "Font Awesome",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Microsoft Azure Blob Storage",
-      "Parcel",
-      "Toast POS"
     ]
   }
 ]
