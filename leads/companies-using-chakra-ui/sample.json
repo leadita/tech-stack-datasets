@@ -1,5 +1,64 @@
 [
   {
+    "domain": "denisecourtney.com",
+    "title": "Denise Courtney, LCSW-C",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-09-25T09:47:48.050703303Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "seangkim.com",
+    "title": "Sean Kim - Homepage",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 65,
+    "tech_spend": 280,
+    "crawled_at": "2026-09-25T07:55:34.907071604Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Next.js",
+      "UTF-8",
+      "University or College",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "abdurrahmanbasyah.com",
+    "title": "M Abdurahman Basyah — Full-Stack Engineer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 203,
+    "crawled_at": "2026-09-24T18:20:47.968520392Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Chakra UI",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Next.js",
+      "PWA",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "toki-mochi.com",
     "title": "Time Rich | Time is Money. Be Time Rich.",
     "business_name": "",
@@ -12866,97 +12925,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "withrodeo.com",
-    "title": "Rodeo",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-05-12T17:38:20.013137379Z",
-    "technologies": [
-      "ByteDance",
-      "Chakra UI",
-      "Content Delivery Network",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Financial Services Guide",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microsoft Clarity",
-      "Next.js",
-      "Pleroma",
-      "TikTok Conversion Tracking Pixel",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "libex.ai",
-    "title": "Libex",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 50,
-    "tech_spend": "",
-    "crawled_at": "2026-05-12T17:35:20.002390727Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Next.js",
-      "Nginx",
-      "Pleroma",
-      "Twitter Ads",
-      "UTF-8",
-      "Ubuntu"
-    ]
-  },
-  {
-    "domain": "midwesterntree.com",
-    "title": "Home - Arborist Professionals by Mid-Western Tree Experts",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 43264,
-    "crawled_at": "2026-05-12T17:26:39.555281065Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Chakra UI",
-      "Content Delivery Network",
-      "Contento",
-      "EmbedPress",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Fastly",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Gravity",
-      "Gravity Forms",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Muffin Group",
-      "Nginx",
-      "PHP",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]

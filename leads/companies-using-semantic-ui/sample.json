@@ -1,5 +1,82 @@
 [
   {
+    "domain": "accuweights.com",
+    "title": "Accurate Weightech Ltd",
+    "business_name": "",
+    "country": "KEN",
+    "seo_score": 50,
+    "tech_spend": "",
+    "crawled_at": "2026-09-25T13:36:40.221807439Z",
+    "technologies": [
+      "Instagram Follow Button",
+      "Nginx",
+      "Semantic UI",
+      "Twitter Ads",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "cmnhousing.com",
+    "title": "CMN Housing | Best Bargain Real Estate Website | Buy, Sell & Rent",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 2440,
+    "crawled_at": "2026-09-24T21:25:22.755641993Z",
+    "technologies": [
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nginx",
+      "PHP",
+      "QUIC",
+      "Semantic UI",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "thepeacemakers2.org",
+    "title": "Home Page | The Peacemakers ][",
+    "business_name": "The Peacemakers ][",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 198,
+    "crawled_at": "2026-09-24T19:28:37.839741351Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DuracellTomi Google Tag Manager for WordPress",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Semantic UI",
+      "Sitelinks Search Box",
+      "SmartCrawl",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "ozmerkezyanginsondurme.com",
     "title": "Öz Merkez Yangın Söndürme",
     "business_name": "",
@@ -14609,69 +14686,6 @@
       "WoWonder",
       "Yandex Hosting",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "cryenovari.com",
-    "title": "cryenovari - Build Your Financial Foundation with Confidence",
-    "business_name": "cryenovari",
-    "country": "AUS",
-    "seo_score": 82,
-    "tech_spend": 2440,
-    "crawled_at": "2026-04-24T05:50:20.009327254Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ElementUI",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Semantic UI",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "studenthousingtechnologies.com",
-    "title": "Student Housing Technologies",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 50,
-    "tech_spend": 1308,
-    "crawled_at": "2026-04-23T23:38:58.367275247Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Semantic UI",
-      "UTF-8",
-      "Zendesk Embeddables",
-      "Zendesk Guide"
-    ]
-  },
-  {
-    "domain": "egc2024.org",
-    "title": "European Go congress 2024",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 72,
-    "tech_spend": 60740,
-    "crawled_at": "2026-04-23T22:14:17.32970068Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GZIP Module",
-      "Gomag",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Python",
-      "Semantic UI",
-      "Snowplow",
-      "Twitch",
-      "UTF-8",
-      "University or College",
-      "Vignette OpenText"
     ]
   }
 ]
