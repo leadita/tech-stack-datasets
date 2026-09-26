@@ -2110,46 +2110,5 @@
       "UTF-8",
       "Vercel"
     ]
-  },
-  {
-    "domain": "mkymkb.com",
-    "title": "美卡羊毛快报 | Linktree",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 11820,
-    "crawled_at": "2026-02-01T21:36:30.433279774Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "ButterCMS",
-      "CloudFront",
-      "Content Delivery Network",
-      "Fastly",
-      "Federal Deposit Insurance Corporation",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Kitco",
-      "Linktree",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Nginx",
-      "Ntent",
-      "PWA",
-      "Pleroma",
-      "QUIC",
-      "Rakuten Affiliate",
-      "SiteW",
-      "Styled Components",
-      "Superfiliate",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress",
-      "shadcn ui"
-    ]
   }
 ]
