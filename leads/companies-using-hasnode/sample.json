@@ -1,5 +1,60 @@
 [
   {
+    "domain": "devfasttt.com",
+    "title": "Devfasttt",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 54676,
+    "crawled_at": "2026-09-26T03:27:51.210619812Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fireblade",
+      "FormSubmit",
+      "GitHub Hosting",
+      "Hasnode",
+      "Homes.com CMS",
+      "Instagram Follow Button",
+      "Jetpack",
+      "Netlify",
+      "Python",
+      "Tachyons",
+      "The Fresh",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vello",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "dichanshrestha.com.np",
+    "title": "Dichan Shrestha — Software Developer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 7088,
+    "crawled_at": "2026-09-25T21:48:29.998435261Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "Google My Business",
+      "Hasnode",
+      "NFOrce Internet",
+      "Next.js",
+      "Nginx",
+      "Ntent",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "expertnailsandspa.com",
     "title": "Expert Nails & Spa - Nail Salon in Austin, TX 78749",
     "business_name": "",
@@ -11829,82 +11884,6 @@
       "UTF-8",
       "University or College",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "charan.dev",
-    "title": "Charan",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-02-02T01:49:48.866245031Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Hasnode",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "devfasttt.com",
-    "title": "Devfasttt",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 54676,
-    "crawled_at": "2026-02-02T00:13:48.868353023Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fireblade",
-      "FormSubmit",
-      "GitHub Hosting",
-      "Hasnode",
-      "Homes.com CMS",
-      "Instagram Follow Button",
-      "Jetpack",
-      "Netlify",
-      "Python",
-      "Tachyons",
-      "The Fresh",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vello",
-      "YouTube",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "dichanshrestha.com.np",
-    "title": "Dichan Shrestha — Software Developer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2088,
-    "crawled_at": "2026-02-01T21:04:48.862594885Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Google My Business",
-      "Hasnode",
-      "NFOrce Internet",
-      "Next.js",
-      "Nginx",
-      "Ntent",
-      "Pleroma",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]

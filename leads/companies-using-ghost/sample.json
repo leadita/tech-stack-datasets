@@ -1,5 +1,33 @@
 [
   {
+    "domain": "mrmue.com",
+    "title": "Mr Mue",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 19452,
+    "crawled_at": "2026-09-26T04:59:05.631327512Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "ArvanCloud",
+      "CDN JS",
+      "Calendly",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "Figma",
+      "GZIP Module",
+      "Ghost",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "QUIC",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "thegatedsignal.com",
     "title": "The Gated Signal – Tech, Leadership & Delivery with David Stewart",
     "business_name": "",
@@ -13140,33 +13168,6 @@
       "Ghost",
       "Microdata for Google Shopping",
       "Twitter Ads",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "marhcenter.org",
-    "title": "Modern Africa Research Hub",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 77,
-    "tech_spend": 5500,
-    "crawled_at": "2026-04-08T08:08:20.007629646Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Bunny Fonts",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Ghost",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "Pico CSS",
-      "Tailwind CSS",
       "UTF-8",
       "jsDelivr"
     ]
