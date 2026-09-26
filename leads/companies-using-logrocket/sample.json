@@ -1,42 +1,12 @@
 [
   {
-    "domain": "electronenergymarket.com",
-    "title": "Electron Energy Market : Cheaper Power Rates",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 19928,
-    "crawled_at": "2026-09-22T23:35:12.391916009Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Authorize.net",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google Tag Manager",
-      "LinkedIn Insights",
-      "LinkedIn Pixel",
-      "LogRocket",
-      "Nuxt.js",
-      "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "cleanboxtechnology.biz",
+    "domain": "cleanboxtechnology.store",
     "title": "Home - Cleanbox Technology",
     "business_name": "",
     "country": "USA",
-    "seo_score": 70,
+    "seo_score": 75,
     "tech_spend": 78836,
-    "crawled_at": "2026-09-21T22:00:06.007958943Z",
+    "crawled_at": "2026-09-26T04:04:19.103450898Z",
     "technologies": [
       "Agoda",
       "Alternate Protocol",
@@ -79,6 +49,36 @@
       "WordPress",
       "WordPress Multisite",
       "YouTube"
+    ]
+  },
+  {
+    "domain": "electronenergymarket.com",
+    "title": "Electron Energy Market : Cheaper Power Rates",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 19928,
+    "crawled_at": "2026-09-22T23:35:12.391916009Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Authorize.net",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Fireblade",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Google Tag Manager",
+      "LinkedIn Insights",
+      "LinkedIn Pixel",
+      "LogRocket",
+      "Nuxt.js",
+      "QUIC",
+      "UTF-8"
     ]
   },
   {
