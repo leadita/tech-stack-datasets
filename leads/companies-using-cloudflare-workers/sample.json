@@ -1,5 +1,26 @@
 [
   {
+    "domain": "glion.dev",
+    "title": "Glion — The HL7v2 framework for the modern healthcare stack",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 5300,
+    "crawled_at": "2026-09-26T12:52:26.157911234Z",
+    "technologies": [
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "PWA",
+      "Tailwind CSS",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "gista.ai",
     "title": "Gista — mention monitoring in Telegram channels",
     "business_name": "",
@@ -15096,32 +15117,6 @@
       "UTF-8",
       "Vultr",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "johntbryant.com",
-    "title": "John T. Bryant | AI Solutions Builder & Revenue Leader",
-    "business_name": "",
-    "country": "MYS",
-    "seo_score": 72,
-    "tech_spend": 167940,
-    "crawled_at": "2026-04-29T21:23:19.985705713Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "InitiativeS",
-      "Next.js",
-      "Oracle Cloud",
-      "Python",
-      "QUIC",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
