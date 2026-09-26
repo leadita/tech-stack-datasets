@@ -37312,30 +37312,5 @@
       "YouTube",
       "Zemanta"
     ]
-  },
-  {
-    "domain": "churchofgodlenoir.org",
-    "title": "The church of God at Lenoir",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 5049,
-    "crawled_at": "2026-02-02T00:31:48.900399979Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "GZIP Module",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "WP PageNavi",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "Zemanta",
-      "jQuery"
-    ]
   }
 ]
