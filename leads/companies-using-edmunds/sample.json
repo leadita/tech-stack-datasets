@@ -1,5 +1,32 @@
 [
   {
+    "domain": "occhiefauto.com",
+    "title": "OC Chief Auto - Used Cars in Newport Beach",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 20700,
+    "crawled_at": "2026-09-25T16:47:33.983047922Z",
+    "technologies": [
+      "Angular",
+      "Combres",
+      "Content Delivery Network",
+      "DealerSync",
+      "ETranslate",
+      "Edmunds",
+      "Fireblade",
+      "GTranslate",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Schema Plugin",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "abghafromusa.com",
     "title": "ابغا من امريكا",
     "business_name": "",
@@ -5917,32 +5944,6 @@
       "UTF-8",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "occhiefauto.com",
-    "title": "OC Chief Auto - Used Cars in Newport Beach",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 20700,
-    "crawled_at": "2026-02-01T18:10:48.860559233Z",
-    "technologies": [
-      "Angular",
-      "Combres",
-      "Content Delivery Network",
-      "DealerSync",
-      "ETranslate",
-      "Edmunds",
-      "Fireblade",
-      "GTranslate",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "UTF-8"
     ]
   }
 ]
