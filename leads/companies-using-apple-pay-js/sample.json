@@ -10605,38 +10605,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "erds.asia",
-    "title": "www.erds.asia",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 30171,
-    "crawled_at": "2026-02-01T15:13:48.859446007Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apple Pay JS",
-      "Aruba",
-      "ByteDance",
-      "Cart.com",
-      "Cloudflare",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Subversion",
-      "TikTok Conversion Tracking Pixel",
-      "Twitter Ads",
-      "Twitter Analytics",
-      "UTF-8",
-      "eLand",
-      "jQuery"
-    ]
   }
 ]
