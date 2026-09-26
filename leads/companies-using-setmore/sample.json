@@ -1,5 +1,34 @@
 [
   {
+    "domain": "bikespokes.co.uk",
+    "title": "Bikespokes mobile bike servicing and repair around Nairn and Moray",
+    "business_name": "Bikespokes",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 681,
+    "crawled_at": "2026-09-25T13:15:44.060263283Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "EmbedPress",
+      "Font Awesome",
+      "GZIP Module",
+      "GeneratePress Company",
+      "Google Analytics",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "PHP",
+      "QUIC",
+      "Setmore",
+      "Tagembed",
+      "UTF-8",
+      "WP Rocket",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "basepointimmigration.com",
     "title": "Basepoint - Home",
     "business_name": "",
@@ -17568,35 +17597,6 @@
       "UTF-8",
       "University or College",
       "eLand"
-    ]
-  },
-  {
-    "domain": "bikespokes.co.uk",
-    "title": "Bikespokes mobile bike servicing and repair around Nairn and Moray",
-    "business_name": "Bikespokes",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 681,
-    "crawled_at": "2026-02-01T16:04:48.87779844Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "EmbedPress",
-      "Font Awesome",
-      "GZIP Module",
-      "GeneratePress Company",
-      "Google Analytics",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Setmore",
-      "Tagembed",
-      "UTF-8",
-      "WP Rocket",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube"
     ]
   }
 ]
