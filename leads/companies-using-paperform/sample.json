@@ -1,41 +1,12 @@
 [
   {
-    "domain": "laseryou.co.uk",
-    "title": "LaserYou Clinic - SofWave, PicoSure Tattoo Removal, Hair Removal & Skin Rejuvenation",
-    "business_name": "LaserYou Clinic",
-    "country": "GBR",
-    "seo_score": 92,
-    "tech_spend": 2448,
-    "crawled_at": "2026-09-25T16:21:04.260709307Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Next.js",
-      "Paperform",
-      "QUIC",
-      "Replain",
-      "Tailwind CSS",
-      "TrustIndex",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "webuyhousesinvestors.com",
+    "domain": "webuyhousesagency.com",
     "title": "We Buy Houses | Cash for Homes | Sell a House Fast for Cash",
     "business_name": "We Buy Houses",
     "country": "USA",
-    "seo_score": 82,
+    "seo_score": 77,
     "tech_spend": 13312,
-    "crawled_at": "2026-09-25T16:00:16.454027082Z",
+    "crawled_at": "2026-09-26T15:56:55.889625306Z",
     "technologies": [
       "Amazon WAF Blocked",
       "Bing Cashback",
@@ -76,6 +47,72 @@
       "YouTube",
       "cstate",
       "jQuery"
+    ]
+  },
+  {
+    "domain": "masteringbyronskinner.com",
+    "title": "Canadian Mastering Studio, Mixing and Mastering Services.",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 1739,
+    "crawled_at": "2026-09-26T01:51:17.542061592Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Band Camp",
+      "CDN JS",
+      "Camp",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "ElementUI",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Lightwidget",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Paperform",
+      "Tailwind CSS",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "laseryou.co.uk",
+    "title": "LaserYou Clinic - SofWave, PicoSure Tattoo Removal, Hair Removal & Skin Rejuvenation",
+    "business_name": "LaserYou Clinic",
+    "country": "GBR",
+    "seo_score": 92,
+    "tech_spend": 2448,
+    "crawled_at": "2026-09-25T16:21:04.260709307Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Next.js",
+      "Paperform",
+      "QUIC",
+      "Replain",
+      "Tailwind CSS",
+      "TrustIndex",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "jsDelivr",
+      "shadcn ui"
     ]
   },
   {
@@ -19007,29 +19044,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "mikeveileforidaho.com",
-    "title": "Mike Veile for Idaho",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 60,
-    "tech_spend": 363,
-    "crawled_at": "2026-04-24T21:56:19.997010718Z",
-    "technologies": [
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Paperform",
-      "UTF-8",
-      "Visual Studio"
     ]
   }
 ]
