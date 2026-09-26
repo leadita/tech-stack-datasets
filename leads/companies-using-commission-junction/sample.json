@@ -13277,26 +13277,5 @@
       "Nginx",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "thatgirlcj.com",
-    "title": "Events By CJ – Event planning for all occasions. Family Reunions, Parties! Parties! Parties! Licensed Wedding Officiant.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": "",
-    "crawled_at": "2026-02-01T19:34:48.897318368Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Commission Junction",
-      "EmbedPress",
-      "GZIP Module",
-      "UTF-8",
-      "Ubuntu",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
