@@ -1,5 +1,44 @@
 [
   {
+    "domain": "cleverhouseengineering.com",
+    "title": "Clever House Engineering — Product engineering for regulated, high-stakes software",
+    "business_name": "Clever House Engineering",
+    "country": "ROU",
+    "seo_score": 77,
+    "tech_spend": 3900,
+    "crawled_at": "2026-09-26T22:18:03.574839017Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Apture Linking Platform",
+      "GZIP Module",
+      "Gambling Content",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Oracle Cloud",
+      "Pico CSS",
+      "Python",
+      "Unix",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "redmine.ion.lu",
+    "title": "Mbox – Central Authentication Service",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 3,
+    "crawled_at": "2026-09-26T09:34:09.566504934Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Google Cloud DNS",
+      "Google Font API",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "baotic-charter.com",
     "title": "Baotic | Baotić",
     "business_name": "",
@@ -13574,22 +13613,6 @@
       "Unix",
       "YouTube",
       "monday.com"
-    ]
-  },
-  {
-    "domain": "redmine.ion.lu",
-    "title": "Mbox – Central Authentication Service",
-    "business_name": "",
-    "country": "",
-    "seo_score": 25,
-    "tech_spend": 3,
-    "crawled_at": "2026-02-02T04:01:48.895763213Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Google Cloud DNS",
-      "Google Font API",
-      "UTF-8"
     ]
   }
 ]
