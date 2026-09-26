@@ -1,5 +1,81 @@
 [
   {
+    "domain": "nslgroup.co.uk",
+    "title": "Pharmaceutical Wholesaler & distributor - NSL Group",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 26299,
+    "crawled_at": "2026-09-26T17:27:14.899993942Z",
+    "technologies": [
+      "Font Awesome",
+      "GZIP Module",
+      "Google My Business",
+      "Gridsome",
+      "K2F",
+      "Nginx",
+      "QUIC",
+      "Twitter Ads",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "paperplane.software",
+    "title": "Paper Plane Software",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 55,
+    "tech_spend": 3,
+    "crawled_at": "2026-09-26T16:25:30.466285118Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "clued.org.uk",
+    "title": "Welcome - CLUED",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 55,
+    "tech_spend": 285,
+    "crawled_at": "2026-09-26T10:53:12.483033683Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Bulma",
+      "CloudFront",
+      "Content Delivery Network",
+      "Font Awesome",
+      "GZIP Module",
+      "Gridsome",
+      "Stripe"
+    ]
+  },
+  {
+    "domain": "listeriosisprevention.com",
+    "title": "Alliance for Listeriosis Prevention",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-09-26T02:01:59.415350784Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Gridsome",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "ottoandthemachines.com",
     "title": "Book - Otto & the machines",
     "business_name": "",
@@ -11929,112 +12005,6 @@
       "UTF-8",
       "YouTube",
       "itch.io"
-    ]
-  },
-  {
-    "domain": "uppsalasmuseer.se",
-    "title": "Start - Uppsalas Museer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 95553,
-    "crawled_at": "2026-03-10T14:17:24.443761766Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Cybot",
-      "DAV",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Retail Product Discovery",
-      "Google Tag Manager",
-      "Gridsome",
-      "Idaq",
-      "K2F",
-      "Netlify",
-      "SMC",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "thenineblock.com",
-    "title": "Real estate - 9Block",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 98098,
-    "crawled_at": "2026-03-10T08:37:39.920165497Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Idaq",
-      "Instagram Follow Button",
-      "K2F",
-      "KVH",
-      "Netlify",
-      "No-Q",
-      "PWA",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "altacapitalpartners.com",
-    "title": "Home - Alta capital partners",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 3868,
-    "crawled_at": "2026-03-09T23:53:57.891517974Z",
-    "technologies": [
-      "DAV",
-      "Financial Industry Regulatory Authority",
-      "Financial Services Guide",
-      "Google My Business",
-      "Gridsome",
-      "HostGator",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Netlify",
-      "Parallels Plesk Panel",
-      "Tailwind CSS",
-      "Visual Studio"
-    ]
-  },
-  {
-    "domain": "zachmeyer.com",
-    "title": "Welcome to my website/portoflio/thing! - Zach Meyer",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 2628,
-    "crawled_at": "2026-03-08T11:26:16.107413986Z",
-    "technologies": [
-      "Amazon",
-      "Content Delivery Network",
-      "DAV",
-      "Drupal",
-      "GitHub Hosting",
-      "Gridsome",
-      "Netlify",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "YouTube"
     ]
   }
 ]

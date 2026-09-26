@@ -1,5 +1,81 @@
 [
   {
+    "domain": "tsinjo.com",
+    "title": "Tsinjo • Portfolio",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 20660,
+    "crawled_at": "2026-09-26T18:10:56.823969987Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "ArvanCloud",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Express",
+      "GZIP Module",
+      "Google My Business",
+      "Next.js",
+      "Nginx",
+      "PHP",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "University or College",
+      "Vector Internet Services",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "jpos.org",
+    "title": "jPOS Project",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": "",
+    "crawled_at": "2026-09-26T16:25:30.469366803Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Docusaurus",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Gravity",
+      "Perl",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "docs.ept.ai",
+    "title": "ept AI Docs",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 600,
+    "crawled_at": "2026-09-26T09:06:16.913336261Z",
+    "technologies": [
+      "AI Log",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Perl",
+      "QUIC",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "husarion.com",
     "title": "Husarion | Autonomous Mobile Robots Made Simple",
     "business_name": "",
@@ -12675,81 +12751,6 @@
       "Instagram Follow Button",
       "Perl",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "hackviser.com",
-    "title": "Learn Cybersecurity & Ethical Hacking | Hackviser",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 18100,
-    "crawled_at": "2026-04-06T01:47:20.007959334Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "DAV",
-      "Discord",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Perl",
-      "Telegram",
-      "University or College",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "imadrasa.app",
-    "title": "iMadrasa | iMadrasa",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-04-06T00:32:10.405498179Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Coming Soon Page",
-      "Docusaurus",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "prompthackerdanny.com",
-    "title": "프롬프트해커 대니 | 프롬프트해커 대니",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 240,
-    "crawled_at": "2026-04-05T19:29:19.989021526Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Google Adsense",
-      "Google Analytics",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google Reseller",
-      "Google Tag Manager",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "Yes24",
-      "YouTube"
     ]
   }
 ]
