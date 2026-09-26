@@ -9617,46 +9617,5 @@
       "YouTube",
       "jQuery"
     ]
-  },
-  {
-    "domain": "kingsley-mall.com",
-    "title": "Kidulteam Limited",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 763,
-    "crawled_at": "2026-02-01T18:43:48.875431288Z",
-    "technologies": [
-      "3 Products",
-      "Alternate Protocol",
-      "Astra Theme",
-      "Content Delivery Network",
-      "Dialogflow",
-      "Elementor",
-      "ElementsKit Elementor",
-      "EmbedPress",
-      "Essential Addons for Elementor",
-      "Fastly",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Header, Footer and Blocks for Elementor",
-      "Instagram Follow Button",
-      "Nginx",
-      "OneSignal",
-      "PHP",
-      "QUIC",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "jQuery"
-    ]
   }
 ]
