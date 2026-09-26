@@ -1,5 +1,33 @@
 [
   {
+    "domain": "jlpcpas.com",
+    "title": "Home | JLP CPAs",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 13340,
+    "crawled_at": "2026-09-25T18:50:14.74026304Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "Zoom Video Conferencing",
+      "eLand",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "murphycocpa.com",
     "title": "Home | Murphy & Company, LLC, CPAs",
     "business_name": "",
@@ -10340,33 +10368,6 @@
       "WordPress Multisite",
       "Xero",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "jlpcpas.com",
-    "title": "Home | JLP CPAs",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 12800,
-    "crawled_at": "2026-02-01T19:22:48.89551717Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "Zoom Video Conferencing",
-      "eLand",
-      "jsDelivr"
     ]
   }
 ]

@@ -1,5 +1,23 @@
 [
   {
+    "domain": "scjv.net",
+    "title": "Scjv",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 55,
+    "tech_spend": 192,
+    "crawled_at": "2026-09-25T20:22:35.5366796Z",
+    "technologies": [
+      "DreamHost Hosting",
+      "Express",
+      "FreshBooks",
+      "Nginx",
+      "StyleShout",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "ecloudaccounts.com.au",
     "title": "Ecloudaccounts",
     "business_name": "",
@@ -3399,24 +3417,6 @@
       "Zendesk Embeddables",
       "monday.com",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "scjv.net",
-    "title": "Scjv",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 55,
-    "tech_spend": 192,
-    "crawled_at": "2026-02-01T20:13:48.866774953Z",
-    "technologies": [
-      "DreamHost Hosting",
-      "Express",
-      "FreshBooks",
-      "Nginx",
-      "StyleShout",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
