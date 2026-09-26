@@ -1,5 +1,105 @@
 [
   {
+    "domain": "veym.app",
+    "title": "Vietnamese Eucharistic Youth Movement",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 20240,
+    "crawled_at": "2026-09-26T06:27:22.529626171Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Chakra UI",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "DAV",
+      "Directus",
+      "Facebook Embedded Posts",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Next.js",
+      "Perl",
+      "Pleroma",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "usewoz.com",
+    "title": "WOZ: Copilot for Product Teams.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 63,
+    "crawled_at": "2026-09-26T03:34:13.020977194Z",
+    "technologies": [
+      "Airtable",
+      "Chakra UI",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "Vimeo",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "rsbservice.com",
+    "title": "RSB Consultancy Services - Leading the Way in Oil & Gas Solutions",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 15240,
+    "crawled_at": "2026-09-26T00:25:32.458280162Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Chakra UI",
+      "Content Delivery Network",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "smallmuseum.nl",
+    "title": "Small Museum bij Paradiso",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 82,
+    "tech_spend": 15385,
+    "crawled_at": "2026-09-25T21:43:17.236319436Z",
+    "technologies": [
+      "Chakra UI",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Cybot",
+      "Fireblade",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Next.js",
+      "PWA",
+      "Pleroma",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "denisecourtney.com",
     "title": "Denise Courtney, LCSW-C",
     "business_name": "",
@@ -12841,90 +12941,6 @@
       "Sanity",
       "UTF-8",
       "Vector Internet Services"
-    ]
-  },
-  {
-    "domain": "evenfare.com.ng",
-    "title": "Evenfare - Ride with ease",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 39,
-    "crawled_at": "2026-05-12T22:02:53.291750342Z",
-    "technologies": [
-      "Adult Content",
-      "Chakra UI",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Next.js",
-      "Nginx",
-      "Parcel",
-      "Pleroma",
-      "UTF-8",
-      "Ubuntu"
-    ]
-  },
-  {
-    "domain": "calgaryfilipinomethodistchurch.ca",
-    "title": "Home | CFMC",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 240,
-    "crawled_at": "2026-05-12T20:38:42.063265815Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Chakra UI",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Next.js",
-      "Thank You",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "asherwang.com",
-    "title": "Asher Wang - Portfolio",
-    "business_name": "",
-    "country": "SGP",
-    "seo_score": 55,
-    "tech_spend": 3,
-    "crawled_at": "2026-05-12T19:50:20.011632102Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "UTF-8",
-      "University or College",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "meetava.ai",
-    "title": "Hey, I'm Ava!",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 240,
-    "crawled_at": "2026-05-12T19:35:20.001069504Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]

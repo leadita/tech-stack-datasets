@@ -1,5 +1,74 @@
 [
   {
+    "domain": "gama.org.br",
+    "title": "Gama | Grupo de Amparo Momento de Amar",
+    "business_name": "",
+    "country": "BRA",
+    "seo_score": 70,
+    "tech_spend": 508,
+    "crawled_at": "2026-09-26T13:02:34.459871357Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fancybox for WordPress",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "ISO/IEC 8859",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Material Design Icons",
+      "QUIC",
+      "Semantic UI",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "vleeschmeester.nl",
+    "title": "Vleeschmeester",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 60,
+    "tech_spend": 6188,
+    "crawled_at": "2026-09-26T02:54:13.043591328Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "KVH",
+      "Nginx",
+      "Phusion Passenger Enterprise",
+      "QUIC",
+      "Semantic UI",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "efacdn.com",
+    "title": "Affiliate Advertising Program | eFind Ads - eFind Affiliate",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 4688,
+    "crawled_at": "2026-09-25T19:49:24.49267874Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "AutoComplete",
+      "GZIP Module",
+      "Google",
+      "Matomo",
+      "Matomo Tag Manager",
+      "Semantic UI"
+    ]
+  },
+  {
     "domain": "accuweights.com",
     "title": "Accurate Weightech Ltd",
     "business_name": "",
@@ -1395,31 +1464,6 @@
       "YouTube",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "rundvleesch.nl",
-    "title": "Vleeschmeester",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 70,
-    "tech_spend": 22388,
-    "crawled_at": "2026-09-08T22:49:02.689595578Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DAV",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "KVH",
-      "Nginx",
-      "Phusion Passenger Enterprise",
-      "QUIC",
-      "Semantic UI",
-      "UTF-8"
     ]
   },
   {
@@ -14637,55 +14681,6 @@
       "Tawk",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "765picturethepast.com",
-    "title": "Vitro Media Lab | System Directory",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 603,
-    "crawled_at": "2026-04-24T07:14:19.985246401Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Perl",
-      "Semantic UI",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "oktnab108.ru",
-    "title": "Октябрьская 108 - апартаменты комфорт-класса",
-    "business_name": "",
-    "country": "RUS",
-    "seo_score": 70,
-    "tech_spend": 10939,
-    "crawled_at": "2026-04-24T06:03:03.918065468Z",
-    "technologies": [
-      "ADFOX",
-      "Adult Content",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "Semantic UI",
-      "Tailwind CSS",
-      "Telegram",
-      "UTF-8",
-      "WoWonder",
-      "Yandex Hosting",
-      "jsDelivr"
     ]
   }
 ]
