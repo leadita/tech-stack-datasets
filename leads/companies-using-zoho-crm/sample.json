@@ -1,5 +1,43 @@
 [
   {
+    "domain": "trielectric.in",
+    "title": "Electric Buggy Golf Cart Manufacturer & Supplier in India",
+    "business_name": "{{Tri Electric Private Limited}}",
+    "country": "ZAF",
+    "seo_score": 82,
+    "tech_spend": 21478,
+    "crawled_at": "2026-09-26T07:05:13.04136752Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Turnstile",
+      "Collect.chat",
+      "Content Delivery Network",
+      "GZIP Module",
+      "GoDaddy",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PHP",
+      "QUIC",
+      "Sucuri Cloudproxy",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Website Tonight",
+      "WhatsApp Sharing",
+      "YouTube",
+      "Zoho CRM",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "hiringopps.com",
     "title": "Start Your Job Board Today · HiringOpps Job Board Software",
     "business_name": "",
@@ -20650,37 +20688,6 @@
       "YouTube",
       "Zoho CRM",
       "eLand"
-    ]
-  },
-  {
-    "domain": "intopo.app",
-    "title": "The Control Point for Food Retail | UniSight",
-    "business_name": "UniSight BIT Inc.",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 20324,
-    "crawled_at": "2026-04-22T09:02:20.023402545Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Coming Soon Page",
-      "Cornerstone",
-      "FormSubmit",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Pico CSS",
-      "QUIC",
-      "Tailwind CSS",
-      "Thank You",
-      "YouTube",
-      "Zoho CRM",
-      "reCAPTCHA"
     ]
   }
 ]
