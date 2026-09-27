@@ -1,5 +1,29 @@
 [
   {
+    "domain": "bnhnewfeel.com",
+    "title": "BNH New Feel",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 60,
+    "tech_spend": 839,
+    "crawled_at": "2026-09-26T21:10:13.175127241Z",
+    "technologies": [
+      "Apache",
+      "Better Lead Generation Services",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Font Awesome",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "MaxCDN",
+      "NFOrce Internet",
+      "Semantic UI",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "gama.org.br",
     "title": "Gama | Grupo de Amparo Momento de Amar",
     "business_name": "",
@@ -14648,39 +14672,6 @@
       "Semantic UI",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "uimtc.in",
-    "title": "Universal Institute",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 60,
-    "tech_spend": 159,
-    "crawled_at": "2026-04-24T09:24:39.253665158Z",
-    "technologies": [
-      "BootstrapMade",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DAV",
-      "Google Adsense",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google Reseller",
-      "IcoMoon",
-      "LiteSpeed",
-      "Omeka",
-      "PHP",
-      "Python",
-      "QUIC",
-      "Semantic UI",
-      "Tailwind CSS",
-      "Tawk",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
