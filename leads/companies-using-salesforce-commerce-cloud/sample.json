@@ -1,5 +1,30 @@
 [
   {
+    "domain": "skiglobal.in",
+    "title": "Home | S.K. International | Hospitality and Office Furniture | Interior Design Services | India",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 67,
+    "tech_spend": 504040,
+    "crawled_at": "2026-09-27T12:27:03.561291654Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudinary",
+      "ElementUI",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Nginx",
+      "PHP",
+      "Salesforce Commerce Cloud",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "marinacamarena.com",
     "title": "Mary Kay® | Empowering Women Since 1963",
     "business_name": "",
@@ -17116,55 +17141,6 @@
       "Salesforce Commerce Cloud",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "skiglobal.in",
-    "title": "Home | S.K. International | Hospitality and Office Furniture | Interior Design Services | India",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 57,
-    "tech_spend": 151191,
-    "crawled_at": "2026-02-02T21:10:21.498060196Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudinary",
-      "ElementUI",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Nginx",
-      "PHP",
-      "Salesforce Commerce Cloud",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "bavandchoob.com",
-    "title": "باوند چوب | شرکت ساخت و تولید کلبه های چوبی، آلاچیق و مبمان",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 504738,
-    "crawled_at": "2026-02-02T17:17:08.964377355Z",
-    "technologies": [
-      "CoreUI",
-      "Google",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Mizban",
-      "Newsletter for Wordpress",
-      "PHP",
-      "QUIC",
-      "Salesforce Commerce Cloud",
-      "Thank You",
-      "UTF-8",
-      "Vimeo",
-      "reCAPTCHA"
     ]
   }
 ]
