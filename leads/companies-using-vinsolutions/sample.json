@@ -1,5 +1,39 @@
 [
   {
+    "domain": "wagnermotors.support",
+    "title": "Wagner Motors | IT Support",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 23237,
+    "crawled_at": "2026-09-26T23:33:34.488920921Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Dealer.com",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microsoft 365",
+      "Nginx",
+      "PHP",
+      "Paycor",
+      "QUIC",
+      "Theme In WP",
+      "Timely",
+      "Trello",
+      "UTF-8",
+      "VinSolutions",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery",
+      "jsDelivr",
+      "vAuto"
+    ]
+  },
+  {
     "domain": "parastechnocrat.in",
     "title": "Home - Solar Energy Solutions in Ahmedabad | Trusted Solar Panel Installation Company",
     "business_name": "Solar Energy Solutions in Ahmedabad | Trusted Solar Panel Installation Company",
@@ -4108,42 +4142,6 @@
       "YouTube",
       "dc.js",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "wagnermotors.support",
-    "title": "Wagner Motors | IT Support",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 23837,
-    "crawled_at": "2026-02-02T12:49:48.866590959Z",
-    "technologies": [
-      "Alternate Protocol",
-      "BatCache",
-      "Content Delivery Network",
-      "Dealer.com",
-      "Divi",
-      "Elegant Themes",
-      "EmbedPress",
-      "Fastly",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microsoft 365",
-      "Microsoft Teams",
-      "Nginx",
-      "PHP",
-      "Paycor",
-      "Theme In WP",
-      "Timely",
-      "Trello",
-      "UTF-8",
-      "VinSolutions",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "jsDelivr",
-      "vAuto"
     ]
   }
 ]
