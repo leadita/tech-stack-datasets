@@ -15356,36 +15356,5 @@
       "WordPress",
       "jQuery"
     ]
-  },
-  {
-    "domain": "crispambassador.com",
-    "title": "Crisp Ambassador - Crisp Video Group Client Rewards Program",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 23822,
-    "crawled_at": "2026-02-02T19:13:48.888932239Z",
-    "technologies": [
-      "AdRoll",
-      "Apollo IO",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Deadline Funnel",
-      "Fastly",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Hubspot Knowledge Base",
-      "Instagram Follow Button",
-      "Lucky Orange",
-      "Microsoft Clarity",
-      "QUIC",
-      "SalesLoft",
-      "Twitter Ads",
-      "UTF-8",
-      "Wistia",
-      "YouTube"
-    ]
   }
 ]
