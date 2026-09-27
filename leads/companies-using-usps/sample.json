@@ -1,5 +1,20 @@
 [
   {
+    "domain": "datamgr.com",
+    "title": "Computer Training Service Repairs DataManagers Linthicum near Baltimore",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 139,
+    "crawled_at": "2026-09-27T07:03:34.888807889Z",
+    "technologies": [
+      "Apache",
+      "Coming Soon Page",
+      "Microsoft Frontpage",
+      "USPS"
+    ]
+  },
+  {
     "domain": "theresellcollective.bio",
     "title": "The Resell Collective | Affordable Bulk Clothing & Fashion Finds",
     "business_name": "",
@@ -18199,41 +18214,6 @@
       "UTF-8",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "1clickgraphix.com",
-    "title": "1Clickgraphix – Custom Graphic Design",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 122,
-    "crawled_at": "2026-04-23T05:23:20.00917146Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Bulma",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LayerSlider Responsive",
-      "PHP",
-      "Slider Revolution",
-      "Theme In WP",
-      "Twitter Ads",
-      "UPS",
-      "USPS",
-      "UTF-8",
-      "Uncode",
-      "WPBakery",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
