@@ -1,5 +1,57 @@
 [
   {
+    "domain": "lusana.ca",
+    "title": "Mental Health & Wellness Services| Free 15-Minute Consultation and more | Lusana Mental Health and Wellness Inc.",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 24580,
+    "crawled_at": "2026-09-26T23:12:04.247632809Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon CloudFront",
+      "Clinic Sites",
+      "CloudFront",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Jane App",
+      "Ruby on Rails",
+      "Sentry",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "lucereaesthetics.com",
+    "title": "Toxins, Microneedling and more | Lucere Aesthetics",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 67,
+    "tech_spend": 34580,
+    "crawled_at": "2026-09-26T22:14:23.94420785Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Clinic Sites",
+      "CloudFront",
+      "Content Delivery Network",
+      "DAV",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Jane App",
+      "K2F",
+      "Ruby on Rails",
+      "Sentry",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "codeture.nl",
     "title": "Codeture",
     "business_name": "",

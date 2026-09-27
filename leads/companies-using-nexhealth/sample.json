@@ -1,5 +1,45 @@
 [
   {
+    "domain": "flossandgloss.ca",
+    "title": "Home | Floss and Gloss",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 80,
+    "tech_spend": 128708,
+    "crawled_at": "2026-09-27T03:02:16.78276247Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Barchart",
+      "Content Delivery Network",
+      "Contento",
+      "Express",
+      "Fastly",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Kinsta",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "NexHealth",
+      "PWA",
+      "QUIC",
+      "ReviewWidget",
+      "SMC",
+      "Seflow Italy",
+      "Sentry",
+      "SiteW",
+      "UTF-8",
+      "Vector Internet Services",
+      "Wix",
+      "Wix Media",
+      "YouTube",
+      "eLand",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "mysyossetdentist.com",
     "title": "Dentist in Syosset | Syosset Cosmetic Dentist | Syosset Family Dentist",
     "business_name": "Innovative Dental",
@@ -20759,33 +20799,6 @@
       "WordPress",
       "WordPress Multisite",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "thedentistofsummerlin.com",
-    "title": "Dentist in Summerlin, NV | The Dentist of Summerlin",
-    "business_name": "Dentist in Summerlin, NV | The Dentist of Summerlin",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 9548,
-    "crawled_at": "2026-04-08T12:32:20.011928227Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Google My Business",
-      "Hello Elementor",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "NexHealth",
-      "Nginx",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
