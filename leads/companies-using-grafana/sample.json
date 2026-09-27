@@ -1,5 +1,46 @@
 [
   {
+    "domain": "wdrentals.com",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 1200,
+    "crawled_at": "2026-09-27T13:39:28.582016418Z",
+    "technologies": [
+      "Apache",
+      "Barchart",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Grafana",
+      "Nginx",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "glicocmmsbeta.org",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 1260,
+    "crawled_at": "2026-09-27T05:52:38.879505265Z",
+    "technologies": [
+      "Barchart",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Grafana",
+      "Nginx",
+      "QUIC",
+      "UTF-8",
+      "Ubuntu",
+      "Yandex Hosting"
+    ]
+  },
+  {
     "domain": "bi.apx.me",
     "title": "Grafana",
     "business_name": "",
@@ -14,47 +55,6 @@
       "Grafana",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "solaranzeige.7cw.de",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 1200,
-    "crawled_at": "2026-09-16T18:48:25.135067084Z",
-    "technologies": [
-      "Barchart",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Grafana",
-      "OpenResty",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "sar-analytic.in",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 1260,
-    "crawled_at": "2026-09-14T02:14:56.814943237Z",
-    "technologies": [
-      "Apache",
-      "Barchart",
-      "DAV",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Grafana",
-      "Nginx",
-      "UTF-8",
-      "Ubuntu",
-      "Yandex Hosting"
     ]
   },
   {
