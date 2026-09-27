@@ -1,5 +1,28 @@
 [
   {
+    "domain": "askapollohq.com",
+    "title": "AskApollo - AI-First Help Desk!",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 6324,
+    "crawled_at": "2026-09-27T08:14:27.413226494Z",
+    "technologies": [
+      "Amazon Link Enchancer",
+      "Amazon Widgets",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "GrowSurf",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Unsplash",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "mankameautomotive.com",
     "title": "Mankame",
     "business_name": "",
@@ -1180,29 +1203,6 @@
       "YouTube",
       "about.me",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "askapollohq.com",
-    "title": "AskApollo - AI-First Help Desk!",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 6324,
-    "crawled_at": "2026-02-02T18:28:48.883564493Z",
-    "technologies": [
-      "Amazon Link Enchancer",
-      "Amazon Widgets",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "GrowSurf",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Unsplash",
-      "Vercel"
     ]
   }
 ]
