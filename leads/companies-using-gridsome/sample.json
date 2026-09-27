@@ -1,5 +1,83 @@
 [
   {
+    "domain": "manmeet.dev",
+    "title": "Manmeet Singh — Professional Software Developer",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 82,
+    "tech_spend": 7378,
+    "crawled_at": "2026-09-27T22:32:36.845453202Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Financial Services Guide",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Gridsome",
+      "Idaq",
+      "Microdata for Google Shopping",
+      "No-Q",
+      "QUIC",
+      "Sanity",
+      "Subversion",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "Yandex Hosting"
+    ]
+  },
+  {
+    "domain": "eluvers.com",
+    "title": "Adult Talent Management - Eluvers Talent",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 62,
+    "tech_spend": 4327,
+    "crawled_at": "2026-09-27T14:39:59.008075049Z",
+    "technologies": [
+      "Adult Content",
+      "Bulma",
+      "Cloudinary",
+      "Content Delivery Network",
+      "Font Awesome",
+      "Gridsome",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "charitygetaways.com",
+    "title": "Charity Getaways - Consignment Vacations | Event Support - Charity Getaways",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 51760,
+    "crawled_at": "2026-09-27T02:14:53.719010465Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Gridsome",
+      "Nginx",
+      "QUIC",
+      "SMC",
+      "Tailwind CSS",
+      "Ubuntu",
+      "eLand",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "nslgroup.co.uk",
     "title": "Pharmaceutical Wholesaler & distributor - NSL Group",
     "business_name": "",
@@ -11932,79 +12010,6 @@
       "Tailwind CSS",
       "Twitter Ads",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "incoterm.nl",
-    "title": "Incoterms - alles wat je moet weten",
-    "business_name": "incoterm.nl",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-03-11T21:15:27.828580392Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Google My Business",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "airgrid.io",
-    "title": "AirGrid | Home",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 67,
-    "tech_spend": 90798,
-    "crawled_at": "2026-03-11T17:40:00.303963493Z",
-    "technologies": [
-      "Apyl",
-      "CCSI",
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "GitHub Hosting",
-      "Gridsome",
-      "IPFS",
-      "KVH",
-      "Medium",
-      "Netlify",
-      "No-Q",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "Subversion",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "loveconquersallgam.es",
-    "title": "Love Conquers All games - Love Conquers All Games",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 82728,
-    "crawled_at": "2026-03-11T07:45:49.151026089Z",
-    "technologies": [
-      "Adult Content",
-      "BLR",
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "Gridsome",
-      "Idaq",
-      "KVH",
-      "Netlify",
-      "SMC",
-      "Tumblr",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "itch.io"
     ]
   }
 ]

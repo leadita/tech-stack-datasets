@@ -1,5 +1,50 @@
 [
   {
+    "domain": "classcad.ch",
+    "title": "ClassCAD",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 2439,
+    "crawled_at": "2026-09-27T05:55:35.315314834Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Express",
+      "Fastly",
+      "GitHub Hosting",
+      "Perl",
+      "Python",
+      "QUIC",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "openhearing.org",
+    "title": "Open Hearing | Open Hearing",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2450,
+    "crawled_at": "2026-09-27T05:01:31.844073165Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GZIP Module",
+      "Perl",
+      "University or College"
+    ]
+  },
+  {
     "domain": "tsinjo.com",
     "title": "Tsinjo • Portfolio",
     "business_name": "",
@@ -4226,26 +4271,6 @@
       "Netlify",
       "Python",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "buerli.io",
-    "title": "Buerli.io",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 15600,
-    "crawled_at": "2026-05-15T20:53:20.000098102Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GitHub Hosting",
-      "Perl",
-      "SMC",
-      "UTF-8",
-      "shadcn ui"
     ]
   },
   {
@@ -12731,26 +12756,6 @@
       "Walmart",
       "Woo Themes",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "seaworks.io",
-    "title": "Home | SEAWORKS.IO - USV, Electrical engineering",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": "",
-    "crawled_at": "2026-04-06T03:14:20.008768991Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Perl",
-      "UTF-8"
     ]
   }
 ]
