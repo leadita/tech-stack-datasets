@@ -1,5 +1,28 @@
 [
   {
+    "domain": "gdmnt.com",
+    "title": "God Don't Make No Trash",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 3060,
+    "crawled_at": "2026-09-26T17:27:14.909673393Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Bunny Fonts",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "Ghost",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "mrmue.com",
     "title": "Mr Mue",
     "business_name": "",
@@ -13145,29 +13168,6 @@
       "GitHub Hosting",
       "Microdata for Google Shopping",
       "OpenResty",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "rishigb.me",
-    "title": "Rishi Gaurav Bhatnagar",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 82,
-    "tech_spend": 660,
-    "crawled_at": "2026-04-08T09:29:19.997336896Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "ArvanCloud",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Express",
-      "Ghost",
-      "Microdata for Google Shopping",
-      "Twitter Ads",
       "UTF-8",
       "jsDelivr"
     ]

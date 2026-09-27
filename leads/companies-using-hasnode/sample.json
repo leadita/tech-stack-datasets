@@ -1,5 +1,28 @@
 [
   {
+    "domain": "tresorkl.com",
+    "title": "Tresor KL - Backend Developer | Java Spring Boot & Python FastAPI",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 1347,
+    "crawled_at": "2026-09-26T21:00:35.506337083Z",
+    "technologies": [
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google Related Website Sites",
+      "Hasnode",
+      "Instagram Follow Button",
+      "Next.js",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "devfasttt.com",
     "title": "Devfasttt",
     "business_name": "",
@@ -11834,56 +11857,6 @@
       "jQuery",
       "shadcn ui",
       "tarteaucitron.js"
-    ]
-  },
-  {
-    "domain": "tresorkl.com",
-    "title": "Tresor KL - Backend Developer | Java Spring Boot & Python FastAPI",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-02-02T11:04:48.885045483Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Related Website Sites",
-      "Hasnode",
-      "Instagram Follow Button",
-      "Next.js",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "surajsingh.online",
-    "title": "Suraj Singh Gore | Full-Stack Developer & Freelancer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 687,
-    "crawled_at": "2026-02-02T10:12:51.368843013Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Discord",
-      "Express",
-      "Font Awesome",
-      "GitHub Hosting",
-      "Hasnode",
-      "Next.js",
-      "PHP",
-      "Pleroma",
-      "QUIC",
-      "UTF-8",
-      "University or College",
-      "Vercel"
     ]
   }
 ]
