@@ -1,5 +1,32 @@
 [
   {
+    "domain": "thewellnessstandard.org",
+    "title": "Home | The Wellness Standard",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 32920,
+    "crawled_at": "2026-09-27T07:14:35.358264986Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Bulma",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "PHP",
+      "Paperform",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Wangsu",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "webuyhousesagency.com",
     "title": "We Buy Houses | Cash for Homes | Sell a House Fast for Cash",
     "business_name": "We Buy Houses",
@@ -19007,43 +19034,6 @@
       "Wix Media",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "thereimagineschools.com",
-    "title": "Home - The ReImagine Schools",
-    "business_name": "",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 15569,
-    "crawled_at": "2026-04-24T22:10:46.169134888Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apache",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Paperform",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "WP Super Cache",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
