@@ -1,5 +1,24 @@
 [
   {
+    "domain": "swanplumbing.com.au",
+    "title": "Plumbing & Bathroom Supplies Store - Swan",
+    "business_name": "",
+    "country": "SYC",
+    "seo_score": 62,
+    "tech_spend": 100588,
+    "crawled_at": "2026-09-27T13:44:27.37473427Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Tag Manager",
+      "Netsuite Site Builder",
+      "PandaDoc",
+      "QUIC",
+      "Subversion",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "straightupmasonry.net",
     "title": "Straight Up Masonry",
     "business_name": "",
@@ -1299,25 +1318,6 @@
       "Vimeo",
       "WF Cookie Consent",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "swanonline.au",
-    "title": "Plumbing & Bathroom Supplies Store - Swan",
-    "business_name": "",
-    "country": "SYC",
-    "seo_score": 62,
-    "tech_spend": 100588,
-    "crawled_at": "2026-05-08T01:08:19.998493812Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Tag Manager",
-      "Netsuite Site Builder",
-      "PandaDoc",
-      "QUIC",
-      "Subversion",
-      "UTF-8"
     ]
   },
   {
