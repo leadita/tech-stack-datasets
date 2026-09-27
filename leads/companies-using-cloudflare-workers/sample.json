@@ -1,5 +1,61 @@
 [
   {
+    "domain": "norfeldt.com",
+    "title": "Norfeldt",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 15800,
+    "crawled_at": "2026-09-26T22:18:03.587847722Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Astro",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "Heroku",
+      "InitiativeS",
+      "QUIC",
+      "Tailwind CSS",
+      "University or College",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "tzafoncore.info",
+    "title": "Tzafon",
+    "business_name": "",
+    "country": "VEN",
+    "seo_score": 67,
+    "tech_spend": 28039,
+    "crawled_at": "2026-09-26T21:14:31.026271867Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare Workers",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "DAV",
+      "Envoy",
+      "GitHub Hosting",
+      "Hugging Face Space",
+      "NFOrce Internet",
+      "Next.js",
+      "Pico CSS",
+      "Python",
+      "QUIC",
+      "Say what",
+      "UTF-8",
+      "Vector Internet Services"
+    ]
+  },
+  {
     "domain": "glion.dev",
     "title": "Glion — The HL7v2 framework for the modern healthcare stack",
     "business_name": "",
@@ -44,36 +100,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "trytzafon.info",
-    "title": "Tzafon",
-    "business_name": "",
-    "country": "VEN",
-    "seo_score": 67,
-    "tech_spend": 28039,
-    "crawled_at": "2026-09-25T05:07:12.82668865Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare Workers",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "DAV",
-      "Envoy",
-      "GitHub Hosting",
-      "Hugging Face Space",
-      "NFOrce Internet",
-      "Next.js",
-      "Pico CSS",
-      "Python",
-      "QUIC",
-      "Say what",
-      "UTF-8",
-      "Vector Internet Services"
     ]
   },
   {
@@ -15081,42 +15107,6 @@
       "Cornerstone",
       "Hugo",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "hawooni.com",
-    "title": "HAWOONI.COM",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 17639,
-    "crawled_at": "2026-04-29T23:11:19.981460455Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "Discord",
-      "Express",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Medium",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "PWA",
-      "Telegram",
-      "TradingView",
-      "Twitter Ads",
-      "UTF-8",
-      "Vultr",
-      "YouTube"
     ]
   }
 ]
