@@ -18666,34 +18666,5 @@
       "YouTube",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "hurstvilleentertainmentcentre.com",
-    "title": "Hurstville Entertainment Centre - Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 24040,
-    "crawled_at": "2026-02-02T23:39:14.902584473Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "KVH",
-      "Kentico Xperience",
-      "M247",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Monsido",
-      "NFOrce Internet",
-      "Tailwind CSS",
-      "UTF-8",
-      "Visual Studio"
-    ]
   }
 ]
