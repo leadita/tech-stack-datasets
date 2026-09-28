@@ -1,5 +1,79 @@
 [
   {
+    "domain": "preetish.in",
+    "title": "Freelance Vue.js Developer | Preetish H. Shantharaja",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 82,
+    "tech_spend": 228,
+    "crawled_at": "2026-09-28T10:50:23.771451833Z",
+    "technologies": [
+      "Content Delivery Network",
+      "ElementUI",
+      "Express",
+      "GitHub Hosting",
+      "Gridsome",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress"
+    ]
+  },
+  {
+    "domain": "againgency.com",
+    "title": "Againgency",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": "",
+    "crawled_at": "2026-09-28T08:47:54.084565436Z",
+    "technologies": [
+      "Cloudflare",
+      "GZIP Module",
+      "Gridsome",
+      "Thank You",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "edbconsultancyservices.com",
+    "title": "Home | EdbConsultancyServices",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 67,
+    "tech_spend": 17868,
+    "crawled_at": "2026-09-28T07:26:15.281517551Z",
+    "technologies": [
+      "Express",
+      "Fireblade",
+      "Gridsome",
+      "IcoMoon",
+      "LiteSpeed",
+      "StackPath",
+      "Tailwind CSS",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "meetjackbryan.com",
+    "title": "Home | Jack Bryan",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-09-28T02:38:46.266155003Z",
+    "technologies": [
+      "Apache",
+      "ElementUI",
+      "Gridsome",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "manmeet.dev",
     "title": "Manmeet Singh — Professional Software Developer",
     "business_name": "",
@@ -11918,98 +11992,6 @@
       "UTF-8",
       "Unix",
       "Visx"
-    ]
-  },
-  {
-    "domain": "jackieis.online",
-    "title": "Jackie Liu °˖✧*･･new media art & design･･*✧˖° ✿ jackie liu",
-    "business_name": "",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 2539,
-    "crawled_at": "2026-03-14T07:39:17.607586168Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Content Delivery Network",
-      "Fastly",
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Gridsome",
-      "Instagram Follow Button",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "itch.io",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "papareo.nz",
-    "title": "Papa Reo",
-    "business_name": "",
-    "country": "NZL",
-    "seo_score": 72,
-    "tech_spend": 50456,
-    "crawled_at": "2026-03-14T01:30:46.092164916Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Gridsome",
-      "Netlify",
-      "Plausible Analytics",
-      "SMC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "envsage.com",
-    "title": "Envsage",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 20063,
-    "crawled_at": "2026-03-12T22:13:14.753666974Z",
-    "technologies": [
-      "AAPT",
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Netlify",
-      "PWA",
-      "SMC",
-      "Subversion",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "concable.com.mx",
-    "title": "Concable !! - Concable",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 1386,
-    "crawled_at": "2026-03-12T00:47:14.870613647Z",
-    "technologies": [
-      "Apache",
-      "Cloudinary",
-      "Gridsome",
-      "No-Q",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "shadcn ui"
     ]
   }
 ]
