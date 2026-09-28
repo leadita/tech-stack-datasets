@@ -1,5 +1,23 @@
 [
   {
+    "domain": "cita.co.uk",
+    "title": "UK BUILDING TRADE ASSOCIATION - CITA - Construction Industry Trade Alliance",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": "",
+    "crawled_at": "2026-09-28T09:19:53.33053955Z",
+    "technologies": [
+      "AWIN",
+      "Apache",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Twitter Ads",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "klinesteinenterprise.com",
     "title": "KlineStein Enterprise LLC",
     "business_name": "",
@@ -35492,36 +35510,6 @@
       "hCaptcha",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "hockeytownhypnotist.com",
-    "title": "Hockeytown Hypnotist Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 33740,
-    "crawled_at": "2026-04-03T05:14:19.98928952Z",
-    "technologies": [
-      "AWIN",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Authorize.net",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Nuxt.js",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]

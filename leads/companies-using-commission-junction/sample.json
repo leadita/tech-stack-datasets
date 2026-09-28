@@ -1,5 +1,42 @@
 [
   {
+    "domain": "xy7.com",
+    "title": "Xy7Elite.com | Run by Super Affiliates, for Super Affiliates!",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 31793,
+    "crawled_at": "2026-09-27T15:36:28.232684385Z",
+    "technologies": [
+      "Bulma",
+      "Calendly",
+      "Commission Junction",
+      "CookieYes",
+      "Facebook Customer Chat SDK",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Maps",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "HasOffers",
+      "HubSpot Conversations",
+      "Hubspot",
+      "IcoMoon",
+      "Nginx",
+      "PHP",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "clixGalore",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "bjzkky.com",
     "title": "哈哈体育.(HAHA)十年运营,信誉无忧",
     "business_name": "",
@@ -4781,43 +4818,6 @@
       "hCaptcha",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "xy7elite.com",
-    "title": "Xy7Elite.com | Run by Super Affiliates, for Super Affiliates!",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 31793,
-    "crawled_at": "2026-05-09T15:17:20.014207133Z",
-    "technologies": [
-      "Bulma",
-      "Calendly",
-      "Commission Junction",
-      "CookieYes",
-      "Facebook Customer Chat SDK",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "HasOffers",
-      "HubSpot Conversations",
-      "Hubspot",
-      "IcoMoon",
-      "Nginx",
-      "PHP",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "clixGalore",
-      "jQuery"
     ]
   },
   {
@@ -13258,23 +13258,6 @@
       "LiteSpeed",
       "Perl",
       "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "santamonicatraining.com",
-    "title": "安博站中国有限公司",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 60,
-    "crawled_at": "2026-02-03T00:16:48.887575723Z",
-    "technologies": [
-      "Baidu Ads",
-      "Baidu Cloud",
-      "Commission Junction",
-      "GZIP Module",
-      "Nginx",
       "UTF-8"
     ]
   }
