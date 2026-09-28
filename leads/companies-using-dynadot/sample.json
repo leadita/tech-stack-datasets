@@ -1,5 +1,24 @@
 [
   {
+    "domain": "customvan.org",
+    "title": "Digital Real Estate Specialist",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 36,
+    "crawled_at": "2026-09-27T20:20:39.328191612Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "ultima1.com",
     "title": "An EMDN - Ultima 1, Classic RPG Video Game Retro Gaming Fantasy Adventure Origin Systems Role-Playing Quest Exploration Medieval Storyline",
     "business_name": "",
@@ -71,25 +90,6 @@
       "UTF-8",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "biotronic.net",
-    "title": "Digital Real Estate Specialist",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 36,
-    "crawled_at": "2026-09-23T02:41:04.963238678Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "UTF-8"
     ]
   },
   {
@@ -4574,26 +4574,6 @@
     "seo_score": 67,
     "tech_spend": 10219,
     "crawled_at": "2026-02-03T19:33:22.263976443Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "BLR",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Tumblr",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "plantspetals.com",
-    "title": "PlantsPetals.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 2135,
-    "crawled_at": "2026-02-03T06:59:43.522542996Z",
     "technologies": [
       "Amazon CloudFront",
       "BLR",
