@@ -1,5 +1,101 @@
 [
   {
+    "domain": "tarekrjeily.com",
+    "title": "tar/ — AI Agents, Audits & AI Visibility · Tarek Abou Rjeily, Beirut",
+    "business_name": "",
+    "country": "LBN",
+    "seo_score": 77,
+    "tech_spend": 10300,
+    "crawled_at": "2026-09-28T09:58:26.150897269Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "Clutch",
+      "Content Delivery Network",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "multisoftx.com",
+    "title": "MultiSoftX — We automate the work people shouldn't have to do.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 17040,
+    "crawled_at": "2026-09-28T04:25:26.150272387Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Fireblade",
+      "GitHub Hosting",
+      "NFOrce Internet",
+      "Next.js",
+      "Tailwind CSS",
+      "Telegram",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "moonrayteam.com",
+    "title": "Moonray — complete products, built solo",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 72980,
+    "crawled_at": "2026-09-28T03:52:26.073362981Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "Fireblade",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Python",
+      "SMC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "robertsmj.com",
+    "title": "Mike Roberts, senior full-stack engineer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 82,
+    "tech_spend": 15300,
+    "crawled_at": "2026-09-28T00:03:13.009849723Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "Microdata for Google Shopping"
+    ]
+  },
+  {
     "domain": "norfeldt.com",
     "title": "Norfeldt",
     "business_name": "",
@@ -1404,30 +1500,6 @@
       "UTF-8",
       "University or College",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "moonray.online",
-    "title": "Moonray — complete products, built solo",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 22980,
-    "crawled_at": "2026-09-12T22:48:55.876701356Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Workers",
-      "Fireblade",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vercel"
     ]
   },
   {
@@ -15038,75 +15110,6 @@
       "Vector Internet Services",
       "Vercel",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "tomclawfield.me",
-    "title": "Tom Clawfield",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 52,
-    "tech_spend": 63,
-    "crawled_at": "2026-04-30T06:59:20.003570162Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API"
-    ]
-  },
-  {
-    "domain": "andreasglosner.com",
-    "title": "Home | Andreas Glosner Media | Game Dev & Digital Art",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 8659,
-    "crawled_at": "2026-04-30T03:44:20.000893706Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "DAV",
-      "Express",
-      "Fireblade",
-      "Font Awesome",
-      "Google My Business",
-      "Headless UI",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "eLand",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "handsdevelopment.se",
-    "title": "Home | Hands Development AB",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 119,
-    "crawled_at": "2026-04-30T00:35:19.98291409Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Workers",
-      "Cornerstone",
-      "Hugo",
-      "UTF-8"
     ]
   }
 ]
