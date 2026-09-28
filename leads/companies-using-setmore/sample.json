@@ -1,5 +1,29 @@
 [
   {
+    "domain": "muellertherapeutics.com",
+    "title": "Mueller Therapeutics - Ben Mueller Massage Therapist Brainerd MN",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 951,
+    "crawled_at": "2026-09-27T21:59:10.248209331Z",
+    "technologies": [
+      "Apache",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "Font Awesome",
+      "GZIP Module",
+      "IcoMoon",
+      "Setmore",
+      "Subversion",
+      "Tagembed",
+      "UTF-8",
+      "University or College",
+      "eLand"
+    ]
+  },
+  {
     "domain": "bikespokes.co.uk",
     "title": "Bikespokes mobile bike servicing and repair around Nairn and Moray",
     "business_name": "Bikespokes",
@@ -17573,30 +17597,6 @@
       "YouTube",
       "jsDelivr",
       "uPress"
-    ]
-  },
-  {
-    "domain": "muellertherapeutics.com",
-    "title": "Mueller Therapeutics - Ben Mueller Massage Therapist Brainerd MN",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 951,
-    "crawled_at": "2026-02-03T02:22:48.86442931Z",
-    "technologies": [
-      "Apache",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "Font Awesome",
-      "GZIP Module",
-      "IcoMoon",
-      "Setmore",
-      "Subversion",
-      "Tagembed",
-      "UTF-8",
-      "University or College",
-      "eLand"
     ]
   }
 ]
