@@ -4796,33 +4796,5 @@
       "Yellow Messenger",
       "YouTube"
     ]
-  },
-  {
-    "domain": "amadorvalleyindustries.com",
-    "title": "Amador Valley Industries | Reliable Waste & Recycling Services",
-    "business_name": "",
-    "country": "IRL",
-    "seo_score": 77,
-    "tech_spend": 17868,
-    "crawled_at": "2026-02-03T02:24:46.989222037Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Animate It",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8",
-      "WF Cookie Consent",
-      "Yellow Messenger"
-    ]
   }
 ]
