@@ -1,5 +1,29 @@
 [
   {
+    "domain": "fuddspackship.com",
+    "title": "Shipping Services | Notary & More in Inverness | FUDDS Pack & Ship",
+    "business_name": "",
+    "country": "LUX",
+    "seo_score": 77,
+    "tech_spend": 13600,
+    "crawled_at": "2026-09-28T16:13:37.038905741Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "DHL Parcel",
+      "Fastly",
+      "FedEx",
+      "Google My Business",
+      "Hubspot Knowledge Base",
+      "Instagram Follow Button",
+      "QUIC",
+      "UPS",
+      "USPS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "rt-ltd.uk",
     "title": "Robertsons Transport Ltd | Reliable UK Transport & Logistics",
     "business_name": "",
@@ -18934,42 +18958,6 @@
       "Vimeo",
       "Visual Studio",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "internetweather.net",
-    "title": "Internet Weather Report – Navigating the Digital Storm",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 9311,
-    "crawled_at": "2026-04-03T05:56:19.984380822Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Automattic",
-      "BatCache",
-      "Content Delivery Network",
-      "Corporate Governance and Regulatory Compliance",
-      "DHL Parcel",
-      "EmbedPress",
-      "Fastly",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Gutenberg",
-      "Hive.co",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Nginx",
-      "Parallels Plesk Panel",
-      "Parcel",
-      "Perl",
-      "QUIC",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats"
     ]
   }
 ]
