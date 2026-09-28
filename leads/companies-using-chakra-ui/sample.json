@@ -1,5 +1,101 @@
 [
   {
+    "domain": "klinconnect.com",
+    "title": "Wealthy Elephant",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 20240,
+    "crawled_at": "2026-09-28T14:46:14.442353468Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Chakra UI",
+      "Content Delivery Network",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "tesbeauxtoits.be",
+    "title": "TesBeauxToits - Couverture et bardage",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 27500,
+    "crawled_at": "2026-09-28T06:40:38.815892488Z",
+    "technologies": [
+      "Apache",
+      "Chakra UI",
+      "Envoy",
+      "Fireblade",
+      "GZIP Module",
+      "KVH",
+      "Next.js",
+      "SMC",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "saferme.cc",
+    "title": "The Award-Winning Pandemic Readiness System For Business",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 7500,
+    "crawled_at": "2026-09-28T02:25:25.6874894Z",
+    "technologies": [
+      "Angular",
+      "Chakra UI",
+      "Content Delivery Network",
+      "DAV",
+      "DatoCMS",
+      "Financial Services Guide",
+      "Fireblade",
+      "Gatsby JS",
+      "Google Analytics",
+      "Google Tag Manager",
+      "HubSpot Conversations",
+      "Hubspot",
+      "Netlify",
+      "Twitter Ads",
+      "UTF-8",
+      "Unix",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "amy-herzberg.com",
+    "title": "Amy Herzberg",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 240,
+    "crawled_at": "2026-09-27T23:10:41.137746029Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Express",
+      "Gambling Content",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "jortskitchen.com",
     "title": "jortskitchen | Recipes",
     "business_name": "",
@@ -4419,34 +4515,6 @@
     ]
   },
   {
-    "domain": "saferme.world",
-    "title": "The Award-Winning Pandemic Readiness System For Business",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 7500,
-    "crawled_at": "2026-08-09T20:08:15.296089619Z",
-    "technologies": [
-      "Angular",
-      "Chakra UI",
-      "Content Delivery Network",
-      "DAV",
-      "DatoCMS",
-      "Financial Services Guide",
-      "Fireblade",
-      "Gatsby JS",
-      "Google Analytics",
-      "Google Tag Manager",
-      "HubSpot Conversations",
-      "Hubspot",
-      "Netlify",
-      "Twitter Ads",
-      "UTF-8",
-      "Unix",
-      "YouTube"
-    ]
-  },
-  {
     "domain": "miotales.com",
     "title": "MioTales - Create Personalized StoryBooks with AI",
     "business_name": "MioTales",
@@ -5535,28 +5603,6 @@
       "UTF-8",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "wealthyelephant.com",
-    "title": "Wealthy Elephant",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 20240,
-    "crawled_at": "2026-07-29T21:59:42.823068196Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Chakra UI",
-      "Content Delivery Network",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vercel",
-      "shadcn ui"
     ]
   },
   {
@@ -12899,51 +12945,6 @@
       "Sanity",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "aymc.com.au",
-    "title": "Australia Yoga & Meditation Community | Home",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 72,
-    "tech_spend": 708,
-    "crawled_at": "2026-05-13T00:28:15.296177438Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "bence.com.br",
-    "title": "bēnce :: Cybersecurity to Lead",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 7683,
-    "crawled_at": "2026-05-13T00:17:31.588094387Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Apture Linking Platform",
-      "Chakra UI",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fireblade",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google My Business",
-      "Google Tag Manager",
-      "Next.js"
     ]
   }
 ]
