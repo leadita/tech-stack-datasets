@@ -1,5 +1,26 @@
 [
   {
+    "domain": "prismeyecareinc.com",
+    "title": "Prism Eye Care, Inc.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 3735,
+    "crawled_at": "2026-09-28T18:48:38.690218383Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Adobe Dreamweaver",
+      "Adobe Edge Web Fonts",
+      "Font Awesome",
+      "LiteSpeed",
+      "Neighborhoods",
+      "QUIC",
+      "Tailwind CSS",
+      "University or College",
+      "monday.com"
+    ]
+  },
+  {
     "domain": "aidan-mcbride.com",
     "title": "Aidan McBride — Frontend Engineer",
     "business_name": "",
@@ -19105,36 +19126,6 @@
       "jQuery",
       "monday.com",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "the-targetdial.org",
-    "title": "Target Dial · AI Voice Agents for Business Automation",
-    "business_name": "Target Dial",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 155388,
-    "crawled_at": "2026-08-01T18:16:31.951160661Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Bing Cashback",
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Open Dental",
-      "Pleroma",
-      "QUIC",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "YouTube",
-      "monday.com",
-      "shadcn ui"
     ]
   }
 ]
