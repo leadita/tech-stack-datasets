@@ -1,5 +1,33 @@
 [
   {
+    "domain": "lcgcpa.com",
+    "title": "Build wealth inside & outside your business | Legacy Consulting Group",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 15140,
+    "crawled_at": "2026-09-27T17:41:45.265563581Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "RightCapital",
+      "Tailwind CSS",
+      "UTF-8",
+      "Zoom Video Conferencing",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "grundenllc.com",
     "title": "Home | grunden, LLC",
     "business_name": "",
@@ -10340,33 +10368,6 @@
       "QuickBooks Online",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "lcgcpa.com",
-    "title": "Build wealth inside & outside your business | Legacy Consulting Group",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 14600,
-    "crawled_at": "2026-02-03T00:22:48.865080144Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "ArvanCloud",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "RightCapital",
-      "Tailwind CSS",
-      "UTF-8",
-      "Zoom Video Conferencing",
-      "jsDelivr"
     ]
   }
 ]
