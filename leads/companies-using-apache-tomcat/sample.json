@@ -1,5 +1,30 @@
 [
   {
+    "domain": "codypero.com",
+    "title": "Cody Pero — Portfolio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 15740,
+    "crawled_at": "2026-09-28T16:24:28.648057781Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Apache Tomcat JK",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Heroku",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "balicatamaranscharter.com",
     "title": "Welcome | Bali Catamarans Charter",
     "business_name": "",
@@ -13532,64 +13557,6 @@
       "WordPress Related Posts",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "codypero.com",
-    "title": "Cody Pero — Portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 15740,
-    "crawled_at": "2026-02-03T13:40:48.879181025Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Apache Tomcat JK",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Heroku",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "fwpmi.org",
-    "title": "Home | PMI Fort Worth",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 23668,
-    "crawled_at": "2026-02-03T06:43:48.887149225Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Apache Tomcat JK",
-      "AutoComplete",
-      "ChamberMaster",
-      "DAV",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Forms",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microsoft Azure Blob Storage",
-      "QUIC",
-      "SmartAdServer Direct",
-      "UTF-8",
-      "University or College",
-      "YouTube",
-      "eLand",
-      "reCAPTCHA"
     ]
   }
 ]
