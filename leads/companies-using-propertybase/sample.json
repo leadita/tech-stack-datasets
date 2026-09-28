@@ -3001,43 +3001,5 @@
       "reCAPTCHA",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "zasconsultinginc.com",
-    "title": "Z.A.S. Consulting, Inc.",
-    "business_name": "Z.A.S. Consulting, Inc.",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 22695,
-    "crawled_at": "2026-02-03T11:59:13.035209985Z",
-    "technologies": [
-      "Amazon S3 CDN",
-      "Bulma",
-      "CoreUI",
-      "ETranslate",
-      "Fastly CDN",
-      "GTranslate",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Homes.com CMS",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "New Relic",
-      "PropertyBase",
-      "QUIC",
-      "Storyblocks",
-      "Tailwind CSS",
-      "UTF-8",
-      "eLand",
-      "reCAPTCHA"
-    ]
   }
 ]
