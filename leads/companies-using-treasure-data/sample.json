@@ -2197,35 +2197,5 @@
       "Yelp Badge",
       "YouTube"
     ]
-  },
-  {
-    "domain": "appstars.jp",
-    "title": "あぷすた - iPhoneとWebとプログラミングと - あぷすた - iPhoneとWebとプログラミングと",
-    "business_name": "あぷすた - iPhoneとWebとプログラミングと",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 62908,
-    "crawled_at": "2026-02-03T22:40:48.864147484Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Theme In WP",
-      "Treasure Data",
-      "Twitter Ads",
-      "UTF-8",
-      "Unix",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
