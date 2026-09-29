@@ -1,5 +1,44 @@
 [
   {
+    "domain": "emobilitybird.com",
+    "title": "Communications for developers — Bird",
+    "business_name": "Bird",
+    "country": "",
+    "seo_score": 92,
+    "tech_spend": 41568,
+    "crawled_at": "2026-09-29T03:18:09.390678628Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Gin Web Framework",
+      "GitHub Hosting",
+      "Harbor",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Netlify",
+      "Next.js",
+      "Python",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "Waveform Technology",
+      "YouTube",
+      "symfony PHP Framework"
+    ]
+  },
+  {
     "domain": "tarekrjeily.com",
     "title": "tar/ — AI Agents, Audits & AI Visibility · Tarek Abou Rjeily, Beirut",
     "business_name": "",
@@ -15079,37 +15118,6 @@
       "UTF-8",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "chrisemoody.com",
-    "title": "Chris Moody - ML Product Builder & Researcher",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 10888,
-    "crawled_at": "2026-04-30T09:57:18.725259082Z",
-    "technologies": [
-      "Amazon Widgets",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Landen",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Python",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vercel",
-      "YouTube"
     ]
   }
 ]
