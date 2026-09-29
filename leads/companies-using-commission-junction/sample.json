@@ -1,5 +1,20 @@
 [
   {
+    "domain": "ubcj.com.au",
+    "title": "Unique Building & Carpentry - specialising in fitout, general maintenance and construction work",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-09-29T08:31:24.338894442Z",
+    "technologies": [
+      "Commission Junction",
+      "LiteSpeed",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "xy7.com",
     "title": "Xy7Elite.com | Run by Super Affiliates, for Super Affiliates!",
     "business_name": "",
@@ -13243,22 +13258,6 @@
       "Wix Media",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "ubcj.com.au",
-    "title": "Unique Building & Carpentry - specialising in fitout, general maintenance and construction work",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-02-04T00:49:48.874630424Z",
-    "technologies": [
-      "Commission Junction",
-      "LiteSpeed",
-      "Perl",
-      "QUIC",
-      "UTF-8"
     ]
   }
 ]
