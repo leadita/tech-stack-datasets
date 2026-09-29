@@ -19,7 +19,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 
 ### Accessibility (a11y)
 - [Companies using accessiBe](./leads/companies-using-accessibe) (19,071 companies)
-- [Companies using AudioEye](./leads/companies-using-audioeye) (17,039 companies)
+- [Companies using AudioEye](./leads/companies-using-audioeye) (17,038 companies)
 - [Companies using Monsido](./leads/companies-using-monsido) (795 companies)
 - [Companies using Texthelp](./leads/companies-using-texthelp) (170 companies)
 - [Companies using WP Accessibility](./leads/companies-using-wp-accessibility) (6,554 companies)
@@ -145,10 +145,10 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 
 ### Cloud Providers
 - [Companies using Amazon](./leads/companies-using-amazon) (2,246,779 companies)
-- [Companies using Google Cloud](./leads/companies-using-google-cloud) (4,959,807 companies)
+- [Companies using Google Cloud](./leads/companies-using-google-cloud) (4,959,809 companies)
 - [Companies using Microsoft Azure](./leads/companies-using-microsoft-azure) (129,955 companies)
 - [Companies using Heroku](./leads/companies-using-heroku) (41,951 companies)
-- [Companies using Netlify](./leads/companies-using-netlify) (128,225 companies)
+- [Companies using Netlify](./leads/companies-using-netlify) (128,226 companies)
 - [Companies using Vercel](./leads/companies-using-vercel) (323,961 companies)
 - [Companies using Cloudflare Workers](./leads/companies-using-cloudflare-workers) (1,223 companies)
 - [Companies using Rackspace](./leads/companies-using-rackspace) (7,035 companies)
@@ -184,7 +184,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Termly](./leads/companies-using-termly) (9,090 companies)
 
 ### Content Delivery Networks (CDN)
-- [Companies using Cloudflare](./leads/companies-using-cloudflare) (2,346,040 companies)
+- [Companies using Cloudflare](./leads/companies-using-cloudflare) (2,346,041 companies)
 - [Companies using Akamai](./leads/companies-using-akamai) (6,459 companies)
 - [Companies using Fastly](./leads/companies-using-fastly) (1,788,778 companies)
 - [Companies using Amazon CloudFront](./leads/companies-using-amazon-cloudfront) (484,188 companies)
@@ -216,7 +216,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using CapsuleCRM](./leads/companies-using-capsulecrm) (66 companies)
 
 ### CSS Frameworks
-- [Companies using Tailwind CSS](./leads/companies-using-tailwind-css) (2,264,676 companies)
+- [Companies using Tailwind CSS](./leads/companies-using-tailwind-css) (2,264,677 companies)
 - [Companies using Bootstrap](./leads/companies-using-bootstrap) (5,324 companies)
 - [Companies using Material-UI](./leads/companies-using-material-ui) (24,293 companies)
 - [Companies using Chakra UI](./leads/companies-using-chakra-ui) (1,948 companies)
@@ -503,7 +503,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using DailyMotion Video](./leads/companies-using-dailymotion-video) (3,112 companies)
 
 ### Web Fonts & Icons
-- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,534,578 companies)
+- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,534,581 companies)
 - [Companies using Font Awesome](./leads/companies-using-font-awesome) (764,914 companies)
 - [Companies using MyFonts](./leads/companies-using-myfonts) (3,109 companies)
 - [Companies using Fontshare](./leads/companies-using-fontshare) (2,794 companies)
@@ -515,7 +515,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 ### Web Servers
 - [Companies using NGINX](./leads/companies-using-nginx) (1,358,298 companies)
 - [Companies using Apache](./leads/companies-using-apache) (1,347,929 companies)
-- [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,051,898 companies)
+- [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,051,899 companies)
 - [Companies using OpenResty](./leads/companies-using-openresty) (219,177 companies)
 - [Companies using Apache Tomcat](./leads/companies-using-apache-tomcat) (527 companies)
 
