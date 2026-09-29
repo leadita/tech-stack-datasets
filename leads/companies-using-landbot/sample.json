@@ -16028,41 +16028,5 @@
       "YouTube",
       "jQuery"
     ]
-  },
-  {
-    "domain": "investment-claims.com",
-    "title": "Mis-Sold Investments and SIPPS | Investment Claims",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 4747,
-    "crawled_at": "2026-02-04T01:07:48.86294858Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Fastly",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google Tag Manager",
-      "Gravity Forms",
-      "LandBot",
-      "Nginx",
-      "PHP",
-      "Perl",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Slider Revolution",
-      "Theme In WP",
-      "UTF-8",
-      "WPBakery",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
