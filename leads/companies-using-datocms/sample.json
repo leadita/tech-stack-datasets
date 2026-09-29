@@ -1,5 +1,55 @@
 [
   {
+    "domain": "ownprimland.com",
+    "title": "Primland Residences | Luxury Living in Blue Ridge Mountains",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 20349,
+    "crawled_at": "2026-09-29T03:34:10.225080735Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "CookieYes",
+      "DAV",
+      "DatoCMS",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Idaq",
+      "Netlify",
+      "Nuxt.js",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "barcodebuildup.com",
+    "title": "Home | Barcode Buildup LLC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 56156,
+    "crawled_at": "2026-09-29T03:03:41.257818191Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "DatoCMS",
+      "Gatsby Image CDN",
+      "Gatsby JS",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Idaq",
+      "Netlify",
+      "SMC",
+      "Styled Components",
+      "Subversion",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "digitalmarkk.nl",
     "title": "Studio Rolie",
     "business_name": "",
@@ -14139,49 +14189,6 @@
       "University or College",
       "Vercel",
       "Vimeo"
-    ]
-  },
-  {
-    "domain": "cellsighttech.com",
-    "title": "Cellsight Technologies | Realising the hope",
-    "business_name": "",
-    "country": "VEN",
-    "seo_score": 72,
-    "tech_spend": 15016,
-    "crawled_at": "2026-05-01T13:13:42.310206696Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "DatoCMS",
-      "Google",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Nuxt.js",
-      "PWA",
-      "UTF-8",
-      "Vector Internet Services"
-    ]
-  },
-  {
-    "domain": "welt.ventures",
-    "title": "Welt Ventures",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 62,
-    "tech_spend": 17616,
-    "crawled_at": "2026-05-01T13:08:19.977068438Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DatoCMS",
-      "Fireblade",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Investor Relations",
-      "Netlify",
-      "Nuxt.js",
-      "UTF-8"
     ]
   }
 ]

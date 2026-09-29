@@ -1,5 +1,79 @@
 [
   {
+    "domain": "cubeconsultants.co.in",
+    "title": "Best HR Consultancy in Bangalore, India - RPO, Staffing & Payroll",
+    "business_name": "Cube Consultants",
+    "country": "IND",
+    "seo_score": 82,
+    "tech_spend": 23637,
+    "crawled_at": "2026-09-29T11:32:22.167382036Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Next.js",
+      "Perl",
+      "Pleroma",
+      "Prismic",
+      "QUIC",
+      "RM Education",
+      "Sitelinks Search Box",
+      "UTF-8",
+      "Vercel",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "twocreate.co.uk",
+    "title": "We create products for brands & brands for products | Two Create Studio",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 67,
+    "tech_spend": 15719,
+    "crawled_at": "2026-09-29T11:01:53.597479865Z",
+    "technologies": [
+      "Content Delivery Network",
+      "CoreUI",
+      "Fireblade",
+      "Gatsby JS",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Instagram Follow Button",
+      "Prismic",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "halfspace.ai",
+    "title": "Halfspace - Moving Organisations Forward Through Artificial Intelligence and Advanced Analytics",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 25348,
+    "crawled_at": "2026-09-28T21:25:37.956422373Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "InitiativeS",
+      "OneTrust Domain Verification",
+      "Plausible Analytics",
+      "Prismic",
+      "RM Education",
+      "Svelte",
+      "Tailwind CSS",
+      "Typeform",
+      "Vimeo",
+      "Vimeo CDN",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "sandyshore.ca",
     "title": "Sandy Shore Farms | Something bigger brings us together",
     "business_name": "",
@@ -5136,30 +5210,6 @@
     ]
   },
   {
-    "domain": "halfspace.dk",
-    "title": "Halfspace - Moving Organisations Forward Through Artificial Intelligence and Advanced Analytics",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 25348,
-    "crawled_at": "2026-05-29T03:08:19.968446975Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "InitiativeS",
-      "OneTrust Domain Verification",
-      "Plausible Analytics",
-      "Prismic",
-      "RM Education",
-      "Svelte",
-      "Tailwind CSS",
-      "Typeform",
-      "Vimeo",
-      "Vimeo CDN",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "yvonnelorang.nl",
     "title": "Yvonne Lorang",
     "business_name": "",
@@ -6492,27 +6542,6 @@
       "YouTube",
       "monday.com",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "twocreate.com",
-    "title": "We create products for brands & brands for products | Two Create Studio",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 67,
-    "tech_spend": 15719,
-    "crawled_at": "2026-05-19T22:44:19.993580011Z",
-    "technologies": [
-      "Content Delivery Network",
-      "CoreUI",
-      "Fireblade",
-      "Gatsby JS",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Instagram Follow Button",
-      "Prismic",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {
@@ -13599,25 +13628,6 @@
       "Prismic",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "lemanndi.com",
-    "title": "Le Manndi",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 57,
-    "tech_spend": 3,
-    "crawled_at": "2026-04-24T18:29:19.988767492Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gatsby JS",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Prismic",
-      "Styled Components",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
