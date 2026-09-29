@@ -184,7 +184,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Termly](./leads/companies-using-termly) (9,089 companies)
 
 ### Content Delivery Networks (CDN)
-- [Companies using Cloudflare](./leads/companies-using-cloudflare) (2,346,249 companies)
+- [Companies using Cloudflare](./leads/companies-using-cloudflare) (2,346,250 companies)
 - [Companies using Akamai](./leads/companies-using-akamai) (6,459 companies)
 - [Companies using Fastly](./leads/companies-using-fastly) (1,788,531 companies)
 - [Companies using Amazon CloudFront](./leads/companies-using-amazon-cloudfront) (484,130 companies)
@@ -216,7 +216,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using CapsuleCRM](./leads/companies-using-capsulecrm) (66 companies)
 
 ### CSS Frameworks
-- [Companies using Tailwind CSS](./leads/companies-using-tailwind-css) (2,264,340 companies)
+- [Companies using Tailwind CSS](./leads/companies-using-tailwind-css) (2,264,341 companies)
 - [Companies using Bootstrap](./leads/companies-using-bootstrap) (5,322 companies)
 - [Companies using Material-UI](./leads/companies-using-material-ui) (24,296 companies)
 - [Companies using Chakra UI](./leads/companies-using-chakra-ui) (1,948 companies)
@@ -494,7 +494,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 
 ### Video Platforms
 - [Companies using YouTube](./leads/companies-using-youtube) (1,853,764 companies)
-- [Companies using Vimeo](./leads/companies-using-vimeo) (237,437 companies)
+- [Companies using Vimeo](./leads/companies-using-vimeo) (237,436 companies)
 - [Companies using Wistia](./leads/companies-using-wistia) (11,423 companies)
 - [Companies using Brightcove](./leads/companies-using-brightcove) (1,483 companies)
 - [Companies using Kaltura](./leads/companies-using-kaltura) (493 companies)
@@ -503,20 +503,20 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using DailyMotion Video](./leads/companies-using-dailymotion-video) (3,113 companies)
 
 ### Web Fonts & Icons
-- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,533,837 companies)
-- [Companies using Font Awesome](./leads/companies-using-font-awesome) (764,812 companies)
+- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,533,765 companies)
+- [Companies using Font Awesome](./leads/companies-using-font-awesome) (764,798 companies)
 - [Companies using MyFonts](./leads/companies-using-myfonts) (3,109 companies)
 - [Companies using Fontshare](./leads/companies-using-fontshare) (2,796 companies)
 - [Companies using Bunny Fonts](./leads/companies-using-bunny-fonts) (41,216 companies)
 - [Companies using Fontello](./leads/companies-using-fontello) (41,637 companies)
-- [Companies using IcoMoon](./leads/companies-using-icomoon) (1,270,687 companies)
-- [Companies using Material Design Icons](./leads/companies-using-material-design-icons) (23,402 companies)
+- [Companies using IcoMoon](./leads/companies-using-icomoon) (1,270,670 companies)
+- [Companies using Material Design Icons](./leads/companies-using-material-design-icons) (23,401 companies)
 
 ### Web Servers
-- [Companies using NGINX](./leads/companies-using-nginx) (1,358,120 companies)
-- [Companies using Apache](./leads/companies-using-apache) (1,347,744 companies)
-- [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,051,695 companies)
-- [Companies using OpenResty](./leads/companies-using-openresty) (219,076 companies)
+- [Companies using NGINX](./leads/companies-using-nginx) (1,358,097 companies)
+- [Companies using Apache](./leads/companies-using-apache) (1,347,712 companies)
+- [Companies using LiteSpeed](./leads/companies-using-litespeed) (1,051,681 companies)
+- [Companies using OpenResty](./leads/companies-using-openresty) (219,066 companies)
 - [Companies using Apache Tomcat](./leads/companies-using-apache-tomcat) (527 companies)
 
 
