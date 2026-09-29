@@ -10563,36 +10563,5 @@
       "eLand",
       "jQuery"
     ]
-  },
-  {
-    "domain": "fipcure.com",
-    "title": "The Cure for cat fip is now avaliable.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 79121,
-    "crawled_at": "2026-02-03T18:19:48.882306633Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apple Pay JS",
-      "Aruba",
-      "CDN JS",
-      "Cart.com",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "CookieYes",
-      "DAV",
-      "ETranslate",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Subversion",
-      "UTF-8",
-      "eLand",
-      "jQuery"
-    ]
   }
 ]
