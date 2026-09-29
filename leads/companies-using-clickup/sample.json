@@ -1,5 +1,32 @@
 [
   {
+    "domain": "minus.software",
+    "title": "Minus.app — Actually do work.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 8208,
+    "crawled_at": "2026-09-29T11:01:53.592495024Z",
+    "technologies": [
+      "ClickUp",
+      "Cloudinary",
+      "Content Delivery Network",
+      "Fastly",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Todoist",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "affylist.com",
     "title": "AffyList - Best Affiliate Programs Directory 2026 | Find High-Paying Opportunities",
     "business_name": "",
@@ -576,33 +603,6 @@
       "UptimeRobot",
       "Vercel",
       "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "minus.chat",
-    "title": "Minus.app — Actually do work.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 92,
-    "tech_spend": 8208,
-    "crawled_at": "2026-09-22T05:45:09.571392231Z",
-    "technologies": [
-      "ClickUp",
-      "Cloudinary",
-      "Content Delivery Network",
-      "Fastly",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Todoist",
-      "UTF-8",
       "shadcn ui"
     ]
   },
