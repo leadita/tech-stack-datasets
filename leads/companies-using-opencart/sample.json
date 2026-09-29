@@ -1,5 +1,82 @@
 [
   {
+    "domain": "underdogg.net",
+    "title": "Underdog Fashion & T-Shirt Printing",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 30159,
+    "crawled_at": "2026-09-29T16:17:06.563512772Z",
+    "technologies": [
+      "Apache",
+      "Cart.com",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "OpenCart",
+      "PHP",
+      "Subversion",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "youthplus.in",
+    "title": "Youthplus Innerwear",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 75040,
+    "crawled_at": "2026-09-29T05:02:22.753047403Z",
+    "technologies": [
+      "Apache",
+      "AutoComplete",
+      "Cart.com",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "OpenCart",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "benidurrer.ru",
+    "title": "Beni Durrer - Профессиональная косметика из Германии",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 30063,
+    "crawled_at": "2026-09-28T17:32:38.62521292Z",
+    "technologies": [
+      "ADFOX",
+      "Cart.com",
+      "CookieConsent",
+      "DAV",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Nginx",
+      "OpenCart",
+      "PHP",
+      "Tailwind CSS",
+      "UTF-8",
+      "Yandex Hosting",
+      "Yandex Metrika",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "whirly.in",
     "title": "Whirly",
     "business_name": "",
@@ -12252,76 +12329,6 @@
       "UTF-8",
       "W3.CSS",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "cubersports.com",
-    "title": "Cuber Sports | Manufacturer of Top Quality Sportswear & Goods",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 90040,
-    "crawled_at": "2026-05-19T23:26:14.980545344Z",
-    "technologies": [
-      "Cart.com",
-      "Fireblade",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "LiteSpeed",
-      "OpenCart",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "shoppretty.co.za",
-    "title": "Shoppretty",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 30003,
-    "crawled_at": "2026-05-19T22:59:19.98371871Z",
-    "technologies": [
-      "Cart.com",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "OpenCart",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "linered.co",
-    "title": "Red Line Co. | Manufacturers and Suppliers of all kind of Gloves",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 75040,
-    "crawled_at": "2026-05-19T19:08:20.00064386Z",
-    "technologies": [
-      "AutoComplete",
-      "Cart.com",
-      "Clare.AI",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "OpenCart",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]
