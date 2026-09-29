@@ -1,5 +1,21 @@
 [
   {
+    "domain": "nutrisursistemas.uy",
+    "title": "Apache Tomcat/8.5.5",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": "",
+    "crawled_at": "2026-09-29T01:34:16.475045953Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "DAV",
+      "Express",
+      "ISO/IEC 8859"
+    ]
+  },
+  {
     "domain": "codypero.com",
     "title": "Cody Pero — Portfolio",
     "business_name": "",
@@ -174,22 +190,6 @@
       "Thank You",
       "Twitter Ads",
       "University or College"
-    ]
-  },
-  {
-    "domain": "jctravel.es",
-    "title": "Apache Tomcat",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 144,
-    "crawled_at": "2026-09-22T20:33:47.197821261Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Express",
-      "Nginx",
-      "Parallels Plesk Panel"
     ]
   },
   {
@@ -13514,48 +13514,6 @@
       "SendGrid Widget",
       "UTF-8",
       "University or College",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "vstar-it.com",
-    "title": "About Us - Vstar",
-    "business_name": "Vstar",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 153784,
-    "crawled_at": "2026-02-04T02:12:52.200481381Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Apache Tomcat JK",
-      "Astra Theme",
-      "Contact Form Plugin",
-      "Elementor",
-      "ElementsKit Elementor",
-      "EmbedPress",
-      "GZIP Module",
-      "Gtranslate for Wordpress",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Oracle Cloud",
-      "PHP",
-      "Premium Addons for Elementor",
-      "QUIC",
-      "Royal Elementor Addons",
-      "Salesforce Hosted",
-      "Telegram",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "Ubuntu",
-      "W3 Total Cache",
-      "WPForms",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "YouTube",
       "jQuery"
     ]
   }
