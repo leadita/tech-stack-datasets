@@ -17564,39 +17564,5 @@
       "Tagembed",
       "YouTube"
     ]
-  },
-  {
-    "domain": "thai-yoga-massage.co.uk",
-    "title": "Thai Yoga Massage in London",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 28840,
-    "crawled_at": "2026-02-03T23:13:48.888413438Z",
-    "technologies": [
-      "BLR",
-      "Daily Deals",
-      "EKM",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "PHP",
-      "QUIC",
-      "Salesfire",
-      "Setmore",
-      "Tagembed",
-      "Tailwind CSS",
-      "Tumblr",
-      "Twitter Ads",
-      "YouTube",
-      "jsDelivr",
-      "uPress"
-    ]
   }
 ]
