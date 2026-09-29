@@ -1,5 +1,34 @@
 [
   {
+    "domain": "djfweb.com",
+    "title": "Cybersecurity for Small Businesses | K9 Webops",
+    "business_name": "",
+    "country": "",
+    "seo_score": 82,
+    "tech_spend": 17798,
+    "crawled_at": "2026-09-29T10:15:08.986997916Z",
+    "technologies": [
+      "AI Log",
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "InitiativeS",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Tailwind CSS",
+      "Termly",
+      "UTF-8",
+      "YouTube",
+      "Zoho CRM"
+    ]
+  },
+  {
     "domain": "3dcaresolutions.com",
     "title": "Insurance Agents in New York | T65 & Health Care Insurance3D Care Solutions LLC",
     "business_name": "3D Care Solutions LLC",
@@ -3107,35 +3136,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "k9cybersecurity.com",
-    "title": "Cybersecurity for Small Businesses | K9 Webops",
-    "business_name": "",
-    "country": "",
-    "seo_score": 82,
-    "tech_spend": 17798,
-    "crawled_at": "2026-08-24T14:29:03.368753676Z",
-    "technologies": [
-      "AI Log",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Duda",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "InitiativeS",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Tailwind CSS",
-      "Termly",
-      "UTF-8",
-      "YouTube",
-      "Zoho CRM"
     ]
   },
   {
