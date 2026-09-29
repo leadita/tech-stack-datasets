@@ -1,5 +1,27 @@
 [
   {
+    "domain": "hmnlifter.com",
+    "title": "High Quality Vacuum Lifter, Powerful Manufacturer - Harmony",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 77,
+    "tech_spend": "",
+    "crawled_at": "2026-09-29T05:46:47.492678523Z",
+    "technologies": [
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Mautic",
+      "Nginx",
+      "Tawk",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "YouTube",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "qomo-odm.com",
     "title": "Web Camera , Document Scanner, Book Scanner, Visual Presenter - Qomo",
     "business_name": "",
@@ -21188,24 +21210,6 @@
       "Vue.js",
       "WordPress",
       "WordPress Multisite",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "xmprofence.com",
-    "title": "China manufacturer | Ground mounting system, Roof solar accessories, Walkway, Guardrail, Fence",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 62,
-    "tech_spend": "",
-    "crawled_at": "2026-04-07T05:50:24.929245846Z",
-    "technologies": [
-      "GZIP Module",
-      "Mautic",
-      "Nginx",
-      "UTF-8",
-      "YouTube",
-      "eLand",
       "jQuery"
     ]
   }
