@@ -1,5 +1,29 @@
 [
   {
+    "domain": "sbatx.com",
+    "title": "Small Business Bookkeeping & Consulting",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 17359,
+    "crawled_at": "2026-09-28T18:10:24.765780537Z",
+    "technologies": [
+      "Call to Visit",
+      "Content Delivery Network",
+      "Elfsight",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "QUIC",
+      "QuickBooks Online",
+      "Sucuri Cloudproxy",
+      "Tailwind CSS",
+      "Wangsu"
+    ]
+  },
+  {
     "domain": "lcgcpa.com",
     "title": "Build wealth inside & outside your business | Legacy Consulting Group",
     "business_name": "",
