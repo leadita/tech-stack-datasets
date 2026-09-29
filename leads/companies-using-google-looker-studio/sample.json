@@ -1,5 +1,39 @@
 [
   {
+    "domain": "watershedsecurity.com",
+    "title": "Watershed-Home - Watershed Security",
+    "business_name": "Watershed Security",
+    "country": "USA",
+    "seo_score": 85,
+    "tech_spend": 15846,
+    "crawled_at": "2026-09-29T12:15:10.753879477Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "CoBlocks",
+      "Contact Form Plugin",
+      "Content Delivery Network",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "Fireblade",
+      "GoDaddy",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Looker Studio",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "mss-catalyst.co.id",
     "title": "MSS Website",
     "business_name": "",
@@ -6205,40 +6239,6 @@
       "UPS",
       "Visual Studio",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "watershedsecurity.com",
-    "title": "Watershed-Home - Watershed Security",
-    "business_name": "Watershed Security",
-    "country": "USA",
-    "seo_score": 75,
-    "tech_spend": 15846,
-    "crawled_at": "2026-02-04T03:13:48.866170802Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "CoBlocks",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "Divi",
-      "Elegant Themes",
-      "EmbedPress",
-      "Fireblade",
-      "GoDaddy",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Looker Studio",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
