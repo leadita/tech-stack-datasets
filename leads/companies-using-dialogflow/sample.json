@@ -9498,47 +9498,5 @@
       "Google Cloud DNS",
       "Google Font API"
     ]
-  },
-  {
-    "domain": "butcher.hk",
-    "title": "BUTCHER.HK | The Online Meat Purveyor",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 14836,
-    "crawled_at": "2026-02-04T08:22:53.078565131Z",
-    "technologies": [
-      "Affiliatly",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Baidu Cloud",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Dialogflow",
-      "Facebook Login",
-      "Facebook Reseller",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "MailChimp",
-      "MailMunch",
-      "NFOrce Internet",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "UTF-8",
-      "Yandex Hosting",
-      "Zoko",
-      "hCaptcha",
-      "jsDelivr",
-      "reCAPTCHA"
-    ]
   }
 ]
