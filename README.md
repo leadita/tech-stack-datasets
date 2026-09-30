@@ -37,7 +37,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Dext](./leads/companies-using-dext) (193 companies)
 
 ### Payments
-- [Companies using Stripe](./leads/companies-using-stripe) (70,387 companies)
+- [Companies using Stripe](./leads/companies-using-stripe) (70,386 companies)
 - [Companies using PayPal](./leads/companies-using-paypal) (67,338 companies)
 - [Companies using Adyen](./leads/companies-using-adyen) (230 companies)
 - [Companies using Braintree](./leads/companies-using-braintree) (2,676 companies)
@@ -49,7 +49,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Google Pay](./leads/companies-using-google-pay) (3,353 companies)
 
 ### Advertising
-- [Companies using Google Adsense](./leads/companies-using-google-adsense) (91,693 companies)
+- [Companies using Google Adsense](./leads/companies-using-google-adsense) (91,691 companies)
 - [Companies using Amazon Advertising](./leads/companies-using-amazon-advertising) (200 companies)
 - [Companies using AppNexus](./leads/companies-using-appnexus) (5,850 companies)
 - [Companies using Taboola](./leads/companies-using-taboola) (13,570 companies)
@@ -58,7 +58,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Media.net](./leads/companies-using-media.net) (10,612 companies)
 - [Companies using AdRoll](./leads/companies-using-adroll) (10,012 companies)
 - [Companies using The Trade Desk](./leads/companies-using-the-trade-desk) (196 companies)
-- [Companies using Advertising.com](./leads/companies-using-advertising.com) (4,389 companies)
+- [Companies using Advertising.com](./leads/companies-using-advertising.com) (4,388 companies)
 
 ### Affiliate Marketing
 - [Companies using Impact](./leads/companies-using-impact) (3,566 companies)
@@ -72,7 +72,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Refersion](./leads/companies-using-refersion) (1,228 companies)
 
 ### Analytics
-- [Companies using Google Analytics](./leads/companies-using-google-analytics) (2,745,995 companies)
+- [Companies using Google Analytics](./leads/companies-using-google-analytics) (2,745,979 companies)
 - [Companies using Mixpanel](./leads/companies-using-mixpanel) (7,255 companies)
 - [Companies using Amplitude](./leads/companies-using-amplitude) (7,573 companies)
 - [Companies using Heap](./leads/companies-using-heap) (2,310 companies)
@@ -84,7 +84,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 
 ### Artificial Intelligence
 - [Companies using OpenAI](./leads/companies-using-openai) (7,462 companies)
-- [Companies using Intercom](./leads/companies-using-intercom) (14,114 companies)
+- [Companies using Intercom](./leads/companies-using-intercom) (14,112 companies)
 - [Companies using Algolia](./leads/companies-using-algolia) (2,487 companies)
 - [Companies using Ada Support](./leads/companies-using-ada-support) (161 companies)
 - [Companies using Dialogflow](./leads/companies-using-dialogflow) (347 companies)
@@ -105,12 +105,12 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using AutoLeadStar](./leads/companies-using-autoleadstar) (68 companies)
 
 ### Backend & API Development
-- [Companies using PHP](./leads/companies-using-php) (2,749,171 companies)
-- [Companies using Python](./leads/companies-using-python) (140,628 companies)
+- [Companies using PHP](./leads/companies-using-php) (2,749,142 companies)
+- [Companies using Python](./leads/companies-using-python) (140,626 companies)
 - [Companies using Laravel](./leads/companies-using-laravel) (4,616 companies)
 - [Companies using Django](./leads/companies-using-django) (937 companies)
 - [Companies using Ruby on Rails](./leads/companies-using-ruby-on-rails) (8,696 companies)
-- [Companies using Express](./leads/companies-using-express) (3,195,674 companies)
+- [Companies using Express](./leads/companies-using-express) (3,195,653 companies)
 - [Companies using Firebase](./leads/companies-using-firebase) (8,538 companies)
 - [Companies using ASP.NET Core](./leads/companies-using-asp.net-core) (10,094 companies)
 - [Companies using Amazon API Gateway](./leads/companies-using-amazon-api-gateway) (870 companies)
@@ -127,7 +127,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Micro.blog](./leads/companies-using-micro.blog) (332 companies)
 
 ### Booking & Calendar
-- [Companies using Calendly](./leads/companies-using-calendly) (137,970 companies)
+- [Companies using Calendly](./leads/companies-using-calendly) (137,967 companies)
 - [Companies using OpenTable](./leads/companies-using-opentable) (6,637 companies)
 - [Companies using MindBody](./leads/companies-using-mindbody) (4,025 companies)
 - [Companies using Setmore](./leads/companies-using-setmore) (537 companies)

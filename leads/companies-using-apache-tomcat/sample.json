@@ -1,5 +1,54 @@
 [
   {
+    "domain": "palletplastikbatam.com",
+    "title": "PT. Royal Citra Bersama",
+    "business_name": "",
+    "country": "IDN",
+    "seo_score": 67,
+    "tech_spend": 2459,
+    "crawled_at": "2026-09-30T21:57:17.680307368Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "BootstrapMade",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "QUIC",
+      "UTF-8",
+      "WhatsApp Sharing"
+    ]
+  },
+  {
+    "domain": "mikhaildawkins.com",
+    "title": "Mikhail",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 65,
+    "tech_spend": 6228,
+    "crawled_at": "2026-09-30T00:28:15.629685123Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Bulma",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Create React App",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Pleroma",
+      "Python",
+      "SendGrid Widget",
+      "UTF-8",
+      "University or College",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "nutrisursistemas.uy",
     "title": "Apache Tomcat/8.5.5",
     "business_name": "",
@@ -13466,55 +13515,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "palletplastikbatam.com",
-    "title": "PT. Royal Citra Bersama",
-    "business_name": "",
-    "country": "IDN",
-    "seo_score": 67,
-    "tech_spend": 2459,
-    "crawled_at": "2026-02-05T04:22:15.670708351Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "BootstrapMade",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "QUIC",
-      "UTF-8",
-      "WhatsApp Sharing"
-    ]
-  },
-  {
-    "domain": "mikhaildawkins.com",
-    "title": "Mikhail",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 65,
-    "tech_spend": 6228,
-    "crawled_at": "2026-02-04T11:58:35.556088913Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Bulma",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Create React App",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Pleroma",
-      "Python",
-      "SendGrid Widget",
-      "UTF-8",
-      "University or College",
-      "jQuery"
     ]
   }
 ]
