@@ -1,5 +1,52 @@
 [
   {
+    "domain": "silentauctionvacations.com",
+    "title": "Charity Getaways - Consignment Vacations | Event Support - Charity Getaways",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 51760,
+    "crawled_at": "2026-09-30T15:59:03.689396714Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Gridsome",
+      "Nginx",
+      "QUIC",
+      "SMC",
+      "Tailwind CSS",
+      "Ubuntu",
+      "eLand",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "tgg.com.pl",
+    "title": "Strona główna - TGG Fundamenty",
+    "business_name": "",
+    "country": "POL",
+    "seo_score": 57,
+    "tech_spend": 3,
+    "crawled_at": "2026-09-30T10:42:43.472934633Z",
+    "technologies": [
+      "Financial Services Guide",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Gridsome",
+      "LiteSpeed"
+    ]
+  },
+  {
     "domain": "weber-ft.at",
     "title": "Weber Fertigungstechnik",
     "business_name": "",
@@ -215,35 +262,6 @@
       "Gridsome",
       "Netlify",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "charitygetaways.com",
-    "title": "Charity Getaways - Consignment Vacations | Event Support - Charity Getaways",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 51760,
-    "crawled_at": "2026-09-27T02:14:53.719010465Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Gridsome",
-      "Nginx",
-      "QUIC",
-      "SMC",
-      "Tailwind CSS",
-      "Ubuntu",
-      "eLand",
-      "jsDelivr",
-      "shadcn ui"
     ]
   },
   {
@@ -11939,35 +11957,6 @@
       "Vercel",
       "Yandex Hosting",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "maxpaul.us",
-    "title": "Paulus Palace",
-    "business_name": "",
-    "country": "VEN",
-    "seo_score": 72,
-    "tech_spend": 8888,
-    "crawled_at": "2026-03-14T12:24:20.169768724Z",
-    "technologies": [
-      "CDN JS",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Gridsome",
-      "Netlify",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Visual Studio"
     ]
   }
 ]

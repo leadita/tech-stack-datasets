@@ -1,5 +1,57 @@
 [
   {
+    "domain": "jobsconnected.io",
+    "title": "Jobs Connected | Host your in-person, hybrid, and virtual job fairs with us",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 5250,
+    "crawled_at": "2026-09-30T22:20:39.97286316Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Perl",
+      "Storyblocks",
+      "Stripe",
+      "Tailwind CSS",
+      "University or College",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "contentbytes.pl",
+    "title": "Content community meetups in Kraków, Poland | Content Bytes",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 600,
+    "crawled_at": "2026-09-30T05:51:24.171367153Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "fincloud.io",
     "title": "Technical & business consulting for capital markets | Fincloud",
     "business_name": "",
@@ -12675,42 +12727,6 @@
       "GZIP Module",
       "Perl",
       "monday.com"
-    ]
-  },
-  {
-    "domain": "thematrixcrop.com",
-    "title": "The Matrix Corporation | The Matrix Corporation",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2026-04-06T17:05:19.981116377Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "jcloud365.top",
-    "title": "Jewelry Cloud 365",
-    "business_name": "",
-    "country": "",
-    "seo_score": 27,
-    "tech_spend": "",
-    "crawled_at": "2026-04-06T15:50:19.983208641Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Perl",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
