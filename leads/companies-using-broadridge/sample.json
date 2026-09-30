@@ -1,5 +1,40 @@
 [
   {
+    "domain": "efama.org",
+    "title": "| EFAMA",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 75,
+    "tech_spend": 506730,
+    "crawled_at": "2026-09-29T23:11:55.006632598Z",
+    "technologies": [
+      "Add to Any",
+      "Amazon",
+      "Amazon S3 CDN",
+      "Broadridge",
+      "Content Delivery Network",
+      "Drupal",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Microsoft Teams",
+      "Needle",
+      "Nginx",
+      "No-Q",
+      "PHP",
+      "Storyblocks",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8",
+      "YouTube",
+      "eLand",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "optimalwealthmanagement.co.uk",
     "title": "Optimal Wealth Management Limited | M&G Advice",
     "business_name": "",
@@ -3445,40 +3480,6 @@
       "Tailwind CSS",
       "UTF-8",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "efama.org",
-    "title": "| EFAMA",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 100501,
-    "crawled_at": "2026-02-04T10:39:07.661276671Z",
-    "technologies": [
-      "Add to Any",
-      "Amazon",
-      "Amazon S3 CDN",
-      "Broadridge",
-      "Content Delivery Network",
-      "Drupal",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Needle",
-      "Nginx",
-      "No-Q",
-      "PHP",
-      "Storyblocks",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "University or College",
-      "YouTube",
-      "eLand",
-      "jsDelivr"
     ]
   }
 ]
