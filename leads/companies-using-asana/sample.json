@@ -1,5 +1,40 @@
 [
   {
+    "domain": "visolutions-llc.com",
+    "title": "Vi Solutions",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 26563,
+    "crawled_at": "2026-09-29T23:11:54.981875065Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "Asana",
+      "Calendly",
+      "ClickOn",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Related Website Sites",
+      "K2F",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Ntent",
+      "SMC",
+      "Sapper",
+      "Schema Plugin",
+      "Subversion",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "plentyofchicks.net",
     "title": "Plenty Of Chicks 💖 Where Hearts Connect & Sparks Fly!",
     "business_name": "",
@@ -20348,42 +20383,6 @@
       "Trustpilot Reviews for WordPress",
       "UTF-8",
       "eLand"
-    ]
-  },
-  {
-    "domain": "matthewjefferies.com",
-    "title": "Matthew Jefferies | Workforce Strategist. AI Practitioner. Author.",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 237174,
-    "crawled_at": "2026-04-08T07:59:20.003881012Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apache",
-      "Asana",
-      "Content Delivery Network",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Klarna",
-      "NFOrce Internet",
-      "Next.js",
-      "OpenAI",
-      "Perl",
-      "Pleroma",
-      "QUIC",
-      "SMC",
-      "Salesforce Hosted",
-      "TUNE",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]

@@ -1,5 +1,39 @@
 [
   {
+    "domain": "visionsawardcraft.cloud",
+    "title": "Visions Awardcraft Cloud Portal",
+    "business_name": "Visions Awardcraft",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 307,
+    "crawled_at": "2026-09-30T14:18:02.512510557Z",
+    "technologies": [
+      "Bulma",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Coming Soon Page",
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Looker Studio",
+      "Google My Business",
+      "Google Related Website Sites",
+      "HostGator",
+      "Microdata for Google Shopping",
+      "Microsoft 365",
+      "Microsoft Azure",
+      "Microsoft Teams",
+      "PHP",
+      "PWA",
+      "Sitelinks Search Box",
+      "Tailwind CSS",
+      "Trello",
+      "UPS",
+      "Visual Studio",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "sayuui.com",
     "title": "Sayuui - Anime key art and promotional illustration for character-driven entertainment",
     "business_name": "",
@@ -19790,31 +19824,6 @@
       "Trello",
       "Twitter Ads",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "koyo.gay",
-    "title": "Koyo_Draka's Commission",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 60040,
-    "crawled_at": "2026-04-24T06:14:20.007650258Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Apache",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Mastodon",
-      "Onyx Internet",
-      "SMC",
-      "Telegram",
-      "Trello",
-      "Twitter Ads"
     ]
   }
 ]
