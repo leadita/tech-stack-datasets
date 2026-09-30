@@ -1,5 +1,26 @@
 [
   {
+    "domain": "philippinerealestate.app",
+    "title": "Welcome to PhilippineProperties.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 22120,
+    "crawled_at": "2026-09-30T04:24:32.978079183Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Prospective",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "stranger-things.com",
     "title": "Digital Real Estate Specialist",
     "business_name": "",
@@ -252,27 +273,6 @@
       "Microdata for Google Shopping",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "visaya.org",
-    "title": "Welcome to PhilippineProperties.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 22120,
-    "crawled_at": "2026-09-16T16:09:46.206328258Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Prospective",
-      "QUIC",
-      "UTF-8"
     ]
   },
   {
@@ -4545,24 +4545,6 @@
       "Google Analytics",
       "Google Tag Manager",
       "Instagram Follow Button",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "leadjenn.ai",
-    "title": "LeadJenn.ai",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 50,
-    "tech_spend": 135,
-    "crawled_at": "2026-02-04T20:04:48.87450432Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "QUIC",
       "UTF-8"
     ]
   }
