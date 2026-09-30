@@ -1,5 +1,30 @@
 [
   {
+    "domain": "realworld1.pl",
+    "title": "realworld one - PERFORMANCE STARTS WITH EXECUTION",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 35092,
+    "crawled_at": "2026-09-29T22:56:09.153302384Z",
+    "technologies": [
+      "1Password",
+      "Alternate Protocol",
+      "Framer Sites",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google My Business",
+      "Google Tag Manager",
+      "KVH",
+      "Lever",
+      "Ntent",
+      "Yandex Hosting",
+      "YouTube",
+      "Zeald"
+    ]
+  },
+  {
     "domain": "centerforaisafety.org",
     "title": "Center for AI Safety (CAIS)",
     "business_name": "",
@@ -228,31 +253,6 @@
       "WP Engine",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "real-world.com",
-    "title": "realworld one - PERFORMANCE STARTS WITH EXECUTION",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 35092,
-    "crawled_at": "2026-09-26T10:29:32.27649044Z",
-    "technologies": [
-      "1Password",
-      "Alternate Protocol",
-      "Framer Sites",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Google Tag Manager",
-      "KVH",
-      "Lever",
-      "Ntent",
-      "Yandex Hosting",
-      "YouTube",
-      "Zeald"
     ]
   },
   {
