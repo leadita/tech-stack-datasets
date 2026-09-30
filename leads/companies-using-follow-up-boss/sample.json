@@ -1,5 +1,26 @@
 [
   {
+    "domain": "heytailorpvp.com",
+    "title": "Tailor — Every lead hears from you first, by name, on video",
+    "business_name": "Tailor",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 24992,
+    "crawled_at": "2026-09-30T19:49:59.307625858Z",
+    "technologies": [
+      "Astro",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "DAV",
+      "Follow Up Boss",
+      "KVH",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "metropolitanholdings.com",
     "title": "Home | Metropolitan Holdings",
     "business_name": "Metropolitan Holdings",
@@ -746,28 +767,6 @@
       "YouTube",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "gettailorpvp.com",
-    "title": "Tailor — Every lead hears from you first, by name, on video",
-    "business_name": "Tailor",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 24992,
-    "crawled_at": "2026-09-10T03:30:50.112707964Z",
-    "technologies": [
-      "Astro",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "DAV",
-      "Follow Up Boss",
-      "KVH",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Tailwind CSS"
     ]
   },
   {
