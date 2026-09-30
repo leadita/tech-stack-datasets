@@ -1,5 +1,61 @@
 [
   {
+    "domain": "kristenstarke.com",
+    "title": "Create Next App",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 150000,
+    "crawled_at": "2026-09-30T05:23:04.040822221Z",
+    "technologies": [
+      "Content Delivery Network",
+      "ElementUI",
+      "Instagram Follow Button",
+      "Netlify",
+      "Next.js",
+      "Pleroma",
+      "Salesforce Commerce Cloud",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "teoxane.co.uk",
+    "title": "Teoxane UK: Advanced Hyaluronic Acid Skincare & Anti-Aging Solutions | Teoxane",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 847590,
+    "crawled_at": "2026-09-30T01:11:29.504502842Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Apture Linking Platform",
+      "CQuotient",
+      "Chakra UI",
+      "CloudFront",
+      "Content Delivery Network",
+      "ContentBox",
+      "Express",
+      "Fireblade",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "PWA",
+      "Quotient",
+      "Salesforce",
+      "Salesforce Commerce Cloud",
+      "Salesforce Experience Cloud",
+      "Salesforce Hosted",
+      "Thank You",
+      "UTF-8",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "iuman.eu",
     "title": "Intimissimi: Italian Underwear, Lingerie & Sleepwear",
     "business_name": "",
@@ -4511,44 +4567,6 @@
       "YouTube",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "teoxaneshop.co.uk",
-    "title": "Teoxane UK: Advanced Hyaluronic Acid Skincare & Anti-Aging Solutions | Teoxane",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 852590,
-    "crawled_at": "2026-05-29T12:30:22.570038616Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Apture Linking Platform",
-      "CQuotient",
-      "Chakra UI",
-      "CloudFront",
-      "Content Delivery Network",
-      "ContentBox",
-      "DC74",
-      "Express",
-      "Fireblade",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "PWA",
-      "Quotient",
-      "Salesforce",
-      "Salesforce Commerce Cloud",
-      "Salesforce Experience Cloud",
-      "Salesforce Hosted",
-      "Thank You",
-      "UTF-8",
-      "YouTube",
-      "eLand"
     ]
   },
   {
@@ -17037,25 +17055,6 @@
       "Umbler",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "kristenstarke.com",
-    "title": "Create Next App",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 150000,
-    "crawled_at": "2026-02-04T16:51:44.479573196Z",
-    "technologies": [
-      "Content Delivery Network",
-      "ElementUI",
-      "Instagram Follow Button",
-      "Netlify",
-      "Next.js",
-      "Pleroma",
-      "Salesforce Commerce Cloud",
-      "UTF-8"
     ]
   }
 ]
