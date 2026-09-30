@@ -1,5 +1,37 @@
 [
   {
+    "domain": "bridgitbeyer.com",
+    "title": "Bridgit Beyer: Architectural and Interior Photographer",
+    "business_name": "Brett Beyer Photography",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 81432,
+    "crawled_at": "2026-09-30T07:07:13.905636591Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "DAV",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Newsletter for Wordpress",
+      "Publii",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "aligned-audio.de",
     "title": "aligned audio engineering",
     "business_name": "aligned audio engineering",
@@ -4091,39 +4123,6 @@
       "Vector Internet Services",
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "brettbeyerphoto.com",
-    "title": "Bridgit Beyer: Architectural and Interior Photographer",
-    "business_name": "Brett Beyer Photography",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 81528,
-    "crawled_at": "2026-05-04T04:09:03.833172712Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "DAV",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "Publii",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   },
   {

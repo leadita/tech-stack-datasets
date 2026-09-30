@@ -1,5 +1,22 @@
 [
   {
+    "domain": "samofamcreative.com",
+    "title": "SamoFam Creative Media | Edmonton Web Design and Development",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 99,
+    "crawled_at": "2026-09-29T18:57:42.445839874Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Font Awesome",
+      "Hasnode",
+      "Netlify",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "getzeni.ai",
     "title": "Zeni: The #1 AI Bookkeeping Software | AI Accounting",
     "business_name": "Zeni",
@@ -11791,77 +11808,6 @@
       "Vector Internet Services",
       "Vercel",
       "WordPress",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "samofamcreative.com",
-    "title": "SamoFam Creative Media | Edmonton Web Design and Development",
-    "business_name": "",
-    "country": "",
-    "seo_score": 32,
-    "tech_spend": 99,
-    "crawled_at": "2026-02-04T07:34:48.874305462Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Font Awesome",
-      "Hasnode",
-      "Netlify",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "suprabhat.site",
-    "title": "Suprabhat's Portfolio",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 26776,
-    "crawled_at": "2026-02-04T05:58:48.869644594Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google My Business",
-      "Hasnode",
-      "INETu",
-      "Instagram Follow Button",
-      "Oddle",
-      "Python",
-      "QUIC",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "reactkolkata.com",
-    "title": "React Kolkata Community | Meetups, Events & Learning",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 15905,
-    "crawled_at": "2026-02-04T05:06:12.07056102Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hasnode",
-      "InitiativeS",
-      "Netlify",
-      "Next.js",
-      "QUIC",
-      "Tailwind CSS",
-      "Tally",
-      "UTF-8",
-      "YouTube",
       "shadcn ui"
     ]
   }
