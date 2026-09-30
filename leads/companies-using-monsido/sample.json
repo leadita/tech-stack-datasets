@@ -1,5 +1,38 @@
 [
   {
+    "domain": "knoxvotes.org",
+    "title": "Election Commission - Knox County Tennessee Government",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 12938,
+    "crawled_at": "2026-09-29T20:26:48.292468221Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "DAV",
+      "ETranslate",
+      "Facebook Embedded Posts",
+      "GTranslate",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Microsoft 365",
+      "Monsido",
+      "Nginx",
+      "PHP",
+      "Termly",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "coldstreamfarm.net",
     "title": "Wholesale Shrub & Bare Root Tree Nursery in Michigan | Cold Stream Farm",
     "business_name": "Cold Stream Farm",
@@ -18487,39 +18520,6 @@
       "Wufoo",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "knoxvotes.org",
-    "title": "Election Commission - Knox County Tennessee Government",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 12938,
-    "crawled_at": "2026-02-04T08:28:48.876544322Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CloudFront",
-      "Content Delivery Network",
-      "DAV",
-      "ETranslate",
-      "Facebook Embedded Posts",
-      "GTranslate",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microsoft 365",
-      "Monsido",
-      "Nginx",
-      "PHP",
-      "Termly",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
