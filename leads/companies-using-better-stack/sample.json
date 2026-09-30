@@ -1,5 +1,38 @@
 [
   {
+    "domain": "telemote.us",
+    "title": "Telemote Service status",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 9450,
+    "crawled_at": "2026-09-30T10:42:43.463492187Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Barchart",
+      "Better Stack",
+      "Bing Cashback",
+      "Bing Conversion Tracking",
+      "Cloudflare",
+      "Content Delivery Network",
+      "DoubleClick Bid Manager",
+      "Facebook Reseller",
+      "Fastly",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Heroku",
+      "Pagekit",
+      "Plausible Analytics",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "Twitter Analytics",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "status.snk.de",
     "title": "Uptime Monitoring by Better Stack",
     "business_name": "",
@@ -4970,40 +5003,6 @@
       "YouTube",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "telemote.us",
-    "title": "Telemote Service status",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 9450,
-    "crawled_at": "2026-02-04T20:40:48.879900422Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Barchart",
-      "Better Stack",
-      "Bing Cashback",
-      "Bing Conversion Tracking",
-      "Cloudflare",
-      "Content Delivery Network",
-      "DoubleClick Bid Manager",
-      "Facebook Reseller",
-      "Fastly",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Heroku",
-      "Nginx",
-      "Pagekit",
-      "Plausible Analytics",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "Twitter Analytics",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
