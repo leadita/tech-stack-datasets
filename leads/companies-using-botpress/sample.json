@@ -1,5 +1,30 @@
 [
   {
+    "domain": "nolimitadvisory.com.au",
+    "title": "No Limit Advisory - The next-gen accounting practice | No Limit Advisory",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 77,
+    "tech_spend": 2590,
+    "crawled_at": "2026-10-01T07:57:56.679546797Z",
+    "technologies": [
+      "Advisory Board",
+      "Agoda",
+      "Botpress",
+      "Calendly",
+      "Content Delivery Network",
+      "Gatsby JS",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Netlify",
+      "No-Q",
+      "Perl",
+      "QUIC",
+      "Styled Components",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "autov.no",
     "title": "Bruktbil med garanti i Drammen | Lewl Auto",
     "business_name": "",
@@ -17835,44 +17860,6 @@
       "UTF-8",
       "Vector Internet Services",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "neurovantage.io",
-    "title": "NeuroVantage",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 37124,
-    "crawled_at": "2026-04-29T11:50:20.027535437Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Authorize.net",
-      "Better Lead Generation Services",
-      "Botpress",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Fireblade",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google Tag Manager",
-      "NFOrce Internet",
-      "Nuxt.js",
-      "UTF-8",
-      "Unsplash"
     ]
   }
 ]
