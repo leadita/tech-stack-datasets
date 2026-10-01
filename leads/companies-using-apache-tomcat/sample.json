@@ -1,5 +1,80 @@
 [
   {
+    "domain": "standardsolutions.in",
+    "title": "Standard Solutions | IT Services | Digital Transformation",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-10-01T21:04:53.950292403Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "GZIP Module",
+      "ISO/IEC 8859",
+      "Tailwind CSS",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "keralaskillregistry.com",
+    "title": "Home | Kerala Skill Registry",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 55,
+    "tech_spend": 156,
+    "crawled_at": "2026-10-01T19:17:47.497833683Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Bulma",
+      "IcoMoon",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "apdiweb.com",
+    "title": "APdiweb – Aplicaciones y Diseño Web",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 277,
+    "crawled_at": "2026-10-01T14:17:02.517985036Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Apache Tomcat JK",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Contact Form Plugin",
+      "EmbedPress",
+      "GZIP Module",
+      "Go Pricing",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "LiteSpeed",
+      "PHP",
+      "Parallels Plesk Panel",
+      "Slider Revolution",
+      "Tailwind CSS",
+      "The7",
+      "Theme In WP",
+      "UTF-8",
+      "Visual Composer Ultimate Addons",
+      "WPBakery",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "palletplastikbatam.com",
     "title": "PT. Royal Citra Bersama",
     "business_name": "",
@@ -13439,82 +13514,6 @@
       "WordPress Multisite",
       "WordPress Related Posts",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "standardsolutions.in",
-    "title": "Standard Solutions | IT Services | Digital Transformation",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-02-05T22:13:48.885618132Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "GZIP Module",
-      "ISO/IEC 8859",
-      "Tailwind CSS",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "keralaskillregistry.com",
-    "title": "Home | Kerala Skill Registry",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 55,
-    "tech_spend": 156,
-    "crawled_at": "2026-02-05T21:04:38.132647833Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Bulma",
-      "IcoMoon",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "apdiweb.com",
-    "title": "APdiweb – Aplicaciones y Diseño Web",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 277,
-    "crawled_at": "2026-02-05T16:58:48.871037191Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Apache Tomcat JK",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "GZIP Module",
-      "Go Pricing",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "LiteSpeed",
-      "PHP",
-      "Parallels Plesk Panel",
-      "QUIC",
-      "Slider Revolution",
-      "Tailwind CSS",
-      "The7",
-      "Theme In WP",
-      "UTF-8",
-      "Visual Composer Ultimate Addons",
-      "WPBakery",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
