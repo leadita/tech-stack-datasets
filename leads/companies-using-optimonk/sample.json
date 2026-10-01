@@ -1,5 +1,34 @@
 [
   {
+    "domain": "saasiest2026.com",
+    "title": "SaaSiest 2027",
+    "business_name": "",
+    "country": "SWE",
+    "seo_score": 77,
+    "tech_spend": 284248,
+    "crawled_at": "2026-10-01T15:39:12.911487427Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Aruba",
+      "CloudFront",
+      "DAV",
+      "Elfsight",
+      "Express",
+      "Google My Business",
+      "Google Tag Manager",
+      "OptiMonk",
+      "Salesforce",
+      "Salesforce Experience Cloud",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8",
+      "UpCloud",
+      "eLand"
+    ]
+  },
+  {
     "domain": "chatblender.vip",
     "title": "Ecommerce Marketing Agency - Chat Blender",
     "business_name": "Chat Blender",
@@ -9839,35 +9868,6 @@
       "WordPress Related Posts",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "saasiest2022.com",
-    "title": "SaaSiest 2027",
-    "business_name": "",
-    "country": "SWE",
-    "seo_score": 77,
-    "tech_spend": 284248,
-    "crawled_at": "2026-07-30T06:17:56.177686103Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Aruba",
-      "CloudFront",
-      "DAV",
-      "Elfsight",
-      "Express",
-      "Google My Business",
-      "Google Tag Manager",
-      "OptiMonk",
-      "Salesforce",
-      "Salesforce Experience Cloud",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "UpCloud",
-      "eLand"
     ]
   },
   {
