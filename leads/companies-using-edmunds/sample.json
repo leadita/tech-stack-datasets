@@ -1,5 +1,38 @@
 [
   {
+    "domain": "boiseautogroup.com",
+    "title": "Used Cars for Sale in Boise, ID | Boise Auto Group",
+    "business_name": "",
+    "country": "JPN",
+    "seo_score": 77,
+    "tech_spend": 23337,
+    "crawled_at": "2026-09-30T17:24:06.81217586Z",
+    "technologies": [
+      "AAPT",
+      "Edmunds",
+      "Financial Services Guide",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "No-Q",
+      "QUIC",
+      "Subversion",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "palmettoalfaromeofiat.com",
     "title": "New Alfa Romeo and Pre-Owned Car Dealer Serving North Miami FL | Palmetto Alfa Romeo-FIAT",
     "business_name": "",
@@ -5900,40 +5933,6 @@
       "YourAdChoices.com",
       "eLand",
       "iPerceptions"
-    ]
-  },
-  {
-    "domain": "boiseautogroup.com",
-    "title": "Boise Auto Group - Car Dealership in Boise, ID",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 72,
-    "tech_spend": 73007,
-    "crawled_at": "2026-02-05T01:19:48.859960285Z",
-    "technologies": [
-      "AAPT",
-      "DC74",
-      "Edmunds",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "K2F",
-      "KVH",
-      "Nginx",
-      "QUIC",
-      "Subversion",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
