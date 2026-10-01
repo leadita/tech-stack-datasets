@@ -1,5 +1,35 @@
 [
   {
+    "domain": "cloudcommerce.co",
+    "title": "Cloudcommerce",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 1779,
+    "crawled_at": "2026-10-01T11:53:18.37318149Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Astra Theme",
+      "Breezy HR",
+      "Elementor",
+      "EmbedPress",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Related Posts",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "sorion.com",
     "title": "Sorion",
     "business_name": "",
@@ -17298,36 +17328,6 @@
       "Workday",
       "eLand",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "cloudcommerce.co",
-    "title": "Cloudcommerce",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 1779,
-    "crawled_at": "2026-02-05T15:18:21.881612608Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Astra Theme",
-      "Breezy HR",
-      "Elementor",
-      "EmbedPress",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "jQuery"
     ]
   }
 ]
