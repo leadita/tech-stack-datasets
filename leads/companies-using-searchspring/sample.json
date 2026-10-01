@@ -6076,45 +6076,5 @@
       "arsys.es",
       "jQuery"
     ]
-  },
-  {
-    "domain": "tagyourassets.com",
-    "title": "Custom Asset Tags with Barcodes, Logos & More - Free Shipping",
-    "business_name": "TagYourAssets.com",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 54107,
-    "crawled_at": "2026-02-05T07:13:59.784495356Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "AWS WAF Challenge",
-      "Bing Cashback",
-      "Bing Conversion Tracking",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Dialpad",
-      "Express",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Fireblade",
-      "FormSite",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "Parcel",
-      "PartnerPage",
-      "Perl",
-      "SearchSpring",
-      "Shopper Approved",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
   }
 ]

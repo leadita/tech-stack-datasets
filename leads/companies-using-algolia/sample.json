@@ -1,5 +1,43 @@
 [
   {
+    "domain": "hiddenvalleyfarmmd.org",
+    "title": "Homepage Hidden Valley Farm Metropolitan District Nos. 1-4",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 22903,
+    "crawled_at": "2026-10-01T16:31:22.681882711Z",
+    "technologies": [
+      "Algolia",
+      "Amazon CloudFront",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "CivicPlus",
+      "CloudFront",
+      "Corporate Governance and Regulatory Compliance",
+      "ETranslate",
+      "GTranslate",
+      "GZIP Module",
+      "GetResponse",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "Imgix",
+      "New Relic",
+      "Nginx",
+      "PHP",
+      "Pendo",
+      "QUIC",
+      "UTF-8",
+      "eLand",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "bodypaint3d.co.uk",
     "title": "Maxon: Filmmaking, Motion Design, Animation, VFX, and Editing Software",
     "business_name": "",
@@ -21420,39 +21458,6 @@
       "YouTube",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "mountainbrookmd.org",
-    "title": "Homepage Mountain Brook Metropolitan District",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 12303,
-    "crawled_at": "2026-05-21T05:47:19.992972375Z",
-    "technologies": [
-      "Algolia",
-      "Amazon CloudFront",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "CloudFront",
-      "GZIP Module",
-      "GetResponse",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Imgix",
-      "New Relic",
-      "Nginx",
-      "PHP",
-      "Pendo",
-      "QUIC",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   }
 ]
