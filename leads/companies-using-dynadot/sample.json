@@ -1,5 +1,52 @@
 [
   {
+    "domain": "www.atxcamper.com",
+    "title": "This website or DOMAIN NAME may be for sale.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 76500,
+    "crawled_at": "2026-10-01T03:04:52.674257966Z",
+    "technologies": [
+      "Camp",
+      "Cart.com",
+      "Dynadot",
+      "ElementUI",
+      "Fast",
+      "GZIP Module",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "PointDNS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "nic.bar",
+    "title": "Punto 2012 .BAR .REST | .rest and .bar domain names",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 26268,
+    "crawled_at": "2026-10-01T01:29:00.520854925Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "Dynadot",
+      "GZIP Module",
+      "GoDaddy",
+      "Google Analytics",
+      "Google Tag Manager",
+      "K2F",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "philippinerealestate.app",
     "title": "Welcome to PhilippineProperties.com",
     "business_name": "",
@@ -321,27 +368,6 @@
     ]
   },
   {
-    "domain": "freestuff.club",
-    "title": "This website or DOMAIN NAME may be for sale.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 76500,
-    "crawled_at": "2026-09-14T20:39:17.426098882Z",
-    "technologies": [
-      "Camp",
-      "Cart.com",
-      "Dynadot",
-      "ElementUI",
-      "Fast",
-      "GZIP Module",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "PointDNS",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "roseandwren.consulting",
     "title": "Rose and Wren Consulting PLLC",
     "business_name": "",
@@ -443,31 +469,6 @@
       "WordPress",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "register.rest",
-    "title": "Punto 2012 .BAR .REST | .rest and .bar domain names",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 1268,
-    "crawled_at": "2026-08-25T06:45:06.497246271Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Duda",
-      "Dynadot",
-      "GZIP Module",
-      "GoDaddy",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "Website Tonight"
     ]
   },
   {
