@@ -1,5 +1,33 @@
 [
   {
+    "domain": "igconnect.eu",
+    "title": "Immunology | CSL Behring Expert Portal",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 65,
+    "tech_spend": 17008,
+    "crawled_at": "2026-10-01T07:44:23.322451735Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Add to Any",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "IcoMoon",
+      "OneTrust Domain Verification",
+      "Smartsheet",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "camsen.edu",
     "title": "Camsen Career Institute Powered by | School of EMS",
     "business_name": "",
@@ -2082,37 +2110,6 @@
       "WordPress",
       "WordPress Multisite",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "haemexpert.eu",
-    "title": "Haematology | CSL Behring Expert Portal",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 57008,
-    "crawled_at": "2026-08-19T02:33:46.787592025Z",
-    "technologies": [
-      "Add to Any",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "DAV",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "OneTrust Domain Verification",
-      "SMC",
-      "Smartsheet",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "jsDelivr",
-      "shadcn ui"
     ]
   },
   {
@@ -17017,47 +17014,6 @@
       "YouTube",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "coxcp.io",
-    "title": "Secondary Market Liquidity for Non-Traded Funds | Cox Capital Partners",
-    "business_name": "Cox Capital Partners",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 103510,
-    "crawled_at": "2026-02-05T15:39:40.762606812Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Ntent",
-      "POWr",
-      "PWA",
-      "QUIC",
-      "SMC",
-      "Sentry",
-      "SiteW",
-      "Sitelinks Search Box",
-      "Smartsheet",
-      "Twitter Ads",
-      "UTF-8",
-      "UpContent",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "mlcom"
     ]
   }
 ]
