@@ -38,10 +38,10 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 
 ### Payments
 - [Companies using Stripe](./leads/companies-using-stripe) (70,300 companies)
-- [Companies using PayPal](./leads/companies-using-paypal) (67,281 companies)
+- [Companies using PayPal](./leads/companies-using-paypal) (67,280 companies)
 - [Companies using Adyen](./leads/companies-using-adyen) (230 companies)
 - [Companies using Braintree](./leads/companies-using-braintree) (2,670 companies)
-- [Companies using Authorize.net](./leads/companies-using-authorize.net) (114,076 companies)
+- [Companies using Authorize.net](./leads/companies-using-authorize.net) (114,075 companies)
 - [Companies using Klarna](./leads/companies-using-klarna) (5,282 companies)
 - [Companies using Affirm](./leads/companies-using-affirm) (2,676 companies)
 - [Companies using Afterpay](./leads/companies-using-afterpay) (6,201 companies)
@@ -49,11 +49,11 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Google Pay](./leads/companies-using-google-pay) (3,350 companies)
 
 ### Advertising
-- [Companies using Google Adsense](./leads/companies-using-google-adsense) (91,540 companies)
+- [Companies using Google Adsense](./leads/companies-using-google-adsense) (91,539 companies)
 - [Companies using Amazon Advertising](./leads/companies-using-amazon-advertising) (200 companies)
 - [Companies using AppNexus](./leads/companies-using-appnexus) (5,851 companies)
 - [Companies using Taboola](./leads/companies-using-taboola) (13,586 companies)
-- [Companies using Outbrain](./leads/companies-using-outbrain) (3,036 companies)
+- [Companies using Outbrain](./leads/companies-using-outbrain) (3,035 companies)
 - [Companies using Criteo](./leads/companies-using-criteo) (4,005 companies)
 - [Companies using Media.net](./leads/companies-using-media.net) (10,593 companies)
 - [Companies using AdRoll](./leads/companies-using-adroll) (10,006 companies)
@@ -72,7 +72,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Refersion](./leads/companies-using-refersion) (1,228 companies)
 
 ### Analytics
-- [Companies using Google Analytics](./leads/companies-using-google-analytics) (2,743,579 companies)
+- [Companies using Google Analytics](./leads/companies-using-google-analytics) (2,743,563 companies)
 - [Companies using Mixpanel](./leads/companies-using-mixpanel) (7,247 companies)
 - [Companies using Amplitude](./leads/companies-using-amplitude) (7,567 companies)
 - [Companies using Heap](./leads/companies-using-heap) (2,305 companies)
