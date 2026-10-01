@@ -1,5 +1,55 @@
 [
   {
+    "domain": "interfyconnect.com",
+    "title": "Interfy | Making Construction Move Faster",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 43396,
+    "crawled_at": "2026-10-01T10:26:19.194119872Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "QUIC",
+      "Sage Intacct",
+      "Tailwind CSS",
+      "UTF-8",
+      "WF Cookie Consent",
+      "Webflow",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "donorelf.com",
+    "title": "Enjoyably Simple Missionary Software | DonorElf",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 228070,
+    "crawled_at": "2026-09-30T16:15:27.765990515Z",
+    "technologies": [
+      "Fireblade",
+      "GZIP Module",
+      "Idaq",
+      "KVH",
+      "No-Q",
+      "QUIC",
+      "Sage Intacct",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "University or College",
+      "Vimeo",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "aimsiofieldsolution.com",
     "title": "Field Operations & Service Management Software | Aimsio",
     "business_name": "Aimsio",
@@ -118,33 +168,6 @@
       "YouTube",
       "Zendesk Embeddables",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "interfy.net",
-    "title": "Interfy | Making Construction Move Faster",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 43396,
-    "crawled_at": "2026-09-29T06:45:56.960615326Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "QUIC",
-      "Sage Intacct",
-      "Tailwind CSS",
-      "UTF-8",
-      "WF Cookie Consent",
-      "Webflow",
-      "jsDelivr"
     ]
   },
   {
@@ -14553,57 +14576,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "donorelf.com",
-    "title": "Enjoyably Simple Missionary Software | DonorElf",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 228070,
-    "crawled_at": "2026-02-05T00:43:48.882585056Z",
-    "technologies": [
-      "Fireblade",
-      "GZIP Module",
-      "Idaq",
-      "KVH",
-      "No-Q",
-      "QUIC",
-      "Sage Intacct",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "University or College",
-      "Vimeo",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "officeinthecloud.com",
-    "title": "Office In The Cloud US: Premier Merchant Services in Newport Beach, CA",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 51592,
-    "crawled_at": "2026-02-04T23:28:48.865455638Z",
-    "technologies": [
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Getty Images",
-      "Getty Images Embed",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Interchange",
-      "Line2",
-      "Next.js",
-      "Oracle Cloud",
-      "Pleroma",
-      "QUIC",
-      "Sage Intacct",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]

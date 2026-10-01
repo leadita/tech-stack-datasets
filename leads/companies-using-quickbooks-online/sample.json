@@ -1,5 +1,31 @@
 [
   {
+    "domain": "riversandriverscpas.com",
+    "title": "Home | Rivers and Rivers CPAs",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 13120,
+    "crawled_at": "2026-10-01T03:58:27.962148357Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "sbatx.com",
     "title": "Small Business Bookkeeping & Consulting",
     "business_name": "",
@@ -10369,29 +10395,6 @@
       "UTF-8",
       "YouTube",
       "Zoom Video Conferencing"
-    ]
-  },
-  {
-    "domain": "riversandriverscpas.com",
-    "title": "Home | Rivers and Rivers CPAs",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 11920,
-    "crawled_at": "2026-02-05T08:58:02.412039061Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
