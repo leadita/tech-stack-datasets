@@ -1,5 +1,44 @@
 [
   {
+    "domain": "mesutdogantekin.com",
+    "title": "Mesut Dogantekin | Robotics Engineer",
+    "business_name": "",
+    "country": "TUR",
+    "seo_score": 87,
+    "tech_spend": 4780,
+    "crawled_at": "2026-09-30T19:49:59.328857557Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare Workers",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "NFOrce Internet",
+      "Python",
+      "Tailwind CSS",
+      "University or College",
+      "Visual Studio"
+    ]
+  },
+  {
+    "domain": "eulervoid.com",
+    "title": "Euler Void — A fictional emptiness.",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 62,
+    "tech_spend": 300,
+    "crawled_at": "2026-09-30T14:18:02.510531145Z",
+    "technologies": [
+      "Apache",
+      "Cloudflare",
+      "Cloudflare Workers",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "mattbolanos.com",
     "title": "Matt Bolaños",
     "business_name": "",
@@ -15090,51 +15129,6 @@
       "Svelte",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "onlybots.it",
-    "title": "OnlyBots — Digital Products for AI Agents",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 17740,
-    "crawled_at": "2026-04-30T22:05:20.022791069Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "Fireblade",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "huvik.dev",
-    "title": "Huvik - React, GraphQL & TypeScript Developer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 540,
-    "crawled_at": "2026-04-30T19:56:19.992700948Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Astro",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "Vercel",
-      "YouTube"
     ]
   }
 ]
