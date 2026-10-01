@@ -1,5 +1,49 @@
 [
   {
+    "domain": "gracehealthcarenp.com",
+    "title": "Grace Health Care: Compassionate Mental Health Services",
+    "business_name": "Grace Health care NP in Psychiatry PLLC",
+    "country": "USA",
+    "seo_score": 92,
+    "tech_spend": 22284,
+    "crawled_at": "2026-10-01T17:53:02.26521652Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "CleanTalk Spam Protect",
+      "Content Delivery Network",
+      "Elementor",
+      "ElementsKit Elementor",
+      "EmbedPress",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Perl",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Slider Revolution",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WooCommerce Checkout",
+      "WordPress",
+      "WordPress Multisite",
+      "Xtra Theme",
+      "ZocDoc",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "inmotionptchi.com",
     "title": "Physical Therapist Chicago - Sports Injury Physical Therapy Lincoln Park",
     "business_name": "",
@@ -19152,28 +19196,6 @@
       "Wangsu",
       "Website Tonight",
       "ZocDoc"
-    ]
-  },
-  {
-    "domain": "thembrcenter.com",
-    "title": "Mindful Therapy Services",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 13878,
-    "crawled_at": "2026-06-11T19:02:19.968577977Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Contento",
-      "GZIP Module",
-      "Google My Business",
-      "Nginx",
-      "Plausible Analytics",
-      "UTF-8",
-      "Webador",
-      "ZocDoc",
-      "reCAPTCHA"
     ]
   }
 ]
