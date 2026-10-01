@@ -1,5 +1,57 @@
 [
   {
+    "domain": "crow.moe",
+    "title": "dougbeal – digital dougbeal",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 45677,
+    "crawled_at": "2026-09-30T17:24:06.829071966Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "DAV",
+      "EmbedPress",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Mapp",
+      "Mastodon",
+      "Micro.blog",
+      "Nginx",
+      "PHP",
+      "Pleroma",
+      "Tailwind CSS",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "colinwalker.blog",
+    "title": "Colin Walker - Sep 30, 2026",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 60,
+    "crawled_at": "2026-09-30T16:41:39.703803238Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GitHub Hosting",
+      "Micro.blog",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "dreampublicity.com",
     "title": "Home | Michael Peng | Shirley",
     "business_name": "Michael Peng",
@@ -7755,58 +7807,6 @@
       "UTF-8",
       "jQuery",
       "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "crow.moe",
-    "title": "dougbeal – digital dougbeal",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 45677,
-    "crawled_at": "2026-02-05T01:19:48.907677968Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "DAV",
-      "EmbedPress",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Mapp",
-      "Mastodon",
-      "Micro.blog",
-      "Nginx",
-      "PHP",
-      "Pleroma",
-      "Tailwind CSS",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "colinwalker.blog",
-    "title": "Colin Walker - Feb 5, 2026",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 60,
-    "crawled_at": "2026-02-05T00:55:48.895233177Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GitHub Hosting",
-      "Micro.blog",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
       "shadcn ui"
     ]
   }
