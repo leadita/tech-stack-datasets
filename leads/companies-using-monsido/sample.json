@@ -18481,45 +18481,5 @@
       "YouTube",
       "jQuery"
     ]
-  },
-  {
-    "domain": "fyccn.org",
-    "title": "Home - FYCCN Website",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 5047,
-    "crawled_at": "2026-02-05T02:58:48.860590289Z",
-    "technologies": [
-      "Cludo",
-      "DoubleClick Bid Manager",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microsoft Ajax Content Delivery Network",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Monsido",
-      "UTF-8",
-      "Vimeo",
-      "Vimeo CDN",
-      "Visual Studio",
-      "WebReserv",
-      "Wufoo",
-      "YouTube",
-      "eLand"
-    ]
   }
 ]
