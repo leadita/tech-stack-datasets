@@ -1,5 +1,37 @@
 [
   {
+    "domain": "saveyourstuff.com",
+    "title": "Home - Save Your Stuff",
+    "business_name": "Save Your Stuff LLC",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 6568,
+    "crawled_at": "2026-10-01T06:12:05.711241457Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "EmbedPress",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "MaxCDN",
+      "PHP",
+      "Sitelinks Search Box",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "Woo Themes",
+      "WooCommerce",
+      "WooCommerce Checkout",
+      "WordPress",
+      "WordPress Multisite",
+      "Workplace from Meta",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "innovativemarketingartistry.com",
     "title": "Digital Marketing Agency in Detroit | Online Marketing Services Detroit, MI",
     "business_name": "Innovative Marketing Artistry",
@@ -8748,57 +8780,6 @@
       "Workplace from Meta",
       "iAPPS",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "saveyourstuff.com",
-    "title": "Home - Save Your Stuff",
-    "business_name": "Save Your Stuff LLC",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 6568,
-    "crawled_at": "2026-02-05T10:52:48.867150266Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "EmbedPress",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "MaxCDN",
-      "PHP",
-      "Sitelinks Search Box",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "Workplace from Meta",
-      "YouTube",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "ecworkplace.com.au",
-    "title": "EC Workplace",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": "",
-    "crawled_at": "2026-02-05T06:43:48.861302005Z",
-    "technologies": [
-      "Bulma",
-      "ElementUI",
-      "LiteSpeed",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Workplace from Meta",
-      "jsDelivr"
     ]
   }
 ]
