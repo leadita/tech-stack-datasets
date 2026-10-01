@@ -1,5 +1,37 @@
 [
   {
+    "domain": "waylar.net",
+    "title": "WAYLAR | Thailand's Total Logistics Platform | WAYLAR Corporation",
+    "business_name": "",
+    "country": "THA",
+    "seo_score": 72,
+    "tech_spend": 17624,
+    "crawled_at": "2026-09-30T22:52:38.546959976Z",
+    "technologies": [
+      "App Store",
+      "Apture Linking Platform",
+      "Better Lead Generation Services",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "DHL Parcel",
+      "Fireblade",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "Lazada",
+      "Next.js",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Unsplash",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "internationallogisticssolutions.com",
     "title": "International Logistics Solutions - Aggressively Discounted Logistic Solutions",
     "business_name": "",
@@ -18909,43 +18941,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "karmaplace.com",
-    "title": "Shop Online for Kurtis, Sarees, Lehengas, Jewelry and more from India – KARMAPLACE",
-    "business_name": "KARMAPLACE",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 10348,
-    "crawled_at": "2026-04-03T13:38:19.993904302Z",
-    "technologies": [
-      "Amazon",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DHL Parcel",
-      "Express",
-      "GetResponse",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Kiwi Sizing",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "YouTube",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   }
 ]
