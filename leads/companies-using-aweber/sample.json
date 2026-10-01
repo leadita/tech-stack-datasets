@@ -1,5 +1,44 @@
 [
   {
+    "domain": "nonfictionfitness.com",
+    "title": "Non-Fiction Fitness | Chris Vercelli",
+    "business_name": "Non Fiction Fitness",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 5186,
+    "crawled_at": "2026-09-30T22:52:38.54099557Z",
+    "technologies": [
+      "Akismet",
+      "Alternate Protocol",
+      "Contact Form Plugin",
+      "Content Delivery Network",
+      "Eber",
+      "Elementor",
+      "EmbedPress",
+      "Essential Addons for Elementor",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Header, Footer and Blocks for Elementor",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PHP",
+      "QUIC",
+      "Theme In WP",
+      "UTF-8",
+      "Vercel",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "aWeber",
+      "eLand",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "dentalsecrets.com",
     "title": "Home - Dental Secrets™",
     "business_name": "",
@@ -18451,27 +18490,6 @@
       "YouTube",
       "aWeber",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "christian-transitions.com",
-    "title": "Set Apart Ministries.org - Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 16828,
-    "crawled_at": "2026-05-06T00:02:20.0042973Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "AutoComplete",
-      "Eber",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "UTF-8",
-      "aWeber"
     ]
   }
 ]
