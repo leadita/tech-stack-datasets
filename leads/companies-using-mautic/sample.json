@@ -1,5 +1,38 @@
 [
   {
+    "domain": "martamolnar.com",
+    "title": "Marta Molnar | Bestselling Historical Fiction Author",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 77,
+    "tech_spend": 1708,
+    "crawled_at": "2026-10-01T03:16:34.597576893Z",
+    "technologies": [
+      "Amazon Widgets",
+      "Bulma",
+      "DAV",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Mautic",
+      "PHP",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "octapush.io",
     "title": "Viber, SMS & Landing Pages - Omnichannel Messaging Platform",
     "business_name": "",
@@ -21172,38 +21205,6 @@
       "UTF-8",
       "Visual Studio",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "bonsaviour.uk",
-    "title": "Golden Retriever Puppies for Sale Breeders | Healthy Dogs",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 11740,
-    "crawled_at": "2026-04-07T15:14:20.003034006Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "DAV",
-      "Express",
-      "Facebook Embedded Posts",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Mautic",
-      "NFOrce Internet",
-      "Pico CSS",
-      "Prospective",
-      "QUIC",
-      "SiteW",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
