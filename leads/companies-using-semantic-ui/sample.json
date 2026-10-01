@@ -1,5 +1,30 @@
 [
   {
+    "domain": "pixelvaultgaming.com",
+    "title": "PixelVault Gaming - Premium Mobile & Compact Gaming Consoles",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 17440,
+    "crawled_at": "2026-10-01T14:17:02.571025766Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "PHP",
+      "QUIC",
+      "Semantic UI",
+      "Thank You",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "iscabiochemicals.co.uk",
     "title": "Isca Biochemicals",
     "business_name": "",
@@ -14665,20 +14690,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "yfst.org",
-    "title": "Youth for Sustainable Travel",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 55,
-    "tech_spend": "",
-    "crawled_at": "2026-04-25T01:21:00.803898617Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Semantic UI"
     ]
   }
 ]
