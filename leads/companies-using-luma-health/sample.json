@@ -727,32 +727,5 @@
       "jQuery",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "shanefoster.design",
-    "title": "Portfolio of Product Designer, Shane Foster.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 13840,
-    "crawled_at": "2026-02-06T13:49:30.426590067Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Jekyll",
-      "Luma Health",
-      "UTF-8"
-    ]
   }
 ]
