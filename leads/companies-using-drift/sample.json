@@ -1,5 +1,47 @@
 [
   {
+    "domain": "talentbag.com",
+    "title": "talentbag - User Experience | Stories",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 49092,
+    "crawled_at": "2026-10-02T09:41:11.524122063Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Drift",
+      "Fastly",
+      "Freshteam",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "secondfamilyhomecare.com",
+    "title": "Second Family Care",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 57,
+    "tech_spend": 31628,
+    "crawled_at": "2026-10-02T02:22:50.585485981Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Drift",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "PageCloud",
+      "UTF-8",
+      "Vector Internet Services"
+    ]
+  },
+  {
     "domain": "covingtonpostacute.com",
     "title": "24-Hour Skilled Nursing and Rehabilitation in Covington, TN",
     "business_name": "Covington Post Acute",
@@ -23580,25 +23622,6 @@
     ]
   },
   {
-    "domain": "secondfamilycare.com",
-    "title": "Second Family Care",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 57,
-    "tech_spend": 31628,
-    "crawled_at": "2026-05-21T16:53:19.971223906Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Drift",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "PageCloud",
-      "UTF-8",
-      "Vector Internet Services"
-    ]
-  },
-  {
     "domain": "bydand.com",
     "title": "Welcome to Bydand Home Loans LLC",
     "business_name": "",
@@ -23659,51 +23682,6 @@
       "jQuery",
       "jsDelivr",
       "leadPops"
-    ]
-  },
-  {
-    "domain": "coughlanhomes.com",
-    "title": "Home | Coughlan Homes",
-    "business_name": "Coughlan Homes",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 48019,
-    "crawled_at": "2026-05-21T13:38:19.979129526Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Adobe Creative Cloud WebFonts",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Drift",
-      "ElementUI",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Font Awesome",
-      "FreeCSSTemplates",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Homes.com CMS",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Siteimprove",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "jQuery",
-      "jsDelivr",
-      "reCAPTCHA"
     ]
   }
 ]
