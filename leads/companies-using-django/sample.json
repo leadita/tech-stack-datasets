@@ -1,5 +1,53 @@
 [
   {
+    "domain": "prestige-details.com",
+    "title": "Prestige Auto Detailing - Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2988,
+    "crawled_at": "2026-10-01T21:47:08.103991518Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Perl",
+      "QUIC",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "renatsecurity.com",
+    "title": "Renat Security Consult Limited",
+    "business_name": "",
+    "country": "NGA",
+    "seo_score": 77,
+    "tech_spend": 34180,
+    "crawled_at": "2026-10-01T16:46:22.857070578Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Django",
+      "Django CSRF",
+      "Fireblade",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "InitiativeS",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Sentry",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "brightechonest.com",
     "title": "Brightech Onest: Innovative Tech Solutions and Gadgets Reviews",
     "business_name": "",
@@ -8952,54 +9000,6 @@
       "University or College",
       "Zope",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "prestige-details.com",
-    "title": "Prestige Auto Detailing - Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2988,
-    "crawled_at": "2026-02-05T22:52:48.863871122Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "renatsecurity.com",
-    "title": "Renat Security Consult Limited",
-    "business_name": "",
-    "country": "NGA",
-    "seo_score": 82,
-    "tech_spend": 34180,
-    "crawled_at": "2026-02-05T19:02:49.553181116Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Django",
-      "Django CSRF",
-      "Fireblade",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "InitiativeS",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Sentry",
-      "UTF-8"
     ]
   }
 ]
