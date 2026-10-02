@@ -1,5 +1,24 @@
 [
   {
+    "domain": "bookcovers.eu",
+    "title": "Book covers",
+    "business_name": "Book covers",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 149,
+    "crawled_at": "2026-10-01T21:47:08.080839952Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "bridgitbeyer.com",
     "title": "Bridgit Beyer: Architectural and Interior Photographer",
     "business_name": "Brett Beyer Photography",
@@ -8247,25 +8266,6 @@
       "Publii",
       "Twitter Ads",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "bookcovers.eu",
-    "title": "Book covers",
-    "business_name": "Book covers",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 49,
-    "crawled_at": "2026-02-05T22:46:48.863916564Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   }
 ]

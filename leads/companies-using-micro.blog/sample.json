@@ -7773,41 +7773,5 @@
       "Tailwind CSS",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "cleverdevil.io",
-    "title": "cleverdevil",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 3220,
-    "crawled_at": "2026-02-05T22:24:04.862458221Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Apache",
-      "Bulma",
-      "CDN JS",
-      "Calendly",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "License Buttons",
-      "Micro.blog",
-      "Microdata for Google Shopping",
-      "OpenSSL",
-      "PWA",
-      "Python",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "jQuery",
-      "jsDelivr",
-      "shadcn ui"
-    ]
   }
 ]
