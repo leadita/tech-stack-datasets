@@ -1,6 +1,6 @@
 # Companies Using Auth0 (Live Dataset 2026)
 
-This folder contains an active list of 924 companies using **Auth0**. 
+This folder contains an active list of 927 companies using **Auth0**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 924
+- **Total Leads:** 927
 - **Verified:** Yes
-- **Last Updated:** 2026-10-01 15:45 UTC
+- **Last Updated:** 2026-10-02 15:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **924+** companies using Auth0.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **927+** companies using Auth0.
 
 [**⚡ Unlock the Full Auth0 List with Contact Details**](https://leadita.com/leads/companies-using-auth0)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-10-01 15:45 UTC*
+*Last updated: 2026-10-02 15:45 UTC*
 *Data source: Leadita Technographic Intelligence*
