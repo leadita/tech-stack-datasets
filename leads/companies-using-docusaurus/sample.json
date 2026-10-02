@@ -1,5 +1,25 @@
 [
   {
+    "domain": "ohmg.dev",
+    "title": "OHMG | OHMG",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 90,
+    "crawled_at": "2026-10-02T13:51:00.652405442Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Netlify",
+      "Perl",
+      "Plausible Analytics",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "genwritesdocs.com",
     "title": "Hello from Genesis Sorto | Genesis Sorto",
     "business_name": "",
@@ -12697,33 +12717,6 @@
       "Docusaurus",
       "Google Analytics",
       "Google Tag Manager"
-    ]
-  },
-  {
-    "domain": "alfrickopidi.com",
-    "title": "Alfrick Opidi",
-    "business_name": "",
-    "country": "KEN",
-    "seo_score": 65,
-    "tech_spend": 40,
-    "crawled_at": "2026-04-07T01:47:20.001398016Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Apache",
-      "Docusaurus",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "InitiativeS",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "jQuery"
     ]
   }
 ]
