@@ -1,5 +1,41 @@
 [
   {
+    "domain": "stephanie-reynolds.com",
+    "title": "Digital Strategy & Content Marketing | Denver, CO",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 249609,
+    "crawled_at": "2026-10-02T04:52:51.548561604Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Authorize.net",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Epic Form Builder",
+      "Express",
+      "Fastly",
+      "Fastly CDN",
+      "Google Related Website Sites",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PWA",
+      "QUIC",
+      "SMC",
+      "Salesforce Hosted",
+      "Seflow Italy",
+      "Sentry",
+      "SharpSpring",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "Wix",
+      "Wix Media",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "audisatt.com",
     "title": "Audisatt - Los Aliados de la Contabilidad Electrónica en México",
     "business_name": "Audisatt",
@@ -21677,41 +21713,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "carnelliwriting.com",
-    "title": "Editing | Carnelli Writing Services | United States",
-    "business_name": "Carnelli Writing Services",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 115416,
-    "crawled_at": "2026-04-11T14:56:19.993653041Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "InitiativeS",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "On The Map",
-      "PWA",
-      "QUIC",
-      "SMC",
-      "Sentry",
-      "SharpSpring",
-      "SiteW",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "mlcom"
     ]
   }
 ]
