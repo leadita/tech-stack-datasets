@@ -3417,37 +3417,5 @@
       "YouTube",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "parknationalcorp.com",
-    "title": "Park National Corporation - Investor Relations",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 529360,
-    "crawled_at": "2026-02-05T22:04:08.355783911Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Broadridge",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Corporate Governance and Regulatory Compliance",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Investor Relations",
-      "Q4Web",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "reCAPTCHA"
-    ]
   }
 ]
