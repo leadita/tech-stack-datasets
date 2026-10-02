@@ -1,5 +1,45 @@
 [
   {
+    "domain": "whoswhoinmedicine.com",
+    "title": "Digital Real Estate Specialist",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 36,
+    "crawled_at": "2026-10-02T06:36:33.722647561Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "costaspavlidis.com",
+    "title": "Costas Pavlidis Studio",
+    "business_name": "",
+    "country": "GRC",
+    "seo_score": 67,
+    "tech_spend": 120,
+    "crawled_at": "2026-10-02T02:49:24.760504132Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "www.atxcamper.com",
     "title": "This website or DOMAIN NAME may be for sale.",
     "business_name": "",
@@ -63,25 +103,6 @@
       "GZIP Module",
       "Microdata for Google Shopping",
       "Prospective",
-      "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "stranger-things.com",
-    "title": "Digital Real Estate Specialist",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 36,
-    "crawled_at": "2026-09-29T04:33:09.113327459Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Microdata for Google Shopping",
       "QUIC",
       "UTF-8"
     ]
@@ -4527,26 +4548,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "costaspavlidis.com",
-    "title": "Costas Pavlidis Studio",
-    "business_name": "",
-    "country": "GRC",
-    "seo_score": 52,
-    "tech_spend": 135,
-    "crawled_at": "2026-02-06T02:34:48.865089254Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "UTF-8"
     ]
   }
 ]
