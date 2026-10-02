@@ -1,5 +1,36 @@
 [
   {
+    "domain": "villasatfallenspruce.com",
+    "title": "Home | Villas at Fallen Spruce",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 50292,
+    "crawled_at": "2026-10-01T22:00:17.321771794Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "Follow Up Boss",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "K2F",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Negate",
+      "ResMan",
+      "Silicon Valley Web Hosting",
+      "Subversion",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "heytailorpvp.com",
     "title": "Tailor — Every lead hears from you first, by name, on video",
     "business_name": "Tailor",
@@ -14276,36 +14307,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "villasatfallenspruce.com",
-    "title": "Home | Villas at Fallen Spruce",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 68792,
-    "crawled_at": "2026-02-05T23:03:17.769809173Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "DAV",
-      "Follow Up Boss",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "HMDG",
-      "Heroku",
-      "Instagram Follow Button",
-      "K2F",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Negate",
-      "ResMan",
-      "Subversion",
-      "UTF-8"
     ]
   }
 ]
