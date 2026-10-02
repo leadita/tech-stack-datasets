@@ -1,5 +1,28 @@
 [
   {
+    "domain": "talentbag.com",
+    "title": "talentbag - User Experience | Stories",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 49092,
+    "crawled_at": "2026-10-02T09:41:11.524122063Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Drift",
+      "Fastly",
+      "Freshteam",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "tugboatholdings.com",
     "title": "Tugboat Holdings",
     "business_name": "",
@@ -3091,29 +3114,6 @@
       "Yandex Hosting",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "talentbag.com",
-    "title": "talentbag - User Experience | Stories",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 31628,
-    "crawled_at": "2026-02-06T10:32:58.643482216Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Drift",
-      "Fastly",
-      "Freshteam",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]

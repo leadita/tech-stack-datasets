@@ -1,5 +1,29 @@
 [
   {
+    "domain": "abacus-machinery.com",
+    "title": "Home - Abacus USA inc.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 30172,
+    "crawled_at": "2026-10-02T00:32:50.297808426Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Apache",
+      "Cybot",
+      "Fireblade",
+      "GZIP Module",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "ON24",
+      "PHP",
+      "Recruitee",
+      "Silverlight",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "anywheretest.blog",
     "title": "Home - FULL Creative",
     "business_name": "",
@@ -9697,28 +9721,6 @@
       "Google Font API",
       "Recruitee",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "abacus-machinery.com",
-    "title": "Home - Abacus USA inc.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 30172,
-    "crawled_at": "2026-02-06T00:44:39.439561453Z",
-    "technologies": [
-      "Apache",
-      "Cybot",
-      "Fireblade",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "ON24",
-      "PHP",
-      "Recruitee",
-      "Silverlight",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
