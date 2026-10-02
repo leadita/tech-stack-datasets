@@ -1,5 +1,23 @@
 [
   {
+    "domain": "dagan.cloud",
+    "title": "dagan.cloud",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 63,
+    "crawled_at": "2026-10-01T14:17:02.555036684Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Dialogflow",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API"
+    ]
+  },
+  {
     "domain": "surestaysarasotanorth.com",
     "title": "SureStay Hotel in Sarasota Florida | Hotels near Downtown and Siesta Keys",
     "business_name": "",
@@ -9479,24 +9497,6 @@
       "Yelp Badge",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "dagan.cloud",
-    "title": "dagan.cloud",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 63,
-    "crawled_at": "2026-02-05T17:01:20.949217403Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Dialogflow",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API"
     ]
   }
 ]
