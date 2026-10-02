@@ -105,7 +105,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using AutoLeadStar](./leads/companies-using-autoleadstar) (68 companies)
 
 ### Backend & API Development
-- [Companies using PHP](./leads/companies-using-php) (2,743,264 companies)
+- [Companies using PHP](./leads/companies-using-php) (2,743,265 companies)
 - [Companies using Python](./leads/companies-using-python) (140,275 companies)
 - [Companies using Laravel](./leads/companies-using-laravel) (4,605 companies)
 - [Companies using Django](./leads/companies-using-django) (937 companies)
@@ -145,8 +145,8 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 
 ### Cloud Providers
 - [Companies using Amazon](./leads/companies-using-amazon) (2,237,968 companies)
-- [Companies using Google Cloud](./leads/companies-using-google-cloud) (4,935,399 companies)
-- [Companies using Microsoft Azure](./leads/companies-using-microsoft-azure) (129,191 companies)
+- [Companies using Google Cloud](./leads/companies-using-google-cloud) (4,935,400 companies)
+- [Companies using Microsoft Azure](./leads/companies-using-microsoft-azure) (129,192 companies)
 - [Companies using Heroku](./leads/companies-using-heroku) (41,829 companies)
 - [Companies using Netlify](./leads/companies-using-netlify) (127,835 companies)
 - [Companies using Vercel](./leads/companies-using-vercel) (322,923 companies)
@@ -503,7 +503,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using DailyMotion Video](./leads/companies-using-dailymotion-video) (3,111 companies)
 
 ### Web Fonts & Icons
-- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,512,265 companies)
+- [Companies using Google Font API](./leads/companies-using-google-font-api) (4,512,266 companies)
 - [Companies using Font Awesome](./leads/companies-using-font-awesome) (761,719 companies)
 - [Companies using MyFonts](./leads/companies-using-myfonts) (3,100 companies)
 - [Companies using Fontshare](./leads/companies-using-fontshare) (2,791 companies)
