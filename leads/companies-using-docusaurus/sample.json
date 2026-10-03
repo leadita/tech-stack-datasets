@@ -1,5 +1,26 @@
 [
   {
+    "domain": "frugally.app",
+    "title": "Shift-Left FinOps Platform | Frugally",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 3939,
+    "crawled_at": "2026-10-03T06:37:01.189933939Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "NFOrce Internet",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "ohmg.dev",
     "title": "OHMG | OHMG",
     "business_name": "",
@@ -12702,21 +12723,6 @@
       "Product Hunt",
       "Twitter Ads",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "zorgeloosinde.cloud",
-    "title": "Zorgeloos in de Cloud | Zorgeloos in de Cloud",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-04-07T05:50:24.908769674Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "Google Analytics",
-      "Google Tag Manager"
     ]
   }
 ]
