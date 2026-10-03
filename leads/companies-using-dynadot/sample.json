@@ -4510,44 +4510,5 @@
       "Google Related Website Sites",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "ises2020ca.org",
-    "title": "ises2020 – 2020 ISES Annual Meeting",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 21911,
-    "crawled_at": "2026-02-07T10:55:26.706008332Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Contact Form Plugin",
-      "Dynadot",
-      "Elementor",
-      "EmbedPress",
-      "Fireblade",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "OceanWP",
-      "PHP",
-      "Perl",
-      "Pico CSS",
-      "Schema Plugin",
-      "Tailwind CSS",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "Vimeo",
-      "WP Mobile Menu",
-      "WPForms",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
