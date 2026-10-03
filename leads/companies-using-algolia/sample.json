@@ -1,5 +1,35 @@
 [
   {
+    "domain": "guyallen-art.com",
+    "title": "Guy Allen / Illustrator",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 11541,
+    "crawled_at": "2026-10-03T11:57:21.355956617Z",
+    "technologies": [
+      "About Cookies",
+      "Adobe Creative Cloud WebFonts",
+      "Algolia",
+      "Alternate Protocol",
+      "Aruba",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Newsletter for Wordpress",
+      "Prospective",
+      "QUIC",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "desoi.com.br",
     "title": "DESOI GmbH | www.desoi.co.uk",
     "business_name": "",
@@ -21411,46 +21441,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "openbriefing.org",
-    "title": "Home - Open Briefing",
-    "business_name": "Open Briefing",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 23692,
-    "crawled_at": "2026-05-21T09:06:51.470639806Z",
-    "technologies": [
-      "Algolia",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CloudFront",
-      "Content Delivery Network",
-      "EmbedPress",
-      "EqualWeb",
-      "Fireblade",
-      "Flying Pages by WP Speed Matters",
-      "GZIP Module",
-      "Gravity Forms",
-      "Gtranslate for Wordpress",
-      "Iubenda",
-      "License Buttons",
-      "Make Theme",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Page-list for WordPress",
-      "Report URI",
-      "Shifter",
-      "Theme In WP",
-      "UTF-8",
-      "WP Search with Algolia",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
