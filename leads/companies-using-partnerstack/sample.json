@@ -1,5 +1,30 @@
 [
   {
+    "domain": "helpwave.ai",
+    "title": "HelpWave - AI-Powered Customer Support Solution",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 35808,
+    "crawled_at": "2026-10-03T00:09:14.079703311Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Calendly",
+      "Fireblade",
+      "GZIP Module",
+      "Material-UI",
+      "NFOrce Internet",
+      "Next.js",
+      "Nginx",
+      "PartnerPage",
+      "PartnerStack",
+      "Pleroma",
+      "QUIC",
+      "Shopify",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "tikva.ai",
     "title": "Tikva — Accelerating Hospital IT Delivery",
     "business_name": "Tikva",
@@ -12178,31 +12203,6 @@
       "Yandex Hosting",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "helpwave.ai",
-    "title": "HelpWave - AI-Powered Customer Support Solution",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 35808,
-    "crawled_at": "2026-02-07T09:22:29.936086394Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Calendly",
-      "Fireblade",
-      "GZIP Module",
-      "Material-UI",
-      "NFOrce Internet",
-      "Next.js",
-      "Nginx",
-      "PartnerPage",
-      "PartnerStack",
-      "Pleroma",
-      "QUIC",
-      "Shopify",
-      "UTF-8"
     ]
   }
 ]
