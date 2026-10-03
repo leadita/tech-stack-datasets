@@ -1,5 +1,28 @@
 [
   {
+    "domain": "christiaensgroup.info",
+    "title": "We are Christiaens Group",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 23566,
+    "crawled_at": "2026-10-03T03:19:43.626726711Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Creative Cloud WebFonts",
+      "Apache",
+      "DAV",
+      "Fancybox for WordPress",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Recruitee",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "abacus-machinery.com",
     "title": "Home - Abacus USA inc.",
     "business_name": "",
@@ -9699,28 +9722,6 @@
       "YouTube",
       "Zoom Video Conferencing",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "christiaensgroup.info",
-    "title": "We are Christiaens Group",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 23566,
-    "crawled_at": "2026-02-07T14:05:54.176342644Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Apache",
-      "Fancybox for WordPress",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Recruitee",
-      "UTF-8"
     ]
   }
 ]
