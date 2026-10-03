@@ -1320,41 +1320,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "hollyjollyscents.com",
-    "title": "Fresh & Fragrant 🪴",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 351770,
-    "crawled_at": "2026-02-07T07:48:10.604880352Z",
-    "technologies": [
-      "Adobe Analytics",
-      "Adobe Creative Cloud WebFonts",
-      "Adobe Marketing Cloud",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Coming Soon Page",
-      "Contentstack",
-      "Fireblade",
-      "Font Awesome",
-      "GZIP Module",
-      "GetResponse",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Hotjar",
-      "Imperva Bot Detection and Mitigation",
-      "Incapsula CDN",
-      "Lytics",
-      "New Relic",
-      "SMC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "reCAPTCHA"
-    ]
   }
 ]
