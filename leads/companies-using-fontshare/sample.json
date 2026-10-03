@@ -1,5 +1,50 @@
 [
   {
+    "domain": "remanresource.com",
+    "title": "EasyOrder for Independent Ink & Toner Dealers | Monster Systems",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 2680,
+    "crawled_at": "2026-10-03T08:16:15.287348141Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fontshare",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "struct360.com",
+    "title": "Expert Structural Engineering & BIM Services | Struct360",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 6971,
+    "crawled_at": "2026-10-03T03:05:04.472197718Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Fontshare",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "NFOrce Internet",
+      "Nuxt.js",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "closedin.io",
     "title": "Scale Your Outreach Without Scaling Your Team | closed:in",
     "business_name": "closed:in",
@@ -13513,56 +13558,6 @@
       "Vercel",
       "WordPress",
       "WordPress Multisite"
-    ]
-  },
-  {
-    "domain": "batchedrec.com",
-    "title": "BATCHED | Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 603,
-    "crawled_at": "2026-05-31T16:41:58.320536327Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "Fontshare",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Pico CSS",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "cookie-consent.co.uk",
-    "title": "Cookie-Consent.ai | AI Cookie Banner & Consent Mode v2 Solution | Cookie-Consent.ai",
-    "business_name": "Cookie-Consent.ai",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 1740,
-    "crawled_at": "2026-05-31T16:32:52.430191584Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Fontshare",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "NFOrce Internet",
-      "Nuxt.js",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
