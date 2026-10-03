@@ -1,5 +1,52 @@
 [
   {
+    "domain": "skorubski.com",
+    "title": "Maksym Skorubski — Senior Mobile Engineer (Ionic/Angular, AWS)",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 2740,
+    "crawled_at": "2026-10-03T10:12:00.154591938Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apache",
+      "Cloudflare",
+      "Cloudflare Workers",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "rossmackay.co",
+    "title": "Ross Mackay",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 58888,
+    "crawled_at": "2026-10-02T19:37:34.677641957Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Express",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Jekyll",
+      "QUIC",
+      "Sanity",
+      "UTF-8",
+      "University or College",
+      "Unmade Apparel",
+      "YunoJuno"
+    ]
+  },
+  {
     "domain": "promptmakerai.com",
     "title": "Michael Vereb | Canadian SEO-Focused Website Designer & Developer",
     "business_name": "Michael Vereb",
@@ -15070,58 +15117,6 @@
       "Vector Internet Services",
       "monday.com",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "averytibbetts.com",
-    "title": "Avery Tibbetts | Portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 123,
-    "crawled_at": "2026-05-01T09:11:19.992931493Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Next.js",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "proofrelay.app",
-    "title": "ProofRelay — Decision Receipts for Autonomous Agents",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 7928,
-    "crawled_at": "2026-05-01T08:11:20.01543507Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "Financial Industry Regulatory Authority",
-      "Fireblade",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "Python",
-      "QUIC"
     ]
   }
 ]
