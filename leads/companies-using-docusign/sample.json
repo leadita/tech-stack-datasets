@@ -11454,47 +11454,5 @@
       "jQuery",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "epluxurytownhomes.com",
-    "title": "Home - Townhomes on Edgemere",
-    "business_name": "Townhomes on Edgemere",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 10512,
-    "crawled_at": "2026-02-07T21:29:05.31639533Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Contact Form Plugin",
-      "DocuSign",
-      "Elementor",
-      "EmbedPress",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Gravity Forms",
-      "Homes.com CMS",
-      "Lazy Load for WordPress",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "QUIC",
-      "Shortcodes Ultimate",
-      "Slider Revolution",
-      "Theme In WP",
-      "TrustIndex",
-      "UTF-8",
-      "WPForms",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "jQuery",
-      "reCAPTCHA"
-    ]
   }
 ]

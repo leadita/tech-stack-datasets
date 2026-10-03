@@ -1,5 +1,29 @@
 [
   {
+    "domain": "fednowrfpfile.com",
+    "title": "FedNow® RfP File Format with ISO 20022, Excel, XML, and JSON | TodayPayments",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 4888,
+    "crawled_at": "2026-10-02T22:26:47.613171527Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Code Prettify",
+      "Google Font API",
+      "Infusionsoft",
+      "Nginx",
+      "Onicon",
+      "Perl",
+      "QUIC",
+      "RightSignature",
+      "Subversion",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "islandpropertytax.com",
     "title": "Island Property Tax Reduction",
     "business_name": "",
@@ -1968,30 +1992,6 @@
       "WP Engine",
       "WordPress",
       "WordPress Multisite",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "fednowrfpfile.com",
-    "title": "FedNow® RfP File Format with ISO 20022, Excel, XML, and JSON | TodayPayments",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 4888,
-    "crawled_at": "2026-02-07T06:30:45.287997591Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Code Prettify",
-      "Google Font API",
-      "Infusionsoft",
-      "Nginx",
-      "Onicon",
-      "Perl",
-      "QUIC",
-      "RightSignature",
-      "Subversion",
       "jQuery"
     ]
   }
