@@ -1,5 +1,27 @@
 [
   {
+    "domain": "wearepop.com",
+    "title": "POP | Digital Agency",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 50383,
+    "crawled_at": "2026-10-04T11:15:50.991626576Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Creative Cloud WebFonts",
+      "Adobe Experience Manager",
+      "Content Delivery Network",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Svelte"
+    ]
+  },
+  {
     "domain": "lexus-ce.com",
     "title": "Luxury & Hybrid Cars | Lexus Europe",
     "business_name": "Lexus European Union",
@@ -18169,26 +18191,6 @@
       "Umbler",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "therealluisgomez.com",
-    "title": "Luis Gomez",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 251008,
-    "crawled_at": "2026-05-07T10:20:20.001787572Z",
-    "technologies": [
-      "Adobe Experience Manager",
-      "Astro",
-      "GZIP Module",
-      "GitHub Hosting",
-      "IcoMoon",
-      "Nginx",
-      "Ubuntu",
-      "University or College",
-      "Visual Studio"
     ]
   }
 ]
