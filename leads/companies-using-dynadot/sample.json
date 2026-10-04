@@ -4491,24 +4491,5 @@
       "GZIP Module",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "daffodiliangetaways.ca",
-    "title": "Daffodilian Getaways",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 135,
-    "crawled_at": "2026-02-09T18:48:51.531049719Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "Font Awesome",
-      "GZIP Module",
-      "Google My Business",
-      "Google Related Website Sites",
-      "UTF-8"
-    ]
   }
 ]
