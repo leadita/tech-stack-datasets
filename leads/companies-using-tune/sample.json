@@ -1,5 +1,33 @@
 [
   {
+    "domain": "lifeintune.com",
+    "title": "Life In Tune® with Freddie Ravel | Keynote Speaker, Communication Expert, Business Leader",
+    "business_name": "",
+    "country": "JPN",
+    "seo_score": 72,
+    "tech_spend": 78152,
+    "crawled_at": "2026-10-04T02:05:06.77918955Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "DAV",
+      "Gatsby JS",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Netlify",
+      "No-Q",
+      "SMC",
+      "Subversion",
+      "TUNE",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "certifiedservers.info",
     "title": "TechMikeNY - Dell & HP Refurbished Servers | Custom Server Configurations",
     "business_name": "TechMikeNY",
@@ -18988,33 +19016,6 @@
       "Wix Media",
       "YouTube",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "appliancerepair-saintlouismo.com",
-    "title": "Advantage Appliance Repair Solutions - (314) 207-5665",
-    "business_name": "",
-    "country": "SEN",
-    "seo_score": 77,
-    "tech_spend": 17882,
-    "crawled_at": "2026-05-23T03:10:52.720876704Z",
-    "technologies": [
-      "AMP for WordPress",
-      "Accelerated Mobile Pages",
-      "Apache",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "PHP",
-      "Perl",
-      "TUNE",
-      "UTF-8",
-      "Umbler",
-      "Web Stories",
-      "Yellow Pages Canada"
     ]
   }
 ]
