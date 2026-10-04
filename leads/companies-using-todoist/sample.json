@@ -2211,31 +2211,5 @@
       "Vector Internet Services",
       "Vercel"
     ]
-  },
-  {
-    "domain": "puppal.vip",
-    "title": "PupPal",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 2900,
-    "crawled_at": "2026-02-09T14:58:01.656619078Z",
-    "technologies": [
-      "App Store",
-      "Content Delivery Network",
-      "DAV",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Google Play",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "Todoist",
-      "UTF-8",
-      "YouTube",
-      "shadcn ui"
-    ]
   }
 ]

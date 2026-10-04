@@ -1,5 +1,46 @@
 [
   {
+    "domain": "mending.co.nz",
+    "title": "Men's Relationship Coaching, Mens Counselling | Mending | Wellington, New Zealand",
+    "business_name": "Mending",
+    "country": "NZL",
+    "seo_score": 77,
+    "tech_spend": 135981,
+    "crawled_at": "2026-10-04T09:40:42.863492973Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "ClickUp",
+      "Cloudflare",
+      "Content Delivery Network",
+      "DAV",
+      "Express",
+      "Fastly",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "K2F",
+      "KVH",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PWA",
+      "Perl",
+      "QUIC",
+      "SMC",
+      "Seflow Italy",
+      "Sentry",
+      "SiteW",
+      "Subversion",
+      "UTF-8",
+      "Vector Internet Services",
+      "WP Booking Calendar",
+      "Wix",
+      "Wix Media",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "deydrehome4sale.com",
     "title": "Deydre Garcia",
     "business_name": "DEYDRE GARCIA MONTALVAN PA",
@@ -19368,31 +19409,6 @@
       "Pleroma",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "vetsnorth.com.au",
-    "title": "The Vet’s North - Animal Ultrasound - Sydney, New South Wales",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 19680,
-    "crawled_at": "2026-04-10T20:26:20.00995647Z",
-    "technologies": [
-      "ClickUp",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "PWA",
-      "QUIC",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight",
-      "YouTube"
     ]
   }
 ]
