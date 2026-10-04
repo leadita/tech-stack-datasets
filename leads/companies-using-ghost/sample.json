@@ -1,5 +1,29 @@
 [
   {
+    "domain": "knockout.live",
+    "title": "Knockout.no - Live Stream Boxing",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 3060,
+    "crawled_at": "2026-10-04T03:17:03.468090011Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "Ghost",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "Stripe",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "yasminemohamed.com",
     "title": "Yasmine Mohamed",
     "business_name": "",
@@ -2071,30 +2095,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Ubuntu",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "bokseskole.no",
-    "title": "Knockout.no - Live Stream Boxing",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 3060,
-    "crawled_at": "2026-08-12T11:08:13.065445141Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Ghost",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "Stripe",
-      "UTF-8",
       "jsDelivr"
     ]
   },
