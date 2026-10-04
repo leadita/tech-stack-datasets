@@ -1,5 +1,28 @@
 [
   {
+    "domain": "stratacoating.com",
+    "title": "Luxury Painting Services for Seattle Homes | Strata Coating",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 16823,
+    "crawled_at": "2026-10-03T21:48:05.2125774Z",
+    "technologies": [
+      "Cloudflare",
+      "Content Delivery Network",
+      "Equally AI",
+      "Fireblade",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "WordPress",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "starliteph.com",
     "title": "Reliable Plumbing & Heating Services New York | SPH",
     "business_name": "",
