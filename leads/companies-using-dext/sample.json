@@ -1,5 +1,39 @@
 [
   {
+    "domain": "lepidext.com",
+    "title": "HOME | Lepidext",
+    "business_name": "Lepidext",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 27256,
+    "crawled_at": "2026-10-04T02:28:02.143995519Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Dext",
+      "Express",
+      "Fastly",
+      "Fastly CDN",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Ntent",
+      "PWA",
+      "QUIC",
+      "SMC",
+      "Seflow Italy",
+      "Sentry",
+      "SiteW",
+      "UTF-8",
+      "UpContent",
+      "Vector Internet Services",
+      "Wix",
+      "Wix Media",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "bftcpa.net",
     "title": "CPA Technology Blog – Accounting Tech News and Commentary for Trusted Advisors",
     "business_name": "",
@@ -5712,41 +5746,6 @@
       "WordPress Multisite",
       "jQuery",
       "wpForo Forum"
-    ]
-  },
-  {
-    "domain": "lepidext.com",
-    "title": "HOME | Lepidext",
-    "business_name": "Lepidext",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 26856,
-    "crawled_at": "2026-02-09T06:09:50.325854352Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Dext",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Ntent",
-      "PWA",
-      "QUIC",
-      "SMC",
-      "Sentry",
-      "SiteW",
-      "UTF-8",
-      "UpContent",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "eLand",
-      "mlcom"
     ]
   }
 ]
