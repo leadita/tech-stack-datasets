@@ -1,5 +1,28 @@
 [
   {
+    "domain": "firstslo.si",
+    "title": "𝐹𝐼𝑅𝑆𝑇 Slovenia",
+    "business_name": "",
+    "country": "PRK",
+    "seo_score": 72,
+    "tech_spend": 17400,
+    "crawled_at": "2026-10-04T20:02:01.230761368Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Perl",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "frugally.app",
     "title": "Shift-Left FinOps Platform | Frugally",
     "business_name": "",
@@ -12695,34 +12718,6 @@
       "GitHub Hosting",
       "Perl",
       "Python"
-    ]
-  },
-  {
-    "domain": "mifi.no",
-    "title": "mifi.no",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2450,
-    "crawled_at": "2026-04-07T08:51:10.009428814Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "App Store",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Perl",
-      "Product Hunt",
-      "Twitter Ads",
-      "YouTube"
     ]
   }
 ]
