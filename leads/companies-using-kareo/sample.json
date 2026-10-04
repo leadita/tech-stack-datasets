@@ -1,5 +1,45 @@
 [
   {
+    "domain": "quickcareclinicservices.com",
+    "title": "Quick Care Clinic USA LLC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 15425,
+    "crawled_at": "2026-10-04T11:46:12.733356297Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Apture Linking Platform",
+      "DoubleClick Bid Manager",
+      "ETranslate",
+      "EmbedPress",
+      "GTranslate",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Kareo",
+      "Microdata for Google Shopping",
+      "OpenSSL",
+      "PHP",
+      "QUIC",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "UserWay",
+      "WP Rocket",
+      "WP Statistics",
+      "WordPress",
+      "WordPress Multisite",
+      "ZocDoc"
+    ]
+  },
+  {
     "domain": "transcendpsi.com",
     "title": "Psychiatrist in Arlington TX | Transcend Mental Health",
     "business_name": "Transcend Mental Health & Wellness",
@@ -17991,36 +18031,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "vitalpsychmd.com",
-    "title": "Mental Health Care - NYC, TX, & FL | Vital Psych MD",
-    "business_name": "Vital Psych MD",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 6983,
-    "crawled_at": "2026-04-11T19:01:15.754102184Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cornerstone",
-      "Duda",
-      "Elfsight",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Kareo",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8"
     ]
   }
 ]
