@@ -1,5 +1,40 @@
 [
   {
+    "domain": "graficaindustrial2r.cl",
+    "title": "GraficaIndustrial Gráfica Industrial 2R",
+    "business_name": "",
+    "country": "CHL",
+    "seo_score": 65,
+    "tech_spend": 17821,
+    "crawled_at": "2026-10-04T10:35:11.776480632Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apache",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Contact Form Plugin",
+      "EmbedPress",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Jetpack",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Schema Plugin",
+      "Semantic UI",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "wetubes.cn",
     "title": "WE TUBES",
     "business_name": "",
@@ -14655,28 +14690,6 @@
       "eLand",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "anneadeshomes.com",
-    "title": "Anne Ades Homes",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 3460,
-    "crawled_at": "2026-04-25T08:23:20.018001487Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ExpRealty",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Investor Relations",
-      "Nginx",
-      "Semantic UI",
-      "Ubuntu",
-      "jsDelivr"
     ]
   }
 ]
