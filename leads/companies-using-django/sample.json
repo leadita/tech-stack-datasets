@@ -1,5 +1,74 @@
 [
   {
+    "domain": "seeroark.com",
+    "title": "C. Roark Distinction - Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 2268,
+    "crawled_at": "2026-10-05T00:51:15.29967402Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Perl",
+      "QUIC",
+      "Twitter Ads",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "berndtandassociatespsychcare.com",
+    "title": "Mental Health Providers Boise | Berndt & Associates in Psych Care, LLC",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 17500,
+    "crawled_at": "2026-10-04T21:45:14.73811517Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "B12",
+      "DAV",
+      "Django",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Line2",
+      "Perl",
+      "QUIC",
+      "University or College",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "reillyrealty.com",
+    "title": "Reilly Realty and Management Corporation | Orlando REALTOR",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 2268,
+    "crawled_at": "2026-10-04T12:42:28.64878538Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Perl",
+      "QUIC",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "goodlandhousingauthority.com",
     "title": "Home - Goodland Housing Authority",
     "business_name": "",
@@ -8915,121 +8984,6 @@
       "YouTube",
       "jQuery",
       "tagDiv Cloud Library"
-    ]
-  },
-  {
-    "domain": "seeroark.com",
-    "title": "C. Roark Distinction - Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 2268,
-    "crawled_at": "2026-02-10T18:58:45.247955463Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Perl",
-      "QUIC",
-      "Twitter Ads",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "signshopav.com",
-    "title": "Sign Shopav - Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 1108,
-    "crawled_at": "2026-02-10T14:24:35.100633422Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "Express",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "University or College",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "berndtandassociatespsychcare.com",
-    "title": "Mental Health Providers Boise | Berndt & Associates in Psych Care, LLC",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 17500,
-    "crawled_at": "2026-02-10T13:47:42.868115977Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Line2",
-      "Perl",
-      "QUIC",
-      "University or College",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "cmlgroup.com",
-    "title": "CMLGroup",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 1068,
-    "crawled_at": "2026-02-09T23:32:00.820878552Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "QUIC",
-      "University or College"
-    ]
-  },
-  {
-    "domain": "reillyrealty.com",
-    "title": "Reilly Realty and Management Corporation | Orlando REALTOR",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 2268,
-    "crawled_at": "2026-02-09T23:00:12.297281992Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
     ]
   }
 ]

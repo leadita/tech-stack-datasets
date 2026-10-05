@@ -1,5 +1,41 @@
 [
   {
+    "domain": "sonrisefishing.com",
+    "title": "Experience the fun of Sonrise Fishing on Galveston Bay!",
+    "business_name": "Sonrise Fishing",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 35322,
+    "crawled_at": "2026-10-05T00:40:43.459546774Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon",
+      "Amazon API Gateway",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "DoubleClick Bid Manager",
+      "Fastly",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Maps",
+      "Harbor",
+      "Heap",
+      "Hubspot",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Stripe",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vimeo",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "arpio.cloud",
     "title": "AWS Service Coverage | Arpio",
     "business_name": "Arpio",
@@ -17859,38 +17895,6 @@
       "Vercel",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "cherokeecharters.com",
-    "title": "Lake Erie Fishing Charters | Cherokee Lake Erie Charters",
-    "business_name": "Cherokee Charters",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 20042,
-    "crawled_at": "2026-04-29T05:59:19.999856109Z",
-    "technologies": [
-      "Amazon",
-      "Amazon API Gateway",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Content Delivery Network",
-      "DoubleClick Bid Manager",
-      "Fastly",
-      "GZIP Module",
-      "Heap",
-      "Hubspot",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Stripe",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
