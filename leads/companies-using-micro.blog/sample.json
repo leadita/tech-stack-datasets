@@ -7753,26 +7753,5 @@
       "UTF-8",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "chrispowell.co",
-    "title": "Chris Powell",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 51360,
-    "crawled_at": "2026-02-10T04:45:24.203279661Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Micro.blog",
-      "QUIC",
-      "SMC",
-      "Twitter Ads",
-      "University or College",
-      "reCAPTCHA"
-    ]
   }
 ]

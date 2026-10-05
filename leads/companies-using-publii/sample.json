@@ -1,5 +1,31 @@
 [
   {
+    "domain": "tisgoud.nl",
+    "title": "'t is Goud-'t Is Goud | t is goud | tisgoud",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 72,
+    "tech_spend": 15567,
+    "crawled_at": "2026-10-05T05:11:12.943700907Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Crowdriff",
+      "FastClick",
+      "Font Awesome",
+      "GitHub Hosting",
+      "Hugo",
+      "IcoMoon",
+      "Nginx",
+      "Publii",
+      "Twitter Ads",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "bookcovers.eu",
     "title": "Book covers",
     "business_name": "Book covers",
@@ -8240,32 +8266,6 @@
       "Python",
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "tisgoud.nl",
-    "title": "'t is Goud-'t Is Goud | t is goud | tisgoud",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 77,
-    "tech_spend": 15567,
-    "crawled_at": "2026-02-11T01:53:04.394442734Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Crowdriff",
-      "FastClick",
-      "Font Awesome",
-      "GitHub Hosting",
-      "Hugo",
-      "IcoMoon",
-      "Nginx",
-      "Publii",
-      "Twitter Ads",
-      "jQuery"
     ]
   }
 ]
