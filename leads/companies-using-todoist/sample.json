@@ -2172,44 +2172,5 @@
       "Vector Internet Services",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "disco.dev",
-    "title": "Disco.dev: Open Source MCP Hub - Model Context Protocol Servers",
-    "business_name": "Disco.dev",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 28672,
-    "crawled_at": "2026-02-11T03:22:07.930342514Z",
-    "technologies": [
-      "1Password",
-      "AWS WAF Challenge",
-      "Adult Content",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Express",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Incident.io",
-      "Interchange",
-      "JIRA",
-      "Microdata for Google Shopping",
-      "Ntent",
-      "Product Hunt",
-      "Python",
-      "QUIC",
-      "Slack",
-      "Tailwind CSS",
-      "Todoist",
-      "Twitter Ads",
-      "Unix",
-      "Vector Internet Services",
-      "Vercel"
-    ]
   }
 ]
