@@ -1,5 +1,63 @@
 [
   {
+    "domain": "rockymountainibd.com",
+    "title": "Rocky Mountain IBD Course | Internal Medicine | U of U School of Medicine",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 80,
+    "tech_spend": "",
+    "crawled_at": "2026-10-05T03:01:10.228049442Z",
+    "technologies": [
+      "Backdrop",
+      "Content Delivery Network",
+      "Drupal",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Mautic",
+      "Nginx",
+      "PHP",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "geschenkxy.ch",
+    "title": "Geschenkxy Sommerhalder",
+    "business_name": "Geschenkxy Sommerhalder",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 56000,
+    "crawled_at": "2026-10-05T01:12:05.515303531Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Conversion Tracking",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Mautic",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Perl",
+      "QUIC",
+      "SMC",
+      "Twitter Ads",
+      "UTF-8",
+      "Yandex Hosting",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "rppsinvestimentos.com.br",
     "title": "Gestão de Carteira e Relatórios Financeiros para RPPS, OnFinance®",
     "business_name": "OnFinance",
@@ -21129,54 +21187,6 @@
       "Zendesk Embeddables",
       "Zendesk Guide",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "anorahgroup.co.za",
-    "title": "Anorah Story",
-    "business_name": "Anorah Group",
-    "country": "ZAF",
-    "seo_score": 42,
-    "tech_spend": 99,
-    "crawled_at": "2026-04-09T04:02:19.996386189Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Font Awesome",
-      "GZIP Module",
-      "Mautic",
-      "Microdata for Google Shopping",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "docasaurus.com",
-    "title": "Docasaurus - Legal Document Automation",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 222,
-    "crawled_at": "2026-04-08T22:41:19.987839145Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Adobe Creative Cloud WebFonts",
-      "Adobe Edge Web Fonts",
-      "AutoComplete",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Mautic",
-      "Mixpanel",
-      "Nginx",
-      "Pleroma",
-      "QUIC",
-      "Subversion",
-      "UTF-8",
-      "Ubuntu"
     ]
   }
 ]
