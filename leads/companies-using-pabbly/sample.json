@@ -1,5 +1,32 @@
 [
   {
+    "domain": "chitrasolar.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 2878,
+    "crawled_at": "2026-10-04T21:13:24.981170905Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Express",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Pabbly",
+      "Perl",
+      "Thank You",
+      "Zyro"
+    ]
+  },
+  {
     "domain": "staceynaglie.com",
     "title": "Headshot & Personal Branding Photographer | Stacey Naglie Photography",
     "business_name": "",
