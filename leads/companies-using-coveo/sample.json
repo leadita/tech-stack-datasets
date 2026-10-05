@@ -1,5 +1,38 @@
 [
   {
+    "domain": "ennuestroadnsc.org",
+    "title": "En Nuestro ADN SC | MUSC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 43960,
+    "crawled_at": "2026-10-05T21:20:57.536947016Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Coveo",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Material Design Icons",
+      "Microdata for Google Shopping",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Visual Studio",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "sscblueprism.cloud",
     "title": "Agentic Automation Company | Leaders in Agentic AI, Automation, RPA & BPM | SS&C Blue Prism",
     "business_name": "SS&C Blue Prism",
@@ -3952,38 +3985,6 @@
       "YouTube",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "ennuestroadnsc.org",
-    "title": "En Nuestro ADN SC | MUSC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 43960,
-    "crawled_at": "2026-02-12T04:34:17.168014687Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Coveo",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Material Design Icons",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Visual Studio",
-      "YouTube"
     ]
   }
 ]
