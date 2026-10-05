@@ -1,5 +1,57 @@
 [
   {
+    "domain": "dzialkowski.net",
+    "title": "Dariusz Działkowski",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 219,
+    "crawled_at": "2026-10-05T04:16:58.72157913Z",
+    "technologies": [
+      "Apache",
+      "Dialogflow",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "mitrabjb.id",
+    "title": "Koperasi MBJB (Mitra Bina Jaya Berdikari)",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 5719,
+    "crawled_at": "2026-10-05T01:19:30.074594094Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dialogflow",
+      "ElementUI",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "Instagram Follow Button",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Tailwind CSS",
+      "TrustLogo",
+      "Visual Studio",
+      "WhatsApp Sharing",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "sportspass.ch",
     "title": "Fitpass - Home",
     "business_name": "",
@@ -9395,58 +9447,6 @@
       "WordPress Multisite",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "dzialkowski.net",
-    "title": "Dariusz Działkowski",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 219,
-    "crawled_at": "2026-02-11T00:28:44.947984784Z",
-    "technologies": [
-      "Apache",
-      "Dialogflow",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "University or College"
-    ]
-  },
-  {
-    "domain": "mitrabjb.id",
-    "title": "Koperasi MBJB (Mitra Bina Jaya Berdikari)",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 5719,
-    "crawled_at": "2026-02-10T19:45:19.086254257Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dialogflow",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "Instagram Follow Button",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Tailwind CSS",
-      "TrustLogo",
-      "Visual Studio",
-      "WhatsApp Sharing",
-      "YouTube",
-      "jsDelivr"
     ]
   }
 ]
