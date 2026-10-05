@@ -1,5 +1,31 @@
 [
   {
+    "domain": "incongrue.com",
+    "title": "Incongrue",
+    "business_name": "Incongrue",
+    "country": "FRA",
+    "seo_score": 77,
+    "tech_spend": 25255,
+    "crawled_at": "2026-10-04T20:46:49.997629244Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Contento",
+      "EmbedPress",
+      "LiteSpeed",
+      "MailChimp for WordPress",
+      "Microdata for Google Shopping",
+      "Namecheap",
+      "PHP",
+      "Page scroll to id",
+      "Perl",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "protectiid.com",
     "title": "Protect IID",
     "business_name": "",
@@ -444,32 +470,6 @@
       "Theme In WP",
       "UTF-8",
       "WP Rocket",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "incongrue.com",
-    "title": "Incongrue",
-    "business_name": "Incongrue",
-    "country": "FRA",
-    "seo_score": 77,
-    "tech_spend": 25255,
-    "crawled_at": "2026-02-10T12:13:12.4706363Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Contento",
-      "EmbedPress",
-      "LiteSpeed",
-      "MailChimp for WordPress",
-      "Microdata for Google Shopping",
-      "Namecheap",
-      "PHP",
-      "Page scroll to id",
-      "QUIC",
-      "Theme In WP",
-      "UTF-8",
       "WordPress",
       "WordPress Multisite",
       "jQuery"
