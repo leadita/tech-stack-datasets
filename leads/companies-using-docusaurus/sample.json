@@ -1,5 +1,30 @@
 [
   {
+    "domain": "lincsproject.ca",
+    "title": "Home | LINCS",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 67,
+    "tech_spend": 21387,
+    "crawled_at": "2026-10-05T01:26:41.167404773Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "Financial Services Guide",
+      "Font Awesome",
+      "KVH",
+      "License Buttons",
+      "Matomo",
+      "Perl",
+      "QUIC",
+      "Subversion",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "firstslo.si",
     "title": "𝐹𝐼𝑅𝑆𝑇 Slovenia",
     "business_name": "",
@@ -12696,28 +12721,6 @@
       "University or College",
       "Unsplash",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "joeobarzanek.com",
-    "title": "Hello | joeobarzanek.com",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 67,
-    "tech_spend": 2450,
-    "crawled_at": "2026-04-07T12:41:19.997376459Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Perl",
-      "Python"
     ]
   }
 ]

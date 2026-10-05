@@ -1,5 +1,62 @@
 [
   {
+    "domain": "svrbc.org",
+    "title": "Silicon Valley Reformed Baptist Church - SVRBC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 228,
+    "crawled_at": "2026-10-05T22:33:57.512052329Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Google My Business",
+      "Gridsome",
+      "Netlify",
+      "PWA",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "timh.link",
+    "title": "Tim Hurley | Designer + Engineer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 228,
+    "crawled_at": "2026-10-05T21:47:47.248269042Z",
+    "technologies": [
+      "Astro",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Gridsome",
+      "Mastodon",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "barbersoflondon.ca",
+    "title": "Barbers of London",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 62,
+    "tech_spend": 6328,
+    "crawled_at": "2026-10-05T09:10:02.787840564Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Gridsome",
+      "Idaq",
+      "Instagram Follow Button",
+      "Netlify",
+      "Phorest",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "boa.nu",
     "title": "Home - boa.nu",
     "business_name": "",
@@ -3212,25 +3269,6 @@
       "Twitter Ads",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "timh.au",
-    "title": "Tim Hurley | Designer + Engineer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": "",
-    "crawled_at": "2026-05-30T17:21:36.032417558Z",
-    "technologies": [
-      "Astro",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Gridsome",
-      "Mastodon",
-      "Tailwind CSS"
     ]
   },
   {
@@ -8827,24 +8865,6 @@
     ]
   },
   {
-    "domain": "barbersoflondon.com",
-    "title": "Barbers of London",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 57,
-    "tech_spend": 2250,
-    "crawled_at": "2026-04-21T09:59:20.02506634Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "Idaq",
-      "Instagram Follow Button",
-      "Netlify",
-      "Phorest",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "sunburydigital.com.au",
     "title": "Digital Marketing Agency Sunbury | Sunbury Digital",
     "business_name": "",
@@ -11907,41 +11927,6 @@
       "Tailwind CSS",
       "The Deck",
       "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "lewiskori.com",
-    "title": "Home | Lewis Kori – Entrepreneur, Product Builder, Operator",
-    "business_name": "",
-    "country": "",
-    "seo_score": 82,
-    "tech_spend": 19228,
-    "crawled_at": "2026-03-16T02:01:09.728565951Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apache",
-      "App Store",
-      "Astro",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudinary",
-      "Directus",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "Gridsome",
-      "InitiativeS",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
       "shadcn ui"
     ]
   }
