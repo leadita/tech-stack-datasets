@@ -1,5 +1,123 @@
 [
   {
+    "domain": "ataiconstruction.com",
+    "title": "Atai Construction",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 318,
+    "crawled_at": "2026-10-05T14:49:16.858155396Z",
+    "technologies": [
+      "Apache",
+      "Cognito Forms",
+      "DatoCMS",
+      "Font Awesome",
+      "GZIP Module",
+      "Slider Revolution",
+      "UTF-8",
+      "Ubuntu",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "icelandfood.is",
+    "title": "Icelandic Food Company",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 5066,
+    "crawled_at": "2026-10-05T13:14:23.735517103Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Endis",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "imstetf.com",
+    "title": "IMST - Bitwise MSTR Option Income Strategy ETF",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 59628,
+    "crawled_at": "2026-10-05T07:47:09.915186395Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Cloudflare Turnstile",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Next.js",
+      "Pleroma",
+      "Prospective",
+      "QUIC",
+      "Radix UI",
+      "SMC",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "mortcofertilisers.com.au",
+    "title": "KIVAS — A New Category in Agriculture",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 77,
+    "tech_spend": 43324,
+    "crawled_at": "2026-10-04T22:42:47.427907692Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Astro",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "M247",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vimeo"
+    ]
+  },
+  {
+    "domain": "meirsoloveichik.com",
+    "title": "Rabbi Meir Soloveichik | Tikvah Ideas",
+    "business_name": "",
+    "country": "ISR",
+    "seo_score": 62,
+    "tech_spend": 6432,
+    "crawled_at": "2026-10-04T22:06:50.029113638Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Algolia",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Express",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Next.js",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "jamesst.com.au",
     "title": "Home | James Street",
     "business_name": "",
@@ -1012,34 +1130,6 @@
       "UTF-8",
       "WordPress",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "bitbetp.com",
-    "title": "BITB | Bitwise Bitcoin ETF",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 82588,
-    "crawled_at": "2026-09-23T22:41:17.066161215Z",
-    "technologies": [
-      "Amazon S3 CDN",
-      "Cloudflare Turnstile",
-      "Content Delivery Network",
-      "DAV",
-      "DatoCMS",
-      "Financial Services Guide",
-      "Fireblade",
-      "Next.js",
-      "Pleroma",
-      "Prospective",
-      "RM Education",
-      "Radix UI",
-      "SMC",
-      "Storyblocks",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {
@@ -6382,31 +6472,6 @@
       "Pleroma",
       "Subversion",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "tikvahideas.dev",
-    "title": "Tikvah Ideas",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 21432,
-    "crawled_at": "2026-06-08T09:19:31.219980876Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Algolia",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "DatoCMS",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Next.js",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "YouTube",
-      "shadcn ui"
     ]
   },
   {
@@ -14078,91 +14143,6 @@
       "Styled Components",
       "UTF-8",
       "University or College"
-    ]
-  },
-  {
-    "domain": "mapuawealth.com",
-    "title": "Māpua Wealth - NZ-owned investment consultants",
-    "business_name": "",
-    "country": "NZL",
-    "seo_score": 77,
-    "tech_spend": 2616,
-    "crawled_at": "2026-05-03T05:32:26.009438649Z",
-    "technologies": [
-      "Astro",
-      "Content Delivery Network",
-      "DatoCMS",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Netlify",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "powerswitchaction.org",
-    "title": "PowerSwitch Action | Local organizing sparking national transformation",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 55386,
-    "crawled_at": "2026-05-03T04:45:59.753732756Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Apyl",
-      "Blackbaud",
-      "Bulma",
-      "CloudFront",
-      "Content Delivery Network",
-      "DAV",
-      "DatoCMS",
-      "EveryAction",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Gatsby Image CDN",
-      "Gatsby JS",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "KVH",
-      "Netlify",
-      "No-Q",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "weekdaywarriors.com",
-    "title": "Weekday Warriors",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 63,
-    "crawled_at": "2026-05-03T02:53:19.995385419Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Content Delivery Network",
-      "DatoCMS",
-      "Gatsby JS",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Netlify",
-      "Subversion",
-      "UTF-8"
     ]
   }
 ]
