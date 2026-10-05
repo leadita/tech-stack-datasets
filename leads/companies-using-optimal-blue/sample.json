@@ -1,5 +1,39 @@
 [
   {
+    "domain": "florida-mortgageloans.com",
+    "title": "Mortgage Loans in Saint Petersburg, FL",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 92,
+    "tech_spend": 34560,
+    "crawled_at": "2026-10-05T07:07:30.299936344Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Authorize.net",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Google Tag Manager",
+      "Investor Relations",
+      "Microdata for Google Shopping",
+      "Nationwide Mortgage Licensing System and Registry",
+      "No-Q",
+      "Nuxt.js",
+      "Optimal Blue",
+      "QUIC",
+      "UTF-8",
+      "UserWay",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "beycomeloan.com",
     "title": "Home Loans Without the Runaround | Beycome Mortgage",
     "business_name": "",
@@ -6265,38 +6299,6 @@
       "accessiBe",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "gmloans.com",
-    "title": "Mortgage Loans in Saint Petersburg, FL",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 34560,
-    "crawled_at": "2026-04-09T17:11:19.983811941Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Authorize.net",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google Tag Manager",
-      "Investor Relations",
-      "Nationwide Mortgage Licensing System and Registry",
-      "No-Q",
-      "Nuxt.js",
-      "Optimal Blue",
-      "QUIC",
-      "UTF-8",
-      "UserWay",
-      "YouTube"
     ]
   },
   {
