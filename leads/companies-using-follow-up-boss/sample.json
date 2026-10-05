@@ -1,5 +1,32 @@
 [
   {
+    "domain": "owncabohomes.com",
+    "title": "Los Cabos homes for sale — curated search & buyer guidance",
+    "business_name": "",
+    "country": "MEX",
+    "seo_score": 77,
+    "tech_spend": 17220,
+    "crawled_at": "2026-10-05T01:07:28.810253483Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Follow Up Boss",
+      "Homes.com CMS",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Neighborhoods",
+      "Netlify",
+      "Next.js",
+      "QUIC",
+      "RM Education",
+      "Spark Platform",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "villasatfallenspruce.com",
     "title": "Home | Villas at Fallen Spruce",
     "business_name": "",
