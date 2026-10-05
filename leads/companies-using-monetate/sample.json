@@ -1,5 +1,36 @@
 [
   {
+    "domain": "socalpethospital.com",
+    "title": "Veterinarian in Murrieta, CA | SoCal Pet Hospital – Your Trusted Veterinary Clinic for Pet Wellness, Surgery, Emergency Care & More. Book an Appointment Today!",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 65380,
+    "crawled_at": "2026-10-04T23:16:25.785437608Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "DAV",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Monetate",
+      "QUIC",
+      "Tailwind CSS",
+      "Visual Studio",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "southbellmoreveterinarygroup.com",
     "title": "Veterinarian in Bellmore, NY | South Bellmore Veterinary Group – Your Trusted Veterinary Clinic for Pet Wellness, Surgery, Emergency Care & More. Book an Appointment Today!",
     "business_name": "",
@@ -16447,36 +16478,6 @@
       "Zendesk Embeddables",
       "eLand",
       "iGoDigital"
-    ]
-  },
-  {
-    "domain": "socalpethospital.com",
-    "title": "Veterinarian in Murrieta, CA | SoCal Pet Hospital – Your Trusted Veterinary Clinic for Pet Wellness, Surgery, Emergency Care & More. Book an Appointment Today!",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 65380,
-    "crawled_at": "2026-02-10T16:18:02.122131863Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "DAV",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Monetate",
-      "Tailwind CSS",
-      "Visual Studio",
-      "jQuery"
     ]
   }
 ]

@@ -6984,43 +6984,5 @@
       "YouTube",
       "jQuery"
     ]
-  },
-  {
-    "domain": "theessentialbs.com",
-    "title": "TheEssentialBS.com |",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 4509,
-    "crawled_at": "2026-02-10T06:13:48.217199516Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Amazon WAF Blocked",
-      "BLR",
-      "Content Delivery Network",
-      "Convert",
-      "EmbedPress",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Perl",
-      "Tumblr",
-      "Twitter Ads",
-      "UTF-8",
-      "WP Engine",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "YouTube"
-    ]
   }
 ]
