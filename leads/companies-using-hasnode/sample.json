@@ -1,5 +1,56 @@
 [
   {
+    "domain": "omprakashpandey.com",
+    "title": "Om Prakash Pandey — Full Stack Developer (React, Next.js, TypeScript)",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 87,
+    "tech_spend": 2788,
+    "crawled_at": "2026-10-06T11:38:08.570916789Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Express",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Hasnode",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "manishsingh.tech",
+    "title": "Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 1472,
+    "crawled_at": "2026-10-05T21:35:44.902586135Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudinary",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Hasnode",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Ntent",
+      "PWA",
+      "Python",
+      "Sitelinks Search Box",
+      "Twitter Ads",
+      "UTF-8",
+      "Unsplash",
+      "Vello"
+    ]
+  },
+  {
     "domain": "brightonmainstreets.org",
     "title": "Brighton Main Streets - Brighton Main Streets",
     "business_name": "Brighton Main Streets",
@@ -11686,38 +11737,6 @@
       "about.me",
       "itch.io",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "manishsingh.tech",
-    "title": "Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 1272,
-    "crawled_at": "2026-02-12T04:34:17.221570322Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudinary",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Hasnode",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "PWA",
-      "Python",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Unsplash",
-      "Vello",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
