@@ -1,5 +1,32 @@
 [
   {
+    "domain": "nowarp.io",
+    "title": "nowarp - Web3 Security",
+    "business_name": "",
+    "country": "EGY",
+    "seo_score": 65,
+    "tech_spend": 3060,
+    "crawled_at": "2026-10-06T13:42:34.319181546Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Perl",
+      "Telegram",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "lincsproject.ca",
     "title": "Home | LINCS",
     "business_name": "",
@@ -12693,34 +12720,6 @@
       "Perl",
       "QUIC",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "kapui.net",
-    "title": "Ka Pui (August) Cheung - Portfolio",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 72,
-    "tech_spend": 66824,
-    "crawled_at": "2026-04-07T13:26:20.01667291Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Clearbit",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Turnstile",
-      "Docusaurus",
-      "GitHub Hosting",
-      "KVH",
-      "Microsoft Clarity",
-      "NFOrce Internet",
-      "Python",
-      "Radix UI",
-      "Telegram",
-      "University or College",
-      "Unsplash",
-      "Vercel"
     ]
   }
 ]
