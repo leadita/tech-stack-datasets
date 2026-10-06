@@ -1,5 +1,35 @@
 [
   {
+    "domain": "sunrisemovementnashville.org",
+    "title": "SUNRISE MOVEMENT NASHVILLE",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 45648,
+    "crawled_at": "2026-10-06T08:37:54.714706053Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Blackbaud",
+      "Content Delivery Network",
+      "EmbedPress",
+      "EveryAction",
+      "Google Calendar",
+      "Google My Business",
+      "Instagram Feed for WordPress",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "NFOrce Internet",
+      "NGP VAN",
+      "PHP",
+      "Twenty Twenty-Four",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "floridastudentpower.org",
     "title": "Florida Student Power Network – building power among young people",
     "business_name": "",
@@ -19806,40 +19836,6 @@
       "Wix Media",
       "YouTube",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "dcabortionfund.org",
-    "title": "DC Abortion Fund",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 107413,
-    "crawled_at": "2026-04-12T17:31:45.173209023Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Aruba",
-      "Blackbaud",
-      "EveryAction",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Perl",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
