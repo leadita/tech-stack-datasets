@@ -1,5 +1,31 @@
 [
   {
+    "domain": "medicalinnovation.io",
+    "title": "MIX: MedTech Innovation Community & Resources",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 10892,
+    "crawled_at": "2026-10-06T02:21:42.159085537Z",
+    "technologies": [
+      "1Password",
+      "Alternate Protocol",
+      "Framer Sites",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Tag Manager",
+      "Gusto",
+      "Instagram Follow Button",
+      "Lemon Squeezy",
+      "Microsoft Clarity",
+      "Ntent",
+      "QUIC",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
     "domain": "thesearchex.com",
     "title": "The Search Experience | Top-Rated Sales and Marketing Recruiter in San Francisco",
     "business_name": "The Search Experience, Inc.",
@@ -4990,32 +5016,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "medtech-mastermind.com",
-    "title": "MIX: MedTech Innovation Community & Resources",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 10892,
-    "crawled_at": "2026-06-04T04:10:07.067042189Z",
-    "technologies": [
-      "1Password",
-      "Alternate Protocol",
-      "Framer Sites",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "Gusto",
-      "Instagram Follow Button",
-      "Lemon Squeezy",
-      "Microsoft Clarity",
-      "Ntent",
-      "QUIC",
-      "Yandex Hosting",
-      "Zeald"
     ]
   },
   {
