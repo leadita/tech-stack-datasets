@@ -1,5 +1,30 @@
 [
   {
+    "domain": "hadleypropertygroup.com",
+    "title": "Hadley Property Group",
+    "business_name": "Hadley Property Group Ltd",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 51136,
+    "crawled_at": "2026-10-06T01:46:07.058449127Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Amazon Advertising Sizmek Ad Suite",
+      "Cookie Accept",
+      "Craft",
+      "Google Analytics",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "nancypieperrealestate.com",
     "title": "Home - Nancy Pieper Realtor",
     "business_name": "Nancy Pieper Realtor",
@@ -8886,32 +8911,6 @@
       "Zanox",
       "admitad",
       "financeAds"
-    ]
-  },
-  {
-    "domain": "hadleypropertygroup.com",
-    "title": "Hadley Property Group",
-    "business_name": "Hadley Property Group Ltd",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 51376,
-    "crawled_at": "2026-02-12T11:15:28.997079023Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Amazon Advertising Sizmek Ad Suite",
-      "Angular",
-      "Cookie Accept",
-      "Craft",
-      "Google Analytics",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Twitter Ads",
-      "UTF-8",
-      "Vimeo",
-      "WordPress SEO Structured Data Schema Plugin",
-      "shadcn ui"
     ]
   }
 ]
