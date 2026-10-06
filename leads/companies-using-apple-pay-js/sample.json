@@ -1,5 +1,31 @@
 [
   {
+    "domain": "faizgroupeltd.com",
+    "title": "FAIZ GROUPE LTD",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 60,
+    "tech_spend": 8220,
+    "crawled_at": "2026-10-05T16:08:19.626420926Z",
+    "technologies": [
+      "Amazon",
+      "Apple Pay JS",
+      "Apture Linking Platform",
+      "Azion",
+      "Express",
+      "Fastly",
+      "Fingerprint Pro",
+      "Fireblade",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Subversion",
+      "UTF-8",
+      "Yandex Hosting",
+      "YouCan",
+      "eLand"
+    ]
+  },
+  {
     "domain": "encaustic-world.com",
     "title": "World of encaustic painting",
     "business_name": "",
@@ -10562,90 +10588,6 @@
       "UTF-8",
       "Underscores",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "fobaking.com",
-    "title": "www.fobaking.com",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 75668,
-    "crawled_at": "2026-02-12T12:27:00.258733081Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apple Pay JS",
-      "Aruba",
-      "Cart.com",
-      "Cloudflare",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "eLand",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "occurensue.com",
-    "title": "occurensue",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 7500,
-    "crawled_at": "2026-02-12T04:50:30.20018645Z",
-    "technologies": [
-      "Apple Pay JS",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Express",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Fireblade",
-      "GZIP Module",
-      "GetResponse",
-      "Giropay",
-      "Microdata for Google Shopping",
-      "PayPal",
-      "PayPal Adaptive Payments",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Underscores",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "voswitch.com",
-    "title": "A original switch control system manufacturer. we made switch panel for Jeep, truck, boat and UTV.",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 82,
-    "tech_spend": 75668,
-    "crawled_at": "2026-02-12T00:59:59.503087551Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apple Pay JS",
-      "Aruba",
-      "Cart.com",
-      "Cloudflare",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Subversion",
-      "UTF-8",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
