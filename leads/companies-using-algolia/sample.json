@@ -1,5 +1,49 @@
 [
   {
+    "domain": "blinkistjobs.com",
+    "title": "Jobs at Blinkist",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 72,
+    "tech_spend": 228279,
+    "crawled_at": "2026-10-06T15:42:33.69610964Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adjust",
+      "Algolia",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon Widgets",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "Cybot",
+      "DAV",
+      "Datadog",
+      "Federal Deposit Insurance Corporation",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Greenhouse",
+      "Instagram Follow Button",
+      "JUST",
+      "KVH",
+      "Matomo Tag Manager",
+      "Medium",
+      "Ntent",
+      "Optimizely Recommendations",
+      "SMC",
+      "Smart App Banner",
+      "Twitter Ads",
+      "UTF-8",
+      "Zope"
+    ]
+  },
+  {
     "domain": "gmgallerybd.com",
     "title": "GM Gallery BD - Home",
     "business_name": "",
@@ -21439,33 +21483,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "sonoskills.com",
-    "title": "MSK Ultrasound Courses for Healthcare Professionals - SonoSkills",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 72,
-    "tech_spend": 19027,
-    "crawled_at": "2026-05-22T15:23:19.976497397Z",
-    "technologies": [
-      "Algolia",
-      "Apache",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "PHP",
-      "Twitter Ads",
-      "UTF-8",
-      "VWO Engage",
-      "Vimeo",
-      "Visual Website Optimizer",
-      "jsDelivr"
     ]
   }
 ]
