@@ -1,5 +1,31 @@
 [
   {
+    "domain": "evomatiq.com",
+    "title": "ERP, FP&A & HR Software Partner in the GCC | EvomatiQ",
+    "business_name": "EvomatiQ Software Solutions LLC",
+    "country": "",
+    "seo_score": 82,
+    "tech_spend": 68200,
+    "crawled_at": "2026-10-05T22:19:48.776030169Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Hubspot Knowledge Base",
+      "Instagram Follow Button",
+      "LinkedIn Insights",
+      "LinkedIn Pixel",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Sage Intacct",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "ernestogaldamez.com",
     "title": "Ernesto Galdamez | Technical Lead & Senior Software Engineer",
     "business_name": "",
