@@ -1,5 +1,34 @@
 [
   {
+    "domain": "bitahonarvar.photos",
+    "title": "BITA HONARVAR | Photographer • Visuals Editor",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 176693,
+    "crawled_at": "2026-10-07T13:31:31.326774751Z",
+    "technologies": [
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Narvar",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "Vignette OpenText",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "urbanleafs.shop",
     "title": "Urbanleafs® Official Site | Free Shipping on orders $37.5+",
     "business_name": "Urbanleafs",
@@ -875,38 +904,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "bitahonarvar.net",
-    "title": "BITA HONARVAR | Photographer • Visuals Editor",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 179133,
-    "crawled_at": "2026-05-14T05:59:19.973672154Z",
-    "technologies": [
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Narvar",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "Vignette OpenText",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   },
   {
