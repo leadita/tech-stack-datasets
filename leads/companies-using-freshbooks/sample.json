@@ -3401,33 +3401,5 @@
       "eShow",
       "jQuery"
     ]
-  },
-  {
-    "domain": "everthere.com",
-    "title": "Everthere - Digital Partner",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 80,
-    "tech_spend": 1699,
-    "crawled_at": "2026-02-13T11:50:40.045438618Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "Flat Icon",
-      "FreshBooks",
-      "GZIP Module",
-      "Google My Business",
-      "License Buttons",
-      "PHP",
-      "QUIC",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "reCAPTCHA"
-    ]
   }
 ]
