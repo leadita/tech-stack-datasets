@@ -10244,46 +10244,5 @@
       "Thank You",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "discoverevs.com",
-    "title": "Electric Vehicle Comparison Tool | Compare EVs by Price, Range & Features | Discover EVs",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 77,
-    "tech_spend": 169684,
-    "crawled_at": "2026-02-14T06:54:33.058628174Z",
-    "technologies": [
-      "Adobe Scene7",
-      "Adult Content",
-      "Amazon S3 CDN",
-      "Astro",
-      "Audi AG",
-      "Carpathia Hosting",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "DAV",
-      "Dealer.com",
-      "DealerInspire",
-      "Fireblade",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "Gravity",
-      "Imgix",
-      "KVH",
-      "Next.js",
-      "Pleroma",
-      "PressPage",
-      "Roxen",
-      "Storyblocks",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "Unsplash",
-      "WordPress"
-    ]
   }
 ]
