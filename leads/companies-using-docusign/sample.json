@@ -1,5 +1,30 @@
 [
   {
+    "domain": "uimonline.education",
+    "title": "University of Integrative Medicine",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 3568,
+    "crawled_at": "2026-10-07T15:25:04.808353175Z",
+    "technologies": [
+      "Apache",
+      "DocuSign",
+      "Express",
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Line2",
+      "PWA",
+      "UTF-8",
+      "University or College",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "unite-cu.org",
     "title": "UNITE Credit Union | Loans, Accounts & More | Convenient Cedar Falls Branch | Mortgages | HELOC | New & Used Auto Loans | See Current Rates | Iowa Credit Union | Loan Rates | Student Loans | Loan Refinancing",
     "business_name": "UNITE Credit Union",
@@ -11473,31 +11498,6 @@
       "Vector Internet Services",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "uimonline.education",
-    "title": "University of Integrative Medicine",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 3568,
-    "crawled_at": "2026-02-14T23:40:06.774009937Z",
-    "technologies": [
-      "Apache",
-      "DocuSign",
-      "Express",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "PWA",
-      "UTF-8",
-      "University or College",
-      "Wangsu",
-      "Website Tonight"
     ]
   }
 ]
