@@ -1,5 +1,79 @@
 [
   {
+    "domain": "tranzac.org",
+    "title": "Tranzac - Tranzac",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 1403,
+    "crawled_at": "2026-10-07T10:58:23.293754754Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Idaq",
+      "Instagram Follow Button",
+      "Netlify",
+      "Nuxt.js",
+      "Plausible Analytics",
+      "Stripe",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "silorealestate.com.au",
+    "title": "Silo Real Estate | Redefining Luxury Property in New Zealand | Silo Real Estate",
+    "business_name": "Silo Real Estate",
+    "country": "DEU",
+    "seo_score": 77,
+    "tech_spend": 18855,
+    "crawled_at": "2026-10-06T21:19:37.960029465Z",
+    "technologies": [
+      "Atollon",
+      "Cloudflare",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Endis",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "reneerossbooks.com",
+    "title": "Renee Ross Books",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-10-06T18:32:39.470819536Z",
+    "technologies": [
+      "Amazon Widgets",
+      "Astro",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Instagram Follow Button",
+      "Netlify",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "mfisher.com",
     "title": "Matthew Fisher / Art Objects ©2026",
     "business_name": "",
@@ -14097,83 +14171,6 @@
       "Vercel",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "tuya.gr",
-    "title": "Mediterranean Cuisine Adventure | TUYA MYKONOS",
-    "business_name": "",
-    "country": "GRC",
-    "seo_score": 72,
-    "tech_spend": 138046,
-    "crawled_at": "2026-05-03T07:56:59.296431909Z",
-    "technologies": [
-      "34SP.com",
-      "Content Delivery Network",
-      "DAV",
-      "DatoCMS",
-      "Ethy",
-      "Federal Deposit Insurance Corporation",
-      "Financial Services Guide",
-      "Gatsby JS",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Idaq",
-      "Instagram Follow Button",
-      "K2F",
-      "KVH",
-      "Netlify",
-      "No-Q",
-      "O2MC Dimml",
-      "Onyx Internet",
-      "SEVENROOMS",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "wnre.com.au",
-    "title": "Home | Warlimont & Nutt",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 67,
-    "tech_spend": 8004,
-    "crawled_at": "2026-05-03T07:41:19.983289674Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Atollon",
-      "Birdeye",
-      "Content Delivery Network",
-      "DAV",
-      "DatoCMS",
-      "Gatsby JS",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Netlify",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "flanerie.land",
-    "title": "Flânerie",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-05-03T07:13:11.402259301Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DatoCMS",
-      "Instagram Follow Button",
-      "Netlify",
-      "Nuxt.js",
-      "UTF-8",
-      "eLand"
     ]
   }
 ]
