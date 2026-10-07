@@ -1,5 +1,36 @@
 [
   {
+    "domain": "cellex-transports.me",
+    "title": "Cellex: Full-Service CDMO for Cell Therapy",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 87,
+    "tech_spend": 9349,
+    "crawled_at": "2026-10-07T05:37:21.547710149Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cookie First",
+      "DoubleClick Bid Manager",
+      "Elfsight",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "PHP",
+      "Recruitee",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "walibi-world.eu",
     "title": "Walibi Holland | The ultimate amusement park",
     "business_name": "",
@@ -9556,37 +9587,6 @@
       "UTF-8",
       "University or College",
       "Vimeo CDN"
-    ]
-  },
-  {
-    "domain": "cellex.me",
-    "title": "Cellex: Full-Service CDMO for Cell and Gene Therapy",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 67,
-    "tech_spend": 9349,
-    "crawled_at": "2026-02-22T03:41:20.31831295Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cookie First",
-      "DoubleClick Bid Manager",
-      "Elfsight",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "PHP",
-      "Recruitee",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "shadcn ui"
     ]
   },
   {
