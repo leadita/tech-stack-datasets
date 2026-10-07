@@ -1160,45 +1160,5 @@
       "Vello",
       "YouTube"
     ]
-  },
-  {
-    "domain": "einsteinplus.it",
-    "title": "Piattaforma e-learning - Liceo A. Einstein Torino",
-    "business_name": "",
-    "country": "ITA",
-    "seo_score": 67,
-    "tech_spend": 32600,
-    "crawled_at": "2026-02-14T21:56:17.166941345Z",
-    "technologies": [
-      "Azion",
-      "Fastly",
-      "LiteSpeed",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "Totara",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "lw-moodle.cl",
-    "title": "Home | lw-moodle",
-    "business_name": "",
-    "country": "CHL",
-    "seo_score": 50,
-    "tech_spend": 10500,
-    "crawled_at": "2026-02-13T16:34:34.048778678Z",
-    "technologies": [
-      "Apache",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "Tailwind CSS",
-      "Totara",
-      "UTF-8",
-      "jsDelivr"
-    ]
   }
 ]
