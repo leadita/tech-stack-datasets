@@ -1,5 +1,47 @@
 [
   {
+    "domain": "harvac.com.au",
+    "title": "Delivering extraordinary experiences | HARVAC group",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 60,
+    "tech_spend": "",
+    "crawled_at": "2026-10-07T01:52:50.749985112Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google My Business",
+      "Gridsome",
+      "Netlify",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "amxmln.com",
+    "title": "Portfolio | Amadeus Maximilian",
+    "business_name": "",
+    "country": "IRL",
+    "seo_score": 72,
+    "tech_spend": 60000,
+    "crawled_at": "2026-10-07T00:45:47.109099941Z",
+    "technologies": [
+      "AAPT",
+      "AWS WAF Challenge",
+      "DAV",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Gridsome",
+      "KVH",
+      "Mastodon",
+      "Subversion",
+      "Tailwind CSS",
+      "Telegram",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services"
+    ]
+  },
+  {
     "domain": "homeofbeautyandfood.nl",
     "title": "Home of Beauty and Food",
     "business_name": "",
@@ -4248,25 +4290,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vimeo"
-    ]
-  },
-  {
-    "domain": "thepearlhotel.com.au",
-    "title": "The Pearl - The Pearl",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 50,
-    "tech_spend": 471,
-    "crawled_at": "2026-05-19T02:46:49.644961906Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Netlify",
-      "OpenTable",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   },
   {
@@ -11896,28 +11919,6 @@
       "Gridsome",
       "QUIC",
       "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "loaded-open.eu",
-    "title": "Úvod - Nahráno - Otevřeno",
-    "business_name": "",
-    "country": "CZE",
-    "seo_score": 67,
-    "tech_spend": 4228,
-    "crawled_at": "2026-03-19T05:12:52.143411625Z",
-    "technologies": [
-      "Cloudinary",
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "QUIC",
-      "Subversion",
-      "UTF-8",
-      "YouTube",
-      "eLand"
     ]
   }
 ]
