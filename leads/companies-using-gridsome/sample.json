@@ -1,5 +1,47 @@
 [
   {
+    "domain": "meganrodgers.me",
+    "title": "Home | Megan Rodgers",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 63,
+    "crawled_at": "2026-10-08T18:55:44.364376464Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Schema Plugin",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "wento.eu",
+    "title": "Wento - new energy",
+    "business_name": "",
+    "country": "POL",
+    "seo_score": 57,
+    "tech_spend": 7500,
+    "crawled_at": "2026-10-08T03:51:42.980586786Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Fireblade",
+      "Google My Business",
+      "Gridsome",
+      "WordPress",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "harvac.com.au",
     "title": "Delivering extraordinary experiences | HARVAC group",
     "business_name": "",
@@ -11881,44 +11923,6 @@
       "Tailwind CSS",
       "eLand",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "petitecode.mx",
-    "title": "PetiteCode",
-    "business_name": "",
-    "country": "",
-    "seo_score": 32,
-    "tech_spend": "",
-    "crawled_at": "2026-03-19T17:43:36.279484717Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "Netlify",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "echoes.io",
-    "title": "Echoes: The leading Voice of Customer Operating System - Echoes",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 4850,
-    "crawled_at": "2026-03-19T07:58:49.468068639Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Fastly",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gridsome",
-      "QUIC",
-      "Tailwind CSS"
     ]
   }
 ]
