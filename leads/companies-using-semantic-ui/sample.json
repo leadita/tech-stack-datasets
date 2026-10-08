@@ -1,5 +1,23 @@
 [
   {
+    "domain": "punarbandhanvivah.in",
+    "title": "Punarbandhan Vivah Mandal",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-10-07T16:05:58.797722795Z",
+    "technologies": [
+      "Express",
+      "GZIP Module",
+      "Nginx",
+      "PHP",
+      "QUIC",
+      "Semantic UI",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "greenrampgroup.com",
     "title": "Green Ramp Group LLC",
     "business_name": "",
@@ -14680,36 +14698,6 @@
       "Semantic UI",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "papromos.nl",
-    "title": "Politie Amsterdam | Habbo | Site",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 439,
-    "crawled_at": "2026-04-26T08:07:39.512121437Z",
-    "technologies": [
-      "AutoComplete",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ElementUI",
-      "Financial Services Guide",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "PHP",
-      "Parallels Plesk Panel",
-      "Semantic UI",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "jsDelivr"
     ]
   }
 ]
