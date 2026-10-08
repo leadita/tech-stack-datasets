@@ -1,5 +1,57 @@
 [
   {
+    "domain": "vinayh.com",
+    "title": "Vinay Hiremath",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 60,
+    "crawled_at": "2026-10-08T01:33:27.06135326Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "GitHub Hosting",
+      "Hugo",
+      "Micro.blog",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "david.garden",
+    "title": "david wolfpaw – On the internet, everyone knows that I’m a dog.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 16492,
+    "crawled_at": "2026-10-08T00:24:11.941184386Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Ametys",
+      "Cloudflare",
+      "Content Delivery Network",
+      "DAV",
+      "EmbedPress",
+      "GitHub Hosting",
+      "License Buttons",
+      "Micro.blog",
+      "Microdata for Google Shopping",
+      "Pleroma",
+      "Sitelinks Search Box",
+      "The SEO Framework",
+      "UTF-8",
+      "WP Engine",
+      "WP Statistics",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "mikegreco.com",
     "title": "MikeGreco.com ~ The World in Your Hands! -MikeGreco.com ~ The World in Your Hands!",
     "business_name": "",
@@ -7688,63 +7740,6 @@
       "University or College",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "vinayh.com",
-    "title": "Vinay Hiremath",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 60,
-    "crawled_at": "2026-02-15T15:33:45.027707766Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Corporate Governance and Regulatory Compliance",
-      "GitHub Hosting",
-      "Hugo",
-      "Micro.blog",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "david.garden",
-    "title": "david wolfpaw – digital citizen",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 17692,
-    "crawled_at": "2026-02-15T13:51:01.308721Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Ametys",
-      "Cloudflare",
-      "CoBlocks",
-      "Content Delivery Network",
-      "DAV",
-      "EmbedPress",
-      "Ethy",
-      "GitHub Hosting",
-      "License Buttons",
-      "Micro.blog",
-      "Microdata for Google Shopping",
-      "Pleroma",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "The SEO Framework",
-      "Twenty Twenty-Three",
-      "UTF-8",
-      "WP Engine",
-      "WP Statistics",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]

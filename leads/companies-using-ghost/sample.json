@@ -1,5 +1,54 @@
 [
   {
+    "domain": "samueledeluise.com",
+    "title": "Samuele Deluise",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 732,
+    "crawled_at": "2026-10-08T05:47:13.938433089Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "Ghost",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "islandclash.com",
+    "title": "Island Clash",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 3199,
+    "crawled_at": "2026-10-07T21:33:50.558896793Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "ElementUI",
+      "Express",
+      "Font Awesome",
+      "GZIP Module",
+      "Ghost",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Twitter Ads",
+      "UTF-8",
+      "Ubuntu",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "game-plan.media",
     "title": "Game Plan Media",
     "business_name": "",
@@ -13158,50 +13207,6 @@
       "RM Education",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "arda.rocks",
-    "title": "arda.rocks?",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 216,
-    "crawled_at": "2026-04-10T09:32:19.999492157Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Express",
-      "GZIP Module",
-      "Ghost",
-      "Mastodon",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "Thank You",
-      "UTF-8",
-      "Unsplash",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "ea4everyone.com",
-    "title": "ea for everyone",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 732,
-    "crawled_at": "2026-04-10T06:17:19.98037207Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Ghost",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
