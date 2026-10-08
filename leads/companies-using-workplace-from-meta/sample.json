@@ -8785,48 +8785,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "cpawolfe.com",
-    "title": "Tax Advisory & Tax Plan",
-    "business_name": "Wolfe CPA & Advisors, CPA - Tax Plan",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 24173,
-    "crawled_at": "2026-02-15T14:40:27.71104853Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Express",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Fastbots AI",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Analytics",
-      "Google Calendar",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "PWA",
-      "UTF-8",
-      "Vimeo",
-      "Vimeo CDN",
-      "Wangsu",
-      "Website Tonight",
-      "Workplace from Meta",
-      "Yelp Badge",
-      "YouTube"
-    ]
   }
 ]
