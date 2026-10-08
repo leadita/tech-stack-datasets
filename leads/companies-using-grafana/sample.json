@@ -1,5 +1,24 @@
 [
   {
+    "domain": "umweltmessdaten.de",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 1200,
+    "crawled_at": "2026-10-08T12:04:11.77248817Z",
+    "technologies": [
+      "Barchart",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Grafana",
+      "Nginx",
+      "UTF-8",
+      "Ubuntu"
+    ]
+  },
+  {
     "domain": "dithmarschen-energie.de",
     "title": "Grafana",
     "business_name": "",
@@ -16,26 +35,6 @@
       "OpenResty",
       "UTF-8",
       "Yandex Hosting"
-    ]
-  },
-  {
-    "domain": "wdrentals.com",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 1200,
-    "crawled_at": "2026-09-27T13:39:28.582016418Z",
-    "technologies": [
-      "Apache",
-      "Barchart",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Grafana",
-      "Nginx",
-      "UTF-8"
     ]
   },
   {

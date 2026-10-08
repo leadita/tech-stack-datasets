@@ -1,5 +1,37 @@
 [
   {
+    "domain": "altamiraart.com",
+    "title": "Altamira Fine Art | Contemporary Western Art | Jackson Hole-Scottsdale",
+    "business_name": "Altamira Fine Art",
+    "country": "BRA",
+    "seo_score": 82,
+    "tech_spend": 12804,
+    "crawled_at": "2026-10-08T15:48:04.242532321Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Apture Linking Platform",
+      "Baidu Cloud",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Klaviyo",
+      "LogRocket",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "UTF-8",
+      "Yandex Hosting",
+      "YouTube",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "illinois1call.com",
     "title": "JULIE Before You Dig | JULIE 811 Utility Locating Services",
     "business_name": "",
@@ -11319,56 +11351,6 @@
       "Netlify",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "altamiraart.com",
-    "title": "Altamira Fine Art | Contemporary Western Art | Jackson Hole-Scottsdale",
-    "business_name": "Altamira Fine Art",
-    "country": "BRA",
-    "seo_score": 87,
-    "tech_spend": 8004,
-    "crawled_at": "2026-02-16T13:09:53.45891987Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DAV",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "LogRocket",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "suntanapp.com",
-    "title": "Home - SunTanApp",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 7560,
-    "crawled_at": "2026-02-15T22:56:26.57285044Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Fireblade",
-      "GZIP Module",
-      "Google My Business",
-      "Google Play",
-      "LogRocket",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Semantic UI",
-      "Visual Studio"
     ]
   }
 ]
