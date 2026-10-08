@@ -1958,41 +1958,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "getunioncredit.com",
-    "title": "Commercial Equipment Finance - UCC",
-    "business_name": "Union Credit Corporation",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 16928,
-    "crawled_at": "2026-02-15T18:21:10.858071413Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Complianz",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Fireblade",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "MonsterInsights",
-      "Nationwide Mortgage Licensing System and Registry",
-      "Nginx",
-      "PHP",
-      "QUIC",
-      "RightSignature",
-      "Theme In WP",
-      "Theme My Login",
-      "Twitter Ads",
-      "UTF-8",
-      "WP Engine",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
