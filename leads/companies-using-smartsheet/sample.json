@@ -1,5 +1,39 @@
 [
   {
+    "domain": "rrdcareers.com",
+    "title": "Join RRD's Diverse Team and Accelerate Your Career",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 80640,
+    "crawled_at": "2026-10-08T06:36:58.347741767Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Column Shortcodes",
+      "Corporate Governance and Regulatory Compliance",
+      "Express",
+      "Fireblade",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Tag Manager",
+      "InitiativeS",
+      "Investor Relations",
+      "K2F",
+      "KVH",
+      "Microsoft Azure",
+      "QUIC",
+      "Smartsheet",
+      "Subversion",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Visual Studio",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "brightpathhomecare.com",
     "title": "Home Care Services in Toledo, Ohio | Medicaid PASSPORT & MyCare Support | BrightPath",
     "business_name": "Bright Path Home Care",
@@ -16926,38 +16960,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "rrdcareers.com",
-    "title": "Join RRD's Diverse Team and Accelerate Your Career",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 35970,
-    "crawled_at": "2026-02-15T23:17:49.305851044Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Column Shortcodes",
-      "Corporate Governance and Regulatory Compliance",
-      "Express",
-      "Fireblade",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "InitiativeS",
-      "Investor Relations",
-      "Microsoft Azure",
-      "No-Q",
-      "QUIC",
-      "Smartsheet",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Visual Studio",
-      "YouTube"
     ]
   }
 ]
