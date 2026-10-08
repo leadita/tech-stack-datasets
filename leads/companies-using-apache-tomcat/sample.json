@@ -13330,44 +13330,5 @@
       "YouTube",
       "eLand"
     ]
-  },
-  {
-    "domain": "montenegrocharter.com",
-    "title": "Home | Luxury yacht charter, personalized to match your vibe | Montenegro Charter",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 72,
-    "tech_spend": 30548,
-    "crawled_at": "2026-02-15T19:35:56.685263437Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Apache Tomcat JK",
-      "Apture Linking Platform",
-      "AutoComplete",
-      "Azion",
-      "Barracuda Web App Firewall",
-      "Ethy",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Harbor",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "MailChimp",
-      "Perl",
-      "QUIC",
-      "UTF-8",
-      "eLand"
-    ]
   }
 ]
