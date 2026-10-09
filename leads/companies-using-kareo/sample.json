@@ -1,5 +1,37 @@
 [
   {
+    "domain": "delacruzpsychiatry.org",
+    "title": "De La Cruz Psychiatry, Nurse Practitioner in Psychiatry, PLLC – Comprehensive mental health care for children, adolescents, and young adults in the Buffalo area, with convenient evening and weekend hours.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 18276,
+    "crawled_at": "2026-10-09T01:43:35.404929506Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Hello Elementor",
+      "Kareo",
+      "LiteSpeed",
+      "PHP",
+      "Tebra",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "ZocDoc",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "gracevinehealth.com",
     "title": "Gracevine Healthcare Services – Mental healthcare services all across California.",
     "business_name": "",
@@ -18003,43 +18035,6 @@
       "WF Cookie Consent",
       "Webflow",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "purposecmhs.com",
-    "title": "Purpose Counseling & Mental Health Services | Prairieville, LA | 70769",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 25645,
-    "crawled_at": "2026-04-13T15:17:19.978139457Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Brighter Vision",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Kareo",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Simple Social Icons",
-      "SiteOrigin",
-      "SiteOrigin Panels",
-      "StudioPress",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WPForms",
-      "Widget Options",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
