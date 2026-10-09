@@ -1,5 +1,97 @@
 [
   {
+    "domain": "kingsresearch.com",
+    "title": "Kings Research: Global Consulting & Market Research Reports",
+    "business_name": "Kings Research",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 77148,
+    "crawled_at": "2026-10-09T06:49:40.939976969Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "DHL Parcel",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "HubSpot Conversations",
+      "Hubspot",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "SMC",
+      "Tachyons",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "Yahoo Finance Widget",
+      "YouTube",
+      "reCAPTCHA",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "silkaurastore.com",
+    "title": "Silk Aura – Premium Human Hair Wigs & Styling Essentials",
+    "business_name": "Silk Aura",
+    "country": "VAT",
+    "seo_score": 77,
+    "tech_spend": 13006,
+    "crawled_at": "2026-10-09T02:54:54.627255606Z",
+    "technologies": [
+      "17TRACK",
+      "Alternate Protocol",
+      "Amazon",
+      "Apture Linking Platform",
+      "Aruba",
+      "Baidu Cloud",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DHL Parcel",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Omnisend",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "Subversion",
+      "Thank You",
+      "UTF-8",
+      "Yandex Hosting",
+      "YouTube",
+      "eLand",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "yeahdoor.com",
+    "title": "UL listed fire door,wrought iron front door,hospital door,fireproof door, fire rated steel door, fireproof wood door,sliding door,metal steel door,",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 67,
+    "tech_spend": 7800,
+    "crawled_at": "2026-10-08T23:13:57.739907175Z",
+    "technologies": [
+      "Cloudflare",
+      "DHL Parcel",
+      "FedEx",
+      "Google Analytics",
+      "Google Tag Manager",
+      "RM Education",
+      "UTF-8",
+      "WhatsApp Sharing"
+    ]
+  },
+  {
     "domain": "kitchentechersatzteile.com",
     "title": "KitchenTech – Original KitchenAid spare parts &amp; accessories – Kitchentech",
     "business_name": "Case & Co",
@@ -9515,25 +9607,6 @@
     ]
   },
   {
-    "domain": "metaldoor.cn",
-    "title": "UL listed fire door,wrought iron front door,hospital door,fireproof door, fire rated steel door, fireproof wood door,sliding door,metal steel door,",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 62,
-    "tech_spend": 7800,
-    "crawled_at": "2026-05-12T07:11:20.000012426Z",
-    "technologies": [
-      "Cloudflare",
-      "DHL Parcel",
-      "FedEx",
-      "Google Analytics",
-      "Google Tag Manager",
-      "RM Education",
-      "UTF-8",
-      "WhatsApp Sharing"
-    ]
-  },
-  {
     "domain": "carpetimats.com",
     "title": "Custom Fit Carpet Car Floor Mats Velour Easy to Clean – CarpetiMats",
     "business_name": "",
@@ -18906,52 +18979,6 @@
       "jQuery",
       "jsDelivr",
       "kk Star Ratings"
-    ]
-  },
-  {
-    "domain": "alfalahcargo.net",
-    "title": "BAB AL FALAH MARINE CARGO",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": "",
-    "crawled_at": "2026-04-05T16:14:20.013342467Z",
-    "technologies": [
-      "Apache",
-      "Blue Dart",
-      "DHL Parcel",
-      "Delhivery",
-      "FedEx",
-      "GZIP Module",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "i-eung.com",
-    "title": "Korean Books Store – leung",
-    "business_name": "",
-    "country": "PRK",
-    "seo_score": 77,
-    "tech_spend": 4156,
-    "crawled_at": "2026-04-05T04:53:19.982552848Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Bulma",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DHL Parcel",
-      "Google Related Website Sites",
-      "Shopify",
-      "Shopify Collabs",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "hCaptcha",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
