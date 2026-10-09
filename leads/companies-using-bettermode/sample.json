@@ -2025,34 +2025,5 @@
       "Vector Internet Services",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "fepeople.com",
-    "title": "flat earth people is social media network for flat earthers",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 35856,
-    "crawled_at": "2026-02-17T01:14:35.128396209Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "BetterMode",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "ElementUI",
-      "Fireblade",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Imgix",
-      "InitiativeS",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "Tribe.so",
-      "Vector Internet Services",
-      "shadcn ui"
-    ]
   }
 ]
