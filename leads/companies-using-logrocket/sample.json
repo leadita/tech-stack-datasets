@@ -11329,28 +11329,5 @@
       "WordPress",
       "WordPress Multisite"
     ]
-  },
-  {
-    "domain": "fourseasonstenniscourts.co.uk",
-    "title": "Tennis Court Maintenance Services in Kent - Four Seasons Tennis Maintenance Limited",
-    "business_name": "",
-    "country": "",
-    "seo_score": 92,
-    "tech_spend": 1416,
-    "crawled_at": "2026-02-16T20:54:54.926986289Z",
-    "technologies": [
-      "Alpine.js",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "ElementUI",
-      "Google Analytics",
-      "Google Tag Manager",
-      "LogRocket",
-      "Netlify",
-      "Twitter Ads",
-      "UTF-8"
-    ]
   }
 ]
