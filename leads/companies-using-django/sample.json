@@ -1,5 +1,32 @@
 [
   {
+    "domain": "davedaveyboylindsey.com",
+    "title": "Dave \"Davey Boy\" Lindsey | Music Producer, Mixer, Engineer, Songwriter",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2308,
+    "crawled_at": "2026-10-09T00:06:08.557259759Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Perl",
+      "QUIC",
+      "Twitter Ads",
+      "University or College",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "seeroark.com",
     "title": "C. Roark Distinction - Home",
     "business_name": "",
@@ -8888,33 +8915,6 @@
       "Google My Business",
       "Perl",
       "QUIC",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "davedaveyboylindsey.com",
-    "title": "Dave \"Davey Boy\" Lindsey | Music Producer, Mixer, Engineer, Songwriter",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2308,
-    "crawled_at": "2026-02-17T01:25:49.915299852Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Perl",
-      "QUIC",
-      "Twitter Ads",
-      "University or College",
-      "YouTube",
       "reCAPTCHA"
     ]
   }
