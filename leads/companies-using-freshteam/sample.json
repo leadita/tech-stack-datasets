@@ -3043,38 +3043,5 @@
       "YouTube",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "basani.co.za",
-    "title": "Brand Basani A South African services, trading and distribution group",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 6492,
-    "crawled_at": "2026-02-18T05:16:21.19962619Z",
-    "technologies": [
-      "Bitrix24",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "Freshteam",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "QUIC",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "YouTube",
-      "htmlcodex.com",
-      "jsDelivr",
-      "shadcn ui"
-    ]
   }
 ]
