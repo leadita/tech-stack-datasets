@@ -1,5 +1,26 @@
 [
   {
+    "domain": "datawil.com",
+    "title": "Datawil - Data Visualization & Engineering",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 60,
+    "tech_spend": 879,
+    "crawled_at": "2026-10-09T03:45:28.824200795Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Power BI",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "government.is",
     "title": "Government of Iceland | Government of Iceland",
     "business_name": "",
@@ -19113,50 +19134,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "pdh.net.au",
-    "title": "Portland District Health",
-    "business_name": "Portland District Health",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 29796,
-    "crawled_at": "2026-04-09T15:05:20.025044148Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Astra Theme",
-      "Citrix",
-      "Content Delivery Network",
-      "Elementor",
-      "Elementor Custom Skin",
-      "EmbedPress",
-      "Fastly",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Analytics Dashboard for WordPress",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Pagekit",
-      "Power BI",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Smush Image Optimization",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "jQuery"
     ]
   }
 ]

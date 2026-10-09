@@ -1,5 +1,33 @@
 [
   {
+    "domain": "rosenfeldandco.com",
+    "title": "Home | Rosenfeld & Company PC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 13340,
+    "crawled_at": "2026-10-08T17:54:21.045978768Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "Zoom Video Conferencing",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "accountingsage.cpa",
     "title": "Accounting Sage, LLC - CFO and Compliance Services in Florida",
     "business_name": "",
@@ -10410,31 +10438,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "rosenfeldandco.com",
-    "title": "Home | Rosenfeld & Company PC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 12140,
-    "crawled_at": "2026-02-16T16:20:53.199107782Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "Zoom Video Conferencing"
     ]
   }
 ]
