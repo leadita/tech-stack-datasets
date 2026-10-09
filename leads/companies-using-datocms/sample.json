@@ -1,5 +1,43 @@
 [
   {
+    "domain": "filtecinternational.com.au",
+    "title": "Water and Wastewater Treatment Solutions - Australia & NZ",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 116126,
+    "crawled_at": "2026-10-09T16:11:27.521177717Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adult Content",
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "CoreUI",
+      "DAV",
+      "DatoCMS",
+      "Financial Services Guide",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gravity",
+      "Idaq",
+      "K2F",
+      "KVH",
+      "Next.js",
+      "PWA",
+      "Pleroma",
+      "QUIC",
+      "SMC",
+      "SiteW",
+      "Subversion",
+      "UTF-8",
+      "Vercel",
+      "Vimeo",
+      "Vimeo CDN",
+      "Visx"
+    ]
+  },
+  {
     "domain": "energycubes.no",
     "title": "Rystad Energy - Navigating the future of energy",
     "business_name": "Rystad Energy",
@@ -14177,30 +14215,6 @@
       "Pleroma",
       "UTF-8",
       "Yelp Badge"
-    ]
-  },
-  {
-    "domain": "raghavkattel.com.np",
-    "title": "Raghav Kattel",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 10116,
-    "crawled_at": "2026-05-03T16:29:19.989608068Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DatoCMS",
-      "Express",
-      "GitHub Hosting",
-      "Idaq",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Next.js",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "shadcn ui"
     ]
   }
 ]

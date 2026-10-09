@@ -1,5 +1,45 @@
 [
   {
+    "domain": "meetlaurelinsights.com",
+    "title": "Laurel Insights",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-10-09T06:10:00.639208762Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Prismic",
+      "Svelte",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "sherpa.events",
+    "title": "Sherpa",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 2820,
+    "crawled_at": "2026-10-08T22:47:58.50891128Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "PWA",
+      "Prismic",
+      "Svelte",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "petpainter.ai",
     "title": "Pet Painter - Your AI Pet Companion",
     "business_name": "",
@@ -6586,25 +6626,6 @@
     ]
   },
   {
-    "domain": "laurelinsights.com",
-    "title": "Laurel Insights",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-05-22T02:35:20.004751593Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Prismic",
-      "Svelte",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "waldbiergarten-bb.de",
     "title": "Waldbiergarten am Wasserturm Böblingen",
     "business_name": "",
@@ -6850,27 +6871,6 @@
       "Unsplash",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "pathways.direct",
-    "title": "Sherpa",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 2820,
-    "crawled_at": "2026-05-21T06:44:20.001216325Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "PWA",
-      "Prismic",
-      "Svelte",
-      "Vercel"
     ]
   },
   {
