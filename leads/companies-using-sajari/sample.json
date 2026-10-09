@@ -549,45 +549,5 @@
       "StackPath",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "vergokan.com",
-    "title": "Cable support systems - Atkore - Vergokan",
-    "business_name": "",
-    "country": "BEL",
-    "seo_score": 77,
-    "tech_spend": 103847,
-    "crawled_at": "2026-02-17T23:25:39.819833679Z",
-    "technologies": [
-      "Akamai Global Host",
-      "AutoComplete",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "CookieConsent",
-      "Fireblade",
-      "Font Awesome",
-      "GZIP Module",
-      "Gambling Content",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Hotjar",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "PWA",
-      "Pardot",
-      "QUIC",
-      "SMC",
-      "Sajari",
-      "Tawk",
-      "UTF-8",
-      "YouTube",
-      "jQuery",
-      "reCAPTCHA"
-    ]
   }
 ]
