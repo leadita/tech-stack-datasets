@@ -1,5 +1,92 @@
 [
   {
+    "domain": "picassoq8.com",
+    "title": "بيكاسو",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 30003,
+    "crawled_at": "2026-10-09T14:59:08.189538955Z",
+    "technologies": [
+      "Cart.com",
+      "DAV",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Nginx",
+      "OpenCart",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "mocofo-home.com",
+    "title": "MOCOFO-More comfortable home life:Throw Pillow Covers,Pouf,STORAGE BAG,TABLE MAT,CARPET,TABLE CLOTH Official site",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 75110,
+    "crawled_at": "2026-10-09T08:17:45.72240431Z",
+    "technologies": [
+      "Apache",
+      "Cart.com",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "OpenCart",
+      "Tailwind CSS",
+      "TemplateMela",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "04561.com",
+    "title": "China.Tea.Herbal",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 67,
+    "tech_spend": 75000,
+    "crawled_at": "2026-10-08T21:57:56.644651108Z",
+    "technologies": [
+      "Cart.com",
+      "Google Adsense",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google Reseller",
+      "LiteSpeed",
+      "OpenCart",
+      "Parcel",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "stardeals.ca",
+    "title": "Star Deals - Star Electronics",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 86058,
+    "crawled_at": "2026-10-08T18:05:56.490874397Z",
+    "technologies": [
+      "Cart.com",
+      "Express",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Onyx Internet",
+      "OpenCart",
+      "Tailwind CSS",
+      "TemplateMela",
+      "Twitter Ads",
+      "UTF-8",
+      "Zendesk Guide"
+    ]
+  },
+  {
     "domain": "childofsun.com",
     "title": "Childofsun.com",
     "business_name": "",
@@ -2463,26 +2550,6 @@
       "Google Tag Manager",
       "Nginx",
       "OpenCart",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "egymoul.com",
-    "title": "معدات مغاسل",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 30102,
-    "crawled_at": "2026-09-21T10:14:34.641842681Z",
-    "technologies": [
-      "Cart.com",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "OpenCart",
-      "PHP",
       "Tailwind CSS",
       "UTF-8",
       "jQuery"
@@ -12228,69 +12295,6 @@
       "UTF-8",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "goodclothesshop.com",
-    "title": "Goodclothesshop.com | Best Online Shopping Website for Discounted Deals",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 30003,
-    "crawled_at": "2026-05-23T02:03:36.382345516Z",
-    "technologies": [
-      "Cart.com",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "kkstoreclothes.com",
-    "title": "kkstoreclothes.Com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 30159,
-    "crawled_at": "2026-05-23T02:03:36.379375833Z",
-    "technologies": [
-      "Cart.com",
-      "Daily Deals",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Nginx",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "beclothmalls.com",
-    "title": "Beclothmalls.com | Best Online Shopping Website for Discounted Deals",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 75040,
-    "crawled_at": "2026-05-23T02:03:36.371125856Z",
-    "technologies": [
-      "Cart.com",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
