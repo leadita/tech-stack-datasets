@@ -1,5 +1,37 @@
 [
   {
+    "domain": "darchey.com",
+    "title": "Dennis Archey | Ease Mortgage",
+    "business_name": "Ease Mortgage",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 52479,
+    "crawled_at": "2026-10-09T02:30:05.078116641Z",
+    "technologies": [
+      "Amazon",
+      "Apture Linking Platform",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Fireblade",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Investor Relations",
+      "Microdata for Google Shopping",
+      "Nationwide Mortgage Licensing System and Registry",
+      "Next.js",
+      "Optimal Blue",
+      "Perl",
+      "Pleroma",
+      "QUIC",
+      "Thank You",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "clarityhomeloans.com",
     "title": "Bakersfield Mortgage Broker | Home Loans, Refinance & More",
     "business_name": "",
