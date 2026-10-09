@@ -1,5 +1,30 @@
 [
   {
+    "domain": "rampagency.co",
+    "title": "R.AMP.AGE - index",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 65,
+    "tech_spend": 31708,
+    "crawled_at": "2026-10-09T19:38:17.447134215Z",
+    "technologies": [
+      "Apache",
+      "Better Lead Generation Services",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "Netcore Cloud",
+      "PWA",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "rightidea4u.com",
     "title": "RightIdea4u - RightIdea4u - Reviews Website",
     "business_name": "",
@@ -395,31 +420,6 @@
       "Twitter Ads",
       "shadcn ui",
       "vCommission"
-    ]
-  },
-  {
-    "domain": "rampagency.co",
-    "title": "R.AMP.AGE - index",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 60,
-    "tech_spend": 10159,
-    "crawled_at": "2026-02-18T06:49:19.650302669Z",
-    "technologies": [
-      "Apache",
-      "Better Lead Generation Services",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Netcore Cloud",
-      "PWA",
-      "UTF-8",
-      "reCAPTCHA"
     ]
   }
 ]
