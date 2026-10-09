@@ -7718,28 +7718,5 @@
       "UTF-8",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "staticmade.com",
-    "title": "Static Made by Jeffrey Inscho",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 1419,
-    "crawled_at": "2026-02-17T07:27:50.806897921Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Band Camp",
-      "Camp",
-      "Font Awesome",
-      "Hugo",
-      "InitiativeS",
-      "Micro.blog",
-      "Thank You",
-      "UTF-8",
-      "University or College",
-      "jsDelivr",
-      "shadcn ui"
-    ]
   }
 ]

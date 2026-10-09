@@ -1,5 +1,58 @@
 [
   {
+    "domain": "kwina.org",
+    "title": "Kwina Dynasty",
+    "business_name": "Kwina.Org",
+    "country": "GBR",
+    "seo_score": 57,
+    "tech_spend": 49,
+    "crawled_at": "2026-10-09T10:02:45.180295775Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "klarasamband.se",
+    "title": "KLARA - Samband i samverkan",
+    "business_name": "KLARA",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 49,
+    "crawled_at": "2026-10-08T22:30:14.207379969Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "grantremmen.com",
+    "title": "Grant Remmen",
+    "business_name": "Grant Remmen",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 2549,
+    "crawled_at": "2026-10-08T19:48:41.168512152Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Gravity",
+      "Microdata for Google Shopping",
+      "Publii",
+      "UTF-8",
+      "University or College",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "bruvelis.id.lv",
     "title": "Martins Bruvelis @idBruvelis",
     "business_name": "Martins Bruvelis @idBruvelis",
@@ -8212,59 +8265,6 @@
       "Microdata for Google Shopping",
       "Publii",
       "QUIC",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "kwina.org",
-    "title": "Kwina Dynasty",
-    "business_name": "Kwina.Family",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 49,
-    "crawled_at": "2026-02-17T16:30:26.666912315Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "klarasamband.se",
-    "title": "KLARA - Samband i samverkan",
-    "business_name": "KLARA",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 49,
-    "crawled_at": "2026-02-16T22:53:32.322634049Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "grantremmen.com",
-    "title": "Grant Remmen",
-    "business_name": "Grant Remmen",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 649,
-    "crawled_at": "2026-02-16T19:01:08.752053039Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Gravity",
-      "Microdata for Google Shopping",
-      "Publii",
-      "UTF-8",
-      "University or College",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   }
