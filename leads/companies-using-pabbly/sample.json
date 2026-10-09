@@ -1,5 +1,36 @@
 [
   {
+    "domain": "reviewboost-pro.com",
+    "title": "Review Shield - The Growth Engine for Local Businesses",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 19478,
+    "crawled_at": "2026-10-08T19:27:42.941235406Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Alternate Protocol",
+      "Authorize.net",
+      "Better Lead Generation Services",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Fireblade",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Customer Reviews",
+      "Google Font API",
+      "Google Maps",
+      "No-Q",
+      "Nuxt.js",
+      "Pabbly",
+      "Thank You",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "dihe.co.in",
     "title": "Best College in Greater Noida | College in Noida",
     "business_name": "",
@@ -6306,37 +6337,6 @@
       "No-Q",
       "Nuxt.js",
       "Pabbly",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "reviewboost-pro.com",
-    "title": "Review Shield - The Growth Engine for Local Businesses",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 19478,
-    "crawled_at": "2026-02-16T18:29:06.081897894Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Alternate Protocol",
-      "Authorize.net",
-      "Better Lead Generation Services",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Customer Reviews",
-      "Google Font API",
-      "Google Maps",
-      "No-Q",
-      "Nuxt.js",
-      "Pabbly",
-      "Thank You",
       "UTF-8"
     ]
   }
