@@ -1,5 +1,65 @@
 [
   {
+    "domain": "mighty-lambs.com",
+    "title": "Marguerite Christian School",
+    "business_name": "Marguerite Christian School",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 1501,
+    "crawled_at": "2026-10-10T04:30:22.09603946Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "Yelp Badge",
+      "YouCanBookMe",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "imaginaestudio.com.mx",
+    "title": "✏️ Imagina Estudio - Diseño Gráfico, Marketing Digital, Sitios Web en Mérida, Yucatán 👍",
+    "business_name": "",
+    "country": "ZMB",
+    "seo_score": 72,
+    "tech_spend": 1888,
+    "crawled_at": "2026-10-09T15:43:47.715931776Z",
+    "technologies": [
+      "Apache",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "FreeCSSTemplates",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Schema Plugin",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "YouCanBookMe",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "reikiastoria.com",
     "title": "Reiki and Holistic Healing in Astoria",
     "business_name": "",
@@ -2266,31 +2326,6 @@
       "htmlcodex.com",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "mightylambs.org",
-    "title": "Marguerite Christian School",
-    "business_name": "Marguerite Christian School",
-    "country": "GBR",
-    "seo_score": 62,
-    "tech_spend": 1501,
-    "crawled_at": "2026-09-23T08:51:55.246765901Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "Yelp Badge",
-      "YouCanBookMe",
-      "eLand"
     ]
   },
   {
@@ -17681,31 +17716,6 @@
       "WhatsApp Sharing",
       "YouCanBookMe",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "booklimonta.com",
-    "title": "Johan Limonta – HEAD COACH / HITTING COORDINATOR / PRO PLAYER",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 65,
-    "tech_spend": 806,
-    "crawled_at": "2026-05-08T02:44:19.981765805Z",
-    "technologies": [
-      "Alternate Protocol",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "PHP",
-      "Sydney Theme",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "YouCanBookMe",
-      "jQuery"
     ]
   }
 ]
