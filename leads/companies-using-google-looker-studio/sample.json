@@ -1,5 +1,85 @@
 [
   {
+    "domain": "oncoscape.org",
+    "title": "ONCOSCAPE",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 129,
+    "crawled_at": "2026-10-10T06:13:02.825975529Z",
+    "technologies": [
+      "Amazon",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Angular Material",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "ElementUI",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Looker Studio",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Twitter Ads",
+      "YouTube",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "sman1ngemplak.sch.id",
+    "title": "SMA N 1 Ngemplak - Bharata Jaya",
+    "business_name": "",
+    "country": "IDN",
+    "seo_score": 65,
+    "tech_spend": 527,
+    "crawled_at": "2026-10-10T03:53:11.195136826Z",
+    "technologies": [
+      "BootstrapMade",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Looker Studio",
+      "Google My Business",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "PHP",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "codeactually.net",
+    "title": "CodeActually: Coding Tutorials for Journalists and Communicators",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 10547,
+    "crawled_at": "2026-10-10T01:26:05.462413827Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Apache",
+      "BLR",
+      "Bulma",
+      "Coming Soon Page",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Looker Studio",
+      "IcoMoon",
+      "Python",
+      "Tumblr",
+      "University or College",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "impactpool.org",
     "title": "Jobs in United Nation, NGO and EU",
     "business_name": "Impactpool",
@@ -562,31 +642,6 @@
       "Vignette OpenText",
       "Visx",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "codeactually.biz",
-    "title": "CodeActually: Coding Tutorials for Journalists and Communicators",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 10547,
-    "crawled_at": "2026-09-19T02:16:06.191290811Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Apache",
-      "BLR",
-      "Bulma",
-      "Coming Soon Page",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Looker Studio",
-      "IcoMoon",
-      "Python",
-      "Tumblr",
-      "University or College",
-      "jQuery"
     ]
   },
   {
@@ -6148,62 +6203,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "oncoscape.org",
-    "title": "ONCOSCAPE",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 129,
-    "crawled_at": "2026-02-18T22:46:21.144692455Z",
-    "technologies": [
-      "Amazon",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Angular Material",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ElementUI",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Looker Studio",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Twitter Ads",
-      "YouTube",
-      "jQuery",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "sman1ngemplak.sch.id",
-    "title": "SMA N 1 Ngemplak - Bharata Jaya",
-    "business_name": "",
-    "country": "IDN",
-    "seo_score": 65,
-    "tech_spend": 527,
-    "crawled_at": "2026-02-18T19:13:10.13507003Z",
-    "technologies": [
-      "BootstrapMade",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Looker Studio",
-      "Google My Business",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
