@@ -1,5 +1,21 @@
 [
   {
+    "domain": "lupusvox.com",
+    "title": "Subject: Lupus Vox",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 149,
+    "crawled_at": "2026-10-09T17:16:04.335623742Z",
+    "technologies": [
+      "Alternate Protocol",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "kwina.org",
     "title": "Kwina Dynasty",
     "business_name": "Kwina.Org",
@@ -8248,23 +8264,6 @@
       "GZIP Module",
       "Microdata for Google Shopping",
       "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "lupusvox.com",
-    "title": "Subject: Lupus Vox",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 49,
-    "crawled_at": "2026-02-18T03:22:39.243576989Z",
-    "technologies": [
-      "Alternate Protocol",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "Publii",
-      "QUIC",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   }
