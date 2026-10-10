@@ -1,5 +1,34 @@
 [
   {
+    "domain": "pcvoyages.com",
+    "title": "Home - TravelWorks - Travel Agency Software",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 20408,
+    "crawled_at": "2026-10-10T13:25:32.952847807Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Aruba",
+      "Content Delivery Network",
+      "DAV",
+      "Envoy",
+      "Fireblade",
+      "Google Analytics",
+      "Google Tag Manager",
+      "NFOrce Internet",
+      "Next.js",
+      "Payload CMS",
+      "Perl",
+      "Tailwind CSS",
+      "TalentLMS",
+      "UTF-8",
+      "Vercel",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "sotero.com.au",
     "title": "Health Advisory | Clinics | Virtual Care",
     "business_name": "Sotero Healthcare",
