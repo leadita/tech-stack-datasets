@@ -8809,40 +8809,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "adoraparkinson.com.au",
-    "title": "Adora Parkinson ~ Premium land now selling",
-    "business_name": "Adora Parkinson",
-    "country": "SGP",
-    "seo_score": 77,
-    "tech_spend": 66679,
-    "crawled_at": "2026-02-18T23:04:49.529123193Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon Advertising Sizmek Ad Suite",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Elementor",
-      "Elementor Addon Elements",
-      "EmbedPress",
-      "Essential Addons for Elementor",
-      "Express",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gravity",
-      "Hello Elementor",
-      "JetElements",
-      "Microdata for Google Shopping",
-      "UTF-8",
-      "WP Engine",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
