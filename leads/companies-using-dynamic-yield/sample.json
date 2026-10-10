@@ -9490,41 +9490,5 @@
       "WordPress Stats",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "eves.me",
-    "title": "Free SIM Cards and Pay as You Go SIMs from giffgaff",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 190192,
-    "crawled_at": "2026-02-18T10:57:35.565959203Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Avature",
-      "Bing Cashback",
-      "Bing Conversion Tracking",
-      "DoubleClick Bid Manager",
-      "Dynamic Yield",
-      "Envoy",
-      "Facebook Reseller",
-      "Free Call",
-      "GZIP Module",
-      "Google My Business",
-      "Imperva Bot Detection and Mitigation",
-      "Incapsula CDN",
-      "Instagram Follow Button",
-      "Istio",
-      "Klarna",
-      "Line2",
-      "Smart App Banner",
-      "Styled Components",
-      "TVSquared",
-      "Twitter Ads",
-      "UTF-8",
-      "Usabilla",
-      "YouTube",
-      "jQuery"
-    ]
   }
 ]
