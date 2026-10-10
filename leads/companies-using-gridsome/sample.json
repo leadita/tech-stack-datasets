@@ -1,5 +1,55 @@
 [
   {
+    "domain": "tonycreates.dev",
+    "title": "Home - A Blog By Tony Junkes",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 3651,
+    "crawled_at": "2026-10-10T18:50:40.840585978Z",
+    "technologies": [
+      "Adobe ColdFusion",
+      "Content Delivery Network",
+      "Formspree",
+      "GitHub Hosting",
+      "Google Adsense",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google Reseller",
+      "Gridsome",
+      "Idaq",
+      "Netlify",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "justlisted.io",
+    "title": "Home - JUSTLISTED.IO",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 243,
+    "crawled_at": "2026-10-10T11:01:56.97259405Z",
+    "technologies": [
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Netlify",
+      "PWA",
+      "StackPath",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "meganrodgers.me",
     "title": "Home | Megan Rodgers",
     "business_name": "",
@@ -10615,33 +10665,6 @@
     ]
   },
   {
-    "domain": "roguecreative.io",
-    "title": "Home - A Blog By Tony Junkes",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 3651,
-    "crawled_at": "2026-04-10T11:02:20.006480053Z",
-    "technologies": [
-      "Adobe ColdFusion",
-      "Content Delivery Network",
-      "Formspree",
-      "GitHub Hosting",
-      "Google Adsense",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google Reseller",
-      "Gridsome",
-      "Idaq",
-      "Netlify",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "advanced-isys.com",
     "title": "AIS - Advanced Intelligent Systems",
     "business_name": "",
@@ -11900,29 +11923,6 @@
       "PHP",
       "QUIC",
       "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "docr.app",
-    "title": "Docr",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2450,
-    "crawled_at": "2026-03-20T02:20:57.583195301Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Gridsome",
-      "Tailwind CSS",
-      "eLand",
-      "shadcn ui"
     ]
   }
 ]
