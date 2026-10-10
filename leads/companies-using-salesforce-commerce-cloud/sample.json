@@ -16971,42 +16971,5 @@
       "UTF-8",
       "YouTube"
     ]
-  },
-  {
-    "domain": "lunevire.com",
-    "title": "Cuisine Crafts – cuisinecrafts.com",
-    "business_name": "cuisinecrafts.com",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 538064,
-    "crawled_at": "2026-02-19T09:41:19.365261346Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DAV",
-      "Endis",
-      "Express",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "QUIC",
-      "Salesforce Commerce Cloud",
-      "Shopify",
-      "Shopify Collabs",
-      "Subversion",
-      "Thank You",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA"
-    ]
   }
 ]
