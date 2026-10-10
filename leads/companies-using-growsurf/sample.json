@@ -1161,48 +1161,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "solopreneurpage.de",
-    "title": "Solopreneurpage: Showcase and Scale Your Side Projects",
-    "business_name": "SolopreneurPage.com",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 25703,
-    "crawled_at": "2026-02-19T03:22:25.00993621Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adult Content",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coming Soon Page",
-      "GZIP Module",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google My Business",
-      "GrowSurf",
-      "Instagram Follow Button",
-      "Linktree",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Ntent",
-      "Payload CMS",
-      "Perl",
-      "Pico CSS",
-      "ProfitWell",
-      "QUIC",
-      "Tailwind CSS",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "UserGuiding",
-      "Vercel",
-      "Website Tonight",
-      "YouTube",
-      "about.me",
-      "shadcn ui"
-    ]
   }
 ]
