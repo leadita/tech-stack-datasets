@@ -9613,41 +9613,5 @@
       "Zoom Video Conferencing",
       "eLand"
     ]
-  },
-  {
-    "domain": "hlkagency.com",
-    "title": "Homepage | HughesLeahyKarlovic Advertising",
-    "business_name": "HLK",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 24708,
-    "crawled_at": "2026-02-18T08:37:45.357417913Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Cloudflare",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "DuracellTomi Google Tag Manager for WordPress",
-      "Elementor",
-      "EmbedPress",
-      "Genesis Blocks",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Lever",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "WP Engine",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]

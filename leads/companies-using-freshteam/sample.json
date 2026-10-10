@@ -1,5 +1,35 @@
 [
   {
+    "domain": "built.africa",
+    "title": "Built: Unlimited Invoicing, Payment and Payroll for businesses in Africa",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 8328,
+    "crawled_at": "2026-10-10T11:36:22.144851583Z",
+    "technologies": [
+      "App Store",
+      "Calendly",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Fireblade",
+      "Freshteam",
+      "Google My Business",
+      "Google Play",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Radix UI",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "jetic.io",
     "title": "Jetic - Cloud-native Integration Platform",
     "business_name": "",
@@ -3012,36 +3042,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "built.africa",
-    "title": "Built: Unlimited Invoicing, Payment and Payroll for SMEs in Africa",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 22244,
-    "crawled_at": "2026-02-19T06:59:15.174506171Z",
-    "technologies": [
-      "App Store",
-      "Calendly",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Digital Ocean Spaces",
-      "Fireblade",
-      "Freshteam",
-      "Google My Business",
-      "Google Play",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]
