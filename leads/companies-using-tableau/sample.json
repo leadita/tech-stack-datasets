@@ -1,5 +1,42 @@
 [
   {
+    "domain": "neormi.com",
+    "title": "National Energy Office",
+    "business_name": "",
+    "country": "POL",
+    "seo_score": 65,
+    "tech_spend": 90410,
+    "crawled_at": "2026-10-09T17:51:52.851638227Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "ClickOn",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "KVH",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "No-Q",
+      "Ntent",
+      "SMC",
+      "Sapper",
+      "Schema Plugin",
+      "Subversion",
+      "Tableau",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "peter-writeforme.com",
     "title": "peter-writeforme.com | Freelance Writer, Editor",
     "business_name": "",
@@ -17756,32 +17793,6 @@
       "WordPress Multisite",
       "WordPress Stats",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "invstgaming.co.uk",
-    "title": "Invstgaming – Investing through gaming.",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 67,
-    "tech_spend": 1067,
-    "crawled_at": "2026-04-27T06:32:20.00541823Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Automattic",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Instagram Follow Button",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Nginx",
-      "Tableau",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats"
     ]
   }
 ]
