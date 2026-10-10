@@ -1,5 +1,33 @@
 [
   {
+    "domain": "arrowquip.com",
+    "title": "World-Renowned Cattle Handling Equipment",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 24816,
+    "crawled_at": "2026-10-10T16:15:40.48037873Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Netlify",
+      "Next.js",
+      "Pleroma",
+      "Rackspace CDN",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "filtecinternational.com.au",
     "title": "Water and Wastewater Treatment Solutions - Australia & NZ",
     "business_name": "",
@@ -13718,35 +13746,6 @@
       "UserWay",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "arrowcattlequip.com",
-    "title": "World-Renowned Livestock & Outdoor Power Equipment",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 26316,
-    "crawled_at": "2026-05-05T00:11:20.009423684Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "DatoCMS",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "NFOrce Internet",
-      "Netlify",
-      "Next.js",
-      "Pleroma",
-      "Rackspace CDN",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
