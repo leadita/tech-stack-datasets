@@ -1,5 +1,38 @@
 [
   {
+    "domain": "didomi.io",
+    "title": "Consent & Preference Management Platform | Didomi",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 34013,
+    "crawled_at": "2026-10-09T19:38:17.440147789Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Didomi",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "Navattic",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "WF Cookie Consent",
+      "Webflow",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "euroetar.com",
     "title": "Eurostar.com: Book Europe Train Tickets and Holidays",
     "business_name": "Eurostar",
@@ -180,39 +213,6 @@
       "Vercel",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "agnostik.io",
-    "title": "Consent & Preference Management Platform | Didomi",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 34013,
-    "crawled_at": "2026-10-07T09:40:54.285239809Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Didomi",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Navattic",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "WF Cookie Consent",
-      "Webflow",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
     ]
   },
   {
