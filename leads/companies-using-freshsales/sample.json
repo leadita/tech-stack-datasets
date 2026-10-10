@@ -1,5 +1,39 @@
 [
   {
+    "domain": "movo.com.au",
+    "title": "Online Bookkeeping Service in Australia and New Zealand | Visory",
+    "business_name": "Visory",
+    "country": "AUS",
+    "seo_score": 67,
+    "tech_spend": 15796,
+    "crawled_at": "2026-10-10T08:42:55.851241917Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Autoptimize",
+      "Column Shortcodes",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Font Awesome",
+      "Fonts Plugin",
+      "Freshsales",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Tag Manager",
+      "HubSpot WordPress Plugin",
+      "Kriesi.at",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "UTF-8",
+      "WP Engine",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "syrasoft.com",
     "title": "Self Storage Software - Syrasoft",
     "business_name": "Syrasoft - Self Storage Software",
@@ -3947,40 +3981,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "movo.com.au",
-    "title": "Online Bookkeeping Service in Australia and New Zealand | Visory",
-    "business_name": "Visory",
-    "country": "AUS",
-    "seo_score": 77,
-    "tech_spend": 25887,
-    "crawled_at": "2026-02-19T02:37:58.062275874Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Autoptimize",
-      "Column Shortcodes",
-      "Content Delivery Network",
-      "Font Awesome",
-      "Fonts Plugin",
-      "Freshsales",
-      "Google",
-      "Google Analytics",
-      "Google Tag Manager",
-      "HubSpot Conversations",
-      "HubSpot WordPress Plugin",
-      "Hubspot",
-      "Kriesi.at",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "UTF-8",
-      "WP Engine",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
