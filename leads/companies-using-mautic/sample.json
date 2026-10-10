@@ -1,5 +1,39 @@
 [
   {
+    "domain": "lignum-maszyny.eu",
+    "title": "Woodworking machines - LIGNUM",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 1673,
+    "crawled_at": "2026-10-10T16:48:21.492442516Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "ElementUI",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Klaro",
+      "Material Design Icons",
+      "Mautic",
+      "Nginx",
+      "Parcel",
+      "SiteW",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "hobbsbatting.org",
     "title": "Lindas.com, 50,000+ Fabric, Thread, Batting & Notions",
     "business_name": "Linda&#39;s Electric Quilters ",
@@ -21453,35 +21487,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "meta-fitness.com",
-    "title": "meta",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 508,
-    "crawled_at": "2026-04-11T00:14:20.004345223Z",
-    "technologies": [
-      "AnyChat",
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Mautic",
-      "Microsoft Ajax Content Delivery Network",
-      "PWA",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
