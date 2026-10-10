@@ -1,5 +1,53 @@
 [
   {
+    "domain": "plasticoscastrohnos.com.ar",
+    "title": "Plasticos Castro Hnos.",
+    "business_name": "",
+    "country": "ARG",
+    "seo_score": 55,
+    "tech_spend": 5198,
+    "crawled_at": "2026-10-10T08:51:03.814945428Z",
+    "technologies": [
+      "Apache",
+      "Bulma",
+      "Financial Services Guide",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Conversion Tracking",
+      "Google Tag Manager",
+      "KVH",
+      "Semantic UI",
+      "UTF-8",
+      "WoWonder",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "sikhonpol.com",
+    "title": "Sikhonpol",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 10563,
+    "crawled_at": "2026-10-10T00:59:52.303797814Z",
+    "technologies": [
+      "Amazon",
+      "Cloudflare",
+      "Fireblade",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "LiteSpeed",
+      "PHP",
+      "Semantic UI",
+      "UTF-8",
+      "WordPress",
+      "WordStream"
+    ]
+  },
+  {
     "domain": "conbocuoi.com.vn",
     "title": "Conbocuoi",
     "business_name": "",
@@ -14624,54 +14672,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "momhotels.in",
-    "title": "Mom Hotels || Call us 7205860820 for Booking",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 2449,
-    "crawled_at": "2026-04-26T15:14:19.981790217Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Apache",
-      "Bulma",
-      "CloudFront",
-      "EmbedPress",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Semantic UI",
-      "UTF-8",
-      "WordPress",
-      "YouTube",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "homevisit.com",
-    "title": "Real Estate Photography Services | HomeVisit",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 900,
-    "crawled_at": "2026-04-26T15:11:19.978564651Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Help Scout",
-      "Instagram Follow Button",
-      "Keller Williams Realty",
-      "OpenResty",
-      "QUIC",
-      "Semantic UI",
-      "UTF-8",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
