@@ -1995,35 +1995,5 @@
       "PrestaShop",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "raptivecooking.com",
-    "title": "Feed - Raptive Cooking",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 8181,
-    "crawled_at": "2026-02-18T12:04:29.736611245Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "BetterMode",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "ElementUI",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Imgix",
-      "No-Q",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "Tribe.so",
-      "Vector Internet Services",
-      "shadcn ui"
-    ]
   }
 ]
