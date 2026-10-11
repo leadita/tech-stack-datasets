@@ -1,5 +1,25 @@
 [
   {
+    "domain": "alanhadyk.dev",
+    "title": "Alan Hadyk - Portfolio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 6144,
+    "crawled_at": "2026-10-11T04:34:42.794984057Z",
+    "technologies": [
+      "Astro",
+      "BetterMode",
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "IcoMoon",
+      "Netlify",
+      "PrestaShop",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "agencyhub.me",
     "title": "Home - networking",
     "business_name": "",
@@ -1974,26 +1994,6 @@
       "Tribe.so",
       "Vector Internet Services",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "alanhadyk.dev",
-    "title": "Alan Hadyk - Portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 6144,
-    "crawled_at": "2026-02-20T08:19:29.26480927Z",
-    "technologies": [
-      "Astro",
-      "BetterMode",
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "IcoMoon",
-      "Netlify",
-      "PrestaShop",
-      "UTF-8"
     ]
   }
 ]
