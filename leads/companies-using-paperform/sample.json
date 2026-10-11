@@ -1,5 +1,38 @@
 [
   {
+    "domain": "ameryscott.com",
+    "title": "Amery Scott - Property Consultants in Chelsea, London",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 20828,
+    "crawled_at": "2026-10-11T01:47:32.854708145Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fireblade",
+      "Fontello",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "HostGator",
+      "IcoMoon",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Paperform",
+      "Parallels Plesk Panel",
+      "Tailwind CSS",
+      "UTF-8",
+      "Visual Studio",
+      "jQuery",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "whereat.events",
     "title": "Social Platform For Events & Parties | Find Hot Local Events",
     "business_name": "",
@@ -10667,39 +10700,6 @@
       "WordPress Multisite",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "ameryscott.co.uk",
-    "title": "Amery Scott - Property Consultants in Chelsea, London",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 20828,
-    "crawled_at": "2026-05-22T19:17:19.985182349Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fireblade",
-      "Fontello",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "HostGator",
-      "IcoMoon",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Paperform",
-      "Parallels Plesk Panel",
-      "Tailwind CSS",
-      "UTF-8",
-      "Visual Studio",
-      "jQuery",
-      "jsDelivr",
-      "reCAPTCHA"
     ]
   },
   {
