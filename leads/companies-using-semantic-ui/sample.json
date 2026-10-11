@@ -1,5 +1,79 @@
 [
   {
+    "domain": "mysecurestorage.es",
+    "title": "My Secure Storage | Secure Storage and Parking in Javea",
+    "business_name": "My Secure Storage",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 16200,
+    "crawled_at": "2026-10-11T07:34:49.487962153Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fireblade",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Semantic UI",
+      "Tailwind CSS",
+      "TermsFeed",
+      "UTF-8",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "digitalbharat.in",
+    "title": "Online shopping | Digital Bharat Make Easy India",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 340,
+    "crawled_at": "2026-10-10T23:38:30.559115833Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Dialpad",
+      "Engintron",
+      "Express",
+      "Facebook Customer Chat SDK",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nginx",
+      "Semantic UI",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "jobconnect.health",
+    "title": "JobConnect.Health - Our Focus Is Healthcare",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 40,
+    "crawled_at": "2026-10-10T18:25:08.991023298Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Nginx",
+      "Semantic UI",
+      "Stripe",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "plasticoscastrohnos.com.ar",
     "title": "Plasticos Castro Hnos.",
     "business_name": "",
@@ -5647,26 +5721,6 @@
       "UTF-8",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "electricistajavea.com",
-    "title": "Electricista Javea - Servicios Eléctricos Profesionales en Javea",
-    "business_name": "Electricista Javea",
-    "country": "ESP",
-    "seo_score": 72,
-    "tech_spend": 26200,
-    "crawled_at": "2026-06-09T17:06:52.913978484Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Express",
-      "Google My Business",
-      "K2F",
-      "Microdata for Google Shopping",
-      "Semantic UI",
-      "TermsFeed",
-      "UTF-8",
-      "reCAPTCHA"
     ]
   },
   {
@@ -14612,66 +14666,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "allbritedentistry.com",
-    "title": "Somerville, NJ's Best & Trusted Dental Clinic | All Brite Dentistry",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 1632,
-    "crawled_at": "2026-04-26T16:56:19.984160038Z",
-    "technologies": [
-      "ArvanCloud",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Icons8",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "Semantic UI",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "Web3Forms",
-      "YouTube",
-      "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "nourishnookllc.com",
-    "title": "Home | Nourish Nook, LLC",
-    "business_name": "Nourish Nook, LLC",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 98,
-    "crawled_at": "2026-04-26T16:14:19.988277682Z",
-    "technologies": [
-      "Alternate Protocol",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gravity Forms",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Schema Plugin",
-      "Semantic UI",
-      "Sitelinks Search Box",
-      "SmartCrawl",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]

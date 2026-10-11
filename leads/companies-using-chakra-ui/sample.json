@@ -1,5 +1,105 @@
 [
   {
+    "domain": "radimages.eu",
+    "title": "RadImages — PACS and browser-based DICOM viewer",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 240,
+    "crawled_at": "2026-10-11T10:47:57.722183577Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Chakra UI",
+      "Content Delivery Network",
+      "Next.js",
+      "Perl",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "cbt.bg",
+    "title": "Corporate Business Technologies",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 16248,
+    "crawled_at": "2026-10-11T10:47:57.689737607Z",
+    "technologies": [
+      "Automattic",
+      "Chakra UI",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fireblade",
+      "Next.js",
+      "Pleroma",
+      "Shopify",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "aiartapps.com",
+    "title": "Find All You Need For AI Art | aiart[apps]",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2719,
+    "crawled_at": "2026-10-11T03:02:10.035202371Z",
+    "technologies": [
+      "App Store",
+      "Chakra UI",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Remix",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "neng.dev",
+    "title": "Xia Deneng | Fullstack Developer | Xia Deneng",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": "",
+    "crawled_at": "2026-10-10T23:20:16.599045214Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Gatsby JS",
+      "GitHub Hosting",
+      "Python",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "flowby.io",
+    "title": "Flowby - Cut your next line | Flowby",
+    "business_name": "",
+    "country": "SWE",
+    "seo_score": 67,
+    "tech_spend": 3877,
+    "crawled_at": "2026-10-10T22:20:26.951241468Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Fastly",
+      "Financial Services Guide",
+      "Formspree",
+      "Gatsby Image CDN",
+      "Gatsby JS",
+      "Plausible Analytics",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "boutahar.com",
     "title": "Achraf Boutahar | Portfolio",
     "business_name": "",
@@ -12952,124 +13052,6 @@
       "Next.js",
       "Pleroma",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "hotelmayansecret.com",
-    "title": "Home | Hotel Boutique Para Eventos Y Bodas En Chetumal·Bacalar: Mayan Secret",
-    "business_name": "",
-    "country": "MEX",
-    "seo_score": 77,
-    "tech_spend": 6208,
-    "crawled_at": "2026-05-16T08:17:19.999049646Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Gatsby JS",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Hotjar",
-      "Idaq",
-      "Instagram Follow Button",
-      "Netlify",
-      "UTF-8",
-      "WhatsApp Sharing"
-    ]
-  },
-  {
-    "domain": "mrpopup.co",
-    "title": "Popups that work — without the setup headache | Mr. Popup",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 240,
-    "crawled_at": "2026-05-16T08:17:19.969315416Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Better Lead Generation Services",
-      "Chakra UI",
-      "Content Delivery Network",
-      "DAV",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "freshtunes.com",
-    "title": "Freshtunes",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 19475,
-    "crawled_at": "2026-05-16T04:42:03.860903106Z",
-    "technologies": [
-      "Adult Content",
-      "Amazon WAF Blocked",
-      "Aruba",
-      "Chakra UI",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Fireblade",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Next.js",
-      "Nginx",
-      "Perl",
-      "Pico CSS",
-      "Pleroma",
-      "QUIC",
-      "RM Education",
-      "Thank You",
-      "The Fresh",
-      "UTF-8",
-      "Yandex Hosting",
-      "YouTube",
-      "eLand",
-      "hCaptcha"
-    ]
-  },
-  {
-    "domain": "xmann.ch",
-    "title": "XMANN - Professional Moving Services",
-    "business_name": "",
-    "country": "CHE",
-    "seo_score": 57,
-    "tech_spend": 7500,
-    "crawled_at": "2026-05-16T04:26:19.996296156Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Fireblade",
-      "Next.js",
-      "PWA",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "jwsbill.com",
-    "title": "JWS Bill",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": "",
-    "crawled_at": "2026-05-16T03:32:18.802109828Z",
-    "technologies": [
-      "Chakra UI",
-      "GZIP Module",
-      "Google My Business",
-      "Next.js",
-      "OpenResty",
-      "Pleroma",
-      "UTF-8",
-      "reCAPTCHA"
     ]
   }
 ]
