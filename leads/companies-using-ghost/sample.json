@@ -1,5 +1,30 @@
 [
   {
+    "domain": "thehumandatum.world",
+    "title": "The Human Datum",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 3293,
+    "crawled_at": "2026-10-10T16:34:26.150984778Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Bunny Fonts",
+      "Content Delivery Network",
+      "CookieYes",
+      "DAV",
+      "Fastly",
+      "GZIP Module",
+      "Ghost",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "olegzay.com",
     "title": "Oleg Zaytsev - Cyber, Stories & Ideas",
     "business_name": "",
@@ -4198,30 +4223,6 @@
       "Telegram",
       "Twitter Ads",
       "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "thehumandatum.org",
-    "title": "The Human Datum",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 3293,
-    "crawled_at": "2026-05-31T09:35:19.971664262Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Bunny Fonts",
-      "Content Delivery Network",
-      "CookieYes",
-      "Fastly",
-      "GZIP Module",
-      "Ghost",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "UTF-8",
-      "YouTube",
       "jsDelivr"
     ]
   },

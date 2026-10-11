@@ -1,5 +1,57 @@
 [
   {
+    "domain": "beyer.photo",
+    "title": "Bridgit Beyer: Architectural and Interior Photographer",
+    "business_name": "Brett Beyer Photography",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 81432,
+    "crawled_at": "2026-10-11T08:23:57.511195223Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "DAV",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Newsletter for Wordpress",
+      "Publii",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "mocketwatch.com",
+    "title": "What is MocketWatch? - MocketWatch",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 649,
+    "crawled_at": "2026-10-11T08:08:07.094909701Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "lupusvox.com",
     "title": "Subject: Lupus Vox",
     "business_name": "",
@@ -135,38 +187,6 @@
       "Microdata for Google Shopping",
       "Publii",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "bridgitbeyer.com",
-    "title": "Bridgit Beyer: Architectural and Interior Photographer",
-    "business_name": "Brett Beyer Photography",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 81432,
-    "crawled_at": "2026-09-30T07:07:13.905636591Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "DAV",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "Publii",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   },
   {
@@ -8228,43 +8248,6 @@
       "Trustpilot Reviews for WordPress",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "mocketwatch.com",
-    "title": "What is MocketWatch? - MocketWatch",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 649,
-    "crawled_at": "2026-02-20T13:41:10.745471444Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "artofphoebe.com",
-    "title": "Phoebe",
-    "business_name": "Phoebe",
-    "country": "USA",
-    "seo_score": 50,
-    "tech_spend": 49,
-    "crawled_at": "2026-02-20T02:59:12.574311382Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   }
 ]

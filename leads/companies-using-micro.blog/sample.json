@@ -1,5 +1,37 @@
 [
   {
+    "domain": "dantonio.net",
+    "title": "David D'Antonio",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 17707,
+    "crawled_at": "2026-10-11T10:28:18.198544716Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "AWS WAF Challenge",
+      "Alibaba Cloud CDN",
+      "Apache",
+      "Atlassian Bitbucket",
+      "DAV",
+      "Font Awesome",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Micro.blog",
+      "PHP",
+      "Parallels Plesk Panel",
+      "Plerdy",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "vinayh.com",
     "title": "Vinay Hiremath",
     "business_name": "",
@@ -7662,61 +7694,6 @@
       "WordPress Multisite",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "dantonio.net",
-    "title": "David D'Antonio",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 17707,
-    "crawled_at": "2026-02-20T17:15:58.889576211Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AWS WAF Challenge",
-      "Alibaba Cloud CDN",
-      "Apache",
-      "Atlassian Bitbucket",
-      "DAV",
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Micro.blog",
-      "PHP",
-      "Parallels Plesk Panel",
-      "Plerdy",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "jimmitchell.org",
-    "title": "Jim Mitchell",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 15237,
-    "crawled_at": "2026-02-20T00:41:01.390431835Z",
-    "technologies": [
-      "1Password",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Bitwarden Passwordless",
-      "GitHub Hosting",
-      "Hugo",
-      "Micro.blog",
-      "PWA",
-      "QUIC",
-      "Share Link",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
