@@ -1,5 +1,40 @@
 [
   {
+    "domain": "womenincs.co",
+    "title": "Women in Customer Success",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 314672,
+    "crawled_at": "2026-10-11T04:27:48.766256864Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Cisco/Arrowpoint Content Service Switch",
+      "ClickUp",
+      "Contento",
+      "Express",
+      "GZIP Module",
+      "Gainsight",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Newsletter for Wordpress",
+      "Pico CSS",
+      "QUIC",
+      "Salesforce Hosted",
+      "SiteW",
+      "Slack",
+      "Squarespace",
+      "UTF-8",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "customersuccessfocus.com",
     "title": "- Customer Success Focus",
     "business_name": "Customer Success Focus",
@@ -1194,42 +1229,6 @@
       "Zoom Video Conferencing",
       "jQuery",
       "monday.com"
-    ]
-  },
-  {
-    "domain": "womenincs.co",
-    "title": "Women in Customer Success",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 173968,
-    "crawled_at": "2026-02-20T08:08:33.218500614Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Contento",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Gainsight",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "Pico CSS",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "eLand"
     ]
   }
 ]
