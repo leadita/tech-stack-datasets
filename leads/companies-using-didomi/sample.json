@@ -1,5 +1,37 @@
 [
   {
+    "domain": "elesa-ganter.com.br",
+    "title": "Welcome to Elesa+Ganter",
+    "business_name": "ELESA+GANTER",
+    "country": "ITA",
+    "seo_score": 82,
+    "tech_spend": 159332,
+    "crawled_at": "2026-10-11T08:48:35.97685528Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Azion",
+      "Baidu Cloud",
+      "Didomi",
+      "Fireblade",
+      "GDPR Consent Management Platform",
+      "GZIP Module",
+      "GetResponse",
+      "Google",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "HCL Commerce",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "RM Education",
+      "Subversion",
+      "UTF-8",
+      "Yandex Hosting",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "didomi.io",
     "title": "Consent & Preference Management Platform | Didomi",
     "business_name": "",
@@ -2919,38 +2951,6 @@
       "University or College",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "elesa-ganter.se",
-    "title": "Welcome to Elesa+Ganter",
-    "business_name": "ELESA+GANTER",
-    "country": "ITA",
-    "seo_score": 82,
-    "tech_spend": 159332,
-    "crawled_at": "2026-08-26T17:30:23.439148713Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Azion",
-      "Baidu Cloud",
-      "Didomi",
-      "Fireblade",
-      "GDPR Consent Management Platform",
-      "GZIP Module",
-      "GetResponse",
-      "Google",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "HCL Commerce",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "RM Education",
-      "Subversion",
-      "UTF-8",
-      "Yandex Hosting",
-      "YouTube",
-      "reCAPTCHA"
     ]
   },
   {
