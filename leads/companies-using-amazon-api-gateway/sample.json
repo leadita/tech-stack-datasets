@@ -1,5 +1,29 @@
 [
   {
+    "domain": "smarterpath.ai",
+    "title": "SmarterPath AI — Turn AI into ROI",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 66,
+    "crawled_at": "2026-10-11T02:52:15.415371632Z",
+    "technologies": [
+      "Amazon",
+      "Amazon API Gateway",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Calendly",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "scalehousecharters.com",
     "title": "Scale House Charters | Top Miami Fishing Trips with Captain Branden",
     "business_name": "Scale House Charters",
@@ -4415,30 +4439,6 @@
       "Salesforce Hosted",
       "Storyblocks",
       "Subversion",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "workwithsmarterpath.com",
-    "title": "SmarterPath AI — Turn AI into ROI",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 4442,
-    "crawled_at": "2026-09-02T10:43:39.246330083Z",
-    "technologies": [
-      "Amazon",
-      "Amazon API Gateway",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Calendly",
-      "CloudFront",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
     ]
