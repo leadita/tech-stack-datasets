@@ -1,5 +1,42 @@
 [
   {
+    "domain": "solcyber.org",
+    "title": "SolCyber: A Fully Managed Cyber Security Program Delivered as a Service",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 44268,
+    "crawled_at": "2026-10-11T07:02:12.201113867Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Cookie Accept",
+      "Cookie Notice",
+      "EmbedPress",
+      "Fireblade",
+      "Google",
+      "Google Analytics",
+      "Google Tag Manager",
+      "HubSpot WordPress Plugin",
+      "Hubspot",
+      "Instagram Follow Button",
+      "Lazy Load for WordPress",
+      "Microdata for Google Shopping",
+      "PHP",
+      "SalesLoft",
+      "Sitelinks Search Box",
+      "UTF-8",
+      "WP Rocket",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "celcat.fr",
     "title": "Logiciel de gestion des emplois du temps",
     "business_name": "",
@@ -6176,43 +6213,6 @@
       "Vercel",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "snackcyber.com",
-    "title": "SolCyber: A Fully Managed Cyber Security Program Delivered as a Service",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 44268,
-    "crawled_at": "2026-05-19T00:17:20.004726054Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Cookie Accept",
-      "Cookie Notice",
-      "EmbedPress",
-      "Fireblade",
-      "Google",
-      "Google Analytics",
-      "Google Tag Manager",
-      "HubSpot WordPress Plugin",
-      "Hubspot",
-      "Instagram Follow Button",
-      "Lazy Load for WordPress",
-      "Microdata for Google Shopping",
-      "PHP",
-      "SalesLoft",
-      "Sitelinks Search Box",
-      "UTF-8",
-      "WP Rocket",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube"
     ]
   },
   {
@@ -15156,34 +15156,6 @@
       "eLand",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "busright.com",
-    "title": "Homepage - BusRight",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 60,
-    "tech_spend": 40188,
-    "crawled_at": "2026-02-20T12:48:26.460014656Z",
-    "technologies": [
-      "App Store",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Drift",
-      "Fastly",
-      "Google Analytics",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "Hugo",
-      "Medium",
-      "SalesLoft",
-      "Tailwind CSS",
-      "UTF-8",
-      "Workable"
     ]
   }
 ]
