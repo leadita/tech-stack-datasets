@@ -1,5 +1,34 @@
 [
   {
+    "domain": "bazosdentalcorp.com",
+    "title": "Bazos Dental",
+    "business_name": "23530 HAWTHORNE BLVD STE 280",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 113773,
+    "crawled_at": "2026-10-11T10:54:46.570425636Z",
+    "technologies": [
+      "Aruba",
+      "Contento",
+      "Express",
+      "GZIP Module",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "NexHealth",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "Yelp Badge",
+      "eLand"
+    ]
+  },
+  {
     "domain": "troyfamilydental.net",
     "title": "Troy Family Dental",
     "business_name": "",
@@ -21398,43 +21427,6 @@
       "UTF-8",
       "eLand",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "kushnirfamilydental.com",
-    "title": "Dentist in Livingston, NJ | Kushnir Family Dental",
-    "business_name": "Kushnir Family Dental",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 18227,
-    "crawled_at": "2026-04-12T17:35:19.999640682Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "ArvanCloud",
-      "CloudFront",
-      "Cornerstone",
-      "Express",
-      "Font Awesome",
-      "Formstack",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "NexHealth",
-      "Nginx",
-      "QUIC",
-      "RM Education",
-      "Squarespace",
-      "UTF-8",
-      "University or College",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
