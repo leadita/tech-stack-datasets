@@ -1,5 +1,28 @@
 [
   {
+    "domain": "theyeeld.com",
+    "title": "Yeeld",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 10440,
+    "crawled_at": "2026-10-10T21:19:34.510037618Z",
+    "technologies": [
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Nginx",
+      "QUIC",
+      "Tailwind CSS",
+      "Tipalti",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "rjfesq.com",
     "title": "Ronald J. Fichera Law Firm | King Of Prussia's Premier Law Firm",
     "business_name": "RONALD J.  Fichera Law Firm",
@@ -1148,28 +1171,6 @@
       "UTF-8",
       "University or College",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "theyeeld.com",
-    "title": "Yeeld",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 10440,
-    "crawled_at": "2026-02-19T21:35:29.668206948Z",
-    "technologies": [
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Nginx",
-      "Tailwind CSS",
-      "Tipalti",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
