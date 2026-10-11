@@ -1,5 +1,41 @@
 [
   {
+    "domain": "sacredtraditions.com",
+    "title": "Sacred Traditions, Inc | WHOLESALE CANDLES OILS BATHS COLOGNES INCENSE | Miami, FL, USA",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 90176,
+    "crawled_at": "2026-10-11T00:14:33.753996954Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Express",
+      "Fastly",
+      "Fastly CDN",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PWA",
+      "QUIC",
+      "SMC",
+      "Seflow Italy",
+      "Sentry",
+      "SiteW",
+      "Thank You",
+      "UTF-8",
+      "Vector Internet Services",
+      "Volusion Live Chat",
+      "Wix",
+      "Wix Media",
+      "eLand",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "backlinksbackup.com",
     "title": "backlinksbackup.com -",
     "business_name": "",
@@ -3538,32 +3574,6 @@
       "Volusion",
       "Volusion Live Chat",
       "Yelp Badge"
-    ]
-  },
-  {
-    "domain": "sacredtraditions.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 24408,
-    "crawled_at": "2026-02-20T01:45:35.550546204Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudinary",
-      "Content Delivery Network",
-      "ElementUI",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Gravity",
-      "UTF-8",
-      "Volusion",
-      "Volusion Live Chat"
     ]
   }
 ]
