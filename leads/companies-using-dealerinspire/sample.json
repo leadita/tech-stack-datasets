@@ -1,5 +1,37 @@
 [
   {
+    "domain": "rpmcycle.ca",
+    "title": "RPM Cycle | Dealership in Dartmouth",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 82,
+    "tech_spend": 33687,
+    "crawled_at": "2026-10-11T03:02:10.035686651Z",
+    "technologies": [
+      "Alternate Protocol",
+      "DAV",
+      "DealerInspire",
+      "DealerSites",
+      "Express",
+      "Fastly",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "ISO/IEC 8859",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "jaithaiaz.com",
     "title": "Jai thai",
     "business_name": "",
@@ -10211,38 +10243,6 @@
       "eLand",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "rpmcycle.ca",
-    "title": "RPM Cycle | Dealership in Dartmouth",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 82,
-    "tech_spend": 33687,
-    "crawled_at": "2026-02-20T05:57:51.595827457Z",
-    "technologies": [
-      "Alternate Protocol",
-      "DAV",
-      "DealerInspire",
-      "DealerSites",
-      "Express",
-      "Fastly",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "ISO/IEC 8859",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8"
     ]
   }
 ]
