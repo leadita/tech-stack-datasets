@@ -1,15 +1,16 @@
 [
   {
-    "domain": "metrics.vhn.io",
+    "domain": "proadvice.be",
     "title": "Grafana",
     "business_name": "",
     "country": "",
-    "seo_score": 40,
+    "seo_score": 35,
     "tech_spend": 1200,
-    "crawled_at": "2026-10-10T03:32:52.619925654Z",
+    "crawled_at": "2026-10-11T09:53:09.754582259Z",
     "technologies": [
-      "Apache",
       "Barchart",
+      "Cloudflare",
+      "Cloudflare CDN",
       "Express",
       "GitHub Hosting",
       "Grafana",
@@ -33,6 +34,26 @@
       "OpenResty",
       "UTF-8",
       "Yandex Hosting"
+    ]
+  },
+  {
+    "domain": "wdrentals.com",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 1200,
+    "crawled_at": "2026-09-27T13:39:28.582016418Z",
+    "technologies": [
+      "Apache",
+      "Barchart",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Grafana",
+      "Nginx",
+      "UTF-8"
     ]
   },
   {
@@ -68,26 +89,6 @@
       "GitHub Hosting",
       "Google Cloud DNS",
       "Grafana",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "elm-monitoring.app",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 11398,
-    "crawled_at": "2026-08-16T16:49:40.536799453Z",
-    "technologies": [
-      "Apache",
-      "Barchart",
-      "Contento",
-      "DAV",
-      "Express",
-      "GitHub Hosting",
-      "Grafana",
-      "No-Q",
       "UTF-8"
     ]
   },
