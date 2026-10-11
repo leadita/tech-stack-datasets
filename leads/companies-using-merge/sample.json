@@ -1,5 +1,35 @@
 [
   {
+    "domain": "devrelbridge.com",
+    "title": "DevRel Bridge: DevRel Strategy Consulting for Tech Startups",
+    "business_name": "DevRel Bridge",
+    "country": "GBR",
+    "seo_score": 87,
+    "tech_spend": 9000,
+    "crawled_at": "2026-10-11T16:53:45.626004788Z",
+    "technologies": [
+      "AI Log",
+      "Alternate Protocol",
+      "Amazon Widgets",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "InitiativeS",
+      "Merge",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Perl",
+      "Pico CSS",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Way",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "jonasmouttet.com",
     "title": "Home - Jonas Mouttet",
     "business_name": "Jonas Mouttet",
