@@ -1,5 +1,58 @@
 [
   {
+    "domain": "lovettandleaveit.com.au",
+    "title": "B2C & B2B Ecommerce & ERP Integration Experts | Kobe Creations - Kobe Creations",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 62,
+    "tech_spend": 10219,
+    "crawled_at": "2026-10-11T22:13:38.830964756Z",
+    "technologies": [
+      "Better Lead Generation Services",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gridsome",
+      "HubSpot Conversations",
+      "Hubspot",
+      "Instagram Follow Button",
+      "Nginx",
+      "PrestaShop",
+      "QUIC",
+      "Twitter Ads",
+      "Woo Themes",
+      "WordPress"
+    ]
+  },
+  {
+    "domain": "humanoids.be",
+    "title": "Martin Giger - humanoids bePage",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 97979,
+    "crawled_at": "2026-10-11T17:10:08.090616225Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "DAV",
+      "GitHub Hosting",
+      "Gridsome",
+      "HMDG",
+      "Idaq",
+      "KVH",
+      "Microdata for Google Shopping",
+      "No-Q",
+      "PWA",
+      "SMC",
+      "Schema Plugin",
+      "Subversion",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "tonycreates.dev",
     "title": "Home - A Blog By Tony Junkes",
     "business_name": "",
@@ -5128,31 +5181,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "kobecreations.com.au",
-    "title": "B2C & B2B Ecommerce & ERP Integration Experts | Kobe Creations - Kobe Creations",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 72,
-    "tech_spend": 10219,
-    "crawled_at": "2026-05-14T01:56:20.009041694Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gridsome",
-      "HubSpot Conversations",
-      "Hubspot",
-      "Instagram Follow Button",
-      "Nginx",
-      "PrestaShop",
-      "QUIC",
-      "Twitter Ads",
-      "Woo Themes",
-      "WordPress"
     ]
   },
   {
@@ -11898,31 +11926,6 @@
       "QUIC",
       "Subversion",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "thoughtsimplified.com",
-    "title": "Home - ThoughtSimplified - Cloud Expertise",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2490,
-    "crawled_at": "2026-03-20T02:20:57.589283844Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS"
     ]
   }
 ]

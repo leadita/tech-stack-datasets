@@ -1,5 +1,50 @@
 [
   {
+    "domain": "knapsacky.com",
+    "title": "Knapsacky.com | Knapsacky.com",
+    "business_name": "",
+    "country": "MEX",
+    "seo_score": 72,
+    "tech_spend": 7868,
+    "crawled_at": "2026-10-11T19:40:08.699337906Z",
+    "technologies": [
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "WhatsApp Sharing"
+    ]
+  },
+  {
+    "domain": "felipebz.com",
+    "title": "Felipe | Senior Software Engineer | Felipe Zorzo",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 18900,
+    "crawled_at": "2026-10-11T12:22:47.785471933Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "NFOrce Internet",
+      "Oracle Cloud",
+      "Perl"
+    ]
+  },
+  {
     "domain": "ano-fox.de",
     "title": "AnoFox | Enterprise Forecasting",
     "business_name": "DataZoo GmbH",
@@ -10443,27 +10488,6 @@
     ]
   },
   {
-    "domain": "felipezorzo.com",
-    "title": "Felipe | Senior Software Engineer | Felipe Zorzo",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 760,
-    "crawled_at": "2026-04-20T23:50:19.977948334Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "NFOrce Internet",
-      "Oracle Cloud",
-      "Perl"
-    ]
-  },
-  {
     "domain": "brocodelab.live",
     "title": "Software Development Company Guwahati, Kolkata, Assam & Singapore | Bro Code Lab",
     "business_name": "Bro Code Lab",
@@ -12681,30 +12705,6 @@
       "Google Analytics",
       "Google Tag Manager",
       "Perl",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "maryslittlelambschildcare.org",
-    "title": "Home | Mary's Little Lambs",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 1428,
-    "crawled_at": "2026-04-08T00:26:20.004080586Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Express",
-      "Google Maps",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Oddle",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
       "UTF-8",
       "Vercel"
     ]
