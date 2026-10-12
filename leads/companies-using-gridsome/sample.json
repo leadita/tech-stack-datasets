@@ -1,5 +1,103 @@
 [
   {
+    "domain": "totat.nl",
+    "title": "Totat, licht- geluid- en theatertechniek - Totat, licht- geluid- en theatertechniek",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 663,
+    "crawled_at": "2026-10-12T22:40:34.121518649Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "our-family-goals.com",
+    "title": "Hello, world! - Our family goals",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": "",
+    "crawled_at": "2026-10-12T15:57:16.946877779Z",
+    "technologies": [
+      "GZIP Module",
+      "Gridsome",
+      "Nginx"
+    ]
+  },
+  {
+    "domain": "peacetreecounseling.com",
+    "title": "Peace Tree Counseling — Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-10-12T10:33:56.360806141Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Forms",
+      "Google Maps",
+      "Google My Business",
+      "Gridsome",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "maes.gg",
+    "title": "Home - Rob Maes",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 6653,
+    "crawled_at": "2026-10-12T04:32:45.430242287Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "Financial Services Guide",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Idaq",
+      "K2F",
+      "Python",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "charnelpools.com",
+    "title": "Charnel Pools Pool and Hot Tub Needs",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 45228,
+    "crawled_at": "2026-10-12T00:53:03.063840435Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Financial Services Guide",
+      "Gridsome",
+      "Instagram Follow Button",
+      "K2F",
+      "KVH",
+      "Netlify",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "lovettandleaveit.com.au",
     "title": "B2C & B2B Ecommerce & ERP Integration Experts | Kobe Creations - Kobe Creations",
     "business_name": "",
@@ -3081,31 +3179,6 @@
     ]
   },
   {
-    "domain": "robmaes.com",
-    "title": "Home - Rob Maes",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 29940,
-    "crawled_at": "2026-06-04T09:39:55.218342616Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "Financial Services Guide",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Idaq",
-      "K2F",
-      "Python",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "axlhazarika.in",
     "title": "Musician, Computer Engineer & A Digital Pagan. - Axl Hazarika",
     "business_name": "",
@@ -5686,22 +5759,6 @@
       "StackPath",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "lichtmeisje.nl",
-    "title": "Totat, licht- geluid- en theatertechniek - Totat, licht- geluid- en theatertechniek",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 600,
-    "crawled_at": "2026-05-11T08:50:19.988833039Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "Gridsome",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   },
   {
@@ -11865,67 +11922,6 @@
       "UTF-8",
       "WhatsApp Sharing",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "jessamynphotography.com",
-    "title": "Jessamyn Photography - Jessamyn Photography",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 201,
-    "crawled_at": "2026-03-21T23:06:40.356577929Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "No-Q",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "intermtrans.com",
-    "title": "Intermtrans - Intermtrans",
-    "business_name": "",
-    "country": "POL",
-    "seo_score": 65,
-    "tech_spend": 72728,
-    "crawled_at": "2026-03-21T05:06:41.565394853Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "Gridsome",
-      "Idaq",
-      "KVH",
-      "Netlify",
-      "SMC",
-      "Subversion",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "traxit.io",
-    "title": "Workflow Management Software for CPAs, EAs, Bookkeepers and more - TRAXIT",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 5297,
-    "crawled_at": "2026-03-21T00:17:40.96661084Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Font Awesome",
-      "Gridsome",
-      "M247",
-      "Netlify",
-      "No-Q",
-      "QUIC",
-      "Subversion",
-      "UTF-8"
     ]
   }
 ]
