@@ -1,5 +1,32 @@
 [
   {
+    "domain": "eleganttours.co.in",
+    "title": "Elegant Tours | Explore The World",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 70,
+    "tech_spend": 24111,
+    "crawled_at": "2026-10-11T20:37:12.408095853Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Flat Icon",
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Hasnode",
+      "Instagram Follow Button",
+      "KVH",
+      "No-Q",
+      "OpenAI",
+      "QUIC",
+      "Unsplash",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "lavillahacker.com",
     "title": "La Villa Hacker - La Villa Hacker",
     "business_name": "",
