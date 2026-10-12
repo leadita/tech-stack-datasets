@@ -1,5 +1,32 @@
 [
   {
+    "domain": "svgovtpolytirupathi.ac.in",
+    "title": "Sri Venkateswara Government Polytechnic Tirupathi",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 70,
+    "tech_spend": 19240,
+    "crawled_at": "2026-10-12T09:25:58.820473788Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Botpress",
+      "DAV",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "InitiativeS",
+      "LiteSpeed",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "YouTube",
+      "jQuery",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "cheapremovalistshobart.com.au",
     "title": "Removalists In Hobart",
     "business_name": "",
@@ -17787,26 +17814,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "positiive.ai",
-    "title": "Positiive",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 3,
-    "crawled_at": "2026-05-02T04:13:27.516292234Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "Botpress",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "QUIC",
-      "UTF-8",
-      "Ubuntu"
     ]
   }
 ]
