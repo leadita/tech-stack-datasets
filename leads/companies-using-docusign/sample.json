@@ -11491,38 +11491,5 @@
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
     ]
-  },
-  {
-    "domain": "p1ec.com",
-    "title": "P1EC, Power 1 Energy Company",
-    "business_name": "P1EC",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 5545,
-    "crawled_at": "2026-02-21T11:30:00.21799549Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Divi",
-      "DocuSign",
-      "Elegant Themes",
-      "EmbedPress",
-      "Fastly",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
