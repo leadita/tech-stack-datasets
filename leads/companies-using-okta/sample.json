@@ -19449,42 +19449,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "growyourlegacy.ca",
-    "title": "Home - Grow Your Legacy",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 3134,
-    "crawled_at": "2026-02-22T02:02:06.549899158Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DAV",
-      "Formstack",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Gravity Forms",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Okta",
-      "PHP",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "UTF-8",
-      "Woo Themes",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "bbPress",
-      "jQuery"
-    ]
   }
 ]
