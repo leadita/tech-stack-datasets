@@ -1,12 +1,12 @@
 [
   {
-    "domain": "bulkbars.com.au",
+    "domain": "bulknutrients.co",
     "title": "Bulk Nutrients | Australia's first choice for supplements",
     "business_name": "",
     "country": "AUS",
     "seo_score": 77,
     "tech_spend": 108834,
-    "crawled_at": "2026-09-09T21:42:12.83617133Z",
+    "crawled_at": "2026-10-12T07:09:44.102774109Z",
     "technologies": [
       "3 Products",
       "Amazon",
@@ -32,7 +32,9 @@
       "Google Cloud DNS",
       "Google Font API",
       "Google Maps",
+      "Google Matched Content",
       "Google My Business",
+      "Google Reseller",
       "Google Tag Manager",
       "Idaq",
       "Instagram Follow Button",
