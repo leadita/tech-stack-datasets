@@ -1,5 +1,22 @@
 [
   {
+    "domain": "gbdjbconsultancy.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 62,
+    "tech_spend": "",
+    "crawled_at": "2026-10-12T04:05:53.995166784Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "GZIP Module",
+      "Subversion",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "pronic.si",
     "title": "Home - Roman Verhovšek",
     "business_name": "Roman Verhovšek",
@@ -13291,46 +13308,6 @@
       "Google Maps",
       "Google My Business",
       "IcoMoon"
-    ]
-  },
-  {
-    "domain": "gbdjbconsultancy.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 62,
-    "tech_spend": "",
-    "crawled_at": "2026-02-21T20:07:19.337006435Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "GZIP Module",
-      "Subversion",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "tekaround.com",
-    "title": "TekAround.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 55003,
-    "crawled_at": "2026-02-21T15:49:16.865150205Z",
-    "technologies": [
-      "Adobe CQ",
-      "Apache",
-      "Apache Tapestry",
-      "Apache Tomcat JK",
-      "Appium",
-      "Google Cloud DNS",
-      "Google Font API",
-      "PHP",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
