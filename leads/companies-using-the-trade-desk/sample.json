@@ -28153,32 +28153,5 @@
       "vi",
       "vidoomy Direct"
     ]
-  },
-  {
-    "domain": "advelize.com",
-    "title": "Advelize | Maximize Performance Across Every Screen",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 40084,
-    "crawled_at": "2026-02-22T01:34:15.285073149Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "AppNexus",
-      "Clearbit",
-      "Content Delivery Network",
-      "Envoy",
-      "GZIP Module",
-      "Google My Business",
-      "LiveRamp",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "The Trade Desk",
-      "UTF-8",
-      "Unsplash",
-      "shadcn ui"
-    ]
   }
 ]
