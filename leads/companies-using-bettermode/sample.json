@@ -1,5 +1,32 @@
 [
   {
+    "domain": "the-collab.org",
+    "title": "Log in - The Collab",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 7983,
+    "crawled_at": "2026-10-13T08:33:34.99505115Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "BetterMode",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "ElementUI",
+      "Figma",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Imgix",
+      "PWA",
+      "QUIC",
+      "Tailwind CSS",
+      "Tribe.so",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "alanhadyk.dev",
     "title": "Alan Hadyk - Portfolio",
     "business_name": "",
@@ -1906,33 +1933,6 @@
       "Twitter Ads",
       "Vector Internet Services",
       "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "paki.ma",
-    "title": "Log in - Pakima Academy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 7983,
-    "crawled_at": "2026-03-03T22:44:27.224068198Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "BetterMode",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "ElementUI",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hotjar",
-      "Imgix",
-      "Instagram Follow Button",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "Tribe.so",
-      "Vector Internet Services",
       "shadcn ui"
     ]
   },
