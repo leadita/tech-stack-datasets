@@ -1,5 +1,29 @@
 [
   {
+    "domain": "dynamo.fyi",
+    "title": "Dynamo — The AI-Driven DM Platform",
+    "business_name": "Dynamo",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 75240,
+    "crawled_at": "2026-10-13T17:42:19.624923013Z",
+    "technologies": [
+      "Airship CRM",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Gambling Content",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "thehareroxwell.co.uk",
     "title": "The Hare | Roxwell",
     "business_name": "Hare - Roxwell",
@@ -1675,27 +1699,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "onlinedynamo.com",
-    "title": "Dynamo — The AI-Driven DM Platform",
-    "business_name": "Dynamo",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 75432,
-    "crawled_at": "2026-05-28T13:14:22.516830953Z",
-    "technologies": [
-      "Airship CRM",
-      "Calendly",
-      "Content Delivery Network",
-      "Gambling Content",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   },
   {
