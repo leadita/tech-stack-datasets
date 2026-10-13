@@ -1,5 +1,26 @@
 [
   {
+    "domain": "jmfjltd.com",
+    "title": "JMFJ, Ltd. – Creative. Dynamic. Relevant.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 25241,
+    "crawled_at": "2026-10-13T02:16:27.917234821Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Blackboard Open LMS",
+      "Calendly",
+      "EmbedPress",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "careerhive.com.au",
     "title": "CareerHive — Australia's Work Integrated Learning Platform",
     "business_name": "CareerHive",
@@ -3567,37 +3588,6 @@
       "WordPress Multisite",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "jmfjltd.com",
-    "title": "JMFJ, Ltd. – Creative. Dynamic. Relevant.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 29380,
-    "crawled_at": "2026-02-23T05:50:57.943152568Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Blackboard Open LMS",
-      "Calendly",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Fastly",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "NFOrce Internet",
-      "Nginx",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
