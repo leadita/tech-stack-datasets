@@ -10495,54 +10495,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "wanlidianp10.shop",
-    "title": "www.wanlidianp10.shop",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 77,
-    "tech_spend": 78168,
-    "crawled_at": "2026-02-23T18:00:23.056037828Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apple Pay JS",
-      "Aruba",
-      "Cart.com",
-      "Cloudflare",
-      "ETranslate",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Subversion",
-      "UTF-8",
-      "eLand",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "kookg.com",
-    "title": "www.kookg.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 30171,
-    "crawled_at": "2026-02-22T14:46:57.923910312Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apple Pay JS",
-      "Aruba",
-      "Cart.com",
-      "Cloudflare",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Subversion",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "eLand",
-      "jQuery"
-    ]
   }
 ]
