@@ -7709,40 +7709,5 @@
       "University or College",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "mortgagepricestoday.com",
-    "title": "Mortgage Prices Today: Current Market Analysis - Mortgage Prices Today",
-    "business_name": "Mortgage Prices Today",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 35487,
-    "crawled_at": "2026-02-22T22:25:48.138803806Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Automattic",
-      "BatCache",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Fastly",
-      "Financial Services Guide",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Gutenberg",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Optimal Blue",
-      "QUIC",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress RSS Feed Retriever",
-      "WordPress Stats"
-    ]
   }
 ]
