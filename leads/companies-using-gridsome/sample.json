@@ -1,5 +1,25 @@
 [
   {
+    "domain": "gretechnik.sk",
+    "title": "GreTechnik - GreTechnik",
+    "business_name": "",
+    "country": "SVK",
+    "seo_score": 62,
+    "tech_spend": 4840,
+    "crawled_at": "2026-10-13T10:19:53.847487043Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Fastly",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "totat.nl",
     "title": "Totat, licht- geluid- en theatertechniek - Totat, licht- geluid- en theatertechniek",
     "business_name": "",
@@ -11894,34 +11914,6 @@
       "Tailwind CSS",
       "Visual Studio",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "sarab.nyc",
-    "title": "Home | SaraB",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 23028,
-    "crawled_at": "2026-03-22T20:49:00.493608892Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Instagram Follow Button",
-      "KVH",
-      "Klaviyo",
-      "Netlify",
-      "PWA",
-      "Tailwind CSS",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "shadcn ui"
     ]
   }
 ]

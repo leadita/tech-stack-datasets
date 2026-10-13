@@ -1,5 +1,65 @@
 [
   {
+    "domain": "mateoguzman.net",
+    "title": "Mateo Guzmán — React Native consultant | Mateo Guzmán",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-10-13T19:08:54.994663634Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Medium",
+      "Perl",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "biocentral.cloud",
+    "title": "Biocentral",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-10-13T06:48:10.13762669Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Docusaurus",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Perl",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "smartloop.ai",
+    "title": "Smartloop | Local AI Assistant",
+    "business_name": "",
+    "country": "VEN",
+    "seo_score": 82,
+    "tech_spend": 7440,
+    "crawled_at": "2026-10-13T03:30:33.226180326Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Docusaurus",
+      "Express",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "amantel.de",
     "title": "Alexander Mantel's Homepage",
     "business_name": "",
@@ -12658,80 +12718,6 @@
       "Nginx",
       "Perl",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "ojosproject.org",
-    "title": "Ojos Project",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2026-04-09T04:20:19.997194089Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Google My Business",
-      "Perl",
-      "UTF-8",
-      "University or College"
-    ]
-  },
-  {
-    "domain": "lucenia.io",
-    "title": "Enterprise Search & AI Retrieval | Lucenia",
-    "business_name": "Lucenia",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 13872,
-    "crawled_at": "2026-04-09T00:35:19.996478849Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon Link Enchancer",
-      "Amazon Widgets",
-      "ArvanCloud",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Metricool",
-      "Microdata for Google Shopping",
-      "Perl",
-      "Squarespace",
-      "UTF-8",
-      "Vector Internet Services",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "liuzaoqi.com",
-    "title": "Home | Liuzaoqi",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 600,
-    "crawled_at": "2026-04-08T16:50:20.007041464Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "KaTeX",
-      "Perl",
-      "Python",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
