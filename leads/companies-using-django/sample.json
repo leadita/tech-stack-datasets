@@ -1,5 +1,49 @@
 [
   {
+    "domain": "sarahdekin.com",
+    "title": "Home | Sarah Dekin",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 711,
+    "crawled_at": "2026-10-12T19:13:09.682471011Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads"
+    ]
+  },
+  {
+    "domain": "massimilianorossi.net",
+    "title": "Massimiliano Rossi | Home",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 75,
+    "tech_spend": 3468,
+    "crawled_at": "2026-10-12T15:18:35.392329544Z",
+    "technologies": [
+      "Apache",
+      "Azion",
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Perl",
+      "QUIC",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "pennantyachts.com",
     "title": "Fractional Yacht Leasing in Miami and Annapolis | Pennant Yachts",
     "business_name": "",
@@ -8823,98 +8867,6 @@
       "Line2",
       "Perl",
       "QUIC",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "abaca.pro",
-    "title": "Association of Business Angels of Central Asia - Home",
-    "business_name": "",
-    "country": "KGZ",
-    "seo_score": 65,
-    "tech_spend": 2460,
-    "crawled_at": "2026-02-22T21:29:20.807637988Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Line2",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "sarahdekin.com",
-    "title": "Home | Sarah Dekin",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 711,
-    "crawled_at": "2026-02-22T18:48:53.742576517Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads"
-    ]
-  },
-  {
-    "domain": "massimilianorossi.net",
-    "title": "Massimiliano Rossi | Home",
-    "business_name": "",
-    "country": "ITA",
-    "seo_score": 65,
-    "tech_spend": 3468,
-    "crawled_at": "2026-02-22T12:42:06.895435989Z",
-    "technologies": [
-      "Apache",
-      "Azion",
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "attentivelaw.com",
-    "title": "Business Law Firm | Loudoun County VA | Attentive Law Group",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 17460,
-    "crawled_at": "2026-02-22T12:42:06.83181126Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "Fireblade",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Line2",
-      "Perl",
-      "QUIC",
-      "Twitter Ads",
-      "Yelp Badge",
       "reCAPTCHA"
     ]
   }
