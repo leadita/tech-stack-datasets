@@ -1,5 +1,27 @@
 [
   {
+    "domain": "linkage.lol",
+    "title": "Linkage",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 1280,
+    "crawled_at": "2026-10-13T00:25:17.021949913Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Cloudflare",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Heroku",
+      "Micro.blog",
+      "Microdata for Google Shopping",
+      "UTF-8",
+      "University or College",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "timlockridge.com",
     "title": "Tim Lockridge",
     "business_name": "",
@@ -7703,29 +7725,6 @@
       "Micro.blog",
       "Nginx",
       "Ubuntu"
-    ]
-  },
-  {
-    "domain": "linkage.lol",
-    "title": "Linkage",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 1640,
-    "crawled_at": "2026-02-23T03:00:19.522009328Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Digital Ocean Spaces",
-      "GZIP Module",
-      "Heroku",
-      "Micro.blog",
-      "Microdata for Google Shopping",
-      "UTF-8",
-      "University or College",
-      "jsDelivr"
     ]
   }
 ]

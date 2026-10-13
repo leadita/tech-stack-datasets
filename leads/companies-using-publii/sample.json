@@ -8185,43 +8185,5 @@
       "QUIC",
       "WordPress SEO Structured Data Schema Plugin"
     ]
-  },
-  {
-    "domain": "shark5060.net",
-    "title": "Welcome",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 49,
-    "crawled_at": "2026-02-23T17:13:32.904517627Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "fermeduboutdelarue.fr",
-    "title": "La Ferme du Bout de la Rue",
-    "business_name": "La Ferme du Bout de la Rue    ",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 1249,
-    "crawled_at": "2026-02-23T05:58:51.320871835Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Debian",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Publii",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
   }
 ]

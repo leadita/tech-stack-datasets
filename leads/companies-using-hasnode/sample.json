@@ -11734,35 +11734,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "mdanyalkayani.com",
-    "title": "M Danyal Kayani | Founder & CEO — MDKVA | Technologist & Creator",
-    "business_name": "M Danyal Kayani",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 70148,
-    "crawled_at": "2026-02-22T18:15:30.867806121Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Baidu Cloud",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Fireblade",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hasnode",
-      "Instagram Follow Button",
-      "Medium",
-      "Microdata for Google Shopping",
-      "PWA",
-      "Product Hunt",
-      "SMC",
-      "UTF-8",
-      "Yandex Hosting",
-      "YouTube"
-    ]
   }
 ]
