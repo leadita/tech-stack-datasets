@@ -1,5 +1,34 @@
 [
   {
+    "domain": "protechproductionsupport.co.za",
+    "title": "Home - Protech Production Support - Masters in packaging equipment",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 4557,
+    "crawled_at": "2026-10-13T13:29:25.791087277Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Divi",
+      "Elegant Themes",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Okta",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "joinyearone.com",
     "title": "Headquarters Internships | Cru",
     "business_name": "",
@@ -19419,35 +19448,6 @@
       "eLand",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "protechproductionsupport.co.za",
-    "title": "Home - Protech Production Support - Masters in packaging equipment",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 4557,
-    "crawled_at": "2026-02-23T23:05:33.849351348Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Divi",
-      "Elegant Themes",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Okta",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
