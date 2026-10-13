@@ -1,5 +1,22 @@
 [
   {
+    "domain": "gbacklink.com",
+    "title": "Gbacklink - Backlink Blockchain Ads Logo Network",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 55,
+    "tech_spend": "",
+    "crawled_at": "2026-10-13T06:39:15.907421309Z",
+    "technologies": [
+      "AI Log",
+      "Commission Junction",
+      "Content Delivery Network",
+      "Google My Business",
+      "UTF-8",
+      "mod_pagespeed"
+    ]
+  },
+  {
     "domain": "mojoboutique.com",
     "title": "Mojo Boutique - Furniture with soul and story",
     "business_name": "Mojo Boutique",
@@ -12964,22 +12981,6 @@
       "Vector Internet Services",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "gbacklink.com",
-    "title": "Gbacklink - Backlink Blockchain Ads Logo Network",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 55,
-    "tech_spend": "",
-    "crawled_at": "2026-02-23T12:41:56.246226584Z",
-    "technologies": [
-      "AI Log",
-      "Commission Junction",
-      "Content Delivery Network",
-      "Google My Business",
-      "UTF-8"
     ]
   }
 ]
