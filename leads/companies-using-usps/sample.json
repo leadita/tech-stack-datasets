@@ -1,5 +1,46 @@
 [
   {
+    "domain": "ftwcoatings.com",
+    "title": "FTW Coatings",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 9098,
+    "crawled_at": "2026-10-13T07:23:54.101575571Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Contact Form Plugin",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Fireblade",
+      "Fontfabric",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gravity Forms",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Krypt Technologies",
+      "Nectar Slide Plugin",
+      "PHP",
+      "QUIC",
+      "Salient",
+      "Share Link",
+      "Slider Revolution",
+      "Theme In WP",
+      "UPS",
+      "USPS",
+      "UTF-8",
+      "WPBakery",
+      "Woo Themes",
+      "WooCommerce Checkout",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "kingsapron.com",
     "title": "Food Educator | Atlanta | Kings Apron | Vegan Chef",
     "business_name": "",
@@ -18133,33 +18174,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "theoriginalgalaxyprojector.com",
-    "title": "The Original Galaxy Projector",
-    "business_name": "The Original Galaxy Projector",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 5776,
-    "crawled_at": "2026-04-28T03:33:20.346015836Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Shopify Payments",
-      "SiteW",
-      "Thank You",
-      "USPS",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   }
 ]
