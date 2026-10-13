@@ -1,5 +1,39 @@
 [
   {
+    "domain": "pianobar5.com",
+    "title": "Piano Bar 5 – Piano & Jazz Bar – Fuengirola",
+    "business_name": "",
+    "country": "ESP",
+    "seo_score": 80,
+    "tech_spend": 3913,
+    "crawled_at": "2026-10-12T21:11:54.720419281Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Boxzilla",
+      "CheryFramework",
+      "Column Shortcodes",
+      "DAV",
+      "EmbedPress",
+      "Fonts Plugin",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Kriesi.at",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "eLand",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "radajacobs.com",
     "title": "Rada Jacobs | Professional Makeup Artists Based Out Of New York City",
     "business_name": "",
@@ -21315,41 +21349,6 @@
       "YouTube",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "gallatinpartners.org",
-    "title": "Gallatin Forest Partnership",
-    "business_name": "",
-    "country": "",
-    "seo_score": 70,
-    "tech_spend": 17483,
-    "crawled_at": "2026-05-08T20:43:59.022104545Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Boxzilla",
-      "Cloudflare",
-      "Column Shortcodes",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Fireblade",
-      "Fontello",
-      "GoDaddy",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "PHP",
-      "QUIC",
-      "Slider Revolution",
-      "Theme In WP",
-      "UTF-8",
-      "WPBakery",
-      "WordPress",
-      "WordPress Multisite",
-      "Wysija",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]
