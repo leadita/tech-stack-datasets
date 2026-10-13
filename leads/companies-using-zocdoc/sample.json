@@ -1,5 +1,29 @@
 [
   {
+    "domain": "mountainmh.com",
+    "title": "CO & NH Psychiatric Care | Mountain Mental Health | PA-C | Mountain Mental Health",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 107181,
+    "crawled_at": "2026-10-13T16:18:10.881022082Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Square",
+      "Google",
+      "Google Cloud DNS",
+      "Google Customer Reviews",
+      "Google Font API",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "Perl",
+      "Unsplash",
+      "ZocDoc",
+      "Zyro",
+      "intakeQ"
+    ]
+  },
+  {
     "domain": "sabitanandy.com",
     "title": "Licensed Therapist in Downtown Chicago, IL | Sabita Nandy",
     "business_name": "",
@@ -19964,45 +19988,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "ZocDoc",
       "eLand"
-    ]
-  },
-  {
-    "domain": "vitamentalnutrition.com",
-    "title": "VitaMental Nutrition | Registered Dietitian & Weight Loss Counseling | PA",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 35301,
-    "crawled_at": "2026-08-07T11:01:46.43857899Z",
-    "technologies": [
-      "Amazon",
-      "Apache",
-      "Apture Linking Platform",
-      "ClickOn",
-      "Elfsight",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "K2F",
-      "KVH",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Ntent",
-      "Plausible Analytics",
-      "SMC",
-      "Sapper",
-      "Schema Plugin",
-      "Subversion",
-      "UTF-8",
-      "ZocDoc"
     ]
   }
 ]
