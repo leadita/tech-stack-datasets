@@ -1,5 +1,29 @@
 [
   {
+    "domain": "wickedgoodsoftware.com",
+    "title": "WickedGoodSoftware",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 159,
+    "crawled_at": "2026-10-13T14:53:17.733739951Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "IcoMoon"
+    ]
+  },
+  {
     "domain": "gbdjbconsultancy.com",
     "title": "Home",
     "business_name": "",
@@ -13284,30 +13308,6 @@
       "UTF-8",
       "University or College",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "wickedgoodsoftware.com",
-    "title": "WickedGoodSoftware",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 159,
-    "crawled_at": "2026-02-24T01:12:22.790401439Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "IcoMoon"
     ]
   }
 ]
