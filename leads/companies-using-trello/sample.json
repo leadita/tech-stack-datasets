@@ -1,5 +1,36 @@
 [
   {
+    "domain": "turbo-encabulators.com",
+    "title": "Hello!",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 362,
+    "crawled_at": "2026-10-13T07:51:25.393008009Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Code Prettify",
+      "Google Font API",
+      "Nginx",
+      "Pleroma",
+      "Tailwind CSS",
+      "Trello",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "j6n.ca",
     "title": "Jonathan Ng — Site Reliability Engineer",
     "business_name": "",
@@ -7418,38 +7449,6 @@
       "Trello",
       "Twitter Ads",
       "Vector Internet Services"
-    ]
-  },
-  {
-    "domain": "hicks-wright.com",
-    "title": "Hello!",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 362,
-    "crawled_at": "2026-06-07T07:30:31.814069427Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Code Prettify",
-      "Google Font API",
-      "Nginx",
-      "Pleroma",
-      "Tailwind CSS",
-      "Trello",
-      "UTF-8",
-      "Ubuntu",
-      "jQuery"
     ]
   },
   {
