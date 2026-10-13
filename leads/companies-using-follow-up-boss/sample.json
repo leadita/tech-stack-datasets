@@ -1,5 +1,32 @@
 [
   {
+    "domain": "theriverrunapartments.com",
+    "title": "Home | River Run Apartments",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 17292,
+    "crawled_at": "2026-10-13T00:04:03.54198246Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "Follow Up Boss",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "ResMan",
+      "Silicon Valley Web Hosting",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "nulovell.com",
     "title": "Home | Nu Lovell",
     "business_name": "",
@@ -14298,36 +14325,6 @@
       "Subversion",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "valuehomenevada.com",
-    "title": "Find the Current Market Value of Your Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 31864,
-    "crawled_at": "2026-02-23T11:20:50.363152565Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Fireblade",
-      "Follow Up Boss",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Harbor",
-      "Line2",
-      "Microsoft Azure",
-      "NFOrce Internet",
-      "Perl",
-      "QUIC",
-      "Sierra Interactive",
-      "UTF-8",
-      "Visual Studio",
-      "eLand"
     ]
   }
 ]
