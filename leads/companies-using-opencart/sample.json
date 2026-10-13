@@ -1,5 +1,88 @@
 [
   {
+    "domain": "svwholesalellc.com",
+    "title": "SVWholesale, Smoke Shop, All Vapes, CBD, Cigars, Hookah",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 77547,
+    "crawled_at": "2026-10-13T08:48:25.117193445Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Cart.com",
+      "Coming Soon Page",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "OpenCart",
+      "PHP",
+      "PrestaShop",
+      "QUIC",
+      "Silicon Valley Web Hosting",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "lewalkin.ca",
+    "title": "Le Walkin",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 67,
+    "tech_spend": 76240,
+    "crawled_at": "2026-10-13T04:11:06.674709211Z",
+    "technologies": [
+      "Apache",
+      "AutoComplete",
+      "CDN JS",
+      "Cart.com",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "OpenCart",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "freecomp.net",
+    "title": "فري كومب",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 30243,
+    "crawled_at": "2026-10-13T00:34:28.351112811Z",
+    "technologies": [
+      "Cart.com",
+      "Google Cloud DNS",
+      "Google Font API",
+      "HostGator",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "OpenCart",
+      "Parallels Plesk Panel",
+      "Tailwind CSS",
+      "UTF-8",
+      "Visual Studio",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "golofepa.com.ar",
     "title": "Golofepa",
     "business_name": "",
@@ -388,26 +471,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "jawalk.sa",
-    "title": "Rasail Jawalak Establishment for Communications and Information Technology",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 30003,
-    "crawled_at": "2026-10-10T20:07:25.466185228Z",
-    "technologies": [
-      "Cart.com",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "OpenCart",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   },
   {
@@ -12206,50 +12269,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "eu-aribio.com",
-    "title": "ARIBIO",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 30156,
-    "crawled_at": "2026-05-25T06:12:45.741183494Z",
-    "technologies": [
-      "AutoComplete",
-      "Cart.com",
-      "GZIP Module",
-      "IcoMoon",
-      "Nginx",
-      "OpenCart",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "sydeign.com",
-    "title": "Your Store",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 30003,
-    "crawled_at": "2026-05-25T06:00:57.588261894Z",
-    "technologies": [
-      "Cart.com",
-      "Content Delivery Network",
-      "Express",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "OpenCart",
-      "QUIC",
-      "UTF-8"
     ]
   }
 ]
