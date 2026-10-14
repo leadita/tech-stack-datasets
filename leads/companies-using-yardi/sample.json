@@ -2811,29 +2811,5 @@
       "Yardi Systems",
       "jQuery"
     ]
-  },
-  {
-    "domain": "resyntec.com",
-    "title": "Expert Yardi Consulting Services - ReSynTec | USA & UAE Specialists | ReSynTec - Yardi Consultants",
-    "business_name": "ReSynTec",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 41152,
-    "crawled_at": "2026-02-25T18:30:05.133624765Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Google Related Website Sites",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "Yardi Systems",
-      "shadcn ui"
-    ]
   }
 ]
