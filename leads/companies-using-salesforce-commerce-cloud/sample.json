@@ -16975,48 +16975,5 @@
       "YouTube",
       "iGoDigital"
     ]
-  },
-  {
-    "domain": "burton.no",
-    "title": "Burton.com | Standing Sideways Since 1977 | Burton Snowboards US",
-    "business_name": "Burton Snowboards",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 668924,
-    "crawled_at": "2026-02-24T11:39:06.094433379Z",
-    "technologies": [
-      "Akamai Global Host",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "BloomReach",
-      "CQuotient",
-      "Cloudflare",
-      "Content Delivery Network",
-      "DAV",
-      "Dash Hudson",
-      "DoubleClick Bid Manager",
-      "Facebook Reseller",
-      "Fireblade",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "Microdata for Google Shopping",
-      "MyFonts",
-      "Oddle",
-      "OneTrust Domain Verification",
-      "PWA",
-      "Pico CSS",
-      "QUIC",
-      "Quotient",
-      "Salesforce Commerce Cloud",
-      "SplashThat",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "Zendesk Embeddables"
-    ]
   }
 ]
