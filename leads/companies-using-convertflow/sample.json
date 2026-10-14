@@ -1,12 +1,12 @@
 [
   {
-    "domain": "powersportsarkansas.com",
+    "domain": "virginiarvwholesale.com",
     "title": "Camping World: Shop Top RVs @America's #1 RV Dealer",
     "business_name": "",
     "country": "USA",
     "seo_score": 77,
     "tech_spend": 213064,
-    "crawled_at": "2026-10-13T19:58:50.051323053Z",
+    "crawled_at": "2026-10-14T06:32:24.903389124Z",
     "technologies": [
       "AWS WAF Challenge",
       "Alternate Protocol",
@@ -16191,36 +16191,6 @@
       "eLand",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "imanghader.com",
-    "title": "Home - Iman Ghader",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 102,
-    "crawled_at": "2026-02-25T09:23:36.582874325Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ConvertFlow",
-      "EmbedPress",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
