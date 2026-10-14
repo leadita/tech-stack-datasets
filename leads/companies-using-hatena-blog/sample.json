@@ -221,29 +221,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "jigadoribu.com",
-    "title": "#グラドル自画撮り部 画像まとめサイト",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 792,
-    "crawled_at": "2026-02-24T18:12:40.103531536Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DoubleClick Bid Manager",
-      "Facebook Like",
-      "Facebook Login",
-      "Facebook Reseller",
-      "Google Related Website Sites",
-      "Hatena Blog",
-      "PHP",
-      "Twitter Ads",
-      "Twitter CDN",
-      "UTF-8"
-    ]
   }
 ]

@@ -1,5 +1,30 @@
 [
   {
+    "domain": "devthendo.io",
+    "title": "Justin Hammond",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 416,
+    "crawled_at": "2026-10-14T11:45:40.670221159Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Express",
+      "Ghost",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "UTF-8",
+      "Unsplash",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "uncanny.bingo",
     "title": "Uncanny Bingo",
     "business_name": "",
@@ -6848,27 +6873,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "dynam.ac",
-    "title": "Justin Hammond",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 216,
-    "crawled_at": "2026-05-09T08:13:59.272553164Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Express",
-      "Ghost",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "UTF-8",
-      "Unsplash",
       "jsDelivr"
     ]
   },

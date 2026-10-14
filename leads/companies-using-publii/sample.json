@@ -1,5 +1,29 @@
 [
   {
+    "domain": "tatianapi.com",
+    "title": "Tatiana Pi PT",
+    "business_name": "Tatiana Pi PT",
+    "country": "CAN",
+    "seo_score": 70,
+    "tech_spend": 17589,
+    "crawled_at": "2026-10-14T05:33:05.609306401Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "storiesbehindsongs.com",
     "title": "Stories Behind Songs | You will never hear them the same way. Articles inspired by the stories behind the songs that were created during the time when the band was the most popular in the world",
     "business_name": "Stories Behind The Songs",
@@ -8158,31 +8182,6 @@
       "Publii",
       "QUIC",
       "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "tatianapi.com",
-    "title": "Tatiana Pi PT",
-    "business_name": "Tatiana Pi PT",
-    "country": "CAN",
-    "seo_score": 75,
-    "tech_spend": 17589,
-    "crawled_at": "2026-02-24T23:38:20.147931452Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "Publii",
-      "QUIC",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   }
