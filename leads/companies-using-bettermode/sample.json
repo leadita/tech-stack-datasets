@@ -1967,33 +1967,5 @@
       "YouTube",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "newshuddle.ca",
-    "title": "NewsHuddle",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 8043,
-    "crawled_at": "2026-02-24T21:34:45.664707671Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon WAF Blocked",
-      "BetterMode",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "ElementUI",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Imgix",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "Tribe.so",
-      "Vector Internet Services",
-      "shadcn ui"
-    ]
   }
 ]
