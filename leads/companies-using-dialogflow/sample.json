@@ -9227,43 +9227,5 @@
       "WordPress Multisite",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "intexcompany.lv",
-    "title": "Intex - Official website for Latvia",
-    "business_name": "",
-    "country": "CZE",
-    "seo_score": 72,
-    "tech_spend": 6305,
-    "crawled_at": "2026-02-25T08:07:30.475031694Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Azion",
-      "Bulma",
-      "Contact Form Plugin",
-      "Dialogflow",
-      "EmbedPress",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Parallels Plesk Panel",
-      "Perl",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "Vello",
-      "WPML Multilingual",
-      "WordPress",
-      "WordPress Multisite",
-      "reCAPTCHA"
-    ]
   }
 ]
