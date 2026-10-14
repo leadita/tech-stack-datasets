@@ -1,5 +1,42 @@
 [
   {
+    "domain": "zibahomes.com",
+    "title": "Ziba Homes - Modern Home Furniture, Home Decor & Lighting",
+    "business_name": "Ziba Homes",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 30216,
+    "crawled_at": "2026-10-14T06:20:33.665655241Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Baidu Cloud",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Commission Junction",
+      "Express",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Homes.com CMS",
+      "Instagram Follow Button",
+      "Klaviyo",
+      "Microdata for Google Shopping",
+      "Onyx Internet",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "Shopify Payments",
+      "Tailwind CSS",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "Yandex Hosting",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "gbacklink.com",
     "title": "Gbacklink - Backlink Blockchain Ads Logo Network",
     "business_name": "",
@@ -12948,39 +12985,6 @@
       "WordStream",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "zibahomes.com",
-    "title": "Ziba Homes - Modern Home Furniture, Home Decor & Lighting",
-    "business_name": "Ziba Homes",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 25416,
-    "crawled_at": "2026-02-25T00:48:14.088653246Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Commission Junction",
-      "Express",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Homes.com CMS",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "Microdata for Google Shopping",
-      "Onyx Internet",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Shopify Payments",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   }
 ]
