@@ -1,5 +1,40 @@
 [
   {
+    "domain": "mbrdna.com",
+    "title": "MBRDNA Home - MBRDNA",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 9976,
+    "crawled_at": "2026-10-14T11:18:09.303045327Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Ametys",
+      "Content Delivery Network",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "Express",
+      "Fastly",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Lever",
+      "Microdata for Google Shopping",
+      "Monarch Social Sharing Plugin For WordPress",
+      "Nginx",
+      "PHP",
+      "Pantheon",
+      "Stream",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "allthingsimpact.com",
     "title": "All Things Impact.",
     "business_name": "",
@@ -9577,41 +9612,6 @@
       "Yotpo",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "mbrdna.com",
-    "title": "MBRDNA Home - MBRDNA",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 9976,
-    "crawled_at": "2026-02-25T08:14:39.542740471Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Ametys",
-      "Content Delivery Network",
-      "Divi",
-      "Elegant Themes",
-      "EmbedPress",
-      "Express",
-      "Fastly",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Lever",
-      "Microdata for Google Shopping",
-      "Monarch Social Sharing Plugin For WordPress",
-      "Nginx",
-      "PHP",
-      "Pantheon",
-      "Stream",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
