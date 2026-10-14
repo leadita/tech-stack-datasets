@@ -1,5 +1,85 @@
 [
   {
+    "domain": "budcor.com",
+    "title": "Budcor",
+    "business_name": "",
+    "country": "POL",
+    "seo_score": 82,
+    "tech_spend": 3840,
+    "crawled_at": "2026-10-14T13:35:37.293059931Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Mixpanel",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "higher-state.tv",
+    "title": "SportsShoes - The UK's No 1 Running & Outdoor Fitness Retailer | SportsShoes.com",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 15999,
+    "crawled_at": "2026-10-14T13:21:35.463087319Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Chakra UI",
+      "Cloudflare",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Express",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Next.js",
+      "PWA",
+      "Perl",
+      "Pico CSS",
+      "Pleroma",
+      "QUIC",
+      "Share Link",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "Vimeo",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "apartmanypodschodami.sk",
+    "title": "Apartmány pod schodami",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2680,
+    "crawled_at": "2026-10-14T11:13:35.981410768Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "staging-mindset.care",
     "title": "Mindset",
     "business_name": "",
@@ -358,41 +438,6 @@
       "UTF-8",
       "University or College",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "higher-state.mobi",
-    "title": "SportsShoes - The UK's No 1 Running & Outdoor Fitness Retailer | SportsShoes.com",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 16329,
-    "crawled_at": "2026-10-10T11:20:55.06084947Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Chakra UI",
-      "Cloudflare",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "DAV",
-      "Express",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Next.js",
-      "No-Q",
-      "PWA",
-      "Perl",
-      "Pico CSS",
-      "Pleroma",
-      "QUIC",
-      "Share Link",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "Vimeo",
-      "YouTube",
-      "eLand"
     ]
   },
   {
@@ -13007,50 +13052,6 @@
       "Typeform",
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "joyfieldrealestate.com",
-    "title": "JoyField Real Estate | Your Gateway to Exceptional Property Solutions",
-    "business_name": "",
-    "country": "NGA",
-    "seo_score": 77,
-    "tech_spend": "",
-    "crawled_at": "2026-05-17T04:35:19.997255047Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Chakra UI",
-      "Content Delivery Network",
-      "Express",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Next.js",
-      "Nginx",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "debouwzussen.nl",
-    "title": "De Bouwzussen: Daar kun je op bouwen - Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 90,
-    "crawled_at": "2026-05-16T22:20:19.99740641Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Instagram Follow Button",
-      "Netlify",
-      "Next.js",
-      "Plausible Analytics",
-      "Pleroma",
-      "UTF-8"
     ]
   }
 ]

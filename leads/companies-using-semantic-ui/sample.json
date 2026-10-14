@@ -1,5 +1,53 @@
 [
   {
+    "domain": "sushiaraazusa.com",
+    "title": "Sushi Ara | Online Ordering",
+    "business_name": "",
+    "country": "IDN",
+    "seo_score": 67,
+    "tech_spend": "",
+    "crawled_at": "2026-10-13T23:13:34.517913017Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "OpenResty",
+      "Semantic UI",
+      "Twitter Ads",
+      "UTF-8",
+      "Yelp Badge",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "chated.io",
+    "title": "Shopify Apps & Custom Shopify App Development | Beautitag",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 67,
+    "tech_spend": 988,
+    "crawled_at": "2026-10-13T20:37:33.24856669Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Semantic UI",
+      "Shopify",
+      "UTF-8",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "kiosquelextenso.fr",
     "title": "Lextenso",
     "business_name": "",
@@ -4919,25 +4967,6 @@
       "Schema Plugin",
       "Semantic UI",
       "Stripe",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "koji-ramen.com",
-    "title": "KOJI RAMEN | Online Ordering",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-08-02T23:43:33.887478938Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "OpenResty",
-      "Semantic UI",
-      "SushiSwap",
       "UTF-8"
     ]
   },
@@ -14636,35 +14665,6 @@
       "University or College",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "obits.sg",
-    "title": "Obits.sg - Buy and find obituaries, condolences and memorial ads",
-    "business_name": "",
-    "country": "SGP",
-    "seo_score": 72,
-    "tech_spend": 5768,
-    "crawled_at": "2026-04-27T01:17:19.982222011Z",
-    "technologies": [
-      "ArvanCloud",
-      "AutoComplete",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "PHP",
-      "Semantic UI",
-      "UTF-8",
-      "jQuery",
-      "jsDelivr",
-      "reCAPTCHA"
     ]
   }
 ]
