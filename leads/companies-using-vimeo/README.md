@@ -1,6 +1,6 @@
 # Companies Using Vimeo (Live Dataset 2026)
 
-This folder contains an active list of 233,163 companies using **Vimeo**. 
+This folder contains an active list of 232,933 companies using **Vimeo**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 233,163
+- **Total Leads:** 232,933
 - **Verified:** Yes
-- **Last Updated:** 2026-10-13 23:00 UTC
+- **Last Updated:** 2026-10-14 23:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **233,163+** companies using Vimeo.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **232,933+** companies using Vimeo.
 
 [**⚡ Unlock the Full Vimeo List with Contact Details**](https://leadita.com/leads/companies-using-vimeo)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-10-13 23:00 UTC*
+*Last updated: 2026-10-14 23:00 UTC*
 *Data source: Leadita Technographic Intelligence*
