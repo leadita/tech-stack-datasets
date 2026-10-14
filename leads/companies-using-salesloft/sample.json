@@ -1,5 +1,33 @@
 [
   {
+    "domain": "solomon.io",
+    "title": "Sam Solomon | Atlanta Designer and Entrepreneur",
+    "business_name": "PrizePicks",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 23700,
+    "crawled_at": "2026-10-14T21:06:08.946086493Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Astro",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Turnstile",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Pico CSS",
+      "SalesLoft",
+      "University or College",
+      "YouTube",
+      "reCAPTCHA",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "enersponse.com",
     "title": "Enersponse - Smarter, Simpler Demand Response Solutions",
     "business_name": "Enersponse, Inc.",
@@ -15069,38 +15097,6 @@
       "eLand",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "solomon.io",
-    "title": "Sam Solomon | Designer, Writer and Developer",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 10631,
-    "crawled_at": "2026-02-25T23:16:14.586224685Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Automattic",
-      "BatCache",
-      "CoBlocks",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Fastly",
-      "Instagram Follow Button",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "SalesLoft",
-      "Sitelinks Search Box",
-      "The SEO Framework",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats"
     ]
   }
 ]
