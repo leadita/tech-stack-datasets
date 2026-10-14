@@ -1,5 +1,53 @@
 [
   {
+    "domain": "swandiego.com",
+    "title": "Swan Diego Limousines & Charters | San Diego, California",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 32406,
+    "crawled_at": "2026-10-13T23:52:54.061829583Z",
+    "technologies": [
+      "B12",
+      "Better Lead Generation Services",
+      "Coming Soon Page",
+      "DAV",
+      "Django",
+      "Drift",
+      "Font Awesome",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Customer Reviews",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Perl",
+      "QUIC",
+      "University or College",
+      "Yelp Badge",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "techsol.africa",
+    "title": "Techsol Solutions | Home",
+    "business_name": "",
+    "country": "KEN",
+    "seo_score": 60,
+    "tech_spend": 708,
+    "crawled_at": "2026-10-13T18:56:30.522360838Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Perl",
+      "QUIC",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "sarahdekin.com",
     "title": "Home | Sarah Dekin",
     "business_name": "",
@@ -8797,76 +8845,6 @@
       "Perl",
       "QUIC",
       "University or College",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "swandiego.com",
-    "title": "Swan Diego Limousines & Charters | San Diego, California",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 32406,
-    "crawled_at": "2026-02-24T15:05:05.580721238Z",
-    "technologies": [
-      "B12",
-      "Better Lead Generation Services",
-      "Coming Soon Page",
-      "DAV",
-      "Django",
-      "Drift",
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Customer Reviews",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Perl",
-      "QUIC",
-      "University or College",
-      "Yelp Badge",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "techsol.africa",
-    "title": "Techsol Solutions | Home",
-    "business_name": "",
-    "country": "KEN",
-    "seo_score": 60,
-    "tech_spend": 708,
-    "crawled_at": "2026-02-24T07:27:16.929953343Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "white-zaffarano.com",
-    "title": "White & Zaffarano Law Offices - Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 2460,
-    "crawled_at": "2026-02-24T00:31:33.249193048Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Line2",
-      "Perl",
-      "QUIC",
       "reCAPTCHA"
     ]
   }
