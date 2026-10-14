@@ -1,5 +1,33 @@
 [
   {
+    "domain": "carpediemstore.com",
+    "title": "Carpediem Store",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 65,
+    "tech_spend": 5103,
+    "crawled_at": "2026-10-14T20:00:39.438348262Z",
+    "technologies": [
+      "Algolia",
+      "AutoComplete",
+      "CarpeDiem",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "GrandNode",
+      "PHP",
+      "QUIC",
+      "UTF-8",
+      "Varnish",
+      "jQuery",
+      "jsDelivr",
+      "nopCommerce"
+    ]
+  },
+  {
     "domain": "noardling.eu",
     "title": "Home - Noardling",
     "business_name": "",
@@ -21400,39 +21428,6 @@
       "UTF-8",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "radio.org.ph",
-    "title": "Online radio stations from Philippines, AM/FM portal | Radio.org.ph",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 82,
-    "tech_spend": 3912,
-    "crawled_at": "2026-05-24T13:43:21.472253078Z",
-    "technologies": [
-      "Algolia",
-      "Alternate Protocol",
-      "App Store",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "DAV",
-      "Favorites for WordPress",
-      "Google Adsense",
-      "Google Analytics",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google My Business",
-      "Google Play",
-      "Google Reseller",
-      "Google Tag Manager",
-      "IcoMoon",
-      "PWA",
-      "Smart App Banner",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
