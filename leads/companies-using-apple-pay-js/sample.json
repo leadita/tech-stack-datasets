@@ -1,5 +1,29 @@
 [
   {
+    "domain": "xmicsee.com",
+    "title": "XMICSee",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 72,
+    "tech_spend": 75668,
+    "crawled_at": "2026-10-14T17:50:49.323561058Z",
+    "technologies": [
+      "Apple Pay JS",
+      "Apture Linking Platform",
+      "Aruba",
+      "Cart.com",
+      "Cloudflare",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Subversion",
+      "UTF-8",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "shoppingwill.com",
     "title": "Wholesale Clothing and Accessories Vendor For Retailers",
     "business_name": "",
@@ -10418,30 +10442,6 @@
       "Subversion",
       "UTF-8",
       "WhatsApp Sharing",
-      "eLand",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "xmicsee.com",
-    "title": "XMICSee",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 72,
-    "tech_spend": 75668,
-    "crawled_at": "2026-02-25T18:14:31.098043571Z",
-    "technologies": [
-      "Apple Pay JS",
-      "Apture Linking Platform",
-      "Aruba",
-      "Cart.com",
-      "Cloudflare",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Subversion",
-      "UTF-8",
       "eLand",
       "jQuery"
     ]
