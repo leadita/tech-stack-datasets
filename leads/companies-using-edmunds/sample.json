@@ -1,5 +1,36 @@
 [
   {
+    "domain": "annemarieotanez.com",
+    "title": "Own Your Power With – Anne Marie",
+    "business_name": "",
+    "country": "",
+    "seo_score": 70,
+    "tech_spend": 16267,
+    "crawled_at": "2026-10-14T12:36:28.224650856Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Calendly",
+      "Cloudflare",
+      "CoBlocks",
+      "Content Delivery Network",
+      "Edmunds",
+      "Elementor",
+      "ElementsKit Elementor",
+      "EmbedPress",
+      "GoDaddy",
+      "Hello Elementor",
+      "InitiativeS",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "Vimeo",
+      "Wangsu",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "edlectricservices.com",
     "title": "Licensed Electrical Contractor | Peachtree City | Fairburn | Tyrone",
     "business_name": "Edlectric Services",
@@ -5911,38 +5942,6 @@
       "Subversion",
       "UTF-8",
       "Ubuntu"
-    ]
-  },
-  {
-    "domain": "annemarieotanez.com",
-    "title": "Own Your Power With – Anne Marie",
-    "business_name": "",
-    "country": "",
-    "seo_score": 70,
-    "tech_spend": 17767,
-    "crawled_at": "2026-02-25T10:13:59.800248105Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Calendly",
-      "Cloudflare",
-      "CoBlocks",
-      "Content Delivery Network",
-      "Edmunds",
-      "Elementor",
-      "ElementsKit Elementor",
-      "EmbedPress",
-      "GoDaddy",
-      "Hello Elementor",
-      "InitiativeS",
-      "NFOrce Internet",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "Vimeo",
-      "Wangsu",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
