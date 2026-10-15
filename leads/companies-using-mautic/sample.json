@@ -1,5 +1,37 @@
 [
   {
+    "domain": "muranonline.com",
+    "title": "Murano Glass Venice Italy Store - Muranonline",
+    "business_name": "",
+    "country": "VAT",
+    "seo_score": 72,
+    "tech_spend": 3099,
+    "crawled_at": "2026-10-15T08:06:36.049226283Z",
+    "technologies": [
+      "3 Products",
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Apache",
+      "Express",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Mautic",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Winter CMS",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "bestductlessairconditioners.com",
     "title": "Best Ductless Air ConditionersBest Ductless Air Conditioners",
     "business_name": "",
@@ -21740,44 +21772,6 @@
       "QUIC",
       "Sitelinks Search Box",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "whats-out.net",
-    "title": "Whats-out! Proximity and Digital Marketing Platform",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 5388,
-    "crawled_at": "2026-04-13T04:44:19.997935295Z",
-    "technologies": [
-      "Apache",
-      "Apple Auto Link Maker",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Fastly",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Mautic",
-      "OneSignal",
-      "OpenSSL",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Unix",
-      "YouTube",
-      "mod_ssl",
-      "reCAPTCHA"
     ]
   }
 ]
