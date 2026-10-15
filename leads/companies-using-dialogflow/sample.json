@@ -9189,43 +9189,5 @@
       "Yelp Badge",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "intexcompany.ee",
-    "title": "Intex - Official website for Estonia",
-    "business_name": "",
-    "country": "CZE",
-    "seo_score": 72,
-    "tech_spend": 6305,
-    "crawled_at": "2026-02-25T13:36:47.867034774Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Azion",
-      "Bulma",
-      "Contact Form Plugin",
-      "Dialogflow",
-      "EmbedPress",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Parallels Plesk Panel",
-      "Perl",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "Vello",
-      "WPML Multilingual",
-      "WordPress",
-      "WordPress Multisite",
-      "reCAPTCHA"
-    ]
   }
 ]
