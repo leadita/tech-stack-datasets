@@ -1,5 +1,26 @@
 [
   {
+    "domain": "tohfameubles.com",
+    "title": "Tohfa meubles, Mobilier de luxe abordable - Tohfa meubles",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 268,
+    "crawled_at": "2026-10-15T10:56:44.877002288Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Gridsome",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "transurgent.com",
     "title": "Spoedtransport & koerierdienst door heel Europa | Kleine zending tot FTL",
     "business_name": "Transurgent",
@@ -11896,28 +11917,6 @@
       "University or College",
       "Vercel",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "ovumdoulacare.com",
-    "title": "Ovum Doula Care - Pregnancy, Birth, Postpartum, and Menstrual Cycle Support",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 27768,
-    "crawled_at": "2026-04-01T11:41:19.981185352Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Idaq",
-      "Instagram Follow Button",
-      "K2F",
-      "Netlify",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
