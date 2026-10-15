@@ -1,5 +1,27 @@
 [
   {
+    "domain": "fooddays.com",
+    "title": "FoodDays",
+    "business_name": "FoodDays",
+    "country": "FRA",
+    "seo_score": 72,
+    "tech_spend": 15149,
+    "crawled_at": "2026-10-14T13:14:26.801531685Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Fireblade",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Publii",
+      "QUIC",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "tatianapi.com",
     "title": "Tatiana Pi PT",
     "business_name": "Tatiana Pi PT",
@@ -8160,28 +8182,6 @@
       "Plausible Analytics",
       "Publii",
       "QUIC",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "fooddays.com",
-    "title": "FoodDays",
-    "business_name": "FoodDays",
-    "country": "FRA",
-    "seo_score": 72,
-    "tech_spend": 15149,
-    "crawled_at": "2026-02-25T11:15:42.60444773Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Fireblade",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Publii",
-      "QUIC",
-      "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   }
