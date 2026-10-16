@@ -1,5 +1,24 @@
 [
   {
+    "domain": "lavrentios-lavrentiadis.com",
+    "title": "Lavrentios Lavrentiadis - λαυρεντιος λαυρεντιαδης",
+    "business_name": "Lavrentios Lavrentiadis - λαυρεντιος λαυρεντιαδης ",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 15377,
+    "crawled_at": "2026-10-16T00:57:06.072266196Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "Plausible Analytics",
+      "Publii",
+      "QUIC",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "fooddays.com",
     "title": "FoodDays",
     "business_name": "FoodDays",
@@ -8144,44 +8163,6 @@
       "Netlify",
       "Publii",
       "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "councilwords.com",
-    "title": "Noxidsoft",
-    "business_name": "Noxidsoft",
-    "country": "AUS",
-    "seo_score": 57,
-    "tech_spend": 49,
-    "crawled_at": "2026-02-28T09:32:28.846545576Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Publii",
-      "Ubuntu",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "lavrentios-lavrentiadis.com",
-    "title": "Lavrentios Lavrentiadis - λαυρεντιος λαυρεντιαδης",
-    "business_name": "Lavrentios Lavrentiadis - λαυρεντιος λαυρεντιαδης ",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 15377,
-    "crawled_at": "2026-02-27T17:25:02.459558328Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "Plausible Analytics",
-      "Publii",
-      "QUIC",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   }
