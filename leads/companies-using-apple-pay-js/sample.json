@@ -10419,31 +10419,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "gakits.com",
-    "title": "Gakits",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 78168,
-    "crawled_at": "2026-02-28T03:14:28.775725167Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apple Pay JS",
-      "Aruba",
-      "Cart.com",
-      "Cloudflare",
-      "ETranslate",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Subversion",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "eLand",
-      "jQuery"
-    ]
   }
 ]
