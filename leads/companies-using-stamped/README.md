@@ -1,6 +1,6 @@
 # Companies Using Stamped (Live Dataset 2026)
 
-This folder contains an active list of 4,917 companies using **Stamped**. 
+This folder contains an active list of 4,915 companies using **Stamped**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 4,917
+- **Total Leads:** 4,915
 - **Verified:** Yes
-- **Last Updated:** 2026-10-15 16:45 UTC
+- **Last Updated:** 2026-10-16 16:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **4,917+** companies using Stamped.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **4,915+** companies using Stamped.
 
 [**⚡ Unlock the Full Stamped List with Contact Details**](https://leadita.com/leads/companies-using-stamped)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-10-15 16:45 UTC*
+*Last updated: 2026-10-16 16:45 UTC*
 *Data source: Leadita Technographic Intelligence*
