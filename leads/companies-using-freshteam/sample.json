@@ -2997,48 +2997,5 @@
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
     ]
-  },
-  {
-    "domain": "stampstore.org",
-    "title": "APS Stamp Store / HipStamp",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 25332,
-    "crawled_at": "2026-02-27T14:17:23.838736715Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Aruba",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DC74",
-      "Fireblade",
-      "Freshteam",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "Ntent",
-      "Nuxt.js",
-      "PHP",
-      "Parcel",
-      "QUIC",
-      "Sign In With Google",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "eLand",
-      "jQuery"
-    ]
   }
 ]
