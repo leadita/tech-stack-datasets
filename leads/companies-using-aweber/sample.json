@@ -1,5 +1,48 @@
 [
   {
+    "domain": "bighornangler.com",
+    "title": "Bighorn River Fly Fishing | Montana Fly Fishing | Bighorn Angler",
+    "business_name": "",
+    "country": "",
+    "seo_score": 82,
+    "tech_spend": 46583,
+    "crawled_at": "2026-10-16T13:54:57.532842663Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Column Shortcodes",
+      "Content Delivery Network",
+      "Contento",
+      "Eber",
+      "EmbedPress",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Feed for WordPress",
+      "Instagram Follow Button",
+      "Kriesi.at",
+      "Microdata for Google Shopping",
+      "PHP",
+      "QUIC",
+      "Shopify",
+      "Theme In WP",
+      "UTF-8",
+      "WP Engine",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "aWeber",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "aifoodblogdemovid.com",
     "title": "Kale and Croutons: Wholesome Recipes for Healthy Eating | Kale and Croutons",
     "business_name": "",
@@ -18580,27 +18623,6 @@
       "YouTube",
       "aWeber",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "diganta.org",
-    "title": "Diganta-the Hands of Love",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 5245,
-    "crawled_at": "2026-05-12T00:11:04.390763887Z",
-    "technologies": [
-      "Bulma",
-      "Eber",
-      "IcoMoon",
-      "Max Mega Menu Pro",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Visual Studio",
-      "aWeber",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
