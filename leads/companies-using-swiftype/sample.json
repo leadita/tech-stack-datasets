@@ -1,12 +1,12 @@
 [
   {
-    "domain": "floridastudiotheatre.org",
-    "title": "Florida Studio Theatre",
+    "domain": "sarasotaimprovfestival.com",
+    "title": "Events & Tickets - Florida Studio Theatre",
     "business_name": "",
     "country": "",
-    "seo_score": 67,
+    "seo_score": 70,
     "tech_spend": 141822,
-    "crawled_at": "2026-10-15T20:36:12.754126499Z",
+    "crawled_at": "2026-10-15T23:50:22.203345008Z",
     "technologies": [
       "Adobe Creative Cloud WebFonts",
       "Amazon",
@@ -42,8 +42,8 @@
       "Microdata for Google Shopping",
       "New Relic",
       "Salesforce Audience Studio",
-      "Schema Plugin",
       "Swiftype",
+      "Tailwind CSS",
       "Twitter Ads",
       "UTF-8",
       "YouTube",
