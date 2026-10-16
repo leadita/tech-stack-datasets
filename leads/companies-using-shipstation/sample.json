@@ -3465,45 +3465,5 @@
       "YouTube",
       "eLand"
     ]
-  },
-  {
-    "domain": "adis-uk.com",
-    "title": "Garage Door Insulation Retention Kit",
-    "business_name": "ADIS-UK LLC",
-    "country": "",
-    "seo_score": 87,
-    "tech_spend": 108840,
-    "crawled_at": "2026-02-28T04:31:02.773794986Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "DAV",
-      "DC74",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "POWr",
-      "PWA",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "Sentry",
-      "ShipStation",
-      "SiteW",
-      "Thank You",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "eLand",
-      "mlcom"
-    ]
   }
 ]
