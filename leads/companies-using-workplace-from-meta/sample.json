@@ -1,5 +1,37 @@
 [
   {
+    "domain": "therisingworkplace.com",
+    "title": "The Rising Workplace, Pllc | Health, Safety & Ergonomics",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 25213,
+    "crawled_at": "2026-10-15T20:47:11.749339346Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "Cisco/Arrowpoint Content Service Switch",
+      "DAV",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Conversion Tracking",
+      "Google Tag Manager",
+      "Line2",
+      "LinkedIn Insights",
+      "LinkedIn Pixel",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "Workplace from Meta",
+      "eLand"
+    ]
+  },
+  {
     "domain": "checkyourworkplace.com",
     "title": "Check Your Workplace – a project by Futures Without Violence",
     "business_name": "",
@@ -3014,40 +3046,6 @@
       "iDevAffiliate",
       "nopCommerce",
       "sniply"
-    ]
-  },
-  {
-    "domain": "ergoai.com",
-    "title": "The Rising Workplace, Pllc | Health, Safety & Ergonomics",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 27653,
-    "crawled_at": "2026-05-16T14:32:19.972916354Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "Cisco/Arrowpoint Content Service Switch",
-      "DAV",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Conversion Tracking",
-      "Google Font API",
-      "Google Tag Manager",
-      "Line2",
-      "LinkedIn Insights",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "Workplace from Meta",
-      "eLand"
     ]
   },
   {
