@@ -1,5 +1,58 @@
 [
   {
+    "domain": "codebldr.com",
+    "title": "CodeBldr | software studio in Sibiu, Romania",
+    "business_name": "",
+    "country": "ROU",
+    "seo_score": 77,
+    "tech_spend": 454,
+    "crawled_at": "2026-10-16T03:18:40.54560601Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Cloudflare",
+      "Cloudflare Workers",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Jetpack",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Perl",
+      "Say what",
+      "Twitter Ads",
+      "UTF-8",
+      "Ubuntu"
+    ]
+  },
+  {
+    "domain": "cczy.systems",
+    "title": "CCZY SYSTEMS — Ideas that happen",
+    "business_name": "CCZY SYSTEMS",
+    "country": "SGP",
+    "seo_score": 57,
+    "tech_spend": 20060,
+    "crawled_at": "2026-10-15T23:52:26.163146628Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Workers",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Python",
+      "UTF-8",
+      "University or College",
+      "Vignette OpenText"
+    ]
+  },
+  {
     "domain": "wsds.io",
     "title": "Ward Software Defined Systems LLC | Infrastructure & Cloud Engineering",
     "business_name": "",
@@ -14938,46 +14991,6 @@
       "Twitter Ads",
       "UTF-8",
       "Vector Internet Services"
-    ]
-  },
-  {
-    "domain": "openbyte.dev",
-    "title": "CTO-level AI & Data Systems Architect | Build and Ship Fast",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 1260,
-    "crawled_at": "2026-05-04T02:17:19.977668274Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "Nuxt.js",
-      "UTF-8",
-      "Vector Internet Services",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "diachenko.pp.ua",
-    "title": "Roman Diachenko | Frontend Developer",
-    "business_name": "",
-    "country": "UKR",
-    "seo_score": 72,
-    "tech_spend": 2968,
-    "crawled_at": "2026-05-03T23:32:45.136310531Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Netlify",
-      "PWA",
-      "Telegram",
-      "UTF-8"
     ]
   }
 ]
