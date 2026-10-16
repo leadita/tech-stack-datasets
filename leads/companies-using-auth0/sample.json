@@ -1,5 +1,36 @@
 [
   {
+    "domain": "matt-crook.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 800,
+    "crawled_at": "2026-10-16T11:23:13.345462012Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Auth0",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Envoy",
+      "Express",
+      "Fastly CDN",
+      "GitHub Hosting",
+      "Harbor",
+      "InitiativeS",
+      "Microsoft Authentication Library for JavaScript",
+      "Python",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "letsgiveitaspin.com",
     "title": "LetsGiveItASpin | Casino Streamer and Dosser",
     "business_name": "CasinoGrounds",
@@ -21329,21 +21360,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "frontgen.com",
-    "title": "Frontgen | AI Content Creation",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 3,
-    "crawled_at": "2026-04-03T13:35:20.005866007Z",
-    "technologies": [
-      "Auth0",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Tailwind CSS"
     ]
   }
 ]
