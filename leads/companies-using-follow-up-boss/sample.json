@@ -14128,46 +14128,5 @@
       "YouTube",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "mountainedgehomes.com",
-    "title": "Mountain Edge Homes | Luxury Mountain Real Estate in Las Vegas 89178",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 26488,
-    "crawled_at": "2026-02-27T14:05:51.094218124Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Calendly",
-      "Cloud CMA",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "DAV",
-      "Follow Up Boss",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Customer Reviews",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Homebot",
-      "Homes.com CMS",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Neighborhoods",
-      "Percy AI",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "Unsplash",
-      "Vercel",
-      "Yandex Hosting"
-    ]
   }
 ]
