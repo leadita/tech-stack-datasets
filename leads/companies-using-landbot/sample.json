@@ -15559,48 +15559,5 @@
       "Yelp Badge",
       "jQuery"
     ]
-  },
-  {
-    "domain": "camasphysicaltherapy.com",
-    "title": "Physical Therapy Camas WA - Camas PT",
-    "business_name": "Camas Physical Therapy",
-    "country": "",
-    "seo_score": 82,
-    "tech_spend": 25597,
-    "crawled_at": "2026-02-27T08:29:34.57335751Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Clicky",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Fireblade",
-      "GTranslate",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Imgix",
-      "Instagram Follow Button",
-      "Kitco",
-      "LandBot",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WP Engine",
-      "WordPress",
-      "WordPress Multisite",
-      "Yelp Badge",
-      "jQuery"
-    ]
   }
 ]
