@@ -2407,25 +2407,5 @@
       "UTF-8",
       "WhatsApp Sharing"
     ]
-  },
-  {
-    "domain": "verto-fx.co.uk",
-    "title": "Verto LP",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 40,
-    "tech_spend": 13383,
-    "crawled_at": "2026-02-28T02:14:02.726717983Z",
-    "technologies": [
-      "Apache",
-      "CacheFly",
-      "CacheFly CDN",
-      "Fireblade",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Tailwind CSS",
-      "reCAPTCHA"
-    ]
   }
 ]
