@@ -1,5 +1,35 @@
 [
   {
+    "domain": "econoencuentrofamiliar.com",
+    "title": "Econo Encuentro Familiar 2026 - Optimizando servicios para suplidores y tiendas.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 21614,
+    "crawled_at": "2026-10-16T03:18:40.510566905Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Elementor",
+      "EmbedPress",
+      "Endis",
+      "Essential Addons for Elementor",
+      "Formidable Pro Form",
+      "GZIP Module",
+      "IcoMoon",
+      "LiteSpeed",
+      "PHP",
+      "PandaDoc",
+      "Premium Addons for Elementor",
+      "ThemeFusion",
+      "UTF-8",
+      "Vector Internet Services",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "serenityfuneralservices.eu",
     "title": "Funeral Services in Málaga & the Costa del Sol | Serenity",
     "business_name": "",
