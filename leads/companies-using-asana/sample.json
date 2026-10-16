@@ -1,5 +1,52 @@
 [
   {
+    "domain": "level-upcoach.com",
+    "title": "Level Up Coaching & Consulting, LLC - ADHD Coach | St. Louis",
+    "business_name": "Level Up Coaching & Consulting, LLC",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 90335,
+    "crawled_at": "2026-10-16T03:38:08.512425352Z",
+    "technologies": [
+      "34SP.com",
+      "AWS WAF Challenge",
+      "About Cookies",
+      "Apture Linking Platform",
+      "Asana",
+      "Calendly",
+      "Canva Websites",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Coming Soon Page",
+      "Express",
+      "Financial Services Guide",
+      "Fireblade",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Maps",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "Hootsuite Badge",
+      "Material-UI",
+      "NFOrce Internet",
+      "Network Advertising Initiative",
+      "Notion",
+      "Oddle",
+      "QUIC",
+      "SMC",
+      "Share Link",
+      "Subversion",
+      "Telegram",
+      "Thank You",
+      "Todoist",
+      "Twitter Ads",
+      "UENI",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "asana.com.nl",
     "title": "Work & Project Management for Human-Agent Teams • Asana",
     "business_name": "Asana",
@@ -20408,30 +20455,6 @@
       "hCaptcha",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "releaf4pets.com",
-    "title": "Releaf for dogs of all shapes and sizes - Innovative veterinary products for Pets",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 3258,
-    "crawled_at": "2026-04-11T15:32:20.016503944Z",
-    "technologies": [
-      "Asana",
-      "Craft",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "jQuery",
-      "shadcn ui"
     ]
   }
 ]
