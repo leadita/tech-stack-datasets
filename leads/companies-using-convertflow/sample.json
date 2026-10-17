@@ -1,12 +1,40 @@
 [
   {
-    "domain": "ganderrvnorthdakota.com",
+    "domain": "castlebrookcounseling.com",
+    "title": "CASTLEBROOK COUNSELING - Castlebrook Counseling Services, Inc.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 21606,
+    "crawled_at": "2026-10-17T14:14:47.233260731Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Apture Linking Platform",
+      "ConvertFlow",
+      "FormSubmit",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "UTF-8",
+      "Unix",
+      "Weebly",
+      "accessiBe",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "travelingkansas.com",
     "title": "Camping World: Shop Top RVs @America's #1 RV Dealer",
     "business_name": "",
     "country": "USA",
-    "seo_score": 82,
+    "seo_score": 77,
     "tech_spend": 193064,
-    "crawled_at": "2026-10-16T19:53:23.461520033Z",
+    "crawled_at": "2026-10-16T23:16:38.990864911Z",
     "technologies": [
       "AWS WAF Challenge",
       "Alternate Protocol",
@@ -16124,35 +16152,6 @@
       "UTF-8",
       "eLand",
       "hCaptcha",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "castlebrookcounseling.com",
-    "title": "CASTLEBROOK COUNSELING - Castlebrook Counseling Services, Inc.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 22006,
-    "crawled_at": "2026-03-02T03:13:49.680886912Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Apture Linking Platform",
-      "ConvertFlow",
-      "FormSubmit",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "HostGator",
-      "Instagram Follow Button",
-      "UTF-8",
-      "Unix",
-      "Weebly",
-      "accessiBe",
       "reCAPTCHA"
     ]
   }
