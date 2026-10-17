@@ -1,5 +1,38 @@
 [
   {
+    "domain": "apartments4.me",
+    "title": "Spherexx: Data Science | Performance | Proptech",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 59328,
+    "crawled_at": "2026-10-16T15:55:46.416662565Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Apture Linking Platform",
+      "Better Lead Generation Services",
+      "CacheFly",
+      "CacheFly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "ILoveLeasing",
+      "IcoMoon",
+      "Okta",
+      "PWA",
+      "Perl",
+      "QUIC",
+      "Spherexx",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vimeo",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "allcallings.com",
     "title": "Life On Mission (100% Sent) | Cru",
     "business_name": "",
@@ -6947,39 +6980,6 @@
       "WalkMe",
       "Zendesk Embeddables",
       "Zendesk Guide"
-    ]
-  },
-  {
-    "domain": "spherexx.com",
-    "title": "Spherexx: Data Science | Performance | Proptech",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 59328,
-    "crawled_at": "2026-05-16T03:24:34.747963367Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Apture Linking Platform",
-      "Better Lead Generation Services",
-      "CacheFly",
-      "CacheFly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "ILoveLeasing",
-      "IcoMoon",
-      "Okta",
-      "PWA",
-      "Perl",
-      "QUIC",
-      "Spherexx",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vimeo",
-      "jQuery"
     ]
   },
   {
@@ -19413,40 +19413,6 @@
       "UTF-8",
       "WhatsApp Sharing",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "cyber.info",
-    "title": "Menu Icon",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 87408,
-    "crawled_at": "2026-02-28T21:33:05.642464637Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "AWS WAF Challenge",
-      "Amazon",
-      "Bug Bounty",
-      "Checkly",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Turnstile",
-      "GitHub Hosting",
-      "HackerOne",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Okta",
-      "Open Collective",
-      "Plausible Analytics",
-      "Pleroma",
-      "Slack",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UPS",
-      "UTF-8",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]
