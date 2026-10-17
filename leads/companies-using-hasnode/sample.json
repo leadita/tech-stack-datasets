@@ -1,5 +1,31 @@
 [
   {
+    "domain": "wajeshubham.in",
+    "title": "Shubham Waje",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 946,
+    "crawled_at": "2026-10-16T21:05:47.477991153Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Express",
+      "Gatsby JS",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Hasnode",
+      "Netlify",
+      "No-Q",
+      "Python",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "sunnyspanails.com",
     "title": "Sunny Spa And Nails | Nail salon in Long Beach, CA 90808",
     "business_name": "",
@@ -11625,32 +11651,6 @@
       "ePages",
       "jQuery",
       "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "wajeshubham.in",
-    "title": "Shubham Waje",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 946,
-    "crawled_at": "2026-03-01T00:51:08.399104072Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Express",
-      "Gatsby JS",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Hasnode",
-      "Netlify",
-      "No-Q",
-      "Python",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
       "shadcn ui"
     ]
   }

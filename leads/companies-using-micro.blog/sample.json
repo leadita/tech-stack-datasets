@@ -1,5 +1,22 @@
 [
   {
+    "domain": "peteschaffner.com",
+    "title": "Pete Schaffner",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 60,
+    "crawled_at": "2026-10-17T00:49:20.407811192Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GZIP Module",
+      "Mastodon",
+      "Micro.blog",
+      "Nginx",
+      "Ubuntu"
+    ]
+  },
+  {
     "domain": "linkage.lol",
     "title": "Linkage",
     "business_name": "",
@@ -7708,23 +7725,6 @@
       "WordPress Multisite",
       "about.me",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "peteschaffner.com",
-    "title": "Pete Schaffner",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 60,
-    "crawled_at": "2026-03-01T06:40:13.685297321Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GZIP Module",
-      "Mastodon",
-      "Micro.blog",
-      "Nginx",
-      "Ubuntu"
     ]
   }
 ]

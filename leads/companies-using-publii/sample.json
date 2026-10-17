@@ -1,5 +1,23 @@
 [
   {
+    "domain": "tathamjohnson.com",
+    "title": "Tatham Johnson",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 67,
+    "tech_spend": 149,
+    "crawled_at": "2026-10-17T01:07:46.37742Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Google Analytics",
+      "Google Tag Manager",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "lavrentios-lavrentiadis.com",
     "title": "Lavrentios Lavrentiadis - λαυρεντιος λαυρεντιαδης",
     "business_name": "Lavrentios Lavrentiadis - λαυρεντιος λαυρεντιαδης ",
@@ -4429,25 +4447,6 @@
     ]
   },
   {
-    "domain": "tathamrmt.com",
-    "title": "Tatham Johnson",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 62,
-    "tech_spend": 149,
-    "crawled_at": "2026-05-03T12:35:19.978912296Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Google Analytics",
-      "Google Tag Manager",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "Publii",
-      "QUIC",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
     "domain": "neverlanddestinations.com",
     "title": "Neverland Destinations - Disney and Universal Studios Vacations",
     "business_name": "Neverland Destinations",
@@ -8139,26 +8138,6 @@
       "Content Delivery Network",
       "Instagram Follow Button",
       "MailChimp",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "tylerbeatty.ca",
-    "title": "Tyler's Portfolio",
-    "business_name": "Tyler's Portfolio",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 148,
-    "crawled_at": "2026-02-28T17:42:01.81448481Z",
-    "technologies": [
-      "Content Delivery Network",
-      "CoreUI",
-      "Google Analytics",
-      "Google Tag Manager",
       "Microdata for Google Shopping",
       "Netlify",
       "Publii",
