@@ -1,5 +1,52 @@
 [
   {
+    "domain": "lebanonunsettled.org",
+    "title": "Lebanon Unsettled",
+    "business_name": "",
+    "country": "LBN",
+    "seo_score": 72,
+    "tech_spend": 540,
+    "crawled_at": "2026-10-17T12:31:25.765317988Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon S3 CDN",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "DAV",
+      "Nuxt.js",
+      "Perl",
+      "Prismic",
+      "Storyblocks",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "magnusmenzefricke.eu",
+    "title": "Magnus Menzefricke",
+    "business_name": "",
+    "country": "SYC",
+    "seo_score": 67,
+    "tech_spend": 15420,
+    "crawled_at": "2026-10-17T07:16:21.690170166Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adult Content",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Next.js",
+      "Perl",
+      "Pleroma",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "thenewdivision.se",
     "title": "The New Division – Making Change Attractive",
     "business_name": "",
@@ -13653,49 +13700,6 @@
       "QUIC",
       "UTF-8",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "pexxes.com",
-    "title": "Pexxes GmbH",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 67,
-    "tech_spend": 1920,
-    "crawled_at": "2026-04-29T05:56:19.98011112Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "NFOrce Internet",
-      "Next.js",
-      "Pleroma",
-      "Prismic",
-      "Radix UI",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "publicwebsites.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 25,
-    "tech_spend": "",
-    "crawled_at": "2026-04-29T02:35:20.019767571Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Instagram Follow Button",
-      "Netlify",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "Prismic",
-      "UTF-8"
     ]
   }
 ]
