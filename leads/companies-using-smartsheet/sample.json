@@ -1,5 +1,25 @@
 [
   {
+    "domain": "faithandcommunityflorida.com",
+    "title": "Governor Ron DeSantis' Faith and Community Initiative",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 312,
+    "crawled_at": "2026-10-17T17:27:27.815366545Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Smartsheet",
+      "University or College",
+      "Vimeo",
+      "Vimeo CDN",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "soudertonicehockey.org",
     "title": "Souderton High School Hockey",
     "business_name": "",
@@ -16932,23 +16952,6 @@
       "Wix Media",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "faithandcommunityflorida.com",
-    "title": "Governor Ron DeSantis' Faith and Community Initiative",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 204,
-    "crawled_at": "2026-03-02T08:12:54.745935747Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Instagram Follow Button",
-      "Smartsheet",
-      "Vimeo",
-      "YouTube",
-      "jsDelivr"
     ]
   }
 ]
