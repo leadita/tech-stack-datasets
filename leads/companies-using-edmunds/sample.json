@@ -5919,29 +5919,5 @@
       "reCAPTCHA",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "choosemyquote.com",
-    "title": "Smarter Choice, Better Insurance Rate - ChooseMyQuote",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 65,
-    "tech_spend": 2868,
-    "crawled_at": "2026-02-28T21:45:25.271797796Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Edmunds",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "IcoMoon",
-      "QUIC",
-      "Subversion",
-      "UTF-8",
-      "Ubuntu"
-    ]
   }
 ]
