@@ -1,75 +1,36 @@
 [
   {
-    "domain": "proadvice.be",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 1200,
-    "crawled_at": "2026-10-11T09:53:09.754582259Z",
-    "technologies": [
-      "Barchart",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "GitHub Hosting",
-      "Grafana",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "dithmarschen-energie.de",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 1260,
-    "crawled_at": "2026-10-01T12:22:14.963661949Z",
-    "technologies": [
-      "Barchart",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Grafana",
-      "OpenResty",
-      "UTF-8",
-      "Yandex Hosting"
-    ]
-  },
-  {
-    "domain": "wdrentals.com",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 1200,
-    "crawled_at": "2026-09-27T13:39:28.582016418Z",
-    "technologies": [
-      "Apache",
-      "Barchart",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Grafana",
-      "Nginx",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "bi.apx.me",
+    "domain": "ycfwydu.com",
     "title": "Grafana",
     "business_name": "",
     "country": "",
     "seo_score": 30,
     "tech_spend": "",
-    "crawled_at": "2026-09-24T09:40:02.840074098Z",
+    "crawled_at": "2026-10-17T16:45:15.169780356Z",
     "technologies": [
+      "GitHub Hosting",
+      "Grafana",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "grafana.oc.dk",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 1200,
+    "crawled_at": "2026-10-16T23:37:03.70970663Z",
+    "technologies": [
+      "Barchart",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
       "GZIP Module",
       "GitHub Hosting",
-      "Google My Business",
       "Grafana",
-      "Tailwind CSS",
       "UTF-8"
     ]
   },
@@ -89,6 +50,26 @@
       "GitHub Hosting",
       "Google Cloud DNS",
       "Grafana",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "elm-monitoring.app",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 11398,
+    "crawled_at": "2026-08-16T16:49:40.536799453Z",
+    "technologies": [
+      "Apache",
+      "Barchart",
+      "Contento",
+      "DAV",
+      "Express",
+      "GitHub Hosting",
+      "Grafana",
+      "No-Q",
       "UTF-8"
     ]
   },
