@@ -1,5 +1,61 @@
 [
   {
+    "domain": "kristinejlee.com",
+    "title": "KRS.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 26960,
+    "crawled_at": "2026-10-17T05:54:21.467526697Z",
+    "technologies": [
+      "Accordion Blocks",
+      "Accordion FAQ",
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Python",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "Tableau",
+      "UTF-8",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "usmansamee.com",
+    "title": "Usman Samee",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 76753,
+    "crawled_at": "2026-10-17T02:55:18.609892842Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Google My Business",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "Tableau",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "sunnyspanails.com",
     "title": "Sunny Spa And Nails | Nail salon in Long Beach, CA 90808",
     "business_name": "",
@@ -17672,57 +17728,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "quannguyen67.com",
-    "title": "Quan Nguyen Portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 1043,
-    "crawled_at": "2026-04-28T01:41:19.992222722Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "BootstrapMade",
-      "Content Delivery Network",
-      "Express",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Ntent",
-      "Python",
-      "RawGit",
-      "Tableau",
-      "UTF-8",
-      "University or College"
-    ]
-  },
-  {
-    "domain": "ezeosamah.cv",
-    "title": "Eze Emerson Osamah",
-    "business_name": "",
-    "country": "NGA",
-    "seo_score": 77,
-    "tech_spend": 1020,
-    "crawled_at": "2026-04-28T00:26:19.991830335Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon S3 CDN",
-      "Content Delivery Network",
-      "InitiativeS",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Python",
-      "Storyblocks",
-      "Tableau",
-      "UTF-8",
-      "University or College",
-      "Vercel"
     ]
   }
 ]
