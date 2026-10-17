@@ -1,5 +1,42 @@
 [
   {
+    "domain": "spencermaurice.com",
+    "title": "SpencerMaurice – Management consultancy specialising in independent reviews, business strategy, transformation, organisational redesign, governance and enterprise risk – Purpose. People. Performance.",
+    "business_name": "",
+    "country": "SYC",
+    "seo_score": 77,
+    "tech_spend": 26717,
+    "crawled_at": "2026-10-16T21:23:22.410366113Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Automattic",
+      "BatCache",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Fastly",
+      "Gambling Content",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Gutenberg",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "LinkedIn Insights",
+      "Nginx",
+      "Oracle Cloud",
+      "Perl",
+      "Pipedrive",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats"
+    ]
+  },
+  {
     "domain": "pchr.cl",
     "title": "PCHR - Plataforma CircularHR",
     "business_name": "",
@@ -20408,38 +20445,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "oceanfrontbajarealestate.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "SMR",
-    "seo_score": 67,
-    "tech_spend": 32058,
-    "crawled_at": "2026-05-28T06:49:17.877701701Z",
-    "technologies": [
-      "ASP.NET Core",
-      "AroSoftware",
-      "AutoComplete",
-      "DAV",
-      "Financial Services Guide",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "HostGator",
-      "IcoMoon",
-      "K2F",
-      "Microsoft Azure",
-      "Neighborhoods",
-      "Parallels Plesk Panel",
-      "Pipedrive",
-      "Subversion",
-      "Twitter Ads",
-      "UTF-8",
-      "Visual Studio",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
