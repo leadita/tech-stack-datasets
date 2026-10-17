@@ -1,5 +1,71 @@
 [
   {
+    "domain": "thishikaexports.in",
+    "title": "Thishika Exports - Index",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 67,
+    "tech_spend": 340,
+    "crawled_at": "2026-10-17T07:12:50.923397784Z",
+    "technologies": [
+      "Apache",
+      "Dialpad",
+      "Express",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "PHP",
+      "Semantic UI",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "copop.eu",
+    "title": "COPop!",
+    "business_name": "",
+    "country": "POL",
+    "seo_score": 75,
+    "tech_spend": 6600,
+    "crawled_at": "2026-10-16T23:16:38.983441078Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "Firebase",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Semantic UI",
+      "Stripe",
+      "UTF-8",
+      "WordPress",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "citywidefenceco.com",
+    "title": "City Wide Fence",
+    "business_name": "Deck and Fence Renewal Systems",
+    "country": "ZAF",
+    "seo_score": 77,
+    "tech_spend": 2440,
+    "crawled_at": "2026-10-16T21:05:47.502208805Z",
+    "technologies": [
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "Semantic UI",
+      "The Deck",
+      "UTF-8",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "lokcen.eu",
     "title": "Lokcen - Location Center [GMLC, SMLC, Middleware]",
     "business_name": "",
@@ -14582,78 +14648,6 @@
       "UTF-8",
       "WoWonder",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "getacos.com",
-    "title": "Get A Cos",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 72,
-    "tech_spend": 15192,
-    "crawled_at": "2026-04-28T02:53:20.57937838Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Fireblade",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Line2",
-      "Semantic UI",
-      "Staticfile CDN",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "ipvive.com",
-    "title": "The Causal AI Engine for Relational Intelligence",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 18246,
-    "crawled_at": "2026-04-28T01:41:20.012971535Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Divi",
-      "Elegant Themes",
-      "EmbedPress",
-      "GoDaddy",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "PHP",
-      "Pleroma",
-      "Semantic UI",
-      "Theme In WP",
-      "UTF-8",
-      "Wangsu",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "dfacto.cl",
-    "title": ".::DFACTO::.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 3,
-    "crawled_at": "2026-04-27T22:38:19.982308205Z",
-    "technologies": [
-      "Apache",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Semantic UI",
-      "Subversion",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]

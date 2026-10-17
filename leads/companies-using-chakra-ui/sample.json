@@ -1,5 +1,62 @@
 [
   {
+    "domain": "tinydancer.io",
+    "title": "Tinydancer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 1188,
+    "crawled_at": "2026-10-17T08:52:28.423938816Z",
+    "technologies": [
+      "Chakra UI",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudinary",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "DAV",
+      "Discord",
+      "GitHub Hosting",
+      "Next.js",
+      "Pleroma",
+      "Twitter Ads",
+      "UTF-8",
+      "Umami"
+    ]
+  },
+  {
+    "domain": "thirdpillar.ch",
+    "title": "Thirdpillar.ch - Private pension consulting",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 39300,
+    "crawled_at": "2026-10-16T21:05:47.489102773Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Chakra UI",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudinary",
+      "Content Delivery Network",
+      "Express",
+      "Fireblade",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Iubenda",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "PWA",
+      "QUIC",
+      "Thank You",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services"
+    ]
+  },
+  {
     "domain": "eggseed.com",
     "title": "EggSeed",
     "business_name": "",
@@ -13000,49 +13057,6 @@
       "QUIC",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "elcypereira.com",
-    "title": "Shenandoah Valley & Northern Virginia Homes | Elcy & Co. Realty",
-    "business_name": "",
-    "country": "COL",
-    "seo_score": 92,
-    "tech_spend": 3840,
-    "crawled_at": "2026-05-17T21:14:50.974441629Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Homes.com CMS",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "zachbrosimusic.com",
-    "title": "Zach Brosi",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 1200,
-    "crawled_at": "2026-05-17T20:26:19.999442346Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Instagram Follow Button",
-      "Netlify",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vector Internet Services",
-      "YouTube"
     ]
   }
 ]
