@@ -1,5 +1,25 @@
 [
   {
+    "domain": "lukasriedel.se",
+    "title": "Portfolio - Lukas Riedel",
+    "business_name": "",
+    "country": "SWE",
+    "seo_score": 45,
+    "tech_spend": 1848,
+    "crawled_at": "2026-10-17T02:27:33.539796658Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Gridsome",
+      "Idaq",
+      "No-Q",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "tohfameubles.com",
     "title": "Tohfa meubles, Mobilier de luxe abordable - Tohfa meubles",
     "business_name": "",
@@ -11887,36 +11907,6 @@
       "Gridsome",
       "Vimeo",
       "Vimeo CDN"
-    ]
-  },
-  {
-    "domain": "njtd.com.ng",
-    "title": "Home - Nigerian Journal of Technological Development",
-    "business_name": "",
-    "country": "NGA",
-    "seo_score": 72,
-    "tech_spend": 20436,
-    "crawled_at": "2026-04-01T15:17:19.99672487Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Gridsome",
-      "Icons8",
-      "KVH",
-      "License Buttons",
-      "PHP",
-      "Perl",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "YouTube"
     ]
   }
 ]

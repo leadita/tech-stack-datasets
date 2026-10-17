@@ -1,5 +1,35 @@
 [
   {
+    "domain": "gecoveau.com",
+    "title": "Gecoveau - Automation, Security & E-Commerce",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 6872,
+    "crawled_at": "2026-10-17T18:46:35.247506696Z",
+    "technologies": [
+      "Apache",
+      "Calendly",
+      "Cloudinary",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Express",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Next.js",
+      "Ntent",
+      "Pleroma",
+      "QUIC",
+      "Reown",
+      "Stripe",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "uuboyscy.dev",
     "title": "uuboy (uuboyscy) | Data Engineering Logs | UUBOYSCY ENGINEERING LOGS",
     "business_name": "",
@@ -12763,27 +12793,6 @@
       "UTF-8",
       "University or College",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "elastetic.com",
-    "title": "Elastetic | Elastetic",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 348,
-    "crawled_at": "2026-04-09T21:23:20.011738785Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "GZIP Module",
-      "GitHub Hosting",
-      "IcoMoon",
-      "Material-UI",
-      "Perl",
-      "Shifter",
-      "Stetic",
-      "UTF-8"
     ]
   }
 ]
