@@ -7671,43 +7671,5 @@
       "localendar",
       "monday.com"
     ]
-  },
-  {
-    "domain": "mortgageptsd.com",
-    "title": "Mortgage PTSD | Personalized Mortgage Solutions & Loans",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 102358,
-    "crawled_at": "2026-03-02T19:02:17.785761435Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Adult Content",
-      "Alternate Protocol",
-      "Authorize.net",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Element.io",
-      "Fireblade",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "HighLevel",
-      "Nationwide Mortgage Licensing System and Registry",
-      "Nuxt.js",
-      "Optimal Blue",
-      "QUIC",
-      "SMC",
-      "Thank You",
-      "UTF-8",
-      "University or College",
-      "shadcn ui"
-    ]
   }
 ]
