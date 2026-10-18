@@ -1,5 +1,26 @@
 [
   {
+    "domain": "trtperformancemh.com",
+    "title": "TRT Performance Men’s Health | Home | Men's Wellness Clinic",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 2268,
+    "crawled_at": "2026-10-17T12:47:30.178709642Z",
+    "technologies": [
+      "Angular",
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Perl",
+      "QUIC",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "timoconnorplumbing.com",
     "title": "Santa Clarita Plumber - Tim O'Connor Plumbing",
     "business_name": "",
@@ -1988,27 +2009,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "trtperfomancemh.com",
-    "title": "TRT Performance Men’s Health | Home | Men's Wellness Clinic",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 2268,
-    "crawled_at": "2026-08-11T16:35:13.138128271Z",
-    "technologies": [
-      "Angular",
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
     ]
   },
   {
