@@ -12917,40 +12917,5 @@
       "hCaptcha",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "shotbyacj.com",
-    "title": "Shot by ACJ",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 70,
-    "tech_spend": 138773,
-    "crawled_at": "2026-03-02T01:51:43.20264391Z",
-    "technologies": [
-      "Accordion Blocks",
-      "Adobe Creative Cloud WebFonts",
-      "Apture Linking Platform",
-      "Aruba",
-      "Commission Junction",
-      "Contento",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "KVH",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
-    ]
   }
 ]
