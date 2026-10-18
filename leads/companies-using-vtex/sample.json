@@ -1607,43 +1607,5 @@
       "deco.cx",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "lojasoficiaisdoflamengo.com.br",
-    "title": "Loja Oficial do Flamengo",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 54749,
-    "crawled_at": "2026-03-03T18:06:08.202107544Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CloudFront",
-      "Content Delivery Network",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "MailChimp",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "VTEX Personalization",
-      "WhatsApp Sharing",
-      "WordPress",
-      "Yourviews",
-      "jQuery",
-      "jsDelivr"
-    ]
   }
 ]
