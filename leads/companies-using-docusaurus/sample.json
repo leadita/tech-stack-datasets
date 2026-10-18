@@ -1,5 +1,27 @@
 [
   {
+    "domain": "prashantbarahi.com.np",
+    "title": "Prashant Barahi",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-10-18T20:44:02.294625011Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "DAV",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Netlify",
+      "Ntent",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "gecoveau.com",
     "title": "Gecoveau - Automation, Security & E-Commerce",
     "business_name": "",
@@ -12770,29 +12792,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "sahilll.dev",
-    "title": "Sahil Khan",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 67,
-    "tech_spend": 15240,
-    "crawled_at": "2026-04-09T23:53:19.991755739Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vercel"
     ]
   }
 ]

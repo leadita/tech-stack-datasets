@@ -1,5 +1,36 @@
 [
   {
+    "domain": "institutotepeyac.edu.mx",
+    "title": "Inicio - Instituto Tepeyac",
+    "business_name": "",
+    "country": "MEX",
+    "seo_score": 87,
+    "tech_spend": 101420,
+    "crawled_at": "2026-10-18T06:10:00.578367195Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "Ethy",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Instagram Follow Button",
+      "K2F",
+      "KVH",
+      "No-Q",
+      "SMC",
+      "Tailwind CSS",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "lukasriedel.se",
     "title": "Portfolio - Lukas Riedel",
     "business_name": "",
@@ -6059,36 +6090,6 @@
       "Netlify",
       "Subversion",
       "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "tepeyac.mx",
-    "title": "Inicio - Instituto Tepeyac",
-    "business_name": "",
-    "country": "MEX",
-    "seo_score": 72,
-    "tech_spend": 101420,
-    "crawled_at": "2026-05-10T07:47:19.989003414Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "Ethy",
-      "Financial Services Guide",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Instagram Follow Button",
-      "K2F",
-      "KVH",
-      "No-Q",
-      "SMC",
-      "Tailwind CSS",
-      "shadcn ui"
     ]
   },
   {
