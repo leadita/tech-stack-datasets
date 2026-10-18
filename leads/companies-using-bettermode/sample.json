@@ -1935,37 +1935,5 @@
       "YouTube",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "resonancenex.com",
-    "title": "Talent Search & Community Platform",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 13183,
-    "crawled_at": "2026-03-02T16:57:44.688994303Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "BetterMode",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "ElementUI",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "HHVM",
-      "Imgix",
-      "Instagram Follow Button",
-      "KVH",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "Tribe.so",
-      "Vector Internet Services",
-      "YouTube",
-      "shadcn ui"
-    ]
   }
 ]
