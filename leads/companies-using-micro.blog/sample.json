@@ -1,5 +1,60 @@
 [
   {
+    "domain": "bettysbubbles.uk",
+    "title": "Bettys Bubbles",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 60,
+    "crawled_at": "2026-10-17T23:33:15.413634374Z",
+    "technologies": [
+      "Alternate Protocol",
+      "DAV",
+      "Hugo",
+      "Micro.blog",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "kraft.im",
+    "title": "The Journeyman – Brandon Kraft - Musings from Brandon Kraft",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 20609,
+    "crawled_at": "2026-10-17T18:54:21.271781407Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Ametys",
+      "Automattic",
+      "Content Delivery Network",
+      "Cornerstone",
+      "EmbedPress",
+      "Fireblade",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Related Website Sites",
+      "Gutenberg",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "Kinsta",
+      "Micro.blog",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Oracle Cloud",
+      "Perl",
+      "Pleroma",
+      "Simple Social Icons",
+      "The SEO Framework",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats"
+    ]
+  },
+  {
     "domain": "peteschaffner.com",
     "title": "Pete Schaffner",
     "business_name": "",
@@ -2797,42 +2852,6 @@
       "Ubuntu",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "brandonkraft.com",
-    "title": "The Journeyman – Brandon Kraft - Musings from Brandon Kraft",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 18071,
-    "crawled_at": "2026-05-16T14:41:20.006539698Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Automattic",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Fireblade",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Related Website Sites",
-      "Gutenberg",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Kinsta",
-      "Micro.blog",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Ntent",
-      "PHP",
-      "Perl",
-      "Pleroma",
-      "Simple Social Icons",
-      "The SEO Framework",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats"
     ]
   },
   {
@@ -7674,57 +7693,6 @@
       "Twitter Ads",
       "UTF-8",
       "Vimeo"
-    ]
-  },
-  {
-    "domain": "bettysbubbles.uk",
-    "title": "Bettys Bubbles",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 60,
-    "crawled_at": "2026-03-02T17:40:59.800349772Z",
-    "technologies": [
-      "Alternate Protocol",
-      "DAV",
-      "Hugo",
-      "Micro.blog",
-      "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "ashantiandkamaritravels.com",
-    "title": "Ashanti and Kamari Travels",
-    "business_name": "",
-    "country": "VEN",
-    "seo_score": 65,
-    "tech_spend": 19618,
-    "crawled_at": "2026-03-02T04:53:25.757281763Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Elementor",
-      "ElementsKit Elementor",
-      "EmbedPress",
-      "Hello Elementor",
-      "Micro.blog",
-      "MouseWheel Smooth Scroll",
-      "NFOrce Internet",
-      "PHP",
-      "Phew",
-      "QUIC",
-      "Telegram",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "about.me",
-      "jQuery"
     ]
   }
 ]
