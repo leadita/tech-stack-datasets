@@ -1,5 +1,53 @@
 [
   {
+    "domain": "hotelliss.al",
+    "title": "Home<!-- --> - <!-- -->Hotel Liss Lezhe<!-- -->",
+    "business_name": "",
+    "country": "ALB",
+    "seo_score": 77,
+    "tech_spend": 26428,
+    "crawled_at": "2026-10-18T10:32:43.323670481Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Google My Business",
+      "Instagram Follow Button",
+      "KVH",
+      "Next.js",
+      "PWA",
+      "Pleroma",
+      "QUIC",
+      "Sanity",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "sonneveldhouse.com",
+    "title": "Museum House Huis Sonneveld – Iconic Home in Nieuwe Bouwen Style, Rotterdam",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 82,
+    "tech_spend": 240,
+    "crawled_at": "2026-10-18T08:09:11.655354037Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Chakra UI",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "tinydancer.io",
     "title": "Tinydancer",
     "business_name": "",
@@ -13015,48 +13063,6 @@
       "Unsplash",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "socialimpactmedia.co.uk",
-    "title": "Social Impact Media | Strategic Narrative & Admissions Growth for Schools",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 22240,
-    "crawled_at": "2026-05-17T22:53:19.97201343Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "Chakra UI",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Next.js",
-      "Prospective",
-      "QUIC",
-      "UTF-8",
-      "University or College",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "rightcredit.co",
-    "title": "RightCred Underwriting",
-    "business_name": "",
-    "country": "NGA",
-    "seo_score": 62,
-    "tech_spend": 358,
-    "crawled_at": "2026-05-17T21:56:19.977081932Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Freepik",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
