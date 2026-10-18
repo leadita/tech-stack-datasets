@@ -1,6 +1,6 @@
 # Companies Using Iterable (Live Dataset 2026)
 
-This folder contains an active list of 549 companies using **Iterable**. 
+This folder contains an active list of 548 companies using **Iterable**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 549
+- **Total Leads:** 548
 - **Verified:** Yes
-- **Last Updated:** 2026-10-17 21:15 UTC
+- **Last Updated:** 2026-10-18 19:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **549+** companies using Iterable.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **548+** companies using Iterable.
 
 [**⚡ Unlock the Full Iterable List with Contact Details**](https://leadita.com/leads/companies-using-iterable)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-10-17 21:15 UTC*
+*Last updated: 2026-10-18 19:45 UTC*
 *Data source: Leadita Technographic Intelligence*
