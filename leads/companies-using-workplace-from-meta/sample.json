@@ -8872,39 +8872,5 @@
       "Workplace from Meta",
       "YouTube"
     ]
-  },
-  {
-    "domain": "aecworkplace.com",
-    "title": "AEC Workplace Solutions",
-    "business_name": "AEC Workplace Solutions",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 5753,
-    "crawled_at": "2026-03-02T15:46:48.898515795Z",
-    "technologies": [
-      "Alternate Protocol",
-      "EmbedPress",
-      "GZIP Module",
-      "GenerateBlocks",
-      "GeneratePress Company",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Menu Icons by ThemeIsle",
-      "Meta Slider for WordPress",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Otter Blocks",
-      "PHP",
-      "Stripe",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "WP Fastest Cache",
-      "WordPress",
-      "WordPress Multisite",
-      "Workplace from Meta",
-      "YouTube",
-      "reCAPTCHA"
-    ]
   }
 ]
