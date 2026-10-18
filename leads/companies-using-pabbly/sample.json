@@ -1,5 +1,40 @@
 [
   {
+    "domain": "saipriyas.com",
+    "title": "SaiPriyas Caterers",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 808,
+    "crawled_at": "2026-10-18T16:00:42.169687262Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Elfsight",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Conversion Tracking",
+      "Google Customer Reviews",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Pabbly",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "appleblossom.net.in",
     "title": "top preschool in gurgaon | best preschool in gurgaon Sector 46",
     "business_name": "",
@@ -6211,39 +6246,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "saipriyas.com",
-    "title": "SaiPriyas Caterers",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 62,
-    "tech_spend": 448,
-    "crawled_at": "2026-03-03T17:30:14.107084941Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Conversion Tracking",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Pabbly",
-      "QUIC",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "YouTube"
     ]
   }
 ]
