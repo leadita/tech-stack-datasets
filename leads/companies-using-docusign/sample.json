@@ -1,5 +1,22 @@
 [
   {
+    "domain": "branindental.com",
+    "title": "Branin Dental Services",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 300,
+    "crawled_at": "2026-10-18T02:40:08.640793269Z",
+    "technologies": [
+      "Apache",
+      "DocuSign",
+      "Microdata for Google Shopping",
+      "Tailwind CSS",
+      "jQuery",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "pna-znp.org",
     "title": "Home - Polish National Alliance",
     "business_name": "Polish National Alliance",
@@ -11272,49 +11289,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "branindental.com",
-    "title": "Branin Dental Services",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 300,
-    "crawled_at": "2026-03-02T22:26:37.454204655Z",
-    "technologies": [
-      "Apache",
-      "DocuSign",
-      "Tailwind CSS",
-      "jQuery",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "tripleamortgage.com",
-    "title": "Ready to Make Your Dream Home a Reality",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 3928,
-    "crawled_at": "2026-03-02T09:41:57.71957911Z",
-    "technologies": [
-      "Apache",
-      "DocuSign",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Conversion Tracking",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Nationwide Mortgage Licensing System and Registry",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
