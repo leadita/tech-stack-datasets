@@ -1,5 +1,33 @@
 [
   {
+    "domain": "preronaiuddokta.com",
+    "title": "Dream Big, Start Today | Preronai Uddokta",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 1488,
+    "crawled_at": "2026-10-17T15:56:28.49625742Z",
+    "technologies": [
+      "Authorize.net",
+      "AutoComplete",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudinary",
+      "DAV",
+      "Disqus Comment System for WordPress",
+      "Express",
+      "Okta",
+      "QUIC",
+      "Tailwind CSS",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "apartments4.me",
     "title": "Spherexx: Data Science | Performance | Proptech",
     "business_name": "",
@@ -19385,34 +19413,6 @@
       "jQuery",
       "jsDelivr",
       "vFairs"
-    ]
-  },
-  {
-    "domain": "preronaiuddokta.com",
-    "title": "Dream Big, Start Today | Preronai Uddokta",
-    "business_name": "",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 6268,
-    "crawled_at": "2026-03-02T05:53:42.73036605Z",
-    "technologies": [
-      "Authorize.net",
-      "AutoComplete",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudinary",
-      "Disqus Comment System for WordPress",
-      "Express",
-      "LiteSpeed",
-      "Okta",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "jQuery"
     ]
   }
 ]
