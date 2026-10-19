@@ -1,5 +1,33 @@
 [
   {
+    "domain": "ritorica.com",
+    "title": "Business Messaging Platform — SMS, WhatsApp, Viber & OTP | Ritorica",
+    "business_name": "Ritorica",
+    "country": "BGD",
+    "seo_score": 77,
+    "tech_spend": 3004,
+    "crawled_at": "2026-10-19T01:10:05.113752569Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Django",
+      "FormSubmit",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Pleroma",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "trtperformancemh.com",
     "title": "TRT Performance Men’s Health | Home | Men's Wellness Clinic",
     "business_name": "",
@@ -8736,38 +8764,6 @@
       "QUIC",
       "University or College",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "thomasbrown.app",
-    "title": "Thomas Brown - Full-stack Developer & IT Specialist",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 35417,
-    "crawled_at": "2026-03-04T02:37:02.300624548Z",
-    "technologies": [
-      "Calendly",
-      "Content Delivery Network",
-      "Cybot",
-      "Django",
-      "Drift",
-      "Express",
-      "Fastly",
-      "Flask",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "PHP",
-      "PWA",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
