@@ -1,5 +1,43 @@
 [
   {
+    "domain": "clipptic.com",
+    "title": "Capture screenshots & GIFs. Upload files. To your own domain via FTP – Clipptic for Windows",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 3276,
+    "crawled_at": "2026-10-19T19:13:27.814927691Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon S3 CDN",
+      "Apture Linking Platform",
+      "CDN JS",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "MyFonts",
+      "Nginx",
+      "QUIC",
+      "Storyblocks",
+      "Tailwind CSS",
+      "Telegram",
+      "Trello",
+      "Twitter Ads",
+      "UTF-8",
+      "WF Cookie Consent",
+      "Webflow",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "lindawoods.org",
     "title": "PSYCH-K© – Empowerment Sessions – I Empower Women to Break Free from Limiting Beliefs, Find a New Sense of Purpose and Recreate Their Ideal Life",
     "business_name": "",
@@ -19629,35 +19667,6 @@
       "YouTube",
       "about.me",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "racing2learn.com",
-    "title": "Home | British Horseracing",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 10563,
-    "crawled_at": "2026-04-28T15:50:19.998659188Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "Totara",
-      "Trello",
-      "UTF-8",
-      "YouTube",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
