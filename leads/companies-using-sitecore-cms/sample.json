@@ -1,12 +1,43 @@
 [
   {
-    "domain": "4nyhomeinsurance.com",
+    "domain": "blueyonderdefense.solutions",
+    "title": "Defense & Government Supply Chain Software | Blue Yonder",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 210000,
+    "crawled_at": "2026-10-19T10:26:24.830946157Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Azure Edge",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "Cornerstone Platform",
+      "Corporate Governance and Regulatory Compliance",
+      "DAV",
+      "Express",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Next.js",
+      "Parcel",
+      "Pleroma",
+      "Sitecore CMS",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "onlycontractors.com",
     "title": "New York",
     "business_name": "",
     "country": "USA",
-    "seo_score": 60,
+    "seo_score": 50,
     "tech_spend": 141953,
-    "crawled_at": "2026-10-18T00:14:12.765985105Z",
+    "crawled_at": "2026-10-18T15:02:00.69798652Z",
     "technologies": [
       "1Password",
       "AWS WAF Challenge",
@@ -164,35 +195,6 @@
       "Visual Studio",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "blueyonderdefensesolutions.com",
-    "title": "Defense & Government Supply Chain Software | Blue Yonder",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 205000,
-    "crawled_at": "2026-10-16T17:27:56.17002883Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Cornerstone Platform",
-      "Corporate Governance and Regulatory Compliance",
-      "Express",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Next.js",
-      "Parcel",
-      "Pleroma",
-      "Sitecore CMS",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "shadcn ui"
     ]
   },
   {
