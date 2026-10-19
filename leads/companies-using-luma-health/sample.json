@@ -696,45 +696,5 @@
       "YouTube",
       "eLand"
     ]
-  },
-  {
-    "domain": "cherryhealth.com",
-    "title": "Cherry Health | Family Medicine, Dental, Vision, Counseling",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 11946,
-    "crawled_at": "2026-03-04T00:03:07.151996818Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Gravity",
-      "Gravity Forms",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "Luma Health",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "SearchWP",
-      "Sitelinks Search Box",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WP Engine",
-      "WP PageNavi",
-      "WPML Multilingual",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery",
-      "reCAPTCHA"
-    ]
   }
 ]

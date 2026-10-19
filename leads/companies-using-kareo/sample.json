@@ -1,5 +1,59 @@
 [
   {
+    "domain": "lighterllc.com",
+    "title": "Lighter Health: Your Wellness and Medical Supply Partner | Lighter Health LLC",
+    "business_name": "",
+    "country": "",
+    "seo_score": 82,
+    "tech_spend": 8800,
+    "crawled_at": "2026-10-19T18:06:18.495347104Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "DAV",
+      "Express",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Investor Relations",
+      "Kareo",
+      "Microdata for Google Shopping",
+      "No-Q",
+      "Perl",
+      "Pexels",
+      "QUIC",
+      "Thank You",
+      "Underscores",
+      "University or College",
+      "Zyro"
+    ]
+  },
+  {
+    "domain": "thecoulterclinic.com",
+    "title": "The Coulter Clinic",
+    "business_name": "The Coulter Clinic",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 30120,
+    "crawled_at": "2026-10-18T20:44:02.259131589Z",
+    "technologies": [
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Kareo",
+      "Microdata for Google Shopping",
+      "PWA",
+      "Tebra",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "elevatehealthandwellnesscenter.com",
     "title": "Elevate Health & Wellness Center, LLC | APRN | 7775 SW 87 Ave, Suite 100, Miami, FL 33173",
     "business_name": "Elevate Health and Wellness Center, LLC",
@@ -18049,60 +18103,6 @@
       "Storyblocks",
       "University or College",
       "Yandex Hosting"
-    ]
-  },
-  {
-    "domain": "integritymedicalaz.com",
-    "title": "Integrity Medical Services",
-    "business_name": "",
-    "country": "PAN",
-    "seo_score": 70,
-    "tech_spend": 24312,
-    "crawled_at": "2026-04-17T12:50:19.994273341Z",
-    "technologies": [
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Kareo",
-      "Line2",
-      "PWA",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
-    ]
-  },
-  {
-    "domain": "steptechs.com",
-    "title": "Custom Orthotics in Springfield | Step Techs",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 36560,
-    "crawled_at": "2026-04-16T12:47:20.02533456Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Expedient",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Kareo",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "WF Cookie Consent"
     ]
   }
 ]
