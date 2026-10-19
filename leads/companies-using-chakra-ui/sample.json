@@ -1,5 +1,103 @@
 [
   {
+    "domain": "scholarly.africa",
+    "title": "Scholarly Africa | Improved Learning, Better Academic Performance",
+    "business_name": "",
+    "country": "NGA",
+    "seo_score": 77,
+    "tech_spend": 2668,
+    "crawled_at": "2026-10-19T14:33:18.484481713Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Netlify",
+      "Next.js",
+      "Ntent",
+      "Pleroma",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "usecrow.com",
+    "title": "Crow | API monitoring, observability and reporting built for devs and product teams | UseCrow",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 710,
+    "crawled_at": "2026-10-19T07:57:50.501678514Z",
+    "technologies": [
+      "Calendly",
+      "Chakra UI",
+      "Content Delivery Network",
+      "Netlify",
+      "Next.js",
+      "PWA",
+      "Pleroma",
+      "Tally",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "rader.com.pl",
+    "title": "Rader - wheels and castors",
+    "business_name": "",
+    "country": "POL",
+    "seo_score": 87,
+    "tech_spend": 20200,
+    "crawled_at": "2026-10-19T07:57:50.500371176Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Chakra UI",
+      "Cloudinary",
+      "Content Delivery Network",
+      "Ethy",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Next.js",
+      "Nginx",
+      "Perl",
+      "Pleroma",
+      "UTF-8",
+      "Ubuntu",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "omarkhan83.com",
+    "title": "Omar Khan - Homepage",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2668,
+    "crawled_at": "2026-10-19T03:21:25.241548961Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Next.js",
+      "Placehold IT",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "hotelliss.al",
     "title": "Home<!-- --> - <!-- -->Hotel Liss Lezhe<!-- -->",
     "business_name": "",
@@ -12978,90 +13076,6 @@
       "Sign In With Google",
       "Tailwind CSS",
       "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "studioskate.nyc",
-    "title": "Studio Skate",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 3048,
-    "crawled_at": "2026-05-18T10:17:19.989422936Z",
-    "technologies": [
-      "Chakra UI",
-      "GZIP Module",
-      "Heroku",
-      "Next.js",
-      "Pleroma",
-      "Resy",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "matt765.dev",
-    "title": "Front-End Portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 60,
-    "crawled_at": "2026-05-18T10:14:20.016956205Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Hexo",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel",
-      "Web3Forms"
-    ]
-  },
-  {
-    "domain": "mayalabs.io",
-    "title": "Maya :: Applied research lab on a mission to build self-programming machines.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 3160,
-    "crawled_at": "2026-05-18T03:38:19.972130369Z",
-    "technologies": [
-      "Chakra UI",
-      "Cloudflare",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "webblocks.app",
-    "title": "Webblocks | No-Code Website Builder with Online Service Booking & Payments",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 84,
-    "crawled_at": "2026-05-17T23:50:19.981884324Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Unsplash",
-      "Vercel",
       "shadcn ui"
     ]
   }
