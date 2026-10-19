@@ -1,5 +1,33 @@
 [
   {
+    "domain": "gopromptless.ai",
+    "title": "Continuously improve your AI workforce and docs | Promptless Documentation",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 42840,
+    "crawled_at": "2026-10-19T22:19:31.265611903Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Astro",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "Docusaurus",
+      "Endis",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "KVH",
+      "PWA",
+      "Pico CSS",
+      "QUIC",
+      "RM Education",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "prashantbarahi.com.np",
     "title": "Prashant Barahi",
     "business_name": "",
@@ -12768,30 +12796,6 @@
       "Product Hunt",
       "Tailwind CSS",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "vidsy.ai",
-    "title": "Vidsy AI — Offline AI Pipe Inspection Software",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 240,
-    "crawled_at": "2026-04-10T06:05:20.029363259Z",
-    "technologies": [
-      "AI Log",
-      "Alternate Protocol",
-      "Docusaurus",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Perl",
-      "Stetic",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]

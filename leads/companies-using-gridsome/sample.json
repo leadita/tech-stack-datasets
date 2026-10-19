@@ -1,5 +1,50 @@
 [
   {
+    "domain": "codewithveni.com",
+    "title": "Code with Veni - A newsletter by and for underrepresented coders",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 3,
+    "crawled_at": "2026-10-19T03:58:13.316804434Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Netlify",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "newhavenbuilders.com",
+    "title": "Homepage - Newhaven",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 16721,
+    "crawled_at": "2026-10-19T00:50:47.578615197Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "EasyMe",
+      "Financial Services Guide",
+      "Gridsome",
+      "IcoMoon",
+      "Idaq",
+      "Netlify",
+      "No-Q",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "Zbanx"
+    ]
+  },
+  {
     "domain": "institutotepeyac.edu.mx",
     "title": "Inicio - Instituto Tepeyac",
     "business_name": "",
@@ -11855,59 +11900,6 @@
       "IcoMoon",
       "Instagram Follow Button",
       "Medium"
-    ]
-  },
-  {
-    "domain": "aplikacjalupa.com",
-    "title": "Start - Lupa",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 38354,
-    "crawled_at": "2026-04-01T22:53:20.014862827Z",
-    "technologies": [
-      "App Store",
-      "Apyl",
-      "DAV",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google My Business",
-      "Google Play",
-      "Gridsome",
-      "HMDG",
-      "Hexo",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "K2F",
-      "KVH",
-      "M247",
-      "No-Q",
-      "SMC",
-      "Subversion"
-    ]
-  },
-  {
-    "domain": "wiseconsult.com.au",
-    "title": "Mortgage Broker Ivanhoe | WiseConsult Finance",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 77,
-    "tech_spend": 3149,
-    "crawled_at": "2026-04-01T18:29:19.981373586Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Apture Linking Platform",
-      "Australian Credit Licence",
-      "CloudFront",
-      "Content Delivery Network",
-      "Gravity",
-      "Gravity Forms",
-      "Gridsome",
-      "Vimeo",
-      "Vimeo CDN"
     ]
   }
 ]
