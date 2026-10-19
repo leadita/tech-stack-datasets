@@ -1,5 +1,34 @@
 [
   {
+    "domain": "naamerica.org",
+    "title": "NAAM USA",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 7898,
+    "crawled_at": "2026-10-18T21:33:12.97217315Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "DatoCMS",
+      "Financial Services Guide",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Idaq",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "No-Q",
+      "PWA",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "coreadvisory.com.au",
     "title": "Exclusive Property Strategy & Advice | Core Advisory",
     "business_name": "",
@@ -14148,32 +14177,6 @@
       "Twitter Ads",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "casadeifamilywines.com",
-    "title": "Tenuta Casadei in Suvereto - Organic Wines made in Maremma Toscana",
-    "business_name": "",
-    "country": "ITA",
-    "seo_score": 72,
-    "tech_spend": 2916,
-    "crawled_at": "2026-05-05T21:32:19.979259126Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DatoCMS",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Iubenda",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Schema Plugin",
-      "UTF-8"
     ]
   }
 ]

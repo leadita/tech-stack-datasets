@@ -1,5 +1,36 @@
 [
   {
+    "domain": "latabledelamessardiere.com",
+    "title": "Airelles Collection | Luxury Hotels | Palace & 5-Star Properties",
+    "business_name": "Airelles",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 302000,
+    "crawled_at": "2026-10-18T19:49:53.050799243Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Fireblade",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Nginx",
+      "Perl",
+      "Pleroma",
+      "Pressable",
+      "Prismic",
+      "SEVENROOMS",
+      "Salesforce",
+      "Salesforce Experience Cloud",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "kantamanto.com",
     "title": "Sharetribe - Marketplace Software for Founders",
     "business_name": "Sharetribe",
@@ -13680,30 +13711,6 @@
       "UTF-8",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "lucaspaintingdecorating.co.uk",
-    "title": "Lucas Painter Decorator",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 420,
-    "crawled_at": "2026-04-29T12:23:20.030341531Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Better Lead Generation Services",
-      "Content Delivery Network",
-      "DAV",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "Prismic",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
