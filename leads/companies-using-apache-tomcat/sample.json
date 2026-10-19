@@ -1,5 +1,29 @@
 [
   {
+    "domain": "florian-moehle.de",
+    "title": "Florian Möhle",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 65,
+    "tech_spend": 17400,
+    "crawled_at": "2026-10-19T12:41:02.495833615Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Apache Tomcat JK",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Materialize CSS",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "guillermo.dev",
     "title": "Guillermo Calvo",
     "business_name": "",
@@ -13218,30 +13242,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "florian-moehle.de",
-    "title": "Florian Möhle",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 65,
-    "tech_spend": 17400,
-    "crawled_at": "2026-03-05T00:00:11.505986396Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Apache Tomcat JK",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Materialize CSS",
-      "QUIC",
-      "UTF-8"
     ]
   }
 ]
