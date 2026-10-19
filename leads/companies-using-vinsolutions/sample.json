@@ -1,5 +1,61 @@
 [
   {
+    "domain": "createamotive.com",
+    "title": "create.a.motive · CRM process, training and daily accountability for dealers",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 53268,
+    "crawled_at": "2026-10-18T21:14:35.925679964Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "DriveCentric",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Motive",
+      "Netlify",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "VinSolutions"
+    ]
+  },
+  {
+    "domain": "nithvinsolutions.com",
+    "title": "Nithvin Solutions",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 60,
+    "tech_spend": 8719,
+    "crawled_at": "2026-10-18T16:52:07.426945005Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Bulma",
+      "Contact Form Plugin",
+      "EmbedPress",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "LiteSpeed",
+      "NFOrce Internet",
+      "PHP",
+      "QUIC",
+      "Slider Revolution",
+      "Tailwind CSS",
+      "Theme In WP",
+      "UTF-8",
+      "VinSolutions",
+      "WPBakery",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "elevinsolutions.com",
     "title": "Empowering Entrepreneurs - ELEVIN Solutions",
     "business_name": "ELEVIN Solutions",
@@ -4039,38 +4095,6 @@
       "Wix Media",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "nithvinsolutions.com",
-    "title": "Nithvin Solutions",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 60,
-    "tech_spend": 8719,
-    "crawled_at": "2026-03-03T18:47:40.768765302Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Bulma",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "LiteSpeed",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "Slider Revolution",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "VinSolutions",
-      "WPBakery",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
