@@ -1,5 +1,37 @@
 [
   {
+    "domain": "onlinehikes.com",
+    "title": "Online Hikes",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 45588,
+    "crawled_at": "2026-10-19T11:16:50.417261502Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Convertful",
+      "ElementUI",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Ghost",
+      "Google Adsense",
+      "Google Analytics",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google Reseller",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "Stripe",
+      "The Fresh",
+      "Twitter Ads",
+      "UTF-8",
+      "Ubuntu"
+    ]
+  },
+  {
     "domain": "havemoon.net",
     "title": "SOURCE NOTES",
     "business_name": "",
@@ -13145,28 +13177,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "pwint.me",
-    "title": "Pwint Myat Thu",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 192,
-    "crawled_at": "2026-04-12T09:41:19.982569758Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Digital Ocean Spaces",
-      "Express",
-      "GZIP Module",
-      "Ghost",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Telegram",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]

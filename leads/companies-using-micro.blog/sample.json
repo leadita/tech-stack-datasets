@@ -1,5 +1,54 @@
 [
   {
+    "domain": "recycledspace.com",
+    "title": "recycledspace.com",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 70,
+    "tech_spend": 160,
+    "crawled_at": "2026-10-19T12:14:22.943174615Z",
+    "technologies": [
+      "Alternate Protocol",
+      "DAV",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Medium",
+      "Micro.blog",
+      "Python",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "lettings.app",
+    "title": "Landlordy app: Best Property Management Software for Phone",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2800,
+    "crawled_at": "2026-10-19T04:41:47.901457152Z",
+    "technologies": [
+      "App Store",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "Micro.blog",
+      "Nginx",
+      "Perl",
+      "Pleroma",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "Vimeo"
+    ]
+  },
+  {
     "domain": "bettysbubbles.uk",
     "title": "Bettys Bubbles",
     "business_name": "",
@@ -7645,54 +7694,6 @@
       "Ubuntu",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "recycledspace.com",
-    "title": "recycledspace.com",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 160,
-    "crawled_at": "2026-03-04T23:20:08.396612364Z",
-    "technologies": [
-      "Alternate Protocol",
-      "DAV",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Medium",
-      "Micro.blog",
-      "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "lettings.app",
-    "title": "Landlordy app: Best Property Management Software for Phone",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2800,
-    "crawled_at": "2026-03-04T12:16:57.79145322Z",
-    "technologies": [
-      "App Store",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "Micro.blog",
-      "Nginx",
-      "Perl",
-      "Pleroma",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "Vimeo"
     ]
   }
 ]
