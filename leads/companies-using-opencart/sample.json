@@ -1,5 +1,56 @@
 [
   {
+    "domain": "botanicplanet.ca",
+    "title": "Absolute, Herbal, Organic Essential Oils and Herbs in Canada",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 78267,
+    "crawled_at": "2026-10-18T22:26:14.694132499Z",
+    "technologies": [
+      "Apache",
+      "CDN JS",
+      "Cart.com",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "Fastly",
+      "Font Awesome",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "OpenCart",
+      "PHP",
+      "Parallels Plesk Panel",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "daudjee.com",
+    "title": "Daud Jee Mfg. Co. Online Store, Ophthalmic Instruments, Sterilization Baskets",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 62,
+    "tech_spend": 76960,
+    "crawled_at": "2026-10-18T22:10:32.00415364Z",
+    "technologies": [
+      "Apache",
+      "Azion",
+      "Cart.com",
+      "Express",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "OpenCart",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "lovinguuskt.com",
     "title": "FIRSTREACH NETWORK TECHNOLOGY PTE.LTD.",
     "business_name": "",
@@ -12244,50 +12295,6 @@
       "StackPath",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "bass-palace.com",
-    "title": "The Bass Palace",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 30015,
-    "crawled_at": "2026-05-29T20:19:45.902095474Z",
-    "technologies": [
-      "Cart.com",
-      "CleanTalk Spam Protect",
-      "Google Cloud DNS",
-      "Google Font API",
-      "OpenCart",
-      "PHP",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "myasiaoutlet.com",
-    "title": "MyAsiaOutlet.com Philippines",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 75040,
-    "crawled_at": "2026-05-29T16:29:35.181189917Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AutoComplete",
-      "Cart.com",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "LiteSpeed",
-      "OpenCart",
-      "PHP",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
