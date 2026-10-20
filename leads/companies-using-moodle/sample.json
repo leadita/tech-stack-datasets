@@ -1,12 +1,12 @@
 [
   {
-    "domain": "elearning-prod.nbs.de",
+    "domain": "elearning.nbs.de",
     "title": "Log in to the site | eLearning@NBS",
     "business_name": "",
     "country": "",
     "seo_score": 25,
     "tech_spend": 10500,
-    "crawled_at": "2026-10-13T10:31:54.816927019Z",
+    "crawled_at": "2026-10-19T17:25:40.986353686Z",
     "technologies": [
       "GZIP Module",
       "Moodle",

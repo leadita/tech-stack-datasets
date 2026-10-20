@@ -1,5 +1,5 @@
 domain,title,business_name,country,seo_score,tech_spend,crawled_at,technologies
-elearning-prod.nbs.de,Log in to the site | eLearning@NBS,,,25,10500,2026-10-13T10:31:54.816927019Z,"['GZIP Module', 'Moodle', 'NFOrce Internet', 'Nginx', 'PHP', 'Totara', 'UTF-8', 'jsDelivr']"
+elearning.nbs.de,Log in to the site | eLearning@NBS,,,25,10500,2026-10-19T17:25:40.986353686Z,"['GZIP Module', 'Moodle', 'NFOrce Internet', 'Nginx', 'PHP', 'Totara', 'UTF-8', 'jsDelivr']"
 iasptraining.ca,Ontario Structured Psychotherapy (OSP),,USA,60,11519,2026-10-11T15:50:19.327971146Z,"['AWS WAF Challenge', 'Adobe Creative Cloud WebFonts', 'Fastly', 'Font Awesome', 'Moodle', 'NFOrce Internet', 'PHP', 'Tailwind CSS', 'Thank You', 'Totara', 'UTF-8', 'University or College', 'Vimeo', 'Vue.js']"
 whstech2.x10.mx,Westerly High Technology Moodle,,,50,11100,2026-10-09T14:33:51.26918196Z,"['Alternate Protocol', 'Apache', 'CDN JS', 'Cloudflare', 'Cloudflare CDN', 'Fastly', 'Moodle', 'NFOrce Internet', 'PHP', 'Totara', 'UTF-8']"
 onlinelearning.academy,OLA,,,52,11244,2026-10-08T22:47:58.51528524Z,"['Bulma', 'CDN JS', 'Cloudflare', 'Cloudflare CDN', 'Fastly', 'GZIP Module', 'Moodle', 'NFOrce Internet', 'Nginx', 'PHP', 'Parallels Plesk Panel', 'QUIC', 'Totara', 'Twitter Ads', 'UTF-8']"
