@@ -1,5 +1,38 @@
 [
   {
+    "domain": "shopvoglio.us",
+    "title": "voglio.us",
+    "business_name": "",
+    "country": "PHL",
+    "seo_score": 65,
+    "tech_spend": 15104,
+    "crawled_at": "2026-10-20T10:54:58.610323236Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Baidu Cloud",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Deliverr",
+      "Express",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "Thank You",
+      "UTF-8",
+      "Yandex Hosting",
+      "hCaptcha",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "texasbushcraft.com",
     "title": "Texas Bushcraft - Bushcraft Essentials For The Resourceful Outdoorsman",
     "business_name": "",
@@ -5416,37 +5449,6 @@
       "UTF-8",
       "eLand",
       "hCaptcha",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "shopvoglio.us",
-    "title": "voglio.us",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 2204,
-    "crawled_at": "2026-03-06T09:56:10.435714412Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Deliverr",
-      "Express",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Thank You",
-      "UTF-8",
-      "hCaptcha",
-      "jsDelivr",
       "reCAPTCHA"
     ]
   }
