@@ -1,5 +1,38 @@
 [
   {
+    "domain": "canadianswimschools.ca",
+    "title": "Canada's Swim School Network | Educate | Connect | Inspire",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 62,
+    "tech_spend": 71256,
+    "crawled_at": "2026-10-19T23:15:13.958833686Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "BetterMode",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Cvent",
+      "DAV",
+      "ElementUI",
+      "Fireblade",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Imgix",
+      "Instagram Follow Button",
+      "PWA",
+      "QUIC",
+      "Storepoint",
+      "Tailwind CSS",
+      "Tribe.so",
+      "Vector Internet Services",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "the-collab.org",
     "title": "Log in - The Collab",
     "business_name": "",
