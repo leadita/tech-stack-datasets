@@ -2802,45 +2802,5 @@
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
     ]
-  },
-  {
-    "domain": "purpio.ai",
-    "title": "Cloud Video Surveillance Storage - Truvios",
-    "business_name": "Truvios",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 22454,
-    "crawled_at": "2026-03-05T21:54:12.899577801Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Contact Form Plugin",
-      "ContentBox",
-      "Elementor",
-      "EmbedPress",
-      "Fireblade",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Header, Footer and Blocks for Elementor",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "MonsterInsights",
-      "PHP",
-      "PandaDoc",
-      "QUIC",
-      "Theme In WP",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "eLand",
-      "jQuery",
-      "reCAPTCHA"
-    ]
   }
 ]
