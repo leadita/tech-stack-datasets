@@ -1,5 +1,36 @@
 [
   {
+    "domain": "accpl.co",
+    "title": "Accomplice",
+    "business_name": "Accomplice",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 2056,
+    "crawled_at": "2026-10-19T21:24:08.762043028Z",
+    "technologies": [
+      "3 Products",
+      "Alternate Protocol",
+      "Breezy HR",
+      "Content Delivery Network",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Analytics",
+      "Instagram Follow Button",
+      "Medium",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Tailwind CSS",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "WP Engine",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "cool-transports.com",
     "title": "Cool Transports – Providing Safe, Dependable Petroleum Transport Service",
     "business_name": "",
@@ -17274,36 +17305,6 @@
       "Visual Website Optimizer",
       "eSputnik",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "accpl.co",
-    "title": "Accomplice",
-    "business_name": "Accomplice",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 2056,
-    "crawled_at": "2026-03-05T13:22:45.028898243Z",
-    "technologies": [
-      "3 Products",
-      "Alternate Protocol",
-      "Breezy HR",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Google Analytics",
-      "Instagram Follow Button",
-      "Medium",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Tailwind CSS",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "WP Engine",
-      "WordPress",
-      "WordPress Multisite"
     ]
   }
 ]

@@ -1,5 +1,32 @@
 [
   {
+    "domain": "paalgusto.com",
+    "title": "Pa'al Gusto - Food delivery - Miami - Order online",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 92,
+    "tech_spend": 5540,
+    "crawled_at": "2026-10-20T02:32:59.18122719Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Authorize.net",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "DAV",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Gusto",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nuxt.js",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "muchogustopr.com",
     "title": "Mucho Gusto | Helados y Postres \"Plant-Based & Gluten-Free\"",
     "business_name": "Mucho Gusto",
@@ -18503,30 +18530,6 @@
       "YouTube",
       "a2z Inc",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "kmbdesignssc.com",
-    "title": "KMB Designs",
-    "business_name": "KMB Designs",
-    "country": "USA",
-    "seo_score": 80,
-    "tech_spend": 20112,
-    "crawled_at": "2026-04-01T16:29:27.44644896Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Gusto",
-      "Line2",
-      "Microdata for Google Shopping",
-      "PWA",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
     ]
   }
 ]
