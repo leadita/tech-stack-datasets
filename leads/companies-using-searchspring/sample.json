@@ -5999,47 +5999,5 @@
       "jsDelivr",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "aspecialtybox.com",
-    "title": "Stock Boxes and Custom Packaging | A Specialty Box",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 50044,
-    "crawled_at": "2026-03-05T20:01:43.150088507Z",
-    "technologies": [
-      "Apps4BigCommerce",
-      "Apture Linking Platform",
-      "BigCommerce",
-      "Bing Cashback",
-      "Bing Conversion Tracking",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Doogma",
-      "Fireblade",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "MailChimp",
-      "Microsoft Clarity",
-      "NFOrce Internet",
-      "Perl",
-      "QUIC",
-      "SearchSpring",
-      "Site.pro",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "YouTube",
-      "jQuery"
-    ]
   }
 ]
