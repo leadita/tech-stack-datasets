@@ -1,5 +1,32 @@
 [
   {
+    "domain": "hctaxptc.com",
+    "title": "Commercial and Residential Property Tax Consultants | Harding & Carbone",
+    "business_name": "Harding & Carbone",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 125339,
+    "crawled_at": "2026-10-20T08:21:35.269600285Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Font Awesome",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Mantine",
+      "Microdata for Google Shopping",
+      "Monetate",
+      "Next.js",
+      "Ntent",
+      "QUIC",
+      "SMC",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "laingsburgheating.com",
     "title": "Tyler Heating & Cooling - Professional HVAC - Greater Lansing",
     "business_name": "",
@@ -13010,31 +13037,6 @@
       "Tailwind CSS",
       "Visual Studio",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "hctax.com",
-    "title": "Commercial and Residential Property Tax Consultants | Harding & Carbone",
-    "business_name": "Harding & Carbone",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 75339,
-    "crawled_at": "2026-04-28T05:47:20.012221536Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DAV",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Mantine",
-      "Microdata for Google Shopping",
-      "Monetate",
-      "Next.js",
-      "QUIC",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {
