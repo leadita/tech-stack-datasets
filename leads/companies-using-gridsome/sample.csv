@@ -1,4 +1,5 @@
 domain,title,business_name,country,seo_score,tech_spend,crawled_at,technologies
+trianglespeechom.com,Home - TriangleSpeechOM,,USA,60,200,2026-10-20T02:32:59.188800024Z,"['AWS WAF Challenge', 'Content Delivery Network', 'Gridsome', 'Netlify', 'QUIC', 'UTF-8', 'University or College']"
 codewithveni.com,Code with Veni - A newsletter by and for underrepresented coders,,,47,3,2026-10-19T03:58:13.316804434Z,"['Content Delivery Network', 'Google Cloud DNS', 'Google Font API', 'Gridsome', 'Netlify', 'Tailwind CSS', 'Twitter Ads', 'UTF-8', 'shadcn ui']"
 newhavenbuilders.com,Homepage - Newhaven,,USA,60,16721,2026-10-19T00:50:47.578615197Z,"['Content Delivery Network', 'DAV', 'EasyMe', 'Financial Services Guide', 'Gridsome', 'IcoMoon', 'Idaq', 'Netlify', 'No-Q', 'SMC', 'Subversion', 'Tailwind CSS', 'UTF-8', 'Zbanx']"
 institutotepeyac.edu.mx,Inicio - Instituto Tepeyac,,MEX,87,101420,2026-10-18T06:10:00.578367195Z,"['Amazon', 'Amazon CloudFront', 'Amazon Route 53', 'Amazon S3 CDN', 'CloudFront', 'Content Delivery Network', 'Ethy', 'Financial Services Guide', 'GZIP Module', 'Google', 'Google Cloud DNS', 'Google Font API', 'Gridsome', 'Instagram Follow Button', 'K2F', 'KVH', 'No-Q', 'SMC', 'Tailwind CSS', 'shadcn ui']"
@@ -498,4 +499,3 @@ brianvanwinkle.com,Homepage,,,57,284,2026-04-03T18:35:20.007328418Z,"['AWS WAF C
 practice.inc,Practice,,,62,6416,2026-04-03T18:08:40.5742486Z,"['501c3 Status Nonprofit', 'Angular', 'Content Delivery Network', 'Gridsome', 'InitiativeS', 'Instagram Follow Button', 'Netlify', 'Sanity', 'Tailwind CSS', 'Twitter Ads', 'UTF-8', 'Vector Internet Services', 'shadcn ui']"
 mtgbus.com.au,Mount Gambier Bus Lines - Mount Gambier Buslines,,AUS,42,5000,2026-04-03T02:23:19.99599188Z,"['Apache', 'Google My Business', 'Gridsome', 'K2F', 'reCAPTCHA']"
 hud223f.loans,HUD 223(f) Loans,,USA,57,,2026-04-02T22:02:20.006982066Z,"['Cloudflare', 'Cloudflare CDN', 'Federal Deposit Insurance Corporation', 'Gridsome', 'QUIC', 'Segment', 'UTF-8', 'shadcn ui']"
-beyond-interfaces.de,beyond interfaces | Enterprise UX & Development,,DEU,60,156,2026-04-02T01:59:19.988664249Z,"['Apache', 'Gridsome', 'IcoMoon', 'Instagram Follow Button', 'Medium']"

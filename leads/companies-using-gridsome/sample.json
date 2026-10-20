@@ -1,5 +1,23 @@
 [
   {
+    "domain": "trianglespeechom.com",
+    "title": "Home - TriangleSpeechOM",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 200,
+    "crawled_at": "2026-10-20T02:32:59.188800024Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Gridsome",
+      "Netlify",
+      "QUIC",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "codewithveni.com",
     "title": "Code with Veni - A newsletter by and for underrepresented coders",
     "business_name": "",
@@ -11884,22 +11902,6 @@
       "Segment",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "beyond-interfaces.de",
-    "title": "beyond interfaces | Enterprise UX & Development",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 60,
-    "tech_spend": 156,
-    "crawled_at": "2026-04-02T01:59:19.988664249Z",
-    "technologies": [
-      "Apache",
-      "Gridsome",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Medium"
     ]
   }
 ]
