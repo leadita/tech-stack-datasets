@@ -1,5 +1,33 @@
 [
   {
+    "domain": "templers.ru",
+    "title": "Templers - Interlude",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 8400,
+    "crawled_at": "2026-10-20T08:52:49.071036981Z",
+    "technologies": [
+      "ADFOX",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "LiveInternet",
+      "Nginx",
+      "Tailwind CSS",
+      "Telegram",
+      "Twitch",
+      "UTF-8",
+      "Yandex Hosting",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "djkingtx.com",
     "title": "DJMauroKing",
     "business_name": "",
@@ -6884,33 +6912,6 @@
       "YouTube",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "la2temp.ru",
-    "title": "Templers - Interlude",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 60,
-    "crawled_at": "2026-09-28T00:18:16.576312935Z",
-    "technologies": [
-      "ADFOX",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "LiveInternet",
-      "Nginx",
-      "Tailwind CSS",
-      "Telegram",
-      "Twitch",
-      "Yandex Hosting",
-      "YouTube",
-      "jQuery"
     ]
   },
   {
