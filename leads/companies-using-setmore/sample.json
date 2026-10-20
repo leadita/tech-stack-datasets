@@ -1,5 +1,33 @@
 [
   {
+    "domain": "matrixautosale.com",
+    "title": "Matrix Auto – MatrixAutoSales",
+    "business_name": "MatrixAutoSales",
+    "country": "CAN",
+    "seo_score": 80,
+    "tech_spend": 9656,
+    "crawled_at": "2026-10-19T17:02:38.44326758Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Baidu Cloud",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Commoninja",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Setmore",
+      "Shopify",
+      "Shopify Collabs",
+      "Tagembed",
+      "UTF-8",
+      "Yandex Hosting",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "mensplacebarbershop.ro",
     "title": "Home - Men's Place Barber Shop",
     "business_name": "",
@@ -17176,61 +17204,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "matrixautosale.com",
-    "title": "Matrix Auto – MatrixAutoSales",
-    "business_name": "MatrixAutoSales",
-    "country": "CAN",
-    "seo_score": 75,
-    "tech_spend": 4856,
-    "crawled_at": "2026-03-05T06:37:23.775645077Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Commoninja",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Setmore",
-      "Shopify",
-      "Shopify Collabs",
-      "Tagembed",
-      "UTF-8",
-      "hCaptcha",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "airgenwater.com",
-    "title": "AirGenWater",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 70,
-    "tech_spend": 4428,
-    "crawled_at": "2026-03-05T03:23:35.92481502Z",
-    "technologies": [
-      "3 Products",
-      "Adult Content",
-      "Apture Linking Platform",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Facebook Reseller",
-      "Google Cloud DNS",
-      "IcoMoon",
-      "QUIC",
-      "Setmore",
-      "Shopify",
-      "Shopify Collabs",
-      "Tagembed",
-      "UTF-8",
-      "YouTube",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   }
 ]
