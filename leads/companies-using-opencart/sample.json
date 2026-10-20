@@ -1,5 +1,59 @@
 [
   {
+    "domain": "dealsharegroupoffers.com",
+    "title": "Deal Share Offers",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 77440,
+    "crawled_at": "2026-10-19T18:57:01.771676505Z",
+    "technologies": [
+      "Amazon",
+      "Apache",
+      "Cart.com",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "OpenCart",
+      "ShareThis",
+      "Tailwind CSS",
+      "UTF-8",
+      "Walmart",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "hardtofindpartysupplies.com",
+    "title": "Hard To Find Party Supplies",
+    "business_name": "Hard To Find Party Supplies",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 78120,
+    "crawled_at": "2026-10-19T16:35:55.57777521Z",
+    "technologies": [
+      "Arastta",
+      "Cart.com",
+      "DAV",
+      "GZIP Module",
+      "Gambling Content",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "OpenCart",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "botanicplanet.ca",
     "title": "Absolute, Herbal, Organic Essential Oils and Herbs in Canada",
     "business_name": "",
@@ -12250,50 +12304,6 @@
       "Google Cloud DNS",
       "Google Font API",
       "OpenCart",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "trendyshopvia.store",
-    "title": "Welcome to the game website",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 75508,
-    "crawled_at": "2026-05-30T00:54:06.287509569Z",
-    "technologies": [
-      "AutoComplete",
-      "Cart.com",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "ivclima.eu",
-    "title": "Iv Clima",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 30243,
-    "crawled_at": "2026-05-29T23:25:09.022556978Z",
-    "technologies": [
-      "Apache",
-      "Cart.com",
-      "Google Cloud DNS",
-      "Google Font API",
-      "OpenCart",
-      "StackPath",
-      "Tailwind CSS",
       "UTF-8"
     ]
   }

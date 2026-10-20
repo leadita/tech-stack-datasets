@@ -1,5 +1,28 @@
 [
   {
+    "domain": "haitiempire.com",
+    "title": "F comme Femmes - Welcome",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 174123,
+    "crawled_at": "2026-10-20T04:44:22.897379973Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Akamai",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Rakuten Affiliate",
+      "Salesforce Commerce Cloud",
+      "UTF-8",
+      "Unix",
+      "Weebly",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "loccitanecatering.com",
     "title": "L'Occitane Catering – L'Occitane Catering",
     "business_name": "L&#39;Occitane Catering",
@@ -16351,29 +16374,6 @@
       "Yotpo",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "faithandbridge.com",
-    "title": "F comme Femmes - Welcome",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 174123,
-    "crawled_at": "2026-03-22T01:33:32.897592258Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Akamai",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Rakuten Affiliate",
-      "Salesforce Commerce Cloud",
-      "UTF-8",
-      "Unix",
-      "Weebly",
-      "jQuery",
-      "reCAPTCHA"
     ]
   },
   {
