@@ -1,5 +1,59 @@
 [
   {
+    "domain": "napcastapp.com",
+    "title": "Napcast",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 57,
+    "tech_spend": 8000,
+    "crawled_at": "2026-10-19T22:44:25.891737381Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Express",
+      "Fireblade",
+      "NFOrce Internet",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "devcross.link",
+    "title": "DevCross - Enterprise Software Engineering & Consulting",
+    "business_name": "Devcross",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 36340,
+    "crawled_at": "2026-10-19T20:13:05.791982537Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Chakra UI",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "DoubleClick Bid Manager",
+      "Fireblade",
+      "GitHub Hosting",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Next.js",
+      "Oracle Cloud",
+      "PWA",
+      "Pleroma",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "scholarly.africa",
     "title": "Scholarly Africa | Improved Learning, Better Academic Performance",
     "business_name": "",
@@ -13034,49 +13088,6 @@
       "UTF-8",
       "Ubuntu",
       "Way"
-    ]
-  },
-  {
-    "domain": "dp-consult.ro",
-    "title": "Diaconița Auto Consulting - Audit Tehnic Profesional",
-    "business_name": "",
-    "country": "ROU",
-    "seo_score": 67,
-    "tech_spend": 240,
-    "crawled_at": "2026-05-18T16:38:19.968482951Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "European Commission Online Dispute Resolution",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pico CSS",
-      "Pleroma",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "vocha.ai",
-    "title": "Vocha - Speak Fluently in Any Language with AI",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 267,
-    "crawled_at": "2026-05-18T15:23:19.980059266Z",
-    "technologies": [
-      "Chakra UI",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Google My Business",
-      "Netlify",
-      "Next.js",
-      "PWA",
-      "Pleroma",
-      "Sign In With Google",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
