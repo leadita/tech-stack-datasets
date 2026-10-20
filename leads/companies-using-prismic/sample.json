@@ -1,5 +1,50 @@
 [
   {
+    "domain": "patrycjapetryk.com",
+    "title": "Patrycja Petryk Graphic Designer",
+    "business_name": "",
+    "country": "POL",
+    "seo_score": 67,
+    "tech_spend": 408,
+    "crawled_at": "2026-10-20T05:55:15.959017436Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "Netlify",
+      "Next.js",
+      "Pleroma",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "tripmastersoftware.com",
+    "title": "TripMaster | #1 NEMT &Paratransit Dispatch Software",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 42988,
+    "crawled_at": "2026-10-19T21:43:20.380449341Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Contento",
+      "Gatsby JS",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "HubSpot Conversations",
+      "Hubspot",
+      "Netlify",
+      "Prismic",
+      "Styled Components",
+      "UTF-8",
+      "Vector Internet Services",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "latabledelamessardiere.com",
     "title": "Airelles Collection | Luxury Hotels | Palace & 5-Star Properties",
     "business_name": "Airelles",
@@ -5547,36 +5592,6 @@
       "Vercel",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "tripmastersoftware.ai",
-    "title": "TripMaster | Increase On-Time Performance With TripScheduler | Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-07-31T01:19:28.830258688Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Google Analytics",
-      "Google Tag Manager",
-      "HubSpot Conversations",
-      "Hubspot",
-      "LinkedIn Insights",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Next.js",
-      "Perl",
-      "Prismic",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
@@ -13685,32 +13700,6 @@
       "Styled Components",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "crossedwires.live",
-    "title": "Crossed Wires Festival 2026 · 2-5 July · Sheffield, UK",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 67,
-    "tech_spend": 20768,
-    "crawled_at": "2026-04-29T17:10:03.192755698Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DAV",
-      "Instagram Follow Button",
-      "Investor Relations",
-      "KVH",
-      "LottieFiles",
-      "Netlify",
-      "Prismic",
-      "Svelte",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]
