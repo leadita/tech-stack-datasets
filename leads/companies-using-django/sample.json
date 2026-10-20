@@ -1,5 +1,26 @@
 [
   {
+    "domain": "milleriec.com",
+    "title": "Home | Miller Independent Educational Consulting LLC",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2268,
+    "crawled_at": "2026-10-20T12:11:57.574837477Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Perl",
+      "QUIC",
+      "University or College",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "ritorica.com",
     "title": "Business Messaging Platform — SMS, WhatsApp, Viber & OTP | Ritorica",
     "business_name": "Ritorica",
@@ -8742,27 +8763,6 @@
       "Google My Business",
       "Perl",
       "QUIC",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "milleriec.com",
-    "title": "Home | Miller Independent Educational Consulting LLC",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2268,
-    "crawled_at": "2026-03-06T11:55:09.213656837Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "University or College",
       "reCAPTCHA"
     ]
   }
