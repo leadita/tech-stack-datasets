@@ -13225,23 +13225,5 @@
       "University or College",
       "jQuery"
     ]
-  },
-  {
-    "domain": "akordeonbazar.sk",
-    "title": "Akordeóny - predaj a servis",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 156,
-    "crawled_at": "2026-03-07T03:42:37.059764824Z",
-    "technologies": [
-      "Angular",
-      "Apache",
-      "Apache Tomcat JK",
-      "IcoMoon",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
   }
 ]
