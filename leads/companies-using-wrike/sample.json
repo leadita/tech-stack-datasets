@@ -1,5 +1,26 @@
 [
   {
+    "domain": "gks-it-consulting.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 816,
+    "crawled_at": "2026-10-20T09:17:50.452250025Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "Calendly",
+      "CloudFront",
+      "Duda",
+      "GZIP Module",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8",
+      "Wrike"
+    ]
+  },
+  {
     "domain": "oregonquarterly.com",
     "title": "OregonNews | University of Oregon",
     "business_name": "",
@@ -3151,27 +3172,6 @@
       "WordPress Multisite",
       "Wrike",
       "go Theme"
-    ]
-  },
-  {
-    "domain": "gks-it-consulting.com",
-    "title": "Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 816,
-    "crawled_at": "2026-03-06T07:29:32.325713281Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Calendly",
-      "CloudFront",
-      "Duda",
-      "GZIP Module",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "Wrike"
     ]
   }
 ]
