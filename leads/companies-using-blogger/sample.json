@@ -1,5 +1,79 @@
 [
   {
+    "domain": "amaliamelis.com",
+    "title": "Amalia Melis",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 57,
+    "tech_spend": 21060,
+    "crawled_at": "2026-10-20T06:33:29.859036645Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Blogger",
+      "GZIP Module",
+      "Google",
+      "Google Adsense",
+      "Google Cloud CDN",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Ntent",
+      "SMC",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "northwestpacifictherapy.com",
+    "title": "OCD and Anxiety Specialist: Let’s talk about you.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 18600,
+    "crawled_at": "2026-10-19T15:49:58.406859622Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Blogger",
+      "Call to Visit",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Ntent",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "jenniferlopez.one",
+    "title": "JENNIFER LOPEZ AKA JLO",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 6120,
+    "crawled_at": "2026-10-19T14:12:33.042823656Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Blogger",
+      "Coming Soon Page",
+      "Express",
+      "Federal Deposit Insurance Corporation",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Reseller",
+      "Instagram Follow Button",
+      "Ntent",
+      "Subversion",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "emeb.com",
     "title": "Let's get your dream domain name, nowww!",
     "business_name": "",
@@ -366,35 +440,6 @@
       "Google Reseller",
       "Ntent",
       "QUIC",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "georgeforeman.one",
-    "title": "GEORGE FOREMAN THE GRILL OF A COMEBACK CHAMPION",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 17439,
-    "crawled_at": "2026-10-16T13:35:05.93821542Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Blogger",
-      "Coming Soon Page",
-      "DAV",
-      "Express",
-      "Federal Deposit Insurance Corporation",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Reseller",
-      "Instagram Follow Button",
-      "Ntent",
       "UTF-8",
       "YouTube"
     ]
@@ -15747,58 +15792,6 @@
       "YouTube",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "meshpointpkd.com",
-    "title": "Meshpoint And Engineering",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 75,
-    "tech_spend": 17600,
-    "crawled_at": "2026-08-23T11:32:54.242597561Z",
-    "technologies": [
-      "3 Products",
-      "Alternate Protocol",
-      "Blogger",
-      "GZIP Module",
-      "Google",
-      "Google Adsense",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Instagram Follow Button",
-      "Ntent",
-      "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "arifoninvesting.com",
-    "title": "Analisis Saham Value Investing",
-    "business_name": "",
-    "country": "OMN",
-    "seo_score": 72,
-    "tech_spend": 17970,
-    "crawled_at": "2026-08-23T11:32:54.239878815Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Blogger",
-      "Express",
-      "GZIP Module",
-      "Google Adsense",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Reseller",
-      "Instagram Follow Button",
-      "Investing",
-      "Medium",
-      "No-Q",
-      "Ntent",
-      "UTF-8",
-      "Yandex Hosting"
     ]
   }
 ]
