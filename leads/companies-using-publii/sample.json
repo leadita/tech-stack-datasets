@@ -8108,23 +8108,5 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
     ]
-  },
-  {
-    "domain": "naomimost.com",
-    "title": "naomimost.com",
-    "business_name": "naomimost.com",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 49,
-    "crawled_at": "2026-03-07T07:24:27.687811371Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Debian",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
   }
 ]

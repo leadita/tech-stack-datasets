@@ -1,5 +1,43 @@
 [
   {
+    "domain": "mikeswimm.org",
+    "title": "Mike Swimm",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 60,
+    "crawled_at": "2026-10-21T01:55:06.956929037Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Hugo",
+      "Mastodon",
+      "Micro.blog",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "martymcgui.re",
+    "title": "Marty McGuire",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 62,
+    "tech_spend": 4120,
+    "crawled_at": "2026-10-20T21:27:22.882341974Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Cloudinary",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Micro.blog",
+      "Onion Location",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "sushicandy.ca",
     "title": "WormBytes",
     "business_name": "",
@@ -7602,64 +7640,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vultr",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "mikeswimm.org",
-    "title": "Mike Swimm",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 60,
-    "crawled_at": "2026-03-07T09:08:53.174803987Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Hugo",
-      "Mastodon",
-      "Micro.blog",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "martymcgui.re",
-    "title": "Marty McGuire",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 173849,
-    "crawled_at": "2026-03-07T02:09:39.491584857Z",
-    "technologies": [
-      "AAPT",
-      "Alternate Protocol",
-      "Apache",
-      "CCSI",
-      "DAV",
-      "Ethy",
-      "Federal Deposit Insurance Corporation",
-      "Financial Services Guide",
-      "GZIP Module",
-      "GitHub Hosting",
-      "HHVM",
-      "HMDG",
-      "Hexo",
-      "K2F",
-      "KVH",
-      "Micro.blog",
-      "No-Q",
-      "Onion Location",
-      "Onyx Internet",
-      "PHP",
-      "Paessler",
-      "Parallels Plesk Panel",
-      "Perl",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "Zope",
       "shadcn ui"
     ]
   }
