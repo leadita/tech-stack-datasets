@@ -1,5 +1,26 @@
 [
   {
+    "domain": "agrfunds.com",
+    "title": "AGR Fund | Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 546,
+    "crawled_at": "2026-10-21T02:11:09.770065206Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LeadPages",
+      "LiteSpeed",
+      "Ntent",
+      "PHP",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "robynbruno.com",
     "title": "Home - Robyn Bruno - Blog",
     "business_name": "",
@@ -2683,28 +2704,6 @@
       "WordPress Stats",
       "jQuery",
       "jQuery Pin It Button for Images"
-    ]
-  },
-  {
-    "domain": "agrfunds.com",
-    "title": "AGR Fund | Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 546,
-    "crawled_at": "2026-03-07T09:36:43.073670468Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LeadPages",
-      "LiteSpeed",
-      "Ntent",
-      "PHP",
-      "QUIC",
-      "UTF-8"
     ]
   }
 ]
