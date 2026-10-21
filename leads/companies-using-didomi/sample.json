@@ -1,5 +1,31 @@
 [
   {
+    "domain": "richardbruton.com",
+    "title": "Bruton Investment Group | National Bank Financial - Wealth Management",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 238400,
+    "crawled_at": "2026-10-21T11:36:52.533151443Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Analytics",
+      "Adobe Marketing Cloud",
+      "Akamai Global Host",
+      "Alternate Protocol",
+      "Amazon",
+      "Apache",
+      "Content Delivery Network",
+      "Didomi",
+      "Fireblade",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Schema Plugin",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "irisgalerie.com",
     "title": "Iris Galerie | Artistic iris photography",
     "business_name": "Iris Galerie",
@@ -18640,37 +18666,6 @@
       "UTF-8",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "hirecnc.com",
-    "title": "Looking for a job in CNC machining? Start your search now with hireCNC!",
-    "business_name": "hireCNC",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 46699,
-    "crawled_at": "2026-04-08T18:23:19.991822959Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Didomi",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "JOBIQO",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "QUIC",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]
