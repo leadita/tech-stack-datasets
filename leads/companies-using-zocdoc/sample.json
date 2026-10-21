@@ -1,5 +1,38 @@
 [
   {
+    "domain": "boston.dental",
+    "title": "Dental Clinic in Boston, Massachusetts| Dental Designs",
+    "business_name": "Dental Designs Boston",
+    "country": "USA",
+    "seo_score": 92,
+    "tech_spend": 84921,
+    "crawled_at": "2026-10-21T13:59:10.343376507Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "DAV",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "ZocDoc",
+      "eLand"
+    ]
+  },
+  {
     "domain": "essentialfamilymedicine.com",
     "title": "Essential Family Medicine | Personalized Naturopathic Care in Portland, OR",
     "business_name": "",
@@ -20768,43 +20801,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "ZocDoc",
       "eLand"
-    ]
-  },
-  {
-    "domain": "mentologyhealth.com",
-    "title": "Mentology Health Care – Mentology is a supportive community of healthcare providers dedicated to promoting mental wellness and providing resources for individuals experiencing depression and treatment resistant depression, anxiety, PTSD, ADHD, addiction, and other psychiatric disorders. We believe in the power of knowledge, empathy, and connection to foster healing and resilience in the face of mental health challenges.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 21363,
-    "crawled_at": "2026-08-19T11:15:40.366899786Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Elementor",
-      "ElementsKit Elementor",
-      "EmbedPress",
-      "Express",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Hello Elementor",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "PHP",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "ZocDoc",
-      "jQuery"
     ]
   }
 ]
