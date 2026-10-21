@@ -1,5 +1,31 @@
 [
   {
+    "domain": "hounds-teeth.com",
+    "title": "houndsTEETH",
+    "business_name": "",
+    "country": "",
+    "seo_score": 25,
+    "tech_spend": 541,
+    "crawled_at": "2026-10-21T00:08:26.568147999Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "Telegram",
+      "Trello",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "cosmossketcher.com",
     "title": "CosmosSketcher",
     "business_name": "",
@@ -19633,22 +19659,6 @@
       "jQuery",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "clovercatcreations.com",
-    "title": "CloverCat Creations",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": "",
-    "crawled_at": "2026-04-28T18:47:47.441270072Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Perl",
-      "Trello",
-      "YouTube"
     ]
   }
 ]
