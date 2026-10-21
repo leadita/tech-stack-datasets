@@ -1,5 +1,70 @@
 [
   {
+    "domain": "colynb.com",
+    "title": "Home - Colyn Brown (InFront Labs, LLC)",
+    "business_name": "",
+    "country": "",
+    "seo_score": 32,
+    "tech_spend": "",
+    "crawled_at": "2026-10-21T22:02:25.891128611Z",
+    "technologies": [
+      "Calendly",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Gridsome",
+      "Netlify",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "monsonjewelers.com",
+    "title": "Fine Jewelry | Watches | Swarovski Crystals & More | Monson Jewelers",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 52728,
+    "crawled_at": "2026-10-21T17:20:37.718077055Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Express",
+      "Financial Services Guide",
+      "Google My Business",
+      "Gridsome",
+      "Idaq",
+      "Instagram Follow Button",
+      "Netlify",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "Yelp Badge",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "zorinvest.hu",
+    "title": "Zorinvest - Zorinvest",
+    "business_name": "",
+    "country": "HUN",
+    "seo_score": 60,
+    "tech_spend": 20003,
+    "crawled_at": "2026-10-21T02:39:49.509289913Z",
+    "technologies": [
+      "Apache",
+      "DAV",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "K2F",
+      "SMC",
+      "Subversion"
+    ]
+  },
+  {
     "domain": "trianglespeechom.com",
     "title": "Home - TriangleSpeechOM",
     "business_name": "",
@@ -2650,25 +2715,6 @@
       "Sanity",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "colyn.dev",
-    "title": "Home - Colyn Brown (InFront Labs, LLC)",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2026-08-05T08:36:32.883107826Z",
-    "technologies": [
-      "Calendly",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Gridsome",
-      "Netlify",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
     ]
   },
   {
@@ -11866,41 +11912,6 @@
       "Twitter Ads",
       "UTF-8",
       "Vector Internet Services",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "mtgbus.com.au",
-    "title": "Mount Gambier Bus Lines - Mount Gambier Buslines",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 42,
-    "tech_spend": 5000,
-    "crawled_at": "2026-04-03T02:23:19.99599188Z",
-    "technologies": [
-      "Apache",
-      "Google My Business",
-      "Gridsome",
-      "K2F",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "hud223f.loans",
-    "title": "HUD 223(f) Loans",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-04-02T22:02:20.006982066Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Federal Deposit Insurance Corporation",
-      "Gridsome",
-      "QUIC",
-      "Segment",
-      "UTF-8",
       "shadcn ui"
     ]
   }

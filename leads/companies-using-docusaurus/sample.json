@@ -1,5 +1,51 @@
 [
   {
+    "domain": "testify.dev",
+    "title": "Android Testify | Android Testify",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2554,
+    "crawled_at": "2026-10-21T05:50:31.561939187Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Jetpack",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "dothrb.com",
+    "title": "DotHRB",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 1344,
+    "crawled_at": "2026-10-21T05:45:21.213444137Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Docusaurus",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Parallels Plesk Panel",
+      "Perl",
+      "QUIC",
+      "UTF-8",
+      "Vector Internet Services"
+    ]
+  },
+  {
     "domain": "gopromptless.ai",
     "title": "Continuously improve your AI workforce and docs | Promptless Documentation",
     "business_name": "",
@@ -12743,59 +12789,6 @@
       "UTF-8",
       "Vercel",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "drafft.dev",
-    "title": "Plan Your Game | Drafft",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2400,
-    "crawled_at": "2026-04-10T16:17:20.034269929Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Headless UI",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "itch.io",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "tablesprintapps.com",
-    "title": "TableSprint - AI Platform to Build Future-Ready Apps",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 47780,
-    "crawled_at": "2026-04-10T08:50:19.986936342Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "DAV",
-      "Docusaurus",
-      "Google Analytics",
-      "Google Tag Manager",
-      "K2F",
-      "KVH",
-      "No-Q",
-      "Perl",
-      "Product Hunt",
-      "Tailwind CSS",
-      "YouTube"
     ]
   }
 ]
