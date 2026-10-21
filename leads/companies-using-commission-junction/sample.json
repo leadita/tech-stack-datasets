@@ -1,5 +1,24 @@
 [
   {
+    "domain": "dingtimes.com",
+    "title": "Kaiyun·官方网站-网页版登录入口",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 60,
+    "crawled_at": "2026-10-21T03:56:35.974939252Z",
+    "technologies": [
+      "Baidu Ads",
+      "Baidu Cloud",
+      "Commission Junction",
+      "GZIP Module",
+      "Nginx",
+      "UTF-8",
+      "W3layouts",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "aztechtuesday.com",
     "title": "AZ Tech Tuesday — Weekly Tech & Business Happy Hour",
     "business_name": "",
@@ -2984,23 +3003,6 @@
       "WordPress Multisite",
       "WordPress Related Posts",
       "YouTube",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "547355.com",
-    "title": "必威中文官方网站,必威BETWAY足球",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-06-03T12:14:19.968297283Z",
-    "technologies": [
-      "Commission Junction",
-      "GZIP Module",
-      "Nginx",
-      "UTF-8",
-      "W3layouts",
       "jQuery"
     ]
   },
@@ -12905,41 +12907,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "shoutingrocks.com",
-    "title": "Video Production | Shouting Rocks Digital Media",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 87421,
-    "crawled_at": "2026-03-07T19:30:10.804955054Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Commission Junction",
-      "Content Delivery Network",
-      "DAV",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PWA",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "Sentry",
-      "SiteW",
-      "UTF-8",
-      "Vector Internet Services",
-      "WP Booking Calendar",
-      "Wix",
-      "Wix Media",
-      "mlcom"
     ]
   }
 ]
