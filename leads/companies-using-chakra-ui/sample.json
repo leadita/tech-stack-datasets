@@ -1,5 +1,26 @@
 [
   {
+    "domain": "sign-staging.com",
+    "title": "Secure Signatures Online for Free",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 15240,
+    "crawled_at": "2026-10-20T15:16:28.365234211Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "DAV",
+      "Fireblade",
+      "HHVM",
+      "Next.js",
+      "QUIC",
+      "UTF-8",
+      "Unix",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "napcastapp.com",
     "title": "Napcast",
     "business_name": "",
@@ -855,27 +876,6 @@
       "University or College",
       "Vercel",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "sign.com",
-    "title": "Secure Signatures Online for Free",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 15240,
-    "crawled_at": "2026-10-12T14:02:11.971333902Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "DAV",
-      "Fireblade",
-      "HHVM",
-      "Next.js",
-      "QUIC",
-      "UTF-8",
-      "Unix",
-      "Vercel"
     ]
   },
   {
