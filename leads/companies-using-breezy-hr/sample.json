@@ -1,5 +1,35 @@
 [
   {
+    "domain": "theatvantage.com",
+    "title": "ATvantage Athletic Training | Staffing & Job Opportunities",
+    "business_name": "ATvantage LLC",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 94497,
+    "crawled_at": "2026-10-20T21:23:53.893899554Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Breezy HR",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "accpl.co",
     "title": "Accomplice",
     "business_name": "Accomplice",
@@ -10266,39 +10296,6 @@
       "YouTube",
       "Zope",
       "accessiBe"
-    ]
-  },
-  {
-    "domain": "opportune.at",
-    "title": "ATvantage Athletic Training | Staffing & Job Opportunities",
-    "business_name": "ATvantage LLC",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 96937,
-    "crawled_at": "2026-05-03T06:38:20.001338147Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Breezy HR",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   },
   {
