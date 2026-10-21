@@ -1,5 +1,57 @@
 [
   {
+    "domain": "remembersarahslack.com",
+    "title": "Remember Sarah Slack – Memorial site to celebrate the life of Sarah Slack",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 1200,
+    "crawled_at": "2026-10-21T07:54:55.113852018Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Automattic",
+      "CoBlocks",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "Nginx",
+      "Perl",
+      "Slack",
+      "UTF-8",
+      "Vector Internet Services",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats"
+    ]
+  },
+  {
+    "domain": "10-sec.org",
+    "title": "Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 25421,
+    "crawled_at": "2026-10-21T01:20:11.334381707Z",
+    "technologies": [
+      "Aruba",
+      "Corporate Governance and Regulatory Compliance",
+      "Express",
+      "GZIP Module",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Slack",
+      "Squarespace",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "trench.dev",
     "title": "Trench | Open Source Analytics Infrastructure",
     "business_name": "",
@@ -700,32 +752,6 @@
       "Twitter Ads",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "10sec.org",
-    "title": "Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 78373,
-    "crawled_at": "2026-10-18T03:47:38.124228169Z",
-    "technologies": [
-      "Aruba",
-      "Corporate Governance and Regulatory Compliance",
-      "Express",
-      "GZIP Module",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Slack",
-      "Squarespace",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   },
   {
@@ -18800,34 +18826,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "querybook.org",
-    "title": "Querybook",
-    "business_name": "",
-    "country": "UGA",
-    "seo_score": 60,
-    "tech_spend": 726,
-    "crawled_at": "2026-08-22T09:36:37.633850672Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Buttons Official",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Oracle Cloud",
-      "Perl",
-      "QUIC",
-      "Slack",
-      "Tailwind CSS"
     ]
   }
 ]
