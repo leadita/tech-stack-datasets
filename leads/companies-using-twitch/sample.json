@@ -1,5 +1,25 @@
 [
   {
+    "domain": "televallo.eu",
+    "title": "televallo",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 50,
+    "tech_spend": 159,
+    "crawled_at": "2026-10-21T04:42:03.738878427Z",
+    "technologies": [
+      "Azion",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Nginx",
+      "Twitch",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "templers.ru",
     "title": "Templers - Interlude",
     "business_name": "",
@@ -23442,31 +23462,6 @@
       "Twitch",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "aimeti.store",
-    "title": "@aimeti | Deezer, Spotify | Beacons",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 244,
-    "crawled_at": "2026-05-18T08:22:32.968030564Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Beacons",
-      "GZIP Module",
-      "Google Cloud",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "PWA",
-      "Subversion",
-      "Twitch",
-      "Twitter Ads",
-      "UTF-8",
-      "Unsplash",
-      "YouTube"
     ]
   }
 ]
