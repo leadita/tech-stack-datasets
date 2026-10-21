@@ -2922,44 +2922,5 @@
       "jQuery Pin It Button for Images",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "413realestate.com",
-    "title": "413 Real Estate – Berkshire County, MA Homes",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 8299,
-    "crawled_at": "2026-03-07T18:21:48.969853279Z",
-    "technologies": [
-      "Amazon S3 CDN",
-      "Bulma",
-      "CoreUI",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Homes.com CMS",
-      "Instagram Follow Button",
-      "KVH",
-      "Microdata for Google Shopping",
-      "Neighborhoods",
-      "New Relic",
-      "PropertyBase",
-      "QUIC",
-      "Storyblocks",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "jQuery Pin It Button for Images",
-      "reCAPTCHA",
-      "shadcn ui"
-    ]
   }
 ]
