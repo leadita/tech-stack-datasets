@@ -1,5 +1,36 @@
 [
   {
+    "domain": "mercercreek.org",
+    "title": "Homepage | Mercer Creek Church",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 74842,
+    "crawled_at": "2026-10-21T02:11:09.769528989Z",
+    "technologies": [
+      "Amazon",
+      "Amazon API Gateway",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "Create React App",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "KVH",
+      "Line2",
+      "Pleroma",
+      "SMC",
+      "Storyblocks",
+      "Styled Components",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "bfguideservice.com",
     "title": "Miami Fishing Charters | Lakes, Flats & Backcountry Trips",
     "business_name": "BF Guide Service ",
@@ -17947,37 +17978,6 @@
       "Stripe",
       "Tailwind CSS",
       "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "freedomchurchlake.com",
-    "title": "Homepage | Freedom Church - Indian Lake",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 24842,
-    "crawled_at": "2026-05-03T15:02:19.981947623Z",
-    "technologies": [
-      "Amazon",
-      "Amazon API Gateway",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "Create React App",
-      "Express",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "HMDG",
-      "Instagram Follow Button",
-      "Line2",
-      "Pleroma",
-      "Storyblocks",
-      "Styled Components",
       "YouTube"
     ]
   }
