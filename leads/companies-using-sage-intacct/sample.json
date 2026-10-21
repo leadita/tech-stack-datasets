@@ -1,5 +1,29 @@
 [
   {
+    "domain": "endex.ai",
+    "title": "Endex — AI agents for office work",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 87,
+    "tech_spend": 196277,
+    "crawled_at": "2026-10-20T22:49:35.215868287Z",
+    "technologies": [
+      "Cloudflare",
+      "Content Delivery Network",
+      "Cybot",
+      "Oracle Cloud",
+      "PagerDuty",
+      "QUIC",
+      "Sage Intacct",
+      "Salesforce Hosted",
+      "The Deck",
+      "UTF-8",
+      "Vercel",
+      "monday.com",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "eskesconsulting.com",
     "title": "Finance and Accounting Consulting - Eskes Consulting",
     "business_name": "Eskes Consulting",

@@ -1,5 +1,60 @@
 [
   {
+    "domain": "twk-cpafirm.com",
+    "title": "Home | Terranova Williams Klein CPAs, LLC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 20940,
+    "crawled_at": "2026-10-20T17:52:10.070970473Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "RM Education",
+      "Tailwind CSS",
+      "UTF-8",
+      "Zoom Video Conferencing",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "mkpcpa.com",
+    "title": "Home | McKeown Kraai Professional, CPAs",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 13340,
+    "crawled_at": "2026-10-20T11:08:42.474668408Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "Zoom Video Conferencing",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "redifyconsulting.com",
     "title": "Redify Consulting",
     "business_name": "",
@@ -10325,55 +10380,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "twk-cpafirm.com",
-    "title": "Home | Terranova Williams Klein CPAs, LLC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 19740,
-    "crawled_at": "2026-03-06T20:36:07.036376669Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "RM Education",
-      "Tailwind CSS",
-      "UTF-8",
-      "Zoom Video Conferencing"
-    ]
-  },
-  {
-    "domain": "mkpcpa.com",
-    "title": "Home | McKeown Kraai Professional, CPAs",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 12140,
-    "crawled_at": "2026-03-06T10:17:31.045616307Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "Zoom Video Conferencing"
     ]
   }
 ]
