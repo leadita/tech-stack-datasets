@@ -8887,43 +8887,5 @@
       "Vercel",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "noroozclinic.com",
-    "title": "Affordable Therapy in Orange County | Norooz Clinic",
-    "business_name": "Norooz Clinic",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 3421,
-    "crawled_at": "2026-03-06T18:53:34.45475946Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Astra Theme",
-      "Dialogflow",
-      "DuracellTomi Google Tag Manager for WordPress",
-      "Elementor",
-      "EmbedPress",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Forms",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "YouTube",
-      "jQuery"
-    ]
   }
 ]
