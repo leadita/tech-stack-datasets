@@ -1,5 +1,49 @@
 [
   {
+    "domain": "altacapitalpartners.com",
+    "title": "Home - Alta capital partners",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 3868,
+    "crawled_at": "2026-10-22T18:31:09.403041249Z",
+    "technologies": [
+      "DAV",
+      "Financial Industry Regulatory Authority",
+      "Financial Services Guide",
+      "Google My Business",
+      "Gridsome",
+      "HostGator",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Netlify",
+      "Parallels Plesk Panel",
+      "Tailwind CSS",
+      "Visual Studio"
+    ]
+  },
+  {
+    "domain": "timhurley.net",
+    "title": "Tim Hurley | Designer + Engineer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 228,
+    "crawled_at": "2026-10-22T14:33:09.876114495Z",
+    "technologies": [
+      "Astro",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Gridsome",
+      "Mastodon",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "colynb.com",
     "title": "Home - Colyn Brown (InFront Labs, LLC)",
     "business_name": "",
@@ -685,27 +729,6 @@
       "Netlify",
       "PWA",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "timh.link",
-    "title": "Tim Hurley | Designer + Engineer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 228,
-    "crawled_at": "2026-10-05T21:47:47.248269042Z",
-    "technologies": [
-      "Astro",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Gridsome",
-      "Mastodon",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Tailwind CSS"
     ]
   },
   {
@@ -11888,30 +11911,6 @@
       "University or College",
       "Unsplash",
       "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "practice.inc",
-    "title": "Practice",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 6416,
-    "crawled_at": "2026-04-03T18:08:40.5742486Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Angular",
-      "Content Delivery Network",
-      "Gridsome",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "Netlify",
-      "Sanity",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
       "shadcn ui"
     ]
   }
