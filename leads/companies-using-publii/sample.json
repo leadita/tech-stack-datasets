@@ -1,5 +1,22 @@
 [
   {
+    "domain": "fayact.org",
+    "title": "Fayette Accountability",
+    "business_name": "Fayette Accountability",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 49,
+    "crawled_at": "2026-10-21T17:20:37.719467279Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "mariedunnechf.com",
     "title": "Homepage",
     "business_name": "",
@@ -8087,23 +8104,6 @@
       "Mermaid",
       "Microdata for Google Shopping",
       "Nginx",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "fayact.org",
-    "title": "Fayette Accountability",
-    "business_name": "Fayette Accountability",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 377,
-    "crawled_at": "2026-03-08T08:24:25.923659876Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Microdata for Google Shopping",
-      "Netlify",
       "Publii",
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"

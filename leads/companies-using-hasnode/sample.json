@@ -11490,46 +11490,5 @@
       "jsDelivr",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "skillainest.com",
-    "title": "Skillainest - Learn, Grow & Earn with Expert Online Skill Courses",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 82,
-    "tech_spend": 145921,
-    "crawled_at": "2026-03-09T10:12:28.360117635Z",
-    "technologies": [
-      "Agoda",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Format",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Graphy",
-      "Hasnode",
-      "Kore.ai",
-      "Line2",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PHP",
-      "Python",
-      "QUIC",
-      "QUIC.cloud",
-      "Sitelinks Search Box",
-      "Soledad",
-      "Tailwind CSS",
-      "UTF-8",
-      "WPForms",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "bbPress"
-    ]
   }
 ]
