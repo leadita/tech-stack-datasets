@@ -1,5 +1,24 @@
 [
   {
+    "domain": "primelender.net",
+    "title": "Digital Real Estate Specialist",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 36,
+    "crawled_at": "2026-10-21T19:14:24.032396096Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "mamba24.org",
     "title": "Welcome to Mamba24.com",
     "business_name": "",
@@ -137,25 +156,6 @@
       "GZIP Module",
       "Microdata for Google Shopping",
       "Prospective",
-      "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "whoswhoinmedicine.com",
-    "title": "Digital Real Estate Specialist",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 36,
-    "crawled_at": "2026-10-02T06:36:33.722647561Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Microdata for Google Shopping",
       "QUIC",
       "UTF-8"
     ]
