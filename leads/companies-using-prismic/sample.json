@@ -1,12 +1,12 @@
 [
   {
-    "domain": "facileavivre.ca",
+    "domain": "monrdl.ca",
     "title": "Self guided tour builder | MySmartJourney",
     "business_name": "",
     "country": "CAN",
     "seo_score": 77,
     "tech_spend": 16508,
-    "crawled_at": "2026-10-21T04:57:21.752006118Z",
+    "crawled_at": "2026-10-22T15:53:47.41266547Z",
     "technologies": [
       "Alternate Protocol",
       "Apture Linking Platform",
@@ -33,6 +33,59 @@
     ]
   },
   {
+    "domain": "smartnessinteractive.com",
+    "title": "Smartness | Revolutionize your hotel and vacation rental management",
+    "business_name": "Smartness",
+    "country": "ITA",
+    "seo_score": 77,
+    "tech_spend": 1956,
+    "crawled_at": "2026-10-22T11:08:25.896733206Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Booking Affiliate",
+      "Content Delivery Network",
+      "Instagram Follow Button",
+      "Little Hotelier",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Nuxt.js",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "kelvynboy.com",
+    "title": "Sharetribe - Marketplace Software for Founders",
+    "business_name": "Sharetribe",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 2528,
+    "crawled_at": "2026-10-21T20:54:18.189361457Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Adult Content",
+      "Alternate Protocol",
+      "Amazon Widgets",
+      "Content Delivery Network",
+      "Investor Relations",
+      "Medium",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "PHP",
+      "Perl",
+      "Prismic",
+      "QUIC",
+      "Sharetribe",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "sistema-stm.com",
     "title": "Sistema | Peace Love Dance",
     "business_name": "",
@@ -55,30 +108,6 @@
       "Prismic",
       "Tailwind CSS",
       "Tally",
-      "UTF-8",
-      "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "smartnessnetworking.com",
-    "title": "Smartness | Revolutionize your hotel and vacation rental management",
-    "business_name": "Smartness",
-    "country": "ITA",
-    "seo_score": 77,
-    "tech_spend": 1956,
-    "crawled_at": "2026-10-20T18:53:25.897093108Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Booking Affiliate",
-      "Content Delivery Network",
-      "Instagram Follow Button",
-      "Little Hotelier",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Nuxt.js",
-      "Prismic",
-      "Tailwind CSS",
       "UTF-8",
       "YouTube",
       "shadcn ui"
@@ -182,35 +211,6 @@
       "Salesforce Hosted",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "kantamanto.com",
-    "title": "Sharetribe - Marketplace Software for Founders",
-    "business_name": "Sharetribe",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 2528,
-    "crawled_at": "2026-10-18T13:13:12.569734981Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Adult Content",
-      "Alternate Protocol",
-      "Amazon Widgets",
-      "Content Delivery Network",
-      "Investor Relations",
-      "Medium",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "PHP",
-      "Perl",
-      "Prismic",
-      "QUIC",
-      "Sharetribe",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "YouTube"
     ]
   },
   {
