@@ -1,5 +1,33 @@
 [
   {
+    "domain": "thearchival.one",
+    "title": "thearchival.one",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 5,
+    "crawled_at": "2026-10-21T19:05:28.799614171Z",
+    "technologies": [
+      "Bitwarden Passwordless",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Hexo",
+      "Microdata for Google Shopping",
+      "PHP",
+      "PWA",
+      "Perl",
+      "Schema Plugin",
+      "Twitter Ads",
+      "UTF-8",
+      "Unix",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "zokibodycare.com",
     "title": "Zoki Body Care: Unveil Youthful Radiance with Anti-Aging Body Lotion",
     "business_name": "",
@@ -18896,35 +18924,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "frostforge.org",
-    "title": "Frostcord - Your own chat server",
-    "business_name": "Frostforge",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 56736,
-    "crawled_at": "2026-04-05T21:50:19.986302124Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon WAF Blocked",
-      "Bitwarden Passwordless",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Coming Soon Page",
-      "Express",
-      "Fireblade",
-      "K2F",
-      "Line2",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Next.js",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
