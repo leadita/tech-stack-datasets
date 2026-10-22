@@ -1,5 +1,27 @@
 [
   {
+    "domain": "4nshuman.me",
+    "title": "Anshuman Tripathi - Homepage",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 82,
+    "tech_spend": 7440,
+    "crawled_at": "2026-10-22T08:38:17.995876399Z",
+    "technologies": [
+      "Chakra UI",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Next.js",
+      "Pleroma",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "sign-staging.com",
     "title": "Secure Signatures Online for Free",
     "business_name": "",
@@ -13064,30 +13086,6 @@
       "Netlify",
       "Next.js",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "wellnesswealthway.com",
-    "title": "WELLNESSWEALTHWAY - Online courses",
-    "business_name": "",
-    "country": "SYC",
-    "seo_score": 65,
-    "tech_spend": 16500,
-    "crawled_at": "2026-05-18T18:29:20.008349025Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Chakra UI",
-      "GZIP Module",
-      "Laravel Livewire",
-      "NFOrce Internet",
-      "Nginx",
-      "Pico CSS",
-      "QUIC",
-      "Stripe",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "Way"
     ]
   }
 ]
