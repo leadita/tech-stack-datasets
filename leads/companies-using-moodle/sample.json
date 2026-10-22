@@ -1,5 +1,29 @@
 [
   {
+    "domain": "appcradle.dev",
+    "title": "Welcome to the moodle of appCradle!",
+    "business_name": "",
+    "country": "BEL",
+    "seo_score": 72,
+    "tech_spend": 31900,
+    "crawled_at": "2026-10-22T03:28:40.406842999Z",
+    "technologies": [
+      "Angular",
+      "Apache",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fastly",
+      "GZIP Module",
+      "LMS Ace",
+      "Moodle",
+      "NFOrce Internet",
+      "PHP",
+      "Totara",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "elearning.nbs.de",
     "title": "Log in to the site | eLearning@NBS",
     "business_name": "",
@@ -1132,30 +1156,6 @@
       "UTF-8",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "appcradle.dev",
-    "title": "Welcome to the moodle of appCradle!",
-    "business_name": "",
-    "country": "BEL",
-    "seo_score": 72,
-    "tech_spend": 31900,
-    "crawled_at": "2026-03-09T00:22:44.249162973Z",
-    "technologies": [
-      "Angular",
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fastly",
-      "GZIP Module",
-      "LMS Ace",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "Totara",
-      "UTF-8"
     ]
   }
 ]
