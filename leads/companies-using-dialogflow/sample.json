@@ -8861,31 +8861,5 @@
       "jsDelivr",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "ash-ai.com",
-    "title": "Ash AI: Intelligent Automation & AI Chatbot Solutions in Egypt",
-    "business_name": "Ash AI",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2880,
-    "crawled_at": "2026-03-08T00:08:53.234214055Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "Content Delivery Network",
-      "Dialogflow",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
   }
 ]
