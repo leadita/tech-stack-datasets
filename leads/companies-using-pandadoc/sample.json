@@ -2767,40 +2767,5 @@
       "YouTube",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "thislandus.com",
-    "title": "THIS LAND",
-    "business_name": "THIS LAND ",
-    "country": "ZAF",
-    "seo_score": 77,
-    "tech_spend": 20141,
-    "crawled_at": "2026-03-09T15:58:44.05130605Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Adult Content",
-      "Amazon S3 CDN",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "PandaDoc",
-      "Parcel",
-      "QUIC",
-      "Squarespace",
-      "Storyblocks",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vimeo",
-      "Vimeo CDN",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
-    ]
   }
 ]
