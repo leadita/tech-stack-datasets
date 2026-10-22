@@ -1,5 +1,20 @@
 [
   {
+    "domain": "priverv.dk",
+    "title": "Vi skaber og driver internetvirksomheder ⁃ Priverv",
+    "business_name": "",
+    "country": "DNK",
+    "seo_score": 67,
+    "tech_spend": 360,
+    "crawled_at": "2026-10-21T23:23:05.155982688Z",
+    "technologies": [
+      "Apache",
+      "Better Stack",
+      "LinkedIn Insights",
+      "LinkedIn Pixel"
+    ]
+  },
+  {
     "domain": "mekes.com",
     "title": "Home | Mekes Graphic Machinery",
     "business_name": "",
@@ -3791,21 +3806,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "priverv.eu",
-    "title": "Vi skaber målbar værdi ⁃ Priverv",
-    "business_name": "",
-    "country": "DNK",
-    "seo_score": 67,
-    "tech_spend": 360,
-    "crawled_at": "2026-04-22T22:35:20.033181933Z",
-    "technologies": [
-      "Apache",
-      "Better Stack",
-      "LinkedIn Insights",
-      "LinkedIn Pixel"
     ]
   },
   {
