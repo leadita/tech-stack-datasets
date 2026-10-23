@@ -22728,29 +22728,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "cbhdamembers.org",
-    "title": "Log In ‹ CBHDA Members — WordPress",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 7623,
-    "crawled_at": "2026-03-11T07:09:19.219233455Z",
-    "technologies": [
-      "All-in-One Event Calendar for WordPress",
-      "Amazon WAF Blocked",
-      "Anti-spam for WordPress",
-      "Apache",
-      "CleanTalk Spam Protect",
-      "EmbedPress",
-      "Fireblade",
-      "GZIP Module",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "Wordfence",
-      "jQuery"
-    ]
   }
 ]
