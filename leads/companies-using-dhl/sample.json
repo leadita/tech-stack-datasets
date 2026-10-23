@@ -1,5 +1,42 @@
 [
   {
+    "domain": "mcoexpress.org",
+    "title": "Trucking | Mcoexpress.com | Orlando,FL",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 35696,
+    "crawled_at": "2026-10-23T21:32:52.809686234Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Better Lead Generation Services",
+      "Cloudflare",
+      "Content Delivery Network",
+      "DHL Parcel",
+      "Express",
+      "FedEx",
+      "GZIP Module",
+      "K2F",
+      "KVH",
+      "NFOrce Internet",
+      "PWA",
+      "QUIC",
+      "SMC",
+      "Seflow Italy",
+      "Sentry",
+      "SiteW",
+      "Subversion",
+      "UPS",
+      "UTF-8",
+      "Vector Internet Services",
+      "Wix",
+      "Wix Media",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "koshersupplements.com",
     "title": "Kosher Supplements & Premium Vitamins Online",
     "business_name": "KosherSupplements.com",
@@ -18979,30 +19016,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "pickupkorea.co.kr",
-    "title": "Pickup Korea",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 63,
-    "crawled_at": "2026-04-10T03:53:20.002407768Z",
-    "technologies": [
-      "Astro",
-      "DHL Parcel",
-      "Express",
-      "FedEx",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "QUIC",
-      "Tailwind CSS",
-      "UPS",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
