@@ -1,5 +1,25 @@
 [
   {
+    "domain": "islandtimemedical.com",
+    "title": "Bald Head Island Medical | Island Time Medical and Wellness",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 708,
+    "crawled_at": "2026-10-22T17:20:32.856433358Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Perl",
+      "QUIC",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "milleriec.com",
     "title": "Home | Miller Independent Educational Consulting LLC",
     "business_name": "",
@@ -8683,87 +8703,6 @@
       "Google My Business",
       "QUIC",
       "Yelp Badge"
-    ]
-  },
-  {
-    "domain": "ties.co.tz",
-    "title": "Tanzania Integrated Engineering Solutions | TIES | Mining Consultancy",
-    "business_name": "TIES - Tanzania Integrated Engineering Solutions",
-    "country": "TZA",
-    "seo_score": 77,
-    "tech_spend": 15139,
-    "crawled_at": "2026-03-10T23:52:06.452140004Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Django",
-      "ElementUI",
-      "Fireblade",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Material Design Icons",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "UTF-8",
-      "YouTube",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "techneighbors.com",
-    "title": "Business and Residential IT Support - Techneighbors Texas",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 1339,
-    "crawled_at": "2026-03-10T16:36:18.893918598Z",
-    "technologies": [
-      "Apache",
-      "B12",
-      "Coming Soon Page",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Investor Relations",
-      "Line2",
-      "Perl",
-      "QUIC",
-      "Spiceworks",
-      "Twitter Ads",
-      "University or College"
-    ]
-  },
-  {
-    "domain": "islandtimemedical.com",
-    "title": "Bald Head Island Medical | Island Time Medical and Wellness",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 708,
-    "crawled_at": "2026-03-09T22:11:56.70968319Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
     ]
   }
 ]
