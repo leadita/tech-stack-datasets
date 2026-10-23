@@ -1,5 +1,62 @@
 [
   {
+    "domain": "fourleafgaming.com",
+    "title": "Home | Four Leaf Gaming",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 15540,
+    "crawled_at": "2026-10-23T07:09:40.646994721Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fireblade",
+      "Gambling Content",
+      "Nuxt.js",
+      "Perl",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "johnkegd.com",
+    "title": "John Garcia Duran's Portfolio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 120408,
+    "crawled_at": "2026-10-23T02:44:58.925708346Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fireblade",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Calendar",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Next.js",
+      "Pico CSS",
+      "Pleroma",
+      "Prismic",
+      "SMC",
+      "Svelte",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vignette OpenText"
+    ]
+  },
+  {
     "domain": "monrdl.ca",
     "title": "Self guided tour builder | MySmartJourney",
     "business_name": "",
@@ -13667,46 +13724,6 @@
       "Tailwind CSS",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "burdocksolutions.com",
-    "title": "McTabb - Total ordering solutions",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 220,
-    "crawled_at": "2026-04-30T07:20:59.903490005Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Apache",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nuxt.js",
-      "Perl",
-      "Prismic",
-      "QUIC",
-      "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "wonderyrilet.com",
-    "title": "Wonder y Rilet",
-    "business_name": "",
-    "country": "ESP",
-    "seo_score": 35,
-    "tech_spend": "",
-    "crawled_at": "2026-04-30T05:26:20.034258878Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Instagram Follow Button",
-      "Nuxt.js",
-      "Prismic",
-      "UTF-8",
-      "Vercel",
-      "YouTube"
     ]
   }
 ]
