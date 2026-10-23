@@ -1,5 +1,32 @@
 [
   {
+    "domain": "duanphimngancj.cgv.vn",
+    "title": "Dự án phim ngắn CJ",
+    "business_name": "",
+    "country": "THA",
+    "seo_score": 77,
+    "tech_spend": 7400,
+    "crawled_at": "2026-10-22T21:46:56.671868374Z",
+    "technologies": [
+      "Commission Junction",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Fastly",
+      "LiteSpeed",
+      "PHP",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "YouTube",
+      "jQuery",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "global-pfa.com",
     "title": "Prometheus Financial Advisory | PFA.co.il",
     "business_name": "",
@@ -12829,28 +12856,6 @@
       "QUIC",
       "The Fresh",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "duanphimngancj.cgv.vn",
-    "title": "Dự án phim ngắn CJ",
-    "business_name": "",
-    "country": "THA",
-    "seo_score": 72,
-    "tech_spend": 7400,
-    "crawled_at": "2026-03-10T04:32:40.370385231Z",
-    "technologies": [
-      "Commission Junction",
-      "Fastly",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "YouTube",
-      "jQuery",
-      "shadcn ui"
     ]
   }
 ]

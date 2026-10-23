@@ -12122,41 +12122,5 @@
       "University or College",
       "Unsplash"
     ]
-  },
-  {
-    "domain": "partneralliance.net",
-    "title": "HOME | Higage",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 114204,
-    "crawled_at": "2026-03-10T16:17:51.695618507Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "Fireblade",
-      "FormSubmit",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PWA",
-      "PartnerStack",
-      "Pico CSS",
-      "QUIC",
-      "SMC",
-      "Sentry",
-      "SiteW",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "eLand",
-      "mlcom"
-    ]
   }
 ]
