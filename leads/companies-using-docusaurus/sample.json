@@ -1,5 +1,59 @@
 [
   {
+    "domain": "cwcloud.tech",
+    "title": "Home | CWCloud",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 67,
+    "tech_spend": 192,
+    "crawled_at": "2026-10-23T03:49:44.653611253Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Calendly",
+      "Cloudflare",
+      "Docusaurus",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Nginx",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "bpbettermessages.com",
+    "title": "Realtime private messaging system for WordPress",
+    "business_name": "WordPlus",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 40678,
+    "crawled_at": "2026-10-22T23:42:51.326864577Z",
+    "technologies": [
+      "AAPT",
+      "Alibaba Cloud CDN",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Content Delivery Network",
+      "DAV",
+      "Docusaurus",
+      "Google Analytics",
+      "Google Tag Manager",
+      "KVH",
+      "Nginx",
+      "No-Q",
+      "PHP",
+      "Perl",
+      "Python",
+      "QUIC",
+      "Sitelinks Search Box",
+      "UptimeRobot",
+      "Zope"
+    ]
+  },
+  {
     "domain": "nomankhaliq.dev",
     "title": "Noman Khaliq | Full-Stack Web Engineer",
     "business_name": "",
@@ -2435,33 +2489,6 @@
     ]
   },
   {
-    "domain": "better-messages.com",
-    "title": "Realtime private messaging system for WordPress",
-    "business_name": "WordPlus",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 15636,
-    "crawled_at": "2026-08-18T03:42:29.722783856Z",
-    "technologies": [
-      "Alibaba Cloud CDN",
-      "Alternate Protocol",
-      "BuddyBoss",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fireblade",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Nginx",
-      "PHP",
-      "Perl",
-      "Python",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "UptimeRobot"
-    ]
-  },
-  {
     "domain": "vanceism7.us",
     "title": "Vance Palacio | My Site",
     "business_name": "",
@@ -3963,30 +3990,6 @@
       "Twitter Ads",
       "UTF-8",
       "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "cwcloud.tn",
-    "title": "Home | CWCloud",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 67,
-    "tech_spend": 192,
-    "crawled_at": "2026-05-23T17:17:19.986950441Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Calendly",
-      "Cloudflare",
-      "Docusaurus",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Nginx",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "YouTube",
       "shadcn ui"
     ]
   },
