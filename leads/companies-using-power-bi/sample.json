@@ -1,5 +1,32 @@
 [
   {
+    "domain": "thinkpro.mn",
+    "title": "ThinkProLLC",
+    "business_name": "ThinkProLLC",
+    "country": "MNG",
+    "seo_score": 70,
+    "tech_spend": 2680,
+    "crawled_at": "2026-10-23T04:34:58.297121957Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Power BI",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "edepcion.com",
     "title": "Marlon Edepcion Portfolio",
     "business_name": "",
@@ -19052,45 +19079,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "ideationsbyhari.com",
-    "title": "Harikumar R | Sr. Business Analyst · Product Owner · Digital Transformation",
-    "business_name": "",
-    "country": "THA",
-    "seo_score": 65,
-    "tech_spend": 305216,
-    "crawled_at": "2026-04-11T23:35:20.014686718Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Cornerstone",
-      "Disqus Comment System for WordPress",
-      "Fastly",
-      "Formspree",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "InitiativeS",
-      "Oracle Cloud",
-      "Otter Text",
-      "Power BI",
-      "Python",
-      "QUIC",
-      "Salesforce",
-      "Salesforce Experience Cloud",
-      "Salesforce Hosted",
-      "UTF-8",
-      "University or College",
-      "Unix",
-      "Vector Internet Services"
     ]
   }
 ]

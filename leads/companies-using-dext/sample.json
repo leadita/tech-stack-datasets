@@ -5613,42 +5613,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "emeraldext.com",
-    "title": "Emerald Exteriors - Roofing Services based in Albert Lea, MN",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 77,
-    "tech_spend": 39270,
-    "crawled_at": "2026-03-10T22:40:52.557399325Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Amazon CloudFront",
-      "Amazon S3 CDN",
-      "Better Lead Generation Services",
-      "CloudFront",
-      "Dext",
-      "ElementUI",
-      "Fireblade",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "KVH",
-      "No-Q",
-      "Parcel",
-      "QUIC",
-      "Segment",
-      "Segment Consent Manager",
-      "Site.pro",
-      "Storyblocks",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr",
-      "reCAPTCHA",
-      "shadcn ui"
-    ]
   }
 ]
