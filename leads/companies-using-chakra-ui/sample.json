@@ -1,5 +1,50 @@
 [
   {
+    "domain": "carbontracker.info",
+    "title": "Carbontracker",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 17400,
+    "crawled_at": "2026-10-22T22:48:23.390497632Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Google Retail Product Discovery",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "icdrc.in",
+    "title": "ICDRC-One Stop Solution For Insurance Claim Dispute",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": "",
+    "crawled_at": "2026-10-22T18:19:41.859015942Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Next.js",
+      "Nginx",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "4nshuman.me",
     "title": "Anshuman Tripathi - Homepage",
     "business_name": "",
@@ -13027,65 +13072,6 @@
       "UTF-8",
       "University or College",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "ustozim.uz",
-    "title": "Ustozim — Learn English with AI | Speaking Practice, Courses, Books",
-    "business_name": "Ustozim",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 31500,
-    "crawled_at": "2026-05-18T19:59:19.98774058Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "App Store",
-      "Chakra UI",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Express",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Fireblade",
-      "Google My Business",
-      "Google Play",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Next.js",
-      "PWA",
-      "Perl",
-      "Pleroma",
-      "Telegram",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "lyst-it.com",
-    "title": "Home - Lyst-IT",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": "",
-    "crawled_at": "2026-05-18T19:29:19.993111961Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Adult Content",
-      "Angular",
-      "Chakra UI",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Netlify",
-      "Next.js",
-      "UTF-8"
     ]
   }
 ]
