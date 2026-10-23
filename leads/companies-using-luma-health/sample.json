@@ -1,5 +1,33 @@
 [
   {
+    "domain": "andrewgpattonmd.com",
+    "title": "Andrew G. Patton, MD",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 112373,
+    "crawled_at": "2026-10-23T09:46:58.048112628Z",
+    "technologies": [
+      "Amazon",
+      "Aruba",
+      "Contento",
+      "Express",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Line2",
+      "Luma Health",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "albemarleeye.com",
     "title": "Advanced Eye Surgery Center | Albemarle Eye Care Surgery Center, NC",
     "business_name": "Albemarle Eye Center",
@@ -726,36 +754,6 @@
       "Wix Media",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "andrewgpattonmd.com",
-    "title": "Andrew G. Patton, MD",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 80,
-    "tech_spend": 112413,
-    "crawled_at": "2026-03-10T22:19:35.858259927Z",
-    "technologies": [
-      "Aruba",
-      "Contento",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Luma Health",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "eLand"
     ]
   }
 ]
