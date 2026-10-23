@@ -1,5 +1,31 @@
 [
   {
+    "domain": "zyto.pro",
+    "title": "Log in - ZYTO PRO",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 7983,
+    "crawled_at": "2026-10-23T04:00:27.113873872Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "BetterMode",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "DAV",
+      "ElementUI",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Imgix",
+      "PWA",
+      "QUIC",
+      "Tailwind CSS",
+      "Tribe.so",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "canadianswimschools.ca",
     "title": "Canada's Swim School Network | Educate | Connect | Inspire",
     "business_name": "",
@@ -1905,31 +1931,6 @@
       "Typeform",
       "Vector Internet Services",
       "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "zyto.pro",
-    "title": "Log in - ZYTO PRO",
-    "business_name": "",
-    "country": "",
-    "seo_score": 27,
-    "tech_spend": 7983,
-    "crawled_at": "2026-03-10T13:44:44.259138927Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "BetterMode",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "ElementUI",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Imgix",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "Tribe.so",
-      "Vector Internet Services",
       "shadcn ui"
     ]
   }
