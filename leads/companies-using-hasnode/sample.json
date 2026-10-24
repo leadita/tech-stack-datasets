@@ -1,5 +1,37 @@
 [
   {
+    "domain": "codemetrics.ai",
+    "title": "Git Analytics and Reporting Tools for Development Teams | Codemetrics",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 22917,
+    "crawled_at": "2026-10-23T14:13:59.081267207Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Apture Linking Platform",
+      "Canny",
+      "CloudFront",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Tag Manager",
+      "Hasnode",
+      "Next.js",
+      "Pleroma",
+      "Stripe",
+      "Styled Components",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "joysam.me",
     "title": "JOY SAM RAJ - Portfolio",
     "business_name": "",
@@ -3540,37 +3572,6 @@
       "Woo Themes",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "gocodemetrics.com",
-    "title": "Git Analytics and Reporting Tools for Development Teams | Codemetrics",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 10869,
-    "crawled_at": "2026-05-22T09:23:19.973239712Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Apture Linking Platform",
-      "Canny",
-      "CloudFront",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Tag Manager",
-      "Hasnode",
-      "Next.js",
-      "Pleroma",
-      "Stripe",
-      "Styled Components",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {

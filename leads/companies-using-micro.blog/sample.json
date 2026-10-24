@@ -1,5 +1,20 @@
 [
   {
+    "domain": "okiedokieblog.com",
+    "title": "Okie Dokie",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 62,
+    "tech_spend": 120,
+    "crawled_at": "2026-10-24T00:04:33.780019313Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Hugo",
+      "Micro.blog",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "jeannie.fyi",
     "title": "Jeannie M",
     "business_name": "",
@@ -7644,21 +7659,6 @@
       "University or College",
       "eLand",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "okiedokieblog.com",
-    "title": "Okie Dokie",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 62,
-    "tech_spend": 120,
-    "crawled_at": "2026-03-11T20:45:55.498297019Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Hugo",
-      "Micro.blog",
-      "UTF-8"
     ]
   }
 ]

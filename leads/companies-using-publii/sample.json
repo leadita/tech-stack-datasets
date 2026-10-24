@@ -1,5 +1,27 @@
 [
   {
+    "domain": "ar-philipot.fr",
+    "title": "ar-philipot.fr",
+    "business_name": "ar-philipot.fr",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 148,
+    "crawled_at": "2026-10-23T16:09:46.83175417Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Angular",
+      "CoreUI",
+      "EasyEngine",
+      "GZIP Module",
+      "Mermaid",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "fayact.org",
     "title": "Fayette Accountability",
     "business_name": "Fayette Accountability",
@@ -8064,49 +8086,6 @@
       "Vector Internet Services",
       "Yellow Pages Canada",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "haru.zone",
-    "title": "Genna's Gentle Blog",
-    "business_name": "Genna's Gentle Blog",
-    "country": "GBR",
-    "seo_score": 70,
-    "tech_spend": 149,
-    "crawled_at": "2026-03-12T01:12:53.025411155Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "Perl",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "ar-philipot.fr",
-    "title": "ar-philipot.fr",
-    "business_name": "ar-philipot.fr",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 148,
-    "crawled_at": "2026-03-11T08:10:59.454948861Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Angular",
-      "CoreUI",
-      "EasyEngine",
-      "GZIP Module",
-      "Mermaid",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   }
 ]

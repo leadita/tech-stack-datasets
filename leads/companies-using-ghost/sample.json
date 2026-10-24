@@ -1,5 +1,26 @@
 [
   {
+    "domain": "tntn.vn",
+    "title": "Trải nghiệm Thiên nhiên (Nature Expedition)",
+    "business_name": "",
+    "country": "THA",
+    "seo_score": 77,
+    "tech_spend": 468,
+    "crawled_at": "2026-10-24T08:57:57.29830575Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Bulma",
+      "ElementUI",
+      "GZIP Module",
+      "Ghost",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "connectmemarketing.ie",
     "title": "Advertise in Galway Now",
     "business_name": "",
@@ -13128,50 +13149,6 @@
       "Stripe",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "polarmoneynews.com",
-    "title": "Home - The Onion",
-    "business_name": "The Onion",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 47284,
-    "crawled_at": "2026-04-13T18:35:19.981383137Z",
-    "technologies": [
-      "Adult Content",
-      "Advanced Popups",
-      "Alternate Protocol",
-      "Automattic",
-      "BLR",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Fireblade",
-      "Font Awesome",
-      "Ghost",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Gravity",
-      "Gravity Forms",
-      "Gusto",
-      "Gutenberg",
-      "Instagram Follow Button",
-      "Jetpack",
-      "Kinsta",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Parse.ly",
-      "Theme In WP",
-      "Tumblr",
-      "Twitter Ads",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "YouTube"
     ]
   }
 ]
