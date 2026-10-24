@@ -1897,41 +1897,5 @@
       "Vector Internet Services",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "trench.supply",
-    "title": "Trench Supply: Find Good Tek",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 17683,
-    "crawled_at": "2026-03-12T19:18:50.537142653Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "BetterMode",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Coming Soon Page",
-      "ElementUI",
-      "Fireblade",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Imgix",
-      "Instagram Follow Button",
-      "PWA",
-      "QUIC",
-      "RM Education",
-      "Tailwind CSS",
-      "Telegram",
-      "Tribe.so",
-      "Twitter Ads",
-      "Typeform",
-      "Vector Internet Services",
-      "YouTube",
-      "shadcn ui"
-    ]
   }
 ]
