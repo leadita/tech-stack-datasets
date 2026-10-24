@@ -1,5 +1,72 @@
 [
   {
+    "domain": "ptsource.online",
+    "title": "Power Transmission Online Sourcing",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 75760,
+    "crawled_at": "2026-10-24T08:57:57.284824902Z",
+    "technologies": [
+      "Apache",
+      "Cart.com",
+      "DAV",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "OpenCart",
+      "PHP",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "dominionoffshore.com",
+    "title": "Dominion Offshore",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 75988,
+    "crawled_at": "2026-10-23T21:23:29.711915887Z",
+    "technologies": [
+      "Bulma",
+      "Cart.com",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "OpenCart",
+      "PHP",
+      "QUIC",
+      "Shore",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "boxesliverpoolstore.com",
+    "title": "Boxes Liverpool online store",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 30003,
+    "crawled_at": "2026-10-23T18:06:30.880360623Z",
+    "technologies": [
+      "Apache",
+      "Cart.com",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "OpenCart",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "Ubuntu"
+    ]
+  },
+  {
     "domain": "labios-store.com",
     "title": "Labios",
     "business_name": "",
@@ -12243,72 +12310,6 @@
       "OpenCart",
       "PHP",
       "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "nectomathletics.com",
-    "title": "Nectom Athletics",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 75468,
-    "crawled_at": "2026-06-02T10:47:19.971684305Z",
-    "technologies": [
-      "Apache",
-      "Cart.com",
-      "GZIP Module",
-      "IcoMoon",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "oemacparts.com",
-    "title": "YOUR ONE-STOP ACPARTS SUPPLIER",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 77,
-    "tech_spend": 75139,
-    "crawled_at": "2026-06-02T09:09:12.920142068Z",
-    "technologies": [
-      "Apache",
-      "Cart.com",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "OpenCart",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "techiesportsgear.com",
-    "title": "Your Store",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 75199,
-    "crawled_at": "2026-06-02T08:47:11.892929746Z",
-    "technologies": [
-      "Cart.com",
-      "Coming Soon Page",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "OpenCart",
-      "QUIC",
-      "SiteW",
-      "Tailwind CSS",
-      "Twitter Ads",
       "UTF-8"
     ]
   }
