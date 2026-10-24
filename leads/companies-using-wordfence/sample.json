@@ -1,5 +1,37 @@
 [
   {
+    "domain": "jkjr.dev",
+    "title": "Jon Keimach Jr. | Professional Web Developer",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 644,
+    "crawled_at": "2026-10-24T13:39:08.365870791Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Complianz",
+      "Content Delivery Network",
+      "DAV",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "PHP",
+      "QUIC",
+      "Thank You",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "Wordfence",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "mvphw.com",
     "title": "Home - MVPHW",
     "business_name": "mvphw",
