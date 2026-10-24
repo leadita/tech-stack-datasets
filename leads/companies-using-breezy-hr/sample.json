@@ -1,5 +1,30 @@
 [
   {
+    "domain": "livecraftglobal.com",
+    "title": "Livecraft Homepage",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 3732,
+    "crawled_at": "2026-10-24T02:33:38.587946164Z",
+    "technologies": [
+      "Breezy HR",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "ElementUI",
+      "Fastly",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Hubspot Knowledge Base",
+      "UTF-8",
+      "Vector Internet Services",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "acec.org",
     "title": "ACEC - American Council of Engineering Companies",
     "business_name": "American Council of Engineering Companies (ACEC)",
@@ -16694,32 +16719,6 @@
       "Sanity",
       "Svelte",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "livecraftww.com",
-    "title": "Livecraft Homepage",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 3792,
-    "crawled_at": "2026-03-25T22:03:52.795458199Z",
-    "technologies": [
-      "Amazon",
-      "Breezy HR",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "ElementUI",
-      "Fastly",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Hubspot Knowledge Base",
-      "UTF-8",
-      "Vector Internet Services",
-      "jQuery"
     ]
   },
   {
