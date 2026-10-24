@@ -1,39 +1,35 @@
 [
   {
-    "domain": "twopointzero.co",
-    "title": "Two Point Zero – IT Support Company in Auckland",
+    "domain": "spinach.studio",
+    "title": "Spencer Haley",
     "business_name": "",
-    "country": "NZL",
-    "seo_score": 65,
-    "tech_spend": 3084,
-    "crawled_at": "2026-10-23T06:55:16.125896251Z",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 697,
+    "crawled_at": "2026-10-24T05:18:16.116840416Z",
     "technologies": [
-      "Alternate Protocol",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "Flatsome",
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
       "FreshBooks",
-      "Google My Business",
-      "IcoMoon",
-      "LiteSpeed",
-      "Open Dental",
-      "PHP",
-      "Theme In WP",
-      "Twitter Ads",
+      "GZIP Module",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
       "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
     ]
   },
   {
-    "domain": "proposalplannertoronto.com",
+    "domain": "proposalplannermiami.com",
     "title": "Luxury Event Planning Across North America | Amber Walker Events",
     "business_name": "Amber Walker Events",
     "country": "USA",
     "seo_score": 87,
     "tech_spend": 135703,
-    "crawled_at": "2026-10-19T14:33:18.510444766Z",
+    "crawled_at": "2026-10-23T15:28:14.413385049Z",
     "technologies": [
       "123FormBuilder",
       "AWS WAF Challenge",
@@ -72,6 +68,33 @@
       "YouTube",
       "eLand",
       "mlcom"
+    ]
+  },
+  {
+    "domain": "twopointzero.co",
+    "title": "Two Point Zero – IT Support Company in Auckland",
+    "business_name": "",
+    "country": "NZL",
+    "seo_score": 65,
+    "tech_spend": 3084,
+    "crawled_at": "2026-10-23T06:55:16.125896251Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Contact Form Plugin",
+      "EmbedPress",
+      "Flatsome",
+      "FreshBooks",
+      "Google My Business",
+      "IcoMoon",
+      "LiteSpeed",
+      "Open Dental",
+      "PHP",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
     ]
   },
   {
@@ -2937,29 +2960,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "spinachreally.com",
-    "title": "Spencer Haley",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 697,
-    "crawled_at": "2026-04-06T16:53:20.019541042Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "FreshBooks",
-      "GZIP Module",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   },
   {
