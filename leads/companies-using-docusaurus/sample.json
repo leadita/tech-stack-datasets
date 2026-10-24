@@ -1,5 +1,68 @@
 [
   {
+    "domain": "comwork.io",
+    "title": "Home | Comwork",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 67,
+    "tech_spend": 106858,
+    "crawled_at": "2026-10-24T22:09:28.732722734Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon Link Enchancer",
+      "Amazon Widgets",
+      "Apache",
+      "CM Commerce",
+      "Calendly",
+      "DAV",
+      "Docusaurus",
+      "Financial Services Guide",
+      "Form.IO",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Google Retail Product Discovery",
+      "Harbor",
+      "Nginx",
+      "No-Q",
+      "OLO",
+      "Perl",
+      "Python",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "YouTube",
+      "nShift",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "optaplanner.org",
+    "title": "Apache KIE (incubating)",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 1800,
+    "crawled_at": "2026-10-24T04:40:18.994789971Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Perl",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "Vector Internet Services",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "cwcloud.tech",
     "title": "Home | CWCloud",
     "business_name": "",
@@ -2768,30 +2831,6 @@
       "Google Reseller",
       "Google Tag Manager",
       "Perl"
-    ]
-  },
-  {
-    "domain": "optaplanner.com",
-    "title": "Apache KIE (incubating) | Apache KIE (incubating)",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 7400,
-    "crawled_at": "2026-08-09T21:42:29.100892988Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Content Delivery Network",
-      "Corporate Governance and Regulatory Compliance",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Perl",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "Vector Internet Services",
-      "YouTube"
     ]
   },
   {
@@ -12774,30 +12813,6 @@
       "Python",
       "UTF-8",
       "Visual Studio"
-    ]
-  },
-  {
-    "domain": "gitsite.net",
-    "title": "IT文档小工具",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 50,
-    "tech_spend": 156,
-    "crawled_at": "2026-04-11T00:08:19.982735398Z",
-    "technologies": [
-      "Bulma",
-      "Docusaurus",
-      "Express",
-      "GitHub Hosting",
-      "IcoMoon",
-      "Nginx",
-      "Python",
-      "QUIC",
-      "Svelte",
-      "Tailwind CSS",
-      "UTF-8",
-      "W3.CSS",
-      "W3layouts"
     ]
   }
 ]
