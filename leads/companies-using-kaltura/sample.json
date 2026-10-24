@@ -1,5 +1,40 @@
 [
   {
+    "domain": "clevelandclinicinternational.com",
+    "title": "Global Patient Services | Cleveland Clinic",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 298448,
+    "crawled_at": "2026-10-24T05:18:16.12665052Z",
+    "technologies": [
+      "Adobe Analytics",
+      "Adobe Marketing Cloud",
+      "Alternate Protocol",
+      "Azure Edge",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "DAV",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Investor Relations",
+      "Kaltura",
+      "Microsoft Azure",
+      "Microsoft Azure Verified CDN",
+      "Optimizely Recommendations",
+      "To Top",
+      "Twitter Ads",
+      "UTF-8",
+      "Visual Studio",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "wellnessfactorystore.com",
     "title": "Wellness Factory",
     "business_name": "",
@@ -18693,41 +18728,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "clevelandclinicinternational.com",
-    "title": "Global Patient Services | Cleveland Clinic",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 298448,
-    "crawled_at": "2026-03-12T05:00:30.783522384Z",
-    "technologies": [
-      "Adobe Analytics",
-      "Adobe Marketing Cloud",
-      "Alternate Protocol",
-      "Azure Edge",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Investor Relations",
-      "Kaltura",
-      "Microsoft Azure",
-      "Microsoft Azure Verified CDN",
-      "Optimizely Recommendations",
-      "QUIC",
-      "To Top",
-      "Twitter Ads",
-      "UTF-8",
-      "Visual Studio",
-      "YouTube",
-      "eLand"
     ]
   }
 ]
