@@ -935,41 +935,5 @@
       "Zonomi",
       "Zyro"
     ]
-  },
-  {
-    "domain": "padaugeskrantas.lt",
-    "title": "PRADŽIA | Padaugės krantas",
-    "business_name": "",
-    "country": "",
-    "seo_score": 65,
-    "tech_spend": 132158,
-    "crawled_at": "2026-03-12T19:18:50.526994756Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "K2F",
-      "KVH",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PWA",
-      "QUIC",
-      "SMC",
-      "Sentry",
-      "SiteW",
-      "Subversion",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "Zonomi",
-      "eLand",
-      "mlcom"
-    ]
   }
 ]
