@@ -1,5 +1,36 @@
 [
   {
+    "domain": "mattisherwood.com",
+    "title": "Matt Isherwood's Digital CV",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 87,
+    "tech_spend": 136124,
+    "crawled_at": "2026-10-24T01:32:42.110279941Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "CM Commerce",
+      "Content Delivery Network",
+      "Dynamic Yield",
+      "Figma",
+      "Form.IO",
+      "GitHub Hosting",
+      "Next.js",
+      "Notion",
+      "OpenAI",
+      "Optimizely Recommendations",
+      "PHP",
+      "PWA",
+      "Python",
+      "QUIC",
+      "Shopify",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "cx1-conference.com",
     "title": "CX1 WORLD CONFERENCE 2022",
     "business_name": "CX1",
@@ -4931,37 +4962,6 @@
       "Visual Studio",
       "Znode",
       "nopCommerce"
-    ]
-  },
-  {
-    "domain": "mattisherwood.co.uk",
-    "title": "Matt Isherwood's Digital CV",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 87,
-    "tech_spend": 136124,
-    "crawled_at": "2026-05-25T21:58:16.154447055Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "CM Commerce",
-      "Content Delivery Network",
-      "Dynamic Yield",
-      "Figma",
-      "Form.IO",
-      "GitHub Hosting",
-      "Next.js",
-      "Notion",
-      "OpenAI",
-      "Optimizely Recommendations",
-      "PHP",
-      "PWA",
-      "Python",
-      "QUIC",
-      "Shopify",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vercel"
     ]
   },
   {
