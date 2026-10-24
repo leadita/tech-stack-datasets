@@ -1,5 +1,56 @@
 [
   {
+    "domain": "federicomorsia.xyz",
+    "title": "Federico Morsia",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-10-24T10:37:13.458038992Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Netlify",
+      "Next.js",
+      "Pleroma",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "wavm.studio",
+    "title": "WAVM | We Are Visual Makers",
+    "business_name": "",
+    "country": "ESP",
+    "seo_score": 67,
+    "tech_spend": 17448,
+    "crawled_at": "2026-10-23T21:38:25.840316546Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adult Content",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "InMotion Hosting",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "NFOrce Internet",
+      "Netlify",
+      "Nuxt.js",
+      "Perl",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vimeo",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "fourleafgaming.com",
     "title": "Home | Four Leaf Gaming",
     "business_name": "",
@@ -13680,50 +13731,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "avaluosqueretaro.com",
-    "title": "Homepage",
-    "business_name": "",
-    "country": "MEX",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-04-30T16:17:20.014803132Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Prismic",
-      "Svelte",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "adhesion.digital",
-    "title": "Modern Web Design & Development Agency Australia | Adhesion Digital",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 72,
-    "tech_spend": 1470,
-    "crawled_at": "2026-04-30T08:53:20.000477368Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Microsoft Clarity",
-      "No-Q",
-      "Prismic",
-      "Svelte",
-      "Tailwind CSS",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
