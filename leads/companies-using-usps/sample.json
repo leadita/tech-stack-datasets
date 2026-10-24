@@ -1,5 +1,38 @@
 [
   {
+    "domain": "fstock.co",
+    "title": "Fstock — Logistics & Fulfillment for Multi-channel Sellers",
+    "business_name": "",
+    "country": "VN",
+    "seo_score": 77,
+    "tech_spend": 31448,
+    "crawled_at": "2026-10-24T21:41:25.890680116Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "DAV",
+      "DHL Parcel",
+      "FedEx",
+      "Fireblade",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Next.js",
+      "Royal Mail",
+      "Shopify",
+      "Tailwind CSS",
+      "Telegram",
+      "UPS",
+      "USPS",
+      "UTF-8",
+      "Walmart",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "theislandclassic.com",
     "title": "The Island Classic | The Premier Basketball Tournament of the Caribbean",
     "business_name": "",
@@ -18394,36 +18427,6 @@
       "UTF-8",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "azhawksfooty.com",
-    "title": "Arizona Hawks",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 83513,
-    "crawled_at": "2026-05-03T03:44:19.99604585Z",
-    "technologies": [
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "USPS",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "eLand"
     ]
   }
 ]
