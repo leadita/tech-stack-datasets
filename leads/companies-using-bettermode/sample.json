@@ -1862,40 +1862,5 @@
       "Vector Internet Services",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "vensearch.com",
-    "title": "VENSEARCH | Expert Technology Guidance & Vendor Selection",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 40856,
-    "crawled_at": "2026-03-13T02:26:37.050286557Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "BetterMode",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Corporate Governance and Regulatory Compliance",
-      "ElementUI",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Imgix",
-      "InitiativeS",
-      "KVH",
-      "PWA",
-      "QUIC",
-      "Share Link",
-      "Tailwind CSS",
-      "Tribe.so",
-      "Vector Internet Services",
-      "shadcn ui"
-    ]
   }
 ]
