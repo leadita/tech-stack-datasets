@@ -1,5 +1,29 @@
 [
   {
+    "domain": "mcallenpublicworks.net",
+    "title": "McAllen Public Works",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 1266,
+    "crawled_at": "2026-10-25T06:37:37.135627654Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "No-Q",
+      "Site Search 360",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "365degreetotalmarketing.com",
     "title": "365 Degree Total Marketing - Beyond Full Circle Marketing",
     "business_name": "",
@@ -16227,35 +16251,6 @@
       "Site Search 360",
       "UTF-8",
       "Yandex Hosting"
-    ]
-  },
-  {
-    "domain": "perthamboyha.org",
-    "title": "Home : Perth Amboy Housing Authority",
-    "business_name": "881 Amboy Ave",
-    "country": "AUS",
-    "seo_score": 70,
-    "tech_spend": 28017,
-    "crawled_at": "2026-04-20T18:47:20.031842335Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "Baidu Cloud",
-      "Coming Soon Page",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Prospective",
-      "Python",
-      "QUIC",
-      "Site Search 360",
-      "UTF-8",
-      "UserWay",
-      "Yandex Hosting",
-      "Zoom Video Conferencing"
     ]
   }
 ]
