@@ -1,5 +1,26 @@
 [
   {
+    "domain": "backboardnblackboard.com",
+    "title": "Backboard N' Blackboard | Backboard N' Blackboard",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 10000,
+    "crawled_at": "2026-10-25T02:33:02.901898387Z",
+    "technologies": [
+      "Blackboard Open LMS",
+      "DAV",
+      "GZIP Module",
+      "Nginx",
+      "OpenResty",
+      "PHP",
+      "Perl",
+      "Pixabay",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "blackstonehealthcaresolutions.com",
     "title": "Blackstone Healthcare Solutions - Quality Medical Coding Services",
     "business_name": "Blackstone Healthcare Solutions",
@@ -3512,28 +3533,6 @@
       "WordPress",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "backboardnblackboard.com",
-    "title": "Backboard N' Blackboard | Backboard N' Blackboard",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 10132,
-    "crawled_at": "2026-03-13T14:39:28.950223101Z",
-    "technologies": [
-      "ArvanCloud",
-      "Blackboard Open LMS",
-      "DAV",
-      "GZIP Module",
-      "Nginx",
-      "OpenResty",
-      "PHP",
-      "Perl",
-      "Pixabay",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
