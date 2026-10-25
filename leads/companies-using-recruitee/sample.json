@@ -1,5 +1,35 @@
 [
   {
+    "domain": "xite.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 14167,
+    "crawled_at": "2026-10-24T19:46:18.798733939Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Cloudinary",
+      "Content Delivery Network",
+      "DAV",
+      "Didomi",
+      "Fireblade",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Next.js",
+      "Recruitee",
+      "Twitter Ads",
+      "UTF-8",
+      "Vimeo",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "hostgroupcareers.com",
     "title": "HoSt Group | Careers",
     "business_name": "",
@@ -8351,31 +8381,6 @@
       "University or College",
       "eLand",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "xite.nl",
-    "title": "XITE",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 11467,
-    "crawled_at": "2026-04-13T02:37:30.570081391Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Cloudinary",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Next.js",
-      "Recruitee",
-      "Twitter Ads",
-      "UTF-8"
     ]
   },
   {
