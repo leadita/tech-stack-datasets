@@ -1,5 +1,38 @@
 [
   {
+    "domain": "wealth-genesis.net",
+    "title": "Wealth Genesis",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 54690,
+    "crawled_at": "2026-10-25T04:52:33.187378937Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Authorize.net",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "DAV",
+      "Everflow",
+      "Fireblade",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Microsoft Clarity",
+      "Nuxt.js",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Wistia"
+    ]
+  },
+  {
     "domain": "get-dustapro.com",
     "title": "DustaPro | Robot Vacuum Cleaner",
     "business_name": "",
@@ -7875,38 +7908,6 @@
       "RM Education",
       "UTF-8",
       "Vidalytics"
-    ]
-  },
-  {
-    "domain": "wealth-genesis.net",
-    "title": "Wealth Genesis",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 45890,
-    "crawled_at": "2026-03-13T18:08:27.418167005Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Authorize.net",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Everflow",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Microsoft Clarity",
-      "Nuxt.js",
-      "QUIC",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wistia",
-      "reCAPTCHA"
     ]
   }
 ]
