@@ -1,5 +1,32 @@
 [
   {
+    "domain": "onbee.app",
+    "title": "Onbee.app - Onbee.app: Onboarding & Offboarding; digital employee card, HRIS",
+    "business_name": "",
+    "country": "CZE",
+    "seo_score": 77,
+    "tech_spend": 3027,
+    "crawled_at": "2026-10-25T01:02:30.567843164Z",
+    "technologies": [
+      "Astro",
+      "Coming Soon Page",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Notion",
+      "PandaDoc",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "econoencuentrofamiliar.com",
     "title": "Econo Encuentro Familiar 2026 - Optimizando servicios para suplidores y tiendas.",
     "business_name": "",
@@ -2739,33 +2766,6 @@
       "WordPress Multisite",
       "XTemos Studio",
       "monday.com"
-    ]
-  },
-  {
-    "domain": "onbee.app",
-    "title": "Onbee.app - Onbee.app: Onboarding & Offboarding; digital employee card, HRIS",
-    "business_name": "",
-    "country": "CZE",
-    "seo_score": 87,
-    "tech_spend": 3027,
-    "crawled_at": "2026-03-13T12:17:44.846278153Z",
-    "technologies": [
-      "Astro",
-      "Coming Soon Page",
-      "ElementUI",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Notion",
-      "PandaDoc",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]
