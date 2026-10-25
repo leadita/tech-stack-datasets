@@ -1,5 +1,27 @@
 [
   {
+    "domain": "miriam-project.eu",
+    "title": "Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 19608,
+    "crawled_at": "2026-10-24T16:42:52.875737913Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "CacheFly",
+      "CacheFly CDN",
+      "Constant Contact",
+      "Fastly",
+      "Google My Business",
+      "IcoMoon",
+      "PHP",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "peakroad.com",
     "title": "Home - Peak Road",
     "business_name": "Peak Road",
@@ -2361,27 +2383,6 @@
       "YouTube",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "miriam-project.eu",
-    "title": "Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 19608,
-    "crawled_at": "2026-03-12T22:53:51.980013134Z",
-    "technologies": [
-      "Apache",
-      "CacheFly",
-      "CacheFly CDN",
-      "Constant Contact",
-      "Fastly",
-      "Google My Business",
-      "IcoMoon",
-      "PHP",
-      "UTF-8",
-      "reCAPTCHA"
     ]
   }
 ]
