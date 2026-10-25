@@ -1,5 +1,32 @@
 [
   {
+    "domain": "hepla.com",
+    "title": "HEPLA GmbH – B2B-Shop",
+    "business_name": "HEPLA GmbH",
+    "country": "DEU",
+    "seo_score": 77,
+    "tech_spend": 2440,
+    "crawled_at": "2026-10-25T07:41:25.891491143Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "Django",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Pico CSS",
+      "Pleroma",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "islandtimemedical.com",
     "title": "Bald Head Island Medical | Island Time Medical and Wellness",
     "business_name": "",
@@ -8196,31 +8223,6 @@
       "Tawk",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "prodonum.com",
-    "title": "HEPLA Werbeartikel – B2B-Shop für Werbemittel",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 72,
-    "tech_spend": 17440,
-    "crawled_at": "2026-04-04T04:29:20.00859414Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Django",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "Pico CSS",
-      "Pleroma",
-      "UTF-8"
     ]
   },
   {
