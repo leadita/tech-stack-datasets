@@ -1,5 +1,27 @@
 [
   {
+    "domain": "gobenet.net",
+    "title": "Distribuidores Autorizados de Izzi en México | Paquetes de Televisión e Internet | Gobenet",
+    "business_name": "",
+    "country": "MEX",
+    "seo_score": 72,
+    "tech_spend": 2655,
+    "crawled_at": "2026-10-25T10:49:46.467579959Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Microsoft Clarity",
+      "SendPulse",
+      "Zonomi",
+      "Zyro"
+    ]
+  },
+  {
     "domain": "adamoments.io",
     "title": "Ada Moments - Own Your Moment",
     "business_name": "",
@@ -908,30 +930,6 @@
       "Pexels",
       "Thank You",
       "Unsplash",
-      "Zonomi",
-      "Zyro"
-    ]
-  },
-  {
-    "domain": "gobenet.net",
-    "title": "Distribuidores Autorizados de Izzi en México | Paquetes de Televisión e Internet | Gobenet",
-    "business_name": "",
-    "country": "MEX",
-    "seo_score": 87,
-    "tech_spend": 2655,
-    "crawled_at": "2026-03-14T03:26:14.709063178Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Microsoft Clarity",
-      "OpenResty",
-      "SendPulse",
       "Zonomi",
       "Zyro"
     ]
