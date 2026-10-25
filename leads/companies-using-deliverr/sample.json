@@ -1,5 +1,35 @@
 [
   {
+    "domain": "aryasit.com",
+    "title": "Single-ingredient freeze-dried pet treats made fresh and delicious 🍖 – Arya Sit!",
+    "business_name": "Arya Sit!",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 13856,
+    "crawled_at": "2026-10-25T08:47:24.579239133Z",
+    "technologies": [
+      "Amazon Widgets",
+      "Apture Linking Platform",
+      "Baidu Cloud",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "Deliverr",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "UTF-8",
+      "Yandex Hosting",
+      "hCaptcha",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "trysubstance.com",
     "title": "Substance Health - Plant Based Nutrition Supplements",
     "business_name": "Substance Health",
@@ -5432,37 +5462,6 @@
       "hCaptcha",
       "jQuery",
       "jsDelivr",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "aryasit.com",
-    "title": "Single-ingredient freeze-dried pet treats made fresh and delicious 🍖 – Arya Sit!",
-    "business_name": "Arya Sit!",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 11456,
-    "crawled_at": "2026-03-14T00:15:35.453743584Z",
-    "technologies": [
-      "Amazon",
-      "Amazon Widgets",
-      "Apture Linking Platform",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Create React App",
-      "Deliverr",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Pleroma",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Svelte",
-      "UTF-8",
-      "hCaptcha",
-      "jQuery",
       "reCAPTCHA"
     ]
   }
