@@ -1,5 +1,34 @@
 [
   {
+    "domain": "siddheshshende.com",
+    "title": "Siddhesh Shende | Full Stack Developer (React, Next.js, Node.js)",
+    "business_name": "",
+    "country": "",
+    "seo_score": 92,
+    "tech_spend": 1824,
+    "crawled_at": "2026-10-24T14:01:27.488922302Z",
+    "technologies": [
+      "AI Log",
+      "ArvanCloud",
+      "Content Delivery Network",
+      "Express",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Hasnode",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Next.js",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "UptimeRobot",
+      "Vercel",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "codemetrics.ai",
     "title": "Git Analytics and Reporting Tools for Development Teams | Codemetrics",
     "business_name": "",
@@ -11461,35 +11490,6 @@
       "WordPress Multisite",
       "YouTube",
       "about.me"
-    ]
-  },
-  {
-    "domain": "siddheshshende.com",
-    "title": "Siddhesh Shende | Full Stack Developer (React, Next.js, Node.js)",
-    "business_name": "",
-    "country": "",
-    "seo_score": 87,
-    "tech_spend": 1824,
-    "crawled_at": "2026-03-12T18:51:29.543776Z",
-    "technologies": [
-      "AI Log",
-      "ArvanCloud",
-      "Content Delivery Network",
-      "Express",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hasnode",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Next.js",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "UptimeRobot",
-      "Vercel",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "domain": "sparklab-studios.com",
+    "title": "SparkLaB Studios",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 18780,
+    "crawled_at": "2026-10-24T20:24:32.492511346Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "Ghost",
+      "Google Related Website Sites",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "QUIC",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "tntn.vn",
     "title": "Trải nghiệm Thiên nhiên (Nature Expedition)",
     "business_name": "",
@@ -13121,32 +13145,6 @@
       "Ghost",
       "Microdata for Google Shopping",
       "OpenResty",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "brawny.ai",
-    "title": "BrawnyAi - Digital Hunks: Sexy, Inclusive, and Fun",
-    "business_name": "",
-    "country": "BRA",
-    "seo_score": 77,
-    "tech_spend": 15660,
-    "crawled_at": "2026-04-13T21:08:19.992028625Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Express",
-      "Ghost",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Stripe",
       "UTF-8",
       "jsDelivr"
     ]
