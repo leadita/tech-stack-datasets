@@ -1,5 +1,34 @@
 [
   {
+    "domain": "loulouatalkhaleejalzarqaa.com",
+    "title": "eddibshop",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 8180,
+    "crawled_at": "2026-10-24T22:38:27.36570445Z",
+    "technologies": [
+      "Apple Pay JS",
+      "Apture Linking Platform",
+      "Azion",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "Fastly",
+      "Fingerprint Pro",
+      "Fireblade",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Postimage.org",
+      "Thank You",
+      "UTF-8",
+      "Yandex Hosting",
+      "YouCan",
+      "eLand"
+    ]
+  },
+  {
     "domain": "365happyskin.com",
     "title": "porkbun.com | An oddly satisfying experience.",
     "business_name": "Porkbun",
