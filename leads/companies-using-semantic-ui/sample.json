@@ -1,5 +1,29 @@
 [
   {
+    "domain": "webshopviskeete.nl",
+    "title": "Webshop De Viskêête",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 77,
+    "tech_spend": 2718,
+    "crawled_at": "2026-10-25T05:37:07.048335168Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Nginx",
+      "No-Q",
+      "Phusion Passenger Enterprise",
+      "QUIC",
+      "Semantic UI",
+      "UTF-8",
+      "eLand"
+    ]
+  },
+  {
     "domain": "ishmindia.com",
     "title": "Ishm India",
     "business_name": "",
@@ -14738,35 +14762,6 @@
       "Woo Themes",
       "WordPress",
       "WordPress Multisite",
-      "jQuery",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "exoticsgroup.miami",
-    "title": "EXOTICS GROUP – New Site Arriving Soon",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 123,
-    "crawled_at": "2026-04-30T18:11:19.989280947Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coming Soon Page",
-      "ElementUI",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Semantic UI",
-      "UTF-8",
-      "Visual Studio",
-      "YouTube",
       "jQuery",
       "jsDelivr"
     ]
