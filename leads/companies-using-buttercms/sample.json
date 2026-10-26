@@ -1,5 +1,36 @@
 [
   {
+    "domain": "delanobats.com",
+    "title": "Delano Bats",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 15700,
+    "crawled_at": "2026-10-26T10:40:12.872025028Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apture Linking Platform",
+      "ButterCMS",
+      "Content Delivery Network",
+      "Express",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Interchange",
+      "NFOrce Internet",
+      "Next.js",
+      "Perl",
+      "QUIC",
+      "SMC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "moneta-international.com",
     "title": "Banking Services in Singapore | Corporate & Commercial | Bruc Bond",
     "business_name": "",
@@ -2053,37 +2084,6 @@
       "WhatsApp Sharing",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "delanobats.com",
-    "title": "Delano Bats",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 15700,
-    "crawled_at": "2026-03-15T15:36:25.594819573Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "ButterCMS",
-      "Content Delivery Network",
-      "Express",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Interchange",
-      "NFOrce Internet",
-      "Next.js",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "YouTube"
     ]
   }
 ]
