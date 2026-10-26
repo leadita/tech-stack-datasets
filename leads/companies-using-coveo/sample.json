@@ -1,5 +1,31 @@
 [
   {
+    "domain": "keepmewealthy.com",
+    "title": "Justin Brennan | Capital Group",
+    "business_name": "",
+    "country": "VEN",
+    "seo_score": 82,
+    "tech_spend": 67300,
+    "crawled_at": "2026-10-26T07:49:29.484747413Z",
+    "technologies": [
+      "Akamai Global Host",
+      "Alternate Protocol",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "Coveo",
+      "Fastly",
+      "Federal Deposit Insurance Corporation",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "M247",
+      "QUIC",
+      "UTF-8",
+      "University or College",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "wjresearch.org",
     "title": "Welding Research Supplement | AWS Welding Journal",
     "business_name": "",
@@ -3643,34 +3669,6 @@
     ]
   },
   {
-    "domain": "thebestprivatewealthmanager.com",
-    "title": "Justin Brennan | Capital Group",
-    "business_name": "",
-    "country": "VEN",
-    "seo_score": 72,
-    "tech_spend": 142300,
-    "crawled_at": "2026-03-23T05:04:54.890066418Z",
-    "technologies": [
-      "Akamai Global Host",
-      "Alternate Protocol",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "Coveo",
-      "Fastly",
-      "Federal Deposit Insurance Corporation",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "K2F",
-      "M247",
-      "QUIC",
-      "SMC",
-      "UTF-8",
-      "University or College",
-      "YouTube"
-    ]
-  },
-  {
     "domain": "artbank.ca",
     "title": "Canada Council Art Bank",
     "business_name": "",
@@ -3867,35 +3865,6 @@
       "University or College",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "kfcpilots.ca",
-    "title": "Home",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 50,
-    "tech_spend": 20102,
-    "crawled_at": "2026-03-15T11:20:55.669008737Z",
-    "technologies": [
-      "AutoComplete",
-      "Coveo",
-      "DNN Software",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "Font Awesome",
-      "FreeCSSTemplates",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "K2F",
-      "Tailwind CSS",
-      "UTF-8",
-      "Visual Studio",
-      "jQuery"
     ]
   }
 ]
