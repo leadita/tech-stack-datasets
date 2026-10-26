@@ -1,5 +1,23 @@
 [
   {
+    "domain": "trailside.com.au",
+    "title": "Trailside — We build apps.",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 67,
+    "tech_spend": 8500,
+    "crawled_at": "2026-10-26T06:00:09.481147593Z",
+    "technologies": [
+      "CapsuleCRM",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "RM Education",
+      "Thank You",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "pronovean.com",
     "title": "Pronovean | Helping SMBs Modernize and Grow with Technology",
     "business_name": "",
@@ -1617,26 +1635,6 @@
       "WordPress Multisite",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "trailside.com.au",
-    "title": "Trailside",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 2100,
-    "crawled_at": "2026-03-15T08:22:26.906676277Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "CapsuleCRM",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "RM Education",
-      "Thank You",
-      "UTF-8",
-      "hCaptcha"
     ]
   }
 ]
