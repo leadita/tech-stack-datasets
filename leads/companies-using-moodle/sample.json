@@ -1,5 +1,26 @@
 [
   {
+    "domain": "boaf-training.com",
+    "title": "Log in to the site | BOAF Online Learning and Resource Center",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 10500,
+    "crawled_at": "2026-10-26T08:13:25.429593775Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "GZIP Module",
+      "Moodle",
+      "NFOrce Internet",
+      "Nginx",
+      "PHP",
+      "Totara",
+      "UTF-8",
+      "Ubuntu",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "olota.org",
     "title": "Home | OLOTA",
     "business_name": "",
@@ -1134,27 +1155,6 @@
       "Totara",
       "UTF-8",
       "Unix",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "boaf-training.com",
-    "title": "Log in to the site | BOAF Online Learning and Resource Center",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 10500,
-    "crawled_at": "2026-03-15T11:43:09.470956791Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "GZIP Module",
-      "Moodle",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "Totara",
-      "UTF-8",
-      "Ubuntu",
       "jsDelivr"
     ]
   }
