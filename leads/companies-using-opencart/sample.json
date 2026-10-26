@@ -1,5 +1,95 @@
 [
   {
+    "domain": "megasalein.com",
+    "title": "الأثاث الخشبي | MegaSalein",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 30060,
+    "crawled_at": "2026-10-26T14:47:05.964405419Z",
+    "technologies": [
+      "Arastta",
+      "Cart.com",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "LiteSpeed",
+      "OpenCart",
+      "PHP",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "technoplus.pk",
+    "title": "Technoplus",
+    "business_name": "",
+    "country": "PAK",
+    "seo_score": 67,
+    "tech_spend": 76868,
+    "crawled_at": "2026-10-26T11:07:16.187459065Z",
+    "technologies": [
+      "3 Products",
+      "AnyChat",
+      "Apache",
+      "Cart.com",
+      "Google My Business",
+      "IcoMoon",
+      "OpenCart",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "the-print-warehouse.co.uk",
+    "title": "custom printed NCR printing of books pads and sets for business",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 78040,
+    "crawled_at": "2026-10-26T06:31:06.492362031Z",
+    "technologies": [
+      "Cart.com",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Hotjar",
+      "Informizely",
+      "Microsoft Azure Blob Storage",
+      "Nginx",
+      "OpenCart",
+      "UTF-8",
+      "Zopim"
+    ]
+  },
+  {
+    "domain": "ahint-sports.com",
+    "title": "Ahint Sports",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 75139,
+    "crawled_at": "2026-10-25T23:27:26.382445531Z",
+    "technologies": [
+      "Cart.com",
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Material Design Icons",
+      "OpenCart",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "farmplasticsupply.com",
     "title": "Farm, Construction & Greenhouse Plastic Sheeting | Farm Plastic Supply",
     "business_name": "",
@@ -1670,29 +1760,6 @@
       "Tailwind CSS",
       "UTF-8",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "freecomp.net",
-    "title": "فري كومب",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 30243,
-    "crawled_at": "2026-10-13T00:34:28.351112811Z",
-    "technologies": [
-      "Cart.com",
-      "Google Cloud DNS",
-      "Google Font API",
-      "HostGator",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "OpenCart",
-      "Parallels Plesk Panel",
-      "Tailwind CSS",
-      "UTF-8",
-      "Visual Studio",
-      "jQuery"
     ]
   },
   {
@@ -12271,76 +12338,6 @@
       "UTF-8",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "empirefurnitureco.com",
-    "title": "EFC-Empire Furniture Co.",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 80040,
-    "crawled_at": "2026-06-03T19:18:05.462881076Z",
-    "technologies": [
-      "Apache",
-      "Cart.com",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services"
-    ]
-  },
-  {
-    "domain": "shiloveslely.com",
-    "title": "TUNIC TOPS NAIL THE NEW-SEASON FASHION NEW COLORFUL SEASON PLUS SIZE TOPS",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 72,
-    "tech_spend": 75508,
-    "crawled_at": "2026-06-03T17:59:36.118907484Z",
-    "technologies": [
-      "Cart.com",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "IcoMoon",
-      "Nginx",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "detako.de",
-    "title": "RISO",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 72,
-    "tech_spend": 92908,
-    "crawled_at": "2026-06-03T15:39:36.000208868Z",
-    "technologies": [
-      "Cart.com",
-      "Easy Counter",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "LiteSpeed",
-      "OpenCart",
-      "PHP",
-      "Perl",
-      "QUIC",
-      "UTF-8",
-      "University or College",
-      "Yandex Hosting"
     ]
   }
 ]
