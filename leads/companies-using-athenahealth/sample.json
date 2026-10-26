@@ -1,5 +1,69 @@
 [
   {
+    "domain": "rcmstaffbpo.com",
+    "title": "Outsource Medical Billing to the Philippines | RCM Staff™",
+    "business_name": "RCM Staff™",
+    "country": "USA",
+    "seo_score": 92,
+    "tech_spend": 40231,
+    "crawled_at": "2026-10-25T20:29:53.798361801Z",
+    "technologies": [
+      "Alternate Protocol",
+      "AthenaHealth",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "TherapyNotes",
+      "UTF-8",
+      "Vercel",
+      "YouTube",
+      "eClinicalWorks",
+      "intakeQ"
+    ]
+  },
+  {
+    "domain": "naviantcounselingservices.com",
+    "title": "Behavioral Therapy | North Carolina - Naviant Counseling Services",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 33649,
+    "crawled_at": "2026-10-25T19:40:21.242751492Z",
+    "technologies": [
+      "Alternate Protocol",
+      "AthenaHealth",
+      "Authorize.net",
+      "DAV",
+      "EmbedPress",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Gravity",
+      "Gravity Forms",
+      "IcoMoon",
+      "Jetpack",
+      "Lazy Load for WordPress",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Square",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "obintegrative.com",
     "title": "Olive Branch Integrative Mental Wellness | Dover, DE",
     "business_name": "Olive Branch Integrative Mental Wellness",
@@ -13483,32 +13547,6 @@
     ]
   },
   {
-    "domain": "rcmstaff.net",
-    "title": "Outsource Medical Billing to the Philippines | RCM Staff™",
-    "business_name": "RCM Staff™",
-    "country": "USA",
-    "seo_score": 92,
-    "tech_spend": 40231,
-    "crawled_at": "2026-07-30T02:09:11.499688439Z",
-    "technologies": [
-      "Alternate Protocol",
-      "AthenaHealth",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "TherapyNotes",
-      "UTF-8",
-      "Vercel",
-      "YouTube",
-      "eClinicalWorks",
-      "intakeQ"
-    ]
-  },
-  {
     "domain": "heartdoc.care",
     "title": "HEART – Heart Endovascular & Rhythm of Texas",
     "business_name": "",
@@ -18362,35 +18400,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "instantauth.io",
-    "title": "InstantAuth",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 75,
-    "tech_spend": 19890,
-    "crawled_at": "2026-05-27T20:39:13.199206512Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "AthenaHealth",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "ElementUI",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Oracle Cloud",
-      "QUIC",
-      "jsDelivr"
     ]
   }
 ]

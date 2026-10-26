@@ -1,5 +1,31 @@
 [
   {
+    "domain": "rcmstaffbpo.com",
+    "title": "Outsource Medical Billing to the Philippines | RCM Staff™",
+    "business_name": "RCM Staff™",
+    "country": "USA",
+    "seo_score": 92,
+    "tech_spend": 40231,
+    "crawled_at": "2026-10-25T20:29:53.798361801Z",
+    "technologies": [
+      "Alternate Protocol",
+      "AthenaHealth",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "TherapyNotes",
+      "UTF-8",
+      "Vercel",
+      "YouTube",
+      "eClinicalWorks",
+      "intakeQ"
+    ]
+  },
+  {
     "domain": "vdbillingservices.com",
     "title": "Home - vdbillingservices",
     "business_name": "VD Billing Services",
@@ -1186,32 +1212,6 @@
       "WordPress Multisite",
       "YouTube",
       "eClinicalWorks"
-    ]
-  },
-  {
-    "domain": "rcmstaff.net",
-    "title": "Outsource Medical Billing to the Philippines | RCM Staff™",
-    "business_name": "RCM Staff™",
-    "country": "USA",
-    "seo_score": 92,
-    "tech_spend": 40231,
-    "crawled_at": "2026-07-30T02:09:11.499688439Z",
-    "technologies": [
-      "Alternate Protocol",
-      "AthenaHealth",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "TherapyNotes",
-      "UTF-8",
-      "Vercel",
-      "YouTube",
-      "eClinicalWorks",
-      "intakeQ"
     ]
   },
   {
