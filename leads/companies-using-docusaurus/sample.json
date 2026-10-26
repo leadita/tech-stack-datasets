@@ -1,5 +1,72 @@
 [
   {
+    "domain": "pjaworskidev.com",
+    "title": "Patryk Jaworski – Frontend & Mobile Developer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 10092,
+    "crawled_at": "2026-10-26T18:47:52.34761064Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Idaq",
+      "Line2",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "UTF-8",
+      "Vector Internet Services"
+    ]
+  },
+  {
+    "domain": "freesewing.eu",
+    "title": "Free Bespoke Sewing Patterns | FreeSewing",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 12,
+    "crawled_at": "2026-10-26T07:35:23.539718535Z",
+    "technologies": [
+      "Alternate Protocol",
+      "BunnyCDN Header",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GZIP Module",
+      "PayPal Button",
+      "PayPal Form",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "mashku.pro",
+    "title": "Mariia Kulikova | Masha K",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 10840,
+    "crawled_at": "2026-10-26T00:16:05.6219209Z",
+    "technologies": [
+      "ADFOX",
+      "Alternate Protocol",
+      "Docusaurus",
+      "Envoy",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Perl",
+      "Telegram",
+      "Yandex Hosting"
+    ]
+  },
+  {
     "domain": "dancarlton.com",
     "title": "Dan Carlton",
     "business_name": "",
@@ -11719,26 +11786,6 @@
     ]
   },
   {
-    "domain": "freesewing.org",
-    "title": "Free Bespoke Sewing Patterns | FreeSewing",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 12,
-    "crawled_at": "2026-04-17T17:08:20.025873614Z",
-    "technologies": [
-      "Alternate Protocol",
-      "BunnyCDN Header",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GZIP Module",
-      "PayPal Button",
-      "PayPal Form",
-      "Perl",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "session.it",
     "title": "Session Technologies | Session Technologies",
     "business_name": "",
@@ -12786,51 +12833,6 @@
       "UTF-8",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "vrushabhtak.cv",
-    "title": "VRUSHABH TAK",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 600,
-    "crawled_at": "2026-04-11T11:41:19.987602582Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Amazon S3 CDN",
-      "Apache",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "InitiativeS",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Python",
-      "Squid",
-      "Storyblocks",
-      "UTF-8",
-      "University or College",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "leaf-vre.org",
-    "title": "Home | LEAF-VRE",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": "",
-    "crawled_at": "2026-04-11T11:38:19.990524704Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "Express",
-      "Perl",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]
