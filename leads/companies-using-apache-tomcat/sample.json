@@ -1,5 +1,64 @@
 [
   {
+    "domain": "minhleq.com",
+    "title": "Minh Le | Full Stack Software Developer",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 1440,
+    "crawled_at": "2026-10-26T19:13:38.70482166Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Hugging Face Space",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Unix",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "immortalpublications.com",
+    "title": "Welcome page | Immortal Publications",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 62,
+    "tech_spend": "",
+    "crawled_at": "2026-10-26T12:37:38.082779024Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "GZIP Module",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "lantetextile.com",
+    "title": "Lante Textile | Professional Wool & Polyester Fabric Manufacturer in China",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 62,
+    "tech_spend": 468,
+    "crawled_at": "2026-10-26T06:44:29.900569219Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Twitter Ads",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "fairushyn.tech",
     "title": "Roman Fairushyn",
     "business_name": "",
@@ -13009,74 +13068,6 @@
       "Cloudflare CDN",
       "IcoMoon",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "minhleq.com",
-    "title": "Minh Le | Full Stack Software Developer",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 1440,
-    "crawled_at": "2026-03-16T04:42:08.770219956Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Hugging Face Space",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Unix",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "arunbalasubramanian.me",
-    "title": "Personal Portfolio for Cloud and DevOps Specialist | personal website",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2554,
-    "crawled_at": "2026-03-15T23:39:46.788216791Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Apache Tomcat JK",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "OpenResty",
-      "Pexels",
-      "Python",
-      "Thank You",
-      "Unix",
-      "Unsplash",
-      "Zyro"
-    ]
-  },
-  {
-    "domain": "immortalpublications.com",
-    "title": "Welcome page | Immortal Publications",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-03-15T18:32:30.019069523Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "GZIP Module",
-      "University or College"
     ]
   }
 ]
