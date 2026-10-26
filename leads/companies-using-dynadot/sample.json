@@ -1,5 +1,25 @@
 [
   {
+    "domain": "bicol.net",
+    "title": "Welcome to PhilippineProperties.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 3036,
+    "crawled_at": "2026-10-26T12:59:24.49996498Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Prospective",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "techsky.io",
     "title": "Techsky | Your One-Stop Digital Services Shop",
     "business_name": "Techsky",
@@ -236,27 +256,6 @@
       "Visx",
       "Zope",
       "arsys.es"
-    ]
-  },
-  {
-    "domain": "pasay.org",
-    "title": "Welcome to PhilippineProperties.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 22120,
-    "crawled_at": "2026-10-07T11:20:58.733026148Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Prospective",
-      "QUIC",
-      "UTF-8"
     ]
   },
   {
