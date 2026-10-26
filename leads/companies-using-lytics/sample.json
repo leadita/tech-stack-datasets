@@ -1,12 +1,12 @@
 [
   {
-    "domain": "gamasutra.us",
+    "domain": "gamasutra.cn",
     "title": "Game Industry News, Deep Dives, and Interviews | Game Developer",
     "business_name": "",
     "country": "GBR",
-    "seo_score": 77,
+    "seo_score": 82,
     "tech_spend": 97672,
-    "crawled_at": "2026-10-24T23:21:34.955253431Z",
+    "crawled_at": "2026-10-26T11:32:19.025813197Z",
     "technologies": [
       "AWS WAF Challenge",
       "Alternate Protocol",
