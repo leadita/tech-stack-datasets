@@ -1,5 +1,30 @@
 [
   {
+    "domain": "hclakhaniandco.com.au",
+    "title": "H C Lakhani & Co - Chartered Accountants",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 76693,
+    "crawled_at": "2026-10-27T01:54:17.726032345Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "Xero",
+      "eLand"
+    ]
+  },
+  {
     "domain": "certumsolutions.com",
     "title": "ERP & Accounting Systems Consulting for Businesses | Certum",
     "business_name": "Certum Solutions",
@@ -18717,32 +18742,6 @@
       "UK Cookie Consent",
       "UTF-8",
       "Xero",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "vkb.com.au",
-    "title": "Virtual Keeper of Books | Accounting and Business Solutions | Bookkeeping | Tax Advice",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 70,
-    "tech_spend": 927,
-    "crawled_at": "2026-05-14T01:23:19.979523001Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Bulma",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Nginx",
-      "One Designs",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "Xero",
-      "Zerif Lite",
       "jQuery"
     ]
   }
