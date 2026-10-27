@@ -19544,38 +19544,5 @@
       "Underscores",
       "YouTube"
     ]
-  },
-  {
-    "domain": "zerotrustroadmap.org",
-    "title": "A Roadmap to Zero Trust Architecture",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 95948,
-    "crawled_at": "2026-03-16T20:45:01.022230266Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Akamai mPulse",
-      "Amazon Link Enchancer",
-      "Amazon WAF Blocked",
-      "Amazon Widgets",
-      "Apture Linking Platform",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fireblade",
-      "Form.IO",
-      "Google My Business",
-      "Google Retail Product Discovery",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Okta",
-      "OneLogin",
-      "SolarWinds Service Desk",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "shadcn ui"
-    ]
   }
 ]
