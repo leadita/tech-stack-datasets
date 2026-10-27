@@ -1834,33 +1834,5 @@
       "Vector Internet Services",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "softwarehunt.io",
-    "title": "Home - SoftwareHunt.io",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 7983,
-    "crawled_at": "2026-03-16T12:18:58.299701803Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "BetterMode",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "ElementUI",
-      "Financial Services Guide",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Imgix",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "Tribe.so",
-      "Vector Internet Services",
-      "shadcn ui"
-    ]
   }
 ]
