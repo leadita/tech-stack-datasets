@@ -1,5 +1,63 @@
 [
   {
+    "domain": "scitex.ai",
+    "title": "SciTeX™",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 7662,
+    "crawled_at": "2026-10-27T08:53:16.893969758Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Coming Soon Page",
+      "DAV",
+      "Django",
+      "Fireblade",
+      "Font Awesome",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "PWA",
+      "Python",
+      "QUIC",
+      "Slack",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "optumflex.in",
+    "title": "OptumFlex | ERP Systems & SEBI-Compliant Platforms for SMEs & Certified SEBI Professionals",
+    "business_name": "OptumFlex Solutions Pvt Ltd",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": "",
+    "crawled_at": "2026-10-26T16:46:02.039635601Z",
+    "technologies": [
+      "Apache",
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Django",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "hepla.com",
     "title": "HEPLA GmbH – B2B-Shop",
     "business_name": "HEPLA GmbH",
@@ -3764,28 +3822,6 @@
       "Python",
       "UTF-8",
       "University or College"
-    ]
-  },
-  {
-    "domain": "optumflex.live",
-    "title": "OptumFlex | SEBI-Compliant RA & IA Software Platform",
-    "business_name": "OptumFlex Solutions Pvt. Ltd.",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 1188,
-    "crawled_at": "2026-05-11T13:29:20.014410305Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Django",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "YouTube",
-      "hCaptcha",
-      "jsDelivr"
     ]
   },
   {
@@ -8651,60 +8687,6 @@
       "UTF-8",
       "Zope",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "scitex.ai",
-    "title": "SciTeX",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 7719,
-    "crawled_at": "2026-03-17T02:08:14.616796155Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Django",
-      "Fireblade",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Python",
-      "QUIC",
-      "Slack",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vite",
-      "YouTube",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "topnotchdrive.com",
-    "title": "Top Notch Driving School - Rockville Centre and Nassau County Driving Lessons",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 16068,
-    "crawled_at": "2026-03-16T02:57:11.736069587Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "QUIC",
-      "Yelp Badge"
     ]
   }
 ]
