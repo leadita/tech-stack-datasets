@@ -193,33 +193,5 @@
       "eLand",
       "jQuery"
     ]
-  },
-  {
-    "domain": "npo-scrum.com",
-    "title": "特定非営利活動法人障害者自立生活センター･スクラム | 自分を信じて、スクラム組んで、あなたらしさに向かってトライ！",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": "",
-    "crawled_at": "2026-03-16T12:54:17.729441248Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Facebook Like",
-      "Facebook Login",
-      "Facebook Reseller",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hatena Blog",
-      "LiteSpeed",
-      "PHP",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
