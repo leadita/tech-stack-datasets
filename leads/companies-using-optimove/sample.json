@@ -1,5 +1,30 @@
 [
   {
+    "domain": "interbet.co.za",
+    "title": "Top Online Casino & Sports Betting at Interbet | Interbet",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 87,
+    "tech_spend": 84248,
+    "crawled_at": "2026-10-26T15:34:32.230049677Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "FrontApp",
+      "Gambling Content",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microsoft Application Insights",
+      "Microsoft Azure",
+      "Optimove",
+      "PWA",
+      "Twitter Ads",
+      "UTF-8",
+      "Visual Studio"
+    ]
+  },
+  {
     "domain": "wechimp1.com",
     "title": "WeClub»Most Reliable & Trusted Online Casino In Malaysia ✅",
     "business_name": "",
@@ -493,32 +518,6 @@
       "Tailwind CSS",
       "UTF-8",
       "University or College"
-    ]
-  },
-  {
-    "domain": "interbet.co.za",
-    "title": "Interbet | Top Online Sports & Casino Betting | Interbet",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 77,
-    "tech_spend": 84248,
-    "crawled_at": "2026-03-15T23:05:06.038533291Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "FrontApp",
-      "Gambling Content",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microsoft Application Insights",
-      "Microsoft Azure",
-      "Optimove",
-      "PWA",
-      "Twitter Ads",
-      "UTF-8",
-      "Visual Studio",
-      "eLand"
     ]
   }
 ]

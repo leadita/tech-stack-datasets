@@ -1,15 +1,13 @@
 [
   {
-    "domain": "gamasutra.cn",
-    "title": "Game Industry News, Deep Dives, and Interviews | Game Developer",
+    "domain": "gamecareerguide.net",
+    "title": "Game Career Guide | GCG",
     "business_name": "",
     "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 97672,
-    "crawled_at": "2026-10-26T11:32:19.025813197Z",
+    "seo_score": 72,
+    "tech_spend": 82672,
+    "crawled_at": "2026-10-27T14:03:08.188525746Z",
     "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
       "Amazon WAF Blocked",
       "Apture Linking Platform",
       "Cloudflare",
@@ -33,7 +31,6 @@
       "Instagram Follow Button",
       "Investor Relations",
       "Lytics",
-      "Microdata for Google Shopping",
       "New Relic",
       "OneTrust Domain Verification",
       "Pico CSS",
