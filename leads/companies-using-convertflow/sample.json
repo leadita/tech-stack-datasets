@@ -1,5 +1,32 @@
 [
   {
+    "domain": "icetea.lk",
+    "title": "Martin Bauer Hayleys (Pvt) Ltd | Hayleys Global Beverages",
+    "business_name": "",
+    "country": "LKA",
+    "seo_score": 70,
+    "tech_spend": 5820,
+    "crawled_at": "2026-10-27T03:30:17.657541826Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "ConvertFlow",
+      "DoubleClick Bid Manager",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "NFOrce Internet",
+      "Tailwind CSS",
+      "UTF-8",
+      "W3.CSS",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "kuneshonda.com",
     "title": "Kunes Honda of Quincy | New and Used Honda Dealer in Quincy, IL",
     "business_name": "",
@@ -6216,32 +6243,6 @@
       "hCaptcha",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "martin-bauer-hayleys.lk",
-    "title": "Martin Bauer Hayleys (Pvt) Ltd | Hayleys Global Beverages",
-    "business_name": "",
-    "country": "LKA",
-    "seo_score": 70,
-    "tech_spend": 5820,
-    "crawled_at": "2026-05-15T01:13:47.08527275Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "ConvertFlow",
-      "DoubleClick Bid Manager",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "NFOrce Internet",
-      "Tailwind CSS",
-      "UTF-8",
-      "W3.CSS"
     ]
   },
   {
