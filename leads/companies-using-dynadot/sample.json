@@ -1,5 +1,24 @@
 [
   {
+    "domain": "cesarmontano.com",
+    "title": "Digital Real Estate Specialist",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 36,
+    "crawled_at": "2026-10-27T14:51:36.326039351Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "bicol.net",
     "title": "Welcome to PhilippineProperties.com",
     "business_name": "",
@@ -115,25 +134,6 @@
       "Google Tag Manager",
       "Microdata for Google Shopping",
       "Microsoft Clarity",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "primelender.net",
-    "title": "Digital Real Estate Specialist",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 36,
-    "crawled_at": "2026-10-21T19:14:24.032396096Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "QUIC",
       "UTF-8"
     ]
   },
