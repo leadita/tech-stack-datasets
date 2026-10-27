@@ -1,5 +1,25 @@
 [
   {
+    "domain": "cibyl.ai",
+    "title": "Quakebots Analytics",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 1200,
+    "crawled_at": "2026-10-27T09:22:41.629422874Z",
+    "technologies": [
+      "Apache",
+      "Barchart",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Grafana",
+      "Nginx",
+      "UTF-8",
+      "Ubuntu"
+    ]
+  },
+  {
     "domain": "schuler-valuestream.net",
     "title": "Grafana",
     "business_name": "",
@@ -39,22 +59,6 @@
       "Nginx",
       "UTF-8",
       "Ubuntu"
-    ]
-  },
-  {
-    "domain": "ycfwydu.com",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": "",
-    "crawled_at": "2026-10-17T16:45:15.169780356Z",
-    "technologies": [
-      "GitHub Hosting",
-      "Grafana",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   },
   {
