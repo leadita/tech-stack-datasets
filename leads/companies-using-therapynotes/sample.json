@@ -1,5 +1,29 @@
 [
   {
+    "domain": "lakeviewbilling.com",
+    "title": "Medical Billing - Lakeview Healthcare Billing",
+    "business_name": "Lakeview Healthcare Billing",
+    "country": "",
+    "seo_score": 92,
+    "tech_spend": 19827,
+    "crawled_at": "2026-10-27T08:36:07.004912702Z",
+    "technologies": [
+      "Coming Soon Page",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "PWA",
+      "TherapyNotes",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "rcmstaffbpo.com",
     "title": "Outsource Medical Billing to the Philippines | RCM Staff™",
     "business_name": "RCM Staff™",
@@ -5666,29 +5690,6 @@
       "WordPress Multisite",
       "WordPress Stats",
       "eLand"
-    ]
-  },
-  {
-    "domain": "lakeviewbilling.com",
-    "title": "Medical Billing - Lakeview Healthcare Billing",
-    "business_name": "Lakeview Healthcare Billing",
-    "country": "",
-    "seo_score": 82,
-    "tech_spend": 19827,
-    "crawled_at": "2026-03-17T01:38:05.857341765Z",
-    "technologies": [
-      "Coming Soon Page",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "PWA",
-      "TherapyNotes",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
     ]
   }
 ]

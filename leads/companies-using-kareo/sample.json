@@ -1,5 +1,33 @@
 [
   {
+    "domain": "feathersofhopementalhealth.net",
+    "title": "Mental Health Care | Feathers of Hope Mental Health | Psychiatry | Alabama | Arizona",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 103085,
+    "crawled_at": "2026-10-27T04:52:34.800914843Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Accordion Blocks",
+      "Accordion FAQ",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Kareo",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "Tebra",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "pcp-health.com",
     "title": "PCP Health | Primary Care & Mental Health Clinic | North Port, Port Charlotte, Sarasota, Venice & Osprey FL",
     "business_name": "PCP Health",
@@ -18054,44 +18082,6 @@
       "YouTube",
       "jQuery",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "evolveacuwellness.com",
-    "title": "Evolveacuwellness",
-    "business_name": "Evolve Acu Wellness",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 124968,
-    "crawled_at": "2026-04-20T11:44:19.981440472Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Accordion Blocks",
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Contento",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Kareo",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "Pico CSS",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "University or College",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
