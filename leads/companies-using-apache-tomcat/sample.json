@@ -1,5 +1,24 @@
 [
   {
+    "domain": "riddhisahyog.in",
+    "title": ":: Welcome to Riddhi Sahyog Nidhi Limited",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 156,
+    "crawled_at": "2026-10-27T11:54:21.696066993Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Apture Linking Platform",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "IcoMoon",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "minhleq.com",
     "title": "Minh Le | Full Stack Software Developer",
     "business_name": "",
@@ -13049,25 +13068,6 @@
       "UTF-8",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "riddhisahyog.in",
-    "title": ":: Welcome to Riddhi Sahyog Nidhi Limited",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 156,
-    "crawled_at": "2026-03-17T06:41:21.980451507Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Apture Linking Platform",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "IcoMoon",
-      "UTF-8"
     ]
   }
 ]
