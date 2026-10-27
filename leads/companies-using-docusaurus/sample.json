@@ -1,5 +1,45 @@
 [
   {
+    "domain": "robertjcolley.com",
+    "title": "Robert Colley - Software Engineer, Friend, Leader, Entrepreneur | Robert Colley",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 2640,
+    "crawled_at": "2026-10-27T11:46:08.739940531Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Perl",
+      "UTF-8",
+      "Vercel",
+      "WordPress"
+    ]
+  },
+  {
+    "domain": "locacloud.com",
+    "title": "LocaCloud - Location and Geospatial Data API",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-10-27T02:20:33.899306869Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Docusaurus",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "pjaworskidev.com",
     "title": "Patryk Jaworski – Frontend & Mobile Developer",
     "business_name": "",
@@ -12787,52 +12827,6 @@
       "YouTube",
       "itch.io",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "inventorofmachines.com",
-    "title": "IoT Product and App Development Course | IOT product development",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-04-12T00:35:20.032315415Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "KaTeX",
-      "Netlify",
-      "Perl",
-      "To Top",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "damia.ai",
-    "title": "AuxoAI - Build Your Next AI Solutions | AuxoAI",
-    "business_name": "AuxoAI",
-    "country": "IND",
-    "seo_score": 67,
-    "tech_spend": 2400,
-    "crawled_at": "2026-04-11T12:53:20.016665719Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "Google Analytics",
-      "Google Tag Manager",
-      "LinkedIn Insights",
-      "LinkedIn Pixel",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "Perl",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]

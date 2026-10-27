@@ -1,5 +1,38 @@
 [
   {
+    "domain": "kodius.com",
+    "title": "Software rescue & embedded teams for funded SaaS — Kodius",
+    "business_name": "Kodius",
+    "country": "HRV",
+    "seo_score": 92,
+    "tech_spend": 15272,
+    "crawled_at": "2026-10-27T15:05:57.339698571Z",
+    "technologies": [
+      "Amazon",
+      "Calendly",
+      "Clutch",
+      "DAV",
+      "Directus",
+      "DoubleClick Bid Manager",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Gridsome",
+      "Instagram Follow Button",
+      "LinkedIn Pixel",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Svelte",
+      "Vimeo",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "ballyhoo.au",
     "title": "The Lawns",
     "business_name": "",
@@ -11842,36 +11875,6 @@
       "Gridsome",
       "Netlify",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "shipblu.com",
-    "title": "ShipBlu - ShipBlu",
-    "business_name": "",
-    "country": "EGY",
-    "seo_score": 65,
-    "tech_spend": 100000,
-    "crawled_at": "2026-04-05T06:34:33.691956963Z",
-    "technologies": [
-      "Apache",
-      "App Store",
-      "DAV",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google My Business",
-      "Google Play",
-      "Gridsome",
-      "Instagram Follow Button",
-      "K2F",
-      "KVH",
-      "QUIC",
-      "SMC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Ubuntu",
-      "Vector Internet Services",
-      "YouTube"
     ]
   }
 ]
