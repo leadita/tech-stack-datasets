@@ -1,5 +1,38 @@
 [
   {
+    "domain": "neokom.tv",
+    "title": "Home |",
+    "business_name": "neokom.tv Video- & E-Learning Agentur | Stuttgart",
+    "country": "DEU",
+    "seo_score": 67,
+    "tech_spend": 4837,
+    "crawled_at": "2026-10-27T05:11:15.664498496Z",
+    "technologies": [
+      "Alternate Protocol",
+      "EmbedPress",
+      "Freshteam",
+      "Gravity",
+      "Gravity Forms",
+      "H5P for WordPress",
+      "Login With Ajax",
+      "Matomo Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Polylang",
+      "Proven Expert",
+      "QUIC",
+      "Schema Plugin",
+      "StudioPress",
+      "Theme In WP",
+      "UTF-8",
+      "Vimeo",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "sera.ag",
     "title": "Sera is the first Greenhouse Intelligence Platform",
     "business_name": "",
@@ -2904,41 +2937,6 @@
       "Vector Internet Services",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "neokom.tv",
-    "title": "Home | neokom.tv Video- und E-Learning Agentur GmbH",
-    "business_name": "neokom.tv Video- & E-Learning Agentur | Stuttgart",
-    "country": "DEU",
-    "seo_score": 72,
-    "tech_spend": 7177,
-    "crawled_at": "2026-03-16T20:29:36.721967774Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "EmbedPress",
-      "Freshsales",
-      "Freshteam",
-      "Gravity",
-      "Gravity Forms",
-      "H5P for WordPress",
-      "Login With Ajax",
-      "Matomo Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "Polylang",
-      "Proven Expert",
-      "QUIC",
-      "Schema Plugin",
-      "StudioPress",
-      "Theme In WP",
-      "UTF-8",
-      "Vimeo",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
