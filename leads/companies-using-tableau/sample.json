@@ -1,5 +1,29 @@
 [
   {
+    "domain": "realakshatsingh.com",
+    "title": "Akshat Singh — Data Analyst & AI/ML Engineer",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 87,
+    "tech_spend": 20756,
+    "crawled_at": "2026-10-27T16:06:43.976911362Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Better Lead Generation Services",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Next.js",
+      "Python",
+      "QUIC",
+      "Tableau",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "Web3Forms"
+    ]
+  },
+  {
     "domain": "tworiversystems.com",
     "title": "Home New - Two River Systems",
     "business_name": "",
@@ -17689,31 +17713,6 @@
       "QUIC",
       "Tableau",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "simingsu.com",
-    "title": "Simon Su - Portfolio",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 3556,
-    "crawled_at": "2026-04-29T08:38:45.809176053Z",
-    "technologies": [
-      "Content Delivery Network",
-      "ElementUI",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Netlify",
-      "Tableau",
-      "UTF-8",
-      "University or College",
-      "eLand"
     ]
   }
 ]

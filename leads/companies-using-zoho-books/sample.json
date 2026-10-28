@@ -1,5 +1,23 @@
 [
   {
+    "domain": "moxsen.com",
+    "title": "Moxsen Consulting",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 339,
+    "crawled_at": "2026-10-28T01:49:59.826979816Z",
+    "technologies": [
+      "Apache",
+      "Cornerstone",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Ubuntu",
+      "Zoho Books"
+    ]
+  },
+  {
     "domain": "tavernitconsulting.com",
     "title": "Tavernit Consulting",
     "business_name": "",
@@ -1802,24 +1820,6 @@
       "Zoho Books",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "moxsen.com",
-    "title": "Moxsen Consulting",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 339,
-    "crawled_at": "2026-03-18T04:08:45.186587709Z",
-    "technologies": [
-      "Apache",
-      "Cornerstone",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Ubuntu",
-      "Zoho Books"
     ]
   }
 ]
