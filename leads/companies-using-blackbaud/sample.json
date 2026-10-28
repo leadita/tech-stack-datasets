@@ -1,5 +1,42 @@
 [
   {
+    "domain": "uwssc.org",
+    "title": "United Way of South Sarasota County - United Way of South Sarasota County",
+    "business_name": "United Way of South Sarasota County",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 29857,
+    "crawled_at": "2026-10-28T01:22:53.969392145Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Animate It",
+      "Blackbaud",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "EveryAction",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nectar Slide Plugin",
+      "Nginx",
+      "QUIC",
+      "Salient",
+      "SiteGround Optimizer",
+      "Tailwind CSS",
+      "UTF-8",
+      "WPBakery",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "masstpc.org",
     "title": "MA Transgender Political Coalition",
     "business_name": "",
@@ -19812,33 +19849,6 @@
       "Vector Internet Services",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "lancasterstandsup.org",
-    "title": "Home - Lancaster Stands Up",
-    "business_name": "Lancaster Stands Up",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 13000,
-    "crawled_at": "2026-04-18T04:47:19.983671998Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Blackbaud",
-      "EmbedPress",
-      "EveryAction",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "NGP VAN",
-      "Perl",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite"
     ]
   }
 ]
