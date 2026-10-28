@@ -16713,47 +16713,5 @@
       "Tailwind CSS",
       "University or College"
     ]
-  },
-  {
-    "domain": "flcems.org",
-    "title": "Home - Florida Center for Emergency Medical Services",
-    "business_name": "Florida Center for Emergency Medical Cervices",
-    "country": "USA",
-    "seo_score": 75,
-    "tech_spend": 23346,
-    "crawled_at": "2026-03-19T07:38:05.184553121Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Azion",
-      "DAV",
-      "Divi",
-      "Elegant Themes",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google No Site Links Search",
-      "Google Tag Manager",
-      "InitiativeS",
-      "Kitco",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "Site Kit",
-      "Smartsheet",
-      "Theme In WP",
-      "UTF-8",
-      "University or College",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
