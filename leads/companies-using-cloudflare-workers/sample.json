@@ -1,5 +1,74 @@
 [
   {
+    "domain": "dylanmtaylor.com",
+    "title": "Dylan M. Taylor",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 33200,
+    "crawled_at": "2026-10-28T05:37:22.105049926Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "DAV",
+      "Envoy",
+      "Fireblade",
+      "GitHub Hosting",
+      "Jekyll",
+      "Nginx",
+      "Oracle Cloud",
+      "Python",
+      "QUIC",
+      "UTF-8",
+      "University or College",
+      "VitePress",
+      "Vultr"
+    ]
+  },
+  {
+    "domain": "webocreation.com",
+    "title": "eCommerce Development Company in Glendale, OpenCart, WordPress, Drupal, Webflow, HubSpot & PHP Web Development and turorials | Webocreation",
+    "business_name": "WebOcreation",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 166049,
+    "crawled_at": "2026-10-28T01:22:53.977765804Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Calendly",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "DAV",
+      "EmbedPress",
+      "Free Call",
+      "Funding Choices",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "PHP",
+      "QUIC",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "Theme In WP",
+      "UTF-8",
+      "University or College",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "batihanozdemir.com",
     "title": "Batıhan Özdemir, Backend Engineer",
     "business_name": "",
@@ -15136,46 +15205,6 @@
       "Google Font API",
       "Perl",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "hillokk.com",
-    "title": "HilLokk Industries | Coming Soon",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 57,
-    "tech_spend": 60,
-    "crawled_at": "2026-05-08T07:41:20.020840081Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "Coming Soon Page",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "satviktandon.dev",
-    "title": "Satvik Tandon — Software Developer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 5540,
-    "crawled_at": "2026-05-08T07:35:20.002785675Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Next.js",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
