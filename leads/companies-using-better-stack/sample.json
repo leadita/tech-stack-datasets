@@ -1,5 +1,29 @@
 [
   {
+    "domain": "status.cpo.it",
+    "title": "CPO status",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 600,
+    "crawled_at": "2026-10-28T06:00:04.834747591Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "Better Stack",
+      "CloudFront",
+      "Content Delivery Network",
+      "DoubleClick Bid Manager",
+      "Fastly",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Pagekit",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "flowstate-status.com",
     "title": "Flowstate status",
     "business_name": "",
@@ -4915,43 +4939,6 @@
       "Twitter Ads",
       "Twitter Analytics",
       "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "status.cpo.it",
-    "title": "CPO status",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 10650,
-    "crawled_at": "2026-03-18T10:31:43.466807233Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Barchart",
-      "Better Stack",
-      "Bing Cashback",
-      "Bing Conversion Tracking",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "DoubleClick Bid Manager",
-      "Facebook Reseller",
-      "Fastly",
-      "Financial Services Guide",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Heroku",
-      "Nginx",
-      "Pagekit",
-      "Plausible Analytics",
-      "Twitter Ads",
-      "Twitter Analytics",
-      "UTF-8",
-      "Vector Internet Services",
       "YouTube"
     ]
   }
