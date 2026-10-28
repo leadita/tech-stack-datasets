@@ -1,5 +1,37 @@
 [
   {
+    "domain": "jarabacoa2050.com",
+    "title": "WhatsApp Group Invite",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 116508,
+    "crawled_at": "2026-10-28T01:49:59.813352194Z",
+    "technologies": [
+      "Adyen",
+      "Amazon Advertising Sizmek Ad Suite",
+      "AppNexus Direct",
+      "Apture Linking Platform",
+      "Booking Affiliate",
+      "Cloudflare",
+      "Content Delivery Network",
+      "DoubleClick Bid Manager",
+      "Facebook CDN",
+      "Fastly CDN",
+      "FormSubmit",
+      "Instagram Follow Button",
+      "Jetpack Site Accelerator",
+      "NFOrce Internet",
+      "PHP",
+      "PWA",
+      "Pantheon",
+      "QUIC",
+      "Salesforce Hosted",
+      "Workday",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "newyorkclassical.org",
     "title": "New York Classical Theatre",
     "business_name": "New York Classical Theatre",
@@ -8621,40 +8653,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "jarabacoa2050.com",
-    "title": "WhatsApp Group Invite",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 123508,
-    "crawled_at": "2026-03-18T04:01:57.453759608Z",
-    "technologies": [
-      "Adyen",
-      "Amazon Advertising Sizmek Ad Suite",
-      "Amazon WAF Blocked",
-      "AppNexus Direct",
-      "Apple Auto Link Maker",
-      "Apture Linking Platform",
-      "Booking Affiliate",
-      "Cloudflare",
-      "Content Delivery Network",
-      "DoubleClick Bid Manager",
-      "Facebook CDN",
-      "Fastly CDN",
-      "Fireblade",
-      "FormSubmit",
-      "Instagram Follow Button",
-      "Jetpack Site Accelerator",
-      "PHP",
-      "PWA",
-      "Pantheon",
-      "QUIC",
-      "Salesforce Hosted",
-      "Workday",
-      "YouTube"
     ]
   }
 ]
