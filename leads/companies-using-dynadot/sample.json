@@ -1,12 +1,12 @@
 [
   {
-    "domain": "cesarmontano.com",
+    "domain": "illegal-aliens.com",
     "title": "Digital Real Estate Specialist",
     "business_name": "",
     "country": "",
     "seo_score": 52,
     "tech_spend": 36,
-    "crawled_at": "2026-10-27T14:51:36.326039351Z",
+    "crawled_at": "2026-10-28T13:52:37.175147654Z",
     "technologies": [
       "Amazon CloudFront",
       "CloudFront",
@@ -19,13 +19,35 @@
     ]
   },
   {
-    "domain": "bicol.net",
+    "domain": "thelineinn.com",
+    "title": "An EMDN - The Line Inn, Luxury Boutique Hotel Futuristic Design Sustainable Architecture Neom Smart Hospitality Modern Amenities Eco-Friendly Accommodation Exclusive Stay Destination Resort Innovative Tourism",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 120,
+    "crawled_at": "2026-10-28T08:46:48.127000417Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "makaticity.org",
     "title": "Welcome to PhilippineProperties.com",
     "business_name": "",
     "country": "",
     "seo_score": 57,
     "tech_spend": 3036,
-    "crawled_at": "2026-10-26T12:59:24.49996498Z",
+    "crawled_at": "2026-10-28T05:32:44.159655029Z",
     "technologies": [
       "Amazon CloudFront",
       "CloudFront",
@@ -113,28 +135,6 @@
       "Twitter Ads",
       "UTF-8",
       "Univer.se"
-    ]
-  },
-  {
-    "domain": "digiyear.com",
-    "title": "An EMDN - Digi Year, Digital Calendar Innovation Technology Smart Planning Productivity Time Management Automation Future Trends",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 120,
-    "crawled_at": "2026-10-23T13:32:07.241260496Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "UTF-8"
     ]
   },
   {
