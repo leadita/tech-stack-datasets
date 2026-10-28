@@ -1,5 +1,36 @@
 [
   {
+    "domain": "dailyuttal.com",
+    "title": "দৈনিক উত্তাল | Daily Uttal - দৈনিক উত্তাল | Daily Uttal",
+    "business_name": "দৈনিক উত্তাল | Daily Uttal",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 1817,
+    "crawled_at": "2026-10-28T03:48:01.646499073Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Dealer.com",
+      "EmbedPress",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "Gtranslate for Wordpress",
+      "IcoMoon",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "touchlessdealer.com",
     "title": "Automatic Boat Cover | Touchless Cover LLC | United States",
     "business_name": "Touchless Cover LLC",
@@ -19279,40 +19310,6 @@
       "UTF-8",
       "YouTube",
       "iAPPS"
-    ]
-  },
-  {
-    "domain": "powderlytxsheds.com",
-    "title": "Storage Sheds for Sale Powderly, Texas | Jeremy Jones Buildings - North",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 16809,
-    "crawled_at": "2026-05-15T16:53:19.97580242Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Dealer.com",
-      "EmbedPress",
-      "Fancybox for WordPress",
-      "Fireblade",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "PHP",
-      "Prefix Free",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]

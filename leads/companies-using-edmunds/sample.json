@@ -1,5 +1,30 @@
 [
   {
+    "domain": "hellowhale.design",
+    "title": "Laura Crawford",
+    "business_name": "Hello Whale Design",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 1541,
+    "crawled_at": "2026-10-27T20:28:52.880808005Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Edmunds",
+      "Express",
+      "GZIP Module",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "jakesundstrom.com",
     "title": "Jake Sundstrom",
     "business_name": "",
@@ -5890,31 +5915,6 @@
       "GitHub Hosting",
       "Hugo",
       "License Buttons"
-    ]
-  },
-  {
-    "domain": "hellowhale.design",
-    "title": "Hello Whale Design",
-    "business_name": "Hello Whale Design",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 1541,
-    "crawled_at": "2026-03-17T19:58:17.171345821Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Edmunds",
-      "Express",
-      "GZIP Module",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
