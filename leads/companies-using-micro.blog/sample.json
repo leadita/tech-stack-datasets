@@ -1,5 +1,39 @@
 [
   {
+    "domain": "fediverseresources.com",
+    "title": "A Resource For Figuring Out The Fediverse - Fediverse Resources",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 4264,
+    "crawled_at": "2026-10-28T03:02:03.743983011Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Automattic",
+      "EmbedPress",
+      "GitHub Hosting",
+      "Koko Analytics",
+      "Matomo",
+      "Matomo Tag Manager",
+      "Medium",
+      "Micro.blog",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Ollie Theme",
+      "PeerTube",
+      "Python",
+      "Show.co",
+      "Sitelinks Search Box",
+      "UTF-8",
+      "Vimeo",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "jnjosh.social",
     "title": "jnjosh's microblog",
     "business_name": "",
@@ -7587,60 +7621,6 @@
       "YouTube",
       "jQuery",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "fediverseresources.com",
-    "title": "A Resource For Figuring Out The Fediverse - Fediverse Resources",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 4264,
-    "crawled_at": "2026-03-18T05:42:47.601199391Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Automattic",
-      "EmbedPress",
-      "GitHub Hosting",
-      "Koko Analytics",
-      "Matomo",
-      "Matomo Tag Manager",
-      "Medium",
-      "Micro.blog",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Ollie Theme",
-      "PeerTube",
-      "Show.co",
-      "Sitelinks Search Box",
-      "UTF-8",
-      "Vimeo",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "ianmason.me",
-    "title": "ian mason - ian mason",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 60,
-    "tech_spend": 263,
-    "crawled_at": "2026-03-17T19:44:44.538991573Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hugo",
-      "Instagram Follow Button",
-      "Micro.blog",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]

@@ -1,5 +1,24 @@
 [
   {
+    "domain": "paulkater.com",
+    "title": "Welkom/Welcome - Paul Kater International",
+    "business_name": "",
+    "country": "RUS",
+    "seo_score": 77,
+    "tech_spend": 149,
+    "crawled_at": "2026-10-28T04:30:36.117489523Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Publii",
+      "Twitter Ads",
+      "WhatsApp Sharing",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "hmgextended.com",
     "title": "Minigui",
     "business_name": "Minigui",
@@ -8047,46 +8066,6 @@
       "Publii",
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "paulkater.com",
-    "title": "Welkom/Welcome - Paul Kater International",
-    "business_name": "",
-    "country": "RUS",
-    "seo_score": 67,
-    "tech_spend": 149,
-    "crawled_at": "2026-03-18T08:13:03.400117992Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Publii",
-      "Twitter Ads",
-      "WhatsApp Sharing",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "perfeccion.ar",
-    "title": "Perfeccion.Ar",
-    "business_name": "Perfeccion.Ar",
-    "country": "ARG",
-    "seo_score": 65,
-    "tech_spend": 149,
-    "crawled_at": "2026-03-17T14:17:56.786997336Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Debian",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Publii",
-      "University or College",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
     ]
   }
 ]
