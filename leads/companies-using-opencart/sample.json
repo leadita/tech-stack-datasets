@@ -1,5 +1,96 @@
 [
   {
+    "domain": "doypack.cn",
+    "title": "Дой-пак пакеты с печатью логотипа на заказ",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 62,
+    "tech_spend": 75000,
+    "crawled_at": "2026-10-28T15:29:44.49324202Z",
+    "technologies": [
+      "Cart.com",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Nginx",
+      "OpenCart",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "macaron.moscow",
+    "title": "Макаронс и печенье с логотипом заказать в Москве",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 75468,
+    "crawled_at": "2026-10-28T14:38:16.736275828Z",
+    "technologies": [
+      "Cart.com",
+      "DAV",
+      "GZIP Module",
+      "IcoMoon",
+      "Nginx",
+      "OpenCart",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "benddungplaza.com",
+    "title": "Super Market Grocery Theme",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 75040,
+    "crawled_at": "2026-10-28T04:54:19.790396301Z",
+    "technologies": [
+      "Cart.com",
+      "DAV",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Nginx",
+      "OpenCart",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "pumpplace.pro",
+    "title": "PUMP Place sump pumps sewage pumps effluent pumps floats and pump controls",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 75488,
+    "crawled_at": "2026-10-28T01:37:27.460670971Z",
+    "technologies": [
+      "3 Products",
+      "AutoComplete",
+      "Cart.com",
+      "Express",
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Font API",
+      "License Buttons",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "OpenCart",
+      "PHP",
+      "QUIC",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "qteelectron.com",
     "title": "Welcome to the electronic website",
     "business_name": "",
@@ -662,30 +753,6 @@
       "UTF-8",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "jaxlio.com",
-    "title": "Jaxlio for Sale",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 30762,
-    "crawled_at": "2026-10-22T12:17:43.899201617Z",
-    "technologies": [
-      "Apache",
-      "Cart.com",
-      "DAV",
-      "Fastly",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "OpenCart",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr"
     ]
   },
   {
@@ -12264,76 +12331,6 @@
       "QUIC",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "vapequiet.com",
-    "title": "Discounted Vape Hardware & Vape Juice on Sale",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 30159,
-    "crawled_at": "2026-06-06T10:34:58.742517915Z",
-    "technologies": [
-      "Alternate Protocol",
-      "AutoComplete",
-      "Cart.com",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Nginx",
-      "OpenCart",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "limpope.pt",
-    "title": "Limpopé | Tapetes para entrada",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 75508,
-    "crawled_at": "2026-06-06T09:21:56.382850384Z",
-    "technologies": [
-      "Apache",
-      "AutoComplete",
-      "Cart.com",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "OpenCart",
-      "Tailwind CSS",
-      "UTF-8",
-      "WhatsApp Sharing"
-    ]
-  },
-  {
-    "domain": "oliver-joker.com",
-    "title": "Oliver Joker Company",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 30003,
-    "crawled_at": "2026-06-06T02:53:42.720449584Z",
-    "technologies": [
-      "Cart.com",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "OpenCart",
-      "QUIC",
-      "Subversion",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]

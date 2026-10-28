@@ -1,15 +1,16 @@
 [
   {
-    "domain": "floor-plan-software.com",
-    "title": "Easy To Use Floor Plan Drawing Software",
+    "domain": "free-floorplans-software.com",
+    "title": "Easy To Use Floorplans Drawing Software",
     "business_name": "",
     "country": "",
     "seo_score": 67,
-    "tech_spend": 1068,
-    "crawled_at": "2026-10-23T00:14:57.377520178Z",
+    "tech_spend": 2136,
+    "crawled_at": "2026-10-28T14:20:52.491678052Z",
     "technologies": [
       "Apache",
       "DAV",
+      "Eber",
       "Express",
       "GZIP Module",
       "Google Analytics",
