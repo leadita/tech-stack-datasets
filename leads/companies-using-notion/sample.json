@@ -1,5 +1,60 @@
 [
   {
+    "domain": "wellgood.media",
+    "title": "Well Good Media — Strategic filmmaking for Scotland's craft brands",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 87,
+    "tech_spend": 25763,
+    "crawled_at": "2026-10-28T13:14:13.005902642Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "CookieYes",
+      "Express",
+      "Full Media",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Next.js",
+      "Notion",
+      "Perl",
+      "QUIC",
+      "Tally",
+      "The Deck",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "upspring.ai",
+    "title": "Upspring | Live advertising data for AI (MCP, API, platform)",
+    "business_name": "Upspring",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 8668,
+    "crawled_at": "2026-10-27T19:47:05.667101852Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Intercom",
+      "Microdata for Google Shopping",
+      "Notion",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "tinnei.com",
     "title": "10A",
     "business_name": "",
@@ -1279,35 +1334,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "toddwellerfilms.com",
-    "title": "Well Good Media — Strategic filmmaking for Scotland's craft brands",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 87,
-    "tech_spend": 25763,
-    "crawled_at": "2026-10-20T11:19:58.977814404Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "CookieYes",
-      "Express",
-      "Full Media",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Next.js",
-      "Notion",
-      "Perl",
-      "QUIC",
-      "Tally",
-      "The Deck",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "shadcn ui"
     ]
   },
   {
@@ -8363,31 +8389,6 @@
       "Pleroma",
       "Slack",
       "Styled Components",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "getupspring.com",
-    "title": "Upspring · the world's advertising, as data your AI can read",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 8668,
-    "crawled_at": "2026-09-02T12:17:20.569075285Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Intercom",
-      "Notion",
-      "QUIC",
-      "Tailwind CSS",
       "UTF-8",
       "Vercel"
     ]
