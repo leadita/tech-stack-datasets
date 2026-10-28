@@ -1,5 +1,96 @@
 [
   {
+    "domain": "soundcontrol.co.nz",
+    "title": "Sound Control",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 26332,
+    "crawled_at": "2026-10-28T10:56:04.682452276Z",
+    "technologies": [
+      "AAPT",
+      "Chakra UI",
+      "Content Delivery Network",
+      "DAV",
+      "Financial Services Guide",
+      "Harbor",
+      "Idaq",
+      "KVH",
+      "Next.js",
+      "No-Q",
+      "Pico CSS",
+      "Pleroma",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "Unix",
+      "Unsplash",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "sardarpatelzoo.com",
+    "title": "Home | Sardar Patel Zoological Park",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 56670,
+    "crawled_at": "2026-10-27T18:52:48.534356751Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon",
+      "Apture Linking Platform",
+      "CDN JS",
+      "Chakra UI",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Coming Soon Page",
+      "Fireblade",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "KVH",
+      "Line2",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Thank You",
+      "UTF-8",
+      "University or College",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "sheetmidi.com",
+    "title": "Halbestunde Music Plugin",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 228,
+    "crawled_at": "2026-10-27T18:25:00.275129569Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Netlify",
+      "Next.js",
+      "PWA",
+      "Pleroma",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "virtfootprint.com",
     "title": "VirtFootPrint - Your Digital Universe in One Link",
     "business_name": "",
@@ -13038,59 +13129,6 @@
       "Pico CSS",
       "Pleroma",
       "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "frostbyte.art",
-    "title": "Frostbyte",
-    "business_name": "",
-    "country": "",
-    "seo_score": 27,
-    "tech_spend": "",
-    "crawled_at": "2026-05-21T04:20:19.977578693Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "k-process.com",
-    "title": "K-process",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 200,
-    "crawled_at": "2026-05-21T03:35:54.808377589Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Chakra UI",
-      "Content Delivery Network",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "xn--jj0ba469hba.kr",
-    "title": "금방금방-한국금거래소",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 1200,
-    "crawled_at": "2026-05-21T01:38:20.004744929Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vector Internet Services",
       "Vercel"
     ]
   }

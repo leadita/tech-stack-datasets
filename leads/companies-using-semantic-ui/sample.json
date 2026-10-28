@@ -1,5 +1,30 @@
 [
   {
+    "domain": "lovesicklakepark.ca",
+    "title": "Home |Lovesick Lake Park",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 339,
+    "crawled_at": "2026-10-27T18:42:15.705005978Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Coming Soon Page",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Nginx",
+      "PHP",
+      "Parallels Plesk Panel",
+      "Pleroma",
+      "Semantic UI",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "homedoot.co.in",
     "title": "Home Cleaning Services in Mumbai | Home Services | Home Doot",
     "business_name": "Home Doot",
@@ -14731,30 +14756,6 @@
       "Nginx",
       "Semantic UI",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "kingkiller.cn",
-    "title": "Home | kingkiller’s blog",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 756,
-    "crawled_at": "2026-05-01T00:08:19.977712466Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Hugo",
-      "IcoMoon",
-      "KaTeX",
-      "Python",
-      "Semantic UI",
-      "Twitter Ads",
-      "UTF-8",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
