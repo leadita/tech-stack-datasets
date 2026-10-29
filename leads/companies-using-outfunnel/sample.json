@@ -7510,44 +7510,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "trendtype.com",
-    "title": "Trendtype - Market research & intelligence on 50 countries in Africa",
-    "business_name": "Trendtype",
-    "country": "GBR",
-    "seo_score": 67,
-    "tech_spend": 4314,
-    "crawled_at": "2026-03-20T02:20:57.573028436Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Divi",
-      "Elegant Themes",
-      "EmbedPress",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Gravity",
-      "Instagram Follow Button",
-      "MonsterInsights",
-      "Nginx",
-      "Outfunnel",
-      "PHP",
-      "Perl",
-      "Photo Gallery for WordPress",
-      "Sitelinks Search Box",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
