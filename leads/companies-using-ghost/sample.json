@@ -1,5 +1,77 @@
 [
   {
+    "domain": "pea-pod.org",
+    "title": "PEA Pod",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2948,
+    "crawled_at": "2026-10-29T11:46:56.762182677Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Express",
+      "Ghost",
+      "Matomo",
+      "Matomo Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "neuroxt.com",
+    "title": "NeuroXT Inc.",
+    "business_name": "",
+    "country": "PRK",
+    "seo_score": 57,
+    "tech_spend": 132,
+    "crawled_at": "2026-10-29T08:49:13.653493653Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Bunny Fonts",
+      "Express",
+      "Ghost",
+      "Microdata for Google Shopping",
+      "UTF-8",
+      "University or College",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "cyberscope360.com",
+    "title": "CyberScope: IT & Cybersecurity Insights, and Solutions",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 16664,
+    "crawled_at": "2026-10-29T03:10:23.125839511Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "ArvanCloud",
+      "Bunny Fonts",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "DAV",
+      "Express",
+      "Fireblade",
+      "GTranslate",
+      "Ghost",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "UTF-8",
+      "Unsplash",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "thebeautifulidea.show",
     "title": "The Beautiful Idea",
     "business_name": "",
@@ -13125,71 +13197,6 @@
       "OpenResty",
       "TikTok Conversion Tracking Pixel",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "roadandreason.com",
-    "title": "Road & Reason",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 3060,
-    "crawled_at": "2026-04-14T08:26:19.994512203Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Ghost",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "ancientaryans.com",
-    "title": "Ancient Aryans",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 195,
-    "crawled_at": "2026-04-14T08:20:53.958439107Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Coming Soon Page",
-      "Express",
-      "Ghost",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "jeffjones.biz",
-    "title": "Jeff Jones",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 732,
-    "crawled_at": "2026-04-14T08:14:20.01489598Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Ghost",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "UTF-8",
-      "University or College",
-      "jsDelivr"
     ]
   }
 ]

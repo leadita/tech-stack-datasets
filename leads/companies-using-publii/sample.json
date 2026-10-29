@@ -1,5 +1,34 @@
 [
   {
+    "domain": "businessmobilecontract.com",
+    "title": "BusinessMobileContract.com - Best Price 5G Business Mobile Contracts",
+    "business_name": "BusinessMobileContract.com",
+    "country": "GBR",
+    "seo_score": 87,
+    "tech_spend": 30578,
+    "crawled_at": "2026-10-28T13:20:29.071930182Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "CoreUI",
+      "DAV",
+      "Fireblade",
+      "Flat Icon",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "paulkater.com",
     "title": "Welkom/Welcome - Paul Kater International",
     "business_name": "",
@@ -8038,34 +8067,6 @@
       "Microdata for Google Shopping",
       "Publii",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "businessmobilecontract.com",
-    "title": "BusinessMobileContract.com - Best Price 5G Business Mobile Contracts",
-    "business_name": "BusinessMobileContract.com",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 30578,
-    "crawled_at": "2026-03-18T21:46:47.534078833Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "CoreUI",
-      "Fireblade",
-      "Flat Icon",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
     ]
   }
 ]
