@@ -1,5 +1,49 @@
 [
   {
+    "domain": "chamberlainsaccountancy.com",
+    "title": "Company Formation Services: Choosing the Right Provider 1 - %%sitename%%",
+    "business_name": "Rock Corporate Services Provider",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 34629,
+    "crawled_at": "2026-10-29T18:45:18.323323482Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Animate It",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "EmbedPress",
+      "Fireblade",
+      "GoDaddy",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Line2",
+      "Menu Icons by ThemeIsle",
+      "Microdata for Google Shopping",
+      "MonsterInsights",
+      "Nectar Slide Plugin",
+      "PHP",
+      "QUIC",
+      "Salient",
+      "Site Kit",
+      "Theme In WP",
+      "UTF-8",
+      "WPBakery",
+      "Wangsu",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery",
+      "monday.com"
+    ]
+  },
+  {
     "domain": "insightperth.com",
     "title": "Accountants & Business Advisors Perth | Insight Advisory",
     "business_name": "",
@@ -18880,31 +18924,6 @@
       "eLand",
       "mlcom",
       "monday.com"
-    ]
-  },
-  {
-    "domain": "hqmapmatix.com",
-    "title": "CRM & Automation Experts for Growing Businesses | MapMatix",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 154392,
-    "crawled_at": "2026-09-11T21:57:01.143361822Z",
-    "technologies": [
-      "Astro",
-      "Calendly",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Harbor",
-      "Hugging Face Space",
-      "Microdata for Google Shopping",
-      "Pico CSS",
-      "QUIC",
-      "Salesforce Hosted",
-      "monday.com",
-      "shadcn ui"
     ]
   }
 ]
