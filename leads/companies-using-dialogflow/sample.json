@@ -1,5 +1,32 @@
 [
   {
+    "domain": "stemsuccessglobaltutors.org",
+    "title": "STEM SUCCESS GLOBAL TUTORS| Online Math, Physics, Computer Science, Chess Specialists",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 3376,
+    "crawled_at": "2026-10-28T15:29:44.45550266Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Dialogflow",
+      "Express",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Forms",
+      "Google Maps",
+      "Google My Business",
+      "IcoMoon",
+      "Netlify",
+      "Python",
+      "UTF-8",
+      "University or College",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "laundrypattaya.app",
     "title": "Mr Jeff Pattaya Laundry",
     "business_name": "",
@@ -8751,59 +8778,6 @@
       "WordPress",
       "WordPress Multisite",
       "YouTube",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "dhbalaji.dev",
-    "title": "dhbalaji, lead design technologist at Sabre",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 5040,
-    "crawled_at": "2026-03-19T11:47:03.324002656Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Dialogflow",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "InitiativeS",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "stemsuccessglobaltutors.org",
-    "title": "STEM SUCCESS GLOBAL TUTORS| Online Math, Physics, Computer Science, Chess Specialists",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 3376,
-    "crawled_at": "2026-03-19T00:53:58.474139524Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Dialogflow",
-      "Express",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Forms",
-      "Google Maps",
-      "Google My Business",
-      "IcoMoon",
-      "Netlify",
-      "Python",
-      "UTF-8",
-      "University or College",
       "jQuery"
     ]
   }
