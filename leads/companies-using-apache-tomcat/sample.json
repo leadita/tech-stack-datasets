@@ -1,5 +1,26 @@
 [
   {
+    "domain": "tournamentdepot.com",
+    "title": "Tournament Depot",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 2500,
+    "crawled_at": "2026-10-29T09:07:59.947974182Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Apple Auto Link Maker",
+      "Google My Business",
+      "Google Play",
+      "JIRA",
+      "Ntent",
+      "Twitter Ads",
+      "University or College",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "dil.kpi.ua",
     "title": "Kyiv Polytechnic Digital Library",
     "business_name": "",
@@ -13047,27 +13068,6 @@
       "Vector Internet Services",
       "jQuery",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "tournamentdepot.com",
-    "title": "Tournament Depot",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 2500,
-    "crawled_at": "2026-03-20T02:38:11.603009312Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Apple Auto Link Maker",
-      "Google My Business",
-      "Google Play",
-      "JIRA",
-      "Ntent",
-      "Twitter Ads",
-      "University or College",
-      "jQuery"
     ]
   }
 ]
