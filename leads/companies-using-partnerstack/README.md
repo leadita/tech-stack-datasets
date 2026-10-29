@@ -1,6 +1,6 @@
 # Companies Using PartnerStack (Live Dataset 2026)
 
-This folder contains an active list of 730 companies using **PartnerStack**. 
+This folder contains an active list of 728 companies using **PartnerStack**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 730
+- **Total Leads:** 728
 - **Verified:** Yes
-- **Last Updated:** 2026-10-28 11:15 UTC
+- **Last Updated:** 2026-10-29 11:15 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **730+** companies using PartnerStack.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **728+** companies using PartnerStack.
 
 [**⚡ Unlock the Full PartnerStack List with Contact Details**](https://leadita.com/leads/companies-using-partnerstack)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-10-28 11:15 UTC*
+*Last updated: 2026-10-29 11:15 UTC*
 *Data source: Leadita Technographic Intelligence*
