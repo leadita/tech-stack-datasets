@@ -1,5 +1,32 @@
 [
   {
+    "domain": "nordicdomaindays.com",
+    "title": "Nordic Domain Days - The Original Domain Days Experience",
+    "business_name": "Nordic Domain Days",
+    "country": "SWE",
+    "seo_score": 82,
+    "tech_spend": 1568,
+    "crawled_at": "2026-10-28T17:40:45.228652014Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Automattic",
+      "Automattic Direct",
+      "Dynadot",
+      "GZIP Module",
+      "GoDaddy",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Thank You",
+      "UTF-8",
+      "Ubuntu",
+      "WP Cloud",
+      "Website Tonight",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "illegal-aliens.com",
     "title": "Digital Real Estate Specialist",
     "business_name": "",
