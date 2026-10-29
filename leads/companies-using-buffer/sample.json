@@ -7609,48 +7609,5 @@
       "jsDelivr",
       "qTranslate"
     ]
-  },
-  {
-    "domain": "hearingvoicesdu.org",
-    "title": "HOME 2 - Hearing Voices",
-    "business_name": "Hearing Voices",
-    "country": "GBR",
-    "seo_score": 75,
-    "tech_spend": 19811,
-    "crawled_at": "2026-03-19T11:08:25.56836612Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Buffer",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Divi",
-      "Elegant Themes",
-      "EmbedPress",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Google Workspace",
-      "Microdata for Google Shopping",
-      "Monarch Social Sharing Plugin For WordPress",
-      "MonsterInsights",
-      "PHP",
-      "Share Link",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "WP Engine",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
