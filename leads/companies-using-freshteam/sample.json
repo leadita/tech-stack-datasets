@@ -2898,45 +2898,5 @@
       "jsDelivr",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "mudrex.com",
-    "title": "Mudrex: Trade Bitcoin & Crypto on India's Best Crypto Exchange.",
-    "business_name": "Mudrex",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 11582,
-    "crawled_at": "2026-03-20T07:23:16.159652302Z",
-    "technologies": [
-      "AI Log",
-      "AdRoll",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Angular",
-      "CloudFront",
-      "Content Delivery Network",
-      "Freshteam",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Headless UI",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "PWA",
-      "Pleroma",
-      "QUIC",
-      "Sign In With Google",
-      "Tailwind CSS",
-      "Telegram",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "YouTube",
-      "shadcn ui"
-    ]
   }
 ]
