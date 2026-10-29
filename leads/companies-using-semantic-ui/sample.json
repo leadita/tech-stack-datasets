@@ -1,5 +1,88 @@
 [
   {
+    "domain": "bluestransfer.it",
+    "title": "Servizio taxi in Puglia e Basilicata - Blue Transfer",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 3177,
+    "crawled_at": "2026-10-29T13:28:40.894327192Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Aruba",
+      "Azion",
+      "ChronoEngine",
+      "FreeCSSTemplates",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Joomla!",
+      "Pico CSS",
+      "QUIC",
+      "RokNavMenu",
+      "Semantic UI",
+      "UTF-8",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "mprint.ink",
+    "title": "Ordering Center",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": "",
+    "crawled_at": "2026-10-28T23:35:44.470355014Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "FreeCSSTemplates",
+      "GZIP Module",
+      "Nginx",
+      "Semantic UI",
+      "UTF-8",
+      "Ubuntu",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "outthererpo.com",
+    "title": "Employee Lifecycle Experts | Outsourcing Experts | Out There RPO",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 13984,
+    "crawled_at": "2026-10-28T22:38:50.203823571Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Cookies and You",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Perl",
+      "Pinpoint HQ",
+      "Schema Plugin",
+      "Semantic UI",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "lovesicklakepark.ca",
     "title": "Home |Lovesick Lake Park",
     "business_name": "",
@@ -14702,60 +14785,6 @@
       "YouTube",
       "eLand",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "johnmeva.com",
-    "title": "John Meva // official artist page",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 67,
-    "tech_spend": 772,
-    "crawled_at": "2026-05-01T08:35:20.010946275Z",
-    "technologies": [
-      "ArvanCloud",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Linktree",
-      "Semantic UI",
-      "YouTube",
-      "jQuery",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "maidshead.co.uk",
-    "title": "The Maid's Head",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2026-05-01T08:32:19.978568038Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ElementUI",
-      "GZIP Module",
-      "Nginx",
-      "Semantic UI",
-      "SiteW",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "cambridgeshiremusic.org.uk",
-    "title": "Cambridgeshire Music",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-05-01T02:32:20.008350625Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GZIP Module",
-      "Nginx",
-      "Semantic UI",
-      "UTF-8"
     ]
   }
 ]
