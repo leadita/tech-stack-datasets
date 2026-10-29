@@ -1,5 +1,43 @@
 [
   {
+    "domain": "spinn.com",
+    "title": "Spinn | Coffee Maker & Coffee Marketplace",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 1200,
+    "crawled_at": "2026-10-29T14:06:28.102577258Z",
+    "technologies": [
+      "Amazon Widgets",
+      "Canada Post",
+      "DHL Parcel",
+      "Express",
+      "FedEx",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Interchange",
+      "Login and Pay with Amazon",
+      "Next.js",
+      "Nginx",
+      "Parcel",
+      "Perl",
+      "Pleroma",
+      "QUIC",
+      "Smart App Banner",
+      "Styled Components",
+      "Twitter Ads",
+      "UPS",
+      "USPS",
+      "UTF-8",
+      "Vector Internet Services",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "bellechestermn.com",
     "title": "Home | City of Bellechester Minnesota",
     "business_name": "City of Bellechester   Minnesota",
@@ -18414,37 +18452,6 @@
       "UTF-8",
       "WordPress",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "shinlimmagic.com",
-    "title": "Shin Lim Magic | Welcome To The Art of Illusion",
-    "business_name": "Shin Lim Magic",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 3948,
-    "crawled_at": "2026-05-04T15:50:20.003535172Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "QUIC",
-      "Squarespace",
-      "USPS",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "eLand"
     ]
   }
 ]
