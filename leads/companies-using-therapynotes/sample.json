@@ -1,5 +1,39 @@
 [
   {
+    "domain": "smwcounseling.com",
+    "title": "Sarah Martin-Werntz Counseling Services, PLLC – Counseling and clinical services in Abilene, TX",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 91010,
+    "crawled_at": "2026-10-28T18:33:09.402735899Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adult Content",
+      "Alternate Protocol",
+      "Aruba",
+      "Automattic",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Fireblade",
+      "FormSubmit",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "NFOrce Internet",
+      "Nginx",
+      "Paessler",
+      "SMC",
+      "Thank You",
+      "TherapyNotes",
+      "UTF-8",
+      "University or College",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "eLand"
+    ]
+  },
+  {
     "domain": "lakeviewbilling.com",
     "title": "Medical Billing - Lakeview Healthcare Billing",
     "business_name": "Lakeview Healthcare Billing",
@@ -5656,40 +5690,6 @@
       "WordPress Related Posts",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "smwcounseling.com",
-    "title": "Sarah Martin-Werntz Counseling Services, PLLC – Counseling and clinical services in Abilene, TX",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 84111,
-    "crawled_at": "2026-03-19T05:32:26.614579884Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adult Content",
-      "Alternate Protocol",
-      "Aruba",
-      "Automattic",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Fireblade",
-      "FormSubmit",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "NFOrce Internet",
-      "Nginx",
-      "SMC",
-      "Tailwind CSS",
-      "Thank You",
-      "TherapyNotes",
-      "UTF-8",
-      "University or College",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "eLand"
     ]
   }
 ]
