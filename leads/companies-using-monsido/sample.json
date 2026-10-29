@@ -1,5 +1,37 @@
 [
   {
+    "domain": "randallcounty.gov",
+    "title": "Randall County, TX | Official Website",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 11623,
+    "crawled_at": "2026-10-29T07:25:00.487635676Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "AutoComplete",
+      "CivicPlus",
+      "ETranslate",
+      "GTranslate",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Material-UI",
+      "Microsoft Azure",
+      "Monsido",
+      "Perl",
+      "QUIC",
+      "SiteW",
+      "UTF-8",
+      "University or College",
+      "Visual Studio",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "lavaridge.net",
     "title": "Lava Ridge Intermediate – Washington County School District Schools Sites",
     "business_name": "",
@@ -5406,39 +5438,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "randallcounty.com",
-    "title": "Randall County, TX | Official Website",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 11623,
-    "crawled_at": "2026-05-25T01:11:21.811453685Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "AutoComplete",
-      "CivicPlus",
-      "ETranslate",
-      "GTranslate",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Material-UI",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Monsido",
-      "Perl",
-      "QUIC",
-      "SiteW",
-      "UTF-8",
-      "University or College",
-      "Visual Studio",
-      "jQuery"
     ]
   },
   {
