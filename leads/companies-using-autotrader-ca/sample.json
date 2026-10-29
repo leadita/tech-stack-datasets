@@ -1,5 +1,30 @@
 [
   {
+    "domain": "sell.market",
+    "title": "Selection of marketplaces and product aggregators - SELL.MARKET | sell.market",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 10060,
+    "crawled_at": "2026-10-29T00:07:03.299340837Z",
+    "technologies": [
+      "Angular",
+      "AutoTrader CA",
+      "CafePress",
+      "Express",
+      "GZIP Module",
+      "GrubHub",
+      "Monster",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "UTF-8",
+      "Vagaro",
+      "Yandex Hosting",
+      "eLand"
+    ]
+  },
+  {
     "domain": "canadiancaroftheyear.ca",
     "title": "Canadian Car of the Year – Canadian Car of the Year",
     "business_name": "",
@@ -2214,55 +2239,6 @@
       "UTF-8",
       "University or College",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "sell.market",
-    "title": "Selection of marketplaces and product aggregators - SELL.MARKET | sell.market",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 10060,
-    "crawled_at": "2026-03-19T13:24:46.830479336Z",
-    "technologies": [
-      "Angular",
-      "AutoTrader CA",
-      "CafePress",
-      "Express",
-      "GZIP Module",
-      "GrubHub",
-      "Monster",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "UTF-8",
-      "Vagaro",
-      "Yandex Hosting",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "bcwautomotivegroup.ca",
-    "title": "Mini Cooper Used Automotive Car Sales - BCW Automotive Group",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 18312,
-    "crawled_at": "2026-03-19T11:12:51.245680651Z",
-    "technologies": [
-      "Apache",
-      "AutoTrader CA",
-      "Express",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Line2",
-      "PWA",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
     ]
   }
 ]
