@@ -125,24 +125,5 @@
       "Subversion",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "stage-rheo.com",
-    "title": "Rheo",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 1260,
-    "crawled_at": "2026-03-20T17:12:01.062225421Z",
-    "technologies": [
-      "Amazon",
-      "Apache",
-      "Barchart",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Grafana",
-      "UTF-8"
-    ]
   }
 ]
