@@ -1,5 +1,37 @@
 [
   {
+    "domain": "tulsatech.com",
+    "title": "Get the training you need to get to work. | Tulsa Technology Center",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 65,
+    "tech_spend": 61229,
+    "crawled_at": "2026-10-29T14:58:21.88384549Z",
+    "technologies": [
+      "Blackboard Open LMS",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Line2",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Prospective",
+      "Symplicity",
+      "University or College",
+      "UserWay",
+      "Visual Studio",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "backboardnblackboard.com",
     "title": "Backboard N' Blackboard | Backboard N' Blackboard",
     "business_name": "",
@@ -974,39 +1006,6 @@
       "Unix",
       "Vello",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "tulsatech.edu",
-    "title": "Get the training you need to get to work. | Tulsa Technology Center",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 70,
-    "tech_spend": 61229,
-    "crawled_at": "2026-05-24T13:35:55.847018865Z",
-    "technologies": [
-      "Blackboard Open LMS",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DAV",
-      "Express",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Line2",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Prospective",
-      "Symplicity",
-      "University or College",
-      "UserWay",
-      "Visual Studio",
-      "YouTube"
     ]
   },
   {
