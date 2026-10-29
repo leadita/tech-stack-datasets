@@ -1,5 +1,35 @@
 [
   {
+    "domain": "nightshadenoodlebar.com",
+    "title": "Nightshade Noodle Bar — French-Vietnamese Tasting Menu | Lynn, MA",
+    "business_name": "Nightshade Noodle Bar",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 85032,
+    "crawled_at": "2026-10-28T19:54:36.650434426Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Newsletter for Wordpress",
+      "QUIC",
+      "Resy",
+      "SiteW",
+      "Squarespace",
+      "Toast POS",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "bombaygrillnewcity.com",
     "title": "Bombay Grill | Indian Restaurant in New City, NY",
     "business_name": "Bombay Grill",
@@ -16838,37 +16868,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "perrysam.com",
-    "title": "Perry's Restaurant",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 17139,
-    "crawled_at": "2026-09-03T12:22:47.810796222Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Perfect Venue",
-      "Resy",
-      "Toast POS",
-      "Twitter Ads",
-      "UTF-8",
-      "WF Cookie Consent",
-      "jsDelivr"
     ]
   }
 ]
