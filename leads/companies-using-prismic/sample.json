@@ -1,5 +1,48 @@
 [
   {
+    "domain": "artifactproperty.co.nz",
+    "title": "Artifact Property — Contemporary Architectural Developers",
+    "business_name": "",
+    "country": "NZL",
+    "seo_score": 62,
+    "tech_spend": 40408,
+    "crawled_at": "2026-10-30T12:26:32.420168413Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Instagram Follow Button",
+      "Netlify",
+      "Nuxt.js",
+      "Prismic",
+      "UTF-8",
+      "Vignette OpenText"
+    ]
+  },
+  {
+    "domain": "pro-air.nl",
+    "title": "Pro-Air Ede - installatie-specialisten airconditioning en luchtbehandeling | Pro Air Ede",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 62,
+    "tech_spend": 942,
+    "crawled_at": "2026-10-29T22:09:30.865028535Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Adult Content",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Cookie First",
+      "Financial Services Guide",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Nuxt.js",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "blueworld.group",
     "title": "blueworld.group | Unternehmertum. Origineller. Smarter. Verantwortungsvoller. | blueworld.group",
     "business_name": "",
@@ -13736,53 +13779,6 @@
       "Shopify",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "avitor.ai",
-    "title": "Avitor.ai | AI Private Jet Booking Platform for Brokers and Operators",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 620,
-    "crawled_at": "2026-05-02T18:17:19.980364174Z",
-    "technologies": [
-      "3 Products",
-      "Amazon CloudFront",
-      "Better Lead Generation Services",
-      "CloudFront",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Prismic",
-      "QUIC",
-      "Radix UI",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "poetrybookawards.co.uk",
-    "title": "Maya Poetry Book Awards - Celebrating Excellence in Poetry",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-05-02T14:14:20.023150093Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "Netlify",
-      "Next.js",
-      "Prismic",
-      "UTF-8",
-      "eLand"
     ]
   }
 ]
