@@ -1,5 +1,27 @@
 [
   {
+    "domain": "cozie-fitbit.app",
+    "title": "Cozie, a Fitbit clock face for IEQ and physiological data collection | Cozie, a Fitbit clock face for IEQ and physiological data collection",
+    "business_name": "",
+    "country": "SGP",
+    "seo_score": 82,
+    "tech_spend": 7400,
+    "crawled_at": "2026-10-30T14:00:41.678506176Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Perl",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services"
+    ]
+  },
+  {
     "domain": "tw-7.com",
     "title": "Welcome to Technical Writer's Weekly | Technical Writer's Weekly",
     "business_name": "",
@@ -8936,26 +8958,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "cozie.app",
-    "title": "Cozie | Cozie",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 600,
-    "crawled_at": "2026-04-30T15:05:19.97774117Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   },
   {
