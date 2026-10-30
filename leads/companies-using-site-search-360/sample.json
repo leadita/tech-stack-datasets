@@ -1,5 +1,42 @@
 [
   {
+    "domain": "unshakabletruth.com",
+    "title": "The Great Commandment Network",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 12354,
+    "crawled_at": "2026-10-30T20:30:55.481181451Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "Express",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Google Analytics",
+      "Google Tag Manager",
+      "HubSpot Conversations",
+      "Hubspot",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Nginx",
+      "No-Q",
+      "QUIC",
+      "Shopify",
+      "Site Search 360",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "loweman.com",
     "title": "Attachments for Skid Steers & Tractors | Lowe Mfg. Co., Inc.",
     "business_name": "",
@@ -16230,30 +16267,6 @@
       "Thank You",
       "UTF-8",
       "UserWay"
-    ]
-  },
-  {
-    "domain": "trilobite-innovation.com",
-    "title": "Home | Trilobite Industri AS",
-    "business_name": "",
-    "country": "NOR",
-    "seo_score": 77,
-    "tech_spend": 15936,
-    "crawled_at": "2026-04-21T05:02:20.017006526Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Duda",
-      "GZIP Module",
-      "Nginx",
-      "Perl",
-      "Site Search 360",
-      "Styled Components",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]
