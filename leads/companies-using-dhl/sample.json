@@ -1,5 +1,32 @@
 [
   {
+    "domain": "kungacargo.com",
+    "title": "Kunga Cargo C.A. | Courier Nacional e Internacional",
+    "business_name": "",
+    "country": "VEN",
+    "seo_score": 65,
+    "tech_spend": 20608,
+    "crawled_at": "2026-10-30T15:31:12.770613981Z",
+    "technologies": [
+      "Apache",
+      "Cisco/Arrowpoint Content Service Switch",
+      "DHL Parcel",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "License Buttons",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Wangsu"
+    ]
+  },
+  {
     "domain": "dev-dhl-webport.com",
     "title": "Webport",
     "business_name": "",
@@ -8101,33 +8128,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "kungacargo.com.ve",
-    "title": "Kunga Cargo C.A. | Courier Nacional e Internacional",
-    "business_name": "",
-    "country": "VEN",
-    "seo_score": 70,
-    "tech_spend": 20608,
-    "crawled_at": "2026-05-30T09:20:29.988634108Z",
-    "technologies": [
-      "Apache",
-      "Cisco/Arrowpoint Content Service Switch",
-      "DHL Parcel",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "License Buttons",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Wangsu"
     ]
   },
   {
