@@ -1,12 +1,12 @@
 [
   {
-    "domain": "renaissancetowerapts.com",
-    "title": "Renaissance Tower by Windsor | Apartments in Los Angeles, CA",
-    "business_name": "Renaissance Tower",
+    "domain": "windsorwinchester.com",
+    "title": "Windsor Winchester | San Jose Apartments by Westfield Valley Fair",
+    "business_name": "Windsor Winchester",
     "country": "CAN",
     "seo_score": 82,
-    "tech_spend": 46883,
-    "crawled_at": "2026-10-29T13:40:57.190336652Z",
+    "tech_spend": 51883,
+    "crawled_at": "2026-10-30T12:23:44.517060597Z",
     "technologies": [
       "Alternate Protocol",
       "Amazon",
@@ -20,6 +20,7 @@
       "CDN JS",
       "CacheFly CDN",
       "CallRail",
+      "Cisco/Arrowpoint Content Service Switch",
       "CloudFront",
       "Cloudflare",
       "Cloudflare CDN",
