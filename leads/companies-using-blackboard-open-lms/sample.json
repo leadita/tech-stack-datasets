@@ -1,12 +1,37 @@
 [
   {
-    "domain": "tulsatech.com",
+    "domain": "adamzap.com",
+    "title": "adamzap",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 38928,
+    "crawled_at": "2026-10-30T03:36:14.053531317Z",
+    "technologies": [
+      "Amazon Widgets",
+      "Basecamp",
+      "Blackboard Open LMS",
+      "Camp",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Netlify",
+      "PHP",
+      "Phew",
+      "Python",
+      "UTF-8",
+      "WordPress",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "tulsa.tech",
     "title": "Get the training you need to get to work. | Tulsa Technology Center",
     "business_name": "",
     "country": "ZAF",
     "seo_score": 65,
     "tech_spend": 61229,
-    "crawled_at": "2026-10-29T14:58:21.88384549Z",
+    "crawled_at": "2026-10-29T17:10:07.111918987Z",
     "technologies": [
       "Blackboard Open LMS",
       "CDN JS",
@@ -3507,31 +3532,6 @@
       "monday.com",
       "myThings",
       "phpMyVisites"
-    ]
-  },
-  {
-    "domain": "adamzap.com",
-    "title": "adamzap",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 38928,
-    "crawled_at": "2026-03-21T03:38:40.133816602Z",
-    "technologies": [
-      "Amazon Widgets",
-      "Basecamp",
-      "Blackboard Open LMS",
-      "Camp",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Netlify",
-      "PHP",
-      "Phew",
-      "Python",
-      "UTF-8",
-      "WordPress",
-      "YouTube",
-      "eLand"
     ]
   }
 ]

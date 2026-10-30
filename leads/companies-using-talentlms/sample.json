@@ -1,5 +1,77 @@
 [
   {
+    "domain": "gramatten.com",
+    "title": "Gramatten",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 4111,
+    "crawled_at": "2026-10-30T08:13:17.958185107Z",
+    "technologies": [
+      "Alternate Protocol",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "PWA",
+      "TalentLMS",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
+    "domain": "myplanconnect.com.au",
+    "title": "My Plan Connect",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 85077,
+    "crawled_at": "2026-10-30T03:13:48.076277124Z",
+    "technologies": [
+      "Aruba",
+      "Crowdsignal",
+      "Express",
+      "FormSubmit",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "TalentLMS",
+      "UTF-8",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "family-academy.org",
+    "title": "Family Academy",
+    "business_name": "Family Academy",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 6171,
+    "crawled_at": "2026-10-30T00:49:17.309713225Z",
+    "technologies": [
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Instant SSL",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Plausible Analytics",
+      "QUIC",
+      "TalentLMS",
+      "TrustLogo",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "gswiss.ch",
     "title": "Global Swiss Academy",
     "business_name": "",
@@ -9574,50 +9646,6 @@
       "YouTube",
       "Zoom",
       "Zoom Video Conferencing"
-    ]
-  },
-  {
-    "domain": "gramatten.com",
-    "title": "Gramatten",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 4111,
-    "crawled_at": "2026-03-21T09:43:43.318266132Z",
-    "technologies": [
-      "Alternate Protocol",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "PWA",
-      "TalentLMS",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
-    ]
-  },
-  {
-    "domain": "family-academy.org",
-    "title": "Family Academy",
-    "business_name": "Family Academy",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 6171,
-    "crawled_at": "2026-03-20T23:55:44.920927985Z",
-    "technologies": [
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Instant SSL",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Plausible Analytics",
-      "QUIC",
-      "TalentLMS",
-      "TrustLogo",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]

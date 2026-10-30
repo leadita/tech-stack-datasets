@@ -1,5 +1,31 @@
 [
   {
+    "domain": "whytecleon.com.ng",
+    "title": "Whyte Cleon Limited | Human Resource Outsourcing & Consulting Company",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 11358,
+    "crawled_at": "2026-10-29T19:23:58.115206062Z",
+    "technologies": [
+      "Express",
+      "Fastly",
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Moodle",
+      "NFOrce Internet",
+      "PHP",
+      "Totara",
+      "Twitter Ads",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "boaf-training.com",
     "title": "Log in to the site | BOAF Online Learning and Resource Center",
     "business_name": "",
@@ -1088,50 +1114,6 @@
       "UTF-8",
       "Ubuntu",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "aals-lms.com",
-    "title": "Log in to the site | AALS",
-    "business_name": "",
-    "country": "",
-    "seo_score": 25,
-    "tech_spend": 10500,
-    "crawled_at": "2026-03-21T02:44:11.708461852Z",
-    "technologies": [
-      "Moodle",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "Totara",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "whytecleon.com.ng",
-    "title": "Whyte Cleon Limited | Human Resource Outsourcing & Consulting Company",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 11358,
-    "crawled_at": "2026-03-20T16:36:55.045284876Z",
-    "technologies": [
-      "Fastly",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "Totara",
-      "Twitter Ads",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
