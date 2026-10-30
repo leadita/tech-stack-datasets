@@ -1,5 +1,29 @@
 [
   {
+    "domain": "christiansbookpublishers.com",
+    "title": "Become a Self-Published Author | Costs & Steps to Publish Your Book",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 8598,
+    "crawled_at": "2026-10-29T23:43:55.820520233Z",
+    "technologies": [
+      "Apache",
+      "Better Lead Generation Services",
+      "DAV",
+      "Express",
+      "FormSubmit",
+      "Google Analytics",
+      "Google Tag Manager",
+      "LiveChat",
+      "LiveChat Monitoring",
+      "Rocket Chat",
+      "UTF-8",
+      "Unbounce",
+      "Vector Internet Services"
+    ]
+  },
+  {
     "domain": "personaads.in",
     "title": "Digital Marketing Agency in Kerala | Persona Ads",
     "business_name": "",
@@ -3446,30 +3470,6 @@
       "UTF-8",
       "Unbounce",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "christiansbookpublishers.com",
-    "title": "Become a Self-Published Author | Costs & Steps to Publish Your Book",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 8598,
-    "crawled_at": "2026-03-20T22:23:26.991404269Z",
-    "technologies": [
-      "Apache",
-      "Better Lead Generation Services",
-      "DAV",
-      "Express",
-      "FormSubmit",
-      "Google Analytics",
-      "Google Tag Manager",
-      "LiveChat",
-      "LiveChat Monitoring",
-      "Rocket Chat",
-      "UTF-8",
-      "Unbounce",
-      "Vector Internet Services"
     ]
   }
 ]
