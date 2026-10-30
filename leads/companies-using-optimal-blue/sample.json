@@ -1,5 +1,29 @@
 [
   {
+    "domain": "newhiland.com",
+    "title": "New Hiland Inc. - Your Trusted Mortgage Partner",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 57940,
+    "crawled_at": "2026-10-30T14:05:21.739344645Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Contentstack",
+      "Fastly",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Nationwide Mortgage Licensing System and Registry",
+      "Optimal Blue",
+      "QUIC",
+      "Tailwind CSS",
+      "Thank You",
+      "WordPress",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "websterhomeloans.com",
     "title": "Webster Mortgage Group | Mortgage Broker in Gilbert AZ",
     "business_name": "",
@@ -7507,30 +7531,6 @@
       "WhatsApp Sharing",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "newhiland.com",
-    "title": "New Hiland Inc. - Your Trusted Mortgage Partner",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 57940,
-    "crawled_at": "2026-03-21T17:50:26.161008815Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Contentstack",
-      "Fastly",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Nationwide Mortgage Licensing System and Registry",
-      "Optimal Blue",
-      "QUIC",
-      "Tailwind CSS",
-      "Thank You",
-      "WordPress",
-      "shadcn ui"
     ]
   }
 ]
