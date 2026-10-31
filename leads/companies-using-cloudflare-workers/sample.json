@@ -1,5 +1,28 @@
 [
   {
+    "domain": "as-code.tech",
+    "title": "AScode Tech — Web Development Studio in Lahore",
+    "business_name": "AScode Tech",
+    "country": "PAK",
+    "seo_score": 77,
+    "tech_spend": 2740,
+    "crawled_at": "2026-10-31T09:32:25.890438619Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "DAV",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "lauva.dev",
     "title": "Laurynas Valiulis | Portfolio",
     "business_name": "",
@@ -15218,33 +15241,6 @@
       "Python",
       "QUIC",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "rayhansyahrizal.com",
-    "title": "Rayhan - Automation & Web Systems",
-    "business_name": "",
-    "country": "IDN",
-    "seo_score": 77,
-    "tech_spend": 17740,
-    "crawled_at": "2026-05-08T17:59:19.98230404Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "Content Delivery Network",
-      "Express",
-      "Fireblade",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Python",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]
