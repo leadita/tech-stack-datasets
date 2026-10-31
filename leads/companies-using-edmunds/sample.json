@@ -1,5 +1,28 @@
 [
   {
+    "domain": "ceredmunds.com",
+    "title": "Dr Charlotte E R Edmunds",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 50,
+    "tech_spend": 63,
+    "crawled_at": "2026-10-30T17:43:10.973941681Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Edmunds",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Hugo",
+      "License Buttons"
+    ]
+  },
+  {
     "domain": "indianapolismuseumofartwedding.com",
     "title": "Kahn's Catering - Trusted for Great Food & Service | Indianapolis Catering",
     "business_name": "",
@@ -5912,24 +5935,6 @@
       "Tailwind CSS",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "ceredmunds.com",
-    "title": "Charlotte E R Edmunds",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 50,
-    "tech_spend": "",
-    "crawled_at": "2026-03-21T22:51:54.248389209Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Edmunds",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Hugo",
-      "License Buttons"
     ]
   }
 ]

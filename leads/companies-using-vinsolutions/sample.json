@@ -1,5 +1,36 @@
 [
   {
+    "domain": "lotwalkuniversity.com",
+    "title": "LotWalk Dealer Training & Help | Lotpop",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 63795,
+    "crawled_at": "2026-10-31T07:44:45.365769997Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "DriveCentric",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "HubSpot Conversations",
+      "Hubspot",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "QUIC",
+      "Shopify",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "VinSolutions",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "michaeljaggers.net",
     "title": "W. Michael Jaggers | About",
     "business_name": "",
@@ -4013,39 +4044,6 @@
       "Google Font API",
       "LiteSpeed",
       "QUIC",
-      "VinSolutions"
-    ]
-  },
-  {
-    "domain": "gurusankararaman.com",
-    "title": "Tekion | First End-to-End Cloud Native Automotive Platform",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 106599,
-    "crawled_at": "2026-03-22T17:09:22.577982027Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "Cisco/Arrowpoint Content Service Switch",
-      "CloudFront",
-      "Cornerstone",
-      "Fireblade",
-      "GZIP Module",
-      "Gambling Content",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "NFOrce Internet",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "QUIC",
-      "Tekion",
-      "Twitter Ads",
-      "UTF-8",
-      "Underscores",
       "VinSolutions"
     ]
   }
