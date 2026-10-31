@@ -1,5 +1,22 @@
 [
   {
+    "domain": "hobbsrepair.com",
+    "title": "Hobbs Repair | Hobbs Repair",
+    "business_name": "",
+    "country": "MYS",
+    "seo_score": 55,
+    "tech_spend": 90,
+    "crawled_at": "2026-10-31T08:25:11.684886196Z",
+    "technologies": [
+      "Apache",
+      "PHP",
+      "RapidWeaver",
+      "Setmore",
+      "Tagembed",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "rizoskapsychotherapy.com",
     "title": "Home - Rizoska Psychotherapy",
     "business_name": "",
@@ -9999,29 +10016,6 @@
       "WordPress Multisite",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "hobbscta.com",
-    "title": "Hobbs Central Texas Appliance | Hobbs Central Texas Appliance",
-    "business_name": "",
-    "country": "MYS",
-    "seo_score": 72,
-    "tech_spend": 3462,
-    "crawled_at": "2026-05-01T01:22:32.594109172Z",
-    "technologies": [
-      "Apache",
-      "Bulma",
-      "Google Analytics",
-      "Google Customer Reviews",
-      "Google Tag Manager",
-      "Investor Relations",
-      "PHP",
-      "RapidWeaver",
-      "ReviewsOnMyWebsite",
-      "Setmore",
-      "Tagembed",
-      "UTF-8"
     ]
   },
   {
