@@ -1,5 +1,40 @@
 [
   {
+    "domain": "seemamittalfoundation.com",
+    "title": "Seema Mittal",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 65,
+    "tech_spend": 3979,
+    "crawled_at": "2026-10-30T14:46:39.956986564Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Dialogflow",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Forms",
+      "Google My Business",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "WordPress",
+      "YouTube",
+      "jQuery",
+      "jsDelivr",
+      "reCAPTCHA",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "letusense.in",
     "title": "TrackBot™ - Smart Facility Monitoring",
     "business_name": "",
@@ -8747,38 +8782,6 @@
       "UTF-8",
       "University or College",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "seemamittalfoundation.com",
-    "title": "Seema Mittal",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 65,
-    "tech_spend": 3979,
-    "crawled_at": "2026-03-21T18:39:07.918203854Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Dialogflow",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress",
-      "YouTube",
-      "jQuery",
-      "jsDelivr",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   }
 ]
