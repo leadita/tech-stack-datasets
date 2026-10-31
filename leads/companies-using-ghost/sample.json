@@ -1,5 +1,28 @@
 [
   {
+    "domain": "whatareyoudoing.today",
+    "title": "what are you doing",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 732,
+    "crawled_at": "2026-10-31T08:52:00.922420306Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Bunny Fonts",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "Ghost",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "Stripe",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "delcorising.com",
     "title": "Delco Rising | Delaware County, PA Local Government News",
     "business_name": "",
@@ -13174,33 +13197,6 @@
       "Microdata for Google Shopping",
       "OpenResty",
       "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "buyingtime.news",
-    "title": "BuyingTime.news",
-    "business_name": "",
-    "country": "BRA",
-    "seo_score": 72,
-    "tech_spend": 19620,
-    "crawled_at": "2026-04-14T09:50:20.002928912Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "ArvanCloud",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Ghost",
-      "Google Related Website Sites",
-      "Imgix",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "QUIC",
-      "UTF-8",
-      "WordPress",
       "jsDelivr"
     ]
   }
