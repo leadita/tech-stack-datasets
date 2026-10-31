@@ -1,5 +1,73 @@
 [
   {
+    "domain": "talisman.rs",
+    "title": "Talisman – Krojač Brendova – Krojimo hipnotišuća, reklamno-promotivna rešenja za biznise svih oblika i veličina.",
+    "business_name": "",
+    "country": "SRB",
+    "seo_score": 80,
+    "tech_spend": 7862,
+    "crawled_at": "2026-10-31T14:38:28.38912801Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "DuracellTomi Google Tag Manager for WordPress",
+      "Elementor",
+      "EmbedPress",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "FormSubmit",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Header, Footer and Blocks for Elementor",
+      "Instagram Follow Button",
+      "JetElements",
+      "Jupiter X Core",
+      "LiteSpeed",
+      "Lucky Orange",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PHP",
+      "Paperform",
+      "QUIC",
+      "Schema Plugin",
+      "Theme In WP",
+      "UTF-8",
+      "Vector Internet Services",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "mydotupdates.com",
+    "title": "US DOT Biennial Update Portal | DOT Updates | Federal Applications Processor - Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 5608,
+    "crawled_at": "2026-10-30T20:50:59.786265684Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Apache",
+      "ChatBot",
+      "Cognito Forms",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "LiveChat",
+      "LiveChat Monitoring",
+      "Paperform",
+      "QUIC",
+      "Rocket Chat"
+    ]
+  },
+  {
     "domain": "ercn.org",
     "title": "ERCN - Eagle Rock Covenant Network",
     "business_name": "",
@@ -373,30 +441,6 @@
       "jsDelivr",
       "mParticle",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "dotca.us",
-    "title": "US DOT Biennial Update Portal | DOT Updates | Federal Applications Processor - Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 5608,
-    "crawled_at": "2026-10-30T00:19:07.055280338Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Apache",
-      "ChatBot",
-      "Cognito Forms",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "LiveChat",
-      "LiveChat Monitoring",
-      "Paperform",
-      "QUIC",
-      "Rocket Chat"
     ]
   },
   {
@@ -19905,24 +19949,6 @@
       "UTF-8",
       "Vector Internet Services",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "terschelling-verhuur.nl",
-    "title": "Vakantie Woning Noordhoek Terschelling",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 15243,
-    "crawled_at": "2026-04-30T22:47:20.006789711Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Paperform",
-      "SMC"
     ]
   }
 ]
