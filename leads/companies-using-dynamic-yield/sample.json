@@ -1,5 +1,35 @@
 [
   {
+    "domain": "c-spanclassroom.org",
+    "title": "C-SPAN Classroom",
+    "business_name": "",
+    "country": "ISR",
+    "seo_score": 75,
+    "tech_spend": 56038,
+    "crawled_at": "2026-10-30T22:47:46.953548507Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Apache",
+      "CloudFront",
+      "Content Delivery Network",
+      "DAV",
+      "Dynamic Yield",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "IcoMoon",
+      "InitiativeS",
+      "OneTrust Domain Verification",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "magnoliamoving.com",
     "title": "Home - Magnolia Moving",
     "business_name": "Magnolia Moving srl",
@@ -9960,35 +9990,6 @@
       "TVSquared",
       "UTF-8",
       "Usabilla"
-    ]
-  },
-  {
-    "domain": "c-spanclassroom.org",
-    "title": "C-SPAN Classroom",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 75,
-    "tech_spend": 56038,
-    "crawled_at": "2026-03-22T05:58:05.777297392Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Apache",
-      "CloudFront",
-      "Content Delivery Network",
-      "DAV",
-      "Dynamic Yield",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "OneTrust Domain Verification",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "reCAPTCHA"
     ]
   }
 ]

@@ -1,5 +1,34 @@
 [
   {
+    "domain": "beauchampanimalhospital.com",
+    "title": "Veterinarian in Franklin, TN | Beauchamp Animal Hospital – Your Trusted Veterinary Clinic for Pet Wellness, Surgery, Emergency Care & More. Book an Appointment Today!",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 65380,
+    "crawled_at": "2026-10-31T09:48:14.869870975Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Monetate",
+      "QUIC",
+      "Tailwind CSS",
+      "Visual Studio",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "magnoliamoving.com",
     "title": "Home - Magnolia Moving",
     "business_name": "Magnolia Moving srl",
@@ -17186,34 +17215,6 @@
       "Visual Studio",
       "YouTube",
       "accessiBe"
-    ]
-  },
-  {
-    "domain": "beauchampanimalhospital.com",
-    "title": "Veterinarian in Franklin, TN | Beauchamp Animal Hospital – Your Trusted Veterinary Clinic for Pet Wellness, Surgery, Emergency Care & More. Book an Appointment Today!",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 65380,
-    "crawled_at": "2026-03-22T21:46:08.478347343Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Monetate",
-      "Tailwind CSS",
-      "Visual Studio",
-      "jQuery"
     ]
   }
 ]
