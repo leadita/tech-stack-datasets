@@ -8689,31 +8689,5 @@
       "Workplace from Meta",
       "YouTube"
     ]
-  },
-  {
-    "domain": "senseworkplace.com",
-    "title": "#1 Rated HR Software for UK-Based Companies",
-    "business_name": "Sense Workplace",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 6440,
-    "crawled_at": "2026-03-22T11:27:51.646786508Z",
-    "technologies": [
-      "Apache",
-      "Clockwork",
-      "Fontshare",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Workplace from Meta"
-    ]
   }
 ]
