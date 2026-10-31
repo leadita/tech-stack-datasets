@@ -1,5 +1,36 @@
 [
   {
+    "domain": "uata.co.uk",
+    "title": "Home | United Accountants & Tax Advisors",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 70,
+    "tech_spend": 4473,
+    "crawled_at": "2026-10-30T16:53:49.664109705Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Dext",
+      "Elfsight",
+      "Express",
+      "FreeAgent",
+      "Google",
+      "Google Cloud DNS",
+      "Google Customer Reviews",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Perl",
+      "Pexels",
+      "Thank You",
+      "Twitter Ads",
+      "Unsplash",
+      "Xero",
+      "Zyro"
+    ]
+  },
+  {
     "domain": "lbfcpa.com",
     "title": "Home | LBF Group PLLC",
     "business_name": "",
