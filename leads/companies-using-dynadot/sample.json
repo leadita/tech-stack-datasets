@@ -1,5 +1,26 @@
 [
   {
+    "domain": "outliving.net",
+    "title": "This website or DOMAIN NAME may be for sale.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 76500,
+    "crawled_at": "2026-10-31T02:10:30.336871036Z",
+    "technologies": [
+      "Camp",
+      "Cart.com",
+      "Dynadot",
+      "ElementUI",
+      "Fast",
+      "GZIP Module",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "PointDNS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "nordicdomaindays.com",
     "title": "Nordic Domain Days - The Original Domain Days Experience",
     "business_name": "Nordic Domain Days",
@@ -303,27 +324,6 @@
       "Google Tag Manager",
       "Instagram Follow Button",
       "Microdata for Google Shopping",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "www.atxcamper.com",
-    "title": "This website or DOMAIN NAME may be for sale.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 76500,
-    "crawled_at": "2026-10-01T03:04:52.674257966Z",
-    "technologies": [
-      "Camp",
-      "Cart.com",
-      "Dynadot",
-      "ElementUI",
-      "Fast",
-      "GZIP Module",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "PointDNS",
       "UTF-8"
     ]
   },
