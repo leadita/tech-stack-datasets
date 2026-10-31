@@ -1,5 +1,21 @@
 [
   {
+    "domain": "watermetrics.online",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 1200,
+    "crawled_at": "2026-10-31T16:58:52.072484513Z",
+    "technologies": [
+      "Barchart",
+      "Express",
+      "GitHub Hosting",
+      "Grafana",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "stromfee.info",
     "title": "StromfeeME: Power-Analysen",
     "business_name": "",
