@@ -1,5 +1,55 @@
 [
   {
+    "domain": "xiaoyu.wang",
+    "title": "个人应用记录",
+    "business_name": "",
+    "country": "",
+    "seo_score": 32,
+    "tech_spend": 60,
+    "crawled_at": "2026-10-31T09:14:43.445473035Z",
+    "technologies": [
+      "Bitwarden Passwordless",
+      "GZIP Module",
+      "Google My Business",
+      "Nginx",
+      "Tencent Cloud",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "incomeprotectionquotes.co.uk",
+    "title": "Top Income Protection Quotes - incomeprotectionquotes.co.uk",
+    "business_name": "IncomeProtectionQuotes",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 16905,
+    "crawled_at": "2026-10-31T00:06:19.538747293Z",
+    "technologies": [
+      "1Password",
+      "About Cookies",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Bitwarden Passwordless",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "Fireblade",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "NordPass",
+      "PHP",
+      "Perl",
+      "Sentry",
+      "Thank You",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "belevivi.com",
     "title": "Luxury Homeware & Design-Led Decor Online | Belevivi",
     "business_name": "Belevivi",
@@ -18806,50 +18856,6 @@
       "hCaptcha",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "c0xl.ch",
-    "title": "hacker@c0xl.ch",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 1113,
-    "crawled_at": "2026-04-07T23:14:19.982918012Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Bitwarden Passwordless",
-      "DAV",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Idaq",
-      "Python",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "facu.dev",
-    "title": "Facundo Carbonel | Web Development",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 15245,
-    "crawled_at": "2026-04-07T19:08:20.004410105Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Bitwarden Passwordless",
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Next.js",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
