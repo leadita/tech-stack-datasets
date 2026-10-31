@@ -1,5 +1,28 @@
 [
   {
+    "domain": "faithandbridge.com",
+    "title": "F comme Femmes - Welcome",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 174123,
+    "crawled_at": "2026-10-30T19:36:37.087305552Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Akamai",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Rakuten Affiliate",
+      "Salesforce Commerce Cloud",
+      "UTF-8",
+      "Unix",
+      "Weebly",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "sarahhusebeauty.com",
     "title": "Sarah Huse Beauty – Sarah Huse Beauty Ltd",
     "business_name": "Sarah Huse Beauty Ltd",
@@ -487,29 +510,6 @@
       "University or College",
       "eLand",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "haitiempire.com",
-    "title": "F comme Femmes - Welcome",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 174123,
-    "crawled_at": "2026-10-20T04:44:22.897379973Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Akamai",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Rakuten Affiliate",
-      "Salesforce Commerce Cloud",
-      "UTF-8",
-      "Unix",
-      "Weebly",
-      "jQuery",
-      "reCAPTCHA"
     ]
   },
   {
