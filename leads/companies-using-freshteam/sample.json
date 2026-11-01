@@ -1,5 +1,37 @@
 [
   {
+    "domain": "protridentechnologies.com",
+    "title": "Software Development Company in Kundapura, Udupi | Protriden Technologies",
+    "business_name": "Protriden Technologies",
+    "country": "IND",
+    "seo_score": 82,
+    "tech_spend": 25332,
+    "crawled_at": "2026-10-31T22:00:50.96583289Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Better Lead Generation Services",
+      "CodeIgniter",
+      "Content Delivery Network",
+      "Fireblade",
+      "Freshteam",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "QUIC",
+      "UTF-8",
+      "Vector Internet Services",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "neokom.tv",
     "title": "Home |",
     "business_name": "neokom.tv Video- & E-Learning Agentur | Stuttgart",
@@ -2868,35 +2900,6 @@
       "Twitter Ads",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "protridentechnologies.com",
-    "title": "Protriden Technologies",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 6460,
-    "crawled_at": "2026-03-23T14:29:40.102719585Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "ArvanCloud",
-      "CodeIgniter",
-      "Content Delivery Network",
-      "Freshteam",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Nginx",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr",
-      "reCAPTCHA"
     ]
   }
 ]
