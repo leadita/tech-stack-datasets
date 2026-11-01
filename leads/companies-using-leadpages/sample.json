@@ -1,5 +1,39 @@
 [
   {
+    "domain": "generationiq.net",
+    "title": "Generation IQ",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 3149,
+    "crawled_at": "2026-10-31T23:24:55.837185045Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "Calendly",
+      "Express",
+      "FormSubmit",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "LeadPages",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "UTF-8",
+      "University or College",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "truthfullymichelle.com",
     "title": "Home | Truthfully, Michelle",
     "business_name": "",
@@ -1415,42 +1449,6 @@
     ]
   },
   {
-    "domain": "getcreativia.net",
-    "title": "Generation IQ",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 5549,
-    "crawled_at": "2026-05-03T09:20:19.982871402Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "Calendly",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "LeadPages",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "UTF-8",
-      "University or College",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "friendlypantry.com",
     "title": "Get trusted & relatable resources for food allergy moms.",
     "business_name": "Friendly Pantry Consulting Inc.",
@@ -2677,35 +2675,6 @@
       "eLand",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "workshopfaq.com",
-    "title": "Post-Intensive FAQ",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 3775,
-    "crawled_at": "2026-03-23T12:59:05.576172857Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "DAV",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Infusionsoft",
-      "LeadPages",
-      "Ntent",
-      "Tailwind CSS"
     ]
   }
 ]
