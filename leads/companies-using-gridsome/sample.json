@@ -1,5 +1,25 @@
 [
   {
+    "domain": "runhangz.com",
+    "title": "Runhang Zhang - Runhang Z | Full Stack Developer | Product Manager",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 66,
+    "crawled_at": "2026-10-31T23:50:15.552815486Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Gridsome"
+    ]
+  },
+  {
     "domain": "drkaracsonyiadrienn.hu",
     "title": "dr. Karácsonyi Adrienn - ügyvéd",
     "business_name": "",
@@ -11826,33 +11846,6 @@
       "Apache",
       "Gridsome",
       "Unix"
-    ]
-  },
-  {
-    "domain": "pandoragestiondocumental.es",
-    "title": "Pandora Gestión Documental - Pandora Gestión Documental",
-    "business_name": "",
-    "country": "CHL",
-    "seo_score": 77,
-    "tech_spend": 92728,
-    "crawled_at": "2026-04-08T18:26:19.981191309Z",
-    "technologies": [
-      "Bulma",
-      "Content Delivery Network",
-      "DAV",
-      "ElementUI",
-      "Expedient",
-      "Federal Deposit Insurance Corporation",
-      "Financial Services Guide",
-      "Gridsome",
-      "Idaq",
-      "KVH",
-      "Netlify",
-      "QUIC",
-      "SMC",
-      "Subversion",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]

@@ -1,5 +1,27 @@
 [
   {
+    "domain": "puzzlegarden.app",
+    "title": "Hello from Puzzle Garden | Puzzle Garden",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 800,
+    "crawled_at": "2026-10-31T23:33:20.929920345Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "cozie-fitbit.app",
     "title": "Cozie, a Fitbit clock face for IEQ and physiological data collection | Cozie, a Fitbit clock face for IEQ and physiological data collection",
     "business_name": "",
@@ -12791,30 +12813,6 @@
       "OpenResty",
       "PWA",
       "Perl"
-    ]
-  },
-  {
-    "domain": "adnanrahic.com",
-    "title": "Welcome! | Hi! I'm Adnan Rahić",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 4416,
-    "crawled_at": "2026-04-12T23:12:04.710863708Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Bento Now",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "InitiativeS",
-      "Netlify",
-      "Perl",
-      "Sematext",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]
