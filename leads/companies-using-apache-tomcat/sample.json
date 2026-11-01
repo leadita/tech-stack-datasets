@@ -1,5 +1,58 @@
 [
   {
+    "domain": "lodgegatems.com",
+    "title": "LODGEGATEMS",
+    "business_name": "",
+    "country": "RUS",
+    "seo_score": 70,
+    "tech_spend": 11380,
+    "crawled_at": "2026-11-01T11:22:20.500521416Z",
+    "technologies": [
+      "ADFOX",
+      "ASP.NET Core",
+      "ASP.NET MVC",
+      "Apache",
+      "Apache Tomcat JK",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Nginx",
+      "OpenResty",
+      "Oracle Cloud",
+      "Svelte",
+      "UTF-8",
+      "Visual Studio",
+      "Yandex Hosting",
+      "Yandex Metrika"
+    ]
+  },
+  {
+    "domain": "cm-feira.pt",
+    "title": "Página inícial - Câmara Municipal de Santa Maria da Feira",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 51000,
+    "crawled_at": "2026-11-01T02:52:18.79974003Z",
+    "technologies": [
+      "AddThis",
+      "AddThis for Wordpress",
+      "Alternate Protocol",
+      "Apache",
+      "Apache Tomcat JK",
+      "DAV",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Matomo Tag Manager",
+      "Perl",
+      "QUIC",
+      "SMC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "imperialinformatics.com",
     "title": "Imperial Informatics",
     "business_name": "",
@@ -13006,74 +13059,6 @@
       "UTF-8",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "lodgegatems.com",
-    "title": "LODGEGATEMS",
-    "business_name": "",
-    "country": "RUS",
-    "seo_score": 55,
-    "tech_spend": 123,
-    "crawled_at": "2026-03-24T08:27:31.553909735Z",
-    "technologies": [
-      "ADFOX",
-      "ASP.NET Core",
-      "ASP.NET MVC",
-      "Apache",
-      "Apache Tomcat JK",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Nginx",
-      "OpenResty",
-      "Oracle Cloud",
-      "Svelte",
-      "UTF-8",
-      "Visual Studio",
-      "Yandex Hosting",
-      "Yandex Metrika"
-    ]
-  },
-  {
-    "domain": "cm-feira.pt",
-    "title": "Página inícial - Câmara Municipal de Santa Maria da Feira",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 51100,
-    "crawled_at": "2026-03-23T21:15:58.895634657Z",
-    "technologies": [
-      "AddThis",
-      "AddThis for Wordpress",
-      "Alternate Protocol",
-      "Apache",
-      "Apache Tomcat JK",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Matomo Tag Manager",
-      "QUIC",
-      "SMC",
-      "Streamable",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "armeps.am",
-    "title": "ԳԱԿ - Բարի գալուստ ARMEPS",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": "",
-    "crawled_at": "2026-03-23T21:07:19.726301313Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "GZIP Module",
-      "QUIC",
-      "UTF-8"
     ]
   }
 ]
