@@ -1,5 +1,31 @@
 [
   {
+    "domain": "monticellotaxaccounting.com",
+    "title": "Home | Lebanon Tax & Accounting",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 13120,
+    "crawled_at": "2026-11-01T09:57:04.864878243Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "majorsaccounts.com",
     "title": "Majors Accounts | Chartered Certified Accountants | London",
     "business_name": "Majors Accounts",
@@ -2673,33 +2699,6 @@
       "WordPress",
       "WordPress Multisite",
       "eLand"
-    ]
-  },
-  {
-    "domain": "lebanontaxaccounting.com",
-    "title": "Home | Lebanon Tax & Accounting",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 18120,
-    "crawled_at": "2026-08-24T04:08:24.148423203Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Amazon WAF Blocked",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "reCAPTCHA"
     ]
   },
   {
