@@ -1,5 +1,33 @@
 [
   {
+    "domain": "urantiaschool.org",
+    "title": "UBIS",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 11199,
+    "crawled_at": "2026-10-31T18:34:04.709592095Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "Fastly",
+      "Font Awesome",
+      "GZIP Module",
+      "Moodle",
+      "NFOrce Internet",
+      "Nginx",
+      "PHP",
+      "Tailwind CSS",
+      "Totara",
+      "Twitter Ads",
+      "UTF-8",
+      "Ubuntu",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "whytecleon.com.ng",
     "title": "Whyte Cleon Limited | Human Resource Outsourcing & Consulting Company",
     "business_name": "",
@@ -1086,34 +1114,6 @@
       "Ubuntu",
       "University or College",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "urantiabookschool.org",
-    "title": "UBIS",
-    "business_name": "",
-    "country": "ISR",
-    "seo_score": 60,
-    "tech_spend": 12199,
-    "crawled_at": "2026-03-24T17:44:18.690337295Z",
-    "technologies": [
-      "CDN JS",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fastly",
-      "Font Awesome",
-      "GZIP Module",
-      "Moodle",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "Tailwind CSS",
-      "Totara",
-      "Twitter Ads",
-      "UTF-8",
-      "Ubuntu",
-      "YouTube"
     ]
   }
 ]

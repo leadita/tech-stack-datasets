@@ -9620,31 +9620,5 @@
       "Zend Server",
       "symfony PHP Framework"
     ]
-  },
-  {
-    "domain": "masterguardian.mx",
-    "title": "Registro Master Guardian",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 4548,
-    "crawled_at": "2026-03-24T13:07:12.775157219Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ElementUI",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Hotjar",
-      "Instagram Follow Button",
-      "TalentLMS",
-      "YouTube"
-    ]
   }
 ]
