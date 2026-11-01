@@ -1,5 +1,44 @@
 [
   {
+    "domain": "shopmedawarfrandor.com",
+    "title": "Jewelry Store in Flint, MI | Medawar's Fine Jewelry",
+    "business_name": "Medawar's",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 19662,
+    "crawled_at": "2026-11-01T15:46:37.954078875Z",
+    "technologies": [
+      "Apache",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Fireblade",
+      "FormSubmit",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Share Link",
+      "Storyblocks",
+      "The Trade Desk Direct",
+      "Twitter Ads",
+      "UTF-8",
+      "Wrike",
+      "YouTube",
+      "accessiBe",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "flaglerinfo.org",
     "title": "Flagler College | Nationally Ranked College",
     "business_name": "",
@@ -3082,27 +3121,6 @@
       "Wrike",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "buzzwagon.agency",
-    "title": "BuzzWagon - Dorman's Creative Engine",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 3888,
-    "crawled_at": "2026-03-23T22:52:28.698400315Z",
-    "technologies": [
-      "Fastly",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Wrike"
     ]
   }
 ]
