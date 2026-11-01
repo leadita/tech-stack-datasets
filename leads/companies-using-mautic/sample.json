@@ -1,5 +1,46 @@
 [
   {
+    "domain": "atsquaredsolutions.com",
+    "title": "AT Squared Software and Solutions – We Work The Web , Making IT Work",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 349,
+    "crawled_at": "2026-11-01T02:18:23.498159053Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Automattic",
+      "Contact Form Plugin",
+      "Content Delivery Network",
+      "CookieYes",
+      "Elementor",
+      "EmbedPress",
+      "Formidable Pro Form",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Jetpack",
+      "LiteSpeed",
+      "Mautic",
+      "PHP",
+      "PWA",
+      "Responsive",
+      "SuperPWA",
+      "Tailwind CSS",
+      "Tawk",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WooCommerce",
+      "WooCommerce Checkout",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "jQuery",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "dreaminsportfishing.com",
     "title": "Costa Rica Fishing Charter | Fish Tale 2 – Marina Flamingo",
     "business_name": "Fish Tale II",
@@ -21990,27 +22031,6 @@
       "Yandex Hosting",
       "Yandex Metrika",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "forwardtosafety.com",
-    "title": "ForwardToSafety - Stop Phishing Attacks Before They Strike",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 15240,
-    "crawled_at": "2026-04-15T02:50:20.005527907Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fireblade",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Mautic",
-      "Next.js",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
