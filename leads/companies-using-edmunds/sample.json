@@ -1,5 +1,27 @@
 [
   {
+    "domain": "morev.org",
+    "title": "2023 EV Federal Tax Credit Explained",
+    "business_name": "2023 EV Federal Tax Credit Explained",
+    "country": "JPN",
+    "seo_score": 70,
+    "tech_spend": 18312,
+    "crawled_at": "2026-11-01T10:27:46.479715439Z",
+    "technologies": [
+      "Edmunds",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Line2",
+      "Microdata for Google Shopping",
+      "PWA",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "ceredmunds.com",
     "title": "Dr Charlotte E R Edmunds",
     "business_name": "",
@@ -677,28 +699,6 @@
       "IcoMoon",
       "PWA",
       "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "2024evcredit.com",
-    "title": "2023 EV Federal Tax Credit Explained",
-    "business_name": "2023 EV Federal Tax Credit Explained",
-    "country": "JPN",
-    "seo_score": 80,
-    "tech_spend": 18312,
-    "crawled_at": "2026-09-19T23:07:07.04804427Z",
-    "technologies": [
-      "Edmunds",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "Microdata for Google Shopping",
-      "PWA",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
     ]
   },
   {

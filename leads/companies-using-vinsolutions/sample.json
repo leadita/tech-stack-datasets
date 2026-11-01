@@ -1,5 +1,23 @@
 [
   {
+    "domain": "bluvinsolutions.com",
+    "title": "Bluvin Solutions",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 8063,
+    "crawled_at": "2026-10-31T23:04:31.881170771Z",
+    "technologies": [
+      "ElementUI",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "LiteSpeed",
+      "QUIC",
+      "VinSolutions"
+    ]
+  },
+  {
     "domain": "lotwalkuniversity.com",
     "title": "LotWalk Dealer Training & Help | Lotpop",
     "business_name": "",
@@ -4027,24 +4045,6 @@
       "Vercel",
       "VinSolutions",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "bluvinsolutions.com",
-    "title": "Bluvin Solutions",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 8063,
-    "crawled_at": "2026-03-23T15:57:19.522356218Z",
-    "technologies": [
-      "ElementUI",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiteSpeed",
-      "QUIC",
-      "VinSolutions"
     ]
   }
 ]
