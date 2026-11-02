@@ -1,5 +1,56 @@
 [
   {
+    "domain": "nextlevel-alameda.com",
+    "title": "Next Level Softball & Baseball Academy",
+    "business_name": "Next Level Softball & Baseball Academy",
+    "country": "AUS",
+    "seo_score": 92,
+    "tech_spend": 18696,
+    "crawled_at": "2026-11-02T11:52:47.706453033Z",
+    "technologies": [
+      "Book Direct",
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Line2",
+      "Microdata for Google Shopping",
+      "PWA",
+      "QUIC",
+      "Setmore",
+      "Tagembed",
+      "UTF-8",
+      "University or College",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
+    "domain": "ice-cream-showcase.com",
+    "title": "Ice cream showcases, ice cream display, ice cream freezer, gelato display and ice cream sale and production",
+    "business_name": "",
+    "country": "THA",
+    "seo_score": 72,
+    "tech_spend": 20784,
+    "crawled_at": "2026-11-02T10:34:50.774003546Z",
+    "technologies": [
+      "Apache",
+      "Fastly",
+      "GZIP Module",
+      "Google Analytics",
+      "On The Map",
+      "PHP",
+      "QUIC",
+      "Setmore",
+      "Tagembed",
+      "Thank You",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "aberdeenweddingphotography.com",
     "title": "Wedding, Portrait, Commercial & Event Photography in Aberdeen",
     "business_name": "aberdeenphoto.com",
@@ -16909,29 +16960,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "ice-cream-showcase.com",
-    "title": "Ice cream showcases, ice cream display, ice cream freezer, gelato display and ice cream sale and production",
-    "business_name": "",
-    "country": "THA",
-    "seo_score": 72,
-    "tech_spend": 20784,
-    "crawled_at": "2026-03-25T18:28:56.797015266Z",
-    "technologies": [
-      "Apache",
-      "Fastly",
-      "GZIP Module",
-      "Google Analytics",
-      "On The Map",
-      "PHP",
-      "QUIC",
-      "Setmore",
-      "Tagembed",
-      "Thank You",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]

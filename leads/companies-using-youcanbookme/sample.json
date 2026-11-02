@@ -1,5 +1,29 @@
 [
   {
+    "domain": "lonestartaxadvisor.com",
+    "title": "Maximize Tax Returns with Tax Preparation | LoneStar Tax Advisor LLC",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 3202,
+    "crawled_at": "2026-11-01T16:00:46.129956829Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Express",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Perl",
+      "Thank You",
+      "Unsplash",
+      "YouCanBookMe",
+      "Zyro"
+    ]
+  },
+  {
     "domain": "thenerveinjuryclinic.co.uk",
     "title": "Home - The Nerve Injury Clinic",
     "business_name": "HMDG",
@@ -18121,47 +18145,6 @@
       "WordPress Multisite",
       "YouCanBookMe",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "linctec.net",
-    "title": "LINCTEC | Managed Services Provider | IT Support for Businesses",
-    "business_name": "LINCTEC Pty Ltd",
-    "country": "SYC",
-    "seo_score": 77,
-    "tech_spend": 133476,
-    "crawled_at": "2026-05-14T16:29:19.981385684Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "K2F",
-      "KVH",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Ntent",
-      "PWA",
-      "QUIC",
-      "SMC",
-      "Sentry",
-      "SiteW",
-      "Subversion",
-      "Thank You",
-      "UTF-8",
-      "Vector Internet Services",
-      "Wix",
-      "Wix Media",
-      "WordPress Related Posts",
-      "YouCanBookMe",
-      "mlcom"
     ]
   }
 ]
