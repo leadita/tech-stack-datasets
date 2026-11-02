@@ -6000,22 +6000,5 @@
       "UTF-8",
       "YouTube"
     ]
-  },
-  {
-    "domain": "mckinstryonline.com",
-    "title": "Tim McKinstry - Product designer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 163,
-    "crawled_at": "2026-03-24T20:30:37.895467026Z",
-    "technologies": [
-      "Apache",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Help.com",
-      "Texthelp"
-    ]
   }
 ]
