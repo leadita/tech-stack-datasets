@@ -13035,30 +13035,5 @@
       "YouTube",
       "eLand"
     ]
-  },
-  {
-    "domain": "carrus.ca",
-    "title": "Système de gestion d'atelier Autos | Carrus",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 16941,
-    "crawled_at": "2026-03-26T04:35:13.764005061Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Alternate Protocol",
-      "Apache",
-      "Apache Tomcat JK",
-      "CookieYes",
-      "Fireblade",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery",
-      "reCAPTCHA"
-    ]
   }
 ]
