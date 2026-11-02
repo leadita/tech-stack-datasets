@@ -1,5 +1,34 @@
 [
   {
+    "domain": "amalaiagroup.com",
+    "title": "Amalaia Group",
+    "business_name": "",
+    "country": "NGA",
+    "seo_score": 45,
+    "tech_spend": 7500,
+    "crawled_at": "2026-11-02T02:28:34.48997343Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Apple Pay JS",
+      "Astra Theme",
+      "Contact Form Plugin",
+      "Elementor",
+      "EmbedPress",
+      "Fireblade",
+      "GZIP Module",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "WP Fastest Cache",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Related Posts",
+      "eLand"
+    ]
+  },
+  {
     "domain": "velorushlogistics.co.uk",
     "title": "home - Velorush Logistics",
     "business_name": "Velorush Logistics",
