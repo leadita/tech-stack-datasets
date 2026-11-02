@@ -1,18 +1,20 @@
 [
   {
-    "domain": "fusionserveb2b.com",
+    "domain": "fusioneatfleet.com",
     "title": "Fusion Serve | Workplace Dining Solutions | Chambersburg",
     "business_name": "Fusion Serve",
     "country": "",
-    "seo_score": 77,
+    "seo_score": 72,
     "tech_spend": 119410,
-    "crawled_at": "2026-11-01T00:52:30.668915409Z",
+    "crawled_at": "2026-11-02T04:24:38.247525364Z",
     "technologies": [
       "AWS WAF Challenge",
       "About Cookies",
+      "Alternate Protocol",
       "Bankrate",
       "Cloudflare",
       "Cloudflare CDN",
+      "Cloudflare Web Analytics",
       "Coming Soon Page",
       "Commoninja",
       "Cornerstone",
