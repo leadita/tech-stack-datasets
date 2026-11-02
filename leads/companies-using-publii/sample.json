@@ -1,5 +1,45 @@
 [
   {
+    "domain": "a26apartments.com",
+    "title": "A26 Apartments - Premium apartment in Naples",
+    "business_name": "A26 Apartments",
+    "country": "ITA",
+    "seo_score": 72,
+    "tech_spend": 377,
+    "crawled_at": "2026-11-02T03:59:39.667021566Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Netlify",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "prestwick-decorators.com",
+    "title": "Prestwick Decorators",
+    "business_name": "Prestwick Decorators",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 49,
+    "crawled_at": "2026-11-01T13:24:49.736412385Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "singingtotigers.com",
     "title": "Singing to Tigers",
     "business_name": "Singing to Tigers",
@@ -8048,46 +8088,6 @@
       "Content Delivery Network",
       "CoreUI",
       "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "a26apartments.com",
-    "title": "A26 Apartments - Premium apartment in Naples",
-    "business_name": "A26 Apartments",
-    "country": "ITA",
-    "seo_score": 72,
-    "tech_spend": 377,
-    "crawled_at": "2026-03-25T09:15:08.609616563Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Netlify",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "prestwick-decorators.com",
-    "title": "Prestwick Decorators",
-    "business_name": "Prestwick Decorators",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 49,
-    "crawled_at": "2026-03-24T11:12:02.072810643Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
       "Microdata for Google Shopping",
       "Netlify",
       "Publii",
