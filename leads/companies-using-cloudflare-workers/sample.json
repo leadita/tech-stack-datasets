@@ -1,5 +1,50 @@
 [
   {
+    "domain": "inoventre.com",
+    "title": "Inoventre — SaaS Apps Development Company",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 7740,
+    "crawled_at": "2026-11-02T03:03:01.277475754Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare Workers",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services"
+    ]
+  },
+  {
+    "domain": "soestin.nl",
+    "title": "Justin 👋",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 2779,
+    "crawled_at": "2026-11-01T19:35:17.875034181Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "DAV",
+      "Discord",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "tek-pal.com",
     "title": "TekPal | Software, Teams & Growth",
     "business_name": "",
@@ -15177,65 +15222,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "jamescolb.com",
-    "title": "Portfolio | James Colbourne",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 30540,
-    "crawled_at": "2026-05-09T02:31:49.583561992Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "Express",
-      "Fireblade",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Svelte",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "daniloradovic.me",
-    "title": "Danilo Radovic - Senior Software Engineer | Laravel & React Expert",
-    "business_name": "",
-    "country": "MNE",
-    "seo_score": 77,
-    "tech_spend": 17836,
-    "crawled_at": "2026-05-09T00:41:19.999244797Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alpine.js",
-      "Amazon CloudFront",
-      "Astro",
-      "Cloudflare",
-      "Cloudflare Workers",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Web3Forms",
-      "YouTube",
       "shadcn ui"
     ]
   }
