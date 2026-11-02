@@ -1,5 +1,39 @@
 [
   {
+    "domain": "mbsintellectuals.com",
+    "title": "Mbsintellectuals'",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 57,
+    "tech_spend": 12102,
+    "crawled_at": "2026-11-02T02:57:56.627226277Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Angular",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Engage",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "MoEngage",
+      "Nginx",
+      "PWA",
+      "Perl",
+      "Pleroma",
+      "Sign In With Google",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "studyiq.com",
     "title": "StudyIQ IAS: Best Online Courses for UPSC IAS and State PCS Exams",
     "business_name": "",
@@ -17183,36 +17217,6 @@
       "UTF-8",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "egacademy.in",
-    "title": "EG ACADEMY में आपका स्वागत है |",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 30139,
-    "crawled_at": "2026-05-25T20:33:58.022725286Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Angular",
-      "Engage",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "MoEngage",
-      "Nginx",
-      "PWA",
-      "Perl",
-      "Pleroma",
-      "Sign In With Google",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
