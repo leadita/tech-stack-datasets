@@ -1,5 +1,28 @@
 [
   {
+    "domain": "donerightpowerwashing.co",
+    "title": "Power Washing & Pressure Washing in Ocala | Done Right Power Washing",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2268,
+    "crawled_at": "2026-11-01T13:48:11.635744078Z",
+    "technologies": [
+      "Alternate Protocol",
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Perl",
+      "QUIC",
+      "University or College",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "columbiapeoplestown.com",
     "title": "Home - Columbia Peoplestown",
     "business_name": "",
@@ -8628,29 +8651,6 @@
       "Ubuntu",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "donerightpowerwashing.co",
-    "title": "Power Washing & Pressure Washing in Ocala | Done Right Power Washing",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2268,
-    "crawled_at": "2026-03-24T11:42:41.797850255Z",
-    "technologies": [
-      "Alternate Protocol",
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Perl",
-      "QUIC",
-      "University or College",
-      "reCAPTCHA"
     ]
   }
 ]
