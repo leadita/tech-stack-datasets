@@ -1,12 +1,12 @@
 [
   {
-    "domain": "urantiaschool.org",
+    "domain": "urantiabookschool.org",
     "title": "UBIS",
     "business_name": "",
     "country": "",
     "seo_score": 50,
     "tech_spend": 11199,
-    "crawled_at": "2026-10-31T18:34:04.709592095Z",
+    "crawled_at": "2026-11-01T18:00:42.521370399Z",
     "technologies": [
       "CDN JS",
       "Cloudflare",
