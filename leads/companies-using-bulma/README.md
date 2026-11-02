@@ -1,6 +1,6 @@
 # Companies Using Bulma (Live Dataset 2026)
 
-This folder contains an active list of 309,195 companies using **Bulma**. 
+This folder contains an active list of 308,624 companies using **Bulma**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 309,195
+- **Total Leads:** 308,624
 - **Verified:** Yes
-- **Last Updated:** 2026-11-01 15:00 UTC
+- **Last Updated:** 2026-11-02 15:00 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **309,195+** companies using Bulma.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **308,624+** companies using Bulma.
 
 [**⚡ Unlock the Full Bulma List with Contact Details**](https://leadita.com/leads/companies-using-bulma)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-11-01 15:00 UTC*
+*Last updated: 2026-11-02 15:00 UTC*
 *Data source: Leadita Technographic Intelligence*
