@@ -1,5 +1,72 @@
 [
   {
+    "domain": "ndwallet.xyz",
+    "title": "ND Wallet | White Label Crypto Wallet Infrastructure for Web3 Businesses | Web3 Wallet Infrastructure for Businesses | ND Wallet",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 26758,
+    "crawled_at": "2026-11-02T20:06:53.142190145Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CDN JS",
+      "Calendly",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Clutch",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fireblade",
+      "Font Awesome",
+      "Netlify",
+      "Perl",
+      "QUIC",
+      "Rush",
+      "Tailwind CSS",
+      "Telegram",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "lobe.ai",
+    "title": "Lobe · GitHub",
+    "business_name": "",
+    "country": "VEN",
+    "seo_score": 72,
+    "tech_spend": 35780,
+    "crawled_at": "2026-11-02T09:38:51.171713756Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Docusaurus",
+      "Fastly",
+      "Fireblade",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Related Website Sites",
+      "Microdata for Google Shopping",
+      "Microsoft Azure",
+      "Microsoft Azure Blob Storage",
+      "NFOrce Internet",
+      "Ntent",
+      "PWA",
+      "Perl",
+      "Python",
+      "QUIC",
+      "RawGit",
+      "Schema Plugin",
+      "Smart App Banner",
+      "Storyblocks",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Universe",
+      "Vector Internet Services"
+    ]
+  },
+  {
     "domain": "puzzlegarden.app",
     "title": "Hello from Puzzle Garden | Puzzle Garden",
     "business_name": "",
@@ -12775,44 +12842,6 @@
       "Twitter Ads",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "willyhardian.com",
-    "title": "Willy Hardian | Full-Stack Developer & Technical Instructor",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2026-04-13T05:47:20.000073324Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Docusaurus",
-      "Express",
-      "GitHub Hosting",
-      "Next.js",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "wuchuheng.com",
-    "title": "Hello from wuchuheng's notes | wuchuheng's notes",
-    "business_name": "",
-    "country": "",
-    "seo_score": 32,
-    "tech_spend": "",
-    "crawled_at": "2026-04-13T04:20:20.013946623Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "GZIP Module",
-      "GitHub Hosting",
-      "OpenResty",
-      "PWA",
-      "Perl"
     ]
   }
 ]
