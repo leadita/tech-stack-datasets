@@ -1542,43 +1542,5 @@
       "VTEX Personalization",
       "Zyro"
     ]
-  },
-  {
-    "domain": "enroladotecidos.com",
-    "title": "Loja de Tecidos Online para decoração, móveis e festa | Enrolado Tecidos",
-    "business_name": "Enrolado Tecidos",
-    "country": "BRA",
-    "seo_score": 87,
-    "tech_spend": 91869,
-    "crawled_at": "2026-03-25T05:17:28.909695599Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Angulare",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Ebit",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "MaxCDN",
-      "Microdata for Google Shopping",
-      "Ntent",
-      "Parcel",
-      "QUIC",
-      "UTF-8",
-      "VTEX Personalization",
-      "WhatsApp Sharing",
-      "YouTube",
-      "Yourviews"
-    ]
   }
 ]
