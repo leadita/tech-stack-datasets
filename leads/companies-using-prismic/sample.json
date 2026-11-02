@@ -1,5 +1,103 @@
 [
   {
+    "domain": "baltico-mar.com",
+    "title": "Baltico Mar - Offices & Retail Sapces - Parque das Nações, Lisbon - Home",
+    "business_name": "",
+    "country": "PRT",
+    "seo_score": 82,
+    "tech_spend": 20180,
+    "crawled_at": "2026-11-02T14:06:23.104295496Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Fireblade",
+      "GZIP Module",
+      "Google Maps",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "Nuxt.js",
+      "Perl",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services",
+      "Wake",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "twoperfectevents.com",
+    "title": "Two Perfect Events | Chic + Multicultural Weddings & Events for Creative Souls",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 45420,
+    "crawled_at": "2026-11-02T07:49:53.909634034Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "KVH",
+      "M247",
+      "Next.js",
+      "Perl",
+      "Prismic",
+      "Radix UI",
+      "UTF-8",
+      "Vercel",
+      "Yelp Badge",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "handcenternwfl.com",
+    "title": "Hand Specialists | North Florida Bone & Joint Specialists",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 15420,
+    "crawled_at": "2026-11-02T04:37:59.791496043Z",
+    "technologies": [
+      "AthenaHealth",
+      "Content Delivery Network",
+      "Headless UI",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pico CSS",
+      "Pleroma",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "followsherpa.com",
+    "title": "Sherpa",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 2820,
+    "crawled_at": "2026-11-02T03:19:42.210352208Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "PWA",
+      "Prismic",
+      "Svelte",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "outsource.nyc",
     "title": "Outsource Consultants | Experts in Municipal Building Codes, Zoning & Permits - Outsource Consultants, Inc.",
     "business_name": "",
@@ -26,30 +124,6 @@
       "UTF-8",
       "Vercel",
       "accessiBe",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "nflboneandjoint.com",
-    "title": "Home | North Florida Bone & Joint Specialists",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 15420,
-    "crawled_at": "2026-11-01T11:22:20.523553894Z",
-    "technologies": [
-      "AthenaHealth",
-      "Content Delivery Network",
-      "Headless UI",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pico CSS",
-      "Pleroma",
-      "Prismic",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "YouTube",
       "shadcn ui"
     ]
   },
@@ -1164,27 +1238,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "sherpa-solutions.com",
-    "title": "Sherpa",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 2820,
-    "crawled_at": "2026-10-25T23:50:01.439769042Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "PWA",
-      "Prismic",
-      "Svelte",
-      "Vercel"
     ]
   },
   {
@@ -13767,61 +13820,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "eurilait.co.uk",
-    "title": "Eurilait - Premium Dairy Products & Speciality Cheese Supplier and Co-Packer",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 34240,
-    "crawled_at": "2026-05-03T11:30:37.157030949Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "Line2",
-      "Netlify",
-      "Next.js",
-      "Pleroma",
-      "Prismic",
-      "UTF-8",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "hostedaesthetics.com",
-    "title": "Curated Networking Events for Aesthetics Professionals | Hosted Aesthetics",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 1140,
-    "crawled_at": "2026-05-03T11:23:19.981192524Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Prismic",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
