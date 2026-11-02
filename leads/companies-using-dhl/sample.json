@@ -1,5 +1,70 @@
 [
   {
+    "domain": "printpackandship.pro",
+    "title": "Print Pack & Ship LLC ·",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 219,
+    "crawled_at": "2026-11-02T02:16:04.20143862Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon",
+      "Angular",
+      "Bulma",
+      "DAV",
+      "DHL Parcel",
+      "FedEx",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Nginx",
+      "Pagekit",
+      "QUIC",
+      "Twitter Ads",
+      "UPS",
+      "USPS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "paperbriquettemaker.com",
+    "title": "Paper Briquette Maker",
+    "business_name": "Paper Briquette Press",
+    "country": "DEU",
+    "seo_score": 77,
+    "tech_spend": 8065,
+    "crawled_at": "2026-11-02T02:06:17.331337688Z",
+    "technologies": [
+      "3 Products",
+      "Apache",
+      "DAV",
+      "DHL Parcel",
+      "Facebook Embedded Posts",
+      "GZIP Module",
+      "Google Adsense",
+      "Google Analytics",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google Reseller",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nicepage",
+      "PrestaShop",
+      "QUIC",
+      "StatCounter",
+      "Synthesia",
+      "UK Cookie Consent",
+      "UTF-8",
+      "YouTube",
+      "jQuery",
+      "uPress"
+    ]
+  },
+  {
     "domain": "shorai-do-kempo.de",
     "title": "Shorai-Do-Kempo Kampfkunsttrainingszentrum",
     "business_name": "Shorai Do Kempo",
@@ -3896,40 +3961,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "paperbriquettepress.com",
-    "title": "Paper Briquette Maker",
-    "business_name": "Paper Briquette Press",
-    "country": "DEU",
-    "seo_score": 77,
-    "tech_spend": 8065,
-    "crawled_at": "2026-09-11T14:29:37.238727566Z",
-    "technologies": [
-      "3 Products",
-      "Apache",
-      "DAV",
-      "DHL Parcel",
-      "Facebook Embedded Posts",
-      "GZIP Module",
-      "Google Adsense",
-      "Google Analytics",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google Reseller",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nicepage",
-      "PrestaShop",
-      "QUIC",
-      "StatCounter",
-      "Synthesia",
-      "UK Cookie Consent",
-      "UTF-8",
-      "YouTube",
-      "jQuery",
-      "uPress"
     ]
   },
   {
@@ -19006,25 +19037,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "katiemelkonian.com",
-    "title": "KM Insights",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 57,
-    "tech_spend": 1860,
-    "crawled_at": "2026-04-13T06:31:57.668690171Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon Widgets",
-      "DHL Parcel",
-      "Framer Sites",
-      "Instagram Follow Button",
-      "Ntent",
-      "Yandex Hosting",
-      "Zeald"
     ]
   }
 ]
