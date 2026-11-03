@@ -1,5 +1,57 @@
 [
   {
+    "domain": "rsao.ca",
+    "title": "RSAO - Road Safety Association Ontario - In association with MotorcycleCourse.com and SpyderCourse.com",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 50,
+    "tech_spend": 3,
+    "crawled_at": "2026-11-03T20:53:43.396424225Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "abbcharter.com",
+    "title": "Yacht Charter Worldwide | Sailing & Catamaran Rentals | ABB Charter - ABB Charter",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 27400,
+    "crawled_at": "2026-11-03T02:53:59.598135222Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Apache Tomcat JK",
+      "AutoComplete",
+      "Azion",
+      "Barracuda Web App Firewall",
+      "Bulma",
+      "Ethy",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Harbor",
+      "Perl",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "lodgegatems.com",
     "title": "LODGEGATEMS",
     "business_name": "",
@@ -12983,57 +13035,6 @@
       "Perl",
       "UTF-8",
       "Yahoo Finance Widget"
-    ]
-  },
-  {
-    "domain": "rsao.ca",
-    "title": "RSAO - Road Safety Association Ontario - In association with MotorcycleCourse.com and SpyderCourse.com",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 50,
-    "tech_spend": 3,
-    "crawled_at": "2026-03-27T13:55:26.493923755Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "abbcharter.com",
-    "title": "Yacht Charter Worldwide | Sailing & Catamaran Rentals | ABB Charter - ABB Charter",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 27400,
-    "crawled_at": "2026-03-26T13:37:55.975906517Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Apache Tomcat JK",
-      "AutoComplete",
-      "Azion",
-      "Barracuda Web App Firewall",
-      "Bulma",
-      "Ethy",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Harbor",
-      "Perl",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "eLand"
     ]
   }
 ]
