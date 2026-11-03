@@ -1,37 +1,12 @@
 [
   {
-    "domain": "hiawatharesort.info",
-    "title": "Hiawatha Resort",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 33420,
-    "crawled_at": "2026-11-02T14:25:49.366230569Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "DocuSign",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Hiawatha",
-      "PWA",
-      "Thank You",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
-    ]
-  },
-  {
-    "domain": "firstmarkcu.net",
+    "domain": "firstmarkcreditunion.com",
     "title": "Best Texas Credit Union | Firstmark Credit Union",
     "business_name": "Firstmark Credit Union",
     "country": "USA",
     "seo_score": 77,
     "tech_spend": 273911,
-    "crawled_at": "2026-11-02T03:19:42.195684001Z",
+    "crawled_at": "2026-11-03T08:04:18.275858265Z",
     "technologies": [
       "501c3 Status Nonprofit",
       "Alternate Protocol",
@@ -95,6 +70,31 @@
       "Zoom Video Conferencing",
       "jQuery",
       "jsDelivr"
+    ]
+  },
+  {
+    "domain": "hiawatharesort.info",
+    "title": "Hiawatha Resort",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 33420,
+    "crawled_at": "2026-11-02T14:25:49.366230569Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "DocuSign",
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Hiawatha",
+      "PWA",
+      "Thank You",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
     ]
   },
   {
