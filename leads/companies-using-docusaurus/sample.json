@@ -1,5 +1,44 @@
 [
   {
+    "domain": "deploy-now.ca",
+    "title": "Deploy Now » Build and Deploy via GitHub | IONOS",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 62933,
+    "crawled_at": "2026-11-03T09:14:39.98270925Z",
+    "technologies": [
+      "AI Log",
+      "Alternate Protocol",
+      "Apache",
+      "Auth Passthrough",
+      "ConnectWise ChatAssist",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fireblade",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Gridsome",
+      "Hexo",
+      "Instagram Follow Button",
+      "Jekyll",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "ON24",
+      "PHP",
+      "PROPS Publisher",
+      "PrestaShop",
+      "Scully",
+      "Svelte",
+      "UTF-8",
+      "Vector Internet Services",
+      "VitePress",
+      "Woo Themes",
+      "YouTube",
+      "symfony PHP Framework"
+    ]
+  },
+  {
     "domain": "ndwallet.xyz",
     "title": "ND Wallet | White Label Crypto Wallet Infrastructure for Web3 Businesses | Web3 Wallet Infrastructure for Businesses | ND Wallet",
     "business_name": "",
@@ -12819,27 +12858,6 @@
       "Next.js",
       "Pleroma",
       "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "emsa-technology.com",
-    "title": "EMSA TECHNOLOGY LTD | EMSA TECHNOLOGY LTD",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 240,
-    "crawled_at": "2026-04-13T08:14:19.998403993Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
       "UTF-8",
       "Vercel"
     ]
