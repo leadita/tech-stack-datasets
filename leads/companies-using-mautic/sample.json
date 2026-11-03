@@ -1,5 +1,31 @@
 [
   {
+    "domain": "anebon.com",
+    "title": "Aluminum Cnc Machining, Precision Machining - Anebon",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 72,
+    "tech_spend": "",
+    "crawled_at": "2026-11-03T18:38:39.778796535Z",
+    "technologies": [
+      "Express",
+      "Facebook Customer Chat SDK",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Mautic",
+      "Nginx",
+      "QUIC",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "holistic-visioncare.com",
     "title": "Homepage - Holistic Vision Care",
     "business_name": "Holistic Vision Care",
@@ -22026,43 +22052,6 @@
       "WordPress",
       "WordPress Multisite",
       "YouTube",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "understandingdata.eu",
-    "title": "Data Strategy Technology Education | Understanding Data",
-    "business_name": "Understanding Data",
-    "country": "BEL",
-    "seo_score": 77,
-    "tech_spend": 22029,
-    "crawled_at": "2026-04-15T06:05:20.029914482Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apache",
-      "Debian",
-      "Elementor",
-      "EmbedPress",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Hello Elementor",
-      "Kitco",
-      "LinkedIn Insights",
-      "LinkedIn Pixel",
-      "Mautic",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PHP",
-      "Site Kit",
-      "Theme In WP",
-      "TranslatePress",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
       "jQuery"
     ]
   }
