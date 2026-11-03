@@ -1,5 +1,31 @@
 [
   {
+    "domain": "savioke.info",
+    "title": "Relay Delivery Robots – Leader in delivery robots for hospitals and hotels.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 8400,
+    "crawled_at": "2026-11-03T11:19:17.865637337Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Lever",
+      "QUIC",
+      "Tailwind CSS",
+      "Trello",
+      "UTF-8",
+      "WF Cookie Consent",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "prmainsights.co.uk",
     "title": "EVERY PATIENT POSSIBLE | Avalere Health",
     "business_name": "Avalere Health",
@@ -7851,37 +7877,6 @@
       "WF Cookie Consent",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "relayrobotics.com",
-    "title": "Relay Delivery Robots – Leader in delivery robots for hospitals and hotels.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 10840,
-    "crawled_at": "2026-04-17T10:14:19.987100774Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Lever",
-      "QUIC",
-      "Tailwind CSS",
-      "Trello",
-      "UTF-8",
-      "WF Cookie Consent",
-      "YouTube"
     ]
   },
   {
