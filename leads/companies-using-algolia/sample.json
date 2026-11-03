@@ -1,5 +1,32 @@
 [
   {
+    "domain": "artlifegallery.com",
+    "title": "Art and Design Gallery & Exhibitions in Miami | ArtLife",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 10808,
+    "crawled_at": "2026-11-03T21:47:32.181444811Z",
+    "technologies": [
+      "Algolia",
+      "Content Delivery Network",
+      "DAV",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Nuxt.js",
+      "Sanity",
+      "Shopify",
+      "Shopify Collabs",
+      "Sitelinks Search Box",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vector Internet Services"
+    ]
+  },
+  {
     "domain": "difattamagic.com",
     "title": "Giochi di magia, mazzi di carte e rompicapi | DiFattaMagic",
     "business_name": "",
@@ -9067,33 +9094,6 @@
       "YouTube",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "andonartists.com",
-    "title": "Art and Design Gallery & Exhibitions in Miami | ArtLife",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 10808,
-    "crawled_at": "2026-09-25T04:23:14.380546902Z",
-    "technologies": [
-      "Algolia",
-      "Content Delivery Network",
-      "DAV",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Nuxt.js",
-      "Sanity",
-      "Shopify",
-      "Shopify Collabs",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services"
     ]
   },
   {
