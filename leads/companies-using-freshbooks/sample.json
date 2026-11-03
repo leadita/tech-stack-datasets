@@ -3319,39 +3319,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "compassapp.ai",
-    "title": "Compass AI Financial Intelligence for CFOs & Fractional CFOs | Financial Infrastructure for CPA Firms & Fractional CFOs",
-    "business_name": "Financial Infrastructure for CPA Firms & Fractional CFOs",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 37508,
-    "crawled_at": "2026-03-26T14:42:09.690797402Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Apture Linking Platform",
-      "Calendly",
-      "CloudFront",
-      "Content Delivery Network",
-      "Fireblade",
-      "FreshBooks",
-      "GZIP Module",
-      "InitiativeS",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "No-Q",
-      "Plausible Analytics",
-      "QUIC",
-      "Sanity",
-      "Slack",
-      "Tailwind CSS",
-      "UTF-8",
-      "Xero",
-      "shadcn ui"
-    ]
   }
 ]
