@@ -1,5 +1,36 @@
 [
   {
+    "domain": "storyarclearning.com",
+    "title": "Instructional Design Services | Story Arc Learning",
+    "business_name": "Story Arc Learning",
+    "country": "USA",
+    "seo_score": 92,
+    "tech_spend": 22500,
+    "crawled_at": "2026-11-03T13:08:50.566078593Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Express",
+      "GitHub Hosting",
+      "GoDaddy",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "ID Services",
+      "Line2",
+      "Microdata for Google Shopping",
+      "PWA",
+      "TalentLMS",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "nurturedmindset.org",
     "title": "Financial Literacy USA | Learn Student Finance | Nurtured Mindset",
     "business_name": "",
@@ -9587,35 +9618,6 @@
       "Zendesk Embeddables",
       "elevio",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "storyarclearning.com",
-    "title": "Instructional Design Services | Story Arc Learning",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 22500,
-    "crawled_at": "2026-03-27T03:07:19.896362624Z",
-    "technologies": [
-      "Apache",
-      "Express",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "ID Services",
-      "Line2",
-      "PWA",
-      "TalentLMS",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
     ]
   }
 ]
