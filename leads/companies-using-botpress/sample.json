@@ -1,5 +1,32 @@
 [
   {
+    "domain": "heropm.com",
+    "title": "HERO PM: Property Management Online",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 2560,
+    "crawled_at": "2026-11-02T18:22:23.490528269Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Apache",
+      "AutoComplete",
+      "Botpress",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cookie Info Script",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "OpenSSL",
+      "QUIC",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "evaluemaxai.com",
     "title": "eValueMaxAI | Enterprise-Grade AI. Powering Your Vision to Scale your Business",
     "business_name": "",
@@ -8143,32 +8170,6 @@
       "WordPress",
       "WordPress Multisite",
       "YouTube",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "heroinspections.com",
-    "title": "Overview of HERO Harmony for Property Managers",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 2560,
-    "crawled_at": "2026-08-16T08:40:36.2631916Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Apache",
-      "AutoComplete",
-      "Botpress",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cookie Info Script",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "OpenSSL",
-      "UTF-8",
       "jQuery"
     ]
   },
