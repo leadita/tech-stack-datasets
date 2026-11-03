@@ -1,5 +1,33 @@
 [
   {
+    "domain": "focus614.com",
+    "title": "Jay Thurston",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 28286,
+    "crawled_at": "2026-11-03T07:52:24.595472011Z",
+    "technologies": [
+      "AB Tasty",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "Fastly",
+      "Fireblade",
+      "GZIP Module",
+      "Help.com",
+      "Instagram Follow Button",
+      "K2F",
+      "Nginx",
+      "Ntent",
+      "QUIC",
+      "SmartyStreets",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "pavers.co.uk",
     "title": "Pavers Shoes",
     "business_name": "Pavers Shoes",
@@ -20066,40 +20094,6 @@
       "Tailwind CSS",
       "UTF-8",
       "WhatsApp Sharing"
-    ]
-  },
-  {
-    "domain": "electrobreakbeats.com",
-    "title": "504 Productions Music & Downloads on Beatport",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 79056,
-    "crawled_at": "2026-03-26T19:12:21.009569056Z",
-    "technologies": [
-      "AB Tasty",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "App Store",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "Graphy",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Post Affiliate Pro",
-      "QUIC",
-      "Recurly",
-      "Styled Components",
-      "Twitter Ads",
-      "UTF-8",
-      "Waveform Technology",
-      "YouTube",
-      "sniply"
     ]
   }
 ]
