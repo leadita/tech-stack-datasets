@@ -1,5 +1,24 @@
 [
   {
+    "domain": "orbit.hr",
+    "title": "Orbit proizvodnja - Orbit proizvodnja",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 15102,
+    "crawled_at": "2026-11-04T13:44:39.741001721Z",
+    "technologies": [
+      "Apache",
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Gridsome",
+      "SMC",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "deploy-now.ca",
     "title": "Deploy Now » Build and Deploy via GitHub | IONOS",
     "business_name": "",
@@ -11858,22 +11877,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "lucianademichelis.com.ar",
-    "title": "Luciana Demichelis - Luciana Demichelis",
-    "business_name": "",
-    "country": "MEX",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-04-09T06:47:20.004336924Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "Instagram Follow Button",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
