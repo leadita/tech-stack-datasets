@@ -1,5 +1,26 @@
 [
   {
+    "domain": "emil.gg",
+    "title": "emil.gunnargunnarsson",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 69,
+    "crawled_at": "2026-11-04T10:31:24.455033609Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Bitwarden Passwordless",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API"
+    ]
+  },
+  {
     "domain": "ageless.shop",
     "title": "Ageless Retail Private Limited",
     "business_name": "Ageless Retail Private Limited",
@@ -18909,31 +18930,6 @@
       "Underscores",
       "Unsplash",
       "jsDelivr",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "secondwind.cloud",
-    "title": "Second Wind | Shape how AI represents your company",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 7785,
-    "crawled_at": "2026-04-08T11:23:20.006624739Z",
-    "technologies": [
-      "1Password",
-      "Bitwarden Passwordless",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Fastly CDN",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Netlify",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
       "shadcn ui"
     ]
   }
