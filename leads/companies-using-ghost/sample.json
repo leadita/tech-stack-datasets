@@ -1,5 +1,53 @@
 [
   {
+    "domain": "emplex.nl",
+    "title": "Emplex",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 15840,
+    "crawled_at": "2026-11-03T19:24:32.37506981Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Express",
+      "FormSubmit",
+      "Ghost",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "QUIC",
+      "Stripe",
+      "Tailwind CSS",
+      "UTF-8",
+      "Unsplash",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "implausible.ai",
+    "title": "Implausible AI",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 3060,
+    "crawled_at": "2026-11-03T18:38:39.804843695Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "Ghost",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "evolutiond7.com",
     "title": "Denago EV",
     "business_name": "",
@@ -13150,63 +13198,6 @@
       "UTF-8",
       "Ubuntu",
       "Web3Forms",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "pratikm.in",
-    "title": "Pratik - ScaleUp HR Specialist/High Performance HR Specialist",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 2244,
-    "crawled_at": "2026-04-14T22:32:53.783997202Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Crisp",
-      "Digital Ocean Spaces",
-      "Express",
-      "GZIP Module",
-      "Ghost",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "UTF-8",
-      "Unsplash",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "apgc.online",
-    "title": "Asia-Pacific Golf Confederation",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 7600,
-    "crawled_at": "2026-04-14T21:56:19.994040726Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon S3 CDN",
-      "Bunny Fonts",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Ghost",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "Pico CSS",
-      "Storyblocks",
-      "UTF-8",
-      "jQuery",
       "jsDelivr"
     ]
   }
