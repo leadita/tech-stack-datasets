@@ -1,5 +1,32 @@
 [
   {
+    "domain": "landnoise.com",
+    "title": "Land Seismic Noise Specialists | Full-service processing, technology, geoscience services, software",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 137053,
+    "crawled_at": "2026-11-04T18:48:18.963542641Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Seismic",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "Waveform Technology",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "nwp.com",
     "title": "Utility Management and Billing Portal Login | Realpage",
     "business_name": "RealPage",
@@ -716,33 +743,6 @@
       "LiteSpeed",
       "QUIC",
       "Seismic"
-    ]
-  },
-  {
-    "domain": "landseismicspecialists.com",
-    "title": "Land Seismic Noise Specialists | Full-service processing, technology, geoscience services, software",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 137053,
-    "crawled_at": "2026-08-07T08:14:04.119390615Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Seismic",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "Waveform Technology",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   },
   {
