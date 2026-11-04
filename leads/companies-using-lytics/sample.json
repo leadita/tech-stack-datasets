@@ -1,5 +1,36 @@
 [
   {
+    "domain": "nmscents.com",
+    "title": "NM Middle School Fundraiser!",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 300599,
+    "crawled_at": "2026-11-04T01:53:00.971787458Z",
+    "technologies": [
+      "ASP.NET Core",
+      "Adobe Analytics",
+      "Adobe Creative Cloud WebFonts",
+      "Adobe Marketing Cloud",
+      "Amazon",
+      "Contentstack",
+      "Fireblade",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Hotjar",
+      "Imperva Bot Detection and Mitigation",
+      "Incapsula CDN",
+      "Lytics",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "williamophwrights.com",
     "title": "Phil Williams",
     "business_name": "",
@@ -1139,39 +1170,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "nmscents.com",
-    "title": "NM Middle School Fundraiser!",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 301731,
-    "crawled_at": "2026-03-27T21:03:53.070321558Z",
-    "technologies": [
-      "Adobe Analytics",
-      "Adobe Creative Cloud WebFonts",
-      "Adobe Marketing Cloud",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Contentstack",
-      "Fireblade",
-      "Font Awesome",
-      "GZIP Module",
-      "GetResponse",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Hotjar",
-      "Imperva Bot Detection and Mitigation",
-      "Incapsula CDN",
-      "Lytics",
-      "New Relic",
-      "Tailwind CSS",
-      "UTF-8",
-      "reCAPTCHA"
     ]
   }
 ]
