@@ -5826,38 +5826,5 @@
       "UTF-8",
       "YouTube"
     ]
-  },
-  {
-    "domain": "marionedmunds.com",
-    "title": "Marion Edmunds",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 70,
-    "tech_spend": 23681,
-    "crawled_at": "2026-03-27T01:56:17.183497969Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Aruba",
-      "Edmunds",
-      "Express",
-      "GZIP Module",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Parcel",
-      "Prospective",
-      "QUIC",
-      "Squarespace",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "eLand"
-    ]
   }
 ]
