@@ -8626,31 +8626,5 @@
       "jsDelivr",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "skylineegypttours.com",
-    "title": "Skyline Tours",
-    "business_name": "",
-    "country": "EGY",
-    "seo_score": 62,
-    "tech_spend": "",
-    "crawled_at": "2026-03-27T03:24:46.353204613Z",
-    "technologies": [
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Django",
-      "ElementUI",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Nginx",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "Ubuntu",
-      "YouTube",
-      "jQuery"
-    ]
   }
 ]
