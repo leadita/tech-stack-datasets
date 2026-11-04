@@ -1,5 +1,35 @@
 [
   {
+    "domain": "aesofnewyork.com",
+    "title": "unicorn (formerly Wiser Elite)",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 247131,
+    "crawled_at": "2026-11-04T14:24:12.759289345Z",
+    "technologies": [
+      "1Password",
+      "Airtable",
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "DAV",
+      "Framer Sites",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Customer Reviews",
+      "Google Tag Manager",
+      "K2F",
+      "Ntent",
+      "SMC",
+      "Salesforce Hosted",
+      "Tipalti",
+      "Vector Internet Services",
+      "Yandex Hosting",
+      "Zeald"
+    ]
+  },
+  {
     "domain": "mailcon.com",
     "title": "MailCon - Email Marketing Conferences 2026",
     "business_name": "MailCon",
@@ -817,37 +847,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "wiserelite.com",
-    "title": "unicorn (formerly Wiser Elite)",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 267131,
-    "crawled_at": "2026-04-22T20:20:14.500908059Z",
-    "technologies": [
-      "1Password",
-      "Airtable",
-      "Alternate Protocol",
-      "Coming Soon Page",
-      "DAV",
-      "Framer Sites",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Customer Reviews",
-      "Google Tag Manager",
-      "K2F",
-      "Ntent",
-      "O2MC Dimml",
-      "SMC",
-      "Salesforce Hosted",
-      "Tipalti",
-      "Vector Internet Services",
-      "Yandex Hosting",
-      "Zeald"
     ]
   },
   {
