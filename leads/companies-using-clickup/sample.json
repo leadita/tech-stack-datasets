@@ -1,5 +1,35 @@
 [
   {
+    "domain": "dcoil.ca",
+    "title": "AMSOIL Synthetic Oil in Caledon, ON | DC OIL",
+    "business_name": "AMSOIL INC.",
+    "country": "CAN",
+    "seo_score": 82,
+    "tech_spend": 16560,
+    "crawled_at": "2026-11-04T01:03:19.739687363Z",
+    "technologies": [
+      "Apache",
+      "ByteDance",
+      "ClickUp",
+      "Content Delivery Network",
+      "DAV",
+      "Facebook Reseller",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "LinkedIn Pixel",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Ntent",
+      "QUIC",
+      "Stripe",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "truckoilguy.com",
     "title": "AMSOIL Synthetic Oil in Winfield, PA | TruckOilGuy.com",
     "business_name": "AMSOIL INC.",
@@ -19213,46 +19243,6 @@
       "UTF-8",
       "University or College",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "r3tribe.com",
-    "title": "r3student Official: TikTok, Instagram, Facebook | Linktree",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 57,
-    "tech_spend": 2711,
-    "crawled_at": "2026-04-21T08:13:19.711219445Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ClickUp",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Eventbrite",
-      "Fastly",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Kitco",
-      "Linktree",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Nginx",
-      "PWA",
-      "Pleroma",
-      "QUIC",
-      "Rakuten Affiliate",
-      "SiteW",
-      "Styled Components",
-      "Subsplash",
-      "Superfiliate",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]
