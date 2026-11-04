@@ -1,5 +1,55 @@
 [
   {
+    "domain": "acady.eu",
+    "title": "IB MYP & DP Tutoring: #1 tutors for top IB results | Acady",
+    "business_name": "Acady",
+    "country": "NLD",
+    "seo_score": 87,
+    "tech_spend": 24209,
+    "crawled_at": "2026-11-04T00:47:35.375867661Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Aruba",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Insights",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Cybot",
+      "Divi",
+      "DoubleClick Bid Manager",
+      "Elegant Themes",
+      "EmbedPress",
+      "Fastly",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Gravity",
+      "Gravity Forms",
+      "Kinsta",
+      "Lazy Load for WordPress",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "QUIC",
+      "Theme In WP",
+      "UTF-8",
+      "University or College",
+      "WP Rocket",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "eLand",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "yulo.im",
     "title": "Portfolio - GreatStack",
     "business_name": "",
@@ -15214,23 +15264,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "chinhtruong.com",
-    "title": "Chinh Truong - Full-Stack Developer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 60,
-    "crawled_at": "2026-05-09T08:05:20.001723901Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "GitHub Hosting",
-      "UTF-8"
     ]
   }
 ]
