@@ -1,5 +1,51 @@
 [
   {
+    "domain": "emeraldhoianriverside.com",
+    "title": "Homepage | Emerald Hoi An Riverside Resort",
+    "business_name": "",
+    "country": "",
+    "seo_score": 75,
+    "tech_spend": 28007,
+    "crawled_at": "2026-11-04T15:40:34.972074078Z",
+    "technologies": [
+      "Alternate Protocol",
+      "AutoComplete",
+      "Booking Affiliate",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Didomi",
+      "EmbedPress",
+      "Fancybox for WordPress",
+      "Fastly",
+      "Fireblade",
+      "Font Awesome",
+      "GDPR Consent Management Platform",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Parcel",
+      "QUIC",
+      "Subversion",
+      "Theme In WP",
+      "UTF-8",
+      "WP Engine",
+      "WPML Multilingual",
+      "WordPress",
+      "WordPress Multisite",
+      "YouTube",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "coinhouse.fr",
     "title": "Buy Bitcoin, Ethereum, Solana & cryptos - Exchange | Coinhouse",
     "business_name": "Coinhouse",
@@ -19081,31 +19127,6 @@
       "Nginx",
       "Nuxt.js",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "equipemailloux.com",
-    "title": "Isabelle Mailloux | Residential Real Estate Broker at RE/MAX Prestige",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 26720,
-    "crawled_at": "2026-04-13T20:25:08.40373891Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Didomi",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "Nuxt.js",
-      "UTF-8",
-      "Vector Internet Services"
     ]
   }
 ]
