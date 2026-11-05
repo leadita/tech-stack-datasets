@@ -1,5 +1,35 @@
 [
   {
+    "domain": "the-periscope-project.org",
+    "title": "Home | The Periscope Project",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 194250,
+    "crawled_at": "2026-11-05T08:34:36.37905177Z",
+    "technologies": [
+      "ArvanCloud",
+      "Coveo",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Render",
+      "Sitecore CMS",
+      "Thank You",
+      "UTF-8",
+      "University or College",
+      "Wistia",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "pharmacist.com",
     "title": "APhA Home",
     "business_name": "",
@@ -3768,38 +3798,6 @@
       "Visual Studio",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "the-periscope-project.org",
-    "title": "Home | The Periscope Project",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 194250,
-    "crawled_at": "2026-03-29T18:47:40.799328031Z",
-    "technologies": [
-      "ArvanCloud",
-      "Coveo",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Render",
-      "ShareThis",
-      "Sitecore CMS",
-      "Subversion",
-      "Thank You",
-      "UTF-8",
-      "University or College",
-      "Wistia",
-      "YouTube",
-      "jsDelivr"
     ]
   }
 ]
