@@ -1,5 +1,32 @@
 [
   {
+    "domain": "hemetmechanic.com",
+    "title": "Mobile Mechanic & Auto Repair | Hemet & San Jacinto CA",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 528,
+    "crawled_at": "2026-11-05T02:33:15.274278155Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Better Lead Generation Services",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "DAV",
+      "Google Analytics",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "UTF-8",
+      "eLand"
+    ]
+  },
+  {
     "domain": "acady.eu",
     "title": "IB MYP & DP Tutoring: #1 tutors for top IB results | Acady",
     "business_name": "Acady",
@@ -15236,34 +15263,6 @@
       "Python",
       "UTF-8",
       "Vector Internet Services"
-    ]
-  },
-  {
-    "domain": "opensyber.io",
-    "title": "OpenSyber — Runtime Security for AI Agents",
-    "business_name": "OpenSyber",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 17052,
-    "crawled_at": "2026-05-09T08:11:20.002528668Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "GitHub Hosting",
-      "Lemon Squeezy",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Next.js",
-      "PagerDuty",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
