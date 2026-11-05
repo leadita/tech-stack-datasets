@@ -1,5 +1,52 @@
 [
   {
+    "domain": "dehammes.com",
+    "title": "Wade Hammes",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 63,
+    "crawled_at": "2026-11-05T17:19:02.08668755Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Prismic",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "amsterdamdesignoffice.info",
+    "title": "Amsterdam Design Office",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 52,
+    "tech_spend": 60,
+    "crawled_at": "2026-11-04T18:52:12.229831082Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Microsoft 365",
+      "Next.js",
+      "PWA",
+      "Perl",
+      "Pleroma",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "threadwaystudio.com",
     "title": "Threadway Studio",
     "business_name": "Threadway Studio",
@@ -9177,34 +9224,6 @@
     ]
   },
   {
-    "domain": "wadehammes.com",
-    "title": "Wade Hammes' Party Pad",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 111,
-    "crawled_at": "2026-05-21T01:12:19.487542529Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Linktree",
-      "Next.js",
-      "Perl",
-      "Prismic",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "YouTube"
-    ]
-  },
-  {
     "domain": "psihologieonline.net",
     "title": "Psihologie Online",
     "business_name": "",
@@ -13835,35 +13854,6 @@
       "Vignette OpenText",
       "Vimeo",
       "Vimeo CDN"
-    ]
-  },
-  {
-    "domain": "batsoft.ch",
-    "title": "Manage your employees | Batsoft",
-    "business_name": "",
-    "country": "CHE",
-    "seo_score": 72,
-    "tech_spend": 7270,
-    "crawled_at": "2026-05-04T05:44:20.008991657Z",
-    "technologies": [
-      "Alternate Protocol",
-      "DoubleClick Bid Manager",
-      "Gatsby JS",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Reseller",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "No-Q",
-      "Prismic",
-      "Styled Components",
-      "Twitter Ads",
-      "UTF-8",
-      "Workable",
-      "YouTube"
     ]
   }
 ]

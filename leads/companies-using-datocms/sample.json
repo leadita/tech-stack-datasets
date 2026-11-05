@@ -1,5 +1,65 @@
 [
   {
+    "domain": "tuya.it",
+    "title": "Mediterranean Restaurant in Milano | Fresh Flavors & Vibrant Atmosphere | TUYA MILANO",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 72,
+    "tech_spend": 138046,
+    "crawled_at": "2026-11-04T22:31:16.504281525Z",
+    "technologies": [
+      "34SP.com",
+      "Content Delivery Network",
+      "DAV",
+      "DatoCMS",
+      "Ethy",
+      "Federal Deposit Insurance Corporation",
+      "Financial Services Guide",
+      "Gatsby JS",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Idaq",
+      "Instagram Follow Button",
+      "K2F",
+      "KVH",
+      "Netlify",
+      "No-Q",
+      "O2MC Dimml",
+      "Onyx Internet",
+      "SEVENROOMS",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "waabi.ai",
+    "title": "Waabi Self Driving Trucks and Robotaxis",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 4838,
+    "crawled_at": "2026-11-04T20:57:11.911357891Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Next.js",
+      "Tailwind CSS",
+      "UTF-8",
+      "Underscores",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "theprotectionplatform.co.uk",
     "title": "Home",
     "business_name": "",
@@ -7025,33 +7085,6 @@
       "UTF-8",
       "Vercel",
       "WordPress",
-      "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "waabi.co",
-    "title": "Waabi Self Driving Trucks and Robotaxis",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 5128,
-    "crawled_at": "2026-08-15T09:49:06.142910782Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CloudFront",
-      "Content Delivery Network",
-      "DatoCMS",
-      "Federal Deposit Insurance Corporation",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Next.js",
-      "Tailwind CSS",
-      "Tally",
-      "UTF-8",
-      "Underscores",
       "YouTube",
       "shadcn ui"
     ]
@@ -14289,35 +14322,6 @@
       "Vercel",
       "Vimeo CDN",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "hoxtoncapital.com.au",
-    "title": "Home | Hoxton Wealth",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 33164,
-    "crawled_at": "2026-05-09T14:37:46.764644554Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Calendly",
-      "Content Delivery Network",
-      "DAV",
-      "DatoCMS",
-      "Fireblade",
-      "Idaq",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "VWO Engage",
-      "Vercel",
-      "Visual Website Optimizer",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]
