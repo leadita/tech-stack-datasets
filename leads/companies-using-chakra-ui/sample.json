@@ -1,5 +1,57 @@
 [
   {
+    "domain": "silicosoftware.com",
+    "title": "Home - Web & Mobile Solutions | Silico Software Solutions",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 87,
+    "tech_spend": 9440,
+    "crawled_at": "2026-11-04T20:48:30.764405872Z",
+    "technologies": [
+      "Aruba",
+      "Chakra UI",
+      "Cloudinary",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microsoft Clarity",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vercel",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "baodaotalk.com",
+    "title": "BaoDao Talk - Your best Chinese learning partner",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 21860,
+    "crawled_at": "2026-11-04T15:58:03.022468649Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon S3 CDN",
+      "Chakra UI",
+      "Express",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "NFOrce Internet",
+      "Next.js",
+      "Pleroma",
+      "Storyblocks",
+      "UTF-8",
+      "Vector Internet Services",
+      "WhatsApp Sharing",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "pazago.com",
     "title": "The All-in-One Export Management Platform | Pazago",
     "business_name": "",
@@ -13182,62 +13234,6 @@
       "Square",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "sporthood.ae",
-    "title": "Young Blasters Sporthood Academy UAE",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 18828,
-    "crawled_at": "2026-05-27T10:51:41.301452129Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "App Store",
-      "Chakra UI",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "ImageKit.io",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "Next.js",
-      "Nginx",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "WhatsApp Sharing",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "reflectsquad.com",
-    "title": "Reflect: A Private Dining Experience Beyond Taste",
-    "business_name": "Reflect",
-    "country": "TUR",
-    "seo_score": 77,
-    "tech_spend": 7333,
-    "crawled_at": "2026-05-26T21:19:43.991459387Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Chakra UI",
-      "Cybot",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "ImageKit.io",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Next.js",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
