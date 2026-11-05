@@ -1,5 +1,33 @@
 [
   {
+    "domain": "customtotebags4u.com",
+    "title": "About Us",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 807,
+    "crawled_at": "2026-11-05T08:57:42.912568562Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "AutoComplete",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "DAV",
+      "Express",
+      "FreeCSSTemplates",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "QUIC",
+      "UTF-8",
+      "Volusion",
+      "Volusion Live Chat",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "streetpolebanners.com",
     "title": "Banner Bracket | Pole Banner Hardware | Street Pole Banner Brackets",
     "business_name": "",
@@ -3480,33 +3508,6 @@
       "UTF-8",
       "Volusion Live Chat",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "customtotebags4u.com",
-    "title": "About Us",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2008,
-    "crawled_at": "2026-03-29T19:23:13.248598614Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AutoComplete",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Express",
-      "FreeCSSTemplates",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "QUIC",
-      "UTF-8",
-      "Volusion",
-      "Volusion Live Chat",
-      "jQuery"
     ]
   }
 ]

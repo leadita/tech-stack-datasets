@@ -1,5 +1,63 @@
 [
   {
+    "domain": "elifbayrasli.com",
+    "title": "Elif Bayrasli's Portfolio | elif.codes",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 155000,
+    "crawled_at": "2026-11-05T11:52:51.722425763Z",
+    "technologies": [
+      "GZIP Module",
+      "Google Analytics",
+      "Nginx",
+      "Salesforce Commerce Cloud",
+      "Salesforce Hosted",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "dreamdubai.com",
+    "title": "Dream Dubai | Dream BIG. Win BIGGER!",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 67,
+    "tech_spend": 591540,
+    "crawled_at": "2026-11-04T18:42:32.983279315Z",
+    "technologies": [
+      "Adjust",
+      "App Store",
+      "Apture Linking Platform",
+      "Aruba",
+      "BunnyCDN",
+      "BunnyCDN General",
+      "ByteDance",
+      "CQuotient",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "DAV",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Google Analytics",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "JUST",
+      "Quotient",
+      "Salesforce Commerce Cloud",
+      "Smart App Banner",
+      "TikTok Conversion Tracking Pixel",
+      "UTF-8",
+      "eLand",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "mechanix.com",
     "title": "Work Gloves | Mechanix Wear",
     "business_name": "",
@@ -5452,23 +5510,6 @@
       "WordPress Multisite",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "elif.codes",
-    "title": "Elif Bayrasli's Portfolio | elif.codes",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 155000,
-    "crawled_at": "2026-07-30T04:21:04.78618918Z",
-    "technologies": [
-      "GZIP Module",
-      "Google Analytics",
-      "Nginx",
-      "Salesforce Commerce Cloud",
-      "Salesforce Hosted",
-      "UTF-8"
     ]
   },
   {
@@ -16591,69 +16632,6 @@
       "arsys.es",
       "eLand",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "hindustanindustries.in",
-    "title": "HINDUSTAN INDUSTRY",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 504808,
-    "crawled_at": "2026-03-29T11:13:01.771829466Z",
-    "technologies": [
-      "Apache",
-      "Automattic",
-      "Cloudinary",
-      "DAV",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Medium",
-      "Salesforce Commerce Cloud",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress"
-    ]
-  },
-  {
-    "domain": "dreamdubai.com",
-    "title": "Dream Dubai | Dream BIG. Win BIGGER!",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 67,
-    "tech_spend": 590340,
-    "crawled_at": "2026-03-28T21:50:57.874759947Z",
-    "technologies": [
-      "Adjust",
-      "App Store",
-      "Apture Linking Platform",
-      "Aruba",
-      "BunnyCDN",
-      "BunnyCDN General",
-      "ByteDance",
-      "CQuotient",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Google Analytics",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "JUST",
-      "Quotient",
-      "Salesforce Commerce Cloud",
-      "Smart App Banner",
-      "TikTok Conversion Tracking Pixel",
-      "UTF-8",
-      "eLand"
     ]
   }
 ]
