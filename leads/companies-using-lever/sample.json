@@ -9511,40 +9511,5 @@
       "eLand",
       "jQuery"
     ]
-  },
-  {
-    "domain": "waivercore.com",
-    "title": "Foxen | Renters Insurance Compliance + Rent Reporting Platform",
-    "business_name": "Foxen Administration",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 25047,
-    "crawled_at": "2026-03-29T13:10:06.307919408Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Lever",
-      "Microdata for Google Shopping",
-      "SiteW",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "WF Cookie Consent",
-      "YouTube",
-      "jsDelivr"
-    ]
   }
 ]
