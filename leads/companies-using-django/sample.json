@@ -1,5 +1,32 @@
 [
   {
+    "domain": "wolflakesvillages.com",
+    "title": "Soldier Home Realty - Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 10273,
+    "crawled_at": "2026-11-04T15:00:46.510734666Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "Fancybox for WordPress",
+      "Fireblade",
+      "GZIP Module",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Line2",
+      "Perl",
+      "QUIC",
+      "RM Education",
+      "SnapWidget",
+      "University or College",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "donerightpowerwashing.co",
     "title": "Power Washing & Pressure Washing in Ocala | Done Right Power Washing",
     "business_name": "",
@@ -5773,33 +5800,6 @@
       "Python",
       "QUIC",
       "University or College"
-    ]
-  },
-  {
-    "domain": "couragewhiskey.com",
-    "title": "Soldier Home Realty - Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 10273,
-    "crawled_at": "2026-04-21T18:05:20.023572719Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "Fancybox for WordPress",
-      "Fireblade",
-      "GZIP Module",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Line2",
-      "Perl",
-      "QUIC",
-      "RM Education",
-      "SnapWidget",
-      "University or College",
-      "YouTube",
-      "reCAPTCHA"
     ]
   },
   {
