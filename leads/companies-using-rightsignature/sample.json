@@ -1903,46 +1903,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "mybrooklynapt.com",
-    "title": "My Bushwick Apartment – Book a room in Brooklyn!",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 5399,
-    "crawled_at": "2026-03-29T11:48:01.827874519Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Contact Form Plugin",
-      "ContentViews",
-      "Elementor",
-      "EmbedPress",
-      "Endis",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Instagram Feed for WordPress",
-      "Instagram Follow Button",
-      "Neighborhoods",
-      "PHP",
-      "QUIC",
-      "Recent Posts Widget With Thumbnails",
-      "RightSignature",
-      "Slider Revolution",
-      "Theme In WP",
-      "UTF-8",
-      "WPBakery",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]

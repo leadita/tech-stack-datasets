@@ -1,5 +1,30 @@
 [
   {
+    "domain": "coffeeexchange.ca",
+    "title": "Coffee Exchange",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 67,
+    "tech_spend": 16149,
+    "crawled_at": "2026-11-05T05:49:54.182927376Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ContentBox",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Reseller",
+      "Foxit",
+      "GoDaddy",
+      "Google My Business",
+      "Google Recommendations AI",
+      "ISO/IEC 8859",
+      "PHP",
+      "Shockwave Flash Embed",
+      "StatCounter",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "russellrwd3.com",
     "title": "Russell County RWD 3 > Home",
     "business_name": "",
@@ -943,31 +968,6 @@
       "WordPress",
       "WordPress Multisite",
       "eLand"
-    ]
-  },
-  {
-    "domain": "coffeeexchange.ca",
-    "title": "Coffee Exchange",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 67,
-    "tech_spend": 16149,
-    "crawled_at": "2026-03-29T14:43:24.222103879Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ContentBox",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "Foxit",
-      "GoDaddy",
-      "Google My Business",
-      "Google Recommendations AI",
-      "ISO/IEC 8859",
-      "PHP",
-      "Shockwave Flash Embed",
-      "StatCounter",
-      "jQuery"
     ]
   }
 ]
