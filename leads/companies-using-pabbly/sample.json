@@ -1,5 +1,60 @@
 [
   {
+    "domain": "5starsrating.com",
+    "title": "5Stars Rating System - The Growth Engine for Local Businesses",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 34148,
+    "crawled_at": "2026-11-05T10:38:17.627720082Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Authorize.net",
+      "Better Lead Generation Services",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "DAV",
+      "Fireblade",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Customer Reviews",
+      "Google Font API",
+      "Google Maps",
+      "Nuxt.js",
+      "Pabbly",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "brkthrucoaching.com",
+    "title": "Module 1: Coaching Essentials | Breakthrough Coaching & Consulting",
+    "business_name": "",
+    "country": "PHL",
+    "seo_score": 77,
+    "tech_spend": 15735,
+    "crawled_at": "2026-11-05T10:12:35.354679009Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adult Content",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Font Awesome",
+      "Netlify",
+      "Pabbly",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "aitable.ai",
     "title": "AITable.ai | Automate data across 6,000+ apps",
     "business_name": "APITable Ltd.",
@@ -5965,36 +6020,6 @@
       "Wix Media",
       "eLand",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "5starsrating.com",
-    "title": "5Stars Rating System - The Growth Engine for Local Businesses",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 34148,
-    "crawled_at": "2026-03-29T22:05:15.295795704Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Authorize.net",
-      "Better Lead Generation Services",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Customer Reviews",
-      "Google Font API",
-      "Google Maps",
-      "Nuxt.js",
-      "Pabbly",
-      "UTF-8"
     ]
   }
 ]
