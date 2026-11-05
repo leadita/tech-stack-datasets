@@ -2222,25 +2222,5 @@
       "YouTube",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "trophy-events-uk.co.uk",
-    "title": "Trophy Events | Register interest",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": 13383,
-    "crawled_at": "2026-03-28T15:56:11.684123512Z",
-    "technologies": [
-      "Apache",
-      "CacheFly",
-      "CacheFly CDN",
-      "Fireblade",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Tailwind CSS",
-      "reCAPTCHA"
-    ]
   }
 ]
