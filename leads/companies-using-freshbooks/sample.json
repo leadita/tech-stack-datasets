@@ -1,5 +1,58 @@
 [
   {
+    "domain": "dmbclients.com",
+    "title": "Digital Media Butterfly Clients | for Digital Media Butterfly Clients only",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 397,
+    "crawled_at": "2026-11-04T19:30:00.543323447Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "FreshBooks",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Menu Icons by ThemeIsle",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "spncrhly.com",
+    "title": "Spencer Haley",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 697,
+    "crawled_at": "2026-11-04T18:38:36.782523278Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "FreshBooks",
+      "GZIP Module",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "shuswapbookkeeping.ca",
     "title": "Shuswap Bookkeeping – Professional and Affordable Business Services",
     "business_name": "",
@@ -171,29 +224,6 @@
       "Wix Media",
       "YouTube",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "spinach.studio",
-    "title": "Spencer Haley",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 697,
-    "crawled_at": "2026-10-24T05:18:16.116840416Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "FreshBooks",
-      "GZIP Module",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   },
   {
@@ -3261,62 +3291,6 @@
       "WordPress",
       "WordPress Multisite",
       "YouTube",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "estelleluk.com",
-    "title": "Estelle Luk - UX | Product Design Portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 76693,
-    "crawled_at": "2026-03-29T00:43:36.951902059Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "FreshBooks",
-      "GZIP Module",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "dmbclients.com",
-    "title": "Digital Media Butterfly Clients | for Digital Media Butterfly Clients only",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 397,
-    "crawled_at": "2026-03-28T22:58:59.66282084Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Divi",
-      "Elegant Themes",
-      "EmbedPress",
-      "FreshBooks",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Menu Icons by ThemeIsle",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
       "jQuery"
     ]
   }
