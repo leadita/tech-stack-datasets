@@ -19845,36 +19845,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "w0fficeltd.com",
-    "title": "W Office",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 57,
-    "tech_spend": 1641,
-    "crawled_at": "2026-03-31T12:50:41.532811399Z",
-    "technologies": [
-      "Apache",
-      "Aruba",
-      "CDN JS",
-      "ClickFunnels",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "OpenSSL",
-      "UTF-8",
-      "Ubuntu",
-      "eLand"
-    ]
   }
 ]
