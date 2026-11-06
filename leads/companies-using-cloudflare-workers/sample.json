@@ -1,5 +1,28 @@
 [
   {
+    "domain": "stackalign.in",
+    "title": "StackAlign | Custom Software & Web Application Development",
+    "business_name": "StackAlign",
+    "country": "",
+    "seo_score": 92,
+    "tech_spend": 16500,
+    "crawled_at": "2026-11-06T07:19:59.38070968Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Cloudflare Workers",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Python",
+      "UTF-8",
+      "jsDelivr",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "hemetmechanic.com",
     "title": "Mobile Mechanic & Auto Repair | Hemet & San Jacinto CA",
     "business_name": "",
@@ -15245,24 +15268,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "cartographix.org",
-    "title": "Cartographix — AI & Data Consultancy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 1260,
-    "crawled_at": "2026-05-09T12:41:20.014019891Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Cloudflare Workers",
-      "Python",
-      "UTF-8",
-      "Vector Internet Services"
     ]
   }
 ]
