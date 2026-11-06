@@ -1,5 +1,33 @@
 [
   {
+    "domain": "abdn-online.ac.uk",
+    "title": "Online Learning | Study Here | The University of Aberdeen",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 72940,
+    "crawled_at": "2026-11-06T13:07:55.578132641Z",
+    "technologies": [
+      "Amazon",
+      "Apache",
+      "Blackboard Open LMS",
+      "Corporate Governance and Regulatory Compliance",
+      "Engage",
+      "Funnelback",
+      "GZIP Module",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Linktree",
+      "PWA",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "timeforacuppa.org",
     "title": "Time for a Cuppa - annual charity tea party 2026 | Dementia UK",
     "business_name": "Dementia UK",
@@ -564,35 +592,6 @@
       "YouTube",
       "eLand",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "abdn.ac.uk",
-    "title": "Home | The University of Aberdeen",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 88660,
-    "crawled_at": "2026-08-13T22:34:03.710894554Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon",
-      "Apache",
-      "Blackboard Open LMS",
-      "Corporate Governance and Regulatory Compliance",
-      "Funnelback",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Linktree",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "YouTube",
-      "eLand"
     ]
   },
   {
@@ -3182,43 +3181,6 @@
       "Storyblocks",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "onmusichub.com",
-    "title": "Log in to the site | OnMusic Hub",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 45689,
-    "crawled_at": "2026-03-30T22:54:35.453495087Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Apache",
-      "Blackboard Open LMS",
-      "CloudFront",
-      "Content Delivery Network",
-      "Desire2Learn",
-      "Flip",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Microsoft Azure",
-      "NFOrce Internet",
-      "Okta",
-      "PHP",
-      "SMC",
-      "Tailwind CSS",
-      "Totara",
-      "UTF-8",
-      "Ubuntu",
-      "YouTube",
-      "jsDelivr",
-      "reCAPTCHA"
     ]
   }
 ]
