@@ -1,5 +1,34 @@
 [
   {
+    "domain": "gcesd2.org",
+    "title": "Galveston County Emergency Services District #2",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 7713,
+    "crawled_at": "2026-11-05T23:04:39.431522004Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "EmbedPress",
+      "Fireblade",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "PHP",
+      "QUIC",
+      "RightSignature",
+      "Theme In WP",
+      "TownPress Theme",
+      "UTF-8",
+      "WPBakery",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "elements.cpa",
     "title": "Elements CPA – Business & financial design for entrepreneurs.",
     "business_name": "",
