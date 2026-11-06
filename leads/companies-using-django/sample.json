@@ -8601,30 +8601,5 @@
       "Tailwind CSS",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "azpmrpc.com",
-    "title": "AZ Physical Medicine & Rehabilitation, PC - Chandler, AZ",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 2440,
-    "crawled_at": "2026-03-31T04:26:22.89484548Z",
-    "technologies": [
-      "Django",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Nginx",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "YouTube",
-      "jsDelivr",
-      "shadcn ui"
-    ]
   }
 ]
