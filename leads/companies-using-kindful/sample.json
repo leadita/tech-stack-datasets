@@ -1,5 +1,42 @@
 [
   {
+    "domain": "bikemiamivalley.com",
+    "title": "Bike Miami Valley – Bicycle Advocacy for the Miami Valley",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 55,
+    "tech_spend": 1484,
+    "crawled_at": "2026-11-06T16:37:18.194971804Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Alternate Protocol",
+      "Apache",
+      "Apture Linking Platform",
+      "Bulma",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "IcoMoon",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Kindful",
+      "Llorix One Lite",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Schema Plugin",
+      "The Events Calendar",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "WP-Members",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "personalexcellence.org",
     "title": "Personal Excellence Foundation",
     "business_name": "",
@@ -18820,35 +18857,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "outstretchedhands.net",
-    "title": "Outstretched Hands",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 28004,
-    "crawled_at": "2026-05-01T13:04:20.162452082Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Kindful",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
