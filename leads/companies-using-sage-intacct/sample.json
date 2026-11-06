@@ -1,5 +1,52 @@
 [
   {
+    "domain": "payrollbuzz.com",
+    "title": "Accounting and Time-Tracking Software",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 40000,
+    "crawled_at": "2026-11-05T19:01:32.533750859Z",
+    "technologies": [
+      "Adobe GoLive",
+      "Apache",
+      "GZIP Module",
+      "ISO/IEC 8859",
+      "QUIC",
+      "Sage Intacct",
+      "Salesforce Experience Cloud",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "orionbas.com",
+    "title": "Orion Business & Accounting Solutions - Stellar performance from your Sage 100 Software",
+    "business_name": "Orion Business &amp; Accounting Solutions",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 190747,
+    "crawled_at": "2026-11-05T13:51:36.718515792Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Coming Soon Page",
+      "Creative Mail by Constant Contact",
+      "EmbedPress",
+      "GZIP Module",
+      "Jetpack",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Sage Intacct",
+      "Salesforce Hosted",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "crosscheckstaffing.com",
     "title": "Crosscheck Staffing | Specialized Technical Recruiting",
     "business_name": "",
@@ -14252,54 +14299,6 @@
       "Wangsu",
       "WordPress",
       "WordPress Multisite",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "payrollbuzz.com",
-    "title": "Accounting and Time-Tracking Software",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 40000,
-    "crawled_at": "2026-03-30T10:52:44.810839562Z",
-    "technologies": [
-      "Adobe GoLive",
-      "Apache",
-      "GZIP Module",
-      "ISO/IEC 8859",
-      "QUIC",
-      "Sage Intacct",
-      "Salesforce Experience Cloud",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "orionbas.com",
-    "title": "Orion Business & Accounting Solutions - Stellar performance from your Sage 100 Software",
-    "business_name": "Orion Business &amp; Accounting Solutions",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 190747,
-    "crawled_at": "2026-03-30T02:59:31.745199019Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Coming Soon Page",
-      "Creative Mail by Constant Contact",
-      "EmbedPress",
-      "GZIP Module",
-      "Jetpack",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "Sage Intacct",
-      "Salesforce Hosted",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
       "jQuery"
     ]
   }
