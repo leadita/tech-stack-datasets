@@ -1,5 +1,25 @@
 [
   {
+    "domain": "maxatmin.com",
+    "title": "max@min Web Services - Affordable Web Design & Development in Hyderabad",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 408,
+    "crawled_at": "2026-11-07T10:37:18.647242674Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Pabbly",
+      "QUIC",
+      "Share Link",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "mossiegozambia.com",
     "title": "mossiegozambia lusaka | MOSSIEGOZAMBIA – Zambia",
     "business_name": "",
@@ -5973,26 +5993,6 @@
       "Pabbly",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "maxatmin.com",
-    "title": "max@min Web Services - Affordable Web Design & Development in Hyderabad",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 408,
-    "crawled_at": "2026-04-01T12:20:19.9871969Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Pabbly",
-      "QUIC",
-      "Share Link",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "shadcn ui"
     ]
   }
 ]
