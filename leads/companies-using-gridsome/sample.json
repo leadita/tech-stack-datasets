@@ -1,5 +1,35 @@
 [
   {
+    "domain": "njtd.com.ng",
+    "title": "Home - Nigerian Journal of Technological Development",
+    "business_name": "",
+    "country": "NGA",
+    "seo_score": 82,
+    "tech_spend": 20436,
+    "crawled_at": "2026-11-07T18:20:38.005368008Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Gridsome",
+      "Icons8",
+      "KVH",
+      "License Buttons",
+      "PHP",
+      "Perl",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "orbit.hr",
     "title": "Orbit proizvodnja - Orbit proizvodnja",
     "business_name": "",
@@ -11851,32 +11881,6 @@
       "SMC",
       "Subversion",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "ramzy.tech",
-    "title": "RamzyTech | Your Partner in Digital Solutions",
-    "business_name": "RamzyTech",
-    "country": "EGY",
-    "seo_score": 82,
-    "tech_spend": 52040,
-    "crawled_at": "2026-04-09T08:59:20.044051843Z",
-    "technologies": [
-      "AnyChat",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Cloud Functions",
-      "Google Tag Manager",
-      "Gridsome",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "SMC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
