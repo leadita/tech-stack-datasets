@@ -3761,44 +3761,5 @@
       "jsDelivr",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "ewrinstitute.org",
-    "title": "Environmental & Water Resources Institute | ASCE",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 235948,
-    "crawled_at": "2026-04-01T12:47:19.993883535Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Cloudflare",
-      "Corporate Governance and Regulatory Compliance",
-      "Coveo",
-      "DoubleClick Bid Manager",
-      "Express",
-      "Fireblade",
-      "Genesys Cloud CX Platform",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "Microsoft Azure",
-      "PWA",
-      "Perl",
-      "Sitecore CMS",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Visual Studio",
-      "YouTube",
-      "jQuery"
-    ]
   }
 ]
