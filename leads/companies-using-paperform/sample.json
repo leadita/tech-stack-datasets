@@ -1,5 +1,59 @@
 [
   {
+    "domain": "preachlondon.org",
+    "title": "Preach London",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 67,
+    "tech_spend": 3460,
+    "crawled_at": "2026-11-07T15:13:56.672653413Z",
+    "technologies": [
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microsoft Azure",
+      "Paperform",
+      "UTF-8",
+      "Visual Studio",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "moulindulevant.com",
+    "title": "Moulin Du Levant – Naturally empowered",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 303,
+    "crawled_at": "2026-11-06T23:49:18.009713803Z",
+    "technologies": [
+      "Alternate Protocol",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Nginx",
+      "PHP",
+      "Paperform",
+      "QUIC",
+      "Redux Framework",
+      "Slider Revolution",
+      "Theme In WP",
+      "TranslatePress",
+      "UTF-8",
+      "WPBakery",
+      "WordOps",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "inspiritinnovator.com",
     "title": "Inspirit Innovators",
     "business_name": "Inspirit Innovators",
@@ -19790,63 +19844,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "homegeniustech.com",
-    "title": "Home Genius",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 303,
-    "crawled_at": "2026-05-03T08:35:19.990486985Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Material-UI",
-      "Next.js",
-      "Paperform",
-      "Sanity",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "morainegrove.com",
-    "title": "Moraine Grove Veterinary Clinic - Butler, PA",
-    "business_name": "Moraine Grove Veterinary Clinic",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 17130,
-    "crawled_at": "2026-05-03T07:47:20.023527932Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Divi",
-      "Elegant Themes",
-      "EmbedPress",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Metricool",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Paperform",
-      "Sitelinks Search Box",
-      "The SEO Framework",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
