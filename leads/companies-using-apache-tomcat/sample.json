@@ -1,5 +1,24 @@
 [
   {
+    "domain": "tecnofreddo.tech",
+    "title": "Accedi al catalogo dinamico delle macchine di raffreddamento",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 52,
+    "tech_spend": "",
+    "crawled_at": "2026-11-07T06:51:14.032006506Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Azion",
+      "GZIP Module",
+      "Google No Site Links Search",
+      "Google Related Website Sites",
+      "Java EE",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "acentis.eu",
     "title": "Acentis",
     "business_name": "",
@@ -13110,55 +13129,6 @@
       "Ubuntu",
       "University or College",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "naveencv-info.com",
-    "title": "Naveen Profile",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 18039,
-    "crawled_at": "2026-04-01T10:56:20.021043723Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Apache Tomcat JK",
-      "GZIP Module",
-      "InitiativeS",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "OpenResty",
-      "OpenSSL",
-      "Oracle Cloud",
-      "PWA",
-      "Placehold IT",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Unix",
-      "Visual Studio",
-      "Weblium"
-    ]
-  },
-  {
-    "domain": "tecnofreddo.tech",
-    "title": "Accedi al catalogo dinamico delle macchine di raffreddamento",
-    "business_name": "",
-    "country": "ITA",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-04-01T10:53:20.014985134Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Azion",
-      "GZIP Module",
-      "Google No Site Links Search",
-      "Google Related Website Sites",
-      "Java EE",
-      "UTF-8"
     ]
   }
 ]
