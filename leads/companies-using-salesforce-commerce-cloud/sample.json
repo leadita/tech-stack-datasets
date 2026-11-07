@@ -1,5 +1,29 @@
 [
   {
+    "domain": "etailrankings.com",
+    "title": "eTailRankings",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 519760,
+    "crawled_at": "2026-11-07T00:16:45.969339797Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "AspDotNetStorefront",
+      "Express",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Related Website Sites",
+      "NFOrce Internet",
+      "Nginx",
+      "Salesforce Commerce Cloud",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "driver.eu",
     "title": "Driver Center, specialized in tyre service",
     "business_name": "",
@@ -16611,30 +16635,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "etailrankings.com",
-    "title": "eTailRankings",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 519760,
-    "crawled_at": "2026-04-01T06:56:59.167056789Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AspDotNetStorefront",
-      "Express",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Related Website Sites",
-      "NFOrce Internet",
-      "Nginx",
-      "Salesforce Commerce Cloud",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
