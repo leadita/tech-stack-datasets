@@ -16663,38 +16663,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "movementmarketing.com",
-    "title": "Movement Marketing",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 942,
-    "crawled_at": "2026-04-01T13:38:19.981412814Z",
-    "technologies": [
-      "Alternate Protocol",
-      "BatCache",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Fastly",
-      "GeneratePress Company",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gutenberg",
-      "IcoMoon",
-      "Jetpack",
-      "Nginx",
-      "PHP",
-      "Smartsheet",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Carousel",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "jQuery"
-    ]
   }
 ]
