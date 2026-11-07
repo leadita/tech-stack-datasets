@@ -1,5 +1,30 @@
 [
   {
+    "domain": "mythos-mozart.com",
+    "title": "MYTHOS MOZART - The immersive Mozart experience in Vienna - Mythos Mozart",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 7563,
+    "crawled_at": "2026-11-06T14:02:13.021987828Z",
+    "technologies": [
+      "Adyen",
+      "DoubleClick Bid Manager",
+      "Fireblade",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nginx",
+      "UTF-8",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "patilledance.com",
     "title": "Taline & Friends 12/27",
     "business_name": "",
@@ -6092,31 +6117,6 @@
       "eLand",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "mythos-mozart.com",
-    "title": "MYTHOS MOZART - The immersive Mozart experience in Vienna - Mythos Mozart",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 17440,
-    "crawled_at": "2026-03-31T15:25:37.453794128Z",
-    "technologies": [
-      "Adyen",
-      "DoubleClick Bid Manager",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "UTF-8",
-      "YouTube",
-      "eLand"
     ]
   }
 ]
