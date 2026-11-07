@@ -1,5 +1,44 @@
 [
   {
+    "domain": "ozlpediatrics.com",
+    "title": "OZL Pediatrics",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 24531,
+    "crawled_at": "2026-11-07T04:01:04.765748507Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "DAV",
+      "Elementor",
+      "EmbedPress",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "KVH",
+      "Kareo",
+      "NFOrce Internet",
+      "Royal Elementor Addons",
+      "SMC",
+      "Subversion",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "Visx",
+      "WP Engine",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "anywherewellness.com",
     "title": "Anywhere Wellness | Psychiatry in Washington, Colorado, Florida, Idaho, Nevada, Oregon, and Utah",
     "business_name": "",
@@ -18086,35 +18125,6 @@
       "WordPress Stats",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "zeraaestheticsnc.com",
-    "title": "Zera Aesthetics",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 84509,
-    "crawled_at": "2026-04-23T05:59:19.999423552Z",
-    "technologies": [
-      "Aruba",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Kareo",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
