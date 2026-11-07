@@ -1,5 +1,33 @@
 [
   {
+    "domain": "codio.co.uk",
+    "title": "Codio - Teach Code. With confidence.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 39484,
+    "crawled_at": "2026-11-07T00:59:01.310841095Z",
+    "technologies": [
+      "Adit Dental Software",
+      "Amazon CloudFront",
+      "Amazon S3 CDN",
+      "Blackboard Open LMS",
+      "CloudFront",
+      "ElementUI",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Intercom",
+      "LottieFiles",
+      "Nginx",
+      "Python",
+      "StatusPage IO",
+      "Storyblocks",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "abdn-online.ac.uk",
     "title": "Online Learning | Study Here | The University of Aberdeen",
     "business_name": "",
@@ -3155,32 +3183,6 @@
       "YouTube",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "codio.co.uk",
-    "title": "Codio - Teach Code. With confidence.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 15064,
-    "crawled_at": "2026-04-01T07:48:12.076633609Z",
-    "technologies": [
-      "Adit Dental Software",
-      "Amazon S3 CDN",
-      "Blackboard Open LMS",
-      "ElementUI",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Intercom",
-      "LottieFiles",
-      "Nginx",
-      "Python",
-      "StatusPage IO",
-      "Storyblocks",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
