@@ -1,5 +1,31 @@
 [
   {
+    "domain": "gettranslated.ai",
+    "title": "GetTranslated.AI - Localization That Keeps Up With Your App & Team | 80+ Languages",
+    "business_name": "GetTranslated.AI",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 17440,
+    "crawled_at": "2026-11-08T01:53:46.809239365Z",
+    "technologies": [
+      "AI Log",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "DAV",
+      "Django",
+      "Fireblade",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "Pleroma",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "wolflakesvillages.com",
     "title": "Soldier Home Realty - Home",
     "business_name": "",
@@ -8516,36 +8542,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "gettranslated.ai",
-    "title": "GetTranslated.AI - AI-Powered Mobile App Translation | 80+ Languages",
-    "business_name": "GetTranslated.AI",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 28540,
-    "crawled_at": "2026-04-01T18:02:20.020367871Z",
-    "technologies": [
-      "AI Log",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Django",
-      "Fastly",
-      "Fastly CDN",
-      "Fireblade",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "NFOrce Internet",
-      "Pleroma",
-      "QUIC",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
