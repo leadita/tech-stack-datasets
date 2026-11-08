@@ -33438,38 +33438,5 @@
       "vi",
       "vidoomy Direct"
     ]
-  },
-  {
-    "domain": "leavingtherut.com",
-    "title": "Leaving The Rut – Food, travel & family. From the Caribbean or wherever life has us at the moment.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 65406,
-    "crawled_at": "2026-04-01T14:41:05.728955085Z",
-    "technologies": [
-      "Ahalogy",
-      "Alternate Protocol",
-      "Apache",
-      "EmbedPress",
-      "Etsy",
-      "Google Analytics",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "PHP",
-      "QUIC",
-      "Thrive Direct",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "WordPress Stats",
-      "Zemanta",
-      "jQuery",
-      "jQuery Pin It Button for Images"
-    ]
   }
 ]
