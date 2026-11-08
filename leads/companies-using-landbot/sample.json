@@ -1,5 +1,36 @@
 [
   {
+    "domain": "mittendorf.it",
+    "title": "APARTMENTS IN SCENA - MITTENDORF, South Tyrol, Italy",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 82,
+    "tech_spend": 61059,
+    "crawled_at": "2026-11-07T14:56:18.617957116Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "CookieBAR",
+      "Fireblade",
+      "Font Awesome",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "GravCMS",
+      "Instagram Follow Button",
+      "LandBot",
+      "PHP",
+      "PWA",
+      "The Fresh",
+      "UTF-8",
+      "YouTube",
+      "eLand",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "camillebrinch.com",
     "title": "Camille Brinch - Raw and feminine jewellery by Camille Brinch | Camille Brinch Jewellery",
     "business_name": "",

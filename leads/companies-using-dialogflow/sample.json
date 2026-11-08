@@ -1,5 +1,33 @@
 [
   {
+    "domain": "flatironsarborcare.com",
+    "title": "Flatirons Arbor Care",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 4573,
+    "crawled_at": "2026-11-08T08:52:31.69334872Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "Dialogflow",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Related Website Sites",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "paxdivitiae.com",
     "title": "Pax Divitiae - Pax Divitiae",
     "business_name": "Pax Divitiae",
@@ -8561,36 +8589,6 @@
       "Wix Media",
       "Yelp Badge",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "flatironsarborcare.com",
-    "title": "Flatirons Arbor Care",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 4613,
-    "crawled_at": "2026-04-01T20:44:19.985422071Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "Dialogflow",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
