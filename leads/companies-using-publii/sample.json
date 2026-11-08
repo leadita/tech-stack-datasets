@@ -1,5 +1,27 @@
 [
   {
+    "domain": "safer-computing.com",
+    "title": "Safer Computing",
+    "business_name": "Safer Computing",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 279749,
+    "crawled_at": "2026-11-08T11:08:25.891653511Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "DAV",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Publii",
+      "Salesforce",
+      "Salesforce Experience Cloud",
+      "Salesforce Hosted",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "cluewisevocab.com",
     "title": "Welcome to ClueWise Vocabulary! - ClueWise Vocabulary",
     "business_name": "",
@@ -4256,27 +4278,6 @@
       "admitad",
       "financeAds",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "safer-computing.com",
-    "title": "Safer Computing",
-    "business_name": "Safer Computing",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 279749,
-    "crawled_at": "2026-05-10T01:52:14.524755053Z",
-    "technologies": [
-      "Alternate Protocol",
-      "DAV",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Publii",
-      "Salesforce",
-      "Salesforce Experience Cloud",
-      "Salesforce Hosted",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   },
   {

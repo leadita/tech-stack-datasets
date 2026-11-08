@@ -1,5 +1,28 @@
 [
   {
+    "domain": "mitchelltribe.com",
+    "title": "Michael Mitchell",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 3408,
+    "crawled_at": "2026-11-07T15:06:07.539255846Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Automattic",
+      "Cloudflare",
+      "GitHub Hosting",
+      "Hugo",
+      "License Buttons",
+      "Micro.blog",
+      "Python",
+      "Tribe.so",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "downloadgram.me",
     "title": "DownloadGram: Download Instagram Photos Online",
     "business_name": "DownloadGram",
@@ -7529,36 +7552,6 @@
       "Tailwind CSS",
       "Twitter Ads",
       "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "mitchelltribe.com",
-    "title": "Michael Mitchell",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 18708,
-    "crawled_at": "2026-04-01T14:02:20.008389279Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "DAV",
-      "Express",
-      "GitHub Hosting",
-      "Hugo",
-      "InMotion Hosting",
-      "License Buttons",
-      "Mastodon",
-      "Micro.blog",
-      "Python",
-      "QUIC",
-      "Tribe.so",
-      "UTF-8",
-      "Underscores",
-      "Write.as",
-      "eLand",
       "shadcn ui"
     ]
   }
