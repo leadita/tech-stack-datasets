@@ -1,12 +1,12 @@
 [
   {
-    "domain": "personalleadership.com",
+    "domain": "mentorainstitute.com",
     "title": "Homepage - Mentora Institute",
     "business_name": "Mentora Institute",
     "country": "USA",
     "seo_score": 77,
     "tech_spend": 122086,
-    "crawled_at": "2026-10-22T14:15:03.574250233Z",
+    "crawled_at": "2026-11-08T02:28:31.586537801Z",
     "technologies": [
       "AWS WAF Challenge",
       "Alternate Protocol",
@@ -18,6 +18,7 @@
       "Cloudflare",
       "Cloudflare CDN",
       "Cloudflare Turnstile",
+      "Cloudflare Web Analytics",
       "Coming Soon Page",
       "Content Delivery Network",
       "DAV",
