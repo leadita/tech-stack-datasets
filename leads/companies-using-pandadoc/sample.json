@@ -1,5 +1,35 @@
 [
   {
+    "domain": "corp-infotech.com",
+    "title": "Home | Corporate Information Technologies - CorpInfoTech",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 18256,
+    "crawled_at": "2026-11-08T10:07:44.348825684Z",
+    "technologies": [
+      "Apollo IO",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "DAV",
+      "Fastly",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Hubspot Knowledge Base",
+      "PandaDoc",
+      "Twitter Ads",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "3p.agency",
     "title": "3P – People | Process | Platform",
     "business_name": "",
@@ -1796,36 +1826,6 @@
       "monday.com",
       "route",
       "vivenu"
-    ]
-  },
-  {
-    "domain": "infosec.enterprises",
-    "title": "Home | Corporate Information Technologies - CorpInfoTech",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 18256,
-    "crawled_at": "2026-05-04T09:59:19.992915024Z",
-    "technologies": [
-      "Apollo IO",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Fastly",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Hubspot Knowledge Base",
-      "Microsoft Clarity",
-      "PandaDoc",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "reCAPTCHA"
     ]
   },
   {
