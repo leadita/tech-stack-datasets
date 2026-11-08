@@ -1,5 +1,76 @@
 [
   {
+    "domain": "aplikacjalupa.com",
+    "title": "Start - Lupa",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 38354,
+    "crawled_at": "2026-11-08T14:25:54.47382599Z",
+    "technologies": [
+      "Apache",
+      "App Store",
+      "Apyl",
+      "DAV",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google My Business",
+      "Google Play",
+      "Gridsome",
+      "HMDG",
+      "Hexo",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "K2F",
+      "KVH",
+      "M247",
+      "No-Q",
+      "SMC",
+      "Subversion"
+    ]
+  },
+  {
+    "domain": "etherpass.io",
+    "title": "Home - EtherPass",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-11-08T07:56:31.297675846Z",
+    "technologies": [
+      "DAV",
+      "GZIP Module",
+      "Gridsome",
+      "Nginx",
+      "PWA",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "wiseconsult.com.au",
+    "title": "Mortgage Broker Ivanhoe | WiseConsult Finance",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 77,
+    "tech_spend": 3149,
+    "crawled_at": "2026-11-08T03:01:43.22520659Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Apture Linking Platform",
+      "Australian Credit Licence",
+      "CloudFront",
+      "Content Delivery Network",
+      "Gravity",
+      "Gravity Forms",
+      "Gridsome",
+      "Vimeo",
+      "Vimeo CDN"
+    ]
+  },
+  {
     "domain": "njtd.com.ng",
     "title": "Home - Nigerian Journal of Technological Development",
     "business_name": "",
@@ -5254,24 +5325,6 @@
       "Tailwind CSS",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "bankshield.io",
-    "title": "Home - BankShield",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 15000,
-    "crawled_at": "2026-05-21T11:59:19.987387696Z",
-    "technologies": [
-      "Fireblade",
-      "GZIP Module",
-      "Gridsome",
-      "Nginx",
-      "PWA",
-      "QUIC",
-      "Tailwind CSS"
     ]
   },
   {
@@ -11833,54 +11886,6 @@
       "UTF-8",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "skaevt.com",
-    "title": "Forside - Skævt Reklamebureau | Full service kommunikations- og reklamebureau - Skævt Reklamebureau",
-    "business_name": "",
-    "country": "DNK",
-    "seo_score": 60,
-    "tech_spend": 120,
-    "crawled_at": "2026-04-10T00:44:35.380809096Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Cybot",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gridsome",
-      "Netlify",
-      "UTF-8",
-      "WordPress"
-    ]
-  },
-  {
-    "domain": "praktika.co.jp",
-    "title": "株式会社プラクティカ",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 30003,
-    "crawled_at": "2026-04-09T17:35:19.984612592Z",
-    "technologies": [
-      "AAPT",
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "K2F",
-      "KVH",
-      "Netlify",
-      "PHP",
-      "SMC",
-      "Subversion",
-      "UTF-8"
     ]
   }
 ]
