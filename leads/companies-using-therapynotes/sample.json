@@ -1,5 +1,35 @@
 [
   {
+    "domain": "crownopsai.com",
+    "title": "CrownOps AI â Never Miss Another Patient",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 70651,
+    "crawled_at": "2026-11-08T03:49:02.106448243Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adult Content",
+      "AthenaHealth",
+      "Calendly",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Coming Soon Page",
+      "DAV",
+      "Express",
+      "Fireblade",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Harbor",
+      "Open Dental",
+      "Tailwind CSS",
+      "TherapyNotes",
+      "UTF-8",
+      "eClinicalWorks"
+    ]
+  },
+  {
     "domain": "rcm-insiders.com",
     "title": "Home - rcm-insiders.com",
     "business_name": "rcm-insiders.com",

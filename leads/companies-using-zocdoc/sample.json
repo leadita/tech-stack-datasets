@@ -1,5 +1,39 @@
 [
   {
+    "domain": "qstemcells.com",
+    "title": "Q Stem Cells",
+    "business_name": "Q Stem Cells",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 22620,
+    "crawled_at": "2026-11-08T14:46:07.833232024Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GoDaddy",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "PWA",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight",
+      "ZocDoc"
+    ]
+  },
+  {
     "domain": "mlrholistichealth.com",
     "title": "MLR Holistic Health | Enhance Your Wellbeing – Book Today",
     "business_name": "",
@@ -22023,41 +22057,6 @@
       "WordPress",
       "WordPress Multisite",
       "ZocDoc"
-    ]
-  },
-  {
-    "domain": "chiropracticspinecenter.com",
-    "title": "chiropracticspinecenter.com",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 7953,
-    "crawled_at": "2026-09-17T20:33:34.401136212Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "Slider Revolution",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "Xtra Theme",
-      "ZocDoc",
-      "jQuery"
     ]
   }
 ]
