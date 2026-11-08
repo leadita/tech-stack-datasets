@@ -10566,38 +10566,5 @@
       "eLand",
       "jQuery"
     ]
-  },
-  {
-    "domain": "heavenonit.com",
-    "title": "Heavenonit",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 8000,
-    "crawled_at": "2026-04-01T13:47:19.986720172Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Apple Pay JS",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Express",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Fireblade",
-      "GZIP Module",
-      "GetResponse",
-      "Giropay",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PayPal",
-      "PayPal Adaptive Payments",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Underscores",
-      "shadcn ui"
-    ]
   }
 ]
