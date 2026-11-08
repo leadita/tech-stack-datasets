@@ -9605,37 +9605,5 @@
       "jQuery",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "cloudbilling.nl",
-    "title": "CloudBilling - Automate your cloud billing: Fast, accurate, complete",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 77,
-    "tech_spend": 39474,
-    "crawled_at": "2026-04-01T15:35:20.004619471Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "ElementUI",
-      "Fastly",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Hubspot Knowledge Base",
-      "LottieFiles",
-      "QUIC",
-      "Recruitee",
-      "UTF-8",
-      "Vecteezy",
-      "Vector Internet Services",
-      "YouTube",
-      "jsDelivr"
-    ]
   }
 ]
