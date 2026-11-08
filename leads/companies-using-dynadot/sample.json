@@ -1,12 +1,12 @@
 [
   {
-    "domain": "workinusa.org",
+    "domain": "geneanalyzers.com",
     "title": "Digital Real Estate Specialist",
     "business_name": "",
     "country": "",
     "seo_score": 52,
     "tech_spend": 36,
-    "crawled_at": "2026-11-07T07:44:19.720561679Z",
+    "crawled_at": "2026-11-08T14:25:54.477801368Z",
     "technologies": [
       "Amazon CloudFront",
       "CloudFront",
@@ -16,6 +16,39 @@
       "Microdata for Google Shopping",
       "QUIC",
       "UTF-8"
+    ]
+  },
+  {
+    "domain": "imperialprotx.com",
+    "title": "Sugar Land’s Home Inspector | Imperial Pro Inspection",
+    "business_name": "Imperial Pro Inspection LLC",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 38280,
+    "crawled_at": "2026-11-08T08:27:38.132671324Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "Fireblade",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Customer Reviews",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "KVH",
+      "Microdata for Google Shopping",
+      "Neighborhoods",
+      "Ntent",
+      "QUIC",
+      "RawGit",
+      "UTF-8",
+      "YouTube",
+      "eLand"
     ]
   },
   {
@@ -392,38 +425,6 @@
       "Microdata for Google Shopping",
       "MyFonts",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "ruleyourattic.com",
-    "title": "Sugar Land’s Home Inspector | Imperial Pro Inspection",
-    "business_name": "Imperial Pro Inspection LLC",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 18280,
-    "crawled_at": "2026-09-24T03:09:19.595060641Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Financial Services Guide",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Customer Reviews",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Ntent",
-      "QUIC",
-      "RawGit",
-      "UTF-8",
-      "YouTube",
-      "eLand"
     ]
   },
   {
@@ -4524,31 +4525,6 @@
       "GZIP Module",
       "Instagram Follow Button",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "nenolod.net",
-    "title": "nenolod.net",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 70,
-    "tech_spend": 2300,
-    "crawled_at": "2026-04-01T15:30:47.384360763Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Content Delivery Network",
-      "Dynadot",
-      "Engintron",
-      "Express",
-      "FreeBSD",
-      "GZIP Module",
-      "GoDaddy",
-      "NFOrce Internet",
-      "Nginx",
-      "QUIC",
-      "UTF-8",
-      "Unix",
-      "Website Tonight"
     ]
   }
 ]
