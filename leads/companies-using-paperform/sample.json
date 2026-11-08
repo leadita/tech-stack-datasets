@@ -1,5 +1,29 @@
 [
   {
+    "domain": "dot-filings.us",
+    "title": "US DOT Biennial Update Portal | DOT Updates | Federal Applications Processor - Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 5608,
+    "crawled_at": "2026-11-08T08:09:54.156221681Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Apache",
+      "ChatBot",
+      "Cognito Forms",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "LiveChat",
+      "LiveChat Monitoring",
+      "Paperform",
+      "QUIC",
+      "Rocket Chat"
+    ]
+  },
+  {
     "domain": "preachlondon.org",
     "title": "Preach London",
     "business_name": "",
@@ -178,32 +202,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "getmccert.us",
-    "title": "ORDER MOTOR CARRIER (MC#) CERTIFICATE | FEDERAL APPLICATIONS PROCESSOR | MC CERTIFICATE HOME",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 57311,
-    "crawled_at": "2026-11-05T00:33:01.371338467Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Apache",
-      "Cognito Forms",
-      "Cornerstone",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "LiveChat",
-      "LiveChat Monitoring",
-      "MaxCDN",
-      "NFOrce Internet",
-      "Paperform",
-      "QUIC",
-      "Rocket Chat",
-      "SMC"
     ]
   },
   {
