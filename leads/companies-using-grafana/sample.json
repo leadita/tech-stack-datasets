@@ -1,5 +1,24 @@
 [
   {
+    "domain": "iot-dgr.com",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 1200,
+    "crawled_at": "2026-11-08T10:07:44.387275549Z",
+    "technologies": [
+      "Barchart",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Grafana",
+      "Nginx",
+      "UTF-8",
+      "Ubuntu"
+    ]
+  },
+  {
     "domain": "watermetrics.online",
     "title": "Grafana",
     "business_name": "",
@@ -93,26 +112,6 @@
       "GitHub Hosting",
       "Google Cloud DNS",
       "Grafana",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "elm-monitoring.app",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 11398,
-    "crawled_at": "2026-08-16T16:49:40.536799453Z",
-    "technologies": [
-      "Apache",
-      "Barchart",
-      "Contento",
-      "DAV",
-      "Express",
-      "GitHub Hosting",
-      "Grafana",
-      "No-Q",
       "UTF-8"
     ]
   },

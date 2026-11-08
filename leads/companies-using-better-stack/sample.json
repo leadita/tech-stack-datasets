@@ -4812,27 +4812,5 @@
       "UTF-8",
       "YouTube"
     ]
-  },
-  {
-    "domain": "tkkr.dev",
-    "title": "Thaddeus Kuah",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 7500,
-    "crawled_at": "2026-04-01T18:38:20.015161783Z",
-    "technologies": [
-      "Better Stack",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Fireblade",
-      "GitHub Hosting",
-      "Next.js",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
-    ]
   }
 ]
