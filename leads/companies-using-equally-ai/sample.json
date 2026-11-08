@@ -13126,43 +13126,5 @@
       "reCAPTCHA",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "cassiaoptimalhealth.com",
-    "title": "Cassia Optimal Health - Primary Care & Wellness - Atlanta, GA",
-    "business_name": "Cassia Optimal Health",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 30358,
-    "crawled_at": "2026-04-01T16:02:20.003319289Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Blocksy",
-      "Cloudflare",
-      "DC74",
-      "Elementor",
-      "EmbedPress",
-      "Equally AI",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Feed for WordPress",
-      "Instagram Follow Button",
-      "KVH",
-      "Lazy Load for WordPress",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "UTF-8",
-      "WP Rocket",
-      "WordPress",
-      "WordPress Multisite",
-      "accessiBe"
-    ]
   }
 ]
