@@ -1,5 +1,33 @@
 [
   {
+    "domain": "alitdigital.com",
+    "title": "Powering Tomorrow with AI & Technology — A-Lit Digital",
+    "business_name": "A-Lit Digital Services Ltd",
+    "country": "KEN",
+    "seo_score": 77,
+    "tech_spend": 23616,
+    "crawled_at": "2026-11-08T21:11:25.891871356Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Express",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Looker Studio",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Plausible Analytics",
+      "UTF-8",
+      "Waveform Technology",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "glasgowfamilyhistory.org.uk",
     "title": "Family history - Glasgow Life",
     "business_name": "",
