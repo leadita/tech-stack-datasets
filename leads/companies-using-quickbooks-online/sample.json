@@ -1,5 +1,36 @@
 [
   {
+    "domain": "bolivararena.info",
+    "title": "Bolivar Arena Association | Rodeo, Education, Community, First Responder training facility",
+    "business_name": "Bolivar Arena Association",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 81900,
+    "crawled_at": "2026-11-08T16:47:12.284006116Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Newsletter for Wordpress",
+      "Pico CSS",
+      "QUIC",
+      "QuickBooks Online",
+      "SiteW",
+      "Squarespace",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "stgcpas.com",
     "title": "Home - Kinexus CPAs | Dedicated Partner for Business Growth & Wealth",
     "business_name": "",
@@ -826,37 +857,6 @@
       "YouTube",
       "Zoom Video Conferencing",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "bolivararena.org",
-    "title": "Bolivar Arena Association | Rodeo, Education, Community, First Responder training facility",
-    "business_name": "Bolivar Arena Association",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 81900,
-    "crawled_at": "2026-10-18T11:36:11.413451583Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "Pico CSS",
-      "QUIC",
-      "QuickBooks Online",
-      "SiteW",
-      "Squarespace",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   },
   {
@@ -10360,29 +10360,6 @@
       "Unsplash",
       "eLand",
       "jQuery",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "postings.cloud",
-    "title": "postings inc. - Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 300,
-    "crawled_at": "2026-04-02T04:11:19.99442632Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "QUIC",
-      "QuickBooks Online",
-      "UTF-8",
-      "Unix",
-      "Weebly",
       "reCAPTCHA"
     ]
   }

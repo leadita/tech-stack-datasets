@@ -1,5 +1,29 @@
 [
   {
+    "domain": "dirbyaber.org",
+    "title": "Dirbyaber – ድር ቢያብር ዕድር ዋሽንግተን ሜትሮ",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 540,
+    "crawled_at": "2026-11-08T19:13:30.026454987Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Authorize.net",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "PHP",
+      "Theme In WP",
+      "Twenty Twenty",
+      "Twitter Ads",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "Zoho Books"
+    ]
+  },
+  {
     "domain": "palomatech.org",
     "title": "Paloma Technologies IT Solutions",
     "business_name": "",
@@ -1796,30 +1820,6 @@
       "Zoho Projects",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "dirbyaber.org",
-    "title": "Dirbyaber – ድር ቢያብር ዕድር ዋሽንግተን ሜትሮ",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 540,
-    "crawled_at": "2026-04-02T00:39:53.83335514Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Authorize.net",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "PHP",
-      "Theme In WP",
-      "Twenty Twenty",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "Zoho Books"
     ]
   }
 ]
