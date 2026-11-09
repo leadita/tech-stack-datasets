@@ -1,5 +1,38 @@
 [
   {
+    "domain": "leerjelandgenotenkennen.nl",
+    "title": "Leer Je Landgenoten Kennen – Wij faciliteren ontmoetingen",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 218,
+    "crawled_at": "2026-11-09T19:41:15.24287082Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Flatsome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Mautic",
+      "PHP",
+      "Perl",
+      "Tailwind CSS",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "justgood-health.com",
     "title": "Dietary Supplements | Custom Nutraceuticals Manufacturer in China",
     "business_name": "",
@@ -21942,40 +21975,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "versum.com",
-    "title": "Salon management software best suited to your needs - Booksy (Versum)",
-    "business_name": "Versum Software",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 504,
-    "crawled_at": "2026-04-17T09:44:20.011197043Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Autoptimize",
-      "Bulma",
-      "Contact Form Plugin",
-      "Cybot",
-      "Easy Table of Contents",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Mautic",
-      "PHP",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Twitter Ads",
-      "UTF-8",
-      "WPBakery",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
