@@ -1,5 +1,29 @@
 [
   {
+    "domain": "staybubodc.com",
+    "title": "Home | Stay Bubo DC",
+    "business_name": "",
+    "country": "MYS",
+    "seo_score": 62,
+    "tech_spend": 798,
+    "crawled_at": "2026-11-09T06:01:30.729436918Z",
+    "technologies": [
+      "Book Direct",
+      "ElementUI",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Google Analytics",
+      "Google Tag Manager",
+      "No-Q",
+      "Sumo",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "designerdecor.in",
     "title": "Home - designerdecor.in",
     "business_name": "designerdecor.in",
@@ -14912,29 +14936,6 @@
       "UTF-8",
       "Yahoo Image CDN",
       "iZooto"
-    ]
-  },
-  {
-    "domain": "staybuboshenandoah.com",
-    "title": "Home | Stay Bubo Shenandoah",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 468,
-    "crawled_at": "2026-10-09T01:16:40.326659871Z",
-    "technologies": [
-      "Book Direct",
-      "ElementUI",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Sumo",
-      "UTF-8"
     ]
   },
   {
