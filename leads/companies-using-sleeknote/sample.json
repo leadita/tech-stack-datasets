@@ -1,5 +1,35 @@
 [
   {
+    "domain": "rudolphcare.com",
+    "title": "Rudolph Care | Effective skincare – responsible choices",
+    "business_name": "Rudolph Care",
+    "country": "SWE",
+    "seo_score": 87,
+    "tech_spend": 22219,
+    "crawled_at": "2026-11-09T04:58:08.929508288Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Cookie Information",
+      "Fireblade",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Imgix",
+      "Instagram Follow Button",
+      "Klaviyo",
+      "Netlify",
+      "Nuxt.js",
+      "Pico CSS",
+      "QUIC",
+      "Sleeknote",
+      "UTF-8",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "thefutonshop.com",
     "title": "Organic Mattresses Sale | Futons California | Organic Sofas | The Futon Shop",
     "business_name": "TheFutonShop",
@@ -18960,35 +18990,6 @@
       "Twitter Ads",
       "UTF-8",
       "Vector Internet Services"
-    ]
-  },
-  {
-    "domain": "rudolphcare.com",
-    "title": "Rudolph Care | Wants to make a difference – to your skin and the world",
-    "business_name": "Rudolph Care",
-    "country": "SWE",
-    "seo_score": 77,
-    "tech_spend": 19459,
-    "crawled_at": "2026-04-02T04:20:19.993655568Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Cookie Information",
-      "Fireblade",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Imgix",
-      "Instagram Follow Button",
-      "Netlify",
-      "Nuxt.js",
-      "Pico CSS",
-      "QUIC",
-      "Sleeknote",
-      "UTF-8",
-      "YouTube",
-      "reCAPTCHA"
     ]
   }
 ]
