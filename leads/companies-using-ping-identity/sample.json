@@ -1,5 +1,25 @@
 [
   {
+    "domain": "nagendragandla.com",
+    "title": "Nagendra Gandla | Lead Frontend Developer",
+    "business_name": "",
+    "country": "SGP",
+    "seo_score": 62,
+    "tech_spend": 46740,
+    "crawled_at": "2026-11-08T22:47:18.695959428Z",
+    "technologies": [
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "NFOrce Internet",
+      "Next.js",
+      "Nginx",
+      "Ping Identity",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "landscapingone.com",
     "title": "Landscaping, Cleanup, Renovations, and Landscape Lighting based in Forsyth County | LOI - Landscaping One, Inc",
     "business_name": "",
@@ -3008,26 +3028,6 @@
       "WF Cookie Consent",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "nagendragandla.com",
-    "title": "Nagendra Gandla | Lead Frontend Developer",
-    "business_name": "",
-    "country": "SGP",
-    "seo_score": 62,
-    "tech_spend": 46740,
-    "crawled_at": "2026-04-02T02:02:20.006304989Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "NFOrce Internet",
-      "Next.js",
-      "Nginx",
-      "Ping Identity",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
