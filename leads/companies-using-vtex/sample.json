@@ -1,5 +1,30 @@
 [
   {
+    "domain": "reavtex.com",
+    "title": "Traditional Hand-Stitched Embroidery & Home Decor | REAVTEX",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 52470,
+    "crawled_at": "2026-11-09T02:54:40.875235386Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Express",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Perl",
+      "Pexels",
+      "Thank You",
+      "VTEX Personalization",
+      "Zyro"
+    ]
+  },
+  {
     "domain": "hzelectric.com",
     "title": "HZ Electric Supply | Electrical Supply in CT, MA & NY",
     "business_name": "",
@@ -1515,32 +1540,6 @@
       "Pleroma",
       "UTF-8",
       "VTEX Personalization"
-    ]
-  },
-  {
-    "domain": "reavtex.com",
-    "title": "Traditional Hand-Stitched Embroidery & Home Decor | REAVTEX",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 52554,
-    "crawled_at": "2026-04-02T03:35:19.995473915Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Express",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "Pexels",
-      "Thank You",
-      "Unsplash",
-      "VTEX Personalization",
-      "Zyro"
     ]
   }
 ]

@@ -1,5 +1,31 @@
 [
   {
+    "domain": "zenacrown.com",
+    "title": "Zena Crown Vineyard",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 626498,
+    "crawled_at": "2026-11-08T23:28:50.675950076Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "CQuotient",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "DAV",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Quotient",
+      "Salesforce Commerce Cloud",
+      "Tailwind CSS",
+      "UTF-8",
+      "UserWay",
+      "iGoDigital"
+    ]
+  },
+  {
     "domain": "justgolfstuff.ca",
     "title": "Golf Products at Discounted Prices - Just Golf Stuff Canada",
     "business_name": "Just Golf Stuff",
@@ -16570,31 +16596,6 @@
       "UTF-8",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "zenacrown.com",
-    "title": "Zena Crown Vineyard",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 626498,
-    "crawled_at": "2026-04-02T02:17:19.984556809Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "CQuotient",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Quotient",
-      "Salesforce Commerce Cloud",
-      "Tailwind CSS",
-      "UTF-8",
-      "UserWay",
-      "iGoDigital"
     ]
   }
 ]

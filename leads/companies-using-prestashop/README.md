@@ -1,6 +1,6 @@
 # Companies Using PrestaShop (Live Dataset 2026)
 
-This folder contains an active list of 10,156 companies using **PrestaShop**. 
+This folder contains an active list of 10,153 companies using **PrestaShop**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 10,156
+- **Total Leads:** 10,153
 - **Verified:** Yes
-- **Last Updated:** 2026-11-08 16:30 UTC
+- **Last Updated:** 2026-11-09 16:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **10,156+** companies using PrestaShop.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **10,153+** companies using PrestaShop.
 
 [**⚡ Unlock the Full PrestaShop List with Contact Details**](https://leadita.com/leads/companies-using-prestashop)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-11-08 16:30 UTC*
+*Last updated: 2026-11-09 16:30 UTC*
 *Data source: Leadita Technographic Intelligence*
