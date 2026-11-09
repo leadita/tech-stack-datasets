@@ -1,5 +1,31 @@
 [
   {
+    "domain": "gezondheidsschool.be",
+    "title": "Welkom bij De Gezondheidsschool",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 72,
+    "tech_spend": 2979,
+    "crawled_at": "2026-11-09T08:54:18.44586123Z",
+    "technologies": [
+      "Angular",
+      "Angular Material",
+      "App Store",
+      "Content Delivery Network",
+      "Dialogflow",
+      "Font Awesome",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vimeo"
+    ]
+  },
+  {
     "domain": "flatironsarborcare.com",
     "title": "Flatirons Arbor Care",
     "business_name": "",
@@ -3700,33 +3726,6 @@
       "WordPress Multisite",
       "WordPress Related Posts",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "afslankingsconsulente.be",
-    "title": "Welkom bij De Gezondheidsschool",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 72,
-    "tech_spend": 2979,
-    "crawled_at": "2026-05-20T17:32:19.969693897Z",
-    "technologies": [
-      "Angular",
-      "Angular Material",
-      "App Store",
-      "Content Delivery Network",
-      "Dialogflow",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vimeo"
     ]
   },
   {
