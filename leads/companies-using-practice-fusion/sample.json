@@ -1,5 +1,34 @@
 [
   {
+    "domain": "invoisync.co",
+    "title": "Invoisync | Improving Practice Revenue",
+    "business_name": "",
+    "country": "",
+    "seo_score": 82,
+    "tech_spend": 107525,
+    "crawled_at": "2026-11-08T22:36:23.855302188Z",
+    "technologies": [
+      "Apollo IO",
+      "Aruba",
+      "AthenaHealth",
+      "DC74",
+      "Elfsight",
+      "Express",
+      "GZIP Module",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Practice Fusion",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "cpcpeds.com",
     "title": "Countryside Pediatric Care | Dr. Monica Kharbanda |Safety Harbor |Clearwater| 2531 Landmark Drive, STE 103, Clearwater, FL, USA",
     "business_name": "Countryside Pediatric Care",
@@ -2152,36 +2181,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "invoisync.co",
-    "title": "Invoisync | Improving Practice Revenue",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 104137,
-    "crawled_at": "2026-04-02T01:59:19.986843389Z",
-    "technologies": [
-      "Aruba",
-      "AthenaHealth",
-      "DC74",
-      "Elfsight",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Practice Fusion",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]

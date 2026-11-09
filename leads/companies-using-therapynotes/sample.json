@@ -1,5 +1,32 @@
 [
   {
+    "domain": "groundwellmaine.com",
+    "title": "Ground Well Maine",
+    "business_name": "",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 7993,
+    "crawled_at": "2026-11-09T15:01:35.014816983Z",
+    "technologies": [
+      "Accordion Blocks",
+      "Accordion FAQ",
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "DC74",
+      "Express",
+      "GZIP Module",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "TherapyNotes",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "crownopsai.com",
     "title": "CrownOps AI â Never Miss Another Patient",
     "business_name": "",
@@ -5759,58 +5786,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "groundwellmaine.com",
-    "title": "Ground Well Maine",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 1192,
-    "crawled_at": "2026-04-02T08:14:20.083062201Z",
-    "technologies": [
-      "Accordion Blocks",
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "TherapyNotes",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "carelumi.com",
-    "title": "AI Credentialing & Licensing Automation | CareLumi",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 17100,
-    "crawled_at": "2026-04-02T04:14:19.987879513Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "AthenaHealth",
-      "Calendly",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Tailwind CSS",
-      "TherapyNotes",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
