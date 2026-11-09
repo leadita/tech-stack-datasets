@@ -1,5 +1,30 @@
 [
   {
+    "domain": "realworld1.de",
+    "title": "realworld one - PERFORMANCE STARTS WITH EXECUTION",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 35092,
+    "crawled_at": "2026-11-08T23:45:50.608027075Z",
+    "technologies": [
+      "1Password",
+      "Alternate Protocol",
+      "Framer Sites",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google My Business",
+      "Google Tag Manager",
+      "KVH",
+      "Lever",
+      "Ntent",
+      "Yandex Hosting",
+      "YouTube",
+      "Zeald"
+    ]
+  },
+  {
     "domain": "newpolarheroes.com",
     "title": "National Geographic-Lindblad Expeditions | Lindblad Expeditions",
     "business_name": "Lindblad Expeditions",
@@ -71,31 +96,6 @@
       "Webflow",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "rw1.at",
-    "title": "realworld one - PERFORMANCE STARTS WITH EXECUTION",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 35092,
-    "crawled_at": "2026-11-07T20:54:16.258187601Z",
-    "technologies": [
-      "1Password",
-      "Alternate Protocol",
-      "Framer Sites",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Google Tag Manager",
-      "KVH",
-      "Lever",
-      "Ntent",
-      "Yandex Hosting",
-      "YouTube",
-      "Zeald"
     ]
   },
   {
