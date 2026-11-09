@@ -1,5 +1,24 @@
 [
   {
+    "domain": "pedojack.com",
+    "title": "Site Change - The Jack Gerritsen Pedo-Files",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 649,
+    "crawled_at": "2026-11-09T02:09:48.910308943Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "safer-computing.com",
     "title": "Safer Computing",
     "business_name": "Safer Computing",
@@ -8037,25 +8056,6 @@
       "Publii",
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "pedojack.com",
-    "title": "Site Change - The Jack Gerritsen Pedo-Files",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 649,
-    "crawled_at": "2026-04-02T03:14:20.025738968Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   }
 ]

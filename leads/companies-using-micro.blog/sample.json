@@ -7534,25 +7534,5 @@
       "jsDelivr",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "amitg.net",
-    "title": "@amit",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 42,
-    "tech_spend": 159,
-    "crawled_at": "2026-04-02T02:44:20.009777297Z",
-    "technologies": [
-      "Font Awesome",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Instagram Follow Button",
-      "Micro.blog",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "shadcn ui"
-    ]
   }
 ]
