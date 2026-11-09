@@ -1,5 +1,32 @@
 [
   {
+    "domain": "winzintl.com",
+    "title": "Home - Winzintl",
+    "business_name": "Winzintl",
+    "country": "CHN",
+    "seo_score": 65,
+    "tech_spend": 696,
+    "crawled_at": "2026-11-09T04:12:08.55959973Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Better Lead Generation Services",
+      "EmbedPress",
+      "Engage",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "MonsterInsights",
+      "PushEngage",
+      "UTF-8",
+      "W3 Total Cache",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "designerdecor.in",
     "title": "Home - designerdecor.in",
     "business_name": "designerdecor.in",
@@ -26952,41 +26979,6 @@
       "Tidio",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "winzintl.com",
-    "title": "Manufacturer of HOME APPLIANCES",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 82,
-    "tech_spend": 736,
-    "crawled_at": "2026-04-02T04:02:19.996356867Z",
-    "technologies": [
-      "Add to Any",
-      "Alternate Protocol",
-      "Apache",
-      "Column Shortcodes",
-      "EmbedPress",
-      "Engage",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "MonsterInsights",
-      "PHP",
-      "PushEngage",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "W3 Total Cache",
-      "WordPress",
-      "WordPress Multisite",
-      "eLand",
-      "jQuery"
     ]
   }
 ]

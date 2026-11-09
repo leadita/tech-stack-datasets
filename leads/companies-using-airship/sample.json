@@ -1,5 +1,33 @@
 [
   {
+    "domain": "airship.com.bd",
+    "title": "Global Parcel Transfer & Tracking System",
+    "business_name": "",
+    "country": "BGD",
+    "seo_score": 72,
+    "tech_spend": 75123,
+    "crawled_at": "2026-11-09T00:24:52.286807103Z",
+    "technologies": [
+      "Airship CRM",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Express",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GZIP Module",
+      "Next.js",
+      "Parcel",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Unsplash"
+    ]
+  },
+  {
     "domain": "kingsarmsandroyal.co.uk",
     "title": "Hotel In Godalming Surrey - The Kings Arms and Royal Hotel",
     "business_name": "The King’s Arms &amp; Royal, Godalming",
