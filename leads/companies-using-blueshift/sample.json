@@ -1,5 +1,26 @@
 [
   {
+    "domain": "dorrionsmith.com",
+    "title": "Dorrion Smith — Email Developer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 25516,
+    "crawled_at": "2026-11-09T06:01:30.786950034Z",
+    "technologies": [
+      "Blueshift",
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Line2",
+      "Netlify",
+      "Salesforce Hosted",
+      "Shopify",
+      "UTF-8",
+      "eLand"
+    ]
+  },
+  {
     "domain": "mentorainstitute.com",
     "title": "Homepage - Mentora Institute",
     "business_name": "Mentora Institute",
@@ -829,27 +850,6 @@
       "Twitter Ads",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "dorrionsmith.com",
-    "title": "Dorrion Smith — Email Developer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 70,
-    "tech_spend": 211408,
-    "crawled_at": "2026-04-02T04:47:59.955436156Z",
-    "technologies": [
-      "Blueshift",
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "Netlify",
-      "Salesforce Hosted",
-      "Shopify",
-      "UTF-8",
-      "eLand"
     ]
   }
 ]
