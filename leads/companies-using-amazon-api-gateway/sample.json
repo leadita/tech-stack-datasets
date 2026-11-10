@@ -1,5 +1,33 @@
 [
   {
+    "domain": "ghaimksa.com",
+    "title": "Ghaim | AWS Saudi Arabia Region Launch Partner | AI & Cloud Excellence",
+    "business_name": "Ghaim",
+    "country": "SAU",
+    "seo_score": 92,
+    "tech_spend": 19346,
+    "crawled_at": "2026-11-09T17:22:52.588449416Z",
+    "technologies": [
+      "Adult Content",
+      "Amazon",
+      "Amazon API Gateway",
+      "Amazon CloudFront",
+      "Amazon Link Enchancer",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Amazon Widgets",
+      "CloudFront",
+      "Content Delivery Network",
+      "Fireblade",
+      "GZIP Module",
+      "LinkedIn Insights",
+      "LinkedIn Pixel",
+      "Microdata for Google Shopping",
+      "Tailwind CSS",
+      "Web3Forms"
+    ]
+  },
+  {
     "domain": "airporttransfertickets.com",
     "title": "Book Airport Transfer Tickets | Multiple Cities & Options",
     "business_name": "",
@@ -1735,34 +1763,6 @@
       "UTF-8",
       "Vimeo",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "ghaim.io",
-    "title": "Ghaim | AWS Saudi Arabia Region Launch Partner | AI & Cloud Excellence",
-    "business_name": "Ghaim",
-    "country": "SAU",
-    "seo_score": 82,
-    "tech_spend": 19346,
-    "crawled_at": "2026-10-13T05:02:44.796170501Z",
-    "technologies": [
-      "Adult Content",
-      "Amazon",
-      "Amazon API Gateway",
-      "Amazon CloudFront",
-      "Amazon Link Enchancer",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Amazon Widgets",
-      "CloudFront",
-      "Content Delivery Network",
-      "Fireblade",
-      "GZIP Module",
-      "LinkedIn Insights",
-      "LinkedIn Pixel",
-      "Microdata for Google Shopping",
-      "Tailwind CSS",
-      "Web3Forms"
     ]
   },
   {
