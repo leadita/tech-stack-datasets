@@ -1,12 +1,12 @@
 [
   {
-    "domain": "geneanalyzers.com",
+    "domain": "adu.one",
     "title": "Digital Real Estate Specialist",
     "business_name": "",
     "country": "",
     "seo_score": 52,
     "tech_spend": 36,
-    "crawled_at": "2026-11-08T14:25:54.477801368Z",
+    "crawled_at": "2026-11-10T02:15:56.843768545Z",
     "technologies": [
       "Amazon CloudFront",
       "CloudFront",
@@ -19,13 +19,13 @@
     ]
   },
   {
-    "domain": "imperialprotx.com",
-    "title": "Sugar Land’s Home Inspector | Imperial Pro Inspection",
-    "business_name": "Imperial Pro Inspection LLC",
+    "domain": "commercialpropertyinspectortx.com",
+    "title": "Commercial Property Inspections Texas | Imperial Pro Inspection | Houston, Austin, Dallas–Fort Worth, San Antonio",
+    "business_name": "Imperial Pro Inspection LLC — Commercial Division",
     "country": "USA",
     "seo_score": 77,
-    "tech_spend": 38280,
-    "crawled_at": "2026-11-08T08:27:38.132671324Z",
+    "tech_spend": 18280,
+    "crawled_at": "2026-11-10T02:15:56.835019552Z",
     "technologies": [
       "Amazon CloudFront",
       "CloudFront",
@@ -40,15 +40,33 @@
       "Google My Business",
       "Google Related Website Sites",
       "Instagram Follow Button",
-      "KVH",
       "Microdata for Google Shopping",
-      "Neighborhoods",
       "Ntent",
+      "Perl",
       "QUIC",
       "RawGit",
       "UTF-8",
-      "YouTube",
-      "eLand"
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "dgtlad.com",
+    "title": "Inbacklink - In Backlink - @inbacklink",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 11136,
+    "crawled_at": "2026-11-09T21:30:25.266735302Z",
+    "technologies": [
+      "Commission Junction",
+      "Dynadot",
+      "ETranslate",
+      "Express",
+      "Fireblade",
+      "GTranslate",
+      "Google My Business",
+      "Negate",
+      "UTF-8"
     ]
   },
   {
@@ -801,37 +819,6 @@
       "Microdata for Google Shopping",
       "UTF-8",
       "Unsplash"
-    ]
-  },
-  {
-    "domain": "sanantoniocommercialinspectors.com",
-    "title": "Commercial Property Inspections Texas | Imperial Pro Inspection | Houston, Austin, Dallas–Fort Worth, San Antonio",
-    "business_name": "Imperial Pro Inspection LLC — Commercial Division",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 18280,
-    "crawled_at": "2026-08-18T01:54:38.165184643Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Customer Reviews",
-      "Google Font API",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Ntent",
-      "Perl",
-      "QUIC",
-      "RawGit",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
@@ -3997,26 +3984,6 @@
       "GZIP Module",
       "Google Analytics",
       "Google Tag Manager",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "inbacklink.com",
-    "title": "Inbacklink - In Backlink - @inbacklink",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 11136,
-    "crawled_at": "2026-04-11T15:05:19.984866187Z",
-    "technologies": [
-      "Commission Junction",
-      "Dynadot",
-      "ETranslate",
-      "Express",
-      "Fireblade",
-      "GTranslate",
-      "Google My Business",
-      "Negate",
       "UTF-8"
     ]
   },
