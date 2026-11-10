@@ -1,5 +1,107 @@
 [
   {
+    "domain": "timt.org.in",
+    "title": "Home || Tamralipta Institute of Management & Technology",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 87,
+    "tech_spend": 15240,
+    "crawled_at": "2026-11-10T04:21:58.090695443Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Chakra UI",
+      "Content Delivery Network",
+      "Google My Business",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "cniag.com",
+    "title": "Cultivating More Possibilities | CNI Ag",
+    "business_name": "",
+    "country": "",
+    "seo_score": 70,
+    "tech_spend": 56548,
+    "crawled_at": "2026-11-10T04:09:03.544755385Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adobe Creative Cloud WebFonts",
+      "Chakra UI",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fireblade",
+      "K2F",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Sanity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "blacktwist.app",
+    "title": "BlackTwist — The Threads System for Creators Who Show Up Daily",
+    "business_name": "BlackTwist",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 22600,
+    "crawled_at": "2026-11-09T23:23:45.50225828Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "Canny",
+      "Chakra UI",
+      "CloudFront",
+      "Content Delivery Network",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Lemon Squeezy",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "Pirsch",
+      "Product Hunt",
+      "QUIC",
+      "Sitelinks Search Box",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "chasersjuice.ca",
+    "title": "Chasers Fresh Juice Inc.",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-11-09T16:35:16.845650649Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "spiryresearch.org",
     "title": "Spiry Research",
     "business_name": "",
@@ -10727,24 +10829,6 @@
     ]
   },
   {
-    "domain": "chasersjuice.org",
-    "title": "Chasers Fresh Juice Inc.",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 67,
-    "tech_spend": 240,
-    "crawled_at": "2026-08-02T12:19:09.614856475Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
     "domain": "kylehgc.com",
     "title": "Kyle Christensen's Portfolio",
     "business_name": "",
@@ -13187,73 +13271,6 @@
       "Nginx",
       "Pleroma",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "hirewithtesttrick.com",
-    "title": "Skills Assessment Software | Hire Right People, Right Way<!-- --> | TestTrick",
-    "business_name": "TestTrick",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 18120,
-    "crawled_at": "2026-06-01T01:38:00.646980037Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Calendly",
-      "Chakra UI",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "QUIC",
-      "Sanity",
-      "UTF-8",
-      "Vercel",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "ceremoniesbybronwen.au",
-    "title": "Ceremonies by Bronwen",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 50,
-    "tech_spend": 60,
-    "crawled_at": "2026-05-31T21:54:02.70726139Z",
-    "technologies": [
-      "Amazon",
-      "Chakra UI",
-      "Financial Services Guide",
-      "Google Analytics",
-      "Google Tag Manager",
-      "PWA",
-      "Pico CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "mymomentjournal.com",
-    "title": "Moment - Morning Journal Delivered To Your Inbox",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-05-31T13:58:30.146803266Z",
-    "technologies": [
-      "Angular",
-      "Chakra UI",
-      "Content Delivery Network",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "UTF-8",
-      "Umami",
-      "Vercel"
     ]
   }
 ]
