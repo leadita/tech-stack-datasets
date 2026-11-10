@@ -1,5 +1,33 @@
 [
   {
+    "domain": "gurugeeksroyalty.biz",
+    "title": "Gurugeeks",
+    "business_name": "",
+    "country": "NGA",
+    "seo_score": 67,
+    "tech_spend": 5090,
+    "crawled_at": "2026-11-09T14:38:25.890641382Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "CloudFront",
+      "Content Delivery Network",
+      "Dialogflow",
+      "Fontshare",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Next.js",
+      "Oracle Cloud",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "gezondheidsschool.be",
     "title": "Welkom bij De Gezondheidsschool",
     "business_name": "",
@@ -879,34 +907,6 @@
       "WP Fastest Cache",
       "WordPress",
       "WordPress Multisite"
-    ]
-  },
-  {
-    "domain": "gurugeeksroyalty.biz",
-    "title": "Gurugeeks",
-    "business_name": "",
-    "country": "NGA",
-    "seo_score": 82,
-    "tech_spend": 5090,
-    "crawled_at": "2026-10-06T11:38:08.569518012Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "CloudFront",
-      "Content Delivery Network",
-      "Dialogflow",
-      "Fontshare",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Next.js",
-      "Oracle Cloud",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   },
   {
