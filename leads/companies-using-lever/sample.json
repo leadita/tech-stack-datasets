@@ -1,12 +1,12 @@
 [
   {
-    "domain": "realworld1.de",
+    "domain": "real-worldone.com",
     "title": "realworld one - PERFORMANCE STARTS WITH EXECUTION",
     "business_name": "",
     "country": "USA",
     "seo_score": 72,
     "tech_spend": 35092,
-    "crawled_at": "2026-11-08T23:45:50.608027075Z",
+    "crawled_at": "2026-11-10T15:52:33.743609596Z",
     "technologies": [
       "1Password",
       "Alternate Protocol",
@@ -22,6 +22,66 @@
       "Yandex Hosting",
       "YouTube",
       "Zeald"
+    ]
+  },
+  {
+    "domain": "kestrel-management.com",
+    "title": "Kestrel | Scalable Autonomy For Sensing and Effects",
+    "business_name": "Kestrel Intelligence",
+    "country": "GBR",
+    "seo_score": 87,
+    "tech_spend": 22740,
+    "crawled_at": "2026-11-09T22:23:13.050040328Z",
+    "technologies": [
+      "ASP.NET Core",
+      "AWS WAF Challenge",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Express",
+      "Lever",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Next.js",
+      "Perl",
+      "Pleroma",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "arcteryxsalomonmelbourneoutlet.com",
+    "title": "Arc'teryx | Salomon Melbourne Outlet – Amer Outlet",
+    "business_name": "",
+    "country": "SYC",
+    "seo_score": 77,
+    "tech_spend": 27164,
+    "crawled_at": "2026-11-09T21:38:46.993053547Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon",
+      "Apture Linking Platform",
+      "Baidu Cloud",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Klaviyo",
+      "Lever",
+      "NFOrce Internet",
+      "PageFly",
+      "Shopify",
+      "Shopify Collabs",
+      "TrackingMore",
+      "UTF-8",
+      "Workable",
+      "Yandex Hosting",
+      "hCaptcha",
+      "reCAPTCHA"
     ]
   },
   {
@@ -1643,33 +1703,6 @@
       "jBoard",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "kestrelholdingco.com",
-    "title": "Kestrel | Scalable Autonomy For Sensing and Effects",
-    "business_name": "Kestrel Intelligence",
-    "country": "GBR",
-    "seo_score": 87,
-    "tech_spend": 22740,
-    "crawled_at": "2026-09-19T00:47:38.635396719Z",
-    "technologies": [
-      "ASP.NET Core",
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Express",
-      "Lever",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {
@@ -9496,66 +9529,6 @@
       "YouTube",
       "jBoard",
       "monday.com",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "onaroll.co",
-    "title": "Onaroll",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 687,
-    "crawled_at": "2026-04-02T14:50:19.994336643Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "ElementUI",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Lever",
-      "QUIC",
-      "Storyblocks",
-      "Tailwind CSS",
-      "UTF-8",
-      "WF Cookie Consent",
-      "Webflow"
-    ]
-  },
-  {
-    "domain": "arcteryxsalomonmelbourneoutlet.com",
-    "title": "Arc'teryx | Salomon Melbourne Outlet – Amer Outlet",
-    "business_name": "",
-    "country": "SYC",
-    "seo_score": 77,
-    "tech_spend": 20864,
-    "crawled_at": "2026-04-02T10:43:56.51732023Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Amazon",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "Lever",
-      "PageFly",
-      "Shopify",
-      "Shopify Collabs",
-      "TrackingMore",
-      "UTF-8",
-      "Workable",
-      "hCaptcha",
       "reCAPTCHA"
     ]
   }
