@@ -1,5 +1,56 @@
 [
   {
+    "domain": "sweep2win.net",
+    "title": "sweep2win | Get paid for your opinions and survey",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 4900,
+    "crawled_at": "2026-11-10T16:40:30.812884252Z",
+    "technologies": [
+      "ActiveProspect",
+      "Apache",
+      "Apache Tomcat JK",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "ISO/IEC 8859",
+      "RM Education",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "coretechnologiesconsulting.com",
+    "title": "Windows Services Software | 100% Uptime for Your Applications",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 23815,
+    "crawled_at": "2026-11-10T05:07:26.62936203Z",
+    "technologies": [
+      "Adult Content",
+      "Apache",
+      "Apache Tomcat JK",
+      "Better Lead Generation Services",
+      "ETranslate",
+      "Financial Services Guide",
+      "GTranslate",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google My Business",
+      "Google Tag Manager",
+      "KVH",
+      "Matomo Tag Manager",
+      "Microdata for Google Shopping",
+      "Perl",
+      "PositiveSSL Badge",
+      "QUIC",
+      "UTF-8",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "webbagger.com",
     "title": "Apache Tomcat/7.0.37",
     "business_name": "",
@@ -3149,38 +3200,6 @@
       "Google Play",
       "Omacro",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "coretechnologies.com",
-    "title": "Windows Services Software | 100% Uptime for Your Applications",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 23315,
-    "crawled_at": "2026-08-21T18:04:27.933001294Z",
-    "technologies": [
-      "Adult Content",
-      "Apache",
-      "Apache Tomcat JK",
-      "Better Lead Generation Services",
-      "ETranslate",
-      "Financial Services Guide",
-      "GTranslate",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google My Business",
-      "Google Tag Manager",
-      "KVH",
-      "Microdata for Google Shopping",
-      "Perl",
-      "PositiveSSL Badge",
-      "QUIC",
-      "StatCounter",
-      "UTF-8",
-      "WordPress"
     ]
   },
   {
@@ -13056,48 +13075,6 @@
       "Twitter Ads",
       "UTF-8",
       "Vector Internet Services"
-    ]
-  },
-  {
-    "domain": "deals2protect.com",
-    "title": "Welcome to deals2protect.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 12559,
-    "crawled_at": "2026-04-02T19:29:19.99560815Z",
-    "technologies": [
-      "ActiveProspect",
-      "Apache",
-      "Apache Tomcat JK",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "ISO/IEC 8859",
-      "IcoMoon",
-      "RM Education",
-      "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "sweep2win.net",
-    "title": "sweep2win | Get paid for your opinions and survey",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 4900,
-    "crawled_at": "2026-04-02T17:47:20.007192591Z",
-    "technologies": [
-      "ActiveProspect",
-      "Apache",
-      "Apache Tomcat JK",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "ISO/IEC 8859",
-      "RM Education",
-      "UTF-8"
     ]
   }
 ]
