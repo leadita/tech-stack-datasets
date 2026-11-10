@@ -1,5 +1,54 @@
 [
   {
+    "domain": "marussy.com",
+    "title": "Kristóf Marussy",
+    "business_name": "",
+    "country": "HUN",
+    "seo_score": 70,
+    "tech_spend": 18600,
+    "crawled_at": "2026-11-10T21:51:59.688879863Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Google My Business",
+      "License Buttons",
+      "Microsoft Teams",
+      "Onion Location",
+      "UTF-8",
+      "University or College",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "resonanceprotocol.org",
+    "title": "RESONANCE | The Quiet Protocol",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 8940,
+    "crawled_at": "2026-11-10T16:48:00.117368317Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "KaTeX",
+      "LiteSpeed",
+      "NFOrce Internet",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "Vector Internet Services",
+      "jsDelivr",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "rz.id.au",
     "title": "Ryan Zhou | Ryan Zhou",
     "business_name": "",
@@ -12765,61 +12814,6 @@
       "QUIC",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "replane.dev",
-    "title": "Replane",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 2544,
-    "crawled_at": "2026-04-15T02:47:20.011264606Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "LaunchDarkly",
-      "Perl",
-      "Python",
-      "QUIC",
-      "Svelte",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "lailai.one",
-    "title": "lailai's Home",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 72,
-    "tech_spend": 4840,
-    "crawled_at": "2026-04-14T23:59:19.987615505Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Baidu Cloud",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "KaTeX",
-      "License Buttons",
-      "Perl",
-      "Python",
-      "Tailwind CSS",
-      "Telegram",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
