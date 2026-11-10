@@ -1,5 +1,32 @@
 [
   {
+    "domain": "viewpointsrealestate.com",
+    "title": "Martha's Vineyard Real Estate | Martha's Vineyard Vacation Rentals",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 9035,
+    "crawled_at": "2026-11-09T22:06:31.67874663Z",
+    "technologies": [
+      "Bulma",
+      "Facebook Like",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Perl",
+      "PropertyBase",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "jQuery Pin It Button for Images"
+    ]
+  },
+  {
     "domain": "ranchosoldorado.com",
     "title": "Ranch Community and Club - Rancho Sol Dorado",
     "business_name": "Rancho Sol Dorado",
@@ -2634,33 +2661,6 @@
       "hCaptcha",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "westchopmv.com",
-    "title": "Martha's Vineyard Real Estate | Martha's Vineyard Vacation Rentals",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 9035,
-    "crawled_at": "2026-04-10T08:41:20.021607462Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Bulma",
-      "CloudFront",
-      "Facebook Like",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "PropertyBase",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "jQuery Pin It Button for Images"
     ]
   },
   {
