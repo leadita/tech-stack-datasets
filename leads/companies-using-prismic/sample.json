@@ -1,5 +1,41 @@
 [
   {
+    "domain": "cantaconjess.com",
+    "title": "Canta Con Jess - Spanish for Kids",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 30248,
+    "crawled_at": "2026-11-10T09:14:05.365600375Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon Widgets",
+      "Angular",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "Google",
+      "Google Analytics",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "M247",
+      "Next.js",
+      "Oddle",
+      "Perl",
+      "Pleroma",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "YouTube",
+      "reCAPTCHA",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "hridaybandhan.com",
     "title": "Best Wedding Photographer in Asansol & Kolkata",
     "business_name": "",
@@ -13919,38 +13955,6 @@
       "Vercel",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "flexa.careers",
-    "title": "Flexa | Find verified companies that fit your priorities",
-    "business_name": "Flexa",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 34689,
-    "crawled_at": "2026-05-05T11:53:19.997743174Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Fastly",
-      "Fireblade",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Material-UI",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Perl",
-      "Prismic",
-      "Shifter",
-      "UTF-8",
-      "Vercel",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "jsDelivr"
     ]
   }
 ]

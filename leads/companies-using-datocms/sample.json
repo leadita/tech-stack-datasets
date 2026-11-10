@@ -1,5 +1,125 @@
 [
   {
+    "domain": "realequity.com.au",
+    "title": "Home | Real Equity",
+    "business_name": "Real Equity",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 18816,
+    "crawled_at": "2026-11-10T13:27:53.844164517Z",
+    "technologies": [
+      "Atollon",
+      "Cloudflare",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Endis",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "bitbetf.com",
+    "title": "BITB | Bitwise Bitcoin ETF",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 82588,
+    "crawled_at": "2026-11-10T05:52:21.033388988Z",
+    "technologies": [
+      "Amazon S3 CDN",
+      "Cloudflare Turnstile",
+      "Content Delivery Network",
+      "DAV",
+      "DatoCMS",
+      "Financial Services Guide",
+      "Fireblade",
+      "Next.js",
+      "Pleroma",
+      "Prospective",
+      "RM Education",
+      "Radix UI",
+      "SMC",
+      "Storyblocks",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "theprotectionplatform.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 82,
+    "tech_spend": 18828,
+    "crawled_at": "2026-11-09T21:30:25.265772562Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Fireblade",
+      "Google My Business",
+      "Next.js",
+      "Pleroma",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "WordPress",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "plcossette.com",
+    "title": "Pier-Luc Cossette — Designer & Front-End Developer",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 2927,
+    "crawled_at": "2026-11-09T20:41:58.044435705Z",
+    "technologies": [
+      "Astro",
+      "Content Delivery Network",
+      "CoreUI",
+      "DatoCMS",
+      "Instagram Follow Button",
+      "QUIC",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "aria-portaromana.com",
+    "title": "Aria Porta Romana",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 72,
+    "tech_spend": 25927,
+    "crawled_at": "2026-11-09T19:15:07.971526903Z",
+    "technologies": [
+      "Cloudflare",
+      "Coming Soon Page",
+      "DatoCMS",
+      "Fireblade",
+      "Google My Business",
+      "Heroku",
+      "Instagram Follow Button",
+      "Mews Commander",
+      "QUIC",
+      "Remix",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "store.pwc.de",
     "title": "Lösungen, die Ihr Geschäft voranbringen",
     "business_name": "",
@@ -363,29 +483,6 @@
       "Vector Internet Services",
       "Vercel",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "aria-hub.com",
-    "title": "/",
-    "business_name": "",
-    "country": "ITA",
-    "seo_score": 70,
-    "tech_spend": 75888,
-    "crawled_at": "2026-11-08T01:33:13.88989218Z",
-    "technologies": [
-      "Cloudflare",
-      "DatoCMS",
-      "Fireblade",
-      "Google My Business",
-      "Heroku",
-      "Instagram Follow Button",
-      "Mews Commander",
-      "Remix",
-      "SMC",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   },
   {
@@ -801,30 +898,6 @@
       "Underscores",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "theprotectionplatform.co.uk",
-    "title": "Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 18828,
-    "crawled_at": "2026-11-04T07:01:23.567734675Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "DatoCMS",
-      "Fireblade",
-      "Google My Business",
-      "Next.js",
-      "Pleroma",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "WordPress",
-      "reCAPTCHA"
     ]
   },
   {
@@ -1250,33 +1323,6 @@
       "Smart App Banner",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "bsoletf.com",
-    "title": "BSOL - Bitwise Solana Staking ETF",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 134628,
-    "crawled_at": "2026-10-31T10:14:33.500555265Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare Turnstile",
-      "Content Delivery Network",
-      "DAV",
-      "DatoCMS",
-      "Financial Services Guide",
-      "Fireblade",
-      "K2F",
-      "KVH",
-      "Next.js",
-      "Pleroma",
-      "Prospective",
-      "Radix UI",
-      "SMC",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {
@@ -14310,55 +14356,6 @@
       "YouTube",
       "about.me",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "tmorpg.com",
-    "title": "Book of Travels – An Online RPG by Might and Delight",
-    "business_name": "",
-    "country": "SWE",
-    "seo_score": 82,
-    "tech_spend": 6982,
-    "crawled_at": "2026-05-10T23:32:35.080601503Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DatoCMS",
-      "Enzuzo",
-      "Express",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Idaq",
-      "Instagram Follow Button",
-      "Kinsta",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "Underscores",
-      "Vercel",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "acernis.fr",
-    "title": "Acernis - Boost your mobile network rollout",
-    "business_name": "Acernis",
-    "country": "FRA",
-    "seo_score": 62,
-    "tech_spend": 3096,
-    "crawled_at": "2026-05-10T22:23:19.998889315Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DatoCMS",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "Nuxt.js",
-      "QUIC",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
