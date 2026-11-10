@@ -1,5 +1,39 @@
 [
   {
+    "domain": "lavaresort.is",
+    "title": "Iceland’s finest countryside retreats | Miðhraun-Lava Resort",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 8106,
+    "crawled_at": "2026-11-10T05:52:21.058191918Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "BookVisit",
+      "BunnyCDN",
+      "BunnyCDN General",
+      "CloudFront",
+      "DAV",
+      "Duda",
+      "ElementUI",
+      "Google Analytics",
+      "Google Maps",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "No-Q",
+      "QUIC",
+      "Site Search 360",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "eLand"
+    ]
+  },
+  {
     "domain": "joysandtears.com",
     "title": "Discover the Fascinating World of Apron Art & History | Joys & Tears in the Apron Strings",
     "business_name": "",
@@ -16208,33 +16242,6 @@
       "Python",
       "Site Search 360",
       "Twitter Ads",
-      "UTF-8",
-      "Yandex Hosting"
-    ]
-  },
-  {
-    "domain": "holthusconventioncenter.com",
-    "title": "Home : Holthus Convention Center",
-    "business_name": "Holthus Convention Center",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 10620,
-    "crawled_at": "2026-04-22T17:56:19.982385201Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "Baidu Cloud",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Interchange",
-      "Microdata for Google Shopping",
-      "Prospective",
-      "Python",
-      "Site Search 360",
       "UTF-8",
       "Yandex Hosting"
     ]
