@@ -7516,23 +7516,5 @@
       "UTF-8",
       "YouTube"
     ]
-  },
-  {
-    "domain": "mitchellaneous.net",
-    "title": "Mitchellaneous",
-    "business_name": "",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 60,
-    "crawled_at": "2026-04-02T11:59:19.98029598Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Hugo",
-      "Mastodon",
-      "Micro.blog",
-      "UTF-8",
-      "jsDelivr",
-      "shadcn ui"
-    ]
   }
 ]
