@@ -1,5 +1,47 @@
 [
   {
+    "domain": "ecogi.mdj.sk",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 1200,
+    "crawled_at": "2026-11-10T17:34:54.323349596Z",
+    "technologies": [
+      "Apache",
+      "Barchart",
+      "DAV",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Grafana",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "batviot.com",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 11200,
+    "crawled_at": "2026-11-10T07:47:09.563371692Z",
+    "technologies": [
+      "Barchart",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Contento",
+      "DAV",
+      "Express",
+      "GitHub Hosting",
+      "Grafana",
+      "Ntent",
+      "RawGit",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "iot-dgr.com",
     "title": "Grafana",
     "business_name": "",

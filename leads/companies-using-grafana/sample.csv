@@ -1,4 +1,6 @@
 domain,title,business_name,country,seo_score,tech_spend,crawled_at,technologies
+ecogi.mdj.sk,Grafana,,,40,1200,2026-11-10T17:34:54.323349596Z,"['Apache', 'Barchart', 'DAV', 'Express', 'GZIP Module', 'GitHub Hosting', 'Grafana', 'UTF-8']"
+batviot.com,Grafana,,,45,11200,2026-11-10T07:47:09.563371692Z,"['Barchart', 'Cloudflare', 'Cloudflare CDN', 'Cloudflare Web Analytics', 'Contento', 'DAV', 'Express', 'GitHub Hosting', 'Grafana', 'Ntent', 'RawGit', 'UTF-8']"
 iot-dgr.com,Grafana,,,30,1200,2026-11-08T10:07:44.387275549Z,"['Barchart', 'Express', 'GZIP Module', 'GitHub Hosting', 'Grafana', 'Nginx', 'UTF-8', 'Ubuntu']"
 watermetrics.online,Grafana,,,30,1200,2026-10-31T16:58:52.072484513Z,"['Barchart', 'Express', 'GitHub Hosting', 'Grafana', 'UTF-8']"
 stromfee.info,StromfeeME: Power-Analysen,,,40,1200,2026-10-28T05:06:23.824466381Z,"['Barchart', 'Express', 'GZIP Module', 'GitHub Hosting', 'Google My Business', 'Grafana', 'Nginx', 'UTF-8', 'Ubuntu']"
