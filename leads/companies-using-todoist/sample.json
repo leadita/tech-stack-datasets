@@ -1,5 +1,26 @@
 [
   {
+    "domain": "adamziel.today",
+    "title": "Adam Ziel",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": "",
+    "crawled_at": "2026-11-11T02:30:31.843855584Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Hive.co",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "Sanity",
+      "Tailwind CSS",
+      "Todoist",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "level-upcoach.com",
     "title": "Level Up Coaching & Consulting, LLC - ADHD Coach | St. Louis",
     "business_name": "Level Up Coaching & Consulting, LLC",
@@ -2169,27 +2190,6 @@
       "YouTube",
       "eLand",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "adamziel.today",
-    "title": "Adam Ziel",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": "",
-    "crawled_at": "2026-04-02T21:32:20.014504795Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Hive.co",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "Sanity",
-      "Tailwind CSS",
-      "Todoist",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
