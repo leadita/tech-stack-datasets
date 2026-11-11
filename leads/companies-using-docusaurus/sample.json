@@ -1,5 +1,41 @@
 [
   {
+    "domain": "data-xchange.com",
+    "title": "Data-Xchange",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 1188,
+    "crawled_at": "2026-11-11T03:56:56.717654671Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "Perl",
+      "ReadMe"
+    ]
+  },
+  {
+    "domain": "vzhuck.com",
+    "title": "Valentine Zhuck",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 7400,
+    "crawled_at": "2026-11-11T01:18:33.542850458Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "KaTeX",
+      "Perl",
+      "Python",
+      "UTF-8",
+      "Vector Internet Services",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "marussy.com",
     "title": "Kristóf Marussy",
     "business_name": "",
@@ -12767,52 +12803,6 @@
       "QUIC",
       "Tailwind CSS",
       "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "saurabhsugandh.com",
-    "title": "Saurabh Sugandh | Creator, Content Producer, Writer, & Engineer",
-    "business_name": "",
-    "country": "UGA",
-    "seo_score": 77,
-    "tech_spend": 4939,
-    "crawled_at": "2026-04-15T08:41:19.993914552Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "DAV",
-      "Docusaurus",
-      "Fastly",
-      "Font Awesome",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Python",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "standinconsulting.com",
-    "title": "Hello from Stand-In Consulting | Stand-In Consulting",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 57,
-    "tech_spend": 600,
-    "crawled_at": "2026-04-15T08:32:20.008941512Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "Freshworks CRM",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
       "UTF-8"
     ]
   }

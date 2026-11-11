@@ -1,5 +1,21 @@
 [
   {
+    "domain": "mtgbus.com.au",
+    "title": "Mount Gambier Bus Lines - Mount Gambier Buslines",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 42,
+    "tech_spend": 5000,
+    "crawled_at": "2026-11-11T15:07:48.114313985Z",
+    "technologies": [
+      "Apache",
+      "Google My Business",
+      "Gridsome",
+      "K2F",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "aplikacjalupa.com",
     "title": "Start - Lupa",
     "business_name": "",
@@ -11865,27 +11881,6 @@
       "SMC",
       "Subversion",
       "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "blueeyescbr.com.au",
-    "title": "Blue Eyes CBR | A taste of Hollywood magic in Garema Place",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 70,
-    "tech_spend": 2016,
-    "crawled_at": "2026-04-10T07:20:20.01150382Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Content Delivery Network",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Netlify",
-      "Netlify Forms",
-      "Tailwind CSS",
-      "UTF-8",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   }
 ]
