@@ -1,5 +1,32 @@
 [
   {
+    "domain": "momentsbyheatheredmunds.com",
+    "title": "HOME - Moments by Heather Edmunds & Company",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 2068,
+    "crawled_at": "2026-11-11T01:38:15.061714325Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "Curator",
+      "Edmunds",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "SiteW",
+      "Thank You",
+      "UTF-8",
+      "Yelp Badge",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "directcarcompanyheights.com",
     "title": "Home | DIRECT CAR COMPANY | Auto dealership in HOUSTON,Texas",
     "business_name": "",
@@ -5693,34 +5720,6 @@
       "Share Link",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "momentsbyheatheredmunds.com",
-    "title": "HOME - Moments by Heather Edmunds & Company",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 2068,
-    "crawled_at": "2026-04-02T21:17:19.992835711Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "Curator",
-      "Edmunds",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "SiteW",
-      "Thank You",
-      "UTF-8",
-      "Yelp Badge",
-      "YouTube",
-      "reCAPTCHA"
     ]
   }
 ]
