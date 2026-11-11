@@ -1,5 +1,35 @@
 [
   {
+    "domain": "2scooter.com",
+    "title": "Electric Scooter – eHoodax Scooter Outlets",
+    "business_name": "eHoodax Scooter Outlets",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 9736,
+    "crawled_at": "2026-11-11T18:15:39.998379408Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Baidu Cloud",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "FedEx",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PayPal",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "Shopify Payments",
+      "UTF-8",
+      "Yandex Hosting",
+      "YouTube",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "avannaclairecollection.com",
     "title": "Avanna Claire Collection – avannaclairecollection",
     "business_name": "",
@@ -19432,30 +19462,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "labelpartners.com",
-    "title": "Woven and printed garment labels, size tags, patches - LABEL PARTNERS USA",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 159,
-    "crawled_at": "2026-04-25T17:32:20.032210843Z",
-    "technologies": [
-      "Apache",
-      "AutoComplete",
-      "Debian",
-      "Express",
-      "FedEx",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Parcel",
-      "UTF-8"
     ]
   }
 ]
