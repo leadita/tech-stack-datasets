@@ -2725,43 +2725,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "innoseal.com",
-    "title": "Plastic Bag Sealer & Original Innoseal Refill | Innoseal",
-    "business_name": "Innoseal",
-    "country": "SGP",
-    "seo_score": 77,
-    "tech_spend": 17511,
-    "crawled_at": "2026-04-03T00:47:19.99209742Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Aruba",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Fancybox for WordPress",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Klaviyo",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "QUIC",
-      "SalesLoft",
-      "Shopify",
-      "Shopify Collabs",
-      "ThoughtMetric",
-      "UTF-8",
-      "Video PopUp for Wordpress",
-      "YouTube",
-      "accessiBe",
-      "eLand",
-      "hCaptcha",
-      "jQuery",
-      "reCAPTCHA"
-    ]
   }
 ]
