@@ -1,5 +1,24 @@
 [
   {
+    "domain": "kern-iop.tech",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 1200,
+    "crawled_at": "2026-11-11T18:08:47.323228378Z",
+    "technologies": [
+      "Apache",
+      "Barchart",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Grafana",
+      "UTF-8",
+      "Ubuntu"
+    ]
+  },
+  {
     "domain": "ecogi.mdj.sk",
     "title": "Grafana",
     "business_name": "",
@@ -38,41 +57,6 @@
       "Grafana",
       "Ntent",
       "RawGit",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "iot-dgr.com",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 1200,
-    "crawled_at": "2026-11-08T10:07:44.387275549Z",
-    "technologies": [
-      "Barchart",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Grafana",
-      "Nginx",
-      "UTF-8",
-      "Ubuntu"
-    ]
-  },
-  {
-    "domain": "watermetrics.online",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 1200,
-    "crawled_at": "2026-10-31T16:58:52.072484513Z",
-    "technologies": [
-      "Barchart",
-      "Express",
-      "GitHub Hosting",
-      "Grafana",
       "UTF-8"
     ]
   },
