@@ -1,5 +1,49 @@
 [
   {
+    "domain": "chrisdeluca.me",
+    "title": "Chris DeLuca - Chris DeLuca",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 65,
+    "tech_spend": 10480,
+    "crawled_at": "2026-11-11T09:11:14.606587811Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon S3 CDN",
+      "BLR",
+      "Drupal",
+      "GitHub Hosting",
+      "Hugo",
+      "License Buttons",
+      "Mastodon",
+      "Micro.blog",
+      "Storyblocks",
+      "Tumblr",
+      "UTF-8",
+      "University or College",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "betzen.io",
+    "title": "Noah Betzen",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 260,
+    "crawled_at": "2026-11-10T12:41:31.987755251Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "GitHub Hosting",
+      "Hugo",
+      "Micro.blog",
+      "Twitter Ads",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "mitchelltribe.com",
     "title": "Michael Mitchell",
     "business_name": "",
@@ -1635,25 +1679,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "nezteb.io",
-    "title": "Noah Betzen",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 260,
-    "crawled_at": "2026-08-21T13:22:27.802884194Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "GitHub Hosting",
-      "Hugo",
-      "Micro.blog",
-      "Twitter Ads",
-      "UTF-8",
-      "shadcn ui"
     ]
   },
   {
@@ -7475,46 +7500,6 @@
       "Unix",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "chrisdeluca.me",
-    "title": "Chris DeLuca - Chris DeLuca",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 10120,
-    "crawled_at": "2026-04-03T00:02:20.016991807Z",
-    "technologies": [
-      "Alternate Protocol",
-      "BLR",
-      "Drupal",
-      "GitHub Hosting",
-      "Hugo",
-      "License Buttons",
-      "Micro.blog",
-      "Perl",
-      "Tumblr",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "rachelpietraszek.com",
-    "title": "Driven by Cheese",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 62,
-    "tech_spend": 120,
-    "crawled_at": "2026-04-02T16:41:20.001738234Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Angular",
-      "Hugo",
-      "Mastodon",
-      "Micro.blog",
-      "PWA",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]

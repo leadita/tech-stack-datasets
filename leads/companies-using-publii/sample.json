@@ -1,5 +1,96 @@
 [
   {
+    "domain": "galaxyposter.net",
+    "title": "GALAXY-POSTERS",
+    "business_name": "GALAXY-POSTERS",
+    "country": "DEU",
+    "seo_score": 40,
+    "tech_spend": 61,
+    "crawled_at": "2026-11-11T11:58:01.56462227Z",
+    "technologies": [
+      "BunnyCDN Header",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Microsoft Authentication Library for JavaScript",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "bananna-threads.com",
+    "title": "Bananna Threads",
+    "business_name": "Bananna Threads",
+    "country": "GBR",
+    "seo_score": 60,
+    "tech_spend": 2049,
+    "crawled_at": "2026-11-10T23:12:18.583011643Z",
+    "technologies": [
+      "Alternate Protocol",
+      "BLR",
+      "Microdata for Google Shopping",
+      "Publii",
+      "QUIC",
+      "Tumblr",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "russiatortureschristians.com",
+    "title": "Russia Tortures Christians",
+    "business_name": "Russia Tortures Christians",
+    "country": "UKR",
+    "seo_score": 70,
+    "tech_spend": 448,
+    "crawled_at": "2026-11-10T22:58:57.379531436Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Apture Linking Platform",
+      "CoreUI",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Lazy Load for WordPress",
+      "Microdata for Google Shopping",
+      "Publii",
+      "QUIC",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "bresse-gauloise.org",
+    "title": "Bresse Gauloise",
+    "business_name": "Bresse Gauloise",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 7749,
+    "crawled_at": "2026-11-10T15:23:30.999230993Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Express",
+      "Fireblade",
+      "Google Adsense",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google Reseller",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Publii",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "japanesebantams.com",
     "title": "The Japanese Bantam - Japanese Bantams",
     "business_name": "",
@@ -63,25 +154,6 @@
       "Publii",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "poster-galaxy.com",
-    "title": "GALAXY-POSTERS",
-    "business_name": "GALAXY-POSTERS",
-    "country": "DEU",
-    "seo_score": 40,
-    "tech_spend": 61,
-    "crawled_at": "2026-11-09T18:16:07.168187708Z",
-    "technologies": [
-      "BunnyCDN Header",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Microsoft Authentication Library for JavaScript",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jQuery"
     ]
   },
   {
@@ -2957,25 +3029,6 @@
       "Zyro",
       "admitad",
       "financeAds"
-    ]
-  },
-  {
-    "domain": "annasalizzoni.com",
-    "title": "Bananna Threads",
-    "business_name": "Bananna Threads",
-    "country": "GBR",
-    "seo_score": 55,
-    "tech_spend": 2049,
-    "crawled_at": "2026-05-26T07:23:13.56072197Z",
-    "technologies": [
-      "Alternate Protocol",
-      "BLR",
-      "Microdata for Google Shopping",
-      "Publii",
-      "QUIC",
-      "Tumblr",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   },
   {
@@ -8022,59 +8075,6 @@
       "eLand",
       "financeAds",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "russiatortureschristians.com",
-    "title": "Russia Tortures Christians",
-    "business_name": "Russia Tortures Christians",
-    "country": "UKR",
-    "seo_score": 70,
-    "tech_spend": 448,
-    "crawled_at": "2026-04-02T20:17:20.014651602Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Apture Linking Platform",
-      "CoreUI",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Lazy Load for WordPress",
-      "Microdata for Google Shopping",
-      "Publii",
-      "QUIC",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "bresse-gauloise.org",
-    "title": "Bresse Gauloise",
-    "business_name": "Bresse Gauloise",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 7749,
-    "crawled_at": "2026-04-02T17:17:46.31342958Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Express",
-      "Fireblade",
-      "Google Adsense",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google Reseller",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Publii",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "WordPress SEO Structured Data Schema Plugin"
     ]
   }
 ]

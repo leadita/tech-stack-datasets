@@ -1,5 +1,34 @@
 [
   {
+    "domain": "coculturellc.com",
+    "title": "CoCulture LLC",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 759,
+    "crawled_at": "2026-11-10T20:55:11.614727985Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CDN JS",
+      "Calendly",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "Font Awesome",
+      "GZIP Module",
+      "Ghost",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Twitter Ads",
+      "UTF-8",
+      "Ubuntu",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "stephenradford.me",
     "title": "Stephen Radford",
     "business_name": "",
@@ -13188,27 +13217,6 @@
       "UTF-8",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "playtestmagazine.com",
-    "title": "Playtest Magazine",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 732,
-    "crawled_at": "2026-04-17T14:17:19.979984019Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Ghost",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
