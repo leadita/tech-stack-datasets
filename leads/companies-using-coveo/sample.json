@@ -1,5 +1,22 @@
 [
   {
+    "domain": "careconnectcarolinas.com",
+    "title": "Atrium Health CareConnect",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 15156,
+    "crawled_at": "2026-11-11T15:55:59.250315198Z",
+    "technologies": [
+      "Atrium Health",
+      "Coveo",
+      "Express",
+      "IcoMoon",
+      "UK Cookie Consent",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "jcicampaigns.com",
     "title": "Chillers | Johnson Controls",
     "business_name": "",
