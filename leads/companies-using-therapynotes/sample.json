@@ -1,5 +1,52 @@
 [
   {
+    "domain": "clinicalassociates.org",
+    "title": "Home",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 9736,
+    "crawled_at": "2026-11-12T13:34:17.49305308Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "RM Education",
+      "Tailwind CSS",
+      "TherapyNotes",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "rcmstaff.ph",
+    "title": "Outsource Medical Billing to the Philippines | RCM Staff™",
+    "business_name": "RCM Staff™",
+    "country": "USA",
+    "seo_score": 92,
+    "tech_spend": 40231,
+    "crawled_at": "2026-11-12T01:25:28.283692577Z",
+    "technologies": [
+      "Alternate Protocol",
+      "AthenaHealth",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "TherapyNotes",
+      "UTF-8",
+      "Vercel",
+      "YouTube",
+      "eClinicalWorks",
+      "intakeQ"
+    ]
+  },
+  {
     "domain": "stoughtoncounseling.com",
     "title": "Stoughton Counseling, Inc.",
     "business_name": "",
@@ -531,32 +578,6 @@
       "UTF-8",
       "Wangsu",
       "Website Tonight"
-    ]
-  },
-  {
-    "domain": "rcmstaffbpo.com",
-    "title": "Outsource Medical Billing to the Philippines | RCM Staff™",
-    "business_name": "RCM Staff™",
-    "country": "USA",
-    "seo_score": 92,
-    "tech_spend": 40231,
-    "crawled_at": "2026-10-25T20:29:53.798361801Z",
-    "technologies": [
-      "Alternate Protocol",
-      "AthenaHealth",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "TherapyNotes",
-      "UTF-8",
-      "Vercel",
-      "YouTube",
-      "eClinicalWorks",
-      "intakeQ"
     ]
   },
   {
@@ -5722,28 +5743,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "clinicalassociates.org",
-    "title": "Home",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 9736,
-    "crawled_at": "2026-04-03T10:41:20.015366312Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Duda",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "RM Education",
-      "Tailwind CSS",
-      "TherapyNotes",
-      "UTF-8"
     ]
   }
 ]
