@@ -1,5 +1,23 @@
 [
   {
+    "domain": "pasteldawg.art",
+    "title": "PastelDawg",
+    "business_name": "",
+    "country": "SWE",
+    "seo_score": 67,
+    "tech_spend": 19,
+    "crawled_at": "2026-11-12T20:45:59.053871339Z",
+    "technologies": [
+      "Adult Content",
+      "Apache",
+      "Carrd",
+      "GZIP Module",
+      "Telegram",
+      "Trello",
+      "Twitter Ads"
+    ]
+  },
+  {
     "domain": "qjub.app",
     "title": "Qjub – Collect, organize and share knowledge with ease",
     "business_name": "",
@@ -19636,40 +19654,6 @@
       "Yummly",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "curtisjknecht.com",
-    "title": "CurtisJKnechtUXDesigner",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 25604,
-    "crawled_at": "2026-05-03T14:29:19.980859797Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Discord",
-      "Express",
-      "Figma",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Workspace",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Optimal Workshop",
-      "QUIC",
-      "SiteW",
-      "Slack",
-      "Squarespace",
-      "Trello",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
