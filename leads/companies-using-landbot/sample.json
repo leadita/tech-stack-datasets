@@ -14977,31 +14977,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "pierrelanguagecenter.com",
-    "title": "Cursos de idiomas en San Nicolas, Nuevo Leon | PIERRE LANGUAGE CENTER",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 4514,
-    "crawled_at": "2026-04-03T05:43:30.176193858Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Express",
-      "Google",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Instagram Follow Button",
-      "LandBot",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "Thank You",
-      "Twitter Ads",
-      "Unsplash",
-      "Zyro"
-    ]
   }
 ]
