@@ -1,5 +1,38 @@
 [
   {
+    "domain": "alvinsolutions.in",
+    "title": "Business Solutions | Alvinsolutions",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 87,
+    "tech_spend": 113228,
+    "crawled_at": "2026-11-12T02:39:06.951850558Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PWA",
+      "QUIC",
+      "SMC",
+      "Sentry",
+      "SiteW",
+      "UTF-8",
+      "Vector Internet Services",
+      "VinSolutions",
+      "Wix",
+      "Wix Media",
+      "eLand",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "heymia.com",
     "title": "Hey Mia: Your 24/7 Automotive AI Phone Agent",
     "business_name": "",

@@ -1,5 +1,29 @@
 [
   {
+    "domain": "canadasmotors.ca",
+    "title": "Canada's Motors Place",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 75,
+    "tech_spend": 2499,
+    "crawled_at": "2026-11-12T05:29:11.596794638Z",
+    "technologies": [
+      "Apache",
+      "AutoTrader CA",
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Financial Services Guide",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Maps",
+      "Google My Business",
+      "StackPath",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "parsebird.com",
     "title": "ParseBird: Web Scraping Layers for AI & Automation",
     "business_name": "ParseBird",
@@ -2270,30 +2294,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "canadasmotors.ca",
-    "title": "Canada's Motors Place",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 70,
-    "tech_spend": 2499,
-    "crawled_at": "2026-04-03T07:39:04.934134916Z",
-    "technologies": [
-      "Apache",
-      "AutoTrader CA",
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Financial Services Guide",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Maps",
-      "Google My Business",
-      "StackPath",
-      "jsDelivr"
     ]
   }
 ]

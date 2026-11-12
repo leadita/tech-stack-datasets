@@ -4219,43 +4219,5 @@
       "Visual Studio",
       "YouTube"
     ]
-  },
-  {
-    "domain": "survivorsources.org",
-    "title": "Veteran Disability Support Services in Hyattsville, MD| Survivor Sources Inc.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 52880,
-    "crawled_at": "2026-04-03T07:20:20.012368903Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "DAV",
-      "DealerOn",
-      "ETranslate",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Maps",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "Microsoft Azure",
-      "Nginx",
-      "Perl",
-      "QUIC",
-      "SiteW",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Visual Studio",
-      "YouTube",
-      "Zeffy",
-      "jsDelivr"
-    ]
   }
 ]
