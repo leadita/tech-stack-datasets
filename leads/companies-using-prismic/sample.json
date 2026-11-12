@@ -1,5 +1,27 @@
 [
   {
+    "domain": "aucklandfirewood.com",
+    "title": "Auckland Firewood | Premium Dry Bagged Logs Grey Lynn",
+    "business_name": "",
+    "country": "NZL",
+    "seo_score": 67,
+    "tech_spend": 420,
+    "crawled_at": "2026-11-12T11:22:08.139502345Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Headless UI",
+      "Next.js",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "imito.io",
     "title": "Wound care software and medical photography app by imito",
     "business_name": "",
@@ -7199,28 +7221,6 @@
       "UTF-8",
       "Vector Internet Services",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "dryfirewoodauckland.co.nz",
-    "title": "Auckland Firewood | Premium Dry Bagged Logs Grey Lynn",
-    "business_name": "",
-    "country": "NZL",
-    "seo_score": 77,
-    "tech_spend": 420,
-    "crawled_at": "2026-08-05T19:54:37.359547723Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Headless UI",
-      "Next.js",
-      "Prismic",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {

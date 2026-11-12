@@ -1,5 +1,39 @@
 [
   {
+    "domain": "workwithnikkichubb.com",
+    "title": "Day & Night Drops",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 85258,
+    "crawled_at": "2026-11-12T10:30:58.480515929Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Authorize.net",
+      "ButterCMS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "DAV",
+      "Fireblade",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "No-Q",
+      "Nuxt.js",
+      "SMC",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "halstead.info",
     "title": "Halstead - Jewelry Supplies",
     "business_name": "Halstead - Jewelry Supplies",
@@ -1697,38 +1731,6 @@
     ]
   },
   {
-    "domain": "partner.co",
-    "title": "Partner.Co™",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 13858,
-    "crawled_at": "2026-04-18T06:17:20.008027093Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "ButterCMS",
-      "Ethy",
-      "Fireblade",
-      "GZIP Module",
-      "Imperva Bot Detection and Mitigation",
-      "Incapsula CDN",
-      "Instagram Follow Button",
-      "Next.js",
-      "Nginx",
-      "Perl",
-      "QUIC",
-      "Radix UI",
-      "Share Link",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "eLand",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "aminroslan.now.sh",
     "title": "Amin Roslan - Online Portfolio Home",
     "business_name": "",
@@ -2004,39 +2006,6 @@
       "Visual Studio",
       "jQuery",
       "xCharts"
-    ]
-  },
-  {
-    "domain": "workwithnikkichubb.com",
-    "title": "Day & Night Drops",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 24361,
-    "crawled_at": "2026-04-03T09:30:27.106640149Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Authorize.net",
-      "ButterCMS",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "DAV",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "No-Q",
-      "Nuxt.js",
-      "SMC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "YouTube",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   }
 ]
