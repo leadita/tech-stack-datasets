@@ -521,32 +521,5 @@
       "reCAPTCHA",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "data.ark.ai",
-    "title": "ARK AI ARTICLE LIBRARY - Find America’s Edge",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 29558,
-    "crawled_at": "2026-04-03T11:32:10.323459621Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "Intercom",
-      "Sajari",
-      "StackPath",
-      "jsDelivr"
-    ]
   }
 ]

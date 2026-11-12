@@ -5494,42 +5494,5 @@
       "jQuery",
       "route"
     ]
-  },
-  {
-    "domain": "harrisonproducts.co.uk",
-    "title": "Harrison Products | Point of Sale (POS) Display Components & Shopfitting Supplies",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 49700,
-    "crawled_at": "2026-04-03T07:44:19.987123379Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apps4BigCommerce",
-      "BigCommerce",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coming Soon Page",
-      "Cornerstone",
-      "Express",
-      "Fireblade",
-      "FormSubmit",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "IcoMoon",
-      "LinkedIn Insights",
-      "LinkedIn Pixel",
-      "MailChimp",
-      "POWr",
-      "Perl",
-      "QUIC",
-      "SearchSpring",
-      "Trustpilot Reviews for WordPress",
-      "UTF-8"
-    ]
   }
 ]
