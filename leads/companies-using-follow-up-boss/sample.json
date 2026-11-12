@@ -1,5 +1,62 @@
 [
   {
+    "domain": "datalabz.re",
+    "title": "DataLabz | Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 19660,
+    "crawled_at": "2026-11-12T07:56:15.920778588Z",
+    "technologies": [
+      "Apache",
+      "Better Lead Generation Services",
+      "Create React App",
+      "Follow Up Boss",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Helpwise",
+      "Mixpanel",
+      "OSS CDN",
+      "Pleroma",
+      "Tailwind CSS",
+      "Tapfiliate",
+      "UTF-8",
+      "Ubuntu",
+      "Ylopo"
+    ]
+  },
+  {
+    "domain": "eclipseoaklawn.com",
+    "title": "Home | Eclipse Oak Lawn",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 17292,
+    "crawled_at": "2026-11-12T06:47:00.360744564Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "Follow Up Boss",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "ResMan",
+      "Silicon Valley Web Hosting",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "madisonmanorsenior.com",
     "title": "Home | Madison Manor",
     "business_name": "",
@@ -13950,35 +14007,6 @@
       "Negate",
       "ResMan",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "datalabz.re",
-    "title": "DataLabz | Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 19660,
-    "crawled_at": "2026-04-03T08:35:20.000386409Z",
-    "technologies": [
-      "Apache",
-      "Better Lead Generation Services",
-      "Create React App",
-      "Follow Up Boss",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Helpwise",
-      "Mixpanel",
-      "OSS CDN",
-      "Pleroma",
-      "Tailwind CSS",
-      "Tapfiliate",
-      "UTF-8",
-      "Ubuntu",
-      "Ylopo"
     ]
   }
 ]
