@@ -1,5 +1,29 @@
 [
   {
+    "domain": "mymtd.co.uk",
+    "title": "Intuit",
+    "business_name": "",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 360,
+    "crawled_at": "2026-11-11T11:49:43.483148005Z",
+    "technologies": [
+      "Angular",
+      "Apache",
+      "Apple Auto Link Maker",
+      "ElementUI",
+      "GZIP Module",
+      "Google My Business",
+      "Google Play",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "busscpa.us",
     "title": "Expert Accounting & Advisory Services | Buss CPA",
     "business_name": "BussCPA",
@@ -10278,30 +10302,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "mymtd.co.uk",
-    "title": "Intuit",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 180,
-    "crawled_at": "2026-04-03T01:02:19.987644663Z",
-    "technologies": [
-      "Angular",
-      "Apache",
-      "Apple Auto Link Maker",
-      "ElementUI",
-      "GZIP Module",
-      "Google My Business",
-      "Google Play",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "YouTube",
-      "jsDelivr"
     ]
   }
 ]
