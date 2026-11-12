@@ -1,5 +1,38 @@
 [
   {
+    "domain": "racquetcourier.com",
+    "title": "NYC's Top Tennis Store - Racquet Stringing Services — NYC RACQUET SPORTS",
+    "business_name": "NYC Racquet Sports",
+    "country": "USA",
+    "seo_score": 92,
+    "tech_spend": 105045,
+    "crawled_at": "2026-11-12T02:47:41.585509095Z",
+    "technologies": [
+      "Accordion Blocks",
+      "Accordion FAQ",
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Contento",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Monsido",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "Yelp Badge",
+      "eLand"
+    ]
+  },
+  {
     "domain": "workplaceinclusion.org.nz",
     "title": "Te Uru Tāngata Centre for Workplace Inclusion home",
     "business_name": "",
@@ -1463,39 +1496,6 @@
       "WordPress Stats",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "nycracquetsports.net",
-    "title": "NYC's Top Tennis Store - Racquet Stringing Services — NYC RACQUET SPORTS",
-    "business_name": "NYC Racquet Sports",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 105045,
-    "crawled_at": "2026-10-27T17:12:57.944444126Z",
-    "technologies": [
-      "Accordion Blocks",
-      "Accordion FAQ",
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Contento",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Monsido",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "Yelp Badge",
-      "eLand"
     ]
   },
   {
