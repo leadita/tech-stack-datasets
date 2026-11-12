@@ -1,5 +1,39 @@
 [
   {
+    "domain": "basitazeem.info",
+    "title": "Basit Azeem Sheikh - Software Architect & AI Engineer",
+    "business_name": "Guava Trees Softech",
+    "country": "IND",
+    "seo_score": 77,
+    "tech_spend": 10068,
+    "crawled_at": "2026-11-12T22:17:17.372840972Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Apture Linking Platform",
+      "Astro",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Java EE",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Nginx",
+      "Oracle Cloud",
+      "Python",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "sweep2win.net",
     "title": "sweep2win | Get paid for your opinions and survey",
     "business_name": "",
@@ -13042,39 +13076,6 @@
       "FreeCSSTemplates",
       "Google Related Website Sites",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "basitazeem.info",
-    "title": "Basit Azeem Sheikh - Techno-Creative | Software Architect | AI Enthusiast",
-    "business_name": "Guava Trees Softech",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 10068,
-    "crawled_at": "2026-04-03T13:50:19.989360873Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Apture Linking Platform",
-      "Astro",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "Java EE",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Nginx",
-      "Oracle Cloud",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services"
     ]
   }
 ]
