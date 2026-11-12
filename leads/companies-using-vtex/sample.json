@@ -1,5 +1,68 @@
 [
   {
+    "domain": "loftystyle.com",
+    "title": "Lofty Style USA",
+    "business_name": "",
+    "country": "BRA",
+    "seo_score": 77,
+    "tech_spend": 93950,
+    "crawled_at": "2026-11-12T08:47:00.88221676Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "DC74",
+      "Express",
+      "Facebook Reseller",
+      "Fireblade",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Perl",
+      "QUIC",
+      "Render",
+      "Shipping Rates Calculator",
+      "Sitelinks Search Box",
+      "Storyblocks",
+      "Tailwind CSS",
+      "UTF-8",
+      "VTEX Personalization",
+      "Vector Internet Services",
+      "WhatsApp Sharing",
+      "dc.js"
+    ]
+  },
+  {
+    "domain": "marcos.id",
+    "title": "Marcos Oliveira",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 27500,
+    "crawled_at": "2026-11-11T16:36:30.289296058Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fireblade",
+      "GitHub Hosting",
+      "InitiativeS",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "UTF-8",
+      "VTEX Personalization"
+    ]
+  },
+  {
     "domain": "reavtex.com",
     "title": "Traditional Hand-Stitched Embroidery & Home Decor | REAVTEX",
     "business_name": "",
@@ -1518,28 +1581,6 @@
       "VTEX Personalization",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "marcos.id",
-    "title": "Marcos Oliveira",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 27500,
-    "crawled_at": "2026-04-03T02:53:19.994476151Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Fireblade",
-      "GitHub Hosting",
-      "InitiativeS",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "VTEX Personalization"
     ]
   }
 ]

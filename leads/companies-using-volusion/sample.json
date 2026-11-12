@@ -1,5 +1,31 @@
 [
   {
+    "domain": "mollyfrancis.com",
+    "title": "Molly Francis · Product Designer, Researcher and Leader",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 32508,
+    "crawled_at": "2026-11-12T06:34:13.292984159Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "AthenaHealth",
+      "Content Delivery Network",
+      "Express",
+      "Figma",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "Volusion Live Chat",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "free-floorplan-software.com",
     "title": "Easy To Use Floorplan Drawing Software",
     "business_name": "",
