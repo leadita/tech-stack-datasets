@@ -1,30 +1,64 @@
 [
   {
-    "domain": "westrockfinance.ca",
-    "title": "Equipment Financing, Capital Leases & Working Capital Loans | Westrock Finance | Western Canada",
-    "business_name": "",
-    "country": "MYS",
-    "seo_score": 67,
-    "tech_spend": 949,
-    "crawled_at": "2026-11-10T11:36:38.498775902Z",
+    "domain": "maxmotioninc.com",
+    "title": "MaxMotion - MaxMotion Inc",
+    "business_name": "MaxMotion Inc",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 2015,
+    "crawled_at": "2026-11-12T15:52:34.806522689Z",
     "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Automattic",
+      "Contact Form Plugin",
+      "Creative Mail by Constant Contact",
       "DocuSign",
-      "Elfsight",
-      "Formspree",
+      "Elementor",
+      "EmbedPress",
+      "GZIP Module",
       "Google Cloud DNS",
-      "Google Customer Reviews",
       "Google Font API",
-      "LiteSpeed"
+      "IcoMoon",
+      "Jetpack",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Tailwind CSS",
+      "Theme In WP",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "jQuery"
     ]
   },
   {
-    "domain": "mycvf.org",
+    "domain": "fortresssupplygroup.com",
+    "title": "Construction Material Supply & Financing | Fortress Supply Group",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 15540,
+    "crawled_at": "2026-11-12T04:37:05.130457701Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "DocuSign",
+      "Financial Services Guide",
+      "Next.js",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "mycvf.com",
     "title": "Christian Financial Credit Union | Personal & Business Banking",
     "business_name": "",
     "country": "USA",
     "seo_score": 82,
     "tech_spend": 174356,
-    "crawled_at": "2026-11-10T05:07:26.624180428Z",
+    "crawled_at": "2026-11-11T20:56:07.58639883Z",
     "technologies": [
       "501c3 Status Nonprofit",
       "Alternate Protocol",
@@ -77,6 +111,24 @@
       "jsDelivr",
       "reCAPTCHA",
       "shadcn ui"
+    ]
+  },
+  {
+    "domain": "westrockfinance.ca",
+    "title": "Equipment Financing, Capital Leases & Working Capital Loans | Westrock Finance | Western Canada",
+    "business_name": "",
+    "country": "MYS",
+    "seo_score": 67,
+    "tech_spend": 949,
+    "crawled_at": "2026-11-10T11:36:38.498775902Z",
+    "technologies": [
+      "DocuSign",
+      "Elfsight",
+      "Formspree",
+      "Google Cloud DNS",
+      "Google Customer Reviews",
+      "Google Font API",
+      "LiteSpeed"
     ]
   },
   {
@@ -10818,41 +10870,6 @@
       "Visual Studio",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "maxmotioninc.com",
-    "title": "MaxMotion - MaxMotion Inc",
-    "business_name": "MaxMotion Inc",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 3515,
-    "crawled_at": "2026-04-03T11:32:10.354192268Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Automattic",
-      "Contact Form Plugin",
-      "Creative Mail by Constant Contact",
-      "DocuSign",
-      "Elementor",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Jetpack",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "jQuery"
     ]
   }
 ]
