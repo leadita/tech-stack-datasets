@@ -7269,44 +7269,5 @@
       "eLand",
       "jQuery"
     ]
-  },
-  {
-    "domain": "nxt4sap.com",
-    "title": "NXT4SAP | Finance Automation",
-    "business_name": "NXT4SAP Pte. Ltd.",
-    "country": "SGP",
-    "seo_score": 77,
-    "tech_spend": 98517,
-    "crawled_at": "2026-04-03T09:08:20.001054445Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "DAV",
-      "DC74",
-      "Express",
-      "Fastly",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "Microsoft 365",
-      "NFOrce Internet",
-      "Outfunnel",
-      "PWA",
-      "Perl",
-      "QUIC",
-      "SMC",
-      "Sentry",
-      "SiteW",
-      "Social Intents",
-      "UTF-8",
-      "Vector Internet Services",
-      "WP Booking Calendar",
-      "Wix",
-      "Wix Media",
-      "mlcom"
-    ]
   }
 ]
