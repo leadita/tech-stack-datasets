@@ -1,5 +1,27 @@
 [
   {
+    "domain": "hhhpropertymgmt.com",
+    "title": "HHH Property Management",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": "",
+    "crawled_at": "2026-11-12T09:36:45.47726809Z",
+    "technologies": [
+      "Bulma",
+      "Django",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Nginx",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "greenlegalteam.com",
     "title": "Green & Schafle | Nationally Recognized Vaccine Injury Lawyers",
     "business_name": "",
@@ -8519,28 +8541,6 @@
       "Zope",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "hhhpropertymgmt.com",
-    "title": "HHH Property Management",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": "",
-    "crawled_at": "2026-04-03T09:12:29.79423497Z",
-    "technologies": [
-      "Bulma",
-      "Django",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Nginx",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Ubuntu",
-      "jQuery"
     ]
   }
 ]
