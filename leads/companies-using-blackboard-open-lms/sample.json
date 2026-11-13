@@ -3222,45 +3222,5 @@
       "jsDelivr",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "blacktom.com",
-    "title": "All‑in‑One AI Homework Helper for Every Subject to Study Smarter | BlackTom AI",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 72,
-    "tech_spend": 142439,
-    "crawled_at": "2026-04-03T16:59:19.983150868Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon",
-      "Apture Linking Platform",
-      "Blackboard Open LMS",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "DAV",
-      "Express",
-      "Fireblade",
-      "Google Analytics",
-      "Google Tag Manager",
-      "KVH",
-      "Next.js",
-      "Ntent",
-      "Onyx Internet",
-      "Perl",
-      "Python",
-      "QUIC",
-      "SMC",
-      "Tailwind CSS",
-      "Thank You",
-      "The Trade Desk Direct",
-      "UTF-8",
-      "University or College"
-    ]
   }
 ]
