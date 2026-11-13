@@ -1,5 +1,28 @@
 [
   {
+    "domain": "cleanbookkeeping.com.au",
+    "title": "Professional Bookkeeping Services for Small Businesses",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 3439,
+    "crawled_at": "2026-11-13T01:28:00.977563462Z",
+    "technologies": [
+      "DAV",
+      "GoDaddy",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "PWA",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight",
+      "Xero"
+    ]
+  },
+  {
     "domain": "horatii.co.uk",
     "title": "Horatii Consulting",
     "business_name": "",
@@ -18885,40 +18908,6 @@
       "Wix Media",
       "Xero",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "ebonyacc.com.au",
-    "title": "Home - Ebony Accounting Pty Ltd",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 4879,
-    "crawled_at": "2026-05-19T12:56:20.010206045Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Gravity",
-      "Gravity Forms",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "Xero",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]

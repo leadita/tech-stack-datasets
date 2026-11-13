@@ -1,5 +1,37 @@
 [
   {
+    "domain": "setsailks.com",
+    "title": "SetSail Kansas",
+    "business_name": "Ninnescah Sailing Association",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 1552,
+    "crawled_at": "2026-11-12T23:46:10.598212279Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "DAV",
+      "Express",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Ntent",
+      "Power BI",
+      "QUIC",
+      "Squarespace",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "cudioexperts.com",
     "title": "Leading Odoo Partner with 30+ Years Expertise | Cudio",
     "business_name": "Cudio",
@@ -7875,40 +7907,6 @@
       "YouTube",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "setsailks.org",
-    "title": "SetSail Kansas",
-    "business_name": "Ninnescah Sailing Association",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 4192,
-    "crawled_at": "2026-08-13T04:45:03.094128512Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Amazon",
-      "Aruba",
-      "DAV",
-      "Express",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Ntent",
-      "Power BI",
-      "QUIC",
-      "Squarespace",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vimeo",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "eLand"
     ]
   },
   {
