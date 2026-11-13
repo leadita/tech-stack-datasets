@@ -1,5 +1,80 @@
 [
   {
+    "domain": "thelgbtmpa.org",
+    "title": "LGBT Meeting Professionals Association",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 60,
+    "tech_spend": 129,
+    "crawled_at": "2026-11-13T13:09:22.164538745Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Chakra UI",
+      "CloudFront",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "codingo.sg",
+    "title": "Coding Assignment Help & Essay Writing Service Singapore",
+    "business_name": "Codingo",
+    "country": "SGP",
+    "seo_score": 77,
+    "tech_spend": 240,
+    "crawled_at": "2026-11-13T09:32:35.099387962Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Better Lead Generation Services",
+      "Chakra UI",
+      "Content Delivery Network",
+      "Express",
+      "Google Analytics",
+      "Help.com",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "QUIC",
+      "Telegram",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "WhatsApp Sharing"
+    ]
+  },
+  {
+    "domain": "arndt-benedikt.de",
+    "title": "Arndt Benedikt - Branding and Corporate Design",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 72,
+    "tech_spend": 228,
+    "crawled_at": "2026-11-12T21:10:09.570831233Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Chakra UI",
+      "Content Delivery Network",
+      "Gatsby JS",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Netlify",
+      "UTF-8",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "tmcleaningservice.com",
     "title": "TM CLEANING SERVICE",
     "business_name": "",
@@ -13191,78 +13266,6 @@
       "UTF-8",
       "Vercel",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "localprof.com",
-    "title": "Review management software | LocalProf",
-    "business_name": "",
-    "country": "",
-    "seo_score": 82,
-    "tech_spend": 48279,
-    "crawled_at": "2026-06-04T07:48:23.247903015Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "Chakra UI",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "DAV",
-      "Google Customer Reviews",
-      "Instagram Follow Button",
-      "Next.js",
-      "PWA",
-      "Pleroma",
-      "QUIC",
-      "The Fresh",
-      "UTF-8",
-      "Vercel",
-      "YouTube",
-      "monday.com"
-    ]
-  },
-  {
-    "domain": "californicanursery.com",
-    "title": "Californica Nursery",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2026-06-04T07:21:29.840610354Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "congdongthienvietnam.org",
-    "title": "Trang chủ - VMC: Chia sẻ về thiền, khoa học tâm thức",
-    "business_name": "",
-    "country": "THA",
-    "seo_score": 67,
-    "tech_spend": 40,
-    "crawled_at": "2026-06-04T06:29:28.533764101Z",
-    "technologies": [
-      "Chakra UI",
-      "Facebook Embedded Posts",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Nginx",
-      "Pleroma",
-      "Sitelinks Search Box",
-      "UTF-8",
-      "Ubuntu",
-      "YouTube"
     ]
   }
 ]
