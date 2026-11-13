@@ -1,21 +1,20 @@
 [
   {
-    "domain": "kern-iop.tech",
+    "domain": "agrob.agr.nz",
     "title": "Grafana",
     "business_name": "",
     "country": "",
     "seo_score": 30,
-    "tech_spend": 1200,
-    "crawled_at": "2026-11-11T18:08:47.323228378Z",
+    "tech_spend": 1260,
+    "crawled_at": "2026-11-13T11:11:53.072060128Z",
     "technologies": [
-      "Apache",
       "Barchart",
       "Express",
-      "GZIP Module",
       "GitHub Hosting",
       "Grafana",
+      "Subversion",
       "UTF-8",
-      "Ubuntu"
+      "Yandex Hosting"
     ]
   },
   {
@@ -38,25 +37,37 @@
     ]
   },
   {
-    "domain": "batviot.com",
+    "domain": "iot-dgr.com",
     "title": "Grafana",
     "business_name": "",
     "country": "",
-    "seo_score": 45,
-    "tech_spend": 11200,
-    "crawled_at": "2026-11-10T07:47:09.563371692Z",
+    "seo_score": 30,
+    "tech_spend": 1200,
+    "crawled_at": "2026-11-08T10:07:44.387275549Z",
     "technologies": [
       "Barchart",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Contento",
-      "DAV",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Grafana",
+      "Nginx",
+      "UTF-8",
+      "Ubuntu"
+    ]
+  },
+  {
+    "domain": "watermetrics.online",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 1200,
+    "crawled_at": "2026-10-31T16:58:52.072484513Z",
+    "technologies": [
+      "Barchart",
       "Express",
       "GitHub Hosting",
       "Grafana",
-      "Ntent",
-      "RawGit",
       "UTF-8"
     ]
   },
@@ -98,28 +109,6 @@
       "Nginx",
       "UTF-8",
       "Ubuntu"
-    ]
-  },
-  {
-    "domain": "schuler-valuestream.net",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 1260,
-    "crawled_at": "2026-10-20T14:45:56.753043469Z",
-    "technologies": [
-      "Apache",
-      "Barchart",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Forms",
-      "Google My Business",
-      "Grafana",
-      "UTF-8",
-      "Ubuntu",
-      "Yandex Hosting"
     ]
   },
   {
