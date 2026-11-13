@@ -1,5 +1,31 @@
 [
   {
+    "domain": "aniruddha.fyi",
+    "title": "Aniruddha Bagal's Portfolio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 1010,
+    "crawled_at": "2026-11-12T17:40:47.209953542Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "Hasnode",
+      "NFOrce Internet",
+      "Next.js",
+      "Nginx",
+      "Pleroma",
+      "QUIC",
+      "Sanity",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "cstate"
+    ]
+  },
+  {
     "domain": "gdgsiliguri.com",
     "title": "GDG Siliguri",
     "business_name": "GDG Siliguri",
@@ -11349,32 +11375,6 @@
       "Medium",
       "Microdata for Google Shopping",
       "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "aniruddha.fyi",
-    "title": "Aniruddha Bagal's Portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 1010,
-    "crawled_at": "2026-04-03T12:11:19.981793105Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Content Delivery Network",
-      "Express",
-      "GitHub Hosting",
-      "Hasnode",
-      "NFOrce Internet",
-      "Next.js",
-      "Nginx",
-      "Pleroma",
-      "QUIC",
-      "Sanity",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "cstate"
     ]
   }
 ]

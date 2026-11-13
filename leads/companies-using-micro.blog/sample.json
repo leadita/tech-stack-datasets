@@ -1,5 +1,35 @@
 [
   {
+    "domain": "getswifty.blog",
+    "title": "GetSwifty",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 25601,
+    "crawled_at": "2026-11-12T19:28:53.954169882Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Line2",
+      "Magento Enterprise",
+      "Micro.blog",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "chrisdeluca.me",
     "title": "Chris DeLuca - Chris DeLuca",
     "business_name": "",
@@ -7466,40 +7496,6 @@
       "Plausible Analytics",
       "Ubuntu",
       "Write.as"
-    ]
-  },
-  {
-    "domain": "getswifty.blog",
-    "title": "GetSwifty",
-    "business_name": "",
-    "country": "IMN",
-    "seo_score": 72,
-    "tech_spend": 78893,
-    "crawled_at": "2026-04-03T12:50:19.985369522Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "Magento Enterprise",
-      "Micro.blog",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "Unix",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
