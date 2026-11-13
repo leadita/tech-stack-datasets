@@ -1,5 +1,43 @@
 [
   {
+    "domain": "platformtoemployment.com",
+    "title": "Platform to Employment | Make Employment Happen",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 23925,
+    "crawled_at": "2026-11-12T18:27:30.841102563Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apache",
+      "Constant Contact",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "Express",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Lazy Load for WordPress",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "QUIC",
+      "UTF-8",
+      "University or College",
+      "WP Rocket",
+      "WordPress",
+      "WordPress Multisite",
+      "Workplace from Meta",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "northgeorgiacompliance.com",
     "title": "North Georgia Compliance | OSHA Training, Safety & Workplace Compliance — Canton, GA",
     "business_name": "",
@@ -8663,34 +8701,6 @@
       "Yelp Badge",
       "YouTube",
       "eLand",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "deltabenefits.com",
-    "title": "Delta Benefits",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 39367,
-    "crawled_at": "2026-04-03T17:20:19.986335452Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "AWS WAF Challenge",
-      "App Store",
-      "Apple Auto Link Maker",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Content Delivery Network",
-      "Fireblade",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "Netlify",
-      "UTF-8",
-      "Workplace from Meta",
       "jQuery"
     ]
   }
