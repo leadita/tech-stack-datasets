@@ -1,5 +1,134 @@
 [
   {
+    "domain": "iflux.app",
+    "title": "Home Page - Flux",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 28686,
+    "crawled_at": "2026-11-13T20:29:22.729845307Z",
+    "technologies": [
+      "Alternate Protocol",
+      "App Store",
+      "Apyl",
+      "Content Delivery Network",
+      "DAV",
+      "DC74",
+      "Financial Services Guide",
+      "Gomag",
+      "Google My Business",
+      "Google Play",
+      "Gridsome",
+      "Idaq",
+      "Instagram Follow Button",
+      "Intercom",
+      "K2F",
+      "KVH",
+      "Nationwide Mortgage Licensing System and Registry",
+      "Netlify",
+      "No-Q",
+      "SMC",
+      "Subversion",
+      "Twitter Ads",
+      "UTF-8",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "cryptium.com",
+    "title": "Cryptium - cryptium.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 8000,
+    "crawled_at": "2026-11-13T20:29:22.722174289Z",
+    "technologies": [
+      "GZIP Module",
+      "Gridsome",
+      "HMDG",
+      "Nginx",
+      "PWA",
+      "Subversion",
+      "Twitter Ads",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "digitalstate.co.uk",
+    "title": "Digital State - Digital State",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 7697,
+    "crawled_at": "2026-11-13T20:12:14.466463824Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Federal Deposit Insurance Corporation",
+      "Financial Services Guide",
+      "Font Awesome",
+      "GZIP Module",
+      "Gridsome",
+      "KVH",
+      "Netlify",
+      "No-Q",
+      "Onyx Internet",
+      "QUIC",
+      "Subversion",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "brianvanwinkle.com",
+    "title": "Homepage",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 284,
+    "crawled_at": "2026-11-13T11:35:32.923274572Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Gridsome",
+      "Prismic",
+      "QUIC",
+      "Svelte",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Unsplash",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "practice.inc",
+    "title": "Practice",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 6416,
+    "crawled_at": "2026-11-13T10:21:07.576784543Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Angular",
+      "Content Delivery Network",
+      "Gridsome",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Microsoft Clarity",
+      "Netlify",
+      "Sanity",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "spartanbio.com",
     "title": "The power of DNA testing for everyone - Spartan Bioscience Inc.",
     "business_name": "",
@@ -95,23 +224,6 @@
       "No-Q",
       "SMC",
       "Subversion"
-    ]
-  },
-  {
-    "domain": "etherpass.io",
-    "title": "Home - EtherPass",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-11-08T07:56:31.297675846Z",
-    "technologies": [
-      "DAV",
-      "GZIP Module",
-      "Gridsome",
-      "Nginx",
-      "PWA",
-      "Tailwind CSS"
     ]
   },
   {
@@ -11809,84 +11921,6 @@
       "Webflow",
       "Website Tonight",
       "ashop"
-    ]
-  },
-  {
-    "domain": "bonbox.ca",
-    "title": "Home | BonBox - Staff gifts they’ll love",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 1176,
-    "crawled_at": "2026-04-10T18:48:09.353059298Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "Netlify",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "babic-cibaric.com",
-    "title": "Odvjetničko društvo BABIĆ & ČIBARIĆ",
-    "business_name": "",
-    "country": "HRV",
-    "seo_score": 35,
-    "tech_spend": 23000,
-    "crawled_at": "2026-04-10T15:52:03.583919111Z",
-    "technologies": [
-      "Gridsome",
-      "HMDG",
-      "Nginx",
-      "SMC",
-      "Subversion",
-      "Tailwind CSS",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "vjpnegocios.com.uy",
-    "title": "VJP Negocios - Inicio - VJP Negocios",
-    "business_name": "",
-    "country": "URY",
-    "seo_score": 72,
-    "tech_spend": 13098,
-    "crawled_at": "2026-04-10T14:56:19.994530903Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Financial Services Guide",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Netlify",
-      "No-Q",
-      "Phew",
-      "Pico CSS",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "advanced-isys.com",
-    "title": "AIS - Advanced Intelligent Systems",
-    "business_name": "",
-    "country": "MOZ",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-04-10T10:26:20.005616833Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Content Delivery Network",
-      "Gridsome",
-      "Netlify",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]
