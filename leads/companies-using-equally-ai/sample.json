@@ -1,5 +1,32 @@
 [
   {
+    "domain": "sreventplanning.com",
+    "title": "Corporate Event Planner in Orange County, CA | Simply Radiant Events",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 19497,
+    "crawled_at": "2026-11-12T16:40:23.912931126Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Equally AI",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Interchange",
+      "Microdata for Google Shopping",
+      "Perl",
+      "QUIC",
+      "Termly",
+      "Twitter Ads",
+      "Unsplash",
+      "Zyro"
+    ]
+  },
+  {
     "domain": "alesomarketinggroup.com",
     "title": "Custom Website Development & Online Marketing | ALESO",
     "business_name": "",
