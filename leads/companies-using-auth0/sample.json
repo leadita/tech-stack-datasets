@@ -1,5 +1,55 @@
 [
   {
+    "domain": "meterian-io.com",
+    "title": "Open Source Security Management Meterian Vulnerability Scanner",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 20308,
+    "crawled_at": "2026-11-13T14:55:03.875468359Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "Auth0",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fireblade",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "Ntent",
+      "PHP",
+      "Perl",
+      "Python",
+      "QUIC",
+      "RawGit",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "Visual Studio",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "frontgen.com",
+    "title": "Frontgen | AI Content Creation",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 3,
+    "crawled_at": "2026-11-12T21:39:46.52209345Z",
+    "technologies": [
+      "Auth0",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "luzernsolutions.com",
     "title": "Home - Luzern",
     "business_name": "Luzern eCommerce",
@@ -11487,40 +11537,6 @@
     ]
   },
   {
-    "domain": "meterian.com",
-    "title": "Open Source Security Management Meterian Vulnerability Scanner",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 20308,
-    "crawled_at": "2026-05-18T01:48:03.944839146Z",
-    "technologies": [
-      "Apache",
-      "Auth0",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fireblade",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Ntent",
-      "PHP",
-      "Perl",
-      "Python",
-      "QUIC",
-      "RawGit",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "Visual Studio",
-      "YouTube",
-      "jQuery"
-    ]
-  },
-  {
     "domain": "pro.life",
     "title": "Pro.life: Home",
     "business_name": "",
@@ -21751,30 +21767,6 @@
       "Wix Media",
       "YouTube",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "coverjig.com",
-    "title": "Coverjig | Book cover maker for Amazon KDP",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 22360,
-    "crawled_at": "2026-04-10T22:47:19.998645389Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Auth0",
-      "CDN JS",
-      "CloudFront",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Heroku",
-      "Nuxt.js",
-      "QUIC",
-      "Snowplow",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
