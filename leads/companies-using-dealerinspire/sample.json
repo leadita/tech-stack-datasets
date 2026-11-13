@@ -1,5 +1,37 @@
 [
   {
+    "domain": "jenpaulson.com",
+    "title": "serenogroup – Just another WordPress site",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 12102,
+    "crawled_at": "2026-11-13T03:43:28.196919681Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Coming Soon Page",
+      "Contact Form Plugin",
+      "Content Delivery Network",
+      "DealerInspire",
+      "EmbedPress",
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Font API",
+      "PHP",
+      "Photo Gallery for WordPress",
+      "QUIC",
+      "Tailwind CSS",
+      "Theme In WP",
+      "Twenty Seventeen",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "mplsmillers.org",
     "title": "Minneapolis Youth Baseball Association",
     "business_name": "",
@@ -10130,38 +10162,6 @@
       "UTF-8",
       "Way",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "jenpaulson.com",
-    "title": "serenogroup – Just another WordPress site",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 12102,
-    "crawled_at": "2026-04-03T15:50:19.995050464Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Alternate Protocol",
-      "Cloudflare",
-      "Coming Soon Page",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "DealerInspire",
-      "EmbedPress",
-      "Font Awesome",
-      "Google Cloud DNS",
-      "Google Font API",
-      "PHP",
-      "Photo Gallery for WordPress",
-      "QUIC",
-      "Tailwind CSS",
-      "Theme In WP",
-      "Twenty Seventeen",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
