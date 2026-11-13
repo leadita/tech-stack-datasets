@@ -13039,43 +13039,5 @@
       "jsDelivr",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "naftosense.com",
-    "title": "Naftosense - Designing and Manufacturing Engineered Hydrocarbon Leak Detection Systems",
-    "business_name": "",
-    "country": "IRL",
-    "seo_score": 62,
-    "tech_spend": 840,
-    "crawled_at": "2026-04-03T18:50:20.001940858Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Clicky",
-      "FreeCSSTemplates",
-      "Google Related Website Sites",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "thomassalesinc.com",
-    "title": "Thomas Sales and Marketing",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2026-04-03T18:50:20.001524691Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Clicky",
-      "DAV",
-      "FreeCSSTemplates",
-      "Google Related Website Sites",
-      "UTF-8"
-    ]
   }
 ]
