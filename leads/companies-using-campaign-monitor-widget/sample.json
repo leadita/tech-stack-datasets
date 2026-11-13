@@ -1,5 +1,35 @@
 [
   {
+    "domain": "wildlabs.co",
+    "title": "Wildlabs – Driving digital excellence",
+    "business_name": "",
+    "country": "NZL",
+    "seo_score": 87,
+    "tech_spend": 29524,
+    "crawled_at": "2026-11-13T04:23:11.546588663Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon Link Enchancer",
+      "Amazon Widgets",
+      "Campaign Monitor Widget",
+      "Content Delivery Network",
+      "Corporate Governance and Regulatory Compliance",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Idaq",
+      "NFOrce Internet",
+      "Next.js",
+      "QUIC",
+      "RM Education",
+      "Sanity",
+      "Shopify",
+      "Statamic",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "mitchellfarmsevents.com",
     "title": "Ultimate Fall Fun at Mitchell Farms - Noah's Ark Corn Maze, Pumpkin Patch & Family Activities in Altoona, PA",
     "business_name": "Mitchell Family Farms",
