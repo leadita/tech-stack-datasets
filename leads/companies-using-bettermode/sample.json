@@ -1,5 +1,37 @@
 [
   {
+    "domain": "sdartshub.com",
+    "title": "San Diego ArtsHub",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 73256,
+    "crawled_at": "2026-11-12T21:10:09.58273029Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon WAF Blocked",
+      "BetterMode",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "DAV",
+      "ElementUI",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Forms",
+      "Google My Business",
+      "Imgix",
+      "PWA",
+      "QUIC",
+      "SMC",
+      "Tailwind CSS",
+      "Tribe.so",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "freepetlotto.com",
     "title": "Free Pet Lotto - The #1 Free To Play Pet Lottery",
     "business_name": "",
@@ -1751,37 +1783,6 @@
       "Twitter Ads",
       "Vector Internet Services",
       "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "sdartshub.com",
-    "title": "San Diego ArtsHub",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 70856,
-    "crawled_at": "2026-04-03T13:23:20.01036797Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "BetterMode",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "DAV",
-      "ElementUI",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Forms",
-      "Google My Business",
-      "Imgix",
-      "PWA",
-      "QUIC",
-      "SMC",
-      "Tailwind CSS",
-      "Tribe.so",
-      "Vector Internet Services",
       "shadcn ui"
     ]
   }
