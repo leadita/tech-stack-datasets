@@ -1,5 +1,45 @@
 [
   {
+    "domain": "fighting60.com",
+    "title": "An EMDN - Fighting 60, Military Unit Regiment Honor Strength Discipline History Courage Brotherhood Defense",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 36,
+    "crawled_at": "2026-11-13T12:28:44.631017182Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "modmatch.com",
+    "title": "ModMatch",
+    "business_name": "",
+    "country": "",
+    "seo_score": 32,
+    "tech_spend": 36,
+    "crawled_at": "2026-11-13T12:17:18.89179865Z",
+    "technologies": [
+      "Coming Soon Page",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "michaelmaui.com",
     "title": "This website or DOMAIN NAME may be for sale.",
     "business_name": "",
@@ -115,28 +155,6 @@
       "WP Cloud",
       "Website Tonight",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "thelineinn.com",
-    "title": "An EMDN - The Line Inn, Luxury Boutique Hotel Futuristic Design Sustainable Architecture Neom Smart Hospitality Modern Amenities Eco-Friendly Accommodation Exclusive Stay Destination Resort Innovative Tourism",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 120,
-    "crawled_at": "2026-10-28T08:46:48.127000417Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "UTF-8"
     ]
   },
   {
@@ -4474,23 +4492,6 @@
       "Font Awesome",
       "GZIP Module",
       "InitiativeS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "modmatch.com",
-    "title": "ModMatch",
-    "business_name": "",
-    "country": "",
-    "seo_score": 27,
-    "tech_spend": 36,
-    "crawled_at": "2026-04-03T18:50:20.009416226Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Instagram Follow Button",
       "UTF-8"
     ]
   }
