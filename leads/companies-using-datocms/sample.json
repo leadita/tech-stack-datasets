@@ -1,5 +1,115 @@
 [
   {
+    "domain": "9elements.de",
+    "title": "Home - 9elements",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 67,
+    "tech_spend": 23712,
+    "crawled_at": "2026-11-13T06:52:24.243020651Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Matomo",
+      "MyFonts",
+      "Netlify",
+      "Pico CSS",
+      "SalesViewer",
+      "Svelte",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "earlyworks.io",
+    "title": "Early Works",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 62,
+    "tech_spend": 30128,
+    "crawled_at": "2026-11-12T23:26:56.166091735Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DatoCMS",
+      "DoubleClick Bid Manager",
+      "Full Media",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Idaq",
+      "Next.js",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "hypetype.studio",
+    "title": "HYPE TYPE STUDIO",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 5788,
+    "crawled_at": "2026-11-12T22:40:24.672300244Z",
+    "technologies": [
+      "ArvanCloud",
+      "Astro",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Idaq",
+      "Instagram Follow Button",
+      "Subversion",
+      "UTF-8",
+      "Vercel",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "brewingindustryguide.com",
+    "title": "Brewing Industry Guide - Insights, Strategy, and Trends for Breweries",
+    "business_name": "",
+    "country": "SWE",
+    "seo_score": 72,
+    "tech_spend": 72684,
+    "crawled_at": "2026-11-12T20:32:03.972944778Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Content Delivery Network",
+      "DatoCMS",
+      "DoubleClick Bid Manager",
+      "Drip",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "JW Player Platform",
+      "Next.js",
+      "Pleroma",
+      "SMC",
+      "Tapfiliate",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "beerandbrewing.com",
     "title": "Craft Beer & Brewing - Craft Beer Recipes, Reviews, and Industry News",
     "business_name": "",
@@ -9153,33 +9263,6 @@
     ]
   },
   {
-    "domain": "9elements.us",
-    "title": "Home - 9elements",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 72,
-    "tech_spend": 23712,
-    "crawled_at": "2026-08-01T09:29:45.386208856Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "DatoCMS",
-      "Google Related Website Sites",
-      "Instagram Follow Button",
-      "Matomo",
-      "MyFonts",
-      "Netlify",
-      "Pico CSS",
-      "SalesViewer",
-      "Svelte",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "sticknstep.org",
     "title": "Stick 'n' Step | Supporting children with cerebral palsy",
     "business_name": "",
@@ -9816,32 +9899,6 @@
     ]
   },
   {
-    "domain": "earlyworks.studio",
-    "title": "Early Works",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 30167,
-    "crawled_at": "2026-06-09T18:23:33.610602777Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "DatoCMS",
-      "DoubleClick Bid Manager",
-      "Financial Services Guide",
-      "Full Media",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Idaq",
-      "Next.js",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
     "domain": "hoxtoncapital.com",
     "title": "Home | Hoxton Wealth",
     "business_name": "",
@@ -10259,29 +10316,6 @@
       "Subversion",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "paulhutchison.co",
-    "title": "HYPE TYPE STUDIO",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 62,
-    "tech_spend": 5788,
-    "crawled_at": "2026-06-05T09:09:20.855954103Z",
-    "technologies": [
-      "ArvanCloud",
-      "Astro",
-      "Content Delivery Network",
-      "DatoCMS",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Idaq",
-      "Instagram Follow Button",
-      "Subversion",
-      "UTF-8",
-      "Vercel",
-      "jsDelivr"
     ]
   },
   {
@@ -14287,32 +14321,6 @@
       "UTF-8",
       "University or College",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "localremote.co",
-    "title": "We are Local Remote.",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 72,
-    "tech_spend": 40128,
-    "crawled_at": "2026-05-11T17:56:19.993890021Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "DatoCMS",
-      "Fireblade",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Idaq",
-      "Instagram Follow Button",
-      "KVH",
-      "Subversion",
-      "Svelte",
-      "UTF-8",
-      "Vimeo"
     ]
   }
 ]
