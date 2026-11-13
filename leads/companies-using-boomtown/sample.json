@@ -1,5 +1,26 @@
 [
   {
+    "domain": "michaellangley.com",
+    "title": "Michael Langley | Software Engineer",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 75,
+    "tech_spend": 18244,
+    "crawled_at": "2026-11-12T22:40:24.685632901Z",
+    "technologies": [
+      "3D FlipBook",
+      "Apache",
+      "Apture Linking Platform",
+      "Boomtown ROI",
+      "Content Delivery Network",
+      "Google My Business",
+      "Netlify",
+      "Python",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "legend-realty.com",
     "title": "North Alabama Real Estate | Legend Realty | Serving your real estate needs in North Alabama",
     "business_name": "",
@@ -3016,27 +3037,6 @@
       "WordPress",
       "WordPress Multisite",
       "eLand"
-    ]
-  },
-  {
-    "domain": "michaellangley.com",
-    "title": "Michael Langley | Software Engineer",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 70,
-    "tech_spend": 18244,
-    "crawled_at": "2026-04-03T13:59:20.005198425Z",
-    "technologies": [
-      "3D FlipBook",
-      "Apache",
-      "Apture Linking Platform",
-      "Boomtown ROI",
-      "Content Delivery Network",
-      "Google My Business",
-      "Netlify",
-      "Python",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]
