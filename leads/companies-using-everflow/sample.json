@@ -1,5 +1,23 @@
 [
   {
+    "domain": "illumaband.com",
+    "title": "ILLUMABAND | We search worldwide to find the latest top trending new products. From home goods to electronics and more. Find the coolest deals here at Illumaband.com!",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 20000,
+    "crawled_at": "2026-11-13T03:32:28.337269689Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "Everflow",
+      "Jekyll",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "vitalpromise.shop",
     "title": "Home",
     "business_name": "",
@@ -7713,24 +7731,6 @@
       "jQuery",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "illumaband.com",
-    "title": "ILLUMABAND | We search worldwide to find the latest top trending new products. From home goods to electronics and more. Find the coolest deals here at Illumaband.com!",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 20000,
-    "crawled_at": "2026-04-03T15:44:20.014075951Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "Everflow",
-      "Jekyll",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
