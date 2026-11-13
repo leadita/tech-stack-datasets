@@ -1,5 +1,36 @@
 [
   {
+    "domain": "theunryvanstaden.co.za",
+    "title": "Theunry van Staden | attooh! Your Wealth Solution",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 62,
+    "tech_spend": 23960,
+    "crawled_at": "2026-11-13T02:27:46.111061265Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon S3 CDN",
+      "Authorize.net",
+      "Content Delivery Network",
+      "DAV",
+      "Financial Services Guide",
+      "Fireblade",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google Font API",
+      "Nuxt.js",
+      "QUIC",
+      "Storyblocks",
+      "UTF-8",
+      "Vimeo",
+      "Vimeo CDN",
+      "eMoney"
+    ]
+  },
+  {
     "domain": "riaedge-event.com",
     "title": "Wealth Management EDGE | A wealth management conference focused on investment, technology & practice management",
     "business_name": "",
@@ -1475,37 +1506,6 @@
       "WordPress",
       "WordPress Multisite",
       "YouTube",
-      "eMoney"
-    ]
-  },
-  {
-    "domain": "theunryvanstaden.co.za",
-    "title": "Theunry van Staden | attooh! Your Wealth Solution",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 67,
-    "tech_spend": 23960,
-    "crawled_at": "2026-04-03T15:25:45.005336592Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon S3 CDN",
-      "Authorize.net",
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Nuxt.js",
-      "QUIC",
-      "Storyblocks",
-      "UTF-8",
-      "Vimeo",
-      "Vimeo CDN",
       "eMoney"
     ]
   }
