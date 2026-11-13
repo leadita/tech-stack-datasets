@@ -1,5 +1,26 @@
 [
   {
+    "domain": "proper-digital.com",
+    "title": "Shopify Agency in Manchester | Proper Digital",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 16882,
+    "crawled_at": "2026-11-13T06:30:04.823946796Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Google Analytics",
+      "Google Tag Manager",
+      "ShipStation",
+      "Shopify",
+      "Tailwind CSS",
+      "Unsplash",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "blink23.com",
     "title": "Blink23 | Marketplace",
     "business_name": "",
@@ -3613,28 +3634,6 @@
       "ZocDoc",
       "eLand",
       "microCMS"
-    ]
-  },
-  {
-    "domain": "proper-digital.com",
-    "title": "Shopify Agency in Manchester | Proper Digital",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 16882,
-    "crawled_at": "2026-04-03T16:47:19.977312108Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Microdata for Google Shopping",
-      "ShipStation",
-      "Shopify",
-      "Shopify Collabs",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "Unsplash",
-      "shadcn ui"
     ]
   }
 ]
