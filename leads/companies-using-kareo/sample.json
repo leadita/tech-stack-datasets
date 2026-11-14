@@ -1,5 +1,36 @@
 [
   {
+    "domain": "theulcerdoctor.com",
+    "title": "PACIFIC PODIATRY CENTER",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 9046,
+    "crawled_at": "2026-11-13T18:58:44.725094423Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Kareo",
+      "PHP",
+      "Sucuri Cloudproxy",
+      "Theme In WP",
+      "UTF-8",
+      "University or College",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "mindfulpsychnp.com",
     "title": "MINDFUL PSYCH",
     "business_name": "",
@@ -1169,37 +1200,6 @@
       "WordPress Related Posts",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "pacificpodiatrycenter.com",
-    "title": "PACIFIC PODIATRY CENTER",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 9046,
-    "crawled_at": "2026-10-29T21:23:02.221752313Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Divi",
-      "Elegant Themes",
-      "EmbedPress",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Kareo",
-      "PHP",
-      "Sucuri Cloudproxy",
-      "Theme In WP",
-      "UTF-8",
-      "University or College",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   },
   {
