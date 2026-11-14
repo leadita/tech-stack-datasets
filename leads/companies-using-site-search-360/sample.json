@@ -1,5 +1,33 @@
 [
   {
+    "domain": "secpghca.org",
+    "title": "Home : South End Charlton-Pollard Greater Historic Community Association",
+    "business_name": "1045 Doucette St",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 27268,
+    "crawled_at": "2026-11-14T20:54:27.171679216Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "Baidu Cloud",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "InitiativeS",
+      "Microdata for Google Shopping",
+      "Prospective",
+      "Python",
+      "QUIC",
+      "Site Search 360",
+      "UTF-8",
+      "Yandex Hosting",
+      "Zeffy"
+    ]
+  },
+  {
     "domain": "snail-mail.co.uk",
     "title": "IMS Royal Mail Authorised franking machine specialists in Berkshire",
     "business_name": "International Mailing Systems Ltd",
@@ -16243,26 +16271,6 @@
       "Site Search 360",
       "UTF-8",
       "Yandex Hosting"
-    ]
-  },
-  {
-    "domain": "northtexassurgery.com",
-    "title": "North Texas Surgery: Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 50,
-    "tech_spend": "",
-    "crawled_at": "2026-04-23T07:32:19.9925345Z",
-    "technologies": [
-      "Apache",
-      "Bulma",
-      "CakePHP",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Site Search 360",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
