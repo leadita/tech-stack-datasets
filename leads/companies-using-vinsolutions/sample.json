@@ -4032,26 +4032,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "dealerreconsystems.com",
-    "title": "DRS — Dealer Recon Systems | Complete Dealer Management System",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 22575,
-    "crawled_at": "2026-04-03T20:14:19.993920953Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Fastly",
-      "FormSubmit",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Thank You",
-      "UTF-8",
-      "VinSolutions"
-    ]
   }
 ]
