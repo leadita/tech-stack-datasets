@@ -1,5 +1,26 @@
 [
   {
+    "domain": "openidc.com",
+    "title": "OpenIDC — OpenID Connect | Open Source | Access Management",
+    "business_name": "OpenIDC",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 52700,
+    "crawled_at": "2026-11-13T19:16:49.147832149Z",
+    "technologies": [
+      "Apache",
+      "Apture Linking Platform",
+      "Automattic",
+      "Cisco/Arrowpoint Content Service Switch",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Oracle Cloud",
+      "Ping Identity",
+      "University or College"
+    ]
+  },
+  {
     "domain": "iampriyanshi.com",
     "title": "Priyanshi Bhatnagar | AI Researcher & Co-Founder",
     "business_name": "",
