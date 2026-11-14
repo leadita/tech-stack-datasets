@@ -1,5 +1,27 @@
 [
   {
+    "domain": "meijing.org",
+    "title": "Layla Cheng — Portfolio",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 15000,
+    "crawled_at": "2026-11-14T07:50:04.57229687Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apture Linking Platform",
+      "Express",
+      "Google Looker Studio",
+      "Google My Business",
+      "LiteSpeed",
+      "Python",
+      "QUIC",
+      "Tailwind CSS",
+      "University or College",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "jamaicatradeportal.net",
     "title": "Home",
     "business_name": "",
