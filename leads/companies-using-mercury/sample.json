@@ -9405,43 +9405,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "richard-casino-canada.com",
-    "title": "Richard Casino Canada – Top Games and Welcome Bonus",
-    "business_name": "Richard Casino Canada",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 17858,
-    "crawled_at": "2026-04-03T22:14:19.99882795Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Be Gamble Aware",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Easy Table of Contents",
-      "EmbedPress",
-      "Fireblade",
-      "Gambling Content",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Lazy Load for WordPress",
-      "Mercury",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Structured Content for WordPress",
-      "UTF-8",
-      "WP Rocket",
-      "WordPress",
-      "WordPress Multisite"
-    ]
   }
 ]
