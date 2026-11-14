@@ -16725,35 +16725,5 @@
       "YouTube",
       "jQuery"
     ]
-  },
-  {
-    "domain": "oxa.org",
-    "title": "Ottawa Executives' Association – Elite Business Networking Organization",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 65,
-    "tech_spend": 3749,
-    "crawled_at": "2026-04-04T01:32:19.984845287Z",
-    "technologies": [
-      "AddThisEvent",
-      "Alternate Protocol",
-      "Amazon",
-      "Cloudflare",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Express",
-      "Google Analytics",
-      "Google Forms",
-      "Google My Business",
-      "Google Tag Manager",
-      "PHP",
-      "Smartsheet",
-      "Theme In WP",
-      "Twitter Ads",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
