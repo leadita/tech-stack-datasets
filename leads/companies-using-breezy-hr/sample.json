@@ -17253,35 +17253,5 @@
       "Workday",
       "eLand"
     ]
-  },
-  {
-    "domain": "zepherflight.com",
-    "title": "Zepher Flight Labs",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 27425,
-    "crawled_at": "2026-04-04T05:59:19.980694164Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Breezy HR",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "Pico CSS",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "Vimeo",
-      "Vimeo CDN",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
-    ]
   }
 ]
