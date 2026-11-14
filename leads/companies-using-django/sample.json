@@ -8514,38 +8514,5 @@
       "UTF-8",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "infobook.uz",
-    "title": "9-sinf informatika",
-    "business_name": "",
-    "country": "UZB",
-    "seo_score": 65,
-    "tech_spend": 25429,
-    "crawled_at": "2026-04-03T22:41:54.825683532Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Create React App",
-      "DAV",
-      "Django",
-      "Ektron",
-      "Font Awesome",
-      "GZIP Module",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Nginx",
-      "No-Q",
-      "Pleroma",
-      "Python",
-      "QUIC",
-      "Telegram",
-      "UTF-8",
-      "Ubuntu",
-      "University or College",
-      "YouTube",
-      "jQuery"
-    ]
   }
 ]
