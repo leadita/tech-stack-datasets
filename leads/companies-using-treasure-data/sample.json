@@ -2044,48 +2044,5 @@
       "Treasure Data",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "marcopolo.dev",
-    "title": "MarcoPolo: Connect agentic AI to your internal data",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 285708,
-    "crawled_at": "2026-04-03T23:11:20.013685404Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "Apache",
-      "ArvanCloud",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Flow",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "HubSpot Conversations",
-      "Hubspot",
-      "IcoMoon",
-      "M247",
-      "Microdata for Google Shopping",
-      "OpenAI",
-      "Oracle Cloud",
-      "Python",
-      "Salesforce Hosted",
-      "Slack",
-      "Tailwind CSS",
-      "Treasure Data",
-      "UTF-8",
-      "WF Cookie Consent",
-      "Yandex Hosting",
-      "jsDelivr"
-    ]
   }
 ]
