@@ -1,5 +1,44 @@
 [
   {
+    "domain": "rodolfo-lima.com",
+    "title": "Home | My Site 3",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 26742,
+    "crawled_at": "2026-11-14T10:21:26.784879311Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Express",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "NFOrce Internet",
+      "Ntent",
+      "POWr",
+      "PWA",
+      "Python",
+      "QUIC",
+      "SMC",
+      "Seflow Italy",
+      "Sentry",
+      "SiteW",
+      "Tableau",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "Wix",
+      "Wix Media",
+      "WordPress Related Posts",
+      "mlcom"
+    ]
+  },
+  {
     "domain": "mofoprivacy.com",
     "title": "Privacy Law Library | Privacy Law Resources",
     "business_name": "",
@@ -17585,28 +17624,6 @@
       "Tableau",
       "University or College",
       "Vector Internet Services"
-    ]
-  },
-  {
-    "domain": "swimmingindata.com",
-    "title": "Brian Johns — Data Scientist & Sports Analyst",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 70,
-    "tech_spend": 5260,
-    "crawled_at": "2026-05-02T11:56:20.009837897Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Python",
-      "Tableau",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]

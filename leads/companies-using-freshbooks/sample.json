@@ -1,12 +1,38 @@
 [
   {
-    "domain": "sharjahdigitalbank.com",
-    "title": "Sharjah Digital Bank | Compare Digital Banks & Accounts",
-    "business_name": "",
+    "domain": "lexact.org",
+    "title": "LexAct",
+    "business_name": "167 rue des Marterets ",
     "country": "",
     "seo_score": 67,
+    "tech_spend": 1573,
+    "crawled_at": "2026-11-14T10:10:45.21683967Z",
+    "technologies": [
+      "Aruba",
+      "Express",
+      "FreshBooks",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "Tailwind CSS",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "Xero",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "hobartdigitalbank.com",
+    "title": "Hobart Digital Bank | Compare Digital Banks & Accounts",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 77,
     "tech_spend": 24139,
-    "crawled_at": "2026-11-12T01:05:57.750143088Z",
+    "crawled_at": "2026-11-13T14:53:25.890225658Z",
     "technologies": [
       "Alternate Protocol",
       "Coinbase",
@@ -18,7 +44,6 @@
       "Financial Services Guide",
       "Fireblade",
       "FreshBooks",
-      "Gambling Content",
       "Google Related Website Sites",
       "Gusto",
       "Kitco",
@@ -26,6 +51,7 @@
       "Microdata for Google Shopping",
       "Radix UI",
       "Rakuten Affiliate",
+      "Square",
       "Tailwind CSS",
       "TradingView",
       "Trezor",
@@ -3292,35 +3318,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "lexact.biz",
-    "title": "LexAct",
-    "business_name": "167 rue des Marterets ",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 4013,
-    "crawled_at": "2026-04-05T04:05:20.026995223Z",
-    "technologies": [
-      "Aruba",
-      "Express",
-      "FreshBooks",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "Xero",
-      "eLand"
     ]
   }
 ]

@@ -1,5 +1,35 @@
 [
   {
+    "domain": "fvfamilyservices.com",
+    "title": "FV Financial Solutions - Small Business Accounting and Setup",
+    "business_name": "FV Financial Solutions",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 807,
+    "crawled_at": "2026-11-13T16:35:08.312758326Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "Formidable Pro Form",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Hello Elementor",
+      "Microdata for Google Shopping",
+      "PHP",
+      "QUIC",
+      "QuickBooks Online",
+      "Theme In WP",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "tmigrouptax.com",
     "title": "Legal, Notary & Accounting Service | Latinos in the US | TMI Group",
     "business_name": "TMI Group",
@@ -4233,37 +4263,6 @@
       "UTF-8",
       "Zoom Video Conferencing",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "fv-financialsolutions.com",
-    "title": "FV Financial Solutions - Small Business Accounting and Setup",
-    "business_name": "FV Financial Solutions",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 2307,
-    "crawled_at": "2026-05-24T22:51:12.307426828Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Formidable Pro Form",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hello Elementor",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "QuickBooks Online",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   },
   {
