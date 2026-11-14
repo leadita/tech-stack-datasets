@@ -1,5 +1,35 @@
 [
   {
+    "domain": "essexplaceapt.com",
+    "title": "Home | Essex Place",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 50292,
+    "crawled_at": "2026-11-13T21:51:19.006252526Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "Follow Up Boss",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "K2F",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Negate",
+      "ResMan",
+      "Silicon Valley Web Hosting",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "kimberleyduval55places.com",
     "title": "Retirement Communities | 55+ Communities | 55places",
     "business_name": "55places.com",
@@ -13974,35 +14004,6 @@
       "NFOrce Internet",
       "ResMan",
       "Silicon Valley Web Hosting",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "essexplaceapt.com",
-    "title": "Home | Essex Place",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 68792,
-    "crawled_at": "2026-04-03T22:17:19.989308612Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "DAV",
-      "Follow Up Boss",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "HMDG",
-      "Heroku",
-      "Instagram Follow Button",
-      "K2F",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Negate",
-      "ResMan",
       "UTF-8"
     ]
   }
