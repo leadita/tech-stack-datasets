@@ -1,5 +1,89 @@
 [
   {
+    "domain": "hermanyiqunliang.com",
+    "title": "herman@portfolio:~$",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 67,
+    "tech_spend": 1740,
+    "crawled_at": "2026-11-15T21:07:40.177420682Z",
+    "technologies": [
+      "Booking Affiliate",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Express",
+      "GitHub Hosting",
+      "Google My Business",
+      "NFOrce Internet",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "Radix UI",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "radmanded.com",
+    "title": "Ruben Dedman | AI Dreamer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 25000,
+    "crawled_at": "2026-11-15T15:04:22.916482955Z",
+    "technologies": [
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fireblade",
+      "GitHub Hosting",
+      "Jekyll",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "UTF-8",
+      "University or College",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "toolquestor.com",
+    "title": "Tool Questor - Find the Tools & Open Source Alternatives",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 17896,
+    "crawled_at": "2026-11-15T09:37:34.156475106Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Beehiiv",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "DAV",
+      "Docusaurus",
+      "Fireblade",
+      "GetResponse",
+      "Hexo",
+      "Instagram Follow Button",
+      "LandBot",
+      "Mailjet Widget",
+      "Next.js",
+      "Pleroma",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "recap.dev",
     "title": "Open-source tracing for modern JavaScript backends | Recap.Dev",
     "business_name": "",
@@ -12763,73 +12847,6 @@
       "Tumblr",
       "UTF-8",
       "University or College"
-    ]
-  },
-  {
-    "domain": "joeloveless.com",
-    "title": "Joe Loveless",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 600,
-    "crawled_at": "2026-04-17T01:32:19.996739732Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Perl",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "safegen.ai",
-    "title": "SafeGen AI | SafeGen AI",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 20000,
-    "crawled_at": "2026-04-16T17:02:19.999905536Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "Fireblade",
-      "GZIP Module",
-      "Nginx",
-      "Perl",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vector Internet Services",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "torchv.com",
-    "title": "TorchV | 企业 AI 落地平台",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 60,
-    "crawled_at": "2026-04-16T14:50:19.994781067Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Baidu Ads",
-      "Baidu Analytics",
-      "Baidu Cloud",
-      "Docusaurus",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microsoft Clarity",
-      "Nginx",
-      "Perl",
-      "Product Hunt",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "shadcn ui"
     ]
   }
 ]

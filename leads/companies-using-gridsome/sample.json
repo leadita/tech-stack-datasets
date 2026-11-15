@@ -1,5 +1,49 @@
 [
   {
+    "domain": "jeffnhorner.com",
+    "title": "Jeff Horner | Developer, Designer, & Creator",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 5258,
+    "crawled_at": "2026-11-15T15:25:05.272343835Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Gridsome",
+      "Instagram Follow Button",
+      "K2F",
+      "Netlify",
+      "No-Q",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "trackersjeepsafari.com",
+    "title": "Trackers Jeep Safari - Exciting excursions & tours on Cyprus",
+    "business_name": "",
+    "country": "CYP",
+    "seo_score": 67,
+    "tech_spend": 228,
+    "crawled_at": "2026-11-15T15:04:22.913765852Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Google My Business",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "Tailwind CSS",
+      "UTF-8",
+      "WhatsApp Sharing"
+    ]
+  },
+  {
     "domain": "no23miltonstreet.co.uk",
     "title": "Welcome - No. 23 Milton Street",
     "business_name": "",
@@ -11849,49 +11893,6 @@
       "Netlify",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "fajarfotocopy.com",
-    "title": "Home - Fajar Fotocopy",
-    "business_name": "",
-    "country": "IDN",
-    "seo_score": 72,
-    "tech_spend": 39000,
-    "crawled_at": "2026-04-11T10:38:19.994180126Z",
-    "technologies": [
-      "Cloudinary",
-      "DAV",
-      "Financial Services Guide",
-      "GZIP Module",
-      "Google My Business",
-      "Gridsome",
-      "Instagram Follow Button",
-      "K2F",
-      "Nginx",
-      "Onyx Internet",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "barszczu.pro",
-    "title": "Rafał Barszczowski - Frontend Developer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 3,
-    "crawled_at": "2026-04-11T04:29:19.999378364Z",
-    "technologies": [
-      "Express",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Nginx",
-      "PWA",
-      "Twitter Ads"
     ]
   }
 ]
