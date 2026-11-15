@@ -4451,47 +4451,5 @@
       "UTF-8",
       "jsDelivr"
     ]
-  },
-  {
-    "domain": "nataliekoury.com",
-    "title": "Just Michelle — Bio Sites",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 1023,
-    "crawled_at": "2026-04-04T10:29:20.003836278Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Dynadot",
-      "Fastly",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Systeme",
-      "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "rzpo.com",
-    "title": "Zero Point Technology",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 335,
-    "crawled_at": "2026-04-04T06:47:19.997388502Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "InitiativeS",
-      "UTF-8"
-    ]
   }
 ]
