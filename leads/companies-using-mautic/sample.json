@@ -1,5 +1,62 @@
 [
   {
+    "domain": "mrgomes.com",
+    "title": "Kitchen, Bath & Home Remodeling in Central MA | Mr. Gomes",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": "",
+    "crawled_at": "2026-11-15T15:40:01.110827134Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Better Lead Generation Services",
+      "Google Analytics",
+      "Google Customer Reviews",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Mautic",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "Perl",
+      "QUIC",
+      "Yelp Badge",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "zzsteelgroup.com",
+    "title": "Galvanized Steel Coil, Zm Steel Coil, Aluminized Steel Coil - Zhanzhi",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 77,
+    "tech_spend": 39,
+    "crawled_at": "2026-11-15T02:38:21.233696871Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Mautic",
+      "Nginx",
+      "UTF-8",
+      "WP Missed Schedule",
+      "WhatsApp Sharing",
+      "YouTube",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "civicinspecao.com.br",
     "title": "Civic Inspeção Veícular",
     "business_name": "",
@@ -7790,37 +7847,6 @@
       "Vimeo",
       "YouTube",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "zzsteelgroup.co",
-    "title": "Galvanized Steel Coil, Zm Steel Coil, Aluminized Steel Coil - Zhanzhi",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 72,
-    "tech_spend": 39,
-    "crawled_at": "2026-08-24T09:52:12.765232928Z",
-    "technologies": [
-      "Coming Soon Page",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Harbor",
-      "Instagram Follow Button",
-      "Mautic",
-      "Nginx",
-      "UTF-8",
-      "WP Missed Schedule",
-      "WhatsApp Sharing",
-      "YouTube",
-      "eLand",
-      "jQuery"
     ]
   },
   {
@@ -21924,34 +21950,6 @@
       "WordPress Stats",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "onlineemt.com",
-    "title": "The Center for Emergency Programs | College of Health",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 33600,
-    "crawled_at": "2026-04-20T12:47:20.001861963Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Drupal",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Kaltura",
-      "Mautic",
-      "Monsido",
-      "Nginx",
-      "QUIC",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "YouTube"
     ]
   }
 ]
