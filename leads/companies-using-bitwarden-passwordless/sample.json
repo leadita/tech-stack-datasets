@@ -1,5 +1,31 @@
 [
   {
+    "domain": "email777.top",
+    "title": "Free, Open-source Anonymous Email Forwarding - addy.io",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 31772,
+    "crawled_at": "2026-11-14T20:06:49.125010575Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Bitwarden Passwordless",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fireblade",
+      "GitHub Hosting",
+      "IcoMoon",
+      "Newsletter for Wordpress",
+      "Nginx",
+      "Tailwind CSS",
+      "UTF-8",
+      "reCAPTCHA",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "voiceovermarketingthatworks.com",
     "title": "Members Area | Voice Acting 101",
     "business_name": "",
@@ -385,32 +411,6 @@
       "Telegram",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "nemo.stream",
-    "title": "Free, Open-source Anonymous Email Forwarding - addy.io",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 31772,
-    "crawled_at": "2026-11-08T21:29:39.930644148Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Bitwarden Passwordless",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Fireblade",
-      "GitHub Hosting",
-      "IcoMoon",
-      "Newsletter for Wordpress",
-      "Nginx",
-      "Tailwind CSS",
-      "UTF-8",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   },
   {
