@@ -1,5 +1,33 @@
 [
   {
+    "domain": "rtytanicj.com",
+    "title": "@rtytanicj | My Portfolio, YouTube | Beacons",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 307,
+    "crawled_at": "2026-11-15T00:03:24.983285901Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Beacons",
+      "Commission Junction",
+      "GZIP Module",
+      "Google",
+      "Google Cloud",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "PWA",
+      "UTF-8",
+      "Unix",
+      "Unsplash",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "yxgmtc.com",
     "title": "Advanced Ceramics,Engineering Ceramics,Ceramic Disc,Ceramic Insulator Manufacturer and Supplier in China",
     "business_name": "",
@@ -12091,51 +12119,6 @@
       "Visual Website Optimizer",
       "eLand",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "rtytanicj.com",
-    "title": "@rtytanicj | My Portfolio, YouTube | Beacons",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 244,
-    "crawled_at": "2026-04-04T08:17:19.996422198Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Beacons",
-      "Commission Junction",
-      "GZIP Module",
-      "Google Cloud",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nationwide Mortgage Licensing System and Registry",
-      "Next.js",
-      "PWA",
-      "Subversion",
-      "UTF-8",
-      "Unix",
-      "Unsplash",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "1799k.com",
-    "title": "必威游戏平台公司地址-花瓣网",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 60,
-    "crawled_at": "2026-04-04T03:23:20.018390452Z",
-    "technologies": [
-      "Baidu Ads",
-      "Baidu Cloud",
-      "Commission Junction",
-      "Fancybox for WordPress",
-      "GZIP Module",
-      "Nginx",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
