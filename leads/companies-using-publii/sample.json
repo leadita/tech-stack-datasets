@@ -1,5 +1,62 @@
 [
   {
+    "domain": "estherpizarro.es",
+    "title": "ESTHER PIZARRO STUDIO",
+    "business_name": "ESTHER PIZARRO STUDIO",
+    "country": "ESP",
+    "seo_score": 82,
+    "tech_spend": 448,
+    "crawled_at": "2026-11-15T08:53:53.844776869Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CoreUI",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "cross-crypto.com",
+    "title": "CROSS crypto",
+    "business_name": "CROSS crypto",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 49,
+    "crawled_at": "2026-11-15T08:37:54.136860732Z",
+    "technologies": [
+      "Apache",
+      "Crypto.com",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "gnoma.ai",
+    "title": "Gnoma.ai: High-Fidelity Semantic Mapping for AI Engines - Gnoma.ai",
+    "business_name": "Gnomo.ai",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 49,
+    "crawled_at": "2026-11-14T14:52:57.58887752Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Publii",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "auchencairn.org",
     "title": "Auchencairn",
     "business_name": "Auchencairn",
@@ -8019,64 +8076,6 @@
       "Publii",
       "Ubuntu",
       "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "estherpizarro.es",
-    "title": "ESTHER PIZARRO STUDIO",
-    "business_name": "ESTHER PIZARRO STUDIO",
-    "country": "ESP",
-    "seo_score": 77,
-    "tech_spend": 448,
-    "crawled_at": "2026-04-04T11:35:51.337048702Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "CoreUI",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "cross-crypto.com",
-    "title": "CROSS crypto",
-    "business_name": "CROSS crypto",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 49,
-    "crawled_at": "2026-04-04T11:29:13.665021504Z",
-    "technologies": [
-      "Apache",
-      "Crypto.com",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "gnoma.ai",
-    "title": "Gnoma.ai: High-Fidelity Semantic Mapping for AI Engines - Gnoma.ai",
-    "business_name": "Gnomo.ai",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 49,
-    "crawled_at": "2026-04-04T04:44:19.983269945Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Publii",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "jsDelivr"
     ]
   }
 ]
