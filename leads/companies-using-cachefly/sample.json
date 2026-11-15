@@ -2200,47 +2200,5 @@
       "eLand",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "harbouratnewriver.com",
-    "title": "Harbour at New River | Luxury Apartments Las Olas, Fort Lauderdale",
-    "business_name": "Harbour at New River",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 57702,
-    "crawled_at": "2026-04-04T11:05:19.984157408Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "CDN JS",
-      "CacheFly",
-      "CacheFly CDN",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "CookieYes",
-      "Elementor",
-      "EmbedPress",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Gravity",
-      "Hello Elementor",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "OoohBoi Steroids for Elementor",
-      "PHP",
-      "Premium Addons for Elementor",
-      "RealPage",
-      "Sticky Header Effects for Elementor",
-      "Theme In WP",
-      "UTF-8",
-      "UserWay",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
