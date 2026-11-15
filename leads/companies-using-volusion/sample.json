@@ -1,5 +1,45 @@
 [
   {
+    "domain": "ltctrainer.com",
+    "title": "Long-Term Care Learning Center:Multimedia Training - CNA, Nursing Facilities, Assisted Living",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 7884,
+    "crawled_at": "2026-11-15T05:03:26.690854251Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Fireblade",
+      "Tailwind CSS",
+      "UTF-8",
+      "Volusion Live Chat"
+    ]
+  },
+  {
+    "domain": "free-home-design-software.com",
+    "title": "Easy To Use Home Design Software",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2136,
+    "crawled_at": "2026-11-14T20:27:32.182277287Z",
+    "technologies": [
+      "Apache",
+      "DAV",
+      "Eber",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "ISO/IEC 8859",
+      "QUIC",
+      "Shockwave Flash Embed",
+      "Urchin 5",
+      "Volusion Live Chat"
+    ]
+  },
+  {
     "domain": "11thagency.com",
     "title": "A full-service reliable digital agency- 11thagency",
     "business_name": "11thAgency",
@@ -57,28 +97,6 @@
       "WordPress Multisite",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "free-home-software.com",
-    "title": "Easy To Use Home Design Software",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2136,
-    "crawled_at": "2026-11-13T02:37:28.346646801Z",
-    "technologies": [
-      "Apache",
-      "DAV",
-      "Eber",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "ISO/IEC 8859",
-      "QUIC",
-      "Shockwave Flash Embed",
-      "Urchin 5",
-      "Volusion Live Chat"
     ]
   },
   {
@@ -3333,24 +3351,6 @@
       "Webflow",
       "Website Tonight",
       "ashop"
-    ]
-  },
-  {
-    "domain": "ltctrainertest.info",
-    "title": "Long-Term Care Learning Center:Multimedia Training - CNA, Nursing Facilities, Assisted Living",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 7884,
-    "crawled_at": "2026-04-10T09:00:20.956785611Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fireblade",
-      "Tailwind CSS",
-      "UTF-8",
-      "Volusion Live Chat"
     ]
   },
   {
