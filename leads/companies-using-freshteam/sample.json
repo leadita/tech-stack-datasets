@@ -2674,28 +2674,5 @@
       "WordPress Multisite",
       "jQuery"
     ]
-  },
-  {
-    "domain": "aquasatellite.com",
-    "title": "Aqua Satellite",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 1431,
-    "crawled_at": "2026-04-04T12:02:19.992814849Z",
-    "technologies": [
-      "Bulma",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Fastly",
-      "Freshteam",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Start Bootstrap",
-      "UTF-8",
-      "jsDelivr"
-    ]
   }
 ]

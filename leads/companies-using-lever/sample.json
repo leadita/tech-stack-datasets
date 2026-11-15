@@ -1,12 +1,12 @@
 [
   {
-    "domain": "real-world-1.center",
+    "domain": "real-worldone.it",
     "title": "realworld one - PERFORMANCE STARTS WITH EXECUTION",
     "business_name": "",
     "country": "USA",
     "seo_score": 72,
     "tech_spend": 35092,
-    "crawled_at": "2026-11-14T13:07:37.379978167Z",
+    "crawled_at": "2026-11-15T13:27:29.163223216Z",
     "technologies": [
       "1Password",
       "Alternate Protocol",
@@ -22,6 +22,40 @@
       "Yandex Hosting",
       "YouTube",
       "Zeald"
+    ]
+  },
+  {
+    "domain": "lindbladcruise.com",
+    "title": "National Geographic-Lindblad Expeditions | Lindblad Expeditions",
+    "business_name": "Lindblad Expeditions",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 31540,
+    "crawled_at": "2026-11-15T11:19:24.847040102Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare Stream",
+      "Content Delivery Network",
+      "DAV",
+      "Fireblade",
+      "Harbor",
+      "Headless UI",
+      "Instagram Follow Button",
+      "Investor Relations",
+      "Lever",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Perl",
+      "Pleroma",
+      "QUIC",
+      "Styled Components",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vercel",
+      "YouTube",
+      "eLand"
     ]
   },
   {
@@ -342,43 +376,6 @@
       "Tailwind CSS",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "lindbladafrica.com",
-    "title": "National Geographic-Lindblad Expeditions | Lindblad Expeditions",
-    "business_name": "Lindblad Expeditions",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 96540,
-    "crawled_at": "2026-11-11T15:07:48.116192395Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare Stream",
-      "Content Delivery Network",
-      "DAV",
-      "Episerver Search Navigation",
-      "Fireblade",
-      "Harbor",
-      "Headless UI",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "Investor Relations",
-      "Lever",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "QUIC",
-      "Styled Components",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vercel",
-      "YouTube",
-      "eLand"
     ]
   },
   {
@@ -9451,34 +9448,6 @@
       "YouTube",
       "YourMembership",
       "eLand"
-    ]
-  },
-  {
-    "domain": "jobwizard.ai",
-    "title": "JobWizard — AI-Powered Job Application Copilot",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 560640,
-    "crawled_at": "2026-04-04T12:23:19.994392232Z",
-    "technologies": [
-      "BambooHR",
-      "Content Delivery Network",
-      "DAV",
-      "EightFold Logic",
-      "Google My Business",
-      "Greenhouse",
-      "JobVite",
-      "Lever",
-      "Next.js",
-      "Oracle Cloud",
-      "Oracle Content Management",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "Workday",
-      "shadcn ui"
     ]
   }
 ]
