@@ -1,5 +1,61 @@
 [
   {
+    "domain": "matrixconsultingllc.com",
+    "title": "Matrix Consulting",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 1240,
+    "crawled_at": "2026-11-15T09:27:54.236107201Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Apache",
+      "Apache Tomcat JK",
+      "BambooHR",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "GoDaddy",
+      "Google",
+      "Google My Business",
+      "Jetpack",
+      "OceanWP",
+      "Oracle Cloud",
+      "PHP",
+      "Tailwind CSS",
+      "Theme In WP",
+      "UTF-8",
+      "Unix",
+      "WP Mobile Menu",
+      "WPForms",
+      "Woo Themes",
+      "WooCommerce Checkout",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery",
+      "myStickymenu"
+    ]
+  },
+  {
+    "domain": "jnluyalu.com",
+    "title": "Apache Tomcat/7.0.47",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 45,
+    "tech_spend": "",
+    "crawled_at": "2026-11-15T08:53:53.858918099Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "ISO/IEC 8859",
+      "QUIC",
+      "Subversion"
+    ]
+  },
+  {
     "domain": "websparrow.org",
     "title": "Websparrow - Collection of Java, Spring Boot and Web Development tutorials",
     "business_name": "Websparrow",
@@ -135,23 +191,6 @@
       "QUIC",
       "UTF-8",
       "WordPress"
-    ]
-  },
-  {
-    "domain": "webbagger.com",
-    "title": "Apache Tomcat/7.0.37",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 55,
-    "tech_spend": "",
-    "crawled_at": "2026-11-08T10:21:54.355614456Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "ISO/IEC 8859",
-      "Nginx",
-      "QUIC",
-      "Subversion"
     ]
   },
   {
@@ -12974,71 +13013,6 @@
       "jQuery",
       "shadcn ui",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "dineshkumarch.me",
-    "title": "Dinesh Kumar - AWS DevOps Engineer",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 70,
-    "tech_spend": 2628,
-    "crawled_at": "2026-04-04T12:23:20.016926654Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Netlify",
-      "Oracle Cloud",
-      "Python",
-      "UTF-8",
-      "University or College"
-    ]
-  },
-  {
-    "domain": "matrixconsultingllc.com",
-    "title": "Matrix Consulting",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 1740,
-    "crawled_at": "2026-04-04T11:47:19.978434875Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Apache",
-      "Apache Tomcat JK",
-      "BambooHR",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "GoDaddy",
-      "Google",
-      "Google My Business",
-      "Jetpack",
-      "Microsoft Authentication Library for JavaScript",
-      "NFOrce Internet",
-      "OceanWP",
-      "Oracle Cloud",
-      "PHP",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "Unix",
-      "WP Mobile Menu",
-      "WPForms",
-      "Woo Themes",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery",
-      "myStickymenu"
     ]
   }
 ]
