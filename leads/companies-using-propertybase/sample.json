@@ -2852,34 +2852,5 @@
       "jQuery Pin It Button for Images",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "newenglandlofts.com",
-    "title": "Doherty Properties",
-    "business_name": "Doherty Properties",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 10057,
-    "crawled_at": "2026-04-04T11:56:19.978414702Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Facebook Like",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Pagekit",
-      "PropertyBase",
-      "QUIC",
-      "Share Link",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube",
-      "accessiBe",
-      "jQuery Pin It Button for Images"
-    ]
   }
 ]
