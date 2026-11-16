@@ -1,5 +1,22 @@
 [
   {
+    "domain": "uxvworks.com",
+    "title": "UXVworks",
+    "business_name": "UXVworks",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 49,
+    "crawled_at": "2026-11-16T07:42:00.547335064Z",
+    "technologies": [
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Publii",
+      "Ubuntu",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "estherpizarro.es",
     "title": "ESTHER PIZARRO STUDIO",
     "business_name": "ESTHER PIZARRO STUDIO",
@@ -8058,23 +8075,6 @@
       "Publii",
       "Tailwind CSS",
       "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "uxvworks.com",
-    "title": "UXVworks",
-    "business_name": "UXVworks",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 49,
-    "crawled_at": "2026-04-04T20:02:19.994364805Z",
-    "technologies": [
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Publii",
-      "Ubuntu",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   }

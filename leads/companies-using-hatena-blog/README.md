@@ -1,6 +1,6 @@
 # Companies Using Hatena Blog (Live Dataset 2026)
 
-This folder contains an active list of 6 companies using **Hatena Blog**. 
+This folder contains an active list of 5 companies using **Hatena Blog**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 6
+- **Total Leads:** 5
 - **Verified:** Yes
-- **Last Updated:** 2026-11-15 12:30 UTC
+- **Last Updated:** 2026-11-16 12:30 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **6+** companies using Hatena Blog.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **5+** companies using Hatena Blog.
 
 [**⚡ Unlock the Full Hatena Blog List with Contact Details**](https://leadita.com/leads/companies-using-hatena-blog)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-11-15 12:30 UTC*
+*Last updated: 2026-11-16 12:30 UTC*
 *Data source: Leadita Technographic Intelligence*

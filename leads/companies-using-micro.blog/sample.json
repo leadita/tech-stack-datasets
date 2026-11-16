@@ -1,5 +1,33 @@
 [
   {
+    "domain": "jgmac1106.me",
+    "title": "Greg McVerry",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 65,
+    "tech_spend": 25410,
+    "crawled_at": "2026-11-15T14:52:31.662606623Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Blackboard Open LMS",
+      "DAV",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Hugo",
+      "License Buttons",
+      "Micro.blog",
+      "QUIC",
+      "Shockwave Flash Embed",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vello",
+      "WordPress",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "pauljacobson.org",
     "title": "Paul Jacobson - Life and its many opportunities",
     "business_name": "",
@@ -3528,37 +3556,6 @@
       "WordPress Stats",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "www.jgmac1106.me",
-    "title": "Greg McVerry",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 60,
-    "tech_spend": 10063,
-    "crawled_at": "2026-05-14T09:32:19.970384749Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "Blackboard Open LMS",
-      "CloudFront",
-      "DAV",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hugo",
-      "License Buttons",
-      "Micro.blog",
-      "QUIC",
-      "Shockwave Flash Embed",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vello",
-      "WordPress",
-      "YouTube",
-      "shadcn ui"
     ]
   },
   {
