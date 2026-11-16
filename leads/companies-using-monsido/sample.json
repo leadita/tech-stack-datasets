@@ -1,5 +1,38 @@
 [
   {
+    "domain": "mifflinlibrary.org",
+    "title": "Mifflin Community Library | Berks County Public Libraries",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 80,
+    "tech_spend": 6895,
+    "crawled_at": "2026-11-16T05:03:53.02601255Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Drupal",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Monsido",
+      "NFOrce Internet",
+      "Oddle",
+      "QUIC",
+      "Square",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "jointcorestrategy.org",
     "title": "Joint Core Strategy",
     "business_name": "",
@@ -17735,39 +17768,6 @@
       "University or College",
       "Visual Studio",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "mifflinlibrary.org",
-    "title": "Mifflin Community Library | Berks County Public Libraries",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 6895,
-    "crawled_at": "2026-04-04T19:02:19.992735813Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Drupal",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Monsido",
-      "NFOrce Internet",
-      "Nginx",
-      "Oddle",
-      "QUIC",
-      "Square",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
