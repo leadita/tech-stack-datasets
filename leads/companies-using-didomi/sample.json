@@ -1,5 +1,62 @@
 [
   {
+    "domain": "glatect.com",
+    "title": "Glatiramer Acetate Injection – GLATECT",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 14236,
+    "crawled_at": "2026-11-16T04:07:21.108298163Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Ametys",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Didomi",
+      "EmbedPress",
+      "Express",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Polylang",
+      "RM Education",
+      "UTF-8",
+      "WordPress"
+    ]
+  },
+  {
+    "domain": "passeportmtlculture.com",
+    "title": "Passeport MTL | Tourisme Montréal",
+    "business_name": "Tourisme Montréal",
+    "country": "CAN",
+    "seo_score": 67,
+    "tech_spend": 26696,
+    "crawled_at": "2026-11-15T16:07:10.805659383Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Didomi",
+      "Express",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Perl",
+      "Pico CSS",
+      "QUIC",
+      "Snowplow",
+      "Svelte",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "YouTube",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "rolloutracks.com",
     "title": "Industrial Storage Solutions | Roll Out Racks",
     "business_name": "Roll Out Racks",
@@ -2488,37 +2545,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "passeportmontreal.com",
-    "title": "Passeport MTL | Tourisme Montréal",
-    "business_name": "Tourisme Montréal",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 6696,
-    "crawled_at": "2026-10-17T11:42:58.05253653Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Didomi",
-      "Express",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Perl",
-      "Pico CSS",
-      "QUIC",
-      "Svelte",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "YouTube",
-      "eLand",
-      "shadcn ui"
     ]
   },
   {
@@ -19232,32 +19258,6 @@
       "Nginx",
       "Nuxt.js",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "sylvainlesage.com",
-    "title": "Sylvain Lesage | Residential and Commercial Real Estate Broker at RE/MAX de Francheville",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 26720,
-    "crawled_at": "2026-04-18T10:11:19.998772193Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Didomi",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "Nuxt.js",
-      "QUIC",
-      "UTF-8",
-      "Vector Internet Services"
     ]
   }
 ]
