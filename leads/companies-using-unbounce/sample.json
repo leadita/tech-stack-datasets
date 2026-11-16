@@ -1,5 +1,37 @@
 [
   {
+    "domain": "nolandyck.ca",
+    "title": "Nolan Dyck MLA",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 51546,
+    "crawled_at": "2026-11-16T06:27:19.629133729Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Animate It",
+      "CloudFront",
+      "Cloudflare",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "FormSubmit",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "SMC",
+      "UTF-8",
+      "Unbounce",
+      "University or College",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "clearcommunicationacademy.com",
     "title": "Public Speaking Training Programs | Public Speaking Classes | CCA",
     "business_name": "Clear Communication Academy",
@@ -3392,37 +3424,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "nolandyck.ca",
-    "title": "Nolan Dyck MLA",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 1050,
-    "crawled_at": "2026-04-04T19:31:04.877757447Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Animate It",
-      "CloudFront",
-      "Cloudflare",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "FormSubmit",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "UTF-8",
-      "Unbounce",
-      "University or College",
-      "YouTube"
     ]
   }
 ]
