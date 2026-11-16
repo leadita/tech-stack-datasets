@@ -1,5 +1,40 @@
 [
   {
+    "domain": "jarrinsurance.com",
+    "title": "JAR Insurance Services",
+    "business_name": "",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 104900,
+    "crawled_at": "2026-11-16T05:36:18.546659026Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Better Lead Generation Services",
+      "Contento",
+      "Corporate Governance and Regulatory Compliance",
+      "Express",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "ID Services",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Newsletter for Wordpress",
+      "Pico CSS",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "TalentLMS",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "jewelsacademy.org",
     "title": "Jewels Academy – Joining Emerging Women Excelling in Leadership and STEM",
     "business_name": "",
@@ -8771,43 +8806,6 @@
     ]
   },
   {
-    "domain": "jarinsurance.net",
-    "title": "JAR Insurance Services",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 107396,
-    "crawled_at": "2026-04-08T20:31:59.759115838Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Amazon",
-      "Aruba",
-      "Better Lead Generation Services",
-      "Contento",
-      "Corporate Governance and Regulatory Compliance",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "ID Services",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "Pico CSS",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "TalentLMS",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
-    ]
-  },
-  {
     "domain": "tbs-biometrics.com",
     "title": "TBS Company from Switzerland | Touchless Biometric Systems AG",
     "business_name": "",
@@ -9499,28 +9497,6 @@
       "UTF-8",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "stulztraining.com",
-    "title": "STULZ Training",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 1791,
-    "crawled_at": "2026-04-04T15:20:20.010692869Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Apache",
-      "CloudFront",
-      "GitHub Hosting",
-      "IcoMoon",
-      "Tailwind CSS",
-      "TalentLMS",
-      "UTF-8",
-      "WoWonder",
-      "Zendesk Guide"
     ]
   }
 ]
