@@ -1,5 +1,29 @@
 [
   {
+    "domain": "carbontrace.co.uk",
+    "title": "Home page - Carbon Trace",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 70,
+    "tech_spend": 4828,
+    "crawled_at": "2026-11-15T22:19:35.367366149Z",
+    "technologies": [
+      "Bulma",
+      "ButterCMS",
+      "D3 JS",
+      "HostGator",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Parallels Plesk Panel",
+      "Rickshaw",
+      "Tailwind CSS",
+      "UTF-8",
+      "Visual Studio",
+      "jQuery",
+      "xCharts"
+    ]
+  },
+  {
     "domain": "workwithnikkichubb.com",
     "title": "Day & Night Drops",
     "business_name": "",
@@ -1982,30 +2006,6 @@
       "Vector Internet Services",
       "Yandex Hosting",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "carbontrace.co.uk",
-    "title": "Home page - Carbon Trace",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 70,
-    "tech_spend": 4828,
-    "crawled_at": "2026-04-04T16:45:36.780530517Z",
-    "technologies": [
-      "Bulma",
-      "ButterCMS",
-      "D3 JS",
-      "HostGator",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Parallels Plesk Panel",
-      "Rickshaw",
-      "Tailwind CSS",
-      "UTF-8",
-      "Visual Studio",
-      "jQuery",
-      "xCharts"
     ]
   }
 ]

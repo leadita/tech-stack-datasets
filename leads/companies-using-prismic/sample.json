@@ -1,5 +1,86 @@
 [
   {
+    "domain": "integrumworldwide.com",
+    "title": "ONAR",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 41180,
+    "crawled_at": "2026-11-16T10:25:54.53870851Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "DAV",
+      "Fireblade",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Headless UI",
+      "Investor Relations",
+      "Next.js",
+      "Pleroma",
+      "Prismic",
+      "Tailwind CSS",
+      "Teamtailor",
+      "UTF-8",
+      "Vector Internet Services",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "thymeandcaramel.com",
+    "title": "Thyme and Caramel | Fine Art Cakery",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 808,
+    "crawled_at": "2026-11-15T22:33:24.456221827Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Nuxt.js",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "mcmodiin.com",
+    "title": "Millennium Center | Business Center | Modi'in, Israel",
+    "business_name": "",
+    "country": "ISR",
+    "seo_score": 72,
+    "tech_spend": 27959,
+    "crawled_at": "2026-11-15T18:56:27.409814086Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Angular",
+      "Content Delivery Network",
+      "Contento",
+      "Font Awesome",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Next.js",
+      "Pleroma",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "tpbennett.com",
     "title": "Architecture & Design Practice",
     "business_name": "",
@@ -6924,32 +7005,6 @@
       "UTF-8",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "millenniumcenter.co.il",
-    "title": "Millennium Center | Business Center | Modi'in, Israel",
-    "business_name": "",
-    "country": "ISR",
-    "seo_score": 72,
-    "tech_spend": 27959,
-    "crawled_at": "2026-08-15T20:13:49.401496316Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Angular",
-      "Content Delivery Network",
-      "Contento",
-      "Font Awesome",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Next.js",
-      "Pleroma",
-      "Prismic",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {
@@ -13927,50 +13982,6 @@
       "YouTube",
       "ZoomInfo",
       "mParticle"
-    ]
-  },
-  {
-    "domain": "saludafest.nl",
-    "title": "Saluda Festival - Amsterdams Premium Boozy Brunch Festival",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 72,
-    "tech_spend": 420,
-    "crawled_at": "2026-05-07T00:11:19.980003784Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Instagram Follow Button",
-      "Next.js",
-      "Pleroma",
-      "Prismic",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "estiec.ai",
-    "title": "Built by Estie - Estie Carrillo",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 420,
-    "crawled_at": "2026-05-06T21:56:20.007853069Z",
-    "technologies": [
-      "Adult Content",
-      "Angular",
-      "App Store",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Next.js",
-      "Perl",
-      "Prismic",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
