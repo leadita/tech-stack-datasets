@@ -1,36 +1,12 @@
 [
   {
-    "domain": "mureezz.com",
-    "title": "Muriz Suljevic - Portfolio",
-    "business_name": "",
-    "country": "BIH",
-    "seo_score": 72,
-    "tech_spend": 78247,
-    "crawled_at": "2026-11-14T04:29:58.04185309Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Coming Soon Page",
-      "Framer Sites",
-      "Google",
-      "Google Cloud CDN",
-      "Google My Business",
-      "Hotjar",
-      "Instagram Follow Button",
-      "KVH",
-      "Ntent",
-      "PandaDoc",
-      "SMC",
-      "Zeald"
-    ]
-  },
-  {
-    "domain": "techmancomputerservices.com",
+    "domain": "johnsoncitycomputers.com",
     "title": "Business IT Support - Business IT Services In Johnson City",
     "business_name": "",
     "country": "",
-    "seo_score": 77,
+    "seo_score": 87,
     "tech_spend": 27985,
-    "crawled_at": "2026-11-10T00:07:08.659458395Z",
+    "crawled_at": "2026-11-16T03:37:52.749929473Z",
     "technologies": [
       "Alternate Protocol",
       "Apture Linking Platform",
@@ -38,6 +14,7 @@
       "CDN JS",
       "Cloudflare",
       "Cloudflare CDN",
+      "Cloudflare Web Analytics",
       "Content Delivery Network",
       "Contento",
       "EmbedPress",
@@ -65,6 +42,30 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
+    ]
+  },
+  {
+    "domain": "mureezz.com",
+    "title": "Muriz Suljevic - Portfolio",
+    "business_name": "",
+    "country": "BIH",
+    "seo_score": 72,
+    "tech_spend": 78247,
+    "crawled_at": "2026-11-14T04:29:58.04185309Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "Framer Sites",
+      "Google",
+      "Google Cloud CDN",
+      "Google My Business",
+      "Hotjar",
+      "Instagram Follow Button",
+      "KVH",
+      "Ntent",
+      "PandaDoc",
+      "SMC",
+      "Zeald"
     ]
   },
   {
