@@ -8458,22 +8458,5 @@
       "Unsplash",
       "YouTube"
     ]
-  },
-  {
-    "domain": "infotix.net",
-    "title": "Infotix Software Solutions",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": "",
-    "crawled_at": "2026-04-04T17:02:19.982976265Z",
-    "technologies": [
-      "AutoComplete",
-      "Django",
-      "GZIP Module",
-      "Nginx",
-      "UTF-8",
-      "Ubuntu"
-    ]
   }
 ]
