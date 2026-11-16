@@ -1,5 +1,54 @@
 [
   {
+    "domain": "rossql.org",
+    "title": "The query language for robotics telemetry | ROSQL",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 4840,
+    "crawled_at": "2026-11-16T02:25:16.026807946Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "OpenTelemetry",
+      "Perl",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "remotiondocs.com",
+    "title": "Remotion | Make videos programmatically",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": "",
+    "crawled_at": "2026-11-15T23:26:00.418318897Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Instagram Follow Button",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "hermanyiqunliang.com",
     "title": "herman@portfolio:~$",
     "business_name": "",
@@ -12791,62 +12840,6 @@
       "UTF-8",
       "Vercel",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "delpeuch.net",
-    "title": "Sébastien Delpeuch",
-    "business_name": "",
-    "country": "FRA",
-    "seo_score": 55,
-    "tech_spend": 690,
-    "crawled_at": "2026-04-17T02:46:56.447270624Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "KaTeX",
-      "Perl",
-      "Plausible Analytics",
-      "Python",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "daredoes.work",
-    "title": "Home | DareDoes.Work",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 141900,
-    "crawled_at": "2026-04-17T01:44:20.001302234Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Alternate Protocol",
-      "BLR",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Community",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "Financial Services Guide",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Perl",
-      "Python",
-      "QUIC",
-      "Rev",
-      "Salesforce Experience Cloud",
-      "Tailwind CSS",
-      "Tumblr",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]
