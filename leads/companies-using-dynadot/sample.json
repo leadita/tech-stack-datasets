@@ -1,5 +1,47 @@
 [
   {
+    "domain": "artamirani.nl",
+    "title": "Amiran Djanashvili",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 62,
+    "tech_spend": 120,
+    "crawled_at": "2026-11-16T09:05:29.149718005Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "xvnw.com",
+    "title": "An EMDN - XVNW, Digital Media Streaming Entertainment Platform Video Content Online Broadcasting Multimedia Network Interactive Experiences Innovative Technology",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 120,
+    "crawled_at": "2026-11-15T18:14:48.841058524Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "inspectmyslab.com",
     "title": "Independent Foundation Inspection Specialists | Houston TX",
     "business_name": "Pier-less Foundation Services LLC",
@@ -27,28 +69,6 @@
       "UTF-8",
       "University or College",
       "eLand"
-    ]
-  },
-  {
-    "domain": "fighting60.com",
-    "title": "An EMDN - Fighting 60, Military Unit Regiment Honor Strength Discipline History Courage Brotherhood Defense",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 36,
-    "crawled_at": "2026-11-13T12:28:44.631017182Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "UTF-8"
     ]
   },
   {
@@ -4422,32 +4442,6 @@
       "Font Awesome",
       "GZIP Module",
       "Instagram Follow Button",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "oasiscalme.eu",
-    "title": "Tech Insight Reviews",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 67,
-    "tech_spend": 13279,
-    "crawled_at": "2026-04-04T17:35:19.984230983Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "ArvanCloud",
-      "BLR",
-      "Baidu Ads",
-      "Baidu Cloud",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Tumblr",
-      "Twitter Ads",
       "UTF-8",
       "jsDelivr"
     ]
