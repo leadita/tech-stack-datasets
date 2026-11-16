@@ -10263,44 +10263,5 @@
       "Zoom Video Conferencing",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "silvanridgeba.com.au",
-    "title": "Silvan Ridge Business Advisers - Financial Services in Australia",
-    "business_name": "Silvan Ridge BA",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 7639,
-    "crawled_at": "2026-04-04T13:11:20.004358394Z",
-    "technologies": [
-      "Alternate Protocol",
-      "App Store",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Gravity",
-      "Gravity Forms",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "PHP",
-      "QUIC",
-      "QuickBooks Online",
-      "Sapper",
-      "Schema Plugin",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "Xero",
-      "jQuery",
-      "reCAPTCHA"
-    ]
   }
 ]

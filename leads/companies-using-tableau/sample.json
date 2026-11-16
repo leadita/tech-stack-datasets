@@ -1,5 +1,37 @@
 [
   {
+    "domain": "brianna.dev",
+    "title": "Brianna Owens",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 1255,
+    "crawled_at": "2026-11-16T08:41:44.318061592Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Bulma",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Font Awesome",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Hugo",
+      "IcoMoon",
+      "KaTeX",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Python",
+      "Schema Plugin",
+      "Tableau",
+      "UTF-8",
+      "University or College",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "ooad28.org",
     "title": "2027 CAOA",
     "business_name": "",
@@ -17644,36 +17676,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "illogicprojects.com",
-    "title": "Illogic",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 180,
-    "crawled_at": "2026-05-02T17:14:50.984832256Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Automattic",
-      "CoBlocks",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Instagram Follow Button",
-      "Jetpack",
-      "Jetpack Site Accelerator",
-      "Nginx",
-      "PHP",
-      "Square",
-      "Tableau",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats"
     ]
   }
 ]
