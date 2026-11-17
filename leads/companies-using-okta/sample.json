@@ -19297,33 +19297,5 @@
       "Python",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "learndofly.net",
-    "title": "Community Aviation",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 30816,
-    "crawled_at": "2026-04-05T00:05:19.987165273Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Drift",
-      "Fastly",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hotjar",
-      "Hubspot Knowledge Base",
-      "Instagram Follow Button",
-      "Microsoft Authentication Library for JavaScript",
-      "Okta",
-      "Telegram",
-      "UTF-8",
-      "YouTube",
-      "jsDelivr"
-    ]
   }
 ]
