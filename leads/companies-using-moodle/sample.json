@@ -1,5 +1,30 @@
 [
   {
+    "domain": "streamlearn.us",
+    "title": "StreamLearn Courses",
+    "business_name": "",
+    "country": "JPN",
+    "seo_score": 67,
+    "tech_spend": 31400,
+    "crawled_at": "2026-11-17T04:39:07.038253847Z",
+    "technologies": [
+      "Apache",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Moodle",
+      "NFOrce Internet",
+      "PHP",
+      "Python",
+      "Tailwind CSS",
+      "Totara",
+      "UTF-8",
+      "Ubuntu",
+      "University or College",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "urantiabookschool.org",
     "title": "UBIS",
     "business_name": "",
@@ -1088,31 +1113,6 @@
       "Twitter Ads",
       "UTF-8",
       "Ubuntu",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "streamlearn.us",
-    "title": "StreamLearn Courses",
-    "business_name": "",
-    "country": "JPN",
-    "seo_score": 67,
-    "tech_spend": 31400,
-    "crawled_at": "2026-04-05T03:47:53.926045369Z",
-    "technologies": [
-      "Apache",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Moodle",
-      "NFOrce Internet",
-      "PHP",
-      "Python",
-      "Tailwind CSS",
-      "Totara",
-      "UTF-8",
-      "Ubuntu",
-      "University or College",
       "jsDelivr"
     ]
   }
