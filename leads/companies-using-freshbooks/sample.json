@@ -1,12 +1,12 @@
 [
   {
-    "domain": "lexact.org",
+    "domain": "lexact.biz",
     "title": "LexAct",
     "business_name": "167 rue des Marterets ",
     "country": "",
-    "seo_score": 67,
+    "seo_score": 62,
     "tech_spend": 1573,
-    "crawled_at": "2026-11-14T10:10:45.21683967Z",
+    "crawled_at": "2026-11-17T05:29:06.890475263Z",
     "technologies": [
       "Aruba",
       "Express",

@@ -1,5 +1,30 @@
 [
   {
+    "domain": "automatenest.com",
+    "title": "AI Agents in Finance & Accounting: Automating ... | GenLedge",
+    "business_name": "GenLedge",
+    "country": "GBR",
+    "seo_score": 92,
+    "tech_spend": 322000,
+    "crawled_at": "2026-11-16T19:30:27.946064294Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fastly",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "QUIC",
+      "Sage Intacct",
+      "Salesforce",
+      "Salesforce Experience Cloud",
+      "Salesforce Hosted",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "inersec.com",
     "title": "INERSEC",
     "business_name": "",
@@ -13951,31 +13976,6 @@
       "Thank You",
       "Unsplash",
       "Zyro"
-    ]
-  },
-  {
-    "domain": "genledge.ai",
-    "title": "AI Agents in Finance & Accounting: Automating the Bottom Line | GenLedge",
-    "business_name": "GenLedge Inc.",
-    "country": "CAN",
-    "seo_score": 82,
-    "tech_spend": 322192,
-    "crawled_at": "2026-04-12T06:05:19.980884205Z",
-    "technologies": [
-      "Calendly",
-      "Content Delivery Network",
-      "Fastly",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Sage Intacct",
-      "Salesforce",
-      "Salesforce Experience Cloud",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   },
   {
