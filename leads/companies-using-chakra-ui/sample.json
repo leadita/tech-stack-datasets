@@ -1,5 +1,24 @@
 [
   {
+    "domain": "nilo.mx",
+    "title": "NILO",
+    "business_name": "",
+    "country": "PHL",
+    "seo_score": 67,
+    "tech_spend": 240,
+    "crawled_at": "2026-11-17T09:08:44.168582616Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Next.js",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "bempresearch.com",
     "title": "Bemp Research",
     "business_name": "",
@@ -13291,24 +13310,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "danielsalomonm.com",
-    "title": "Daniel Salomón | Product Designer who codes",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 1200,
-    "crawled_at": "2026-06-08T07:21:16.882617268Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vector Internet Services",
-      "Vercel"
     ]
   }
 ]
