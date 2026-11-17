@@ -1,5 +1,59 @@
 [
   {
+    "domain": "denkcpa.com",
+    "title": "Denk & Associates - A Harrisburg, PA-based CPA firm",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 32460,
+    "crawled_at": "2026-11-17T11:00:55.963461211Z",
+    "technologies": [
+      "Adult Content",
+      "Apture Linking Platform",
+      "B12",
+      "DAV",
+      "Django",
+      "Drift",
+      "Fancybox for WordPress",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Line2",
+      "Perl",
+      "QUIC",
+      "reCAPTCHA"
+    ]
+  },
+  {
+    "domain": "trulykenya.ke",
+    "title": "Truly Kenya",
+    "business_name": "",
+    "country": "KEN",
+    "seo_score": 65,
+    "tech_spend": 17543,
+    "crawled_at": "2026-11-17T09:08:44.182239272Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "BootstrapMade",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "Django",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Investor Relations",
+      "LiteSpeed",
+      "PHP",
+      "Tailwind CSS",
+      "Unsplash",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "cmsmeclub.com",
     "title": "SME Legal Services | CM SME Club",
     "business_name": "",
@@ -8427,36 +8481,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "trulykenya.ke",
-    "title": "Truly Kenya",
-    "business_name": "",
-    "country": "KEN",
-    "seo_score": 65,
-    "tech_spend": 17543,
-    "crawled_at": "2026-04-05T05:26:20.016536133Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "BootstrapMade",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "DAV",
-      "Django",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "InitiativeS",
-      "Instagram Follow Button",
-      "Investor Relations",
-      "LiteSpeed",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "Unsplash",
-      "YouTube"
     ]
   }
 ]
