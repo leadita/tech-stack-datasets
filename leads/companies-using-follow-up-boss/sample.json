@@ -1,5 +1,34 @@
 [
   {
+    "domain": "prestondelnorte.com",
+    "title": "Apartments for Rent in Dallas TX | Preston Del Norte",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 67292,
+    "crawled_at": "2026-11-16T22:16:44.735185531Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "DAV",
+      "Follow Up Boss",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "ResMan",
+      "SMC",
+      "Silicon Valley Web Hosting",
+      "Thank You",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "aldersmagnolia.com",
     "title": "Home | Alders Magnolia",
     "business_name": "",
@@ -13959,34 +13988,6 @@
       "ResMan",
       "Thank You",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "didsburyexclusivelistings.ca",
-    "title": "Just Listed Didsbury Homes For Sale",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 7939,
-    "crawled_at": "2026-04-05T02:11:20.030859079Z",
-    "technologies": [
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coming Soon Page",
-      "DAV",
-      "Follow Up Boss",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "UTF-8",
-      "University or College",
-      "jQuery"
     ]
   }
 ]
