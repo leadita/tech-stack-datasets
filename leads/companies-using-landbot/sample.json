@@ -14908,28 +14908,5 @@
       "UTF-8",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "hearhero.com",
-    "title": "HearHero | AI-Driven Solutions for Optimizing Hearing Care",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 13479,
-    "crawled_at": "2026-04-05T05:41:20.026941649Z",
-    "technologies": [
-      "BunnyCDN",
-      "BunnyCDN General",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "LandBot",
-      "RM Education",
-      "UTF-8",
-      "Unicorn Platform",
-      "YouTube"
-    ]
   }
 ]
