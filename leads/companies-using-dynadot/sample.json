@@ -1,5 +1,24 @@
 [
   {
+    "domain": "stocksale.org",
+    "title": "Digital Real Estate Specialist",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 36,
+    "crawled_at": "2026-11-16T19:21:43.652490763Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "artamirani.nl",
     "title": "Amiran Djanashvili",
     "business_name": "",
@@ -107,25 +126,6 @@
       "Google My Business",
       "Microdata for Google Shopping",
       "PointDNS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "pegula.org",
-    "title": "Digital Real Estate Specialist",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": 36,
-    "crawled_at": "2026-11-11T22:47:43.023518839Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "QUIC",
       "UTF-8"
     ]
   },
