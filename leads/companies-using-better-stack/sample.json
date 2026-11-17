@@ -1,5 +1,30 @@
 [
   {
+    "domain": "better-t-stack.dev",
+    "title": "Better-T-Stack",
+    "business_name": "Better-T-Stack",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 600,
+    "crawled_at": "2026-11-17T00:44:28.464901626Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Better Stack",
+      "Cloudflare",
+      "Content Delivery Network",
+      "DAV",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "Ntent",
+      "Svelte",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "crestwoodoflymington.com",
     "title": "Crestwood Interiors | Home interiors online and in Lymington",
     "business_name": "Crestwood Interiors",
@@ -710,31 +735,6 @@
       "YouTube",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "better-t-stack.com",
-    "title": "Better-T-Stack",
-    "business_name": "Better-T-Stack",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 600,
-    "crawled_at": "2026-10-06T03:34:15.465622604Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Better Stack",
-      "Cloudflare",
-      "Content Delivery Network",
-      "DAV",
-      "GitHub Hosting",
-      "Microdata for Google Shopping",
-      "Ntent",
-      "Svelte",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   },
   {
