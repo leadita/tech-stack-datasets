@@ -1,5 +1,44 @@
 [
   {
+    "domain": "spllab.com",
+    "title": "SPL",
+    "business_name": "",
+    "country": "ESP",
+    "seo_score": 62,
+    "tech_spend": "",
+    "crawled_at": "2026-11-17T14:57:10.355566839Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "CakePHP",
+      "GZIP Module",
+      "Google Analytics",
+      "Python",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "exelboutique.com",
+    "title": "Exel Boutique",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": "",
+    "crawled_at": "2026-11-17T02:02:44.92830935Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "itsmanish.com",
     "title": "Manish Srivastava | Full Stack Developer",
     "business_name": "",
@@ -12884,91 +12923,6 @@
       "UTF-8",
       "University or College",
       "Unix"
-    ]
-  },
-  {
-    "domain": "spllab.com",
-    "title": "SPL",
-    "business_name": "",
-    "country": "ESP",
-    "seo_score": 62,
-    "tech_spend": "",
-    "crawled_at": "2026-04-05T07:38:19.996993547Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "CakePHP",
-      "GZIP Module",
-      "Google Analytics",
-      "Python",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "be-smile.tech",
-    "title": "XDev – Your digital transformation partner",
-    "business_name": "",
-    "country": "EST",
-    "seo_score": 72,
-    "tech_spend": 33690,
-    "crawled_at": "2026-04-05T07:11:20.058961327Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Apache Tomcat JK",
-      "Creatio CRM",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Oracle Cloud",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "Unix",
-      "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "francoiscapone.ca",
-    "title": "François Capone - CV",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 60,
-    "tech_spend": 60,
-    "crawled_at": "2026-04-05T05:53:19.998265323Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Java EE",
-      "Nginx",
-      "Oracle Cloud",
-      "Subversion",
-      "Tailwind CSS",
-      "Visual Studio"
-    ]
-  },
-  {
-    "domain": "exelboutique.com",
-    "title": "Exel Boutique",
-    "business_name": "",
-    "country": "",
-    "seo_score": 35,
-    "tech_spend": "",
-    "crawled_at": "2026-04-05T02:50:19.98619556Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
