@@ -1,5 +1,49 @@
 [
   {
+    "domain": "prompthackerdanny.com",
+    "title": "프롬프트해커 대니 | 프롬프트해커 대니",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 240,
+    "crawled_at": "2026-11-18T21:13:55.074308368Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Google Adsense",
+      "Google Analytics",
+      "Google Funding Choices",
+      "Google Matched Content",
+      "Google Reseller",
+      "Google Tag Manager",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "Yes24",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "sztoch.pl",
+    "title": "Start | Sztoch Namespace",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": "",
+    "crawled_at": "2026-11-18T07:16:28.345432578Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Perl",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "mspsinthe.uk",
     "title": "MSPs in the UK",
     "business_name": "",
@@ -12853,57 +12897,6 @@
       "Nginx",
       "Perl",
       "Ubuntu"
-    ]
-  },
-  {
-    "domain": "miltykh.com",
-    "title": "Home | Ilia Miltykh, Researcher",
-    "business_name": "",
-    "country": "RUS",
-    "seo_score": 57,
-    "tech_spend": 600,
-    "crawled_at": "2026-04-17T23:08:20.006982817Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Perl",
-      "UTF-8",
-      "University or College"
-    ]
-  },
-  {
-    "domain": "dvarahq.com",
-    "title": "AI Gateway Built for Governance | DVARA",
-    "business_name": "Dvara",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 36579,
-    "crawled_at": "2026-04-17T17:32:20.008193486Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fireblade",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "NFOrce Internet",
-      "Perl",
-      "QUIC",
-      "UTF-8",
-      "Vector Internet Services"
     ]
   }
 ]

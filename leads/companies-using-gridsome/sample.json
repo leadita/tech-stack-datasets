@@ -1,5 +1,39 @@
 [
   {
+    "domain": "agncy.com",
+    "title": "Home – AGNCY",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 3,
+    "crawled_at": "2026-11-18T19:47:44.799653687Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Gridsome",
+      "Netlify",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "ethercdn.com",
+    "title": "Home - EtherCDN",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-11-18T03:46:03.546052338Z",
+    "technologies": [
+      "GZIP Module",
+      "Gridsome",
+      "Nginx",
+      "PWA",
+      "Tailwind CSS"
+    ]
+  },
+  {
     "domain": "fabritai.com",
     "title": "Transforming Companies Into Digital Leaders - Fabrit Global",
     "business_name": "",
@@ -490,22 +524,6 @@
       "University or College",
       "Yahoo Web Analytics",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "getpkg.io",
-    "title": "Home - GetPkg",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-11-12T13:05:16.908174359Z",
-    "technologies": [
-      "GZIP Module",
-      "Gridsome",
-      "Nginx",
-      "PWA",
-      "Tailwind CSS"
     ]
   },
   {
@@ -11940,25 +11958,6 @@
       "Netlify",
       "PHP",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "newclearstudios.com",
-    "title": "Newclear Studios - Newclear Studios",
-    "business_name": "",
-    "country": "MYS",
-    "seo_score": 40,
-    "tech_spend": 3,
-    "crawled_at": "2026-04-12T00:59:19.979143175Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Gridsome",
-      "Netlify",
-      "UTF-8",
-      "Zope"
     ]
   }
 ]
