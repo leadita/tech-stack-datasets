@@ -1,5 +1,56 @@
 [
   {
+    "domain": "stationeryzen.xyz",
+    "title": "Japanese Stationery & More - Online Shop | Stationery Zen",
+    "business_name": "Ranger Ink ",
+    "country": "SGP",
+    "seo_score": 87,
+    "tech_spend": 61977,
+    "crawled_at": "2026-11-17T17:56:06.27684697Z",
+    "technologies": [
+      "AWIN",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Aruba",
+      "Baidu Cloud",
+      "CloudFront",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "Fastly",
+      "Fireblade",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Gorgias",
+      "Instagram Follow Button",
+      "K2F",
+      "Klaviyo",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Newsletter for Wordpress",
+      "Ntent",
+      "POWr",
+      "Perl",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "Shopify Payments",
+      "Thank You",
+      "UTF-8",
+      "Yandex Hosting",
+      "YouTube",
+      "eLand",
+      "hCaptcha",
+      "jQuery",
+      "reCAPTCHA",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "realrelax.com",
     "title": "Real Relax Massage Chair | Best Zero Gravity Massage Chairs for Home",
     "business_name": "Real Relax",
@@ -36050,22 +36101,6 @@
       "Wangsu",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "brashawin.com.au",
-    "title": "brashawin.com.au - From Companions To Champions",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-04-16T08:56:20.009992021Z",
-    "technologies": [
-      "AWIN",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "QUIC",
-      "UTF-8"
     ]
   }
 ]
