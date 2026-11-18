@@ -1,5 +1,37 @@
 [
   {
+    "domain": "servicemaxxwindsor.ca",
+    "title": "AutoMAXX Windsor | Dealership in Windsor",
+    "business_name": "AutoMAXX Windsor",
+    "country": "CAN",
+    "seo_score": 82,
+    "tech_spend": 33687,
+    "crawled_at": "2026-11-18T04:09:39.435181039Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Alternate Protocol",
+      "DealerInspire",
+      "DealerSites",
+      "Express",
+      "Fastly",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "ISO/IEC 8859",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "cobourgnissan.com",
     "title": "Cobourg Nissan | Nissan Dealership in Cobourg",
     "business_name": "Cobourg Nissan",
@@ -742,38 +774,6 @@
       "YouTube",
       "shadcn ui",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "automaxxxwindsor.ca",
-    "title": "AutoMAXX Windsor | Dealership in Windsor",
-    "business_name": "AutoMAXX Windsor",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 33687,
-    "crawled_at": "2026-11-07T02:37:17.113646965Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Alternate Protocol",
-      "DealerInspire",
-      "DealerSites",
-      "Express",
-      "Fastly",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "ISO/IEC 8859",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8"
     ]
   },
   {
