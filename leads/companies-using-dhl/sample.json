@@ -1,5 +1,26 @@
 [
   {
+    "domain": "alfalahcargo.net",
+    "title": "BAB AL FALAH MARINE CARGO",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": "",
+    "crawled_at": "2026-11-18T13:56:13.250144261Z",
+    "technologies": [
+      "Apache",
+      "Blue Dart",
+      "DHL Parcel",
+      "Delhivery",
+      "FedEx",
+      "GZIP Module",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "i-eung.com",
     "title": "Korean Books Store – leung",
     "business_name": "",
@@ -19022,37 +19043,6 @@
       "Twitter Ads",
       "UTF-8",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "tmcportal.app",
-    "title": "TMC Portal",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 9403,
-    "crawled_at": "2026-04-18T06:38:20.00234141Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Cloudflare",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "DHL Parcel",
-      "Express",
-      "FedEx",
-      "Fireblade",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Netlify",
-      "Open Collective",
-      "QUIC",
-      "RM Education",
-      "Tailwind CSS",
-      "UPS",
-      "USPS",
-      "UTF-8",
-      "WordPress",
-      "jsDelivr"
     ]
   }
 ]
