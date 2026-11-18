@@ -1,5 +1,37 @@
 [
   {
+    "domain": "higheredjobline.com",
+    "title": "The Leading Job Board for Top Talent and Employers in Higher Ed | HigherEdJobLine.com",
+    "business_name": "HigherEdJobLine",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 106999,
+    "crawled_at": "2026-11-18T04:51:24.178850496Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Authorize.net",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Didomi",
+      "Financial Services Guide",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "HigherEducation",
+      "IcoMoon",
+      "JOBIQO",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Perl",
+      "QUIC",
+      "Thank You",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "imperiaonline.bg",
     "title": "Imperia Online – Game production company",
     "business_name": "",
@@ -19246,31 +19278,6 @@
       "Nginx",
       "Nuxt.js",
       "Thank You",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "investisseur-immobilier.com",
-    "title": "Valérie De Foy | Residential and Commercial Real Estate Broker at RE/MAX Signature",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 21779,
-    "crawled_at": "2026-04-18T21:25:42.898465172Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cornerstone",
-      "Didomi",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "Nuxt.js",
       "UTF-8"
     ]
   }
