@@ -8426,44 +8426,5 @@
       "comScore",
       "jQuery"
     ]
-  },
-  {
-    "domain": "drwandawalker.com",
-    "title": "Wanda_Walker",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 65,
-    "tech_spend": 11237,
-    "crawled_at": "2026-04-05T16:11:19.977244012Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Calendly",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "Elementor",
-      "EmbedPress",
-      "Flat Icon",
-      "FreeCSSTemplates",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Materialize CSS",
-      "NFOrce Internet",
-      "PHP",
-      "Pico CSS",
-      "Sucuri Cloudproxy",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "Workplace from Meta",
-      "hCaptcha",
-      "hCaptcha for WordPress",
-      "jQuery",
-      "reCAPTCHA"
-    ]
   }
 ]
