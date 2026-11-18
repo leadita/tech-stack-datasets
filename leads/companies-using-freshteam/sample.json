@@ -1,5 +1,37 @@
 [
   {
+    "domain": "impledge.com",
+    "title": "Impledge Technologies",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 75,
+    "tech_spend": 19790,
+    "crawled_at": "2026-11-18T09:18:55.023455511Z",
+    "technologies": [
+      "ASP.NET Core",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Elastic Beanstalk",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Automattic",
+      "CloudFront",
+      "Content Delivery Network",
+      "Freshteam",
+      "GZIP Module",
+      "Google Cloud Functions",
+      "Google My Business",
+      "HubSpot Conversations",
+      "Hubspot",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "PHP",
+      "Tailwind CSS",
+      "Visual Studio",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "doorsmith.ca",
     "title": "Doorsmith Home - Proud Canadian Manufacturer Interior & Exterior Doors",
     "business_name": "Doorsmith",
@@ -2609,38 +2641,6 @@
       "UTF-8",
       "WF Cookie Consent",
       "eLand"
-    ]
-  },
-  {
-    "domain": "impledge.com",
-    "title": "Impledge Technologies",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 65,
-    "tech_spend": 19790,
-    "crawled_at": "2026-04-05T14:38:06.267876653Z",
-    "technologies": [
-      "ASP.NET Core",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Elastic Beanstalk",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "Automattic",
-      "CloudFront",
-      "Content Delivery Network",
-      "Freshteam",
-      "GZIP Module",
-      "Google Cloud Functions",
-      "Google My Business",
-      "HubSpot Conversations",
-      "Hubspot",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "PHP",
-      "Tailwind CSS",
-      "Visual Studio",
-      "jQuery"
     ]
   }
 ]

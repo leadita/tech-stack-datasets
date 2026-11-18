@@ -1,5 +1,36 @@
 [
   {
+    "domain": "orderwriter.nl",
+    "title": "OrderWriter - Connected Brands",
+    "business_name": "Fashion Cloud",
+    "country": "DEU",
+    "seo_score": 87,
+    "tech_spend": 17635,
+    "crawled_at": "2026-11-18T15:19:48.963068028Z",
+    "technologies": [
+      "Alibaba Cloud CDN",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Intercom",
+      "Microdata for Google Shopping",
+      "Recruitee",
+      "UTF-8",
+      "WF Cookie Consent",
+      "Weglot",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "climateactionaccelerator.org",
     "title": "Climate Action Accelerator",
     "business_name": "",
@@ -1668,38 +1699,6 @@
       "Recruitee",
       "Styled Components",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "fashioncloud.co",
-    "title": "Transform your Wholesale Business with Fashion Cloud",
-    "business_name": "Fashion Cloud",
-    "country": "DEU",
-    "seo_score": 82,
-    "tech_spend": 17635,
-    "crawled_at": "2026-10-11T18:16:54.524835856Z",
-    "technologies": [
-      "Alibaba Cloud CDN",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Intercom",
-      "Microdata for Google Shopping",
-      "Recruitee",
-      "Tailwind CSS",
-      "UTF-8",
-      "WF Cookie Consent",
-      "Weglot",
-      "jsDelivr"
     ]
   },
   {
@@ -9498,33 +9497,6 @@
       "Website Tonight",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "momomedical.com",
-    "title": "Momo Medical | Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 23335,
-    "crawled_at": "2026-04-05T13:31:11.15915745Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Next.js",
-      "Nginx",
-      "Plausible Analytics",
-      "QUIC",
-      "Recruitee",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]
