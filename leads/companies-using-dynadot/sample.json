@@ -1,5 +1,30 @@
 [
   {
+    "domain": "phoenixheartflame.com",
+    "title": "Phoenix Heart Flame",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 10368,
+    "crawled_at": "2026-11-18T10:36:34.698363385Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon CloudFront",
+      "ArvanCloud",
+      "CloudFront",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "KVH",
+      "Microdata for Google Shopping",
+      "Subversion",
+      "UTF-8",
+      "Waveform Technology",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "stocksale.org",
     "title": "Digital Real Estate Specialist",
     "business_name": "",
@@ -4423,27 +4448,6 @@
       "Website Tonight",
       "ePages",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "phoenixheartflame.com",
-    "title": "Phoenix Heart Flame",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 267,
-    "crawled_at": "2026-04-05T15:08:19.994100914Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "ArvanCloud",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]

@@ -1,5 +1,24 @@
 [
   {
+    "domain": "supportimation.com",
+    "title": "RimuHosting - RimuHosting Info",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 62,
+    "tech_spend": 15878,
+    "crawled_at": "2026-11-17T17:37:47.645808035Z",
+    "technologies": [
+      "Apache",
+      "Chatlio",
+      "Debian",
+      "Drata",
+      "GZIP Module",
+      "QUIC",
+      "UTF-8",
+      "Zonomi"
+    ]
+  },
+  {
     "domain": "sportzonomics.com",
     "title": "Sportzonomics | Empower Young Athletes Today!",
     "business_name": "Sportzonomics",
@@ -210,27 +229,6 @@
       "YouTube",
       "Zonomi",
       "Zyro"
-    ]
-  },
-  {
-    "domain": "launchtimevps.com",
-    "title": "RimuHosting",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 6178,
-    "crawled_at": "2026-09-03T09:51:00.226010651Z",
-    "technologies": [
-      "Apache",
-      "Chatlio",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Debian",
-      "GZIP Module",
-      "OpenSSL",
-      "Parallels Plesk Panel",
-      "Perl",
-      "Zonomi",
-      "mod_perl"
     ]
   },
   {
@@ -848,25 +846,6 @@
       "Unsplash",
       "Zonomi",
       "Zyro"
-    ]
-  },
-  {
-    "domain": "supportimation.com",
-    "title": "RimuHosting - RimuHosting Info",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 62,
-    "tech_spend": 15878,
-    "crawled_at": "2026-04-05T08:53:19.989478257Z",
-    "technologies": [
-      "Apache",
-      "Chatlio",
-      "Debian",
-      "Drata",
-      "GZIP Module",
-      "QUIC",
-      "UTF-8",
-      "Zonomi"
     ]
   }
 ]
