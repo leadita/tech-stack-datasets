@@ -1,5 +1,35 @@
 [
   {
+    "domain": "harishkhollam.com",
+    "title": "Harish Khollam — AI practitioner, builder, connector",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 67,
+    "tech_spend": 20394,
+    "crawled_at": "2026-11-17T23:59:25.890678024Z",
+    "technologies": [
+      "AI Log",
+      "AWS WAF Challenge",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Python",
+      "Tableau",
+      "Tailwind CSS",
+      "University or College",
+      "Unsplash",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "wici.ca",
     "title": "Applying complexity science to real world problems | Waterloo Institute for Complexity & Innovation | University of Waterloo",
     "business_name": "",
@@ -17680,34 +17710,6 @@
       "WordPress",
       "WordPress Multisite",
       "WordPress Stats"
-    ]
-  },
-  {
-    "domain": "gregorymorris.dev",
-    "title": "Gregory Morris Product Manager / Data Scientist",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 24528,
-    "crawled_at": "2026-05-02T21:29:20.004285864Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Endis",
-      "Fastly",
-      "Figma",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google My Business",
-      "IcoMoon",
-      "Python",
-      "Tableau",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Vector Internet Services"
     ]
   }
 ]

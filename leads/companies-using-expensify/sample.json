@@ -1,12 +1,12 @@
 [
   {
-    "domain": "reisesupermarkt24.com",
+    "domain": "vlucht-supermarkt.com",
     "title": "Search Flights, Hotels & Rental Cars | KAYAK",
     "business_name": "Kayak",
     "country": "USA",
     "seo_score": 77,
-    "tech_spend": 227564,
-    "crawled_at": "2026-11-16T10:04:55.17846629Z",
+    "tech_spend": 202564,
+    "crawled_at": "2026-11-17T19:23:53.896917784Z",
     "technologies": [
       "Affirm",
       "Agoda",
@@ -24,7 +24,6 @@
       "Content Delivery Network",
       "Cornerstone",
       "Criteo Reseller",
-      "DC74",
       "DoubleClick Bid Manager",
       "Engage",
       "Expensify",
@@ -63,11 +62,9 @@
       "SMC",
       "Share Link",
       "SiteW",
-      "Snowplow",
       "Subversion",
       "UTF-8",
       "Vector Internet Services",
-      "Visx",
       "WordPress SEO Structured Data Schema Plugin",
       "YouTube",
       "eLand"
