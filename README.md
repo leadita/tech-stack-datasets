@@ -41,7 +41,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using PayPal](./leads/companies-using-paypal) (63,588 companies)
 - [Companies using Adyen](./leads/companies-using-adyen) (220 companies)
 - [Companies using Braintree](./leads/companies-using-braintree) (2,470 companies)
-- [Companies using Authorize.net](./leads/companies-using-authorize.net) (103,677 companies)
+- [Companies using Authorize.net](./leads/companies-using-authorize.net) (103,675 companies)
 - [Companies using Klarna](./leads/companies-using-klarna) (4,843 companies)
 - [Companies using Affirm](./leads/companies-using-affirm) (2,571 companies)
 - [Companies using Afterpay](./leads/companies-using-afterpay) (5,849 companies)
@@ -49,10 +49,10 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Google Pay](./leads/companies-using-google-pay) (3,024 companies)
 
 ### Advertising
-- [Companies using Google Adsense](./leads/companies-using-google-adsense) (84,638 companies)
+- [Companies using Google Adsense](./leads/companies-using-google-adsense) (84,637 companies)
 - [Companies using Amazon Advertising](./leads/companies-using-amazon-advertising) (189 companies)
 - [Companies using AppNexus](./leads/companies-using-appnexus) (5,500 companies)
-- [Companies using Taboola](./leads/companies-using-taboola) (13,214 companies)
+- [Companies using Taboola](./leads/companies-using-taboola) (13,213 companies)
 - [Companies using Outbrain](./leads/companies-using-outbrain) (2,799 companies)
 - [Companies using Criteo](./leads/companies-using-criteo) (3,701 companies)
 - [Companies using Media.net](./leads/companies-using-media.net) (9,613 companies)
@@ -72,7 +72,7 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using Refersion](./leads/companies-using-refersion) (1,099 companies)
 
 ### Analytics
-- [Companies using Google Analytics](./leads/companies-using-google-analytics) (2,609,070 companies)
+- [Companies using Google Analytics](./leads/companies-using-google-analytics) (2,609,055 companies)
 - [Companies using Mixpanel](./leads/companies-using-mixpanel) (6,747 companies)
 - [Companies using Amplitude](./leads/companies-using-amplitude) (7,250 companies)
 - [Companies using Heap](./leads/companies-using-heap) (2,241 companies)
@@ -80,10 +80,10 @@ A comprehensive, freely accessible dataset containing real-world company data pa
 - [Companies using FullStory](./leads/companies-using-fullstory) (1,727 companies)
 - [Companies using Segment](./leads/companies-using-segment) (9,429 companies)
 - [Companies using Matomo](./leads/companies-using-matomo) (40,512 companies)
-- [Companies using CrazyEgg](./leads/companies-using-crazyegg) (8,320 companies)
+- [Companies using CrazyEgg](./leads/companies-using-crazyegg) (8,319 companies)
 
 ### Artificial Intelligence
-- [Companies using OpenAI](./leads/companies-using-openai) (9,337 companies)
+- [Companies using OpenAI](./leads/companies-using-openai) (9,338 companies)
 - [Companies using Intercom](./leads/companies-using-intercom) (12,453 companies)
 - [Companies using Algolia](./leads/companies-using-algolia) (2,306 companies)
 - [Companies using Ada Support](./leads/companies-using-ada-support) (146 companies)
