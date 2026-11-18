@@ -1,5 +1,31 @@
 [
   {
+    "domain": "movementchiropractic.ca",
+    "title": "Chiropractic, Massage, Physio & more - Movement Chiropractic Saskatoon",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 29580,
+    "crawled_at": "2026-11-18T09:18:55.087000815Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Clinic Sites",
+      "CloudFront",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Jane App",
+      "KVH",
+      "Ruby on Rails",
+      "Sentry",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "integratedsenses.com",
     "title": "Pediatric Pelvic Floor Therapy in Parsippany, NJ | Integrated Senses",
     "business_name": "",
@@ -16048,50 +16074,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "sukoonmentalhealth.com",
-    "title": "Home –",
-    "business_name": "",
-    "country": "BGD",
-    "seo_score": 77,
-    "tech_spend": 37218,
-    "crawled_at": "2026-04-25T00:41:19.977847337Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Astra Theme",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "EmbedPress",
-      "GenerateBlocks",
-      "GoDaddy",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "InitiativeS",
-      "Jane App",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Theme In WP",
-      "Tidio",
-      "Twitter Ads",
-      "UTF-8",
-      "Ultimate Addons for Gutenberg",
-      "University or College",
-      "Wangsu",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "jQuery"
     ]
   }
 ]
