@@ -1,12 +1,12 @@
 [
   {
-    "domain": "stemcell.clothing",
+    "domain": "stemcell.ca",
     "title": "STEMCELL Technologies",
-    "business_name": "",
+    "business_name": "STEMCELL Technologies",
     "country": "",
-    "seo_score": 77,
-    "tech_spend": 742493,
-    "crawled_at": "2026-11-16T23:41:19.501089481Z",
+    "seo_score": 57,
+    "tech_spend": 185560,
+    "crawled_at": "2026-11-18T20:37:53.644298824Z",
     "technologies": [
       "AJAX Libraries API",
       "Adobe Analytics",
@@ -52,6 +52,7 @@
       "LiveChat Monitoring",
       "Magento",
       "Magento Enterprise",
+      "Microdata for Google Shopping",
       "Microsoft Clarity",
       "New Relic",
       "Oribi Analytics",
