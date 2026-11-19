@@ -1,5 +1,28 @@
 [
   {
+    "domain": "sandiegoradtechjobs.com",
+    "title": "Search Imaging and Radiology Jobs at SHARP HEALTHCARE",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 267336,
+    "crawled_at": "2026-11-19T16:58:08.118879631Z",
+    "technologies": [
+      "ASP.NET Core",
+      "AWS WAF Challenge",
+      "FormSubmit",
+      "GZIP Module",
+      "Google My Business",
+      "Hotjar",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "Workday",
+      "YouTube",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "aqueductcap.com",
     "title": "Primary Fund Placement",
     "business_name": "",
@@ -650,29 +673,6 @@
       "YouTube",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "sandiegonursing.com",
-    "title": "Nursing jobs at SHARP HEALTHCARE",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 266296,
-    "crawled_at": "2026-11-14T19:18:38.193640343Z",
-    "technologies": [
-      "ASP.NET Core",
-      "AWS WAF Challenge",
-      "FormSubmit",
-      "GZIP Module",
-      "Google My Business",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College",
-      "Workday",
-      "YouTube",
-      "reCAPTCHA"
     ]
   },
   {

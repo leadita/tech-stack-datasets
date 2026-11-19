@@ -1,5 +1,59 @@
 [
   {
+    "domain": "evolvestudios.film",
+    "title": "Evolve Studios - Film, TV and Commercial Production & Post - Evolve Studios",
+    "business_name": "Evolve Studios",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 21764,
+    "crawled_at": "2026-11-18T20:14:43.389020446Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Breezy HR",
+      "BunnyCDN",
+      "BunnyCDN General",
+      "Cloudflare",
+      "Content Delivery Network",
+      "DAV",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Gravity",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "blackinkservices.com",
+    "title": "Black Ink | Client Accounting Services in Brooklyn & Austin | Black Ink Business Services",
+    "business_name": "Black Ink Business Services",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 14992,
+    "crawled_at": "2026-11-18T19:18:22.707988592Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Breezy HR",
+      "Cloudinary",
+      "Content Delivery Network",
+      "DAV",
+      "Express",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Next.js",
+      "RM Education",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "harthickman.com",
     "title": "Environmental Consulting Near Me | Raleigh NC | Charlotte NC",
     "business_name": "Hart & Hickman",
@@ -11189,30 +11243,6 @@
     ]
   },
   {
-    "domain": "evolve.studio",
-    "title": "Home - Production Studio - Evolve Studios",
-    "business_name": "Evolve Studios",
-    "country": "United States of America",
-    "seo_score": 82,
-    "tech_spend": 3164,
-    "crawled_at": "2026-05-07T00:50:20.005432755Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Breezy HR",
-      "Cloudflare",
-      "Content Delivery Network",
-      "DAV",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Twitter Ads",
-      "UTF-8",
-      "University or College"
-    ]
-  },
-  {
     "domain": "tiebar.com",
     "title": "Men's Ties & Bow Ties | Shop 500+ Styles | The Tie Bar",
     "business_name": "The Tie Bar",
@@ -17173,28 +17203,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "blackinkservices.com",
-    "title": "Black Ink Business Services | Bookkeeping, Controller & Advisory | Black Ink Business Services",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 14992,
-    "crawled_at": "2026-04-05T18:44:20.004523726Z",
-    "technologies": [
-      "Breezy HR",
-      "Cloudinary",
-      "Content Delivery Network",
-      "DAV",
-      "Express",
-      "Netlify",
-      "Next.js",
-      "RM Education",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
