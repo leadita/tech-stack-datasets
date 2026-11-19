@@ -1,5 +1,39 @@
 [
   {
+    "domain": "areabuild.com",
+    "title": "Area Builders | Full-Service Commercial Contractors NYC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 111733,
+    "crawled_at": "2026-11-19T03:06:29.633796Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "ArvanCloud",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Contento",
+      "Express",
+      "FedEx",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Microsoft 365",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "thdalling.com",
     "title": "TH Dalling | Buy Tobacco Products Online – Buy Tobacco Products Online from the UK",
     "business_name": "",
@@ -19320,33 +19354,6 @@
       "University or College",
       "Vector Internet Services",
       "Vimeo",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
-    ]
-  },
-  {
-    "domain": "wildperspectivesphotography.com",
-    "title": "Wild Perspectives Photography",
-    "business_name": "Wild Perspectives Photography",
-    "country": "EGY",
-    "seo_score": 62,
-    "tech_spend": 3753,
-    "crawled_at": "2026-04-27T20:59:19.979822276Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "FedEx",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
     ]
