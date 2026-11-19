@@ -1,5 +1,25 @@
 [
   {
+    "domain": "canaraappliances.com",
+    "title": "Manufacturer of instant wet grinders, Table top and tilting small instant wet grinders, Coconut scrapper,citrus juicer for household 02litres and 03 Ltrs.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 102,
+    "crawled_at": "2026-11-19T06:43:38.256593546Z",
+    "technologies": [
+      "ConvertFlow",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Juicer DMP",
+      "Nginx",
+      "Tailwind CSS",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "siyela.com",
     "title": "Join",
     "business_name": "",
@@ -15265,62 +15285,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "canaraappliances.com",
-    "title": "Manufacturer of instant wet grinders, Table top and tilting small instant wet grinders, Coconut scrapper,citrus juicer for household 02litres and 03 Ltrs.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 102,
-    "crawled_at": "2026-04-05T23:08:20.00666239Z",
-    "technologies": [
-      "ConvertFlow",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Juicer DMP",
-      "Nginx",
-      "Tailwind CSS",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "robertsrealtyteam.com",
-    "title": "Home Search",
-    "business_name": "",
-    "country": "",
-    "seo_score": 37,
-    "tech_spend": 17801,
-    "crawled_at": "2026-04-05T22:35:19.985346178Z",
-    "technologies": [
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon S3 CDN",
-      "Apture Linking Platform",
-      "Cisco/Arrowpoint Content Service Switch",
-      "CloudFront",
-      "Coming Soon Page",
-      "Contentful",
-      "Contento",
-      "ConvertFlow",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google Tag Manager",
-      "Keller Williams Realty",
-      "Material-UI",
-      "Nationwide Mortgage Licensing System and Registry",
-      "No-Q",
-      "QUIC",
-      "Storyblocks",
-      "Thank You",
-      "UTF-8",
-      "Ylopo"
     ]
   }
 ]
