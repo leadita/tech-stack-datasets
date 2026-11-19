@@ -1,5 +1,30 @@
 [
   {
+    "domain": "usap.co.ke",
+    "title": "Home - USAP United Super Alliance Party",
+    "business_name": "",
+    "country": "KEN",
+    "seo_score": 65,
+    "tech_spend": 16500,
+    "crawled_at": "2026-11-19T04:04:43.953477505Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Create React App",
+      "Django",
+      "Fireblade",
+      "GZIP Module",
+      "NFOrce Internet",
+      "Nginx",
+      "Perl",
+      "Pleroma",
+      "Tailwind CSS",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "esignatures-plugin-dev1.b12.io",
     "title": "Smart websites at your service | B12",
     "business_name": "",
@@ -8457,31 +8482,6 @@
       "Ubuntu",
       "Vector Internet Services",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "usap.co.ke",
-    "title": "Home - USAP United Super Alliance Party",
-    "business_name": "",
-    "country": "KEN",
-    "seo_score": 70,
-    "tech_spend": 16500,
-    "crawled_at": "2026-04-05T22:08:20.003171013Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Create React App",
-      "Django",
-      "Fireblade",
-      "GZIP Module",
-      "NFOrce Internet",
-      "Nginx",
-      "Perl",
-      "Pleroma",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr"
     ]
   }
 ]
