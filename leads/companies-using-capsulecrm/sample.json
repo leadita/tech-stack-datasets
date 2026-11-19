@@ -1,5 +1,34 @@
 [
   {
+    "domain": "velg.co",
+    "title": "monday.com Partner in Poland — since 2017 | Velg",
+    "business_name": "",
+    "country": "ITA",
+    "seo_score": 77,
+    "tech_spend": 46500,
+    "crawled_at": "2026-11-19T11:59:12.597111301Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon WAF Blocked",
+      "Astro",
+      "CapsuleCRM",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "DAV",
+      "Google Analytics",
+      "Google Tag Manager",
+      "M247",
+      "Microdata for Google Shopping",
+      "Pico CSS",
+      "RM Education",
+      "University or College",
+      "monday.com"
+    ]
+  },
+  {
     "domain": "scotchwhiskyinvestments.com",
     "title": "Scotch Whisky Investments | Home",
     "business_name": "Scotch Whisky Investments",
