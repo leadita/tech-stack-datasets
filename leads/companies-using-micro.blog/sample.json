@@ -1,5 +1,62 @@
 [
   {
+    "domain": "issact.co",
+    "title": "isaact.co",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 107477,
+    "crawled_at": "2026-11-19T10:01:49.330226787Z",
+    "technologies": [
+      "Accordion Blocks",
+      "Accordion FAQ",
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Calendly",
+      "Contento",
+      "Express",
+      "GZIP Module",
+      "Google Related Website Sites",
+      "Line2",
+      "Magento Enterprise",
+      "Mastodon",
+      "Micro.blog",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "Vector Internet Services",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "alexandrasamuel.com",
+    "title": "Alexandra Samuel: work the way you're wired",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 72,
+    "tech_spend": 35160,
+    "crawled_at": "2026-11-18T13:03:19.648407957Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "KVH",
+      "Medium",
+      "Micro.blog",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "tookish.net",
     "title": "Noah St. Amand: Web Development, Upright & Electric Bass",
     "business_name": "",
@@ -1952,39 +2009,6 @@
       "WordPress Stats",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "isaacterronez.com",
-    "title": "isaact.co",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 107477,
-    "crawled_at": "2026-08-16T10:30:00.473111121Z",
-    "technologies": [
-      "Accordion Blocks",
-      "Accordion FAQ",
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Calendly",
-      "Contento",
-      "Express",
-      "GZIP Module",
-      "Google Related Website Sites",
-      "Line2",
-      "Magento Enterprise",
-      "Mastodon",
-      "Micro.blog",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "Vector Internet Services",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "eLand"
     ]
   },
   {
@@ -7422,26 +7446,6 @@
       "WordPress",
       "WordPress Multisite",
       "WordPress Stats"
-    ]
-  },
-  {
-    "domain": "hollyhoneychurch.com",
-    "title": "Holly Honeychurch",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 1309,
-    "crawled_at": "2026-04-05T20:26:19.980078722Z",
-    "technologies": [
-      "Band Camp",
-      "Camp",
-      "Content Delivery Network",
-      "Fastly",
-      "Micro.blog",
-      "Microdata for Google Shopping",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube"
     ]
   }
 ]

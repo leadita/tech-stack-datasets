@@ -1,5 +1,43 @@
 [
   {
+    "domain": "gbigardentour.nz",
+    "title": "GBI Garden Tour",
+    "business_name": "",
+    "country": "SGP",
+    "seo_score": 77,
+    "tech_spend": 15149,
+    "crawled_at": "2026-11-19T06:25:31.287954863Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Booking Affiliate",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "DAV",
+      "Microdata for Google Shopping",
+      "Publii",
+      "Tailwind CSS",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
+    "domain": "ilkawege.de",
+    "title": "Praxis Ilka Wege",
+    "business_name": "Praxis Ilka Wege",
+    "country": "",
+    "seo_score": 40,
+    "tech_spend": 49,
+    "crawled_at": "2026-11-19T01:48:05.204010781Z",
+    "technologies": [
+      "Alternate Protocol",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "Publii",
+      "WordPress SEO Structured Data Schema Plugin"
+    ]
+  },
+  {
     "domain": "murtezayesil.me",
     "title": "Murteza Yesil",
     "business_name": "Murteza Yesil",
@@ -7972,43 +8010,6 @@
       "Square",
       "Tailwind CSS",
       "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "gbigardentour.nz",
-    "title": "Spectacular by Nature - GBIGT",
-    "business_name": "",
-    "country": "SGP",
-    "seo_score": 72,
-    "tech_spend": 149,
-    "crawled_at": "2026-04-05T23:02:19.981852471Z",
-    "technologies": [
-      "Booking Affiliate",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Microdata for Google Shopping",
-      "Publii",
-      "Tailwind CSS",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
-  },
-  {
-    "domain": "ilkawege.de",
-    "title": "Praxis Ilka Wege",
-    "business_name": "Praxis Ilka Wege",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 49,
-    "crawled_at": "2026-04-05T21:16:17.923849005Z",
-    "technologies": [
-      "Alternate Protocol",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "Publii",
-      "QUIC",
       "WordPress SEO Structured Data Schema Plugin"
     ]
   }
