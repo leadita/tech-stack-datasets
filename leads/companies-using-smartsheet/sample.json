@@ -1,5 +1,27 @@
 [
   {
+    "domain": "eondanjaq.com",
+    "title": "Brandfolder - The Most Usable Digital Asset Management Platform",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 48300,
+    "crawled_at": "2026-11-19T16:20:33.454215797Z",
+    "technologies": [
+      "Better Lead Generation Services",
+      "Bizible",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Next.js",
+      "QUIC",
+      "Smartsheet",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "solidword.ca",
     "title": "solidword.ca - New York",
     "business_name": "",
@@ -4922,30 +4944,6 @@
       "jQuery",
       "reCAPTCHA",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "bf-preprod.com",
-    "title": "Brandfolder - The Most Usable Digital Asset Management Platform",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 133300,
-    "crawled_at": "2026-08-26T14:07:42.354824654Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "Bizible",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "K2F",
-      "Next.js",
-      "Optimizely Recommendations",
-      "QUIC",
-      "Smartsheet",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
@@ -16643,29 +16641,6 @@
       "WordPress",
       "WordPress Multisite",
       "WordPress Related Posts",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "hea.gov.ba",
-    "title": "HEA BiH",
-    "business_name": "",
-    "country": "BIH",
-    "seo_score": 60,
-    "tech_spend": 327,
-    "crawled_at": "2026-04-06T01:51:01.230589358Z",
-    "technologies": [
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "HostGator",
-      "Parallels Plesk Panel",
-      "Smartsheet",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "WordPress",
       "jQuery"
     ]
   }
