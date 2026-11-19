@@ -1,5 +1,25 @@
 [
   {
+    "domain": "startboostclass.com",
+    "title": "BoostClass - AI class activities, feedback and practice for language teachers",
+    "business_name": "GoTeach",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 63,
+    "crawled_at": "2026-11-19T10:01:49.32188696Z",
+    "technologies": [
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "YouCanBookMe"
+    ]
+  },
+  {
     "domain": "pimgroup.org",
     "title": "Apprenticeships | Workforce Development",
     "business_name": "",
@@ -7732,25 +7752,6 @@
       "Perl",
       "Storyblocks",
       "Telegram",
-      "YouCanBookMe"
-    ]
-  },
-  {
-    "domain": "talentstreamline.org",
-    "title": "BoostClass - AI class activities, feedback and practice for language teachers",
-    "business_name": "GoTeach",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 3088,
-    "crawled_at": "2026-09-30T20:18:08.479032245Z",
-    "technologies": [
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
       "YouCanBookMe"
     ]
   },
