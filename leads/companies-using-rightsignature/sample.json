@@ -1870,43 +1870,5 @@
       "Zendesk Guide",
       "jQuery"
     ]
-  },
-  {
-    "domain": "acscardio.com",
-    "title": "Cardiovascular Care in Beaumont, Jasper, and Woodville, TX | ACS",
-    "business_name": "Advanced Cardiovascular Specialists",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 18559,
-    "crawled_at": "2026-04-05T21:26:19.995083594Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Advertising.com",
-      "Alternate Protocol",
-      "Cloudflare",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Font Awesome",
-      "Genesis Blocks",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "LayerSlider Responsive",
-      "Microdata for Google Shopping",
-      "PHP",
-      "RightSignature",
-      "Strong Testimonials",
-      "StudioPress",
-      "Theme In WP",
-      "UTF-8",
-      "UserWay",
-      "WP Engine",
-      "WordPress",
-      "WordPress Multisite",
-      "Yelp Badge",
-      "jQuery"
-    ]
   }
 ]
