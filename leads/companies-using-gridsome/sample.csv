@@ -1,4 +1,5 @@
 domain,title,business_name,country,seo_score,tech_spend,crawled_at,technologies
+design-sprint-series.de,Design-Sprint-Series - Design-Sprint,,ZAF,55,5000,2026-11-19T03:22:24.436301761Z,"['Gridsome', 'M247', 'Nginx']"
 agncy.com,Home – AGNCY,,,42,3,2026-11-18T19:47:44.799653687Z,"['Apture Linking Platform', 'Content Delivery Network', 'Google Cloud DNS', 'Google Font API', 'Gridsome', 'Netlify', 'UTF-8']"
 ethercdn.com,Home - EtherCDN,,USA,57,,2026-11-18T03:46:03.546052338Z,"['GZIP Module', 'Gridsome', 'Nginx', 'PWA', 'Tailwind CSS']"
 fabritai.com,Transforming Companies Into Digital Leaders - Fabrit Global,,GBR,82,138230,2026-11-17T15:58:45.181220534Z,"['Apache', 'Clutch', 'DAV', 'Federal Deposit Insurance Corporation', 'Financial Services Guide', 'GZIP Module', 'Google Cloud DNS', 'Google Font API', 'Google Related Website Sites', 'Gridsome', 'HMDG', 'HubSpot Conversations', 'Hubspot', 'K2F', 'KVH', 'Medium', 'Nationwide Mortgage Licensing System and Registry', 'No-Q', 'SMC', 'Silicon Valley Web Hosting', 'Subversion', 'Tailwind CSS']"
@@ -498,4 +499,3 @@ pow.lat,POW. Soluciones digitales a medida.,POW,ARG,82,2549,2026-04-13T20:50:20.
 barbersofmayfair.com,Barbers of Mayfair,,AUS,57,2250,2026-04-13T20:35:20.010806955Z,"['Content Delivery Network', 'Gridsome', 'Idaq', 'Instagram Follow Button', 'Netlify', 'Phorest', 'UTF-8']"
 rilton.art.br,rilton.art.br - front-end dev & ux designer,,AUS,62,45558,2026-04-13T16:43:18.746335617Z,"['Content Delivery Network', 'DAV', 'Express', 'Financial Services Guide', 'Gridsome', 'K2F', 'KVH', 'Netlify', 'No-Q', 'UTF-8', 'Visx']"
 jacobpaulcarpenter.com,Home - Jacob Carpenter | Front End Developer,,USA,72,427,2026-04-13T07:08:20.009718074Z,"['Content Delivery Network', 'Craft', 'GitHub Hosting', 'Google Cloud DNS', 'Google Font API', 'Gridsome', 'Instagram Follow Button', 'Netlify', 'Tailwind CSS', 'Twitter Ads', 'UTF-8']"
-sghopkins.com,Stuart Hopkins - Gridsome,,,50,,2026-04-12T19:13:59.967835201Z,"['Content Delivery Network', 'Gridsome', 'Netlify', 'PHP', 'UTF-8']"

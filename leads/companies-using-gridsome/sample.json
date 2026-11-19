@@ -1,5 +1,19 @@
 [
   {
+    "domain": "design-sprint-series.de",
+    "title": "Design-Sprint-Series - Design-Sprint",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 55,
+    "tech_spend": 5000,
+    "crawled_at": "2026-11-19T03:22:24.436301761Z",
+    "technologies": [
+      "Gridsome",
+      "M247",
+      "Nginx"
+    ]
+  },
+  {
     "domain": "agncy.com",
     "title": "Home – AGNCY",
     "business_name": "",
@@ -11941,22 +11955,6 @@
       "Netlify",
       "Tailwind CSS",
       "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "sghopkins.com",
-    "title": "Stuart Hopkins - Gridsome",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": "",
-    "crawled_at": "2026-04-12T19:13:59.967835201Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "Netlify",
-      "PHP",
       "UTF-8"
     ]
   }

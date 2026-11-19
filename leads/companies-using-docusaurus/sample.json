@@ -1,5 +1,70 @@
 [
   {
+    "domain": "seaworks.io",
+    "title": "Home | SEAWORKS.IO - USV, Electrical engineering",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": "",
+    "crawled_at": "2026-11-19T17:17:48.317045417Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "hackviser.com",
+    "title": "Learn Cybersecurity & Ethical Hacking | Hackviser",
+    "business_name": "Hackviser",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 17440,
+    "crawled_at": "2026-11-19T13:20:41.939156597Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "DAV",
+      "Discord",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Perl",
+      "Telegram",
+      "University or College"
+    ]
+  },
+  {
+    "domain": "imadrasa.app",
+    "title": "iMadrasa",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 39,
+    "crawled_at": "2026-11-19T10:09:33.802540514Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "Docusaurus",
+      "Perl",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "prompthackerdanny.com",
     "title": "프롬프트해커 대니 | 프롬프트해커 대니",
     "business_name": "",
@@ -12836,67 +12901,6 @@
       "Perl",
       "Plausible Analytics",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "paff-shell.com",
-    "title": "strider@paff-shell.com | strider@paff-shell.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2026-04-18T19:32:20.020771252Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "GZIP Module",
-      "GitHub Hosting",
-      "KaTeX",
-      "Mastodon",
-      "Perl",
-      "Tailwind CSS",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "smashbrosshineon.com",
-    "title": "Super Smash Bros 6 Fan Proposal — Shine On | Super Smash Bros 6",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 75948,
-    "crawled_at": "2026-04-18T12:32:08.431391374Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Google Related Website Sites",
-      "K2F",
-      "Nationwide Mortgage Licensing System and Registry",
-      "Netlify",
-      "Perl",
-      "SMC",
-      "Subversion",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "shira.app",
-    "title": "Shira",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2026-04-18T12:29:20.007073982Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Nginx",
-      "Perl",
-      "Ubuntu"
     ]
   }
 ]
