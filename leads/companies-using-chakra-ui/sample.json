@@ -1,5 +1,52 @@
 [
   {
+    "domain": "permify.co",
+    "title": "Permify | Fine-Grained Authorization",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 240,
+    "crawled_at": "2026-11-19T11:25:53.142846892Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Discord",
+      "GitHub Hosting",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Radix UI",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "walawong.com",
+    "title": "Home | Walawong - Integrate with crypto wallets, exchanges and blockchains.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 267,
+    "crawled_at": "2026-11-18T19:47:44.818295977Z",
+    "technologies": [
+      "Apache",
+      "Chakra UI",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Gatsby JS",
+      "GitHub Hosting",
+      "Netlify",
+      "Nginx",
+      "Perl",
+      "Python",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "shagworm.com",
     "title": "Zane St. John",
     "business_name": "",
@@ -13268,56 +13315,6 @@
       "Pleroma",
       "UTF-8",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "bitcoinsupport.com",
-    "title": "Bitcoin Support for Bull Bitcoin, powered by Bitcoin Mentor",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 4879,
-    "crawled_at": "2026-06-08T20:41:27.725146676Z",
-    "technologies": [
-      "Amazon",
-      "Chakra UI",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Next.js",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "krushangpatel.com",
-    "title": "Krushang Patel | Web Developer Specializing in React Development",
-    "business_name": "",
-    "country": "",
-    "seo_score": 77,
-    "tech_spend": 36278,
-    "crawled_at": "2026-06-08T20:22:06.321889333Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Chakra UI",
-      "Content Delivery Network",
-      "Express",
-      "Gatsby JS",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "KVH",
-      "Netlify",
-      "No-Q",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
