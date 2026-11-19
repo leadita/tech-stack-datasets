@@ -1,5 +1,30 @@
 [
   {
+    "domain": "vizionmortgages.com",
+    "title": "ELITE MORTGAGE LLC - Mortgage in Owensboro, Henderson, Bowling Green",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 67,
+    "tech_spend": 35277,
+    "crawled_at": "2026-11-19T05:13:40.779956423Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Bulma",
+      "CloudFront",
+      "Font Awesome",
+      "GZIP Module",
+      "Google",
+      "Matomo",
+      "Matomo Tag Manager",
+      "Nationwide Mortgage Licensing System and Registry",
+      "Optimal Blue",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "UserWay"
+    ]
+  },
+  {
     "domain": "smarthomeloans.net",
     "title": "Smart Home Loans | Mortgage, Refinance & Home Loans",
     "business_name": "Smart Home Loans",
