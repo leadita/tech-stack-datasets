@@ -10631,38 +10631,5 @@
       "reCAPTCHA",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "openairjeeps.shop",
-    "title": "Open Air Jeeps",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 846,
-    "crawled_at": "2026-04-06T06:17:20.01358188Z",
-    "technologies": [
-      "Bing Cashback",
-      "Bing Conversion Tracking",
-      "Bulma",
-      "CallRail",
-      "Express",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Gravity",
-      "LogRocket",
-      "Nginx",
-      "Oracle Cloud",
-      "PHP",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
-      "Tawk",
-      "TrustIndex",
-      "UTF-8",
-      "jsDelivr",
-      "reCAPTCHA"
-    ]
   }
 ]
