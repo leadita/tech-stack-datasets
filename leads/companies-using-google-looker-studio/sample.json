@@ -1,5 +1,26 @@
 [
   {
+    "domain": "digitalassetdomains.com",
+    "title": "Digital Asset Domains – Domain Control and Hosting",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 70,
+    "tech_spend": 5140,
+    "crawled_at": "2026-11-20T05:19:02.721615752Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Barchart",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Looker Studio",
+      "Google My Business",
+      "SitePad",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "benmatias.com",
     "title": "Ben Matias | Data, BI & Business Analyst Portfolio",
     "business_name": "",
@@ -6337,75 +6358,6 @@
       "Schema Plugin",
       "Subversion",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "digitalassetdomains.com",
-    "title": "Digital Asset Domains – Domain Control and Hosting",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 70,
-    "tech_spend": 5140,
-    "crawled_at": "2026-04-06T07:38:20.012202433Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Barchart",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Looker Studio",
-      "Google My Business",
-      "SitePad",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "sgdc.church",
-    "title": "Saint Gabriel Catholic Church - Saint Gabriel DC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 7310,
-    "crawled_at": "2026-04-06T06:20:20.001990162Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Automattic",
-      "Contact Form Plugin",
-      "ETranslate",
-      "Elementor",
-      "EmbedPress",
-      "Essential Addons for Elementor",
-      "Font Awesome",
-      "GTranslate",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Looker Studio",
-      "Google Maps",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Jetpack",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "Schema Plugin",
-      "Shoelace Style",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Related Posts",
-      "WordPress Stats",
-      "YITH WooCommerce Compare",
-      "YouTube",
-      "jQuery",
-      "reCAPTCHA"
     ]
   }
 ]

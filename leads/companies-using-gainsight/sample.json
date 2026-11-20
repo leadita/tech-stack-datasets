@@ -1,5 +1,35 @@
 [
   {
+    "domain": "tibz.work",
+    "title": "Tibz.work",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 394303,
+    "crawled_at": "2026-11-20T11:22:01.069088371Z",
+    "technologies": [
+      "Apache",
+      "CapsuleCRM",
+      "Carrd",
+      "Discord",
+      "Figma",
+      "GZIP Module",
+      "Gainsight",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Notion",
+      "RM Education",
+      "SMC",
+      "Salesforce",
+      "Salesforce Experience Cloud",
+      "Salesforce Hosted",
+      "Slack",
+      "Webflow",
+      "Zendesk Embeddables",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "thecustomerconference.co.uk",
     "title": "Customer Success conference | The Customer Conference - London, UK | England",
     "business_name": "",
@@ -1126,35 +1156,6 @@
       "YouTube",
       "inSided",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "tibz.work",
-    "title": "Tibz.work",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 394284,
-    "crawled_at": "2026-04-06T09:58:53.556315329Z",
-    "technologies": [
-      "Apache",
-      "CapsuleCRM",
-      "Discord",
-      "Figma",
-      "GZIP Module",
-      "Gainsight",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Notion",
-      "RM Education",
-      "SMC",
-      "Salesforce",
-      "Salesforce Experience Cloud",
-      "Salesforce Hosted",
-      "Slack",
-      "Webflow",
-      "Zendesk Embeddables",
-      "reCAPTCHA"
     ]
   }
 ]
