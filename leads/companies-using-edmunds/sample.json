@@ -1,5 +1,30 @@
 [
   {
+    "domain": "southerninsgroup.com",
+    "title": "Southern Insurance Group Inc",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 15000,
+    "crawled_at": "2026-11-20T00:13:22.182028396Z",
+    "technologies": [
+      "Better Lead Generation Services",
+      "Content Delivery Network",
+      "Edmunds",
+      "Fireblade",
+      "FreeCSSTemplates",
+      "GZIP Module",
+      "Helix Ultimate",
+      "Joomla!",
+      "Nginx",
+      "PHP",
+      "RokNavMenu",
+      "UTF-8",
+      "University or College",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "djmadvisorygroup.com",
     "title": "DJM Advisory Group, LLC | Insurance and Advisory Services",
     "business_name": "",
@@ -5460,62 +5485,6 @@
       "WordPress Multisite",
       "WordPress Stats",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "frictionai.co",
-    "title": "friction AI - AI Visibility & Recommendation Tracking",
-    "business_name": "friction AI",
-    "country": "AE",
-    "seo_score": 77,
-    "tech_spend": 240,
-    "crawled_at": "2026-04-06T07:17:20.000759633Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Audi AG",
-      "Content Delivery Network",
-      "DoubleClick Bid Manager",
-      "Edmunds",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "Product Hunt",
-      "Radix UI",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "Walmart",
-      "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "southerninsgroup.com",
-    "title": "Southern Insurance Group Inc",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 15300,
-    "crawled_at": "2026-04-06T05:50:20.011528399Z",
-    "technologies": [
-      "Better Lead Generation Services",
-      "Edmunds",
-      "Fireblade",
-      "FreeCSSTemplates",
-      "GZIP Module",
-      "Helix Ultimate",
-      "Joomla!",
-      "Nginx",
-      "PHP",
-      "Parallels Plesk Panel",
-      "RokNavMenu",
-      "UTF-8",
-      "University or College",
-      "jQuery"
     ]
   }
 ]
