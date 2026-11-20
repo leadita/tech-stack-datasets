@@ -1,6 +1,6 @@
 # Companies Using SharpSpring (Live Dataset 2026)
 
-This folder contains an active list of 898 companies using **SharpSpring**. 
+This folder contains an active list of 895 companies using **SharpSpring**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 898
+- **Total Leads:** 895
 - **Verified:** Yes
-- **Last Updated:** 2026-11-19 19:45 UTC
+- **Last Updated:** 2026-11-20 19:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **898+** companies using SharpSpring.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **895+** companies using SharpSpring.
 
 [**⚡ Unlock the Full SharpSpring List with Contact Details**](https://leadita.com/leads/companies-using-sharpspring)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-11-19 19:45 UTC*
+*Last updated: 2026-11-20 19:45 UTC*
 *Data source: Leadita Technographic Intelligence*

@@ -1,5 +1,32 @@
 [
   {
+    "domain": "cruzpac.com",
+    "title": "thelectioninsider.com",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 75,
+    "tech_spend": 94920,
+    "crawled_at": "2026-11-20T09:38:25.034371207Z",
+    "technologies": [
+      "Express",
+      "Fireblade",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Iterable",
+      "License Buttons",
+      "NFOrce Internet",
+      "PWA",
+      "Perl",
+      "UTF-8",
+      "Vimeo CDN",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "firsttimehomebuyertaxcredit.org",
     "title": "Homebuyer.com - Happy Homebuying | Homebuyer.com",
     "business_name": "",
@@ -28107,33 +28134,6 @@
       "jsDelivr",
       "mParticle",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "courageouspatriots.org",
-    "title": "thelectioninsider.com",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 65,
-    "tech_spend": 94920,
-    "crawled_at": "2026-06-30T00:29:19.968572402Z",
-    "technologies": [
-      "Express",
-      "Fireblade",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Iterable",
-      "License Buttons",
-      "NFOrce Internet",
-      "PWA",
-      "Perl",
-      "UTF-8",
-      "Vimeo CDN",
-      "Wangsu",
-      "Website Tonight"
     ]
   },
   {
