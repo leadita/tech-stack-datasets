@@ -1,5 +1,26 @@
 [
   {
+    "domain": "clairemarieb.com",
+    "title": "Claire Marie Blaustein – Service and design",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 60,
+    "crawled_at": "2026-11-20T01:53:27.706535971Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "GZIP Module",
+      "Jetpack",
+      "Micro.blog",
+      "Twenty Twenty-Four",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats"
+    ]
+  },
+  {
     "domain": "issact.co",
     "title": "isaact.co",
     "business_name": "",
@@ -7425,27 +7446,6 @@
       "QUIC",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "clairemarieb.com",
-    "title": "Claire Marie Blaustein – Service and design",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 60,
-    "crawled_at": "2026-04-06T06:26:28.041109524Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "GZIP Module",
-      "Jetpack",
-      "Micro.blog",
-      "Twenty Twenty-Four",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats"
     ]
   }
 ]
