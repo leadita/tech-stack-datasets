@@ -1,12 +1,12 @@
 [
   {
-    "domain": "the360bible.com",
+    "domain": "ladbible.com",
     "title": "LADbible - Redefining Entertainment & News For a Social Generation",
     "business_name": "",
     "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 108949,
-    "crawled_at": "2026-11-19T22:25:48.052541805Z",
+    "seo_score": 87,
+    "tech_spend": 65848,
+    "crawled_at": "2026-11-20T05:01:17.777160544Z",
     "technologies": [
       "ADTECH",
       "AWS WAF Challenge",
@@ -26,9 +26,9 @@
       "NFOrce Internet",
       "Next.js",
       "OpenX Direct",
+      "Paessler",
       "Pleroma",
       "Prebid",
-      "SMC",
       "Sourcepoint",
       "Twitter Ads",
       "UTF-8",

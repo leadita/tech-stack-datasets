@@ -1,5 +1,28 @@
 [
   {
+    "domain": "autismcertificationcenter.org",
+    "title": "ACC",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 70,
+    "tech_spend": 96755,
+    "crawled_at": "2026-11-20T19:43:15.672759197Z",
+    "technologies": [
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fireblade",
+      "Font Awesome",
+      "Google Analytics",
+      "Google Tag Manager",
+      "IcoMoon",
+      "Kaltura",
+      "Oddle",
+      "SMC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "e3diagnostics.com",
     "title": "Audiology Equipment Supplier | e3 Diagnostics",
     "business_name": "e3 Diagnostics",
@@ -13959,29 +13982,6 @@
       "YouTube",
       "jsDelivr",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "asdstrategies.org",
-    "title": "ACC",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 60,
-    "tech_spend": 27843,
-    "crawled_at": "2026-05-06T01:47:19.992748867Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Kaltura",
-      "Nginx",
-      "Oddle",
-      "SMC",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   },
   {
