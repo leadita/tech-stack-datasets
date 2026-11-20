@@ -1,17 +1,18 @@
 [
   {
-    "domain": "weexclusive.com",
-    "title": "An EMDN - We Exclusive, Luxury Lifestyle Premium Membership Exclusive Access Elite Community VIP Experience High-End Services Personalized Privileges Selective Club",
+    "domain": "torontowebdev.com",
+    "title": "An EMDN - Toronto Web Dev, Web Development Digital Solutions Software Design Website Creation Front-End Development Back-End Development E-Commerce Development UI/UX Design Canadian Tech Services",
     "business_name": "",
     "country": "",
     "seo_score": 57,
     "tech_spend": 168,
-    "crawled_at": "2026-11-19T01:03:41.993693909Z",
+    "crawled_at": "2026-11-20T15:38:06.644330214Z",
     "technologies": [
       "Amazon CloudFront",
       "Apture Linking Platform",
       "ArvanCloud",
       "CloudFront",
+      "Content Delivery Network",
       "Dynadot",
       "ElementUI",
       "GZIP Module",
@@ -19,6 +20,30 @@
       "Google Tag Manager",
       "Microdata for Google Shopping",
       "Microsoft Clarity",
+      "OpenResty",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "assetsale.org",
+    "title": "Digital Real Estate Specialist",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 780,
+    "crawled_at": "2026-11-19T23:05:23.12106695Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "ArvanCloud",
+      "CloudFront",
+      "Content Delivery Network",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "QUIC",
       "UTF-8",
       "jsDelivr"
     ]
@@ -75,25 +100,6 @@
       "UTF-8",
       "Waveform Technology",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "stocksale.org",
-    "title": "Digital Real Estate Specialist",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 36,
-    "crawled_at": "2026-11-16T19:21:43.652490763Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "UTF-8"
     ]
   },
   {
