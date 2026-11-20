@@ -1,5 +1,31 @@
 [
   {
+    "domain": "jerome-dedios.de",
+    "title": "Jerome de Dios · Software Engineering",
+    "business_name": "",
+    "country": "PHL",
+    "seo_score": 82,
+    "tech_spend": 9539,
+    "crawled_at": "2026-11-20T00:02:39.258868321Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Content Delivery Network",
+      "Gambling Content",
+      "GitHub Hosting",
+      "Java EE",
+      "Next.js",
+      "Oracle Cloud",
+      "Paessler",
+      "Python",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "duhun.me",
     "title": "Duhun De Silva | Full Stack Developer",
     "business_name": "",
@@ -12799,63 +12825,6 @@
       "UTF-8",
       "Unsplash",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "iampinku.com",
-    "title": "Pinku Sharma | Portfolio",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 38280,
-    "crawled_at": "2026-04-06T12:26:19.992851369Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Citrix",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "NFOrce Internet",
-      "Oracle Cloud",
-      "Pico CSS",
-      "University or College",
-      "Visual Studio"
-    ]
-  },
-  {
-    "domain": "jerome-dedios.de",
-    "title": "Jerome de Dios · Software Engineering",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 72,
-    "tech_spend": 26039,
-    "crawled_at": "2026-04-06T05:47:19.990116552Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Apache Tomcat JK",
-      "Content Delivery Network",
-      "Gambling Content",
-      "GitHub Hosting",
-      "Java EE",
-      "NFOrce Internet",
-      "Next.js",
-      "Oracle Cloud",
-      "Paessler",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]
