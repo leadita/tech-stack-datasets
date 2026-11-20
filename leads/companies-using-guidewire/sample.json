@@ -1,5 +1,30 @@
 [
   {
+    "domain": "ogonconsulting.com",
+    "title": "Customer-Driven Solutions for Guidewire InsuranceNow",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 72,
+    "tech_spend": 1004840,
+    "crawled_at": "2026-11-19T18:17:24.452600826Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Guidewire",
+      "Tailwind CSS",
+      "UTF-8",
+      "WF Cookie Consent"
+    ]
+  },
+  {
     "domain": "mytechfair.com",
     "title": "MYTECH Career Fair 2026",
     "business_name": "",
@@ -522,31 +547,6 @@
       "Webflow",
       "YouTube",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "ogonconsulting.com",
-    "title": "Customer-Driven Solutions for Guidewire InsuranceNow",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 1004840,
-    "crawled_at": "2026-04-06T03:38:20.003442726Z",
-    "technologies": [
-      "AJAX Libraries API",
-      "Amazon",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Cloudflare",
-      "Content Delivery Network",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Guidewire",
-      "Tailwind CSS",
-      "UTF-8",
-      "WF Cookie Consent"
     ]
   }
 ]
