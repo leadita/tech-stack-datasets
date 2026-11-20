@@ -1,5 +1,30 @@
 [
   {
+    "domain": "iw0w.com",
+    "title": "iW0W Marketing – Better Marketing by Design",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 15754,
+    "crawled_at": "2026-11-20T02:37:42.029103968Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Campaign Monitor Widget",
+      "Constant Contact",
+      "Divi",
+      "Eber",
+      "Elegant Themes",
+      "EmbedPress",
+      "GZIP Module",
+      "PHP",
+      "SMC",
+      "UTF-8",
+      "Woo Themes",
+      "WordPress"
+    ]
+  },
+  {
     "domain": "artk12.com",
     "title": "ARTK12 | Homeschool Curriculum Disguised as Fun",
     "business_name": "ARTK12",
@@ -1753,31 +1778,6 @@
       "UTF-8",
       "Vercel",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "iw0w.com",
-    "title": "iW0W Marketing – Better Marketing by Design",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 15754,
-    "crawled_at": "2026-04-06T06:41:19.978019712Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Campaign Monitor Widget",
-      "Constant Contact",
-      "Divi",
-      "Eber",
-      "Elegant Themes",
-      "EmbedPress",
-      "GZIP Module",
-      "PHP",
-      "SMC",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress"
     ]
   }
 ]
