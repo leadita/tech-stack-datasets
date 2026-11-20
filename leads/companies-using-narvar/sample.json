@@ -1,5 +1,28 @@
 [
   {
+    "domain": "ejschlossman.com",
+    "title": "Emily Schlossman",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 80,
+    "tech_spend": 63253,
+    "crawled_at": "2026-11-20T20:27:27.117418004Z",
+    "technologies": [
+      "Aruba",
+      "Express",
+      "Fastly",
+      "GZIP Module",
+      "Line2",
+      "Microdata for Google Shopping",
+      "Narvar",
+      "QUIC",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "mikensports.com",
     "title": "Miken Sports | Dominate Slowpitch Softball | Miken",
     "business_name": "",
@@ -1877,33 +1900,6 @@
       "Tailwind CSS",
       "UTF-8",
       "WF Cookie Consent"
-    ]
-  },
-  {
-    "domain": "ejschlossman.com",
-    "title": "Emily Schlossman",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 75,
-    "tech_spend": 65693,
-    "crawled_at": "2026-04-06T13:10:34.640421587Z",
-    "technologies": [
-      "Aruba",
-      "Express",
-      "Fastly",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Narvar",
-      "QUIC",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
