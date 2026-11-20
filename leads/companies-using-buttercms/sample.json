@@ -1,5 +1,22 @@
 [
   {
+    "domain": "dablestate.shop",
+    "title": "DABL Real Estate",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 40,
+    "tech_spend": 60,
+    "crawled_at": "2026-11-20T16:46:49.639604431Z",
+    "technologies": [
+      "ButterCMS",
+      "Content Delivery Network",
+      "UTF-8",
+      "Vercel",
+      "WordPress",
+      "Yandex Hosting"
+    ]
+  },
+  {
     "domain": "jonol.dev",
     "title": "Jonathan Lemanski | Developer",
     "business_name": "",
@@ -2021,23 +2038,6 @@
       "UTF-8",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "dablestate.shop",
-    "title": "DABL Real Estate",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 40,
-    "tech_spend": 60,
-    "crawled_at": "2026-04-06T11:53:19.994114472Z",
-    "technologies": [
-      "ButterCMS",
-      "Content Delivery Network",
-      "UTF-8",
-      "Vercel",
-      "WordPress",
-      "Yandex Hosting"
     ]
   }
 ]
