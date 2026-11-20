@@ -1,5 +1,33 @@
 [
   {
+    "domain": "williamsonai.com",
+    "title": "Home | Williamson & Associates, Inc",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 13340,
+    "crawled_at": "2026-11-19T16:00:39.058935969Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "Zoom Video Conferencing",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "cpawv.com",
     "title": "Home | Cunningham, Powell, Alexander, A.C.",
     "business_name": "",
@@ -10232,34 +10260,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vector Internet Services",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "williamsonai.com",
-    "title": "Home | Williamson & Associates, Inc",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 18340,
-    "crawled_at": "2026-04-06T02:44:20.002892134Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "Zoom Video Conferencing",
       "reCAPTCHA"
     ]
   }
