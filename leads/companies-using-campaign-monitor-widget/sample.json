@@ -1,5 +1,30 @@
 [
   {
+    "domain": "stevenfabre.com",
+    "title": "Steven Fabre",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 4288,
+    "crawled_at": "2026-11-21T03:42:50.165126069Z",
+    "technologies": [
+      "Camp",
+      "Campaign Monitor Widget",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Idaq",
+      "Instagram Follow Button",
+      "Medium",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Pleroma",
+      "Product Hunt",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "iw0w.com",
     "title": "iW0W Marketing – Better Marketing by Design",
     "business_name": "",
@@ -1753,31 +1778,6 @@
       "Zendesk Embeddables",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "stevenfabre.com",
-    "title": "Steven Fabre",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 3088,
-    "crawled_at": "2026-04-06T15:47:19.990124735Z",
-    "technologies": [
-      "Angular",
-      "Campaign Monitor Widget",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Idaq",
-      "Instagram Follow Button",
-      "Medium",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "Product Hunt",
-      "UTF-8",
-      "Vercel",
-      "YouTube"
     ]
   }
 ]
