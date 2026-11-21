@@ -1,5 +1,33 @@
 [
   {
+    "domain": "sydneymichelle.co",
+    "title": "Sydney Codrington",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 65,
+    "tech_spend": 251309,
+    "crawled_at": "2026-11-20T22:03:44.761267599Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Adobe Experience Manager",
+      "Alternate Protocol",
+      "Aruba",
+      "Better Lead Generation Services",
+      "Express",
+      "Financial Services Guide",
+      "FormSubmit",
+      "GZIP Module",
+      "InitiativeS",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "asantemedia.co.uk",
     "title": "Digital strategy, Web design and development - Asante",
     "business_name": "Asante Media",
@@ -18045,31 +18073,6 @@
       "Pleroma",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "velloils.in",
-    "title": "Velloils",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 60,
-    "tech_spend": 100144,
-    "crawled_at": "2026-05-22T13:44:20.026772173Z",
-    "technologies": [
-      "Adobe CQ",
-      "Adobe Experience Manager",
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "ElementUI",
-      "Parallels Plesk Panel",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vello",
-      "jsDelivr",
-      "shadcn ui"
     ]
   }
 ]
