@@ -1,5 +1,128 @@
 [
   {
+    "domain": "firewoodauckland.co.nz",
+    "title": "Auckland Firewood | Premium Dry Bagged Logs Grey Lynn",
+    "business_name": "",
+    "country": "NZL",
+    "seo_score": 77,
+    "tech_spend": 420,
+    "crawled_at": "2026-11-21T10:37:43.791694697Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Headless UI",
+      "Next.js",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "israelbusinessforum.co.il",
+    "title": "Homepage",
+    "business_name": "",
+    "country": "ISR",
+    "seo_score": 77,
+    "tech_spend": 4368,
+    "crawled_at": "2026-11-21T10:37:43.7804602Z",
+    "technologies": [
+      "Alternate Protocol",
+      "CM Commerce",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microsoft 365",
+      "Next.js",
+      "Pleroma",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "spearcoco.com.au",
+    "title": "Premium Coconut Coir Products | Eco-Friendly Coir Solutions",
+    "business_name": "",
+    "country": "LKA",
+    "seo_score": 77,
+    "tech_spend": 588,
+    "crawled_at": "2026-11-21T09:27:34.266361962Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Material-UI",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Next.js",
+      "Pleroma",
+      "Prismic",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "brethertonconsult.com",
+    "title": "Home BrethertonConsult",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 67,
+    "tech_spend": 780,
+    "crawled_at": "2026-11-21T04:57:33.216918643Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon S3 CDN",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "InitiativeS",
+      "Next.js",
+      "Pleroma",
+      "Prismic",
+      "Storyblocks",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "eLand"
+    ]
+  },
+  {
+    "domain": "memoriesdesigner.in",
+    "title": "Best Wedding Photographers in Kolkata 2026 - Memories Designer",
+    "business_name": "Memories Designer",
+    "country": "IND",
+    "seo_score": 82,
+    "tech_spend": 8020,
+    "crawled_at": "2026-11-21T02:02:13.875699081Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Express",
+      "Instagram Follow Button",
+      "Next.js",
+      "Perl",
+      "Pleroma",
+      "Prismic",
+      "QUIC",
+      "RM Education",
+      "Sitelinks Search Box",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "nk.studio",
     "title": "Most Awarded Digital Design & Technology Studio in Latin America",
     "business_name": "/nk.studio",
@@ -965,28 +1088,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "aucklandfirewood.com",
-    "title": "Auckland Firewood | Premium Dry Bagged Logs Grey Lynn",
-    "business_name": "",
-    "country": "NZL",
-    "seo_score": 67,
-    "tech_spend": 420,
-    "crawled_at": "2026-11-12T11:22:08.139502345Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Headless UI",
-      "Next.js",
-      "Prismic",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel"
     ]
   },
   {
@@ -11153,31 +11254,6 @@
     ]
   },
   {
-    "domain": "israelibusinessforum.com",
-    "title": "Homepage",
-    "business_name": "",
-    "country": "ISR",
-    "seo_score": 67,
-    "tech_spend": 4368,
-    "crawled_at": "2026-05-19T00:50:20.003960805Z",
-    "technologies": [
-      "Alternate Protocol",
-      "CM Commerce",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microsoft 365",
-      "Next.js",
-      "Pleroma",
-      "Prismic",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "YouTube",
-      "shadcn ui"
-    ]
-  },
-  {
     "domain": "onirism.com",
     "title": "Onirism",
     "business_name": "",
@@ -13870,76 +13946,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "ahloka.ai",
-    "title": "Ahloka - Digital Transformation Experts | Web, Mobile & Marketing Solutions",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 15408,
-    "crawled_at": "2026-05-08T11:41:20.007028589Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adult Content",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Google My Business",
-      "Netlify",
-      "Next.js",
-      "Pleroma",
-      "Prismic",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "grahamdubow.com",
-    "title": "Graham Dubow Resume & Blog",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-05-08T11:29:28.416481673Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "InitiativeS",
-      "Next.js",
-      "Pleroma",
-      "Prismic",
-      "UTF-8",
-      "University or College",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "sergiorio.tech",
-    "title": "Sergio Rio - Home",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 15900,
-    "crawled_at": "2026-05-08T09:17:20.000692938Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Cloudflare",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "InitiativeS",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "Prismic",
-      "Tailwind CSS",
-      "UTF-8",
       "shadcn ui"
     ]
   }
