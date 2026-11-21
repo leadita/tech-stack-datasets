@@ -1,5 +1,67 @@
 [
   {
+    "domain": "mcindoesacademy.org",
+    "title": "McIndoes Academy Community Center | Vermont",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 426,
+    "crawled_at": "2026-11-21T08:00:57.166201018Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "Givebutter",
+      "Google Maps",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Nginx",
+      "No-Q",
+      "Site Search 360",
+      "Tockify",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "soxsolution.com",
+    "title": "Sox Solutions - Socks for Athletes, Travel and Recovery – SOX SOLUTION",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 13771,
+    "crawled_at": "2026-11-21T02:08:22.897958791Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Apture Linking Platform",
+      "Baidu Cloud",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Coming Soon Page",
+      "Express",
+      "Google",
+      "Google Cloud DNS",
+      "Google Maps",
+      "Google Related Website Sites",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "QUIC",
+      "Schema Plugin",
+      "Shopify",
+      "Shopify Collabs",
+      "Site Search 360",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8",
+      "Yandex Hosting",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "suttoncenter.org",
     "title": "Sutton Avian Research Center | Bird Conservation & Research",
     "business_name": "PO Box 2007",
@@ -16292,49 +16354,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "flprinting.net",
-    "title": "Mike's Print Shop | Quality Digital and Offset Printing | Winter Park, FL",
-    "business_name": "Florida Printing & Design, Inc.",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 5268,
-    "crawled_at": "2026-04-24T02:35:19.988593063Z",
-    "technologies": [
-      "Apache",
-      "Baidu Cloud",
-      "Better Lead Generation Services",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Python",
-      "Site Search 360",
-      "UTF-8",
-      "Yandex Hosting"
-    ]
-  },
-  {
-    "domain": "versadocbusinesscards.com",
-    "title": "Customer Login : Customer Log In : Action Printwear",
-    "business_name": "2566 Warners Road",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 120,
-    "crawled_at": "2026-04-24T00:56:19.999064583Z",
-    "technologies": [
-      "Apache",
-      "Baidu Cloud",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Python",
-      "Site Search 360",
-      "UTF-8",
-      "Yandex Hosting"
     ]
   }
 ]
