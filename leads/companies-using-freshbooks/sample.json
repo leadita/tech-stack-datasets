@@ -1,5 +1,28 @@
 [
   {
+    "domain": "spinachreally.com",
+    "title": "Spencer Haley",
+    "business_name": "",
+    "country": "",
+    "seo_score": 35,
+    "tech_spend": 697,
+    "crawled_at": "2026-11-21T06:53:54.077897593Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Express",
+      "FreshBooks",
+      "GZIP Module",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "eLand"
+    ]
+  },
+  {
     "domain": "agentfuse.io",
     "title": "AgentFuse - The Monetization Layer for AI Agents",
     "business_name": "",
@@ -278,29 +301,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "spncrhly.com",
-    "title": "Spencer Haley",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 697,
-    "crawled_at": "2026-11-04T18:38:36.782523278Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "FreshBooks",
-      "GZIP Module",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   },
   {

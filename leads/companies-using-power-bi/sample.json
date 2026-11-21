@@ -1,5 +1,21 @@
 [
   {
+    "domain": "thomascuyvers.be",
+    "title": "Power BI Portfolio",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 120,
+    "crawled_at": "2026-11-20T16:46:49.646825341Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "LiteSpeed",
+      "Power BI"
+    ]
+  },
+  {
     "domain": "lookouttexans.org",
     "title": "Bike, Walk, Drive Safely",
     "business_name": "",
@@ -19382,30 +19398,6 @@
       "Tailwind CSS",
       "UTF-8",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "rahulgoogikoll.com",
-    "title": "RG / - Full Stack Developer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 1128,
-    "crawled_at": "2026-04-24T09:32:27.835564476Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google My Business",
-      "Netlify",
-      "Next.js",
-      "Pleroma",
-      "Power BI",
-      "Python",
-      "Tableau",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]

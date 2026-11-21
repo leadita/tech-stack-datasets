@@ -1,5 +1,31 @@
 [
   {
+    "domain": "aviaccounting.com",
+    "title": "Home | AVI Accounting LLC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 13120,
+    "crawled_at": "2026-11-21T10:28:25.361498935Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "williamsonai.com",
     "title": "Home | Williamson & Associates, Inc",
     "business_name": "",
@@ -10235,32 +10261,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "aviaccounting.com",
-    "title": "Home | AVI Accounting LLC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 18120,
-    "crawled_at": "2026-04-06T18:08:20.003063339Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vector Internet Services",
-      "reCAPTCHA"
     ]
   }
 ]
