@@ -1,5 +1,50 @@
 [
   {
+    "domain": "skeepy.ro",
+    "title": "Skeepy Software",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 276,
+    "crawled_at": "2026-11-21T04:30:27.871109316Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Express",
+      "Ghost",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Azure",
+      "UTF-8",
+      "Unsplash",
+      "Visual Studio",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "ianmellett.ink",
+    "title": "Ian Mellett",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 3060,
+    "crawled_at": "2026-11-20T21:34:05.169149525Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "Ghost",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "Perl",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "kaba-dc.org",
     "title": "KABA-DC",
     "business_name": "",
@@ -13214,58 +13259,6 @@
       "OpenResty",
       "QUIC",
       "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "britneyknight.com",
-    "title": "britneyknight",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 72,
-    "tech_spend": 5539,
-    "crawled_at": "2026-04-18T12:14:20.00177867Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon Widgets",
-      "ArvanCloud",
-      "Coming Soon Page",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Ghost",
-      "Google",
-      "Google Adsense",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Funding Choices",
-      "Google Matched Content",
-      "Google Reseller",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "bwilhelmideas.com",
-    "title": "BWilhelm Ideas",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 3144,
-    "crawled_at": "2026-04-18T11:35:20.020714761Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "Content Delivery Network",
-      "Fastly",
-      "GZIP Module",
-      "Ghost",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "UTF-8",
-      "Unsplash",
       "jsDelivr"
     ]
   }

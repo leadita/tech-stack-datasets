@@ -1,5 +1,30 @@
 [
   {
+    "domain": "marmanold.com",
+    "title": "Marmanold.com",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 1068,
+    "crawled_at": "2026-11-20T22:31:58.293797031Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "DAV",
+      "GitHub Hosting",
+      "Google Related Website Sites",
+      "Hugo",
+      "Micro.blog",
+      "Netlify",
+      "PWA",
+      "Perl",
+      "Sitelinks Search Box",
+      "UTF-8",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "clairemarieb.com",
     "title": "Claire Marie Blaustein – Service and design",
     "business_name": "",
@@ -7423,29 +7448,6 @@
       "Schema Plugin",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "marmanold.com",
-    "title": "Marmanold.com",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 67,
-    "tech_spend": 1068,
-    "crawled_at": "2026-04-06T13:56:19.981614443Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Google Related Website Sites",
-      "Hugo",
-      "Micro.blog",
-      "Netlify",
-      "PWA",
-      "Perl",
-      "QUIC",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
