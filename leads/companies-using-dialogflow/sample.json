@@ -1,5 +1,25 @@
 [
   {
+    "domain": "zandermackenziecareuk.org",
+    "title": "Zander Mackenzie Care U.K. Limited",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 6080,
+    "crawled_at": "2026-11-21T03:42:50.160566369Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Dialogflow",
+      "Fastly",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "pitchpro.me",
     "title": "Home - PitchPro",
     "business_name": "",
@@ -8449,26 +8469,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "zandermackenziecareuk.org",
-    "title": "Zander Mackenzie Care U.K. Limited",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 763,
-    "crawled_at": "2026-04-06T15:47:19.983378496Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Dialogflow",
-      "Fastly",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "QUIC",
-      "UTF-8"
     ]
   }
 ]
