@@ -1,5 +1,45 @@
 [
   {
+    "domain": "felipezorzo.com.br",
+    "title": "Felipe Zorzo",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2400,
+    "crawled_at": "2026-11-21T17:38:45.879450776Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Oracle Cloud",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "jcloud365.top",
+    "title": "Jewelry Cloud 365",
+    "business_name": "",
+    "country": "",
+    "seo_score": 37,
+    "tech_spend": 60,
+    "crawled_at": "2026-11-21T03:53:14.338165958Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GitHub Hosting",
+      "Perl",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "pdftechno.com",
     "title": "Free PDF Tools Online | Edit, Merge, Convert | PDF Techno",
     "business_name": "",
@@ -2272,27 +2312,6 @@
       "Twitter Ads",
       "UTF-8",
       "WhatsApp Sharing"
-    ]
-  },
-  {
-    "domain": "felipebz.com",
-    "title": "Felipe | Senior Software Engineer | Felipe Zorzo",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 18900,
-    "crawled_at": "2026-10-11T12:22:47.785471933Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "NFOrce Internet",
-      "Oracle Cloud",
-      "Perl"
     ]
   },
   {
@@ -12906,33 +12925,6 @@
       "Tailwind CSS",
       "UTF-8",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "colinnash.ca",
-    "title": "Colin Nash",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 30228,
-    "crawled_at": "2026-04-19T00:47:20.019936844Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fireblade",
-      "GitHub Hosting",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Netlify",
-      "Next.js",
-      "Pleroma",
-      "Radix UI",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
