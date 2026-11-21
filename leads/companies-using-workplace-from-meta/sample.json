@@ -1,5 +1,20 @@
 [
   {
+    "domain": "matteobelfio.re",
+    "title": "Matteo Belfiore",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": "",
+    "crawled_at": "2026-11-21T13:27:23.862549381Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Netlify",
+      "UTF-8",
+      "Workplace from Meta"
+    ]
+  },
+  {
     "domain": "atdatlanta.org",
     "title": "ATD Atlanta | Enhance Skills Today – Join Us",
     "business_name": "",
@@ -8397,21 +8412,6 @@
       "Workplace from Meta",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "matteobelfio.re",
-    "title": "Matteo Belfiore",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2026-04-06T19:11:20.01924551Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Netlify",
-      "UTF-8",
-      "Workplace from Meta"
     ]
   }
 ]
