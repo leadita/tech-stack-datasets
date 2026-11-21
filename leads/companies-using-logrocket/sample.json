@@ -1,5 +1,40 @@
 [
   {
+    "domain": "mydatacrest.com",
+    "title": "AI Insurance Submission Software | Automated Underwriting Solutions | DataCrest",
+    "business_name": "DataCrest",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 20536,
+    "crawled_at": "2026-11-21T01:41:30.438832089Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apture Linking Platform",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Express",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "IcoMoon",
+      "LogRocket",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "YouTube",
+      "jsDelivr",
+      "reCAPTCHA",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "wayber.ai",
     "title": "Flat-Fee Realtor in Washington | List on MLS from $249",
     "business_name": "",
@@ -10595,41 +10630,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "mydatacrest.com",
-    "title": "DataCrest — AI-Powered Insurance Submission Automation | Transform Weeks to Minutes",
-    "business_name": "DataCrest",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 20536,
-    "crawled_at": "2026-04-06T15:02:20.011578606Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Express",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "IcoMoon",
-      "LogRocket",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "YouTube",
-      "jsDelivr",
-      "reCAPTCHA",
-      "shadcn ui"
     ]
   }
 ]

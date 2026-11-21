@@ -1,5 +1,26 @@
 [
   {
+    "domain": "vh-statistik.de",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 55,
+    "tech_spend": 11200,
+    "crawled_at": "2026-11-21T06:53:54.005765528Z",
+    "technologies": [
+      "Apache",
+      "Barchart",
+      "Contento",
+      "Express",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Grafana",
+      "Nginx",
+      "UTF-8",
+      "Ubuntu"
+    ]
+  },
+  {
     "domain": "malaysia-grafana.iqx.no",
     "title": "Grafana",
     "business_name": "",
@@ -37,24 +58,6 @@
       "Google My Business",
       "Grafana",
       "Nginx",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "grafana.my.ua",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 1200,
-    "crawled_at": "2026-11-13T03:43:28.163238339Z",
-    "technologies": [
-      "Barchart",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "GitHub Hosting",
-      "Grafana",
       "UTF-8"
     ]
   },
@@ -131,25 +134,6 @@
       "Nginx",
       "UTF-8",
       "Ubuntu"
-    ]
-  },
-  {
-    "domain": "doprava.digital",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 11203,
-    "crawled_at": "2026-08-17T15:55:16.78636418Z",
-    "technologies": [
-      "Apache",
-      "Barchart",
-      "Contento",
-      "Express",
-      "GitHub Hosting",
-      "Google Cloud DNS",
-      "Grafana",
-      "UTF-8"
     ]
   },
   {
