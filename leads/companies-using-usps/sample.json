@@ -1,5 +1,40 @@
 [
   {
+    "domain": "veganislove.com",
+    "title": "KIDS X RUBY ROTH — RUBY ROSELANI ROTH",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 102240,
+    "crawled_at": "2026-11-21T22:39:14.821901517Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Aruba",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "IcoMoon",
+      "Instagram Follow Button",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "Newsletter for Wordpress",
+      "Pico CSS",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "USPS",
+      "UTF-8",
+      "Vector Internet Services",
+      "Vimeo",
+      "WordPress SEO Structured Data Schema Plugin",
+      "Yes24",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "ilananapoli.com",
     "title": "Ilana Napoli Art",
     "business_name": "",
@@ -17804,36 +17839,6 @@
       "UTF-8",
       "Wangsu",
       "Website Tonight"
-    ]
-  },
-  {
-    "domain": "rubyroth.co",
-    "title": "Ruby Roth - Artist",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 77096,
-    "crawled_at": "2026-05-18T03:14:20.00542562Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "Pico CSS",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "USPS",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   },
   {
