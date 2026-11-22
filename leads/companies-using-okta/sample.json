@@ -1,5 +1,47 @@
 [
   {
+    "domain": "piwipe.com",
+    "title": "Data Erasure Software — NIST 800-88 & DoD Compliant Wipe | PIWIPE",
+    "business_name": "PIWIPE",
+    "country": "TUR",
+    "seo_score": 77,
+    "tech_spend": 19339,
+    "crawled_at": "2026-11-22T06:41:47.911305881Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Coming Soon Page",
+      "Content Delivery Network",
+      "Endis",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "Okta",
+      "PHP",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "kaylnkwan.com",
+    "title": "Kayln Kwan",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 47,
+    "tech_spend": 7500,
+    "crawled_at": "2026-11-21T19:15:14.033211049Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Fireblade",
+      "GitHub Hosting",
+      "Next.js",
+      "Okta",
+      "Pleroma",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "labtrader.com",
     "title": "LabTrader Inc",
     "business_name": "LabTrader Inc",
@@ -19126,25 +19168,6 @@
       "jQuery",
       "jsDelivr",
       "vFairs"
-    ]
-  },
-  {
-    "domain": "kaylnkwan.com",
-    "title": "Kayln Kwan",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 47,
-    "tech_spend": 7500,
-    "crawled_at": "2026-04-06T21:14:20.0093311Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Fireblade",
-      "GitHub Hosting",
-      "Next.js",
-      "Okta",
-      "Pleroma",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
