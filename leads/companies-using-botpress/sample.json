@@ -1,5 +1,23 @@
 [
   {
+    "domain": "codietech.com",
+    "title": "Codie Tech",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-11-22T08:39:11.450521919Z",
+    "technologies": [
+      "Botpress",
+      "Content Delivery Network",
+      "Next.js",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "kurakuragilimeno.com",
     "title": "Kura Kura Resort Gili Meno | Resort Gili Meno",
     "business_name": "Kura Kura Resort Gili Meno",
@@ -17962,29 +17980,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "nexgenai.co.uk",
-    "title": "NexGen Systems (NGS)",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 10892,
-    "crawled_at": "2026-05-12T11:53:20.010987359Z",
-    "technologies": [
-      "1Password",
-      "AI Log",
-      "Alternate Protocol",
-      "Botpress",
-      "DAV",
-      "Framer Sites",
-      "Google",
-      "Google Cloud CDN",
-      "Instagram Follow Button",
-      "Ntent",
-      "Yandex Hosting",
-      "Zeald"
     ]
   }
 ]
