@@ -1,5 +1,33 @@
 [
   {
+    "domain": "caaquebec.com",
+    "title": "Assistance with mobility, travel, insurance and home | CAA-Quebec",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 63308,
+    "crawled_at": "2026-11-22T10:19:26.009379448Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Auth0",
+      "Content Delivery Network",
+      "Contentstack",
+      "Google Analytics",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "InitiativeS",
+      "Instagram Follow Button",
+      "Lytics",
+      "Netlify",
+      "Next.js",
+      "Pleroma",
+      "QUIC",
+      "Radix UI",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "gamecareerguide.com",
     "title": "Game Career Guide | GCG",
     "business_name": "",
