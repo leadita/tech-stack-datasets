@@ -1,5 +1,30 @@
 [
   {
+    "domain": "lnqhub.com",
+    "title": "LnqHub — Human Connections. Smarter Hiring.",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 15856,
+    "crawled_at": "2026-11-22T16:55:59.386182955Z",
+    "technologies": [
+      "Base Analytics",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Tag Manager",
+      "Netlify",
+      "Next.js",
+      "PandaDoc",
+      "Stripe",
+      "Tailwind CSS",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "bigbang360.com",
     "title": "Big Bang 360 | ERP, CRM & Digital Transformation Experts",
     "business_name": "Big Bang 360",
