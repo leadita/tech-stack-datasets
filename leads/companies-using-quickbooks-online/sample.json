@@ -1,5 +1,32 @@
 [
   {
+    "domain": "anacpa.com",
+    "title": "Home | ACTS CPAs and Advisors, PLLC",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 16720,
+    "crawled_at": "2026-11-22T08:26:48.331544028Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Teams",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "aviaccounting.com",
     "title": "Home | AVI Accounting LLC",
     "business_name": "",
@@ -808,33 +835,6 @@
       "Tailwind CSS",
       "UTF-8",
       "Zoom Video Conferencing",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "nextgenerationfirm.com",
-    "title": "Home | ACTS CPAs and Advisors, PLLC",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 16720,
-    "crawled_at": "2026-11-01T10:54:05.718596169Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Amazon WAF Blocked",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Teams",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
       "reCAPTCHA"
     ]
   },
