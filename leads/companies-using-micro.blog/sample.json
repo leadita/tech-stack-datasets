@@ -1,5 +1,31 @@
 [
   {
+    "domain": "paulroub.com",
+    "title": "Paul Roub",
+    "business_name": "",
+    "country": "AUS",
+    "seo_score": 72,
+    "tech_spend": 1588,
+    "crawled_at": "2026-11-22T09:53:38.102590334Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Band Camp",
+      "Camp",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "Micro.blog",
+      "Microdata for Google Shopping",
+      "Netlify",
+      "Schema Plugin",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "marmanold.com",
     "title": "Marmanold.com",
     "business_name": "",
@@ -7421,32 +7447,6 @@
       "Mastodon",
       "Micro.blog",
       "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "paulroub.com",
-    "title": "Paul Roub",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 1588,
-    "crawled_at": "2026-04-07T02:21:48.161125214Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Band Camp",
-      "Camp",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "Micro.blog",
-      "Microdata for Google Shopping",
-      "Netlify",
-      "Schema Plugin",
-      "Twitter Ads",
       "UTF-8"
     ]
   }
