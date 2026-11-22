@@ -1,5 +1,27 @@
 [
   {
+    "domain": "szkolawlombard.org",
+    "title": "Polska Szkoła w Lombard",
+    "business_name": "",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 26200,
+    "crawled_at": "2026-11-22T03:00:02.947674792Z",
+    "technologies": [
+      "Apache",
+      "Ektron",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Gridsome",
+      "Krypt Technologies",
+      "SMC",
+      "Square",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "annemeije.nl",
     "title": "Totat, licht- geluid- en theatertechniek - Totat, licht- geluid- en theatertechniek",
     "business_name": "",
@@ -11931,28 +11953,6 @@
       "Netlify",
       "Phorest",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "rilton.art.br",
-    "title": "rilton.art.br - front-end dev & ux designer",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 62,
-    "tech_spend": 45558,
-    "crawled_at": "2026-04-13T16:43:18.746335617Z",
-    "technologies": [
-      "Content Delivery Network",
-      "DAV",
-      "Express",
-      "Financial Services Guide",
-      "Gridsome",
-      "K2F",
-      "KVH",
-      "Netlify",
-      "No-Q",
-      "UTF-8",
-      "Visx"
     ]
   }
 ]

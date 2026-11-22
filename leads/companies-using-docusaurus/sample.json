@@ -1,5 +1,53 @@
 [
   {
+    "domain": "alfrickopidi.com",
+    "title": "Alfrick Opidi",
+    "business_name": "",
+    "country": "KEN",
+    "seo_score": 65,
+    "tech_spend": 40,
+    "crawled_at": "2026-11-22T08:26:48.287066447Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "Apache",
+      "Docusaurus",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Python",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "adftech.net",
+    "title": "ADF TECH",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": 66,
+    "crawled_at": "2026-11-22T05:26:36.386314287Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "Docusaurus",
+      "GZIP Module",
+      "Perl",
+      "monday.com"
+    ]
+  },
+  {
     "domain": "felipezorzo.com.br",
     "title": "Felipe Zorzo",
     "business_name": "",
@@ -12882,49 +12930,6 @@
       "Tailwind CSS",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "kevin.sn",
-    "title": "Welcome | Kevin Kilroy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2026-04-19T00:56:19.98944978Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Netlify",
-      "Perl",
-      "To Top",
-      "UTF-8",
-      "Visual Studio"
-    ]
-  },
-  {
-    "domain": "fidocs.ai",
-    "title": "Home | fidocs.ai",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 800,
-    "crawled_at": "2026-04-19T00:50:20.00085523Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "shadcn ui"
     ]
   }
 ]
