@@ -1,5 +1,41 @@
 [
   {
+    "domain": "julesheegs.me",
+    "title": "jheeegs (@julesheegs) | amazon storefront, LTK | Beacons",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 43106,
+    "crawled_at": "2026-11-22T08:54:01.151147173Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon Widgets",
+      "Beacons",
+      "Calendly",
+      "Clearbit",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Commission Junction",
+      "Content Delivery Network",
+      "DAV",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Material-UI",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "PWA",
+      "Tailwind CSS",
+      "UTF-8",
+      "Unsplash",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "tedxgbc.com",
     "title": "Home | TEDxDover",
     "business_name": "",
@@ -12086,29 +12122,6 @@
       "iAPPS",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "esoulcj.com",
-    "title": "Changzhou Gear Flow Meter Co.,Ltd",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 77,
-    "tech_spend": 2440,
-    "crawled_at": "2026-04-06T21:08:19.992742003Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Commission Junction",
-      "Content Delivery Network",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Sitelinks Search Box",
-      "UTF-8"
     ]
   }
 ]

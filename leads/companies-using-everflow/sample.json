@@ -1,5 +1,38 @@
 [
   {
+    "domain": "petmatrix.ai",
+    "title": "PetMatrix.ai Coming Soon – Join the AI Voice Pet Network for Free – Petmatrix.ai",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 31210,
+    "crawled_at": "2026-11-22T02:16:06.897461842Z",
+    "technologies": [
+      "Apture Linking Platform",
+      "Baidu Cloud",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Coming Soon Page",
+      "Everflow",
+      "Google Cloud DNS",
+      "Google Maps",
+      "Google My Business",
+      "IcoMoon",
+      "NFOrce Internet",
+      "Newsletter for Wordpress",
+      "PageFly",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vimeo",
+      "Yandex Hosting",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "mowratortech.com",
     "title": "Remote Control Lawn Mower | RC Lawnmowers | MOWRATOR",
     "business_name": "MOWRATOR",
@@ -7162,37 +7195,6 @@
       "WooCommerce Checkout",
       "WordPress",
       "WordPress Multisite"
-    ]
-  },
-  {
-    "domain": "shopmatrix.ai",
-    "title": "PetMatrix.ai Coming Soon – Join the AI Voice Pet Network for Free – Petmatrix.ai",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 25910,
-    "crawled_at": "2026-04-12T18:13:46.695686959Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coming Soon Page",
-      "Everflow",
-      "Google Cloud DNS",
-      "Google Maps",
-      "Google My Business",
-      "IcoMoon",
-      "Newsletter for Wordpress",
-      "PageFly",
-      "QUIC",
-      "Shopify",
-      "Shopify Collabs",
-      "Tailwind CSS",
-      "TrackingMore",
-      "UTF-8",
-      "Vimeo",
-      "hCaptcha",
-      "reCAPTCHA"
     ]
   },
   {
