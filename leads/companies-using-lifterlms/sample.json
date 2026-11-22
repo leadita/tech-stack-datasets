@@ -18223,36 +18223,5 @@
       "eLand",
       "jQuery"
     ]
-  },
-  {
-    "domain": "membee.com",
-    "title": "Membee | Automate Your Membership & Events",
-    "business_name": "Membee",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 6699,
-    "crawled_at": "2026-04-07T01:59:20.012518492Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Tag Manager",
-      "IcoMoon",
-      "LifterLMS",
-      "Membee",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Nginx",
-      "PHP",
-      "ThemeFusion",
-      "UTF-8",
-      "Vimeo",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
