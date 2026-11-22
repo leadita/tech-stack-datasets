@@ -1,5 +1,38 @@
 [
   {
+    "domain": "vivsoftconsulting.com",
+    "title": "ViVSoft Consultant Directory - Find ViVSoft Consultants - ViVSoft Computers LLC",
+    "business_name": "ViVSoft Computers LLC",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 6716,
+    "crawled_at": "2026-11-21T20:25:25.862249176Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Content Delivery Network",
+      "Digital Ocean Spaces",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Maps",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "LiteSpeed",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "PHP",
+      "Pabbly",
+      "QUIC",
+      "UTF-8",
+      "Viloud",
+      "YouTube",
+      "cstate",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "pullsplus.com",
     "title": "Upgrade Your Space with Luxury Cabinet Hardware",
     "business_name": "Pulls Plus | Wholesale Hardware & Installation!",
@@ -5743,36 +5776,6 @@
       "WordPress",
       "WordPress Multisite",
       "WordPress Stats"
-    ]
-  },
-  {
-    "domain": "vivsoftconsulting.com",
-    "title": "ViVSoft Consultant Directory - Find ViVSoft Consultants - ViVSoft Computers LLC",
-    "business_name": "ViVSoft Computers LLC",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 4156,
-    "crawled_at": "2026-04-06T21:38:19.993752678Z",
-    "technologies": [
-      "Apache",
-      "AutoComplete",
-      "Digital Ocean Spaces",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Pabbly",
-      "QUIC",
-      "UTF-8",
-      "Viloud",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
