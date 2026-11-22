@@ -1,5 +1,40 @@
 [
   {
+    "domain": "getcmxtremegrills.shop",
+    "title": "CMXtreme Grills | CMXtreme Grills",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 517640,
+    "crawled_at": "2026-11-22T08:05:07.776447046Z",
+    "technologies": [
+      "Adult Content",
+      "Aruba",
+      "Cloudflare",
+      "DAV",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Headless UI",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Parcel",
+      "Pleroma",
+      "QUIC",
+      "Salesforce Commerce Cloud",
+      "Sitelinks Search Box",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "eLand",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "agriculturepathology.net",
     "title": "Home | Agriculture Pathology by VirusTC",
     "business_name": "",
@@ -16315,37 +16350,6 @@
       "YouTube",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "getcmxtremegrills.shop",
-    "title": "CMXtreme Grills | CMXtreme Grills",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 67,
-    "tech_spend": 515200,
-    "crawled_at": "2026-04-07T01:41:20.009832395Z",
-    "technologies": [
-      "Adult Content",
-      "Aruba",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Express",
-      "Fireblade",
-      "Headless UI",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Salesforce Commerce Cloud",
-      "Sitelinks Search Box",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "eLand",
-      "shadcn ui"
     ]
   }
 ]
