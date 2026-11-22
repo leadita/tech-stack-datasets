@@ -1,5 +1,100 @@
 [
   {
+    "domain": "thenewjerusalem.net",
+    "title": "Digital Real Estate Specialist",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 780,
+    "crawled_at": "2026-11-22T06:26:50.699666268Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "ArvanCloud",
+      "CloudFront",
+      "Content Delivery Network",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "QUIC",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "talidastate.net",
+    "title": "Talida State for Jamesburg BOE",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 780,
+    "crawled_at": "2026-11-22T06:18:27.812568804Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "ArvanCloud",
+      "CloudFront",
+      "Content Delivery Network",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "InitiativeS",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "ermass.com",
+    "title": "An EMDN - er Mass, Energy Efficiency Renewable Technology Smart Systems Automation Sustainable Solutions Environmental Innovation Industrial Optimization",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 780,
+    "crawled_at": "2026-11-22T06:08:59.76134063Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "ArvanCloud",
+      "CloudFront",
+      "Content Delivery Network",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "OpenResty",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "yntegration.com",
+    "title": "Yntegration",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 15780,
+    "crawled_at": "2026-11-21T16:45:38.444970195Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon CloudFront",
+      "ArvanCloud",
+      "CloudFront",
+      "Content Delivery Network",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "vimaim.com",
     "title": "VIMA Marketing Solutions | Premium Marketing Services",
     "business_name": "VIMA Marketing Solutions",
@@ -39,55 +134,6 @@
       "WordPress",
       "eLand",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "torontowebdev.com",
-    "title": "An EMDN - Toronto Web Dev, Web Development Digital Solutions Software Design Website Creation Front-End Development Back-End Development E-Commerce Development UI/UX Design Canadian Tech Services",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 168,
-    "crawled_at": "2026-11-20T15:38:06.644330214Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "ArvanCloud",
-      "CloudFront",
-      "Content Delivery Network",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "OpenResty",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "assetsale.org",
-    "title": "Digital Real Estate Specialist",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 780,
-    "crawled_at": "2026-11-19T23:05:23.12106695Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "ArvanCloud",
-      "CloudFront",
-      "Content Delivery Network",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "QUIC",
-      "UTF-8",
-      "jsDelivr"
     ]
   },
   {
@@ -4403,61 +4449,6 @@
       "Font Awesome",
       "GZIP Module",
       "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "luban.id",
-    "title": "PT LUBAN",
-    "business_name": "",
-    "country": "IDN",
-    "seo_score": 52,
-    "tech_spend": 135,
-    "crawled_at": "2026-04-07T01:59:20.014844285Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "talidastate.net",
-    "title": "Talida State for Jamesburg BOE",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 135,
-    "crawled_at": "2026-04-07T01:02:20.024383829Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "InitiativeS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "yntegration.com",
-    "title": "Yntegration",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 57,
-    "tech_spend": 135,
-    "crawled_at": "2026-04-06T20:23:19.993670385Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
       "UTF-8"
     ]
   }
