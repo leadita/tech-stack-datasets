@@ -1,5 +1,28 @@
 [
   {
+    "domain": "signaturitinternational.com",
+    "title": "Signaturit International",
+    "business_name": "",
+    "country": "",
+    "seo_score": 50,
+    "tech_spend": 3643,
+    "crawled_at": "2026-11-22T04:10:33.770465212Z",
+    "technologies": [
+      "Apache",
+      "Express",
+      "GoDaddy",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "PWA",
+      "Signaturit",
+      "UTF-8",
+      "Wangsu",
+      "Website Tonight"
+    ]
+  },
+  {
     "domain": "marrad.es",
     "title": "Julián Marrades",
     "business_name": "",
@@ -21,29 +44,6 @@
       "Python",
       "Signaturit",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "signaturitinternational.com",
-    "title": "Signaturit International",
-    "business_name": "",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 3643,
-    "crawled_at": "2026-04-07T00:19:04.392552751Z",
-    "technologies": [
-      "Apache",
-      "Express",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "PWA",
-      "Signaturit",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
     ]
   }
 ]
