@@ -5451,43 +5451,5 @@
       "YouTube",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "pennvalleycivic.org",
-    "title": "Penn Valley Civic Association",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 70,
-    "tech_spend": 5868,
-    "crawled_at": "2026-04-06T22:02:19.997815199Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "DAV",
-      "Edmunds",
-      "Eventbrite",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Forms",
-      "Google My Business",
-      "Line2",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "Pico CSS",
-      "QUIC",
-      "SignUpGenius",
-      "SiteW",
-      "Squarespace",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vimeo",
-      "Vimeo CDN",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
-    ]
   }
 ]
