@@ -1,5 +1,29 @@
 [
   {
+    "domain": "teamtorq.org",
+    "title": "Torq — The AI Revenue System for Dealerships",
+    "business_name": "Torq",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 90240,
+    "crawled_at": "2026-11-23T09:27:34.371391051Z",
+    "technologies": [
+      "Better Lead Generation Services",
+      "CDK Global",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "Vignette OpenText",
+      "VinSolutions",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "heymia.com",
     "title": "Hey Mia: Your 24/7 Automotive AI Phone Agent",
     "business_name": "",
