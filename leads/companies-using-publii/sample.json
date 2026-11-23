@@ -8033,20 +8033,5 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin"
     ]
-  },
-  {
-    "domain": "booler.biz",
-    "title": "booler.biz",
-    "business_name": "booler.biz",
-    "country": "",
-    "seo_score": 40,
-    "tech_spend": 49,
-    "crawled_at": "2026-04-07T04:38:19.983796402Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Microdata for Google Shopping",
-      "Publii",
-      "WordPress SEO Structured Data Schema Plugin"
-    ]
   }
 ]

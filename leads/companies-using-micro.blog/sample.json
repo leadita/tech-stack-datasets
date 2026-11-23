@@ -1,5 +1,42 @@
 [
   {
+    "domain": "umerez.eu",
+    "title": "umerez.eu",
+    "business_name": "",
+    "country": "ESP",
+    "seo_score": 55,
+    "tech_spend": 5060,
+    "crawled_at": "2026-11-23T01:50:10.984966428Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Expedient",
+      "Hugo",
+      "License Buttons",
+      "Micro.blog",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "bryanrobb.com",
+    "title": "Bryan Robb",
+    "business_name": "",
+    "country": "",
+    "seo_score": 42,
+    "tech_spend": 1060,
+    "crawled_at": "2026-11-23T00:38:54.29101577Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Micro.blog",
+      "PWA",
+      "Svelte",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "paulroub.com",
     "title": "Paul Roub",
     "business_name": "",
@@ -7429,25 +7466,6 @@
       "University or College",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "umerez.eu",
-    "title": "umerez.eu",
-    "business_name": "",
-    "country": "ESP",
-    "seo_score": 55,
-    "tech_spend": 5060,
-    "crawled_at": "2026-04-07T08:05:19.98035965Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Expedient",
-      "Hugo",
-      "License Buttons",
-      "Mastodon",
-      "Micro.blog",
-      "Tailwind CSS",
-      "UTF-8"
     ]
   }
 ]
