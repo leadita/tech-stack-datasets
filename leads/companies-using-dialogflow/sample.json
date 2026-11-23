@@ -1,5 +1,38 @@
 [
   {
+    "domain": "letusense.com",
+    "title": "TrackBot™ - Smart Facility Monitoring",
+    "business_name": "",
+    "country": "SWE",
+    "seo_score": 75,
+    "tech_spend": 18607,
+    "crawled_at": "2026-11-22T17:33:19.025651033Z",
+    "technologies": [
+      "App Store",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Dialogflow",
+      "Elfsight",
+      "Fireblade",
+      "Font Awesome",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Play",
+      "IcoMoon",
+      "PHP",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "greenmediaworks.net",
     "title": "Green Media - It Works!",
     "business_name": "Green Media Works",
@@ -852,38 +885,6 @@
       "jsDelivr",
       "reCAPTCHA",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "letusense.in",
-    "title": "TrackBot™ - Smart Facility Monitoring",
-    "business_name": "",
-    "country": "SWE",
-    "seo_score": 65,
-    "tech_spend": 3607,
-    "crawled_at": "2026-10-30T10:55:16.829486266Z",
-    "technologies": [
-      "Apache",
-      "App Store",
-      "Apture Linking Platform",
-      "Dialogflow",
-      "Elfsight",
-      "Font Awesome",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Play",
-      "IcoMoon",
-      "PHP",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "YouTube",
-      "jQuery"
     ]
   },
   {
