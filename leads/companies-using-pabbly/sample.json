@@ -1,5 +1,34 @@
 [
   {
+    "domain": "kellyclementsonline.com",
+    "title": "Kelly Clements | Marriage Centric Business Coach",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 35972,
+    "crawled_at": "2026-11-23T01:33:45.890217574Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "Amazon Widgets",
+      "CloudFront",
+      "DAV",
+      "Duda",
+      "FormSubmit",
+      "Instagram Follow Button",
+      "KVH",
+      "Nginx",
+      "Pabbly",
+      "QUIC",
+      "Tailwind CSS",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "vivsoftconsulting.com",
     "title": "ViVSoft Consultant Directory - Find ViVSoft Consultants - ViVSoft Computers LLC",
     "business_name": "ViVSoft Computers LLC",
@@ -5295,36 +5324,6 @@
       "YouTube",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "kellyclements.com",
-    "title": "Kelly Clements | Marriage Centric Business Coach",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 35972,
-    "crawled_at": "2026-04-14T11:36:13.655142119Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Amazon Widgets",
-      "CloudFront",
-      "DAV",
-      "Duda",
-      "FormSubmit",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "KVH",
-      "Nginx",
-      "Pabbly",
-      "QUIC",
-      "Tailwind CSS",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   },
   {
