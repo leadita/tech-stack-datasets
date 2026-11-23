@@ -1,5 +1,35 @@
 [
   {
+    "domain": "buckeyetrainingsolutions.net",
+    "title": "Buckeye Training Solutions",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 722,
+    "crawled_at": "2026-11-23T05:08:13.889068133Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Elementor",
+      "EmbedPress",
+      "Essential Addons for Elementor",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Hello Elementor",
+      "LiteSpeed",
+      "PHP",
+      "Setmore",
+      "Tagembed",
+      "Tailwind CSS",
+      "Theme In WP",
+      "To Top",
+      "UTF-8",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "4greenva.com",
     "title": "Superb landscaping services in Stafford, VA, 22556",
     "business_name": "4 Green, Inc",
