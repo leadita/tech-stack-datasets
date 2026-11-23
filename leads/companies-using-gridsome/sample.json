@@ -1,5 +1,55 @@
 [
   {
+    "domain": "damagelabs.ca",
+    "title": "Damage Labs game studio pre-accelerator for underrepresented founders - Damage Labs",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 558,
+    "crawled_at": "2026-11-23T22:11:00.885493069Z",
+    "technologies": [
+      "Content Delivery Network",
+      "DAV",
+      "Gridsome",
+      "Netlify",
+      "No-Q",
+      "Stripe",
+      "Subversion",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "zeeshanali.me",
+    "title": "Technical Consultant | Solution Architect | Engineering Lead | Zeeshan Ali",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 968,
+    "crawled_at": "2026-11-23T17:51:52.37993127Z",
+    "technologies": [
+      "Apache",
+      "Content Delivery Network",
+      "Express",
+      "GitHub Hosting",
+      "Gridsome",
+      "Heroku",
+      "Netlify",
+      "Next.js",
+      "Nginx",
+      "Pleroma",
+      "Python",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "szkolawlombard.org",
     "title": "Polska Szkoła w Lombard",
     "business_name": "",
@@ -11912,47 +11962,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "pow.lat",
-    "title": "POW. Soluciones digitales a medida.",
-    "business_name": "POW",
-    "country": "ARG",
-    "seo_score": 82,
-    "tech_spend": 2549,
-    "crawled_at": "2026-04-13T20:50:20.010272799Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Amazon S3 CDN",
-      "CloudFront",
-      "Content Delivery Network",
-      "Font Awesome",
-      "GZIP Module",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Twitter Ads"
-    ]
-  },
-  {
-    "domain": "barbersofmayfair.com",
-    "title": "Barbers of Mayfair",
-    "business_name": "",
-    "country": "AUS",
-    "seo_score": 57,
-    "tech_spend": 2250,
-    "crawled_at": "2026-04-13T20:35:20.010806955Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "Idaq",
-      "Instagram Follow Button",
-      "Netlify",
-      "Phorest",
-      "UTF-8"
     ]
   }
 ]
