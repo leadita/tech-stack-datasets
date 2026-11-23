@@ -1,5 +1,55 @@
 [
   {
+    "domain": "funkymail.ch",
+    "title": "mailbox.my - Your personalized free email address",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-11-23T10:58:25.531730358Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Perl",
+      "Semantic UI",
+      "Twitter Ads",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "widook.com",
+    "title": "Widook | Soluciones en IT & Tecnología",
+    "business_name": "",
+    "country": "GTM",
+    "seo_score": 77,
+    "tech_spend": 58769,
+    "crawled_at": "2026-11-23T09:47:16.403240521Z",
+    "technologies": [
+      "AutoComplete",
+      "Content Delivery Network",
+      "DAV",
+      "Express",
+      "Fastly",
+      "Federal Deposit Insurance Corporation",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google Cloud",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Instagram Follow Button",
+      "JIRA",
+      "Material Design Icons",
+      "No-Q",
+      "SMC",
+      "Semantic UI",
+      "Subversion",
+      "UTF-8",
+      "WoWonder",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "kg-mbz.de",
     "title": "Mer Blieve Zesamme von 1937 e.V.",
     "business_name": "Kölner Karnevalsgesellschaft MBZ",
@@ -8410,24 +8460,6 @@
     ]
   },
   {
-    "domain": "schickemail.de",
-    "title": "mailbox.my - Your personalized free email address",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2026-08-06T18:35:00.139854677Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Perl",
-      "Semantic UI",
-      "Twitter Ads",
-      "jQuery",
-      "jsDelivr"
-    ]
-  },
-  {
     "domain": "plays.com.tr",
     "title": "Plays.com.tr - Plays Metaverse Industries",
     "business_name": "",
@@ -14976,24 +15008,6 @@
       "WordPress",
       "WordPress Multisite",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "dktill.co.uk",
-    "title": "DK Till : Cambridge Coal and Solid Fuel Supplies",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 50,
-    "tech_spend": "",
-    "crawled_at": "2026-05-10T17:45:19.165598176Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ElementUI",
-      "GZIP Module",
-      "Gravity",
-      "Nginx",
-      "Semantic UI",
-      "UTF-8"
     ]
   }
 ]
