@@ -1,5 +1,25 @@
 [
   {
+    "domain": "sirenia.io",
+    "title": "Home - Sirenia",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 20297,
+    "crawled_at": "2026-11-24T05:05:00.258517587Z",
+    "technologies": [
+      "Bulma",
+      "Financial Services Guide",
+      "Formspree",
+      "Gridsome",
+      "IPFS",
+      "KVH",
+      "No-Q",
+      "SMC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "damagelabs.ca",
     "title": "Damage Labs game studio pre-accelerator for underrepresented founders - Damage Labs",
     "business_name": "",
@@ -11929,39 +11949,6 @@
       "PHP",
       "Tailwind CSS",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "nouryoku.com",
-    "title": "能セン｜合格への近道 受験対策講習会",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 91010,
-    "crawled_at": "2026-04-14T03:47:19.986772314Z",
-    "technologies": [
-      "A8.net",
-      "Content Delivery Network",
-      "DAV",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Gridsome",
-      "Idaq",
-      "K2F",
-      "KVH",
-      "Line2",
-      "Netlify",
-      "No-Q",
-      "ON24",
-      "Silicon Valley Web Hosting",
-      "Square",
-      "Subversion",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]

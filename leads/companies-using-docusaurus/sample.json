@@ -1,5 +1,106 @@
 [
   {
+    "domain": "maryslittlelambschildcare.org",
+    "title": "Home | Mary's Little Lambs",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 1428,
+    "crawled_at": "2026-11-24T19:11:11.721238848Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Express",
+      "Google Maps",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Oddle",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "ageapi.org",
+    "title": "OpenAge Developer Documentation",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 66,
+    "crawled_at": "2026-11-24T14:12:07.900167252Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "domain": "fullstackdecal.com",
+    "title": "Full Stack Decal",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 6240,
+    "crawled_at": "2026-11-24T06:42:27.605912337Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Chakra UI",
+      "Content Delivery Network",
+      "Docusaurus",
+      "ECAL",
+      "Express",
+      "GitHub Hosting",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Perl",
+      "Python",
+      "QUIC",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "rosql.ai",
+    "title": "The query language for robotics telemetry | ROSQL",
+    "business_name": "",
+    "country": "",
+    "seo_score": 82,
+    "tech_spend": 4840,
+    "crawled_at": "2026-11-24T00:09:42.010432024Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "OpenTelemetry",
+      "Perl",
+      "QUIC",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "kapui.net",
     "title": "Ka Pui (August) Cheung - Portfolio",
     "business_name": "",
@@ -498,32 +599,6 @@
       "monday.com",
       "nopCommerce",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "rossql.org",
-    "title": "The query language for robotics telemetry | ROSQL",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 4840,
-    "crawled_at": "2026-11-16T02:25:16.026807946Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "OpenTelemetry",
-      "Perl",
-      "QUIC",
-      "UTF-8"
     ]
   },
   {
@@ -12833,83 +12908,6 @@
       "Google Cloud",
       "Perl",
       "QUIC"
-    ]
-  },
-  {
-    "domain": "andrewkowalczyk.com",
-    "title": "Andrew Kowalczyk",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2026-04-19T06:11:20.020351676Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Docusaurus",
-      "Express",
-      "GitHub Hosting",
-      "Next.js",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "wucall.com",
-    "title": "Call Screening for Android | WUCall",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 17400,
-    "crawled_at": "2026-04-19T06:08:20.029337931Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "Docusaurus",
-      "Fastly",
-      "Fireblade",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Google Play",
-      "Perl",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "tristiks.net",
-    "title": "Leading IT Services & Software Product Development Partner | Tristiks Consulting",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 24860,
-    "crawled_at": "2026-04-19T04:59:19.99260037Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "DAV",
-      "Docusaurus",
-      "Enjoi",
-      "Fastly",
-      "Financial Services Guide",
-      "Flat Icon",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Hexo",
-      "Instagram Follow Button",
-      "No-Q",
-      "Perl",
-      "Python",
-      "Silicon Valley Web Hosting",
-      "Subversion",
-      "UTF-8",
-      "Vector Internet Services",
-      "YouTube"
     ]
   }
 ]
