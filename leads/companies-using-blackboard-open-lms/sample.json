@@ -1,5 +1,29 @@
 [
   {
+    "domain": "myshowcase.me",
+    "title": "Myshowcase.me ePortfolio",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 25687,
+    "crawled_at": "2026-11-24T16:42:28.946505177Z",
+    "technologies": [
+      "Blackboard Open LMS",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Hello Bar",
+      "QUIC",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "ckautz.org",
     "title": "Cheryl Kautz | Portfolio | Resume",
     "business_name": "",
@@ -3095,30 +3119,6 @@
       "Vercel",
       "YouTube",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "myshowcase.me",
-    "title": "Myshowcase.me ePortfolio",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 25687,
-    "crawled_at": "2026-04-07T23:30:56.32353323Z",
-    "technologies": [
-      "Blackboard Open LMS",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Hello Bar",
-      "QUIC",
-      "Twitter Ads",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
