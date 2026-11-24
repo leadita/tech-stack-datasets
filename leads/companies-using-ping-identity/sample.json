@@ -1,5 +1,32 @@
 [
   {
+    "domain": "nickjgraham.com",
+    "title": "Nick Graham - Principal Infrastructure Engineer",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 52847,
+    "crawled_at": "2026-11-23T20:48:16.2846994Z",
+    "technologies": [
+      "Amazon Link Enchancer",
+      "Amazon Widgets",
+      "Apache",
+      "CM Commerce",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Font Awesome",
+      "GitHub Hosting",
+      "MaxCDN",
+      "Nginx",
+      "Ping Identity",
+      "Pleroma",
+      "Python",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "firsttimehomebuyeract.com",
     "title": "Homebuyer.com - Happy Homebuying | Homebuyer.com",
     "business_name": "",
@@ -870,33 +897,6 @@
       "UTF-8",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "crackerjam.net",
-    "title": "Nick Graham - Principal Infrastructure Engineer",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 52847,
-    "crawled_at": "2026-09-13T21:44:42.188220998Z",
-    "technologies": [
-      "Amazon Link Enchancer",
-      "Amazon Widgets",
-      "Apache",
-      "CM Commerce",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Font Awesome",
-      "GitHub Hosting",
-      "MaxCDN",
-      "Nginx",
-      "Ping Identity",
-      "Pleroma",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   },
   {
