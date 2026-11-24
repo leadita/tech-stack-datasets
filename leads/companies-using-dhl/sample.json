@@ -1,5 +1,45 @@
 [
   {
+    "domain": "nierbo.com",
+    "title": "NIERBO - Online Shopping for Consumer",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 72,
+    "tech_spend": 16567,
+    "crawled_at": "2026-11-24T00:48:40.218213084Z",
+    "technologies": [
+      "DHL Parcel",
+      "Facebook Conversion Tracking",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Facebook Tag API",
+      "FedEx",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Recommendations AI",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "MyLiveChat",
+      "Nginx",
+      "Ntent",
+      "PHP",
+      "Pico CSS",
+      "Pleroma",
+      "TNT",
+      "Twitter Ads",
+      "UPS",
+      "UTF-8",
+      "WhatsApp Sharing",
+      "WoWonder",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "atozauctionhouse.net",
     "title": "A to Z Auction House",
     "business_name": "",
@@ -19100,27 +19140,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "amerezzo.com",
-    "title": "Amer ezzo عامر عزو",
-    "business_name": "",
-    "country": "TUR",
-    "seo_score": 60,
-    "tech_spend": 303,
-    "crawled_at": "2026-04-19T16:43:07.789250168Z",
-    "technologies": [
-      "DHL Parcel",
-      "ElementUI",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "HostGator",
-      "Microsoft Azure",
-      "Microsoft IIS",
-      "Parallels Plesk Panel",
-      "Visual Studio"
     ]
   }
 ]
