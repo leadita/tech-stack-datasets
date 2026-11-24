@@ -1,5 +1,40 @@
 [
   {
+    "domain": "bt3.com",
+    "title": "@bazbt3 🏡 | …powered by empathy and Schadenfreude",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 65,
+    "tech_spend": 21405,
+    "crawled_at": "2026-11-24T00:48:40.238958935Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Automattic",
+      "ClickUp",
+      "Community",
+      "DailyMotion Video",
+      "EmbedPress",
+      "FEEDZY RSS Feeds",
+      "Fireblade",
+      "Jetpack",
+      "Kinsta",
+      "PHP",
+      "QUIC",
+      "Theme In WP",
+      "Twenty Thirteen",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "americanmotoroil.com",
     "title": "AMSOIL Synthetic Oil in Canton, GA | AmericanMotorOil.com",
     "business_name": "AMSOIL INC.",
@@ -18835,25 +18870,6 @@
       "QUIC",
       "Stripe",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "lifefirstsafety.co.za",
-    "title": "LifeFirst Safety | Fire Services & Training Eastern Cape",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 156,
-    "crawled_at": "2026-05-01T02:56:20.000228332Z",
-    "technologies": [
-      "ClickUp",
-      "Google Customer Reviews",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "UTF-8",
-      "YouTube"
     ]
   }
 ]
