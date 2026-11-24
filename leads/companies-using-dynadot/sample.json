@@ -1,5 +1,31 @@
 [
   {
+    "domain": "bloggerusa.com",
+    "title": "An EMDN - Blogger USA, Content Creation Digital Media Online Publishing Influencer Marketing Writing Community SEO Journalism Social Media",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 168,
+    "crawled_at": "2026-11-24T10:09:28.014827119Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "ArvanCloud",
+      "CloudFront",
+      "Content Delivery Network",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "OpenResty",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "greenbankprogressiveclub.org",
     "title": "Greenbank Progressive Club - home",
     "business_name": "",
@@ -121,32 +147,6 @@
       "GZIP Module",
       "InitiativeS",
       "Microdata for Google Shopping",
-      "OpenResty",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "ermass.com",
-    "title": "An EMDN - er Mass, Energy Efficiency Renewable Technology Smart Systems Automation Sustainable Solutions Environmental Innovation Industrial Optimization",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 780,
-    "crawled_at": "2026-11-22T06:08:59.76134063Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "ArvanCloud",
-      "CloudFront",
-      "Content Delivery Network",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
       "OpenResty",
       "UTF-8",
       "jsDelivr"
@@ -4455,22 +4455,6 @@
       "WordPress Multisite",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "viaoy.com",
-    "title": "Veikon Internet ja ATK Oy",
-    "business_name": "",
-    "country": "",
-    "seo_score": 25,
-    "tech_spend": 135,
-    "crawled_at": "2026-04-07T23:11:19.980385363Z",
-    "technologies": [
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8"
     ]
   }
 ]
