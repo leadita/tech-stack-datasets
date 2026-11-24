@@ -1,5 +1,59 @@
 [
   {
+    "domain": "gvpassociates.com",
+    "title": "GVP Associates",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 342,
+    "crawled_at": "2026-11-24T01:21:58.030786722Z",
+    "technologies": [
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Font Awesome",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Forms",
+      "Google My Business",
+      "HostGator",
+      "Microsoft Azure",
+      "Microsoft IIS",
+      "Parallels Plesk Panel",
+      "Semantic UI",
+      "Visual Studio",
+      "WhatsApp Sharing"
+    ]
+  },
+  {
+    "domain": "hugillsanitation.com",
+    "title": "Home",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 198,
+    "crawled_at": "2026-11-23T18:38:56.582959469Z",
+    "technologies": [
+      "Apache",
+      "ChronoEngine",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "Joomla!",
+      "PHP",
+      "Pico CSS",
+      "RokNavMenu",
+      "Semantic UI",
+      "Smart Slider 3",
+      "UTF-8",
+      "eLand",
+      "jQuery",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "funkymail.ch",
     "title": "mailbox.my - Your personalized free email address",
     "business_name": "",
@@ -14954,60 +15008,6 @@
       "Twitter Ads",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "ezgrabber.in",
-    "title": "Ezgrabber - Homepage",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 57,
-    "tech_spend": 183,
-    "crawled_at": "2026-05-11T06:38:19.979143683Z",
-    "technologies": [
-      "Dialpad",
-      "Express",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Instagram Follow Button",
-      "Nginx",
-      "Semantic UI",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "nepalsambad.com",
-    "title": "Nepal Sambad",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 188,
-    "crawled_at": "2026-05-10T20:41:20.01944337Z",
-    "technologies": [
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Font Awesome",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "QUIC",
-      "Semantic UI",
-      "ShareThis",
-      "Theme In WP",
-      "UTF-8",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube"
     ]
   }
 ]
