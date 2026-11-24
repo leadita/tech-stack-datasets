@@ -1,5 +1,27 @@
 [
   {
+    "domain": "canadycare.com",
+    "title": "Canady Family Home Care | Home | Senior Care Service Raleigh",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 2460,
+    "crawled_at": "2026-11-24T09:29:50.531495398Z",
+    "technologies": [
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google My Business",
+      "Investor Relations",
+      "Line2",
+      "Perl",
+      "QUIC",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "techiepk.com",
     "title": "TechiePK | Professional Website Design | Mobile App Development | E-Commerce Solutions | Data Entry & Processing | Web Hosting & Cloud Services | SEO & Digital Marketing Service | Logo & Graphics Designing | Freelancer Expertise",
     "business_name": "",
@@ -8409,48 +8431,6 @@
       "Twitter Ads",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "canadycare.com",
-    "title": "Canady Family Home Care | Home | Senior Care Service Raleigh",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 2460,
-    "crawled_at": "2026-04-07T20:33:33.469430814Z",
-    "technologies": [
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google My Business",
-      "Investor Relations",
-      "Line2",
-      "Perl",
-      "QUIC",
-      "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "fibonize.com",
-    "title": "Fibonize | AI & Blockchain Solutions for FinTech",
-    "business_name": "",
-    "country": "TUR",
-    "seo_score": 62,
-    "tech_spend": 40,
-    "crawled_at": "2026-04-07T12:11:19.977378231Z",
-    "technologies": [
-      "Django",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Python",
-      "Tailwind CSS",
-      "shadcn ui"
     ]
   }
 ]
