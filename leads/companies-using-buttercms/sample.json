@@ -1,5 +1,30 @@
 [
   {
+    "domain": "mindmetrix.com",
+    "title": "For Providers | The MindMetrix Comprehensive Assessment",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 17388,
+    "crawled_at": "2026-11-24T04:25:26.609244901Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apture Linking Platform",
+      "ButterCMS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Turnstile",
+      "Instagram Follow Button",
+      "Medium",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "reCAPTCHA",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "dablestate.shop",
     "title": "DABL Real Estate",
     "business_name": "",
@@ -2017,27 +2042,6 @@
       "Workable",
       "Yahoo Finance Widget",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "mindmetrix.com",
-    "title": "For Providers | The MindMetrix Comprehensive Assessment",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 77,
-    "tech_spend": 1188,
-    "crawled_at": "2026-04-07T18:37:58.26495509Z",
-    "technologies": [
-      "ButterCMS",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Medium",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "shadcn ui"
     ]
   }
 ]
