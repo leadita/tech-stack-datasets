@@ -1,5 +1,36 @@
 [
   {
+    "domain": "taxdebthelpadvisors.com",
+    "title": "See If You Qualify For Tax Relief. Get A Free Consultation Today To Find Out Your Options",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 70,
+    "tech_spend": 66540,
+    "crawled_at": "2026-11-24T06:42:27.621250764Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Adult Content",
+      "Apache",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Everflow",
+      "Express",
+      "Fireblade",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Harbor",
+      "NFOrce Internet",
+      "PHP",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8",
+      "Wangsu",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "ketokampsupplements.com",
     "title": "Detox Supplements & Natural Health Store – Revelation Health LLC",
     "business_name": "Revelation Health LLC",
@@ -7853,36 +7884,6 @@
       "eLand",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "taxdebthelpadvisors.com",
-    "title": "See If You Qualify For Tax Relief. Get A Free Consultation Today To Find Out Your Options",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 70,
-    "tech_spend": 66540,
-    "crawled_at": "2026-04-07T19:30:11.084447693Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Adult Content",
-      "Apache",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Everflow",
-      "Express",
-      "Fireblade",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Harbor",
-      "NFOrce Internet",
-      "PHP",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8",
-      "Wangsu",
-      "jQuery"
     ]
   }
 ]
