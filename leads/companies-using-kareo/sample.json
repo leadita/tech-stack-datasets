@@ -1,5 +1,32 @@
 [
   {
+    "domain": "thewomenswellnessnp.com",
+    "title": "The Women's Wellness NP",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 77,
+    "tech_spend": 85561,
+    "crawled_at": "2026-11-24T14:34:32.73544278Z",
+    "technologies": [
+      "Aruba",
+      "Express",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Kareo",
+      "Line2",
+      "Magento Enterprise",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "SiteW",
+      "Squarespace",
+      "UTF-8",
+      "University or College",
+      "WordPress SEO Structured Data Schema Plugin",
+      "ZocDoc",
+      "eLand"
+    ]
+  },
+  {
     "domain": "virtuoushealthcenters.com",
     "title": "Virtuous Health Centers",
     "business_name": "",
@@ -17993,44 +18020,6 @@
       "University or College",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "expressproviderservices.com",
-    "title": "Home - Mobile Urgent Care - Apollo Beach",
-    "business_name": "Express Provider Services",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 11940,
-    "crawled_at": "2026-04-25T13:59:25.961065882Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Divi",
-      "Elegant Themes",
-      "EmbedPress",
-      "Express",
-      "Fastly",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Conversion Tracking",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Kareo",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Supreme Modules Lite",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
