@@ -1,5 +1,33 @@
 [
   {
+    "domain": "ritualcapital.com",
+    "title": "Ritual Capital",
+    "business_name": "",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 37401,
+    "crawled_at": "2026-11-24T07:36:25.979084985Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Content Delivery Network",
+      "EmbedPress",
+      "Figma",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Heroku",
+      "Highspot",
+      "PHP",
+      "PagerDuty",
+      "Theme In WP",
+      "UTF-8",
+      "WP Engine",
+      "WordPress",
+      "WordPress Multisite"
+    ]
+  },
+  {
     "domain": "netsmartconnections.com",
     "title": "CONNECTIONS | Netsmart",
     "business_name": "Netsmart Technologies, Inc,",
@@ -1736,34 +1764,6 @@
       "jQuery",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "ritualcapital.com",
-    "title": "Ritual Capital",
-    "business_name": "",
-    "country": "",
-    "seo_score": 55,
-    "tech_spend": 14900,
-    "crawled_at": "2026-04-07T19:50:19.99848688Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Bunny Fonts",
-      "Cloudflare",
-      "Content Delivery Network",
-      "EmbedPress",
-      "Figma",
-      "Heroku",
-      "Highspot",
-      "PHP",
-      "PagerDuty",
-      "Theme In WP",
-      "UTF-8",
-      "University or College",
-      "WP Engine",
-      "WordPress",
-      "WordPress Multisite"
     ]
   }
 ]

@@ -2818,30 +2818,5 @@
       "WordPress",
       "YouTube"
     ]
-  },
-  {
-    "domain": "odomotor.com",
-    "title": "Odomotor - Drive. Record. Review.",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 7187,
-    "crawled_at": "2026-04-08T01:17:19.978285998Z",
-    "technologies": [
-      "Apache",
-      "Bulma",
-      "CDN JS",
-      "Cisco/Arrowpoint Content Service Switch",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Express",
-      "Font Awesome",
-      "GZIP Module",
-      "NFOrce Internet",
-      "PandaDoc",
-      "Perl",
-      "UTF-8",
-      "Ubuntu"
-    ]
   }
 ]
