@@ -1,5 +1,89 @@
 [
   {
+    "domain": "vzdirect.com",
+    "title": "VZ Direct",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 50354,
+    "crawled_at": "2026-11-24T10:54:50.940994356Z",
+    "technologies": [
+      "Apache",
+      "App Store",
+      "Cart.com",
+      "CookieConsent",
+      "DAV",
+      "Facebook Login",
+      "Facebook Messenger Platform",
+      "Facebook Pixel",
+      "Facebook Reseller",
+      "Federal Deposit Insurance Corporation",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Play",
+      "IcoMoon",
+      "KVH",
+      "No-Q",
+      "OpenCart",
+      "QUIC",
+      "SMC",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "Ubuntu",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "drintegral.com",
+    "title": "cocktail dresses midi dresses mini dresses maxi dresses",
+    "business_name": "",
+    "country": "CHN",
+    "seo_score": 72,
+    "tech_spend": 75508,
+    "crawled_at": "2026-11-24T04:44:14.889828468Z",
+    "technologies": [
+      "Cart.com",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "IcoMoon",
+      "Nginx",
+      "OpenCart",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "korobochka-lentochka.ru",
+    "title": "Коробочка и Ленточка",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 83440,
+    "crawled_at": "2026-11-24T03:34:39.21892775Z",
+    "technologies": [
+      "ADFOX",
+      "Cart.com",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Nginx",
+      "OpenCart",
+      "PHP",
+      "Tailwind CSS",
+      "UTF-8",
+      "Yandex Hosting"
+    ]
+  },
+  {
     "domain": "giderus.com",
     "title": "giderus.com",
     "business_name": "",
@@ -12274,72 +12358,6 @@
       "Slider Revolution",
       "Subversion",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "reoutdo.com",
-    "title": "welcome to the outdoor website",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 72,
-    "tech_spend": 75700,
-    "crawled_at": "2026-08-25T02:40:28.935820713Z",
-    "technologies": [
-      "AutoComplete",
-      "Cart.com",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "IcoMoon",
-      "Line2",
-      "Nginx",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "lovecheapgood.com",
-    "title": "Black & White Tops,Fashion Bazaar,Summer Print Dresses,Winter Coats",
-    "business_name": "",
-    "country": "CHN",
-    "seo_score": 72,
-    "tech_spend": 75508,
-    "crawled_at": "2026-08-25T00:13:39.015895983Z",
-    "technologies": [
-      "AutoComplete",
-      "Cart.com",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "Nginx",
-      "OpenCart",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "animal-health.eu",
-    "title": "Animal Health",
-    "business_name": "",
-    "country": "",
-    "seo_score": 32,
-    "tech_spend": 30003,
-    "crawled_at": "2026-08-24T04:02:46.816145936Z",
-    "technologies": [
-      "Cart.com",
-      "Google Cloud DNS",
-      "Google Font API",
-      "OpenCart",
-      "OpenResty",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
     ]
   }
 ]
