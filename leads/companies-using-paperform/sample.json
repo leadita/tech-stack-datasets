@@ -1,5 +1,67 @@
 [
   {
+    "domain": "updproc.us",
+    "title": "US DOT Biennial Update Portal | DOT Updates | Federal Applications Processor - Home",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 5608,
+    "crawled_at": "2026-11-24T07:36:25.960024423Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Apache",
+      "ChatBot",
+      "Cognito Forms",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "IcoMoon",
+      "LiveChat",
+      "LiveChat Monitoring",
+      "Paperform",
+      "QUIC",
+      "Rocket Chat"
+    ]
+  },
+  {
+    "domain": "neochromosome.com",
+    "title": "Genome-Scale Biological Engineering | Neochromosome",
+    "business_name": "Neochromosome",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 2265,
+    "crawled_at": "2026-11-24T03:50:01.662713543Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Bulma",
+      "Content Delivery Network",
+      "ElementUI",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Gravity",
+      "Gravity Forms",
+      "Jetpack",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PHP",
+      "Paperform",
+      "Slider Revolution",
+      "Tailwind CSS",
+      "Theme In WP",
+      "Twitter Ads",
+      "UTF-8",
+      "WP Engine",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "elevatedfitnessandmobility.com",
     "title": "Elevated Fitness & Mobility | Transform Your Fitness Today",
     "business_name": "",
@@ -1153,30 +1215,6 @@
       "Vector Internet Services",
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
-    ]
-  },
-  {
-    "domain": "usdotbiennial.us",
-    "title": "US DOT Biennial Update Portal | DOT Updates | Federal Applications Processor - Home",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 5608,
-    "crawled_at": "2026-11-13T16:35:08.321134117Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Apache",
-      "ChatBot",
-      "Cognito Forms",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "IcoMoon",
-      "LiveChat",
-      "LiveChat Monitoring",
-      "Paperform",
-      "QUIC",
-      "Rocket Chat"
     ]
   },
   {
@@ -19882,40 +19920,6 @@
       "UTF-8",
       "hCaptcha",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "thebebedero.com",
-    "title": "The Bebedero",
-    "business_name": "The Bebedero",
-    "country": "PHL",
-    "seo_score": 65,
-    "tech_spend": 111836,
-    "crawled_at": "2026-05-07T19:02:19.978109551Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Aruba",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Newsletter for Wordpress",
-      "Paperform",
-      "Pico CSS",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "The Fresh",
-      "UTF-8",
-      "Upserve",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
