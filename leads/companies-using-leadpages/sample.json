@@ -2537,40 +2537,5 @@
       "WordPress SEO Structured Data Schema Plugin",
       "eLand"
     ]
-  },
-  {
-    "domain": "jr-homes.com",
-    "title": "JR Homes – Renovating Kentucky One Home at a Time",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 1732,
-    "crawled_at": "2026-04-07T17:20:19.978765215Z",
-    "technologies": [
-      "AccessPress Themes",
-      "Alternate Protocol",
-      "Apache",
-      "Contact Form Plugin",
-      "EmbedPress",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Homes.com CMS",
-      "Jetpack",
-      "LeadPages",
-      "Newsletter for Wordpress",
-      "PHP",
-      "Photo Gallery for WordPress",
-      "Robo Gallery",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "WordPress Stats",
-      "jQuery"
-    ]
   }
 ]
