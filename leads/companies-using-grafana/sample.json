@@ -1,5 +1,23 @@
 [
   {
+    "domain": "vortlager-damm.de",
+    "title": "Grafana",
+    "business_name": "",
+    "country": "",
+    "seo_score": 30,
+    "tech_spend": 1200,
+    "crawled_at": "2026-11-24T05:13:26.575080919Z",
+    "technologies": [
+      "Barchart",
+      "Express",
+      "GZIP Module",
+      "Grafana",
+      "Nginx",
+      "UTF-8",
+      "Ubuntu"
+    ]
+  },
+  {
     "domain": "vh-statistik.de",
     "title": "Grafana",
     "business_name": "",
@@ -78,22 +96,6 @@
       "Nginx",
       "UTF-8",
       "Ubuntu"
-    ]
-  },
-  {
-    "domain": "watermetrics.online",
-    "title": "Grafana",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 1200,
-    "crawled_at": "2026-10-31T16:58:52.072484513Z",
-    "technologies": [
-      "Barchart",
-      "Express",
-      "GitHub Hosting",
-      "Grafana",
-      "UTF-8"
     ]
   },
   {
