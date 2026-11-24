@@ -1,5 +1,39 @@
 [
   {
+    "domain": "rssolomon.com",
+    "title": "R. S. Solomon LLC – Advocates & Solicitors | Commissioner for Oaths & Notary Public",
+    "business_name": "",
+    "country": "SGP",
+    "seo_score": 80,
+    "tech_spend": 19670,
+    "crawled_at": "2026-11-24T00:28:21.064981086Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Dialogflow",
+      "Elementor",
+      "EmbedPress",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "NFOrce Internet",
+      "PHP",
+      "Slider Revolution",
+      "Theme In WP",
+      "TranslatePress",
+      "UTF-8",
+      "WPBakery",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "letusense.com",
     "title": "TrackBot™ - Smart Facility Monitoring",
     "business_name": "",
@@ -8436,40 +8470,6 @@
       "Wix",
       "Wix Media",
       "mlcom"
-    ]
-  },
-  {
-    "domain": "rssolomon.com",
-    "title": "R. S. Solomon LLC – Advocates & Solicitors | Commissioner for Oaths & Notary Public",
-    "business_name": "",
-    "country": "SGP",
-    "seo_score": 70,
-    "tech_spend": 19670,
-    "crawled_at": "2026-04-07T16:44:20.013731814Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Dialogflow",
-      "Elementor",
-      "EmbedPress",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "NFOrce Internet",
-      "PHP",
-      "Slider Revolution",
-      "Theme In WP",
-      "TranslatePress",
-      "UTF-8",
-      "WPBakery",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
