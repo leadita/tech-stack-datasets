@@ -1,5 +1,48 @@
 [
   {
+    "domain": "gruenerbogen.tokyo",
+    "title": "Restaurant Grüner Bogen",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": "",
+    "crawled_at": "2026-11-25T07:15:25.460303159Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Netlify",
+      "Next.js",
+      "Perl",
+      "Pleroma",
+      "Prismic",
+      "Tailwind CSS",
+      "UTF-8",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
+    "domain": "ctrlspace.co",
+    "title": "CTRL — Home",
+    "business_name": "",
+    "country": "NZL",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-11-24T21:42:19.957597028Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Netlify",
+      "Nuxt.js",
+      "Prismic",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "doozyhr.com",
     "title": "Doozy - Onboarding, Training & Mentoring Platform for Slack",
     "business_name": "Doozy",
@@ -13882,67 +13925,6 @@
       "UTF-8",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "weirdosandoptimists.co.uk",
-    "title": "Weirdos & Optimists",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 20408,
-    "crawled_at": "2026-05-09T17:25:02.782803444Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "Express",
-      "Instagram Follow Button",
-      "Landis Holdings",
-      "Netlify",
-      "Perl",
-      "Prismic",
-      "QUIC",
-      "Svelte",
-      "Twitter Ads",
-      "UTF-8",
-      "WhatsApp Sharing"
-    ]
-  },
-  {
-    "domain": "kodiak.ai",
-    "title": "Kodiak AI | Autonomous Trucking & AI-Powered Ground Autonomy Solutions – Kodiak AI",
-    "business_name": "Kodiak AI, Inc.",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 15803,
-    "crawled_at": "2026-05-09T17:14:37.039106723Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Content Delivery Network",
-      "Cornerstone",
-      "Express",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Investor Relations",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Perl",
-      "Pleroma",
-      "Prismic",
-      "QUIC",
-      "Radix UI",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "Underscores",
-      "Unsplash",
-      "Vercel",
-      "Vimeo",
-      "YouTube"
     ]
   }
 ]

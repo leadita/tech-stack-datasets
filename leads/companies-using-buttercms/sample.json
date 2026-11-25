@@ -1,5 +1,32 @@
 [
   {
+    "domain": "hoseki.app",
+    "title": "Hoseki",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 5748,
+    "crawled_at": "2026-11-25T01:51:57.883691051Z",
+    "technologies": [
+      "ButterCMS",
+      "Chakra UI",
+      "Content Delivery Network",
+      "Google Analytics",
+      "Google Tag Manager",
+      "LinkedIn Insights",
+      "LinkedIn Pixel",
+      "Next.js",
+      "Pleroma",
+      "Twitter Ads",
+      "Twitter Analytics",
+      "UTF-8",
+      "Vercel",
+      "Workable",
+      "Yahoo Finance Widget",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "mindmetrix.com",
     "title": "For Providers | The MindMetrix Comprehensive Assessment",
     "business_name": "",
@@ -2015,33 +2042,6 @@
       "Visual Website Optimizer",
       "YouTube",
       "eLand"
-    ]
-  },
-  {
-    "domain": "hoseki.app",
-    "title": "Hoseki",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 3588,
-    "crawled_at": "2026-04-08T03:08:20.01331051Z",
-    "technologies": [
-      "ButterCMS",
-      "Chakra UI",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google Tag Manager",
-      "LinkedIn Insights",
-      "LinkedIn Pixel",
-      "Next.js",
-      "Pleroma",
-      "Twitter Ads",
-      "Twitter Analytics",
-      "UTF-8",
-      "Vercel",
-      "Workable",
-      "Yahoo Finance Widget",
-      "YouTube"
     ]
   }
 ]
