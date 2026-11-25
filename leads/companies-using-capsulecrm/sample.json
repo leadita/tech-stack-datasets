@@ -1,12 +1,12 @@
 [
   {
-    "domain": "stixpropertyinspections.ca",
+    "domain": "stixpropertyinspections.com",
     "title": "Home Inspections Kelowna | Stix Property Inspections, Kelowna, BC",
     "business_name": "",
     "country": "CAN",
     "seo_score": 77,
     "tech_spend": 26437,
-    "crawled_at": "2026-11-22T02:51:25.389429489Z",
+    "crawled_at": "2026-11-24T20:17:06.43315235Z",
     "technologies": [
       "AWS WAF Challenge",
       "Akismet",
