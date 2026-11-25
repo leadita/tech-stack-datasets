@@ -1,5 +1,36 @@
 [
   {
+    "domain": "arizonamuscle.com",
+    "title": "Arizona Muscle - Porsche, Exotic and Specialty Car Sales",
+    "business_name": "Arizona Muscle - Porsche, Exotic and Specialty Car Sales",
+    "country": "",
+    "seo_score": 65,
+    "tech_spend": 22746,
+    "crawled_at": "2026-11-25T03:38:04.645413437Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Divi",
+      "Elegant Themes",
+      "EmbedPress",
+      "GZIP Module",
+      "Google",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Microdata for Google Shopping",
+      "PHP",
+      "Theme In WP",
+      "UTF-8",
+      "VinSolutions",
+      "WP Super Cache",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "teamtorq.org",
     "title": "Torq — The AI Revenue System for Dealerships",
     "business_name": "Torq",
@@ -4007,37 +4038,6 @@
       "UTF-8",
       "VinSolutions",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "arizonamuscle.com",
-    "title": "Arizona Muscle - Porsche, Exotic and Specialty Car Sales",
-    "business_name": "Arizona Muscle - Porsche, Exotic and Specialty Car Sales",
-    "country": "",
-    "seo_score": 60,
-    "tech_spend": 8241,
-    "crawled_at": "2026-04-08T03:51:23.871210196Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Divi",
-      "Elegant Themes",
-      "EmbedPress",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Theme In WP",
-      "UTF-8",
-      "VinSolutions",
-      "WP Super Cache",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
     ]
   }
 ]
