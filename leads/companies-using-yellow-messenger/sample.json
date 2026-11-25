@@ -4725,32 +4725,5 @@
       "Vimeo",
       "Yellow Messenger"
     ]
-  },
-  {
-    "domain": "phoebusai.com",
-    "title": "Phoebus AI - Generative AI Solutions for Business | Phoebus AI",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 72,
-    "tech_spend": 173910,
-    "crawled_at": "2026-04-08T06:20:19.986994469Z",
-    "technologies": [
-      "AI Log",
-      "Alternate Protocol",
-      "Chat360",
-      "Content Delivery Network",
-      "Express",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "QUIC",
-      "Salesforce Hosted",
-      "Vector Internet Services",
-      "Yellow Messenger",
-      "Zyro"
-    ]
   }
 ]
