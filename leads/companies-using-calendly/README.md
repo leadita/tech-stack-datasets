@@ -1,6 +1,6 @@
 # Companies Using Calendly (Live Dataset 2026)
 
-This folder contains an active list of 128,588 companies using **Calendly**. 
+This folder contains an active list of 128,402 companies using **Calendly**. 
 The data is verified daily by the Leadita Crawler.
 
 ## 📂 Download Data
@@ -8,14 +8,14 @@ The data is verified daily by the Leadita Crawler.
 - ⚙️ [Download JSON](./sample.json) (Developers)
 
 ## 📊 Dataset Statistics
-- **Total Leads:** 128,588
+- **Total Leads:** 128,402
 - **Verified:** Yes
-- **Last Updated:** 2026-11-24 12:45 UTC
+- **Last Updated:** 2026-11-25 12:45 UTC
 - **Data Freshness:** Updated daily
 
 ## 🔓 How to get the Contact Info?
 This is a sample dataset for analysis and exploration. 
-We hold verified contact information (emails, phone numbers, decision-maker titles) for **128,588+** companies using Calendly.
+We hold verified contact information (emails, phone numbers, decision-maker titles) for **128,402+** companies using Calendly.
 
 [**⚡ Unlock the Full Calendly List with Contact Details**](https://leadita.com/leads/companies-using-calendly)
 
@@ -46,5 +46,5 @@ We hold verified contact information (emails, phone numbers, decision-maker titl
 
 ---
 
-*Last updated: 2026-11-24 12:45 UTC*
+*Last updated: 2026-11-25 12:45 UTC*
 *Data source: Leadita Technographic Intelligence*

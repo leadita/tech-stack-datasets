@@ -16600,36 +16600,5 @@
       "hCaptcha",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "buschmountainfishing.net",
-    "title": "Busch Mountain Fishing Guide",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 70,
-    "tech_spend": 1980,
-    "crawled_at": "2026-04-08T02:14:20.029738742Z",
-    "technologies": [
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Facebook Embedded Posts",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Reseller",
-      "FormSubmit",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "Setmore",
-      "Tagembed",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "YouTube"
-    ]
   }
 ]
