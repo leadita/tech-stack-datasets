@@ -1,12 +1,12 @@
 [
   {
-    "domain": "bigbang360.com",
+    "domain": "bigbang.golf",
     "title": "Big Bang 360 | ERP, CRM & Digital Transformation Experts",
     "business_name": "Big Bang 360",
     "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 477833,
-    "crawled_at": "2026-11-19T09:08:20.464880948Z",
+    "seo_score": 77,
+    "tech_spend": 480233,
+    "crawled_at": "2026-11-24T23:39:08.476641229Z",
     "technologies": [
       "AWS WAF Challenge",
       "Adobe Creative Cloud WebFonts",
@@ -32,6 +32,7 @@
       "Instagram Follow Button",
       "JIRA",
       "Microdata for Google Shopping",
+      "OpenAI",
       "Oracle Cloud",
       "PandaDoc",
       "Perl",

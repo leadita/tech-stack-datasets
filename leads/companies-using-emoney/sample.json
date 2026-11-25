@@ -1405,36 +1405,5 @@
       "eMoney",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "luciakalape.co.za",
-    "title": "Lucia Kalape | attooh! Your Wealth Solution",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 23960,
-    "crawled_at": "2026-04-08T07:56:20.002030969Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon S3 CDN",
-      "Authorize.net",
-      "Content Delivery Network",
-      "DAV",
-      "Financial Services Guide",
-      "Fireblade",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Nuxt.js",
-      "QUIC",
-      "Storyblocks",
-      "UTF-8",
-      "Vimeo",
-      "Vimeo CDN",
-      "eMoney"
-    ]
   }
 ]

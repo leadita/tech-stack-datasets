@@ -2995,35 +2995,5 @@
       "eLand",
       "jQuery"
     ]
-  },
-  {
-    "domain": "thames.ai",
-    "title": "simplify, and add lightness",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 541620,
-    "crawled_at": "2026-04-08T05:25:34.75705829Z",
-    "technologies": [
-      "Broadridge",
-      "Corporate Governance and Regulatory Compliance",
-      "Express",
-      "Financial Industry Regulatory Authority",
-      "Fireblade",
-      "GitHub Hosting",
-      "GoDaddy",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Interchange",
-      "NFOrce Internet",
-      "PWA",
-      "Perl",
-      "Prospective",
-      "UTF-8",
-      "Wangsu",
-      "Website Tonight"
-    ]
   }
 ]
