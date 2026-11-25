@@ -6099,45 +6099,5 @@
       "jsDelivr",
       "nopCommerce"
     ]
-  },
-  {
-    "domain": "graywhalecamp.com",
-    "title": "Gray whale camp",
-    "business_name": "",
-    "country": "PHL",
-    "seo_score": 70,
-    "tech_spend": 54748,
-    "crawled_at": "2026-04-08T04:35:20.018851063Z",
-    "technologies": [
-      "Adyen",
-      "Alternate Protocol",
-      "Amazon Advertising Sizmek Ad Suite",
-      "Apache",
-      "Booking Affiliate",
-      "Camp",
-      "Contact Form Plugin",
-      "DoubleClick Bid Manager",
-      "Elementor",
-      "EmbedPress",
-      "Facebook CDN",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Graphy",
-      "Heroku",
-      "Instagram Follow Button",
-      "Jetpack Site Accelerator",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PHP",
-      "Pantheon",
-      "QUIC",
-      "Theme In WP",
-      "UTF-8",
-      "WP Fastest Cache",
-      "WordPress",
-      "WordPress Multisite",
-      "jQuery"
-    ]
   }
 ]
