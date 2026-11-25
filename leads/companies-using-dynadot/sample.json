@@ -1,5 +1,28 @@
 [
   {
+    "domain": "startup-name.com",
+    "title": "Digital Real Estate Specialist",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 780,
+    "crawled_at": "2026-11-25T11:24:14.024004069Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "ArvanCloud",
+      "CloudFront",
+      "Content Delivery Network",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "QUIC",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "bloggerusa.com",
     "title": "An EMDN - Blogger USA, Content Creation Digital Media Online Publishing Influencer Marketing Writing Community SEO Journalism Social Media",
     "business_name": "",
@@ -101,29 +124,6 @@
       "Microdata for Google Shopping",
       "OpenResty",
       "Prospective",
-      "QUIC",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "eleccion.net",
-    "title": "Digital Real Estate Specialist",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 780,
-    "crawled_at": "2026-11-22T23:56:33.258924506Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "ArvanCloud",
-      "CloudFront",
-      "Content Delivery Network",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "OpenResty",
       "QUIC",
       "UTF-8",
       "jsDelivr"
@@ -4411,50 +4411,6 @@
       "Twitter Ads",
       "UTF-8",
       "Vimeo"
-    ]
-  },
-  {
-    "domain": "rc-bm.com",
-    "title": "Home - RCBM",
-    "business_name": "RCBM Food Concepts",
-    "country": "IND",
-    "seo_score": 77,
-    "tech_spend": 16355,
-    "crawled_at": "2026-04-07T23:53:20.004891326Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Contact Form Plugin",
-      "Content Delivery Network",
-      "Dynadot",
-      "EmbedPress",
-      "Font Awesome",
-      "Gambling Content",
-      "GoDaddy",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "IcoMoon",
-      "Instagram Follow Button",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Pico CSS",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "Theme In WP",
-      "UTF-8",
-      "Woo Themes",
-      "WooCommerce",
-      "WooCommerce Checkout",
-      "WordPress",
-      "WordPress Multisite",
-      "YouTube",
-      "jQuery"
     ]
   }
 ]
