@@ -1,5 +1,35 @@
 [
   {
+    "domain": "ddgraphics.co.uk",
+    "title": "DD Graphics",
+    "business_name": " DD Graphics",
+    "country": "JPN",
+    "seo_score": 77,
+    "tech_spend": 76098,
+    "crawled_at": "2026-11-25T15:34:54.652105325Z",
+    "technologies": [
+      "3 Products",
+      "Apache",
+      "Cart.com",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "License Buttons",
+      "Microdata for Google Shopping",
+      "OpenCart",
+      "QUIC",
+      "Slider Revolution",
+      "Subversion",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "vzdirect.com",
     "title": "VZ Direct",
     "business_name": "",
@@ -12337,27 +12367,6 @@
       "W3.CSS",
       "YouTube",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "gemartplaza.com",
-    "title": "Gems & Art Plaza",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 30042,
-    "crawled_at": "2026-08-25T08:35:48.466870738Z",
-    "technologies": [
-      "Apache",
-      "Cart.com",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "OpenCart",
-      "QUIC",
-      "Slider Revolution",
-      "Subversion",
-      "UTF-8"
     ]
   }
 ]
