@@ -1,5 +1,49 @@
 [
   {
+    "domain": "deepaffex.ai",
+    "title": "DeepAffex® | DeepAffex®",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 17500,
+    "crawled_at": "2026-11-25T12:26:42.512564468Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "Envoy",
+      "Fireblade",
+      "GitHub Hosting",
+      "Istio",
+      "JIRA",
+      "Perl",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "University or College",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "apidocsaccelerator.com",
+    "title": "API Docs Accelerator - Turn Your API Docs Into a Growth Engine",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 228,
+    "crawled_at": "2026-11-25T07:15:25.451953478Z",
+    "technologies": [
+      "Content Delivery Network",
+      "Docusaurus",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Netlify",
+      "Next.js",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "maryslittlelambschildcare.org",
     "title": "Home | Mary's Little Lambs",
     "business_name": "",
@@ -7177,29 +7221,6 @@
     ]
   },
   {
-    "domain": "leadboost.co",
-    "title": "LeadBoost - Turn Your API Docs Into a Growth Engine",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 948,
-    "crawled_at": "2026-05-14T01:08:19.986094602Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Docusaurus",
-      "Google Analytics",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Netlify",
-      "Next.js",
-      "PWA",
-      "Pleroma",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "hueami.de",
     "title": "Hello from seclog | seclog",
     "business_name": "",
@@ -12890,24 +12911,6 @@
       "Schema Plugin",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "saassy-saas.com",
-    "title": "Modern Apps + Software Solutions | Saassy SaaS",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 60,
-    "crawled_at": "2026-04-19T06:17:20.022751014Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Coming Soon Page",
-      "Docusaurus",
-      "GZIP Module",
-      "Google Cloud",
-      "Perl",
-      "QUIC"
     ]
   }
 ]

@@ -1,5 +1,56 @@
 [
   {
+    "domain": "ajeshjally.com",
+    "title": "Home - Ajesh Jally | Frontend Developer",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 250906,
+    "crawled_at": "2026-11-25T22:36:52.132922319Z",
+    "technologies": [
+      "Adobe Experience Manager",
+      "Bulma",
+      "Content Delivery Network",
+      "DAV",
+      "Font Awesome",
+      "Formspree",
+      "GitHub Hosting",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Netlify",
+      "No-Q",
+      "PWA",
+      "Subversion",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "debugsbunny.com",
+    "title": "Live Interactive Coding for Kids | DebugsBunny",
+    "business_name": "DebugsBunny",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 3170,
+    "crawled_at": "2026-11-25T21:57:27.101834242Z",
+    "technologies": [
+      "Amazon",
+      "Amazon CloudFront",
+      "Amazon Route 53",
+      "Amazon S3 CDN",
+      "CloudFront",
+      "Content Delivery Network",
+      "Google Related Website Sites",
+      "Gridsome",
+      "Instagram Follow Button",
+      "Python",
+      "QUIC",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "University or College",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "sirenia.io",
     "title": "Home - Sirenia",
     "business_name": "",
@@ -11912,42 +11963,6 @@
       "KVH",
       "Netlify",
       "SMC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "milos-vujinic.dev",
-    "title": "Hi, It's nice to meet you | Milos-Vujinic.dev",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2026-04-14T07:11:19.986586607Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Gridsome",
-      "Netlify",
-      "UTF-8",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "topoflineinc.com",
-    "title": "Topofline, Inc. - Gridsome Portfolio Starter",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 3,
-    "crawled_at": "2026-04-14T06:14:19.99612955Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Express",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Gridsome",
-      "Netlify",
-      "PHP",
-      "Tailwind CSS",
       "UTF-8"
     ]
   }
