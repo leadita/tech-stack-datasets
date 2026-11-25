@@ -1,5 +1,23 @@
 [
   {
+    "domain": "primedatahub.com",
+    "title": "Prime Data Hub - Premium Data Solutions",
+    "business_name": "",
+    "country": "UKR",
+    "seo_score": 60,
+    "tech_spend": "",
+    "crawled_at": "2026-11-25T06:31:09.558812366Z",
+    "technologies": [
+      "Django",
+      "GZIP Module",
+      "InitiativeS",
+      "Nginx",
+      "QUIC",
+      "Tailwind CSS",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "canadycare.com",
     "title": "Canady Family Home Care | Home | Senior Care Service Raleigh",
     "business_name": "",
@@ -8367,70 +8385,6 @@
       "Python",
       "Twitter Ads",
       "Unix"
-    ]
-  },
-  {
-    "domain": "primedatahub.com",
-    "title": "Prime Data Hub - Premium Data Solutions",
-    "business_name": "",
-    "country": "UKR",
-    "seo_score": 60,
-    "tech_spend": "",
-    "crawled_at": "2026-04-08T04:56:20.403305349Z",
-    "technologies": [
-      "Django",
-      "GZIP Module",
-      "InitiativeS",
-      "Nginx",
-      "QUIC",
-      "Tailwind CSS",
-      "shadcn ui"
-    ]
-  },
-  {
-    "domain": "tayapromediverse.org",
-    "title": "TAYAPROMEDIVERSE Dashboard",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 3,
-    "crawled_at": "2026-04-08T04:31:19.429324424Z",
-    "technologies": [
-      "Amazon WAF Blocked",
-      "Django",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Pleroma",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "javiersalazar.dev",
-    "title": "Javier Salazar - Ingeniero de Software",
-    "business_name": "",
-    "country": "PRY",
-    "seo_score": 67,
-    "tech_spend": 3199,
-    "crawled_at": "2026-04-08T03:23:19.984571798Z",
-    "technologies": [
-      "Apache",
-      "ArvanCloud",
-      "Django",
-      "Font Awesome",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Medium",
-      "Nginx",
-      "PHP",
-      "Python",
-      "Twitter Ads",
-      "jQuery",
-      "jsDelivr"
     ]
   }
 ]
