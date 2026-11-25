@@ -1616,28 +1616,5 @@
       "jsDelivr",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "onmeut.com",
-    "title": "ONMEUT™ Studio — We launch software",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 18568,
-    "crawled_at": "2026-04-08T04:47:20.011320636Z",
-    "technologies": [
-      "Airtable",
-      "BetterMode",
-      "Framer Sites",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Medium",
-      "Ntent",
-      "QUIC",
-      "Telegram",
-      "Twitter Ads",
-      "Yandex Hosting",
-      "Zeald"
-    ]
   }
 ]
