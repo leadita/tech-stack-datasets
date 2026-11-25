@@ -1,5 +1,38 @@
 [
   {
+    "domain": "willistonsquare.com",
+    "title": "Williston Square",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 1783,
+    "crawled_at": "2026-11-24T15:36:55.661828725Z",
+    "technologies": [
+      "Adult Content",
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "ETranslate",
+      "Elfsight",
+      "GTranslate",
+      "GZIP Module",
+      "GoDaddy",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Monsido",
+      "QUIC",
+      "Share Link",
+      "Twitter Ads",
+      "UTF-8",
+      "Website Tonight",
+      "eLand",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "acceleration-properties.com",
     "title": "Young America Realty | Now in Peoria, IL",
     "business_name": "",
@@ -17288,39 +17321,6 @@
       "University or College",
       "Visual Studio",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "willistonsquare.com",
-    "title": "Williston Square",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 1783,
-    "crawled_at": "2026-04-07T23:05:19.996953831Z",
-    "technologies": [
-      "Adult Content",
-      "Alternate Protocol",
-      "Apture Linking Platform",
-      "ETranslate",
-      "Elfsight",
-      "GTranslate",
-      "GZIP Module",
-      "GoDaddy",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Monsido",
-      "QUIC",
-      "Share Link",
-      "Twitter Ads",
-      "UTF-8",
-      "Website Tonight",
-      "eLand",
-      "jQuery"
     ]
   }
 ]
