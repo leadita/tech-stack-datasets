@@ -1,5 +1,110 @@
 [
   {
+    "domain": "pasigcity.net",
+    "title": "Welcome to PhilippineProperties.com",
+    "business_name": "",
+    "country": "",
+    "seo_score": 67,
+    "tech_spend": 7780,
+    "crawled_at": "2026-11-26T15:35:24.297885225Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "ArvanCloud",
+      "CloudFront",
+      "Content Delivery Network",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "Prospective",
+      "QUIC",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "3dsymbol.com",
+    "title": "An EMDN - 3D symbol, Numbers Digits Graphic Design Visual Identity Digital Art 3D Modeling Branding Animation Creative Logo Rendering",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": 168,
+    "crawled_at": "2026-11-26T14:13:01.058212508Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "ArvanCloud",
+      "CloudFront",
+      "Content Delivery Network",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "OpenResty",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "wespeak-realestate.ca",
+    "title": "We Speak Real Estate",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 72,
+    "tech_spend": 27020,
+    "crawled_at": "2026-11-26T03:49:37.323146193Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Amazon CloudFront",
+      "ArvanCloud",
+      "BLR",
+      "CloudFront",
+      "Content Delivery Network",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Instagram Follow Button",
+      "Investor Relations",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "Realtor Canada",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8",
+      "Vimeo",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "hoseman.pro",
+    "title": "Hosemans High Pressure Solutions, LLC & Gunsmithing",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 10780,
+    "crawled_at": "2026-11-26T02:00:41.565158419Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "ArvanCloud",
+      "BLR",
+      "CloudFront",
+      "Content Delivery Network",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "Tumblr",
+      "Twitter Ads",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "startup-name.com",
     "title": "Digital Real Estate Specialist",
     "business_name": "",
@@ -18,32 +123,6 @@
       "Microdata for Google Shopping",
       "OpenResty",
       "QUIC",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "bloggerusa.com",
-    "title": "An EMDN - Blogger USA, Content Creation Digital Media Online Publishing Influencer Marketing Writing Community SEO Journalism Social Media",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 168,
-    "crawled_at": "2026-11-24T10:09:28.014827119Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "ArvanCloud",
-      "CloudFront",
-      "Content Delivery Network",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "OpenResty",
       "UTF-8",
       "jsDelivr"
     ]
@@ -101,30 +180,6 @@
       "Perl",
       "RawGit",
       "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "philippineproperty.net",
-    "title": "Welcome to PhilippineProperties.com",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 7780,
-    "crawled_at": "2026-11-23T11:07:56.63777383Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "ArvanCloud",
-      "CloudFront",
-      "Content Delivery Network",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "Prospective",
-      "QUIC",
       "UTF-8",
       "jsDelivr"
     ]
@@ -4385,32 +4440,6 @@
       "Website Tonight",
       "ePages",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "wespeak-realestate.ca",
-    "title": "We Speak Real Estate",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 67,
-    "tech_spend": 26459,
-    "crawled_at": "2026-04-08T12:59:20.000371668Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon CloudFront",
-      "BLR",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "Instagram Follow Button",
-      "Investor Relations",
-      "Realtor Canada",
-      "Tumblr",
-      "Twitter Ads",
-      "UTF-8",
-      "Vimeo"
     ]
   }
 ]
