@@ -1,5 +1,146 @@
 [
   {
+    "domain": "bakonyreginavendeghaz.hu",
+    "title": "Regina vendégház | Close to nature, rural feeling vacation rental, Olaszfalu | official website",
+    "business_name": "",
+    "country": "HUN",
+    "seo_score": 77,
+    "tech_spend": 3880,
+    "crawled_at": "2026-11-26T09:17:31.638413951Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Book Direct",
+      "BunnyCDN",
+      "BunnyCDN General",
+      "Chakra UI",
+      "Content Delivery Network",
+      "DAV",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Ntent",
+      "PWA",
+      "Pleroma",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "hillhelicopters.ch",
+    "title": "HX50 Luxury Private Helicopter - HILL HELICOPTERS",
+    "business_name": "Hill Helicopters",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 7840,
+    "crawled_at": "2026-11-26T08:30:24.854521738Z",
+    "technologies": [
+      "Alternate Protocol",
+      "BunnyCDN General",
+      "Chakra UI",
+      "Content Delivery Network",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Prospective",
+      "Sitelinks Search Box",
+      "UTF-8",
+      "Vercel",
+      "YouTube"
+    ]
+  },
+  {
+    "domain": "smile2impress.co.uk",
+    "title": "Invisalign® | Now at Impress | All-inclusive treatment.",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 72,
+    "tech_spend": 20100,
+    "crawled_at": "2026-11-26T03:08:34.390859672Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Chakra UI",
+      "Content Delivery Network",
+      "Fastly",
+      "Fireblade",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Next.js",
+      "Perl",
+      "Share Link",
+      "Thank You",
+      "Trustpilot Reviews for WordPress",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "imacellist.com",
+    "title": "Jianning Zhuang - Homepage",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 67,
+    "tech_spend": 280,
+    "crawled_at": "2026-11-25T21:28:22.048947014Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "GitHub Hosting",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Instagram Follow Button",
+      "Next.js",
+      "Pleroma",
+      "UTF-8",
+      "Vercel"
+    ]
+  },
+  {
+    "domain": "skyhubmining.ae",
+    "title": "SkyHub",
+    "business_name": "",
+    "country": "",
+    "seo_score": 57,
+    "tech_spend": "",
+    "crawled_at": "2026-11-25T17:13:48.351577627Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "Netlify",
+      "Next.js",
+      "Pleroma",
+      "Tawk",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "ohsofreeblog.com",
+    "title": "Ohsofree",
+    "business_name": "",
+    "country": "DEU",
+    "seo_score": 67,
+    "tech_spend": 3928,
+    "crawled_at": "2026-11-25T15:13:17.831232258Z",
+    "technologies": [
+      "Chakra UI",
+      "Content Delivery Network",
+      "DAV",
+      "Idaq",
+      "Instagram Follow Button",
+      "Next.js",
+      "PWA",
+      "Pleroma",
+      "Sanity",
+      "Styled Components",
+      "UTF-8",
+      "University or College",
+      "Vercel"
+    ]
+  },
+  {
     "domain": "beytiegypt.com",
     "title": "Beyti - Home",
     "business_name": "",
@@ -13111,131 +13252,6 @@
       "Subversion",
       "UTF-8",
       "Zope"
-    ]
-  },
-  {
-    "domain": "recoveryhuman.com",
-    "title": "The Road to Recovery: Supporting Your Journey to Healing | RecoveryHuman",
-    "business_name": "",
-    "country": "",
-    "seo_score": 72,
-    "tech_spend": 52680,
-    "crawled_at": "2026-08-01T22:32:35.157007287Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Next.js",
-      "PWA",
-      "SMC",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "seniorsconcierge.net",
-    "title": "Seniors Concierge",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 82,
-    "tech_spend": 268,
-    "crawled_at": "2026-08-01T16:53:31.629498318Z",
-    "technologies": [
-      "CDN JS",
-      "Chakra UI",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "Gatsby JS",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Netlify",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "travel3.app",
-    "title": "Event Explore Macau & Hong Kong - Travel3",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": "",
-    "crawled_at": "2026-08-01T03:56:01.0452068Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Chakra UI",
-      "Content Delivery Network",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "Next.js",
-      "Pleroma",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "afzali.dev",
-    "title": "Seyamack Afzali",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 37,
-    "tech_spend": "",
-    "crawled_at": "2026-08-01T03:14:49.341604101Z",
-    "technologies": [
-      "Chakra UI",
-      "Content Delivery Network",
-      "Envoy",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Next.js",
-      "Pleroma",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "unbogify.com",
-    "title": "Unbogify – fix your swing",
-    "business_name": "",
-    "country": "DEU",
-    "seo_score": 65,
-    "tech_spend": 240,
-    "crawled_at": "2026-08-01T00:34:49.356548627Z",
-    "technologies": [
-      "App Store",
-      "Chakra UI",
-      "Content Delivery Network",
-      "Next.js",
-      "Pleroma",
-      "QUIC",
-      "Smart App Banner",
-      "UTF-8",
-      "Vercel"
-    ]
-  },
-  {
-    "domain": "retrievium.com",
-    "title": "retrievium",
-    "business_name": "",
-    "country": "",
-    "seo_score": 30,
-    "tech_spend": 63,
-    "crawled_at": "2026-07-31T17:05:53.473844401Z",
-    "technologies": [
-      "Chakra UI",
-      "Express",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Thank You",
-      "UTF-8"
     ]
   }
 ]
