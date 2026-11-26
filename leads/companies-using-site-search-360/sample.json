@@ -1,5 +1,83 @@
 [
   {
+    "domain": "vvchelium.com",
+    "title": "VVC Resources",
+    "business_name": "",
+    "country": "JAM",
+    "seo_score": 72,
+    "tech_spend": 3862,
+    "crawled_at": "2026-11-26T19:14:04.609625589Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "CloudFront",
+      "Corporate Governance and Regulatory Compliance",
+      "Duda",
+      "ETranslate",
+      "Express",
+      "FormSubmit",
+      "InitiativeS",
+      "Nginx",
+      "No-Q",
+      "QUIC",
+      "Site Search 360",
+      "Tailwind CSS",
+      "Thank You",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "pechurchnet.co.za",
+    "title": "Linking Local Christians in PE - PE Church Net",
+    "business_name": "",
+    "country": "ZAF",
+    "seo_score": 67,
+    "tech_spend": 468,
+    "crawled_at": "2026-11-26T16:49:39.439922174Z",
+    "technologies": [
+      "Apache",
+      "Express",
+      "Flip",
+      "GZIP Module",
+      "Site Search 360",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "pandahockey.be",
+    "title": "Panda Hockey",
+    "business_name": "Panda Hockey",
+    "country": "",
+    "seo_score": 60,
+    "tech_spend": 1464,
+    "crawled_at": "2026-11-26T04:28:54.170028415Z",
+    "technologies": [
+      "3 Products",
+      "Apture Linking Platform",
+      "Baidu Cloud",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Express",
+      "Fast Simon",
+      "Google Related Website Sites",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "QUIC",
+      "Shopify",
+      "Shopify Collabs",
+      "Shopify Payments",
+      "Site Search 360",
+      "UTF-8",
+      "Yandex Hosting",
+      "eLand",
+      "hCaptcha",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "coastburbank.com",
     "title": "Hotel in Burbank, California | Coast Burbank Hotel",
     "business_name": "",
@@ -1050,23 +1128,6 @@
       "Site Search 360",
       "UTF-8",
       "Yandex Hosting"
-    ]
-  },
-  {
-    "domain": "churchnet.org.za",
-    "title": "Linking Local Christians in PE - PE Church Net",
-    "business_name": "",
-    "country": "ZAF",
-    "seo_score": 62,
-    "tech_spend": 468,
-    "crawled_at": "2026-11-12T15:26:34.690705455Z",
-    "technologies": [
-      "Apache",
-      "Express",
-      "Flip",
-      "GZIP Module",
-      "Site Search 360",
-      "UTF-8"
     ]
   },
   {
@@ -2777,36 +2838,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "vvcorporation.info",
-    "title": "VVC Resources",
-    "business_name": "",
-    "country": "JAM",
-    "seo_score": 67,
-    "tech_spend": 3862,
-    "crawled_at": "2026-10-21T20:29:35.657630816Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Corporate Governance and Regulatory Compliance",
-      "Duda",
-      "ETranslate",
-      "Express",
-      "FormSubmit",
-      "GZIP Module",
-      "InitiativeS",
-      "Nginx",
-      "No-Q",
-      "QUIC",
-      "Site Search 360",
-      "Tailwind CSS",
-      "Thank You",
-      "Twitter Ads",
-      "UTF-8"
     ]
   },
   {
@@ -16291,33 +16322,6 @@
       "Site Search 360",
       "Tailwind CSS",
       "UTF-8",
-      "YouTube"
-    ]
-  },
-  {
-    "domain": "rampsbystudents.org",
-    "title": "Home : RampsRVA",
-    "business_name": "1114 Westbriar Drive Suite D",
-    "country": "IMN",
-    "seo_score": 65,
-    "tech_spend": 27268,
-    "crawled_at": "2026-04-25T04:44:19.984742961Z",
-    "technologies": [
-      "Apache",
-      "Apture Linking Platform",
-      "Baidu Cloud",
-      "Express",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Investor Relations",
-      "Microdata for Google Shopping",
-      "Prospective",
-      "Python",
-      "Site Search 360",
-      "UTF-8",
-      "Yandex Hosting",
       "YouTube"
     ]
   }
