@@ -1,5 +1,48 @@
 [
   {
+    "domain": "liuzaoqi.com",
+    "title": "Home | Liuzaoqi",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 600,
+    "crawled_at": "2026-11-26T13:56:27.530921601Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Alternate Protocol",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "KaTeX",
+      "Perl",
+      "Python",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "yap.ad",
+    "title": "Yap.Ad",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-11-26T08:04:45.838449122Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Docusaurus",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Perl",
+      "Tailwind CSS",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "deepaffex.ai",
     "title": "DeepAffex® | DeepAffex®",
     "business_name": "",
@@ -7968,25 +8011,6 @@
     ]
   },
   {
-    "domain": "devyap.ad",
-    "title": "yap.ad",
-    "business_name": "",
-    "country": "",
-    "seo_score": 42,
-    "tech_spend": "",
-    "crawled_at": "2026-05-08T20:17:20.010306632Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Perl",
-      "Tailwind CSS",
-      "UTF-8"
-    ]
-  },
-  {
     "domain": "cvbuilderai.com",
     "title": "Your resume with you forever | CVBuilder AI",
     "business_name": "",
@@ -12885,31 +12909,6 @@
       "PWA",
       "Perl",
       "QUIC",
-      "UTF-8"
-    ]
-  },
-  {
-    "domain": "hocus.dev",
-    "title": "Blog | Hocus Blog",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 67,
-    "tech_spend": 330,
-    "crawled_at": "2026-04-19T11:44:20.000142058Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Docusaurus",
-      "GitHub Hosting",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "No-Q",
-      "Ntent",
-      "Perl",
-      "Schema Plugin",
-      "Twitter Ads",
       "UTF-8"
     ]
   }
