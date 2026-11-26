@@ -8416,34 +8416,5 @@
       "Zoom Video Conferencing",
       "shadcn ui"
     ]
-  },
-  {
-    "domain": "tampatower.org",
-    "title": "Tampa Tower | Discover Educational Excellence",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 78653,
-    "crawled_at": "2026-04-08T07:11:20.005915131Z",
-    "technologies": [
-      "Aruba",
-      "Dialogflow",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Instagram Follow Button",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
-    ]
   }
 ]
