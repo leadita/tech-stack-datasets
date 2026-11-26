@@ -1,5 +1,30 @@
 [
   {
+    "domain": "victorlaybats.com",
+    "title": "AI Agent Sprint in 72 Hours | Victor Laybats",
+    "business_name": "",
+    "country": "FRA",
+    "seo_score": 92,
+    "tech_spend": 348,
+    "crawled_at": "2026-11-25T21:16:03.964487394Z",
+    "technologies": [
+      "Alternate Protocol",
+      "DAV",
+      "Envoy",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Hasnode",
+      "Instagram Follow Button",
+      "Medium",
+      "Microdata for Google Shopping",
+      "Python",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "pillars.live",
     "title": "Pillars – Outsourced 24/7 Site Reliability Engineering",
     "business_name": "",
@@ -11237,28 +11262,6 @@
       "University or College",
       "Vercel",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "maxcomperatore.com",
-    "title": "Max Comperatore | AI Engineer & Builder",
-    "business_name": "Max Comperatore AI Engineering",
-    "country": "ARG",
-    "seo_score": 77,
-    "tech_spend": 3028,
-    "crawled_at": "2026-04-08T13:17:20.018956291Z",
-    "technologies": [
-      "Content Delivery Network",
-      "ElementUI",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hasnode",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "UTF-8",
-      "Vercel"
     ]
   }
 ]
