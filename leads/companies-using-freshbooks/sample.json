@@ -3329,44 +3329,5 @@
       "jQuery",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "pretty-books.com",
-    "title": "Pretty Books | Business Consulting, Accounting and Tax Services",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 19847,
-    "crawled_at": "2026-04-08T11:02:19.995764102Z",
-    "technologies": [
-      "AppFolio",
-      "Bulma",
-      "CDN JS",
-      "Calendly",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coming Soon Page",
-      "FreshBooks",
-      "FrontApp",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Forms",
-      "Google My Business",
-      "Google Tag Manager",
-      "Gusto",
-      "LinkedIn Insights",
-      "MindBody",
-      "Nginx",
-      "QUIC",
-      "Shopify",
-      "Square",
-      "StackPath",
-      "StatCounter",
-      "Tailwind CSS",
-      "Wave",
-      "Xero"
-    ]
   }
 ]

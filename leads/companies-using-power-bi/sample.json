@@ -1,5 +1,32 @@
 [
   {
+    "domain": "foodforanalytics.eu",
+    "title": "Food Manufacturing Data & AI Platform | Food For Analytics",
+    "business_name": "Food For Analytics",
+    "country": "",
+    "seo_score": 87,
+    "tech_spend": 817,
+    "crawled_at": "2026-11-26T09:17:31.6753466Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Book Direct",
+      "Calendly",
+      "Cybot",
+      "Free Call",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "Nginx",
+      "Power BI",
+      "Tailwind CSS",
+      "YouTube",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "ceteryx.com",
     "title": "Ceteryx",
     "business_name": "Ceteryx",
@@ -19473,33 +19500,6 @@
       "UTF-8",
       "University or College",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "miguelpraslin.com",
-    "title": "Miguel Praslin Portfolio",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 25604,
-    "crawled_at": "2026-04-26T00:26:19.985280761Z",
-    "technologies": [
-      "Aruba",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "Magento Enterprise",
-      "Microdata for Google Shopping",
-      "Power BI",
-      "QUIC",
-      "SiteW",
-      "Squarespace",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "eLand"
     ]
   }
 ]
