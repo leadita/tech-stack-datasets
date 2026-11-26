@@ -1,5 +1,35 @@
 [
   {
+    "domain": "trybreeze.com",
+    "title": "Airbrush Makeup Foundation | Spray on Foundation | Try Before You Buy",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 559799,
+    "crawled_at": "2026-11-25T22:57:31.158173058Z",
+    "technologies": [
+      "Apple Auto Link Maker",
+      "Apture Linking Platform",
+      "CQuotient",
+      "Cloudflare",
+      "Cloudinary",
+      "Font Awesome",
+      "Google Analytics",
+      "Google My Business",
+      "Google Play",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Klaviyo",
+      "Quotient",
+      "Salesforce Commerce Cloud",
+      "StackPath",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "kadojapan.com",
     "title": "KADO Japan | Authentic Japanese Collectibles",
     "business_name": "KADO Japan",
@@ -16106,44 +16136,6 @@
       "WordPress Related Posts",
       "Workday",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "b2bsaaspartners.com",
-    "title": "B2B SaaS Partners",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 60,
-    "tech_spend": 176883,
-    "crawled_at": "2026-04-08T11:02:20.000032162Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Amazon",
-      "Apache",
-      "Apture Linking Platform",
-      "ClickOn",
-      "Express",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Google Recommendations AI",
-      "Google Related Website Sites",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "Ntent",
-      "Oracle Cloud",
-      "PagerDuty",
-      "SMC",
-      "Salesforce Commerce Cloud",
-      "Salesforce Hosted",
-      "Sapper",
-      "Schema Plugin",
-      "Subversion",
-      "UTF-8"
     ]
   }
 ]
