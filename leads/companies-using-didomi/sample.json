@@ -1,5 +1,38 @@
 [
   {
+    "domain": "legal-suite.com",
+    "title": "Legal Suite Software: The Legal AI That Drives Action",
+    "business_name": "Septeo Legal Suite",
+    "country": "FRA",
+    "seo_score": 87,
+    "tech_spend": 37480,
+    "crawled_at": "2026-11-25T15:40:32.786173412Z",
+    "technologies": [
+      "AJAX Libraries API",
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Amazon",
+      "Amazon CloudFront",
+      "CloudFront",
+      "Cloudflare",
+      "Content Delivery Network",
+      "Didomi",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "HubSpot Conversations",
+      "Hubspot",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "UTF-8",
+      "WF Cookie Consent",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "constructionexponorth.com",
     "title": "Construction EXPO North - 22nd April 2027",
     "business_name": "Construction EXPO North",
@@ -19630,30 +19663,6 @@
       "YouTube",
       "jsDelivr",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "seylafrancoeur.ca",
-    "title": "Home",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 72,
-    "tech_spend": 26000,
-    "crawled_at": "2026-04-20T16:00:12.616152355Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon CloudFront",
-      "CloudFront",
-      "Didomi",
-      "Fireblade",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Nginx",
-      "Nuxt.js",
-      "UTF-8",
-      "Vector Internet Services"
     ]
   }
 ]
