@@ -1,5 +1,32 @@
 [
   {
+    "domain": "wildcardcity-casino.net",
+    "title": "Wild Card City Casino Login in Australia - Play and Win!",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 111188,
+    "crawled_at": "2026-11-25T21:06:53.563986895Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apture Linking Platform",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Fireblade",
+      "FreeBSD",
+      "Gambling Content",
+      "Google My Business",
+      "Google Related Website Sites",
+      "IcoMoon",
+      "Optimove",
+      "Python",
+      "QUIC",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College"
+    ]
+  },
+  {
     "domain": "interbet.co.za",
     "title": "Top Online Casino & Sports Betting at Interbet | Interbet",
     "business_name": "",
@@ -490,34 +517,6 @@
       "Yandex Hosting",
       "Zendesk Embeddables",
       "Zendesk Guide"
-    ]
-  },
-  {
-    "domain": "wildcardcity-casino.net",
-    "title": "Wild Card City Casino Login in Australia - Play and Win!",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 111188,
-    "crawled_at": "2026-04-08T10:32:19.992963944Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Fireblade",
-      "FreeBSD",
-      "Gambling Content",
-      "Google My Business",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Optimove",
-      "Python",
-      "QUIC",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College"
     ]
   }
 ]
