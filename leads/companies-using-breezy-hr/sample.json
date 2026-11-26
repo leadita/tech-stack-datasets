@@ -16813,37 +16813,5 @@
       "TradingView",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "rainbowtorch.org",
-    "title": "Rainbow Torch Society | Join and Donate | Grapevine",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 1938,
-    "crawled_at": "2026-04-08T11:14:20.020157415Z",
-    "technologies": [
-      "Angular Material",
-      "Breezy HR",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Express",
-      "Font Awesome",
-      "Google",
-      "Google Analytics",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Heroku",
-      "Instagram Follow Button",
-      "Newsletter for Wordpress",
-      "Ntent",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8",
-      "eLand",
-      "jsDelivr"
-    ]
   }
 ]

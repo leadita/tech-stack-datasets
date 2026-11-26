@@ -1,5 +1,29 @@
 [
   {
+    "domain": "bit-traineeship.nl",
+    "title": "AI Traineeship for Organisations | Bit Amsterdam — Bit",
+    "business_name": "",
+    "country": "NLD",
+    "seo_score": 77,
+    "tech_spend": 44591,
+    "crawled_at": "2026-11-26T08:48:08.445131858Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apture Linking Platform",
+      "Content Delivery Network",
+      "FormSubmit",
+      "GitHub Hosting",
+      "Google",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "Recruitee",
+      "Sanity",
+      "UTF-8",
+      "Vercel",
+      "Waveform Technology"
+    ]
+  },
+  {
     "domain": "xn--schlsselposition-mzb.de",
     "title": "Du bist der Schlüssel! - Karriereseite der Stadt Dorsten",
     "business_name": "",
@@ -59,30 +83,6 @@
       "UTF-8",
       "Underscores",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "bit-traineeship.com",
-    "title": "AI Traineeship for Organisations | Bit Amsterdam — Bit",
-    "business_name": "",
-    "country": "NLD",
-    "seo_score": 77,
-    "tech_spend": 44591,
-    "crawled_at": "2026-11-25T00:38:42.326380734Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "Content Delivery Network",
-      "FormSubmit",
-      "GitHub Hosting",
-      "Google",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "Recruitee",
-      "Sanity",
-      "UTF-8",
-      "Vercel",
-      "Waveform Technology"
     ]
   },
   {
