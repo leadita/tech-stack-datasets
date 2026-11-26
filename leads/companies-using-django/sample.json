@@ -1,5 +1,51 @@
 [
   {
+    "domain": "devicehub.org",
+    "title": "DeviceHub - Industrial IoT Solutions",
+    "business_name": "",
+    "country": "GBR",
+    "seo_score": 82,
+    "tech_spend": 2440,
+    "crawled_at": "2026-11-26T10:43:33.498897546Z",
+    "technologies": [
+      "Django",
+      "Django CSRF",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Python",
+      "Twitter Ads",
+      "Unix"
+    ]
+  },
+  {
+    "domain": "ez-carloans.ca",
+    "title": "Car Loan Brokers Ottawa & Gatineau - Easy Car Loan",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 82,
+    "tech_spend": 17308,
+    "crawled_at": "2026-11-26T02:41:59.215117341Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "B12",
+      "DAV",
+      "Django",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google My Business",
+      "Instagram Follow Button",
+      "Perl",
+      "Twitter Ads",
+      "University or College",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "primedatahub.com",
     "title": "Prime Data Hub - Premium Data Solutions",
     "business_name": "",
@@ -2352,31 +2398,6 @@
       "Tailwind CSS",
       "Thank You",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "autocreditgatineau.com",
-    "title": "Car Loan Brokers Ottawa & Gatineau - Easy Car Loan",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 17308,
-    "crawled_at": "2026-09-08T07:25:54.735189389Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "B12",
-      "DAV",
-      "Django",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "Perl",
-      "Twitter Ads",
-      "University or College",
-      "reCAPTCHA"
     ]
   },
   {
@@ -8364,27 +8385,6 @@
       "Google Tag Manager",
       "Python",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "devicehub.org",
-    "title": "DeviceHub - Industrial IoT Solutions",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 72,
-    "tech_spend": 2440,
-    "crawled_at": "2026-04-08T15:35:20.005307263Z",
-    "technologies": [
-      "Django",
-      "Django CSRF",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Python",
-      "Twitter Ads",
-      "Unix"
     ]
   }
 ]
