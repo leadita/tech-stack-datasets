@@ -1,5 +1,70 @@
 [
   {
+    "domain": "anastasianoz.com",
+    "title": "Anastasia Noz : Coldwell Banker Prestige Realty : Home",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 70,
+    "tech_spend": 41636,
+    "crawled_at": "2026-11-26T22:40:34.151659044Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Express",
+      "GZIP Module",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Instagram Follow Button",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "RealPage",
+      "UTF-8",
+      "University or College",
+      "Unsplash",
+      "YouTube",
+      "myRealPage"
+    ]
+  },
+  {
+    "domain": "kingsarmseaststour.com",
+    "title": "Kings Arms Inn East Stour | Country pub with contemporary interior in rural Dorset | Pub food | Gift vouchers | Shaftesbury | Duncliffe Wood | Gillingham Town Football Club | Sponsors",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 156,
+    "crawled_at": "2026-11-26T19:58:08.918216254Z",
+    "technologies": [
+      "Apache",
+      "Apache Tomcat JK",
+      "Google Related Website Sites",
+      "IcoMoon",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
+    "domain": "spidasolutions.com",
+    "title": "Spida Solutions | Information technology | Service based | Component based | Architectures | Best of breed software | Turnkey solutions | Consultancy services | Project inception | Implementation",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 356,
+    "crawled_at": "2026-11-26T19:58:08.915844971Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Apache",
+      "Apache Tomcat JK",
+      "Bulma",
+      "IcoMoon",
+      "Tailwind CSS",
+      "UTF-8",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "wijaksana.com",
     "title": "Wijaksana's Home – Berbagi Untuk Membangun",
     "business_name": "",
@@ -12679,64 +12744,6 @@
       "Oracle Cloud",
       "Python",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "kingsarmseaststour.com",
-    "title": "Kings Arms Inn East Stour | Country pub with contemporary interior in rural Dorset | Pub food | Gift vouchers | Shaftesbury | Duncliffe Wood | Gillingham Town Football Club | Sponsors",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 156,
-    "crawled_at": "2026-04-08T19:26:05.215655924Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Google Related Website Sites",
-      "IcoMoon",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "spidasolutions.com",
-    "title": "Spida Solutions | Information technology | Service based | Component based | Architectures | Best of breed software | Turnkey solutions | Consultancy services | Project inception | Implementation",
-    "business_name": "",
-    "country": "",
-    "seo_score": 45,
-    "tech_spend": 356,
-    "crawled_at": "2026-04-08T19:26:05.208546647Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apache",
-      "Apache Tomcat JK",
-      "Bulma",
-      "IcoMoon",
-      "Tailwind CSS",
-      "UTF-8",
-      "jQuery"
-    ]
-  },
-  {
-    "domain": "ruwithma.me",
-    "title": "The Cyber Sec Enquirer",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": "",
-    "crawled_at": "2026-04-08T11:50:19.994682077Z",
-    "technologies": [
-      "Apache",
-      "Apache Tomcat JK",
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Next.js",
-      "Python",
-      "Tailwind CSS",
-      "UTF-8",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
