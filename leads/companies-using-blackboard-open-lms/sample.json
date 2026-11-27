@@ -1,5 +1,33 @@
 [
   {
+    "domain": "bulgarianschoolofseattle.com",
+    "title": "Bulgarian School of Seattle",
+    "business_name": "Bulgarian Cultural Club in Seattle | Bulgarian School of Seattle",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 31213,
+    "crawled_at": "2026-11-27T16:54:55.63492428Z",
+    "technologies": [
+      "501c3 Status Nonprofit",
+      "Adobe Creative Cloud WebFonts",
+      "Alternate Protocol",
+      "Aruba",
+      "Blackboard Open LMS",
+      "DC74",
+      "Express",
+      "GZIP Module",
+      "Line2",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Squarespace",
+      "Thank You",
+      "UTF-8",
+      "WordPress SEO Structured Data Schema Plugin",
+      "YouTube",
+      "eLand"
+    ]
+  },
+  {
     "domain": "ntpevents.com",
     "title": "NTP Events – We Grow Shows",
     "business_name": "",
@@ -3260,36 +3288,6 @@
       "WordPress Related Posts",
       "WordPress Stats",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "bulgarianschoolofseattle.com",
-    "title": "Bulgarian School of Seattle",
-    "business_name": "Bulgarian Cultural Club in Seattle | Bulgarian School of Seattle",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 28653,
-    "crawled_at": "2026-04-09T03:35:19.982304302Z",
-    "technologies": [
-      "501c3 Status Nonprofit",
-      "Adobe Creative Cloud WebFonts",
-      "Alternate Protocol",
-      "Aruba",
-      "Blackboard Open LMS",
-      "Express",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Line2",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Squarespace",
-      "Thank You",
-      "UTF-8",
-      "WordPress SEO Structured Data Schema Plugin",
-      "YouTube",
-      "eLand"
     ]
   }
 ]
