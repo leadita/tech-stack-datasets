@@ -1,5 +1,54 @@
 [
   {
+    "domain": "loglark.io",
+    "title": "LogLark: simple, fast and affordable log monitoring",
+    "business_name": "",
+    "country": "",
+    "seo_score": 47,
+    "tech_spend": "",
+    "crawled_at": "2026-11-27T22:02:28.621010701Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Cloudflare",
+      "Cloudflare Web Analytics",
+      "Docusaurus",
+      "Nginx",
+      "Perl",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "lucenia.io",
+    "title": "Enterprise Search & AI Retrieval | Lucenia",
+    "business_name": "Lucenia",
+    "country": "",
+    "seo_score": 82,
+    "tech_spend": 15372,
+    "crawled_at": "2026-11-27T09:41:50.864150254Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Amazon Link Enchancer",
+      "Amazon Widgets",
+      "ArvanCloud",
+      "Cisco/Arrowpoint Content Service Switch",
+      "Content Delivery Network",
+      "Docusaurus",
+      "Fastly",
+      "GZIP Module",
+      "GitHub Hosting",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Metricool",
+      "Microdata for Google Shopping",
+      "NFOrce Internet",
+      "Perl",
+      "Squarespace",
+      "UTF-8",
+      "Vector Internet Services",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "liuzaoqi.com",
     "title": "Home | Liuzaoqi",
     "business_name": "",
@@ -12860,56 +12909,6 @@
       "YouTube",
       "monday.com",
       "symfony PHP Framework"
-    ]
-  },
-  {
-    "domain": "michael-doc-testing.org",
-    "title": "Home | Omise Documentation",
-    "business_name": "",
-    "country": "",
-    "seo_score": 52,
-    "tech_spend": 7500,
-    "crawled_at": "2026-04-19T18:44:19.999418299Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Docusaurus",
-      "Fireblade",
-      "GZIP Module",
-      "GitHub Hosting",
-      "Nginx",
-      "Perl",
-      "QUIC",
-      "Tailwind CSS"
-    ]
-  },
-  {
-    "domain": "hilltop.co.nz",
-    "title": "Home | Hilltop Software",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 4950,
-    "crawled_at": "2026-04-19T18:11:29.603534944Z",
-    "technologies": [
-      "Agoda",
-      "Alternate Protocol",
-      "Amazon",
-      "Amazon CloudFront",
-      "Amazon Route 53",
-      "Apture Linking Platform",
-      "CloudFront",
-      "Content Delivery Network",
-      "DAV",
-      "Docusaurus",
-      "Express",
-      "Google Analytics",
-      "Google Tag Manager",
-      "JIRA",
-      "Nginx",
-      "PWA",
-      "Perl",
-      "QUIC",
-      "UTF-8"
     ]
   }
 ]

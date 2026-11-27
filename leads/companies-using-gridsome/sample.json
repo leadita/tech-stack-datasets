@@ -1,5 +1,37 @@
 [
   {
+    "domain": "crowdsearched.com",
+    "title": "Crowd Searched - The USA Based Mobile App for Manage Errands",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 87,
+    "tech_spend": 109129,
+    "crawled_at": "2026-11-27T01:10:07.117923838Z",
+    "technologies": [
+      "Apyl",
+      "Bulma",
+      "Content Delivery Network",
+      "DAV",
+      "Fastly",
+      "Financial Services Guide",
+      "GZIP Module",
+      "Gridsome",
+      "HHVM",
+      "Idaq",
+      "Instagram Follow Button",
+      "K2F",
+      "KVH",
+      "No-Q",
+      "Paessler",
+      "QUIC",
+      "SMC",
+      "Silicon Valley Web Hosting",
+      "Subversion",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "wendepunkt-mb.de",
     "title": "Wendepunkt MB - Uta Friege - Wendepunkt",
     "business_name": "",
@@ -11942,29 +11974,6 @@
       "University or College",
       "Vercel",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "heavy.dev",
-    "title": "Little. Mellow. Different. | Heavy.Dev",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 19776,
-    "crawled_at": "2026-04-15T05:49:23.403637043Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Apture Linking Platform",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Google",
-      "Google Cloud CDN",
-      "Gridsome",
-      "Instagram Follow Button",
-      "Sanity",
-      "Shopify",
-      "Vercel",
-      "jsDelivr"
     ]
   }
 ]
