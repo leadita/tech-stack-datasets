@@ -1,5 +1,37 @@
 [
   {
+    "domain": "cslleesburg.org",
+    "title": "Home | CSL Leesburg",
+    "business_name": "Center for Spiritual Living Leesburg",
+    "country": "",
+    "seo_score": 77,
+    "tech_spend": 21384,
+    "crawled_at": "2026-11-26T13:01:16.185245529Z",
+    "technologies": [
+      "Amazon Widgets",
+      "Dialogflow",
+      "Express",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud",
+      "Google Cloud CDN",
+      "Google Cloud DNS",
+      "Google Cloud Storage",
+      "Google My Business",
+      "Google Retail Product Discovery",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "Tailwind CSS",
+      "UTF-8",
+      "Unsplash",
+      "YouTube",
+      "Zoom Video Conferencing",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "infoglobaltech.com",
     "title": "InfoGlobalTech | AI data Preparation",
     "business_name": "",
@@ -8384,37 +8416,6 @@
       "UTF-8",
       "Vector Internet Services",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "cslleesburg.org",
-    "title": "Home | CSL Leesburg",
-    "business_name": "Center for Spiritual Living Leesburg",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 21384,
-    "crawled_at": "2026-04-08T16:32:19.980154096Z",
-    "technologies": [
-      "Content Delivery Network",
-      "Dialogflow",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google My Business",
-      "Google Retail Product Discovery",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "Tailwind CSS",
-      "UTF-8",
-      "Unsplash",
-      "YouTube",
-      "Zoom Video Conferencing",
-      "shadcn ui"
     ]
   }
 ]
