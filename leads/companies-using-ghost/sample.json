@@ -1,5 +1,30 @@
 [
   {
+    "domain": "thomaschittenden.us",
+    "title": "Thomas Chittenden | Vermont State Senate in Chittenden County",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 15000,
+    "crawled_at": "2026-11-26T22:58:39.976866527Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alternate Protocol",
+      "Express",
+      "GZIP Module",
+      "Ghost",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "Twitter Ads",
+      "UTF-8",
+      "Ubuntu",
+      "University or College",
+      "YouTube"
+    ]
+  },
+  {
     "domain": "rishigb.me",
     "title": "Rishi Gaurav Bhatnagar",
     "business_name": "",
@@ -3031,31 +3056,6 @@
       "University or College",
       "itch.io",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "thomaschittenden.com",
-    "title": "Thomas Chittenden | Vermont State Senate in Chittenden County",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 15000,
-    "crawled_at": "2026-10-19T20:39:42.337495747Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Express",
-      "GZIP Module",
-      "Ghost",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Twitter Ads",
-      "UTF-8",
-      "Ubuntu",
-      "University or College",
-      "YouTube"
     ]
   },
   {
