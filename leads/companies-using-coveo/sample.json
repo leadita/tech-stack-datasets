@@ -3781,42 +3781,5 @@
       "jsDelivr",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "saskpublicsafety.ca",
-    "title": "Home | SPSA",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 67,
-    "tech_spend": 293600,
-    "crawled_at": "2026-04-09T02:35:19.997858494Z",
-    "technologies": [
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Coveo",
-      "ETranslate",
-      "Express",
-      "Fireblade",
-      "GTranslate",
-      "GZIP Module",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Maps",
-      "Google My Business",
-      "Google Tag Manager",
-      "Microsoft Azure",
-      "RM Education",
-      "Sitecore CMS",
-      "Tableau",
-      "Tailwind CSS",
-      "Taleo",
-      "Twitter Ads",
-      "UTF-8",
-      "Visual Studio",
-      "YouTube"
-    ]
   }
 ]

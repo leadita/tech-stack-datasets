@@ -1,5 +1,28 @@
 [
   {
+    "domain": "rapid-medical-us.com",
+    "title": "Our Therapies | Rapid Medical™ | US",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 1756,
+    "crawled_at": "2026-11-27T04:53:29.182410435Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "CloudFront",
+      "Duda",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Nginx",
+      "No-Q",
+      "Site Search 360",
+      "Tailwind CSS",
+      "UTF-8",
+      "UserWay"
+    ]
+  },
+  {
     "domain": "vvchelium.com",
     "title": "VVC Resources",
     "business_name": "",
@@ -5284,32 +5307,6 @@
       "eLand",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "rapid-medical-qr.com",
-    "title": "Neurovascular Therapy Solutions | Rapid Medical™ | Worldwide",
-    "business_name": "",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 26756,
-    "crawled_at": "2026-09-13T23:30:29.682078194Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Duda",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "K2F",
-      "Nginx",
-      "No-Q",
-      "Site Search 360",
-      "Subversion",
-      "Tailwind CSS",
-      "UTF-8",
-      "UserWay"
     ]
   },
   {
