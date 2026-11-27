@@ -1,5 +1,28 @@
 [
   {
+    "domain": "cardgamesguru.com",
+    "title": "Learn Poker, Blackjack & Card Games | CardGamesGuru.com",
+    "business_name": "CardGamesGuru",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 16188,
+    "crawled_at": "2026-11-27T10:59:32.542641028Z",
+    "technologies": [
+      "AWIN",
+      "AWS WAF Challenge",
+      "Apache",
+      "Content Delivery Network",
+      "GZIP Module",
+      "Gambling Content",
+      "Google Related Website Sites",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "The Deck",
+      "Twitter Ads"
+    ]
+  },
+  {
     "domain": "officeworkerhealth.com",
     "title": "Office Worker Health",
     "business_name": "",
@@ -35640,41 +35663,6 @@
       "Zendesk Embeddables",
       "jQuery",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "iptvearly.shop",
-    "title": "HOME - IPTV EARLY",
-    "business_name": "IPTV EARLY",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2816,
-    "crawled_at": "2026-04-18T04:26:20.007631029Z",
-    "technologies": [
-      "AWIN",
-      "Adult Content",
-      "Agoda",
-      "Alternate Protocol",
-      "Content Delivery Network",
-      "CookieYes",
-      "Elementor",
-      "EmbedPress",
-      "Gambling Content",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Join.chat",
-      "Line2",
-      "LiteSpeed",
-      "Microdata for Google Shopping",
-      "NFOrce Internet",
-      "PHP",
-      "QUIC",
-      "QUIC.cloud",
-      "UTF-8",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "eLand"
     ]
   }
 ]
