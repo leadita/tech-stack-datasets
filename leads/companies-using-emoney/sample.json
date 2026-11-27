@@ -1,5 +1,40 @@
 [
   {
+    "domain": "ashta.ai",
+    "title": "Ashta.ai | Fund Operations Software for Private Equity & Private Markets",
+    "business_name": "Ashta.ai",
+    "country": "USA",
+    "seo_score": 82,
+    "tech_spend": 21312,
+    "crawled_at": "2026-11-27T13:01:53.078495631Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apture Linking Platform",
+      "Calendly",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Cloudflare Web Analytics",
+      "Content Delivery Network",
+      "DAV",
+      "Fireblade",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Investor Relations",
+      "Microdata for Google Shopping",
+      "Next.js",
+      "PWA",
+      "Perl",
+      "QUIC",
+      "RightCapital",
+      "Tailwind CSS",
+      "UTF-8",
+      "YouTube",
+      "eMoney",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "theunryvanstaden.co.za",
     "title": "Theunry van Staden | attooh! Your Wealth Solution",
     "business_name": "",
@@ -1372,38 +1407,6 @@
       "UTF-8",
       "YouTube",
       "eMoney"
-    ]
-  },
-  {
-    "domain": "ashta.ai",
-    "title": "Ashta.ai | Modern Alternative Investment Platform | Ashta.ai",
-    "business_name": "Ashta Limited Company",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 21312,
-    "crawled_at": "2026-04-09T01:59:20.021624726Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Calendly",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Fireblade",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Investor Relations",
-      "Microdata for Google Shopping",
-      "Next.js",
-      "PWA",
-      "Perl",
-      "RightCapital",
-      "Tailwind CSS",
-      "UTF-8",
-      "YouTube",
-      "eMoney",
-      "shadcn ui"
     ]
   }
 ]
