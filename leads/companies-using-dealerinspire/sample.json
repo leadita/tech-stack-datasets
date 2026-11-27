@@ -1,5 +1,35 @@
 [
   {
+    "domain": "santosautogroup.com",
+    "title": "Santos Automotive Group | Volkswagen, Dodge, Hyundai, Mercedes-Benz, Ram, Jeep, Chrysler Dealership in Port Hope",
+    "business_name": "Santos Automotive Group",
+    "country": "BRA",
+    "seo_score": 77,
+    "tech_spend": 33687,
+    "crawled_at": "2026-11-27T02:35:32.110127262Z",
+    "technologies": [
+      "Alternate Protocol",
+      "DealerInspire",
+      "DealerSites",
+      "Express",
+      "Fastly",
+      "Font Awesome",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "ISO/IEC 8859",
+      "IcoMoon",
+      "Microdata for Google Shopping",
+      "QUIC",
+      "Sitelinks Search Box",
+      "Tailwind CSS",
+      "Thank You",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "vwrichmondhill.com",
     "title": "Volkswagen Richmond Hill | Volkswagen Dealership in Richmond Hill",
     "business_name": "Volkswagen Richmond Hill",
@@ -9874,37 +9904,6 @@
       "Twitter Ads",
       "UTF-8",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "santosautogroup.com",
-    "title": "Santos Automotive Group | Volkswagen, Dodge, Hyundai, Ram, Jeep, Chrysler Dealership in Port Hope",
-    "business_name": "",
-    "country": "BRA",
-    "seo_score": 82,
-    "tech_spend": 33786,
-    "crawled_at": "2026-04-08T21:48:59.184104854Z",
-    "technologies": [
-      "Alternate Protocol",
-      "DealerInspire",
-      "DealerSites",
-      "Express",
-      "Fastly",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Related Website Sites",
-      "Google Tag Manager",
-      "ISO/IEC 8859",
-      "IcoMoon",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Sitelinks Search Box",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "W3 Total Cache"
     ]
   }
 ]
