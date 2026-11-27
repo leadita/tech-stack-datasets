@@ -1,5 +1,30 @@
 [
   {
+    "domain": "webamerica.com",
+    "title": "This website or DOMAIN NAME may be for sale.",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 72,
+    "tech_spend": 77160,
+    "crawled_at": "2026-11-27T09:15:18.031116109Z",
+    "technologies": [
+      "ArvanCloud",
+      "Camp",
+      "Cart.com",
+      "Content Delivery Network",
+      "Dynadot",
+      "ElementUI",
+      "Fast",
+      "GZIP Module",
+      "Google My Business",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "PointDNS",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "rebel.ca",
     "title": "Rebel.com | Domains, Hosting & Email for Small Business",
     "business_name": "",
@@ -43,27 +68,6 @@
       "Underscores",
       "eLand",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "michaelmaui.com",
-    "title": "This website or DOMAIN NAME may be for sale.",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 72,
-    "tech_spend": 76500,
-    "crawled_at": "2026-11-12T11:32:49.335800337Z",
-    "technologies": [
-      "Camp",
-      "Cart.com",
-      "Dynadot",
-      "ElementUI",
-      "Fast",
-      "GZIP Module",
-      "Google My Business",
-      "Microdata for Google Shopping",
-      "PointDNS",
-      "UTF-8"
     ]
   }
 ]
