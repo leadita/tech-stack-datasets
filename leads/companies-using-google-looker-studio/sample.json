@@ -1,5 +1,24 @@
 [
   {
+    "domain": "brixwelllimited.com",
+    "title": "Brixwell Limited – Welcome to Brixwell Limited a place for Research, Technology and Innovation Experts",
+    "business_name": "",
+    "country": "",
+    "seo_score": 45,
+    "tech_spend": 3,
+    "crawled_at": "2026-11-27T01:29:26.080675987Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Looker Studio",
+      "Google My Business",
+      "Twitter Ads",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "worldindiemusiccharts.com",
     "title": "World Indie Music Charts",
     "business_name": "",
@@ -6407,25 +6426,6 @@
       "WordPress",
       "WordPress Multisite",
       "YouTube"
-    ]
-  },
-  {
-    "domain": "brixwelllimited.com",
-    "title": "Brixwell Limited – Welcome to Brixwell Limited a place for Research, Technology and Innovation Experts",
-    "business_name": "",
-    "country": "",
-    "seo_score": 50,
-    "tech_spend": 3,
-    "crawled_at": "2026-04-08T21:26:20.004608129Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Looker Studio",
-      "Google My Business",
-      "Twitter Ads",
-      "jQuery"
     ]
   }
 ]
