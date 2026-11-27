@@ -1794,42 +1794,5 @@
       "hCaptcha",
       "reCAPTCHA"
     ]
-  },
-  {
-    "domain": "yourswiftbizfunds.com",
-    "title": "Swift Business Funding",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 40240,
-    "crawled_at": "2026-04-09T01:44:20.005054682Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alternate Protocol",
-      "Authorize.net",
-      "Cloudflare",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Facebook Conversion Tracking",
-      "Facebook Login",
-      "Facebook Messenger Platform",
-      "Facebook Pixel",
-      "Facebook Reseller",
-      "Facebook Tag API",
-      "Fireblade",
-      "Google",
-      "Google Cloud CDN",
-      "Google Cloud DNS",
-      "Google Cloud Storage",
-      "Google Font API",
-      "Nuxt.js",
-      "QUIC",
-      "RightSignature",
-      "Tailwind CSS",
-      "Thank You",
-      "UTF-8",
-      "Vector Internet Services",
-      "reCAPTCHA"
-    ]
   }
 ]
