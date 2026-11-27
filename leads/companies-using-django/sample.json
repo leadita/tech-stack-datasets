@@ -1,5 +1,32 @@
 [
   {
+    "domain": "cascadia-solutions.ca",
+    "title": "Cascadia Solutions | Expert Django & Python Web Development",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 87,
+    "tech_spend": 32539,
+    "crawled_at": "2026-11-27T05:11:13.933811387Z",
+    "technologies": [
+      "AWS WAF Challenge",
+      "Alpine.js",
+      "CDN JS",
+      "Cloudflare",
+      "Cloudflare CDN",
+      "Content Delivery Network",
+      "Django",
+      "Fireblade",
+      "Font Awesome",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Python",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "devicehub.org",
     "title": "DeviceHub - Industrial IoT Solutions",
     "business_name": "",
@@ -8357,34 +8384,6 @@
       "Tailwind CSS",
       "Twitter Ads",
       "UTF-8"
-    ]
-  },
-  {
-    "domain": "cascadia-solutions.ca",
-    "title": "Cascadia Solutions | Expert Django & Python Web Development",
-    "business_name": "",
-    "country": "CAN",
-    "seo_score": 77,
-    "tech_spend": 32539,
-    "crawled_at": "2026-04-08T22:47:19.993270514Z",
-    "technologies": [
-      "AWS WAF Challenge",
-      "Alpine.js",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Cloudflare Web Analytics",
-      "Content Delivery Network",
-      "Django",
-      "Fireblade",
-      "Font Awesome",
-      "Google",
-      "Google Analytics",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google Tag Manager",
-      "Python",
-      "jsDelivr"
     ]
   }
 ]
