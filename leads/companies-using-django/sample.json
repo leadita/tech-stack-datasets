@@ -1,5 +1,26 @@
 [
   {
+    "domain": "iongenny.com",
+    "title": "IonGenny - Continuous power during outages",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 2760,
+    "crawled_at": "2026-11-28T02:10:20.184740971Z",
+    "technologies": [
+      "Amazon",
+      "Amazon S3 CDN",
+      "Django",
+      "ElementUI",
+      "Nginx",
+      "PWA",
+      "Storyblocks",
+      "Tailwind CSS",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
     "domain": "cascadia-solutions.ca",
     "title": "Cascadia Solutions | Expert Django & Python Web Development",
     "business_name": "",
@@ -8363,27 +8384,6 @@
       "UTF-8",
       "Ubuntu",
       "shadcn ui"
-    ]
-  },
-  {
-    "domain": "iongenny.com",
-    "title": "IonGenny - Continuous power during outages",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 2760,
-    "crawled_at": "2026-04-09T07:05:35.794177205Z",
-    "technologies": [
-      "Amazon",
-      "Amazon S3 CDN",
-      "Django",
-      "ElementUI",
-      "Nginx",
-      "PWA",
-      "Storyblocks",
-      "Tailwind CSS",
-      "Twitter Ads",
-      "UTF-8"
     ]
   }
 ]
