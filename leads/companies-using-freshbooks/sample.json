@@ -1,12 +1,12 @@
 [
   {
-    "domain": "proposalplannertexas.com",
+    "domain": "proposalplannerniagarafalls.com",
     "title": "Luxury Event Planning Across North America | Amber Walker Events",
     "business_name": "Amber Walker Events",
     "country": "USA",
-    "seo_score": 77,
+    "seo_score": 87,
     "tech_spend": 135703,
-    "crawled_at": "2026-11-26T23:55:50.701583622Z",
+    "crawled_at": "2026-11-28T02:16:44.328329222Z",
     "technologies": [
       "123FormBuilder",
       "AWS WAF Challenge",
@@ -44,6 +44,7 @@
       "Wix",
       "Wix Media",
       "YouTube",
+      "eLand",
       "mlcom"
     ]
   },

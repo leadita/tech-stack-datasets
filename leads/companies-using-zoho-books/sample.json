@@ -1,15 +1,16 @@
 [
   {
-    "domain": "lexbe.solutions",
+    "domain": "lexbe.com",
     "title": "GenAI-Powered eDiscovery Platform | Lexbe",
     "business_name": "Lexbe, Inc.",
     "country": "USA",
-    "seo_score": 87,
-    "tech_spend": 49582,
-    "crawled_at": "2026-11-17T22:07:07.258899933Z",
+    "seo_score": 82,
+    "tech_spend": 69582,
+    "crawled_at": "2026-11-27T16:59:50.825575446Z",
     "technologies": [
       "Alternate Protocol",
       "Autoptimize",
+      "CCSI",
       "Cloudflare",
       "Content Delivery Network",
       "DAV",

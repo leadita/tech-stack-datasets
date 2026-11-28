@@ -1,5 +1,33 @@
 [
   {
+    "domain": "greenefinneycauley.cpa",
+    "title": "Home | Greene Finney Cauley, LLP",
+    "business_name": "",
+    "country": "USA",
+    "seo_score": 77,
+    "tech_spend": 13340,
+    "crawled_at": "2026-11-28T02:23:43.544996315Z",
+    "technologies": [
+      "Adobe Creative Cloud WebFonts",
+      "Amazon WAF Blocked",
+      "Cloudinary",
+      "Fastly CDN",
+      "GZIP Module",
+      "Google Analytics",
+      "Google My Business",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "QUIC",
+      "QuickBooks Online",
+      "Tailwind CSS",
+      "UTF-8",
+      "Zoom Video Conferencing",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "barbeetax.com",
     "title": "Certified Public Accountant Orland Park, IL | CPA Firm Orland Park | Barbee Tax Consulting, LLC",
     "business_name": "Barbee Tax Consulting, LLC",
@@ -4691,33 +4719,6 @@
       "UTF-8",
       "Zoom Video Conferencing",
       "jsDelivr"
-    ]
-  },
-  {
-    "domain": "gfc.cpa",
-    "title": "Home | Greene Finney Cauley, LLP",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 13340,
-    "crawled_at": "2026-05-23T05:47:19.970537973Z",
-    "technologies": [
-      "Adobe Creative Cloud WebFonts",
-      "Cloudinary",
-      "Fastly CDN",
-      "GZIP Module",
-      "Google Analytics",
-      "Google My Business",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "QUIC",
-      "QuickBooks Online",
-      "Tailwind CSS",
-      "UTF-8",
-      "Zoom Video Conferencing",
-      "reCAPTCHA"
     ]
   },
   {
