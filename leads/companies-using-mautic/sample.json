@@ -1,5 +1,42 @@
 [
   {
+    "domain": "naturalfarmerskerala.com",
+    "title": "Natural Farmers Kerala – Attempt to revive Traditional sustainable agricultural practices of Kerala",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 816,
+    "crawled_at": "2026-11-28T10:41:27.884355602Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Apache",
+      "Automattic",
+      "Customer Reviews for WooCommerce",
+      "EmbedPress",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Tag Manager",
+      "Instagram Follow Button",
+      "Jetpack",
+      "Jetpack Site Accelerator",
+      "Mautic",
+      "PHP",
+      "Parcel",
+      "Perl",
+      "Theme In WP",
+      "UTF-8",
+      "Ubuntu",
+      "Woo Themes",
+      "WordPress",
+      "WordPress Multisite",
+      "WordPress Stats",
+      "YouTube",
+      "jQuery"
+    ]
+  },
+  {
     "domain": "tucsenapp.com",
     "title": "Scientific Cameras for Research and Challenging Inspection - Tucsen",
     "business_name": "",
@@ -21818,34 +21855,6 @@
       "Tailwind CSS",
       "UTF-8",
       "WordPress"
-    ]
-  },
-  {
-    "domain": "keystonemartech.com",
-    "title": "Keystone Marketing Technology",
-    "business_name": "Keystone Marketing Technology",
-    "country": "GBR",
-    "seo_score": 82,
-    "tech_spend": 157716,
-    "crawled_at": "2026-04-25T12:32:19.981310563Z",
-    "technologies": [
-      "Apture Linking Platform",
-      "Astro",
-      "GZIP Module",
-      "Google",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Hootsuite Badge",
-      "Matomo",
-      "Matomo Tag Manager",
-      "Mautic",
-      "Microdata for Google Shopping",
-      "QUIC",
-      "Salesforce Hosted",
-      "Tailwind CSS",
-      "UTF-8",
-      "WordPress",
-      "shadcn ui"
     ]
   }
 ]
