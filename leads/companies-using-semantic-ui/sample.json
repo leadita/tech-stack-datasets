@@ -1,5 +1,56 @@
 [
   {
+    "domain": "skillstrainingcentre.co.uk",
+    "title": "Skills and Safety training specialists | Skills Training Centre",
+    "business_name": "",
+    "country": "",
+    "seo_score": 72,
+    "tech_spend": 4200,
+    "crawled_at": "2026-11-28T14:47:09.561574909Z",
+    "technologies": [
+      "Amazon WAF Blocked",
+      "Cookies and You",
+      "GZIP Module",
+      "Google",
+      "Google Analytics",
+      "Google Cloud DNS",
+      "Google Font API",
+      "Google Related Website Sites",
+      "Google Tag Manager",
+      "Hotjar",
+      "Instagram Follow Button",
+      "Microdata for Google Shopping",
+      "Nginx",
+      "PWA",
+      "Perl",
+      "QUIC",
+      "Schema Plugin",
+      "Semantic UI",
+      "Share Link",
+      "Stripe",
+      "Twitter Ads",
+      "UTF-8"
+    ]
+  },
+  {
+    "domain": "mailbox.my",
+    "title": "mailbox.my - Your personalized free email address",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": "",
+    "crawled_at": "2026-11-28T05:36:47.184281342Z",
+    "technologies": [
+      "Apache",
+      "GZIP Module",
+      "Perl",
+      "Semantic UI",
+      "Twitter Ads",
+      "jQuery",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "luckythai.ca",
     "title": "Lucky Thai Restaurant - Port Colborne",
     "business_name": "",
@@ -287,24 +338,6 @@
       "eLand",
       "jQuery",
       "reCAPTCHA"
-    ]
-  },
-  {
-    "domain": "funkymail.ch",
-    "title": "mailbox.my - Your personalized free email address",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": "",
-    "crawled_at": "2026-11-23T10:58:25.531730358Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Perl",
-      "Semantic UI",
-      "Twitter Ads",
-      "jQuery",
-      "jsDelivr"
     ]
   },
   {
@@ -14975,31 +15008,6 @@
       "WordPress",
       "WordPress Multisite",
       "jQuery"
-    ]
-  },
-  {
-    "domain": "eskayengineering.com",
-    "title": "Home - Eskay Engineering",
-    "business_name": "",
-    "country": "IND",
-    "seo_score": 65,
-    "tech_spend": 139,
-    "crawled_at": "2026-05-12T12:14:19.987726967Z",
-    "technologies": [
-      "Apache",
-      "GZIP Module",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Google My Business",
-      "Instagram Follow Button",
-      "QUIC",
-      "Semantic UI",
-      "Subversion",
-      "UTF-8",
-      "WhatsApp Sharing",
-      "WoWonder",
-      "YouTube",
-      "jsDelivr"
     ]
   }
 ]
