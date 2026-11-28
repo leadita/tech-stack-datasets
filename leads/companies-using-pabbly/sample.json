@@ -5712,36 +5712,5 @@
       "Tailwind CSS",
       "UTF-8"
     ]
-  },
-  {
-    "domain": "truetowerdetailing.com",
-    "title": "Home - Vortex Local",
-    "business_name": "Vortex Local",
-    "country": "USA",
-    "seo_score": 60,
-    "tech_spend": 3414,
-    "crawled_at": "2026-04-09T08:36:55.826716078Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Apache",
-      "Divi",
-      "Elegant Themes",
-      "EmbedPress",
-      "Google Cloud DNS",
-      "Google Font API",
-      "Max Mega Menu",
-      "Max Mega Menu Pro",
-      "Microdata for Google Shopping",
-      "PHP",
-      "Pabbly",
-      "Theme In WP",
-      "UTF-8",
-      "Wangsu",
-      "Woo Themes",
-      "WordPress",
-      "WordPress Multisite",
-      "eLand",
-      "jQuery"
-    ]
   }
 ]
