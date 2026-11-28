@@ -1,5 +1,29 @@
 [
   {
+    "domain": "localfirstnews.com",
+    "title": "Local-First News",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 5460,
+    "crawled_at": "2026-11-28T11:09:27.327324892Z",
+    "technologies": [
+      "Alternate Protocol",
+      "ArvanCloud",
+      "Content Delivery Network",
+      "Fastly",
+      "GZIP Module",
+      "Ghost",
+      "GitHub Hosting",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "Oracle Cloud",
+      "Python",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "thomaschittenden.us",
     "title": "Thomas Chittenden | Vermont State Senate in Chittenden County",
     "business_name": "",
@@ -13214,37 +13238,6 @@
       "Microdata for Google Shopping",
       "OpenResty",
       "Tailwind CSS",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "daviswhitehead.com",
-    "title": "Davis Whitehead",
-    "business_name": "",
-    "country": "",
-    "seo_score": 62,
-    "tech_spend": 3360,
-    "crawled_at": "2026-04-18T15:47:19.981082062Z",
-    "technologies": [
-      "Alternate Protocol",
-      "ArvanCloud",
-      "CDN JS",
-      "Cloudflare",
-      "Cloudflare CDN",
-      "Content Delivery Network",
-      "DAV",
-      "Fastly",
-      "GZIP Module",
-      "Ghost",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Iubenda",
-      "Microdata for Google Shopping",
-      "OpenResty",
-      "Stripe",
-      "Twitter Ads",
       "UTF-8",
       "jsDelivr"
     ]

@@ -1,5 +1,34 @@
 [
   {
+    "domain": "vishwajeet.co",
+    "title": "Vishwajeet Raj - Frontend Engineer | React & Next.js",
+    "business_name": "",
+    "country": "IND",
+    "seo_score": 82,
+    "tech_spend": 10404,
+    "crawled_at": "2026-11-28T07:27:31.142799978Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Astro",
+      "Content Delivery Network",
+      "DatoCMS",
+      "Express",
+      "Fastly CDN",
+      "GitHub Hosting",
+      "Hasnode",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "Netlify",
+      "QUIC",
+      "Svelte",
+      "Tailwind CSS",
+      "UTF-8",
+      "University or College",
+      "Vercel",
+      "shadcn ui"
+    ]
+  },
+  {
     "domain": "victorlaybats.com",
     "title": "AI Agent Sprint in 72 Hours | Victor Laybats",
     "business_name": "",
@@ -11238,30 +11267,6 @@
       "Vine Embed",
       "YouTube",
       "about.me"
-    ]
-  },
-  {
-    "domain": "vishwajeet.co",
-    "title": "Vishwajeet Raj - Frontend Engineer | React & Next.js",
-    "business_name": "",
-    "country": "",
-    "seo_score": 67,
-    "tech_spend": 816,
-    "crawled_at": "2026-04-09T09:14:19.992344118Z",
-    "technologies": [
-      "Content Delivery Network",
-      "GitHub Hosting",
-      "Hasnode",
-      "Microsoft Clarity",
-      "Netlify",
-      "Next.js",
-      "Radix UI",
-      "Svelte",
-      "Tailwind CSS",
-      "UTF-8",
-      "University or College",
-      "Vercel",
-      "shadcn ui"
     ]
   }
 ]
