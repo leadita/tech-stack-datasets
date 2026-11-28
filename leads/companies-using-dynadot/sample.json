@@ -1,5 +1,53 @@
 [
   {
+    "domain": "blockchain.bot",
+    "title": "Blockchain.Bot",
+    "business_name": "",
+    "country": "",
+    "seo_score": 62,
+    "tech_spend": 780,
+    "crawled_at": "2026-11-28T05:36:47.182066444Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "ArvanCloud",
+      "CloudFront",
+      "Content Delivery Network",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Microdata for Google Shopping",
+      "OpenResty",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
+    "domain": "phisf.com",
+    "title": "An EMDN - Ph is f",
+    "business_name": "",
+    "country": "",
+    "seo_score": 52,
+    "tech_spend": 168,
+    "crawled_at": "2026-11-28T00:38:39.776793656Z",
+    "technologies": [
+      "Amazon CloudFront",
+      "Apture Linking Platform",
+      "ArvanCloud",
+      "CloudFront",
+      "Content Delivery Network",
+      "Dynadot",
+      "ElementUI",
+      "GZIP Module",
+      "Google Analytics",
+      "Google Tag Manager",
+      "Microdata for Google Shopping",
+      "Microsoft Clarity",
+      "OpenResty",
+      "UTF-8",
+      "jsDelivr"
+    ]
+  },
+  {
     "domain": "webamerica.com",
     "title": "This website or DOMAIN NAME may be for sale.",
     "business_name": "",
@@ -74,32 +122,6 @@
       "OpenResty",
       "Prospective",
       "QUIC",
-      "UTF-8",
-      "jsDelivr"
-    ]
-  },
-  {
-    "domain": "3dsymbol.com",
-    "title": "An EMDN - 3D symbol, Numbers Digits Graphic Design Visual Identity Digital Art 3D Modeling Branding Animation Creative Logo Rendering",
-    "business_name": "",
-    "country": "",
-    "seo_score": 57,
-    "tech_spend": 168,
-    "crawled_at": "2026-11-26T14:13:01.058212508Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "Apture Linking Platform",
-      "ArvanCloud",
-      "CloudFront",
-      "Content Delivery Network",
-      "Dynadot",
-      "ElementUI",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Tag Manager",
-      "Microdata for Google Shopping",
-      "Microsoft Clarity",
-      "OpenResty",
       "UTF-8",
       "jsDelivr"
     ]
@@ -4426,24 +4448,6 @@
       "UTF-8",
       "University or College",
       "Vercel"
-    ]
-  },
-  {
-    "domain": "blockchain.bot",
-    "title": "Blockchain.Bot",
-    "business_name": "",
-    "country": "",
-    "seo_score": 47,
-    "tech_spend": 135,
-    "crawled_at": "2026-04-09T08:32:19.995214755Z",
-    "technologies": [
-      "Amazon CloudFront",
-      "CloudFront",
-      "Dynadot",
-      "ElementUI",
-      "Font Awesome",
-      "GZIP Module",
-      "UTF-8"
     ]
   }
 ]
