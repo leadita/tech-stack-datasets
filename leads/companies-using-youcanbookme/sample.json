@@ -1,5 +1,28 @@
 [
   {
+    "domain": "shinecraft.net",
+    "title": "Mobile Auto Detailing Edmonton | Interior & Exterior Car Detailing | Shinecraft Auto Detailing",
+    "business_name": "",
+    "country": "CAN",
+    "seo_score": 77,
+    "tech_spend": 42196,
+    "crawled_at": "2026-11-28T11:30:50.111784674Z",
+    "technologies": [
+      "Alternate Protocol",
+      "Contento",
+      "Fireblade",
+      "GZIP Module",
+      "Google My Business",
+      "Nginx",
+      "Pico CSS",
+      "Plausible Analytics",
+      "UTF-8",
+      "Webador",
+      "YouCanBookMe",
+      "reCAPTCHA"
+    ]
+  },
+  {
     "domain": "chucktownstartups.com",
     "title": "Chucktown Startups | A complete directory of startup companies based in the Charleston, SC Metro Region",
     "business_name": "",
@@ -18229,43 +18252,6 @@
       "WordPress SEO Structured Data Schema Plugin",
       "YouCanBookMe",
       "eLand"
-    ]
-  },
-  {
-    "domain": "simplymeet.me",
-    "title": "Meeting Scheduler Software | Free for Individuals | SimplyMeet.me",
-    "business_name": "",
-    "country": "USA",
-    "seo_score": 77,
-    "tech_spend": 6635,
-    "crawled_at": "2026-05-24T12:41:11.949785182Z",
-    "technologies": [
-      "Alternate Protocol",
-      "Amazon WAF Blocked",
-      "Angular",
-      "App Store",
-      "DAV",
-      "Font Awesome",
-      "GZIP Module",
-      "Google Analytics",
-      "Google Conversion Tracking",
-      "Google My Business",
-      "Google Play",
-      "Google Tag Manager",
-      "Instagram Follow Button",
-      "Lazy Load for WordPress",
-      "Matomo",
-      "Matomo Tag Manager",
-      "Microdata for Google Shopping",
-      "Nginx",
-      "Oracle Cloud",
-      "PHP",
-      "QUIC",
-      "Telegram",
-      "UTF-8",
-      "YouCanBookMe",
-      "YouTube",
-      "reCAPTCHA"
     ]
   }
 ]
